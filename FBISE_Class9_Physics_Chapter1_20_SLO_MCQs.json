@@ -1,0 +1,366 @@
+{
+  "source": "Uploaded NBF Physics Grade 9 model textbook (2024), Chapter 1",
+  "note": "Original draft questions aligned to chapter SLOs; teacher review recommended before publication. SLO codes reproduced as printed/extracted, including P-11 labels.",
+  "questions": [
+    {
+      "id": "PHY9-CH1-01",
+      "class": 9,
+      "subject": "Physics",
+      "chapter": "Chapter 1 - Physical Quantities and Measurement",
+      "q": "Which of the following is a physical quantity?",
+      "o": [
+        "Happiness",
+        "Length",
+        "Beauty",
+        "Taste"
+      ],
+      "a": 1,
+      "e": "Length can be measured and expressed with a unit.",
+      "d": "Easy",
+      "slo": "P-09-A-01",
+      "status": "draft_for_teacher_review"
+    },
+    {
+      "id": "PHY9-CH1-02",
+      "class": 9,
+      "subject": "Physics",
+      "chapter": "Chapter 1 - Physical Quantities and Measurement",
+      "q": "Which statement best describes a physical quantity?",
+      "o": [
+        "It is always a vector",
+        "It can be measured",
+        "It has no unit",
+        "It is only a feeling"
+      ],
+      "a": 1,
+      "e": "A physical quantity is measurable.",
+      "d": "Easy",
+      "slo": "P-09-A-02",
+      "status": "draft_for_teacher_review"
+    },
+    {
+      "id": "PHY9-CH1-03",
+      "class": 9,
+      "subject": "Physics",
+      "chapter": "Chapter 1 - Physical Quantities and Measurement",
+      "q": "Which of the following is a base physical quantity?",
+      "o": [
+        "Speed",
+        "Force",
+        "Mass",
+        "Area"
+      ],
+      "a": 2,
+      "e": "Mass is one of the seven SI base quantities.",
+      "d": "Easy",
+      "slo": "P-09-A-03",
+      "status": "draft_for_teacher_review"
+    },
+    {
+      "id": "PHY9-CH1-04",
+      "class": 9,
+      "subject": "Physics",
+      "chapter": "Chapter 1 - Physical Quantities and Measurement",
+      "q": "Which is a derived physical quantity?",
+      "o": [
+        "Time",
+        "Length",
+        "Temperature",
+        "Velocity"
+      ],
+      "a": 3,
+      "e": "Velocity is derived from length divided by time.",
+      "d": "Easy",
+      "slo": "P-09-A-03",
+      "status": "draft_for_teacher_review"
+    },
+    {
+      "id": "PHY9-CH1-05",
+      "class": 9,
+      "subject": "Physics",
+      "chapter": "Chapter 1 - Physical Quantities and Measurement",
+      "q": "What is the SI base unit of electric current?",
+      "o": [
+        "Volt",
+        "Ampere",
+        "Ohm",
+        "Coulomb"
+      ],
+      "a": 1,
+      "e": "The ampere (A) is the SI base unit of electric current.",
+      "d": "Easy",
+      "slo": "P-09-A-04",
+      "status": "draft_for_teacher_review"
+    },
+    {
+      "id": "PHY9-CH1-06",
+      "class": 9,
+      "subject": "Physics",
+      "chapter": "Chapter 1 - Physical Quantities and Measurement",
+      "q": "Which pair correctly matches a base quantity and its SI unit?",
+      "o": [
+        "Mass — gram",
+        "Temperature — kelvin",
+        "Time — minute",
+        "Length — centimetre"
+      ],
+      "a": 1,
+      "e": "The kelvin (K) is the SI base unit of thermodynamic temperature.",
+      "d": "Easy",
+      "slo": "P-09-A-04",
+      "status": "draft_for_teacher_review"
+    },
+    {
+      "id": "PHY9-CH1-07",
+      "class": 9,
+      "subject": "Physics",
+      "chapter": "Chapter 1 - Physical Quantities and Measurement",
+      "q": "The SI unit of area is:",
+      "o": [
+        "m",
+        "m²",
+        "m³",
+        "m/s"
+      ],
+      "a": 1,
+      "e": "Area is length multiplied by length, so its unit is m².",
+      "d": "Easy",
+      "slo": "P-09-A-03",
+      "status": "draft_for_teacher_review"
+    },
+    {
+      "id": "PHY9-CH1-08",
+      "class": 9,
+      "subject": "Physics",
+      "chapter": "Chapter 1 - Physical Quantities and Measurement",
+      "q": "Write 0.00045 m in scientific notation.",
+      "o": [
+        "4.5 × 10⁻⁴ m",
+        "4.5 × 10⁴ m",
+        "45 × 10⁻⁴ m",
+        "0.45 × 10⁻⁴ m"
+      ],
+      "a": 0,
+      "e": "Move the decimal four places to the right to obtain 4.5, giving an exponent of −4.",
+      "d": "Medium",
+      "slo": "P-09-A-05",
+      "status": "draft_for_teacher_review"
+    },
+    {
+      "id": "PHY9-CH1-09",
+      "class": 9,
+      "subject": "Physics",
+      "chapter": "Chapter 1 - Physical Quantities and Measurement",
+      "q": "What is 3.2 × 10³ in ordinary decimal form?",
+      "o": [
+        "32",
+        "320",
+        "3200",
+        "32000"
+      ],
+      "a": 2,
+      "e": "10³ = 1000, so 3.2 × 1000 = 3200.",
+      "d": "Easy",
+      "slo": "P-09-A-05",
+      "status": "draft_for_teacher_review"
+    },
+    {
+      "id": "PHY9-CH1-10",
+      "class": 9,
+      "subject": "Physics",
+      "chapter": "Chapter 1 - Physical Quantities and Measurement",
+      "q": "How many metres are there in 5 kilometres?",
+      "o": [
+        "0.005 m",
+        "50 m",
+        "500 m",
+        "5000 m"
+      ],
+      "a": 3,
+      "e": "The prefix kilo means 1000; 5 km = 5000 m.",
+      "d": "Easy",
+      "slo": "P-11-A-06",
+      "status": "draft_for_teacher_review"
+    },
+    {
+      "id": "PHY9-CH1-11",
+      "class": 9,
+      "subject": "Physics",
+      "chapter": "Chapter 1 - Physical Quantities and Measurement",
+      "q": "Which of the following is a scalar quantity?",
+      "o": [
+        "Displacement",
+        "Force",
+        "Speed",
+        "Acceleration"
+      ],
+      "a": 2,
+      "e": "Speed has magnitude only, without direction.",
+      "d": "Easy",
+      "slo": "P-09-A-08",
+      "status": "draft_for_teacher_review"
+    },
+    {
+      "id": "PHY9-CH1-12",
+      "class": 9,
+      "subject": "Physics",
+      "chapter": "Chapter 1 - Physical Quantities and Measurement",
+      "q": "Which quantity requires both magnitude and direction?",
+      "o": [
+        "Mass",
+        "Distance",
+        "Time",
+        "Velocity"
+      ],
+      "a": 3,
+      "e": "Velocity is a vector because direction is part of its description.",
+      "d": "Easy",
+      "slo": "P-09-A-09",
+      "status": "draft_for_teacher_review"
+    },
+    {
+      "id": "PHY9-CH1-13",
+      "class": 9,
+      "subject": "Physics",
+      "chapter": "Chapter 1 - Physical Quantities and Measurement",
+      "q": "A student walks 3 m east and then 4 m north. What is the magnitude of the displacement?",
+      "o": [
+        "1 m",
+        "5 m",
+        "7 m",
+        "12 m"
+      ],
+      "a": 1,
+      "e": "The paths are at right angles, so the displacement is √(3² + 4²) = 5 m.",
+      "d": "Medium",
+      "slo": "P-09-A-10",
+      "status": "draft_for_teacher_review"
+    },
+    {
+      "id": "PHY9-CH1-14",
+      "class": 9,
+      "subject": "Physics",
+      "chapter": "Chapter 1 - Physical Quantities and Measurement",
+      "q": "Which is a reasonable estimate for the length of an ordinary classroom?",
+      "o": [
+        "8 mm",
+        "8 cm",
+        "8 m",
+        "8 km"
+      ],
+      "a": 2,
+      "e": "A classroom is typically several metres long; 8 m is a reasonable estimate.",
+      "d": "Easy",
+      "slo": "P-09-A-11",
+      "status": "draft_for_teacher_review"
+    },
+    {
+      "id": "PHY9-CH1-15",
+      "class": 9,
+      "subject": "Physics",
+      "chapter": "Chapter 1 - Physical Quantities and Measurement",
+      "q": "Which instrument is most suitable for measuring the diameter of a thin wire?",
+      "o": [
+        "Measuring cylinder",
+        "Micrometer screw gauge",
+        "Stopwatch",
+        "Spring balance"
+      ],
+      "a": 1,
+      "e": "A micrometer screw gauge measures very small diameters precisely.",
+      "d": "Medium",
+      "slo": "P-09-A-12",
+      "status": "draft_for_teacher_review"
+    },
+    {
+      "id": "PHY9-CH1-16",
+      "class": 9,
+      "subject": "Physics",
+      "chapter": "Chapter 1 - Physical Quantities and Measurement",
+      "q": "A measuring cylinder initially contains 30 mL of water. After a stone is immersed, it reads 42 mL. What is the stone’s volume?",
+      "o": [
+        "12 mL",
+        "30 mL",
+        "42 mL",
+        "72 mL"
+      ],
+      "a": 0,
+      "e": "The displaced volume is 42 − 30 = 12 mL.",
+      "d": "Medium",
+      "slo": "P-09-A-13",
+      "status": "draft_for_teacher_review"
+    },
+    {
+      "id": "PHY9-CH1-17",
+      "class": 9,
+      "subject": "Physics",
+      "chapter": "Chapter 1 - Physical Quantities and Measurement",
+      "q": "Which instrument is most suitable for measuring the time taken for a short race?",
+      "o": [
+        "Metre rule",
+        "Stopwatch",
+        "Vernier caliper",
+        "Measuring cylinder"
+      ],
+      "a": 1,
+      "e": "A stopwatch measures elapsed time intervals.",
+      "d": "Easy",
+      "slo": "P-09-A-14",
+      "status": "draft_for_teacher_review"
+    },
+    {
+      "id": "PHY9-CH1-18",
+      "class": 9,
+      "subject": "Physics",
+      "chapter": "Chapter 1 - Physical Quantities and Measurement",
+      "q": "Three readings of a length are 12.1 cm, 12.3 cm and 12.2 cm. What is their mean?",
+      "o": [
+        "12.0 cm",
+        "12.1 cm",
+        "12.2 cm",
+        "12.3 cm"
+      ],
+      "a": 2,
+      "e": "Mean = (12.1 + 12.3 + 12.2)/3 = 12.2 cm.",
+      "d": "Medium",
+      "slo": "P-09-A-15",
+      "status": "draft_for_teacher_review"
+    },
+    {
+      "id": "PHY9-CH1-19",
+      "class": 9,
+      "subject": "Physics",
+      "chapter": "Chapter 1 - Physical Quantities and Measurement",
+      "q": "A scale has 10 equal small divisions between 0 cm and 1 cm. What is its least count?",
+      "o": [
+        "0.01 cm",
+        "0.1 cm",
+        "1 cm",
+        "10 cm"
+      ],
+      "a": 1,
+      "e": "Least count = 1 cm ÷ 10 = 0.1 cm.",
+      "d": "Medium",
+      "slo": "P-09-A-19",
+      "status": "draft_for_teacher_review"
+    },
+    {
+      "id": "PHY9-CH1-20",
+      "class": 9,
+      "subject": "Physics",
+      "chapter": "Chapter 1 - Physical Quantities and Measurement",
+      "q": "A set of repeated readings are close to each other but far from the accepted value. The readings are:",
+      "o": [
+        "Accurate but not precise",
+        "Precise but not accurate",
+        "Both accurate and precise",
+        "Neither accurate nor precise"
+      ],
+      "a": 1,
+      "e": "Closely grouped readings indicate precision; being far from the accepted value indicates poor accuracy.",
+      "d": "Medium",
+      "slo": "P-11-A-09",
+      "status": "draft_for_teacher_review"
+    }
+  ]
+}

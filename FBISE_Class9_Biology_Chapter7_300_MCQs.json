@@ -1,0 +1,4804 @@
+{
+  "questions": [
+    {
+      "id": "BIO9CH7-001",
+      "q": "What is metabolism?",
+      "o": [
+        "Only excretion",
+        "Only digestion",
+        "Only breathing",
+        "All chemical reactions in an organism"
+      ],
+      "a": 3,
+      "e": "Metabolism includes all life-sustaining chemical reactions.",
+      "d": "Easy",
+      "topic": "Metabolism",
+      "slo": "Explain, identify or apply the concept of metabolism.",
+      "concept_id": "CH7-C001"
+    },
+    {
+      "id": "BIO9CH7-002",
+      "q": "Select the correct scientific statement: what is metabolism?",
+      "o": [
+        "Only digestion",
+        "All chemical reactions in an organism",
+        "Only breathing",
+        "Only excretion"
+      ],
+      "a": 1,
+      "e": "Metabolism includes all life-sustaining chemical reactions.",
+      "d": "Medium",
+      "topic": "Metabolism",
+      "slo": "Explain, identify or apply the concept of metabolism.",
+      "concept_id": "CH7-C001"
+    },
+    {
+      "id": "BIO9CH7-003",
+      "q": "In a Chapter 7 assessment, what is metabolism?",
+      "o": [
+        "Only excretion",
+        "Only digestion",
+        "All chemical reactions in an organism",
+        "Only breathing"
+      ],
+      "a": 2,
+      "e": "Metabolism includes all life-sustaining chemical reactions.",
+      "d": "Medium",
+      "topic": "Metabolism",
+      "slo": "Explain, identify or apply the concept of metabolism.",
+      "concept_id": "CH7-C001"
+    },
+    {
+      "id": "BIO9CH7-004",
+      "q": "Which answer best addresses this biology question: what is metabolism?",
+      "o": [
+        "Only digestion",
+        "Only breathing",
+        "All chemical reactions in an organism",
+        "Only excretion"
+      ],
+      "a": 2,
+      "e": "Metabolism includes all life-sustaining chemical reactions.",
+      "d": "Hard",
+      "topic": "Metabolism",
+      "slo": "Explain, identify or apply the concept of metabolism.",
+      "concept_id": "CH7-C001"
+    },
+    {
+      "id": "BIO9CH7-005",
+      "q": "What is anabolism?",
+      "o": [
+        "Moving water by osmosis",
+        "Building complex molecules from simpler ones",
+        "Breaking molecules only",
+        "Releasing waste only"
+      ],
+      "a": 1,
+      "e": "Anabolic reactions build complex substances and generally require energy.",
+      "d": "Easy",
+      "topic": "Metabolism",
+      "slo": "Explain, identify or apply the concept of metabolism.",
+      "concept_id": "CH7-C002"
+    },
+    {
+      "id": "BIO9CH7-006",
+      "q": "Select the correct scientific statement: what is anabolism?",
+      "o": [
+        "Building complex molecules from simpler ones",
+        "Breaking molecules only",
+        "Moving water by osmosis",
+        "Releasing waste only"
+      ],
+      "a": 0,
+      "e": "Anabolic reactions build complex substances and generally require energy.",
+      "d": "Medium",
+      "topic": "Metabolism",
+      "slo": "Explain, identify or apply the concept of metabolism.",
+      "concept_id": "CH7-C002"
+    },
+    {
+      "id": "BIO9CH7-007",
+      "q": "In a Chapter 7 assessment, what is anabolism?",
+      "o": [
+        "Building complex molecules from simpler ones",
+        "Breaking molecules only",
+        "Moving water by osmosis",
+        "Releasing waste only"
+      ],
+      "a": 0,
+      "e": "Anabolic reactions build complex substances and generally require energy.",
+      "d": "Medium",
+      "topic": "Metabolism",
+      "slo": "Explain, identify or apply the concept of metabolism.",
+      "concept_id": "CH7-C002"
+    },
+    {
+      "id": "BIO9CH7-008",
+      "q": "Which answer best addresses this biology question: what is anabolism?",
+      "o": [
+        "Releasing waste only",
+        "Breaking molecules only",
+        "Building complex molecules from simpler ones",
+        "Moving water by osmosis"
+      ],
+      "a": 2,
+      "e": "Anabolic reactions build complex substances and generally require energy.",
+      "d": "Hard",
+      "topic": "Metabolism",
+      "slo": "Explain, identify or apply the concept of metabolism.",
+      "concept_id": "CH7-C002"
+    },
+    {
+      "id": "BIO9CH7-009",
+      "q": "What is catabolism?",
+      "o": [
+        "Breaking complex molecules into simpler ones",
+        "Joining amino acids only",
+        "Making proteins only",
+        "Building starch only"
+      ],
+      "a": 0,
+      "e": "Catabolism breaks substances down and often releases energy.",
+      "d": "Easy",
+      "topic": "Metabolism",
+      "slo": "Explain, identify or apply the concept of metabolism.",
+      "concept_id": "CH7-C003"
+    },
+    {
+      "id": "BIO9CH7-010",
+      "q": "Select the correct scientific statement: what is catabolism?",
+      "o": [
+        "Building starch only",
+        "Breaking complex molecules into simpler ones",
+        "Joining amino acids only",
+        "Making proteins only"
+      ],
+      "a": 1,
+      "e": "Catabolism breaks substances down and often releases energy.",
+      "d": "Medium",
+      "topic": "Metabolism",
+      "slo": "Explain, identify or apply the concept of metabolism.",
+      "concept_id": "CH7-C003"
+    },
+    {
+      "id": "BIO9CH7-011",
+      "q": "In a Chapter 7 assessment, what is catabolism?",
+      "o": [
+        "Breaking complex molecules into simpler ones",
+        "Joining amino acids only",
+        "Building starch only",
+        "Making proteins only"
+      ],
+      "a": 0,
+      "e": "Catabolism breaks substances down and often releases energy.",
+      "d": "Medium",
+      "topic": "Metabolism",
+      "slo": "Explain, identify or apply the concept of metabolism.",
+      "concept_id": "CH7-C003"
+    },
+    {
+      "id": "BIO9CH7-012",
+      "q": "Which answer best addresses this biology question: what is catabolism?",
+      "o": [
+        "Making proteins only",
+        "Building starch only",
+        "Joining amino acids only",
+        "Breaking complex molecules into simpler ones"
+      ],
+      "a": 3,
+      "e": "Catabolism breaks substances down and often releases energy.",
+      "d": "Hard",
+      "topic": "Metabolism",
+      "slo": "Explain, identify or apply the concept of metabolism.",
+      "concept_id": "CH7-C003"
+    },
+    {
+      "id": "BIO9CH7-013",
+      "q": "Which process is anabolic?",
+      "o": [
+        "Digestion of starch",
+        "Protein synthesis",
+        "Breakdown of glucose",
+        "Hydrolysis of fats"
+      ],
+      "a": 1,
+      "e": "Protein synthesis joins amino acids into larger molecules.",
+      "d": "Easy",
+      "topic": "Metabolism",
+      "slo": "Explain, identify or apply the concept of metabolism.",
+      "concept_id": "CH7-C004"
+    },
+    {
+      "id": "BIO9CH7-014",
+      "q": "Select the correct scientific statement: which process is anabolic?",
+      "o": [
+        "Hydrolysis of fats",
+        "Breakdown of glucose",
+        "Digestion of starch",
+        "Protein synthesis"
+      ],
+      "a": 3,
+      "e": "Protein synthesis joins amino acids into larger molecules.",
+      "d": "Medium",
+      "topic": "Metabolism",
+      "slo": "Explain, identify or apply the concept of metabolism.",
+      "concept_id": "CH7-C004"
+    },
+    {
+      "id": "BIO9CH7-015",
+      "q": "In a Chapter 7 assessment, which process is anabolic?",
+      "o": [
+        "Protein synthesis",
+        "Digestion of starch",
+        "Hydrolysis of fats",
+        "Breakdown of glucose"
+      ],
+      "a": 0,
+      "e": "Protein synthesis joins amino acids into larger molecules.",
+      "d": "Medium",
+      "topic": "Metabolism",
+      "slo": "Explain, identify or apply the concept of metabolism.",
+      "concept_id": "CH7-C004"
+    },
+    {
+      "id": "BIO9CH7-016",
+      "q": "Which answer best addresses this biology question: which process is anabolic?",
+      "o": [
+        "Hydrolysis of fats",
+        "Breakdown of glucose",
+        "Digestion of starch",
+        "Protein synthesis"
+      ],
+      "a": 3,
+      "e": "Protein synthesis joins amino acids into larger molecules.",
+      "d": "Hard",
+      "topic": "Metabolism",
+      "slo": "Explain, identify or apply the concept of metabolism.",
+      "concept_id": "CH7-C004"
+    },
+    {
+      "id": "BIO9CH7-017",
+      "q": "Which process is catabolic?",
+      "o": [
+        "Protein synthesis",
+        "Cellular respiration",
+        "Making glycogen",
+        "DNA synthesis"
+      ],
+      "a": 1,
+      "e": "Respiration breaks down fuel molecules to release usable energy.",
+      "d": "Easy",
+      "topic": "Metabolism",
+      "slo": "Explain, identify or apply the concept of metabolism.",
+      "concept_id": "CH7-C005"
+    },
+    {
+      "id": "BIO9CH7-018",
+      "q": "Select the correct scientific statement: which process is catabolic?",
+      "o": [
+        "Protein synthesis",
+        "Cellular respiration",
+        "Making glycogen",
+        "DNA synthesis"
+      ],
+      "a": 1,
+      "e": "Respiration breaks down fuel molecules to release usable energy.",
+      "d": "Medium",
+      "topic": "Metabolism",
+      "slo": "Explain, identify or apply the concept of metabolism.",
+      "concept_id": "CH7-C005"
+    },
+    {
+      "id": "BIO9CH7-019",
+      "q": "In a Chapter 7 assessment, which process is catabolic?",
+      "o": [
+        "Protein synthesis",
+        "Cellular respiration",
+        "DNA synthesis",
+        "Making glycogen"
+      ],
+      "a": 1,
+      "e": "Respiration breaks down fuel molecules to release usable energy.",
+      "d": "Medium",
+      "topic": "Metabolism",
+      "slo": "Explain, identify or apply the concept of metabolism.",
+      "concept_id": "CH7-C005"
+    },
+    {
+      "id": "BIO9CH7-020",
+      "q": "Which answer best addresses this biology question: which process is catabolic?",
+      "o": [
+        "Cellular respiration",
+        "DNA synthesis",
+        "Protein synthesis",
+        "Making glycogen"
+      ],
+      "a": 0,
+      "e": "Respiration breaks down fuel molecules to release usable energy.",
+      "d": "Hard",
+      "topic": "Metabolism",
+      "slo": "Explain, identify or apply the concept of metabolism.",
+      "concept_id": "CH7-C005"
+    },
+    {
+      "id": "BIO9CH7-021",
+      "q": "How do anabolic and catabolic pathways differ in energy use?",
+      "o": [
+        "Both always consume equal energy",
+        "Anabolism generally requires energy; catabolism often releases it",
+        "Neither involves energy",
+        "Only anabolism uses enzymes"
+      ],
+      "a": 1,
+      "e": "Biosynthesis requires energy, while breakdown can release it.",
+      "d": "Easy",
+      "topic": "Metabolism",
+      "slo": "Explain, identify or apply the concept of metabolism.",
+      "concept_id": "CH7-C006"
+    },
+    {
+      "id": "BIO9CH7-022",
+      "q": "Select the correct scientific statement: how do anabolic and catabolic pathways differ in energy use?",
+      "o": [
+        "Neither involves energy",
+        "Both always consume equal energy",
+        "Only anabolism uses enzymes",
+        "Anabolism generally requires energy; catabolism often releases it"
+      ],
+      "a": 3,
+      "e": "Biosynthesis requires energy, while breakdown can release it.",
+      "d": "Medium",
+      "topic": "Metabolism",
+      "slo": "Explain, identify or apply the concept of metabolism.",
+      "concept_id": "CH7-C006"
+    },
+    {
+      "id": "BIO9CH7-023",
+      "q": "In a Chapter 7 assessment, how do anabolic and catabolic pathways differ in energy use?",
+      "o": [
+        "Both always consume equal energy",
+        "Only anabolism uses enzymes",
+        "Anabolism generally requires energy; catabolism often releases it",
+        "Neither involves energy"
+      ],
+      "a": 2,
+      "e": "Biosynthesis requires energy, while breakdown can release it.",
+      "d": "Medium",
+      "topic": "Metabolism",
+      "slo": "Explain, identify or apply the concept of metabolism.",
+      "concept_id": "CH7-C006"
+    },
+    {
+      "id": "BIO9CH7-024",
+      "q": "Which answer best addresses this biology question: how do anabolic and catabolic pathways differ in energy use?",
+      "o": [
+        "Only anabolism uses enzymes",
+        "Both always consume equal energy",
+        "Neither involves energy",
+        "Anabolism generally requires energy; catabolism often releases it"
+      ],
+      "a": 3,
+      "e": "Biosynthesis requires energy, while breakdown can release it.",
+      "d": "Hard",
+      "topic": "Metabolism",
+      "slo": "Explain, identify or apply the concept of metabolism.",
+      "concept_id": "CH7-C006"
+    },
+    {
+      "id": "BIO9CH7-025",
+      "q": "What is an enzyme?",
+      "o": [
+        "A structural lipid",
+        "A mineral salt",
+        "A stored carbohydrate",
+        "A biological catalyst"
+      ],
+      "a": 3,
+      "e": "Enzymes speed biochemical reactions without being consumed.",
+      "d": "Easy",
+      "topic": "Enzymes",
+      "slo": "Explain, identify or apply the concept of enzymes.",
+      "concept_id": "CH7-C007"
+    },
+    {
+      "id": "BIO9CH7-026",
+      "q": "Select the correct scientific statement: what is an enzyme?",
+      "o": [
+        "A mineral salt",
+        "A structural lipid",
+        "A biological catalyst",
+        "A stored carbohydrate"
+      ],
+      "a": 2,
+      "e": "Enzymes speed biochemical reactions without being consumed.",
+      "d": "Medium",
+      "topic": "Enzymes",
+      "slo": "Explain, identify or apply the concept of enzymes.",
+      "concept_id": "CH7-C007"
+    },
+    {
+      "id": "BIO9CH7-027",
+      "q": "In a Chapter 7 assessment, what is an enzyme?",
+      "o": [
+        "A biological catalyst",
+        "A structural lipid",
+        "A mineral salt",
+        "A stored carbohydrate"
+      ],
+      "a": 0,
+      "e": "Enzymes speed biochemical reactions without being consumed.",
+      "d": "Medium",
+      "topic": "Enzymes",
+      "slo": "Explain, identify or apply the concept of enzymes.",
+      "concept_id": "CH7-C007"
+    },
+    {
+      "id": "BIO9CH7-028",
+      "q": "Which answer best addresses this biology question: what is an enzyme?",
+      "o": [
+        "A biological catalyst",
+        "A structural lipid",
+        "A stored carbohydrate",
+        "A mineral salt"
+      ],
+      "a": 0,
+      "e": "Enzymes speed biochemical reactions without being consumed.",
+      "d": "Hard",
+      "topic": "Enzymes",
+      "slo": "Explain, identify or apply the concept of enzymes.",
+      "concept_id": "CH7-C007"
+    },
+    {
+      "id": "BIO9CH7-029",
+      "q": "Most enzymes are made of which biomolecule?",
+      "o": [
+        "Triglyceride",
+        "Cellulose",
+        "Protein",
+        "Starch"
+      ],
+      "a": 2,
+      "e": "Most biological enzymes are proteins.",
+      "d": "Easy",
+      "topic": "Enzymes",
+      "slo": "Explain, identify or apply the concept of enzymes.",
+      "concept_id": "CH7-C008"
+    },
+    {
+      "id": "BIO9CH7-030",
+      "q": "Select the correct scientific statement: most enzymes are made of which biomolecule?",
+      "o": [
+        "Protein",
+        "Triglyceride",
+        "Starch",
+        "Cellulose"
+      ],
+      "a": 0,
+      "e": "Most biological enzymes are proteins.",
+      "d": "Medium",
+      "topic": "Enzymes",
+      "slo": "Explain, identify or apply the concept of enzymes.",
+      "concept_id": "CH7-C008"
+    },
+    {
+      "id": "BIO9CH7-031",
+      "q": "In a Chapter 7 assessment, most enzymes are made of which biomolecule?",
+      "o": [
+        "Cellulose",
+        "Triglyceride",
+        "Starch",
+        "Protein"
+      ],
+      "a": 3,
+      "e": "Most biological enzymes are proteins.",
+      "d": "Medium",
+      "topic": "Enzymes",
+      "slo": "Explain, identify or apply the concept of enzymes.",
+      "concept_id": "CH7-C008"
+    },
+    {
+      "id": "BIO9CH7-032",
+      "q": "Which answer best addresses this biology question: most enzymes are made of which biomolecule?",
+      "o": [
+        "Starch",
+        "Cellulose",
+        "Triglyceride",
+        "Protein"
+      ],
+      "a": 3,
+      "e": "Most biological enzymes are proteins.",
+      "d": "Hard",
+      "topic": "Enzymes",
+      "slo": "Explain, identify or apply the concept of enzymes.",
+      "concept_id": "CH7-C008"
+    },
+    {
+      "id": "BIO9CH7-033",
+      "q": "What is a catalyst?",
+      "o": [
+        "A molecule that stops all reactions",
+        "A substance always converted into product",
+        "A source of light",
+        "A substance that speeds a reaction without being used up"
+      ],
+      "a": 3,
+      "e": "Catalysts increase reaction rates and can be reused.",
+      "d": "Easy",
+      "topic": "Enzymes",
+      "slo": "Explain, identify or apply the concept of enzymes.",
+      "concept_id": "CH7-C009"
+    },
+    {
+      "id": "BIO9CH7-034",
+      "q": "Select the correct scientific statement: what is a catalyst?",
+      "o": [
+        "A substance always converted into product",
+        "A molecule that stops all reactions",
+        "A source of light",
+        "A substance that speeds a reaction without being used up"
+      ],
+      "a": 3,
+      "e": "Catalysts increase reaction rates and can be reused.",
+      "d": "Medium",
+      "topic": "Enzymes",
+      "slo": "Explain, identify or apply the concept of enzymes.",
+      "concept_id": "CH7-C009"
+    },
+    {
+      "id": "BIO9CH7-035",
+      "q": "In a Chapter 7 assessment, what is a catalyst?",
+      "o": [
+        "A molecule that stops all reactions",
+        "A substance always converted into product",
+        "A substance that speeds a reaction without being used up",
+        "A source of light"
+      ],
+      "a": 2,
+      "e": "Catalysts increase reaction rates and can be reused.",
+      "d": "Medium",
+      "topic": "Enzymes",
+      "slo": "Explain, identify or apply the concept of enzymes.",
+      "concept_id": "CH7-C009"
+    },
+    {
+      "id": "BIO9CH7-036",
+      "q": "Which answer best addresses this biology question: what is a catalyst?",
+      "o": [
+        "A source of light",
+        "A substance always converted into product",
+        "A substance that speeds a reaction without being used up",
+        "A molecule that stops all reactions"
+      ],
+      "a": 2,
+      "e": "Catalysts increase reaction rates and can be reused.",
+      "d": "Hard",
+      "topic": "Enzymes",
+      "slo": "Explain, identify or apply the concept of enzymes.",
+      "concept_id": "CH7-C009"
+    },
+    {
+      "id": "BIO9CH7-037",
+      "q": "What is the substrate of an enzyme?",
+      "o": [
+        "The final product only",
+        "The cell nucleus",
+        "The enzyme itself",
+        "The reactant on which the enzyme acts"
+      ],
+      "a": 3,
+      "e": "A substrate binds an enzyme during catalysis.",
+      "d": "Easy",
+      "topic": "Enzymes",
+      "slo": "Explain, identify or apply the concept of enzymes.",
+      "concept_id": "CH7-C010"
+    },
+    {
+      "id": "BIO9CH7-038",
+      "q": "Select the correct scientific statement: what is the substrate of an enzyme?",
+      "o": [
+        "The cell nucleus",
+        "The reactant on which the enzyme acts",
+        "The final product only",
+        "The enzyme itself"
+      ],
+      "a": 1,
+      "e": "A substrate binds an enzyme during catalysis.",
+      "d": "Medium",
+      "topic": "Enzymes",
+      "slo": "Explain, identify or apply the concept of enzymes.",
+      "concept_id": "CH7-C010"
+    },
+    {
+      "id": "BIO9CH7-039",
+      "q": "In a Chapter 7 assessment, what is the substrate of an enzyme?",
+      "o": [
+        "The cell nucleus",
+        "The enzyme itself",
+        "The final product only",
+        "The reactant on which the enzyme acts"
+      ],
+      "a": 3,
+      "e": "A substrate binds an enzyme during catalysis.",
+      "d": "Medium",
+      "topic": "Enzymes",
+      "slo": "Explain, identify or apply the concept of enzymes.",
+      "concept_id": "CH7-C010"
+    },
+    {
+      "id": "BIO9CH7-040",
+      "q": "Which answer best addresses this biology question: what is the substrate of an enzyme?",
+      "o": [
+        "The reactant on which the enzyme acts",
+        "The final product only",
+        "The cell nucleus",
+        "The enzyme itself"
+      ],
+      "a": 0,
+      "e": "A substrate binds an enzyme during catalysis.",
+      "d": "Hard",
+      "topic": "Enzymes",
+      "slo": "Explain, identify or apply the concept of enzymes.",
+      "concept_id": "CH7-C010"
+    },
+    {
+      "id": "BIO9CH7-041",
+      "q": "Where does a substrate usually bind?",
+      "o": [
+        "In the ribosome's nucleus",
+        "Inside DNA",
+        "At the enzyme's active site",
+        "At the cell wall"
+      ],
+      "a": 2,
+      "e": "The active site is the region that binds and acts on substrate.",
+      "d": "Easy",
+      "topic": "Enzymes",
+      "slo": "Explain, identify or apply the concept of enzymes.",
+      "concept_id": "CH7-C011"
+    },
+    {
+      "id": "BIO9CH7-042",
+      "q": "Select the correct scientific statement: where does a substrate usually bind?",
+      "o": [
+        "At the cell wall",
+        "At the enzyme's active site",
+        "In the ribosome's nucleus",
+        "Inside DNA"
+      ],
+      "a": 1,
+      "e": "The active site is the region that binds and acts on substrate.",
+      "d": "Medium",
+      "topic": "Enzymes",
+      "slo": "Explain, identify or apply the concept of enzymes.",
+      "concept_id": "CH7-C011"
+    },
+    {
+      "id": "BIO9CH7-043",
+      "q": "In a Chapter 7 assessment, where does a substrate usually bind?",
+      "o": [
+        "At the enzyme's active site",
+        "In the ribosome's nucleus",
+        "Inside DNA",
+        "At the cell wall"
+      ],
+      "a": 0,
+      "e": "The active site is the region that binds and acts on substrate.",
+      "d": "Medium",
+      "topic": "Enzymes",
+      "slo": "Explain, identify or apply the concept of enzymes.",
+      "concept_id": "CH7-C011"
+    },
+    {
+      "id": "BIO9CH7-044",
+      "q": "Which answer best addresses this biology question: where does a substrate usually bind?",
+      "o": [
+        "Inside DNA",
+        "At the cell wall",
+        "At the enzyme's active site",
+        "In the ribosome's nucleus"
+      ],
+      "a": 2,
+      "e": "The active site is the region that binds and acts on substrate.",
+      "d": "Hard",
+      "topic": "Enzymes",
+      "slo": "Explain, identify or apply the concept of enzymes.",
+      "concept_id": "CH7-C011"
+    },
+    {
+      "id": "BIO9CH7-045",
+      "q": "What is the enzyme-substrate complex?",
+      "o": [
+        "A permanent DNA molecule",
+        "A lipid droplet",
+        "An organelle",
+        "A temporary association of enzyme and substrate"
+      ],
+      "a": 3,
+      "e": "The complex forms when substrate binds to enzyme.",
+      "d": "Easy",
+      "topic": "Enzymes",
+      "slo": "Explain, identify or apply the concept of enzymes.",
+      "concept_id": "CH7-C012"
+    },
+    {
+      "id": "BIO9CH7-046",
+      "q": "Select the correct scientific statement: what is the enzyme-substrate complex?",
+      "o": [
+        "A lipid droplet",
+        "A temporary association of enzyme and substrate",
+        "A permanent DNA molecule",
+        "An organelle"
+      ],
+      "a": 1,
+      "e": "The complex forms when substrate binds to enzyme.",
+      "d": "Medium",
+      "topic": "Enzymes",
+      "slo": "Explain, identify or apply the concept of enzymes.",
+      "concept_id": "CH7-C012"
+    },
+    {
+      "id": "BIO9CH7-047",
+      "q": "In a Chapter 7 assessment, what is the enzyme-substrate complex?",
+      "o": [
+        "A lipid droplet",
+        "A temporary association of enzyme and substrate",
+        "An organelle",
+        "A permanent DNA molecule"
+      ],
+      "a": 1,
+      "e": "The complex forms when substrate binds to enzyme.",
+      "d": "Medium",
+      "topic": "Enzymes",
+      "slo": "Explain, identify or apply the concept of enzymes.",
+      "concept_id": "CH7-C012"
+    },
+    {
+      "id": "BIO9CH7-048",
+      "q": "Which answer best addresses this biology question: what is the enzyme-substrate complex?",
+      "o": [
+        "A permanent DNA molecule",
+        "A temporary association of enzyme and substrate",
+        "A lipid droplet",
+        "An organelle"
+      ],
+      "a": 1,
+      "e": "The complex forms when substrate binds to enzyme.",
+      "d": "Hard",
+      "topic": "Enzymes",
+      "slo": "Explain, identify or apply the concept of enzymes.",
+      "concept_id": "CH7-C012"
+    },
+    {
+      "id": "BIO9CH7-049",
+      "q": "Why are enzymes called specific?",
+      "o": [
+        "Their active sites recognize particular substrates",
+        "They are used only once",
+        "They work on every substrate equally",
+        "They function only outside cells"
+      ],
+      "a": 0,
+      "e": "Shape and chemical properties of active sites confer specificity.",
+      "d": "Easy",
+      "topic": "Enzymes",
+      "slo": "Explain, identify or apply the concept of enzymes.",
+      "concept_id": "CH7-C013"
+    },
+    {
+      "id": "BIO9CH7-050",
+      "q": "Select the correct scientific statement: why are enzymes called specific?",
+      "o": [
+        "Their active sites recognize particular substrates",
+        "They are used only once",
+        "They function only outside cells",
+        "They work on every substrate equally"
+      ],
+      "a": 0,
+      "e": "Shape and chemical properties of active sites confer specificity.",
+      "d": "Medium",
+      "topic": "Enzymes",
+      "slo": "Explain, identify or apply the concept of enzymes.",
+      "concept_id": "CH7-C013"
+    },
+    {
+      "id": "BIO9CH7-051",
+      "q": "In a Chapter 7 assessment, why are enzymes called specific?",
+      "o": [
+        "Their active sites recognize particular substrates",
+        "They work on every substrate equally",
+        "They are used only once",
+        "They function only outside cells"
+      ],
+      "a": 0,
+      "e": "Shape and chemical properties of active sites confer specificity.",
+      "d": "Medium",
+      "topic": "Enzymes",
+      "slo": "Explain, identify or apply the concept of enzymes.",
+      "concept_id": "CH7-C013"
+    },
+    {
+      "id": "BIO9CH7-052",
+      "q": "Which answer best addresses this biology question: why are enzymes called specific?",
+      "o": [
+        "They function only outside cells",
+        "They are used only once",
+        "Their active sites recognize particular substrates",
+        "They work on every substrate equally"
+      ],
+      "a": 2,
+      "e": "Shape and chemical properties of active sites confer specificity.",
+      "d": "Hard",
+      "topic": "Enzymes",
+      "slo": "Explain, identify or apply the concept of enzymes.",
+      "concept_id": "CH7-C013"
+    },
+    {
+      "id": "BIO9CH7-053",
+      "q": "How do enzymes speed reactions?",
+      "o": [
+        "By changing reactants into atoms",
+        "By lowering activation energy",
+        "By raising activation energy",
+        "By removing all products"
+      ],
+      "a": 1,
+      "e": "Enzymes provide a lower-energy reaction pathway.",
+      "d": "Easy",
+      "topic": "Enzymes",
+      "slo": "Explain, identify or apply the concept of enzymes.",
+      "concept_id": "CH7-C014"
+    },
+    {
+      "id": "BIO9CH7-054",
+      "q": "Select the correct scientific statement: how do enzymes speed reactions?",
+      "o": [
+        "By changing reactants into atoms",
+        "By raising activation energy",
+        "By lowering activation energy",
+        "By removing all products"
+      ],
+      "a": 2,
+      "e": "Enzymes provide a lower-energy reaction pathway.",
+      "d": "Medium",
+      "topic": "Enzymes",
+      "slo": "Explain, identify or apply the concept of enzymes.",
+      "concept_id": "CH7-C014"
+    },
+    {
+      "id": "BIO9CH7-055",
+      "q": "In a Chapter 7 assessment, how do enzymes speed reactions?",
+      "o": [
+        "By removing all products",
+        "By raising activation energy",
+        "By changing reactants into atoms",
+        "By lowering activation energy"
+      ],
+      "a": 3,
+      "e": "Enzymes provide a lower-energy reaction pathway.",
+      "d": "Medium",
+      "topic": "Enzymes",
+      "slo": "Explain, identify or apply the concept of enzymes.",
+      "concept_id": "CH7-C014"
+    },
+    {
+      "id": "BIO9CH7-056",
+      "q": "Which answer best addresses this biology question: how do enzymes speed reactions?",
+      "o": [
+        "By raising activation energy",
+        "By changing reactants into atoms",
+        "By lowering activation energy",
+        "By removing all products"
+      ],
+      "a": 2,
+      "e": "Enzymes provide a lower-energy reaction pathway.",
+      "d": "Hard",
+      "topic": "Enzymes",
+      "slo": "Explain, identify or apply the concept of enzymes.",
+      "concept_id": "CH7-C014"
+    },
+    {
+      "id": "BIO9CH7-057",
+      "q": "What is activation energy?",
+      "o": [
+        "Heat always released",
+        "Energy stored in DNA only",
+        "Total cell mass",
+        "Minimum energy needed to initiate a reaction"
+      ],
+      "a": 3,
+      "e": "A reaction needs an initial energy barrier to be overcome.",
+      "d": "Easy",
+      "topic": "Enzymes",
+      "slo": "Explain, identify or apply the concept of enzymes.",
+      "concept_id": "CH7-C015"
+    },
+    {
+      "id": "BIO9CH7-058",
+      "q": "Select the correct scientific statement: what is activation energy?",
+      "o": [
+        "Heat always released",
+        "Total cell mass",
+        "Energy stored in DNA only",
+        "Minimum energy needed to initiate a reaction"
+      ],
+      "a": 3,
+      "e": "A reaction needs an initial energy barrier to be overcome.",
+      "d": "Medium",
+      "topic": "Enzymes",
+      "slo": "Explain, identify or apply the concept of enzymes.",
+      "concept_id": "CH7-C015"
+    },
+    {
+      "id": "BIO9CH7-059",
+      "q": "In a Chapter 7 assessment, what is activation energy?",
+      "o": [
+        "Energy stored in DNA only",
+        "Total cell mass",
+        "Minimum energy needed to initiate a reaction",
+        "Heat always released"
+      ],
+      "a": 2,
+      "e": "A reaction needs an initial energy barrier to be overcome.",
+      "d": "Medium",
+      "topic": "Enzymes",
+      "slo": "Explain, identify or apply the concept of enzymes.",
+      "concept_id": "CH7-C015"
+    },
+    {
+      "id": "BIO9CH7-060",
+      "q": "Which answer best addresses this biology question: what is activation energy?",
+      "o": [
+        "Total cell mass",
+        "Energy stored in DNA only",
+        "Minimum energy needed to initiate a reaction",
+        "Heat always released"
+      ],
+      "a": 2,
+      "e": "A reaction needs an initial energy barrier to be overcome.",
+      "d": "Hard",
+      "topic": "Enzymes",
+      "slo": "Explain, identify or apply the concept of enzymes.",
+      "concept_id": "CH7-C015"
+    },
+    {
+      "id": "BIO9CH7-061",
+      "q": "What happens to an enzyme after catalysis?",
+      "o": [
+        "It always becomes the product",
+        "It is always destroyed",
+        "It can catalyse another reaction",
+        "It turns into ATP"
+      ],
+      "a": 2,
+      "e": "Enzymes are not consumed in the overall reaction.",
+      "d": "Easy",
+      "topic": "Enzymes",
+      "slo": "Explain, identify or apply the concept of enzymes.",
+      "concept_id": "CH7-C016"
+    },
+    {
+      "id": "BIO9CH7-062",
+      "q": "Select the correct scientific statement: what happens to an enzyme after catalysis?",
+      "o": [
+        "It is always destroyed",
+        "It turns into ATP",
+        "It can catalyse another reaction",
+        "It always becomes the product"
+      ],
+      "a": 2,
+      "e": "Enzymes are not consumed in the overall reaction.",
+      "d": "Medium",
+      "topic": "Enzymes",
+      "slo": "Explain, identify or apply the concept of enzymes.",
+      "concept_id": "CH7-C016"
+    },
+    {
+      "id": "BIO9CH7-063",
+      "q": "In a Chapter 7 assessment, what happens to an enzyme after catalysis?",
+      "o": [
+        "It can catalyse another reaction",
+        "It always becomes the product",
+        "It is always destroyed",
+        "It turns into ATP"
+      ],
+      "a": 0,
+      "e": "Enzymes are not consumed in the overall reaction.",
+      "d": "Medium",
+      "topic": "Enzymes",
+      "slo": "Explain, identify or apply the concept of enzymes.",
+      "concept_id": "CH7-C016"
+    },
+    {
+      "id": "BIO9CH7-064",
+      "q": "Which answer best addresses this biology question: what happens to an enzyme after catalysis?",
+      "o": [
+        "It always becomes the product",
+        "It turns into ATP",
+        "It can catalyse another reaction",
+        "It is always destroyed"
+      ],
+      "a": 2,
+      "e": "Enzymes are not consumed in the overall reaction.",
+      "d": "Hard",
+      "topic": "Enzymes",
+      "slo": "Explain, identify or apply the concept of enzymes.",
+      "concept_id": "CH7-C016"
+    },
+    {
+      "id": "BIO9CH7-065",
+      "q": "What does the lock-and-key model illustrate?",
+      "o": [
+        "Complementarity between active site and substrate",
+        "DNA replication",
+        "Random substrate binding",
+        "Cell division"
+      ],
+      "a": 0,
+      "e": "The model compares substrate fitting an active site to a key fitting a lock.",
+      "d": "Easy",
+      "topic": "Enzymes",
+      "slo": "Explain, identify or apply the concept of enzymes.",
+      "concept_id": "CH7-C017"
+    },
+    {
+      "id": "BIO9CH7-066",
+      "q": "Select the correct scientific statement: what does the lock-and-key model illustrate?",
+      "o": [
+        "DNA replication",
+        "Cell division",
+        "Random substrate binding",
+        "Complementarity between active site and substrate"
+      ],
+      "a": 3,
+      "e": "The model compares substrate fitting an active site to a key fitting a lock.",
+      "d": "Medium",
+      "topic": "Enzymes",
+      "slo": "Explain, identify or apply the concept of enzymes.",
+      "concept_id": "CH7-C017"
+    },
+    {
+      "id": "BIO9CH7-067",
+      "q": "In a Chapter 7 assessment, what does the lock-and-key model illustrate?",
+      "o": [
+        "Complementarity between active site and substrate",
+        "Random substrate binding",
+        "Cell division",
+        "DNA replication"
+      ],
+      "a": 0,
+      "e": "The model compares substrate fitting an active site to a key fitting a lock.",
+      "d": "Medium",
+      "topic": "Enzymes",
+      "slo": "Explain, identify or apply the concept of enzymes.",
+      "concept_id": "CH7-C017"
+    },
+    {
+      "id": "BIO9CH7-068",
+      "q": "Which answer best addresses this biology question: what does the lock-and-key model illustrate?",
+      "o": [
+        "Random substrate binding",
+        "DNA replication",
+        "Complementarity between active site and substrate",
+        "Cell division"
+      ],
+      "a": 2,
+      "e": "The model compares substrate fitting an active site to a key fitting a lock.",
+      "d": "Hard",
+      "topic": "Enzymes",
+      "slo": "Explain, identify or apply the concept of enzymes.",
+      "concept_id": "CH7-C017"
+    },
+    {
+      "id": "BIO9CH7-069",
+      "q": "What is meant by induced fit?",
+      "o": [
+        "The active site adjusts shape upon substrate binding",
+        "The enzyme becomes a chromosome",
+        "The substrate disappears before binding",
+        "The enzyme cannot change shape"
+      ],
+      "a": 0,
+      "e": "Binding can trigger a conformational adjustment that improves catalysis.",
+      "d": "Easy",
+      "topic": "Enzymes",
+      "slo": "Explain, identify or apply the concept of enzymes.",
+      "concept_id": "CH7-C018"
+    },
+    {
+      "id": "BIO9CH7-070",
+      "q": "Select the correct scientific statement: what is meant by induced fit?",
+      "o": [
+        "The active site adjusts shape upon substrate binding",
+        "The substrate disappears before binding",
+        "The enzyme cannot change shape",
+        "The enzyme becomes a chromosome"
+      ],
+      "a": 0,
+      "e": "Binding can trigger a conformational adjustment that improves catalysis.",
+      "d": "Medium",
+      "topic": "Enzymes",
+      "slo": "Explain, identify or apply the concept of enzymes.",
+      "concept_id": "CH7-C018"
+    },
+    {
+      "id": "BIO9CH7-071",
+      "q": "In a Chapter 7 assessment, what is meant by induced fit?",
+      "o": [
+        "The enzyme cannot change shape",
+        "The enzyme becomes a chromosome",
+        "The substrate disappears before binding",
+        "The active site adjusts shape upon substrate binding"
+      ],
+      "a": 3,
+      "e": "Binding can trigger a conformational adjustment that improves catalysis.",
+      "d": "Medium",
+      "topic": "Enzymes",
+      "slo": "Explain, identify or apply the concept of enzymes.",
+      "concept_id": "CH7-C018"
+    },
+    {
+      "id": "BIO9CH7-072",
+      "q": "Which answer best addresses this biology question: what is meant by induced fit?",
+      "o": [
+        "The substrate disappears before binding",
+        "The enzyme becomes a chromosome",
+        "The enzyme cannot change shape",
+        "The active site adjusts shape upon substrate binding"
+      ],
+      "a": 3,
+      "e": "Binding can trigger a conformational adjustment that improves catalysis.",
+      "d": "Hard",
+      "topic": "Enzymes",
+      "slo": "Explain, identify or apply the concept of enzymes.",
+      "concept_id": "CH7-C018"
+    },
+    {
+      "id": "BIO9CH7-073",
+      "q": "Which factor can affect enzyme activity?",
+      "o": [
+        "Only sound",
+        "Only gravity",
+        "Temperature",
+        "Only moonlight"
+      ],
+      "a": 2,
+      "e": "Temperature affects molecular motion and enzyme structure.",
+      "d": "Easy",
+      "topic": "Enzyme factors",
+      "slo": "Explain, identify or apply the concept of enzyme factors.",
+      "concept_id": "CH7-C019"
+    },
+    {
+      "id": "BIO9CH7-074",
+      "q": "Select the correct scientific statement: which factor can affect enzyme activity?",
+      "o": [
+        "Only sound",
+        "Only gravity",
+        "Only moonlight",
+        "Temperature"
+      ],
+      "a": 3,
+      "e": "Temperature affects molecular motion and enzyme structure.",
+      "d": "Medium",
+      "topic": "Enzyme factors",
+      "slo": "Explain, identify or apply the concept of enzyme factors.",
+      "concept_id": "CH7-C019"
+    },
+    {
+      "id": "BIO9CH7-075",
+      "q": "In a Chapter 7 assessment, which factor can affect enzyme activity?",
+      "o": [
+        "Only sound",
+        "Temperature",
+        "Only moonlight",
+        "Only gravity"
+      ],
+      "a": 1,
+      "e": "Temperature affects molecular motion and enzyme structure.",
+      "d": "Medium",
+      "topic": "Enzyme factors",
+      "slo": "Explain, identify or apply the concept of enzyme factors.",
+      "concept_id": "CH7-C019"
+    },
+    {
+      "id": "BIO9CH7-076",
+      "q": "Which answer best addresses this biology question: which factor can affect enzyme activity?",
+      "o": [
+        "Temperature",
+        "Only gravity",
+        "Only moonlight",
+        "Only sound"
+      ],
+      "a": 0,
+      "e": "Temperature affects molecular motion and enzyme structure.",
+      "d": "Hard",
+      "topic": "Enzyme factors",
+      "slo": "Explain, identify or apply the concept of enzyme factors.",
+      "concept_id": "CH7-C019"
+    },
+    {
+      "id": "BIO9CH7-077",
+      "q": "Why does activity often rise as temperature approaches an optimum?",
+      "o": [
+        "Enzymes become inorganic",
+        "Molecules collide more frequently and effectively",
+        "Substrates vanish",
+        "Products stop forming"
+      ],
+      "a": 1,
+      "e": "Increasing kinetic energy initially promotes enzyme-substrate collisions.",
+      "d": "Easy",
+      "topic": "Enzyme factors",
+      "slo": "Explain, identify or apply the concept of enzyme factors.",
+      "concept_id": "CH7-C020"
+    },
+    {
+      "id": "BIO9CH7-078",
+      "q": "Select the correct scientific statement: why does activity often rise as temperature approaches an optimum?",
+      "o": [
+        "Products stop forming",
+        "Substrates vanish",
+        "Enzymes become inorganic",
+        "Molecules collide more frequently and effectively"
+      ],
+      "a": 3,
+      "e": "Increasing kinetic energy initially promotes enzyme-substrate collisions.",
+      "d": "Medium",
+      "topic": "Enzyme factors",
+      "slo": "Explain, identify or apply the concept of enzyme factors.",
+      "concept_id": "CH7-C020"
+    },
+    {
+      "id": "BIO9CH7-079",
+      "q": "In a Chapter 7 assessment, why does activity often rise as temperature approaches an optimum?",
+      "o": [
+        "Molecules collide more frequently and effectively",
+        "Substrates vanish",
+        "Enzymes become inorganic",
+        "Products stop forming"
+      ],
+      "a": 0,
+      "e": "Increasing kinetic energy initially promotes enzyme-substrate collisions.",
+      "d": "Medium",
+      "topic": "Enzyme factors",
+      "slo": "Explain, identify or apply the concept of enzyme factors.",
+      "concept_id": "CH7-C020"
+    },
+    {
+      "id": "BIO9CH7-080",
+      "q": "Which answer best addresses this biology question: why does activity often rise as temperature approaches an optimum?",
+      "o": [
+        "Molecules collide more frequently and effectively",
+        "Enzymes become inorganic",
+        "Products stop forming",
+        "Substrates vanish"
+      ],
+      "a": 0,
+      "e": "Increasing kinetic energy initially promotes enzyme-substrate collisions.",
+      "d": "Hard",
+      "topic": "Enzyme factors",
+      "slo": "Explain, identify or apply the concept of enzyme factors.",
+      "concept_id": "CH7-C020"
+    },
+    {
+      "id": "BIO9CH7-081",
+      "q": "What can happen above an enzyme's optimum temperature?",
+      "o": [
+        "Guaranteed permanent acceleration",
+        "All substrates become enzymes",
+        "Activation energy becomes infinite",
+        "Denaturation and reduced activity"
+      ],
+      "a": 3,
+      "e": "Excess heat disrupts protein structure and active sites.",
+      "d": "Easy",
+      "topic": "Enzyme factors",
+      "slo": "Explain, identify or apply the concept of enzyme factors.",
+      "concept_id": "CH7-C021"
+    },
+    {
+      "id": "BIO9CH7-082",
+      "q": "Select the correct scientific statement: what can happen above an enzyme's optimum temperature?",
+      "o": [
+        "Denaturation and reduced activity",
+        "All substrates become enzymes",
+        "Guaranteed permanent acceleration",
+        "Activation energy becomes infinite"
+      ],
+      "a": 0,
+      "e": "Excess heat disrupts protein structure and active sites.",
+      "d": "Medium",
+      "topic": "Enzyme factors",
+      "slo": "Explain, identify or apply the concept of enzyme factors.",
+      "concept_id": "CH7-C021"
+    },
+    {
+      "id": "BIO9CH7-083",
+      "q": "In a Chapter 7 assessment, what can happen above an enzyme's optimum temperature?",
+      "o": [
+        "Guaranteed permanent acceleration",
+        "Activation energy becomes infinite",
+        "Denaturation and reduced activity",
+        "All substrates become enzymes"
+      ],
+      "a": 2,
+      "e": "Excess heat disrupts protein structure and active sites.",
+      "d": "Medium",
+      "topic": "Enzyme factors",
+      "slo": "Explain, identify or apply the concept of enzyme factors.",
+      "concept_id": "CH7-C021"
+    },
+    {
+      "id": "BIO9CH7-084",
+      "q": "Which answer best addresses this biology question: what can happen above an enzyme's optimum temperature?",
+      "o": [
+        "All substrates become enzymes",
+        "Denaturation and reduced activity",
+        "Activation energy becomes infinite",
+        "Guaranteed permanent acceleration"
+      ],
+      "a": 1,
+      "e": "Excess heat disrupts protein structure and active sites.",
+      "d": "Hard",
+      "topic": "Enzyme factors",
+      "slo": "Explain, identify or apply the concept of enzyme factors.",
+      "concept_id": "CH7-C021"
+    },
+    {
+      "id": "BIO9CH7-085",
+      "q": "What is denaturation?",
+      "o": [
+        "Movement of water",
+        "Formation of ATP",
+        "Loss of a protein's functional three-dimensional structure",
+        "Synthesis of glucose"
+      ],
+      "a": 2,
+      "e": "Denaturation alters the enzyme shape and often its activity.",
+      "d": "Easy",
+      "topic": "Enzyme factors",
+      "slo": "Explain, identify or apply the concept of enzyme factors.",
+      "concept_id": "CH7-C022"
+    },
+    {
+      "id": "BIO9CH7-086",
+      "q": "Select the correct scientific statement: what is denaturation?",
+      "o": [
+        "Movement of water",
+        "Synthesis of glucose",
+        "Formation of ATP",
+        "Loss of a protein's functional three-dimensional structure"
+      ],
+      "a": 3,
+      "e": "Denaturation alters the enzyme shape and often its activity.",
+      "d": "Medium",
+      "topic": "Enzyme factors",
+      "slo": "Explain, identify or apply the concept of enzyme factors.",
+      "concept_id": "CH7-C022"
+    },
+    {
+      "id": "BIO9CH7-087",
+      "q": "In a Chapter 7 assessment, what is denaturation?",
+      "o": [
+        "Loss of a protein's functional three-dimensional structure",
+        "Movement of water",
+        "Formation of ATP",
+        "Synthesis of glucose"
+      ],
+      "a": 0,
+      "e": "Denaturation alters the enzyme shape and often its activity.",
+      "d": "Medium",
+      "topic": "Enzyme factors",
+      "slo": "Explain, identify or apply the concept of enzyme factors.",
+      "concept_id": "CH7-C022"
+    },
+    {
+      "id": "BIO9CH7-088",
+      "q": "Which answer best addresses this biology question: what is denaturation?",
+      "o": [
+        "Loss of a protein's functional three-dimensional structure",
+        "Formation of ATP",
+        "Synthesis of glucose",
+        "Movement of water"
+      ],
+      "a": 0,
+      "e": "Denaturation alters the enzyme shape and often its activity.",
+      "d": "Hard",
+      "topic": "Enzyme factors",
+      "slo": "Explain, identify or apply the concept of enzyme factors.",
+      "concept_id": "CH7-C022"
+    },
+    {
+      "id": "BIO9CH7-089",
+      "q": "Why does very low temperature slow many enzyme reactions?",
+      "o": [
+        "Immediate permanent denaturation in all cases",
+        "Reduced molecular movement and collisions",
+        "Extra active sites form",
+        "All enzymes disappear"
+      ],
+      "a": 1,
+      "e": "Low temperature slows reaction kinetics without necessarily denaturing enzymes.",
+      "d": "Easy",
+      "topic": "Enzyme factors",
+      "slo": "Explain, identify or apply the concept of enzyme factors.",
+      "concept_id": "CH7-C023"
+    },
+    {
+      "id": "BIO9CH7-090",
+      "q": "Select the correct scientific statement: why does very low temperature slow many enzyme reactions?",
+      "o": [
+        "Extra active sites form",
+        "Reduced molecular movement and collisions",
+        "Immediate permanent denaturation in all cases",
+        "All enzymes disappear"
+      ],
+      "a": 1,
+      "e": "Low temperature slows reaction kinetics without necessarily denaturing enzymes.",
+      "d": "Medium",
+      "topic": "Enzyme factors",
+      "slo": "Explain, identify or apply the concept of enzyme factors.",
+      "concept_id": "CH7-C023"
+    },
+    {
+      "id": "BIO9CH7-091",
+      "q": "In a Chapter 7 assessment, why does very low temperature slow many enzyme reactions?",
+      "o": [
+        "Immediate permanent denaturation in all cases",
+        "Extra active sites form",
+        "Reduced molecular movement and collisions",
+        "All enzymes disappear"
+      ],
+      "a": 2,
+      "e": "Low temperature slows reaction kinetics without necessarily denaturing enzymes.",
+      "d": "Medium",
+      "topic": "Enzyme factors",
+      "slo": "Explain, identify or apply the concept of enzyme factors.",
+      "concept_id": "CH7-C023"
+    },
+    {
+      "id": "BIO9CH7-092",
+      "q": "Which answer best addresses this biology question: why does very low temperature slow many enzyme reactions?",
+      "o": [
+        "All enzymes disappear",
+        "Reduced molecular movement and collisions",
+        "Extra active sites form",
+        "Immediate permanent denaturation in all cases"
+      ],
+      "a": 1,
+      "e": "Low temperature slows reaction kinetics without necessarily denaturing enzymes.",
+      "d": "Hard",
+      "topic": "Enzyme factors",
+      "slo": "Explain, identify or apply the concept of enzyme factors.",
+      "concept_id": "CH7-C023"
+    },
+    {
+      "id": "BIO9CH7-093",
+      "q": "What is an optimum temperature?",
+      "o": [
+        "Temperature at which water boils",
+        "Lowest possible temperature",
+        "Temperature at which all enzymes freeze",
+        "Temperature at which an enzyme works fastest under given conditions"
+      ],
+      "a": 3,
+      "e": "Enzyme activity typically peaks at an optimum.",
+      "d": "Easy",
+      "topic": "Enzyme factors",
+      "slo": "Explain, identify or apply the concept of enzyme factors.",
+      "concept_id": "CH7-C024"
+    },
+    {
+      "id": "BIO9CH7-094",
+      "q": "Select the correct scientific statement: what is an optimum temperature?",
+      "o": [
+        "Lowest possible temperature",
+        "Temperature at which water boils",
+        "Temperature at which an enzyme works fastest under given conditions",
+        "Temperature at which all enzymes freeze"
+      ],
+      "a": 2,
+      "e": "Enzyme activity typically peaks at an optimum.",
+      "d": "Medium",
+      "topic": "Enzyme factors",
+      "slo": "Explain, identify or apply the concept of enzyme factors.",
+      "concept_id": "CH7-C024"
+    },
+    {
+      "id": "BIO9CH7-095",
+      "q": "In a Chapter 7 assessment, what is an optimum temperature?",
+      "o": [
+        "Temperature at which all enzymes freeze",
+        "Lowest possible temperature",
+        "Temperature at which an enzyme works fastest under given conditions",
+        "Temperature at which water boils"
+      ],
+      "a": 2,
+      "e": "Enzyme activity typically peaks at an optimum.",
+      "d": "Medium",
+      "topic": "Enzyme factors",
+      "slo": "Explain, identify or apply the concept of enzyme factors.",
+      "concept_id": "CH7-C024"
+    },
+    {
+      "id": "BIO9CH7-096",
+      "q": "Which answer best addresses this biology question: what is an optimum temperature?",
+      "o": [
+        "Temperature at which all enzymes freeze",
+        "Temperature at which an enzyme works fastest under given conditions",
+        "Lowest possible temperature",
+        "Temperature at which water boils"
+      ],
+      "a": 1,
+      "e": "Enzyme activity typically peaks at an optimum.",
+      "d": "Hard",
+      "topic": "Enzyme factors",
+      "slo": "Explain, identify or apply the concept of enzyme factors.",
+      "concept_id": "CH7-C024"
+    },
+    {
+      "id": "BIO9CH7-097",
+      "q": "Which condition can alter charge and shape of an enzyme active site?",
+      "o": [
+        "Air pressure alone",
+        "Visible colour only",
+        "pH",
+        "Day length alone"
+      ],
+      "a": 2,
+      "e": "Hydrogen ion concentration affects ionization and structure.",
+      "d": "Easy",
+      "topic": "Enzyme factors",
+      "slo": "Explain, identify or apply the concept of enzyme factors.",
+      "concept_id": "CH7-C025"
+    },
+    {
+      "id": "BIO9CH7-098",
+      "q": "Select the correct scientific statement: which condition can alter charge and shape of an enzyme active site?",
+      "o": [
+        "Air pressure alone",
+        "pH",
+        "Visible colour only",
+        "Day length alone"
+      ],
+      "a": 1,
+      "e": "Hydrogen ion concentration affects ionization and structure.",
+      "d": "Medium",
+      "topic": "Enzyme factors",
+      "slo": "Explain, identify or apply the concept of enzyme factors.",
+      "concept_id": "CH7-C025"
+    },
+    {
+      "id": "BIO9CH7-099",
+      "q": "In a Chapter 7 assessment, which condition can alter charge and shape of an enzyme active site?",
+      "o": [
+        "Visible colour only",
+        "pH",
+        "Day length alone",
+        "Air pressure alone"
+      ],
+      "a": 1,
+      "e": "Hydrogen ion concentration affects ionization and structure.",
+      "d": "Medium",
+      "topic": "Enzyme factors",
+      "slo": "Explain, identify or apply the concept of enzyme factors.",
+      "concept_id": "CH7-C025"
+    },
+    {
+      "id": "BIO9CH7-100",
+      "q": "Which answer best addresses this biology question: which condition can alter charge and shape of an enzyme active site?",
+      "o": [
+        "Visible colour only",
+        "pH",
+        "Day length alone",
+        "Air pressure alone"
+      ],
+      "a": 1,
+      "e": "Hydrogen ion concentration affects ionization and structure.",
+      "d": "Hard",
+      "topic": "Enzyme factors",
+      "slo": "Explain, identify or apply the concept of enzyme factors.",
+      "concept_id": "CH7-C025"
+    },
+    {
+      "id": "BIO9CH7-101",
+      "q": "What is optimum pH?",
+      "o": [
+        "Always pH 0",
+        "The pH of pure oxygen",
+        "Always pH 7 for every enzyme",
+        "pH at which an enzyme shows its highest activity"
+      ],
+      "a": 3,
+      "e": "Different enzymes have different pH optima.",
+      "d": "Easy",
+      "topic": "Enzyme factors",
+      "slo": "Explain, identify or apply the concept of enzyme factors.",
+      "concept_id": "CH7-C026"
+    },
+    {
+      "id": "BIO9CH7-102",
+      "q": "Select the correct scientific statement: what is optimum pH?",
+      "o": [
+        "Always pH 7 for every enzyme",
+        "pH at which an enzyme shows its highest activity",
+        "The pH of pure oxygen",
+        "Always pH 0"
+      ],
+      "a": 1,
+      "e": "Different enzymes have different pH optima.",
+      "d": "Medium",
+      "topic": "Enzyme factors",
+      "slo": "Explain, identify or apply the concept of enzyme factors.",
+      "concept_id": "CH7-C026"
+    },
+    {
+      "id": "BIO9CH7-103",
+      "q": "In a Chapter 7 assessment, what is optimum pH?",
+      "o": [
+        "Always pH 0",
+        "pH at which an enzyme shows its highest activity",
+        "Always pH 7 for every enzyme",
+        "The pH of pure oxygen"
+      ],
+      "a": 1,
+      "e": "Different enzymes have different pH optima.",
+      "d": "Medium",
+      "topic": "Enzyme factors",
+      "slo": "Explain, identify or apply the concept of enzyme factors.",
+      "concept_id": "CH7-C026"
+    },
+    {
+      "id": "BIO9CH7-104",
+      "q": "Which answer best addresses this biology question: what is optimum pH?",
+      "o": [
+        "pH at which an enzyme shows its highest activity",
+        "Always pH 0",
+        "Always pH 7 for every enzyme",
+        "The pH of pure oxygen"
+      ],
+      "a": 0,
+      "e": "Different enzymes have different pH optima.",
+      "d": "Hard",
+      "topic": "Enzyme factors",
+      "slo": "Explain, identify or apply the concept of enzyme factors.",
+      "concept_id": "CH7-C026"
+    },
+    {
+      "id": "BIO9CH7-105",
+      "q": "What usually happens as substrate concentration increases when enzyme is plentiful?",
+      "o": [
+        "Reaction rate initially increases",
+        "Rate always becomes zero",
+        "Enzyme is immediately destroyed",
+        "Temperature necessarily falls"
+      ],
+      "a": 0,
+      "e": "More substrate increases enzyme-substrate encounters.",
+      "d": "Easy",
+      "topic": "Enzyme factors",
+      "slo": "Explain, identify or apply the concept of enzyme factors.",
+      "concept_id": "CH7-C027"
+    },
+    {
+      "id": "BIO9CH7-106",
+      "q": "Select the correct scientific statement: what usually happens as substrate concentration increases when enzyme is plentiful?",
+      "o": [
+        "Reaction rate initially increases",
+        "Rate always becomes zero",
+        "Enzyme is immediately destroyed",
+        "Temperature necessarily falls"
+      ],
+      "a": 0,
+      "e": "More substrate increases enzyme-substrate encounters.",
+      "d": "Medium",
+      "topic": "Enzyme factors",
+      "slo": "Explain, identify or apply the concept of enzyme factors.",
+      "concept_id": "CH7-C027"
+    },
+    {
+      "id": "BIO9CH7-107",
+      "q": "In a Chapter 7 assessment, what usually happens as substrate concentration increases when enzyme is plentiful?",
+      "o": [
+        "Enzyme is immediately destroyed",
+        "Reaction rate initially increases",
+        "Temperature necessarily falls",
+        "Rate always becomes zero"
+      ],
+      "a": 1,
+      "e": "More substrate increases enzyme-substrate encounters.",
+      "d": "Medium",
+      "topic": "Enzyme factors",
+      "slo": "Explain, identify or apply the concept of enzyme factors.",
+      "concept_id": "CH7-C027"
+    },
+    {
+      "id": "BIO9CH7-108",
+      "q": "Which answer best addresses this biology question: what usually happens as substrate concentration increases when enzyme is plentiful?",
+      "o": [
+        "Reaction rate initially increases",
+        "Temperature necessarily falls",
+        "Enzyme is immediately destroyed",
+        "Rate always becomes zero"
+      ],
+      "a": 0,
+      "e": "More substrate increases enzyme-substrate encounters.",
+      "d": "Hard",
+      "topic": "Enzyme factors",
+      "slo": "Explain, identify or apply the concept of enzyme factors.",
+      "concept_id": "CH7-C027"
+    },
+    {
+      "id": "BIO9CH7-109",
+      "q": "Why does reaction rate eventually plateau at high substrate concentration?",
+      "o": [
+        "ATP always disappears",
+        "All enzymes turn into DNA",
+        "Enzyme active sites become saturated",
+        "Substrates stop existing"
+      ],
+      "a": 2,
+      "e": "When all active sites are occupied, adding substrate has little effect.",
+      "d": "Easy",
+      "topic": "Enzyme factors",
+      "slo": "Explain, identify or apply the concept of enzyme factors.",
+      "concept_id": "CH7-C028"
+    },
+    {
+      "id": "BIO9CH7-110",
+      "q": "Select the correct scientific statement: why does reaction rate eventually plateau at high substrate concentration?",
+      "o": [
+        "Substrates stop existing",
+        "Enzyme active sites become saturated",
+        "ATP always disappears",
+        "All enzymes turn into DNA"
+      ],
+      "a": 1,
+      "e": "When all active sites are occupied, adding substrate has little effect.",
+      "d": "Medium",
+      "topic": "Enzyme factors",
+      "slo": "Explain, identify or apply the concept of enzyme factors.",
+      "concept_id": "CH7-C028"
+    },
+    {
+      "id": "BIO9CH7-111",
+      "q": "In a Chapter 7 assessment, why does reaction rate eventually plateau at high substrate concentration?",
+      "o": [
+        "ATP always disappears",
+        "Enzyme active sites become saturated",
+        "Substrates stop existing",
+        "All enzymes turn into DNA"
+      ],
+      "a": 1,
+      "e": "When all active sites are occupied, adding substrate has little effect.",
+      "d": "Medium",
+      "topic": "Enzyme factors",
+      "slo": "Explain, identify or apply the concept of enzyme factors.",
+      "concept_id": "CH7-C028"
+    },
+    {
+      "id": "BIO9CH7-112",
+      "q": "Which answer best addresses this biology question: why does reaction rate eventually plateau at high substrate concentration?",
+      "o": [
+        "Enzyme active sites become saturated",
+        "Substrates stop existing",
+        "All enzymes turn into DNA",
+        "ATP always disappears"
+      ],
+      "a": 0,
+      "e": "When all active sites are occupied, adding substrate has little effect.",
+      "d": "Hard",
+      "topic": "Enzyme factors",
+      "slo": "Explain, identify or apply the concept of enzyme factors.",
+      "concept_id": "CH7-C028"
+    },
+    {
+      "id": "BIO9CH7-113",
+      "q": "What happens when enzyme concentration rises with ample substrate available?",
+      "o": [
+        "Reaction must stop",
+        "Maximum reaction rate can increase",
+        "Temperature becomes zero",
+        "Substrate becomes a catalyst"
+      ],
+      "a": 1,
+      "e": "More enzyme supplies additional active sites.",
+      "d": "Easy",
+      "topic": "Enzyme factors",
+      "slo": "Explain, identify or apply the concept of enzyme factors.",
+      "concept_id": "CH7-C029"
+    },
+    {
+      "id": "BIO9CH7-114",
+      "q": "Select the correct scientific statement: what happens when enzyme concentration rises with ample substrate available?",
+      "o": [
+        "Substrate becomes a catalyst",
+        "Maximum reaction rate can increase",
+        "Reaction must stop",
+        "Temperature becomes zero"
+      ],
+      "a": 1,
+      "e": "More enzyme supplies additional active sites.",
+      "d": "Medium",
+      "topic": "Enzyme factors",
+      "slo": "Explain, identify or apply the concept of enzyme factors.",
+      "concept_id": "CH7-C029"
+    },
+    {
+      "id": "BIO9CH7-115",
+      "q": "In a Chapter 7 assessment, what happens when enzyme concentration rises with ample substrate available?",
+      "o": [
+        "Substrate becomes a catalyst",
+        "Reaction must stop",
+        "Maximum reaction rate can increase",
+        "Temperature becomes zero"
+      ],
+      "a": 2,
+      "e": "More enzyme supplies additional active sites.",
+      "d": "Medium",
+      "topic": "Enzyme factors",
+      "slo": "Explain, identify or apply the concept of enzyme factors.",
+      "concept_id": "CH7-C029"
+    },
+    {
+      "id": "BIO9CH7-116",
+      "q": "Which answer best addresses this biology question: what happens when enzyme concentration rises with ample substrate available?",
+      "o": [
+        "Temperature becomes zero",
+        "Maximum reaction rate can increase",
+        "Reaction must stop",
+        "Substrate becomes a catalyst"
+      ],
+      "a": 1,
+      "e": "More enzyme supplies additional active sites.",
+      "d": "Hard",
+      "topic": "Enzyme factors",
+      "slo": "Explain, identify or apply the concept of enzyme factors.",
+      "concept_id": "CH7-C029"
+    },
+    {
+      "id": "BIO9CH7-117",
+      "q": "What is an enzyme inhibitor?",
+      "o": [
+        "A sugar polymer",
+        "A molecule that always increases enzyme activity",
+        "A substance that decreases enzyme activity",
+        "An energy currency"
+      ],
+      "a": 2,
+      "e": "Inhibitors interfere with catalysis.",
+      "d": "Easy",
+      "topic": "Enzyme inhibition",
+      "slo": "Explain, identify or apply the concept of enzyme inhibition.",
+      "concept_id": "CH7-C030"
+    },
+    {
+      "id": "BIO9CH7-118",
+      "q": "Select the correct scientific statement: what is an enzyme inhibitor?",
+      "o": [
+        "An energy currency",
+        "A substance that decreases enzyme activity",
+        "A molecule that always increases enzyme activity",
+        "A sugar polymer"
+      ],
+      "a": 1,
+      "e": "Inhibitors interfere with catalysis.",
+      "d": "Medium",
+      "topic": "Enzyme inhibition",
+      "slo": "Explain, identify or apply the concept of enzyme inhibition.",
+      "concept_id": "CH7-C030"
+    },
+    {
+      "id": "BIO9CH7-119",
+      "q": "In a Chapter 7 assessment, what is an enzyme inhibitor?",
+      "o": [
+        "An energy currency",
+        "A substance that decreases enzyme activity",
+        "A molecule that always increases enzyme activity",
+        "A sugar polymer"
+      ],
+      "a": 1,
+      "e": "Inhibitors interfere with catalysis.",
+      "d": "Medium",
+      "topic": "Enzyme inhibition",
+      "slo": "Explain, identify or apply the concept of enzyme inhibition.",
+      "concept_id": "CH7-C030"
+    },
+    {
+      "id": "BIO9CH7-120",
+      "q": "Which answer best addresses this biology question: what is an enzyme inhibitor?",
+      "o": [
+        "A sugar polymer",
+        "A molecule that always increases enzyme activity",
+        "An energy currency",
+        "A substance that decreases enzyme activity"
+      ],
+      "a": 3,
+      "e": "Inhibitors interfere with catalysis.",
+      "d": "Hard",
+      "topic": "Enzyme inhibition",
+      "slo": "Explain, identify or apply the concept of enzyme inhibition.",
+      "concept_id": "CH7-C030"
+    },
+    {
+      "id": "BIO9CH7-121",
+      "q": "Where does a competitive inhibitor typically bind?",
+      "o": [
+        "Only the mitochondrion",
+        "Only the nucleus",
+        "The active site",
+        "The ribosome"
+      ],
+      "a": 2,
+      "e": "Competitive inhibitors compete with substrate for active-site access.",
+      "d": "Easy",
+      "topic": "Enzyme inhibition",
+      "slo": "Explain, identify or apply the concept of enzyme inhibition.",
+      "concept_id": "CH7-C031"
+    },
+    {
+      "id": "BIO9CH7-122",
+      "q": "Select the correct scientific statement: where does a competitive inhibitor typically bind?",
+      "o": [
+        "The ribosome",
+        "Only the mitochondrion",
+        "The active site",
+        "Only the nucleus"
+      ],
+      "a": 2,
+      "e": "Competitive inhibitors compete with substrate for active-site access.",
+      "d": "Medium",
+      "topic": "Enzyme inhibition",
+      "slo": "Explain, identify or apply the concept of enzyme inhibition.",
+      "concept_id": "CH7-C031"
+    },
+    {
+      "id": "BIO9CH7-123",
+      "q": "In a Chapter 7 assessment, where does a competitive inhibitor typically bind?",
+      "o": [
+        "The ribosome",
+        "Only the nucleus",
+        "Only the mitochondrion",
+        "The active site"
+      ],
+      "a": 3,
+      "e": "Competitive inhibitors compete with substrate for active-site access.",
+      "d": "Medium",
+      "topic": "Enzyme inhibition",
+      "slo": "Explain, identify or apply the concept of enzyme inhibition.",
+      "concept_id": "CH7-C031"
+    },
+    {
+      "id": "BIO9CH7-124",
+      "q": "Which answer best addresses this biology question: where does a competitive inhibitor typically bind?",
+      "o": [
+        "Only the nucleus",
+        "The active site",
+        "Only the mitochondrion",
+        "The ribosome"
+      ],
+      "a": 1,
+      "e": "Competitive inhibitors compete with substrate for active-site access.",
+      "d": "Hard",
+      "topic": "Enzyme inhibition",
+      "slo": "Explain, identify or apply the concept of enzyme inhibition.",
+      "concept_id": "CH7-C031"
+    },
+    {
+      "id": "BIO9CH7-125",
+      "q": "How can competitive inhibition often be reduced?",
+      "o": [
+        "Heat until denatured",
+        "Increase substrate concentration",
+        "Remove all substrate",
+        "Destroy the enzyme"
+      ],
+      "a": 1,
+      "e": "Extra substrate can outcompete a reversible competitive inhibitor.",
+      "d": "Easy",
+      "topic": "Enzyme inhibition",
+      "slo": "Explain, identify or apply the concept of enzyme inhibition.",
+      "concept_id": "CH7-C032"
+    },
+    {
+      "id": "BIO9CH7-126",
+      "q": "Select the correct scientific statement: how can competitive inhibition often be reduced?",
+      "o": [
+        "Increase substrate concentration",
+        "Remove all substrate",
+        "Heat until denatured",
+        "Destroy the enzyme"
+      ],
+      "a": 0,
+      "e": "Extra substrate can outcompete a reversible competitive inhibitor.",
+      "d": "Medium",
+      "topic": "Enzyme inhibition",
+      "slo": "Explain, identify or apply the concept of enzyme inhibition.",
+      "concept_id": "CH7-C032"
+    },
+    {
+      "id": "BIO9CH7-127",
+      "q": "In a Chapter 7 assessment, how can competitive inhibition often be reduced?",
+      "o": [
+        "Heat until denatured",
+        "Remove all substrate",
+        "Increase substrate concentration",
+        "Destroy the enzyme"
+      ],
+      "a": 2,
+      "e": "Extra substrate can outcompete a reversible competitive inhibitor.",
+      "d": "Medium",
+      "topic": "Enzyme inhibition",
+      "slo": "Explain, identify or apply the concept of enzyme inhibition.",
+      "concept_id": "CH7-C032"
+    },
+    {
+      "id": "BIO9CH7-128",
+      "q": "Which answer best addresses this biology question: how can competitive inhibition often be reduced?",
+      "o": [
+        "Remove all substrate",
+        "Increase substrate concentration",
+        "Destroy the enzyme",
+        "Heat until denatured"
+      ],
+      "a": 1,
+      "e": "Extra substrate can outcompete a reversible competitive inhibitor.",
+      "d": "Hard",
+      "topic": "Enzyme inhibition",
+      "slo": "Explain, identify or apply the concept of enzyme inhibition.",
+      "concept_id": "CH7-C032"
+    },
+    {
+      "id": "BIO9CH7-129",
+      "q": "Where can a noncompetitive inhibitor bind?",
+      "o": [
+        "Only DNA bases",
+        "Only a substrate's active site",
+        "A site other than the active site",
+        "Only a product's nucleus"
+      ],
+      "a": 2,
+      "e": "Binding away from the active site can alter enzyme activity.",
+      "d": "Easy",
+      "topic": "Enzyme inhibition",
+      "slo": "Explain, identify or apply the concept of enzyme inhibition.",
+      "concept_id": "CH7-C033"
+    },
+    {
+      "id": "BIO9CH7-130",
+      "q": "Select the correct scientific statement: where can a noncompetitive inhibitor bind?",
+      "o": [
+        "Only a substrate's active site",
+        "Only a product's nucleus",
+        "A site other than the active site",
+        "Only DNA bases"
+      ],
+      "a": 2,
+      "e": "Binding away from the active site can alter enzyme activity.",
+      "d": "Medium",
+      "topic": "Enzyme inhibition",
+      "slo": "Explain, identify or apply the concept of enzyme inhibition.",
+      "concept_id": "CH7-C033"
+    },
+    {
+      "id": "BIO9CH7-131",
+      "q": "In a Chapter 7 assessment, where can a noncompetitive inhibitor bind?",
+      "o": [
+        "Only a product's nucleus",
+        "Only a substrate's active site",
+        "Only DNA bases",
+        "A site other than the active site"
+      ],
+      "a": 3,
+      "e": "Binding away from the active site can alter enzyme activity.",
+      "d": "Medium",
+      "topic": "Enzyme inhibition",
+      "slo": "Explain, identify or apply the concept of enzyme inhibition.",
+      "concept_id": "CH7-C033"
+    },
+    {
+      "id": "BIO9CH7-132",
+      "q": "Which answer best addresses this biology question: where can a noncompetitive inhibitor bind?",
+      "o": [
+        "Only DNA bases",
+        "Only a product's nucleus",
+        "A site other than the active site",
+        "Only a substrate's active site"
+      ],
+      "a": 2,
+      "e": "Binding away from the active site can alter enzyme activity.",
+      "d": "Hard",
+      "topic": "Enzyme inhibition",
+      "slo": "Explain, identify or apply the concept of enzyme inhibition.",
+      "concept_id": "CH7-C033"
+    },
+    {
+      "id": "BIO9CH7-133",
+      "q": "What is an allosteric site?",
+      "o": [
+        "A regulatory binding site distinct from the active site",
+        "The center of an atom",
+        "The product of respiration",
+        "A type of chlorophyll"
+      ],
+      "a": 0,
+      "e": "Allosteric binding can change enzyme shape or function.",
+      "d": "Easy",
+      "topic": "Enzyme inhibition",
+      "slo": "Explain, identify or apply the concept of enzyme inhibition.",
+      "concept_id": "CH7-C034"
+    },
+    {
+      "id": "BIO9CH7-134",
+      "q": "Select the correct scientific statement: what is an allosteric site?",
+      "o": [
+        "The center of an atom",
+        "A type of chlorophyll",
+        "The product of respiration",
+        "A regulatory binding site distinct from the active site"
+      ],
+      "a": 3,
+      "e": "Allosteric binding can change enzyme shape or function.",
+      "d": "Medium",
+      "topic": "Enzyme inhibition",
+      "slo": "Explain, identify or apply the concept of enzyme inhibition.",
+      "concept_id": "CH7-C034"
+    },
+    {
+      "id": "BIO9CH7-135",
+      "q": "In a Chapter 7 assessment, what is an allosteric site?",
+      "o": [
+        "A regulatory binding site distinct from the active site",
+        "The product of respiration",
+        "The center of an atom",
+        "A type of chlorophyll"
+      ],
+      "a": 0,
+      "e": "Allosteric binding can change enzyme shape or function.",
+      "d": "Medium",
+      "topic": "Enzyme inhibition",
+      "slo": "Explain, identify or apply the concept of enzyme inhibition.",
+      "concept_id": "CH7-C034"
+    },
+    {
+      "id": "BIO9CH7-136",
+      "q": "Which answer best addresses this biology question: what is an allosteric site?",
+      "o": [
+        "The product of respiration",
+        "A type of chlorophyll",
+        "The center of an atom",
+        "A regulatory binding site distinct from the active site"
+      ],
+      "a": 3,
+      "e": "Allosteric binding can change enzyme shape or function.",
+      "d": "Hard",
+      "topic": "Enzyme inhibition",
+      "slo": "Explain, identify or apply the concept of enzyme inhibition.",
+      "concept_id": "CH7-C034"
+    },
+    {
+      "id": "BIO9CH7-137",
+      "q": "Why might adding more substrate fail to reverse noncompetitive inhibition?",
+      "o": [
+        "The enzyme becomes a carbohydrate",
+        "Substrate is never involved",
+        "The inhibitor affects enzyme function without simply competing for the active site",
+        "Substrate always denatures"
+      ],
+      "a": 2,
+      "e": "Extra substrate cannot necessarily displace an inhibitor bound elsewhere.",
+      "d": "Easy",
+      "topic": "Enzyme inhibition",
+      "slo": "Explain, identify or apply the concept of enzyme inhibition.",
+      "concept_id": "CH7-C035"
+    },
+    {
+      "id": "BIO9CH7-138",
+      "q": "Select the correct scientific statement: why might adding more substrate fail to reverse noncompetitive inhibition?",
+      "o": [
+        "Substrate always denatures",
+        "Substrate is never involved",
+        "The inhibitor affects enzyme function without simply competing for the active site",
+        "The enzyme becomes a carbohydrate"
+      ],
+      "a": 2,
+      "e": "Extra substrate cannot necessarily displace an inhibitor bound elsewhere.",
+      "d": "Medium",
+      "topic": "Enzyme inhibition",
+      "slo": "Explain, identify or apply the concept of enzyme inhibition.",
+      "concept_id": "CH7-C035"
+    },
+    {
+      "id": "BIO9CH7-139",
+      "q": "In a Chapter 7 assessment, why might adding more substrate fail to reverse noncompetitive inhibition?",
+      "o": [
+        "Substrate is never involved",
+        "Substrate always denatures",
+        "The inhibitor affects enzyme function without simply competing for the active site",
+        "The enzyme becomes a carbohydrate"
+      ],
+      "a": 2,
+      "e": "Extra substrate cannot necessarily displace an inhibitor bound elsewhere.",
+      "d": "Medium",
+      "topic": "Enzyme inhibition",
+      "slo": "Explain, identify or apply the concept of enzyme inhibition.",
+      "concept_id": "CH7-C035"
+    },
+    {
+      "id": "BIO9CH7-140",
+      "q": "Which answer best addresses this biology question: why might adding more substrate fail to reverse noncompetitive inhibition?",
+      "o": [
+        "The inhibitor affects enzyme function without simply competing for the active site",
+        "The enzyme becomes a carbohydrate",
+        "Substrate always denatures",
+        "Substrate is never involved"
+      ],
+      "a": 0,
+      "e": "Extra substrate cannot necessarily displace an inhibitor bound elsewhere.",
+      "d": "Hard",
+      "topic": "Enzyme inhibition",
+      "slo": "Explain, identify or apply the concept of enzyme inhibition.",
+      "concept_id": "CH7-C035"
+    },
+    {
+      "id": "BIO9CH7-141",
+      "q": "What does ATP stand for?",
+      "o": [
+        "Active transport pigment",
+        "Adenosine triphosphate",
+        "Adenine triple protein",
+        "Amino transfer polymer"
+      ],
+      "a": 1,
+      "e": "ATP is adenosine triphosphate.",
+      "d": "Easy",
+      "topic": "ATP",
+      "slo": "Explain, identify or apply the concept of atp.",
+      "concept_id": "CH7-C036"
+    },
+    {
+      "id": "BIO9CH7-142",
+      "q": "Select the correct scientific statement: what does ATP stand for?",
+      "o": [
+        "Active transport pigment",
+        "Amino transfer polymer",
+        "Adenosine triphosphate",
+        "Adenine triple protein"
+      ],
+      "a": 2,
+      "e": "ATP is adenosine triphosphate.",
+      "d": "Medium",
+      "topic": "ATP",
+      "slo": "Explain, identify or apply the concept of atp.",
+      "concept_id": "CH7-C036"
+    },
+    {
+      "id": "BIO9CH7-143",
+      "q": "In a Chapter 7 assessment, what does ATP stand for?",
+      "o": [
+        "Adenine triple protein",
+        "Adenosine triphosphate",
+        "Active transport pigment",
+        "Amino transfer polymer"
+      ],
+      "a": 1,
+      "e": "ATP is adenosine triphosphate.",
+      "d": "Medium",
+      "topic": "ATP",
+      "slo": "Explain, identify or apply the concept of atp.",
+      "concept_id": "CH7-C036"
+    },
+    {
+      "id": "BIO9CH7-144",
+      "q": "Which answer best addresses this biology question: what does ATP stand for?",
+      "o": [
+        "Amino transfer polymer",
+        "Active transport pigment",
+        "Adenine triple protein",
+        "Adenosine triphosphate"
+      ],
+      "a": 3,
+      "e": "ATP is adenosine triphosphate.",
+      "d": "Hard",
+      "topic": "ATP",
+      "slo": "Explain, identify or apply the concept of atp.",
+      "concept_id": "CH7-C036"
+    },
+    {
+      "id": "BIO9CH7-145",
+      "q": "Why is ATP called the energy currency of the cell?",
+      "o": [
+        "It replaces all enzymes",
+        "It transfers usable energy between reactions",
+        "It stores genetic code",
+        "It is a structural cell wall"
+      ],
+      "a": 1,
+      "e": "ATP couples energy-releasing and energy-requiring processes.",
+      "d": "Easy",
+      "topic": "ATP",
+      "slo": "Explain, identify or apply the concept of atp.",
+      "concept_id": "CH7-C037"
+    },
+    {
+      "id": "BIO9CH7-146",
+      "q": "Select the correct scientific statement: why is ATP called the energy currency of the cell?",
+      "o": [
+        "It replaces all enzymes",
+        "It transfers usable energy between reactions",
+        "It is a structural cell wall",
+        "It stores genetic code"
+      ],
+      "a": 1,
+      "e": "ATP couples energy-releasing and energy-requiring processes.",
+      "d": "Medium",
+      "topic": "ATP",
+      "slo": "Explain, identify or apply the concept of atp.",
+      "concept_id": "CH7-C037"
+    },
+    {
+      "id": "BIO9CH7-147",
+      "q": "In a Chapter 7 assessment, why is ATP called the energy currency of the cell?",
+      "o": [
+        "It stores genetic code",
+        "It replaces all enzymes",
+        "It is a structural cell wall",
+        "It transfers usable energy between reactions"
+      ],
+      "a": 3,
+      "e": "ATP couples energy-releasing and energy-requiring processes.",
+      "d": "Medium",
+      "topic": "ATP",
+      "slo": "Explain, identify or apply the concept of atp.",
+      "concept_id": "CH7-C037"
+    },
+    {
+      "id": "BIO9CH7-148",
+      "q": "Which answer best addresses this biology question: why is ATP called the energy currency of the cell?",
+      "o": [
+        "It replaces all enzymes",
+        "It transfers usable energy between reactions",
+        "It stores genetic code",
+        "It is a structural cell wall"
+      ],
+      "a": 1,
+      "e": "ATP couples energy-releasing and energy-requiring processes.",
+      "d": "Hard",
+      "topic": "ATP",
+      "slo": "Explain, identify or apply the concept of atp.",
+      "concept_id": "CH7-C037"
+    },
+    {
+      "id": "BIO9CH7-149",
+      "q": "How many phosphate groups does ATP have?",
+      "o": [
+        "Two",
+        "One",
+        "Three",
+        "Four"
+      ],
+      "a": 2,
+      "e": "The name triphosphate refers to three phosphate groups.",
+      "d": "Easy",
+      "topic": "ATP",
+      "slo": "Explain, identify or apply the concept of atp.",
+      "concept_id": "CH7-C038"
+    },
+    {
+      "id": "BIO9CH7-150",
+      "q": "Select the correct scientific statement: how many phosphate groups does ATP have?",
+      "o": [
+        "Three",
+        "Four",
+        "Two",
+        "One"
+      ],
+      "a": 0,
+      "e": "The name triphosphate refers to three phosphate groups.",
+      "d": "Medium",
+      "topic": "ATP",
+      "slo": "Explain, identify or apply the concept of atp.",
+      "concept_id": "CH7-C038"
+    },
+    {
+      "id": "BIO9CH7-151",
+      "q": "In a Chapter 7 assessment, how many phosphate groups does ATP have?",
+      "o": [
+        "Two",
+        "Four",
+        "Three",
+        "One"
+      ],
+      "a": 2,
+      "e": "The name triphosphate refers to three phosphate groups.",
+      "d": "Medium",
+      "topic": "ATP",
+      "slo": "Explain, identify or apply the concept of atp.",
+      "concept_id": "CH7-C038"
+    },
+    {
+      "id": "BIO9CH7-152",
+      "q": "Which answer best addresses this biology question: how many phosphate groups does ATP have?",
+      "o": [
+        "Three",
+        "Two",
+        "One",
+        "Four"
+      ],
+      "a": 0,
+      "e": "The name triphosphate refers to three phosphate groups.",
+      "d": "Hard",
+      "topic": "ATP",
+      "slo": "Explain, identify or apply the concept of atp.",
+      "concept_id": "CH7-C038"
+    },
+    {
+      "id": "BIO9CH7-153",
+      "q": "What is formed when ATP loses its terminal phosphate?",
+      "o": [
+        "DNA and RNA",
+        "Glucose and oxygen",
+        "ADP and inorganic phosphate",
+        "Starch and cellulose"
+      ],
+      "a": 2,
+      "e": "ATP hydrolysis commonly yields ADP plus phosphate.",
+      "d": "Easy",
+      "topic": "ATP",
+      "slo": "Explain, identify or apply the concept of atp.",
+      "concept_id": "CH7-C039"
+    },
+    {
+      "id": "BIO9CH7-154",
+      "q": "Select the correct scientific statement: what is formed when ATP loses its terminal phosphate?",
+      "o": [
+        "Glucose and oxygen",
+        "ADP and inorganic phosphate",
+        "DNA and RNA",
+        "Starch and cellulose"
+      ],
+      "a": 1,
+      "e": "ATP hydrolysis commonly yields ADP plus phosphate.",
+      "d": "Medium",
+      "topic": "ATP",
+      "slo": "Explain, identify or apply the concept of atp.",
+      "concept_id": "CH7-C039"
+    },
+    {
+      "id": "BIO9CH7-155",
+      "q": "In a Chapter 7 assessment, what is formed when ATP loses its terminal phosphate?",
+      "o": [
+        "ADP and inorganic phosphate",
+        "DNA and RNA",
+        "Glucose and oxygen",
+        "Starch and cellulose"
+      ],
+      "a": 0,
+      "e": "ATP hydrolysis commonly yields ADP plus phosphate.",
+      "d": "Medium",
+      "topic": "ATP",
+      "slo": "Explain, identify or apply the concept of atp.",
+      "concept_id": "CH7-C039"
+    },
+    {
+      "id": "BIO9CH7-156",
+      "q": "Which answer best addresses this biology question: what is formed when ATP loses its terminal phosphate?",
+      "o": [
+        "DNA and RNA",
+        "ADP and inorganic phosphate",
+        "Starch and cellulose",
+        "Glucose and oxygen"
+      ],
+      "a": 1,
+      "e": "ATP hydrolysis commonly yields ADP plus phosphate.",
+      "d": "Hard",
+      "topic": "ATP",
+      "slo": "Explain, identify or apply the concept of atp.",
+      "concept_id": "CH7-C039"
+    },
+    {
+      "id": "BIO9CH7-157",
+      "q": "Which process requires ATP?",
+      "o": [
+        "Unassisted gas diffusion",
+        "Active transport across a membrane",
+        "Simple osmosis",
+        "Passive diffusion down a gradient"
+      ],
+      "a": 1,
+      "e": "Active transport uses cellular energy.",
+      "d": "Easy",
+      "topic": "ATP",
+      "slo": "Explain, identify or apply the concept of atp.",
+      "concept_id": "CH7-C040"
+    },
+    {
+      "id": "BIO9CH7-158",
+      "q": "Select the correct scientific statement: which process requires ATP?",
+      "o": [
+        "Unassisted gas diffusion",
+        "Passive diffusion down a gradient",
+        "Simple osmosis",
+        "Active transport across a membrane"
+      ],
+      "a": 3,
+      "e": "Active transport uses cellular energy.",
+      "d": "Medium",
+      "topic": "ATP",
+      "slo": "Explain, identify or apply the concept of atp.",
+      "concept_id": "CH7-C040"
+    },
+    {
+      "id": "BIO9CH7-159",
+      "q": "In a Chapter 7 assessment, which process requires ATP?",
+      "o": [
+        "Simple osmosis",
+        "Unassisted gas diffusion",
+        "Active transport across a membrane",
+        "Passive diffusion down a gradient"
+      ],
+      "a": 2,
+      "e": "Active transport uses cellular energy.",
+      "d": "Medium",
+      "topic": "ATP",
+      "slo": "Explain, identify or apply the concept of atp.",
+      "concept_id": "CH7-C040"
+    },
+    {
+      "id": "BIO9CH7-160",
+      "q": "Which answer best addresses this biology question: which process requires ATP?",
+      "o": [
+        "Simple osmosis",
+        "Unassisted gas diffusion",
+        "Active transport across a membrane",
+        "Passive diffusion down a gradient"
+      ],
+      "a": 2,
+      "e": "Active transport uses cellular energy.",
+      "d": "Hard",
+      "topic": "ATP",
+      "slo": "Explain, identify or apply the concept of atp.",
+      "concept_id": "CH7-C040"
+    },
+    {
+      "id": "BIO9CH7-161",
+      "q": "How can ADP become ATP?",
+      "o": [
+        "By becoming DNA",
+        "By losing all phosphates",
+        "By absorbing carbon dioxide alone",
+        "By addition of phosphate using energy"
+      ],
+      "a": 3,
+      "e": "Energy input drives phosphorylation of ADP.",
+      "d": "Easy",
+      "topic": "ATP",
+      "slo": "Explain, identify or apply the concept of atp.",
+      "concept_id": "CH7-C041"
+    },
+    {
+      "id": "BIO9CH7-162",
+      "q": "Select the correct scientific statement: how can ADP become ATP?",
+      "o": [
+        "By losing all phosphates",
+        "By addition of phosphate using energy",
+        "By becoming DNA",
+        "By absorbing carbon dioxide alone"
+      ],
+      "a": 1,
+      "e": "Energy input drives phosphorylation of ADP.",
+      "d": "Medium",
+      "topic": "ATP",
+      "slo": "Explain, identify or apply the concept of atp.",
+      "concept_id": "CH7-C041"
+    },
+    {
+      "id": "BIO9CH7-163",
+      "q": "In a Chapter 7 assessment, how can ADP become ATP?",
+      "o": [
+        "By becoming DNA",
+        "By losing all phosphates",
+        "By absorbing carbon dioxide alone",
+        "By addition of phosphate using energy"
+      ],
+      "a": 3,
+      "e": "Energy input drives phosphorylation of ADP.",
+      "d": "Medium",
+      "topic": "ATP",
+      "slo": "Explain, identify or apply the concept of atp.",
+      "concept_id": "CH7-C041"
+    },
+    {
+      "id": "BIO9CH7-164",
+      "q": "Which answer best addresses this biology question: how can ADP become ATP?",
+      "o": [
+        "By addition of phosphate using energy",
+        "By losing all phosphates",
+        "By absorbing carbon dioxide alone",
+        "By becoming DNA"
+      ],
+      "a": 0,
+      "e": "Energy input drives phosphorylation of ADP.",
+      "d": "Hard",
+      "topic": "ATP",
+      "slo": "Explain, identify or apply the concept of atp.",
+      "concept_id": "CH7-C041"
+    },
+    {
+      "id": "BIO9CH7-165",
+      "q": "What is photosynthesis?",
+      "o": [
+        "Digestion of lipids",
+        "Breakdown of proteins only",
+        "Conversion of light energy into chemical energy in organic molecules",
+        "Release of nitrogen by lungs"
+      ],
+      "a": 2,
+      "e": "Photosynthesis uses light to build energy-rich organic molecules.",
+      "d": "Easy",
+      "topic": "Photosynthesis",
+      "slo": "Explain, identify or apply the concept of photosynthesis.",
+      "concept_id": "CH7-C042"
+    },
+    {
+      "id": "BIO9CH7-166",
+      "q": "Select the correct scientific statement: what is photosynthesis?",
+      "o": [
+        "Breakdown of proteins only",
+        "Conversion of light energy into chemical energy in organic molecules",
+        "Digestion of lipids",
+        "Release of nitrogen by lungs"
+      ],
+      "a": 1,
+      "e": "Photosynthesis uses light to build energy-rich organic molecules.",
+      "d": "Medium",
+      "topic": "Photosynthesis",
+      "slo": "Explain, identify or apply the concept of photosynthesis.",
+      "concept_id": "CH7-C042"
+    },
+    {
+      "id": "BIO9CH7-167",
+      "q": "In a Chapter 7 assessment, what is photosynthesis?",
+      "o": [
+        "Release of nitrogen by lungs",
+        "Breakdown of proteins only",
+        "Conversion of light energy into chemical energy in organic molecules",
+        "Digestion of lipids"
+      ],
+      "a": 2,
+      "e": "Photosynthesis uses light to build energy-rich organic molecules.",
+      "d": "Medium",
+      "topic": "Photosynthesis",
+      "slo": "Explain, identify or apply the concept of photosynthesis.",
+      "concept_id": "CH7-C042"
+    },
+    {
+      "id": "BIO9CH7-168",
+      "q": "Which answer best addresses this biology question: what is photosynthesis?",
+      "o": [
+        "Release of nitrogen by lungs",
+        "Digestion of lipids",
+        "Breakdown of proteins only",
+        "Conversion of light energy into chemical energy in organic molecules"
+      ],
+      "a": 3,
+      "e": "Photosynthesis uses light to build energy-rich organic molecules.",
+      "d": "Hard",
+      "topic": "Photosynthesis",
+      "slo": "Explain, identify or apply the concept of photosynthesis.",
+      "concept_id": "CH7-C042"
+    },
+    {
+      "id": "BIO9CH7-169",
+      "q": "Which organisms perform oxygenic photosynthesis?",
+      "o": [
+        "Green plants and many algae",
+        "All fungi",
+        "All animals",
+        "All viruses"
+      ],
+      "a": 0,
+      "e": "Photosynthetic plants and algae use pigments to capture light.",
+      "d": "Easy",
+      "topic": "Photosynthesis",
+      "slo": "Explain, identify or apply the concept of photosynthesis.",
+      "concept_id": "CH7-C043"
+    },
+    {
+      "id": "BIO9CH7-170",
+      "q": "Select the correct scientific statement: which organisms perform oxygenic photosynthesis?",
+      "o": [
+        "Green plants and many algae",
+        "All fungi",
+        "All viruses",
+        "All animals"
+      ],
+      "a": 0,
+      "e": "Photosynthetic plants and algae use pigments to capture light.",
+      "d": "Medium",
+      "topic": "Photosynthesis",
+      "slo": "Explain, identify or apply the concept of photosynthesis.",
+      "concept_id": "CH7-C043"
+    },
+    {
+      "id": "BIO9CH7-171",
+      "q": "In a Chapter 7 assessment, which organisms perform oxygenic photosynthesis?",
+      "o": [
+        "All viruses",
+        "Green plants and many algae",
+        "All fungi",
+        "All animals"
+      ],
+      "a": 1,
+      "e": "Photosynthetic plants and algae use pigments to capture light.",
+      "d": "Medium",
+      "topic": "Photosynthesis",
+      "slo": "Explain, identify or apply the concept of photosynthesis.",
+      "concept_id": "CH7-C043"
+    },
+    {
+      "id": "BIO9CH7-172",
+      "q": "Which answer best addresses this biology question: which organisms perform oxygenic photosynthesis?",
+      "o": [
+        "Green plants and many algae",
+        "All fungi",
+        "All viruses",
+        "All animals"
+      ],
+      "a": 0,
+      "e": "Photosynthetic plants and algae use pigments to capture light.",
+      "d": "Hard",
+      "topic": "Photosynthesis",
+      "slo": "Explain, identify or apply the concept of photosynthesis.",
+      "concept_id": "CH7-C043"
+    },
+    {
+      "id": "BIO9CH7-173",
+      "q": "Which cell organelle carries out photosynthesis in plants?",
+      "o": [
+        "Chloroplast",
+        "Lysosome",
+        "Mitochondrion",
+        "Nucleus"
+      ],
+      "a": 0,
+      "e": "Chloroplasts contain the photosynthetic machinery.",
+      "d": "Easy",
+      "topic": "Photosynthesis",
+      "slo": "Explain, identify or apply the concept of photosynthesis.",
+      "concept_id": "CH7-C044"
+    },
+    {
+      "id": "BIO9CH7-174",
+      "q": "Select the correct scientific statement: which cell organelle carries out photosynthesis in plants?",
+      "o": [
+        "Nucleus",
+        "Lysosome",
+        "Mitochondrion",
+        "Chloroplast"
+      ],
+      "a": 3,
+      "e": "Chloroplasts contain the photosynthetic machinery.",
+      "d": "Medium",
+      "topic": "Photosynthesis",
+      "slo": "Explain, identify or apply the concept of photosynthesis.",
+      "concept_id": "CH7-C044"
+    },
+    {
+      "id": "BIO9CH7-175",
+      "q": "In a Chapter 7 assessment, which cell organelle carries out photosynthesis in plants?",
+      "o": [
+        "Nucleus",
+        "Lysosome",
+        "Chloroplast",
+        "Mitochondrion"
+      ],
+      "a": 2,
+      "e": "Chloroplasts contain the photosynthetic machinery.",
+      "d": "Medium",
+      "topic": "Photosynthesis",
+      "slo": "Explain, identify or apply the concept of photosynthesis.",
+      "concept_id": "CH7-C044"
+    },
+    {
+      "id": "BIO9CH7-176",
+      "q": "Which answer best addresses this biology question: which cell organelle carries out photosynthesis in plants?",
+      "o": [
+        "Nucleus",
+        "Chloroplast",
+        "Mitochondrion",
+        "Lysosome"
+      ],
+      "a": 1,
+      "e": "Chloroplasts contain the photosynthetic machinery.",
+      "d": "Hard",
+      "topic": "Photosynthesis",
+      "slo": "Explain, identify or apply the concept of photosynthesis.",
+      "concept_id": "CH7-C044"
+    },
+    {
+      "id": "BIO9CH7-177",
+      "q": "What pigment mainly absorbs light for photosynthesis?",
+      "o": [
+        "Keratin",
+        "Melanin",
+        "Chlorophyll",
+        "Haemoglobin"
+      ],
+      "a": 2,
+      "e": "Chlorophyll captures light energy.",
+      "d": "Easy",
+      "topic": "Photosynthesis",
+      "slo": "Explain, identify or apply the concept of photosynthesis.",
+      "concept_id": "CH7-C045"
+    },
+    {
+      "id": "BIO9CH7-178",
+      "q": "Select the correct scientific statement: what pigment mainly absorbs light for photosynthesis?",
+      "o": [
+        "Haemoglobin",
+        "Keratin",
+        "Chlorophyll",
+        "Melanin"
+      ],
+      "a": 2,
+      "e": "Chlorophyll captures light energy.",
+      "d": "Medium",
+      "topic": "Photosynthesis",
+      "slo": "Explain, identify or apply the concept of photosynthesis.",
+      "concept_id": "CH7-C045"
+    },
+    {
+      "id": "BIO9CH7-179",
+      "q": "In a Chapter 7 assessment, what pigment mainly absorbs light for photosynthesis?",
+      "o": [
+        "Haemoglobin",
+        "Keratin",
+        "Chlorophyll",
+        "Melanin"
+      ],
+      "a": 2,
+      "e": "Chlorophyll captures light energy.",
+      "d": "Medium",
+      "topic": "Photosynthesis",
+      "slo": "Explain, identify or apply the concept of photosynthesis.",
+      "concept_id": "CH7-C045"
+    },
+    {
+      "id": "BIO9CH7-180",
+      "q": "Which answer best addresses this biology question: what pigment mainly absorbs light for photosynthesis?",
+      "o": [
+        "Chlorophyll",
+        "Haemoglobin",
+        "Keratin",
+        "Melanin"
+      ],
+      "a": 0,
+      "e": "Chlorophyll captures light energy.",
+      "d": "Hard",
+      "topic": "Photosynthesis",
+      "slo": "Explain, identify or apply the concept of photosynthesis.",
+      "concept_id": "CH7-C045"
+    },
+    {
+      "id": "BIO9CH7-181",
+      "q": "Which gas is taken in during photosynthesis?",
+      "o": [
+        "Nitrogen only",
+        "Carbon dioxide",
+        "Oxygen only",
+        "Helium"
+      ],
+      "a": 1,
+      "e": "Carbon dioxide supplies carbon for sugar synthesis.",
+      "d": "Easy",
+      "topic": "Photosynthesis",
+      "slo": "Explain, identify or apply the concept of photosynthesis.",
+      "concept_id": "CH7-C046"
+    },
+    {
+      "id": "BIO9CH7-182",
+      "q": "Select the correct scientific statement: which gas is taken in during photosynthesis?",
+      "o": [
+        "Nitrogen only",
+        "Oxygen only",
+        "Helium",
+        "Carbon dioxide"
+      ],
+      "a": 3,
+      "e": "Carbon dioxide supplies carbon for sugar synthesis.",
+      "d": "Medium",
+      "topic": "Photosynthesis",
+      "slo": "Explain, identify or apply the concept of photosynthesis.",
+      "concept_id": "CH7-C046"
+    },
+    {
+      "id": "BIO9CH7-183",
+      "q": "In a Chapter 7 assessment, which gas is taken in during photosynthesis?",
+      "o": [
+        "Oxygen only",
+        "Nitrogen only",
+        "Helium",
+        "Carbon dioxide"
+      ],
+      "a": 3,
+      "e": "Carbon dioxide supplies carbon for sugar synthesis.",
+      "d": "Medium",
+      "topic": "Photosynthesis",
+      "slo": "Explain, identify or apply the concept of photosynthesis.",
+      "concept_id": "CH7-C046"
+    },
+    {
+      "id": "BIO9CH7-184",
+      "q": "Which answer best addresses this biology question: which gas is taken in during photosynthesis?",
+      "o": [
+        "Nitrogen only",
+        "Oxygen only",
+        "Helium",
+        "Carbon dioxide"
+      ],
+      "a": 3,
+      "e": "Carbon dioxide supplies carbon for sugar synthesis.",
+      "d": "Hard",
+      "topic": "Photosynthesis",
+      "slo": "Explain, identify or apply the concept of photosynthesis.",
+      "concept_id": "CH7-C046"
+    },
+    {
+      "id": "BIO9CH7-185",
+      "q": "Which gas is released during oxygenic photosynthesis?",
+      "o": [
+        "Oxygen",
+        "Carbon monoxide",
+        "Methane",
+        "Nitrogen dioxide"
+      ],
+      "a": 0,
+      "e": "Water splitting releases oxygen during light-dependent reactions.",
+      "d": "Easy",
+      "topic": "Photosynthesis",
+      "slo": "Explain, identify or apply the concept of photosynthesis.",
+      "concept_id": "CH7-C047"
+    },
+    {
+      "id": "BIO9CH7-186",
+      "q": "Select the correct scientific statement: which gas is released during oxygenic photosynthesis?",
+      "o": [
+        "Oxygen",
+        "Methane",
+        "Nitrogen dioxide",
+        "Carbon monoxide"
+      ],
+      "a": 0,
+      "e": "Water splitting releases oxygen during light-dependent reactions.",
+      "d": "Medium",
+      "topic": "Photosynthesis",
+      "slo": "Explain, identify or apply the concept of photosynthesis.",
+      "concept_id": "CH7-C047"
+    },
+    {
+      "id": "BIO9CH7-187",
+      "q": "In a Chapter 7 assessment, which gas is released during oxygenic photosynthesis?",
+      "o": [
+        "Carbon monoxide",
+        "Methane",
+        "Nitrogen dioxide",
+        "Oxygen"
+      ],
+      "a": 3,
+      "e": "Water splitting releases oxygen during light-dependent reactions.",
+      "d": "Medium",
+      "topic": "Photosynthesis",
+      "slo": "Explain, identify or apply the concept of photosynthesis.",
+      "concept_id": "CH7-C047"
+    },
+    {
+      "id": "BIO9CH7-188",
+      "q": "Which answer best addresses this biology question: which gas is released during oxygenic photosynthesis?",
+      "o": [
+        "Methane",
+        "Carbon monoxide",
+        "Nitrogen dioxide",
+        "Oxygen"
+      ],
+      "a": 3,
+      "e": "Water splitting releases oxygen during light-dependent reactions.",
+      "d": "Hard",
+      "topic": "Photosynthesis",
+      "slo": "Explain, identify or apply the concept of photosynthesis.",
+      "concept_id": "CH7-C047"
+    },
+    {
+      "id": "BIO9CH7-189",
+      "q": "What is the primary energy source for photosynthesis?",
+      "o": [
+        "Soil minerals alone",
+        "ATP from animals",
+        "Sunlight",
+        "Wind alone"
+      ],
+      "a": 2,
+      "e": "Light supplies energy for the photosynthetic process.",
+      "d": "Easy",
+      "topic": "Photosynthesis",
+      "slo": "Explain, identify or apply the concept of photosynthesis.",
+      "concept_id": "CH7-C048"
+    },
+    {
+      "id": "BIO9CH7-190",
+      "q": "Select the correct scientific statement: what is the primary energy source for photosynthesis?",
+      "o": [
+        "Soil minerals alone",
+        "ATP from animals",
+        "Wind alone",
+        "Sunlight"
+      ],
+      "a": 3,
+      "e": "Light supplies energy for the photosynthetic process.",
+      "d": "Medium",
+      "topic": "Photosynthesis",
+      "slo": "Explain, identify or apply the concept of photosynthesis.",
+      "concept_id": "CH7-C048"
+    },
+    {
+      "id": "BIO9CH7-191",
+      "q": "In a Chapter 7 assessment, what is the primary energy source for photosynthesis?",
+      "o": [
+        "Soil minerals alone",
+        "ATP from animals",
+        "Wind alone",
+        "Sunlight"
+      ],
+      "a": 3,
+      "e": "Light supplies energy for the photosynthetic process.",
+      "d": "Medium",
+      "topic": "Photosynthesis",
+      "slo": "Explain, identify or apply the concept of photosynthesis.",
+      "concept_id": "CH7-C048"
+    },
+    {
+      "id": "BIO9CH7-192",
+      "q": "Which answer best addresses this biology question: what is the primary energy source for photosynthesis?",
+      "o": [
+        "ATP from animals",
+        "Soil minerals alone",
+        "Sunlight",
+        "Wind alone"
+      ],
+      "a": 2,
+      "e": "Light supplies energy for the photosynthetic process.",
+      "d": "Hard",
+      "topic": "Photosynthesis",
+      "slo": "Explain, identify or apply the concept of photosynthesis.",
+      "concept_id": "CH7-C048"
+    },
+    {
+      "id": "BIO9CH7-193",
+      "q": "What is the role of water in photosynthesis?",
+      "o": [
+        "Supplies carbon atoms for glucose",
+        "Prevents light absorption",
+        "Provides electrons and hydrogen; oxygen is released from it",
+        "Acts as a plant hormone"
+      ],
+      "a": 2,
+      "e": "Water is split during the light-dependent reactions.",
+      "d": "Easy",
+      "topic": "Photosynthesis",
+      "slo": "Explain, identify or apply the concept of photosynthesis.",
+      "concept_id": "CH7-C049"
+    },
+    {
+      "id": "BIO9CH7-194",
+      "q": "Select the correct scientific statement: what is the role of water in photosynthesis?",
+      "o": [
+        "Supplies carbon atoms for glucose",
+        "Provides electrons and hydrogen; oxygen is released from it",
+        "Acts as a plant hormone",
+        "Prevents light absorption"
+      ],
+      "a": 1,
+      "e": "Water is split during the light-dependent reactions.",
+      "d": "Medium",
+      "topic": "Photosynthesis",
+      "slo": "Explain, identify or apply the concept of photosynthesis.",
+      "concept_id": "CH7-C049"
+    },
+    {
+      "id": "BIO9CH7-195",
+      "q": "In a Chapter 7 assessment, what is the role of water in photosynthesis?",
+      "o": [
+        "Acts as a plant hormone",
+        "Supplies carbon atoms for glucose",
+        "Provides electrons and hydrogen; oxygen is released from it",
+        "Prevents light absorption"
+      ],
+      "a": 2,
+      "e": "Water is split during the light-dependent reactions.",
+      "d": "Medium",
+      "topic": "Photosynthesis",
+      "slo": "Explain, identify or apply the concept of photosynthesis.",
+      "concept_id": "CH7-C049"
+    },
+    {
+      "id": "BIO9CH7-196",
+      "q": "Which answer best addresses this biology question: what is the role of water in photosynthesis?",
+      "o": [
+        "Provides electrons and hydrogen; oxygen is released from it",
+        "Acts as a plant hormone",
+        "Supplies carbon atoms for glucose",
+        "Prevents light absorption"
+      ],
+      "a": 0,
+      "e": "Water is split during the light-dependent reactions.",
+      "d": "Hard",
+      "topic": "Photosynthesis",
+      "slo": "Explain, identify or apply the concept of photosynthesis.",
+      "concept_id": "CH7-C049"
+    },
+    {
+      "id": "BIO9CH7-197",
+      "q": "Which raw materials are used in the overall photosynthesis equation?",
+      "o": [
+        "Carbon dioxide and water",
+        "Protein and nitrogen",
+        "ATP and starch",
+        "Glucose and oxygen"
+      ],
+      "a": 0,
+      "e": "CO2 and water are converted into carbohydrate and oxygen using light.",
+      "d": "Easy",
+      "topic": "Photosynthesis",
+      "slo": "Explain, identify or apply the concept of photosynthesis.",
+      "concept_id": "CH7-C050"
+    },
+    {
+      "id": "BIO9CH7-198",
+      "q": "Select the correct scientific statement: which raw materials are used in the overall photosynthesis equation?",
+      "o": [
+        "ATP and starch",
+        "Glucose and oxygen",
+        "Carbon dioxide and water",
+        "Protein and nitrogen"
+      ],
+      "a": 2,
+      "e": "CO2 and water are converted into carbohydrate and oxygen using light.",
+      "d": "Medium",
+      "topic": "Photosynthesis",
+      "slo": "Explain, identify or apply the concept of photosynthesis.",
+      "concept_id": "CH7-C050"
+    },
+    {
+      "id": "BIO9CH7-199",
+      "q": "In a Chapter 7 assessment, which raw materials are used in the overall photosynthesis equation?",
+      "o": [
+        "Protein and nitrogen",
+        "Glucose and oxygen",
+        "ATP and starch",
+        "Carbon dioxide and water"
+      ],
+      "a": 3,
+      "e": "CO2 and water are converted into carbohydrate and oxygen using light.",
+      "d": "Medium",
+      "topic": "Photosynthesis",
+      "slo": "Explain, identify or apply the concept of photosynthesis.",
+      "concept_id": "CH7-C050"
+    },
+    {
+      "id": "BIO9CH7-200",
+      "q": "Which answer best addresses this biology question: which raw materials are used in the overall photosynthesis equation?",
+      "o": [
+        "Glucose and oxygen",
+        "ATP and starch",
+        "Protein and nitrogen",
+        "Carbon dioxide and water"
+      ],
+      "a": 3,
+      "e": "CO2 and water are converted into carbohydrate and oxygen using light.",
+      "d": "Hard",
+      "topic": "Photosynthesis",
+      "slo": "Explain, identify or apply the concept of photosynthesis.",
+      "concept_id": "CH7-C050"
+    },
+    {
+      "id": "BIO9CH7-201",
+      "q": "What are the major products of the overall photosynthesis equation?",
+      "o": [
+        "Protein and ammonia",
+        "Glucose and oxygen",
+        "Nitrogen and methane",
+        "Carbon dioxide and water"
+      ],
+      "a": 1,
+      "e": "Oxygenic photosynthesis forms carbohydrate and oxygen overall.",
+      "d": "Easy",
+      "topic": "Photosynthesis",
+      "slo": "Explain, identify or apply the concept of photosynthesis.",
+      "concept_id": "CH7-C051"
+    },
+    {
+      "id": "BIO9CH7-202",
+      "q": "Select the correct scientific statement: what are the major products of the overall photosynthesis equation?",
+      "o": [
+        "Glucose and oxygen",
+        "Protein and ammonia",
+        "Carbon dioxide and water",
+        "Nitrogen and methane"
+      ],
+      "a": 0,
+      "e": "Oxygenic photosynthesis forms carbohydrate and oxygen overall.",
+      "d": "Medium",
+      "topic": "Photosynthesis",
+      "slo": "Explain, identify or apply the concept of photosynthesis.",
+      "concept_id": "CH7-C051"
+    },
+    {
+      "id": "BIO9CH7-203",
+      "q": "In a Chapter 7 assessment, what are the major products of the overall photosynthesis equation?",
+      "o": [
+        "Carbon dioxide and water",
+        "Nitrogen and methane",
+        "Glucose and oxygen",
+        "Protein and ammonia"
+      ],
+      "a": 2,
+      "e": "Oxygenic photosynthesis forms carbohydrate and oxygen overall.",
+      "d": "Medium",
+      "topic": "Photosynthesis",
+      "slo": "Explain, identify or apply the concept of photosynthesis.",
+      "concept_id": "CH7-C051"
+    },
+    {
+      "id": "BIO9CH7-204",
+      "q": "Which answer best addresses this biology question: what are the major products of the overall photosynthesis equation?",
+      "o": [
+        "Carbon dioxide and water",
+        "Glucose and oxygen",
+        "Protein and ammonia",
+        "Nitrogen and methane"
+      ],
+      "a": 1,
+      "e": "Oxygenic photosynthesis forms carbohydrate and oxygen overall.",
+      "d": "Hard",
+      "topic": "Photosynthesis",
+      "slo": "Explain, identify or apply the concept of photosynthesis.",
+      "concept_id": "CH7-C051"
+    },
+    {
+      "id": "BIO9CH7-205",
+      "q": "Where do light-dependent reactions occur?",
+      "o": [
+        "Thylakoid membranes",
+        "Cell wall",
+        "Cytoplasm only",
+        "Nuclear envelope"
+      ],
+      "a": 0,
+      "e": "Thylakoid membranes hold photosystems and electron transport proteins.",
+      "d": "Easy",
+      "topic": "Photosynthesis",
+      "slo": "Explain, identify or apply the concept of photosynthesis.",
+      "concept_id": "CH7-C052"
+    },
+    {
+      "id": "BIO9CH7-206",
+      "q": "Select the correct scientific statement: where do light-dependent reactions occur?",
+      "o": [
+        "Cell wall",
+        "Thylakoid membranes",
+        "Cytoplasm only",
+        "Nuclear envelope"
+      ],
+      "a": 1,
+      "e": "Thylakoid membranes hold photosystems and electron transport proteins.",
+      "d": "Medium",
+      "topic": "Photosynthesis",
+      "slo": "Explain, identify or apply the concept of photosynthesis.",
+      "concept_id": "CH7-C052"
+    },
+    {
+      "id": "BIO9CH7-207",
+      "q": "In a Chapter 7 assessment, where do light-dependent reactions occur?",
+      "o": [
+        "Nuclear envelope",
+        "Thylakoid membranes",
+        "Cytoplasm only",
+        "Cell wall"
+      ],
+      "a": 1,
+      "e": "Thylakoid membranes hold photosystems and electron transport proteins.",
+      "d": "Medium",
+      "topic": "Photosynthesis",
+      "slo": "Explain, identify or apply the concept of photosynthesis.",
+      "concept_id": "CH7-C052"
+    },
+    {
+      "id": "BIO9CH7-208",
+      "q": "Which answer best addresses this biology question: where do light-dependent reactions occur?",
+      "o": [
+        "Cell wall",
+        "Thylakoid membranes",
+        "Nuclear envelope",
+        "Cytoplasm only"
+      ],
+      "a": 1,
+      "e": "Thylakoid membranes hold photosystems and electron transport proteins.",
+      "d": "Hard",
+      "topic": "Photosynthesis",
+      "slo": "Explain, identify or apply the concept of photosynthesis.",
+      "concept_id": "CH7-C052"
+    },
+    {
+      "id": "BIO9CH7-209",
+      "q": "Where does the Calvin cycle occur?",
+      "o": [
+        "Mitochondrial matrix",
+        "Vacuole",
+        "Stroma of the chloroplast",
+        "Ribosome"
+      ],
+      "a": 2,
+      "e": "Carbon fixation reactions occur in chloroplast stroma.",
+      "d": "Easy",
+      "topic": "Photosynthesis",
+      "slo": "Explain, identify or apply the concept of photosynthesis.",
+      "concept_id": "CH7-C053"
+    },
+    {
+      "id": "BIO9CH7-210",
+      "q": "Select the correct scientific statement: where does the Calvin cycle occur?",
+      "o": [
+        "Ribosome",
+        "Vacuole",
+        "Mitochondrial matrix",
+        "Stroma of the chloroplast"
+      ],
+      "a": 3,
+      "e": "Carbon fixation reactions occur in chloroplast stroma.",
+      "d": "Medium",
+      "topic": "Photosynthesis",
+      "slo": "Explain, identify or apply the concept of photosynthesis.",
+      "concept_id": "CH7-C053"
+    },
+    {
+      "id": "BIO9CH7-211",
+      "q": "In a Chapter 7 assessment, where does the Calvin cycle occur?",
+      "o": [
+        "Stroma of the chloroplast",
+        "Ribosome",
+        "Vacuole",
+        "Mitochondrial matrix"
+      ],
+      "a": 0,
+      "e": "Carbon fixation reactions occur in chloroplast stroma.",
+      "d": "Medium",
+      "topic": "Photosynthesis",
+      "slo": "Explain, identify or apply the concept of photosynthesis.",
+      "concept_id": "CH7-C053"
+    },
+    {
+      "id": "BIO9CH7-212",
+      "q": "Which answer best addresses this biology question: where does the Calvin cycle occur?",
+      "o": [
+        "Stroma of the chloroplast",
+        "Ribosome",
+        "Vacuole",
+        "Mitochondrial matrix"
+      ],
+      "a": 0,
+      "e": "Carbon fixation reactions occur in chloroplast stroma.",
+      "d": "Hard",
+      "topic": "Photosynthesis",
+      "slo": "Explain, identify or apply the concept of photosynthesis.",
+      "concept_id": "CH7-C053"
+    },
+    {
+      "id": "BIO9CH7-213",
+      "q": "Which molecules from light reactions help power carbon fixation?",
+      "o": [
+        "ADP and oxygen only",
+        "ATP and NADPH",
+        "DNA and RNA",
+        "Oxygen and starch"
+      ],
+      "a": 1,
+      "e": "ATP supplies energy and NADPH reducing power.",
+      "d": "Easy",
+      "topic": "Photosynthesis",
+      "slo": "Explain, identify or apply the concept of photosynthesis.",
+      "concept_id": "CH7-C054"
+    },
+    {
+      "id": "BIO9CH7-214",
+      "q": "Select the correct scientific statement: which molecules from light reactions help power carbon fixation?",
+      "o": [
+        "ATP and NADPH",
+        "DNA and RNA",
+        "ADP and oxygen only",
+        "Oxygen and starch"
+      ],
+      "a": 0,
+      "e": "ATP supplies energy and NADPH reducing power.",
+      "d": "Medium",
+      "topic": "Photosynthesis",
+      "slo": "Explain, identify or apply the concept of photosynthesis.",
+      "concept_id": "CH7-C054"
+    },
+    {
+      "id": "BIO9CH7-215",
+      "q": "In a Chapter 7 assessment, which molecules from light reactions help power carbon fixation?",
+      "o": [
+        "ATP and NADPH",
+        "ADP and oxygen only",
+        "DNA and RNA",
+        "Oxygen and starch"
+      ],
+      "a": 0,
+      "e": "ATP supplies energy and NADPH reducing power.",
+      "d": "Medium",
+      "topic": "Photosynthesis",
+      "slo": "Explain, identify or apply the concept of photosynthesis.",
+      "concept_id": "CH7-C054"
+    },
+    {
+      "id": "BIO9CH7-216",
+      "q": "Which answer best addresses this biology question: which molecules from light reactions help power carbon fixation?",
+      "o": [
+        "DNA and RNA",
+        "Oxygen and starch",
+        "ATP and NADPH",
+        "ADP and oxygen only"
+      ],
+      "a": 2,
+      "e": "ATP supplies energy and NADPH reducing power.",
+      "d": "Hard",
+      "topic": "Photosynthesis",
+      "slo": "Explain, identify or apply the concept of photosynthesis.",
+      "concept_id": "CH7-C054"
+    },
+    {
+      "id": "BIO9CH7-217",
+      "q": "What is photolysis in photosynthesis?",
+      "o": [
+        "Movement of starch",
+        "Breakdown of glucose by oxygen",
+        "Formation of protein",
+        "Light-driven splitting of water"
+      ],
+      "a": 3,
+      "e": "Water splitting replaces electrons and releases oxygen.",
+      "d": "Easy",
+      "topic": "Photosynthesis",
+      "slo": "Explain, identify or apply the concept of photosynthesis.",
+      "concept_id": "CH7-C055"
+    },
+    {
+      "id": "BIO9CH7-218",
+      "q": "Select the correct scientific statement: what is photolysis in photosynthesis?",
+      "o": [
+        "Formation of protein",
+        "Light-driven splitting of water",
+        "Breakdown of glucose by oxygen",
+        "Movement of starch"
+      ],
+      "a": 1,
+      "e": "Water splitting replaces electrons and releases oxygen.",
+      "d": "Medium",
+      "topic": "Photosynthesis",
+      "slo": "Explain, identify or apply the concept of photosynthesis.",
+      "concept_id": "CH7-C055"
+    },
+    {
+      "id": "BIO9CH7-219",
+      "q": "In a Chapter 7 assessment, what is photolysis in photosynthesis?",
+      "o": [
+        "Movement of starch",
+        "Light-driven splitting of water",
+        "Breakdown of glucose by oxygen",
+        "Formation of protein"
+      ],
+      "a": 1,
+      "e": "Water splitting replaces electrons and releases oxygen.",
+      "d": "Medium",
+      "topic": "Photosynthesis",
+      "slo": "Explain, identify or apply the concept of photosynthesis.",
+      "concept_id": "CH7-C055"
+    },
+    {
+      "id": "BIO9CH7-220",
+      "q": "Which answer best addresses this biology question: what is photolysis in photosynthesis?",
+      "o": [
+        "Formation of protein",
+        "Light-driven splitting of water",
+        "Movement of starch",
+        "Breakdown of glucose by oxygen"
+      ],
+      "a": 1,
+      "e": "Water splitting replaces electrons and releases oxygen.",
+      "d": "Hard",
+      "topic": "Photosynthesis",
+      "slo": "Explain, identify or apply the concept of photosynthesis.",
+      "concept_id": "CH7-C055"
+    },
+    {
+      "id": "BIO9CH7-221",
+      "q": "What is carbon fixation?",
+      "o": [
+        "Incorporation of inorganic carbon dioxide into organic molecules",
+        "Breakdown of DNA",
+        "Release of carbon dioxide by muscles",
+        "Conversion of oxygen into nitrogen"
+      ],
+      "a": 0,
+      "e": "The Calvin cycle incorporates CO2 into organic intermediates.",
+      "d": "Easy",
+      "topic": "Photosynthesis",
+      "slo": "Explain, identify or apply the concept of photosynthesis.",
+      "concept_id": "CH7-C056"
+    },
+    {
+      "id": "BIO9CH7-222",
+      "q": "Select the correct scientific statement: what is carbon fixation?",
+      "o": [
+        "Release of carbon dioxide by muscles",
+        "Incorporation of inorganic carbon dioxide into organic molecules",
+        "Conversion of oxygen into nitrogen",
+        "Breakdown of DNA"
+      ],
+      "a": 1,
+      "e": "The Calvin cycle incorporates CO2 into organic intermediates.",
+      "d": "Medium",
+      "topic": "Photosynthesis",
+      "slo": "Explain, identify or apply the concept of photosynthesis.",
+      "concept_id": "CH7-C056"
+    },
+    {
+      "id": "BIO9CH7-223",
+      "q": "In a Chapter 7 assessment, what is carbon fixation?",
+      "o": [
+        "Conversion of oxygen into nitrogen",
+        "Release of carbon dioxide by muscles",
+        "Incorporation of inorganic carbon dioxide into organic molecules",
+        "Breakdown of DNA"
+      ],
+      "a": 2,
+      "e": "The Calvin cycle incorporates CO2 into organic intermediates.",
+      "d": "Medium",
+      "topic": "Photosynthesis",
+      "slo": "Explain, identify or apply the concept of photosynthesis.",
+      "concept_id": "CH7-C056"
+    },
+    {
+      "id": "BIO9CH7-224",
+      "q": "Which answer best addresses this biology question: what is carbon fixation?",
+      "o": [
+        "Conversion of oxygen into nitrogen",
+        "Release of carbon dioxide by muscles",
+        "Incorporation of inorganic carbon dioxide into organic molecules",
+        "Breakdown of DNA"
+      ],
+      "a": 2,
+      "e": "The Calvin cycle incorporates CO2 into organic intermediates.",
+      "d": "Hard",
+      "topic": "Photosynthesis",
+      "slo": "Explain, identify or apply the concept of photosynthesis.",
+      "concept_id": "CH7-C056"
+    },
+    {
+      "id": "BIO9CH7-225",
+      "q": "Why is chlorophyll important?",
+      "o": [
+        "It absorbs photons that initiate light reactions",
+        "It pumps blood",
+        "It digests proteins",
+        "It stores all genetic information"
+      ],
+      "a": 0,
+      "e": "Pigments capture light energy for photosynthesis.",
+      "d": "Easy",
+      "topic": "Photosynthesis",
+      "slo": "Explain, identify or apply the concept of photosynthesis.",
+      "concept_id": "CH7-C057"
+    },
+    {
+      "id": "BIO9CH7-226",
+      "q": "Select the correct scientific statement: why is chlorophyll important?",
+      "o": [
+        "It absorbs photons that initiate light reactions",
+        "It stores all genetic information",
+        "It pumps blood",
+        "It digests proteins"
+      ],
+      "a": 0,
+      "e": "Pigments capture light energy for photosynthesis.",
+      "d": "Medium",
+      "topic": "Photosynthesis",
+      "slo": "Explain, identify or apply the concept of photosynthesis.",
+      "concept_id": "CH7-C057"
+    },
+    {
+      "id": "BIO9CH7-227",
+      "q": "In a Chapter 7 assessment, why is chlorophyll important?",
+      "o": [
+        "It stores all genetic information",
+        "It absorbs photons that initiate light reactions",
+        "It pumps blood",
+        "It digests proteins"
+      ],
+      "a": 1,
+      "e": "Pigments capture light energy for photosynthesis.",
+      "d": "Medium",
+      "topic": "Photosynthesis",
+      "slo": "Explain, identify or apply the concept of photosynthesis.",
+      "concept_id": "CH7-C057"
+    },
+    {
+      "id": "BIO9CH7-228",
+      "q": "Which answer best addresses this biology question: why is chlorophyll important?",
+      "o": [
+        "It absorbs photons that initiate light reactions",
+        "It stores all genetic information",
+        "It digests proteins",
+        "It pumps blood"
+      ],
+      "a": 0,
+      "e": "Pigments capture light energy for photosynthesis.",
+      "d": "Hard",
+      "topic": "Photosynthesis",
+      "slo": "Explain, identify or apply the concept of photosynthesis.",
+      "concept_id": "CH7-C057"
+    },
+    {
+      "id": "BIO9CH7-229",
+      "q": "What is cellular respiration?",
+      "o": [
+        "Making chlorophyll only",
+        "Processes that release usable energy from organic molecules",
+        "Movement of water only",
+        "Production of pollen only"
+      ],
+      "a": 1,
+      "e": "Cells harvest energy from fuels such as glucose.",
+      "d": "Easy",
+      "topic": "Respiration",
+      "slo": "Explain, identify or apply the concept of respiration.",
+      "concept_id": "CH7-C058"
+    },
+    {
+      "id": "BIO9CH7-230",
+      "q": "Select the correct scientific statement: what is cellular respiration?",
+      "o": [
+        "Processes that release usable energy from organic molecules",
+        "Making chlorophyll only",
+        "Movement of water only",
+        "Production of pollen only"
+      ],
+      "a": 0,
+      "e": "Cells harvest energy from fuels such as glucose.",
+      "d": "Medium",
+      "topic": "Respiration",
+      "slo": "Explain, identify or apply the concept of respiration.",
+      "concept_id": "CH7-C058"
+    },
+    {
+      "id": "BIO9CH7-231",
+      "q": "In a Chapter 7 assessment, what is cellular respiration?",
+      "o": [
+        "Making chlorophyll only",
+        "Processes that release usable energy from organic molecules",
+        "Movement of water only",
+        "Production of pollen only"
+      ],
+      "a": 1,
+      "e": "Cells harvest energy from fuels such as glucose.",
+      "d": "Medium",
+      "topic": "Respiration",
+      "slo": "Explain, identify or apply the concept of respiration.",
+      "concept_id": "CH7-C058"
+    },
+    {
+      "id": "BIO9CH7-232",
+      "q": "Which answer best addresses this biology question: what is cellular respiration?",
+      "o": [
+        "Movement of water only",
+        "Processes that release usable energy from organic molecules",
+        "Making chlorophyll only",
+        "Production of pollen only"
+      ],
+      "a": 1,
+      "e": "Cells harvest energy from fuels such as glucose.",
+      "d": "Hard",
+      "topic": "Respiration",
+      "slo": "Explain, identify or apply the concept of respiration.",
+      "concept_id": "CH7-C058"
+    },
+    {
+      "id": "BIO9CH7-233",
+      "q": "What is aerobic respiration?",
+      "o": [
+        "Formation of DNA only",
+        "Photosynthesis at night",
+        "Respiration using oxygen as final electron acceptor",
+        "Respiration without any enzymes"
+      ],
+      "a": 2,
+      "e": "Oxygen allows efficient electron transport and ATP production.",
+      "d": "Easy",
+      "topic": "Respiration",
+      "slo": "Explain, identify or apply the concept of respiration.",
+      "concept_id": "CH7-C059"
+    },
+    {
+      "id": "BIO9CH7-234",
+      "q": "Select the correct scientific statement: what is aerobic respiration?",
+      "o": [
+        "Photosynthesis at night",
+        "Respiration without any enzymes",
+        "Formation of DNA only",
+        "Respiration using oxygen as final electron acceptor"
+      ],
+      "a": 3,
+      "e": "Oxygen allows efficient electron transport and ATP production.",
+      "d": "Medium",
+      "topic": "Respiration",
+      "slo": "Explain, identify or apply the concept of respiration.",
+      "concept_id": "CH7-C059"
+    },
+    {
+      "id": "BIO9CH7-235",
+      "q": "In a Chapter 7 assessment, what is aerobic respiration?",
+      "o": [
+        "Respiration using oxygen as final electron acceptor",
+        "Formation of DNA only",
+        "Respiration without any enzymes",
+        "Photosynthesis at night"
+      ],
+      "a": 0,
+      "e": "Oxygen allows efficient electron transport and ATP production.",
+      "d": "Medium",
+      "topic": "Respiration",
+      "slo": "Explain, identify or apply the concept of respiration.",
+      "concept_id": "CH7-C059"
+    },
+    {
+      "id": "BIO9CH7-236",
+      "q": "Which answer best addresses this biology question: what is aerobic respiration?",
+      "o": [
+        "Respiration using oxygen as final electron acceptor",
+        "Respiration without any enzymes",
+        "Formation of DNA only",
+        "Photosynthesis at night"
+      ],
+      "a": 0,
+      "e": "Oxygen allows efficient electron transport and ATP production.",
+      "d": "Hard",
+      "topic": "Respiration",
+      "slo": "Explain, identify or apply the concept of respiration.",
+      "concept_id": "CH7-C059"
+    },
+    {
+      "id": "BIO9CH7-237",
+      "q": "What is anaerobic respiration in the chapter's introductory contrast?",
+      "o": [
+        "Active transport only",
+        "Energy release requiring sunlight",
+        "Photosynthesis",
+        "Energy release without using oxygen"
+      ],
+      "a": 3,
+      "e": "The chapter contrasts oxygen-dependent and oxygen-independent energy pathways.",
+      "d": "Easy",
+      "topic": "Respiration",
+      "slo": "Explain, identify or apply the concept of respiration.",
+      "concept_id": "CH7-C060"
+    },
+    {
+      "id": "BIO9CH7-238",
+      "q": "Select the correct scientific statement: what is anaerobic respiration in the chapter's introductory contrast?",
+      "o": [
+        "Active transport only",
+        "Photosynthesis",
+        "Energy release without using oxygen",
+        "Energy release requiring sunlight"
+      ],
+      "a": 2,
+      "e": "The chapter contrasts oxygen-dependent and oxygen-independent energy pathways.",
+      "d": "Medium",
+      "topic": "Respiration",
+      "slo": "Explain, identify or apply the concept of respiration.",
+      "concept_id": "CH7-C060"
+    },
+    {
+      "id": "BIO9CH7-239",
+      "q": "In a Chapter 7 assessment, what is anaerobic respiration in the chapter's introductory contrast?",
+      "o": [
+        "Photosynthesis",
+        "Active transport only",
+        "Energy release without using oxygen",
+        "Energy release requiring sunlight"
+      ],
+      "a": 2,
+      "e": "The chapter contrasts oxygen-dependent and oxygen-independent energy pathways.",
+      "d": "Medium",
+      "topic": "Respiration",
+      "slo": "Explain, identify or apply the concept of respiration.",
+      "concept_id": "CH7-C060"
+    },
+    {
+      "id": "BIO9CH7-240",
+      "q": "Which answer best addresses this biology question: what is anaerobic respiration in the chapter's introductory contrast?",
+      "o": [
+        "Energy release without using oxygen",
+        "Photosynthesis",
+        "Energy release requiring sunlight",
+        "Active transport only"
+      ],
+      "a": 0,
+      "e": "The chapter contrasts oxygen-dependent and oxygen-independent energy pathways.",
+      "d": "Hard",
+      "topic": "Respiration",
+      "slo": "Explain, identify or apply the concept of respiration.",
+      "concept_id": "CH7-C060"
+    },
+    {
+      "id": "BIO9CH7-241",
+      "q": "Where does glycolysis take place?",
+      "o": [
+        "Chloroplast thylakoids",
+        "Nucleus",
+        "Cell wall",
+        "Cytoplasm"
+      ],
+      "a": 3,
+      "e": "Glycolysis occurs in the cytosol.",
+      "d": "Easy",
+      "topic": "Respiration",
+      "slo": "Explain, identify or apply the concept of respiration.",
+      "concept_id": "CH7-C061"
+    },
+    {
+      "id": "BIO9CH7-242",
+      "q": "Select the correct scientific statement: where does glycolysis take place?",
+      "o": [
+        "Nucleus",
+        "Cell wall",
+        "Cytoplasm",
+        "Chloroplast thylakoids"
+      ],
+      "a": 2,
+      "e": "Glycolysis occurs in the cytosol.",
+      "d": "Medium",
+      "topic": "Respiration",
+      "slo": "Explain, identify or apply the concept of respiration.",
+      "concept_id": "CH7-C061"
+    },
+    {
+      "id": "BIO9CH7-243",
+      "q": "In a Chapter 7 assessment, where does glycolysis take place?",
+      "o": [
+        "Chloroplast thylakoids",
+        "Cell wall",
+        "Cytoplasm",
+        "Nucleus"
+      ],
+      "a": 2,
+      "e": "Glycolysis occurs in the cytosol.",
+      "d": "Medium",
+      "topic": "Respiration",
+      "slo": "Explain, identify or apply the concept of respiration.",
+      "concept_id": "CH7-C061"
+    },
+    {
+      "id": "BIO9CH7-244",
+      "q": "Which answer best addresses this biology question: where does glycolysis take place?",
+      "o": [
+        "Chloroplast thylakoids",
+        "Cell wall",
+        "Nucleus",
+        "Cytoplasm"
+      ],
+      "a": 3,
+      "e": "Glycolysis occurs in the cytosol.",
+      "d": "Hard",
+      "topic": "Respiration",
+      "slo": "Explain, identify or apply the concept of respiration.",
+      "concept_id": "CH7-C061"
+    },
+    {
+      "id": "BIO9CH7-245",
+      "q": "What does glycolysis convert one glucose molecule into?",
+      "o": [
+        "Two DNA molecules",
+        "Two pyruvate molecules",
+        "Two oxygen molecules",
+        "One protein"
+      ],
+      "a": 1,
+      "e": "Glycolysis breaks six-carbon glucose into two three-carbon pyruvates.",
+      "d": "Easy",
+      "topic": "Respiration",
+      "slo": "Explain, identify or apply the concept of respiration.",
+      "concept_id": "CH7-C062"
+    },
+    {
+      "id": "BIO9CH7-246",
+      "q": "Select the correct scientific statement: what does glycolysis convert one glucose molecule into?",
+      "o": [
+        "One protein",
+        "Two pyruvate molecules",
+        "Two DNA molecules",
+        "Two oxygen molecules"
+      ],
+      "a": 1,
+      "e": "Glycolysis breaks six-carbon glucose into two three-carbon pyruvates.",
+      "d": "Medium",
+      "topic": "Respiration",
+      "slo": "Explain, identify or apply the concept of respiration.",
+      "concept_id": "CH7-C062"
+    },
+    {
+      "id": "BIO9CH7-247",
+      "q": "In a Chapter 7 assessment, what does glycolysis convert one glucose molecule into?",
+      "o": [
+        "Two DNA molecules",
+        "Two oxygen molecules",
+        "One protein",
+        "Two pyruvate molecules"
+      ],
+      "a": 3,
+      "e": "Glycolysis breaks six-carbon glucose into two three-carbon pyruvates.",
+      "d": "Medium",
+      "topic": "Respiration",
+      "slo": "Explain, identify or apply the concept of respiration.",
+      "concept_id": "CH7-C062"
+    },
+    {
+      "id": "BIO9CH7-248",
+      "q": "Which answer best addresses this biology question: what does glycolysis convert one glucose molecule into?",
+      "o": [
+        "One protein",
+        "Two pyruvate molecules",
+        "Two DNA molecules",
+        "Two oxygen molecules"
+      ],
+      "a": 1,
+      "e": "Glycolysis breaks six-carbon glucose into two three-carbon pyruvates.",
+      "d": "Hard",
+      "topic": "Respiration",
+      "slo": "Explain, identify or apply the concept of respiration.",
+      "concept_id": "CH7-C062"
+    },
+    {
+      "id": "BIO9CH7-249",
+      "q": "What is the net ATP yield of glycolysis per glucose?",
+      "o": [
+        "One hundred ATP",
+        "Thirty-six ATP directly",
+        "Two ATP",
+        "Zero ATP"
+      ],
+      "a": 2,
+      "e": "Glycolysis produces a net gain of two ATP.",
+      "d": "Easy",
+      "topic": "Respiration",
+      "slo": "Explain, identify or apply the concept of respiration.",
+      "concept_id": "CH7-C063"
+    },
+    {
+      "id": "BIO9CH7-250",
+      "q": "Select the correct scientific statement: what is the net ATP yield of glycolysis per glucose?",
+      "o": [
+        "Two ATP",
+        "Thirty-six ATP directly",
+        "Zero ATP",
+        "One hundred ATP"
+      ],
+      "a": 0,
+      "e": "Glycolysis produces a net gain of two ATP.",
+      "d": "Medium",
+      "topic": "Respiration",
+      "slo": "Explain, identify or apply the concept of respiration.",
+      "concept_id": "CH7-C063"
+    },
+    {
+      "id": "BIO9CH7-251",
+      "q": "In a Chapter 7 assessment, what is the net ATP yield of glycolysis per glucose?",
+      "o": [
+        "One hundred ATP",
+        "Zero ATP",
+        "Two ATP",
+        "Thirty-six ATP directly"
+      ],
+      "a": 2,
+      "e": "Glycolysis produces a net gain of two ATP.",
+      "d": "Medium",
+      "topic": "Respiration",
+      "slo": "Explain, identify or apply the concept of respiration.",
+      "concept_id": "CH7-C063"
+    },
+    {
+      "id": "BIO9CH7-252",
+      "q": "Which answer best addresses this biology question: what is the net ATP yield of glycolysis per glucose?",
+      "o": [
+        "One hundred ATP",
+        "Two ATP",
+        "Thirty-six ATP directly",
+        "Zero ATP"
+      ],
+      "a": 1,
+      "e": "Glycolysis produces a net gain of two ATP.",
+      "d": "Hard",
+      "topic": "Respiration",
+      "slo": "Explain, identify or apply the concept of respiration.",
+      "concept_id": "CH7-C063"
+    },
+    {
+      "id": "BIO9CH7-253",
+      "q": "Where does the Krebs cycle occur in eukaryotic cells?",
+      "o": [
+        "Nucleolus",
+        "Chloroplast stroma",
+        "Mitochondrial matrix",
+        "Cytosol only"
+      ],
+      "a": 2,
+      "e": "The citric acid cycle operates in the mitochondrial matrix.",
+      "d": "Easy",
+      "topic": "Respiration",
+      "slo": "Explain, identify or apply the concept of respiration.",
+      "concept_id": "CH7-C064"
+    },
+    {
+      "id": "BIO9CH7-254",
+      "q": "Select the correct scientific statement: where does the Krebs cycle occur in eukaryotic cells?",
+      "o": [
+        "Mitochondrial matrix",
+        "Chloroplast stroma",
+        "Nucleolus",
+        "Cytosol only"
+      ],
+      "a": 0,
+      "e": "The citric acid cycle operates in the mitochondrial matrix.",
+      "d": "Medium",
+      "topic": "Respiration",
+      "slo": "Explain, identify or apply the concept of respiration.",
+      "concept_id": "CH7-C064"
+    },
+    {
+      "id": "BIO9CH7-255",
+      "q": "In a Chapter 7 assessment, where does the Krebs cycle occur in eukaryotic cells?",
+      "o": [
+        "Cytosol only",
+        "Nucleolus",
+        "Chloroplast stroma",
+        "Mitochondrial matrix"
+      ],
+      "a": 3,
+      "e": "The citric acid cycle operates in the mitochondrial matrix.",
+      "d": "Medium",
+      "topic": "Respiration",
+      "slo": "Explain, identify or apply the concept of respiration.",
+      "concept_id": "CH7-C064"
+    },
+    {
+      "id": "BIO9CH7-256",
+      "q": "Which answer best addresses this biology question: where does the Krebs cycle occur in eukaryotic cells?",
+      "o": [
+        "Mitochondrial matrix",
+        "Chloroplast stroma",
+        "Nucleolus",
+        "Cytosol only"
+      ],
+      "a": 0,
+      "e": "The citric acid cycle operates in the mitochondrial matrix.",
+      "d": "Hard",
+      "topic": "Respiration",
+      "slo": "Explain, identify or apply the concept of respiration.",
+      "concept_id": "CH7-C064"
+    },
+    {
+      "id": "BIO9CH7-257",
+      "q": "What gas is released during complete aerobic oxidation of glucose?",
+      "o": [
+        "Helium",
+        "Carbon dioxide",
+        "Hydrogen sulfide",
+        "Nitrogen"
+      ],
+      "a": 1,
+      "e": "Carbon atoms leave as CO2 during pyruvate oxidation and the Krebs cycle.",
+      "d": "Easy",
+      "topic": "Respiration",
+      "slo": "Explain, identify or apply the concept of respiration.",
+      "concept_id": "CH7-C065"
+    },
+    {
+      "id": "BIO9CH7-258",
+      "q": "Select the correct scientific statement: what gas is released during complete aerobic oxidation of glucose?",
+      "o": [
+        "Nitrogen",
+        "Carbon dioxide",
+        "Hydrogen sulfide",
+        "Helium"
+      ],
+      "a": 1,
+      "e": "Carbon atoms leave as CO2 during pyruvate oxidation and the Krebs cycle.",
+      "d": "Medium",
+      "topic": "Respiration",
+      "slo": "Explain, identify or apply the concept of respiration.",
+      "concept_id": "CH7-C065"
+    },
+    {
+      "id": "BIO9CH7-259",
+      "q": "In a Chapter 7 assessment, what gas is released during complete aerobic oxidation of glucose?",
+      "o": [
+        "Hydrogen sulfide",
+        "Nitrogen",
+        "Carbon dioxide",
+        "Helium"
+      ],
+      "a": 2,
+      "e": "Carbon atoms leave as CO2 during pyruvate oxidation and the Krebs cycle.",
+      "d": "Medium",
+      "topic": "Respiration",
+      "slo": "Explain, identify or apply the concept of respiration.",
+      "concept_id": "CH7-C065"
+    },
+    {
+      "id": "BIO9CH7-260",
+      "q": "Which answer best addresses this biology question: what gas is released during complete aerobic oxidation of glucose?",
+      "o": [
+        "Helium",
+        "Carbon dioxide",
+        "Nitrogen",
+        "Hydrogen sulfide"
+      ],
+      "a": 1,
+      "e": "Carbon atoms leave as CO2 during pyruvate oxidation and the Krebs cycle.",
+      "d": "Hard",
+      "topic": "Respiration",
+      "slo": "Explain, identify or apply the concept of respiration.",
+      "concept_id": "CH7-C065"
+    },
+    {
+      "id": "BIO9CH7-261",
+      "q": "Where is the mitochondrial electron transport chain located?",
+      "o": [
+        "Ribosome",
+        "Nuclear membrane",
+        "Outer cell wall",
+        "Inner mitochondrial membrane"
+      ],
+      "a": 3,
+      "e": "Respiratory complexes are embedded in the inner mitochondrial membrane.",
+      "d": "Easy",
+      "topic": "Respiration",
+      "slo": "Explain, identify or apply the concept of respiration.",
+      "concept_id": "CH7-C066"
+    },
+    {
+      "id": "BIO9CH7-262",
+      "q": "Select the correct scientific statement: where is the mitochondrial electron transport chain located?",
+      "o": [
+        "Inner mitochondrial membrane",
+        "Outer cell wall",
+        "Ribosome",
+        "Nuclear membrane"
+      ],
+      "a": 0,
+      "e": "Respiratory complexes are embedded in the inner mitochondrial membrane.",
+      "d": "Medium",
+      "topic": "Respiration",
+      "slo": "Explain, identify or apply the concept of respiration.",
+      "concept_id": "CH7-C066"
+    },
+    {
+      "id": "BIO9CH7-263",
+      "q": "In a Chapter 7 assessment, where is the mitochondrial electron transport chain located?",
+      "o": [
+        "Inner mitochondrial membrane",
+        "Outer cell wall",
+        "Ribosome",
+        "Nuclear membrane"
+      ],
+      "a": 0,
+      "e": "Respiratory complexes are embedded in the inner mitochondrial membrane.",
+      "d": "Medium",
+      "topic": "Respiration",
+      "slo": "Explain, identify or apply the concept of respiration.",
+      "concept_id": "CH7-C066"
+    },
+    {
+      "id": "BIO9CH7-264",
+      "q": "Which answer best addresses this biology question: where is the mitochondrial electron transport chain located?",
+      "o": [
+        "Inner mitochondrial membrane",
+        "Outer cell wall",
+        "Nuclear membrane",
+        "Ribosome"
+      ],
+      "a": 0,
+      "e": "Respiratory complexes are embedded in the inner mitochondrial membrane.",
+      "d": "Hard",
+      "topic": "Respiration",
+      "slo": "Explain, identify or apply the concept of respiration.",
+      "concept_id": "CH7-C066"
+    },
+    {
+      "id": "BIO9CH7-265",
+      "q": "What is the final electron acceptor in aerobic respiration?",
+      "o": [
+        "Chlorophyll",
+        "Oxygen",
+        "Carbon dioxide",
+        "Glucose"
+      ],
+      "a": 1,
+      "e": "Oxygen accepts electrons and hydrogen to form water.",
+      "d": "Easy",
+      "topic": "Respiration",
+      "slo": "Explain, identify or apply the concept of respiration.",
+      "concept_id": "CH7-C067"
+    },
+    {
+      "id": "BIO9CH7-266",
+      "q": "Select the correct scientific statement: what is the final electron acceptor in aerobic respiration?",
+      "o": [
+        "Chlorophyll",
+        "Oxygen",
+        "Carbon dioxide",
+        "Glucose"
+      ],
+      "a": 1,
+      "e": "Oxygen accepts electrons and hydrogen to form water.",
+      "d": "Medium",
+      "topic": "Respiration",
+      "slo": "Explain, identify or apply the concept of respiration.",
+      "concept_id": "CH7-C067"
+    },
+    {
+      "id": "BIO9CH7-267",
+      "q": "In a Chapter 7 assessment, what is the final electron acceptor in aerobic respiration?",
+      "o": [
+        "Glucose",
+        "Oxygen",
+        "Chlorophyll",
+        "Carbon dioxide"
+      ],
+      "a": 1,
+      "e": "Oxygen accepts electrons and hydrogen to form water.",
+      "d": "Medium",
+      "topic": "Respiration",
+      "slo": "Explain, identify or apply the concept of respiration.",
+      "concept_id": "CH7-C067"
+    },
+    {
+      "id": "BIO9CH7-268",
+      "q": "Which answer best addresses this biology question: what is the final electron acceptor in aerobic respiration?",
+      "o": [
+        "Carbon dioxide",
+        "Glucose",
+        "Chlorophyll",
+        "Oxygen"
+      ],
+      "a": 3,
+      "e": "Oxygen accepts electrons and hydrogen to form water.",
+      "d": "Hard",
+      "topic": "Respiration",
+      "slo": "Explain, identify or apply the concept of respiration.",
+      "concept_id": "CH7-C067"
+    },
+    {
+      "id": "BIO9CH7-269",
+      "q": "What is the main role of the electron transport chain?",
+      "o": [
+        "Copy DNA",
+        "Assemble ribosomes",
+        "Store starch",
+        "Drive ATP formation using electron energy"
+      ],
+      "a": 3,
+      "e": "Electron transfer powers a proton gradient for ATP synthesis.",
+      "d": "Easy",
+      "topic": "Respiration",
+      "slo": "Explain, identify or apply the concept of respiration.",
+      "concept_id": "CH7-C068"
+    },
+    {
+      "id": "BIO9CH7-270",
+      "q": "Select the correct scientific statement: what is the main role of the electron transport chain?",
+      "o": [
+        "Assemble ribosomes",
+        "Copy DNA",
+        "Drive ATP formation using electron energy",
+        "Store starch"
+      ],
+      "a": 2,
+      "e": "Electron transfer powers a proton gradient for ATP synthesis.",
+      "d": "Medium",
+      "topic": "Respiration",
+      "slo": "Explain, identify or apply the concept of respiration.",
+      "concept_id": "CH7-C068"
+    },
+    {
+      "id": "BIO9CH7-271",
+      "q": "In a Chapter 7 assessment, what is the main role of the electron transport chain?",
+      "o": [
+        "Store starch",
+        "Drive ATP formation using electron energy",
+        "Assemble ribosomes",
+        "Copy DNA"
+      ],
+      "a": 1,
+      "e": "Electron transfer powers a proton gradient for ATP synthesis.",
+      "d": "Medium",
+      "topic": "Respiration",
+      "slo": "Explain, identify or apply the concept of respiration.",
+      "concept_id": "CH7-C068"
+    },
+    {
+      "id": "BIO9CH7-272",
+      "q": "Which answer best addresses this biology question: what is the main role of the electron transport chain?",
+      "o": [
+        "Assemble ribosomes",
+        "Drive ATP formation using electron energy",
+        "Store starch",
+        "Copy DNA"
+      ],
+      "a": 1,
+      "e": "Electron transfer powers a proton gradient for ATP synthesis.",
+      "d": "Hard",
+      "topic": "Respiration",
+      "slo": "Explain, identify or apply the concept of respiration.",
+      "concept_id": "CH7-C068"
+    },
+    {
+      "id": "BIO9CH7-273",
+      "q": "What is fermentation?",
+      "o": [
+        "A pathway that regenerates NAD+ without oxygen",
+        "Formation of chloroplasts",
+        "Making oxygen from water",
+        "Photosynthesis in bright light"
+      ],
+      "a": 0,
+      "e": "Fermentation allows glycolysis to continue when oxygen is unavailable.",
+      "d": "Easy",
+      "topic": "Respiration",
+      "slo": "Explain, identify or apply the concept of respiration.",
+      "concept_id": "CH7-C069"
+    },
+    {
+      "id": "BIO9CH7-274",
+      "q": "Select the correct scientific statement: what is fermentation?",
+      "o": [
+        "Photosynthesis in bright light",
+        "Making oxygen from water",
+        "Formation of chloroplasts",
+        "A pathway that regenerates NAD+ without oxygen"
+      ],
+      "a": 3,
+      "e": "Fermentation allows glycolysis to continue when oxygen is unavailable.",
+      "d": "Medium",
+      "topic": "Respiration",
+      "slo": "Explain, identify or apply the concept of respiration.",
+      "concept_id": "CH7-C069"
+    },
+    {
+      "id": "BIO9CH7-275",
+      "q": "In a Chapter 7 assessment, what is fermentation?",
+      "o": [
+        "Photosynthesis in bright light",
+        "Formation of chloroplasts",
+        "Making oxygen from water",
+        "A pathway that regenerates NAD+ without oxygen"
+      ],
+      "a": 3,
+      "e": "Fermentation allows glycolysis to continue when oxygen is unavailable.",
+      "d": "Medium",
+      "topic": "Respiration",
+      "slo": "Explain, identify or apply the concept of respiration.",
+      "concept_id": "CH7-C069"
+    },
+    {
+      "id": "BIO9CH7-276",
+      "q": "Which answer best addresses this biology question: what is fermentation?",
+      "o": [
+        "Formation of chloroplasts",
+        "A pathway that regenerates NAD+ without oxygen",
+        "Photosynthesis in bright light",
+        "Making oxygen from water"
+      ],
+      "a": 1,
+      "e": "Fermentation allows glycolysis to continue when oxygen is unavailable.",
+      "d": "Hard",
+      "topic": "Respiration",
+      "slo": "Explain, identify or apply the concept of respiration.",
+      "concept_id": "CH7-C069"
+    },
+    {
+      "id": "BIO9CH7-277",
+      "q": "What can muscle cells produce during oxygen-limited fermentation?",
+      "o": [
+        "Starch",
+        "Ethanol as the normal main product",
+        "Oxygen gas",
+        "Lactate"
+      ],
+      "a": 3,
+      "e": "Human muscle cells can convert pyruvate into lactate.",
+      "d": "Easy",
+      "topic": "Respiration",
+      "slo": "Explain, identify or apply the concept of respiration.",
+      "concept_id": "CH7-C070"
+    },
+    {
+      "id": "BIO9CH7-278",
+      "q": "Select the correct scientific statement: what can muscle cells produce during oxygen-limited fermentation?",
+      "o": [
+        "Lactate",
+        "Starch",
+        "Oxygen gas",
+        "Ethanol as the normal main product"
+      ],
+      "a": 0,
+      "e": "Human muscle cells can convert pyruvate into lactate.",
+      "d": "Medium",
+      "topic": "Respiration",
+      "slo": "Explain, identify or apply the concept of respiration.",
+      "concept_id": "CH7-C070"
+    },
+    {
+      "id": "BIO9CH7-279",
+      "q": "In a Chapter 7 assessment, what can muscle cells produce during oxygen-limited fermentation?",
+      "o": [
+        "Lactate",
+        "Oxygen gas",
+        "Starch",
+        "Ethanol as the normal main product"
+      ],
+      "a": 0,
+      "e": "Human muscle cells can convert pyruvate into lactate.",
+      "d": "Medium",
+      "topic": "Respiration",
+      "slo": "Explain, identify or apply the concept of respiration.",
+      "concept_id": "CH7-C070"
+    },
+    {
+      "id": "BIO9CH7-280",
+      "q": "Which answer best addresses this biology question: what can muscle cells produce during oxygen-limited fermentation?",
+      "o": [
+        "Ethanol as the normal main product",
+        "Lactate",
+        "Oxygen gas",
+        "Starch"
+      ],
+      "a": 1,
+      "e": "Human muscle cells can convert pyruvate into lactate.",
+      "d": "Hard",
+      "topic": "Respiration",
+      "slo": "Explain, identify or apply the concept of respiration.",
+      "concept_id": "CH7-C070"
+    },
+    {
+      "id": "BIO9CH7-281",
+      "q": "What do yeast cells commonly produce during alcoholic fermentation?",
+      "o": [
+        "Ethanol and carbon dioxide",
+        "Glucose and oxygen",
+        "Starch and nitrogen",
+        "Lactate and oxygen"
+      ],
+      "a": 0,
+      "e": "Yeast alcoholic fermentation produces ethanol and CO2.",
+      "d": "Easy",
+      "topic": "Respiration",
+      "slo": "Explain, identify or apply the concept of respiration.",
+      "concept_id": "CH7-C071"
+    },
+    {
+      "id": "BIO9CH7-282",
+      "q": "Select the correct scientific statement: what do yeast cells commonly produce during alcoholic fermentation?",
+      "o": [
+        "Ethanol and carbon dioxide",
+        "Starch and nitrogen",
+        "Glucose and oxygen",
+        "Lactate and oxygen"
+      ],
+      "a": 0,
+      "e": "Yeast alcoholic fermentation produces ethanol and CO2.",
+      "d": "Medium",
+      "topic": "Respiration",
+      "slo": "Explain, identify or apply the concept of respiration.",
+      "concept_id": "CH7-C071"
+    },
+    {
+      "id": "BIO9CH7-283",
+      "q": "In a Chapter 7 assessment, what do yeast cells commonly produce during alcoholic fermentation?",
+      "o": [
+        "Ethanol and carbon dioxide",
+        "Starch and nitrogen",
+        "Lactate and oxygen",
+        "Glucose and oxygen"
+      ],
+      "a": 0,
+      "e": "Yeast alcoholic fermentation produces ethanol and CO2.",
+      "d": "Medium",
+      "topic": "Respiration",
+      "slo": "Explain, identify or apply the concept of respiration.",
+      "concept_id": "CH7-C071"
+    },
+    {
+      "id": "BIO9CH7-284",
+      "q": "Which answer best addresses this biology question: what do yeast cells commonly produce during alcoholic fermentation?",
+      "o": [
+        "Lactate and oxygen",
+        "Glucose and oxygen",
+        "Starch and nitrogen",
+        "Ethanol and carbon dioxide"
+      ],
+      "a": 3,
+      "e": "Yeast alcoholic fermentation produces ethanol and CO2.",
+      "d": "Hard",
+      "topic": "Respiration",
+      "slo": "Explain, identify or apply the concept of respiration.",
+      "concept_id": "CH7-C071"
+    },
+    {
+      "id": "BIO9CH7-285",
+      "q": "Why does aerobic respiration generally yield more ATP than fermentation?",
+      "o": [
+        "It oxidizes glucose more completely using an electron transport chain",
+        "It uses no enzymes",
+        "It creates energy from nothing",
+        "It does not require glucose"
+      ],
+      "a": 0,
+      "e": "Complete oxidation captures more energy in ATP.",
+      "d": "Easy",
+      "topic": "Respiration",
+      "slo": "Explain, identify or apply the concept of respiration.",
+      "concept_id": "CH7-C072"
+    },
+    {
+      "id": "BIO9CH7-286",
+      "q": "Select the correct scientific statement: why does aerobic respiration generally yield more ATP than fermentation?",
+      "o": [
+        "It does not require glucose",
+        "It creates energy from nothing",
+        "It uses no enzymes",
+        "It oxidizes glucose more completely using an electron transport chain"
+      ],
+      "a": 3,
+      "e": "Complete oxidation captures more energy in ATP.",
+      "d": "Medium",
+      "topic": "Respiration",
+      "slo": "Explain, identify or apply the concept of respiration.",
+      "concept_id": "CH7-C072"
+    },
+    {
+      "id": "BIO9CH7-287",
+      "q": "In a Chapter 7 assessment, why does aerobic respiration generally yield more ATP than fermentation?",
+      "o": [
+        "It does not require glucose",
+        "It uses no enzymes",
+        "It oxidizes glucose more completely using an electron transport chain",
+        "It creates energy from nothing"
+      ],
+      "a": 2,
+      "e": "Complete oxidation captures more energy in ATP.",
+      "d": "Medium",
+      "topic": "Respiration",
+      "slo": "Explain, identify or apply the concept of respiration.",
+      "concept_id": "CH7-C072"
+    },
+    {
+      "id": "BIO9CH7-288",
+      "q": "Which answer best addresses this biology question: why does aerobic respiration generally yield more ATP than fermentation?",
+      "o": [
+        "It creates energy from nothing",
+        "It does not require glucose",
+        "It oxidizes glucose more completely using an electron transport chain",
+        "It uses no enzymes"
+      ],
+      "a": 2,
+      "e": "Complete oxidation captures more energy in ATP.",
+      "d": "Hard",
+      "topic": "Respiration",
+      "slo": "Explain, identify or apply the concept of respiration.",
+      "concept_id": "CH7-C072"
+    },
+    {
+      "id": "BIO9CH7-289",
+      "q": "Which process directly links photosynthesis and respiration?",
+      "o": [
+        "Both produce identical net products",
+        "Both only occur in roots",
+        "Photosynthesis stores energy in glucose; respiration releases usable energy from it",
+        "Both only release oxygen"
+      ],
+      "a": 2,
+      "e": "The processes are complementary in ecosystem energy and matter flow.",
+      "d": "Easy",
+      "topic": "Integration",
+      "slo": "Explain, identify or apply the concept of integration.",
+      "concept_id": "CH7-C073"
+    },
+    {
+      "id": "BIO9CH7-290",
+      "q": "Select the correct scientific statement: which process directly links photosynthesis and respiration?",
+      "o": [
+        "Both only release oxygen",
+        "Both produce identical net products",
+        "Photosynthesis stores energy in glucose; respiration releases usable energy from it",
+        "Both only occur in roots"
+      ],
+      "a": 2,
+      "e": "The processes are complementary in ecosystem energy and matter flow.",
+      "d": "Medium",
+      "topic": "Integration",
+      "slo": "Explain, identify or apply the concept of integration.",
+      "concept_id": "CH7-C073"
+    },
+    {
+      "id": "BIO9CH7-291",
+      "q": "In a Chapter 7 assessment, which process directly links photosynthesis and respiration?",
+      "o": [
+        "Photosynthesis stores energy in glucose; respiration releases usable energy from it",
+        "Both only occur in roots",
+        "Both produce identical net products",
+        "Both only release oxygen"
+      ],
+      "a": 0,
+      "e": "The processes are complementary in ecosystem energy and matter flow.",
+      "d": "Medium",
+      "topic": "Integration",
+      "slo": "Explain, identify or apply the concept of integration.",
+      "concept_id": "CH7-C073"
+    },
+    {
+      "id": "BIO9CH7-292",
+      "q": "Which answer best addresses this biology question: which process directly links photosynthesis and respiration?",
+      "o": [
+        "Both only release oxygen",
+        "Photosynthesis stores energy in glucose; respiration releases usable energy from it",
+        "Both only occur in roots",
+        "Both produce identical net products"
+      ],
+      "a": 1,
+      "e": "The processes are complementary in ecosystem energy and matter flow.",
+      "d": "Hard",
+      "topic": "Integration",
+      "slo": "Explain, identify or apply the concept of integration.",
+      "concept_id": "CH7-C073"
+    },
+    {
+      "id": "BIO9CH7-293",
+      "q": "Which enzyme is involved in breaking down starch?",
+      "o": [
+        "Protease",
+        "Lipase",
+        "Amylase",
+        "DNA polymerase"
+      ],
+      "a": 2,
+      "e": "Amylase catalyses starch hydrolysis.",
+      "d": "Easy",
+      "topic": "Enzymes",
+      "slo": "Explain, identify or apply the concept of enzymes.",
+      "concept_id": "CH7-C074"
+    },
+    {
+      "id": "BIO9CH7-294",
+      "q": "Select the correct scientific statement: which enzyme is involved in breaking down starch?",
+      "o": [
+        "Lipase",
+        "Protease",
+        "DNA polymerase",
+        "Amylase"
+      ],
+      "a": 3,
+      "e": "Amylase catalyses starch hydrolysis.",
+      "d": "Medium",
+      "topic": "Enzymes",
+      "slo": "Explain, identify or apply the concept of enzymes.",
+      "concept_id": "CH7-C074"
+    },
+    {
+      "id": "BIO9CH7-295",
+      "q": "In a Chapter 7 assessment, which enzyme is involved in breaking down starch?",
+      "o": [
+        "Amylase",
+        "Lipase",
+        "Protease",
+        "DNA polymerase"
+      ],
+      "a": 0,
+      "e": "Amylase catalyses starch hydrolysis.",
+      "d": "Medium",
+      "topic": "Enzymes",
+      "slo": "Explain, identify or apply the concept of enzymes.",
+      "concept_id": "CH7-C074"
+    },
+    {
+      "id": "BIO9CH7-296",
+      "q": "Which answer best addresses this biology question: which enzyme is involved in breaking down starch?",
+      "o": [
+        "Lipase",
+        "Amylase",
+        "Protease",
+        "DNA polymerase"
+      ],
+      "a": 1,
+      "e": "Amylase catalyses starch hydrolysis.",
+      "d": "Hard",
+      "topic": "Enzymes",
+      "slo": "Explain, identify or apply the concept of enzymes.",
+      "concept_id": "CH7-C074"
+    },
+    {
+      "id": "BIO9CH7-297",
+      "q": "Which enzyme helps break down fats?",
+      "o": [
+        "Catalase",
+        "Pepsin",
+        "Lipase",
+        "Amylase"
+      ],
+      "a": 2,
+      "e": "Lipase hydrolyses lipids.",
+      "d": "Easy",
+      "topic": "Enzymes",
+      "slo": "Explain, identify or apply the concept of enzymes.",
+      "concept_id": "CH7-C075"
+    },
+    {
+      "id": "BIO9CH7-298",
+      "q": "Select the correct scientific statement: which enzyme helps break down fats?",
+      "o": [
+        "Lipase",
+        "Catalase",
+        "Amylase",
+        "Pepsin"
+      ],
+      "a": 0,
+      "e": "Lipase hydrolyses lipids.",
+      "d": "Medium",
+      "topic": "Enzymes",
+      "slo": "Explain, identify or apply the concept of enzymes.",
+      "concept_id": "CH7-C075"
+    },
+    {
+      "id": "BIO9CH7-299",
+      "q": "In a Chapter 7 assessment, which enzyme helps break down fats?",
+      "o": [
+        "Lipase",
+        "Catalase",
+        "Amylase",
+        "Pepsin"
+      ],
+      "a": 0,
+      "e": "Lipase hydrolyses lipids.",
+      "d": "Medium",
+      "topic": "Enzymes",
+      "slo": "Explain, identify or apply the concept of enzymes.",
+      "concept_id": "CH7-C075"
+    },
+    {
+      "id": "BIO9CH7-300",
+      "q": "Which answer best addresses this biology question: which enzyme helps break down fats?",
+      "o": [
+        "Catalase",
+        "Pepsin",
+        "Amylase",
+        "Lipase"
+      ],
+      "a": 3,
+      "e": "Lipase hydrolyses lipids.",
+      "d": "Hard",
+      "topic": "Enzymes",
+      "slo": "Explain, identify or apply the concept of enzymes.",
+      "concept_id": "CH7-C075"
+    }
+  ]
+}

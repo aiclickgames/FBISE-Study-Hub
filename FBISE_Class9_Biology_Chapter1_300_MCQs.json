@@ -1,0 +1,4504 @@
+{
+  "questions": [
+    {
+      "id": "BIO9CH1-001",
+      "q": "What does biology primarily study?",
+      "o": [
+        "Only rocks",
+        "Only stars",
+        "Only machines",
+        "Living organisms"
+      ],
+      "a": 3,
+      "e": "Biology is the scientific study of life and living organisms.",
+      "d": "Easy",
+      "topic": "Introduction to Biology",
+      "slo": "Explain biology and its scope"
+    },
+    {
+      "id": "BIO9CH1-002",
+      "q": "The word biology is derived from terms referring to what?",
+      "o": [
+        "Earth and heat",
+        "Matter and motion",
+        "Water and air",
+        "Life and study"
+      ],
+      "a": 3,
+      "e": "Bios means life and logos means study.",
+      "d": "Easy",
+      "topic": "Introduction to Biology",
+      "slo": "Explain biology and its scope"
+    },
+    {
+      "id": "BIO9CH1-003",
+      "q": "Which question is most directly biological?",
+      "o": [
+        "How fast does light travel?",
+        "How do tectonic plates move?",
+        "How do seeds germinate?",
+        "What is the density of copper?"
+      ],
+      "a": 2,
+      "e": "Seed germination is a life process.",
+      "d": "Easy",
+      "topic": "Introduction to Biology",
+      "slo": "Explain biology and its scope"
+    },
+    {
+      "id": "BIO9CH1-004",
+      "q": "Which activity is an example of studying biology?",
+      "o": [
+        "Calculating a bridge load",
+        "Measuring a magnet",
+        "Mapping planets",
+        "Investigating plant growth"
+      ],
+      "a": 3,
+      "e": "Plant growth is a biological process.",
+      "d": "Easy",
+      "topic": "Introduction to Biology",
+      "slo": "Explain biology and its scope"
+    },
+    {
+      "id": "BIO9CH1-005",
+      "q": "Why is observation important in biology?",
+      "o": [
+        "It provides information about living things",
+        "It guarantees every hypothesis",
+        "It replaces evidence",
+        "It removes the need for experiments"
+      ],
+      "a": 0,
+      "e": "Observations provide evidence for investigating living systems.",
+      "d": "Easy",
+      "topic": "Introduction to Biology",
+      "slo": "Explain biology and its scope"
+    },
+    {
+      "id": "BIO9CH1-006",
+      "q": "Which branch studies the structure and form of organisms?",
+      "o": [
+        "Ecology",
+        "Physiology",
+        "Morphology",
+        "Genetics"
+      ],
+      "a": 2,
+      "e": "Morphology examines external form and structure.",
+      "d": "Easy",
+      "topic": "Major Fields of Biology",
+      "slo": "Distinguish major branches of biology"
+    },
+    {
+      "id": "BIO9CH1-007",
+      "q": "Which branch deals with the internal structure of organisms?",
+      "o": [
+        "Embryology",
+        "Anatomy",
+        "Taxonomy",
+        "Ecology"
+      ],
+      "a": 1,
+      "e": "Anatomy studies internal organization.",
+      "d": "Easy",
+      "topic": "Major Fields of Biology",
+      "slo": "Distinguish major branches of biology"
+    },
+    {
+      "id": "BIO9CH1-008",
+      "q": "The study of the functions of body parts is called what?",
+      "o": [
+        "Taxonomy",
+        "Morphology",
+        "Palaeontology",
+        "Physiology"
+      ],
+      "a": 3,
+      "e": "Physiology concerns how structures function.",
+      "d": "Easy",
+      "topic": "Major Fields of Biology",
+      "slo": "Distinguish major branches of biology"
+    },
+    {
+      "id": "BIO9CH1-009",
+      "q": "Which field examines organisms and their environment?",
+      "o": [
+        "Anatomy",
+        "Ecology",
+        "Histology",
+        "Embryology"
+      ],
+      "a": 1,
+      "e": "Ecology investigates interactions with the environment.",
+      "d": "Easy",
+      "topic": "Major Fields of Biology",
+      "slo": "Distinguish major branches of biology"
+    },
+    {
+      "id": "BIO9CH1-010",
+      "q": "Which field studies inherited characteristics?",
+      "o": [
+        "Anatomy",
+        "Ecology",
+        "Biogeography",
+        "Genetics"
+      ],
+      "a": 3,
+      "e": "Genetics studies heredity and variation.",
+      "d": "Easy",
+      "topic": "Major Fields of Biology",
+      "slo": "Distinguish major branches of biology"
+    },
+    {
+      "id": "BIO9CH1-011",
+      "q": "Which branch deals with naming and classifying organisms?",
+      "o": [
+        "Biochemistry",
+        "Taxonomy",
+        "Physiology",
+        "Histology"
+      ],
+      "a": 1,
+      "e": "Taxonomy concerns identification, naming and classification.",
+      "d": "Easy",
+      "topic": "Major Fields of Biology",
+      "slo": "Distinguish major branches of biology"
+    },
+    {
+      "id": "BIO9CH1-012",
+      "q": "Which field studies fossils and ancient life?",
+      "o": [
+        "Palaeontology",
+        "Molecular biology",
+        "Physiology",
+        "Embryology"
+      ],
+      "a": 0,
+      "e": "Palaeontology uses fossils to investigate past life.",
+      "d": "Easy",
+      "topic": "Major Fields of Biology",
+      "slo": "Distinguish major branches of biology"
+    },
+    {
+      "id": "BIO9CH1-013",
+      "q": "Which field studies tissues?",
+      "o": [
+        "Biotechnology",
+        "Ecology",
+        "Taxonomy",
+        "Histology"
+      ],
+      "a": 3,
+      "e": "Histology focuses on tissues.",
+      "d": "Easy",
+      "topic": "Major Fields of Biology",
+      "slo": "Distinguish major branches of biology"
+    },
+    {
+      "id": "BIO9CH1-014",
+      "q": "Which field studies development from fertilization onward?",
+      "o": [
+        "Embryology",
+        "Ecology",
+        "Morphology",
+        "Taxonomy"
+      ],
+      "a": 0,
+      "e": "Embryology studies early development.",
+      "d": "Easy",
+      "topic": "Major Fields of Biology",
+      "slo": "Distinguish major branches of biology"
+    },
+    {
+      "id": "BIO9CH1-015",
+      "q": "Which field focuses on microscopic organisms?",
+      "o": [
+        "Anatomy",
+        "Palaeontology",
+        "Morphology",
+        "Microbiology"
+      ],
+      "a": 3,
+      "e": "Microbiology examines microorganisms.",
+      "d": "Easy",
+      "topic": "Major Fields of Biology",
+      "slo": "Distinguish major branches of biology"
+    },
+    {
+      "id": "BIO9CH1-016",
+      "q": "Which branch investigates parasites and their hosts?",
+      "o": [
+        "Parasitology",
+        "Histology",
+        "Anatomy",
+        "Taxonomy"
+      ],
+      "a": 0,
+      "e": "Parasitology examines parasitic organisms and their relationships.",
+      "d": "Easy",
+      "topic": "Major Fields of Biology",
+      "slo": "Distinguish major branches of biology"
+    },
+    {
+      "id": "BIO9CH1-017",
+      "q": "Which branch examines chemical processes in living things?",
+      "o": [
+        "Taxonomy",
+        "Biogeography",
+        "Biochemistry",
+        "Morphology"
+      ],
+      "a": 2,
+      "e": "Biochemistry connects biological processes with chemistry.",
+      "d": "Easy",
+      "topic": "Major Fields of Biology",
+      "slo": "Distinguish major branches of biology"
+    },
+    {
+      "id": "BIO9CH1-018",
+      "q": "A scientist measures how heart rate changes during exercise. Which field is most relevant?",
+      "o": [
+        "Morphology",
+        "Taxonomy",
+        "Physiology",
+        "Palaeontology"
+      ],
+      "a": 2,
+      "e": "Heart rate is a functional response studied in physiology.",
+      "d": "Medium",
+      "topic": "Major Fields of Biology",
+      "slo": "Apply knowledge of biological branches"
+    },
+    {
+      "id": "BIO9CH1-019",
+      "q": "A researcher compares leaf shapes in two plants. Which field is most directly involved?",
+      "o": [
+        "Microbiology",
+        "Physiology",
+        "Morphology",
+        "Genetics"
+      ],
+      "a": 2,
+      "e": "Leaf shape is an aspect of external form.",
+      "d": "Medium",
+      "topic": "Major Fields of Biology",
+      "slo": "Apply knowledge of biological branches"
+    },
+    {
+      "id": "BIO9CH1-020",
+      "q": "A researcher studies a thin section of muscle under a microscope. Which field is involved?",
+      "o": [
+        "Histology",
+        "Palaeontology",
+        "Taxonomy",
+        "Ecology"
+      ],
+      "a": 0,
+      "e": "A muscle section reveals tissue organization.",
+      "d": "Medium",
+      "topic": "Major Fields of Biology",
+      "slo": "Apply knowledge of biological branches"
+    },
+    {
+      "id": "BIO9CH1-021",
+      "q": "A scientist investigates why a trait appears in successive generations. Which field applies?",
+      "o": [
+        "Anatomy",
+        "Morphology",
+        "Ecology",
+        "Genetics"
+      ],
+      "a": 3,
+      "e": "Transmission across generations is heredity.",
+      "d": "Medium",
+      "topic": "Major Fields of Biology",
+      "slo": "Apply knowledge of biological branches"
+    },
+    {
+      "id": "BIO9CH1-022",
+      "q": "A scientist studies how a parasite affects its host. Which branch fits best?",
+      "o": [
+        "Taxonomy",
+        "Embryology",
+        "Morphology",
+        "Parasitology"
+      ],
+      "a": 3,
+      "e": "Parasitology studies parasites and host relationships.",
+      "d": "Medium",
+      "topic": "Major Fields of Biology",
+      "slo": "Apply knowledge of biological branches"
+    },
+    {
+      "id": "BIO9CH1-023",
+      "q": "Which interdisciplinary field combines biology with chemistry?",
+      "o": [
+        "Biogeography",
+        "Biochemistry",
+        "Biostatistics",
+        "Biophysics"
+      ],
+      "a": 1,
+      "e": "Biochemistry studies the chemical basis of life.",
+      "d": "Medium",
+      "topic": "Relationship with Other Sciences",
+      "slo": "Explain interdisciplinary biological fields"
+    },
+    {
+      "id": "BIO9CH1-024",
+      "q": "Which field uses physical principles to study living systems?",
+      "o": [
+        "Taxonomy",
+        "Histology",
+        "Ecology",
+        "Biophysics"
+      ],
+      "a": 3,
+      "e": "Biophysics applies physics to biological questions.",
+      "d": "Medium",
+      "topic": "Relationship with Other Sciences",
+      "slo": "Explain interdisciplinary biological fields"
+    },
+    {
+      "id": "BIO9CH1-025",
+      "q": "Which field uses statistical methods to analyze biological data?",
+      "o": [
+        "Morphology",
+        "Anatomy",
+        "Embryology",
+        "Biostatistics"
+      ],
+      "a": 3,
+      "e": "Biostatistics supports analysis of biological measurements.",
+      "d": "Medium",
+      "topic": "Relationship with Other Sciences",
+      "slo": "Explain interdisciplinary biological fields"
+    },
+    {
+      "id": "BIO9CH1-026",
+      "q": "Which field connects organism distribution with geography?",
+      "o": [
+        "Biogeography",
+        "Biochemistry",
+        "Physiology",
+        "Histology"
+      ],
+      "a": 0,
+      "e": "Biogeography studies geographical distribution of life.",
+      "d": "Medium",
+      "topic": "Relationship with Other Sciences",
+      "slo": "Explain interdisciplinary biological fields"
+    },
+    {
+      "id": "BIO9CH1-027",
+      "q": "A scientist uses statistics to compare infection rates between two groups. Which field is being applied?",
+      "o": [
+        "Palaeontology",
+        "Anatomy",
+        "Biostatistics",
+        "Morphology"
+      ],
+      "a": 2,
+      "e": "Comparing rates using statistical methods is biostatistics.",
+      "d": "Medium",
+      "topic": "Relationship with Other Sciences",
+      "slo": "Explain interdisciplinary biological fields"
+    },
+    {
+      "id": "BIO9CH1-028",
+      "q": "Investigating how enzymes speed up chemical reactions is especially related to which field?",
+      "o": [
+        "Morphology",
+        "Biochemistry",
+        "Biogeography",
+        "Taxonomy"
+      ],
+      "a": 1,
+      "e": "Enzyme reactions are biochemical processes.",
+      "d": "Medium",
+      "topic": "Relationship with Other Sciences",
+      "slo": "Explain interdisciplinary biological fields"
+    },
+    {
+      "id": "BIO9CH1-029",
+      "q": "Which profession most directly uses biology to diagnose and treat human disease?",
+      "o": [
+        "Civil engineering",
+        "Architecture",
+        "Medicine",
+        "Astronomy"
+      ],
+      "a": 2,
+      "e": "Medicine relies on knowledge of the human body and disease.",
+      "d": "Easy",
+      "topic": "Careers in Biology",
+      "slo": "Recognize careers requiring biology"
+    },
+    {
+      "id": "BIO9CH1-030",
+      "q": "Which profession uses biology to care for animal health?",
+      "o": [
+        "Surveying",
+        "Geology",
+        "Veterinary medicine",
+        "Meteorology"
+      ],
+      "a": 2,
+      "e": "Veterinary medicine concerns animal health.",
+      "d": "Easy",
+      "topic": "Careers in Biology",
+      "slo": "Recognize careers requiring biology"
+    },
+    {
+      "id": "BIO9CH1-031",
+      "q": "Which career uses biological knowledge to improve crop production?",
+      "o": [
+        "Agriculture",
+        "Astronomy",
+        "Mechanical engineering",
+        "Cartography"
+      ],
+      "a": 0,
+      "e": "Agriculture uses plant science and other biological knowledge.",
+      "d": "Easy",
+      "topic": "Careers in Biology",
+      "slo": "Recognize careers requiring biology"
+    },
+    {
+      "id": "BIO9CH1-032",
+      "q": "Which career focuses on managing forests and forest resources?",
+      "o": [
+        "Forestry",
+        "Metallurgy",
+        "Aeronautics",
+        "Astronomy"
+      ],
+      "a": 0,
+      "e": "Forestry involves forest ecosystems and resources.",
+      "d": "Easy",
+      "topic": "Careers in Biology",
+      "slo": "Recognize careers requiring biology"
+    },
+    {
+      "id": "BIO9CH1-033",
+      "q": "Which career studies and manages fish resources?",
+      "o": [
+        "Electronics",
+        "Architecture",
+        "Fisheries",
+        "Geophysics"
+      ],
+      "a": 2,
+      "e": "Fisheries applies biology to fish populations and aquatic resources.",
+      "d": "Easy",
+      "topic": "Careers in Biology",
+      "slo": "Recognize careers requiring biology"
+    },
+    {
+      "id": "BIO9CH1-034",
+      "q": "Why do biologists collaborate with chemists?",
+      "o": [
+        "To investigate chemical processes in living organisms",
+        "To replace observations with guesses",
+        "To study only nonliving rocks",
+        "To avoid experiments"
+      ],
+      "a": 0,
+      "e": "Chemical knowledge helps explain biological molecules and reactions.",
+      "d": "Medium",
+      "topic": "Science as a Collaborative Field",
+      "slo": "Explain collaboration in scientific work"
+    },
+    {
+      "id": "BIO9CH1-035",
+      "q": "A disease study involves doctors, microbiologists and data analysts. What does this best illustrate?",
+      "o": [
+        "Scientific collaboration",
+        "An unrelated collection of tasks",
+        "A single-field investigation",
+        "A lack of evidence"
+      ],
+      "a": 0,
+      "e": "Different specialists contribute complementary expertise.",
+      "d": "Medium",
+      "topic": "Science as a Collaborative Field",
+      "slo": "Explain collaboration in scientific work"
+    },
+    {
+      "id": "BIO9CH1-036",
+      "q": "Which is a likely benefit of collaboration in biological research?",
+      "o": [
+        "Eliminating the need for testing",
+        "Preventing peer review",
+        "Making every hypothesis true",
+        "Combining different methods and expertise"
+      ],
+      "a": 3,
+      "e": "Collaboration brings together complementary skills.",
+      "d": "Medium",
+      "topic": "Science as a Collaborative Field",
+      "slo": "Explain collaboration in scientific work"
+    },
+    {
+      "id": "BIO9CH1-037",
+      "q": "What is an observation in the biological method?",
+      "o": [
+        "A final proof without testing",
+        "A law of nature",
+        "Information gathered using senses or instruments",
+        "A random answer"
+      ],
+      "a": 2,
+      "e": "Observation collects information about a phenomenon.",
+      "d": "Easy",
+      "topic": "Biological Method",
+      "slo": "Identify steps of the biological method"
+    },
+    {
+      "id": "BIO9CH1-038",
+      "q": "What is a hypothesis?",
+      "o": [
+        "A testable proposed explanation",
+        "An unchangeable fact",
+        "A measurement unit",
+        "A laboratory instrument"
+      ],
+      "a": 0,
+      "e": "A hypothesis proposes an explanation that can be tested.",
+      "d": "Easy",
+      "topic": "Biological Method",
+      "slo": "Identify steps of the biological method"
+    },
+    {
+      "id": "BIO9CH1-039",
+      "q": "Which step is used to test a hypothesis?",
+      "o": [
+        "Renaming the problem",
+        "Guessing",
+        "Ignoring evidence",
+        "Experimentation"
+      ],
+      "a": 3,
+      "e": "Experiments gather evidence to assess hypotheses.",
+      "d": "Easy",
+      "topic": "Biological Method",
+      "slo": "Identify steps of the biological method"
+    },
+    {
+      "id": "BIO9CH1-040",
+      "q": "What is a deduction in the biological method?",
+      "o": [
+        "An unrelated opinion",
+        "A list of instruments",
+        "A prediction derived from a hypothesis",
+        "A microscope image"
+      ],
+      "a": 2,
+      "e": "A deduction states an expected result if the hypothesis is correct.",
+      "d": "Easy",
+      "topic": "Biological Method",
+      "slo": "Identify steps of the biological method"
+    },
+    {
+      "id": "BIO9CH1-041",
+      "q": "Why are results analyzed after an experiment?",
+      "o": [
+        "To judge whether evidence supports the hypothesis",
+        "To hide unexpected findings",
+        "To guarantee a preferred conclusion",
+        "To avoid recording observations"
+      ],
+      "a": 0,
+      "e": "Analysis compares results with predictions.",
+      "d": "Easy",
+      "topic": "Biological Method",
+      "slo": "Identify steps of the biological method"
+    },
+    {
+      "id": "BIO9CH1-042",
+      "q": "What should scientists do when evidence contradicts a hypothesis?",
+      "o": [
+        "Change the data to match it",
+        "Stop all future research",
+        "Declare it a law",
+        "Revise or reject the hypothesis"
+      ],
+      "a": 3,
+      "e": "Scientific explanations must remain consistent with evidence.",
+      "d": "Easy",
+      "topic": "Biological Method",
+      "slo": "Identify steps of the biological method"
+    },
+    {
+      "id": "BIO9CH1-043",
+      "q": "What is a scientific theory?",
+      "o": [
+        "An unsupported guess",
+        "A measuring device",
+        "A well-supported explanation of natural phenomena",
+        "A single raw observation"
+      ],
+      "a": 2,
+      "e": "A theory explains phenomena using substantial evidence.",
+      "d": "Easy",
+      "topic": "Biological Method",
+      "slo": "Identify steps of the biological method"
+    },
+    {
+      "id": "BIO9CH1-044",
+      "q": "What does a scientific law generally describe?",
+      "o": [
+        "An untested proposal",
+        "A consistent pattern or relationship in nature",
+        "A personal preference",
+        "A laboratory rule about clothing"
+      ],
+      "a": 1,
+      "e": "A scientific law describes regularities observed in nature.",
+      "d": "Easy",
+      "topic": "Biological Method",
+      "slo": "Identify steps of the biological method"
+    },
+    {
+      "id": "BIO9CH1-045",
+      "q": "A student notices that plants near a window grow toward light. Which statement is a testable hypothesis?",
+      "o": [
+        "All observations are correct",
+        "The window is interesting",
+        "Light direction affects the direction of plant growth",
+        "Plants are always beautiful"
+      ],
+      "a": 2,
+      "e": "The effect of light direction can be tested experimentally.",
+      "d": "Hard",
+      "topic": "Biological Method",
+      "slo": "Apply hypothesis, deduction and experimentation"
+    },
+    {
+      "id": "BIO9CH1-046",
+      "q": "If light direction controls shoot bending, which prediction follows?",
+      "o": [
+        "Soil will disappear",
+        "Leaves will turn into roots",
+        "Changing light direction will change the direction of bending",
+        "Every plant will stop growing"
+      ],
+      "a": 2,
+      "e": "A deduction predicts an observable consequence of the hypothesis.",
+      "d": "Hard",
+      "topic": "Biological Method",
+      "slo": "Apply hypothesis, deduction and experimentation"
+    },
+    {
+      "id": "BIO9CH1-047",
+      "q": "To test the effect of light on growth, which factor should be changed deliberately?",
+      "o": [
+        "Light exposure",
+        "Every condition at once",
+        "Plant species and soil and water together",
+        "The measurement scale after results"
+      ],
+      "a": 0,
+      "e": "The independent variable is deliberately changed while others are controlled.",
+      "d": "Hard",
+      "topic": "Biological Method",
+      "slo": "Apply hypothesis, deduction and experimentation"
+    },
+    {
+      "id": "BIO9CH1-048",
+      "q": "Why should two plant groups receive equal amounts of water in a light experiment?",
+      "o": [
+        "To make light irrelevant",
+        "To ensure identical heights",
+        "To avoid collecting data",
+        "To control a possible confounding factor"
+      ],
+      "a": 3,
+      "e": "Controlling water helps isolate the effect of light.",
+      "d": "Hard",
+      "topic": "Biological Method",
+      "slo": "Apply hypothesis, deduction and experimentation"
+    },
+    {
+      "id": "BIO9CH1-049",
+      "q": "A student records plant heights each day. What kind of data are the heights?",
+      "o": [
+        "Quantitative",
+        "Unobservable",
+        "Only qualitative",
+        "Hypothetical"
+      ],
+      "a": 0,
+      "e": "Numerical measurements are quantitative data.",
+      "d": "Hard",
+      "topic": "Biological Method",
+      "slo": "Apply hypothesis, deduction and experimentation"
+    },
+    {
+      "id": "BIO9CH1-050",
+      "q": "A student records that leaves are yellow rather than green. What kind of observation is this?",
+      "o": [
+        "A scientific law",
+        "Quantitative",
+        "Qualitative",
+        "A deduction"
+      ],
+      "a": 2,
+      "e": "Descriptions of colour are qualitative observations.",
+      "d": "Hard",
+      "topic": "Biological Method",
+      "slo": "Apply hypothesis, deduction and experimentation"
+    },
+    {
+      "id": "BIO9CH1-051",
+      "q": "A student repeats an experiment several times. What is the main benefit?",
+      "o": [
+        "Automatic acceptance of the hypothesis",
+        "Proof that no error exists",
+        "Improved reliability of results",
+        "Removal of the need for controls"
+      ],
+      "a": 2,
+      "e": "Repetition helps check consistency and reduce chance effects.",
+      "d": "Hard",
+      "topic": "Biological Method",
+      "slo": "Apply hypothesis, deduction and experimentation"
+    },
+    {
+      "id": "BIO9CH1-052",
+      "q": "Two groups of mosquitoes are kept under different conditions to test a proposed cause. Why is a comparison group useful?",
+      "o": [
+        "It removes the need to observe",
+        "It helps isolate the effect of the tested factor",
+        "It changes all variables simultaneously",
+        "It guarantees the desired outcome"
+      ],
+      "a": 1,
+      "e": "Comparison groups help evaluate the tested variable.",
+      "d": "Hard",
+      "topic": "Biological Method",
+      "slo": "Apply hypothesis, deduction and experimentation"
+    },
+    {
+      "id": "BIO9CH1-053",
+      "q": "Which organism causes malaria?",
+      "o": [
+        "Housefly",
+        "Earthworm",
+        "Yeast",
+        "Plasmodium"
+      ],
+      "a": 3,
+      "e": "Malaria is caused by the protozoan parasite Plasmodium.",
+      "d": "Medium",
+      "topic": "Malaria: Biological Method Case Study",
+      "slo": "Explain the malaria investigation"
+    },
+    {
+      "id": "BIO9CH1-054",
+      "q": "Which mosquito is associated with transmission of malaria to humans?",
+      "o": [
+        "Male Anopheles",
+        "Female Anopheles",
+        "Male housefly",
+        "Butterfly"
+      ],
+      "a": 1,
+      "e": "Infected female Anopheles mosquitoes can transmit Plasmodium.",
+      "d": "Medium",
+      "topic": "Malaria: Biological Method Case Study",
+      "slo": "Explain the malaria investigation"
+    },
+    {
+      "id": "BIO9CH1-055",
+      "q": "What is the role of the mosquito in malaria transmission?",
+      "o": [
+        "Antibiotic",
+        "Decomposer",
+        "Producer",
+        "Vector"
+      ],
+      "a": 3,
+      "e": "A vector carries and transmits a disease-causing organism.",
+      "d": "Medium",
+      "topic": "Malaria: Biological Method Case Study",
+      "slo": "Explain the malaria investigation"
+    },
+    {
+      "id": "BIO9CH1-056",
+      "q": "Why was finding Plasmodium in a patient’s blood significant?",
+      "o": [
+        "It provided evidence linking a parasite with malaria",
+        "It proved all mosquitoes cause malaria",
+        "It showed malaria is inherited only",
+        "It proved fever cannot have other causes"
+      ],
+      "a": 0,
+      "e": "Detection of the parasite helped establish its connection with the disease.",
+      "d": "Medium",
+      "topic": "Malaria: Biological Method Case Study",
+      "slo": "Explain the malaria investigation"
+    },
+    {
+      "id": "BIO9CH1-057",
+      "q": "Why was examining mosquitoes important in the malaria investigation?",
+      "o": [
+        "To identify plant tissues",
+        "To investigate how the parasite is transmitted",
+        "To study rock formation",
+        "To determine the colour of blood"
+      ],
+      "a": 1,
+      "e": "Mosquito investigations helped establish the route of transmission.",
+      "d": "Medium",
+      "topic": "Malaria: Biological Method Case Study",
+      "slo": "Explain the malaria investigation"
+    },
+    {
+      "id": "BIO9CH1-058",
+      "q": "Which action directly targets the malaria vector?",
+      "o": [
+        "Adding sugar to drinking water",
+        "Increasing stagnant water",
+        "Reducing mosquito breeding sites",
+        "Avoiding all vegetables"
+      ],
+      "a": 2,
+      "e": "Reducing breeding sites can reduce mosquito populations.",
+      "d": "Medium",
+      "topic": "Malaria: Biological Method Case Study",
+      "slo": "Explain the malaria investigation"
+    },
+    {
+      "id": "BIO9CH1-059",
+      "q": "A researcher compares the structure of fish gills and human lungs. Which field is most directly involved?",
+      "o": [
+        "Taxonomy",
+        "Comparative anatomy",
+        "Palaeontology",
+        "Biostatistics"
+      ],
+      "a": 1,
+      "e": "Comparative anatomy compares body structures of different organisms.",
+      "d": "Medium",
+      "topic": "Major Fields of Biology",
+      "slo": "Identify branches of biology from investigations"
+    },
+    {
+      "id": "BIO9CH1-060",
+      "q": "Which branch examines how the parts of an organism perform their functions?",
+      "o": [
+        "Physiology",
+        "Morphology",
+        "Taxonomy",
+        "Embryology"
+      ],
+      "a": 0,
+      "e": "Physiology studies the functions of organisms and their parts.",
+      "d": "Easy",
+      "topic": "Major Fields of Biology",
+      "slo": "Differentiate branches of biology"
+    },
+    {
+      "id": "BIO9CH1-061",
+      "q": "A student studies changes in a chick from fertilized egg to hatching. Which branch applies?",
+      "o": [
+        "Ecology",
+        "Taxonomy",
+        "Histology",
+        "Embryology"
+      ],
+      "a": 3,
+      "e": "Embryology studies development before birth or hatching.",
+      "d": "Medium",
+      "topic": "Major Fields of Biology",
+      "slo": "Apply knowledge of branches of biology"
+    },
+    {
+      "id": "BIO9CH1-062",
+      "q": "Which branch focuses on microscopic tissues rather than whole organs?",
+      "o": [
+        "Anatomy",
+        "Ecology",
+        "Histology",
+        "Palaeontology"
+      ],
+      "a": 2,
+      "e": "Histology is the study of tissues.",
+      "d": "Easy",
+      "topic": "Major Fields of Biology",
+      "slo": "Differentiate branches of biology"
+    },
+    {
+      "id": "BIO9CH1-063",
+      "q": "The classification and scientific naming of organisms is mainly studied in which branch?",
+      "o": [
+        "Physiology",
+        "Taxonomy",
+        "Biochemistry",
+        "Parasitology"
+      ],
+      "a": 1,
+      "e": "Taxonomy concerns identification, naming, and classification.",
+      "d": "Easy",
+      "topic": "Major Fields of Biology",
+      "slo": "Identify branches of biology"
+    },
+    {
+      "id": "BIO9CH1-064",
+      "q": "A scientist investigates how a parasite survives inside a host. Which branch best fits?",
+      "o": [
+        "Parasitology",
+        "Botany",
+        "Anatomy",
+        "Morphology"
+      ],
+      "a": 0,
+      "e": "Parasitology studies parasites and their relationships with hosts.",
+      "d": "Medium",
+      "topic": "Major Fields of Biology",
+      "slo": "Apply branches of biology"
+    },
+    {
+      "id": "BIO9CH1-065",
+      "q": "Which investigation belongs primarily to ecology?",
+      "o": [
+        "Shape of a bone",
+        "Structure of a leaf cell",
+        "Stages of embryo formation",
+        "Effects of drought on organisms in a grassland"
+      ],
+      "a": 3,
+      "e": "Ecology studies relationships between organisms and their environment.",
+      "d": "Medium",
+      "topic": "Major Fields of Biology",
+      "slo": "Apply ecological concepts"
+    },
+    {
+      "id": "BIO9CH1-066",
+      "q": "Studying how traits pass from parents to offspring is an example of which field?",
+      "o": [
+        "Ecology",
+        "Morphology",
+        "Genetics",
+        "Histology"
+      ],
+      "a": 2,
+      "e": "Genetics studies heredity and variation.",
+      "d": "Easy",
+      "topic": "Major Fields of Biology",
+      "slo": "Identify branches of biology"
+    },
+    {
+      "id": "BIO9CH1-067",
+      "q": "What is the central concern of biotechnology?",
+      "o": [
+        "Naming newly discovered species",
+        "Using living systems or their components for useful products",
+        "Studying only fossils",
+        "Measuring only weather"
+      ],
+      "a": 1,
+      "e": "Biotechnology applies biological systems and processes to practical purposes.",
+      "d": "Medium",
+      "topic": "Major Fields of Biology",
+      "slo": "Explain applications of biology"
+    },
+    {
+      "id": "BIO9CH1-068",
+      "q": "A fossilized shell is examined to understand past life. Which field is involved?",
+      "o": [
+        "Palaeontology",
+        "Physiology",
+        "Immunology",
+        "Embryology"
+      ],
+      "a": 0,
+      "e": "Palaeontology studies fossils and ancient life.",
+      "d": "Easy",
+      "topic": "Major Fields of Biology",
+      "slo": "Recognize biological fields"
+    },
+    {
+      "id": "BIO9CH1-069",
+      "q": "A scientist studies how antibodies help defend the body. Which branch is most relevant?",
+      "o": [
+        "Morphology",
+        "Taxonomy",
+        "Anatomy",
+        "Immunology"
+      ],
+      "a": 3,
+      "e": "Immunology concerns immune defenses.",
+      "d": "Medium",
+      "topic": "Major Fields of Biology",
+      "slo": "Apply branches of biology"
+    },
+    {
+      "id": "BIO9CH1-070",
+      "q": "Why is biochemistry important to biology?",
+      "o": [
+        "It replaces all field observations",
+        "It only classifies animals",
+        "It explains chemical substances and reactions in living organisms",
+        "It studies planetary motion"
+      ],
+      "a": 2,
+      "e": "Biochemistry links chemistry with processes in living systems.",
+      "d": "Medium",
+      "topic": "Relationship with Other Sciences",
+      "slo": "Explain interdisciplinary links"
+    },
+    {
+      "id": "BIO9CH1-071",
+      "q": "How can mathematics support a biological investigation?",
+      "o": [
+        "By replacing experiments with guesses",
+        "By analyzing numerical observations and patterns",
+        "By deciding conclusions before collecting data",
+        "By removing the need for measurements"
+      ],
+      "a": 1,
+      "e": "Mathematical analysis helps interpret biological data.",
+      "d": "Medium",
+      "topic": "Relationship with Other Sciences",
+      "slo": "Explain interdisciplinary links"
+    },
+    {
+      "id": "BIO9CH1-072",
+      "q": "A biologist uses a microscope to investigate cells. Which other science most directly supports the instrument design?",
+      "o": [
+        "Physics",
+        "History",
+        "Literature",
+        "Geography"
+      ],
+      "a": 0,
+      "e": "Optics, a field of physics, explains microscope lenses and light.",
+      "d": "Medium",
+      "topic": "Relationship with Other Sciences",
+      "slo": "Recognize links between biology and physics"
+    },
+    {
+      "id": "BIO9CH1-073",
+      "q": "Why is the relationship between biology and geography useful?",
+      "o": [
+        "It determines the genetic code by itself",
+        "It makes classification unnecessary",
+        "It proves all habitats are identical",
+        "It helps explain where organisms live and how environments vary"
+      ],
+      "a": 3,
+      "e": "Geographical conditions influence the distribution of organisms.",
+      "d": "Medium",
+      "topic": "Relationship with Other Sciences",
+      "slo": "Explain interdisciplinary links"
+    },
+    {
+      "id": "BIO9CH1-074",
+      "q": "Which task best reflects a career in agriculture using biology?",
+      "o": [
+        "Designing a bridge foundation",
+        "Calculating an orbit",
+        "Developing methods to improve crop production",
+        "Repairing a radio antenna"
+      ],
+      "a": 2,
+      "e": "Agriculture applies biological knowledge to crop improvement.",
+      "d": "Medium",
+      "topic": "Careers in Biology",
+      "slo": "Identify careers applying biology"
+    },
+    {
+      "id": "BIO9CH1-075",
+      "q": "A professional develops vaccines to help prevent disease. Which area is most closely involved?",
+      "o": [
+        "Astronomy",
+        "Medicine and biotechnology",
+        "Civil engineering",
+        "Mineralogy"
+      ],
+      "a": 1,
+      "e": "Vaccines rely on biological knowledge and biotechnology.",
+      "d": "Medium",
+      "topic": "Careers in Biology",
+      "slo": "Recognize applications of biology"
+    },
+    {
+      "id": "BIO9CH1-076",
+      "q": "Why do wildlife conservationists need biological knowledge?",
+      "o": [
+        "To understand species and protect their habitats",
+        "To guarantee that all species eat the same food",
+        "To eliminate field observations",
+        "To classify rocks by hardness"
+      ],
+      "a": 0,
+      "e": "Conservation depends on understanding organisms and ecosystems.",
+      "d": "Medium",
+      "topic": "Careers in Biology",
+      "slo": "Apply biology to careers"
+    },
+    {
+      "id": "BIO9CH1-077",
+      "q": "A veterinarian investigates an infection in cattle. What is the main biological application?",
+      "o": [
+        "Weather forecasting",
+        "Bridge construction",
+        "Mineral extraction",
+        "Animal health and disease management"
+      ],
+      "a": 3,
+      "e": "Veterinary work uses biology to protect animal health.",
+      "d": "Medium",
+      "topic": "Careers in Biology",
+      "slo": "Identify careers applying biology"
+    },
+    {
+      "id": "BIO9CH1-078",
+      "q": "Why might a malaria study involve doctors, entomologists and laboratory scientists?",
+      "o": [
+        "All specialists must perform identical tasks",
+        "One observation proves every claim",
+        "Different expertise helps investigate disease, vectors and evidence",
+        "Teamwork eliminates the need for data"
+      ],
+      "a": 2,
+      "e": "Complex biological problems benefit from complementary expertise.",
+      "d": "Medium",
+      "topic": "Science as a Collaborative Field",
+      "slo": "Explain scientific collaboration"
+    },
+    {
+      "id": "BIO9CH1-079",
+      "q": "What should researchers do when their results conflict?",
+      "o": [
+        "Hide the conflicting results",
+        "Review methods and evidence together",
+        "Select the most popular answer",
+        "Stop recording observations"
+      ],
+      "a": 1,
+      "e": "Collaboration supports critical evaluation and reproducibility.",
+      "d": "Hard",
+      "topic": "Science as a Collaborative Field",
+      "slo": "Evaluate collaborative science"
+    },
+    {
+      "id": "BIO9CH1-080",
+      "q": "A student notices more mosquito bites near standing water. What is the first scientific step?",
+      "o": [
+        "State the observation clearly",
+        "Declare a theory proven",
+        "Ignore other explanations",
+        "Publish a conclusion immediately"
+      ],
+      "a": 0,
+      "e": "A biological investigation begins by identifying and recording an observation or problem.",
+      "d": "Easy",
+      "topic": "Biological Method",
+      "slo": "Identify steps of biological method"
+    },
+    {
+      "id": "BIO9CH1-081",
+      "q": "What makes a biological hypothesis scientifically useful?",
+      "o": [
+        "It cannot possibly be challenged",
+        "It is always correct",
+        "It is based only on personal preference",
+        "It can be tested using evidence"
+      ],
+      "a": 3,
+      "e": "Testable hypotheses can be evaluated through observations and experiments.",
+      "d": "Medium",
+      "topic": "Biological Method",
+      "slo": "Explain hypothesis formation"
+    },
+    {
+      "id": "BIO9CH1-082",
+      "q": "Which statement is a testable hypothesis?",
+      "o": [
+        "Plants are always beautiful",
+        "Nature is mysterious",
+        "Plants given adequate light will grow taller than identical plants kept in darkness",
+        "Green is the best color"
+      ],
+      "a": 2,
+      "e": "The statement predicts a measurable difference under defined conditions.",
+      "d": "Medium",
+      "topic": "Biological Method",
+      "slo": "Distinguish testable hypotheses"
+    },
+    {
+      "id": "BIO9CH1-083",
+      "q": "In a plant-light experiment, what is the independent variable?",
+      "o": [
+        "Final plant height",
+        "Amount of light provided",
+        "Number of leaves counted at the end",
+        "Growth recorded after two weeks"
+      ],
+      "a": 1,
+      "e": "The independent variable is deliberately changed by the investigator.",
+      "d": "Medium",
+      "topic": "Biological Method",
+      "slo": "Identify experimental variables"
+    },
+    {
+      "id": "BIO9CH1-084",
+      "q": "In the same experiment, what is the dependent variable if height is measured?",
+      "o": [
+        "Plant height",
+        "Light intensity set by researcher",
+        "Type of ruler",
+        "Pot label"
+      ],
+      "a": 0,
+      "e": "Plant height is the measured response.",
+      "d": "Medium",
+      "topic": "Biological Method",
+      "slo": "Identify experimental variables"
+    },
+    {
+      "id": "BIO9CH1-085",
+      "q": "Why should both plant groups receive the same amount of water?",
+      "o": [
+        "To increase the independent variables",
+        "To make the results impossible to compare",
+        "To remove the need for a control group",
+        "To control a factor that could influence growth"
+      ],
+      "a": 3,
+      "e": "Controlling other conditions helps isolate the effect of light.",
+      "d": "Medium",
+      "topic": "Biological Method",
+      "slo": "Explain controlled experiments"
+    },
+    {
+      "id": "BIO9CH1-086",
+      "q": "What is the purpose of repeating a biological experiment?",
+      "o": [
+        "To guarantee the preferred result",
+        "To avoid recording measurements",
+        "To check whether findings are consistent",
+        "To change the hypothesis after each trial"
+      ],
+      "a": 2,
+      "e": "Replication increases confidence in the reliability of results.",
+      "d": "Medium",
+      "topic": "Biological Method",
+      "slo": "Explain experimental reliability"
+    },
+    {
+      "id": "BIO9CH1-087",
+      "q": "A prediction differs from an observation because a prediction describes what?",
+      "o": [
+        "Only a directly recorded event",
+        "An expected outcome before testing",
+        "A result that can never change",
+        "An established law"
+      ],
+      "a": 1,
+      "e": "A prediction anticipates what should occur if the hypothesis is supported.",
+      "d": "Medium",
+      "topic": "Biological Method",
+      "slo": "Differentiate scientific terms"
+    },
+    {
+      "id": "BIO9CH1-088",
+      "q": "Which record is quantitative data?",
+      "o": [
+        "Twelve mosquitoes were caught",
+        "The mosquitoes seemed annoying",
+        "The pond looked unpleasant",
+        "The insects were interesting"
+      ],
+      "a": 0,
+      "e": "Quantitative data are expressed numerically.",
+      "d": "Easy",
+      "topic": "Biological Method",
+      "slo": "Differentiate qualitative and quantitative data"
+    },
+    {
+      "id": "BIO9CH1-089",
+      "q": "Which record is qualitative data?",
+      "o": [
+        "The leaves measured 7 cm",
+        "There were 15 leaves",
+        "The temperature was 25 degrees Celsius",
+        "The leaves were dark green"
+      ],
+      "a": 3,
+      "e": "Qualitative data describe qualities rather than numerical quantities.",
+      "d": "Easy",
+      "topic": "Biological Method",
+      "slo": "Differentiate qualitative and quantitative data"
+    },
+    {
+      "id": "BIO9CH1-090",
+      "q": "A student finds a result that does not support the hypothesis. What should the student do?",
+      "o": [
+        "Delete the observation",
+        "Invent supporting data",
+        "Report the result and reconsider the hypothesis",
+        "Claim the hypothesis is a law"
+      ],
+      "a": 2,
+      "e": "Scientific conclusions must follow the collected evidence.",
+      "d": "Hard",
+      "topic": "Biological Method",
+      "slo": "Evaluate evidence and hypotheses"
+    },
+    {
+      "id": "BIO9CH1-091",
+      "q": "Why is a control group important in an experiment?",
+      "o": [
+        "It receives every possible treatment",
+        "It provides a comparison for the tested treatment",
+        "It guarantees a positive result",
+        "It replaces all repeated trials"
+      ],
+      "a": 1,
+      "e": "The control group helps assess the effect of the independent variable.",
+      "d": "Medium",
+      "topic": "Biological Method",
+      "slo": "Explain experimental design"
+    },
+    {
+      "id": "BIO9CH1-092",
+      "q": "Which is the best way to communicate experimental findings?",
+      "o": [
+        "Present the methods, observations and conclusion clearly",
+        "Report only successful trials",
+        "Omit the procedure",
+        "Use unsupported claims"
+      ],
+      "a": 0,
+      "e": "Clear reporting allows others to assess and repeat the work.",
+      "d": "Medium",
+      "topic": "Biological Method",
+      "slo": "Describe scientific communication"
+    },
+    {
+      "id": "BIO9CH1-093",
+      "q": "Which statement most accurately describes a scientific theory in biological investigations?",
+      "o": [
+        "An untested personal opinion",
+        "A single measurement",
+        "A rule that cannot be questioned",
+        "A well-supported explanation based on substantial evidence"
+      ],
+      "a": 3,
+      "e": "Scientific theories explain phenomena and are supported by extensive evidence.",
+      "d": "Medium",
+      "topic": "Biological Method",
+      "slo": "Differentiate hypothesis, theory and law"
+    },
+    {
+      "id": "BIO9CH1-094",
+      "q": "What is the main function of a scientific law?",
+      "o": [
+        "To identify the inventor of a microscope",
+        "To replace all explanations",
+        "To describe a consistent natural pattern or relationship",
+        "To guarantee every hypothesis is true"
+      ],
+      "a": 2,
+      "e": "Scientific laws summarize recurring patterns or relationships.",
+      "d": "Medium",
+      "topic": "Biological Method",
+      "slo": "Differentiate hypothesis, theory and law"
+    },
+    {
+      "id": "BIO9CH1-095",
+      "q": "Why did investigators compare malaria cases with mosquito exposure?",
+      "o": [
+        "To show that all insects cause malaria",
+        "To test a possible relationship between mosquitoes and malaria",
+        "To avoid observing patients",
+        "To prove that standing water alone is the pathogen"
+      ],
+      "a": 1,
+      "e": "Comparing exposure and disease provides evidence about a possible vector.",
+      "d": "Medium",
+      "topic": "Malaria: Biological Method Case Study",
+      "slo": "Explain biological method through malaria"
+    },
+    {
+      "id": "BIO9CH1-096",
+      "q": "In the malaria investigation, what role do mosquitoes play in transmission?",
+      "o": [
+        "They act as vectors that can carry the parasite",
+        "They are the human host",
+        "They manufacture antimalarial drugs",
+        "They are the disease-causing protozoan"
+      ],
+      "a": 0,
+      "e": "Anopheles mosquitoes can transmit Plasmodium parasites between hosts.",
+      "d": "Medium",
+      "topic": "Malaria: Biological Method Case Study",
+      "slo": "Explain malaria transmission"
+    },
+    {
+      "id": "BIO9CH1-097",
+      "q": "Which parasite is responsible for the disease malaria?",
+      "o": [
+        "Anopheles mosquito",
+        "Housefly",
+        "Earthworm",
+        "Plasmodium"
+      ],
+      "a": 3,
+      "e": "Malaria is caused by Plasmodium parasites; mosquitoes transmit them.",
+      "d": "Easy",
+      "topic": "Malaria: Biological Method Case Study",
+      "slo": "Identify malaria causative agent"
+    },
+    {
+      "id": "BIO9CH1-098",
+      "q": "Which mosquito is especially associated with human malaria transmission?",
+      "o": [
+        "Male butterfly",
+        "Female housefly",
+        "Female Anopheles",
+        "Male honeybee"
+      ],
+      "a": 2,
+      "e": "Infected female Anopheles mosquitoes can transmit Plasmodium.",
+      "d": "Easy",
+      "topic": "Malaria: Biological Method Case Study",
+      "slo": "Identify malaria vector"
+    },
+    {
+      "id": "BIO9CH1-099",
+      "q": "Why was testing mosquito transmission more convincing than simply noticing mosquitoes near patients?",
+      "o": [
+        "Nearby mosquitoes prove all infections automatically",
+        "An experiment could examine the proposed cause-and-effect link",
+        "Experiments eliminate all uncertainty forever",
+        "Mosquitoes cannot be observed directly"
+      ],
+      "a": 1,
+      "e": "Experimental evidence can test an explanation more directly than association alone.",
+      "d": "Hard",
+      "topic": "Malaria: Biological Method Case Study",
+      "slo": "Evaluate evidence in malaria investigation"
+    },
+    {
+      "id": "BIO9CH1-100",
+      "q": "Which action could help reduce mosquito breeding near homes?",
+      "o": [
+        "Removing stagnant water from containers",
+        "Leaving water containers uncovered",
+        "Creating more standing pools",
+        "Ignoring water storage"
+      ],
+      "a": 0,
+      "e": "Standing water provides breeding sites for mosquitoes.",
+      "d": "Medium",
+      "topic": "Malaria: Biological Method Case Study",
+      "slo": "Apply malaria prevention knowledge"
+    },
+    {
+      "id": "BIO9CH1-101",
+      "q": "What does the Greek word bios mean?",
+      "o": [
+        "Study",
+        "Earth",
+        "Reason",
+        "Life"
+      ],
+      "a": 3,
+      "e": "The textbook explains that bios means life.",
+      "d": "Easy",
+      "topic": "Introduction to Biology",
+      "slo": "Identify and explain introduction to biology"
+    },
+    {
+      "id": "BIO9CH1-102",
+      "q": "What does the Greek word logos mean in biology?",
+      "o": [
+        "Study or reasoning",
+        "Environment",
+        "Organism",
+        "Water"
+      ],
+      "a": 0,
+      "e": "The textbook links logos to thought, reasoning and study.",
+      "d": "Easy",
+      "topic": "Introduction to Biology",
+      "slo": "Identify and explain introduction to biology"
+    },
+    {
+      "id": "BIO9CH1-103",
+      "q": "Which activity is the first step in collecting scientific information according to the introduction?",
+      "o": [
+        "Writing a law",
+        "Naming a species",
+        "Asking a question",
+        "Accepting a theory"
+      ],
+      "a": 2,
+      "e": "The introduction identifies asking a question as an initial scientific step.",
+      "d": "Easy",
+      "topic": "Introduction to Biology",
+      "slo": "Identify and explain introduction to biology"
+    },
+    {
+      "id": "BIO9CH1-104",
+      "q": "Which statement best describes science in the textbook?",
+      "o": [
+        "Rejecting evidence",
+        "Collecting information through inquiry",
+        "Avoiding questions",
+        "Memorizing unsupported claims"
+      ],
+      "a": 1,
+      "e": "Science is described as a process of collecting information about the world.",
+      "d": "Easy",
+      "topic": "Introduction to Biology",
+      "slo": "Identify and explain introduction to biology"
+    },
+    {
+      "id": "BIO9CH1-105",
+      "q": "Which relationship is included in the scope of biology?",
+      "o": [
+        "Only rocks and minerals",
+        "Only manufactured objects",
+        "Living things and their surroundings",
+        "Only stars"
+      ],
+      "a": 2,
+      "e": "Biology explains how living things relate to one another and their surroundings.",
+      "d": "Easy",
+      "topic": "Introduction to Biology",
+      "slo": "Identify and explain introduction to biology"
+    },
+    {
+      "id": "BIO9CH1-106",
+      "q": "Which observation is biological rather than purely physical?",
+      "o": [
+        "Electric resistance of copper",
+        "Movement of planets",
+        "Variation in living organisms",
+        "Weathering of granite"
+      ],
+      "a": 2,
+      "e": "Flower colour is a characteristic of living organisms.",
+      "d": "Easy",
+      "topic": "Introduction to Biology",
+      "slo": "Identify and explain introduction to biology"
+    },
+    {
+      "id": "BIO9CH1-107",
+      "q": "According to the textbook's introductory discussion, living things contain approximately what proportion of water?",
+      "o": [
+        "95 to 100 percent",
+        "60 to 90 percent",
+        "1 to 5 percent",
+        "10 to 20 percent"
+      ],
+      "a": 1,
+      "e": "The textbook states that living things consist of about 60 to 90 percent water.",
+      "d": "Easy",
+      "topic": "Introduction to Biology",
+      "slo": "Identify and explain introduction to biology"
+    },
+    {
+      "id": "BIO9CH1-108",
+      "q": "Which Quranic theme is discussed under the heading Origin of Life in Water?",
+      "o": [
+        "Mountain formation",
+        "Electrical circuits",
+        "Atmospheric pressure",
+        "Water and living things"
+      ],
+      "a": 3,
+      "e": "The chapter quotes Surah Al-Anbiya 21:30 under Origin of Life in Water.",
+      "d": "Easy",
+      "topic": "Introduction to Biology",
+      "slo": "Identify and explain introduction to biology"
+    },
+    {
+      "id": "BIO9CH1-109",
+      "q": "Which heading in the chapter discusses the creation of man?",
+      "o": [
+        "Taxonomy",
+        "Creation of Man",
+        "Marine Biology",
+        "Biological Method"
+      ],
+      "a": 1,
+      "e": "The introductory section includes a separate heading on Creation of Man.",
+      "d": "Easy",
+      "topic": "Introduction to Biology",
+      "slo": "Identify and explain introduction to biology"
+    },
+    {
+      "id": "BIO9CH1-110",
+      "q": "What is the chapter's primary reason for asking why natural phenomena occur?",
+      "o": [
+        "Fossil preservation",
+        "Scientific naming",
+        "Vaccine production",
+        "Scientific inquiry"
+      ],
+      "a": 3,
+      "e": "Questions about phenomena motivate observation and investigation.",
+      "d": "Easy",
+      "topic": "Introduction to Biology",
+      "slo": "Identify and explain introduction to biology"
+    },
+    {
+      "id": "BIO9CH1-111",
+      "q": "Which branch studies external form and appearance of organisms?",
+      "o": [
+        "Genetics",
+        "Morphology",
+        "Histology",
+        "Pathology"
+      ],
+      "a": 1,
+      "e": "Morphology examines the form and structure of organisms.",
+      "d": "Easy",
+      "topic": "Major Fields of Biology",
+      "slo": "Identify and explain major fields of biology"
+    },
+    {
+      "id": "BIO9CH1-112",
+      "q": "Which branch focuses on internal structures of organisms?",
+      "o": [
+        "Anatomy",
+        "Ecology",
+        "Taxonomy",
+        "Immunology"
+      ],
+      "a": 0,
+      "e": "Anatomy studies internal structures.",
+      "d": "Easy",
+      "topic": "Major Fields of Biology",
+      "slo": "Identify and explain major fields of biology"
+    },
+    {
+      "id": "BIO9CH1-113",
+      "q": "Which branch investigates how organs carry out their roles?",
+      "o": [
+        "Taxonomy",
+        "Palaeontology",
+        "Morphology",
+        "Physiology"
+      ],
+      "a": 3,
+      "e": "Physiology concerns functions of organisms and their parts.",
+      "d": "Easy",
+      "topic": "Major Fields of Biology",
+      "slo": "Identify and explain major fields of biology"
+    },
+    {
+      "id": "BIO9CH1-114",
+      "q": "Which branch studies tissues using a microscope?",
+      "o": [
+        "Histology",
+        "Marine biology",
+        "Embryology",
+        "Taxonomy"
+      ],
+      "a": 0,
+      "e": "Histology is the microscopic study of tissues.",
+      "d": "Easy",
+      "topic": "Major Fields of Biology",
+      "slo": "Identify and explain major fields of biology"
+    },
+    {
+      "id": "BIO9CH1-115",
+      "q": "Which branch is also called cell biology?",
+      "o": [
+        "Ecology",
+        "Pharmacology",
+        "Palaeontology",
+        "Cytology"
+      ],
+      "a": 3,
+      "e": "Cytology is the study of cell structure and function.",
+      "d": "Easy",
+      "topic": "Major Fields of Biology",
+      "slo": "Identify and explain major fields of biology"
+    },
+    {
+      "id": "BIO9CH1-116",
+      "q": "Which branch studies genes and heredity?",
+      "o": [
+        "Genetics",
+        "Histology",
+        "Anatomy",
+        "Pathology"
+      ],
+      "a": 0,
+      "e": "Genetics studies genes and inheritance.",
+      "d": "Easy",
+      "topic": "Major Fields of Biology",
+      "slo": "Identify and explain major fields of biology"
+    },
+    {
+      "id": "BIO9CH1-117",
+      "q": "Which branch studies biological processes at molecular level?",
+      "o": [
+        "Taxonomy",
+        "Marine biology",
+        "Molecular biology",
+        "Morphology"
+      ],
+      "a": 2,
+      "e": "Molecular biology examines biology at the molecular level.",
+      "d": "Easy",
+      "topic": "Major Fields of Biology",
+      "slo": "Identify and explain major fields of biology"
+    },
+    {
+      "id": "BIO9CH1-118",
+      "q": "Which branch studies development from a fertilized egg?",
+      "o": [
+        "Palaeontology",
+        "Ecology",
+        "Embryology",
+        "Pharmacology"
+      ],
+      "a": 2,
+      "e": "Embryology studies development of organisms from fertilization.",
+      "d": "Easy",
+      "topic": "Major Fields of Biology",
+      "slo": "Identify and explain major fields of biology"
+    },
+    {
+      "id": "BIO9CH1-119",
+      "q": "Which branch uses fossils to investigate past life?",
+      "o": [
+        "Immunology",
+        "Cytology",
+        "Palaeontology",
+        "Physiology"
+      ],
+      "a": 2,
+      "e": "Palaeontology studies the history of life using fossils.",
+      "d": "Easy",
+      "topic": "Major Fields of Biology",
+      "slo": "Identify and explain major fields of biology"
+    },
+    {
+      "id": "BIO9CH1-120",
+      "q": "Which branch is responsible for naming and classifying organisms?",
+      "o": [
+        "Taxonomy",
+        "Pharmacology",
+        "Anatomy",
+        "Histology"
+      ],
+      "a": 0,
+      "e": "Taxonomy involves classification and naming.",
+      "d": "Easy",
+      "topic": "Major Fields of Biology",
+      "slo": "Identify and explain major fields of biology"
+    },
+    {
+      "id": "BIO9CH1-121",
+      "q": "Which branch studies interactions between organisms and their environment?",
+      "o": [
+        "Embryology",
+        "Pathology",
+        "Cytology",
+        "Ecology"
+      ],
+      "a": 3,
+      "e": "Ecology examines relationships between organisms and their surroundings.",
+      "d": "Easy",
+      "topic": "Major Fields of Biology",
+      "slo": "Identify and explain major fields of biology"
+    },
+    {
+      "id": "BIO9CH1-122",
+      "q": "Which branch studies organisms living in the sea?",
+      "o": [
+        "Histology",
+        "Immunology",
+        "Genetics",
+        "Marine biology"
+      ],
+      "a": 3,
+      "e": "Marine biology studies organisms inhabiting seas.",
+      "d": "Easy",
+      "topic": "Major Fields of Biology",
+      "slo": "Identify and explain major fields of biology"
+    },
+    {
+      "id": "BIO9CH1-123",
+      "q": "Which branch deals with the study and diagnosis of diseases?",
+      "o": [
+        "Taxonomy",
+        "Pathology",
+        "Morphology",
+        "Ecology"
+      ],
+      "a": 1,
+      "e": "Pathology investigates diseases and their diagnosis.",
+      "d": "Easy",
+      "topic": "Major Fields of Biology",
+      "slo": "Identify and explain major fields of biology"
+    },
+    {
+      "id": "BIO9CH1-124",
+      "q": "Which branch is the study of immunity?",
+      "o": [
+        "Palaeontology",
+        "Marine biology",
+        "Anatomy",
+        "Immunology"
+      ],
+      "a": 3,
+      "e": "Immunology studies immunity and defense against foreign substances.",
+      "d": "Easy",
+      "topic": "Major Fields of Biology",
+      "slo": "Identify and explain major fields of biology"
+    },
+    {
+      "id": "BIO9CH1-125",
+      "q": "Which branch studies drugs?",
+      "o": [
+        "Taxonomy",
+        "Embryology",
+        "Ecology",
+        "Pharmacology"
+      ],
+      "a": 3,
+      "e": "Pharmacology deals with the study of drugs.",
+      "d": "Easy",
+      "topic": "Major Fields of Biology",
+      "slo": "Identify and explain major fields of biology"
+    },
+    {
+      "id": "BIO9CH1-126",
+      "q": "What is an example of epithelial tissue described in the chapter?",
+      "o": [
+        "Epithelial tissue",
+        "Nervous tissue",
+        "Blood tissue",
+        "Bone tissue"
+      ],
+      "a": 0,
+      "e": "The textbook illustrates epithelial tissue as a covering layer.",
+      "d": "Easy",
+      "topic": "Major Fields of Biology",
+      "slo": "Identify and explain major fields of biology"
+    },
+    {
+      "id": "BIO9CH1-127",
+      "q": "What does the textbook identify as the scientific name of humans?",
+      "o": [
+        "Canis lupus",
+        "Felis catus",
+        "Homo sapiens",
+        "Panthera leo"
+      ],
+      "a": 2,
+      "e": "The chapter gives Homo sapiens as the scientific name of humans.",
+      "d": "Easy",
+      "topic": "Major Fields of Biology",
+      "slo": "Identify and explain major fields of biology"
+    },
+    {
+      "id": "BIO9CH1-128",
+      "q": "What are fossils according to the chapter's definition?",
+      "o": [
+        "A newly formed tissue",
+        "Remains of living things preserved by natural processes",
+        "A modern drug",
+        "A living embryo"
+      ],
+      "a": 1,
+      "e": "Fossils are preserved remains that help study past life.",
+      "d": "Easy",
+      "topic": "Major Fields of Biology",
+      "slo": "Identify and explain major fields of biology"
+    },
+    {
+      "id": "BIO9CH1-129",
+      "q": "Which field studies the marine organisms listed in the chapter?",
+      "o": [
+        "Cytology",
+        "Pharmacology",
+        "Marine biology",
+        "Histology"
+      ],
+      "a": 2,
+      "e": "Dolphins are listed among marine organisms.",
+      "d": "Easy",
+      "topic": "Major Fields of Biology",
+      "slo": "Identify and explain major fields of biology"
+    },
+    {
+      "id": "BIO9CH1-130",
+      "q": "Which pair consists of drugs mentioned in the chapter?",
+      "o": [
+        "Glucose and cellulose",
+        "Oxygen and nitrogen",
+        "Penicillin and insulin",
+        "Sand and clay"
+      ],
+      "a": 2,
+      "e": "The pharmacology section lists drugs including penicillin and insulin.",
+      "d": "Easy",
+      "topic": "Major Fields of Biology",
+      "slo": "Identify and explain major fields of biology"
+    },
+    {
+      "id": "BIO9CH1-131",
+      "q": "Which medicine is listed as an example in the pharmacology section?",
+      "o": [
+        "Morphine",
+        "Chlorophyll",
+        "Starch",
+        "Cellulose"
+      ],
+      "a": 0,
+      "e": "Morphine is among the examples of drugs in the chapter.",
+      "d": "Easy",
+      "topic": "Major Fields of Biology",
+      "slo": "Identify and explain major fields of biology"
+    },
+    {
+      "id": "BIO9CH1-132",
+      "q": "Which field would study the 3D structure of genomes using computational models?",
+      "o": [
+        "Computational biology",
+        "Marine biology alone",
+        "Morphology alone",
+        "Taxonomy alone"
+      ],
+      "a": 0,
+      "e": "The chapter notes computational models of genomes and biological systems.",
+      "d": "Easy",
+      "topic": "Major Fields of Biology",
+      "slo": "Identify and explain major fields of biology"
+    },
+    {
+      "id": "BIO9CH1-133",
+      "q": "Which topic best fits immunology rather than pharmacology?",
+      "o": [
+        "Fossil dating",
+        "Drug manufacturing only",
+        "Body immunity",
+        "Species naming"
+      ],
+      "a": 2,
+      "e": "Immunology focuses on immunity and vaccination-related protection.",
+      "d": "Easy",
+      "topic": "Major Fields of Biology",
+      "slo": "Identify and explain major fields of biology"
+    },
+    {
+      "id": "BIO9CH1-134",
+      "q": "Which distinction between anatomy and physiology is accurate?",
+      "o": [
+        "Anatomy concerns structure and physiology concerns function",
+        "Anatomy studies heredity and physiology naming",
+        "Both study only habitats",
+        "Both study only fossils"
+      ],
+      "a": 0,
+      "e": "Anatomy investigates structure while physiology investigates function.",
+      "d": "Easy",
+      "topic": "Major Fields of Biology",
+      "slo": "Identify and explain major fields of biology"
+    },
+    {
+      "id": "BIO9CH1-135",
+      "q": "Which distinction between histology and cytology is accurate?",
+      "o": [
+        "Histology studies tissues; cytology studies cells",
+        "Both are branches of taxonomy",
+        "Both deal only with fossils",
+        "Histology studies drugs; cytology habitats"
+      ],
+      "a": 0,
+      "e": "The two fields differ in their main level of study.",
+      "d": "Easy",
+      "topic": "Major Fields of Biology",
+      "slo": "Identify and explain major fields of biology"
+    },
+    {
+      "id": "BIO9CH1-136",
+      "q": "Which branch would study the development of an organism before birth?",
+      "o": [
+        "Ecology",
+        "Taxonomy",
+        "Pharmacology",
+        "Embryology"
+      ],
+      "a": 3,
+      "e": "Embryology addresses early organismal development.",
+      "d": "Easy",
+      "topic": "Major Fields of Biology",
+      "slo": "Identify and explain major fields of biology"
+    },
+    {
+      "id": "BIO9CH1-137",
+      "q": "Which branch would classify an unfamiliar marine organism?",
+      "o": [
+        "Physiology",
+        "Histology",
+        "Taxonomy",
+        "Immunology"
+      ],
+      "a": 2,
+      "e": "Classification and naming belong to taxonomy regardless of habitat.",
+      "d": "Easy",
+      "topic": "Major Fields of Biology",
+      "slo": "Identify and explain major fields of biology"
+    },
+    {
+      "id": "BIO9CH1-138",
+      "q": "Which branch would compare tissue changes in a disease?",
+      "o": [
+        "Histology",
+        "Ecology",
+        "Marine biology",
+        "Taxonomy"
+      ],
+      "a": 0,
+      "e": "Microscopic examination of tissue is histology.",
+      "d": "Easy",
+      "topic": "Major Fields of Biology",
+      "slo": "Identify and explain major fields of biology"
+    },
+    {
+      "id": "BIO9CH1-139",
+      "q": "Which branch is best suited to studying why an organ fails to perform its function?",
+      "o": [
+        "Morphology",
+        "Palaeontology",
+        "Taxonomy",
+        "Physiology"
+      ],
+      "a": 3,
+      "e": "Physiology investigates how organs work.",
+      "d": "Easy",
+      "topic": "Major Fields of Biology",
+      "slo": "Identify and explain major fields of biology"
+    },
+    {
+      "id": "BIO9CH1-140",
+      "q": "Which branch investigates the inheritance of white fur in cats?",
+      "o": [
+        "Pharmacology",
+        "Histology",
+        "Genetics",
+        "Marine biology"
+      ],
+      "a": 2,
+      "e": "Inherited traits are studied in genetics.",
+      "d": "Easy",
+      "topic": "Major Fields of Biology",
+      "slo": "Identify and explain major fields of biology"
+    },
+    {
+      "id": "BIO9CH1-141",
+      "q": "Which field helps explain ancient organisms from fossil evidence?",
+      "o": [
+        "Palaeontology",
+        "Physiology",
+        "Immunology",
+        "Cytology"
+      ],
+      "a": 0,
+      "e": "Fossils are evidence used in palaeontology.",
+      "d": "Easy",
+      "topic": "Major Fields of Biology",
+      "slo": "Identify and explain major fields of biology"
+    },
+    {
+      "id": "BIO9CH1-142",
+      "q": "Which interdisciplinary field links biology and chemistry?",
+      "o": [
+        "Biogeography",
+        "Biostatistics",
+        "Biophysics",
+        "Biochemistry"
+      ],
+      "a": 3,
+      "e": "Biochemistry applies chemistry to living systems.",
+      "d": "Easy",
+      "topic": "Relationship with Other Sciences",
+      "slo": "Identify and explain relationship with other sciences"
+    },
+    {
+      "id": "BIO9CH1-143",
+      "q": "Which interdisciplinary field links biology and physics?",
+      "o": [
+        "Biostatistics",
+        "Taxonomy",
+        "Biophysics",
+        "Biogeography"
+      ],
+      "a": 2,
+      "e": "Biophysics applies physics to biological phenomena.",
+      "d": "Easy",
+      "topic": "Relationship with Other Sciences",
+      "slo": "Identify and explain relationship with other sciences"
+    },
+    {
+      "id": "BIO9CH1-144",
+      "q": "Which interdisciplinary field applies statistical methods to biological data?",
+      "o": [
+        "Anatomy",
+        "Biostatistics",
+        "Biogeography",
+        "Morphology"
+      ],
+      "a": 1,
+      "e": "Biostatistics applies statistical techniques to biological problems.",
+      "d": "Easy",
+      "topic": "Relationship with Other Sciences",
+      "slo": "Identify and explain relationship with other sciences"
+    },
+    {
+      "id": "BIO9CH1-145",
+      "q": "Which field investigates geographical distribution of living organisms?",
+      "o": [
+        "Pharmacology",
+        "Histology",
+        "Biogeography",
+        "Biochemistry"
+      ],
+      "a": 2,
+      "e": "Biogeography concerns organisms and geographical distribution.",
+      "d": "Easy",
+      "topic": "Relationship with Other Sciences",
+      "slo": "Identify and explain relationship with other sciences"
+    },
+    {
+      "id": "BIO9CH1-146",
+      "q": "Which subject helps explain chemical composition of cells?",
+      "o": [
+        "Geology alone",
+        "History",
+        "Chemistry",
+        "Astronomy"
+      ],
+      "a": 2,
+      "e": "Chemistry helps explain substances and reactions in cells.",
+      "d": "Easy",
+      "topic": "Relationship with Other Sciences",
+      "slo": "Identify and explain relationship with other sciences"
+    },
+    {
+      "id": "BIO9CH1-147",
+      "q": "Which subject helps explain how light passes through microscope lenses?",
+      "o": [
+        "Physics",
+        "History",
+        "Literature",
+        "Political science"
+      ],
+      "a": 0,
+      "e": "Optics is a branch of physics relevant to microscopes.",
+      "d": "Easy",
+      "topic": "Relationship with Other Sciences",
+      "slo": "Identify and explain relationship with other sciences"
+    },
+    {
+      "id": "BIO9CH1-148",
+      "q": "Which subject is most useful for calculating an average plant height?",
+      "o": [
+        "Palaeontology",
+        "Taxonomy",
+        "Embryology",
+        "Mathematics"
+      ],
+      "a": 3,
+      "e": "Mathematics supports measurement and analysis of biological observations.",
+      "d": "Easy",
+      "topic": "Relationship with Other Sciences",
+      "slo": "Identify and explain relationship with other sciences"
+    },
+    {
+      "id": "BIO9CH1-149",
+      "q": "Which field is most appropriate for analysing patterns in a large set of patient records?",
+      "o": [
+        "Biostatistics",
+        "Anatomy",
+        "Morphology",
+        "Marine biology"
+      ],
+      "a": 0,
+      "e": "Biostatistics is used to analyze biological and medical data.",
+      "d": "Easy",
+      "topic": "Relationship with Other Sciences",
+      "slo": "Identify and explain relationship with other sciences"
+    },
+    {
+      "id": "BIO9CH1-150",
+      "q": "Which connection helps explain distribution of plants in different climates?",
+      "o": [
+        "Pharmacology",
+        "Cytology",
+        "Biogeography",
+        "Histology"
+      ],
+      "a": 2,
+      "e": "Biogeography relates biological distribution to geography.",
+      "d": "Easy",
+      "topic": "Relationship with Other Sciences",
+      "slo": "Identify and explain relationship with other sciences"
+    },
+    {
+      "id": "BIO9CH1-151",
+      "q": "Why are biology and chemistry complementary?",
+      "o": [
+        "Cells contain no molecules",
+        "All organisms are minerals",
+        "Chemical reactions occur in living organisms",
+        "Chemistry replaces observations"
+      ],
+      "a": 2,
+      "e": "Biological processes depend on chemical reactions.",
+      "d": "Easy",
+      "topic": "Relationship with Other Sciences",
+      "slo": "Identify and explain relationship with other sciences"
+    },
+    {
+      "id": "BIO9CH1-152",
+      "q": "Which career applies biological knowledge to diagnosing human illness?",
+      "o": [
+        "Architecture",
+        "Medicine",
+        "Surveying",
+        "Astronomy"
+      ],
+      "a": 1,
+      "e": "Medicine applies biological knowledge to human health.",
+      "d": "Easy",
+      "topic": "Careers in Biology",
+      "slo": "Identify and explain careers in biology"
+    },
+    {
+      "id": "BIO9CH1-153",
+      "q": "Which career applies biology to animal health?",
+      "o": [
+        "Civil engineering",
+        "Meteorology",
+        "Mining",
+        "Veterinary medicine"
+      ],
+      "a": 3,
+      "e": "Veterinary medicine applies biology to animal disease and care.",
+      "d": "Easy",
+      "topic": "Careers in Biology",
+      "slo": "Identify and explain careers in biology"
+    },
+    {
+      "id": "BIO9CH1-154",
+      "q": "Which field applies biology to crop production?",
+      "o": [
+        "Astronomy",
+        "Agriculture",
+        "Electronics",
+        "Architecture"
+      ],
+      "a": 1,
+      "e": "Agriculture uses biology to improve crops and farming.",
+      "d": "Easy",
+      "topic": "Careers in Biology",
+      "slo": "Identify and explain careers in biology"
+    },
+    {
+      "id": "BIO9CH1-155",
+      "q": "Which career concerns the management and study of forests?",
+      "o": [
+        "Oceanography alone",
+        "Astronomy",
+        "Pharmacology alone",
+        "Forestry"
+      ],
+      "a": 3,
+      "e": "Forestry applies biological knowledge to forest resources.",
+      "d": "Easy",
+      "topic": "Careers in Biology",
+      "slo": "Identify and explain careers in biology"
+    },
+    {
+      "id": "BIO9CH1-156",
+      "q": "Which field uses biology to manage fish production?",
+      "o": [
+        "Fisheries",
+        "Architecture",
+        "Mineralogy",
+        "Aeronautics"
+      ],
+      "a": 0,
+      "e": "Fisheries applies biology to aquatic food resources.",
+      "d": "Easy",
+      "topic": "Careers in Biology",
+      "slo": "Identify and explain careers in biology"
+    },
+    {
+      "id": "BIO9CH1-157",
+      "q": "Which field uses microorganisms to produce useful substances?",
+      "o": [
+        "Taxonomy alone",
+        "Biotechnology",
+        "Astronomy",
+        "Palaeontology"
+      ],
+      "a": 1,
+      "e": "Biotechnology uses living systems for practical products.",
+      "d": "Easy",
+      "topic": "Careers in Biology",
+      "slo": "Identify and explain careers in biology"
+    },
+    {
+      "id": "BIO9CH1-158",
+      "q": "Which biological career focuses on producing medicines?",
+      "o": [
+        "Geology",
+        "Forestry",
+        "Pharmacy",
+        "Astronomy"
+      ],
+      "a": 2,
+      "e": "Pharmacy is connected with medicines and biological knowledge.",
+      "d": "Easy",
+      "topic": "Careers in Biology",
+      "slo": "Identify and explain careers in biology"
+    },
+    {
+      "id": "BIO9CH1-159",
+      "q": "Which career helps protect wild species and habitats?",
+      "o": [
+        "Astronomy",
+        "Wildlife conservation",
+        "Mining engineering",
+        "Construction surveying"
+      ],
+      "a": 1,
+      "e": "Conservation uses knowledge of species and habitats.",
+      "d": "Easy",
+      "topic": "Careers in Biology",
+      "slo": "Identify and explain careers in biology"
+    },
+    {
+      "id": "BIO9CH1-160",
+      "q": "Which profession applies biology to raising livestock?",
+      "o": [
+        "Civil engineering",
+        "Animal husbandry",
+        "Astrophysics",
+        "Cartography"
+      ],
+      "a": 1,
+      "e": "Animal husbandry applies biology to the care and breeding of livestock.",
+      "d": "Easy",
+      "topic": "Careers in Biology",
+      "slo": "Identify and explain careers in biology"
+    },
+    {
+      "id": "BIO9CH1-161",
+      "q": "Which biological field is relevant to developing improved crop varieties?",
+      "o": [
+        "Astronomy",
+        "Plant breeding",
+        "Architecture",
+        "Marine navigation"
+      ],
+      "a": 1,
+      "e": "Plant breeding applies heredity and agriculture.",
+      "d": "Easy",
+      "topic": "Careers in Biology",
+      "slo": "Identify and explain careers in biology"
+    },
+    {
+      "id": "BIO9CH1-162",
+      "q": "Why might a biological investigation involve a statistician?",
+      "o": [
+        "A fossil collector only",
+        "An illustrator only",
+        "A taxonomist only",
+        "A statistician"
+      ],
+      "a": 3,
+      "e": "Statisticians help analyze patterns and variation in data.",
+      "d": "Easy",
+      "topic": "Science as a Collaborative Field",
+      "slo": "Identify and explain science as a collaborative field"
+    },
+    {
+      "id": "BIO9CH1-163",
+      "q": "Which behaviour demonstrates productive scientific teamwork?",
+      "o": [
+        "Choose a winner by seniority",
+        "Discard all measurements",
+        "Hide one result",
+        "Compare methods and evidence openly"
+      ],
+      "a": 3,
+      "e": "Scientific collaboration requires transparent examination of evidence.",
+      "d": "Easy",
+      "topic": "Science as a Collaborative Field",
+      "slo": "Identify and explain science as a collaborative field"
+    },
+    {
+      "id": "BIO9CH1-164",
+      "q": "Why should research methods be shared among collaborators?",
+      "o": [
+        "A decorative title",
+        "Only the researcher's name",
+        "An unsupported opinion",
+        "A clear experimental procedure"
+      ],
+      "a": 3,
+      "e": "Methods enable independent checking and replication.",
+      "d": "Easy",
+      "topic": "Science as a Collaborative Field",
+      "slo": "Identify and explain science as a collaborative field"
+    },
+    {
+      "id": "BIO9CH1-165",
+      "q": "Which task benefits from combining biology and computer science?",
+      "o": [
+        "Computational analysis of biological information",
+        "Replacement of biological evidence",
+        "Avoidance of all measurements",
+        "Elimination of DNA"
+      ],
+      "a": 0,
+      "e": "Computing can help analyze biological structures and datasets.",
+      "d": "Easy",
+      "topic": "Science as a Collaborative Field",
+      "slo": "Identify and explain science as a collaborative field"
+    },
+    {
+      "id": "BIO9CH1-166",
+      "q": "Why is communication important in team science?",
+      "o": [
+        "Keeping findings secret",
+        "Sharing observations and results",
+        "Using different definitions without discussion",
+        "Ignoring measurements"
+      ],
+      "a": 1,
+      "e": "Communication integrates evidence across specialties.",
+      "d": "Easy",
+      "topic": "Science as a Collaborative Field",
+      "slo": "Identify and explain science as a collaborative field"
+    },
+    {
+      "id": "BIO9CH1-167",
+      "q": "What is a key advantage of interdisciplinary research?",
+      "o": [
+        "No need for controls",
+        "Complementary expertise",
+        "Elimination of uncertainty",
+        "Guaranteed correctness without testing"
+      ],
+      "a": 1,
+      "e": "Complex problems can require multiple kinds of expertise.",
+      "d": "Easy",
+      "topic": "Science as a Collaborative Field",
+      "slo": "Identify and explain science as a collaborative field"
+    },
+    {
+      "id": "BIO9CH1-168",
+      "q": "What should collaborators do when a hypothesis is not supported?",
+      "o": [
+        "Alter the records",
+        "Declare a law",
+        "Reconsider the hypothesis using the data",
+        "Suppress the outcome"
+      ],
+      "a": 2,
+      "e": "Scientific teams revise ideas when evidence warrants.",
+      "d": "Easy",
+      "topic": "Science as a Collaborative Field",
+      "slo": "Identify and explain science as a collaborative field"
+    },
+    {
+      "id": "BIO9CH1-169",
+      "q": "What is a biological problem in scientific investigation?",
+      "o": [
+        "A question requiring investigation",
+        "A confirmed law",
+        "A completed theory",
+        "A scientific name"
+      ],
+      "a": 0,
+      "e": "A biological problem is a question that can be investigated.",
+      "d": "Easy",
+      "topic": "Biological Method",
+      "slo": "Identify and explain biological method"
+    },
+    {
+      "id": "BIO9CH1-170",
+      "q": "Which step involves careful recording of phenomena?",
+      "o": [
+        "Observation",
+        "Taxonomy",
+        "Fossil formation",
+        "Drug prescription"
+      ],
+      "a": 0,
+      "e": "Observation gathers information relevant to a problem.",
+      "d": "Easy",
+      "topic": "Biological Method",
+      "slo": "Identify and explain biological method"
+    },
+    {
+      "id": "BIO9CH1-171",
+      "q": "What is a deduction from a hypothesis?",
+      "o": [
+        "A taxonomy rule",
+        "A fossil record",
+        "A measurement unit",
+        "A predicted consequence"
+      ],
+      "a": 3,
+      "e": "A deduction predicts an outcome based on the hypothesis.",
+      "d": "Easy",
+      "topic": "Biological Method",
+      "slo": "Identify and explain biological method"
+    },
+    {
+      "id": "BIO9CH1-172",
+      "q": "What is an experiment designed to do?",
+      "o": [
+        "A species list",
+        "A hypothesis",
+        "A fossil age",
+        "A scientific name"
+      ],
+      "a": 1,
+      "e": "Experiments test hypotheses by gathering relevant evidence.",
+      "d": "Easy",
+      "topic": "Biological Method",
+      "slo": "Identify and explain biological method"
+    },
+    {
+      "id": "BIO9CH1-173",
+      "q": "Which variable is deliberately changed by the investigator?",
+      "o": [
+        "Uncontrolled result",
+        "Conclusion",
+        "Independent variable",
+        "Dependent variable"
+      ],
+      "a": 2,
+      "e": "The independent variable is manipulated by the investigator.",
+      "d": "Easy",
+      "topic": "Biological Method",
+      "slo": "Identify and explain biological method"
+    },
+    {
+      "id": "BIO9CH1-174",
+      "q": "Which variable is measured as the response?",
+      "o": [
+        "Independent variable",
+        "Dependent variable",
+        "Fixed label",
+        "Hypothesis"
+      ],
+      "a": 1,
+      "e": "The dependent variable is the observed or measured response.",
+      "d": "Easy",
+      "topic": "Biological Method",
+      "slo": "Identify and explain biological method"
+    },
+    {
+      "id": "BIO9CH1-175",
+      "q": "What is a controlled variable?",
+      "o": [
+        "A factor kept constant",
+        "The final conclusion",
+        "The measured outcome",
+        "The experimental hypothesis"
+      ],
+      "a": 0,
+      "e": "Controlled variables are kept the same to make comparisons fair.",
+      "d": "Easy",
+      "topic": "Biological Method",
+      "slo": "Identify and explain biological method"
+    },
+    {
+      "id": "BIO9CH1-176",
+      "q": "What is the purpose of a control group?",
+      "o": [
+        "A second independent variable",
+        "Proof before testing",
+        "A baseline for comparison",
+        "A scientific law"
+      ],
+      "a": 2,
+      "e": "A control group helps identify the effect of a treatment.",
+      "d": "Easy",
+      "topic": "Biological Method",
+      "slo": "Identify and explain biological method"
+    },
+    {
+      "id": "BIO9CH1-177",
+      "q": "What is the benefit of replication?",
+      "o": [
+        "Fossil formation",
+        "Drug classification",
+        "Scientific naming",
+        "Reliability of results"
+      ],
+      "a": 3,
+      "e": "Repeating investigations checks consistency.",
+      "d": "Easy",
+      "topic": "Biological Method",
+      "slo": "Identify and explain biological method"
+    },
+    {
+      "id": "BIO9CH1-178",
+      "q": "Which observation is quantitative?",
+      "o": [
+        "Numerical data",
+        "A hypothesis",
+        "A qualitative colour description",
+        "A scientific theory"
+      ],
+      "a": 0,
+      "e": "Quantitative data are expressed as numbers.",
+      "d": "Easy",
+      "topic": "Biological Method",
+      "slo": "Identify and explain biological method"
+    },
+    {
+      "id": "BIO9CH1-179",
+      "q": "Which observation is qualitative?",
+      "o": [
+        "Descriptive data",
+        "A statistical average",
+        "A numerical count",
+        "A measured length"
+      ],
+      "a": 0,
+      "e": "Qualitative data describe characteristics.",
+      "d": "Easy",
+      "topic": "Biological Method",
+      "slo": "Identify and explain biological method"
+    },
+    {
+      "id": "BIO9CH1-180",
+      "q": "What should a scientific conclusion be based on?",
+      "o": [
+        "An untested belief",
+        "Recorded evidence",
+        "Personal preference",
+        "The most popular guess"
+      ],
+      "a": 1,
+      "e": "Conclusions must follow the observations and results.",
+      "d": "Easy",
+      "topic": "Biological Method",
+      "slo": "Identify and explain biological method"
+    },
+    {
+      "id": "BIO9CH1-181",
+      "q": "What is the difference between a hypothesis and a theory?",
+      "o": [
+        "An observation only",
+        "A unit of measurement",
+        "A scientific theory",
+        "A species name"
+      ],
+      "a": 2,
+      "e": "A theory is a broad explanation supported by substantial evidence.",
+      "d": "Easy",
+      "topic": "Biological Method",
+      "slo": "Identify and explain biological method"
+    },
+    {
+      "id": "BIO9CH1-182",
+      "q": "What is the role of a scientific report?",
+      "o": [
+        "A secret procedure",
+        "Methods and findings",
+        "Only the desired answer",
+        "An unsupported assertion"
+      ],
+      "a": 1,
+      "e": "Reporting enables others to evaluate and repeat studies.",
+      "d": "Easy",
+      "topic": "Biological Method",
+      "slo": "Identify and explain biological method"
+    },
+    {
+      "id": "BIO9CH1-183",
+      "q": "Which step follows the formulation of a testable hypothesis in the chapter's method?",
+      "o": [
+        "Drug doses",
+        "Deductions",
+        "Fossils",
+        "Taxonomic names"
+      ],
+      "a": 1,
+      "e": "Deductions are predicted consequences drawn from a hypothesis.",
+      "d": "Easy",
+      "topic": "Biological Method",
+      "slo": "Identify and explain biological method"
+    },
+    {
+      "id": "BIO9CH1-184",
+      "q": "What is the best response to an unexpected experimental result?",
+      "o": [
+        "Re-examine evidence and explanation",
+        "Delete the result",
+        "Declare the question settled",
+        "Invent a matching measurement"
+      ],
+      "a": 0,
+      "e": "Unexpected results can lead to refinement of hypotheses.",
+      "d": "Easy",
+      "topic": "Biological Method",
+      "slo": "Identify and explain biological method"
+    },
+    {
+      "id": "BIO9CH1-185",
+      "q": "Why is a fair test important?",
+      "o": [
+        "It isolates the effect of light",
+        "It proves all theories",
+        "It removes the need for observations",
+        "It guarantees identical outcomes"
+      ],
+      "a": 0,
+      "e": "Controlling other factors supports meaningful comparisons.",
+      "d": "Easy",
+      "topic": "Biological Method",
+      "slo": "Identify and explain biological method"
+    },
+    {
+      "id": "BIO9CH1-186",
+      "q": "What is an inference?",
+      "o": [
+        "A scientific name",
+        "A direct measurement",
+        "A control variable",
+        "An interpretation of observations"
+      ],
+      "a": 3,
+      "e": "An inference interprets observations using reasoning.",
+      "d": "Easy",
+      "topic": "Biological Method",
+      "slo": "Identify and explain biological method"
+    },
+    {
+      "id": "BIO9CH1-187",
+      "q": "What is a prediction?",
+      "o": [
+        "A fossil",
+        "An expected test outcome",
+        "A recorded result",
+        "A scientific law"
+      ],
+      "a": 1,
+      "e": "A prediction states an expected result before a test.",
+      "d": "Easy",
+      "topic": "Biological Method",
+      "slo": "Identify and explain biological method"
+    },
+    {
+      "id": "BIO9CH1-188",
+      "q": "Why should results be tabulated?",
+      "o": [
+        "Proof that a hypothesis is true",
+        "Replacement of measurements",
+        "Easier comparison of data",
+        "Avoidance of repetition"
+      ],
+      "a": 2,
+      "e": "Tables organize observations for analysis.",
+      "d": "Easy",
+      "topic": "Biological Method",
+      "slo": "Identify and explain biological method"
+    },
+    {
+      "id": "BIO9CH1-189",
+      "q": "Why can a graph be useful in biological investigations?",
+      "o": [
+        "Unrecorded observations",
+        "Scientific names automatically",
+        "Patterns and trends",
+        "Proof without evidence"
+      ],
+      "a": 2,
+      "e": "Graphs help visualize relationships in recorded data.",
+      "d": "Easy",
+      "topic": "Biological Method",
+      "slo": "Identify and explain biological method"
+    },
+    {
+      "id": "BIO9CH1-190",
+      "q": "What is the main weakness of testing only one organism?",
+      "o": [
+        "No variables exist",
+        "Results may not be representative",
+        "All hypotheses become laws",
+        "The seedling is not living"
+      ],
+      "a": 1,
+      "e": "Small samples may not capture biological variation.",
+      "d": "Easy",
+      "topic": "Biological Method",
+      "slo": "Identify and explain biological method"
+    },
+    {
+      "id": "BIO9CH1-191",
+      "q": "Which disease is used as the chapter's biological-method case study?",
+      "o": [
+        "Malaria",
+        "Scurvy",
+        "Measles",
+        "Tuberculosis"
+      ],
+      "a": 0,
+      "e": "The chapter illustrates biological method using malaria.",
+      "d": "Easy",
+      "topic": "Malaria: Biological Method Case Study",
+      "slo": "Identify and explain malaria: biological method case study"
+    },
+    {
+      "id": "BIO9CH1-192",
+      "q": "What is the causative agent of malaria?",
+      "o": [
+        "Plasmodium",
+        "Anopheles",
+        "Housefly",
+        "Earthworm"
+      ],
+      "a": 0,
+      "e": "Plasmodium parasites cause malaria.",
+      "d": "Easy",
+      "topic": "Malaria: Biological Method Case Study",
+      "slo": "Identify and explain malaria: biological method case study"
+    },
+    {
+      "id": "BIO9CH1-193",
+      "q": "Which organism serves as a vector of human malaria?",
+      "o": [
+        "Honeybee",
+        "Butterfly",
+        "Housefly",
+        "Anopheles mosquito"
+      ],
+      "a": 3,
+      "e": "Female Anopheles mosquitoes transmit malaria parasites.",
+      "d": "Easy",
+      "topic": "Malaria: Biological Method Case Study",
+      "slo": "Identify and explain malaria: biological method case study"
+    },
+    {
+      "id": "BIO9CH1-194",
+      "q": "Why was the mosquito hypothesis important?",
+      "o": [
+        "A completed law",
+        "A microscope measurement",
+        "A testable explanation",
+        "A classification name"
+      ],
+      "a": 2,
+      "e": "The mosquito hypothesis could be tested through investigation.",
+      "d": "Easy",
+      "topic": "Malaria: Biological Method Case Study",
+      "slo": "Identify and explain malaria: biological method case study"
+    },
+    {
+      "id": "BIO9CH1-195",
+      "q": "Which observation helped investigators suspect mosquitoes?",
+      "o": [
+        "That fever creates mosquitoes",
+        "That all insects cause malaria",
+        "That water itself is the parasite",
+        "A possible link requiring testing"
+      ],
+      "a": 3,
+      "e": "An association can suggest a hypothesis but does not prove it.",
+      "d": "Easy",
+      "topic": "Malaria: Biological Method Case Study",
+      "slo": "Identify and explain malaria: biological method case study"
+    },
+    {
+      "id": "BIO9CH1-196",
+      "q": "Why was experimental evidence necessary in the malaria investigation?",
+      "o": [
+        "Experiments are never useful",
+        "All observations are false",
+        "Association does not establish causation",
+        "Parasites cannot be observed"
+      ],
+      "a": 2,
+      "e": "Experimental testing helps evaluate cause and effect.",
+      "d": "Easy",
+      "topic": "Malaria: Biological Method Case Study",
+      "slo": "Identify and explain malaria: biological method case study"
+    },
+    {
+      "id": "BIO9CH1-197",
+      "q": "What role does Plasmodium play in malaria?",
+      "o": [
+        "Disease-causing parasite",
+        "Human immune cell",
+        "Preventive vaccine",
+        "Insect vector"
+      ],
+      "a": 0,
+      "e": "Plasmodium is the pathogen while the mosquito is the vector.",
+      "d": "Easy",
+      "topic": "Malaria: Biological Method Case Study",
+      "slo": "Identify and explain malaria: biological method case study"
+    },
+    {
+      "id": "BIO9CH1-198",
+      "q": "Which sex of Anopheles mosquito transmits malaria through blood feeding?",
+      "o": [
+        "Neither sex",
+        "Male",
+        "Both sexes equally in blood feeding",
+        "Female"
+      ],
+      "a": 3,
+      "e": "Female Anopheles mosquitoes take blood meals and can transmit Plasmodium.",
+      "d": "Easy",
+      "topic": "Malaria: Biological Method Case Study",
+      "slo": "Identify and explain malaria: biological method case study"
+    },
+    {
+      "id": "BIO9CH1-199",
+      "q": "Why should mosquito breeding sites be reduced?",
+      "o": [
+        "Mosquito reproduction and malaria transmission",
+        "Hereditary disease",
+        "Fossil formation",
+        "Plant photosynthesis"
+      ],
+      "a": 0,
+      "e": "Reducing mosquito breeding can reduce vector populations.",
+      "d": "Easy",
+      "topic": "Malaria: Biological Method Case Study",
+      "slo": "Identify and explain malaria: biological method case study"
+    },
+    {
+      "id": "BIO9CH1-200",
+      "q": "Which action is most directly a malaria vector-control measure?",
+      "o": [
+        "Change blood groups",
+        "Limit mosquito breeding",
+        "Kill Plasmodium inside red cells directly",
+        "Increase mosquito eggs"
+      ],
+      "a": 1,
+      "e": "Covering water containers reduces access to breeding sites.",
+      "d": "Easy",
+      "topic": "Malaria: Biological Method Case Study",
+      "slo": "Identify and explain malaria: biological method case study"
+    },
+    {
+      "id": "BIO9CH1-201",
+      "q": "What is a vector in the context of infectious disease?",
+      "o": [
+        "Antibody",
+        "Vaccine",
+        "Vector",
+        "Tissue"
+      ],
+      "a": 2,
+      "e": "A vector transmits a pathogen from one host to another.",
+      "d": "Easy",
+      "topic": "Malaria: Biological Method Case Study",
+      "slo": "Identify and explain malaria: biological method case study"
+    },
+    {
+      "id": "BIO9CH1-202",
+      "q": "Why is it useful to compare malaria cases in different locations?",
+      "o": [
+        "The age of fossils",
+        "A possible relationship between exposure and disease",
+        "The number of human chromosomes",
+        "The scientific names of all plants"
+      ],
+      "a": 1,
+      "e": "Comparisons can test a proposed link between exposure and illness.",
+      "d": "Easy",
+      "topic": "Malaria: Biological Method Case Study",
+      "slo": "Identify and explain malaria: biological method case study"
+    },
+    {
+      "id": "BIO9CH1-203",
+      "q": "What is a responsible conclusion if mosquito exposure and malaria show a strong association?",
+      "o": [
+        "All fevers are malaria",
+        "Every mosquito carries Plasmodium",
+        "No further evidence is needed",
+        "The evidence supports a relationship that merits causal testing"
+      ],
+      "a": 3,
+      "e": "Association is evidence but alone does not prove the complete mechanism.",
+      "d": "Easy",
+      "topic": "Malaria: Biological Method Case Study",
+      "slo": "Identify and explain malaria: biological method case study"
+    },
+    {
+      "id": "BIO9CH1-204",
+      "q": "What is the importance of examining blood in a malaria investigation?",
+      "o": [
+        "Count mosquito wings",
+        "Measure soil pH",
+        "Detect evidence of Plasmodium infection",
+        "Classify fossils"
+      ],
+      "a": 2,
+      "e": "Detecting the parasite helps establish the infectious cause.",
+      "d": "Easy",
+      "topic": "Malaria: Biological Method Case Study",
+      "slo": "Identify and explain malaria: biological method case study"
+    },
+    {
+      "id": "BIO9CH1-205",
+      "q": "Why should a malaria hypothesis generate a prediction?",
+      "o": [
+        "An established universal law",
+        "A testable expected outcome",
+        "A scientific name",
+        "A tissue classification"
+      ],
+      "a": 1,
+      "e": "Predictions allow the proposed explanation to be checked.",
+      "d": "Easy",
+      "topic": "Malaria: Biological Method Case Study",
+      "slo": "Identify and explain malaria: biological method case study"
+    },
+    {
+      "id": "BIO9CH1-206",
+      "q": "Which statement correctly distinguishes cause and carrier in malaria?",
+      "o": [
+        "Anopheles is the parasite; Plasmodium is a bird",
+        "Water is the parasite; mosquito is the host cell",
+        "Plasmodium is the cause; Anopheles is the carrier",
+        "Fever is the vector; blood is the pathogen"
+      ],
+      "a": 2,
+      "e": "Malaria is caused by Plasmodium transmitted by infected Anopheles mosquitoes.",
+      "d": "Easy",
+      "topic": "Malaria: Biological Method Case Study",
+      "slo": "Identify and explain malaria: biological method case study"
+    },
+    {
+      "id": "BIO9CH1-207",
+      "q": "Which environmental change can raise mosquito breeding opportunities?",
+      "o": [
+        "Mosquito breeding sites",
+        "Fossil deposits",
+        "Vaccine immunity",
+        "Human genetic mutations directly"
+      ],
+      "a": 0,
+      "e": "Standing water can provide breeding habitats for mosquitoes.",
+      "d": "Easy",
+      "topic": "Malaria: Biological Method Case Study",
+      "slo": "Identify and explain malaria: biological method case study"
+    },
+    {
+      "id": "BIO9CH1-208",
+      "q": "What does the malaria case study illustrate about scientific knowledge?",
+      "o": [
+        "Explanations are revised in light of evidence",
+        "A law is a personal belief",
+        "Every first guess is correct",
+        "No experiments are needed"
+      ],
+      "a": 0,
+      "e": "Scientific knowledge develops through evidence-based investigation.",
+      "d": "Easy",
+      "topic": "Malaria: Biological Method Case Study",
+      "slo": "Identify and explain malaria: biological method case study"
+    },
+    {
+      "id": "BIO9CH1-209",
+      "q": "Which step is illustrated by recording fever patterns before suggesting a cause?",
+      "o": [
+        "Scientific law",
+        "Taxonomy",
+        "Drug manufacture",
+        "Observation"
+      ],
+      "a": 3,
+      "e": "Recording symptoms is part of observing a biological problem.",
+      "d": "Easy",
+      "topic": "Malaria: Biological Method Case Study",
+      "slo": "Identify and explain malaria: biological method case study"
+    },
+    {
+      "id": "BIO9CH1-210",
+      "q": "Which step is illustrated by comparing predicted and actual malaria results?",
+      "o": [
+        "Describing fossils",
+        "Classifying tissues",
+        "Assigning scientific names",
+        "Evaluating the hypothesis against evidence"
+      ],
+      "a": 3,
+      "e": "Hypotheses are judged by experimental results and observations.",
+      "d": "Easy",
+      "topic": "Malaria: Biological Method Case Study",
+      "slo": "Identify and explain malaria: biological method case study"
+    },
+    {
+      "id": "BIO9CH1-211",
+      "q": "In the term biology, which word refers to life?",
+      "o": [
+        "Life",
+        "Study",
+        "Earth",
+        "Reason"
+      ],
+      "a": 0,
+      "e": "The textbook explains that bios means life.",
+      "d": "Medium",
+      "topic": "Introduction to Biology",
+      "slo": "Apply concepts from introduction to biology"
+    },
+    {
+      "id": "BIO9CH1-212",
+      "q": "Which meaning is associated with the second part of biology?",
+      "o": [
+        "Water",
+        "Environment",
+        "Study or reasoning",
+        "Organism"
+      ],
+      "a": 2,
+      "e": "The textbook links logos to thought, reasoning and study.",
+      "d": "Medium",
+      "topic": "Introduction to Biology",
+      "slo": "Apply concepts from introduction to biology"
+    },
+    {
+      "id": "BIO9CH1-213",
+      "q": "A learner asks why leaves are green before investigating; which step has begun?",
+      "o": [
+        "Accepting a theory",
+        "Writing a law",
+        "Naming a species",
+        "Asking a question"
+      ],
+      "a": 3,
+      "e": "The introduction identifies asking a question as an initial scientific step.",
+      "d": "Medium",
+      "topic": "Introduction to Biology",
+      "slo": "Apply concepts from introduction to biology"
+    },
+    {
+      "id": "BIO9CH1-214",
+      "q": "A class gathers observations to answer questions about its surroundings; what process is this?",
+      "o": [
+        "Avoiding questions",
+        "Collecting information through inquiry",
+        "Memorizing unsupported claims",
+        "Rejecting evidence"
+      ],
+      "a": 1,
+      "e": "Science is described as a process of collecting information about the world.",
+      "d": "Medium",
+      "topic": "Introduction to Biology",
+      "slo": "Apply concepts from introduction to biology"
+    },
+    {
+      "id": "BIO9CH1-215",
+      "q": "A researcher studies how deer interact with their habitat; what makes this biological?",
+      "o": [
+        "Only rocks and minerals",
+        "Only stars",
+        "Living things and their surroundings",
+        "Only manufactured objects"
+      ],
+      "a": 2,
+      "e": "Biology explains how living things relate to one another and their surroundings.",
+      "d": "Medium",
+      "topic": "Introduction to Biology",
+      "slo": "Apply concepts from introduction to biology"
+    },
+    {
+      "id": "BIO9CH1-216",
+      "q": "A student investigates why flowers have different colours; what is being studied?",
+      "o": [
+        "Weathering of granite",
+        "Variation in living organisms",
+        "Movement of planets",
+        "Electric resistance of copper"
+      ],
+      "a": 1,
+      "e": "Flower colour is a characteristic of living organisms.",
+      "d": "Medium",
+      "topic": "Introduction to Biology",
+      "slo": "Apply concepts from introduction to biology"
+    },
+    {
+      "id": "BIO9CH1-217",
+      "q": "A student cites the book's stated water content range for living organisms; which range matches?",
+      "o": [
+        "10 to 20 percent",
+        "1 to 5 percent",
+        "95 to 100 percent",
+        "60 to 90 percent"
+      ],
+      "a": 3,
+      "e": "The textbook states that living things consist of about 60 to 90 percent water.",
+      "d": "Medium",
+      "topic": "Introduction to Biology",
+      "slo": "Apply concepts from introduction to biology"
+    },
+    {
+      "id": "BIO9CH1-218",
+      "q": "A student connects the chapter's quoted verse to a basic constituent of organisms; what is it?",
+      "o": [
+        "Mountain formation",
+        "Electrical circuits",
+        "Atmospheric pressure",
+        "Water and living things"
+      ],
+      "a": 3,
+      "e": "The chapter quotes Surah Al-Anbiya 21:30 under Origin of Life in Water.",
+      "d": "Medium",
+      "topic": "Introduction to Biology",
+      "slo": "Apply concepts from introduction to biology"
+    },
+    {
+      "id": "BIO9CH1-219",
+      "q": "A learner is locating the chapter's discussion of creation from clay; which section should be consulted?",
+      "o": [
+        "Taxonomy",
+        "Marine Biology",
+        "Creation of Man",
+        "Biological Method"
+      ],
+      "a": 2,
+      "e": "The introductory section includes a separate heading on Creation of Man.",
+      "d": "Medium",
+      "topic": "Introduction to Biology",
+      "slo": "Apply concepts from introduction to biology"
+    },
+    {
+      "id": "BIO9CH1-220",
+      "q": "A learner asks why touching a hot object causes pain; what does the question initiate?",
+      "o": [
+        "Scientific naming",
+        "Scientific inquiry",
+        "Fossil preservation",
+        "Vaccine production"
+      ],
+      "a": 1,
+      "e": "Questions about phenomena motivate observation and investigation.",
+      "d": "Medium",
+      "topic": "Introduction to Biology",
+      "slo": "Apply concepts from introduction to biology"
+    },
+    {
+      "id": "BIO9CH1-221",
+      "q": "A biologist compares the visible shapes of leaves; which branch applies?",
+      "o": [
+        "Pathology",
+        "Genetics",
+        "Histology",
+        "Morphology"
+      ],
+      "a": 3,
+      "e": "Morphology examines the form and structure of organisms.",
+      "d": "Medium",
+      "topic": "Major Fields of Biology",
+      "slo": "Apply concepts from major fields of biology"
+    },
+    {
+      "id": "BIO9CH1-222",
+      "q": "A researcher dissects a flower to examine its internal parts; which branch is most relevant?",
+      "o": [
+        "Taxonomy",
+        "Immunology",
+        "Anatomy",
+        "Ecology"
+      ],
+      "a": 2,
+      "e": "Anatomy studies internal structures.",
+      "d": "Medium",
+      "topic": "Major Fields of Biology",
+      "slo": "Apply concepts from major fields of biology"
+    },
+    {
+      "id": "BIO9CH1-223",
+      "q": "A scientist measures how kidneys filter blood; which branch is central?",
+      "o": [
+        "Taxonomy",
+        "Morphology",
+        "Palaeontology",
+        "Physiology"
+      ],
+      "a": 3,
+      "e": "Physiology concerns functions of organisms and their parts.",
+      "d": "Medium",
+      "topic": "Major Fields of Biology",
+      "slo": "Apply concepts from major fields of biology"
+    },
+    {
+      "id": "BIO9CH1-224",
+      "q": "A class examines a thin section of epithelial tissue; which branch is being used?",
+      "o": [
+        "Histology",
+        "Taxonomy",
+        "Marine biology",
+        "Embryology"
+      ],
+      "a": 0,
+      "e": "Histology is the microscopic study of tissues.",
+      "d": "Medium",
+      "topic": "Major Fields of Biology",
+      "slo": "Apply concepts from major fields of biology"
+    },
+    {
+      "id": "BIO9CH1-225",
+      "q": "A student investigates the structure and functions of plant cells; which field applies?",
+      "o": [
+        "Palaeontology",
+        "Cytology",
+        "Pharmacology",
+        "Ecology"
+      ],
+      "a": 1,
+      "e": "Cytology is the study of cell structure and function.",
+      "d": "Medium",
+      "topic": "Major Fields of Biology",
+      "slo": "Apply concepts from major fields of biology"
+    },
+    {
+      "id": "BIO9CH1-226",
+      "q": "Red-flowered plants produce red-flowered offspring; which branch studies this pattern?",
+      "o": [
+        "Histology",
+        "Anatomy",
+        "Genetics",
+        "Pathology"
+      ],
+      "a": 2,
+      "e": "Genetics studies genes and inheritance.",
+      "d": "Medium",
+      "topic": "Major Fields of Biology",
+      "slo": "Apply concepts from major fields of biology"
+    },
+    {
+      "id": "BIO9CH1-227",
+      "q": "A laboratory examines interactions among DNA and proteins; which branch is central?",
+      "o": [
+        "Marine biology",
+        "Taxonomy",
+        "Molecular biology",
+        "Morphology"
+      ],
+      "a": 2,
+      "e": "Molecular biology examines biology at the molecular level.",
+      "d": "Medium",
+      "topic": "Major Fields of Biology",
+      "slo": "Apply concepts from major fields of biology"
+    },
+    {
+      "id": "BIO9CH1-228",
+      "q": "A researcher follows a chick's development inside an egg; which field applies?",
+      "o": [
+        "Palaeontology",
+        "Pharmacology",
+        "Embryology",
+        "Ecology"
+      ],
+      "a": 2,
+      "e": "Embryology studies development of organisms from fertilization.",
+      "d": "Medium",
+      "topic": "Major Fields of Biology",
+      "slo": "Apply concepts from major fields of biology"
+    },
+    {
+      "id": "BIO9CH1-229",
+      "q": "A scientist interprets fossil shells to learn about ancient organisms; which branch applies?",
+      "o": [
+        "Cytology",
+        "Physiology",
+        "Immunology",
+        "Palaeontology"
+      ],
+      "a": 3,
+      "e": "Palaeontology studies the history of life using fossils.",
+      "d": "Medium",
+      "topic": "Major Fields of Biology",
+      "slo": "Apply concepts from major fields of biology"
+    },
+    {
+      "id": "BIO9CH1-230",
+      "q": "A biologist assigns a scientific name to a newly studied species; which field is involved?",
+      "o": [
+        "Histology",
+        "Pharmacology",
+        "Taxonomy",
+        "Anatomy"
+      ],
+      "a": 2,
+      "e": "Taxonomy involves classification and naming.",
+      "d": "Medium",
+      "topic": "Major Fields of Biology",
+      "slo": "Apply concepts from major fields of biology"
+    },
+    {
+      "id": "BIO9CH1-231",
+      "q": "A researcher measures how drought affects pond organisms; which field applies?",
+      "o": [
+        "Pathology",
+        "Embryology",
+        "Ecology",
+        "Cytology"
+      ],
+      "a": 2,
+      "e": "Ecology examines relationships between organisms and their surroundings.",
+      "d": "Medium",
+      "topic": "Major Fields of Biology",
+      "slo": "Apply concepts from major fields of biology"
+    },
+    {
+      "id": "BIO9CH1-232",
+      "q": "A researcher surveys whales, sponges and molluscs in the ocean; which field applies?",
+      "o": [
+        "Genetics",
+        "Histology",
+        "Immunology",
+        "Marine biology"
+      ],
+      "a": 3,
+      "e": "Marine biology studies organisms inhabiting seas.",
+      "d": "Medium",
+      "topic": "Major Fields of Biology",
+      "slo": "Apply concepts from major fields of biology"
+    },
+    {
+      "id": "BIO9CH1-233",
+      "q": "A laboratory identifies the nature of a diseased tissue sample; which branch applies?",
+      "o": [
+        "Pathology",
+        "Ecology",
+        "Morphology",
+        "Taxonomy"
+      ],
+      "a": 0,
+      "e": "Pathology investigates diseases and their diagnosis.",
+      "d": "Medium",
+      "topic": "Major Fields of Biology",
+      "slo": "Apply concepts from major fields of biology"
+    },
+    {
+      "id": "BIO9CH1-234",
+      "q": "A scientist examines how vaccination stimulates protection; which branch applies?",
+      "o": [
+        "Palaeontology",
+        "Marine biology",
+        "Anatomy",
+        "Immunology"
+      ],
+      "a": 3,
+      "e": "Immunology studies immunity and defense against foreign substances.",
+      "d": "Medium",
+      "topic": "Major Fields of Biology",
+      "slo": "Apply concepts from major fields of biology"
+    },
+    {
+      "id": "BIO9CH1-235",
+      "q": "A researcher compares the effects of different medicines; which branch is involved?",
+      "o": [
+        "Embryology",
+        "Pharmacology",
+        "Taxonomy",
+        "Ecology"
+      ],
+      "a": 1,
+      "e": "Pharmacology deals with the study of drugs.",
+      "d": "Medium",
+      "topic": "Major Fields of Biology",
+      "slo": "Apply concepts from major fields of biology"
+    },
+    {
+      "id": "BIO9CH1-236",
+      "q": "Which tissue forms a continuous covering over body surfaces?",
+      "o": [
+        "Epithelial tissue",
+        "Blood tissue",
+        "Bone tissue",
+        "Nervous tissue"
+      ],
+      "a": 0,
+      "e": "The textbook illustrates epithelial tissue as a covering layer.",
+      "d": "Medium",
+      "topic": "Major Fields of Biology",
+      "slo": "Apply concepts from major fields of biology"
+    },
+    {
+      "id": "BIO9CH1-237",
+      "q": "A taxonomy student needs the binomial name printed in Chapter 1; which is correct?",
+      "o": [
+        "Homo sapiens",
+        "Felis catus",
+        "Panthera leo",
+        "Canis lupus"
+      ],
+      "a": 0,
+      "e": "The chapter gives Homo sapiens as the scientific name of humans.",
+      "d": "Medium",
+      "topic": "Major Fields of Biology",
+      "slo": "Apply concepts from major fields of biology"
+    },
+    {
+      "id": "BIO9CH1-238",
+      "q": "A preserved remnant of a past organism is discovered; what is it called?",
+      "o": [
+        "A living embryo",
+        "A modern drug",
+        "Remains of living things preserved by natural processes",
+        "A newly formed tissue"
+      ],
+      "a": 2,
+      "e": "Fossils are preserved remains that help study past life.",
+      "d": "Medium",
+      "topic": "Major Fields of Biology",
+      "slo": "Apply concepts from major fields of biology"
+    },
+    {
+      "id": "BIO9CH1-239",
+      "q": "A scientist studies dolphins in the ocean; which field is appropriate?",
+      "o": [
+        "Cytology",
+        "Marine biology",
+        "Pharmacology",
+        "Histology"
+      ],
+      "a": 1,
+      "e": "Dolphins are listed among marine organisms.",
+      "d": "Medium",
+      "topic": "Major Fields of Biology",
+      "slo": "Apply concepts from major fields of biology"
+    },
+    {
+      "id": "BIO9CH1-240",
+      "q": "A student selects examples given under pharmacology; which pair fits?",
+      "o": [
+        "Sand and clay",
+        "Glucose and cellulose",
+        "Oxygen and nitrogen",
+        "Penicillin and insulin"
+      ],
+      "a": 3,
+      "e": "The pharmacology section lists drugs including penicillin and insulin.",
+      "d": "Medium",
+      "topic": "Major Fields of Biology",
+      "slo": "Apply concepts from major fields of biology"
+    },
+    {
+      "id": "BIO9CH1-241",
+      "q": "A learner is identifying a drug named in the chapter; which choice is correct?",
+      "o": [
+        "Chlorophyll",
+        "Starch",
+        "Morphine",
+        "Cellulose"
+      ],
+      "a": 2,
+      "e": "Morphine is among the examples of drugs in the chapter.",
+      "d": "Medium",
+      "topic": "Major Fields of Biology",
+      "slo": "Apply concepts from major fields of biology"
+    },
+    {
+      "id": "BIO9CH1-242",
+      "q": "A scientist builds computer-based models of biological systems; which area is most relevant?",
+      "o": [
+        "Computational biology",
+        "Marine biology alone",
+        "Morphology alone",
+        "Taxonomy alone"
+      ],
+      "a": 0,
+      "e": "The chapter notes computational models of genomes and biological systems.",
+      "d": "Medium",
+      "topic": "Major Fields of Biology",
+      "slo": "Apply concepts from major fields of biology"
+    },
+    {
+      "id": "BIO9CH1-243",
+      "q": "A scientist studies how a vaccine prepares immune defenses; what is the focus?",
+      "o": [
+        "Fossil dating",
+        "Body immunity",
+        "Species naming",
+        "Drug manufacturing only"
+      ],
+      "a": 1,
+      "e": "Immunology focuses on immunity and vaccination-related protection.",
+      "d": "Medium",
+      "topic": "Major Fields of Biology",
+      "slo": "Apply concepts from major fields of biology"
+    },
+    {
+      "id": "BIO9CH1-244",
+      "q": "One student maps the heart's chambers while another studies pumping; what distinguishes the work?",
+      "o": [
+        "Both study only habitats",
+        "Anatomy studies heredity and physiology naming",
+        "Anatomy concerns structure and physiology concerns function",
+        "Both study only fossils"
+      ],
+      "a": 2,
+      "e": "Anatomy investigates structure while physiology investigates function.",
+      "d": "Medium",
+      "topic": "Major Fields of Biology",
+      "slo": "Apply concepts from major fields of biology"
+    },
+    {
+      "id": "BIO9CH1-245",
+      "q": "A learner switches from studying a tissue slice to a single cell; which statement fits?",
+      "o": [
+        "Both deal only with fossils",
+        "Histology studies tissues; cytology studies cells",
+        "Both are branches of taxonomy",
+        "Histology studies drugs; cytology habitats"
+      ],
+      "a": 1,
+      "e": "The two fields differ in their main level of study.",
+      "d": "Medium",
+      "topic": "Major Fields of Biology",
+      "slo": "Apply concepts from major fields of biology"
+    },
+    {
+      "id": "BIO9CH1-246",
+      "q": "An investigator traces early developmental stages rather than adult anatomy; which branch applies?",
+      "o": [
+        "Pharmacology",
+        "Taxonomy",
+        "Embryology",
+        "Ecology"
+      ],
+      "a": 2,
+      "e": "Embryology addresses early organismal development.",
+      "d": "Medium",
+      "topic": "Major Fields of Biology",
+      "slo": "Apply concepts from major fields of biology"
+    },
+    {
+      "id": "BIO9CH1-247",
+      "q": "A scientist gives a sea creature its scientific name; which branch handles the naming?",
+      "o": [
+        "Taxonomy",
+        "Immunology",
+        "Histology",
+        "Physiology"
+      ],
+      "a": 0,
+      "e": "Classification and naming belong to taxonomy regardless of habitat.",
+      "d": "Medium",
+      "topic": "Major Fields of Biology",
+      "slo": "Apply concepts from major fields of biology"
+    },
+    {
+      "id": "BIO9CH1-248",
+      "q": "A researcher examines microscopic tissue alterations in an infected organ; which branch addresses tissue structure?",
+      "o": [
+        "Marine biology",
+        "Ecology",
+        "Histology",
+        "Taxonomy"
+      ],
+      "a": 2,
+      "e": "Microscopic examination of tissue is histology.",
+      "d": "Medium",
+      "topic": "Major Fields of Biology",
+      "slo": "Apply concepts from major fields of biology"
+    },
+    {
+      "id": "BIO9CH1-249",
+      "q": "A student investigates impaired breathing mechanics; which field focuses on organ function?",
+      "o": [
+        "Palaeontology",
+        "Morphology",
+        "Physiology",
+        "Taxonomy"
+      ],
+      "a": 2,
+      "e": "Physiology investigates how organs work.",
+      "d": "Medium",
+      "topic": "Major Fields of Biology",
+      "slo": "Apply concepts from major fields of biology"
+    },
+    {
+      "id": "BIO9CH1-250",
+      "q": "White cats produce white kittens in the chapter's example; which field explains inherited traits?",
+      "o": [
+        "Histology",
+        "Genetics",
+        "Pharmacology",
+        "Marine biology"
+      ],
+      "a": 1,
+      "e": "Inherited traits are studied in genetics.",
+      "d": "Medium",
+      "topic": "Major Fields of Biology",
+      "slo": "Apply concepts from major fields of biology"
+    },
+    {
+      "id": "BIO9CH1-251",
+      "q": "A fossil ammonite is found in rock; which branch interprets its biological history?",
+      "o": [
+        "Immunology",
+        "Cytology",
+        "Physiology",
+        "Palaeontology"
+      ],
+      "a": 3,
+      "e": "Fossils are evidence used in palaeontology.",
+      "d": "Medium",
+      "topic": "Major Fields of Biology",
+      "slo": "Apply concepts from major fields of biology"
+    },
+    {
+      "id": "BIO9CH1-252",
+      "q": "A researcher studies chemical reactions inside living cells; which field is involved?",
+      "o": [
+        "Biogeography",
+        "Biochemistry",
+        "Biostatistics",
+        "Biophysics"
+      ],
+      "a": 1,
+      "e": "Biochemistry applies chemistry to living systems.",
+      "d": "Medium",
+      "topic": "Relationship with Other Sciences",
+      "slo": "Apply concepts from relationship with other sciences"
+    },
+    {
+      "id": "BIO9CH1-253",
+      "q": "A scientist applies physical principles to the movement of molecules in cells; which field applies?",
+      "o": [
+        "Biogeography",
+        "Biophysics",
+        "Biostatistics",
+        "Taxonomy"
+      ],
+      "a": 1,
+      "e": "Biophysics applies physics to biological phenomena.",
+      "d": "Medium",
+      "topic": "Relationship with Other Sciences",
+      "slo": "Apply concepts from relationship with other sciences"
+    },
+    {
+      "id": "BIO9CH1-254",
+      "q": "A researcher estimates disease frequency using sample data; which field applies?",
+      "o": [
+        "Biostatistics",
+        "Anatomy",
+        "Biogeography",
+        "Morphology"
+      ],
+      "a": 0,
+      "e": "Biostatistics applies statistical techniques to biological problems.",
+      "d": "Medium",
+      "topic": "Relationship with Other Sciences",
+      "slo": "Apply concepts from relationship with other sciences"
+    },
+    {
+      "id": "BIO9CH1-255",
+      "q": "A student maps where a species occurs across regions; which field applies?",
+      "o": [
+        "Biochemistry",
+        "Biogeography",
+        "Pharmacology",
+        "Histology"
+      ],
+      "a": 1,
+      "e": "Biogeography concerns organisms and geographical distribution.",
+      "d": "Medium",
+      "topic": "Relationship with Other Sciences",
+      "slo": "Apply concepts from relationship with other sciences"
+    },
+    {
+      "id": "BIO9CH1-256",
+      "q": "A student tests which molecules are present in cytoplasm; which allied science is central?",
+      "o": [
+        "Geology alone",
+        "Chemistry",
+        "History",
+        "Astronomy"
+      ],
+      "a": 1,
+      "e": "Chemistry helps explain substances and reactions in cells.",
+      "d": "Medium",
+      "topic": "Relationship with Other Sciences",
+      "slo": "Apply concepts from relationship with other sciences"
+    },
+    {
+      "id": "BIO9CH1-257",
+      "q": "A student investigates magnification using lenses; which allied science is relevant?",
+      "o": [
+        "Political science",
+        "Literature",
+        "History",
+        "Physics"
+      ],
+      "a": 3,
+      "e": "Optics is a branch of physics relevant to microscopes.",
+      "d": "Medium",
+      "topic": "Relationship with Other Sciences",
+      "slo": "Apply concepts from relationship with other sciences"
+    },
+    {
+      "id": "BIO9CH1-258",
+      "q": "A student computes means from growth measurements; which subject supports the analysis?",
+      "o": [
+        "Mathematics",
+        "Palaeontology",
+        "Taxonomy",
+        "Embryology"
+      ],
+      "a": 0,
+      "e": "Mathematics supports measurement and analysis of biological observations.",
+      "d": "Medium",
+      "topic": "Relationship with Other Sciences",
+      "slo": "Apply concepts from relationship with other sciences"
+    },
+    {
+      "id": "BIO9CH1-259",
+      "q": "A hospital researcher uses statistical comparisons of patient outcomes; which field applies?",
+      "o": [
+        "Morphology",
+        "Marine biology",
+        "Biostatistics",
+        "Anatomy"
+      ],
+      "a": 2,
+      "e": "Biostatistics is used to analyze biological and medical data.",
+      "d": "Medium",
+      "topic": "Relationship with Other Sciences",
+      "slo": "Apply concepts from relationship with other sciences"
+    },
+    {
+      "id": "BIO9CH1-260",
+      "q": "A student compares species across mountainous and coastal regions; which field applies?",
+      "o": [
+        "Pharmacology",
+        "Histology",
+        "Cytology",
+        "Biogeography"
+      ],
+      "a": 3,
+      "e": "Biogeography relates biological distribution to geography.",
+      "d": "Medium",
+      "topic": "Relationship with Other Sciences",
+      "slo": "Apply concepts from relationship with other sciences"
+    },
+    {
+      "id": "BIO9CH1-261",
+      "q": "A student explains respiration using reactions involving glucose and oxygen; what links the sciences?",
+      "o": [
+        "All organisms are minerals",
+        "Chemistry replaces observations",
+        "Chemical reactions occur in living organisms",
+        "Cells contain no molecules"
+      ],
+      "a": 2,
+      "e": "Biological processes depend on chemical reactions.",
+      "d": "Medium",
+      "topic": "Relationship with Other Sciences",
+      "slo": "Apply concepts from relationship with other sciences"
+    },
+    {
+      "id": "BIO9CH1-262",
+      "q": "A professional examines symptoms and tests to treat a patient; which career is illustrated?",
+      "o": [
+        "Architecture",
+        "Surveying",
+        "Astronomy",
+        "Medicine"
+      ],
+      "a": 3,
+      "e": "Medicine applies biological knowledge to human health.",
+      "d": "Medium",
+      "topic": "Careers in Biology",
+      "slo": "Apply concepts from careers in biology"
+    },
+    {
+      "id": "BIO9CH1-263",
+      "q": "A professional treats an infected cow; which career is illustrated?",
+      "o": [
+        "Mining",
+        "Meteorology",
+        "Civil engineering",
+        "Veterinary medicine"
+      ],
+      "a": 3,
+      "e": "Veterinary medicine applies biology to animal disease and care.",
+      "d": "Medium",
+      "topic": "Careers in Biology",
+      "slo": "Apply concepts from careers in biology"
+    },
+    {
+      "id": "BIO9CH1-264",
+      "q": "A researcher improves irrigation and crop management; which field is involved?",
+      "o": [
+        "Astronomy",
+        "Electronics",
+        "Architecture",
+        "Agriculture"
+      ],
+      "a": 3,
+      "e": "Agriculture uses biology to improve crops and farming.",
+      "d": "Medium",
+      "topic": "Careers in Biology",
+      "slo": "Apply concepts from careers in biology"
+    },
+    {
+      "id": "BIO9CH1-265",
+      "q": "A specialist monitors tree health and forest regeneration; which field applies?",
+      "o": [
+        "Pharmacology alone",
+        "Astronomy",
+        "Oceanography alone",
+        "Forestry"
+      ],
+      "a": 3,
+      "e": "Forestry applies biological knowledge to forest resources.",
+      "d": "Medium",
+      "topic": "Careers in Biology",
+      "slo": "Apply concepts from careers in biology"
+    },
+    {
+      "id": "BIO9CH1-266",
+      "q": "A researcher improves the rearing of fish in ponds; which field applies?",
+      "o": [
+        "Fisheries",
+        "Mineralogy",
+        "Aeronautics",
+        "Architecture"
+      ],
+      "a": 0,
+      "e": "Fisheries applies biology to aquatic food resources.",
+      "d": "Medium",
+      "topic": "Careers in Biology",
+      "slo": "Apply concepts from careers in biology"
+    },
+    {
+      "id": "BIO9CH1-267",
+      "q": "A team uses microbes to make a useful product; which area applies?",
+      "o": [
+        "Palaeontology",
+        "Biotechnology",
+        "Astronomy",
+        "Taxonomy alone"
+      ],
+      "a": 1,
+      "e": "Biotechnology uses living systems for practical products.",
+      "d": "Medium",
+      "topic": "Careers in Biology",
+      "slo": "Apply concepts from careers in biology"
+    },
+    {
+      "id": "BIO9CH1-268",
+      "q": "A professional studies drug action and formulations; which area is relevant?",
+      "o": [
+        "Geology",
+        "Pharmacy",
+        "Astronomy",
+        "Forestry"
+      ],
+      "a": 1,
+      "e": "Pharmacy is connected with medicines and biological knowledge.",
+      "d": "Medium",
+      "topic": "Careers in Biology",
+      "slo": "Apply concepts from careers in biology"
+    },
+    {
+      "id": "BIO9CH1-269",
+      "q": "A professional designs plans to conserve endangered organisms; which field is relevant?",
+      "o": [
+        "Wildlife conservation",
+        "Astronomy",
+        "Mining engineering",
+        "Construction surveying"
+      ],
+      "a": 0,
+      "e": "Conservation uses knowledge of species and habitats.",
+      "d": "Medium",
+      "topic": "Careers in Biology",
+      "slo": "Apply concepts from careers in biology"
+    },
+    {
+      "id": "BIO9CH1-270",
+      "q": "A specialist works to improve the health and productivity of farm animals; which area is involved?",
+      "o": [
+        "Civil engineering",
+        "Animal husbandry",
+        "Astrophysics",
+        "Cartography"
+      ],
+      "a": 1,
+      "e": "Animal husbandry applies biology to the care and breeding of livestock.",
+      "d": "Medium",
+      "topic": "Careers in Biology",
+      "slo": "Apply concepts from careers in biology"
+    },
+    {
+      "id": "BIO9CH1-271",
+      "q": "A researcher selects plants with desirable inherited traits; which area applies?",
+      "o": [
+        "Marine navigation",
+        "Architecture",
+        "Plant breeding",
+        "Astronomy"
+      ],
+      "a": 2,
+      "e": "Plant breeding applies heredity and agriculture.",
+      "d": "Medium",
+      "topic": "Careers in Biology",
+      "slo": "Apply concepts from careers in biology"
+    },
+    {
+      "id": "BIO9CH1-272",
+      "q": "A team needs to identify substances in a biological sample; why include a chemist?",
+      "o": [
+        "To eliminate experiments",
+        "To analyze chemical components",
+        "To replace all biologists",
+        "To avoid collecting evidence"
+      ],
+      "a": 1,
+      "e": "Different specialties contribute complementary methods.",
+      "d": "Medium",
+      "topic": "Science as a Collaborative Field",
+      "slo": "Apply concepts from science as a collaborative field"
+    },
+    {
+      "id": "BIO9CH1-273",
+      "q": "A team must decide whether results differ meaningfully between groups; who can help?",
+      "o": [
+        "A statistician",
+        "An illustrator only",
+        "A fossil collector only",
+        "A taxonomist only"
+      ],
+      "a": 0,
+      "e": "Statisticians help analyze patterns and variation in data.",
+      "d": "Medium",
+      "topic": "Science as a Collaborative Field",
+      "slo": "Apply concepts from science as a collaborative field"
+    },
+    {
+      "id": "BIO9CH1-274",
+      "q": "Two researchers obtain conflicting results; what is the best collaborative response?",
+      "o": [
+        "Hide one result",
+        "Discard all measurements",
+        "Choose a winner by seniority",
+        "Compare methods and evidence openly"
+      ],
+      "a": 3,
+      "e": "Scientific collaboration requires transparent examination of evidence.",
+      "d": "Medium",
+      "topic": "Science as a Collaborative Field",
+      "slo": "Apply concepts from science as a collaborative field"
+    },
+    {
+      "id": "BIO9CH1-275",
+      "q": "Another laboratory wants to check a reported result; what information is most useful?",
+      "o": [
+        "A clear experimental procedure",
+        "An unsupported opinion",
+        "A decorative title",
+        "Only the researcher's name"
+      ],
+      "a": 0,
+      "e": "Methods enable independent checking and replication.",
+      "d": "Medium",
+      "topic": "Science as a Collaborative Field",
+      "slo": "Apply concepts from science as a collaborative field"
+    },
+    {
+      "id": "BIO9CH1-276",
+      "q": "A team models the structure of a genome using software; what does the collaboration enable?",
+      "o": [
+        "Replacement of biological evidence",
+        "Elimination of DNA",
+        "Avoidance of all measurements",
+        "Computational analysis of biological information"
+      ],
+      "a": 3,
+      "e": "Computing can help analyze biological structures and datasets.",
+      "d": "Medium",
+      "topic": "Science as a Collaborative Field",
+      "slo": "Apply concepts from science as a collaborative field"
+    },
+    {
+      "id": "BIO9CH1-277",
+      "q": "Several specialists study the same disease; what prevents inconsistent interpretations?",
+      "o": [
+        "Keeping findings secret",
+        "Using different definitions without discussion",
+        "Ignoring measurements",
+        "Sharing observations and results"
+      ],
+      "a": 3,
+      "e": "Communication integrates evidence across specialties.",
+      "d": "Medium",
+      "topic": "Science as a Collaborative Field",
+      "slo": "Apply concepts from science as a collaborative field"
+    },
+    {
+      "id": "BIO9CH1-278",
+      "q": "A problem requires microscopy, chemistry and data analysis; what is gained by collaboration?",
+      "o": [
+        "Elimination of uncertainty",
+        "No need for controls",
+        "Complementary expertise",
+        "Guaranteed correctness without testing"
+      ],
+      "a": 2,
+      "e": "Complex problems can require multiple kinds of expertise.",
+      "d": "Medium",
+      "topic": "Science as a Collaborative Field",
+      "slo": "Apply concepts from science as a collaborative field"
+    },
+    {
+      "id": "BIO9CH1-279",
+      "q": "A joint investigation produces an unexpected outcome; what is the responsible response?",
+      "o": [
+        "Reconsider the hypothesis using the data",
+        "Suppress the outcome",
+        "Alter the records",
+        "Declare a law"
+      ],
+      "a": 0,
+      "e": "Scientific teams revise ideas when evidence warrants.",
+      "d": "Medium",
+      "topic": "Science as a Collaborative Field",
+      "slo": "Apply concepts from science as a collaborative field"
+    },
+    {
+      "id": "BIO9CH1-280",
+      "q": "A student asks why a plant wilts despite watering; what has been identified?",
+      "o": [
+        "A scientific name",
+        "A completed theory",
+        "A question requiring investigation",
+        "A confirmed law"
+      ],
+      "a": 2,
+      "e": "A biological problem is a question that can be investigated.",
+      "d": "Medium",
+      "topic": "Biological Method",
+      "slo": "Apply concepts from biological method"
+    },
+    {
+      "id": "BIO9CH1-281",
+      "q": "A student counts insects visiting flowers each hour; which scientific activity is this?",
+      "o": [
+        "Observation",
+        "Fossil formation",
+        "Drug prescription",
+        "Taxonomy"
+      ],
+      "a": 0,
+      "e": "Observation gathers information relevant to a problem.",
+      "d": "Medium",
+      "topic": "Biological Method",
+      "slo": "Apply concepts from biological method"
+    },
+    {
+      "id": "BIO9CH1-282",
+      "q": "A researcher proposes that sunlight affects leaf colour; what is this tentative explanation?",
+      "o": [
+        "A measured result",
+        "A testable explanation",
+        "A scientific name",
+        "An unchangeable law"
+      ],
+      "a": 1,
+      "e": "A hypothesis is a proposed explanation that can be tested.",
+      "d": "Medium",
+      "topic": "Biological Method",
+      "slo": "Apply concepts from biological method"
+    },
+    {
+      "id": "BIO9CH1-283",
+      "q": "A student states that plants without light should become pale if light is necessary; what is this statement?",
+      "o": [
+        "A fossil record",
+        "A predicted consequence",
+        "A taxonomy rule",
+        "A measurement unit"
+      ],
+      "a": 1,
+      "e": "A deduction predicts an outcome based on the hypothesis.",
+      "d": "Medium",
+      "topic": "Biological Method",
+      "slo": "Apply concepts from biological method"
+    },
+    {
+      "id": "BIO9CH1-284",
+      "q": "Two groups of plants receive different light conditions; what is being tested?",
+      "o": [
+        "A fossil age",
+        "A scientific name",
+        "A hypothesis",
+        "A species list"
+      ],
+      "a": 2,
+      "e": "Experiments test hypotheses by gathering relevant evidence.",
+      "d": "Medium",
+      "topic": "Biological Method",
+      "slo": "Apply concepts from biological method"
+    },
+    {
+      "id": "BIO9CH1-285",
+      "q": "A student varies the amount of fertilizer supplied to plants; which variable is fertilizer amount?",
+      "o": [
+        "Uncontrolled result",
+        "Dependent variable",
+        "Conclusion",
+        "Independent variable"
+      ],
+      "a": 3,
+      "e": "The independent variable is manipulated by the investigator.",
+      "d": "Medium",
+      "topic": "Biological Method",
+      "slo": "Apply concepts from biological method"
+    },
+    {
+      "id": "BIO9CH1-286",
+      "q": "A student measures plant height after varying fertilizer; what is plant height?",
+      "o": [
+        "Fixed label",
+        "Independent variable",
+        "Hypothesis",
+        "Dependent variable"
+      ],
+      "a": 3,
+      "e": "The dependent variable is the observed or measured response.",
+      "d": "Medium",
+      "topic": "Biological Method",
+      "slo": "Apply concepts from biological method"
+    },
+    {
+      "id": "BIO9CH1-287",
+      "q": "Both experimental plant groups receive equal water; what role does water have?",
+      "o": [
+        "The experimental hypothesis",
+        "The measured outcome",
+        "The final conclusion",
+        "A factor kept constant"
+      ],
+      "a": 3,
+      "e": "Controlled variables are kept the same to make comparisons fair.",
+      "d": "Medium",
+      "topic": "Biological Method",
+      "slo": "Apply concepts from biological method"
+    },
+    {
+      "id": "BIO9CH1-288",
+      "q": "One group receives no added fertilizer while another receives fertilizer; what does the first group provide?",
+      "o": [
+        "A scientific law",
+        "A second independent variable",
+        "Proof before testing",
+        "A baseline for comparison"
+      ],
+      "a": 3,
+      "e": "A control group helps identify the effect of a treatment.",
+      "d": "Medium",
+      "topic": "Biological Method",
+      "slo": "Apply concepts from biological method"
+    },
+    {
+      "id": "BIO9CH1-289",
+      "q": "A researcher repeats a trial on several days; what does this help assess?",
+      "o": [
+        "Fossil formation",
+        "Drug classification",
+        "Reliability of results",
+        "Scientific naming"
+      ],
+      "a": 2,
+      "e": "Repeating investigations checks consistency.",
+      "d": "Medium",
+      "topic": "Biological Method",
+      "slo": "Apply concepts from biological method"
+    },
+    {
+      "id": "BIO9CH1-290",
+      "q": "A class records that 18 seeds germinated; what type of observation is this?",
+      "o": [
+        "Numerical data",
+        "A hypothesis",
+        "A qualitative colour description",
+        "A scientific theory"
+      ],
+      "a": 0,
+      "e": "Quantitative data are expressed as numbers.",
+      "d": "Medium",
+      "topic": "Biological Method",
+      "slo": "Apply concepts from biological method"
+    },
+    {
+      "id": "BIO9CH1-291",
+      "q": "A student records that a leaf turned yellow; what kind of data is this?",
+      "o": [
+        "A statistical average",
+        "A measured length",
+        "Descriptive data",
+        "A numerical count"
+      ],
+      "a": 2,
+      "e": "Qualitative data describe characteristics.",
+      "d": "Medium",
+      "topic": "Biological Method",
+      "slo": "Apply concepts from biological method"
+    },
+    {
+      "id": "BIO9CH1-292",
+      "q": "An experiment gives results different from expectations; what should determine the conclusion?",
+      "o": [
+        "An untested belief",
+        "The most popular guess",
+        "Personal preference",
+        "Recorded evidence"
+      ],
+      "a": 3,
+      "e": "Conclusions must follow the observations and results.",
+      "d": "Medium",
+      "topic": "Biological Method",
+      "slo": "Apply concepts from biological method"
+    },
+    {
+      "id": "BIO9CH1-293",
+      "q": "A proposed explanation has accumulated extensive supporting evidence; what may it develop into?",
+      "o": [
+        "A scientific theory",
+        "A species name",
+        "An observation only",
+        "A unit of measurement"
+      ],
+      "a": 0,
+      "e": "A theory is a broad explanation supported by substantial evidence.",
+      "d": "Medium",
+      "topic": "Biological Method",
+      "slo": "Apply concepts from biological method"
+    },
+    {
+      "id": "BIO9CH1-294",
+      "q": "A regular pattern is observed repeatedly in nature; which term may describe the relationship?",
+      "o": [
+        "Scientific law",
+        "Specimen label",
+        "Control group",
+        "Untested guess"
+      ],
+      "a": 0,
+      "e": "Scientific laws describe consistent patterns or relationships.",
+      "d": "Medium",
+      "topic": "Biological Method",
+      "slo": "Apply concepts from biological method"
+    },
+    {
+      "id": "BIO9CH1-295",
+      "q": "A second class wants to repeat an investigation; what should the first class provide?",
+      "o": [
+        "An unsupported assertion",
+        "Only the desired answer",
+        "Methods and findings",
+        "A secret procedure"
+      ],
+      "a": 2,
+      "e": "Reporting enables others to evaluate and repeat studies.",
+      "d": "Medium",
+      "topic": "Biological Method",
+      "slo": "Apply concepts from biological method"
+    },
+    {
+      "id": "BIO9CH1-296",
+      "q": "A scientist asks what should happen if an explanation is correct; what is being formulated?",
+      "o": [
+        "Fossils",
+        "Taxonomic names",
+        "Deductions",
+        "Drug doses"
+      ],
+      "a": 2,
+      "e": "Deductions are predicted consequences drawn from a hypothesis.",
+      "d": "Medium",
+      "topic": "Biological Method",
+      "slo": "Apply concepts from biological method"
+    },
+    {
+      "id": "BIO9CH1-297",
+      "q": "A result contradicts the predicted outcome; what should the investigator do?",
+      "o": [
+        "Declare the question settled",
+        "Invent a matching measurement",
+        "Re-examine evidence and explanation",
+        "Delete the result"
+      ],
+      "a": 2,
+      "e": "Unexpected results can lead to refinement of hypotheses.",
+      "d": "Medium",
+      "topic": "Biological Method",
+      "slo": "Apply concepts from biological method"
+    },
+    {
+      "id": "BIO9CH1-298",
+      "q": "Two plant groups differ only in light exposure; why is this design useful?",
+      "o": [
+        "It proves all theories",
+        "It guarantees identical outcomes",
+        "It isolates the effect of light",
+        "It removes the need for observations"
+      ],
+      "a": 2,
+      "e": "Controlling other factors supports meaningful comparisons.",
+      "d": "Medium",
+      "topic": "Biological Method",
+      "slo": "Apply concepts from biological method"
+    },
+    {
+      "id": "BIO9CH1-299",
+      "q": "A student concludes from drooping leaves and dry soil that the plant lacks water; what is this reasoning?",
+      "o": [
+        "An interpretation of observations",
+        "A control variable",
+        "A scientific name",
+        "A direct measurement"
+      ],
+      "a": 0,
+      "e": "An inference interprets observations using reasoning.",
+      "d": "Medium",
+      "topic": "Biological Method",
+      "slo": "Apply concepts from biological method"
+    },
+    {
+      "id": "BIO9CH1-300",
+      "q": "A learner states that seeds will germinate faster in warm conditions before testing; what is this?",
+      "o": [
+        "An expected test outcome",
+        "A fossil",
+        "A scientific law",
+        "A recorded result"
+      ],
+      "a": 0,
+      "e": "A prediction states an expected result before a test.",
+      "d": "Medium",
+      "topic": "Biological Method",
+      "slo": "Apply concepts from biological method"
+    }
+  ]
+}

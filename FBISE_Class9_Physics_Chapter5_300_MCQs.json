@@ -1,0 +1,4504 @@
+{
+  "questions": [
+    {
+      "id": "PHY9CH5-001",
+      "q": "What is deformation?",
+      "o": [
+        "Motion at constant speed",
+        "Change in shape or size under an applied influence",
+        "Change in temperature only",
+        "Increase in mass"
+      ],
+      "a": 1,
+      "e": "A force can change the dimensions or shape of an object.",
+      "d": "Easy",
+      "topic": "Deformation",
+      "slo": "P-09-B-55"
+    },
+    {
+      "id": "PHY9CH5-002",
+      "q": "In Chapter 5, What is deformation?",
+      "o": [
+        "Motion at constant speed",
+        "Change in shape or size under an applied influence",
+        "Change in temperature only",
+        "Increase in mass"
+      ],
+      "a": 1,
+      "e": "A force can change the dimensions or shape of an object.",
+      "d": "Medium",
+      "topic": "Deformation",
+      "slo": "P-09-B-55"
+    },
+    {
+      "id": "PHY9CH5-003",
+      "q": "For a physics revision quiz, What is deformation?",
+      "o": [
+        "Change in temperature only",
+        "Change in shape or size under an applied influence",
+        "Motion at constant speed",
+        "Increase in mass"
+      ],
+      "a": 1,
+      "e": "A force can change the dimensions or shape of an object.",
+      "d": "Hard",
+      "topic": "Deformation",
+      "slo": "P-09-B-55"
+    },
+    {
+      "id": "PHY9CH5-004",
+      "q": "Which property allows a body to regain its original dimensions after removal of a deforming force?",
+      "o": [
+        "Density",
+        "Elasticity",
+        "Inertia",
+        "Viscosity"
+      ],
+      "a": 1,
+      "e": "Elasticity is the ability to recover original dimensions.",
+      "d": "Easy",
+      "topic": "Elasticity",
+      "slo": "P-09-B-55"
+    },
+    {
+      "id": "PHY9CH5-005",
+      "q": "In Chapter 5, Which property allows a body to regain its original dimensions after removal of a deforming force?",
+      "o": [
+        "Viscosity",
+        "Inertia",
+        "Density",
+        "Elasticity"
+      ],
+      "a": 3,
+      "e": "Elasticity is the ability to recover original dimensions.",
+      "d": "Medium",
+      "topic": "Elasticity",
+      "slo": "P-09-B-55"
+    },
+    {
+      "id": "PHY9CH5-006",
+      "q": "For a physics revision quiz, Which property allows a body to regain its original dimensions after removal of a deforming force?",
+      "o": [
+        "Density",
+        "Viscosity",
+        "Inertia",
+        "Elasticity"
+      ],
+      "a": 3,
+      "e": "Elasticity is the ability to recover original dimensions.",
+      "d": "Hard",
+      "topic": "Elasticity",
+      "slo": "P-09-B-55"
+    },
+    {
+      "id": "PHY9CH5-007",
+      "q": "Which substance is a common example of inelastic deformation?",
+      "o": [
+        "Plasticine",
+        "Elastic rubber band",
+        "Ideal spring",
+        "Unloaded steel spring"
+      ],
+      "a": 0,
+      "e": "Plasticine can retain a changed shape after removal of force.",
+      "d": "Easy",
+      "topic": "Elasticity",
+      "slo": "P-09-B-55"
+    },
+    {
+      "id": "PHY9CH5-008",
+      "q": "In Chapter 5, Which substance is a common example of inelastic deformation?",
+      "o": [
+        "Plasticine",
+        "Elastic rubber band",
+        "Ideal spring",
+        "Unloaded steel spring"
+      ],
+      "a": 0,
+      "e": "Plasticine can retain a changed shape after removal of force.",
+      "d": "Medium",
+      "topic": "Elasticity",
+      "slo": "P-09-B-55"
+    },
+    {
+      "id": "PHY9CH5-009",
+      "q": "For a physics revision quiz, Which substance is a common example of inelastic deformation?",
+      "o": [
+        "Ideal spring",
+        "Plasticine",
+        "Elastic rubber band",
+        "Unloaded steel spring"
+      ],
+      "a": 1,
+      "e": "Plasticine can retain a changed shape after removal of force.",
+      "d": "Hard",
+      "topic": "Elasticity",
+      "slo": "P-09-B-55"
+    },
+    {
+      "id": "PHY9CH5-010",
+      "q": "What is the elastic limit?",
+      "o": [
+        "The point where pressure is zero",
+        "Greatest deformation for which original dimensions can still be recovered",
+        "The point where mass becomes zero",
+        "The highest possible temperature"
+      ],
+      "a": 1,
+      "e": "Beyond the elastic limit permanent deformation can occur.",
+      "d": "Easy",
+      "topic": "Elasticity",
+      "slo": "P-09-B-55"
+    },
+    {
+      "id": "PHY9CH5-011",
+      "q": "In Chapter 5, What is the elastic limit?",
+      "o": [
+        "The point where mass becomes zero",
+        "The highest possible temperature",
+        "The point where pressure is zero",
+        "Greatest deformation for which original dimensions can still be recovered"
+      ],
+      "a": 3,
+      "e": "Beyond the elastic limit permanent deformation can occur.",
+      "d": "Medium",
+      "topic": "Elasticity",
+      "slo": "P-09-B-55"
+    },
+    {
+      "id": "PHY9CH5-012",
+      "q": "For a physics revision quiz, What is the elastic limit?",
+      "o": [
+        "The highest possible temperature",
+        "The point where mass becomes zero",
+        "Greatest deformation for which original dimensions can still be recovered",
+        "The point where pressure is zero"
+      ],
+      "a": 2,
+      "e": "Beyond the elastic limit permanent deformation can occur.",
+      "d": "Hard",
+      "topic": "Elasticity",
+      "slo": "P-09-B-55"
+    },
+    {
+      "id": "PHY9CH5-013",
+      "q": "Which statement expresses Hooke’s law within the proportional limit?",
+      "o": [
+        "Extension is independent of force",
+        "Force is proportional to extension squared",
+        "Extension is directly proportional to applied force",
+        "Extension is inversely proportional to force"
+      ],
+      "a": 2,
+      "e": "Within the proportional limit F = kx.",
+      "d": "Easy",
+      "topic": "Hooke’s law",
+      "slo": "P-09-B-56"
+    },
+    {
+      "id": "PHY9CH5-014",
+      "q": "In Chapter 5, Which statement expresses Hooke’s law within the proportional limit?",
+      "o": [
+        "Extension is independent of force",
+        "Force is proportional to extension squared",
+        "Extension is inversely proportional to force",
+        "Extension is directly proportional to applied force"
+      ],
+      "a": 3,
+      "e": "Within the proportional limit F = kx.",
+      "d": "Medium",
+      "topic": "Hooke’s law",
+      "slo": "P-09-B-56"
+    },
+    {
+      "id": "PHY9CH5-015",
+      "q": "For a physics revision quiz, Which statement expresses Hooke’s law within the proportional limit?",
+      "o": [
+        "Extension is directly proportional to applied force",
+        "Extension is inversely proportional to force",
+        "Extension is independent of force",
+        "Force is proportional to extension squared"
+      ],
+      "a": 0,
+      "e": "Within the proportional limit F = kx.",
+      "d": "Hard",
+      "topic": "Hooke’s law",
+      "slo": "P-09-B-56"
+    },
+    {
+      "id": "PHY9CH5-016",
+      "q": "What is the SI unit of spring constant?",
+      "o": [
+        "kg/m³",
+        "N/m",
+        "Pa",
+        "N m"
+      ],
+      "a": 1,
+      "e": "From k=F/x, its unit is newton per metre.",
+      "d": "Easy",
+      "topic": "Hooke’s law",
+      "slo": "P-09-B-56"
+    },
+    {
+      "id": "PHY9CH5-017",
+      "q": "In Chapter 5, What is the SI unit of spring constant?",
+      "o": [
+        "kg/m³",
+        "N m",
+        "N/m",
+        "Pa"
+      ],
+      "a": 2,
+      "e": "From k=F/x, its unit is newton per metre.",
+      "d": "Medium",
+      "topic": "Hooke’s law",
+      "slo": "P-09-B-56"
+    },
+    {
+      "id": "PHY9CH5-018",
+      "q": "For a physics revision quiz, What is the SI unit of spring constant?",
+      "o": [
+        "N m",
+        "Pa",
+        "kg/m³",
+        "N/m"
+      ],
+      "a": 3,
+      "e": "From k=F/x, its unit is newton per metre.",
+      "d": "Hard",
+      "topic": "Hooke’s law",
+      "slo": "P-09-B-56"
+    },
+    {
+      "id": "PHY9CH5-019",
+      "q": "What does the gradient of a force-versus-extension graph represent?",
+      "o": [
+        "Spring constant",
+        "Mass",
+        "Energy",
+        "Pressure"
+      ],
+      "a": 0,
+      "e": "For F on vertical axis and x on horizontal axis, gradient F/x = k.",
+      "d": "Easy",
+      "topic": "Load-extension graph",
+      "slo": "P-09-B-57"
+    },
+    {
+      "id": "PHY9CH5-020",
+      "q": "In Chapter 5, What does the gradient of a force-versus-extension graph represent?",
+      "o": [
+        "Pressure",
+        "Mass",
+        "Energy",
+        "Spring constant"
+      ],
+      "a": 3,
+      "e": "For F on vertical axis and x on horizontal axis, gradient F/x = k.",
+      "d": "Medium",
+      "topic": "Load-extension graph",
+      "slo": "P-09-B-57"
+    },
+    {
+      "id": "PHY9CH5-021",
+      "q": "For a physics revision quiz, What does the gradient of a force-versus-extension graph represent?",
+      "o": [
+        "Energy",
+        "Spring constant",
+        "Mass",
+        "Pressure"
+      ],
+      "a": 1,
+      "e": "For F on vertical axis and x on horizontal axis, gradient F/x = k.",
+      "d": "Hard",
+      "topic": "Load-extension graph",
+      "slo": "P-09-B-57"
+    },
+    {
+      "id": "PHY9CH5-022",
+      "q": "What shape is a force-extension graph while Hooke’s law is obeyed?",
+      "o": [
+        "Straight line through the origin",
+        "Circle",
+        "Vertical line",
+        "Horizontal line"
+      ],
+      "a": 0,
+      "e": "F=kx produces a straight line through the origin.",
+      "d": "Easy",
+      "topic": "Load-extension graph",
+      "slo": "P-09-B-57"
+    },
+    {
+      "id": "PHY9CH5-023",
+      "q": "In Chapter 5, What shape is a force-extension graph while Hooke’s law is obeyed?",
+      "o": [
+        "Straight line through the origin",
+        "Circle",
+        "Vertical line",
+        "Horizontal line"
+      ],
+      "a": 0,
+      "e": "F=kx produces a straight line through the origin.",
+      "d": "Medium",
+      "topic": "Load-extension graph",
+      "slo": "P-09-B-57"
+    },
+    {
+      "id": "PHY9CH5-024",
+      "q": "For a physics revision quiz, What shape is a force-extension graph while Hooke’s law is obeyed?",
+      "o": [
+        "Straight line through the origin",
+        "Circle",
+        "Horizontal line",
+        "Vertical line"
+      ],
+      "a": 0,
+      "e": "F=kx produces a straight line through the origin.",
+      "d": "Hard",
+      "topic": "Load-extension graph",
+      "slo": "P-09-B-57"
+    },
+    {
+      "id": "PHY9CH5-025",
+      "q": "Which is an application of a spring balance?",
+      "o": [
+        "Measuring atmospheric pressure",
+        "Measuring force using spring extension",
+        "Measuring liquid density directly",
+        "Measuring electric current"
+      ],
+      "a": 1,
+      "e": "A calibrated spring extension indicates applied force.",
+      "d": "Easy",
+      "topic": "Applications of Hooke’s law",
+      "slo": "P-09-B-59"
+    },
+    {
+      "id": "PHY9CH5-026",
+      "q": "In Chapter 5, Which is an application of a spring balance?",
+      "o": [
+        "Measuring force using spring extension",
+        "Measuring atmospheric pressure",
+        "Measuring electric current",
+        "Measuring liquid density directly"
+      ],
+      "a": 0,
+      "e": "A calibrated spring extension indicates applied force.",
+      "d": "Medium",
+      "topic": "Applications of Hooke’s law",
+      "slo": "P-09-B-59"
+    },
+    {
+      "id": "PHY9CH5-027",
+      "q": "For a physics revision quiz, Which is an application of a spring balance?",
+      "o": [
+        "Measuring electric current",
+        "Measuring atmospheric pressure",
+        "Measuring force using spring extension",
+        "Measuring liquid density directly"
+      ],
+      "a": 2,
+      "e": "A calibrated spring extension indicates applied force.",
+      "d": "Hard",
+      "topic": "Applications of Hooke’s law",
+      "slo": "P-09-B-59"
+    },
+    {
+      "id": "PHY9CH5-028",
+      "q": "What is the definition of pressure?",
+      "o": [
+        "Area per unit force",
+        "Force multiplied by area",
+        "Normal force per unit area",
+        "Mass per unit volume"
+      ],
+      "a": 2,
+      "e": "P=F/A for force perpendicular to the surface.",
+      "d": "Easy",
+      "topic": "Pressure",
+      "slo": "P-09-B-77"
+    },
+    {
+      "id": "PHY9CH5-029",
+      "q": "In Chapter 5, What is the definition of pressure?",
+      "o": [
+        "Normal force per unit area",
+        "Force multiplied by area",
+        "Mass per unit volume",
+        "Area per unit force"
+      ],
+      "a": 0,
+      "e": "P=F/A for force perpendicular to the surface.",
+      "d": "Medium",
+      "topic": "Pressure",
+      "slo": "P-09-B-77"
+    },
+    {
+      "id": "PHY9CH5-030",
+      "q": "For a physics revision quiz, What is the definition of pressure?",
+      "o": [
+        "Normal force per unit area",
+        "Area per unit force",
+        "Force multiplied by area",
+        "Mass per unit volume"
+      ],
+      "a": 0,
+      "e": "P=F/A for force perpendicular to the surface.",
+      "d": "Hard",
+      "topic": "Pressure",
+      "slo": "P-09-B-77"
+    },
+    {
+      "id": "PHY9CH5-031",
+      "q": "What is the SI unit of pressure?",
+      "o": [
+        "Joule",
+        "Watt",
+        "Newton",
+        "Pascal"
+      ],
+      "a": 3,
+      "e": "1 Pa = 1 N/m².",
+      "d": "Easy",
+      "topic": "Pressure",
+      "slo": "P-09-B-77"
+    },
+    {
+      "id": "PHY9CH5-032",
+      "q": "In Chapter 5, What is the SI unit of pressure?",
+      "o": [
+        "Joule",
+        "Pascal",
+        "Watt",
+        "Newton"
+      ],
+      "a": 1,
+      "e": "1 Pa = 1 N/m².",
+      "d": "Medium",
+      "topic": "Pressure",
+      "slo": "P-09-B-77"
+    },
+    {
+      "id": "PHY9CH5-033",
+      "q": "For a physics revision quiz, What is the SI unit of pressure?",
+      "o": [
+        "Watt",
+        "Pascal",
+        "Newton",
+        "Joule"
+      ],
+      "a": 1,
+      "e": "1 Pa = 1 N/m².",
+      "d": "Hard",
+      "topic": "Pressure",
+      "slo": "P-09-B-77"
+    },
+    {
+      "id": "PHY9CH5-034",
+      "q": "One pascal equals which unit?",
+      "o": [
+        "1 N m",
+        "1 J/s",
+        "1 N/m²",
+        "1 kg/m"
+      ],
+      "a": 2,
+      "e": "Pressure is force divided by area.",
+      "d": "Easy",
+      "topic": "Pressure",
+      "slo": "P-09-B-77"
+    },
+    {
+      "id": "PHY9CH5-035",
+      "q": "In Chapter 5, One pascal equals which unit?",
+      "o": [
+        "1 J/s",
+        "1 kg/m",
+        "1 N/m²",
+        "1 N m"
+      ],
+      "a": 2,
+      "e": "Pressure is force divided by area.",
+      "d": "Medium",
+      "topic": "Pressure",
+      "slo": "P-09-B-77"
+    },
+    {
+      "id": "PHY9CH5-036",
+      "q": "For a physics revision quiz, One pascal equals which unit?",
+      "o": [
+        "1 J/s",
+        "1 N/m²",
+        "1 N m",
+        "1 kg/m"
+      ],
+      "a": 1,
+      "e": "Pressure is force divided by area.",
+      "d": "Hard",
+      "topic": "Pressure",
+      "slo": "P-09-B-77"
+    },
+    {
+      "id": "PHY9CH5-037",
+      "q": "For fixed force, what happens to pressure when contact area decreases?",
+      "o": [
+        "Pressure decreases",
+        "Pressure stays zero",
+        "Pressure depends only on mass",
+        "Pressure increases"
+      ],
+      "a": 3,
+      "e": "P=F/A so smaller area produces larger pressure.",
+      "d": "Easy",
+      "topic": "Pressure in daily life",
+      "slo": "P-09-B-78"
+    },
+    {
+      "id": "PHY9CH5-038",
+      "q": "In Chapter 5, For fixed force, what happens to pressure when contact area decreases?",
+      "o": [
+        "Pressure decreases",
+        "Pressure increases",
+        "Pressure stays zero",
+        "Pressure depends only on mass"
+      ],
+      "a": 1,
+      "e": "P=F/A so smaller area produces larger pressure.",
+      "d": "Medium",
+      "topic": "Pressure in daily life",
+      "slo": "P-09-B-78"
+    },
+    {
+      "id": "PHY9CH5-039",
+      "q": "For a physics revision quiz, For fixed force, what happens to pressure when contact area decreases?",
+      "o": [
+        "Pressure depends only on mass",
+        "Pressure decreases",
+        "Pressure increases",
+        "Pressure stays zero"
+      ],
+      "a": 2,
+      "e": "P=F/A so smaller area produces larger pressure.",
+      "d": "Hard",
+      "topic": "Pressure in daily life",
+      "slo": "P-09-B-78"
+    },
+    {
+      "id": "PHY9CH5-040",
+      "q": "Why does a sharp needle pierce more easily than a blunt one under the same force?",
+      "o": [
+        "Its speed must be zero",
+        "Its mass is always larger",
+        "Its temperature is higher",
+        "Smaller tip area gives greater pressure"
+      ],
+      "a": 3,
+      "e": "Reducing contact area increases pressure.",
+      "d": "Easy",
+      "topic": "Pressure in daily life",
+      "slo": "P-09-B-78"
+    },
+    {
+      "id": "PHY9CH5-041",
+      "q": "In Chapter 5, Why does a sharp needle pierce more easily than a blunt one under the same force?",
+      "o": [
+        "Its speed must be zero",
+        "Its mass is always larger",
+        "Smaller tip area gives greater pressure",
+        "Its temperature is higher"
+      ],
+      "a": 2,
+      "e": "Reducing contact area increases pressure.",
+      "d": "Medium",
+      "topic": "Pressure in daily life",
+      "slo": "P-09-B-78"
+    },
+    {
+      "id": "PHY9CH5-042",
+      "q": "For a physics revision quiz, Why does a sharp needle pierce more easily than a blunt one under the same force?",
+      "o": [
+        "Its temperature is higher",
+        "Its mass is always larger",
+        "Its speed must be zero",
+        "Smaller tip area gives greater pressure"
+      ],
+      "a": 3,
+      "e": "Reducing contact area increases pressure.",
+      "d": "Hard",
+      "topic": "Pressure in daily life",
+      "slo": "P-09-B-78"
+    },
+    {
+      "id": "PHY9CH5-043",
+      "q": "Why are wide tyres useful on soft ground?",
+      "o": [
+        "They remove friction completely",
+        "They eliminate gravity",
+        "They increase weight",
+        "They spread force over a larger area and reduce pressure"
+      ],
+      "a": 3,
+      "e": "Larger area reduces pressure for a given load.",
+      "d": "Easy",
+      "topic": "Pressure in daily life",
+      "slo": "P-09-B-78"
+    },
+    {
+      "id": "PHY9CH5-044",
+      "q": "In Chapter 5, Why are wide tyres useful on soft ground?",
+      "o": [
+        "They increase weight",
+        "They remove friction completely",
+        "They eliminate gravity",
+        "They spread force over a larger area and reduce pressure"
+      ],
+      "a": 3,
+      "e": "Larger area reduces pressure for a given load.",
+      "d": "Medium",
+      "topic": "Pressure in daily life",
+      "slo": "P-09-B-78"
+    },
+    {
+      "id": "PHY9CH5-045",
+      "q": "For a physics revision quiz, Why are wide tyres useful on soft ground?",
+      "o": [
+        "They eliminate gravity",
+        "They remove friction completely",
+        "They spread force over a larger area and reduce pressure",
+        "They increase weight"
+      ],
+      "a": 2,
+      "e": "Larger area reduces pressure for a given load.",
+      "d": "Hard",
+      "topic": "Pressure in daily life",
+      "slo": "P-09-B-78"
+    },
+    {
+      "id": "PHY9CH5-046",
+      "q": "In which direction does fluid pressure exert force on a surface?",
+      "o": [
+        "Perpendicular to the surface",
+        "Parallel to the surface",
+        "Always horizontally",
+        "Only vertically upward"
+      ],
+      "a": 0,
+      "e": "Pressure forces act normal to the contacted surface.",
+      "d": "Easy",
+      "topic": "Fluid pressure direction",
+      "slo": "P-09-B-79"
+    },
+    {
+      "id": "PHY9CH5-047",
+      "q": "In Chapter 5, In which direction does fluid pressure exert force on a surface?",
+      "o": [
+        "Parallel to the surface",
+        "Always horizontally",
+        "Only vertically upward",
+        "Perpendicular to the surface"
+      ],
+      "a": 3,
+      "e": "Pressure forces act normal to the contacted surface.",
+      "d": "Medium",
+      "topic": "Fluid pressure direction",
+      "slo": "P-09-B-79"
+    },
+    {
+      "id": "PHY9CH5-048",
+      "q": "For a physics revision quiz, In which direction does fluid pressure exert force on a surface?",
+      "o": [
+        "Perpendicular to the surface",
+        "Only vertically upward",
+        "Always horizontally",
+        "Parallel to the surface"
+      ],
+      "a": 0,
+      "e": "Pressure forces act normal to the contacted surface.",
+      "d": "Hard",
+      "topic": "Fluid pressure direction",
+      "slo": "P-09-B-79"
+    },
+    {
+      "id": "PHY9CH5-049",
+      "q": "What produces atmospheric pressure?",
+      "o": [
+        "Earth’s rotation alone",
+        "Weight of air above a surface",
+        "Magnetic field alone",
+        "Sunlight alone"
+      ],
+      "a": 1,
+      "e": "The atmosphere has mass and its weight creates pressure.",
+      "d": "Easy",
+      "topic": "Atmospheric pressure",
+      "slo": "P-09-B-80"
+    },
+    {
+      "id": "PHY9CH5-050",
+      "q": "In Chapter 5, What produces atmospheric pressure?",
+      "o": [
+        "Magnetic field alone",
+        "Sunlight alone",
+        "Earth’s rotation alone",
+        "Weight of air above a surface"
+      ],
+      "a": 3,
+      "e": "The atmosphere has mass and its weight creates pressure.",
+      "d": "Medium",
+      "topic": "Atmospheric pressure",
+      "slo": "P-09-B-80"
+    },
+    {
+      "id": "PHY9CH5-051",
+      "q": "For a physics revision quiz, What produces atmospheric pressure?",
+      "o": [
+        "Sunlight alone",
+        "Earth’s rotation alone",
+        "Weight of air above a surface",
+        "Magnetic field alone"
+      ],
+      "a": 2,
+      "e": "The atmosphere has mass and its weight creates pressure.",
+      "d": "Hard",
+      "topic": "Atmospheric pressure",
+      "slo": "P-09-B-80"
+    },
+    {
+      "id": "PHY9CH5-052",
+      "q": "How does atmospheric pressure generally change as altitude increases?",
+      "o": [
+        "It decreases",
+        "It becomes negative",
+        "It increases without limit",
+        "It stays exactly constant"
+      ],
+      "a": 0,
+      "e": "Less air lies above a location at greater altitude.",
+      "d": "Easy",
+      "topic": "Atmospheric pressure",
+      "slo": "P-09-B-81"
+    },
+    {
+      "id": "PHY9CH5-053",
+      "q": "In Chapter 5, How does atmospheric pressure generally change as altitude increases?",
+      "o": [
+        "It becomes negative",
+        "It decreases",
+        "It increases without limit",
+        "It stays exactly constant"
+      ],
+      "a": 1,
+      "e": "Less air lies above a location at greater altitude.",
+      "d": "Medium",
+      "topic": "Atmospheric pressure",
+      "slo": "P-09-B-81"
+    },
+    {
+      "id": "PHY9CH5-054",
+      "q": "For a physics revision quiz, How does atmospheric pressure generally change as altitude increases?",
+      "o": [
+        "It becomes negative",
+        "It increases without limit",
+        "It stays exactly constant",
+        "It decreases"
+      ],
+      "a": 3,
+      "e": "Less air lies above a location at greater altitude.",
+      "d": "Hard",
+      "topic": "Atmospheric pressure",
+      "slo": "P-09-B-81"
+    },
+    {
+      "id": "PHY9CH5-055",
+      "q": "Which instrument measures atmospheric pressure?",
+      "o": [
+        "Ammeter",
+        "Stopwatch",
+        "Thermometer",
+        "Barometer"
+      ],
+      "a": 3,
+      "e": "A barometer measures atmospheric pressure.",
+      "d": "Easy",
+      "topic": "Barometer",
+      "slo": "P-09-B-83"
+    },
+    {
+      "id": "PHY9CH5-056",
+      "q": "In Chapter 5, Which instrument measures atmospheric pressure?",
+      "o": [
+        "Ammeter",
+        "Thermometer",
+        "Barometer",
+        "Stopwatch"
+      ],
+      "a": 2,
+      "e": "A barometer measures atmospheric pressure.",
+      "d": "Medium",
+      "topic": "Barometer",
+      "slo": "P-09-B-83"
+    },
+    {
+      "id": "PHY9CH5-057",
+      "q": "For a physics revision quiz, Which instrument measures atmospheric pressure?",
+      "o": [
+        "Barometer",
+        "Thermometer",
+        "Ammeter",
+        "Stopwatch"
+      ],
+      "a": 0,
+      "e": "A barometer measures atmospheric pressure.",
+      "d": "Hard",
+      "topic": "Barometer",
+      "slo": "P-09-B-83"
+    },
+    {
+      "id": "PHY9CH5-058",
+      "q": "Approximately what mercury-column height corresponds to standard atmospheric pressure?",
+      "o": [
+        "760 mm",
+        "76 mm",
+        "7.6 mm",
+        "7600 mm"
+      ],
+      "a": 0,
+      "e": "Standard atmospheric pressure corresponds to about 760 mmHg.",
+      "d": "Easy",
+      "topic": "Barometer",
+      "slo": "P-09-B-83"
+    },
+    {
+      "id": "PHY9CH5-059",
+      "q": "In Chapter 5, Approximately what mercury-column height corresponds to standard atmospheric pressure?",
+      "o": [
+        "76 mm",
+        "7600 mm",
+        "760 mm",
+        "7.6 mm"
+      ],
+      "a": 2,
+      "e": "Standard atmospheric pressure corresponds to about 760 mmHg.",
+      "d": "Medium",
+      "topic": "Barometer",
+      "slo": "P-09-B-83"
+    },
+    {
+      "id": "PHY9CH5-060",
+      "q": "For a physics revision quiz, Approximately what mercury-column height corresponds to standard atmospheric pressure?",
+      "o": [
+        "7.6 mm",
+        "7600 mm",
+        "760 mm",
+        "76 mm"
+      ],
+      "a": 2,
+      "e": "Standard atmospheric pressure corresponds to about 760 mmHg.",
+      "d": "Hard",
+      "topic": "Barometer",
+      "slo": "P-09-B-83"
+    },
+    {
+      "id": "PHY9CH5-061",
+      "q": "Approximately how many kilopascals equal one standard atmosphere?",
+      "o": [
+        "10.1325 kPa",
+        "1.01325 kPa",
+        "101.325 kPa",
+        "1013.25 kPa"
+      ],
+      "a": 2,
+      "e": "1 atm is approximately 101.325 kPa.",
+      "d": "Easy",
+      "topic": "Atmospheric pressure",
+      "slo": "P-09-B-83"
+    },
+    {
+      "id": "PHY9CH5-062",
+      "q": "In Chapter 5, Approximately how many kilopascals equal one standard atmosphere?",
+      "o": [
+        "101.325 kPa",
+        "1.01325 kPa",
+        "1013.25 kPa",
+        "10.1325 kPa"
+      ],
+      "a": 0,
+      "e": "1 atm is approximately 101.325 kPa.",
+      "d": "Medium",
+      "topic": "Atmospheric pressure",
+      "slo": "P-09-B-83"
+    },
+    {
+      "id": "PHY9CH5-063",
+      "q": "For a physics revision quiz, Approximately how many kilopascals equal one standard atmosphere?",
+      "o": [
+        "1.01325 kPa",
+        "10.1325 kPa",
+        "1013.25 kPa",
+        "101.325 kPa"
+      ],
+      "a": 3,
+      "e": "1 atm is approximately 101.325 kPa.",
+      "d": "Hard",
+      "topic": "Atmospheric pressure",
+      "slo": "P-09-B-83"
+    },
+    {
+      "id": "PHY9CH5-064",
+      "q": "Which quantity primarily determines hydrostatic pressure at a given depth in a liquid?",
+      "o": [
+        "Container colour only",
+        "Container width only",
+        "Surface area only",
+        "Liquid density, depth and gravitational field strength"
+      ],
+      "a": 3,
+      "e": "Hydrostatic gauge pressure is ρgh.",
+      "d": "Easy",
+      "topic": "Liquid pressure",
+      "slo": "P-09-B-84"
+    },
+    {
+      "id": "PHY9CH5-065",
+      "q": "In Chapter 5, Which quantity primarily determines hydrostatic pressure at a given depth in a liquid?",
+      "o": [
+        "Container width only",
+        "Liquid density, depth and gravitational field strength",
+        "Surface area only",
+        "Container colour only"
+      ],
+      "a": 1,
+      "e": "Hydrostatic gauge pressure is ρgh.",
+      "d": "Medium",
+      "topic": "Liquid pressure",
+      "slo": "P-09-B-84"
+    },
+    {
+      "id": "PHY9CH5-066",
+      "q": "For a physics revision quiz, Which quantity primarily determines hydrostatic pressure at a given depth in a liquid?",
+      "o": [
+        "Surface area only",
+        "Liquid density, depth and gravitational field strength",
+        "Container width only",
+        "Container colour only"
+      ],
+      "a": 1,
+      "e": "Hydrostatic gauge pressure is ρgh.",
+      "d": "Hard",
+      "topic": "Liquid pressure",
+      "slo": "P-09-B-84"
+    },
+    {
+      "id": "PHY9CH5-067",
+      "q": "At equal depth in the same stationary liquid, pressure is generally what?",
+      "o": [
+        "Always greater near a wall",
+        "Equal",
+        "Always zero",
+        "Always greater in a narrow vessel"
+      ],
+      "a": 1,
+      "e": "Hydrostatic pressure depends on depth and density, not container shape.",
+      "d": "Easy",
+      "topic": "Liquid pressure",
+      "slo": "P-09-B-84"
+    },
+    {
+      "id": "PHY9CH5-068",
+      "q": "In Chapter 5, At equal depth in the same stationary liquid, pressure is generally what?",
+      "o": [
+        "Always zero",
+        "Always greater in a narrow vessel",
+        "Always greater near a wall",
+        "Equal"
+      ],
+      "a": 3,
+      "e": "Hydrostatic pressure depends on depth and density, not container shape.",
+      "d": "Medium",
+      "topic": "Liquid pressure",
+      "slo": "P-09-B-84"
+    },
+    {
+      "id": "PHY9CH5-069",
+      "q": "For a physics revision quiz, At equal depth in the same stationary liquid, pressure is generally what?",
+      "o": [
+        "Equal",
+        "Always zero",
+        "Always greater in a narrow vessel",
+        "Always greater near a wall"
+      ],
+      "a": 0,
+      "e": "Hydrostatic pressure depends on depth and density, not container shape.",
+      "d": "Hard",
+      "topic": "Liquid pressure",
+      "slo": "P-09-B-84"
+    },
+    {
+      "id": "PHY9CH5-070",
+      "q": "What is the SI unit of liquid density?",
+      "o": [
+        "kg/m³",
+        "kg/m",
+        "Pa/m",
+        "N/m"
+      ],
+      "a": 0,
+      "e": "Density is mass divided by volume.",
+      "d": "Easy",
+      "topic": "Liquid pressure",
+      "slo": "P-09-B-84"
+    },
+    {
+      "id": "PHY9CH5-071",
+      "q": "In Chapter 5, What is the SI unit of liquid density?",
+      "o": [
+        "N/m",
+        "kg/m",
+        "kg/m³",
+        "Pa/m"
+      ],
+      "a": 2,
+      "e": "Density is mass divided by volume.",
+      "d": "Medium",
+      "topic": "Liquid pressure",
+      "slo": "P-09-B-84"
+    },
+    {
+      "id": "PHY9CH5-072",
+      "q": "For a physics revision quiz, What is the SI unit of liquid density?",
+      "o": [
+        "Pa/m",
+        "N/m",
+        "kg/m",
+        "kg/m³"
+      ],
+      "a": 3,
+      "e": "Density is mass divided by volume.",
+      "d": "Hard",
+      "topic": "Liquid pressure",
+      "slo": "P-09-B-84"
+    },
+    {
+      "id": "PHY9CH5-073",
+      "q": "Which device can measure a pressure difference using a liquid column?",
+      "o": [
+        "Calorimeter",
+        "Microscope",
+        "Manometer",
+        "Voltmeter"
+      ],
+      "a": 2,
+      "e": "A manometer uses liquid-level differences to indicate pressure differences.",
+      "d": "Easy",
+      "topic": "Manometer",
+      "slo": "P-09-B-85"
+    },
+    {
+      "id": "PHY9CH5-074",
+      "q": "In Chapter 5, Which device can measure a pressure difference using a liquid column?",
+      "o": [
+        "Microscope",
+        "Manometer",
+        "Calorimeter",
+        "Voltmeter"
+      ],
+      "a": 1,
+      "e": "A manometer uses liquid-level differences to indicate pressure differences.",
+      "d": "Medium",
+      "topic": "Manometer",
+      "slo": "P-09-B-85"
+    },
+    {
+      "id": "PHY9CH5-075",
+      "q": "For a physics revision quiz, Which device can measure a pressure difference using a liquid column?",
+      "o": [
+        "Manometer",
+        "Calorimeter",
+        "Voltmeter",
+        "Microscope"
+      ],
+      "a": 0,
+      "e": "A manometer uses liquid-level differences to indicate pressure differences.",
+      "d": "Hard",
+      "topic": "Manometer",
+      "slo": "P-09-B-85"
+    },
+    {
+      "id": "PHY9CH5-076",
+      "q": "Which principle states that applied pressure in a confined fluid is transmitted unchanged?",
+      "o": [
+        "Archimedes’ principle",
+        "Hooke’s law",
+        "Newton’s first law",
+        "Pascal’s principle"
+      ],
+      "a": 3,
+      "e": "An externally applied pressure change spreads throughout an enclosed fluid.",
+      "d": "Easy",
+      "topic": "Pascal’s principle",
+      "slo": "P-09-B-86"
+    },
+    {
+      "id": "PHY9CH5-077",
+      "q": "In Chapter 5, Which principle states that applied pressure in a confined fluid is transmitted unchanged?",
+      "o": [
+        "Archimedes’ principle",
+        "Pascal’s principle",
+        "Newton’s first law",
+        "Hooke’s law"
+      ],
+      "a": 1,
+      "e": "An externally applied pressure change spreads throughout an enclosed fluid.",
+      "d": "Medium",
+      "topic": "Pascal’s principle",
+      "slo": "P-09-B-86"
+    },
+    {
+      "id": "PHY9CH5-078",
+      "q": "For a physics revision quiz, Which principle states that applied pressure in a confined fluid is transmitted unchanged?",
+      "o": [
+        "Archimedes’ principle",
+        "Hooke’s law",
+        "Newton’s first law",
+        "Pascal’s principle"
+      ],
+      "a": 3,
+      "e": "An externally applied pressure change spreads throughout an enclosed fluid.",
+      "d": "Hard",
+      "topic": "Pascal’s principle",
+      "slo": "P-09-B-86"
+    },
+    {
+      "id": "PHY9CH5-079",
+      "q": "Which machine uses Pascal’s principle to multiply force?",
+      "o": [
+        "Convex lens",
+        "Hydraulic lift",
+        "Simple pendulum",
+        "Thermometer"
+      ],
+      "a": 1,
+      "e": "A larger output piston produces a greater force at the same pressure.",
+      "d": "Easy",
+      "topic": "Hydraulics",
+      "slo": "P-09-B-86"
+    },
+    {
+      "id": "PHY9CH5-080",
+      "q": "In Chapter 5, Which machine uses Pascal’s principle to multiply force?",
+      "o": [
+        "Hydraulic lift",
+        "Thermometer",
+        "Simple pendulum",
+        "Convex lens"
+      ],
+      "a": 0,
+      "e": "A larger output piston produces a greater force at the same pressure.",
+      "d": "Medium",
+      "topic": "Hydraulics",
+      "slo": "P-09-B-86"
+    },
+    {
+      "id": "PHY9CH5-081",
+      "q": "For a physics revision quiz, Which machine uses Pascal’s principle to multiply force?",
+      "o": [
+        "Hydraulic lift",
+        "Thermometer",
+        "Simple pendulum",
+        "Convex lens"
+      ],
+      "a": 0,
+      "e": "A larger output piston produces a greater force at the same pressure.",
+      "d": "Hard",
+      "topic": "Hydraulics",
+      "slo": "P-09-B-86"
+    },
+    {
+      "id": "PHY9CH5-082",
+      "q": "Which vehicle system applies Pascal’s principle?",
+      "o": [
+        "Hydraulic brakes",
+        "Speedometer",
+        "Rear-view mirror",
+        "Headlamp"
+      ],
+      "a": 0,
+      "e": "Brake fluid transmits pressure to wheel cylinders or calipers.",
+      "d": "Easy",
+      "topic": "Hydraulics",
+      "slo": "P-09-B-86"
+    },
+    {
+      "id": "PHY9CH5-083",
+      "q": "In Chapter 5, Which vehicle system applies Pascal’s principle?",
+      "o": [
+        "Rear-view mirror",
+        "Headlamp",
+        "Hydraulic brakes",
+        "Speedometer"
+      ],
+      "a": 2,
+      "e": "Brake fluid transmits pressure to wheel cylinders or calipers.",
+      "d": "Medium",
+      "topic": "Hydraulics",
+      "slo": "P-09-B-86"
+    },
+    {
+      "id": "PHY9CH5-084",
+      "q": "For a physics revision quiz, Which vehicle system applies Pascal’s principle?",
+      "o": [
+        "Headlamp",
+        "Speedometer",
+        "Hydraulic brakes",
+        "Rear-view mirror"
+      ],
+      "a": 2,
+      "e": "Brake fluid transmits pressure to wheel cylinders or calipers.",
+      "d": "Hard",
+      "topic": "Hydraulics",
+      "slo": "P-09-B-86"
+    },
+    {
+      "id": "PHY9CH5-085",
+      "q": "In a hydraulic system, what remains the same at two pistons at equal height, neglecting losses?",
+      "o": [
+        "Piston area",
+        "Piston force",
+        "Piston displacement",
+        "Transmitted pressure"
+      ],
+      "a": 3,
+      "e": "Pascal’s principle gives F1/A1 = F2/A2.",
+      "d": "Easy",
+      "topic": "Hydraulics",
+      "slo": "P-09-B-86"
+    },
+    {
+      "id": "PHY9CH5-086",
+      "q": "In Chapter 5, In a hydraulic system, what remains the same at two pistons at equal height, neglecting losses?",
+      "o": [
+        "Piston displacement",
+        "Piston force",
+        "Transmitted pressure",
+        "Piston area"
+      ],
+      "a": 2,
+      "e": "Pascal’s principle gives F1/A1 = F2/A2.",
+      "d": "Medium",
+      "topic": "Hydraulics",
+      "slo": "P-09-B-86"
+    },
+    {
+      "id": "PHY9CH5-087",
+      "q": "For a physics revision quiz, In a hydraulic system, what remains the same at two pistons at equal height, neglecting losses?",
+      "o": [
+        "Piston area",
+        "Piston force",
+        "Piston displacement",
+        "Transmitted pressure"
+      ],
+      "a": 3,
+      "e": "Pascal’s principle gives F1/A1 = F2/A2.",
+      "d": "Hard",
+      "topic": "Hydraulics",
+      "slo": "P-09-B-86"
+    },
+    {
+      "id": "PHY9CH5-088",
+      "q": "When a spring is loaded beyond its elastic limit, what may happen?",
+      "o": [
+        "Its mass becomes zero",
+        "Its extension must become zero",
+        "Gravity disappears",
+        "Permanent deformation"
+      ],
+      "a": 3,
+      "e": "An overloaded spring may fail to recover its original length.",
+      "d": "Easy",
+      "topic": "Elasticity",
+      "slo": "P-09-B-55"
+    },
+    {
+      "id": "PHY9CH5-089",
+      "q": "In Chapter 5, When a spring is loaded beyond its elastic limit, what may happen?",
+      "o": [
+        "Its extension must become zero",
+        "Its mass becomes zero",
+        "Permanent deformation",
+        "Gravity disappears"
+      ],
+      "a": 2,
+      "e": "An overloaded spring may fail to recover its original length.",
+      "d": "Medium",
+      "topic": "Elasticity",
+      "slo": "P-09-B-55"
+    },
+    {
+      "id": "PHY9CH5-090",
+      "q": "For a physics revision quiz, When a spring is loaded beyond its elastic limit, what may happen?",
+      "o": [
+        "Its mass becomes zero",
+        "Permanent deformation",
+        "Gravity disappears",
+        "Its extension must become zero"
+      ],
+      "a": 1,
+      "e": "An overloaded spring may fail to recover its original length.",
+      "d": "Hard",
+      "topic": "Elasticity",
+      "slo": "P-09-B-55"
+    },
+    {
+      "id": "PHY9CH5-091",
+      "q": "What is the area relationship between force and pressure for fixed pressure?",
+      "o": [
+        "Force is always zero",
+        "Force is directly proportional to area",
+        "Force is inversely proportional to area",
+        "Force is unrelated to area"
+      ],
+      "a": 1,
+      "e": "F=PA.",
+      "d": "Easy",
+      "topic": "Pressure",
+      "slo": "P-09-B-77"
+    },
+    {
+      "id": "PHY9CH5-092",
+      "q": "In Chapter 5, What is the area relationship between force and pressure for fixed pressure?",
+      "o": [
+        "Force is inversely proportional to area",
+        "Force is always zero",
+        "Force is unrelated to area",
+        "Force is directly proportional to area"
+      ],
+      "a": 3,
+      "e": "F=PA.",
+      "d": "Medium",
+      "topic": "Pressure",
+      "slo": "P-09-B-77"
+    },
+    {
+      "id": "PHY9CH5-093",
+      "q": "For a physics revision quiz, What is the area relationship between force and pressure for fixed pressure?",
+      "o": [
+        "Force is unrelated to area",
+        "Force is directly proportional to area",
+        "Force is always zero",
+        "Force is inversely proportional to area"
+      ],
+      "a": 1,
+      "e": "F=PA.",
+      "d": "Hard",
+      "topic": "Pressure",
+      "slo": "P-09-B-77"
+    },
+    {
+      "id": "PHY9CH5-094",
+      "q": "Which statement describes atmospheric pressure changes and weather?",
+      "o": [
+        "Pressure never changes",
+        "Changes in pressure can indicate changing weather",
+        "Pressure changes only at night",
+        "Pressure determines Earth’s mass"
+      ],
+      "a": 1,
+      "e": "Weather systems are associated with atmospheric pressure variations.",
+      "d": "Easy",
+      "topic": "Atmospheric pressure",
+      "slo": "P-09-B-82"
+    },
+    {
+      "id": "PHY9CH5-095",
+      "q": "In Chapter 5, Which statement describes atmospheric pressure changes and weather?",
+      "o": [
+        "Pressure determines Earth’s mass",
+        "Changes in pressure can indicate changing weather",
+        "Pressure never changes",
+        "Pressure changes only at night"
+      ],
+      "a": 1,
+      "e": "Weather systems are associated with atmospheric pressure variations.",
+      "d": "Medium",
+      "topic": "Atmospheric pressure",
+      "slo": "P-09-B-82"
+    },
+    {
+      "id": "PHY9CH5-096",
+      "q": "For a physics revision quiz, Which statement describes atmospheric pressure changes and weather?",
+      "o": [
+        "Pressure changes only at night",
+        "Pressure never changes",
+        "Changes in pressure can indicate changing weather",
+        "Pressure determines Earth’s mass"
+      ],
+      "a": 2,
+      "e": "Weather systems are associated with atmospheric pressure variations.",
+      "d": "Hard",
+      "topic": "Atmospheric pressure",
+      "slo": "P-09-B-82"
+    },
+    {
+      "id": "PHY9CH5-097",
+      "q": "Why does water pressure increase with depth?",
+      "o": [
+        "Water loses density at all depths",
+        "Gravity vanishes",
+        "Container width always increases",
+        "There is more liquid weight above a deeper point"
+      ],
+      "a": 3,
+      "e": "The weight of the overlying liquid column increases with depth.",
+      "d": "Easy",
+      "topic": "Liquid pressure",
+      "slo": "P-09-B-84"
+    },
+    {
+      "id": "PHY9CH5-098",
+      "q": "In Chapter 5, Why does water pressure increase with depth?",
+      "o": [
+        "Water loses density at all depths",
+        "Container width always increases",
+        "Gravity vanishes",
+        "There is more liquid weight above a deeper point"
+      ],
+      "a": 3,
+      "e": "The weight of the overlying liquid column increases with depth.",
+      "d": "Medium",
+      "topic": "Liquid pressure",
+      "slo": "P-09-B-84"
+    },
+    {
+      "id": "PHY9CH5-099",
+      "q": "For a physics revision quiz, Why does water pressure increase with depth?",
+      "o": [
+        "There is more liquid weight above a deeper point",
+        "Water loses density at all depths",
+        "Gravity vanishes",
+        "Container width always increases"
+      ],
+      "a": 0,
+      "e": "The weight of the overlying liquid column increases with depth.",
+      "d": "Hard",
+      "topic": "Liquid pressure",
+      "slo": "P-09-B-84"
+    },
+    {
+      "id": "PHY9CH5-100",
+      "q": "What is the proportional limit on a load-extension graph?",
+      "o": [
+        "The origin only",
+        "The end of the straight-line proportional region",
+        "The point where force is always zero",
+        "The maximum extension of every spring"
+      ],
+      "a": 1,
+      "e": "Hooke’s law holds where load and extension are proportional.",
+      "d": "Easy",
+      "topic": "Load-extension graph",
+      "slo": "P-09-B-58"
+    },
+    {
+      "id": "PHY9CH5-101",
+      "q": "In Chapter 5, What is the proportional limit on a load-extension graph?",
+      "o": [
+        "The point where force is always zero",
+        "The end of the straight-line proportional region",
+        "The origin only",
+        "The maximum extension of every spring"
+      ],
+      "a": 1,
+      "e": "Hooke’s law holds where load and extension are proportional.",
+      "d": "Medium",
+      "topic": "Load-extension graph",
+      "slo": "P-09-B-58"
+    },
+    {
+      "id": "PHY9CH5-102",
+      "q": "For a physics revision quiz, What is the proportional limit on a load-extension graph?",
+      "o": [
+        "The end of the straight-line proportional region",
+        "The maximum extension of every spring",
+        "The point where force is always zero",
+        "The origin only"
+      ],
+      "a": 0,
+      "e": "Hooke’s law holds where load and extension are proportional.",
+      "d": "Hard",
+      "topic": "Load-extension graph",
+      "slo": "P-09-B-58"
+    },
+    {
+      "id": "PHY9CH5-103",
+      "q": "In a mercury barometer, what balances the pressure exerted on the reservoir surface?",
+      "o": [
+        "Magnetic force",
+        "Electrical resistance",
+        "Pressure due to the mercury column",
+        "Tension in a string"
+      ],
+      "a": 2,
+      "e": "At equilibrium atmospheric pressure balances the mercury-column pressure.",
+      "d": "Easy",
+      "topic": "Barometer",
+      "slo": "P-09-B-83"
+    },
+    {
+      "id": "PHY9CH5-104",
+      "q": "In Chapter 5, In a mercury barometer, what balances the pressure exerted on the reservoir surface?",
+      "o": [
+        "Magnetic force",
+        "Electrical resistance",
+        "Pressure due to the mercury column",
+        "Tension in a string"
+      ],
+      "a": 2,
+      "e": "At equilibrium atmospheric pressure balances the mercury-column pressure.",
+      "d": "Medium",
+      "topic": "Barometer",
+      "slo": "P-09-B-83"
+    },
+    {
+      "id": "PHY9CH5-105",
+      "q": "For a physics revision quiz, In a mercury barometer, what balances the pressure exerted on the reservoir surface?",
+      "o": [
+        "Pressure due to the mercury column",
+        "Magnetic force",
+        "Tension in a string",
+        "Electrical resistance"
+      ],
+      "a": 0,
+      "e": "At equilibrium atmospheric pressure balances the mercury-column pressure.",
+      "d": "Hard",
+      "topic": "Barometer",
+      "slo": "P-09-B-83"
+    },
+    {
+      "id": "PHY9CH5-106",
+      "q": "Which material property is illustrated when a stretched rubber band returns to its initial length?",
+      "o": [
+        "Magnetism",
+        "Conductivity",
+        "Elasticity",
+        "Radioactivity"
+      ],
+      "a": 2,
+      "e": "Returning after deformation demonstrates elastic behaviour.",
+      "d": "Easy",
+      "topic": "Elasticity",
+      "slo": "P-09-B-55"
+    },
+    {
+      "id": "PHY9CH5-107",
+      "q": "In Chapter 5, Which material property is illustrated when a stretched rubber band returns to its initial length?",
+      "o": [
+        "Magnetism",
+        "Elasticity",
+        "Radioactivity",
+        "Conductivity"
+      ],
+      "a": 1,
+      "e": "Returning after deformation demonstrates elastic behaviour.",
+      "d": "Medium",
+      "topic": "Elasticity",
+      "slo": "P-09-B-55"
+    },
+    {
+      "id": "PHY9CH5-108",
+      "q": "For a physics revision quiz, Which material property is illustrated when a stretched rubber band returns to its initial length?",
+      "o": [
+        "Magnetism",
+        "Elasticity",
+        "Radioactivity",
+        "Conductivity"
+      ],
+      "a": 1,
+      "e": "Returning after deformation demonstrates elastic behaviour.",
+      "d": "Hard",
+      "topic": "Elasticity",
+      "slo": "P-09-B-55"
+    },
+    {
+      "id": "PHY9CH5-109",
+      "q": "If two equal forces act on different areas, which area experiences greater pressure?",
+      "o": [
+        "Both always have zero pressure",
+        "The area with less density",
+        "The smaller area",
+        "The larger area"
+      ],
+      "a": 2,
+      "e": "Pressure is inversely proportional to area for fixed force.",
+      "d": "Easy",
+      "topic": "Pressure",
+      "slo": "P-09-B-78"
+    },
+    {
+      "id": "PHY9CH5-110",
+      "q": "In Chapter 5, If two equal forces act on different areas, which area experiences greater pressure?",
+      "o": [
+        "The larger area",
+        "The area with less density",
+        "Both always have zero pressure",
+        "The smaller area"
+      ],
+      "a": 3,
+      "e": "Pressure is inversely proportional to area for fixed force.",
+      "d": "Medium",
+      "topic": "Pressure",
+      "slo": "P-09-B-78"
+    },
+    {
+      "id": "PHY9CH5-111",
+      "q": "For a physics revision quiz, If two equal forces act on different areas, which area experiences greater pressure?",
+      "o": [
+        "The smaller area",
+        "The larger area",
+        "Both always have zero pressure",
+        "The area with less density"
+      ],
+      "a": 0,
+      "e": "Pressure is inversely proportional to area for fixed force.",
+      "d": "Hard",
+      "topic": "Pressure",
+      "slo": "P-09-B-78"
+    },
+    {
+      "id": "PHY9CH5-112",
+      "q": "What is the relation between hydraulic input and output forces for equal pressure?",
+      "o": [
+        "F2/F1 = A2/A1",
+        "F2/F1 = A1 + A2",
+        "F2/F1 = A1/A2",
+        "F2/F1 = 0"
+      ],
+      "a": 0,
+      "e": "Since F1/A1=F2/A2, force ratio equals area ratio.",
+      "d": "Easy",
+      "topic": "Hydraulics",
+      "slo": "P-09-B-86"
+    },
+    {
+      "id": "PHY9CH5-113",
+      "q": "In Chapter 5, What is the relation between hydraulic input and output forces for equal pressure?",
+      "o": [
+        "F2/F1 = 0",
+        "F2/F1 = A1 + A2",
+        "F2/F1 = A1/A2",
+        "F2/F1 = A2/A1"
+      ],
+      "a": 3,
+      "e": "Since F1/A1=F2/A2, force ratio equals area ratio.",
+      "d": "Medium",
+      "topic": "Hydraulics",
+      "slo": "P-09-B-86"
+    },
+    {
+      "id": "PHY9CH5-114",
+      "q": "For a physics revision quiz, What is the relation between hydraulic input and output forces for equal pressure?",
+      "o": [
+        "F2/F1 = A2/A1",
+        "F2/F1 = A1/A2",
+        "F2/F1 = 0",
+        "F2/F1 = A1 + A2"
+      ],
+      "a": 0,
+      "e": "Since F1/A1=F2/A2, force ratio equals area ratio.",
+      "d": "Hard",
+      "topic": "Hydraulics",
+      "slo": "P-09-B-86"
+    },
+    {
+      "id": "PHY9CH5-115",
+      "q": "Why do snowshoes reduce sinking into snow?",
+      "o": [
+        "They reduce mass to zero",
+        "They increase contact area and lower pressure",
+        "They increase atmospheric pressure",
+        "They increase gravity"
+      ],
+      "a": 1,
+      "e": "The same weight acts over a larger area.",
+      "d": "Easy",
+      "topic": "Pressure in daily life",
+      "slo": "P-09-B-78"
+    },
+    {
+      "id": "PHY9CH5-116",
+      "q": "In Chapter 5, Why do snowshoes reduce sinking into snow?",
+      "o": [
+        "They increase contact area and lower pressure",
+        "They reduce mass to zero",
+        "They increase gravity",
+        "They increase atmospheric pressure"
+      ],
+      "a": 0,
+      "e": "The same weight acts over a larger area.",
+      "d": "Medium",
+      "topic": "Pressure in daily life",
+      "slo": "P-09-B-78"
+    },
+    {
+      "id": "PHY9CH5-117",
+      "q": "For a physics revision quiz, Why do snowshoes reduce sinking into snow?",
+      "o": [
+        "They reduce mass to zero",
+        "They increase contact area and lower pressure",
+        "They increase gravity",
+        "They increase atmospheric pressure"
+      ],
+      "a": 1,
+      "e": "The same weight acts over a larger area.",
+      "d": "Hard",
+      "topic": "Pressure in daily life",
+      "slo": "P-09-B-78"
+    },
+    {
+      "id": "PHY9CH5-118",
+      "q": "Which unit is commonly used to express barometric mercury height?",
+      "o": [
+        "mmHg",
+        "m/s",
+        "N m",
+        "kg"
+      ],
+      "a": 0,
+      "e": "Mercury barometers commonly show pressure in millimetres of mercury.",
+      "d": "Easy",
+      "topic": "Barometer",
+      "slo": "P-09-B-83"
+    },
+    {
+      "id": "PHY9CH5-119",
+      "q": "In Chapter 5, Which unit is commonly used to express barometric mercury height?",
+      "o": [
+        "mmHg",
+        "kg",
+        "N m",
+        "m/s"
+      ],
+      "a": 0,
+      "e": "Mercury barometers commonly show pressure in millimetres of mercury.",
+      "d": "Medium",
+      "topic": "Barometer",
+      "slo": "P-09-B-83"
+    },
+    {
+      "id": "PHY9CH5-120",
+      "q": "For a physics revision quiz, Which unit is commonly used to express barometric mercury height?",
+      "o": [
+        "mmHg",
+        "N m",
+        "m/s",
+        "kg"
+      ],
+      "a": 0,
+      "e": "Mercury barometers commonly show pressure in millimetres of mercury.",
+      "d": "Hard",
+      "topic": "Barometer",
+      "slo": "P-09-B-83"
+    },
+    {
+      "id": "PHY9CH5-121",
+      "q": "A spring has constant 100 N/m and extends 0.02 m. What force stretches it?",
+      "o": [
+        "1 N",
+        "4 N",
+        "2 N",
+        "12 N"
+      ],
+      "a": 2,
+      "e": "F=kx=100×0.02=2 N.",
+      "d": "Medium",
+      "topic": "Hooke’s law",
+      "slo": "P-09-B-56"
+    },
+    {
+      "id": "PHY9CH5-122",
+      "q": "A force of 10 N extends a spring by 0.05 m. Find its spring constant.",
+      "o": [
+        "200 N/m",
+        "210 N/m",
+        "100 N/m",
+        "400 N/m"
+      ],
+      "a": 0,
+      "e": "k=F/x=10/0.05=200 N/m.",
+      "d": "Medium",
+      "topic": "Hooke’s law",
+      "slo": "P-09-B-56"
+    },
+    {
+      "id": "PHY9CH5-123",
+      "q": "A perpendicular force of 50 N acts uniformly on 0.02 m². Calculate pressure.",
+      "o": [
+        "1250 Pa",
+        "2500 Pa",
+        "2600 Pa",
+        "5000 Pa"
+      ],
+      "a": 1,
+      "e": "P=F/A=50/0.02=2500 Pa.",
+      "d": "Medium",
+      "topic": "Pressure",
+      "slo": "P-09-B-77"
+    },
+    {
+      "id": "PHY9CH5-124",
+      "q": "Pressure of 100 Pa acts normally on an area of 0.02 m². What is the force?",
+      "o": [
+        "2 N",
+        "4 N",
+        "1 N",
+        "102 N"
+      ],
+      "a": 0,
+      "e": "F=PA=100×0.02=2 N.",
+      "d": "Medium",
+      "topic": "Pressure",
+      "slo": "P-09-B-77"
+    },
+    {
+      "id": "PHY9CH5-125",
+      "q": "Using g = 10 N/kg, calculate gauge pressure at depth 1 m in a liquid of density 800 kg/m³.",
+      "o": [
+        "8000 Pa",
+        "4000 Pa",
+        "16000 Pa",
+        "24000 Pa"
+      ],
+      "a": 0,
+      "e": "P=ρgh=800×10×1=8000 Pa.",
+      "d": "Medium",
+      "topic": "Liquid pressure",
+      "slo": "P-09-B-84"
+    },
+    {
+      "id": "PHY9CH5-126",
+      "q": "In a hydraulic lift, the output piston area is 2 times the input piston area. If input force is 20 N, what is output force (neglect losses)?",
+      "o": [
+        "80 N",
+        "60 N",
+        "40 N",
+        "20 N"
+      ],
+      "a": 2,
+      "e": "F2/F1=A2/A1=2, so F2=20×2=40 N.",
+      "d": "Medium",
+      "topic": "Hydraulics",
+      "slo": "P-09-B-86"
+    },
+    {
+      "id": "PHY9CH5-127",
+      "q": "A spring has constant 150 N/m and extends 0.02 m. What force stretches it?",
+      "o": [
+        "6 N",
+        "13 N",
+        "3 N",
+        "1.5 N"
+      ],
+      "a": 2,
+      "e": "F=kx=150×0.02=3 N.",
+      "d": "Medium",
+      "topic": "Hooke’s law",
+      "slo": "P-09-B-56"
+    },
+    {
+      "id": "PHY9CH5-128",
+      "q": "A force of 20 N extends a spring by 0.05 m. Find its spring constant.",
+      "o": [
+        "800 N/m",
+        "420 N/m",
+        "200 N/m",
+        "400 N/m"
+      ],
+      "a": 3,
+      "e": "k=F/x=20/0.05=400 N/m.",
+      "d": "Medium",
+      "topic": "Hooke’s law",
+      "slo": "P-09-B-56"
+    },
+    {
+      "id": "PHY9CH5-129",
+      "q": "A perpendicular force of 80 N acts uniformly on 0.02 m². Calculate pressure.",
+      "o": [
+        "4100 Pa",
+        "2000 Pa",
+        "8000 Pa",
+        "4000 Pa"
+      ],
+      "a": 3,
+      "e": "P=F/A=80/0.02=4000 Pa.",
+      "d": "Medium",
+      "topic": "Pressure",
+      "slo": "P-09-B-77"
+    },
+    {
+      "id": "PHY9CH5-130",
+      "q": "Pressure of 200 Pa acts normally on an area of 0.02 m². What is the force?",
+      "o": [
+        "2 N",
+        "4 N",
+        "8 N",
+        "204 N"
+      ],
+      "a": 1,
+      "e": "F=PA=200×0.02=4 N.",
+      "d": "Medium",
+      "topic": "Pressure",
+      "slo": "P-09-B-77"
+    },
+    {
+      "id": "PHY9CH5-131",
+      "q": "Using g = 10 N/kg, calculate gauge pressure at depth 1 m in a liquid of density 900 kg/m³.",
+      "o": [
+        "27000 Pa",
+        "4500 Pa",
+        "18000 Pa",
+        "9000 Pa"
+      ],
+      "a": 3,
+      "e": "P=ρgh=900×10×1=9000 Pa.",
+      "d": "Medium",
+      "topic": "Liquid pressure",
+      "slo": "P-09-B-84"
+    },
+    {
+      "id": "PHY9CH5-132",
+      "q": "In a hydraulic lift, the output piston area is 2 times the input piston area. If input force is 30 N, what is output force (neglect losses)?",
+      "o": [
+        "120 N",
+        "90 N",
+        "60 N",
+        "30 N"
+      ],
+      "a": 2,
+      "e": "F2/F1=A2/A1=2, so F2=30×2=60 N.",
+      "d": "Medium",
+      "topic": "Hydraulics",
+      "slo": "P-09-B-86"
+    },
+    {
+      "id": "PHY9CH5-133",
+      "q": "A spring has constant 200 N/m and extends 0.02 m. What force stretches it?",
+      "o": [
+        "4 N",
+        "2 N",
+        "8 N",
+        "14 N"
+      ],
+      "a": 0,
+      "e": "F=kx=200×0.02=4 N.",
+      "d": "Medium",
+      "topic": "Hooke’s law",
+      "slo": "P-09-B-56"
+    },
+    {
+      "id": "PHY9CH5-134",
+      "q": "A force of 30 N extends a spring by 0.05 m. Find its spring constant.",
+      "o": [
+        "600 N/m",
+        "630 N/m",
+        "1200 N/m",
+        "300 N/m"
+      ],
+      "a": 0,
+      "e": "k=F/x=30/0.05=600 N/m.",
+      "d": "Medium",
+      "topic": "Hooke’s law",
+      "slo": "P-09-B-56"
+    },
+    {
+      "id": "PHY9CH5-135",
+      "q": "A perpendicular force of 100 N acts uniformly on 0.02 m². Calculate pressure.",
+      "o": [
+        "5100 Pa",
+        "2500 Pa",
+        "10000 Pa",
+        "5000 Pa"
+      ],
+      "a": 3,
+      "e": "P=F/A=100/0.02=5000 Pa.",
+      "d": "Medium",
+      "topic": "Pressure",
+      "slo": "P-09-B-77"
+    },
+    {
+      "id": "PHY9CH5-136",
+      "q": "Pressure of 300 Pa acts normally on an area of 0.02 m². What is the force?",
+      "o": [
+        "6 N",
+        "12 N",
+        "3 N",
+        "306 N"
+      ],
+      "a": 0,
+      "e": "F=PA=300×0.02=6 N.",
+      "d": "Medium",
+      "topic": "Pressure",
+      "slo": "P-09-B-77"
+    },
+    {
+      "id": "PHY9CH5-137",
+      "q": "Using g = 10 N/kg, calculate gauge pressure at depth 1 m in a liquid of density 1000 kg/m³.",
+      "o": [
+        "5000 Pa",
+        "30000 Pa",
+        "10000 Pa",
+        "20000 Pa"
+      ],
+      "a": 2,
+      "e": "P=ρgh=1000×10×1=10000 Pa.",
+      "d": "Medium",
+      "topic": "Liquid pressure",
+      "slo": "P-09-B-84"
+    },
+    {
+      "id": "PHY9CH5-138",
+      "q": "In a hydraulic lift, the output piston area is 2 times the input piston area. If input force is 40 N, what is output force (neglect losses)?",
+      "o": [
+        "120 N",
+        "80 N",
+        "40 N",
+        "160 N"
+      ],
+      "a": 1,
+      "e": "F2/F1=A2/A1=2, so F2=40×2=80 N.",
+      "d": "Medium",
+      "topic": "Hydraulics",
+      "slo": "P-09-B-86"
+    },
+    {
+      "id": "PHY9CH5-139",
+      "q": "A spring has constant 250 N/m and extends 0.02 m. What force stretches it?",
+      "o": [
+        "5 N",
+        "10 N",
+        "2.5 N",
+        "15 N"
+      ],
+      "a": 0,
+      "e": "F=kx=250×0.02=5 N.",
+      "d": "Medium",
+      "topic": "Hooke’s law",
+      "slo": "P-09-B-56"
+    },
+    {
+      "id": "PHY9CH5-140",
+      "q": "A force of 40 N extends a spring by 0.05 m. Find its spring constant.",
+      "o": [
+        "840 N/m",
+        "1600 N/m",
+        "400 N/m",
+        "800 N/m"
+      ],
+      "a": 3,
+      "e": "k=F/x=40/0.05=800 N/m.",
+      "d": "Medium",
+      "topic": "Hooke’s law",
+      "slo": "P-09-B-56"
+    },
+    {
+      "id": "PHY9CH5-141",
+      "q": "A perpendicular force of 120 N acts uniformly on 0.02 m². Calculate pressure.",
+      "o": [
+        "6100 Pa",
+        "12000 Pa",
+        "6000 Pa",
+        "3000 Pa"
+      ],
+      "a": 2,
+      "e": "P=F/A=120/0.02=6000 Pa.",
+      "d": "Medium",
+      "topic": "Pressure",
+      "slo": "P-09-B-77"
+    },
+    {
+      "id": "PHY9CH5-142",
+      "q": "Pressure of 400 Pa acts normally on an area of 0.02 m². What is the force?",
+      "o": [
+        "8 N",
+        "4 N",
+        "408 N",
+        "16 N"
+      ],
+      "a": 0,
+      "e": "F=PA=400×0.02=8 N.",
+      "d": "Medium",
+      "topic": "Pressure",
+      "slo": "P-09-B-77"
+    },
+    {
+      "id": "PHY9CH5-143",
+      "q": "Using g = 10 N/kg, calculate gauge pressure at depth 1 m in a liquid of density 1100 kg/m³.",
+      "o": [
+        "33000 Pa",
+        "5500 Pa",
+        "11000 Pa",
+        "22000 Pa"
+      ],
+      "a": 2,
+      "e": "P=ρgh=1100×10×1=11000 Pa.",
+      "d": "Medium",
+      "topic": "Liquid pressure",
+      "slo": "P-09-B-84"
+    },
+    {
+      "id": "PHY9CH5-144",
+      "q": "In a hydraulic lift, the output piston area is 2 times the input piston area. If input force is 50 N, what is output force (neglect losses)?",
+      "o": [
+        "100 N",
+        "150 N",
+        "50 N",
+        "200 N"
+      ],
+      "a": 0,
+      "e": "F2/F1=A2/A1=2, so F2=50×2=100 N.",
+      "d": "Medium",
+      "topic": "Hydraulics",
+      "slo": "P-09-B-86"
+    },
+    {
+      "id": "PHY9CH5-145",
+      "q": "A spring has constant 300 N/m and extends 0.02 m. What force stretches it?",
+      "o": [
+        "12 N",
+        "16 N",
+        "6 N",
+        "3 N"
+      ],
+      "a": 2,
+      "e": "F=kx=300×0.02=6 N.",
+      "d": "Medium",
+      "topic": "Hooke’s law",
+      "slo": "P-09-B-56"
+    },
+    {
+      "id": "PHY9CH5-146",
+      "q": "A force of 50 N extends a spring by 0.05 m. Find its spring constant.",
+      "o": [
+        "2000 N/m",
+        "1000 N/m",
+        "1050 N/m",
+        "500 N/m"
+      ],
+      "a": 1,
+      "e": "k=F/x=50/0.05=1000 N/m.",
+      "d": "Medium",
+      "topic": "Hooke’s law",
+      "slo": "P-09-B-56"
+    },
+    {
+      "id": "PHY9CH5-147",
+      "q": "A perpendicular force of 150 N acts uniformly on 0.02 m². Calculate pressure.",
+      "o": [
+        "7500 Pa",
+        "3750 Pa",
+        "7600 Pa",
+        "15000 Pa"
+      ],
+      "a": 0,
+      "e": "P=F/A=150/0.02=7500 Pa.",
+      "d": "Medium",
+      "topic": "Pressure",
+      "slo": "P-09-B-77"
+    },
+    {
+      "id": "PHY9CH5-148",
+      "q": "Pressure of 500 Pa acts normally on an area of 0.02 m². What is the force?",
+      "o": [
+        "20 N",
+        "5 N",
+        "510 N",
+        "10 N"
+      ],
+      "a": 3,
+      "e": "F=PA=500×0.02=10 N.",
+      "d": "Medium",
+      "topic": "Pressure",
+      "slo": "P-09-B-77"
+    },
+    {
+      "id": "PHY9CH5-149",
+      "q": "Using g = 10 N/kg, calculate gauge pressure at depth 1 m in a liquid of density 1200 kg/m³.",
+      "o": [
+        "24000 Pa",
+        "12000 Pa",
+        "36000 Pa",
+        "6000 Pa"
+      ],
+      "a": 1,
+      "e": "P=ρgh=1200×10×1=12000 Pa.",
+      "d": "Medium",
+      "topic": "Liquid pressure",
+      "slo": "P-09-B-84"
+    },
+    {
+      "id": "PHY9CH5-150",
+      "q": "In a hydraulic lift, the output piston area is 2 times the input piston area. If input force is 60 N, what is output force (neglect losses)?",
+      "o": [
+        "60 N",
+        "120 N",
+        "240 N",
+        "180 N"
+      ],
+      "a": 1,
+      "e": "F2/F1=A2/A1=2, so F2=60×2=120 N.",
+      "d": "Medium",
+      "topic": "Hydraulics",
+      "slo": "P-09-B-86"
+    },
+    {
+      "id": "PHY9CH5-151",
+      "q": "A spring has constant 400 N/m and extends 0.02 m. What force stretches it?",
+      "o": [
+        "16 N",
+        "4 N",
+        "18 N",
+        "8 N"
+      ],
+      "a": 3,
+      "e": "F=kx=400×0.02=8 N.",
+      "d": "Medium",
+      "topic": "Hooke’s law",
+      "slo": "P-09-B-56"
+    },
+    {
+      "id": "PHY9CH5-152",
+      "q": "A force of 60 N extends a spring by 0.05 m. Find its spring constant.",
+      "o": [
+        "2400 N/m",
+        "600 N/m",
+        "1260 N/m",
+        "1200 N/m"
+      ],
+      "a": 3,
+      "e": "k=F/x=60/0.05=1200 N/m.",
+      "d": "Medium",
+      "topic": "Hooke’s law",
+      "slo": "P-09-B-56"
+    },
+    {
+      "id": "PHY9CH5-153",
+      "q": "A perpendicular force of 200 N acts uniformly on 0.02 m². Calculate pressure.",
+      "o": [
+        "20000 Pa",
+        "10100 Pa",
+        "10000 Pa",
+        "5000 Pa"
+      ],
+      "a": 2,
+      "e": "P=F/A=200/0.02=10000 Pa.",
+      "d": "Medium",
+      "topic": "Pressure",
+      "slo": "P-09-B-77"
+    },
+    {
+      "id": "PHY9CH5-154",
+      "q": "Pressure of 600 Pa acts normally on an area of 0.02 m². What is the force?",
+      "o": [
+        "24 N",
+        "6 N",
+        "12 N",
+        "612 N"
+      ],
+      "a": 2,
+      "e": "F=PA=600×0.02=12 N.",
+      "d": "Medium",
+      "topic": "Pressure",
+      "slo": "P-09-B-77"
+    },
+    {
+      "id": "PHY9CH5-155",
+      "q": "Using g = 10 N/kg, calculate gauge pressure at depth 1 m in a liquid of density 1300 kg/m³.",
+      "o": [
+        "39000 Pa",
+        "26000 Pa",
+        "6500 Pa",
+        "13000 Pa"
+      ],
+      "a": 3,
+      "e": "P=ρgh=1300×10×1=13000 Pa.",
+      "d": "Medium",
+      "topic": "Liquid pressure",
+      "slo": "P-09-B-84"
+    },
+    {
+      "id": "PHY9CH5-156",
+      "q": "In a hydraulic lift, the output piston area is 2 times the input piston area. If input force is 70 N, what is output force (neglect losses)?",
+      "o": [
+        "210 N",
+        "70 N",
+        "140 N",
+        "280 N"
+      ],
+      "a": 2,
+      "e": "F2/F1=A2/A1=2, so F2=70×2=140 N.",
+      "d": "Medium",
+      "topic": "Hydraulics",
+      "slo": "P-09-B-86"
+    },
+    {
+      "id": "PHY9CH5-157",
+      "q": "A spring has constant 500 N/m and extends 0.02 m. What force stretches it?",
+      "o": [
+        "30 N",
+        "10 N",
+        "5 N",
+        "20 N"
+      ],
+      "a": 1,
+      "e": "F=kx=500×0.02=10 N.",
+      "d": "Medium",
+      "topic": "Hooke’s law",
+      "slo": "P-09-B-56"
+    },
+    {
+      "id": "PHY9CH5-158",
+      "q": "A force of 80 N extends a spring by 0.05 m. Find its spring constant.",
+      "o": [
+        "3200 N/m",
+        "800 N/m",
+        "1600 N/m",
+        "1680 N/m"
+      ],
+      "a": 2,
+      "e": "k=F/x=80/0.05=1600 N/m.",
+      "d": "Medium",
+      "topic": "Hooke’s law",
+      "slo": "P-09-B-56"
+    },
+    {
+      "id": "PHY9CH5-159",
+      "q": "A perpendicular force of 250 N acts uniformly on 0.02 m². Calculate pressure.",
+      "o": [
+        "6250 Pa",
+        "25000 Pa",
+        "12600 Pa",
+        "12500 Pa"
+      ],
+      "a": 3,
+      "e": "P=F/A=250/0.02=12500 Pa.",
+      "d": "Medium",
+      "topic": "Pressure",
+      "slo": "P-09-B-77"
+    },
+    {
+      "id": "PHY9CH5-160",
+      "q": "Pressure of 800 Pa acts normally on an area of 0.02 m². What is the force?",
+      "o": [
+        "16 N",
+        "8 N",
+        "816 N",
+        "32 N"
+      ],
+      "a": 0,
+      "e": "F=PA=800×0.02=16 N.",
+      "d": "Medium",
+      "topic": "Pressure",
+      "slo": "P-09-B-77"
+    },
+    {
+      "id": "PHY9CH5-161",
+      "q": "Using g = 10 N/kg, calculate gauge pressure at depth 1 m in a liquid of density 1400 kg/m³.",
+      "o": [
+        "42000 Pa",
+        "14000 Pa",
+        "7000 Pa",
+        "28000 Pa"
+      ],
+      "a": 1,
+      "e": "P=ρgh=1400×10×1=14000 Pa.",
+      "d": "Medium",
+      "topic": "Liquid pressure",
+      "slo": "P-09-B-84"
+    },
+    {
+      "id": "PHY9CH5-162",
+      "q": "In a hydraulic lift, the output piston area is 2 times the input piston area. If input force is 80 N, what is output force (neglect losses)?",
+      "o": [
+        "240 N",
+        "80 N",
+        "160 N",
+        "320 N"
+      ],
+      "a": 2,
+      "e": "F2/F1=A2/A1=2, so F2=80×2=160 N.",
+      "d": "Medium",
+      "topic": "Hydraulics",
+      "slo": "P-09-B-86"
+    },
+    {
+      "id": "PHY9CH5-163",
+      "q": "A spring has constant 600 N/m and extends 0.02 m. What force stretches it?",
+      "o": [
+        "6 N",
+        "22 N",
+        "12 N",
+        "24 N"
+      ],
+      "a": 2,
+      "e": "F=kx=600×0.02=12 N.",
+      "d": "Medium",
+      "topic": "Hooke’s law",
+      "slo": "P-09-B-56"
+    },
+    {
+      "id": "PHY9CH5-164",
+      "q": "A force of 100 N extends a spring by 0.05 m. Find its spring constant.",
+      "o": [
+        "2100 N/m",
+        "2000 N/m",
+        "4000 N/m",
+        "1000 N/m"
+      ],
+      "a": 1,
+      "e": "k=F/x=100/0.05=2000 N/m.",
+      "d": "Medium",
+      "topic": "Hooke’s law",
+      "slo": "P-09-B-56"
+    },
+    {
+      "id": "PHY9CH5-165",
+      "q": "A perpendicular force of 300 N acts uniformly on 0.02 m². Calculate pressure.",
+      "o": [
+        "7500 Pa",
+        "30000 Pa",
+        "15000 Pa",
+        "15100 Pa"
+      ],
+      "a": 2,
+      "e": "P=F/A=300/0.02=15000 Pa.",
+      "d": "Medium",
+      "topic": "Pressure",
+      "slo": "P-09-B-77"
+    },
+    {
+      "id": "PHY9CH5-166",
+      "q": "Pressure of 1000 Pa acts normally on an area of 0.02 m². What is the force?",
+      "o": [
+        "40 N",
+        "20 N",
+        "10 N",
+        "1020 N"
+      ],
+      "a": 1,
+      "e": "F=PA=1000×0.02=20 N.",
+      "d": "Medium",
+      "topic": "Pressure",
+      "slo": "P-09-B-77"
+    },
+    {
+      "id": "PHY9CH5-167",
+      "q": "Using g = 10 N/kg, calculate gauge pressure at depth 1 m in a liquid of density 1500 kg/m³.",
+      "o": [
+        "15000 Pa",
+        "7500 Pa",
+        "30000 Pa",
+        "45000 Pa"
+      ],
+      "a": 0,
+      "e": "P=ρgh=1500×10×1=15000 Pa.",
+      "d": "Medium",
+      "topic": "Liquid pressure",
+      "slo": "P-09-B-84"
+    },
+    {
+      "id": "PHY9CH5-168",
+      "q": "In a hydraulic lift, the output piston area is 2 times the input piston area. If input force is 90 N, what is output force (neglect losses)?",
+      "o": [
+        "90 N",
+        "270 N",
+        "360 N",
+        "180 N"
+      ],
+      "a": 3,
+      "e": "F2/F1=A2/A1=2, so F2=90×2=180 N.",
+      "d": "Medium",
+      "topic": "Hydraulics",
+      "slo": "P-09-B-86"
+    },
+    {
+      "id": "PHY9CH5-169",
+      "q": "A spring has constant 800 N/m and extends 0.02 m. What force stretches it?",
+      "o": [
+        "26 N",
+        "8 N",
+        "32 N",
+        "16 N"
+      ],
+      "a": 3,
+      "e": "F=kx=800×0.02=16 N.",
+      "d": "Medium",
+      "topic": "Hooke’s law",
+      "slo": "P-09-B-56"
+    },
+    {
+      "id": "PHY9CH5-170",
+      "q": "A force of 120 N extends a spring by 0.05 m. Find its spring constant.",
+      "o": [
+        "1200 N/m",
+        "2520 N/m",
+        "2400 N/m",
+        "4800 N/m"
+      ],
+      "a": 2,
+      "e": "k=F/x=120/0.05=2400 N/m.",
+      "d": "Medium",
+      "topic": "Hooke’s law",
+      "slo": "P-09-B-56"
+    },
+    {
+      "id": "PHY9CH5-171",
+      "q": "A perpendicular force of 400 N acts uniformly on 0.02 m². Calculate pressure.",
+      "o": [
+        "10000 Pa",
+        "20000 Pa",
+        "20100 Pa",
+        "40000 Pa"
+      ],
+      "a": 1,
+      "e": "P=F/A=400/0.02=20000 Pa.",
+      "d": "Medium",
+      "topic": "Pressure",
+      "slo": "P-09-B-77"
+    },
+    {
+      "id": "PHY9CH5-172",
+      "q": "Pressure of 1200 Pa acts normally on an area of 0.02 m². What is the force?",
+      "o": [
+        "24 N",
+        "1224 N",
+        "48 N",
+        "12 N"
+      ],
+      "a": 0,
+      "e": "F=PA=1200×0.02=24 N.",
+      "d": "Medium",
+      "topic": "Pressure",
+      "slo": "P-09-B-77"
+    },
+    {
+      "id": "PHY9CH5-173",
+      "q": "Using g = 10 N/kg, calculate gauge pressure at depth 1 m in a liquid of density 1600 kg/m³.",
+      "o": [
+        "32000 Pa",
+        "8000 Pa",
+        "16000 Pa",
+        "48000 Pa"
+      ],
+      "a": 2,
+      "e": "P=ρgh=1600×10×1=16000 Pa.",
+      "d": "Medium",
+      "topic": "Liquid pressure",
+      "slo": "P-09-B-84"
+    },
+    {
+      "id": "PHY9CH5-174",
+      "q": "In a hydraulic lift, the output piston area is 2 times the input piston area. If input force is 100 N, what is output force (neglect losses)?",
+      "o": [
+        "100 N",
+        "300 N",
+        "200 N",
+        "400 N"
+      ],
+      "a": 2,
+      "e": "F2/F1=A2/A1=2, so F2=100×2=200 N.",
+      "d": "Medium",
+      "topic": "Hydraulics",
+      "slo": "P-09-B-86"
+    },
+    {
+      "id": "PHY9CH5-175",
+      "q": "A spring has constant 1000 N/m and extends 0.02 m. What force stretches it?",
+      "o": [
+        "10 N",
+        "20 N",
+        "40 N",
+        "30 N"
+      ],
+      "a": 1,
+      "e": "F=kx=1000×0.02=20 N.",
+      "d": "Medium",
+      "topic": "Hooke’s law",
+      "slo": "P-09-B-56"
+    },
+    {
+      "id": "PHY9CH5-176",
+      "q": "A force of 150 N extends a spring by 0.05 m. Find its spring constant.",
+      "o": [
+        "1500 N/m",
+        "3150 N/m",
+        "6000 N/m",
+        "3000 N/m"
+      ],
+      "a": 3,
+      "e": "k=F/x=150/0.05=3000 N/m.",
+      "d": "Medium",
+      "topic": "Hooke’s law",
+      "slo": "P-09-B-56"
+    },
+    {
+      "id": "PHY9CH5-177",
+      "q": "A perpendicular force of 500 N acts uniformly on 0.02 m². Calculate pressure.",
+      "o": [
+        "25100 Pa",
+        "50000 Pa",
+        "25000 Pa",
+        "12500 Pa"
+      ],
+      "a": 2,
+      "e": "P=F/A=500/0.02=25000 Pa.",
+      "d": "Medium",
+      "topic": "Pressure",
+      "slo": "P-09-B-77"
+    },
+    {
+      "id": "PHY9CH5-178",
+      "q": "Pressure of 1500 Pa acts normally on an area of 0.02 m². What is the force?",
+      "o": [
+        "60 N",
+        "30 N",
+        "15 N",
+        "1530 N"
+      ],
+      "a": 1,
+      "e": "F=PA=1500×0.02=30 N.",
+      "d": "Medium",
+      "topic": "Pressure",
+      "slo": "P-09-B-77"
+    },
+    {
+      "id": "PHY9CH5-179",
+      "q": "Using g = 10 N/kg, calculate gauge pressure at depth 1 m in a liquid of density 1800 kg/m³.",
+      "o": [
+        "54000 Pa",
+        "9000 Pa",
+        "36000 Pa",
+        "18000 Pa"
+      ],
+      "a": 3,
+      "e": "P=ρgh=1800×10×1=18000 Pa.",
+      "d": "Medium",
+      "topic": "Liquid pressure",
+      "slo": "P-09-B-84"
+    },
+    {
+      "id": "PHY9CH5-180",
+      "q": "In a hydraulic lift, the output piston area is 2 times the input piston area. If input force is 120 N, what is output force (neglect losses)?",
+      "o": [
+        "240 N",
+        "120 N",
+        "480 N",
+        "360 N"
+      ],
+      "a": 0,
+      "e": "F2/F1=A2/A1=2, so F2=120×2=240 N.",
+      "d": "Medium",
+      "topic": "Hydraulics",
+      "slo": "P-09-B-86"
+    },
+    {
+      "id": "PHY9CH5-181",
+      "q": "A spring has constant 100 N/m and extends 0.04 m. What force stretches it?",
+      "o": [
+        "8 N",
+        "14 N",
+        "2 N",
+        "4 N"
+      ],
+      "a": 3,
+      "e": "F=kx=100×0.04=4 N.",
+      "d": "Medium",
+      "topic": "Hooke’s law",
+      "slo": "P-09-B-56"
+    },
+    {
+      "id": "PHY9CH5-182",
+      "q": "A force of 10 N extends a spring by 0.1 m. Find its spring constant.",
+      "o": [
+        "50 N/m",
+        "200 N/m",
+        "110 N/m",
+        "100 N/m"
+      ],
+      "a": 3,
+      "e": "k=F/x=10/0.1=100 N/m.",
+      "d": "Medium",
+      "topic": "Hooke’s law",
+      "slo": "P-09-B-56"
+    },
+    {
+      "id": "PHY9CH5-183",
+      "q": "A perpendicular force of 50 N acts uniformly on 0.04 m². Calculate pressure.",
+      "o": [
+        "625 Pa",
+        "1250 Pa",
+        "1350 Pa",
+        "2500 Pa"
+      ],
+      "a": 1,
+      "e": "P=F/A=50/0.04=1250 Pa.",
+      "d": "Medium",
+      "topic": "Pressure",
+      "slo": "P-09-B-77"
+    },
+    {
+      "id": "PHY9CH5-184",
+      "q": "Pressure of 100 Pa acts normally on an area of 0.05 m². What is the force?",
+      "o": [
+        "105 N",
+        "5 N",
+        "10 N",
+        "2.5 N"
+      ],
+      "a": 1,
+      "e": "F=PA=100×0.05=5 N.",
+      "d": "Medium",
+      "topic": "Pressure",
+      "slo": "P-09-B-77"
+    },
+    {
+      "id": "PHY9CH5-185",
+      "q": "Using g = 10 N/kg, calculate gauge pressure at depth 2 m in a liquid of density 800 kg/m³.",
+      "o": [
+        "8000 Pa",
+        "24000 Pa",
+        "16000 Pa",
+        "32000 Pa"
+      ],
+      "a": 2,
+      "e": "P=ρgh=800×10×2=16000 Pa.",
+      "d": "Medium",
+      "topic": "Liquid pressure",
+      "slo": "P-09-B-84"
+    },
+    {
+      "id": "PHY9CH5-186",
+      "q": "In a hydraulic lift, the output piston area is 3 times the input piston area. If input force is 20 N, what is output force (neglect losses)?",
+      "o": [
+        "30 N",
+        "60 N",
+        "80 N",
+        "180 N"
+      ],
+      "a": 1,
+      "e": "F2/F1=A2/A1=3, so F2=20×3=60 N.",
+      "d": "Medium",
+      "topic": "Hydraulics",
+      "slo": "P-09-B-86"
+    },
+    {
+      "id": "PHY9CH5-187",
+      "q": "A spring has constant 150 N/m and extends 0.04 m. What force stretches it?",
+      "o": [
+        "12 N",
+        "3 N",
+        "6 N",
+        "16 N"
+      ],
+      "a": 2,
+      "e": "F=kx=150×0.04=6 N.",
+      "d": "Medium",
+      "topic": "Hooke’s law",
+      "slo": "P-09-B-56"
+    },
+    {
+      "id": "PHY9CH5-188",
+      "q": "A force of 20 N extends a spring by 0.1 m. Find its spring constant.",
+      "o": [
+        "200 N/m",
+        "220 N/m",
+        "100 N/m",
+        "400 N/m"
+      ],
+      "a": 0,
+      "e": "k=F/x=20/0.1=200 N/m.",
+      "d": "Medium",
+      "topic": "Hooke’s law",
+      "slo": "P-09-B-56"
+    },
+    {
+      "id": "PHY9CH5-189",
+      "q": "A perpendicular force of 80 N acts uniformly on 0.04 m². Calculate pressure.",
+      "o": [
+        "1000 Pa",
+        "4000 Pa",
+        "2100 Pa",
+        "2000 Pa"
+      ],
+      "a": 3,
+      "e": "P=F/A=80/0.04=2000 Pa.",
+      "d": "Medium",
+      "topic": "Pressure",
+      "slo": "P-09-B-77"
+    },
+    {
+      "id": "PHY9CH5-190",
+      "q": "Pressure of 200 Pa acts normally on an area of 0.05 m². What is the force?",
+      "o": [
+        "20 N",
+        "10 N",
+        "5 N",
+        "210 N"
+      ],
+      "a": 1,
+      "e": "F=PA=200×0.05=10 N.",
+      "d": "Medium",
+      "topic": "Pressure",
+      "slo": "P-09-B-77"
+    },
+    {
+      "id": "PHY9CH5-191",
+      "q": "Using g = 10 N/kg, calculate gauge pressure at depth 2 m in a liquid of density 900 kg/m³.",
+      "o": [
+        "36000 Pa",
+        "9000 Pa",
+        "27000 Pa",
+        "18000 Pa"
+      ],
+      "a": 3,
+      "e": "P=ρgh=900×10×2=18000 Pa.",
+      "d": "Medium",
+      "topic": "Liquid pressure",
+      "slo": "P-09-B-84"
+    },
+    {
+      "id": "PHY9CH5-192",
+      "q": "In a hydraulic lift, the output piston area is 3 times the input piston area. If input force is 30 N, what is output force (neglect losses)?",
+      "o": [
+        "45 N",
+        "120 N",
+        "90 N",
+        "270 N"
+      ],
+      "a": 2,
+      "e": "F2/F1=A2/A1=3, so F2=30×3=90 N.",
+      "d": "Medium",
+      "topic": "Hydraulics",
+      "slo": "P-09-B-86"
+    },
+    {
+      "id": "PHY9CH5-193",
+      "q": "A spring has constant 200 N/m and extends 0.04 m. What force stretches it?",
+      "o": [
+        "8 N",
+        "16 N",
+        "4 N",
+        "18 N"
+      ],
+      "a": 0,
+      "e": "F=kx=200×0.04=8 N.",
+      "d": "Medium",
+      "topic": "Hooke’s law",
+      "slo": "P-09-B-56"
+    },
+    {
+      "id": "PHY9CH5-194",
+      "q": "A force of 30 N extends a spring by 0.1 m. Find its spring constant.",
+      "o": [
+        "330 N/m",
+        "150 N/m",
+        "300 N/m",
+        "600 N/m"
+      ],
+      "a": 2,
+      "e": "k=F/x=30/0.1=300 N/m.",
+      "d": "Medium",
+      "topic": "Hooke’s law",
+      "slo": "P-09-B-56"
+    },
+    {
+      "id": "PHY9CH5-195",
+      "q": "A perpendicular force of 100 N acts uniformly on 0.04 m². Calculate pressure.",
+      "o": [
+        "2600 Pa",
+        "2500 Pa",
+        "5000 Pa",
+        "1250 Pa"
+      ],
+      "a": 1,
+      "e": "P=F/A=100/0.04=2500 Pa.",
+      "d": "Medium",
+      "topic": "Pressure",
+      "slo": "P-09-B-77"
+    },
+    {
+      "id": "PHY9CH5-196",
+      "q": "Pressure of 300 Pa acts normally on an area of 0.05 m². What is the force?",
+      "o": [
+        "30 N",
+        "15 N",
+        "7.5 N",
+        "315 N"
+      ],
+      "a": 1,
+      "e": "F=PA=300×0.05=15 N.",
+      "d": "Medium",
+      "topic": "Pressure",
+      "slo": "P-09-B-77"
+    },
+    {
+      "id": "PHY9CH5-197",
+      "q": "Using g = 10 N/kg, calculate gauge pressure at depth 2 m in a liquid of density 1000 kg/m³.",
+      "o": [
+        "20000 Pa",
+        "30000 Pa",
+        "10000 Pa",
+        "40000 Pa"
+      ],
+      "a": 0,
+      "e": "P=ρgh=1000×10×2=20000 Pa.",
+      "d": "Medium",
+      "topic": "Liquid pressure",
+      "slo": "P-09-B-84"
+    },
+    {
+      "id": "PHY9CH5-198",
+      "q": "In a hydraulic lift, the output piston area is 3 times the input piston area. If input force is 40 N, what is output force (neglect losses)?",
+      "o": [
+        "360 N",
+        "60 N",
+        "160 N",
+        "120 N"
+      ],
+      "a": 3,
+      "e": "F2/F1=A2/A1=3, so F2=40×3=120 N.",
+      "d": "Medium",
+      "topic": "Hydraulics",
+      "slo": "P-09-B-86"
+    },
+    {
+      "id": "PHY9CH5-199",
+      "q": "A spring has constant 250 N/m and extends 0.04 m. What force stretches it?",
+      "o": [
+        "5 N",
+        "20 N",
+        "10 N",
+        "30 N"
+      ],
+      "a": 2,
+      "e": "F=kx=250×0.04=10 N.",
+      "d": "Medium",
+      "topic": "Hooke’s law",
+      "slo": "P-09-B-56"
+    },
+    {
+      "id": "PHY9CH5-200",
+      "q": "A force of 40 N extends a spring by 0.1 m. Find its spring constant.",
+      "o": [
+        "200 N/m",
+        "800 N/m",
+        "440 N/m",
+        "400 N/m"
+      ],
+      "a": 3,
+      "e": "k=F/x=40/0.1=400 N/m.",
+      "d": "Medium",
+      "topic": "Hooke’s law",
+      "slo": "P-09-B-56"
+    },
+    {
+      "id": "PHY9CH5-201",
+      "q": "A perpendicular force of 120 N acts uniformly on 0.04 m². Calculate pressure.",
+      "o": [
+        "3100 Pa",
+        "1500 Pa",
+        "6000 Pa",
+        "3000 Pa"
+      ],
+      "a": 3,
+      "e": "P=F/A=120/0.04=3000 Pa.",
+      "d": "Medium",
+      "topic": "Pressure",
+      "slo": "P-09-B-77"
+    },
+    {
+      "id": "PHY9CH5-202",
+      "q": "Pressure of 400 Pa acts normally on an area of 0.05 m². What is the force?",
+      "o": [
+        "20 N",
+        "420 N",
+        "40 N",
+        "10 N"
+      ],
+      "a": 0,
+      "e": "F=PA=400×0.05=20 N.",
+      "d": "Medium",
+      "topic": "Pressure",
+      "slo": "P-09-B-77"
+    },
+    {
+      "id": "PHY9CH5-203",
+      "q": "Using g = 10 N/kg, calculate gauge pressure at depth 2 m in a liquid of density 1100 kg/m³.",
+      "o": [
+        "33000 Pa",
+        "11000 Pa",
+        "22000 Pa",
+        "44000 Pa"
+      ],
+      "a": 2,
+      "e": "P=ρgh=1100×10×2=22000 Pa.",
+      "d": "Medium",
+      "topic": "Liquid pressure",
+      "slo": "P-09-B-84"
+    },
+    {
+      "id": "PHY9CH5-204",
+      "q": "In a hydraulic lift, the output piston area is 3 times the input piston area. If input force is 50 N, what is output force (neglect losses)?",
+      "o": [
+        "200 N",
+        "75 N",
+        "150 N",
+        "450 N"
+      ],
+      "a": 2,
+      "e": "F2/F1=A2/A1=3, so F2=50×3=150 N.",
+      "d": "Medium",
+      "topic": "Hydraulics",
+      "slo": "P-09-B-86"
+    },
+    {
+      "id": "PHY9CH5-205",
+      "q": "A spring has constant 300 N/m and extends 0.04 m. What force stretches it?",
+      "o": [
+        "6 N",
+        "12 N",
+        "24 N",
+        "22 N"
+      ],
+      "a": 1,
+      "e": "F=kx=300×0.04=12 N.",
+      "d": "Medium",
+      "topic": "Hooke’s law",
+      "slo": "P-09-B-56"
+    },
+    {
+      "id": "PHY9CH5-206",
+      "q": "A force of 50 N extends a spring by 0.1 m. Find its spring constant.",
+      "o": [
+        "500 N/m",
+        "550 N/m",
+        "1000 N/m",
+        "250 N/m"
+      ],
+      "a": 0,
+      "e": "k=F/x=50/0.1=500 N/m.",
+      "d": "Medium",
+      "topic": "Hooke’s law",
+      "slo": "P-09-B-56"
+    },
+    {
+      "id": "PHY9CH5-207",
+      "q": "A perpendicular force of 150 N acts uniformly on 0.04 m². Calculate pressure.",
+      "o": [
+        "3750 Pa",
+        "1875 Pa",
+        "7500 Pa",
+        "3850 Pa"
+      ],
+      "a": 0,
+      "e": "P=F/A=150/0.04=3750 Pa.",
+      "d": "Medium",
+      "topic": "Pressure",
+      "slo": "P-09-B-77"
+    },
+    {
+      "id": "PHY9CH5-208",
+      "q": "Pressure of 500 Pa acts normally on an area of 0.05 m². What is the force?",
+      "o": [
+        "25 N",
+        "50 N",
+        "12.5 N",
+        "525 N"
+      ],
+      "a": 0,
+      "e": "F=PA=500×0.05=25 N.",
+      "d": "Medium",
+      "topic": "Pressure",
+      "slo": "P-09-B-77"
+    },
+    {
+      "id": "PHY9CH5-209",
+      "q": "Using g = 10 N/kg, calculate gauge pressure at depth 2 m in a liquid of density 1200 kg/m³.",
+      "o": [
+        "12000 Pa",
+        "24000 Pa",
+        "36000 Pa",
+        "48000 Pa"
+      ],
+      "a": 1,
+      "e": "P=ρgh=1200×10×2=24000 Pa.",
+      "d": "Medium",
+      "topic": "Liquid pressure",
+      "slo": "P-09-B-84"
+    },
+    {
+      "id": "PHY9CH5-210",
+      "q": "In a hydraulic lift, the output piston area is 3 times the input piston area. If input force is 60 N, what is output force (neglect losses)?",
+      "o": [
+        "540 N",
+        "90 N",
+        "180 N",
+        "240 N"
+      ],
+      "a": 2,
+      "e": "F2/F1=A2/A1=3, so F2=60×3=180 N.",
+      "d": "Medium",
+      "topic": "Hydraulics",
+      "slo": "P-09-B-86"
+    },
+    {
+      "id": "PHY9CH5-211",
+      "q": "A spring has constant 400 N/m and extends 0.04 m. What force stretches it?",
+      "o": [
+        "8 N",
+        "16 N",
+        "26 N",
+        "32 N"
+      ],
+      "a": 1,
+      "e": "F=kx=400×0.04=16 N.",
+      "d": "Medium",
+      "topic": "Hooke’s law",
+      "slo": "P-09-B-56"
+    },
+    {
+      "id": "PHY9CH5-212",
+      "q": "A force of 60 N extends a spring by 0.1 m. Find its spring constant.",
+      "o": [
+        "1200 N/m",
+        "600 N/m",
+        "300 N/m",
+        "660 N/m"
+      ],
+      "a": 1,
+      "e": "k=F/x=60/0.1=600 N/m.",
+      "d": "Medium",
+      "topic": "Hooke’s law",
+      "slo": "P-09-B-56"
+    },
+    {
+      "id": "PHY9CH5-213",
+      "q": "A perpendicular force of 200 N acts uniformly on 0.04 m². Calculate pressure.",
+      "o": [
+        "10000 Pa",
+        "5100 Pa",
+        "2500 Pa",
+        "5000 Pa"
+      ],
+      "a": 3,
+      "e": "P=F/A=200/0.04=5000 Pa.",
+      "d": "Medium",
+      "topic": "Pressure",
+      "slo": "P-09-B-77"
+    },
+    {
+      "id": "PHY9CH5-214",
+      "q": "Pressure of 600 Pa acts normally on an area of 0.05 m². What is the force?",
+      "o": [
+        "60 N",
+        "30 N",
+        "630 N",
+        "15 N"
+      ],
+      "a": 1,
+      "e": "F=PA=600×0.05=30 N.",
+      "d": "Medium",
+      "topic": "Pressure",
+      "slo": "P-09-B-77"
+    },
+    {
+      "id": "PHY9CH5-215",
+      "q": "Using g = 10 N/kg, calculate gauge pressure at depth 2 m in a liquid of density 1300 kg/m³.",
+      "o": [
+        "26000 Pa",
+        "52000 Pa",
+        "39000 Pa",
+        "13000 Pa"
+      ],
+      "a": 0,
+      "e": "P=ρgh=1300×10×2=26000 Pa.",
+      "d": "Medium",
+      "topic": "Liquid pressure",
+      "slo": "P-09-B-84"
+    },
+    {
+      "id": "PHY9CH5-216",
+      "q": "In a hydraulic lift, the output piston area is 3 times the input piston area. If input force is 70 N, what is output force (neglect losses)?",
+      "o": [
+        "630 N",
+        "280 N",
+        "210 N",
+        "105 N"
+      ],
+      "a": 2,
+      "e": "F2/F1=A2/A1=3, so F2=70×3=210 N.",
+      "d": "Medium",
+      "topic": "Hydraulics",
+      "slo": "P-09-B-86"
+    },
+    {
+      "id": "PHY9CH5-217",
+      "q": "A spring has constant 500 N/m and extends 0.04 m. What force stretches it?",
+      "o": [
+        "20 N",
+        "40 N",
+        "10 N",
+        "30 N"
+      ],
+      "a": 0,
+      "e": "F=kx=500×0.04=20 N.",
+      "d": "Medium",
+      "topic": "Hooke’s law",
+      "slo": "P-09-B-56"
+    },
+    {
+      "id": "PHY9CH5-218",
+      "q": "A force of 80 N extends a spring by 0.1 m. Find its spring constant.",
+      "o": [
+        "800 N/m",
+        "1600 N/m",
+        "400 N/m",
+        "880 N/m"
+      ],
+      "a": 0,
+      "e": "k=F/x=80/0.1=800 N/m.",
+      "d": "Medium",
+      "topic": "Hooke’s law",
+      "slo": "P-09-B-56"
+    },
+    {
+      "id": "PHY9CH5-219",
+      "q": "A perpendicular force of 250 N acts uniformly on 0.04 m². Calculate pressure.",
+      "o": [
+        "6350 Pa",
+        "3125 Pa",
+        "12500 Pa",
+        "6250 Pa"
+      ],
+      "a": 3,
+      "e": "P=F/A=250/0.04=6250 Pa.",
+      "d": "Medium",
+      "topic": "Pressure",
+      "slo": "P-09-B-77"
+    },
+    {
+      "id": "PHY9CH5-220",
+      "q": "Pressure of 800 Pa acts normally on an area of 0.05 m². What is the force?",
+      "o": [
+        "40 N",
+        "840 N",
+        "20 N",
+        "80 N"
+      ],
+      "a": 0,
+      "e": "F=PA=800×0.05=40 N.",
+      "d": "Medium",
+      "topic": "Pressure",
+      "slo": "P-09-B-77"
+    },
+    {
+      "id": "PHY9CH5-221",
+      "q": "Using g = 10 N/kg, calculate gauge pressure at depth 2 m in a liquid of density 1400 kg/m³.",
+      "o": [
+        "14000 Pa",
+        "28000 Pa",
+        "56000 Pa",
+        "42000 Pa"
+      ],
+      "a": 1,
+      "e": "P=ρgh=1400×10×2=28000 Pa.",
+      "d": "Medium",
+      "topic": "Liquid pressure",
+      "slo": "P-09-B-84"
+    },
+    {
+      "id": "PHY9CH5-222",
+      "q": "In a hydraulic lift, the output piston area is 3 times the input piston area. If input force is 80 N, what is output force (neglect losses)?",
+      "o": [
+        "320 N",
+        "720 N",
+        "120 N",
+        "240 N"
+      ],
+      "a": 3,
+      "e": "F2/F1=A2/A1=3, so F2=80×3=240 N.",
+      "d": "Medium",
+      "topic": "Hydraulics",
+      "slo": "P-09-B-86"
+    },
+    {
+      "id": "PHY9CH5-223",
+      "q": "A spring has constant 600 N/m and extends 0.04 m. What force stretches it?",
+      "o": [
+        "48 N",
+        "12 N",
+        "24 N",
+        "34 N"
+      ],
+      "a": 2,
+      "e": "F=kx=600×0.04=24 N.",
+      "d": "Medium",
+      "topic": "Hooke’s law",
+      "slo": "P-09-B-56"
+    },
+    {
+      "id": "PHY9CH5-224",
+      "q": "A force of 100 N extends a spring by 0.1 m. Find its spring constant.",
+      "o": [
+        "500 N/m",
+        "1100 N/m",
+        "1000 N/m",
+        "2000 N/m"
+      ],
+      "a": 2,
+      "e": "k=F/x=100/0.1=1000 N/m.",
+      "d": "Medium",
+      "topic": "Hooke’s law",
+      "slo": "P-09-B-56"
+    },
+    {
+      "id": "PHY9CH5-225",
+      "q": "A perpendicular force of 300 N acts uniformly on 0.04 m². Calculate pressure.",
+      "o": [
+        "7500 Pa",
+        "7600 Pa",
+        "3750 Pa",
+        "15000 Pa"
+      ],
+      "a": 0,
+      "e": "P=F/A=300/0.04=7500 Pa.",
+      "d": "Medium",
+      "topic": "Pressure",
+      "slo": "P-09-B-77"
+    },
+    {
+      "id": "PHY9CH5-226",
+      "q": "Pressure of 1000 Pa acts normally on an area of 0.05 m². What is the force?",
+      "o": [
+        "1050 N",
+        "25 N",
+        "100 N",
+        "50 N"
+      ],
+      "a": 3,
+      "e": "F=PA=1000×0.05=50 N.",
+      "d": "Medium",
+      "topic": "Pressure",
+      "slo": "P-09-B-77"
+    },
+    {
+      "id": "PHY9CH5-227",
+      "q": "Using g = 10 N/kg, calculate gauge pressure at depth 2 m in a liquid of density 1500 kg/m³.",
+      "o": [
+        "60000 Pa",
+        "30000 Pa",
+        "45000 Pa",
+        "15000 Pa"
+      ],
+      "a": 1,
+      "e": "P=ρgh=1500×10×2=30000 Pa.",
+      "d": "Medium",
+      "topic": "Liquid pressure",
+      "slo": "P-09-B-84"
+    },
+    {
+      "id": "PHY9CH5-228",
+      "q": "In a hydraulic lift, the output piston area is 3 times the input piston area. If input force is 90 N, what is output force (neglect losses)?",
+      "o": [
+        "360 N",
+        "810 N",
+        "270 N",
+        "135 N"
+      ],
+      "a": 2,
+      "e": "F2/F1=A2/A1=3, so F2=90×3=270 N.",
+      "d": "Medium",
+      "topic": "Hydraulics",
+      "slo": "P-09-B-86"
+    },
+    {
+      "id": "PHY9CH5-229",
+      "q": "A spring has constant 800 N/m and extends 0.04 m. What force stretches it?",
+      "o": [
+        "64 N",
+        "16 N",
+        "32 N",
+        "42 N"
+      ],
+      "a": 2,
+      "e": "F=kx=800×0.04=32 N.",
+      "d": "Medium",
+      "topic": "Hooke’s law",
+      "slo": "P-09-B-56"
+    },
+    {
+      "id": "PHY9CH5-230",
+      "q": "A force of 120 N extends a spring by 0.1 m. Find its spring constant.",
+      "o": [
+        "1200 N/m",
+        "2400 N/m",
+        "600 N/m",
+        "1320 N/m"
+      ],
+      "a": 0,
+      "e": "k=F/x=120/0.1=1200 N/m.",
+      "d": "Medium",
+      "topic": "Hooke’s law",
+      "slo": "P-09-B-56"
+    },
+    {
+      "id": "PHY9CH5-231",
+      "q": "A perpendicular force of 400 N acts uniformly on 0.04 m². Calculate pressure.",
+      "o": [
+        "5000 Pa",
+        "10100 Pa",
+        "10000 Pa",
+        "20000 Pa"
+      ],
+      "a": 2,
+      "e": "P=F/A=400/0.04=10000 Pa.",
+      "d": "Medium",
+      "topic": "Pressure",
+      "slo": "P-09-B-77"
+    },
+    {
+      "id": "PHY9CH5-232",
+      "q": "Pressure of 1200 Pa acts normally on an area of 0.05 m². What is the force?",
+      "o": [
+        "60 N",
+        "1260 N",
+        "120 N",
+        "30 N"
+      ],
+      "a": 0,
+      "e": "F=PA=1200×0.05=60 N.",
+      "d": "Medium",
+      "topic": "Pressure",
+      "slo": "P-09-B-77"
+    },
+    {
+      "id": "PHY9CH5-233",
+      "q": "Using g = 10 N/kg, calculate gauge pressure at depth 2 m in a liquid of density 1600 kg/m³.",
+      "o": [
+        "16000 Pa",
+        "32000 Pa",
+        "64000 Pa",
+        "48000 Pa"
+      ],
+      "a": 1,
+      "e": "P=ρgh=1600×10×2=32000 Pa.",
+      "d": "Medium",
+      "topic": "Liquid pressure",
+      "slo": "P-09-B-84"
+    },
+    {
+      "id": "PHY9CH5-234",
+      "q": "In a hydraulic lift, the output piston area is 3 times the input piston area. If input force is 100 N, what is output force (neglect losses)?",
+      "o": [
+        "150 N",
+        "400 N",
+        "900 N",
+        "300 N"
+      ],
+      "a": 3,
+      "e": "F2/F1=A2/A1=3, so F2=100×3=300 N.",
+      "d": "Medium",
+      "topic": "Hydraulics",
+      "slo": "P-09-B-86"
+    },
+    {
+      "id": "PHY9CH5-235",
+      "q": "A spring has constant 1000 N/m and extends 0.04 m. What force stretches it?",
+      "o": [
+        "80 N",
+        "20 N",
+        "50 N",
+        "40 N"
+      ],
+      "a": 3,
+      "e": "F=kx=1000×0.04=40 N.",
+      "d": "Medium",
+      "topic": "Hooke’s law",
+      "slo": "P-09-B-56"
+    },
+    {
+      "id": "PHY9CH5-236",
+      "q": "A force of 150 N extends a spring by 0.1 m. Find its spring constant.",
+      "o": [
+        "1500 N/m",
+        "750 N/m",
+        "1650 N/m",
+        "3000 N/m"
+      ],
+      "a": 0,
+      "e": "k=F/x=150/0.1=1500 N/m.",
+      "d": "Medium",
+      "topic": "Hooke’s law",
+      "slo": "P-09-B-56"
+    },
+    {
+      "id": "PHY9CH5-237",
+      "q": "A perpendicular force of 500 N acts uniformly on 0.04 m². Calculate pressure.",
+      "o": [
+        "25000 Pa",
+        "6250 Pa",
+        "12600 Pa",
+        "12500 Pa"
+      ],
+      "a": 3,
+      "e": "P=F/A=500/0.04=12500 Pa.",
+      "d": "Medium",
+      "topic": "Pressure",
+      "slo": "P-09-B-77"
+    },
+    {
+      "id": "PHY9CH5-238",
+      "q": "Pressure of 1500 Pa acts normally on an area of 0.05 m². What is the force?",
+      "o": [
+        "150 N",
+        "1575 N",
+        "37.5 N",
+        "75 N"
+      ],
+      "a": 3,
+      "e": "F=PA=1500×0.05=75 N.",
+      "d": "Medium",
+      "topic": "Pressure",
+      "slo": "P-09-B-77"
+    },
+    {
+      "id": "PHY9CH5-239",
+      "q": "Using g = 10 N/kg, calculate gauge pressure at depth 2 m in a liquid of density 1800 kg/m³.",
+      "o": [
+        "18000 Pa",
+        "36000 Pa",
+        "54000 Pa",
+        "72000 Pa"
+      ],
+      "a": 1,
+      "e": "P=ρgh=1800×10×2=36000 Pa.",
+      "d": "Medium",
+      "topic": "Liquid pressure",
+      "slo": "P-09-B-84"
+    },
+    {
+      "id": "PHY9CH5-240",
+      "q": "In a hydraulic lift, the output piston area is 3 times the input piston area. If input force is 120 N, what is output force (neglect losses)?",
+      "o": [
+        "480 N",
+        "1080 N",
+        "180 N",
+        "360 N"
+      ],
+      "a": 3,
+      "e": "F2/F1=A2/A1=3, so F2=120×3=360 N.",
+      "d": "Medium",
+      "topic": "Hydraulics",
+      "slo": "P-09-B-86"
+    },
+    {
+      "id": "PHY9CH5-241",
+      "q": "A spring has constant 100 N/m and extends 0.05 m. What force stretches it?",
+      "o": [
+        "10 N",
+        "15 N",
+        "5 N",
+        "2.5 N"
+      ],
+      "a": 2,
+      "e": "F=kx=100×0.05=5 N.",
+      "d": "Medium",
+      "topic": "Hooke’s law",
+      "slo": "P-09-B-56"
+    },
+    {
+      "id": "PHY9CH5-242",
+      "q": "A force of 10 N extends a spring by 0.2 m. Find its spring constant.",
+      "o": [
+        "25 N/m",
+        "60 N/m",
+        "50 N/m",
+        "100 N/m"
+      ],
+      "a": 2,
+      "e": "k=F/x=10/0.2=50 N/m.",
+      "d": "Medium",
+      "topic": "Hooke’s law",
+      "slo": "P-09-B-56"
+    },
+    {
+      "id": "PHY9CH5-243",
+      "q": "A perpendicular force of 50 N acts uniformly on 0.05 m². Calculate pressure.",
+      "o": [
+        "500 Pa",
+        "2000 Pa",
+        "1100 Pa",
+        "1000 Pa"
+      ],
+      "a": 3,
+      "e": "P=F/A=50/0.05=1000 Pa.",
+      "d": "Medium",
+      "topic": "Pressure",
+      "slo": "P-09-B-77"
+    },
+    {
+      "id": "PHY9CH5-244",
+      "q": "Pressure of 100 Pa acts normally on an area of 0.1 m². What is the force?",
+      "o": [
+        "10 N",
+        "20 N",
+        "5 N",
+        "110 N"
+      ],
+      "a": 0,
+      "e": "F=PA=100×0.1=10 N.",
+      "d": "Medium",
+      "topic": "Pressure",
+      "slo": "P-09-B-77"
+    },
+    {
+      "id": "PHY9CH5-245",
+      "q": "Using g = 10 N/kg, calculate gauge pressure at depth 3 m in a liquid of density 800 kg/m³.",
+      "o": [
+        "24000 Pa",
+        "32000 Pa",
+        "12000 Pa",
+        "48000 Pa"
+      ],
+      "a": 0,
+      "e": "P=ρgh=800×10×3=24000 Pa.",
+      "d": "Medium",
+      "topic": "Liquid pressure",
+      "slo": "P-09-B-84"
+    },
+    {
+      "id": "PHY9CH5-246",
+      "q": "In a hydraulic lift, the output piston area is 4 times the input piston area. If input force is 20 N, what is output force (neglect losses)?",
+      "o": [
+        "80 N",
+        "320 N",
+        "100 N",
+        "40 N"
+      ],
+      "a": 0,
+      "e": "F2/F1=A2/A1=4, so F2=20×4=80 N.",
+      "d": "Medium",
+      "topic": "Hydraulics",
+      "slo": "P-09-B-86"
+    },
+    {
+      "id": "PHY9CH5-247",
+      "q": "A spring has constant 150 N/m and extends 0.05 m. What force stretches it?",
+      "o": [
+        "15 N",
+        "3.75 N",
+        "17.5 N",
+        "7.5 N"
+      ],
+      "a": 3,
+      "e": "F=kx=150×0.05=7.5 N.",
+      "d": "Medium",
+      "topic": "Hooke’s law",
+      "slo": "P-09-B-56"
+    },
+    {
+      "id": "PHY9CH5-248",
+      "q": "A force of 20 N extends a spring by 0.2 m. Find its spring constant.",
+      "o": [
+        "120 N/m",
+        "100 N/m",
+        "50 N/m",
+        "200 N/m"
+      ],
+      "a": 1,
+      "e": "k=F/x=20/0.2=100 N/m.",
+      "d": "Medium",
+      "topic": "Hooke’s law",
+      "slo": "P-09-B-56"
+    },
+    {
+      "id": "PHY9CH5-249",
+      "q": "A perpendicular force of 80 N acts uniformly on 0.05 m². Calculate pressure.",
+      "o": [
+        "800 Pa",
+        "1700 Pa",
+        "1600 Pa",
+        "3200 Pa"
+      ],
+      "a": 2,
+      "e": "P=F/A=80/0.05=1600 Pa.",
+      "d": "Medium",
+      "topic": "Pressure",
+      "slo": "P-09-B-77"
+    },
+    {
+      "id": "PHY9CH5-250",
+      "q": "Pressure of 200 Pa acts normally on an area of 0.1 m². What is the force?",
+      "o": [
+        "40 N",
+        "10 N",
+        "220 N",
+        "20 N"
+      ],
+      "a": 3,
+      "e": "F=PA=200×0.1=20 N.",
+      "d": "Medium",
+      "topic": "Pressure",
+      "slo": "P-09-B-77"
+    },
+    {
+      "id": "PHY9CH5-251",
+      "q": "Using g = 10 N/kg, calculate gauge pressure at depth 3 m in a liquid of density 900 kg/m³.",
+      "o": [
+        "54000 Pa",
+        "27000 Pa",
+        "36000 Pa",
+        "13500 Pa"
+      ],
+      "a": 1,
+      "e": "P=ρgh=900×10×3=27000 Pa.",
+      "d": "Medium",
+      "topic": "Liquid pressure",
+      "slo": "P-09-B-84"
+    },
+    {
+      "id": "PHY9CH5-252",
+      "q": "In a hydraulic lift, the output piston area is 4 times the input piston area. If input force is 30 N, what is output force (neglect losses)?",
+      "o": [
+        "150 N",
+        "120 N",
+        "60 N",
+        "480 N"
+      ],
+      "a": 1,
+      "e": "F2/F1=A2/A1=4, so F2=30×4=120 N.",
+      "d": "Medium",
+      "topic": "Hydraulics",
+      "slo": "P-09-B-86"
+    },
+    {
+      "id": "PHY9CH5-253",
+      "q": "A spring has constant 200 N/m and extends 0.05 m. What force stretches it?",
+      "o": [
+        "5 N",
+        "10 N",
+        "30 N",
+        "20 N"
+      ],
+      "a": 1,
+      "e": "F=kx=200×0.05=10 N.",
+      "d": "Medium",
+      "topic": "Hooke’s law",
+      "slo": "P-09-B-56"
+    },
+    {
+      "id": "PHY9CH5-254",
+      "q": "A force of 30 N extends a spring by 0.2 m. Find its spring constant.",
+      "o": [
+        "150 N/m",
+        "300 N/m",
+        "180 N/m",
+        "75 N/m"
+      ],
+      "a": 0,
+      "e": "k=F/x=30/0.2=150 N/m.",
+      "d": "Medium",
+      "topic": "Hooke’s law",
+      "slo": "P-09-B-56"
+    },
+    {
+      "id": "PHY9CH5-255",
+      "q": "A perpendicular force of 100 N acts uniformly on 0.05 m². Calculate pressure.",
+      "o": [
+        "4000 Pa",
+        "2000 Pa",
+        "1000 Pa",
+        "2100 Pa"
+      ],
+      "a": 1,
+      "e": "P=F/A=100/0.05=2000 Pa.",
+      "d": "Medium",
+      "topic": "Pressure",
+      "slo": "P-09-B-77"
+    },
+    {
+      "id": "PHY9CH5-256",
+      "q": "Pressure of 300 Pa acts normally on an area of 0.1 m². What is the force?",
+      "o": [
+        "60 N",
+        "330 N",
+        "30 N",
+        "15 N"
+      ],
+      "a": 2,
+      "e": "F=PA=300×0.1=30 N.",
+      "d": "Medium",
+      "topic": "Pressure",
+      "slo": "P-09-B-77"
+    },
+    {
+      "id": "PHY9CH5-257",
+      "q": "Using g = 10 N/kg, calculate gauge pressure at depth 3 m in a liquid of density 1000 kg/m³.",
+      "o": [
+        "30000 Pa",
+        "40000 Pa",
+        "15000 Pa",
+        "60000 Pa"
+      ],
+      "a": 0,
+      "e": "P=ρgh=1000×10×3=30000 Pa.",
+      "d": "Medium",
+      "topic": "Liquid pressure",
+      "slo": "P-09-B-84"
+    },
+    {
+      "id": "PHY9CH5-258",
+      "q": "In a hydraulic lift, the output piston area is 4 times the input piston area. If input force is 40 N, what is output force (neglect losses)?",
+      "o": [
+        "640 N",
+        "80 N",
+        "160 N",
+        "200 N"
+      ],
+      "a": 2,
+      "e": "F2/F1=A2/A1=4, so F2=40×4=160 N.",
+      "d": "Medium",
+      "topic": "Hydraulics",
+      "slo": "P-09-B-86"
+    },
+    {
+      "id": "PHY9CH5-259",
+      "q": "A spring has constant 250 N/m and extends 0.05 m. What force stretches it?",
+      "o": [
+        "12.5 N",
+        "25 N",
+        "6.25 N",
+        "22.5 N"
+      ],
+      "a": 0,
+      "e": "F=kx=250×0.05=12.5 N.",
+      "d": "Medium",
+      "topic": "Hooke’s law",
+      "slo": "P-09-B-56"
+    },
+    {
+      "id": "PHY9CH5-260",
+      "q": "A force of 40 N extends a spring by 0.2 m. Find its spring constant.",
+      "o": [
+        "100 N/m",
+        "400 N/m",
+        "200 N/m",
+        "240 N/m"
+      ],
+      "a": 2,
+      "e": "k=F/x=40/0.2=200 N/m.",
+      "d": "Medium",
+      "topic": "Hooke’s law",
+      "slo": "P-09-B-56"
+    },
+    {
+      "id": "PHY9CH5-261",
+      "q": "A perpendicular force of 120 N acts uniformly on 0.05 m². Calculate pressure.",
+      "o": [
+        "4800 Pa",
+        "1200 Pa",
+        "2400 Pa",
+        "2500 Pa"
+      ],
+      "a": 2,
+      "e": "P=F/A=120/0.05=2400 Pa.",
+      "d": "Medium",
+      "topic": "Pressure",
+      "slo": "P-09-B-77"
+    },
+    {
+      "id": "PHY9CH5-262",
+      "q": "Pressure of 400 Pa acts normally on an area of 0.1 m². What is the force?",
+      "o": [
+        "80 N",
+        "440 N",
+        "20 N",
+        "40 N"
+      ],
+      "a": 3,
+      "e": "F=PA=400×0.1=40 N.",
+      "d": "Medium",
+      "topic": "Pressure",
+      "slo": "P-09-B-77"
+    },
+    {
+      "id": "PHY9CH5-263",
+      "q": "Using g = 10 N/kg, calculate gauge pressure at depth 3 m in a liquid of density 1100 kg/m³.",
+      "o": [
+        "16500 Pa",
+        "33000 Pa",
+        "66000 Pa",
+        "44000 Pa"
+      ],
+      "a": 1,
+      "e": "P=ρgh=1100×10×3=33000 Pa.",
+      "d": "Medium",
+      "topic": "Liquid pressure",
+      "slo": "P-09-B-84"
+    },
+    {
+      "id": "PHY9CH5-264",
+      "q": "In a hydraulic lift, the output piston area is 4 times the input piston area. If input force is 50 N, what is output force (neglect losses)?",
+      "o": [
+        "800 N",
+        "200 N",
+        "250 N",
+        "100 N"
+      ],
+      "a": 1,
+      "e": "F2/F1=A2/A1=4, so F2=50×4=200 N.",
+      "d": "Medium",
+      "topic": "Hydraulics",
+      "slo": "P-09-B-86"
+    },
+    {
+      "id": "PHY9CH5-265",
+      "q": "A spring has constant 300 N/m and extends 0.05 m. What force stretches it?",
+      "o": [
+        "30 N",
+        "15 N",
+        "25 N",
+        "7.5 N"
+      ],
+      "a": 1,
+      "e": "F=kx=300×0.05=15 N.",
+      "d": "Medium",
+      "topic": "Hooke’s law",
+      "slo": "P-09-B-56"
+    },
+    {
+      "id": "PHY9CH5-266",
+      "q": "A force of 50 N extends a spring by 0.2 m. Find its spring constant.",
+      "o": [
+        "250 N/m",
+        "125 N/m",
+        "500 N/m",
+        "300 N/m"
+      ],
+      "a": 0,
+      "e": "k=F/x=50/0.2=250 N/m.",
+      "d": "Medium",
+      "topic": "Hooke’s law",
+      "slo": "P-09-B-56"
+    },
+    {
+      "id": "PHY9CH5-267",
+      "q": "A perpendicular force of 150 N acts uniformly on 0.05 m². Calculate pressure.",
+      "o": [
+        "1500 Pa",
+        "3000 Pa",
+        "3100 Pa",
+        "6000 Pa"
+      ],
+      "a": 1,
+      "e": "P=F/A=150/0.05=3000 Pa.",
+      "d": "Medium",
+      "topic": "Pressure",
+      "slo": "P-09-B-77"
+    },
+    {
+      "id": "PHY9CH5-268",
+      "q": "Pressure of 500 Pa acts normally on an area of 0.1 m². What is the force?",
+      "o": [
+        "100 N",
+        "50 N",
+        "550 N",
+        "25 N"
+      ],
+      "a": 1,
+      "e": "F=PA=500×0.1=50 N.",
+      "d": "Medium",
+      "topic": "Pressure",
+      "slo": "P-09-B-77"
+    },
+    {
+      "id": "PHY9CH5-269",
+      "q": "Using g = 10 N/kg, calculate gauge pressure at depth 3 m in a liquid of density 1200 kg/m³.",
+      "o": [
+        "18000 Pa",
+        "48000 Pa",
+        "36000 Pa",
+        "72000 Pa"
+      ],
+      "a": 2,
+      "e": "P=ρgh=1200×10×3=36000 Pa.",
+      "d": "Medium",
+      "topic": "Liquid pressure",
+      "slo": "P-09-B-84"
+    },
+    {
+      "id": "PHY9CH5-270",
+      "q": "In a hydraulic lift, the output piston area is 4 times the input piston area. If input force is 60 N, what is output force (neglect losses)?",
+      "o": [
+        "960 N",
+        "120 N",
+        "240 N",
+        "300 N"
+      ],
+      "a": 2,
+      "e": "F2/F1=A2/A1=4, so F2=60×4=240 N.",
+      "d": "Medium",
+      "topic": "Hydraulics",
+      "slo": "P-09-B-86"
+    },
+    {
+      "id": "PHY9CH5-271",
+      "q": "A spring has constant 400 N/m and extends 0.05 m. What force stretches it?",
+      "o": [
+        "20 N",
+        "40 N",
+        "30 N",
+        "10 N"
+      ],
+      "a": 0,
+      "e": "F=kx=400×0.05=20 N.",
+      "d": "Medium",
+      "topic": "Hooke’s law",
+      "slo": "P-09-B-56"
+    },
+    {
+      "id": "PHY9CH5-272",
+      "q": "A force of 60 N extends a spring by 0.2 m. Find its spring constant.",
+      "o": [
+        "300 N/m",
+        "600 N/m",
+        "150 N/m",
+        "360 N/m"
+      ],
+      "a": 0,
+      "e": "k=F/x=60/0.2=300 N/m.",
+      "d": "Medium",
+      "topic": "Hooke’s law",
+      "slo": "P-09-B-56"
+    },
+    {
+      "id": "PHY9CH5-273",
+      "q": "A perpendicular force of 200 N acts uniformly on 0.05 m². Calculate pressure.",
+      "o": [
+        "8000 Pa",
+        "4000 Pa",
+        "2000 Pa",
+        "4100 Pa"
+      ],
+      "a": 1,
+      "e": "P=F/A=200/0.05=4000 Pa.",
+      "d": "Medium",
+      "topic": "Pressure",
+      "slo": "P-09-B-77"
+    },
+    {
+      "id": "PHY9CH5-274",
+      "q": "Pressure of 600 Pa acts normally on an area of 0.1 m². What is the force?",
+      "o": [
+        "30 N",
+        "120 N",
+        "60 N",
+        "660 N"
+      ],
+      "a": 2,
+      "e": "F=PA=600×0.1=60 N.",
+      "d": "Medium",
+      "topic": "Pressure",
+      "slo": "P-09-B-77"
+    },
+    {
+      "id": "PHY9CH5-275",
+      "q": "Using g = 10 N/kg, calculate gauge pressure at depth 3 m in a liquid of density 1300 kg/m³.",
+      "o": [
+        "52000 Pa",
+        "39000 Pa",
+        "19500 Pa",
+        "78000 Pa"
+      ],
+      "a": 1,
+      "e": "P=ρgh=1300×10×3=39000 Pa.",
+      "d": "Medium",
+      "topic": "Liquid pressure",
+      "slo": "P-09-B-84"
+    },
+    {
+      "id": "PHY9CH5-276",
+      "q": "In a hydraulic lift, the output piston area is 4 times the input piston area. If input force is 70 N, what is output force (neglect losses)?",
+      "o": [
+        "350 N",
+        "280 N",
+        "1120 N",
+        "140 N"
+      ],
+      "a": 1,
+      "e": "F2/F1=A2/A1=4, so F2=70×4=280 N.",
+      "d": "Medium",
+      "topic": "Hydraulics",
+      "slo": "P-09-B-86"
+    },
+    {
+      "id": "PHY9CH5-277",
+      "q": "A spring has constant 500 N/m and extends 0.05 m. What force stretches it?",
+      "o": [
+        "25 N",
+        "50 N",
+        "12.5 N",
+        "35 N"
+      ],
+      "a": 0,
+      "e": "F=kx=500×0.05=25 N.",
+      "d": "Medium",
+      "topic": "Hooke’s law",
+      "slo": "P-09-B-56"
+    },
+    {
+      "id": "PHY9CH5-278",
+      "q": "A force of 80 N extends a spring by 0.2 m. Find its spring constant.",
+      "o": [
+        "480 N/m",
+        "400 N/m",
+        "800 N/m",
+        "200 N/m"
+      ],
+      "a": 1,
+      "e": "k=F/x=80/0.2=400 N/m.",
+      "d": "Medium",
+      "topic": "Hooke’s law",
+      "slo": "P-09-B-56"
+    },
+    {
+      "id": "PHY9CH5-279",
+      "q": "A perpendicular force of 250 N acts uniformly on 0.05 m². Calculate pressure.",
+      "o": [
+        "2500 Pa",
+        "5100 Pa",
+        "10000 Pa",
+        "5000 Pa"
+      ],
+      "a": 3,
+      "e": "P=F/A=250/0.05=5000 Pa.",
+      "d": "Medium",
+      "topic": "Pressure",
+      "slo": "P-09-B-77"
+    },
+    {
+      "id": "PHY9CH5-280",
+      "q": "Pressure of 800 Pa acts normally on an area of 0.1 m². What is the force?",
+      "o": [
+        "40 N",
+        "160 N",
+        "80 N",
+        "880 N"
+      ],
+      "a": 2,
+      "e": "F=PA=800×0.1=80 N.",
+      "d": "Medium",
+      "topic": "Pressure",
+      "slo": "P-09-B-77"
+    },
+    {
+      "id": "PHY9CH5-281",
+      "q": "Using g = 10 N/kg, calculate gauge pressure at depth 3 m in a liquid of density 1400 kg/m³.",
+      "o": [
+        "21000 Pa",
+        "56000 Pa",
+        "84000 Pa",
+        "42000 Pa"
+      ],
+      "a": 3,
+      "e": "P=ρgh=1400×10×3=42000 Pa.",
+      "d": "Medium",
+      "topic": "Liquid pressure",
+      "slo": "P-09-B-84"
+    },
+    {
+      "id": "PHY9CH5-282",
+      "q": "In a hydraulic lift, the output piston area is 4 times the input piston area. If input force is 80 N, what is output force (neglect losses)?",
+      "o": [
+        "160 N",
+        "320 N",
+        "1280 N",
+        "400 N"
+      ],
+      "a": 1,
+      "e": "F2/F1=A2/A1=4, so F2=80×4=320 N.",
+      "d": "Medium",
+      "topic": "Hydraulics",
+      "slo": "P-09-B-86"
+    },
+    {
+      "id": "PHY9CH5-283",
+      "q": "A spring has constant 600 N/m and extends 0.05 m. What force stretches it?",
+      "o": [
+        "40 N",
+        "15 N",
+        "30 N",
+        "60 N"
+      ],
+      "a": 2,
+      "e": "F=kx=600×0.05=30 N.",
+      "d": "Medium",
+      "topic": "Hooke’s law",
+      "slo": "P-09-B-56"
+    },
+    {
+      "id": "PHY9CH5-284",
+      "q": "A force of 100 N extends a spring by 0.2 m. Find its spring constant.",
+      "o": [
+        "250 N/m",
+        "600 N/m",
+        "500 N/m",
+        "1000 N/m"
+      ],
+      "a": 2,
+      "e": "k=F/x=100/0.2=500 N/m.",
+      "d": "Medium",
+      "topic": "Hooke’s law",
+      "slo": "P-09-B-56"
+    },
+    {
+      "id": "PHY9CH5-285",
+      "q": "A perpendicular force of 300 N acts uniformly on 0.05 m². Calculate pressure.",
+      "o": [
+        "6100 Pa",
+        "3000 Pa",
+        "12000 Pa",
+        "6000 Pa"
+      ],
+      "a": 3,
+      "e": "P=F/A=300/0.05=6000 Pa.",
+      "d": "Medium",
+      "topic": "Pressure",
+      "slo": "P-09-B-77"
+    },
+    {
+      "id": "PHY9CH5-286",
+      "q": "Pressure of 1000 Pa acts normally on an area of 0.1 m². What is the force?",
+      "o": [
+        "200 N",
+        "100 N",
+        "50 N",
+        "1100 N"
+      ],
+      "a": 1,
+      "e": "F=PA=1000×0.1=100 N.",
+      "d": "Medium",
+      "topic": "Pressure",
+      "slo": "P-09-B-77"
+    },
+    {
+      "id": "PHY9CH5-287",
+      "q": "Using g = 10 N/kg, calculate gauge pressure at depth 3 m in a liquid of density 1500 kg/m³.",
+      "o": [
+        "22500 Pa",
+        "90000 Pa",
+        "60000 Pa",
+        "45000 Pa"
+      ],
+      "a": 3,
+      "e": "P=ρgh=1500×10×3=45000 Pa.",
+      "d": "Medium",
+      "topic": "Liquid pressure",
+      "slo": "P-09-B-84"
+    },
+    {
+      "id": "PHY9CH5-288",
+      "q": "In a hydraulic lift, the output piston area is 4 times the input piston area. If input force is 90 N, what is output force (neglect losses)?",
+      "o": [
+        "450 N",
+        "360 N",
+        "1440 N",
+        "180 N"
+      ],
+      "a": 1,
+      "e": "F2/F1=A2/A1=4, so F2=90×4=360 N.",
+      "d": "Medium",
+      "topic": "Hydraulics",
+      "slo": "P-09-B-86"
+    },
+    {
+      "id": "PHY9CH5-289",
+      "q": "A spring has constant 800 N/m and extends 0.05 m. What force stretches it?",
+      "o": [
+        "50 N",
+        "40 N",
+        "80 N",
+        "20 N"
+      ],
+      "a": 1,
+      "e": "F=kx=800×0.05=40 N.",
+      "d": "Medium",
+      "topic": "Hooke’s law",
+      "slo": "P-09-B-56"
+    },
+    {
+      "id": "PHY9CH5-290",
+      "q": "A force of 120 N extends a spring by 0.2 m. Find its spring constant.",
+      "o": [
+        "300 N/m",
+        "1200 N/m",
+        "720 N/m",
+        "600 N/m"
+      ],
+      "a": 3,
+      "e": "k=F/x=120/0.2=600 N/m.",
+      "d": "Medium",
+      "topic": "Hooke’s law",
+      "slo": "P-09-B-56"
+    },
+    {
+      "id": "PHY9CH5-291",
+      "q": "A perpendicular force of 400 N acts uniformly on 0.05 m². Calculate pressure.",
+      "o": [
+        "4000 Pa",
+        "8000 Pa",
+        "8100 Pa",
+        "16000 Pa"
+      ],
+      "a": 1,
+      "e": "P=F/A=400/0.05=8000 Pa.",
+      "d": "Medium",
+      "topic": "Pressure",
+      "slo": "P-09-B-77"
+    },
+    {
+      "id": "PHY9CH5-292",
+      "q": "Pressure of 1200 Pa acts normally on an area of 0.1 m². What is the force?",
+      "o": [
+        "1320 N",
+        "60 N",
+        "120 N",
+        "240 N"
+      ],
+      "a": 2,
+      "e": "F=PA=1200×0.1=120 N.",
+      "d": "Medium",
+      "topic": "Pressure",
+      "slo": "P-09-B-77"
+    },
+    {
+      "id": "PHY9CH5-293",
+      "q": "Using g = 10 N/kg, calculate gauge pressure at depth 3 m in a liquid of density 1600 kg/m³.",
+      "o": [
+        "96000 Pa",
+        "48000 Pa",
+        "24000 Pa",
+        "64000 Pa"
+      ],
+      "a": 1,
+      "e": "P=ρgh=1600×10×3=48000 Pa.",
+      "d": "Medium",
+      "topic": "Liquid pressure",
+      "slo": "P-09-B-84"
+    },
+    {
+      "id": "PHY9CH5-294",
+      "q": "In a hydraulic lift, the output piston area is 4 times the input piston area. If input force is 100 N, what is output force (neglect losses)?",
+      "o": [
+        "200 N",
+        "500 N",
+        "400 N",
+        "1600 N"
+      ],
+      "a": 2,
+      "e": "F2/F1=A2/A1=4, so F2=100×4=400 N.",
+      "d": "Medium",
+      "topic": "Hydraulics",
+      "slo": "P-09-B-86"
+    },
+    {
+      "id": "PHY9CH5-295",
+      "q": "A spring has constant 1000 N/m and extends 0.05 m. What force stretches it?",
+      "o": [
+        "60 N",
+        "25 N",
+        "50 N",
+        "100 N"
+      ],
+      "a": 2,
+      "e": "F=kx=1000×0.05=50 N.",
+      "d": "Medium",
+      "topic": "Hooke’s law",
+      "slo": "P-09-B-56"
+    },
+    {
+      "id": "PHY9CH5-296",
+      "q": "A force of 150 N extends a spring by 0.2 m. Find its spring constant.",
+      "o": [
+        "900 N/m",
+        "750 N/m",
+        "375 N/m",
+        "1500 N/m"
+      ],
+      "a": 1,
+      "e": "k=F/x=150/0.2=750 N/m.",
+      "d": "Medium",
+      "topic": "Hooke’s law",
+      "slo": "P-09-B-56"
+    },
+    {
+      "id": "PHY9CH5-297",
+      "q": "A perpendicular force of 500 N acts uniformly on 0.05 m². Calculate pressure.",
+      "o": [
+        "10000 Pa",
+        "10100 Pa",
+        "5000 Pa",
+        "20000 Pa"
+      ],
+      "a": 0,
+      "e": "P=F/A=500/0.05=10000 Pa.",
+      "d": "Medium",
+      "topic": "Pressure",
+      "slo": "P-09-B-77"
+    },
+    {
+      "id": "PHY9CH5-298",
+      "q": "Pressure of 1500 Pa acts normally on an area of 0.1 m². What is the force?",
+      "o": [
+        "75 N",
+        "150 N",
+        "1650 N",
+        "300 N"
+      ],
+      "a": 1,
+      "e": "F=PA=1500×0.1=150 N.",
+      "d": "Medium",
+      "topic": "Pressure",
+      "slo": "P-09-B-77"
+    },
+    {
+      "id": "PHY9CH5-299",
+      "q": "Using g = 10 N/kg, calculate gauge pressure at depth 3 m in a liquid of density 1800 kg/m³.",
+      "o": [
+        "108000 Pa",
+        "54000 Pa",
+        "27000 Pa",
+        "72000 Pa"
+      ],
+      "a": 1,
+      "e": "P=ρgh=1800×10×3=54000 Pa.",
+      "d": "Medium",
+      "topic": "Liquid pressure",
+      "slo": "P-09-B-84"
+    },
+    {
+      "id": "PHY9CH5-300",
+      "q": "In a hydraulic lift, the output piston area is 4 times the input piston area. If input force is 120 N, what is output force (neglect losses)?",
+      "o": [
+        "240 N",
+        "1920 N",
+        "600 N",
+        "480 N"
+      ],
+      "a": 3,
+      "e": "F2/F1=A2/A1=4, so F2=120×4=480 N.",
+      "d": "Medium",
+      "topic": "Hydraulics",
+      "slo": "P-09-B-86"
+    }
+  ]
+}

@@ -1,0 +1,4504 @@
+{
+  "questions": [
+    {
+      "id": "PHY9CH8-001",
+      "q": "In an unmagnetized ferromagnetic specimen, magnetic domains are generally:",
+      "o": [
+        "Randomly oriented",
+        "Absent",
+        "All aligned north",
+        "All aligned south"
+      ],
+      "a": 0,
+      "e": "Random domain orientations largely cancel their magnetic effects.",
+      "d": "Easy",
+      "topic": "Domain theory",
+      "slo": "P-09-E-11"
+    },
+    {
+      "id": "PHY9CH8-002",
+      "q": "What changes in a ferromagnetic material when it is magnetized?",
+      "o": [
+        "All atoms disappear",
+        "The number of protons doubles",
+        "Many domains align in a common direction",
+        "Domains cease to exist"
+      ],
+      "a": 2,
+      "e": "Magnetization involves alignment of magnetic domains.",
+      "d": "Medium",
+      "topic": "Domain theory",
+      "slo": "P-09-E-11"
+    },
+    {
+      "id": "PHY9CH8-003",
+      "q": "Choose the correct response: What changes in a ferromagnetic material when it is magnetized?",
+      "o": [
+        "The number of protons doubles",
+        "Many domains align in a common direction",
+        "Domains cease to exist",
+        "All atoms disappear"
+      ],
+      "a": 1,
+      "e": "Magnetization involves alignment of magnetic domains.",
+      "d": "Medium",
+      "topic": "Domain theory",
+      "slo": "P-09-E-11"
+    },
+    {
+      "id": "PHY9CH8-004",
+      "q": "A magnetic domain is a region in which:",
+      "o": [
+        "Many atomic magnetic moments are aligned",
+        "Temperature is always zero",
+        "All atoms have zero mass",
+        "Electric charges cannot move"
+      ],
+      "a": 0,
+      "e": "A domain contains atoms with similarly oriented magnetic moments.",
+      "d": "Medium",
+      "topic": "Domain theory",
+      "slo": "P-09-E-11"
+    },
+    {
+      "id": "PHY9CH8-005",
+      "q": "Choose the correct response: A magnetic domain is a region in which:",
+      "o": [
+        "Electric charges cannot move",
+        "Many atomic magnetic moments are aligned",
+        "Temperature is always zero",
+        "All atoms have zero mass"
+      ],
+      "a": 1,
+      "e": "A domain contains atoms with similarly oriented magnetic moments.",
+      "d": "Medium",
+      "topic": "Domain theory",
+      "slo": "P-09-E-11"
+    },
+    {
+      "id": "PHY9CH8-006",
+      "q": "Which microscopic phenomenon contributes to magnetism?",
+      "o": [
+        "Only thermal expansion",
+        "Only the mass of neutrons",
+        "Only gravitational attraction",
+        "Magnetic moments associated with electrons"
+      ],
+      "a": 3,
+      "e": "Electron motion and intrinsic magnetic moments contribute to magnetism.",
+      "d": "Easy",
+      "topic": "Domain theory",
+      "slo": "P-09-E-11"
+    },
+    {
+      "id": "PHY9CH8-007",
+      "q": "Choose the correct response: Which microscopic phenomenon contributes to magnetism?",
+      "o": [
+        "Magnetic moments associated with electrons",
+        "Only gravitational attraction",
+        "Only thermal expansion",
+        "Only the mass of neutrons"
+      ],
+      "a": 0,
+      "e": "Electron motion and intrinsic magnetic moments contribute to magnetism.",
+      "d": "Medium",
+      "topic": "Domain theory",
+      "slo": "P-09-E-11"
+    },
+    {
+      "id": "PHY9CH8-008",
+      "q": "Why can an iron nail have little net magnetism before magnetization?",
+      "o": [
+        "Its atoms have no magnetic moments",
+        "Its domains point in differing directions",
+        "Its mass is zero",
+        "It has no electrons"
+      ],
+      "a": 1,
+      "e": "Unaligned domains cancel much of the overall magnetization.",
+      "d": "Medium",
+      "topic": "Domain theory",
+      "slo": "P-09-E-11"
+    },
+    {
+      "id": "PHY9CH8-009",
+      "q": "Choose the correct response: Why can an iron nail have little net magnetism before magnetization?",
+      "o": [
+        "Its atoms have no magnetic moments",
+        "It has no electrons",
+        "Its domains point in differing directions",
+        "Its mass is zero"
+      ],
+      "a": 2,
+      "e": "Unaligned domains cancel much of the overall magnetization.",
+      "d": "Medium",
+      "topic": "Domain theory",
+      "slo": "P-09-E-11"
+    },
+    {
+      "id": "PHY9CH8-010",
+      "q": "Heating a magnet strongly often weakens it because:",
+      "o": [
+        "It turns iron into copper",
+        "It creates extra north poles",
+        "It removes all electrons",
+        "Thermal agitation disrupts domain alignment"
+      ],
+      "a": 3,
+      "e": "Heat can disturb magnetic order and reduce magnetization.",
+      "d": "Medium",
+      "topic": "Domain theory",
+      "slo": "P-09-E-11"
+    },
+    {
+      "id": "PHY9CH8-011",
+      "q": "Choose the correct response: Heating a magnet strongly often weakens it because:",
+      "o": [
+        "Thermal agitation disrupts domain alignment",
+        "It turns iron into copper",
+        "It creates extra north poles",
+        "It removes all electrons"
+      ],
+      "a": 0,
+      "e": "Heat can disturb magnetic order and reduce magnetization.",
+      "d": "Medium",
+      "topic": "Domain theory",
+      "slo": "P-09-E-11"
+    },
+    {
+      "id": "PHY9CH8-012",
+      "q": "Which observation best indicates successful magnetization?",
+      "o": [
+        "Greater net alignment of magnetic domains",
+        "All domains becoming random",
+        "Reduction of atomic number",
+        "Loss of every magnetic field"
+      ],
+      "a": 0,
+      "e": "Net domain alignment produces a macroscopic magnetic field.",
+      "d": "Easy",
+      "topic": "Domain theory",
+      "slo": "P-09-E-11"
+    },
+    {
+      "id": "PHY9CH8-013",
+      "q": "Choose the correct response: Which observation best indicates successful magnetization?",
+      "o": [
+        "All domains becoming random",
+        "Loss of every magnetic field",
+        "Reduction of atomic number",
+        "Greater net alignment of magnetic domains"
+      ],
+      "a": 3,
+      "e": "Net domain alignment produces a macroscopic magnetic field.",
+      "d": "Medium",
+      "topic": "Domain theory",
+      "slo": "P-09-E-11"
+    },
+    {
+      "id": "PHY9CH8-014",
+      "q": "Why does a magnetized steel bar have a net magnetic field?",
+      "o": [
+        "Its domain contributions no longer cancel completely",
+        "Its density becomes zero",
+        "It contains isolated north poles",
+        "Its electrons stop moving"
+      ],
+      "a": 0,
+      "e": "Aligned domains produce a resultant field.",
+      "d": "Medium",
+      "topic": "Domain theory",
+      "slo": "P-09-E-11"
+    },
+    {
+      "id": "PHY9CH8-015",
+      "q": "Choose the correct response: Why does a magnetized steel bar have a net magnetic field?",
+      "o": [
+        "Its density becomes zero",
+        "Its electrons stop moving",
+        "Its domain contributions no longer cancel completely",
+        "It contains isolated north poles"
+      ],
+      "a": 2,
+      "e": "Aligned domains produce a resultant field.",
+      "d": "Medium",
+      "topic": "Domain theory",
+      "slo": "P-09-E-11"
+    },
+    {
+      "id": "PHY9CH8-016",
+      "q": "Two north poles brought close together will:",
+      "o": [
+        "Attract each other",
+        "Merge into one pole",
+        "Repel each other",
+        "Lose all mass"
+      ],
+      "a": 2,
+      "e": "Like magnetic poles repel.",
+      "d": "Medium",
+      "topic": "Magnetic poles",
+      "slo": "P-09-E-01"
+    },
+    {
+      "id": "PHY9CH8-017",
+      "q": "Choose the correct response: Two north poles brought close together will:",
+      "o": [
+        "Lose all mass",
+        "Merge into one pole",
+        "Repel each other",
+        "Attract each other"
+      ],
+      "a": 2,
+      "e": "Like magnetic poles repel.",
+      "d": "Medium",
+      "topic": "Magnetic poles",
+      "slo": "P-09-E-01"
+    },
+    {
+      "id": "PHY9CH8-018",
+      "q": "A north pole facing a south pole will:",
+      "o": [
+        "Stop producing fields",
+        "Attract",
+        "Repel",
+        "Become electrically neutral"
+      ],
+      "a": 1,
+      "e": "Unlike magnetic poles attract.",
+      "d": "Easy",
+      "topic": "Magnetic poles",
+      "slo": "P-09-E-01"
+    },
+    {
+      "id": "PHY9CH8-019",
+      "q": "Choose the correct response: A north pole facing a south pole will:",
+      "o": [
+        "Become electrically neutral",
+        "Stop producing fields",
+        "Repel",
+        "Attract"
+      ],
+      "a": 3,
+      "e": "Unlike magnetic poles attract.",
+      "d": "Medium",
+      "topic": "Magnetic poles",
+      "slo": "P-09-E-01"
+    },
+    {
+      "id": "PHY9CH8-020",
+      "q": "Two south poles brought close together will:",
+      "o": [
+        "Form a monopole",
+        "Become nonmagnetic instantly",
+        "Repel",
+        "Attract"
+      ],
+      "a": 2,
+      "e": "Like poles repel.",
+      "d": "Medium",
+      "topic": "Magnetic poles",
+      "slo": "P-09-E-01"
+    },
+    {
+      "id": "PHY9CH8-021",
+      "q": "Choose the correct response: Two south poles brought close together will:",
+      "o": [
+        "Attract",
+        "Form a monopole",
+        "Repel",
+        "Become nonmagnetic instantly"
+      ],
+      "a": 2,
+      "e": "Like poles repel.",
+      "d": "Medium",
+      "topic": "Magnetic poles",
+      "slo": "P-09-E-01"
+    },
+    {
+      "id": "PHY9CH8-022",
+      "q": "If a bar magnet is cut into two pieces, each piece ordinarily has:",
+      "o": [
+        "Only a north pole",
+        "No magnetic poles at all",
+        "A north and a south pole",
+        "Only a south pole"
+      ],
+      "a": 2,
+      "e": "Cutting a bar magnet produces smaller dipole magnets.",
+      "d": "Medium",
+      "topic": "Magnetic poles",
+      "slo": "P-09-E-01"
+    },
+    {
+      "id": "PHY9CH8-023",
+      "q": "Choose the correct response: If a bar magnet is cut into two pieces, each piece ordinarily has:",
+      "o": [
+        "A north and a south pole",
+        "No magnetic poles at all",
+        "Only a north pole",
+        "Only a south pole"
+      ],
+      "a": 0,
+      "e": "Cutting a bar magnet produces smaller dipole magnets.",
+      "d": "Medium",
+      "topic": "Magnetic poles",
+      "slo": "P-09-E-01"
+    },
+    {
+      "id": "PHY9CH8-024",
+      "q": "Which statement about ordinary bar magnets is correct?",
+      "o": [
+        "They have no magnetic field",
+        "They contain only north poles",
+        "They have both north and south poles",
+        "They contain only south poles"
+      ],
+      "a": 2,
+      "e": "Ordinary magnets are dipoles.",
+      "d": "Easy",
+      "topic": "Magnetic poles",
+      "slo": "P-09-E-01"
+    },
+    {
+      "id": "PHY9CH8-025",
+      "q": "Choose the correct response: Which statement about ordinary bar magnets is correct?",
+      "o": [
+        "They contain only south poles",
+        "They have no magnetic field",
+        "They contain only north poles",
+        "They have both north and south poles"
+      ],
+      "a": 3,
+      "e": "Ordinary magnets are dipoles.",
+      "d": "Medium",
+      "topic": "Magnetic poles",
+      "slo": "P-09-E-01"
+    },
+    {
+      "id": "PHY9CH8-026",
+      "q": "Which interaction can occur between a magnet and an unmagnetized iron object?",
+      "o": [
+        "No force under any conditions",
+        "Only repulsion",
+        "Only gravitational attraction",
+        "Attraction through induced magnetization"
+      ],
+      "a": 3,
+      "e": "A magnet can induce a nearby iron object to become magnetized and attract it.",
+      "d": "Medium",
+      "topic": "Magnetic poles",
+      "slo": "P-09-E-01"
+    },
+    {
+      "id": "PHY9CH8-027",
+      "q": "Choose the correct response: Which interaction can occur between a magnet and an unmagnetized iron object?",
+      "o": [
+        "Attraction through induced magnetization",
+        "No force under any conditions",
+        "Only gravitational attraction",
+        "Only repulsion"
+      ],
+      "a": 0,
+      "e": "A magnet can induce a nearby iron object to become magnetized and attract it.",
+      "d": "Medium",
+      "topic": "Magnetic poles",
+      "slo": "P-09-E-01"
+    },
+    {
+      "id": "PHY9CH8-028",
+      "q": "A freely suspended bar magnet tends to align approximately:",
+      "o": [
+        "Only toward the Sun",
+        "Vertically at all places",
+        "East-west regardless of location",
+        "Along the local north-south magnetic direction"
+      ],
+      "a": 3,
+      "e": "Earth’s magnetic field exerts a turning effect on the magnet.",
+      "d": "Medium",
+      "topic": "Magnetic poles",
+      "slo": "P-09-E-01"
+    },
+    {
+      "id": "PHY9CH8-029",
+      "q": "Choose the correct response: A freely suspended bar magnet tends to align approximately:",
+      "o": [
+        "Only toward the Sun",
+        "East-west regardless of location",
+        "Along the local north-south magnetic direction",
+        "Vertically at all places"
+      ],
+      "a": 2,
+      "e": "Earth’s magnetic field exerts a turning effect on the magnet.",
+      "d": "Medium",
+      "topic": "Magnetic poles",
+      "slo": "P-09-E-01"
+    },
+    {
+      "id": "PHY9CH8-030",
+      "q": "The region where a magnet exerts magnetic influence is called its:",
+      "o": [
+        "Magnetic field",
+        "Gravitational mass",
+        "Electric resistance",
+        "Heat capacity"
+      ],
+      "a": 0,
+      "e": "A magnetic field is the region in which magnetic forces can act.",
+      "d": "Easy",
+      "topic": "Magnetic fields",
+      "slo": "P-09-E-05"
+    },
+    {
+      "id": "PHY9CH8-031",
+      "q": "Choose the correct response: The region where a magnet exerts magnetic influence is called its:",
+      "o": [
+        "Heat capacity",
+        "Magnetic field",
+        "Gravitational mass",
+        "Electric resistance"
+      ],
+      "a": 1,
+      "e": "A magnetic field is the region in which magnetic forces can act.",
+      "d": "Medium",
+      "topic": "Magnetic fields",
+      "slo": "P-09-E-05"
+    },
+    {
+      "id": "PHY9CH8-032",
+      "q": "What is the SI unit of magnetic flux density B?",
+      "o": [
+        "Newton",
+        "Joule",
+        "Watt",
+        "Tesla"
+      ],
+      "a": 3,
+      "e": "Magnetic flux density is measured in tesla (T).",
+      "d": "Medium",
+      "topic": "Magnetic fields",
+      "slo": "P-09-E-05"
+    },
+    {
+      "id": "PHY9CH8-033",
+      "q": "Choose the correct response: What is the SI unit of magnetic flux density B?",
+      "o": [
+        "Joule",
+        "Tesla",
+        "Watt",
+        "Newton"
+      ],
+      "a": 1,
+      "e": "Magnetic flux density is measured in tesla (T).",
+      "d": "Medium",
+      "topic": "Magnetic fields",
+      "slo": "P-09-E-05"
+    },
+    {
+      "id": "PHY9CH8-034",
+      "q": "The magnetic field direction at a point is defined by the force on:",
+      "o": [
+        "A test south pole",
+        "A test north pole",
+        "A stationary wooden block",
+        "A neutral glass bead"
+      ],
+      "a": 1,
+      "e": "The direction of force on a north test pole defines field direction.",
+      "d": "Medium",
+      "topic": "Magnetic fields",
+      "slo": "P-09-E-08"
+    },
+    {
+      "id": "PHY9CH8-035",
+      "q": "Choose the correct response: The magnetic field direction at a point is defined by the force on:",
+      "o": [
+        "A test north pole",
+        "A stationary wooden block",
+        "A neutral glass bead",
+        "A test south pole"
+      ],
+      "a": 0,
+      "e": "The direction of force on a north test pole defines field direction.",
+      "d": "Medium",
+      "topic": "Magnetic fields",
+      "slo": "P-09-E-08"
+    },
+    {
+      "id": "PHY9CH8-036",
+      "q": "Outside a bar magnet, magnetic field lines run:",
+      "o": [
+        "From the centre to infinity without return",
+        "From north pole toward south pole",
+        "Only in straight vertical lines",
+        "From south pole toward north pole"
+      ],
+      "a": 1,
+      "e": "External field lines emerge from N and enter S.",
+      "d": "Easy",
+      "topic": "Magnetic fields",
+      "slo": "P-09-E-07"
+    },
+    {
+      "id": "PHY9CH8-037",
+      "q": "Choose the correct response: Outside a bar magnet, magnetic field lines run:",
+      "o": [
+        "From north pole toward south pole",
+        "From the centre to infinity without return",
+        "Only in straight vertical lines",
+        "From south pole toward north pole"
+      ],
+      "a": 0,
+      "e": "External field lines emerge from N and enter S.",
+      "d": "Medium",
+      "topic": "Magnetic fields",
+      "slo": "P-09-E-07"
+    },
+    {
+      "id": "PHY9CH8-038",
+      "q": "Inside a bar magnet, magnetic field lines run:",
+      "o": [
+        "Nowhere because fields cannot exist inside",
+        "From south pole toward north pole",
+        "From north pole toward south pole",
+        "Only from the centre outward"
+      ],
+      "a": 1,
+      "e": "Field lines form closed loops, returning inside from S to N.",
+      "d": "Medium",
+      "topic": "Magnetic fields",
+      "slo": "P-09-E-07"
+    },
+    {
+      "id": "PHY9CH8-039",
+      "q": "Choose the correct response: Inside a bar magnet, magnetic field lines run:",
+      "o": [
+        "Only from the centre outward",
+        "Nowhere because fields cannot exist inside",
+        "From south pole toward north pole",
+        "From north pole toward south pole"
+      ],
+      "a": 2,
+      "e": "Field lines form closed loops, returning inside from S to N.",
+      "d": "Medium",
+      "topic": "Magnetic fields",
+      "slo": "P-09-E-07"
+    },
+    {
+      "id": "PHY9CH8-040",
+      "q": "Magnetic field lines are best described as:",
+      "o": [
+        "Lines that must intersect",
+        "Continuous closed curves",
+        "Lines with no direction",
+        "Lines that always terminate in empty space"
+      ],
+      "a": 1,
+      "e": "Magnetic field lines form closed loops.",
+      "d": "Medium",
+      "topic": "Magnetic fields",
+      "slo": "P-09-E-07"
+    },
+    {
+      "id": "PHY9CH8-041",
+      "q": "Choose the correct response: Magnetic field lines are best described as:",
+      "o": [
+        "Continuous closed curves",
+        "Lines with no direction",
+        "Lines that must intersect",
+        "Lines that always terminate in empty space"
+      ],
+      "a": 0,
+      "e": "Magnetic field lines form closed loops.",
+      "d": "Medium",
+      "topic": "Magnetic fields",
+      "slo": "P-09-E-07"
+    },
+    {
+      "id": "PHY9CH8-042",
+      "q": "Why do magnetic field lines not intersect?",
+      "o": [
+        "Field lines are made of iron",
+        "Fields have no direction",
+        "A field cannot have two directions at the same point",
+        "Only one magnet can exist"
+      ],
+      "a": 2,
+      "e": "At a point, the magnetic field has one definite direction.",
+      "d": "Easy",
+      "topic": "Magnetic fields",
+      "slo": "P-09-E-07"
+    },
+    {
+      "id": "PHY9CH8-043",
+      "q": "Choose the correct response: Why do magnetic field lines not intersect?",
+      "o": [
+        "Fields have no direction",
+        "Field lines are made of iron",
+        "Only one magnet can exist",
+        "A field cannot have two directions at the same point"
+      ],
+      "a": 3,
+      "e": "At a point, the magnetic field has one definite direction.",
+      "d": "Medium",
+      "topic": "Magnetic fields",
+      "slo": "P-09-E-07"
+    },
+    {
+      "id": "PHY9CH8-044",
+      "q": "At a point on a curved magnetic field line, the field direction is:",
+      "o": [
+        "Always toward geographic north",
+        "Perpendicular to the tangent",
+        "Along the tangent to the line",
+        "Always vertically up"
+      ],
+      "a": 2,
+      "e": "The tangent to a field line indicates local field direction.",
+      "d": "Medium",
+      "topic": "Magnetic fields",
+      "slo": "P-09-E-08"
+    },
+    {
+      "id": "PHY9CH8-045",
+      "q": "Choose the correct response: At a point on a curved magnetic field line, the field direction is:",
+      "o": [
+        "Perpendicular to the tangent",
+        "Always vertically up",
+        "Along the tangent to the line",
+        "Always toward geographic north"
+      ],
+      "a": 2,
+      "e": "The tangent to a field line indicates local field direction.",
+      "d": "Medium",
+      "topic": "Magnetic fields",
+      "slo": "P-09-E-08"
+    },
+    {
+      "id": "PHY9CH8-046",
+      "q": "Closely spaced magnetic field lines indicate:",
+      "o": [
+        "A nonmagnetic region",
+        "A field of zero strength",
+        "A weak field",
+        "A relatively strong field"
+      ],
+      "a": 3,
+      "e": "Line density represents relative magnetic field strength.",
+      "d": "Medium",
+      "topic": "Magnetic fields",
+      "slo": "P-09-E-09"
+    },
+    {
+      "id": "PHY9CH8-047",
+      "q": "Choose the correct response: Closely spaced magnetic field lines indicate:",
+      "o": [
+        "A relatively strong field",
+        "A weak field",
+        "A nonmagnetic region",
+        "A field of zero strength"
+      ],
+      "a": 0,
+      "e": "Line density represents relative magnetic field strength.",
+      "d": "Medium",
+      "topic": "Magnetic fields",
+      "slo": "P-09-E-09"
+    },
+    {
+      "id": "PHY9CH8-048",
+      "q": "Widely spaced magnetic field lines indicate:",
+      "o": [
+        "A field that must be electric",
+        "A magnetic monopole",
+        "A stronger field than crowded lines",
+        "A relatively weak field"
+      ],
+      "a": 3,
+      "e": "Widely spaced lines indicate lower field strength.",
+      "d": "Easy",
+      "topic": "Magnetic fields",
+      "slo": "P-09-E-09"
+    },
+    {
+      "id": "PHY9CH8-049",
+      "q": "Choose the correct response: Widely spaced magnetic field lines indicate:",
+      "o": [
+        "A stronger field than crowded lines",
+        "A relatively weak field",
+        "A field that must be electric",
+        "A magnetic monopole"
+      ],
+      "a": 1,
+      "e": "Widely spaced lines indicate lower field strength.",
+      "d": "Medium",
+      "topic": "Magnetic fields",
+      "slo": "P-09-E-09"
+    },
+    {
+      "id": "PHY9CH8-050",
+      "q": "Where is a bar magnet field commonly strongest?",
+      "o": [
+        "Equally strong everywhere",
+        "Only at its exact centre",
+        "Near its poles",
+        "Far from the magnet"
+      ],
+      "a": 2,
+      "e": "Field lines are most concentrated near the poles.",
+      "d": "Medium",
+      "topic": "Magnetic fields",
+      "slo": "P-09-E-09"
+    },
+    {
+      "id": "PHY9CH8-051",
+      "q": "Choose the correct response: Where is a bar magnet field commonly strongest?",
+      "o": [
+        "Near its poles",
+        "Only at its exact centre",
+        "Far from the magnet",
+        "Equally strong everywhere"
+      ],
+      "a": 0,
+      "e": "Field lines are most concentrated near the poles.",
+      "d": "Medium",
+      "topic": "Magnetic fields",
+      "slo": "P-09-E-09"
+    },
+    {
+      "id": "PHY9CH8-052",
+      "q": "Which instrument helps trace a bar magnet field direction?",
+      "o": [
+        "Stopwatch",
+        "Thermometer",
+        "Plotting compass",
+        "Measuring cylinder"
+      ],
+      "a": 2,
+      "e": "A compass needle aligns with the local magnetic field.",
+      "d": "Medium",
+      "topic": "Magnetic fields",
+      "slo": "P-09-E-06"
+    },
+    {
+      "id": "PHY9CH8-053",
+      "q": "Choose the correct response: Which instrument helps trace a bar magnet field direction?",
+      "o": [
+        "Measuring cylinder",
+        "Stopwatch",
+        "Thermometer",
+        "Plotting compass"
+      ],
+      "a": 3,
+      "e": "A compass needle aligns with the local magnetic field.",
+      "d": "Medium",
+      "topic": "Magnetic fields",
+      "slo": "P-09-E-06"
+    },
+    {
+      "id": "PHY9CH8-054",
+      "q": "Iron filings sprinkled around a bar magnet mainly reveal:",
+      "o": [
+        "The pattern of magnetic field lines",
+        "Its electrical resistance",
+        "The exact mass of the magnet",
+        "Its temperature"
+      ],
+      "a": 0,
+      "e": "Iron filings align along the magnetic field pattern.",
+      "d": "Easy",
+      "topic": "Magnetic fields",
+      "slo": "P-09-E-06"
+    },
+    {
+      "id": "PHY9CH8-055",
+      "q": "Choose the correct response: Iron filings sprinkled around a bar magnet mainly reveal:",
+      "o": [
+        "The pattern of magnetic field lines",
+        "The exact mass of the magnet",
+        "Its temperature",
+        "Its electrical resistance"
+      ],
+      "a": 0,
+      "e": "Iron filings align along the magnetic field pattern.",
+      "d": "Medium",
+      "topic": "Magnetic fields",
+      "slo": "P-09-E-06"
+    },
+    {
+      "id": "PHY9CH8-056",
+      "q": "When mapping a field with a compass, the marked direction follows:",
+      "o": [
+        "The north-seeking end of the needle",
+        "The compass case edge",
+        "The direction of gravity",
+        "The south-seeking end only"
+      ],
+      "a": 0,
+      "e": "The north end of the compass points along the field.",
+      "d": "Medium",
+      "topic": "Magnetic fields",
+      "slo": "P-09-E-06"
+    },
+    {
+      "id": "PHY9CH8-057",
+      "q": "Choose the correct response: When mapping a field with a compass, the marked direction follows:",
+      "o": [
+        "The direction of gravity",
+        "The compass case edge",
+        "The north-seeking end of the needle",
+        "The south-seeking end only"
+      ],
+      "a": 2,
+      "e": "The north end of the compass points along the field.",
+      "d": "Medium",
+      "topic": "Magnetic fields",
+      "slo": "P-09-E-06"
+    },
+    {
+      "id": "PHY9CH8-058",
+      "q": "Why should a plotting compass be moved to several points?",
+      "o": [
+        "To increase the magnet mass",
+        "To eliminate magnetism",
+        "To map the changing direction of the field",
+        "To change Earth’s rotation"
+      ],
+      "a": 2,
+      "e": "Multiple readings show the field pattern at different locations.",
+      "d": "Medium",
+      "topic": "Magnetic fields",
+      "slo": "P-09-E-06"
+    },
+    {
+      "id": "PHY9CH8-059",
+      "q": "Choose the correct response: Why should a plotting compass be moved to several points?",
+      "o": [
+        "To eliminate magnetism",
+        "To increase the magnet mass",
+        "To map the changing direction of the field",
+        "To change Earth’s rotation"
+      ],
+      "a": 2,
+      "e": "Multiple readings show the field pattern at different locations.",
+      "d": "Medium",
+      "topic": "Magnetic fields",
+      "slo": "P-09-E-06"
+    },
+    {
+      "id": "PHY9CH8-060",
+      "q": "A region with very little resultant magnetic field is called a:",
+      "o": [
+        "Neutral zone",
+        "Radiation source",
+        "Thermal zone",
+        "High-pressure zone"
+      ],
+      "a": 0,
+      "e": "Fields can cancel approximately in a neutral zone.",
+      "d": "Easy",
+      "topic": "Magnetic fields",
+      "slo": "P-09-E-09"
+    },
+    {
+      "id": "PHY9CH8-061",
+      "q": "Choose the correct response: A region with very little resultant magnetic field is called a:",
+      "o": [
+        "Radiation source",
+        "High-pressure zone",
+        "Thermal zone",
+        "Neutral zone"
+      ],
+      "a": 3,
+      "e": "Fields can cancel approximately in a neutral zone.",
+      "d": "Medium",
+      "topic": "Magnetic fields",
+      "slo": "P-09-E-09"
+    },
+    {
+      "id": "PHY9CH8-062",
+      "q": "Which material is suitable for diverting magnetic fields around sensitive equipment?",
+      "o": [
+        "Dry wood",
+        "Ordinary glass",
+        "Soft iron",
+        "Plastic foam"
+      ],
+      "a": 2,
+      "e": "High-permeability soft magnetic materials can guide field lines around a protected region.",
+      "d": "Medium",
+      "topic": "Magnetic shielding",
+      "slo": "P-09-E-15"
+    },
+    {
+      "id": "PHY9CH8-063",
+      "q": "Choose the correct response: Which material is suitable for diverting magnetic fields around sensitive equipment?",
+      "o": [
+        "Soft iron",
+        "Ordinary glass",
+        "Dry wood",
+        "Plastic foam"
+      ],
+      "a": 0,
+      "e": "High-permeability soft magnetic materials can guide field lines around a protected region.",
+      "d": "Medium",
+      "topic": "Magnetic shielding",
+      "slo": "P-09-E-15"
+    },
+    {
+      "id": "PHY9CH8-064",
+      "q": "The purpose of magnetic shielding is to:",
+      "o": [
+        "Remove gravity",
+        "Create isolated magnetic poles",
+        "Reduce unwanted magnetic fields in a region",
+        "Increase all electric currents"
+      ],
+      "a": 2,
+      "e": "Shielding redirects magnetic flux to reduce exposure.",
+      "d": "Medium",
+      "topic": "Magnetic shielding",
+      "slo": "P-09-E-15"
+    },
+    {
+      "id": "PHY9CH8-065",
+      "q": "Choose the correct response: The purpose of magnetic shielding is to:",
+      "o": [
+        "Reduce unwanted magnetic fields in a region",
+        "Remove gravity",
+        "Create isolated magnetic poles",
+        "Increase all electric currents"
+      ],
+      "a": 0,
+      "e": "Shielding redirects magnetic flux to reduce exposure.",
+      "d": "Medium",
+      "topic": "Magnetic shielding",
+      "slo": "P-09-E-15"
+    },
+    {
+      "id": "PHY9CH8-066",
+      "q": "Which material property is useful in a magnetic shield?",
+      "o": [
+        "Transparency to light",
+        "High magnetic permeability",
+        "High electrical resistance only",
+        "Very low density only"
+      ],
+      "a": 1,
+      "e": "High permeability helps the shield guide magnetic flux.",
+      "d": "Easy",
+      "topic": "Magnetic shielding",
+      "slo": "P-09-E-15"
+    },
+    {
+      "id": "PHY9CH8-067",
+      "q": "Choose the correct response: Which material property is useful in a magnetic shield?",
+      "o": [
+        "High electrical resistance only",
+        "Transparency to light",
+        "Very low density only",
+        "High magnetic permeability"
+      ],
+      "a": 3,
+      "e": "High permeability helps the shield guide magnetic flux.",
+      "d": "Medium",
+      "topic": "Magnetic shielding",
+      "slo": "P-09-E-15"
+    },
+    {
+      "id": "PHY9CH8-068",
+      "q": "Why are rounded corners useful in magnetic shields?",
+      "o": [
+        "They eliminate the need for material",
+        "They make the shield radioactive",
+        "They allow smoother paths for magnetic flux",
+        "They create magnetic monopoles"
+      ],
+      "a": 2,
+      "e": "Rounded paths help avoid abrupt changes in the flux path.",
+      "d": "Medium",
+      "topic": "Magnetic shielding",
+      "slo": "P-09-E-15"
+    },
+    {
+      "id": "PHY9CH8-069",
+      "q": "Choose the correct response: Why are rounded corners useful in magnetic shields?",
+      "o": [
+        "They create magnetic monopoles",
+        "They make the shield radioactive",
+        "They eliminate the need for material",
+        "They allow smoother paths for magnetic flux"
+      ],
+      "a": 3,
+      "e": "Rounded paths help avoid abrupt changes in the flux path.",
+      "d": "Medium",
+      "topic": "Magnetic shielding",
+      "slo": "P-09-E-15"
+    },
+    {
+      "id": "PHY9CH8-070",
+      "q": "Induced magnetism occurs when:",
+      "o": [
+        "A body gains gravitational mass",
+        "A magnet loses both poles",
+        "Heat always increases magnetization",
+        "A material becomes magnetized in an external magnetic field"
+      ],
+      "a": 3,
+      "e": "External magnetic fields can align domains in suitable materials.",
+      "d": "Medium",
+      "topic": "Induced magnetism",
+      "slo": "P-09-E-02"
+    },
+    {
+      "id": "PHY9CH8-071",
+      "q": "Choose the correct response: Induced magnetism occurs when:",
+      "o": [
+        "A body gains gravitational mass",
+        "A material becomes magnetized in an external magnetic field",
+        "A magnet loses both poles",
+        "Heat always increases magnetization"
+      ],
+      "a": 1,
+      "e": "External magnetic fields can align domains in suitable materials.",
+      "d": "Medium",
+      "topic": "Induced magnetism",
+      "slo": "P-09-E-02"
+    },
+    {
+      "id": "PHY9CH8-072",
+      "q": "An unmagnetized iron nail near a strong magnet may:",
+      "o": [
+        "Become temporarily magnetized",
+        "Turn into a permanent monopole",
+        "Become a nonmetal",
+        "Lose all its electrons"
+      ],
+      "a": 0,
+      "e": "Iron can be magnetized by induction.",
+      "d": "Easy",
+      "topic": "Induced magnetism",
+      "slo": "P-09-E-02"
+    },
+    {
+      "id": "PHY9CH8-073",
+      "q": "Choose the correct response: An unmagnetized iron nail near a strong magnet may:",
+      "o": [
+        "Lose all its electrons",
+        "Become temporarily magnetized",
+        "Become a nonmetal",
+        "Turn into a permanent monopole"
+      ],
+      "a": 1,
+      "e": "Iron can be magnetized by induction.",
+      "d": "Medium",
+      "topic": "Induced magnetism",
+      "slo": "P-09-E-02"
+    },
+    {
+      "id": "PHY9CH8-074",
+      "q": "In the stroking method, a magnet is moved:",
+      "o": [
+        "Without ever touching the bar",
+        "Repeatedly along the bar in one direction",
+        "Back and forth at random",
+        "Only in a circle around the bar"
+      ],
+      "a": 1,
+      "e": "One-direction stroking can align domains in the bar.",
+      "d": "Medium",
+      "topic": "Induced magnetism",
+      "slo": "P-09-E-02"
+    },
+    {
+      "id": "PHY9CH8-075",
+      "q": "Choose the correct response: In the stroking method, a magnet is moved:",
+      "o": [
+        "Back and forth at random",
+        "Only in a circle around the bar",
+        "Without ever touching the bar",
+        "Repeatedly along the bar in one direction"
+      ],
+      "a": 3,
+      "e": "One-direction stroking can align domains in the bar.",
+      "d": "Medium",
+      "topic": "Induced magnetism",
+      "slo": "P-09-E-02"
+    },
+    {
+      "id": "PHY9CH8-076",
+      "q": "Why is a magnet lifted before returning it in the stroking method?",
+      "o": [
+        "To create a single pole",
+        "To reduce the bar length",
+        "To increase the bar temperature",
+        "To avoid reversing the magnetizing stroke"
+      ],
+      "a": 3,
+      "e": "Returning away from the bar maintains the one-way stroking direction.",
+      "d": "Medium",
+      "topic": "Induced magnetism",
+      "slo": "P-09-E-02"
+    },
+    {
+      "id": "PHY9CH8-077",
+      "q": "Choose the correct response: Why is a magnet lifted before returning it in the stroking method?",
+      "o": [
+        "To avoid reversing the magnetizing stroke",
+        "To reduce the bar length",
+        "To increase the bar temperature",
+        "To create a single pole"
+      ],
+      "a": 0,
+      "e": "Returning away from the bar maintains the one-way stroking direction.",
+      "d": "Medium",
+      "topic": "Induced magnetism",
+      "slo": "P-09-E-02"
+    },
+    {
+      "id": "PHY9CH8-078",
+      "q": "Hammering a steel bar while it is in a strong magnetic field can:",
+      "o": [
+        "Make its density zero",
+        "Create a permanent electric charge",
+        "Destroy all atomic moments",
+        "Help its domains align"
+      ],
+      "a": 3,
+      "e": "Mechanical agitation in an applied field can assist domain alignment.",
+      "d": "Easy",
+      "topic": "Induced magnetism",
+      "slo": "P-09-E-02"
+    },
+    {
+      "id": "PHY9CH8-079",
+      "q": "Choose the correct response: Hammering a steel bar while it is in a strong magnetic field can:",
+      "o": [
+        "Help its domains align",
+        "Make its density zero",
+        "Destroy all atomic moments",
+        "Create a permanent electric charge"
+      ],
+      "a": 0,
+      "e": "Mechanical agitation in an applied field can assist domain alignment.",
+      "d": "Medium",
+      "topic": "Induced magnetism",
+      "slo": "P-09-E-02"
+    },
+    {
+      "id": "PHY9CH8-080",
+      "q": "A coil carrying electric current can magnetize iron because it:",
+      "o": [
+        "Produces a magnetic field",
+        "Always cools the iron",
+        "Removes protons",
+        "Cancels every magnetic field"
+      ],
+      "a": 0,
+      "e": "Current through a coil produces a magnetic field.",
+      "d": "Medium",
+      "topic": "Induced magnetism",
+      "slo": "P-09-E-02"
+    },
+    {
+      "id": "PHY9CH8-081",
+      "q": "Choose the correct response: A coil carrying electric current can magnetize iron because it:",
+      "o": [
+        "Always cools the iron",
+        "Produces a magnetic field",
+        "Cancels every magnetic field",
+        "Removes protons"
+      ],
+      "a": 1,
+      "e": "Current through a coil produces a magnetic field.",
+      "d": "Medium",
+      "topic": "Induced magnetism",
+      "slo": "P-09-E-02"
+    },
+    {
+      "id": "PHY9CH8-082",
+      "q": "Which action commonly demagnetizes a magnet?",
+      "o": [
+        "Reducing its length on paper",
+        "Keeping it cool and still",
+        "Strong heating",
+        "Placing it in a stable magnetic field"
+      ],
+      "a": 2,
+      "e": "Thermal agitation can disrupt domain alignment.",
+      "d": "Medium",
+      "topic": "Induced magnetism",
+      "slo": "P-09-E-02"
+    },
+    {
+      "id": "PHY9CH8-083",
+      "q": "Choose the correct response: Which action commonly demagnetizes a magnet?",
+      "o": [
+        "Keeping it cool and still",
+        "Reducing its length on paper",
+        "Strong heating",
+        "Placing it in a stable magnetic field"
+      ],
+      "a": 2,
+      "e": "Thermal agitation can disrupt domain alignment.",
+      "d": "Medium",
+      "topic": "Induced magnetism",
+      "slo": "P-09-E-02"
+    },
+    {
+      "id": "PHY9CH8-084",
+      "q": "Alternating current in a coil causes the magnetic field direction to:",
+      "o": [
+        "Remain fixed forever",
+        "Become gravitational",
+        "Disappear at every instant",
+        "Reverse periodically"
+      ],
+      "a": 3,
+      "e": "The magnetic field reverses as AC reverses.",
+      "d": "Easy",
+      "topic": "Induced magnetism",
+      "slo": "P-09-E-02"
+    },
+    {
+      "id": "PHY9CH8-085",
+      "q": "Choose the correct response: Alternating current in a coil causes the magnetic field direction to:",
+      "o": [
+        "Reverse periodically",
+        "Remain fixed forever",
+        "Disappear at every instant",
+        "Become gravitational"
+      ],
+      "a": 0,
+      "e": "The magnetic field reverses as AC reverses.",
+      "d": "Medium",
+      "topic": "Induced magnetism",
+      "slo": "P-09-E-02"
+    },
+    {
+      "id": "PHY9CH8-086",
+      "q": "A solenoid is:",
+      "o": [
+        "A pressure gauge",
+        "A single glass rod",
+        "A coil of many turns of wire",
+        "A wooden lever"
+      ],
+      "a": 2,
+      "e": "A solenoid is a coil that produces a magnetic field when current flows.",
+      "d": "Medium",
+      "topic": "Solenoids",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-087",
+      "q": "Choose the correct response: A solenoid is:",
+      "o": [
+        "A wooden lever",
+        "A pressure gauge",
+        "A single glass rod",
+        "A coil of many turns of wire"
+      ],
+      "a": 3,
+      "e": "A solenoid is a coil that produces a magnetic field when current flows.",
+      "d": "Medium",
+      "topic": "Solenoids",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-088",
+      "q": "The magnetic field pattern of a current-carrying solenoid resembles:",
+      "o": [
+        "A point electric charge only",
+        "A bar magnet",
+        "A spring balance",
+        "A flat mirror"
+      ],
+      "a": 1,
+      "e": "A solenoid produces a dipole-like magnetic field.",
+      "d": "Medium",
+      "topic": "Solenoids",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-089",
+      "q": "Choose the correct response: The magnetic field pattern of a current-carrying solenoid resembles:",
+      "o": [
+        "A point electric charge only",
+        "A flat mirror",
+        "A bar magnet",
+        "A spring balance"
+      ],
+      "a": 2,
+      "e": "A solenoid produces a dipole-like magnetic field.",
+      "d": "Medium",
+      "topic": "Solenoids",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-090",
+      "q": "The field around a long straight current-carrying wire forms:",
+      "o": [
+        "Radial lines only",
+        "Straight lines parallel to the wire",
+        "No field at all",
+        "Concentric circles"
+      ],
+      "a": 3,
+      "e": "Magnetic field lines encircle a straight current-carrying wire.",
+      "d": "Easy",
+      "topic": "Solenoids",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-091",
+      "q": "Choose the correct response: The field around a long straight current-carrying wire forms:",
+      "o": [
+        "Straight lines parallel to the wire",
+        "Concentric circles",
+        "Radial lines only",
+        "No field at all"
+      ],
+      "a": 1,
+      "e": "Magnetic field lines encircle a straight current-carrying wire.",
+      "d": "Medium",
+      "topic": "Solenoids",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-092",
+      "q": "Which rule determines the direction of the magnetic field around a straight current-carrying wire?",
+      "o": [
+        "Right-hand grip rule",
+        "Archimedes principle",
+        "Pascal’s principle",
+        "Hooke’s law"
+      ],
+      "a": 0,
+      "e": "Point the right thumb along current; curled fingers indicate field direction.",
+      "d": "Medium",
+      "topic": "Solenoids",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-093",
+      "q": "Choose the correct response: Which rule determines the direction of the magnetic field around a straight current-carrying wire?",
+      "o": [
+        "Right-hand grip rule",
+        "Pascal’s principle",
+        "Archimedes principle",
+        "Hooke’s law"
+      ],
+      "a": 0,
+      "e": "Point the right thumb along current; curled fingers indicate field direction.",
+      "d": "Medium",
+      "topic": "Solenoids",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-094",
+      "q": "For a long solenoid with fixed geometry and core, doubling the current will:",
+      "o": [
+        "Make the field zero",
+        "Halve its field",
+        "Leave its field unchanged",
+        "Double its ideal magnetic field"
+      ],
+      "a": 3,
+      "e": "B = mu n I, so B is proportional to current.",
+      "d": "Medium",
+      "topic": "Solenoids",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-095",
+      "q": "Choose the correct response: For a long solenoid with fixed geometry and core, doubling the current will:",
+      "o": [
+        "Halve its field",
+        "Leave its field unchanged",
+        "Double its ideal magnetic field",
+        "Make the field zero"
+      ],
+      "a": 2,
+      "e": "B = mu n I, so B is proportional to current.",
+      "d": "Medium",
+      "topic": "Solenoids",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-096",
+      "q": "For a long solenoid with fixed current and core, doubling turns per unit length will:",
+      "o": [
+        "Double its ideal magnetic field",
+        "Keep its field fixed",
+        "Make its field zero",
+        "Halve its field"
+      ],
+      "a": 0,
+      "e": "B = mu n I, so B is proportional to turns per unit length.",
+      "d": "Easy",
+      "topic": "Solenoids",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-097",
+      "q": "Choose the correct response: For a long solenoid with fixed current and core, doubling turns per unit length will:",
+      "o": [
+        "Halve its field",
+        "Keep its field fixed",
+        "Double its ideal magnetic field",
+        "Make its field zero"
+      ],
+      "a": 2,
+      "e": "B = mu n I, so B is proportional to turns per unit length.",
+      "d": "Medium",
+      "topic": "Solenoids",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-098",
+      "q": "In B = mu n I, the symbol n represents:",
+      "o": [
+        "Electrical power",
+        "Total length in metres",
+        "Number of turns per unit length",
+        "Magnet mass"
+      ],
+      "a": 2,
+      "e": "For a solenoid n = N/L.",
+      "d": "Medium",
+      "topic": "Solenoids",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-099",
+      "q": "Choose the correct response: In B = mu n I, the symbol n represents:",
+      "o": [
+        "Total length in metres",
+        "Magnet mass",
+        "Number of turns per unit length",
+        "Electrical power"
+      ],
+      "a": 2,
+      "e": "For a solenoid n = N/L.",
+      "d": "Medium",
+      "topic": "Solenoids",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-100",
+      "q": "In B = mu n I, the symbol mu represents:",
+      "o": [
+        "Magnetic permeability",
+        "Density",
+        "Specific heat capacity",
+        "Electric potential"
+      ],
+      "a": 0,
+      "e": "Permeability describes how a medium responds to a magnetic field.",
+      "d": "Medium",
+      "topic": "Solenoids",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-101",
+      "q": "Choose the correct response: In B = mu n I, the symbol mu represents:",
+      "o": [
+        "Electric potential",
+        "Density",
+        "Magnetic permeability",
+        "Specific heat capacity"
+      ],
+      "a": 2,
+      "e": "Permeability describes how a medium responds to a magnetic field.",
+      "d": "Medium",
+      "topic": "Solenoids",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-102",
+      "q": "In B = mu n I, the symbol I represents:",
+      "o": [
+        "Internal energy",
+        "Moment of inertia",
+        "Magnetic inclination",
+        "Electric current"
+      ],
+      "a": 3,
+      "e": "I is the current through the coil.",
+      "d": "Easy",
+      "topic": "Solenoids",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-103",
+      "q": "Choose the correct response: In B = mu n I, the symbol I represents:",
+      "o": [
+        "Magnetic inclination",
+        "Internal energy",
+        "Electric current",
+        "Moment of inertia"
+      ],
+      "a": 2,
+      "e": "I is the current through the coil.",
+      "d": "Medium",
+      "topic": "Solenoids",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-104",
+      "q": "The SI unit of magnetic permeability can be written as:",
+      "o": [
+        "J/s",
+        "N/A^2",
+        "kg/m^3",
+        "N/m"
+      ],
+      "a": 1,
+      "e": "Permeability has SI units henry per metre, equivalent to N/A^2.",
+      "d": "Medium",
+      "topic": "Solenoids",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-105",
+      "q": "Choose the correct response: The SI unit of magnetic permeability can be written as:",
+      "o": [
+        "kg/m^3",
+        "J/s",
+        "N/A^2",
+        "N/m"
+      ],
+      "a": 2,
+      "e": "Permeability has SI units henry per metre, equivalent to N/A^2.",
+      "d": "Medium",
+      "topic": "Solenoids",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-106",
+      "q": "An ideal long solenoid has its most nearly uniform field:",
+      "o": [
+        "At every point in space",
+        "Inside near its central region",
+        "Infinitely far away",
+        "Only at its ends outside"
+      ],
+      "a": 1,
+      "e": "The field inside a long solenoid is approximately uniform.",
+      "d": "Medium",
+      "topic": "Solenoids",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-107",
+      "q": "Choose the correct response: An ideal long solenoid has its most nearly uniform field:",
+      "o": [
+        "Infinitely far away",
+        "At every point in space",
+        "Inside near its central region",
+        "Only at its ends outside"
+      ],
+      "a": 2,
+      "e": "The field inside a long solenoid is approximately uniform.",
+      "d": "Medium",
+      "topic": "Solenoids",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-108",
+      "q": "For a straight wire, magnetic field strength at fixed distance is proportional to:",
+      "o": [
+        "Current in the wire",
+        "Wire colour",
+        "Wire temperature only",
+        "Square of wire mass"
+      ],
+      "a": 0,
+      "e": "B = mu0 I/(2 pi r), so B is proportional to I.",
+      "d": "Easy",
+      "topic": "Solenoids",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-109",
+      "q": "Choose the correct response: For a straight wire, magnetic field strength at fixed distance is proportional to:",
+      "o": [
+        "Square of wire mass",
+        "Wire temperature only",
+        "Wire colour",
+        "Current in the wire"
+      ],
+      "a": 3,
+      "e": "B = mu0 I/(2 pi r), so B is proportional to I.",
+      "d": "Medium",
+      "topic": "Solenoids",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-110",
+      "q": "For a long straight wire with fixed current, doubling distance from the wire will:",
+      "o": [
+        "Halve the magnetic field",
+        "Leave the field unchanged",
+        "Quadruple the field",
+        "Double the field"
+      ],
+      "a": 0,
+      "e": "B = mu0 I/(2 pi r), so B is inversely proportional to distance.",
+      "d": "Medium",
+      "topic": "Solenoids",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-111",
+      "q": "Choose the correct response: For a long straight wire with fixed current, doubling distance from the wire will:",
+      "o": [
+        "Halve the magnetic field",
+        "Leave the field unchanged",
+        "Double the field",
+        "Quadruple the field"
+      ],
+      "a": 0,
+      "e": "B = mu0 I/(2 pi r), so B is inversely proportional to distance.",
+      "d": "Medium",
+      "topic": "Solenoids",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-112",
+      "q": "The magnetic field of a straight current-carrying wire is directed:",
+      "o": [
+        "Always radially outward",
+        "Only along the wire",
+        "Always downward",
+        "Tangentially around circles centred on the wire"
+      ],
+      "a": 3,
+      "e": "The right-hand grip rule gives the circular field direction.",
+      "d": "Medium",
+      "topic": "Solenoids",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-113",
+      "q": "Choose the correct response: The magnetic field of a straight current-carrying wire is directed:",
+      "o": [
+        "Always radially outward",
+        "Always downward",
+        "Only along the wire",
+        "Tangentially around circles centred on the wire"
+      ],
+      "a": 3,
+      "e": "The right-hand grip rule gives the circular field direction.",
+      "d": "Medium",
+      "topic": "Solenoids",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-114",
+      "q": "Which material is generally suited to making a temporary electromagnet core?",
+      "o": [
+        "Dry wood",
+        "Hard steel",
+        "Soft iron",
+        "Glass"
+      ],
+      "a": 2,
+      "e": "Soft iron magnetizes and demagnetizes readily.",
+      "d": "Easy",
+      "topic": "Magnets",
+      "slo": "P-09-E-04"
+    },
+    {
+      "id": "PHY9CH8-115",
+      "q": "Choose the correct response: Which material is generally suited to making a temporary electromagnet core?",
+      "o": [
+        "Glass",
+        "Dry wood",
+        "Soft iron",
+        "Hard steel"
+      ],
+      "a": 2,
+      "e": "Soft iron magnetizes and demagnetizes readily.",
+      "d": "Medium",
+      "topic": "Magnets",
+      "slo": "P-09-E-04"
+    },
+    {
+      "id": "PHY9CH8-116",
+      "q": "Which material is generally better suited for retaining permanent magnetization?",
+      "o": [
+        "Soft iron",
+        "Hard steel",
+        "Water",
+        "Plastic"
+      ],
+      "a": 1,
+      "e": "Hard magnetic materials retain magnetization more effectively.",
+      "d": "Medium",
+      "topic": "Magnets",
+      "slo": "P-09-E-04"
+    },
+    {
+      "id": "PHY9CH8-117",
+      "q": "Choose the correct response: Which material is generally better suited for retaining permanent magnetization?",
+      "o": [
+        "Soft iron",
+        "Water",
+        "Plastic",
+        "Hard steel"
+      ],
+      "a": 3,
+      "e": "Hard magnetic materials retain magnetization more effectively.",
+      "d": "Medium",
+      "topic": "Magnets",
+      "slo": "P-09-E-04"
+    },
+    {
+      "id": "PHY9CH8-118",
+      "q": "A permanent magnet differs from an electromagnet because it:",
+      "o": [
+        "Requires current at all times",
+        "Can have only one pole",
+        "Can retain a field without continuous current",
+        "Cannot attract iron"
+      ],
+      "a": 2,
+      "e": "Permanent magnets do not require a continuous power supply.",
+      "d": "Medium",
+      "topic": "Magnets",
+      "slo": "P-09-E-04"
+    },
+    {
+      "id": "PHY9CH8-119",
+      "q": "Choose the correct response: A permanent magnet differs from an electromagnet because it:",
+      "o": [
+        "Can retain a field without continuous current",
+        "Cannot attract iron",
+        "Can have only one pole",
+        "Requires current at all times"
+      ],
+      "a": 0,
+      "e": "Permanent magnets do not require a continuous power supply.",
+      "d": "Medium",
+      "topic": "Magnets",
+      "slo": "P-09-E-04"
+    },
+    {
+      "id": "PHY9CH8-120",
+      "q": "An electromagnet is best described as:",
+      "o": [
+        "A magnet whose field is produced by electric current",
+        "A magnet with one pole",
+        "A body with no magnetic field",
+        "A magnet made only from plastic"
+      ],
+      "a": 0,
+      "e": "Electric current produces an electromagnet’s magnetic field.",
+      "d": "Easy",
+      "topic": "Magnets",
+      "slo": "P-09-E-04"
+    },
+    {
+      "id": "PHY9CH8-121",
+      "q": "Choose the correct response: An electromagnet is best described as:",
+      "o": [
+        "A magnet with one pole",
+        "A body with no magnetic field",
+        "A magnet made only from plastic",
+        "A magnet whose field is produced by electric current"
+      ],
+      "a": 3,
+      "e": "Electric current produces an electromagnet’s magnetic field.",
+      "d": "Medium",
+      "topic": "Magnets",
+      "slo": "P-09-E-04"
+    },
+    {
+      "id": "PHY9CH8-122",
+      "q": "Switching off the current in an ideal soft-iron electromagnet usually:",
+      "o": [
+        "Changes its chemical element",
+        "Greatly reduces its magnetism",
+        "Makes it stronger forever",
+        "Reverses gravity"
+      ],
+      "a": 1,
+      "e": "A soft core loses most induced magnetism when current stops.",
+      "d": "Medium",
+      "topic": "Magnets",
+      "slo": "P-09-E-04"
+    },
+    {
+      "id": "PHY9CH8-123",
+      "q": "Choose the correct response: Switching off the current in an ideal soft-iron electromagnet usually:",
+      "o": [
+        "Reverses gravity",
+        "Makes it stronger forever",
+        "Greatly reduces its magnetism",
+        "Changes its chemical element"
+      ],
+      "a": 2,
+      "e": "A soft core loses most induced magnetism when current stops.",
+      "d": "Medium",
+      "topic": "Magnets",
+      "slo": "P-09-E-04"
+    },
+    {
+      "id": "PHY9CH8-124",
+      "q": "Which feature is an advantage of an electromagnet?",
+      "o": [
+        "Its strength can be controlled by current",
+        "It always has a fixed strength",
+        "It never needs electrical energy",
+        "Its poles can never be reversed"
+      ],
+      "a": 0,
+      "e": "Current control allows adjustable electromagnet strength.",
+      "d": "Medium",
+      "topic": "Magnets",
+      "slo": "P-09-E-04"
+    },
+    {
+      "id": "PHY9CH8-125",
+      "q": "Choose the correct response: Which feature is an advantage of an electromagnet?",
+      "o": [
+        "Its strength can be controlled by current",
+        "It never needs electrical energy",
+        "It always has a fixed strength",
+        "Its poles can never be reversed"
+      ],
+      "a": 0,
+      "e": "Current control allows adjustable electromagnet strength.",
+      "d": "Medium",
+      "topic": "Magnets",
+      "slo": "P-09-E-04"
+    },
+    {
+      "id": "PHY9CH8-126",
+      "q": "Reversing current through an electromagnet coil generally:",
+      "o": [
+        "Produces only one pole",
+        "Reverses its magnetic poles",
+        "Makes the field permanently zero",
+        "Destroys the coil mass"
+      ],
+      "a": 1,
+      "e": "Reversing current reverses the field polarity.",
+      "d": "Easy",
+      "topic": "Magnets",
+      "slo": "P-09-E-04"
+    },
+    {
+      "id": "PHY9CH8-127",
+      "q": "Choose the correct response: Reversing current through an electromagnet coil generally:",
+      "o": [
+        "Reverses its magnetic poles",
+        "Makes the field permanently zero",
+        "Produces only one pole",
+        "Destroys the coil mass"
+      ],
+      "a": 0,
+      "e": "Reversing current reverses the field polarity.",
+      "d": "Medium",
+      "topic": "Magnets",
+      "slo": "P-09-E-04"
+    },
+    {
+      "id": "PHY9CH8-128",
+      "q": "Which device commonly uses an electromagnet to ring?",
+      "o": [
+        "Spring balance",
+        "Mercury thermometer",
+        "Electric doorbell",
+        "Glass prism"
+      ],
+      "a": 2,
+      "e": "Electric doorbells use electromagnets to operate a striker.",
+      "d": "Medium",
+      "topic": "Magnets",
+      "slo": "P-09-E-04"
+    },
+    {
+      "id": "PHY9CH8-129",
+      "q": "Choose the correct response: Which device commonly uses an electromagnet to ring?",
+      "o": [
+        "Glass prism",
+        "Electric doorbell",
+        "Mercury thermometer",
+        "Spring balance"
+      ],
+      "a": 1,
+      "e": "Electric doorbells use electromagnets to operate a striker.",
+      "d": "Medium",
+      "topic": "Magnets",
+      "slo": "P-09-E-04"
+    },
+    {
+      "id": "PHY9CH8-130",
+      "q": "Why are electromagnets useful in magnetic door locks?",
+      "o": [
+        "They can release when current is switched off",
+        "They need no electric current",
+        "They always repel iron",
+        "They cannot be controlled"
+      ],
+      "a": 0,
+      "e": "Switching the current controls attraction of the lock plate.",
+      "d": "Medium",
+      "topic": "Magnets",
+      "slo": "P-09-E-10"
+    },
+    {
+      "id": "PHY9CH8-131",
+      "q": "Choose the correct response: Why are electromagnets useful in magnetic door locks?",
+      "o": [
+        "They need no electric current",
+        "They can release when current is switched off",
+        "They cannot be controlled",
+        "They always repel iron"
+      ],
+      "a": 1,
+      "e": "Switching the current controls attraction of the lock plate.",
+      "d": "Medium",
+      "topic": "Magnets",
+      "slo": "P-09-E-10"
+    },
+    {
+      "id": "PHY9CH8-132",
+      "q": "In a loudspeaker, magnetic forces primarily cause:",
+      "o": [
+        "Vibration of a diaphragm",
+        "Evaporation of water",
+        "Heating of a thermometer",
+        "Refraction of light"
+      ],
+      "a": 0,
+      "e": "Current in the speaker coil interacts with a magnetic field to move the diaphragm.",
+      "d": "Easy",
+      "topic": "Magnets",
+      "slo": "P-09-E-10"
+    },
+    {
+      "id": "PHY9CH8-133",
+      "q": "Choose the correct response: In a loudspeaker, magnetic forces primarily cause:",
+      "o": [
+        "Vibration of a diaphragm",
+        "Heating of a thermometer",
+        "Evaporation of water",
+        "Refraction of light"
+      ],
+      "a": 0,
+      "e": "Current in the speaker coil interacts with a magnetic field to move the diaphragm.",
+      "d": "Medium",
+      "topic": "Magnets",
+      "slo": "P-09-E-10"
+    },
+    {
+      "id": "PHY9CH8-134",
+      "q": "Which device converts electrical signals into sound using magnetic interaction?",
+      "o": [
+        "Barometer",
+        "Vernier caliper",
+        "Loudspeaker",
+        "Measuring cylinder"
+      ],
+      "a": 2,
+      "e": "The loudspeaker’s moving coil and magnet drive the diaphragm.",
+      "d": "Medium",
+      "topic": "Magnets",
+      "slo": "P-09-E-10"
+    },
+    {
+      "id": "PHY9CH8-135",
+      "q": "Choose the correct response: Which device converts electrical signals into sound using magnetic interaction?",
+      "o": [
+        "Vernier caliper",
+        "Barometer",
+        "Measuring cylinder",
+        "Loudspeaker"
+      ],
+      "a": 3,
+      "e": "The loudspeaker’s moving coil and magnet drive the diaphragm.",
+      "d": "Medium",
+      "topic": "Magnets",
+      "slo": "P-09-E-10"
+    },
+    {
+      "id": "PHY9CH8-136",
+      "q": "Which device may use magnetic interaction to turn electrical energy into motion?",
+      "o": [
+        "Rain gauge",
+        "Glass beaker",
+        "Simple thermometer",
+        "Electric motor"
+      ],
+      "a": 3,
+      "e": "Electric motors use magnetic forces to produce motion.",
+      "d": "Medium",
+      "topic": "Magnets",
+      "slo": "P-09-E-10"
+    },
+    {
+      "id": "PHY9CH8-137",
+      "q": "Choose the correct response: Which device may use magnetic interaction to turn electrical energy into motion?",
+      "o": [
+        "Electric motor",
+        "Glass beaker",
+        "Simple thermometer",
+        "Rain gauge"
+      ],
+      "a": 0,
+      "e": "Electric motors use magnetic forces to produce motion.",
+      "d": "Medium",
+      "topic": "Magnets",
+      "slo": "P-09-E-10"
+    },
+    {
+      "id": "PHY9CH8-138",
+      "q": "Magnetic recording stores information mainly by:",
+      "o": [
+        "Freezing the medium",
+        "Changing the mass of the disk",
+        "Arranging magnetized regions in a recording medium",
+        "Removing all magnetic domains"
+      ],
+      "a": 2,
+      "e": "Recorded signals correspond to patterns of magnetization.",
+      "d": "Easy",
+      "topic": "Magnetic recording",
+      "slo": "P-09-E-14"
+    },
+    {
+      "id": "PHY9CH8-139",
+      "q": "Choose the correct response: Magnetic recording stores information mainly by:",
+      "o": [
+        "Arranging magnetized regions in a recording medium",
+        "Changing the mass of the disk",
+        "Removing all magnetic domains",
+        "Freezing the medium"
+      ],
+      "a": 0,
+      "e": "Recorded signals correspond to patterns of magnetization.",
+      "d": "Medium",
+      "topic": "Magnetic recording",
+      "slo": "P-09-E-14"
+    },
+    {
+      "id": "PHY9CH8-140",
+      "q": "A magnetic recording head writes data by:",
+      "o": [
+        "Using gravity alone",
+        "Measuring air pressure",
+        "Removing all atoms from the tape",
+        "Applying a changing magnetic field to the medium"
+      ],
+      "a": 3,
+      "e": "A write head changes local magnetization according to the signal.",
+      "d": "Medium",
+      "topic": "Magnetic recording",
+      "slo": "P-09-E-14"
+    },
+    {
+      "id": "PHY9CH8-141",
+      "q": "Choose the correct response: A magnetic recording head writes data by:",
+      "o": [
+        "Removing all atoms from the tape",
+        "Applying a changing magnetic field to the medium",
+        "Using gravity alone",
+        "Measuring air pressure"
+      ],
+      "a": 1,
+      "e": "A write head changes local magnetization according to the signal.",
+      "d": "Medium",
+      "topic": "Magnetic recording",
+      "slo": "P-09-E-14"
+    },
+    {
+      "id": "PHY9CH8-142",
+      "q": "In magnetic tape recording, the stored signal is represented by:",
+      "o": [
+        "Patterns of magnetized regions",
+        "Light reflected from a mirror",
+        "Patterns of temperature only",
+        "Changes in tape length only"
+      ],
+      "a": 0,
+      "e": "The recording medium holds a magnetic pattern.",
+      "d": "Medium",
+      "topic": "Magnetic recording",
+      "slo": "P-09-E-14"
+    },
+    {
+      "id": "PHY9CH8-143",
+      "q": "Choose the correct response: In magnetic tape recording, the stored signal is represented by:",
+      "o": [
+        "Changes in tape length only",
+        "Patterns of magnetized regions",
+        "Light reflected from a mirror",
+        "Patterns of temperature only"
+      ],
+      "a": 1,
+      "e": "The recording medium holds a magnetic pattern.",
+      "d": "Medium",
+      "topic": "Magnetic recording",
+      "slo": "P-09-E-14"
+    },
+    {
+      "id": "PHY9CH8-144",
+      "q": "Which material is used in magnetic recording media?",
+      "o": [
+        "Ordinary dry wood",
+        "Pure glass only",
+        "Iron oxide",
+        "Rubber only"
+      ],
+      "a": 2,
+      "e": "Iron oxide is one magnetic material used in recording media.",
+      "d": "Easy",
+      "topic": "Magnetic recording",
+      "slo": "P-09-E-14"
+    },
+    {
+      "id": "PHY9CH8-145",
+      "q": "Choose the correct response: Which material is used in magnetic recording media?",
+      "o": [
+        "Pure glass only",
+        "Rubber only",
+        "Iron oxide",
+        "Ordinary dry wood"
+      ],
+      "a": 2,
+      "e": "Iron oxide is one magnetic material used in recording media.",
+      "d": "Medium",
+      "topic": "Magnetic recording",
+      "slo": "P-09-E-14"
+    },
+    {
+      "id": "PHY9CH8-146",
+      "q": "Reading a magnetic recording involves detecting:",
+      "o": [
+        "Only its temperature",
+        "The magnetic pattern on the medium",
+        "Only its colour",
+        "Only the medium mass"
+      ],
+      "a": 1,
+      "e": "A read head senses stored magnetic information.",
+      "d": "Medium",
+      "topic": "Magnetic recording",
+      "slo": "P-09-E-14"
+    },
+    {
+      "id": "PHY9CH8-147",
+      "q": "Choose the correct response: Reading a magnetic recording involves detecting:",
+      "o": [
+        "Only its temperature",
+        "Only its colour",
+        "The magnetic pattern on the medium",
+        "Only the medium mass"
+      ],
+      "a": 2,
+      "e": "A read head senses stored magnetic information.",
+      "d": "Medium",
+      "topic": "Magnetic recording",
+      "slo": "P-09-E-14"
+    },
+    {
+      "id": "PHY9CH8-148",
+      "q": "A diamagnetic material in an external magnetic field is typically:",
+      "o": [
+        "Weakly repelled",
+        "Converted into a ferromagnet",
+        "Always unaffected in every way",
+        "Strongly attracted and permanently magnetized"
+      ],
+      "a": 0,
+      "e": "Diamagnetic materials exhibit a weak opposing response.",
+      "d": "Medium",
+      "topic": "Materials",
+      "slo": "P-09-E-12"
+    },
+    {
+      "id": "PHY9CH8-149",
+      "q": "Choose the correct response: A diamagnetic material in an external magnetic field is typically:",
+      "o": [
+        "Converted into a ferromagnet",
+        "Weakly repelled",
+        "Strongly attracted and permanently magnetized",
+        "Always unaffected in every way"
+      ],
+      "a": 1,
+      "e": "Diamagnetic materials exhibit a weak opposing response.",
+      "d": "Medium",
+      "topic": "Materials",
+      "slo": "P-09-E-12"
+    },
+    {
+      "id": "PHY9CH8-150",
+      "q": "A paramagnetic material in an external magnetic field is typically:",
+      "o": [
+        "Without any electron magnetic moments",
+        "Weakly attracted",
+        "Strongly repelled",
+        "Always a permanent magnet"
+      ],
+      "a": 1,
+      "e": "Paramagnetic materials show weak attraction in an applied field.",
+      "d": "Easy",
+      "topic": "Materials",
+      "slo": "P-09-E-12"
+    },
+    {
+      "id": "PHY9CH8-151",
+      "q": "Choose the correct response: A paramagnetic material in an external magnetic field is typically:",
+      "o": [
+        "Always a permanent magnet",
+        "Without any electron magnetic moments",
+        "Strongly repelled",
+        "Weakly attracted"
+      ],
+      "a": 3,
+      "e": "Paramagnetic materials show weak attraction in an applied field.",
+      "d": "Medium",
+      "topic": "Materials",
+      "slo": "P-09-E-12"
+    },
+    {
+      "id": "PHY9CH8-152",
+      "q": "A ferromagnetic material in an external magnetic field is typically:",
+      "o": [
+        "Strongly attracted",
+        "Completely unaffected",
+        "Always weakly repelled",
+        "Only electrically charged"
+      ],
+      "a": 0,
+      "e": "Ferromagnetic materials can become strongly magnetized.",
+      "d": "Medium",
+      "topic": "Materials",
+      "slo": "P-09-E-12"
+    },
+    {
+      "id": "PHY9CH8-153",
+      "q": "Choose the correct response: A ferromagnetic material in an external magnetic field is typically:",
+      "o": [
+        "Strongly attracted",
+        "Always weakly repelled",
+        "Only electrically charged",
+        "Completely unaffected"
+      ],
+      "a": 0,
+      "e": "Ferromagnetic materials can become strongly magnetized.",
+      "d": "Medium",
+      "topic": "Materials",
+      "slo": "P-09-E-12"
+    },
+    {
+      "id": "PHY9CH8-154",
+      "q": "Which of these is a ferromagnetic element? Options to consider: Nickel, Copper, Silver, Gold.",
+      "o": [
+        "Nickel",
+        "Copper",
+        "Silver",
+        "Gold"
+      ],
+      "a": 0,
+      "e": "Nickel is ferromagnetic.",
+      "d": "Medium",
+      "topic": "Materials",
+      "slo": "P-09-E-12"
+    },
+    {
+      "id": "PHY9CH8-155",
+      "q": "Choose the correct response: Which of these is a ferromagnetic element? Options to consider: Nickel, Copper, Silver, Gold.",
+      "o": [
+        "Copper",
+        "Gold",
+        "Nickel",
+        "Silver"
+      ],
+      "a": 2,
+      "e": "Nickel is ferromagnetic.",
+      "d": "Medium",
+      "topic": "Materials",
+      "slo": "P-09-E-12"
+    },
+    {
+      "id": "PHY9CH8-156",
+      "q": "Which of these is a ferromagnetic element? Options to consider: Cobalt, Bismuth, Zinc, Glass.",
+      "o": [
+        "Glass",
+        "Cobalt",
+        "Zinc",
+        "Bismuth"
+      ],
+      "a": 1,
+      "e": "Cobalt is ferromagnetic.",
+      "d": "Easy",
+      "topic": "Materials",
+      "slo": "P-09-E-12"
+    },
+    {
+      "id": "PHY9CH8-157",
+      "q": "Choose the correct response: Which of these is a ferromagnetic element? Options to consider: Cobalt, Bismuth, Zinc, Glass.",
+      "o": [
+        "Bismuth",
+        "Glass",
+        "Cobalt",
+        "Zinc"
+      ],
+      "a": 2,
+      "e": "Cobalt is ferromagnetic.",
+      "d": "Medium",
+      "topic": "Materials",
+      "slo": "P-09-E-12"
+    },
+    {
+      "id": "PHY9CH8-158",
+      "q": "Which of these is a ferromagnetic element? Options to consider: Iron, Aluminium, Water, Wood.",
+      "o": [
+        "Aluminium",
+        "Water",
+        "Iron",
+        "Wood"
+      ],
+      "a": 2,
+      "e": "Iron is ferromagnetic.",
+      "d": "Medium",
+      "topic": "Materials",
+      "slo": "P-09-E-12"
+    },
+    {
+      "id": "PHY9CH8-159",
+      "q": "Choose the correct response: Which of these is a ferromagnetic element? Options to consider: Iron, Aluminium, Water, Wood.",
+      "o": [
+        "Iron",
+        "Aluminium",
+        "Water",
+        "Wood"
+      ],
+      "a": 0,
+      "e": "Iron is ferromagnetic.",
+      "d": "Medium",
+      "topic": "Materials",
+      "slo": "P-09-E-12"
+    },
+    {
+      "id": "PHY9CH8-160",
+      "q": "Which of these is typically diamagnetic? Options to consider: Bismuth, Iron, Nickel, Cobalt.",
+      "o": [
+        "Nickel",
+        "Bismuth",
+        "Cobalt",
+        "Iron"
+      ],
+      "a": 1,
+      "e": "Bismuth is a diamagnetic material.",
+      "d": "Medium",
+      "topic": "Materials",
+      "slo": "P-09-E-12"
+    },
+    {
+      "id": "PHY9CH8-161",
+      "q": "Choose the correct response: Which of these is typically diamagnetic? Options to consider: Bismuth, Iron, Nickel, Cobalt.",
+      "o": [
+        "Bismuth",
+        "Cobalt",
+        "Nickel",
+        "Iron"
+      ],
+      "a": 0,
+      "e": "Bismuth is a diamagnetic material.",
+      "d": "Medium",
+      "topic": "Materials",
+      "slo": "P-09-E-12"
+    },
+    {
+      "id": "PHY9CH8-162",
+      "q": "Which of these is typically diamagnetic? Options to consider: Copper, Iron, Nickel, Cobalt.",
+      "o": [
+        "Iron",
+        "Copper",
+        "Cobalt",
+        "Nickel"
+      ],
+      "a": 1,
+      "e": "Copper is diamagnetic.",
+      "d": "Easy",
+      "topic": "Materials",
+      "slo": "P-09-E-12"
+    },
+    {
+      "id": "PHY9CH8-163",
+      "q": "Choose the correct response: Which of these is typically diamagnetic? Options to consider: Copper, Iron, Nickel, Cobalt.",
+      "o": [
+        "Nickel",
+        "Cobalt",
+        "Iron",
+        "Copper"
+      ],
+      "a": 3,
+      "e": "Copper is diamagnetic.",
+      "d": "Medium",
+      "topic": "Materials",
+      "slo": "P-09-E-12"
+    },
+    {
+      "id": "PHY9CH8-164",
+      "q": "Which of these is typically paramagnetic? Options to consider: Aluminium, Iron, Cobalt, Bismuth.",
+      "o": [
+        "Iron",
+        "Bismuth",
+        "Cobalt",
+        "Aluminium"
+      ],
+      "a": 3,
+      "e": "Aluminium is paramagnetic.",
+      "d": "Medium",
+      "topic": "Materials",
+      "slo": "P-09-E-12"
+    },
+    {
+      "id": "PHY9CH8-165",
+      "q": "Choose the correct response: Which of these is typically paramagnetic? Options to consider: Aluminium, Iron, Cobalt, Bismuth.",
+      "o": [
+        "Iron",
+        "Aluminium",
+        "Cobalt",
+        "Bismuth"
+      ],
+      "a": 1,
+      "e": "Aluminium is paramagnetic.",
+      "d": "Medium",
+      "topic": "Materials",
+      "slo": "P-09-E-12"
+    },
+    {
+      "id": "PHY9CH8-166",
+      "q": "Which of these is typically paramagnetic? Options to consider: Tungsten, Copper, Bismuth, Nickel.",
+      "o": [
+        "Tungsten",
+        "Copper",
+        "Bismuth",
+        "Nickel"
+      ],
+      "a": 0,
+      "e": "Tungsten is paramagnetic.",
+      "d": "Medium",
+      "topic": "Materials",
+      "slo": "P-09-E-12"
+    },
+    {
+      "id": "PHY9CH8-167",
+      "q": "Choose the correct response: Which of these is typically paramagnetic? Options to consider: Tungsten, Copper, Bismuth, Nickel.",
+      "o": [
+        "Copper",
+        "Tungsten",
+        "Bismuth",
+        "Nickel"
+      ],
+      "a": 1,
+      "e": "Tungsten is paramagnetic.",
+      "d": "Medium",
+      "topic": "Materials",
+      "slo": "P-09-E-12"
+    },
+    {
+      "id": "PHY9CH8-168",
+      "q": "Which of these is typically paramagnetic? Options to consider: Lithium, Copper, Gold, Nickel.",
+      "o": [
+        "Copper",
+        "Gold",
+        "Nickel",
+        "Lithium"
+      ],
+      "a": 3,
+      "e": "Lithium is paramagnetic.",
+      "d": "Easy",
+      "topic": "Materials",
+      "slo": "P-09-E-12"
+    },
+    {
+      "id": "PHY9CH8-169",
+      "q": "Choose the correct response: Which of these is typically paramagnetic? Options to consider: Lithium, Copper, Gold, Nickel.",
+      "o": [
+        "Nickel",
+        "Copper",
+        "Lithium",
+        "Gold"
+      ],
+      "a": 2,
+      "e": "Lithium is paramagnetic.",
+      "d": "Medium",
+      "topic": "Materials",
+      "slo": "P-09-E-12"
+    },
+    {
+      "id": "PHY9CH8-170",
+      "q": "A ferromagnet can retain some magnetization after the field is removed because:",
+      "o": [
+        "It becomes a magnetic monopole",
+        "It has no magnetic moments",
+        "Its atoms lose their electrons",
+        "Its magnetic domains can remain aligned"
+      ],
+      "a": 3,
+      "e": "Ferromagnetic domains can remain aligned after removing the field.",
+      "d": "Medium",
+      "topic": "Materials",
+      "slo": "P-09-E-12"
+    },
+    {
+      "id": "PHY9CH8-171",
+      "q": "Choose the correct response: A ferromagnet can retain some magnetization after the field is removed because:",
+      "o": [
+        "It has no magnetic moments",
+        "Its magnetic domains can remain aligned",
+        "It becomes a magnetic monopole",
+        "Its atoms lose their electrons"
+      ],
+      "a": 1,
+      "e": "Ferromagnetic domains can remain aligned after removing the field.",
+      "d": "Medium",
+      "topic": "Materials",
+      "slo": "P-09-E-12"
+    },
+    {
+      "id": "PHY9CH8-172",
+      "q": "Which material is least likely to be strongly attracted to a bar magnet?",
+      "o": [
+        "Iron",
+        "Wood",
+        "Nickel",
+        "Steel"
+      ],
+      "a": 1,
+      "e": "Wood is not ferromagnetic and is not strongly attracted.",
+      "d": "Medium",
+      "topic": "Materials",
+      "slo": "P-09-E-03"
+    },
+    {
+      "id": "PHY9CH8-173",
+      "q": "Choose the correct response: Which material is least likely to be strongly attracted to a bar magnet?",
+      "o": [
+        "Iron",
+        "Nickel",
+        "Steel",
+        "Wood"
+      ],
+      "a": 3,
+      "e": "Wood is not ferromagnetic and is not strongly attracted.",
+      "d": "Medium",
+      "topic": "Materials",
+      "slo": "P-09-E-03"
+    },
+    {
+      "id": "PHY9CH8-174",
+      "q": "Which material is most likely to be strongly attracted to a bar magnet?",
+      "o": [
+        "Iron",
+        "Plastic",
+        "Glass",
+        "Dry wood"
+      ],
+      "a": 0,
+      "e": "Iron is a ferromagnetic material.",
+      "d": "Easy",
+      "topic": "Materials",
+      "slo": "P-09-E-03"
+    },
+    {
+      "id": "PHY9CH8-175",
+      "q": "Choose the correct response: Which material is most likely to be strongly attracted to a bar magnet?",
+      "o": [
+        "Iron",
+        "Plastic",
+        "Glass",
+        "Dry wood"
+      ],
+      "a": 0,
+      "e": "Iron is a ferromagnetic material.",
+      "d": "Medium",
+      "topic": "Materials",
+      "slo": "P-09-E-03"
+    },
+    {
+      "id": "PHY9CH8-176",
+      "q": "The magnetic field of Earth is also called the:",
+      "o": [
+        "Electrostatic field",
+        "Geomagnetic field",
+        "Acoustic field",
+        "Thermal field"
+      ],
+      "a": 1,
+      "e": "Earth’s magnetic field is the geomagnetic field.",
+      "d": "Medium",
+      "topic": "Earth magnetism",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-177",
+      "q": "Choose the correct response: The magnetic field of Earth is also called the:",
+      "o": [
+        "Acoustic field",
+        "Geomagnetic field",
+        "Electrostatic field",
+        "Thermal field"
+      ],
+      "a": 1,
+      "e": "Earth’s magnetic field is the geomagnetic field.",
+      "d": "Medium",
+      "topic": "Earth magnetism",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-178",
+      "q": "Earth’s magnetic field is generated mainly by:",
+      "o": [
+        "Ocean tides alone",
+        "Motion of electrically conducting fluid in its outer core",
+        "The Moon reflecting sunlight",
+        "Atmospheric pressure alone"
+      ],
+      "a": 1,
+      "e": "The geodynamo is driven by motion of conducting fluid in Earth’s outer core.",
+      "d": "Medium",
+      "topic": "Earth magnetism",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-179",
+      "q": "Choose the correct response: Earth’s magnetic field is generated mainly by:",
+      "o": [
+        "Motion of electrically conducting fluid in its outer core",
+        "The Moon reflecting sunlight",
+        "Ocean tides alone",
+        "Atmospheric pressure alone"
+      ],
+      "a": 0,
+      "e": "The geodynamo is driven by motion of conducting fluid in Earth’s outer core.",
+      "d": "Medium",
+      "topic": "Earth magnetism",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-180",
+      "q": "Earth’s magnetic field helps protect the planet by:",
+      "o": [
+        "Stopping all sunlight",
+        "Blocking every cosmic ray",
+        "Deflecting many charged particles from space",
+        "Eliminating gravity"
+      ],
+      "a": 2,
+      "e": "The magnetosphere deflects many solar-wind charged particles.",
+      "d": "Easy",
+      "topic": "Earth magnetism",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-181",
+      "q": "Choose the correct response: Earth’s magnetic field helps protect the planet by:",
+      "o": [
+        "Blocking every cosmic ray",
+        "Stopping all sunlight",
+        "Eliminating gravity",
+        "Deflecting many charged particles from space"
+      ],
+      "a": 3,
+      "e": "The magnetosphere deflects many solar-wind charged particles.",
+      "d": "Medium",
+      "topic": "Earth magnetism",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-182",
+      "q": "Auroras are associated with:",
+      "o": [
+        "Only earthquakes",
+        "Refraction through glass",
+        "Charged particles interacting with gases in the upper atmosphere",
+        "Only ocean tides"
+      ],
+      "a": 2,
+      "e": "Energetic charged particles excite atmospheric gases, producing light.",
+      "d": "Medium",
+      "topic": "Earth magnetism",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-183",
+      "q": "Choose the correct response: Auroras are associated with:",
+      "o": [
+        "Refraction through glass",
+        "Charged particles interacting with gases in the upper atmosphere",
+        "Only earthquakes",
+        "Only ocean tides"
+      ],
+      "a": 1,
+      "e": "Energetic charged particles excite atmospheric gases, producing light.",
+      "d": "Medium",
+      "topic": "Earth magnetism",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-184",
+      "q": "A compass needle responds primarily to:",
+      "o": [
+        "The local magnetic field",
+        "The Earth’s gravitational mass alone",
+        "Air humidity alone",
+        "The speed of sound"
+      ],
+      "a": 0,
+      "e": "A compass aligns with the local magnetic field.",
+      "d": "Medium",
+      "topic": "Earth magnetism",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-185",
+      "q": "Choose the correct response: A compass needle responds primarily to:",
+      "o": [
+        "The speed of sound",
+        "Air humidity alone",
+        "The local magnetic field",
+        "The Earth’s gravitational mass alone"
+      ],
+      "a": 2,
+      "e": "A compass aligns with the local magnetic field.",
+      "d": "Medium",
+      "topic": "Earth magnetism",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-186",
+      "q": "Geographical and magnetic poles of Earth are:",
+      "o": [
+        "Not exactly coincident",
+        "Unrelated to compass direction",
+        "Always located at the equator",
+        "Always identical"
+      ],
+      "a": 0,
+      "e": "Earth’s magnetic and geographic axes are not perfectly aligned.",
+      "d": "Easy",
+      "topic": "Earth magnetism",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-187",
+      "q": "Choose the correct response: Geographical and magnetic poles of Earth are:",
+      "o": [
+        "Always located at the equator",
+        "Not exactly coincident",
+        "Unrelated to compass direction",
+        "Always identical"
+      ],
+      "a": 1,
+      "e": "Earth’s magnetic and geographic axes are not perfectly aligned.",
+      "d": "Medium",
+      "topic": "Earth magnetism",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-188",
+      "q": "The textbook gives an approximate angle between Earth’s magnetic and geographical axes of:",
+      "o": [
+        "90 degrees",
+        "180 degrees",
+        "45 degrees",
+        "11.3 degrees"
+      ],
+      "a": 3,
+      "e": "Chapter 8 states an approximate inclination of 11.3 degrees.",
+      "d": "Medium",
+      "topic": "Earth magnetism",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-189",
+      "q": "Choose the correct response: The textbook gives an approximate angle between Earth’s magnetic and geographical axes of:",
+      "o": [
+        "45 degrees",
+        "11.3 degrees",
+        "90 degrees",
+        "180 degrees"
+      ],
+      "a": 1,
+      "e": "Chapter 8 states an approximate inclination of 11.3 degrees.",
+      "d": "Medium",
+      "topic": "Earth magnetism",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-190",
+      "q": "Migrating birds may use Earth’s magnetic field to:",
+      "o": [
+        "Stop the rotation of Earth",
+        "Assist navigation",
+        "Increase body mass",
+        "Produce electricity in wires"
+      ],
+      "a": 1,
+      "e": "Some animals use magnetic cues for orientation.",
+      "d": "Medium",
+      "topic": "Earth magnetism",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-191",
+      "q": "Choose the correct response: Migrating birds may use Earth’s magnetic field to:",
+      "o": [
+        "Increase body mass",
+        "Assist navigation",
+        "Produce electricity in wires",
+        "Stop the rotation of Earth"
+      ],
+      "a": 1,
+      "e": "Some animals use magnetic cues for orientation.",
+      "d": "Medium",
+      "topic": "Earth magnetism",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-192",
+      "q": "The magnetic field around Earth resembles approximately the field of:",
+      "o": [
+        "A bar magnet",
+        "A lens",
+        "A spring balance",
+        "A uniformly charged sphere only"
+      ],
+      "a": 0,
+      "e": "Earth’s large-scale field is approximately dipolar.",
+      "d": "Easy",
+      "topic": "Earth magnetism",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-193",
+      "q": "Choose the correct response: The magnetic field around Earth resembles approximately the field of:",
+      "o": [
+        "A lens",
+        "A spring balance",
+        "A uniformly charged sphere only",
+        "A bar magnet"
+      ],
+      "a": 3,
+      "e": "Earth’s large-scale field is approximately dipolar.",
+      "d": "Medium",
+      "topic": "Earth magnetism",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-194",
+      "q": "On the side facing the Sun, Earth’s magnetosphere is generally:",
+      "o": [
+        "Infinitely extended",
+        "Compressed by the solar wind",
+        "Unaffected by solar particles",
+        "Absent at all times"
+      ],
+      "a": 1,
+      "e": "Solar wind compresses the sunward magnetosphere.",
+      "d": "Medium",
+      "topic": "Earth magnetism",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-195",
+      "q": "Choose the correct response: On the side facing the Sun, Earth’s magnetosphere is generally:",
+      "o": [
+        "Unaffected by solar particles",
+        "Infinitely extended",
+        "Compressed by the solar wind",
+        "Absent at all times"
+      ],
+      "a": 2,
+      "e": "Solar wind compresses the sunward magnetosphere.",
+      "d": "Medium",
+      "topic": "Earth magnetism",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-196",
+      "q": "Exercise 1: A solenoid has 150 turns spread uniformly over 0.6 m. What is its turn density n?",
+      "o": [
+        "250 turns/m",
+        "0.004 turns/m",
+        "125 turns/m",
+        "90 turns/m"
+      ],
+      "a": 0,
+      "e": "n=N/L=150/0.6=250 turns/m.",
+      "d": "Medium",
+      "topic": "Solenoid calculations",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-197",
+      "q": "Exercise 2: A solenoid has 40 turns spread uniformly over 0.8 m. What is its turn density n?",
+      "o": [
+        "32 turns/m",
+        "0.02 turns/m",
+        "50 turns/m",
+        "25 turns/m"
+      ],
+      "a": 2,
+      "e": "n=N/L=40/0.8=50 turns/m.",
+      "d": "Medium",
+      "topic": "Solenoid calculations",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-198",
+      "q": "Exercise 3: A solenoid has 60 turns spread uniformly over 0.25 m. What is its turn density n?",
+      "o": [
+        "120 turns/m",
+        "240 turns/m",
+        "15 turns/m",
+        "0.00416667 turns/m"
+      ],
+      "a": 1,
+      "e": "n=N/L=60/0.25=240 turns/m.",
+      "d": "Medium",
+      "topic": "Solenoid calculations",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-199",
+      "q": "Exercise 4: A solenoid has 80 turns spread uniformly over 0.8 m. What is its turn density n?",
+      "o": [
+        "100 turns/m",
+        "64 turns/m",
+        "0.01 turns/m",
+        "50 turns/m"
+      ],
+      "a": 0,
+      "e": "n=N/L=80/0.8=100 turns/m.",
+      "d": "Medium",
+      "topic": "Solenoid calculations",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-200",
+      "q": "Exercise 5: A solenoid has 120 turns spread uniformly over 0.4 m. What is its turn density n?",
+      "o": [
+        "300 turns/m",
+        "48 turns/m",
+        "0.00333333 turns/m",
+        "150 turns/m"
+      ],
+      "a": 0,
+      "e": "n=N/L=120/0.4=300 turns/m.",
+      "d": "Medium",
+      "topic": "Solenoid calculations",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-201",
+      "q": "Exercise 6: A solenoid has 40 turns spread uniformly over 1 m. What is its turn density n?",
+      "o": [
+        "400 turns/m",
+        "20 turns/m",
+        "80 turns/m",
+        "40 turns/m"
+      ],
+      "a": 3,
+      "e": "n=N/L=40/1=40 turns/m.",
+      "d": "Medium",
+      "topic": "Solenoid calculations",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-202",
+      "q": "Exercise 7: A solenoid has 100 turns spread uniformly over 1 m. What is its turn density n?",
+      "o": [
+        "200 turns/m",
+        "100 turns/m",
+        "50 turns/m",
+        "1000 turns/m"
+      ],
+      "a": 1,
+      "e": "n=N/L=100/1=100 turns/m.",
+      "d": "Medium",
+      "topic": "Solenoid calculations",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-203",
+      "q": "Exercise 8: A solenoid has 500 turns spread uniformly over 0.25 m. What is its turn density n?",
+      "o": [
+        "125 turns/m",
+        "2000 turns/m",
+        "1000 turns/m",
+        "0.0005 turns/m"
+      ],
+      "a": 1,
+      "e": "n=N/L=500/0.25=2000 turns/m.",
+      "d": "Medium",
+      "topic": "Solenoid calculations",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-204",
+      "q": "Exercise 9: A solenoid has 200 turns spread uniformly over 0.8 m. What is its turn density n?",
+      "o": [
+        "160 turns/m",
+        "0.004 turns/m",
+        "125 turns/m",
+        "250 turns/m"
+      ],
+      "a": 3,
+      "e": "n=N/L=200/0.8=250 turns/m.",
+      "d": "Medium",
+      "topic": "Solenoid calculations",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-205",
+      "q": "Exercise 10: A solenoid has 400 turns spread uniformly over 0.4 m. What is its turn density n?",
+      "o": [
+        "1000 turns/m",
+        "160 turns/m",
+        "0.001 turns/m",
+        "500 turns/m"
+      ],
+      "a": 0,
+      "e": "n=N/L=400/0.4=1000 turns/m.",
+      "d": "Medium",
+      "topic": "Solenoid calculations",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-206",
+      "q": "Exercise 11: A solenoid has 400 turns spread uniformly over 1 m. What is its turn density n?",
+      "o": [
+        "200 turns/m",
+        "4000 turns/m",
+        "800 turns/m",
+        "400 turns/m"
+      ],
+      "a": 3,
+      "e": "n=N/L=400/1=400 turns/m.",
+      "d": "Medium",
+      "topic": "Solenoid calculations",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-207",
+      "q": "Exercise 12: A solenoid has 300 turns spread uniformly over 0.25 m. What is its turn density n?",
+      "o": [
+        "0.000833333 turns/m",
+        "1200 turns/m",
+        "600 turns/m",
+        "75 turns/m"
+      ],
+      "a": 1,
+      "e": "n=N/L=300/0.25=1200 turns/m.",
+      "d": "Medium",
+      "topic": "Solenoid calculations",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-208",
+      "q": "Exercise 13: A solenoid has 80 turns spread uniformly over 0.8 m. What is its turn density n?",
+      "o": [
+        "0.01 turns/m",
+        "50 turns/m",
+        "64 turns/m",
+        "100 turns/m"
+      ],
+      "a": 3,
+      "e": "n=N/L=80/0.8=100 turns/m.",
+      "d": "Medium",
+      "topic": "Solenoid calculations",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-209",
+      "q": "Exercise 14: A solenoid has 200 turns spread uniformly over 0.6 m. What is its turn density n?",
+      "o": [
+        "166.667 turns/m",
+        "120 turns/m",
+        "333.333 turns/m",
+        "0.003 turns/m"
+      ],
+      "a": 2,
+      "e": "n=N/L=200/0.6=333.333 turns/m.",
+      "d": "Medium",
+      "topic": "Solenoid calculations",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-210",
+      "q": "Exercise 15: A solenoid has 500 turns spread uniformly over 2 m. What is its turn density n?",
+      "o": [
+        "250 turns/m",
+        "1000 turns/m",
+        "125 turns/m",
+        "0.004 turns/m"
+      ],
+      "a": 0,
+      "e": "n=N/L=500/2=250 turns/m.",
+      "d": "Medium",
+      "topic": "Solenoid calculations",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-211",
+      "q": "Exercise 16: A solenoid has 200 turns spread uniformly over 0.4 m. What is its turn density n?",
+      "o": [
+        "80 turns/m",
+        "500 turns/m",
+        "0.002 turns/m",
+        "250 turns/m"
+      ],
+      "a": 1,
+      "e": "n=N/L=200/0.4=500 turns/m.",
+      "d": "Medium",
+      "topic": "Solenoid calculations",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-212",
+      "q": "Exercise 17: A solenoid has 300 turns spread uniformly over 0.25 m. What is its turn density n?",
+      "o": [
+        "600 turns/m",
+        "1200 turns/m",
+        "75 turns/m",
+        "0.000833333 turns/m"
+      ],
+      "a": 1,
+      "e": "n=N/L=300/0.25=1200 turns/m.",
+      "d": "Medium",
+      "topic": "Solenoid calculations",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-213",
+      "q": "Exercise 18: A solenoid has 80 turns spread uniformly over 0.2 m. What is its turn density n?",
+      "o": [
+        "0.0025 turns/m",
+        "400 turns/m",
+        "200 turns/m",
+        "16 turns/m"
+      ],
+      "a": 1,
+      "e": "n=N/L=80/0.2=400 turns/m.",
+      "d": "Medium",
+      "topic": "Solenoid calculations",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-214",
+      "q": "Exercise 19: A solenoid has 500 turns spread uniformly over 0.5 m. What is its turn density n?",
+      "o": [
+        "1000 turns/m",
+        "500 turns/m",
+        "250 turns/m",
+        "0.001 turns/m"
+      ],
+      "a": 0,
+      "e": "n=N/L=500/0.5=1000 turns/m.",
+      "d": "Medium",
+      "topic": "Solenoid calculations",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-215",
+      "q": "Exercise 20: A solenoid has 300 turns spread uniformly over 1 m. What is its turn density n?",
+      "o": [
+        "300 turns/m",
+        "600 turns/m",
+        "150 turns/m",
+        "3000 turns/m"
+      ],
+      "a": 0,
+      "e": "n=N/L=300/1=300 turns/m.",
+      "d": "Medium",
+      "topic": "Solenoid calculations",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-216",
+      "q": "Exercise 21: A solenoid has 120 turns spread uniformly over 0.8 m. What is its turn density n?",
+      "o": [
+        "75 turns/m",
+        "150 turns/m",
+        "96 turns/m",
+        "0.00666667 turns/m"
+      ],
+      "a": 1,
+      "e": "n=N/L=120/0.8=150 turns/m.",
+      "d": "Medium",
+      "topic": "Solenoid calculations",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-217",
+      "q": "Exercise 22: A solenoid has 200 turns spread uniformly over 1.5 m. What is its turn density n?",
+      "o": [
+        "0.0075 turns/m",
+        "66.6667 turns/m",
+        "133.333 turns/m",
+        "300 turns/m"
+      ],
+      "a": 2,
+      "e": "n=N/L=200/1.5=133.333 turns/m.",
+      "d": "Medium",
+      "topic": "Solenoid calculations",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-218",
+      "q": "Exercise 23: A solenoid has 250 turns spread uniformly over 2 m. What is its turn density n?",
+      "o": [
+        "0.008 turns/m",
+        "62.5 turns/m",
+        "500 turns/m",
+        "125 turns/m"
+      ],
+      "a": 3,
+      "e": "n=N/L=250/2=125 turns/m.",
+      "d": "Medium",
+      "topic": "Solenoid calculations",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-219",
+      "q": "Exercise 24: A solenoid has 120 turns spread uniformly over 1 m. What is its turn density n?",
+      "o": [
+        "60 turns/m",
+        "1200 turns/m",
+        "240 turns/m",
+        "120 turns/m"
+      ],
+      "a": 3,
+      "e": "n=N/L=120/1=120 turns/m.",
+      "d": "Medium",
+      "topic": "Solenoid calculations",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-220",
+      "q": "Exercise 25: A solenoid has 300 turns spread uniformly over 1 m. What is its turn density n?",
+      "o": [
+        "300 turns/m",
+        "150 turns/m",
+        "3000 turns/m",
+        "600 turns/m"
+      ],
+      "a": 0,
+      "e": "n=N/L=300/1=300 turns/m.",
+      "d": "Medium",
+      "topic": "Solenoid calculations",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-221",
+      "q": "Exercise 26: A solenoid has 400 turns spread uniformly over 0.2 m. What is its turn density n?",
+      "o": [
+        "0.0005 turns/m",
+        "1000 turns/m",
+        "2000 turns/m",
+        "80 turns/m"
+      ],
+      "a": 2,
+      "e": "n=N/L=400/0.2=2000 turns/m.",
+      "d": "Medium",
+      "topic": "Solenoid calculations",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-222",
+      "q": "Exercise 27: A solenoid has 500 turns spread uniformly over 0.4 m. What is its turn density n?",
+      "o": [
+        "0.0008 turns/m",
+        "1250 turns/m",
+        "200 turns/m",
+        "625 turns/m"
+      ],
+      "a": 1,
+      "e": "n=N/L=500/0.4=1250 turns/m.",
+      "d": "Medium",
+      "topic": "Solenoid calculations",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-223",
+      "q": "Exercise 28: A solenoid has 60 turns spread uniformly over 0.2 m. What is its turn density n?",
+      "o": [
+        "12 turns/m",
+        "150 turns/m",
+        "300 turns/m",
+        "0.00333333 turns/m"
+      ],
+      "a": 2,
+      "e": "n=N/L=60/0.2=300 turns/m.",
+      "d": "Medium",
+      "topic": "Solenoid calculations",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-224",
+      "q": "Exercise 29: A solenoid has 300 turns spread uniformly over 0.8 m. What is its turn density n?",
+      "o": [
+        "240 turns/m",
+        "375 turns/m",
+        "0.00266667 turns/m",
+        "187.5 turns/m"
+      ],
+      "a": 1,
+      "e": "n=N/L=300/0.8=375 turns/m.",
+      "d": "Medium",
+      "topic": "Solenoid calculations",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-225",
+      "q": "Exercise 30: A solenoid has 500 turns spread uniformly over 0.6 m. What is its turn density n?",
+      "o": [
+        "0.0012 turns/m",
+        "300 turns/m",
+        "833.333 turns/m",
+        "416.667 turns/m"
+      ],
+      "a": 2,
+      "e": "n=N/L=500/0.6=833.333 turns/m.",
+      "d": "Medium",
+      "topic": "Solenoid calculations",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-226",
+      "q": "Exercise 31: A solenoid has 120 turns spread uniformly over 0.5 m. What is its turn density n?",
+      "o": [
+        "60 turns/m",
+        "240 turns/m",
+        "0.00416667 turns/m",
+        "120 turns/m"
+      ],
+      "a": 1,
+      "e": "n=N/L=120/0.5=240 turns/m.",
+      "d": "Medium",
+      "topic": "Solenoid calculations",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-227",
+      "q": "Exercise 32: A solenoid has 60 turns spread uniformly over 1 m. What is its turn density n?",
+      "o": [
+        "120 turns/m",
+        "60 turns/m",
+        "600 turns/m",
+        "30 turns/m"
+      ],
+      "a": 1,
+      "e": "n=N/L=60/1=60 turns/m.",
+      "d": "Medium",
+      "topic": "Solenoid calculations",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-228",
+      "q": "Exercise 33: A solenoid has 400 turns spread uniformly over 0.8 m. What is its turn density n?",
+      "o": [
+        "250 turns/m",
+        "0.002 turns/m",
+        "500 turns/m",
+        "320 turns/m"
+      ],
+      "a": 2,
+      "e": "n=N/L=400/0.8=500 turns/m.",
+      "d": "Medium",
+      "topic": "Solenoid calculations",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-229",
+      "q": "Exercise 34: A solenoid has 400 turns spread uniformly over 1.5 m. What is its turn density n?",
+      "o": [
+        "600 turns/m",
+        "266.667 turns/m",
+        "133.333 turns/m",
+        "0.00375 turns/m"
+      ],
+      "a": 1,
+      "e": "n=N/L=400/1.5=266.667 turns/m.",
+      "d": "Medium",
+      "topic": "Solenoid calculations",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-230",
+      "q": "Exercise 35: A solenoid has 200 turns spread uniformly over 0.6 m. What is its turn density n?",
+      "o": [
+        "120 turns/m",
+        "333.333 turns/m",
+        "166.667 turns/m",
+        "0.003 turns/m"
+      ],
+      "a": 1,
+      "e": "n=N/L=200/0.6=333.333 turns/m.",
+      "d": "Medium",
+      "topic": "Solenoid calculations",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-231",
+      "q": "Exercise 36: An air-core long solenoid has 150 turns/m and carries 2 A. Find B using mu0=4pi x 10^-7 T m/A.",
+      "o": [
+        "3.770 mT",
+        "0.754 mT",
+        "0.377 mT",
+        "0.188 mT"
+      ],
+      "a": 2,
+      "e": "B=mu0 n I=(4pi x 10^-7)(150)(2) T = 0.377 mT.",
+      "d": "Hard",
+      "topic": "Solenoid calculations",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-232",
+      "q": "Exercise 37: An air-core long solenoid has 100 turns/m and carries 1 A. Find B using mu0=4pi x 10^-7 T m/A.",
+      "o": [
+        "0.126 mT",
+        "0.063 mT",
+        "0.251 mT",
+        "1.257 mT"
+      ],
+      "a": 0,
+      "e": "B=mu0 n I=(4pi x 10^-7)(100)(1) T = 0.126 mT.",
+      "d": "Hard",
+      "topic": "Solenoid calculations",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-233",
+      "q": "Exercise 38: An air-core long solenoid has 600 turns/m and carries 2.5 A. Find B using mu0=4pi x 10^-7 T m/A.",
+      "o": [
+        "1.885 mT",
+        "0.942 mT",
+        "18.850 mT",
+        "3.770 mT"
+      ],
+      "a": 0,
+      "e": "B=mu0 n I=(4pi x 10^-7)(600)(2.5) T = 1.885 mT.",
+      "d": "Hard",
+      "topic": "Solenoid calculations",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-234",
+      "q": "Exercise 39: An air-core long solenoid has 500 turns/m and carries 0.5 A. Find B using mu0=4pi x 10^-7 T m/A.",
+      "o": [
+        "0.157 mT",
+        "3.142 mT",
+        "0.314 mT",
+        "0.628 mT"
+      ],
+      "a": 2,
+      "e": "B=mu0 n I=(4pi x 10^-7)(500)(0.5) T = 0.314 mT.",
+      "d": "Hard",
+      "topic": "Solenoid calculations",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-235",
+      "q": "Exercise 40: An air-core long solenoid has 200 turns/m and carries 0.8 A. Find B using mu0=4pi x 10^-7 T m/A.",
+      "o": [
+        "2.011 mT",
+        "0.402 mT",
+        "0.201 mT",
+        "0.101 mT"
+      ],
+      "a": 2,
+      "e": "B=mu0 n I=(4pi x 10^-7)(200)(0.8) T = 0.201 mT.",
+      "d": "Hard",
+      "topic": "Solenoid calculations",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-236",
+      "q": "Exercise 41: An air-core long solenoid has 250 turns/m and carries 0.2 A. Find B using mu0=4pi x 10^-7 T m/A.",
+      "o": [
+        "0.628 mT",
+        "0.031 mT",
+        "0.126 mT",
+        "0.063 mT"
+      ],
+      "a": 3,
+      "e": "B=mu0 n I=(4pi x 10^-7)(250)(0.2) T = 0.063 mT.",
+      "d": "Hard",
+      "topic": "Solenoid calculations",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-237",
+      "q": "Exercise 42: An air-core long solenoid has 200 turns/m and carries 1.2 A. Find B using mu0=4pi x 10^-7 T m/A.",
+      "o": [
+        "0.603 mT",
+        "0.151 mT",
+        "3.016 mT",
+        "0.302 mT"
+      ],
+      "a": 3,
+      "e": "B=mu0 n I=(4pi x 10^-7)(200)(1.2) T = 0.302 mT.",
+      "d": "Hard",
+      "topic": "Solenoid calculations",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-238",
+      "q": "Exercise 43: An air-core long solenoid has 100 turns/m and carries 3 A. Find B using mu0=4pi x 10^-7 T m/A.",
+      "o": [
+        "0.377 mT",
+        "3.770 mT",
+        "0.188 mT",
+        "0.754 mT"
+      ],
+      "a": 0,
+      "e": "B=mu0 n I=(4pi x 10^-7)(100)(3) T = 0.377 mT.",
+      "d": "Hard",
+      "topic": "Solenoid calculations",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-239",
+      "q": "Exercise 44: An air-core long solenoid has 200 turns/m and carries 1.2 A. Find B using mu0=4pi x 10^-7 T m/A.",
+      "o": [
+        "0.603 mT",
+        "0.302 mT",
+        "3.016 mT",
+        "0.151 mT"
+      ],
+      "a": 1,
+      "e": "B=mu0 n I=(4pi x 10^-7)(200)(1.2) T = 0.302 mT.",
+      "d": "Hard",
+      "topic": "Solenoid calculations",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-240",
+      "q": "Exercise 45: An air-core long solenoid has 100 turns/m and carries 1.5 A. Find B using mu0=4pi x 10^-7 T m/A.",
+      "o": [
+        "0.377 mT",
+        "0.188 mT",
+        "1.885 mT",
+        "0.094 mT"
+      ],
+      "a": 1,
+      "e": "B=mu0 n I=(4pi x 10^-7)(100)(1.5) T = 0.188 mT.",
+      "d": "Hard",
+      "topic": "Solenoid calculations",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-241",
+      "q": "Exercise 46: An air-core long solenoid has 100 turns/m and carries 0.4 A. Find B using mu0=4pi x 10^-7 T m/A.",
+      "o": [
+        "0.050 mT",
+        "0.101 mT",
+        "0.503 mT",
+        "0.025 mT"
+      ],
+      "a": 0,
+      "e": "B=mu0 n I=(4pi x 10^-7)(100)(0.4) T = 0.050 mT.",
+      "d": "Hard",
+      "topic": "Solenoid calculations",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-242",
+      "q": "Exercise 47: An air-core long solenoid has 200 turns/m and carries 0.2 A. Find B using mu0=4pi x 10^-7 T m/A.",
+      "o": [
+        "0.025 mT",
+        "0.503 mT",
+        "0.101 mT",
+        "0.050 mT"
+      ],
+      "a": 3,
+      "e": "B=mu0 n I=(4pi x 10^-7)(200)(0.2) T = 0.050 mT.",
+      "d": "Hard",
+      "topic": "Solenoid calculations",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-243",
+      "q": "Exercise 48: An air-core long solenoid has 300 turns/m and carries 1.2 A. Find B using mu0=4pi x 10^-7 T m/A.",
+      "o": [
+        "0.452 mT",
+        "0.226 mT",
+        "0.905 mT",
+        "4.524 mT"
+      ],
+      "a": 0,
+      "e": "B=mu0 n I=(4pi x 10^-7)(300)(1.2) T = 0.452 mT.",
+      "d": "Hard",
+      "topic": "Solenoid calculations",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-244",
+      "q": "Exercise 49: An air-core long solenoid has 600 turns/m and carries 0.2 A. Find B using mu0=4pi x 10^-7 T m/A.",
+      "o": [
+        "0.302 mT",
+        "0.075 mT",
+        "0.151 mT",
+        "1.508 mT"
+      ],
+      "a": 2,
+      "e": "B=mu0 n I=(4pi x 10^-7)(600)(0.2) T = 0.151 mT.",
+      "d": "Hard",
+      "topic": "Solenoid calculations",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-245",
+      "q": "Exercise 50: An air-core long solenoid has 300 turns/m and carries 1.5 A. Find B using mu0=4pi x 10^-7 T m/A.",
+      "o": [
+        "1.131 mT",
+        "5.655 mT",
+        "0.565 mT",
+        "0.283 mT"
+      ],
+      "a": 2,
+      "e": "B=mu0 n I=(4pi x 10^-7)(300)(1.5) T = 0.565 mT.",
+      "d": "Hard",
+      "topic": "Solenoid calculations",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-246",
+      "q": "Exercise 51: An air-core long solenoid has 250 turns/m and carries 1.2 A. Find B using mu0=4pi x 10^-7 T m/A.",
+      "o": [
+        "0.754 mT",
+        "3.770 mT",
+        "0.377 mT",
+        "0.188 mT"
+      ],
+      "a": 2,
+      "e": "B=mu0 n I=(4pi x 10^-7)(250)(1.2) T = 0.377 mT.",
+      "d": "Hard",
+      "topic": "Solenoid calculations",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-247",
+      "q": "Exercise 52: An air-core long solenoid has 400 turns/m and carries 0.5 A. Find B using mu0=4pi x 10^-7 T m/A.",
+      "o": [
+        "0.251 mT",
+        "0.503 mT",
+        "0.126 mT",
+        "2.513 mT"
+      ],
+      "a": 0,
+      "e": "B=mu0 n I=(4pi x 10^-7)(400)(0.5) T = 0.251 mT.",
+      "d": "Hard",
+      "topic": "Solenoid calculations",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-248",
+      "q": "Exercise 53: An air-core long solenoid has 200 turns/m and carries 0.8 A. Find B using mu0=4pi x 10^-7 T m/A.",
+      "o": [
+        "0.402 mT",
+        "0.101 mT",
+        "2.011 mT",
+        "0.201 mT"
+      ],
+      "a": 3,
+      "e": "B=mu0 n I=(4pi x 10^-7)(200)(0.8) T = 0.201 mT.",
+      "d": "Hard",
+      "topic": "Solenoid calculations",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-249",
+      "q": "Exercise 54: An air-core long solenoid has 250 turns/m and carries 0.5 A. Find B using mu0=4pi x 10^-7 T m/A.",
+      "o": [
+        "0.314 mT",
+        "0.157 mT",
+        "0.079 mT",
+        "1.571 mT"
+      ],
+      "a": 1,
+      "e": "B=mu0 n I=(4pi x 10^-7)(250)(0.5) T = 0.157 mT.",
+      "d": "Hard",
+      "topic": "Solenoid calculations",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-250",
+      "q": "Exercise 55: An air-core long solenoid has 500 turns/m and carries 1.2 A. Find B using mu0=4pi x 10^-7 T m/A.",
+      "o": [
+        "0.377 mT",
+        "0.754 mT",
+        "7.540 mT",
+        "1.508 mT"
+      ],
+      "a": 1,
+      "e": "B=mu0 n I=(4pi x 10^-7)(500)(1.2) T = 0.754 mT.",
+      "d": "Hard",
+      "topic": "Solenoid calculations",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-251",
+      "q": "Exercise 56: An air-core long solenoid has 150 turns/m and carries 1.2 A. Find B using mu0=4pi x 10^-7 T m/A.",
+      "o": [
+        "0.226 mT",
+        "0.452 mT",
+        "2.262 mT",
+        "0.113 mT"
+      ],
+      "a": 0,
+      "e": "B=mu0 n I=(4pi x 10^-7)(150)(1.2) T = 0.226 mT.",
+      "d": "Hard",
+      "topic": "Solenoid calculations",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-252",
+      "q": "Exercise 57: An air-core long solenoid has 800 turns/m and carries 2.5 A. Find B using mu0=4pi x 10^-7 T m/A.",
+      "o": [
+        "25.133 mT",
+        "1.257 mT",
+        "2.513 mT",
+        "5.027 mT"
+      ],
+      "a": 2,
+      "e": "B=mu0 n I=(4pi x 10^-7)(800)(2.5) T = 2.513 mT.",
+      "d": "Hard",
+      "topic": "Solenoid calculations",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-253",
+      "q": "Exercise 58: An air-core long solenoid has 250 turns/m and carries 1.2 A. Find B using mu0=4pi x 10^-7 T m/A.",
+      "o": [
+        "0.188 mT",
+        "0.377 mT",
+        "0.754 mT",
+        "3.770 mT"
+      ],
+      "a": 1,
+      "e": "B=mu0 n I=(4pi x 10^-7)(250)(1.2) T = 0.377 mT.",
+      "d": "Hard",
+      "topic": "Solenoid calculations",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-254",
+      "q": "Exercise 59: An air-core long solenoid has 600 turns/m and carries 2.5 A. Find B using mu0=4pi x 10^-7 T m/A.",
+      "o": [
+        "18.850 mT",
+        "1.885 mT",
+        "0.942 mT",
+        "3.770 mT"
+      ],
+      "a": 1,
+      "e": "B=mu0 n I=(4pi x 10^-7)(600)(2.5) T = 1.885 mT.",
+      "d": "Hard",
+      "topic": "Solenoid calculations",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-255",
+      "q": "Exercise 60: An air-core long solenoid has 500 turns/m and carries 3 A. Find B using mu0=4pi x 10^-7 T m/A.",
+      "o": [
+        "3.770 mT",
+        "0.942 mT",
+        "18.850 mT",
+        "1.885 mT"
+      ],
+      "a": 3,
+      "e": "B=mu0 n I=(4pi x 10^-7)(500)(3) T = 1.885 mT.",
+      "d": "Hard",
+      "topic": "Solenoid calculations",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-256",
+      "q": "Exercise 61: An air-core long solenoid has 300 turns/m and carries 0.2 A. Find B using mu0=4pi x 10^-7 T m/A.",
+      "o": [
+        "0.151 mT",
+        "0.075 mT",
+        "0.754 mT",
+        "0.038 mT"
+      ],
+      "a": 1,
+      "e": "B=mu0 n I=(4pi x 10^-7)(300)(0.2) T = 0.075 mT.",
+      "d": "Hard",
+      "topic": "Solenoid calculations",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-257",
+      "q": "Exercise 62: An air-core long solenoid has 200 turns/m and carries 2.5 A. Find B using mu0=4pi x 10^-7 T m/A.",
+      "o": [
+        "1.257 mT",
+        "6.283 mT",
+        "0.314 mT",
+        "0.628 mT"
+      ],
+      "a": 3,
+      "e": "B=mu0 n I=(4pi x 10^-7)(200)(2.5) T = 0.628 mT.",
+      "d": "Hard",
+      "topic": "Solenoid calculations",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-258",
+      "q": "Exercise 63: An air-core long solenoid has 500 turns/m and carries 0.8 A. Find B using mu0=4pi x 10^-7 T m/A.",
+      "o": [
+        "0.251 mT",
+        "0.503 mT",
+        "1.005 mT",
+        "5.027 mT"
+      ],
+      "a": 1,
+      "e": "B=mu0 n I=(4pi x 10^-7)(500)(0.8) T = 0.503 mT.",
+      "d": "Hard",
+      "topic": "Solenoid calculations",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-259",
+      "q": "Exercise 64: An air-core long solenoid has 200 turns/m and carries 0.8 A. Find B using mu0=4pi x 10^-7 T m/A.",
+      "o": [
+        "2.011 mT",
+        "0.101 mT",
+        "0.201 mT",
+        "0.402 mT"
+      ],
+      "a": 2,
+      "e": "B=mu0 n I=(4pi x 10^-7)(200)(0.8) T = 0.201 mT.",
+      "d": "Hard",
+      "topic": "Solenoid calculations",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-260",
+      "q": "Exercise 65: An air-core long solenoid has 250 turns/m and carries 0.8 A. Find B using mu0=4pi x 10^-7 T m/A.",
+      "o": [
+        "2.513 mT",
+        "0.126 mT",
+        "0.503 mT",
+        "0.251 mT"
+      ],
+      "a": 3,
+      "e": "B=mu0 n I=(4pi x 10^-7)(250)(0.8) T = 0.251 mT.",
+      "d": "Hard",
+      "topic": "Solenoid calculations",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-261",
+      "q": "Exercise 66: An air-core long solenoid has 500 turns/m and carries 0.5 A. Find B using mu0=4pi x 10^-7 T m/A.",
+      "o": [
+        "0.157 mT",
+        "0.628 mT",
+        "0.314 mT",
+        "3.142 mT"
+      ],
+      "a": 2,
+      "e": "B=mu0 n I=(4pi x 10^-7)(500)(0.5) T = 0.314 mT.",
+      "d": "Hard",
+      "topic": "Solenoid calculations",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-262",
+      "q": "Exercise 67: An air-core long solenoid has 500 turns/m and carries 3 A. Find B using mu0=4pi x 10^-7 T m/A.",
+      "o": [
+        "18.850 mT",
+        "1.885 mT",
+        "0.942 mT",
+        "3.770 mT"
+      ],
+      "a": 1,
+      "e": "B=mu0 n I=(4pi x 10^-7)(500)(3) T = 1.885 mT.",
+      "d": "Hard",
+      "topic": "Solenoid calculations",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-263",
+      "q": "Exercise 68: An air-core long solenoid has 800 turns/m and carries 1.5 A. Find B using mu0=4pi x 10^-7 T m/A.",
+      "o": [
+        "1.508 mT",
+        "15.080 mT",
+        "0.754 mT",
+        "3.016 mT"
+      ],
+      "a": 0,
+      "e": "B=mu0 n I=(4pi x 10^-7)(800)(1.5) T = 1.508 mT.",
+      "d": "Hard",
+      "topic": "Solenoid calculations",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-264",
+      "q": "Exercise 69: An air-core long solenoid has 100 turns/m and carries 1 A. Find B using mu0=4pi x 10^-7 T m/A.",
+      "o": [
+        "0.126 mT",
+        "1.257 mT",
+        "0.251 mT",
+        "0.063 mT"
+      ],
+      "a": 0,
+      "e": "B=mu0 n I=(4pi x 10^-7)(100)(1) T = 0.126 mT.",
+      "d": "Hard",
+      "topic": "Solenoid calculations",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-265",
+      "q": "Exercise 70: An air-core long solenoid has 800 turns/m and carries 2 A. Find B using mu0=4pi x 10^-7 T m/A.",
+      "o": [
+        "2.011 mT",
+        "4.021 mT",
+        "1.005 mT",
+        "20.106 mT"
+      ],
+      "a": 0,
+      "e": "B=mu0 n I=(4pi x 10^-7)(800)(2) T = 2.011 mT.",
+      "d": "Hard",
+      "topic": "Solenoid calculations",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-266",
+      "q": "Exercise 71: Find B at 0.025 m from a long straight wire carrying 10 A (mu0=4pi x 10^-7 T m/A).",
+      "o": [
+        "80.00 microtesla",
+        "40.00 microtesla",
+        "160.00 microtesla",
+        "800.00 microtesla"
+      ],
+      "a": 0,
+      "e": "B=mu0 I/(2pi r)=2 x 10^-7(10)/0.025 T = 80.00 microtesla.",
+      "d": "Hard",
+      "topic": "Straight-wire calculations",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-267",
+      "q": "Exercise 72: Find B at 0.01 m from a long straight wire carrying 6 A (mu0=4pi x 10^-7 T m/A).",
+      "o": [
+        "1200.00 microtesla",
+        "120.00 microtesla",
+        "240.00 microtesla",
+        "60.00 microtesla"
+      ],
+      "a": 1,
+      "e": "B=mu0 I/(2pi r)=2 x 10^-7(6)/0.01 T = 120.00 microtesla.",
+      "d": "Hard",
+      "topic": "Straight-wire calculations",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-268",
+      "q": "Exercise 73: Find B at 0.02 m from a long straight wire carrying 1 A (mu0=4pi x 10^-7 T m/A).",
+      "o": [
+        "5.00 microtesla",
+        "20.00 microtesla",
+        "100.00 microtesla",
+        "10.00 microtesla"
+      ],
+      "a": 3,
+      "e": "B=mu0 I/(2pi r)=2 x 10^-7(1)/0.02 T = 10.00 microtesla.",
+      "d": "Hard",
+      "topic": "Straight-wire calculations",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-269",
+      "q": "Exercise 74: Find B at 0.05 m from a long straight wire carrying 8 A (mu0=4pi x 10^-7 T m/A).",
+      "o": [
+        "16.00 microtesla",
+        "32.00 microtesla",
+        "64.00 microtesla",
+        "320.00 microtesla"
+      ],
+      "a": 1,
+      "e": "B=mu0 I/(2pi r)=2 x 10^-7(8)/0.05 T = 32.00 microtesla.",
+      "d": "Hard",
+      "topic": "Straight-wire calculations",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-270",
+      "q": "Exercise 75: Find B at 0.02 m from a long straight wire carrying 8 A (mu0=4pi x 10^-7 T m/A).",
+      "o": [
+        "160.00 microtesla",
+        "40.00 microtesla",
+        "800.00 microtesla",
+        "80.00 microtesla"
+      ],
+      "a": 3,
+      "e": "B=mu0 I/(2pi r)=2 x 10^-7(8)/0.02 T = 80.00 microtesla.",
+      "d": "Hard",
+      "topic": "Straight-wire calculations",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-271",
+      "q": "Exercise 76: Find B at 0.2 m from a long straight wire carrying 2.5 A (mu0=4pi x 10^-7 T m/A).",
+      "o": [
+        "2.50 microtesla",
+        "5.00 microtesla",
+        "1.25 microtesla",
+        "25.00 microtesla"
+      ],
+      "a": 0,
+      "e": "B=mu0 I/(2pi r)=2 x 10^-7(2.5)/0.2 T = 2.50 microtesla.",
+      "d": "Hard",
+      "topic": "Straight-wire calculations",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-272",
+      "q": "Exercise 77: Find B at 0.02 m from a long straight wire carrying 1.5 A (mu0=4pi x 10^-7 T m/A).",
+      "o": [
+        "150.00 microtesla",
+        "30.00 microtesla",
+        "15.00 microtesla",
+        "7.50 microtesla"
+      ],
+      "a": 2,
+      "e": "B=mu0 I/(2pi r)=2 x 10^-7(1.5)/0.02 T = 15.00 microtesla.",
+      "d": "Hard",
+      "topic": "Straight-wire calculations",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-273",
+      "q": "Exercise 78: Find B at 0.08 m from a long straight wire carrying 6 A (mu0=4pi x 10^-7 T m/A).",
+      "o": [
+        "150.00 microtesla",
+        "7.50 microtesla",
+        "30.00 microtesla",
+        "15.00 microtesla"
+      ],
+      "a": 3,
+      "e": "B=mu0 I/(2pi r)=2 x 10^-7(6)/0.08 T = 15.00 microtesla.",
+      "d": "Hard",
+      "topic": "Straight-wire calculations",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-274",
+      "q": "Exercise 79: Find B at 0.025 m from a long straight wire carrying 3 A (mu0=4pi x 10^-7 T m/A).",
+      "o": [
+        "240.00 microtesla",
+        "48.00 microtesla",
+        "12.00 microtesla",
+        "24.00 microtesla"
+      ],
+      "a": 3,
+      "e": "B=mu0 I/(2pi r)=2 x 10^-7(3)/0.025 T = 24.00 microtesla.",
+      "d": "Hard",
+      "topic": "Straight-wire calculations",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-275",
+      "q": "Exercise 80: Find B at 0.01 m from a long straight wire carrying 8 A (mu0=4pi x 10^-7 T m/A).",
+      "o": [
+        "80.00 microtesla",
+        "1600.00 microtesla",
+        "160.00 microtesla",
+        "320.00 microtesla"
+      ],
+      "a": 2,
+      "e": "B=mu0 I/(2pi r)=2 x 10^-7(8)/0.01 T = 160.00 microtesla.",
+      "d": "Hard",
+      "topic": "Straight-wire calculations",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-276",
+      "q": "Exercise 81: Find B at 0.025 m from a long straight wire carrying 2 A (mu0=4pi x 10^-7 T m/A).",
+      "o": [
+        "160.00 microtesla",
+        "32.00 microtesla",
+        "8.00 microtesla",
+        "16.00 microtesla"
+      ],
+      "a": 3,
+      "e": "B=mu0 I/(2pi r)=2 x 10^-7(2)/0.025 T = 16.00 microtesla.",
+      "d": "Hard",
+      "topic": "Straight-wire calculations",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-277",
+      "q": "Exercise 82: Find B at 0.01 m from a long straight wire carrying 1.5 A (mu0=4pi x 10^-7 T m/A).",
+      "o": [
+        "300.00 microtesla",
+        "15.00 microtesla",
+        "60.00 microtesla",
+        "30.00 microtesla"
+      ],
+      "a": 3,
+      "e": "B=mu0 I/(2pi r)=2 x 10^-7(1.5)/0.01 T = 30.00 microtesla.",
+      "d": "Hard",
+      "topic": "Straight-wire calculations",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-278",
+      "q": "Exercise 83: Find B at 0.01 m from a long straight wire carrying 1 A (mu0=4pi x 10^-7 T m/A).",
+      "o": [
+        "40.00 microtesla",
+        "10.00 microtesla",
+        "20.00 microtesla",
+        "200.00 microtesla"
+      ],
+      "a": 2,
+      "e": "B=mu0 I/(2pi r)=2 x 10^-7(1)/0.01 T = 20.00 microtesla.",
+      "d": "Hard",
+      "topic": "Straight-wire calculations",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-279",
+      "q": "Exercise 84: Find B at 0.08 m from a long straight wire carrying 3 A (mu0=4pi x 10^-7 T m/A).",
+      "o": [
+        "3.75 microtesla",
+        "75.00 microtesla",
+        "15.00 microtesla",
+        "7.50 microtesla"
+      ],
+      "a": 3,
+      "e": "B=mu0 I/(2pi r)=2 x 10^-7(3)/0.08 T = 7.50 microtesla.",
+      "d": "Hard",
+      "topic": "Straight-wire calculations",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-280",
+      "q": "Exercise 85: Find B at 0.1 m from a long straight wire carrying 6 A (mu0=4pi x 10^-7 T m/A).",
+      "o": [
+        "120.00 microtesla",
+        "12.00 microtesla",
+        "6.00 microtesla",
+        "24.00 microtesla"
+      ],
+      "a": 1,
+      "e": "B=mu0 I/(2pi r)=2 x 10^-7(6)/0.1 T = 12.00 microtesla.",
+      "d": "Hard",
+      "topic": "Straight-wire calculations",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-281",
+      "q": "Exercise 86: Find B at 0.02 m from a long straight wire carrying 0.5 A (mu0=4pi x 10^-7 T m/A).",
+      "o": [
+        "10.00 microtesla",
+        "2.50 microtesla",
+        "5.00 microtesla",
+        "50.00 microtesla"
+      ],
+      "a": 2,
+      "e": "B=mu0 I/(2pi r)=2 x 10^-7(0.5)/0.02 T = 5.00 microtesla.",
+      "d": "Hard",
+      "topic": "Straight-wire calculations",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-282",
+      "q": "Exercise 87: Find B at 0.1 m from a long straight wire carrying 0.5 A (mu0=4pi x 10^-7 T m/A).",
+      "o": [
+        "0.50 microtesla",
+        "2.00 microtesla",
+        "10.00 microtesla",
+        "1.00 microtesla"
+      ],
+      "a": 3,
+      "e": "B=mu0 I/(2pi r)=2 x 10^-7(0.5)/0.1 T = 1.00 microtesla.",
+      "d": "Hard",
+      "topic": "Straight-wire calculations",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-283",
+      "q": "Exercise 88: Find B at 0.04 m from a long straight wire carrying 5 A (mu0=4pi x 10^-7 T m/A).",
+      "o": [
+        "12.50 microtesla",
+        "25.00 microtesla",
+        "250.00 microtesla",
+        "50.00 microtesla"
+      ],
+      "a": 1,
+      "e": "B=mu0 I/(2pi r)=2 x 10^-7(5)/0.04 T = 25.00 microtesla.",
+      "d": "Hard",
+      "topic": "Straight-wire calculations",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-284",
+      "q": "Exercise 89: Find B at 0.01 m from a long straight wire carrying 1 A (mu0=4pi x 10^-7 T m/A).",
+      "o": [
+        "20.00 microtesla",
+        "10.00 microtesla",
+        "200.00 microtesla",
+        "40.00 microtesla"
+      ],
+      "a": 0,
+      "e": "B=mu0 I/(2pi r)=2 x 10^-7(1)/0.01 T = 20.00 microtesla.",
+      "d": "Hard",
+      "topic": "Straight-wire calculations",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-285",
+      "q": "Exercise 90: Find B at 0.04 m from a long straight wire carrying 8 A (mu0=4pi x 10^-7 T m/A).",
+      "o": [
+        "20.00 microtesla",
+        "40.00 microtesla",
+        "80.00 microtesla",
+        "400.00 microtesla"
+      ],
+      "a": 1,
+      "e": "B=mu0 I/(2pi r)=2 x 10^-7(8)/0.04 T = 40.00 microtesla.",
+      "d": "Hard",
+      "topic": "Straight-wire calculations",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-286",
+      "q": "Exercise 91: Find B at 0.025 m from a long straight wire carrying 1.5 A (mu0=4pi x 10^-7 T m/A).",
+      "o": [
+        "12.00 microtesla",
+        "120.00 microtesla",
+        "24.00 microtesla",
+        "6.00 microtesla"
+      ],
+      "a": 0,
+      "e": "B=mu0 I/(2pi r)=2 x 10^-7(1.5)/0.025 T = 12.00 microtesla.",
+      "d": "Hard",
+      "topic": "Straight-wire calculations",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-287",
+      "q": "Exercise 92: Find B at 0.2 m from a long straight wire carrying 10 A (mu0=4pi x 10^-7 T m/A).",
+      "o": [
+        "10.00 microtesla",
+        "20.00 microtesla",
+        "5.00 microtesla",
+        "100.00 microtesla"
+      ],
+      "a": 0,
+      "e": "B=mu0 I/(2pi r)=2 x 10^-7(10)/0.2 T = 10.00 microtesla.",
+      "d": "Hard",
+      "topic": "Straight-wire calculations",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-288",
+      "q": "Exercise 93: Find B at 0.1 m from a long straight wire carrying 2 A (mu0=4pi x 10^-7 T m/A).",
+      "o": [
+        "8.00 microtesla",
+        "40.00 microtesla",
+        "4.00 microtesla",
+        "2.00 microtesla"
+      ],
+      "a": 2,
+      "e": "B=mu0 I/(2pi r)=2 x 10^-7(2)/0.1 T = 4.00 microtesla.",
+      "d": "Hard",
+      "topic": "Straight-wire calculations",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-289",
+      "q": "Exercise 94: Find B at 0.01 m from a long straight wire carrying 1 A (mu0=4pi x 10^-7 T m/A).",
+      "o": [
+        "20.00 microtesla",
+        "200.00 microtesla",
+        "40.00 microtesla",
+        "10.00 microtesla"
+      ],
+      "a": 0,
+      "e": "B=mu0 I/(2pi r)=2 x 10^-7(1)/0.01 T = 20.00 microtesla.",
+      "d": "Hard",
+      "topic": "Straight-wire calculations",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-290",
+      "q": "Exercise 95: Find B at 0.08 m from a long straight wire carrying 1 A (mu0=4pi x 10^-7 T m/A).",
+      "o": [
+        "2.50 microtesla",
+        "25.00 microtesla",
+        "5.00 microtesla",
+        "1.25 microtesla"
+      ],
+      "a": 0,
+      "e": "B=mu0 I/(2pi r)=2 x 10^-7(1)/0.08 T = 2.50 microtesla.",
+      "d": "Hard",
+      "topic": "Straight-wire calculations",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-291",
+      "q": "Exercise 96: Find B at 0.1 m from a long straight wire carrying 1 A (mu0=4pi x 10^-7 T m/A).",
+      "o": [
+        "2.00 microtesla",
+        "4.00 microtesla",
+        "1.00 microtesla",
+        "20.00 microtesla"
+      ],
+      "a": 0,
+      "e": "B=mu0 I/(2pi r)=2 x 10^-7(1)/0.1 T = 2.00 microtesla.",
+      "d": "Hard",
+      "topic": "Straight-wire calculations",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-292",
+      "q": "Exercise 97: Find B at 0.025 m from a long straight wire carrying 6 A (mu0=4pi x 10^-7 T m/A).",
+      "o": [
+        "96.00 microtesla",
+        "48.00 microtesla",
+        "24.00 microtesla",
+        "480.00 microtesla"
+      ],
+      "a": 1,
+      "e": "B=mu0 I/(2pi r)=2 x 10^-7(6)/0.025 T = 48.00 microtesla.",
+      "d": "Hard",
+      "topic": "Straight-wire calculations",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-293",
+      "q": "Exercise 98: Find B at 0.01 m from a long straight wire carrying 6 A (mu0=4pi x 10^-7 T m/A).",
+      "o": [
+        "1200.00 microtesla",
+        "240.00 microtesla",
+        "120.00 microtesla",
+        "60.00 microtesla"
+      ],
+      "a": 2,
+      "e": "B=mu0 I/(2pi r)=2 x 10^-7(6)/0.01 T = 120.00 microtesla.",
+      "d": "Hard",
+      "topic": "Straight-wire calculations",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-294",
+      "q": "Exercise 99: Find B at 0.05 m from a long straight wire carrying 10 A (mu0=4pi x 10^-7 T m/A).",
+      "o": [
+        "40.00 microtesla",
+        "20.00 microtesla",
+        "80.00 microtesla",
+        "400.00 microtesla"
+      ],
+      "a": 0,
+      "e": "B=mu0 I/(2pi r)=2 x 10^-7(10)/0.05 T = 40.00 microtesla.",
+      "d": "Hard",
+      "topic": "Straight-wire calculations",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-295",
+      "q": "Exercise 100: Find B at 0.02 m from a long straight wire carrying 2.5 A (mu0=4pi x 10^-7 T m/A).",
+      "o": [
+        "50.00 microtesla",
+        "25.00 microtesla",
+        "12.50 microtesla",
+        "250.00 microtesla"
+      ],
+      "a": 1,
+      "e": "B=mu0 I/(2pi r)=2 x 10^-7(2.5)/0.02 T = 25.00 microtesla.",
+      "d": "Hard",
+      "topic": "Straight-wire calculations",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-296",
+      "q": "Exercise 101: Find B at 0.02 m from a long straight wire carrying 1 A (mu0=4pi x 10^-7 T m/A).",
+      "o": [
+        "5.00 microtesla",
+        "10.00 microtesla",
+        "20.00 microtesla",
+        "100.00 microtesla"
+      ],
+      "a": 1,
+      "e": "B=mu0 I/(2pi r)=2 x 10^-7(1)/0.02 T = 10.00 microtesla.",
+      "d": "Hard",
+      "topic": "Straight-wire calculations",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-297",
+      "q": "Exercise 102: Find B at 0.08 m from a long straight wire carrying 2 A (mu0=4pi x 10^-7 T m/A).",
+      "o": [
+        "50.00 microtesla",
+        "10.00 microtesla",
+        "5.00 microtesla",
+        "2.50 microtesla"
+      ],
+      "a": 2,
+      "e": "B=mu0 I/(2pi r)=2 x 10^-7(2)/0.08 T = 5.00 microtesla.",
+      "d": "Hard",
+      "topic": "Straight-wire calculations",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-298",
+      "q": "Exercise 103: Find B at 0.08 m from a long straight wire carrying 10 A (mu0=4pi x 10^-7 T m/A).",
+      "o": [
+        "250.00 microtesla",
+        "25.00 microtesla",
+        "50.00 microtesla",
+        "12.50 microtesla"
+      ],
+      "a": 1,
+      "e": "B=mu0 I/(2pi r)=2 x 10^-7(10)/0.08 T = 25.00 microtesla.",
+      "d": "Hard",
+      "topic": "Straight-wire calculations",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-299",
+      "q": "Exercise 104: Find B at 0.05 m from a long straight wire carrying 4 A (mu0=4pi x 10^-7 T m/A).",
+      "o": [
+        "32.00 microtesla",
+        "160.00 microtesla",
+        "16.00 microtesla",
+        "8.00 microtesla"
+      ],
+      "a": 2,
+      "e": "B=mu0 I/(2pi r)=2 x 10^-7(4)/0.05 T = 16.00 microtesla.",
+      "d": "Hard",
+      "topic": "Straight-wire calculations",
+      "slo": "P-09-E-13"
+    },
+    {
+      "id": "PHY9CH8-300",
+      "q": "Exercise 105: Find B at 0.01 m from a long straight wire carrying 2.5 A (mu0=4pi x 10^-7 T m/A).",
+      "o": [
+        "100.00 microtesla",
+        "25.00 microtesla",
+        "500.00 microtesla",
+        "50.00 microtesla"
+      ],
+      "a": 3,
+      "e": "B=mu0 I/(2pi r)=2 x 10^-7(2.5)/0.01 T = 50.00 microtesla.",
+      "d": "Hard",
+      "topic": "Straight-wire calculations",
+      "slo": "P-09-E-13"
+    }
+  ]
+}

@@ -1,0 +1,4504 @@
+{
+  "questions": [
+    {
+      "id": "BIO9CH2-001",
+      "q": "Which statement best describes meaning of biodiversity?",
+      "o": [
+        "Number of rocks in an area",
+        "Variety of living organisms in an area",
+        "Only the number of humans",
+        "Amount of rainfall in an area"
+      ],
+      "a": 1,
+      "e": "Biodiversity describes variation among living organisms.",
+      "d": "Easy",
+      "topic": "Biodiversity",
+      "slo": "Identify meaning of biodiversity"
+    },
+    {
+      "id": "BIO9CH2-002",
+      "q": "A learner is revising biodiversity. Which description correctly matches the term \"Meaning of biodiversity\"?",
+      "o": [
+        "Amount of rainfall in an area",
+        "Variety of living organisms in an area",
+        "Only the number of humans",
+        "Number of rocks in an area"
+      ],
+      "a": 1,
+      "e": "Biodiversity describes variation among living organisms.",
+      "d": "Medium",
+      "topic": "Biodiversity",
+      "slo": "Explain meaning of biodiversity"
+    },
+    {
+      "id": "BIO9CH2-003",
+      "q": "Consider this situation: A survey finds many different organisms in one habitat. Which idea or description best explains it?",
+      "o": [
+        "Number of rocks in an area",
+        "Amount of rainfall in an area",
+        "Variety of living organisms in an area",
+        "Only the number of humans"
+      ],
+      "a": 2,
+      "e": "Biodiversity describes variation among living organisms.",
+      "d": "Hard",
+      "topic": "Biodiversity",
+      "slo": "Apply understanding of meaning of biodiversity"
+    },
+    {
+      "id": "BIO9CH2-004",
+      "q": "Which of the following is scientifically accurate regarding meaning of biodiversity?",
+      "o": [
+        "Variety of living organisms in an area",
+        "Amount of rainfall in an area",
+        "Only the number of humans",
+        "Number of rocks in an area"
+      ],
+      "a": 0,
+      "e": "Biodiversity describes variation among living organisms.",
+      "d": "Medium",
+      "topic": "Biodiversity",
+      "slo": "Distinguish meaning of biodiversity from related ideas"
+    },
+    {
+      "id": "BIO9CH2-005",
+      "q": "Which statement best describes species diversity?",
+      "o": [
+        "Variety of species in a habitat",
+        "Number of cells in one organism",
+        "Mass of soil in a habitat",
+        "Only the size of a population"
+      ],
+      "a": 0,
+      "e": "Species diversity concerns different species present.",
+      "d": "Easy",
+      "topic": "Biodiversity",
+      "slo": "Identify species diversity"
+    },
+    {
+      "id": "BIO9CH2-006",
+      "q": "A learner is revising biodiversity. Which description correctly matches the term \"Species diversity\"?",
+      "o": [
+        "Variety of species in a habitat",
+        "Number of cells in one organism",
+        "Only the size of a population",
+        "Mass of soil in a habitat"
+      ],
+      "a": 0,
+      "e": "Species diversity concerns different species present.",
+      "d": "Medium",
+      "topic": "Biodiversity",
+      "slo": "Explain species diversity"
+    },
+    {
+      "id": "BIO9CH2-007",
+      "q": "Consider this situation: Two forests contain different numbers of species. Which idea or description best explains it?",
+      "o": [
+        "Mass of soil in a habitat",
+        "Only the size of a population",
+        "Variety of species in a habitat",
+        "Number of cells in one organism"
+      ],
+      "a": 2,
+      "e": "Species diversity concerns different species present.",
+      "d": "Hard",
+      "topic": "Biodiversity",
+      "slo": "Apply understanding of species diversity"
+    },
+    {
+      "id": "BIO9CH2-008",
+      "q": "Which of the following is scientifically accurate regarding species diversity?",
+      "o": [
+        "Variety of species in a habitat",
+        "Only the size of a population",
+        "Number of cells in one organism",
+        "Mass of soil in a habitat"
+      ],
+      "a": 0,
+      "e": "Species diversity concerns different species present.",
+      "d": "Medium",
+      "topic": "Biodiversity",
+      "slo": "Distinguish species diversity from related ideas"
+    },
+    {
+      "id": "BIO9CH2-009",
+      "q": "Which statement best describes genetic diversity?",
+      "o": [
+        "Different types of rocks",
+        "Variation in soil acidity",
+        "Different weather patterns",
+        "Variation in genes among members of a species"
+      ],
+      "a": 3,
+      "e": "Genetic diversity exists within a species.",
+      "d": "Easy",
+      "topic": "Biodiversity",
+      "slo": "Identify genetic diversity"
+    },
+    {
+      "id": "BIO9CH2-010",
+      "q": "A learner is revising biodiversity. Which description correctly matches the term \"Genetic diversity\"?",
+      "o": [
+        "Variation in genes among members of a species",
+        "Variation in soil acidity",
+        "Different weather patterns",
+        "Different types of rocks"
+      ],
+      "a": 0,
+      "e": "Genetic diversity exists within a species.",
+      "d": "Medium",
+      "topic": "Biodiversity",
+      "slo": "Explain genetic diversity"
+    },
+    {
+      "id": "BIO9CH2-011",
+      "q": "Consider this situation: Members of the same crop species show inherited differences. Which idea or description best explains it?",
+      "o": [
+        "Variation in genes among members of a species",
+        "Variation in soil acidity",
+        "Different types of rocks",
+        "Different weather patterns"
+      ],
+      "a": 0,
+      "e": "Genetic diversity exists within a species.",
+      "d": "Hard",
+      "topic": "Biodiversity",
+      "slo": "Apply understanding of genetic diversity"
+    },
+    {
+      "id": "BIO9CH2-012",
+      "q": "Which of the following is scientifically accurate regarding genetic diversity?",
+      "o": [
+        "Different types of rocks",
+        "Different weather patterns",
+        "Variation in genes among members of a species",
+        "Variation in soil acidity"
+      ],
+      "a": 2,
+      "e": "Genetic diversity exists within a species.",
+      "d": "Medium",
+      "topic": "Biodiversity",
+      "slo": "Distinguish genetic diversity from related ideas"
+    },
+    {
+      "id": "BIO9CH2-013",
+      "q": "Which statement best describes ecosystem diversity?",
+      "o": [
+        "Only the number of predators",
+        "Different organs of one animal",
+        "Variety of ecosystems in a region",
+        "Only variation in chromosomes"
+      ],
+      "a": 2,
+      "e": "Ecosystem diversity compares different habitats and ecosystems.",
+      "d": "Easy",
+      "topic": "Biodiversity",
+      "slo": "Identify ecosystem diversity"
+    },
+    {
+      "id": "BIO9CH2-014",
+      "q": "A learner is revising biodiversity. Which description correctly matches the term \"Ecosystem diversity\"?",
+      "o": [
+        "Only variation in chromosomes",
+        "Only the number of predators",
+        "Variety of ecosystems in a region",
+        "Different organs of one animal"
+      ],
+      "a": 2,
+      "e": "Ecosystem diversity compares different habitats and ecosystems.",
+      "d": "Medium",
+      "topic": "Biodiversity",
+      "slo": "Explain ecosystem diversity"
+    },
+    {
+      "id": "BIO9CH2-015",
+      "q": "Consider this situation: A region contains forests wetlands and grasslands. Which idea or description best explains it?",
+      "o": [
+        "Variety of ecosystems in a region",
+        "Only the number of predators",
+        "Only variation in chromosomes",
+        "Different organs of one animal"
+      ],
+      "a": 0,
+      "e": "Ecosystem diversity compares different habitats and ecosystems.",
+      "d": "Hard",
+      "topic": "Biodiversity",
+      "slo": "Apply understanding of ecosystem diversity"
+    },
+    {
+      "id": "BIO9CH2-016",
+      "q": "Which of the following is scientifically accurate regarding ecosystem diversity?",
+      "o": [
+        "Variety of ecosystems in a region",
+        "Only variation in chromosomes",
+        "Only the number of predators",
+        "Different organs of one animal"
+      ],
+      "a": 0,
+      "e": "Ecosystem diversity compares different habitats and ecosystems.",
+      "d": "Medium",
+      "topic": "Biodiversity",
+      "slo": "Distinguish ecosystem diversity from related ideas"
+    },
+    {
+      "id": "BIO9CH2-017",
+      "q": "Which statement best describes importance of biodiversity?",
+      "o": [
+        "Makes every species identical",
+        "Prevents all natural changes",
+        "Supports ecosystem stability and resources",
+        "Eliminates all competition"
+      ],
+      "a": 2,
+      "e": "Diverse living systems support ecological functions and resources.",
+      "d": "Easy",
+      "topic": "Biodiversity",
+      "slo": "Identify importance of biodiversity"
+    },
+    {
+      "id": "BIO9CH2-018",
+      "q": "A learner is revising biodiversity. Which description correctly matches the term \"Importance of biodiversity\"?",
+      "o": [
+        "Prevents all natural changes",
+        "Supports ecosystem stability and resources",
+        "Eliminates all competition",
+        "Makes every species identical"
+      ],
+      "a": 1,
+      "e": "Diverse living systems support ecological functions and resources.",
+      "d": "Medium",
+      "topic": "Biodiversity",
+      "slo": "Explain importance of biodiversity"
+    },
+    {
+      "id": "BIO9CH2-019",
+      "q": "Consider this situation: A community relies on plants animals and microorganisms. Which idea or description best explains it?",
+      "o": [
+        "Prevents all natural changes",
+        "Supports ecosystem stability and resources",
+        "Makes every species identical",
+        "Eliminates all competition"
+      ],
+      "a": 1,
+      "e": "Diverse living systems support ecological functions and resources.",
+      "d": "Hard",
+      "topic": "Biodiversity",
+      "slo": "Apply understanding of importance of biodiversity"
+    },
+    {
+      "id": "BIO9CH2-020",
+      "q": "Which of the following is scientifically accurate regarding importance of biodiversity?",
+      "o": [
+        "Supports ecosystem stability and resources",
+        "Prevents all natural changes",
+        "Eliminates all competition",
+        "Makes every species identical"
+      ],
+      "a": 0,
+      "e": "Diverse living systems support ecological functions and resources.",
+      "d": "Medium",
+      "topic": "Biodiversity",
+      "slo": "Distinguish importance of biodiversity from related ideas"
+    },
+    {
+      "id": "BIO9CH2-021",
+      "q": "Which statement best describes food resources from biodiversity?",
+      "o": [
+        "Only rocks provide foods",
+        "Different organisms provide foods",
+        "Only sunlight is eaten directly",
+        "Only minerals provide foods"
+      ],
+      "a": 1,
+      "e": "Food crops and animals are biological resources.",
+      "d": "Easy",
+      "topic": "Biodiversity",
+      "slo": "Identify food resources from biodiversity"
+    },
+    {
+      "id": "BIO9CH2-022",
+      "q": "A learner is revising biodiversity. Which description correctly matches the term \"Food resources from biodiversity\"?",
+      "o": [
+        "Only minerals provide foods",
+        "Different organisms provide foods",
+        "Only sunlight is eaten directly",
+        "Only rocks provide foods"
+      ],
+      "a": 1,
+      "e": "Food crops and animals are biological resources.",
+      "d": "Medium",
+      "topic": "Biodiversity",
+      "slo": "Explain food resources from biodiversity"
+    },
+    {
+      "id": "BIO9CH2-023",
+      "q": "Consider this situation: Farmers cultivate several food crops. Which idea or description best explains it?",
+      "o": [
+        "Different organisms provide foods",
+        "Only sunlight is eaten directly",
+        "Only minerals provide foods",
+        "Only rocks provide foods"
+      ],
+      "a": 0,
+      "e": "Food crops and animals are biological resources.",
+      "d": "Hard",
+      "topic": "Biodiversity",
+      "slo": "Apply understanding of food resources from biodiversity"
+    },
+    {
+      "id": "BIO9CH2-024",
+      "q": "Which of the following is scientifically accurate regarding food resources from biodiversity?",
+      "o": [
+        "Only sunlight is eaten directly",
+        "Only minerals provide foods",
+        "Only rocks provide foods",
+        "Different organisms provide foods"
+      ],
+      "a": 3,
+      "e": "Food crops and animals are biological resources.",
+      "d": "Medium",
+      "topic": "Biodiversity",
+      "slo": "Distinguish food resources from biodiversity from related ideas"
+    },
+    {
+      "id": "BIO9CH2-025",
+      "q": "Which statement best describes medicines from biodiversity?",
+      "o": [
+        "Some medicines originate from organisms",
+        "All medicines come only from metals",
+        "Only soil supplies all medicines",
+        "Organisms never contain useful chemicals"
+      ],
+      "a": 0,
+      "e": "Biological organisms are sources of medicinal substances.",
+      "d": "Easy",
+      "topic": "Biodiversity",
+      "slo": "Identify medicines from biodiversity"
+    },
+    {
+      "id": "BIO9CH2-026",
+      "q": "A learner is revising biodiversity. Which description correctly matches the term \"Medicines from biodiversity\"?",
+      "o": [
+        "Only soil supplies all medicines",
+        "Some medicines originate from organisms",
+        "All medicines come only from metals",
+        "Organisms never contain useful chemicals"
+      ],
+      "a": 1,
+      "e": "Biological organisms are sources of medicinal substances.",
+      "d": "Medium",
+      "topic": "Biodiversity",
+      "slo": "Explain medicines from biodiversity"
+    },
+    {
+      "id": "BIO9CH2-027",
+      "q": "Consider this situation: Scientists investigate a plant compound for treatment. Which idea or description best explains it?",
+      "o": [
+        "All medicines come only from metals",
+        "Only soil supplies all medicines",
+        "Organisms never contain useful chemicals",
+        "Some medicines originate from organisms"
+      ],
+      "a": 3,
+      "e": "Biological organisms are sources of medicinal substances.",
+      "d": "Hard",
+      "topic": "Biodiversity",
+      "slo": "Apply understanding of medicines from biodiversity"
+    },
+    {
+      "id": "BIO9CH2-028",
+      "q": "Which of the following is scientifically accurate regarding medicines from biodiversity?",
+      "o": [
+        "All medicines come only from metals",
+        "Only soil supplies all medicines",
+        "Organisms never contain useful chemicals",
+        "Some medicines originate from organisms"
+      ],
+      "a": 3,
+      "e": "Biological organisms are sources of medicinal substances.",
+      "d": "Medium",
+      "topic": "Biodiversity",
+      "slo": "Distinguish medicines from biodiversity from related ideas"
+    },
+    {
+      "id": "BIO9CH2-029",
+      "q": "Which statement best describes ecological balance?",
+      "o": [
+        "Interactions among organisms help maintain ecosystems",
+        "Every species must occupy one niche",
+        "All food chains must disappear",
+        "All organisms must be predators"
+      ],
+      "a": 0,
+      "e": "Organisms interact in food webs and ecological processes.",
+      "d": "Easy",
+      "topic": "Biodiversity",
+      "slo": "Identify ecological balance"
+    },
+    {
+      "id": "BIO9CH2-030",
+      "q": "A learner is revising biodiversity. Which description correctly matches the term \"Ecological balance\"?",
+      "o": [
+        "Interactions among organisms help maintain ecosystems",
+        "All organisms must be predators",
+        "Every species must occupy one niche",
+        "All food chains must disappear"
+      ],
+      "a": 0,
+      "e": "Organisms interact in food webs and ecological processes.",
+      "d": "Medium",
+      "topic": "Biodiversity",
+      "slo": "Explain ecological balance"
+    },
+    {
+      "id": "BIO9CH2-031",
+      "q": "Consider this situation: Removing a species changes its food web. Which idea or description best explains it?",
+      "o": [
+        "Every species must occupy one niche",
+        "Interactions among organisms help maintain ecosystems",
+        "All organisms must be predators",
+        "All food chains must disappear"
+      ],
+      "a": 1,
+      "e": "Organisms interact in food webs and ecological processes.",
+      "d": "Hard",
+      "topic": "Biodiversity",
+      "slo": "Apply understanding of ecological balance"
+    },
+    {
+      "id": "BIO9CH2-032",
+      "q": "Which of the following is scientifically accurate regarding ecological balance?",
+      "o": [
+        "Interactions among organisms help maintain ecosystems",
+        "All organisms must be predators",
+        "All food chains must disappear",
+        "Every species must occupy one niche"
+      ],
+      "a": 0,
+      "e": "Organisms interact in food webs and ecological processes.",
+      "d": "Medium",
+      "topic": "Biodiversity",
+      "slo": "Distinguish ecological balance from related ideas"
+    },
+    {
+      "id": "BIO9CH2-033",
+      "q": "Which statement best describes threat to biodiversity?",
+      "o": [
+        "Restoring habitats always eliminates species",
+        "Studying species directly causes extinction",
+        "Protecting forests always reduces species",
+        "Habitat destruction can reduce biodiversity"
+      ],
+      "a": 3,
+      "e": "Loss of habitat threatens survival of species.",
+      "d": "Easy",
+      "topic": "Biodiversity",
+      "slo": "Identify threat to biodiversity"
+    },
+    {
+      "id": "BIO9CH2-034",
+      "q": "A learner is revising biodiversity. Which description correctly matches the term \"Threat to biodiversity\"?",
+      "o": [
+        "Protecting forests always reduces species",
+        "Restoring habitats always eliminates species",
+        "Studying species directly causes extinction",
+        "Habitat destruction can reduce biodiversity"
+      ],
+      "a": 3,
+      "e": "Loss of habitat threatens survival of species.",
+      "d": "Medium",
+      "topic": "Biodiversity",
+      "slo": "Explain threat to biodiversity"
+    },
+    {
+      "id": "BIO9CH2-035",
+      "q": "Consider this situation: A forest is cleared for construction. Which idea or description best explains it?",
+      "o": [
+        "Protecting forests always reduces species",
+        "Studying species directly causes extinction",
+        "Habitat destruction can reduce biodiversity",
+        "Restoring habitats always eliminates species"
+      ],
+      "a": 2,
+      "e": "Loss of habitat threatens survival of species.",
+      "d": "Hard",
+      "topic": "Biodiversity",
+      "slo": "Apply understanding of threat to biodiversity"
+    },
+    {
+      "id": "BIO9CH2-036",
+      "q": "Which of the following is scientifically accurate regarding threat to biodiversity?",
+      "o": [
+        "Restoring habitats always eliminates species",
+        "Habitat destruction can reduce biodiversity",
+        "Studying species directly causes extinction",
+        "Protecting forests always reduces species"
+      ],
+      "a": 1,
+      "e": "Loss of habitat threatens survival of species.",
+      "d": "Medium",
+      "topic": "Biodiversity",
+      "slo": "Distinguish threat to biodiversity from related ideas"
+    },
+    {
+      "id": "BIO9CH2-037",
+      "q": "Which statement best describes deforestation?",
+      "o": [
+        "Planting native trees",
+        "Recycling paper",
+        "Protecting woodland",
+        "Removal of forest cover"
+      ],
+      "a": 3,
+      "e": "Deforestation destroys or fragments forest habitats.",
+      "d": "Easy",
+      "topic": "Biodiversity",
+      "slo": "Identify deforestation"
+    },
+    {
+      "id": "BIO9CH2-038",
+      "q": "A learner is revising biodiversity. Which description correctly matches the term \"Deforestation\"?",
+      "o": [
+        "Planting native trees",
+        "Protecting woodland",
+        "Removal of forest cover",
+        "Recycling paper"
+      ],
+      "a": 2,
+      "e": "Deforestation destroys or fragments forest habitats.",
+      "d": "Medium",
+      "topic": "Biodiversity",
+      "slo": "Explain deforestation"
+    },
+    {
+      "id": "BIO9CH2-039",
+      "q": "Consider this situation: Trees are cut down across a large area. Which idea or description best explains it?",
+      "o": [
+        "Protecting woodland",
+        "Recycling paper",
+        "Removal of forest cover",
+        "Planting native trees"
+      ],
+      "a": 2,
+      "e": "Deforestation destroys or fragments forest habitats.",
+      "d": "Hard",
+      "topic": "Biodiversity",
+      "slo": "Apply understanding of deforestation"
+    },
+    {
+      "id": "BIO9CH2-040",
+      "q": "Which of the following is scientifically accurate regarding deforestation?",
+      "o": [
+        "Protecting woodland",
+        "Recycling paper",
+        "Planting native trees",
+        "Removal of forest cover"
+      ],
+      "a": 3,
+      "e": "Deforestation destroys or fragments forest habitats.",
+      "d": "Medium",
+      "topic": "Biodiversity",
+      "slo": "Distinguish deforestation from related ideas"
+    },
+    {
+      "id": "BIO9CH2-041",
+      "q": "Which statement best describes pollution?",
+      "o": [
+        "Harmful contamination of the environment",
+        "A natural seasonal change",
+        "The classification of species",
+        "The naming of organisms"
+      ],
+      "a": 0,
+      "e": "Pollution can harm organisms and habitats.",
+      "d": "Easy",
+      "topic": "Biodiversity",
+      "slo": "Identify pollution"
+    },
+    {
+      "id": "BIO9CH2-042",
+      "q": "A learner is revising biodiversity. Which description correctly matches the term \"Pollution\"?",
+      "o": [
+        "A natural seasonal change",
+        "The naming of organisms",
+        "The classification of species",
+        "Harmful contamination of the environment"
+      ],
+      "a": 3,
+      "e": "Pollution can harm organisms and habitats.",
+      "d": "Medium",
+      "topic": "Biodiversity",
+      "slo": "Explain pollution"
+    },
+    {
+      "id": "BIO9CH2-043",
+      "q": "Consider this situation: Wastewater enters a freshwater pond. Which idea or description best explains it?",
+      "o": [
+        "A natural seasonal change",
+        "Harmful contamination of the environment",
+        "The naming of organisms",
+        "The classification of species"
+      ],
+      "a": 1,
+      "e": "Pollution can harm organisms and habitats.",
+      "d": "Hard",
+      "topic": "Biodiversity",
+      "slo": "Apply understanding of pollution"
+    },
+    {
+      "id": "BIO9CH2-044",
+      "q": "Which of the following is scientifically accurate regarding pollution?",
+      "o": [
+        "Harmful contamination of the environment",
+        "A natural seasonal change",
+        "The classification of species",
+        "The naming of organisms"
+      ],
+      "a": 0,
+      "e": "Pollution can harm organisms and habitats.",
+      "d": "Medium",
+      "topic": "Biodiversity",
+      "slo": "Distinguish pollution from related ideas"
+    },
+    {
+      "id": "BIO9CH2-045",
+      "q": "Which statement best describes overexploitation?",
+      "o": [
+        "Protecting breeding populations",
+        "Using biological resources faster than they recover",
+        "Restoring damaged habitats",
+        "Studying animals without capture"
+      ],
+      "a": 1,
+      "e": "Overuse can cause population declines.",
+      "d": "Easy",
+      "topic": "Biodiversity",
+      "slo": "Identify overexploitation"
+    },
+    {
+      "id": "BIO9CH2-046",
+      "q": "A learner is revising biodiversity. Which description correctly matches the term \"Overexploitation\"?",
+      "o": [
+        "Using biological resources faster than they recover",
+        "Studying animals without capture",
+        "Protecting breeding populations",
+        "Restoring damaged habitats"
+      ],
+      "a": 0,
+      "e": "Overuse can cause population declines.",
+      "d": "Medium",
+      "topic": "Biodiversity",
+      "slo": "Explain overexploitation"
+    },
+    {
+      "id": "BIO9CH2-047",
+      "q": "Consider this situation: Fish are caught faster than they reproduce. Which idea or description best explains it?",
+      "o": [
+        "Using biological resources faster than they recover",
+        "Restoring damaged habitats",
+        "Protecting breeding populations",
+        "Studying animals without capture"
+      ],
+      "a": 0,
+      "e": "Overuse can cause population declines.",
+      "d": "Hard",
+      "topic": "Biodiversity",
+      "slo": "Apply understanding of overexploitation"
+    },
+    {
+      "id": "BIO9CH2-048",
+      "q": "Which of the following is scientifically accurate regarding overexploitation?",
+      "o": [
+        "Protecting breeding populations",
+        "Studying animals without capture",
+        "Using biological resources faster than they recover",
+        "Restoring damaged habitats"
+      ],
+      "a": 2,
+      "e": "Overuse can cause population declines.",
+      "d": "Medium",
+      "topic": "Biodiversity",
+      "slo": "Distinguish overexploitation from related ideas"
+    },
+    {
+      "id": "BIO9CH2-049",
+      "q": "Which statement best describes conservation?",
+      "o": [
+        "Protection and sustainable management of biodiversity",
+        "Destroying natural habitats",
+        "Eliminating rare species",
+        "Increasing illegal hunting"
+      ],
+      "a": 0,
+      "e": "Conservation seeks to preserve organisms and habitats.",
+      "d": "Easy",
+      "topic": "Biodiversity",
+      "slo": "Identify conservation"
+    },
+    {
+      "id": "BIO9CH2-050",
+      "q": "A learner is revising biodiversity. Which description correctly matches the term \"Conservation\"?",
+      "o": [
+        "Increasing illegal hunting",
+        "Protection and sustainable management of biodiversity",
+        "Eliminating rare species",
+        "Destroying natural habitats"
+      ],
+      "a": 1,
+      "e": "Conservation seeks to preserve organisms and habitats.",
+      "d": "Medium",
+      "topic": "Biodiversity",
+      "slo": "Explain conservation"
+    },
+    {
+      "id": "BIO9CH2-051",
+      "q": "Consider this situation: A community protects a threatened wetland. Which idea or description best explains it?",
+      "o": [
+        "Eliminating rare species",
+        "Increasing illegal hunting",
+        "Protection and sustainable management of biodiversity",
+        "Destroying natural habitats"
+      ],
+      "a": 2,
+      "e": "Conservation seeks to preserve organisms and habitats.",
+      "d": "Hard",
+      "topic": "Biodiversity",
+      "slo": "Apply understanding of conservation"
+    },
+    {
+      "id": "BIO9CH2-052",
+      "q": "Which of the following is scientifically accurate regarding conservation?",
+      "o": [
+        "Protection and sustainable management of biodiversity",
+        "Increasing illegal hunting",
+        "Eliminating rare species",
+        "Destroying natural habitats"
+      ],
+      "a": 0,
+      "e": "Conservation seeks to preserve organisms and habitats.",
+      "d": "Medium",
+      "topic": "Biodiversity",
+      "slo": "Distinguish conservation from related ideas"
+    },
+    {
+      "id": "BIO9CH2-053",
+      "q": "Which statement best describes habitat protection?",
+      "o": [
+        "Replacing all forests with roads",
+        "Removing all native vegetation",
+        "Moving all animals into cities",
+        "Preserving natural environments where species live"
+      ],
+      "a": 3,
+      "e": "Protecting habitats safeguards many species together.",
+      "d": "Easy",
+      "topic": "Biodiversity",
+      "slo": "Identify habitat protection"
+    },
+    {
+      "id": "BIO9CH2-054",
+      "q": "A learner is revising biodiversity. Which description correctly matches the term \"Habitat protection\"?",
+      "o": [
+        "Preserving natural environments where species live",
+        "Replacing all forests with roads",
+        "Moving all animals into cities",
+        "Removing all native vegetation"
+      ],
+      "a": 0,
+      "e": "Protecting habitats safeguards many species together.",
+      "d": "Medium",
+      "topic": "Biodiversity",
+      "slo": "Explain habitat protection"
+    },
+    {
+      "id": "BIO9CH2-055",
+      "q": "Consider this situation: A reserve protects breeding grounds. Which idea or description best explains it?",
+      "o": [
+        "Replacing all forests with roads",
+        "Removing all native vegetation",
+        "Moving all animals into cities",
+        "Preserving natural environments where species live"
+      ],
+      "a": 3,
+      "e": "Protecting habitats safeguards many species together.",
+      "d": "Hard",
+      "topic": "Biodiversity",
+      "slo": "Apply understanding of habitat protection"
+    },
+    {
+      "id": "BIO9CH2-056",
+      "q": "Which of the following is scientifically accurate regarding habitat protection?",
+      "o": [
+        "Preserving natural environments where species live",
+        "Removing all native vegetation",
+        "Replacing all forests with roads",
+        "Moving all animals into cities"
+      ],
+      "a": 0,
+      "e": "Protecting habitats safeguards many species together.",
+      "d": "Medium",
+      "topic": "Biodiversity",
+      "slo": "Distinguish habitat protection from related ideas"
+    },
+    {
+      "id": "BIO9CH2-057",
+      "q": "Which statement best describes endangered species?",
+      "o": [
+        "Species that cannot reproduce asexually",
+        "Species at serious risk of extinction",
+        "Species with no predators",
+        "Species found in every habitat"
+      ],
+      "a": 1,
+      "e": "Endangered species face a high risk of disappearing.",
+      "d": "Easy",
+      "topic": "Biodiversity",
+      "slo": "Identify endangered species"
+    },
+    {
+      "id": "BIO9CH2-058",
+      "q": "A learner is revising biodiversity. Which description correctly matches the term \"Endangered species\"?",
+      "o": [
+        "Species with no predators",
+        "Species at serious risk of extinction",
+        "Species found in every habitat",
+        "Species that cannot reproduce asexually"
+      ],
+      "a": 1,
+      "e": "Endangered species face a high risk of disappearing.",
+      "d": "Medium",
+      "topic": "Biodiversity",
+      "slo": "Explain endangered species"
+    },
+    {
+      "id": "BIO9CH2-059",
+      "q": "Consider this situation: A rare species has a rapidly shrinking population. Which idea or description best explains it?",
+      "o": [
+        "Species with no predators",
+        "Species at serious risk of extinction",
+        "Species found in every habitat",
+        "Species that cannot reproduce asexually"
+      ],
+      "a": 1,
+      "e": "Endangered species face a high risk of disappearing.",
+      "d": "Hard",
+      "topic": "Biodiversity",
+      "slo": "Apply understanding of endangered species"
+    },
+    {
+      "id": "BIO9CH2-060",
+      "q": "Which of the following is scientifically accurate regarding endangered species?",
+      "o": [
+        "Species at serious risk of extinction",
+        "Species found in every habitat",
+        "Species with no predators",
+        "Species that cannot reproduce asexually"
+      ],
+      "a": 0,
+      "e": "Endangered species face a high risk of disappearing.",
+      "d": "Medium",
+      "topic": "Biodiversity",
+      "slo": "Distinguish endangered species from related ideas"
+    },
+    {
+      "id": "BIO9CH2-061",
+      "q": "Which statement best describes purpose of classification?",
+      "o": [
+        "Give all organisms the same name",
+        "Arrange organisms only by body weight",
+        "Separate organisms randomly",
+        "Organize organisms based on similarities and differences"
+      ],
+      "a": 3,
+      "e": "Classification makes biological diversity easier to study.",
+      "d": "Easy",
+      "topic": "Classification",
+      "slo": "Identify purpose of classification"
+    },
+    {
+      "id": "BIO9CH2-062",
+      "q": "A learner is revising classification. Which description correctly matches the term \"Purpose of classification\"?",
+      "o": [
+        "Arrange organisms only by body weight",
+        "Separate organisms randomly",
+        "Organize organisms based on similarities and differences",
+        "Give all organisms the same name"
+      ],
+      "a": 2,
+      "e": "Classification makes biological diversity easier to study.",
+      "d": "Medium",
+      "topic": "Classification",
+      "slo": "Explain purpose of classification"
+    },
+    {
+      "id": "BIO9CH2-063",
+      "q": "Consider this situation: A biologist groups organisms with shared features. Which idea or description best explains it?",
+      "o": [
+        "Organize organisms based on similarities and differences",
+        "Give all organisms the same name",
+        "Separate organisms randomly",
+        "Arrange organisms only by body weight"
+      ],
+      "a": 0,
+      "e": "Classification makes biological diversity easier to study.",
+      "d": "Hard",
+      "topic": "Classification",
+      "slo": "Apply understanding of purpose of classification"
+    },
+    {
+      "id": "BIO9CH2-064",
+      "q": "Which of the following is scientifically accurate regarding purpose of classification?",
+      "o": [
+        "Separate organisms randomly",
+        "Give all organisms the same name",
+        "Arrange organisms only by body weight",
+        "Organize organisms based on similarities and differences"
+      ],
+      "a": 3,
+      "e": "Classification makes biological diversity easier to study.",
+      "d": "Medium",
+      "topic": "Classification",
+      "slo": "Distinguish purpose of classification from related ideas"
+    },
+    {
+      "id": "BIO9CH2-065",
+      "q": "Which statement best describes taxonomy?",
+      "o": [
+        "Study of only weather",
+        "Study of only rocks",
+        "Study of only machines",
+        "Science of identification naming and classification"
+      ],
+      "a": 3,
+      "e": "Taxonomy deals with identifying naming and classifying organisms.",
+      "d": "Easy",
+      "topic": "Classification",
+      "slo": "Identify taxonomy"
+    },
+    {
+      "id": "BIO9CH2-066",
+      "q": "A learner is revising classification. Which description correctly matches the term \"Taxonomy\"?",
+      "o": [
+        "Study of only rocks",
+        "Study of only machines",
+        "Study of only weather",
+        "Science of identification naming and classification"
+      ],
+      "a": 3,
+      "e": "Taxonomy deals with identifying naming and classifying organisms.",
+      "d": "Medium",
+      "topic": "Classification",
+      "slo": "Explain taxonomy"
+    },
+    {
+      "id": "BIO9CH2-067",
+      "q": "Consider this situation: A researcher identifies and names a newly described species. Which idea or description best explains it?",
+      "o": [
+        "Study of only rocks",
+        "Study of only weather",
+        "Science of identification naming and classification",
+        "Study of only machines"
+      ],
+      "a": 2,
+      "e": "Taxonomy deals with identifying naming and classifying organisms.",
+      "d": "Hard",
+      "topic": "Classification",
+      "slo": "Apply understanding of taxonomy"
+    },
+    {
+      "id": "BIO9CH2-068",
+      "q": "Which of the following is scientifically accurate regarding taxonomy?",
+      "o": [
+        "Study of only rocks",
+        "Study of only weather",
+        "Study of only machines",
+        "Science of identification naming and classification"
+      ],
+      "a": 3,
+      "e": "Taxonomy deals with identifying naming and classifying organisms.",
+      "d": "Medium",
+      "topic": "Classification",
+      "slo": "Distinguish taxonomy from related ideas"
+    },
+    {
+      "id": "BIO9CH2-069",
+      "q": "Which statement best describes taxon?",
+      "o": [
+        "A type of microscope",
+        "A group at any rank of classification",
+        "A chemical compound",
+        "A body organ"
+      ],
+      "a": 1,
+      "e": "A taxon is a named classification group.",
+      "d": "Easy",
+      "topic": "Classification",
+      "slo": "Identify taxon"
+    },
+    {
+      "id": "BIO9CH2-070",
+      "q": "A learner is revising classification. Which description correctly matches the term \"Taxon\"?",
+      "o": [
+        "A body organ",
+        "A type of microscope",
+        "A chemical compound",
+        "A group at any rank of classification"
+      ],
+      "a": 3,
+      "e": "A taxon is a named classification group.",
+      "d": "Medium",
+      "topic": "Classification",
+      "slo": "Explain taxon"
+    },
+    {
+      "id": "BIO9CH2-071",
+      "q": "Consider this situation: A biologist refers to a family as one group. Which idea or description best explains it?",
+      "o": [
+        "A type of microscope",
+        "A group at any rank of classification",
+        "A chemical compound",
+        "A body organ"
+      ],
+      "a": 1,
+      "e": "A taxon is a named classification group.",
+      "d": "Hard",
+      "topic": "Classification",
+      "slo": "Apply understanding of taxon"
+    },
+    {
+      "id": "BIO9CH2-072",
+      "q": "Which of the following is scientifically accurate regarding taxon?",
+      "o": [
+        "A group at any rank of classification",
+        "A type of microscope",
+        "A body organ",
+        "A chemical compound"
+      ],
+      "a": 0,
+      "e": "A taxon is a named classification group.",
+      "d": "Medium",
+      "topic": "Classification",
+      "slo": "Distinguish taxon from related ideas"
+    },
+    {
+      "id": "BIO9CH2-073",
+      "q": "Which statement best describes artificial classification?",
+      "o": [
+        "Grouping by genetic sequences alone",
+        "Grouping based on a few easily observed traits",
+        "Grouping only by evolutionary history",
+        "Grouping solely by DNA ancestry"
+      ],
+      "a": 1,
+      "e": "Artificial systems emphasize selected convenient features.",
+      "d": "Easy",
+      "topic": "Classification",
+      "slo": "Identify artificial classification"
+    },
+    {
+      "id": "BIO9CH2-074",
+      "q": "A learner is revising classification. Which description correctly matches the term \"Artificial classification\"?",
+      "o": [
+        "Grouping by genetic sequences alone",
+        "Grouping based on a few easily observed traits",
+        "Grouping solely by DNA ancestry",
+        "Grouping only by evolutionary history"
+      ],
+      "a": 1,
+      "e": "Artificial systems emphasize selected convenient features.",
+      "d": "Medium",
+      "topic": "Classification",
+      "slo": "Explain artificial classification"
+    },
+    {
+      "id": "BIO9CH2-075",
+      "q": "Consider this situation: Plants are grouped only by their height. Which idea or description best explains it?",
+      "o": [
+        "Grouping only by evolutionary history",
+        "Grouping based on a few easily observed traits",
+        "Grouping solely by DNA ancestry",
+        "Grouping by genetic sequences alone"
+      ],
+      "a": 1,
+      "e": "Artificial systems emphasize selected convenient features.",
+      "d": "Hard",
+      "topic": "Classification",
+      "slo": "Apply understanding of artificial classification"
+    },
+    {
+      "id": "BIO9CH2-076",
+      "q": "Which of the following is scientifically accurate regarding artificial classification?",
+      "o": [
+        "Grouping only by evolutionary history",
+        "Grouping solely by DNA ancestry",
+        "Grouping based on a few easily observed traits",
+        "Grouping by genetic sequences alone"
+      ],
+      "a": 2,
+      "e": "Artificial systems emphasize selected convenient features.",
+      "d": "Medium",
+      "topic": "Classification",
+      "slo": "Distinguish artificial classification from related ideas"
+    },
+    {
+      "id": "BIO9CH2-077",
+      "q": "Which statement best describes natural classification?",
+      "o": [
+        "Grouping solely by color",
+        "Grouping by place of discovery only",
+        "Grouping organisms alphabetically",
+        "Grouping using many shared characteristics"
+      ],
+      "a": 3,
+      "e": "Natural classification considers a broad set of similarities.",
+      "d": "Easy",
+      "topic": "Classification",
+      "slo": "Identify natural classification"
+    },
+    {
+      "id": "BIO9CH2-078",
+      "q": "A learner is revising classification. Which description correctly matches the term \"Natural classification\"?",
+      "o": [
+        "Grouping by place of discovery only",
+        "Grouping using many shared characteristics",
+        "Grouping solely by color",
+        "Grouping organisms alphabetically"
+      ],
+      "a": 1,
+      "e": "Natural classification considers a broad set of similarities.",
+      "d": "Medium",
+      "topic": "Classification",
+      "slo": "Explain natural classification"
+    },
+    {
+      "id": "BIO9CH2-079",
+      "q": "Consider this situation: Scientists compare anatomy and other traits to group species. Which idea or description best explains it?",
+      "o": [
+        "Grouping by place of discovery only",
+        "Grouping organisms alphabetically",
+        "Grouping solely by color",
+        "Grouping using many shared characteristics"
+      ],
+      "a": 3,
+      "e": "Natural classification considers a broad set of similarities.",
+      "d": "Hard",
+      "topic": "Classification",
+      "slo": "Apply understanding of natural classification"
+    },
+    {
+      "id": "BIO9CH2-080",
+      "q": "Which of the following is scientifically accurate regarding natural classification?",
+      "o": [
+        "Grouping by place of discovery only",
+        "Grouping using many shared characteristics",
+        "Grouping organisms alphabetically",
+        "Grouping solely by color"
+      ],
+      "a": 1,
+      "e": "Natural classification considers a broad set of similarities.",
+      "d": "Medium",
+      "topic": "Classification",
+      "slo": "Distinguish natural classification from related ideas"
+    },
+    {
+      "id": "BIO9CH2-081",
+      "q": "Which statement best describes evolutionary relationships?",
+      "o": [
+        "All organisms arose independently",
+        "Habitat alone determines ancestry",
+        "Shared ancestry helps explain classification",
+        "Organisms are related only if same size"
+      ],
+      "a": 2,
+      "e": "Modern classification considers evolutionary relationships.",
+      "d": "Easy",
+      "topic": "Classification",
+      "slo": "Identify evolutionary relationships"
+    },
+    {
+      "id": "BIO9CH2-082",
+      "q": "A learner is revising classification. Which description correctly matches the term \"Evolutionary relationships\"?",
+      "o": [
+        "All organisms arose independently",
+        "Habitat alone determines ancestry",
+        "Shared ancestry helps explain classification",
+        "Organisms are related only if same size"
+      ],
+      "a": 2,
+      "e": "Modern classification considers evolutionary relationships.",
+      "d": "Medium",
+      "topic": "Classification",
+      "slo": "Explain evolutionary relationships"
+    },
+    {
+      "id": "BIO9CH2-083",
+      "q": "Consider this situation: DNA and anatomy suggest two groups share an ancestor. Which idea or description best explains it?",
+      "o": [
+        "Habitat alone determines ancestry",
+        "All organisms arose independently",
+        "Shared ancestry helps explain classification",
+        "Organisms are related only if same size"
+      ],
+      "a": 2,
+      "e": "Modern classification considers evolutionary relationships.",
+      "d": "Hard",
+      "topic": "Classification",
+      "slo": "Apply understanding of evolutionary relationships"
+    },
+    {
+      "id": "BIO9CH2-084",
+      "q": "Which of the following is scientifically accurate regarding evolutionary relationships?",
+      "o": [
+        "Organisms are related only if same size",
+        "All organisms arose independently",
+        "Shared ancestry helps explain classification",
+        "Habitat alone determines ancestry"
+      ],
+      "a": 2,
+      "e": "Modern classification considers evolutionary relationships.",
+      "d": "Medium",
+      "topic": "Classification",
+      "slo": "Distinguish evolutionary relationships from related ideas"
+    },
+    {
+      "id": "BIO9CH2-085",
+      "q": "Which statement best describes early two-kingdom system?",
+      "o": [
+        "Plantae and Animalia",
+        "Fungi and Monera",
+        "Protista and Fungi",
+        "Monera and Protista"
+      ],
+      "a": 0,
+      "e": "The traditional two-kingdom scheme separated plants and animals.",
+      "d": "Easy",
+      "topic": "Classification",
+      "slo": "Identify early two-kingdom system"
+    },
+    {
+      "id": "BIO9CH2-086",
+      "q": "A learner is revising classification. Which description correctly matches the term \"Early two-kingdom system\"?",
+      "o": [
+        "Fungi and Monera",
+        "Protista and Fungi",
+        "Plantae and Animalia",
+        "Monera and Protista"
+      ],
+      "a": 2,
+      "e": "The traditional two-kingdom scheme separated plants and animals.",
+      "d": "Medium",
+      "topic": "Classification",
+      "slo": "Explain early two-kingdom system"
+    },
+    {
+      "id": "BIO9CH2-087",
+      "q": "Consider this situation: A textbook divides life into plants and animals only. Which idea or description best explains it?",
+      "o": [
+        "Fungi and Monera",
+        "Protista and Fungi",
+        "Monera and Protista",
+        "Plantae and Animalia"
+      ],
+      "a": 3,
+      "e": "The traditional two-kingdom scheme separated plants and animals.",
+      "d": "Hard",
+      "topic": "Classification",
+      "slo": "Apply understanding of early two-kingdom system"
+    },
+    {
+      "id": "BIO9CH2-088",
+      "q": "Which of the following is scientifically accurate regarding early two-kingdom system?",
+      "o": [
+        "Fungi and Monera",
+        "Protista and Fungi",
+        "Plantae and Animalia",
+        "Monera and Protista"
+      ],
+      "a": 2,
+      "e": "The traditional two-kingdom scheme separated plants and animals.",
+      "d": "Medium",
+      "topic": "Classification",
+      "slo": "Distinguish early two-kingdom system from related ideas"
+    },
+    {
+      "id": "BIO9CH2-089",
+      "q": "Which statement best describes limitation of two kingdoms?",
+      "o": [
+        "All organisms have identical cells",
+        "Microorganisms do not fit neatly into only plants and animals",
+        "Animals cannot move",
+        "Plants always eat other organisms"
+      ],
+      "a": 1,
+      "e": "The two-kingdom system inadequately accommodates many microorganisms.",
+      "d": "Easy",
+      "topic": "Classification",
+      "slo": "Identify limitation of two kingdoms"
+    },
+    {
+      "id": "BIO9CH2-090",
+      "q": "A learner is revising classification. Which description correctly matches the term \"Limitation of two kingdoms\"?",
+      "o": [
+        "All organisms have identical cells",
+        "Animals cannot move",
+        "Plants always eat other organisms",
+        "Microorganisms do not fit neatly into only plants and animals"
+      ],
+      "a": 3,
+      "e": "The two-kingdom system inadequately accommodates many microorganisms.",
+      "d": "Medium",
+      "topic": "Classification",
+      "slo": "Explain limitation of two kingdoms"
+    },
+    {
+      "id": "BIO9CH2-091",
+      "q": "Consider this situation: A bacterium cannot be placed satisfactorily as plant or animal. Which idea or description best explains it?",
+      "o": [
+        "Animals cannot move",
+        "Microorganisms do not fit neatly into only plants and animals",
+        "Plants always eat other organisms",
+        "All organisms have identical cells"
+      ],
+      "a": 1,
+      "e": "The two-kingdom system inadequately accommodates many microorganisms.",
+      "d": "Hard",
+      "topic": "Classification",
+      "slo": "Apply understanding of limitation of two kingdoms"
+    },
+    {
+      "id": "BIO9CH2-092",
+      "q": "Which of the following is scientifically accurate regarding limitation of two kingdoms?",
+      "o": [
+        "Animals cannot move",
+        "All organisms have identical cells",
+        "Microorganisms do not fit neatly into only plants and animals",
+        "Plants always eat other organisms"
+      ],
+      "a": 2,
+      "e": "The two-kingdom system inadequately accommodates many microorganisms.",
+      "d": "Medium",
+      "topic": "Classification",
+      "slo": "Distinguish limitation of two kingdoms from related ideas"
+    },
+    {
+      "id": "BIO9CH2-093",
+      "q": "Which statement best describes three-kingdom classification?",
+      "o": [
+        "Only viruses animals and fungi",
+        "Protista added to Plantae and Animalia",
+        "Fungi added to Monera and Animalia",
+        "Only bacteria plants and fungi"
+      ],
+      "a": 1,
+      "e": "The three-kingdom system introduced Protista for simple organisms.",
+      "d": "Easy",
+      "topic": "Classification",
+      "slo": "Identify three-kingdom classification"
+    },
+    {
+      "id": "BIO9CH2-094",
+      "q": "A learner is revising classification. Which description correctly matches the term \"Three-kingdom classification\"?",
+      "o": [
+        "Fungi added to Monera and Animalia",
+        "Only bacteria plants and fungi",
+        "Only viruses animals and fungi",
+        "Protista added to Plantae and Animalia"
+      ],
+      "a": 3,
+      "e": "The three-kingdom system introduced Protista for simple organisms.",
+      "d": "Medium",
+      "topic": "Classification",
+      "slo": "Explain three-kingdom classification"
+    },
+    {
+      "id": "BIO9CH2-095",
+      "q": "Consider this situation: A classification adds a group for many unicellular organisms. Which idea or description best explains it?",
+      "o": [
+        "Protista added to Plantae and Animalia",
+        "Only viruses animals and fungi",
+        "Only bacteria plants and fungi",
+        "Fungi added to Monera and Animalia"
+      ],
+      "a": 0,
+      "e": "The three-kingdom system introduced Protista for simple organisms.",
+      "d": "Hard",
+      "topic": "Classification",
+      "slo": "Apply understanding of three-kingdom classification"
+    },
+    {
+      "id": "BIO9CH2-096",
+      "q": "Which of the following is scientifically accurate regarding three-kingdom classification?",
+      "o": [
+        "Only viruses animals and fungi",
+        "Only bacteria plants and fungi",
+        "Fungi added to Monera and Animalia",
+        "Protista added to Plantae and Animalia"
+      ],
+      "a": 3,
+      "e": "The three-kingdom system introduced Protista for simple organisms.",
+      "d": "Medium",
+      "topic": "Classification",
+      "slo": "Distinguish three-kingdom classification from related ideas"
+    },
+    {
+      "id": "BIO9CH2-097",
+      "q": "Which statement best describes five-kingdom system?",
+      "o": [
+        "Bacteria Archaea Viruses Plants Animals",
+        "Monera Plantae Animalia Viruses Rocks",
+        "Plants Animals Minerals Fungi Water",
+        "Monera Protista Fungi Plantae Animalia"
+      ],
+      "a": 3,
+      "e": "The five-kingdom scheme distinguishes five major groups.",
+      "d": "Easy",
+      "topic": "Classification",
+      "slo": "Identify five-kingdom system"
+    },
+    {
+      "id": "BIO9CH2-098",
+      "q": "A learner is revising classification. Which description correctly matches the term \"Five-kingdom system\"?",
+      "o": [
+        "Plants Animals Minerals Fungi Water",
+        "Monera Plantae Animalia Viruses Rocks",
+        "Bacteria Archaea Viruses Plants Animals",
+        "Monera Protista Fungi Plantae Animalia"
+      ],
+      "a": 3,
+      "e": "The five-kingdom scheme distinguishes five major groups.",
+      "d": "Medium",
+      "topic": "Classification",
+      "slo": "Explain five-kingdom system"
+    },
+    {
+      "id": "BIO9CH2-099",
+      "q": "Consider this situation: A chart lists Monera Protista Fungi Plantae and Animalia. Which idea or description best explains it?",
+      "o": [
+        "Plants Animals Minerals Fungi Water",
+        "Bacteria Archaea Viruses Plants Animals",
+        "Monera Plantae Animalia Viruses Rocks",
+        "Monera Protista Fungi Plantae Animalia"
+      ],
+      "a": 3,
+      "e": "The five-kingdom scheme distinguishes five major groups.",
+      "d": "Hard",
+      "topic": "Classification",
+      "slo": "Apply understanding of five-kingdom system"
+    },
+    {
+      "id": "BIO9CH2-100",
+      "q": "Which of the following is scientifically accurate regarding five-kingdom system?",
+      "o": [
+        "Monera Plantae Animalia Viruses Rocks",
+        "Monera Protista Fungi Plantae Animalia",
+        "Bacteria Archaea Viruses Plants Animals",
+        "Plants Animals Minerals Fungi Water"
+      ],
+      "a": 1,
+      "e": "The five-kingdom scheme distinguishes five major groups.",
+      "d": "Medium",
+      "topic": "Classification",
+      "slo": "Distinguish five-kingdom system from related ideas"
+    },
+    {
+      "id": "BIO9CH2-101",
+      "q": "Which statement best describes robert whittaker?",
+      "o": [
+        "Proposed the five-kingdom classification system",
+        "Discovered the first antibiotic",
+        "Proposed natural selection alone",
+        "Introduced binomial names in the 1700s"
+      ],
+      "a": 0,
+      "e": "R H Whittaker proposed the five-kingdom system in 1969.",
+      "d": "Easy",
+      "topic": "Classification",
+      "slo": "Identify robert whittaker"
+    },
+    {
+      "id": "BIO9CH2-102",
+      "q": "A learner is revising classification. Which description correctly matches the term \"Robert Whittaker\"?",
+      "o": [
+        "Introduced binomial names in the 1700s",
+        "Discovered the first antibiotic",
+        "Proposed natural selection alone",
+        "Proposed the five-kingdom classification system"
+      ],
+      "a": 3,
+      "e": "R H Whittaker proposed the five-kingdom system in 1969.",
+      "d": "Medium",
+      "topic": "Classification",
+      "slo": "Explain robert whittaker"
+    },
+    {
+      "id": "BIO9CH2-103",
+      "q": "Consider this situation: A history question asks who proposed five kingdoms. Which idea or description best explains it?",
+      "o": [
+        "Proposed natural selection alone",
+        "Proposed the five-kingdom classification system",
+        "Discovered the first antibiotic",
+        "Introduced binomial names in the 1700s"
+      ],
+      "a": 1,
+      "e": "R H Whittaker proposed the five-kingdom system in 1969.",
+      "d": "Hard",
+      "topic": "Classification",
+      "slo": "Apply understanding of robert whittaker"
+    },
+    {
+      "id": "BIO9CH2-104",
+      "q": "Which of the following is scientifically accurate regarding robert whittaker?",
+      "o": [
+        "Proposed natural selection alone",
+        "Discovered the first antibiotic",
+        "Introduced binomial names in the 1700s",
+        "Proposed the five-kingdom classification system"
+      ],
+      "a": 3,
+      "e": "R H Whittaker proposed the five-kingdom system in 1969.",
+      "d": "Medium",
+      "topic": "Classification",
+      "slo": "Distinguish robert whittaker from related ideas"
+    },
+    {
+      "id": "BIO9CH2-105",
+      "q": "Which statement best describes kingdom monera?",
+      "o": [
+        "Flowering plants only",
+        "Mushrooms only",
+        "Prokaryotic organisms such as bacteria",
+        "Multicellular animals only"
+      ],
+      "a": 2,
+      "e": "Monera includes organisms lacking a membrane-bound nucleus.",
+      "d": "Easy",
+      "topic": "Classification",
+      "slo": "Identify kingdom monera"
+    },
+    {
+      "id": "BIO9CH2-106",
+      "q": "A learner is revising classification. Which description correctly matches the term \"Kingdom Monera\"?",
+      "o": [
+        "Prokaryotic organisms such as bacteria",
+        "Multicellular animals only",
+        "Mushrooms only",
+        "Flowering plants only"
+      ],
+      "a": 0,
+      "e": "Monera includes organisms lacking a membrane-bound nucleus.",
+      "d": "Medium",
+      "topic": "Classification",
+      "slo": "Explain kingdom monera"
+    },
+    {
+      "id": "BIO9CH2-107",
+      "q": "Consider this situation: A microscope shows a bacterium without a true nucleus. Which idea or description best explains it?",
+      "o": [
+        "Prokaryotic organisms such as bacteria",
+        "Flowering plants only",
+        "Multicellular animals only",
+        "Mushrooms only"
+      ],
+      "a": 0,
+      "e": "Monera includes organisms lacking a membrane-bound nucleus.",
+      "d": "Hard",
+      "topic": "Classification",
+      "slo": "Apply understanding of kingdom monera"
+    },
+    {
+      "id": "BIO9CH2-108",
+      "q": "Which of the following is scientifically accurate regarding kingdom monera?",
+      "o": [
+        "Flowering plants only",
+        "Prokaryotic organisms such as bacteria",
+        "Mushrooms only",
+        "Multicellular animals only"
+      ],
+      "a": 1,
+      "e": "Monera includes organisms lacking a membrane-bound nucleus.",
+      "d": "Medium",
+      "topic": "Classification",
+      "slo": "Distinguish kingdom monera from related ideas"
+    },
+    {
+      "id": "BIO9CH2-109",
+      "q": "Which statement best describes kingdom protista?",
+      "o": [
+        "Only flowering trees",
+        "Mostly simple eukaryotes such as Amoeba",
+        "Only prokaryotic bacteria",
+        "Only multicellular mammals"
+      ],
+      "a": 1,
+      "e": "Protista contains many simple eukaryotic organisms.",
+      "d": "Easy",
+      "topic": "Classification",
+      "slo": "Identify kingdom protista"
+    },
+    {
+      "id": "BIO9CH2-110",
+      "q": "A learner is revising classification. Which description correctly matches the term \"Kingdom Protista\"?",
+      "o": [
+        "Only prokaryotic bacteria",
+        "Only multicellular mammals",
+        "Mostly simple eukaryotes such as Amoeba",
+        "Only flowering trees"
+      ],
+      "a": 2,
+      "e": "Protista contains many simple eukaryotic organisms.",
+      "d": "Medium",
+      "topic": "Classification",
+      "slo": "Explain kingdom protista"
+    },
+    {
+      "id": "BIO9CH2-111",
+      "q": "Consider this situation: An Amoeba is being placed into a kingdom. Which idea or description best explains it?",
+      "o": [
+        "Only prokaryotic bacteria",
+        "Only multicellular mammals",
+        "Mostly simple eukaryotes such as Amoeba",
+        "Only flowering trees"
+      ],
+      "a": 2,
+      "e": "Protista contains many simple eukaryotic organisms.",
+      "d": "Hard",
+      "topic": "Classification",
+      "slo": "Apply understanding of kingdom protista"
+    },
+    {
+      "id": "BIO9CH2-112",
+      "q": "Which of the following is scientifically accurate regarding kingdom protista?",
+      "o": [
+        "Only multicellular mammals",
+        "Only flowering trees",
+        "Mostly simple eukaryotes such as Amoeba",
+        "Only prokaryotic bacteria"
+      ],
+      "a": 2,
+      "e": "Protista contains many simple eukaryotic organisms.",
+      "d": "Medium",
+      "topic": "Classification",
+      "slo": "Distinguish kingdom protista from related ideas"
+    },
+    {
+      "id": "BIO9CH2-113",
+      "q": "Which statement best describes kingdom fungi?",
+      "o": [
+        "Organisms without cell membranes",
+        "Organisms that all photosynthesize",
+        "All organisms that swim",
+        "Eukaryotes that absorb nutrients such as mushrooms"
+      ],
+      "a": 3,
+      "e": "Fungi generally obtain nutrients by absorption.",
+      "d": "Easy",
+      "topic": "Classification",
+      "slo": "Identify kingdom fungi"
+    },
+    {
+      "id": "BIO9CH2-114",
+      "q": "A learner is revising classification. Which description correctly matches the term \"Kingdom Fungi\"?",
+      "o": [
+        "Eukaryotes that absorb nutrients such as mushrooms",
+        "Organisms that all photosynthesize",
+        "Organisms without cell membranes",
+        "All organisms that swim"
+      ],
+      "a": 0,
+      "e": "Fungi generally obtain nutrients by absorption.",
+      "d": "Medium",
+      "topic": "Classification",
+      "slo": "Explain kingdom fungi"
+    },
+    {
+      "id": "BIO9CH2-115",
+      "q": "Consider this situation: A mushroom absorbs nutrients from organic material. Which idea or description best explains it?",
+      "o": [
+        "Organisms without cell membranes",
+        "All organisms that swim",
+        "Organisms that all photosynthesize",
+        "Eukaryotes that absorb nutrients such as mushrooms"
+      ],
+      "a": 3,
+      "e": "Fungi generally obtain nutrients by absorption.",
+      "d": "Hard",
+      "topic": "Classification",
+      "slo": "Apply understanding of kingdom fungi"
+    },
+    {
+      "id": "BIO9CH2-116",
+      "q": "Which of the following is scientifically accurate regarding kingdom fungi?",
+      "o": [
+        "Eukaryotes that absorb nutrients such as mushrooms",
+        "Organisms without cell membranes",
+        "Organisms that all photosynthesize",
+        "All organisms that swim"
+      ],
+      "a": 0,
+      "e": "Fungi generally obtain nutrients by absorption.",
+      "d": "Medium",
+      "topic": "Classification",
+      "slo": "Distinguish kingdom fungi from related ideas"
+    },
+    {
+      "id": "BIO9CH2-117",
+      "q": "Which statement best describes kingdom plantae?",
+      "o": [
+        "All animals",
+        "All prokaryotes",
+        "Mostly multicellular photosynthetic eukaryotes",
+        "All viruses"
+      ],
+      "a": 2,
+      "e": "Plants generally make food by photosynthesis.",
+      "d": "Easy",
+      "topic": "Classification",
+      "slo": "Identify kingdom plantae"
+    },
+    {
+      "id": "BIO9CH2-118",
+      "q": "A learner is revising classification. Which description correctly matches the term \"Kingdom Plantae\"?",
+      "o": [
+        "All viruses",
+        "Mostly multicellular photosynthetic eukaryotes",
+        "All animals",
+        "All prokaryotes"
+      ],
+      "a": 1,
+      "e": "Plants generally make food by photosynthesis.",
+      "d": "Medium",
+      "topic": "Classification",
+      "slo": "Explain kingdom plantae"
+    },
+    {
+      "id": "BIO9CH2-119",
+      "q": "Consider this situation: A multicellular green plant makes its own food. Which idea or description best explains it?",
+      "o": [
+        "All animals",
+        "Mostly multicellular photosynthetic eukaryotes",
+        "All prokaryotes",
+        "All viruses"
+      ],
+      "a": 1,
+      "e": "Plants generally make food by photosynthesis.",
+      "d": "Hard",
+      "topic": "Classification",
+      "slo": "Apply understanding of kingdom plantae"
+    },
+    {
+      "id": "BIO9CH2-120",
+      "q": "Which of the following is scientifically accurate regarding kingdom plantae?",
+      "o": [
+        "All prokaryotes",
+        "All animals",
+        "Mostly multicellular photosynthetic eukaryotes",
+        "All viruses"
+      ],
+      "a": 2,
+      "e": "Plants generally make food by photosynthesis.",
+      "d": "Medium",
+      "topic": "Classification",
+      "slo": "Distinguish kingdom plantae from related ideas"
+    },
+    {
+      "id": "BIO9CH2-121",
+      "q": "Which statement best describes kingdom animalia?",
+      "o": [
+        "Prokaryotic microbes only",
+        "Photosynthetic algae only",
+        "All organisms with cell walls",
+        "Multicellular heterotrophic eukaryotes"
+      ],
+      "a": 3,
+      "e": "Animals are multicellular and obtain food from other organisms.",
+      "d": "Easy",
+      "topic": "Classification",
+      "slo": "Identify kingdom animalia"
+    },
+    {
+      "id": "BIO9CH2-122",
+      "q": "A learner is revising classification. Which description correctly matches the term \"Kingdom Animalia\"?",
+      "o": [
+        "Prokaryotic microbes only",
+        "Multicellular heterotrophic eukaryotes",
+        "All organisms with cell walls",
+        "Photosynthetic algae only"
+      ],
+      "a": 1,
+      "e": "Animals are multicellular and obtain food from other organisms.",
+      "d": "Medium",
+      "topic": "Classification",
+      "slo": "Explain kingdom animalia"
+    },
+    {
+      "id": "BIO9CH2-123",
+      "q": "Consider this situation: A multicellular organism ingests food and lacks cell walls. Which idea or description best explains it?",
+      "o": [
+        "Multicellular heterotrophic eukaryotes",
+        "Photosynthetic algae only",
+        "All organisms with cell walls",
+        "Prokaryotic microbes only"
+      ],
+      "a": 0,
+      "e": "Animals are multicellular and obtain food from other organisms.",
+      "d": "Hard",
+      "topic": "Classification",
+      "slo": "Apply understanding of kingdom animalia"
+    },
+    {
+      "id": "BIO9CH2-124",
+      "q": "Which of the following is scientifically accurate regarding kingdom animalia?",
+      "o": [
+        "Multicellular heterotrophic eukaryotes",
+        "Photosynthetic algae only",
+        "All organisms with cell walls",
+        "Prokaryotic microbes only"
+      ],
+      "a": 0,
+      "e": "Animals are multicellular and obtain food from other organisms.",
+      "d": "Medium",
+      "topic": "Classification",
+      "slo": "Distinguish kingdom animalia from related ideas"
+    },
+    {
+      "id": "BIO9CH2-125",
+      "q": "Which statement best describes prokaryote?",
+      "o": [
+        "Cell with a membrane-bound nucleus",
+        "Cell lacking a membrane-bound nucleus",
+        "Cell without genetic material",
+        "Cell without cytoplasm"
+      ],
+      "a": 1,
+      "e": "Prokaryotic cells lack a true membrane-bound nucleus.",
+      "d": "Easy",
+      "topic": "Classification",
+      "slo": "Identify prokaryote"
+    },
+    {
+      "id": "BIO9CH2-126",
+      "q": "A learner is revising classification. Which description correctly matches the term \"Prokaryote\"?",
+      "o": [
+        "Cell without cytoplasm",
+        "Cell without genetic material",
+        "Cell with a membrane-bound nucleus",
+        "Cell lacking a membrane-bound nucleus"
+      ],
+      "a": 3,
+      "e": "Prokaryotic cells lack a true membrane-bound nucleus.",
+      "d": "Medium",
+      "topic": "Classification",
+      "slo": "Explain prokaryote"
+    },
+    {
+      "id": "BIO9CH2-127",
+      "q": "Consider this situation: A bacterium has DNA not enclosed in a nucleus. Which idea or description best explains it?",
+      "o": [
+        "Cell without genetic material",
+        "Cell with a membrane-bound nucleus",
+        "Cell lacking a membrane-bound nucleus",
+        "Cell without cytoplasm"
+      ],
+      "a": 2,
+      "e": "Prokaryotic cells lack a true membrane-bound nucleus.",
+      "d": "Hard",
+      "topic": "Classification",
+      "slo": "Apply understanding of prokaryote"
+    },
+    {
+      "id": "BIO9CH2-128",
+      "q": "Which of the following is scientifically accurate regarding prokaryote?",
+      "o": [
+        "Cell without cytoplasm",
+        "Cell without genetic material",
+        "Cell with a membrane-bound nucleus",
+        "Cell lacking a membrane-bound nucleus"
+      ],
+      "a": 3,
+      "e": "Prokaryotic cells lack a true membrane-bound nucleus.",
+      "d": "Medium",
+      "topic": "Classification",
+      "slo": "Distinguish prokaryote from related ideas"
+    },
+    {
+      "id": "BIO9CH2-129",
+      "q": "Which statement best describes eukaryote?",
+      "o": [
+        "Cell with a membrane-bound nucleus",
+        "Cell lacking all membranes",
+        "Cell with no genetic material",
+        "Cell that cannot reproduce"
+      ],
+      "a": 0,
+      "e": "Eukaryotic cells contain a true nucleus.",
+      "d": "Easy",
+      "topic": "Classification",
+      "slo": "Identify eukaryote"
+    },
+    {
+      "id": "BIO9CH2-130",
+      "q": "A learner is revising classification. Which description correctly matches the term \"Eukaryote\"?",
+      "o": [
+        "Cell with a membrane-bound nucleus",
+        "Cell that cannot reproduce",
+        "Cell lacking all membranes",
+        "Cell with no genetic material"
+      ],
+      "a": 0,
+      "e": "Eukaryotic cells contain a true nucleus.",
+      "d": "Medium",
+      "topic": "Classification",
+      "slo": "Explain eukaryote"
+    },
+    {
+      "id": "BIO9CH2-131",
+      "q": "Consider this situation: A cell has a distinct nucleus and organelles. Which idea or description best explains it?",
+      "o": [
+        "Cell with no genetic material",
+        "Cell that cannot reproduce",
+        "Cell with a membrane-bound nucleus",
+        "Cell lacking all membranes"
+      ],
+      "a": 2,
+      "e": "Eukaryotic cells contain a true nucleus.",
+      "d": "Hard",
+      "topic": "Classification",
+      "slo": "Apply understanding of eukaryote"
+    },
+    {
+      "id": "BIO9CH2-132",
+      "q": "Which of the following is scientifically accurate regarding eukaryote?",
+      "o": [
+        "Cell that cannot reproduce",
+        "Cell with a membrane-bound nucleus",
+        "Cell lacking all membranes",
+        "Cell with no genetic material"
+      ],
+      "a": 1,
+      "e": "Eukaryotic cells contain a true nucleus.",
+      "d": "Medium",
+      "topic": "Classification",
+      "slo": "Distinguish eukaryote from related ideas"
+    },
+    {
+      "id": "BIO9CH2-133",
+      "q": "Which statement best describes unicellular organism?",
+      "o": [
+        "Organism with no cellular structure",
+        "Organism made of organs only",
+        "Organism made of one cell",
+        "Organism made of many tissues"
+      ],
+      "a": 2,
+      "e": "A unicellular organism consists of one cell.",
+      "d": "Easy",
+      "topic": "Classification",
+      "slo": "Identify unicellular organism"
+    },
+    {
+      "id": "BIO9CH2-134",
+      "q": "A learner is revising classification. Which description correctly matches the term \"Unicellular organism\"?",
+      "o": [
+        "Organism with no cellular structure",
+        "Organism made of many tissues",
+        "Organism made of organs only",
+        "Organism made of one cell"
+      ],
+      "a": 3,
+      "e": "A unicellular organism consists of one cell.",
+      "d": "Medium",
+      "topic": "Classification",
+      "slo": "Explain unicellular organism"
+    },
+    {
+      "id": "BIO9CH2-135",
+      "q": "Consider this situation: An Amoeba performs life processes in a single cell. Which idea or description best explains it?",
+      "o": [
+        "Organism made of many tissues",
+        "Organism with no cellular structure",
+        "Organism made of organs only",
+        "Organism made of one cell"
+      ],
+      "a": 3,
+      "e": "A unicellular organism consists of one cell.",
+      "d": "Hard",
+      "topic": "Classification",
+      "slo": "Apply understanding of unicellular organism"
+    },
+    {
+      "id": "BIO9CH2-136",
+      "q": "Which of the following is scientifically accurate regarding unicellular organism?",
+      "o": [
+        "Organism made of many tissues",
+        "Organism with no cellular structure",
+        "Organism made of one cell",
+        "Organism made of organs only"
+      ],
+      "a": 2,
+      "e": "A unicellular organism consists of one cell.",
+      "d": "Medium",
+      "topic": "Classification",
+      "slo": "Distinguish unicellular organism from related ideas"
+    },
+    {
+      "id": "BIO9CH2-137",
+      "q": "Which statement best describes multicellular organism?",
+      "o": [
+        "Organism made of many cells",
+        "Organism made of one atom",
+        "Organism with no cells",
+        "Organism always lacking a nucleus"
+      ],
+      "a": 0,
+      "e": "Multicellular organisms have multiple cells.",
+      "d": "Easy",
+      "topic": "Classification",
+      "slo": "Identify multicellular organism"
+    },
+    {
+      "id": "BIO9CH2-138",
+      "q": "A learner is revising classification. Which description correctly matches the term \"Multicellular organism\"?",
+      "o": [
+        "Organism made of many cells",
+        "Organism with no cells",
+        "Organism made of one atom",
+        "Organism always lacking a nucleus"
+      ],
+      "a": 0,
+      "e": "Multicellular organisms have multiple cells.",
+      "d": "Medium",
+      "topic": "Classification",
+      "slo": "Explain multicellular organism"
+    },
+    {
+      "id": "BIO9CH2-139",
+      "q": "Consider this situation: A tree consists of numerous specialized cells. Which idea or description best explains it?",
+      "o": [
+        "Organism with no cells",
+        "Organism made of many cells",
+        "Organism made of one atom",
+        "Organism always lacking a nucleus"
+      ],
+      "a": 1,
+      "e": "Multicellular organisms have multiple cells.",
+      "d": "Hard",
+      "topic": "Classification",
+      "slo": "Apply understanding of multicellular organism"
+    },
+    {
+      "id": "BIO9CH2-140",
+      "q": "Which of the following is scientifically accurate regarding multicellular organism?",
+      "o": [
+        "Organism made of many cells",
+        "Organism with no cells",
+        "Organism made of one atom",
+        "Organism always lacking a nucleus"
+      ],
+      "a": 0,
+      "e": "Multicellular organisms have multiple cells.",
+      "d": "Medium",
+      "topic": "Classification",
+      "slo": "Distinguish multicellular organism from related ideas"
+    },
+    {
+      "id": "BIO9CH2-141",
+      "q": "Which statement best describes autotroph?",
+      "o": [
+        "Organism that only eats animals",
+        "Organism that cannot use energy",
+        "Organism that makes its own organic food",
+        "Organism that always causes disease"
+      ],
+      "a": 2,
+      "e": "Autotrophs synthesize organic food from simpler substances.",
+      "d": "Easy",
+      "topic": "Classification",
+      "slo": "Identify autotroph"
+    },
+    {
+      "id": "BIO9CH2-142",
+      "q": "A learner is revising classification. Which description correctly matches the term \"Autotroph\"?",
+      "o": [
+        "Organism that only eats animals",
+        "Organism that always causes disease",
+        "Organism that cannot use energy",
+        "Organism that makes its own organic food"
+      ],
+      "a": 3,
+      "e": "Autotrophs synthesize organic food from simpler substances.",
+      "d": "Medium",
+      "topic": "Classification",
+      "slo": "Explain autotroph"
+    },
+    {
+      "id": "BIO9CH2-143",
+      "q": "Consider this situation: A green plant uses sunlight to produce sugars. Which idea or description best explains it?",
+      "o": [
+        "Organism that always causes disease",
+        "Organism that only eats animals",
+        "Organism that makes its own organic food",
+        "Organism that cannot use energy"
+      ],
+      "a": 2,
+      "e": "Autotrophs synthesize organic food from simpler substances.",
+      "d": "Hard",
+      "topic": "Classification",
+      "slo": "Apply understanding of autotroph"
+    },
+    {
+      "id": "BIO9CH2-144",
+      "q": "Which of the following is scientifically accurate regarding autotroph?",
+      "o": [
+        "Organism that makes its own organic food",
+        "Organism that only eats animals",
+        "Organism that always causes disease",
+        "Organism that cannot use energy"
+      ],
+      "a": 0,
+      "e": "Autotrophs synthesize organic food from simpler substances.",
+      "d": "Medium",
+      "topic": "Classification",
+      "slo": "Distinguish autotroph from related ideas"
+    },
+    {
+      "id": "BIO9CH2-145",
+      "q": "Which statement best describes heterotroph?",
+      "o": [
+        "Organism that lacks a cell membrane",
+        "Organism that contains no DNA",
+        "Organism that obtains organic food from other sources",
+        "Organism that makes all food from sunlight"
+      ],
+      "a": 2,
+      "e": "Heterotrophs rely on external organic food.",
+      "d": "Easy",
+      "topic": "Classification",
+      "slo": "Identify heterotroph"
+    },
+    {
+      "id": "BIO9CH2-146",
+      "q": "A learner is revising classification. Which description correctly matches the term \"Heterotroph\"?",
+      "o": [
+        "Organism that lacks a cell membrane",
+        "Organism that makes all food from sunlight",
+        "Organism that contains no DNA",
+        "Organism that obtains organic food from other sources"
+      ],
+      "a": 3,
+      "e": "Heterotrophs rely on external organic food.",
+      "d": "Medium",
+      "topic": "Classification",
+      "slo": "Explain heterotroph"
+    },
+    {
+      "id": "BIO9CH2-147",
+      "q": "Consider this situation: A goat eats plants to obtain nutrients. Which idea or description best explains it?",
+      "o": [
+        "Organism that contains no DNA",
+        "Organism that makes all food from sunlight",
+        "Organism that lacks a cell membrane",
+        "Organism that obtains organic food from other sources"
+      ],
+      "a": 3,
+      "e": "Heterotrophs rely on external organic food.",
+      "d": "Hard",
+      "topic": "Classification",
+      "slo": "Apply understanding of heterotroph"
+    },
+    {
+      "id": "BIO9CH2-148",
+      "q": "Which of the following is scientifically accurate regarding heterotroph?",
+      "o": [
+        "Organism that obtains organic food from other sources",
+        "Organism that lacks a cell membrane",
+        "Organism that makes all food from sunlight",
+        "Organism that contains no DNA"
+      ],
+      "a": 0,
+      "e": "Heterotrophs rely on external organic food.",
+      "d": "Medium",
+      "topic": "Classification",
+      "slo": "Distinguish heterotroph from related ideas"
+    },
+    {
+      "id": "BIO9CH2-149",
+      "q": "Which statement best describes saprotrophic nutrition?",
+      "o": [
+        "Ingestion of living prey only",
+        "Making food from sunlight",
+        "Taking minerals from rocks without organic matter",
+        "Absorption of nutrients from dead organic matter"
+      ],
+      "a": 3,
+      "e": "Many fungi obtain nutrients by decomposing dead matter.",
+      "d": "Easy",
+      "topic": "Classification",
+      "slo": "Identify saprotrophic nutrition"
+    },
+    {
+      "id": "BIO9CH2-150",
+      "q": "A learner is revising classification. Which description correctly matches the term \"Saprotrophic nutrition\"?",
+      "o": [
+        "Ingestion of living prey only",
+        "Taking minerals from rocks without organic matter",
+        "Making food from sunlight",
+        "Absorption of nutrients from dead organic matter"
+      ],
+      "a": 3,
+      "e": "Many fungi obtain nutrients by decomposing dead matter.",
+      "d": "Medium",
+      "topic": "Classification",
+      "slo": "Explain saprotrophic nutrition"
+    },
+    {
+      "id": "BIO9CH2-151",
+      "q": "Consider this situation: A fungus grows on decaying bread. Which idea or description best explains it?",
+      "o": [
+        "Making food from sunlight",
+        "Taking minerals from rocks without organic matter",
+        "Ingestion of living prey only",
+        "Absorption of nutrients from dead organic matter"
+      ],
+      "a": 3,
+      "e": "Many fungi obtain nutrients by decomposing dead matter.",
+      "d": "Hard",
+      "topic": "Classification",
+      "slo": "Apply understanding of saprotrophic nutrition"
+    },
+    {
+      "id": "BIO9CH2-152",
+      "q": "Which of the following is scientifically accurate regarding saprotrophic nutrition?",
+      "o": [
+        "Absorption of nutrients from dead organic matter",
+        "Taking minerals from rocks without organic matter",
+        "Making food from sunlight",
+        "Ingestion of living prey only"
+      ],
+      "a": 0,
+      "e": "Many fungi obtain nutrients by decomposing dead matter.",
+      "d": "Medium",
+      "topic": "Classification",
+      "slo": "Distinguish saprotrophic nutrition from related ideas"
+    },
+    {
+      "id": "BIO9CH2-153",
+      "q": "Which statement best describes bacterial cell wall?",
+      "o": [
+        "Always contains cellulose only",
+        "Always contains chitin only",
+        "Often contains peptidoglycan",
+        "Always absent in bacteria"
+      ],
+      "a": 2,
+      "e": "Many bacterial cell walls contain peptidoglycan.",
+      "d": "Easy",
+      "topic": "Classification",
+      "slo": "Identify bacterial cell wall"
+    },
+    {
+      "id": "BIO9CH2-154",
+      "q": "A learner is revising classification. Which description correctly matches the term \"Bacterial cell wall\"?",
+      "o": [
+        "Always contains cellulose only",
+        "Often contains peptidoglycan",
+        "Always absent in bacteria",
+        "Always contains chitin only"
+      ],
+      "a": 1,
+      "e": "Many bacterial cell walls contain peptidoglycan.",
+      "d": "Medium",
+      "topic": "Classification",
+      "slo": "Explain bacterial cell wall"
+    },
+    {
+      "id": "BIO9CH2-155",
+      "q": "Consider this situation: A lab distinguishes a bacterium by its wall material. Which idea or description best explains it?",
+      "o": [
+        "Always contains cellulose only",
+        "Always contains chitin only",
+        "Often contains peptidoglycan",
+        "Always absent in bacteria"
+      ],
+      "a": 2,
+      "e": "Many bacterial cell walls contain peptidoglycan.",
+      "d": "Hard",
+      "topic": "Classification",
+      "slo": "Apply understanding of bacterial cell wall"
+    },
+    {
+      "id": "BIO9CH2-156",
+      "q": "Which of the following is scientifically accurate regarding bacterial cell wall?",
+      "o": [
+        "Always contains chitin only",
+        "Often contains peptidoglycan",
+        "Always contains cellulose only",
+        "Always absent in bacteria"
+      ],
+      "a": 1,
+      "e": "Many bacterial cell walls contain peptidoglycan.",
+      "d": "Medium",
+      "topic": "Classification",
+      "slo": "Distinguish bacterial cell wall from related ideas"
+    },
+    {
+      "id": "BIO9CH2-157",
+      "q": "Which statement best describes fungal cell wall?",
+      "o": [
+        "Contains chitin",
+        "Always absent",
+        "Contains peptidoglycan only",
+        "Always made of bone"
+      ],
+      "a": 0,
+      "e": "Fungal cell walls characteristically contain chitin.",
+      "d": "Easy",
+      "topic": "Classification",
+      "slo": "Identify fungal cell wall"
+    },
+    {
+      "id": "BIO9CH2-158",
+      "q": "A learner is revising classification. Which description correctly matches the term \"Fungal cell wall\"?",
+      "o": [
+        "Contains chitin",
+        "Always absent",
+        "Always made of bone",
+        "Contains peptidoglycan only"
+      ],
+      "a": 0,
+      "e": "Fungal cell walls characteristically contain chitin.",
+      "d": "Medium",
+      "topic": "Classification",
+      "slo": "Explain fungal cell wall"
+    },
+    {
+      "id": "BIO9CH2-159",
+      "q": "Consider this situation: A mushroom cell wall is examined. Which idea or description best explains it?",
+      "o": [
+        "Contains chitin",
+        "Always absent",
+        "Always made of bone",
+        "Contains peptidoglycan only"
+      ],
+      "a": 0,
+      "e": "Fungal cell walls characteristically contain chitin.",
+      "d": "Hard",
+      "topic": "Classification",
+      "slo": "Apply understanding of fungal cell wall"
+    },
+    {
+      "id": "BIO9CH2-160",
+      "q": "Which of the following is scientifically accurate regarding fungal cell wall?",
+      "o": [
+        "Contains chitin",
+        "Always absent",
+        "Always made of bone",
+        "Contains peptidoglycan only"
+      ],
+      "a": 0,
+      "e": "Fungal cell walls characteristically contain chitin.",
+      "d": "Medium",
+      "topic": "Classification",
+      "slo": "Distinguish fungal cell wall from related ideas"
+    },
+    {
+      "id": "BIO9CH2-161",
+      "q": "Which statement best describes plant cell wall?",
+      "o": [
+        "Contains chitin only",
+        "Contains cellulose",
+        "Contains peptidoglycan only",
+        "Always absent"
+      ],
+      "a": 1,
+      "e": "Cellulose is a major component of plant cell walls.",
+      "d": "Easy",
+      "topic": "Classification",
+      "slo": "Identify plant cell wall"
+    },
+    {
+      "id": "BIO9CH2-162",
+      "q": "A learner is revising classification. Which description correctly matches the term \"Plant cell wall\"?",
+      "o": [
+        "Contains chitin only",
+        "Contains peptidoglycan only",
+        "Always absent",
+        "Contains cellulose"
+      ],
+      "a": 3,
+      "e": "Cellulose is a major component of plant cell walls.",
+      "d": "Medium",
+      "topic": "Classification",
+      "slo": "Explain plant cell wall"
+    },
+    {
+      "id": "BIO9CH2-163",
+      "q": "Consider this situation: A leaf cell has a rigid cellulose wall. Which idea or description best explains it?",
+      "o": [
+        "Contains peptidoglycan only",
+        "Always absent",
+        "Contains cellulose",
+        "Contains chitin only"
+      ],
+      "a": 2,
+      "e": "Cellulose is a major component of plant cell walls.",
+      "d": "Hard",
+      "topic": "Classification",
+      "slo": "Apply understanding of plant cell wall"
+    },
+    {
+      "id": "BIO9CH2-164",
+      "q": "Which of the following is scientifically accurate regarding plant cell wall?",
+      "o": [
+        "Contains peptidoglycan only",
+        "Contains cellulose",
+        "Contains chitin only",
+        "Always absent"
+      ],
+      "a": 1,
+      "e": "Cellulose is a major component of plant cell walls.",
+      "d": "Medium",
+      "topic": "Classification",
+      "slo": "Distinguish plant cell wall from related ideas"
+    },
+    {
+      "id": "BIO9CH2-165",
+      "q": "Which statement best describes animal cell wall?",
+      "o": [
+        "Made of cellulose",
+        "Absent",
+        "Made of chitin",
+        "Made of peptidoglycan"
+      ],
+      "a": 1,
+      "e": "Animal cells have cell membranes but no cell walls.",
+      "d": "Easy",
+      "topic": "Classification",
+      "slo": "Identify animal cell wall"
+    },
+    {
+      "id": "BIO9CH2-166",
+      "q": "A learner is revising classification. Which description correctly matches the term \"Animal cell wall\"?",
+      "o": [
+        "Made of cellulose",
+        "Made of peptidoglycan",
+        "Made of chitin",
+        "Absent"
+      ],
+      "a": 3,
+      "e": "Animal cells have cell membranes but no cell walls.",
+      "d": "Medium",
+      "topic": "Classification",
+      "slo": "Explain animal cell wall"
+    },
+    {
+      "id": "BIO9CH2-167",
+      "q": "Consider this situation: A cheek cell is compared with a leaf cell. Which idea or description best explains it?",
+      "o": [
+        "Made of peptidoglycan",
+        "Absent",
+        "Made of cellulose",
+        "Made of chitin"
+      ],
+      "a": 1,
+      "e": "Animal cells have cell membranes but no cell walls.",
+      "d": "Hard",
+      "topic": "Classification",
+      "slo": "Apply understanding of animal cell wall"
+    },
+    {
+      "id": "BIO9CH2-168",
+      "q": "Which of the following is scientifically accurate regarding animal cell wall?",
+      "o": [
+        "Made of chitin",
+        "Absent",
+        "Made of cellulose",
+        "Made of peptidoglycan"
+      ],
+      "a": 1,
+      "e": "Animal cells have cell membranes but no cell walls.",
+      "d": "Medium",
+      "topic": "Classification",
+      "slo": "Distinguish animal cell wall from related ideas"
+    },
+    {
+      "id": "BIO9CH2-169",
+      "q": "Which statement best describes virus cellular status?",
+      "o": [
+        "Typical prokaryotic cell",
+        "Multicellular animal",
+        "Acellular particle rather than a cellular organism",
+        "Typical eukaryotic cell"
+      ],
+      "a": 2,
+      "e": "Viruses lack cellular organization.",
+      "d": "Easy",
+      "topic": "Classification",
+      "slo": "Identify virus cellular status"
+    },
+    {
+      "id": "BIO9CH2-170",
+      "q": "A learner is revising classification. Which description correctly matches the term \"Virus cellular status\"?",
+      "o": [
+        "Acellular particle rather than a cellular organism",
+        "Typical prokaryotic cell",
+        "Multicellular animal",
+        "Typical eukaryotic cell"
+      ],
+      "a": 0,
+      "e": "Viruses lack cellular organization.",
+      "d": "Medium",
+      "topic": "Classification",
+      "slo": "Explain virus cellular status"
+    },
+    {
+      "id": "BIO9CH2-171",
+      "q": "Consider this situation: A pathogen has genetic material inside a protein coat but no cells. Which idea or description best explains it?",
+      "o": [
+        "Typical eukaryotic cell",
+        "Typical prokaryotic cell",
+        "Acellular particle rather than a cellular organism",
+        "Multicellular animal"
+      ],
+      "a": 2,
+      "e": "Viruses lack cellular organization.",
+      "d": "Hard",
+      "topic": "Classification",
+      "slo": "Apply understanding of virus cellular status"
+    },
+    {
+      "id": "BIO9CH2-172",
+      "q": "Which of the following is scientifically accurate regarding virus cellular status?",
+      "o": [
+        "Typical eukaryotic cell",
+        "Multicellular animal",
+        "Acellular particle rather than a cellular organism",
+        "Typical prokaryotic cell"
+      ],
+      "a": 2,
+      "e": "Viruses lack cellular organization.",
+      "d": "Medium",
+      "topic": "Classification",
+      "slo": "Distinguish virus cellular status from related ideas"
+    },
+    {
+      "id": "BIO9CH2-173",
+      "q": "Which statement best describes virus reproduction?",
+      "o": [
+        "Makes seeds in soil",
+        "Requires living host cells for replication",
+        "Reproduces by binary fission outside hosts",
+        "Always divides independently by mitosis"
+      ],
+      "a": 1,
+      "e": "Viruses depend on host cellular machinery to replicate.",
+      "d": "Easy",
+      "topic": "Classification",
+      "slo": "Identify virus reproduction"
+    },
+    {
+      "id": "BIO9CH2-174",
+      "q": "A learner is revising classification. Which description correctly matches the term \"Virus reproduction\"?",
+      "o": [
+        "Makes seeds in soil",
+        "Reproduces by binary fission outside hosts",
+        "Always divides independently by mitosis",
+        "Requires living host cells for replication"
+      ],
+      "a": 3,
+      "e": "Viruses depend on host cellular machinery to replicate.",
+      "d": "Medium",
+      "topic": "Classification",
+      "slo": "Explain virus reproduction"
+    },
+    {
+      "id": "BIO9CH2-175",
+      "q": "Consider this situation: A virus multiplies only after entering a living cell. Which idea or description best explains it?",
+      "o": [
+        "Always divides independently by mitosis",
+        "Makes seeds in soil",
+        "Requires living host cells for replication",
+        "Reproduces by binary fission outside hosts"
+      ],
+      "a": 2,
+      "e": "Viruses depend on host cellular machinery to replicate.",
+      "d": "Hard",
+      "topic": "Classification",
+      "slo": "Apply understanding of virus reproduction"
+    },
+    {
+      "id": "BIO9CH2-176",
+      "q": "Which of the following is scientifically accurate regarding virus reproduction?",
+      "o": [
+        "Always divides independently by mitosis",
+        "Reproduces by binary fission outside hosts",
+        "Requires living host cells for replication",
+        "Makes seeds in soil"
+      ],
+      "a": 2,
+      "e": "Viruses depend on host cellular machinery to replicate.",
+      "d": "Medium",
+      "topic": "Classification",
+      "slo": "Distinguish virus reproduction from related ideas"
+    },
+    {
+      "id": "BIO9CH2-177",
+      "q": "Which statement best describes virus and five kingdoms?",
+      "o": [
+        "Viruses are all plants",
+        "Viruses are not placed in the five cellular kingdoms",
+        "Viruses are all animals",
+        "Viruses are all fungi"
+      ],
+      "a": 1,
+      "e": "Five-kingdom classification concerns cellular organisms.",
+      "d": "Easy",
+      "topic": "Classification",
+      "slo": "Identify virus and five kingdoms"
+    },
+    {
+      "id": "BIO9CH2-178",
+      "q": "A learner is revising classification. Which description correctly matches the term \"Virus and five kingdoms\"?",
+      "o": [
+        "Viruses are all fungi",
+        "Viruses are all plants",
+        "Viruses are not placed in the five cellular kingdoms",
+        "Viruses are all animals"
+      ],
+      "a": 2,
+      "e": "Five-kingdom classification concerns cellular organisms.",
+      "d": "Medium",
+      "topic": "Classification",
+      "slo": "Explain virus and five kingdoms"
+    },
+    {
+      "id": "BIO9CH2-179",
+      "q": "Consider this situation: A student tries to assign a virus to Animalia. Which idea or description best explains it?",
+      "o": [
+        "Viruses are all animals",
+        "Viruses are all plants",
+        "Viruses are not placed in the five cellular kingdoms",
+        "Viruses are all fungi"
+      ],
+      "a": 2,
+      "e": "Five-kingdom classification concerns cellular organisms.",
+      "d": "Hard",
+      "topic": "Classification",
+      "slo": "Apply understanding of virus and five kingdoms"
+    },
+    {
+      "id": "BIO9CH2-180",
+      "q": "Which of the following is scientifically accurate regarding virus and five kingdoms?",
+      "o": [
+        "Viruses are all plants",
+        "Viruses are not placed in the five cellular kingdoms",
+        "Viruses are all fungi",
+        "Viruses are all animals"
+      ],
+      "a": 1,
+      "e": "Five-kingdom classification concerns cellular organisms.",
+      "d": "Medium",
+      "topic": "Classification",
+      "slo": "Distinguish virus and five kingdoms from related ideas"
+    },
+    {
+      "id": "BIO9CH2-181",
+      "q": "Which statement best describes hierarchy of classification?",
+      "o": [
+        "Family kingdom species order genus class phylum",
+        "Kingdom species class genus family order phylum",
+        "Kingdom phylum class order family genus species",
+        "Species genus family class order phylum kingdom"
+      ],
+      "a": 2,
+      "e": "The traditional hierarchy proceeds from kingdom to species.",
+      "d": "Easy",
+      "topic": "Taxonomic ranks",
+      "slo": "Identify hierarchy of classification"
+    },
+    {
+      "id": "BIO9CH2-182",
+      "q": "A learner is revising taxonomic ranks. Which description correctly matches the term \"Hierarchy of classification\"?",
+      "o": [
+        "Species genus family class order phylum kingdom",
+        "Family kingdom species order genus class phylum",
+        "Kingdom species class genus family order phylum",
+        "Kingdom phylum class order family genus species"
+      ],
+      "a": 3,
+      "e": "The traditional hierarchy proceeds from kingdom to species.",
+      "d": "Medium",
+      "topic": "Taxonomic ranks",
+      "slo": "Explain hierarchy of classification"
+    },
+    {
+      "id": "BIO9CH2-183",
+      "q": "Consider this situation: A student arranges ranks from broadest to narrowest. Which idea or description best explains it?",
+      "o": [
+        "Family kingdom species order genus class phylum",
+        "Kingdom species class genus family order phylum",
+        "Species genus family class order phylum kingdom",
+        "Kingdom phylum class order family genus species"
+      ],
+      "a": 3,
+      "e": "The traditional hierarchy proceeds from kingdom to species.",
+      "d": "Hard",
+      "topic": "Taxonomic ranks",
+      "slo": "Apply understanding of hierarchy of classification"
+    },
+    {
+      "id": "BIO9CH2-184",
+      "q": "Which of the following is scientifically accurate regarding hierarchy of classification?",
+      "o": [
+        "Kingdom species class genus family order phylum",
+        "Kingdom phylum class order family genus species",
+        "Species genus family class order phylum kingdom",
+        "Family kingdom species order genus class phylum"
+      ],
+      "a": 1,
+      "e": "The traditional hierarchy proceeds from kingdom to species.",
+      "d": "Medium",
+      "topic": "Taxonomic ranks",
+      "slo": "Distinguish hierarchy of classification from related ideas"
+    },
+    {
+      "id": "BIO9CH2-185",
+      "q": "Which statement best describes broadest traditional rank?",
+      "o": [
+        "Genus",
+        "Species",
+        "Family",
+        "Kingdom"
+      ],
+      "a": 3,
+      "e": "Kingdom is the broadest rank in the traditional seven-rank sequence.",
+      "d": "Easy",
+      "topic": "Taxonomic ranks",
+      "slo": "Identify broadest traditional rank"
+    },
+    {
+      "id": "BIO9CH2-186",
+      "q": "A learner is revising taxonomic ranks. Which description correctly matches the term \"Broadest traditional rank\"?",
+      "o": [
+        "Family",
+        "Genus",
+        "Kingdom",
+        "Species"
+      ],
+      "a": 2,
+      "e": "Kingdom is the broadest rank in the traditional seven-rank sequence.",
+      "d": "Medium",
+      "topic": "Taxonomic ranks",
+      "slo": "Explain broadest traditional rank"
+    },
+    {
+      "id": "BIO9CH2-187",
+      "q": "Consider this situation: A chart asks for the most inclusive listed rank. Which idea or description best explains it?",
+      "o": [
+        "Kingdom",
+        "Family",
+        "Genus",
+        "Species"
+      ],
+      "a": 0,
+      "e": "Kingdom is the broadest rank in the traditional seven-rank sequence.",
+      "d": "Hard",
+      "topic": "Taxonomic ranks",
+      "slo": "Apply understanding of broadest traditional rank"
+    },
+    {
+      "id": "BIO9CH2-188",
+      "q": "Which of the following is scientifically accurate regarding broadest traditional rank?",
+      "o": [
+        "Genus",
+        "Family",
+        "Species",
+        "Kingdom"
+      ],
+      "a": 3,
+      "e": "Kingdom is the broadest rank in the traditional seven-rank sequence.",
+      "d": "Medium",
+      "topic": "Taxonomic ranks",
+      "slo": "Distinguish broadest traditional rank from related ideas"
+    },
+    {
+      "id": "BIO9CH2-189",
+      "q": "Which statement best describes most specific traditional rank?",
+      "o": [
+        "Phylum",
+        "Species",
+        "Class",
+        "Kingdom"
+      ],
+      "a": 1,
+      "e": "Species is the most specific basic taxonomic rank.",
+      "d": "Easy",
+      "topic": "Taxonomic ranks",
+      "slo": "Identify most specific traditional rank"
+    },
+    {
+      "id": "BIO9CH2-190",
+      "q": "A learner is revising taxonomic ranks. Which description correctly matches the term \"Most specific traditional rank\"?",
+      "o": [
+        "Kingdom",
+        "Class",
+        "Species",
+        "Phylum"
+      ],
+      "a": 2,
+      "e": "Species is the most specific basic taxonomic rank.",
+      "d": "Medium",
+      "topic": "Taxonomic ranks",
+      "slo": "Explain most specific traditional rank"
+    },
+    {
+      "id": "BIO9CH2-191",
+      "q": "Consider this situation: A chart asks for the narrowest listed rank. Which idea or description best explains it?",
+      "o": [
+        "Kingdom",
+        "Species",
+        "Phylum",
+        "Class"
+      ],
+      "a": 1,
+      "e": "Species is the most specific basic taxonomic rank.",
+      "d": "Hard",
+      "topic": "Taxonomic ranks",
+      "slo": "Apply understanding of most specific traditional rank"
+    },
+    {
+      "id": "BIO9CH2-192",
+      "q": "Which of the following is scientifically accurate regarding most specific traditional rank?",
+      "o": [
+        "Class",
+        "Kingdom",
+        "Species",
+        "Phylum"
+      ],
+      "a": 2,
+      "e": "Species is the most specific basic taxonomic rank.",
+      "d": "Medium",
+      "topic": "Taxonomic ranks",
+      "slo": "Distinguish most specific traditional rank from related ideas"
+    },
+    {
+      "id": "BIO9CH2-193",
+      "q": "Which statement best describes phylum?",
+      "o": [
+        "Rank below kingdom and above class",
+        "Rank between genus and species",
+        "Rank below species",
+        "Rank above kingdom"
+      ],
+      "a": 0,
+      "e": "Phylum lies between kingdom and class.",
+      "d": "Easy",
+      "topic": "Taxonomic ranks",
+      "slo": "Identify phylum"
+    },
+    {
+      "id": "BIO9CH2-194",
+      "q": "A learner is revising taxonomic ranks. Which description correctly matches the term \"Phylum\"?",
+      "o": [
+        "Rank below kingdom and above class",
+        "Rank between genus and species",
+        "Rank below species",
+        "Rank above kingdom"
+      ],
+      "a": 0,
+      "e": "Phylum lies between kingdom and class.",
+      "d": "Medium",
+      "topic": "Taxonomic ranks",
+      "slo": "Explain phylum"
+    },
+    {
+      "id": "BIO9CH2-195",
+      "q": "Consider this situation: A missing rank is between kingdom and class. Which idea or description best explains it?",
+      "o": [
+        "Rank below species",
+        "Rank between genus and species",
+        "Rank above kingdom",
+        "Rank below kingdom and above class"
+      ],
+      "a": 3,
+      "e": "Phylum lies between kingdom and class.",
+      "d": "Hard",
+      "topic": "Taxonomic ranks",
+      "slo": "Apply understanding of phylum"
+    },
+    {
+      "id": "BIO9CH2-196",
+      "q": "Which of the following is scientifically accurate regarding phylum?",
+      "o": [
+        "Rank above kingdom",
+        "Rank below species",
+        "Rank between genus and species",
+        "Rank below kingdom and above class"
+      ],
+      "a": 3,
+      "e": "Phylum lies between kingdom and class.",
+      "d": "Medium",
+      "topic": "Taxonomic ranks",
+      "slo": "Distinguish phylum from related ideas"
+    },
+    {
+      "id": "BIO9CH2-197",
+      "q": "Which statement best describes class?",
+      "o": [
+        "Rank above kingdom",
+        "Rank between genus and species",
+        "Rank between phylum and order",
+        "Rank below species"
+      ],
+      "a": 2,
+      "e": "Class comes after phylum and before order.",
+      "d": "Easy",
+      "topic": "Taxonomic ranks",
+      "slo": "Identify class"
+    },
+    {
+      "id": "BIO9CH2-198",
+      "q": "A learner is revising taxonomic ranks. Which description correctly matches the term \"Class\"?",
+      "o": [
+        "Rank between genus and species",
+        "Rank above kingdom",
+        "Rank below species",
+        "Rank between phylum and order"
+      ],
+      "a": 3,
+      "e": "Class comes after phylum and before order.",
+      "d": "Medium",
+      "topic": "Taxonomic ranks",
+      "slo": "Explain class"
+    },
+    {
+      "id": "BIO9CH2-199",
+      "q": "Consider this situation: A chart has phylum blank order. Which idea or description best explains it?",
+      "o": [
+        "Rank between genus and species",
+        "Rank above kingdom",
+        "Rank between phylum and order",
+        "Rank below species"
+      ],
+      "a": 2,
+      "e": "Class comes after phylum and before order.",
+      "d": "Hard",
+      "topic": "Taxonomic ranks",
+      "slo": "Apply understanding of class"
+    },
+    {
+      "id": "BIO9CH2-200",
+      "q": "Which of the following is scientifically accurate regarding class?",
+      "o": [
+        "Rank above kingdom",
+        "Rank between genus and species",
+        "Rank between phylum and order",
+        "Rank below species"
+      ],
+      "a": 2,
+      "e": "Class comes after phylum and before order.",
+      "d": "Medium",
+      "topic": "Taxonomic ranks",
+      "slo": "Distinguish class from related ideas"
+    },
+    {
+      "id": "BIO9CH2-201",
+      "q": "Which statement best describes order?",
+      "o": [
+        "Rank between genus and species",
+        "Rank below species",
+        "Rank above kingdom",
+        "Rank between class and family"
+      ],
+      "a": 3,
+      "e": "Order lies between class and family.",
+      "d": "Easy",
+      "topic": "Taxonomic ranks",
+      "slo": "Identify order"
+    },
+    {
+      "id": "BIO9CH2-202",
+      "q": "A learner is revising taxonomic ranks. Which description correctly matches the term \"Order\"?",
+      "o": [
+        "Rank above kingdom",
+        "Rank between class and family",
+        "Rank between genus and species",
+        "Rank below species"
+      ],
+      "a": 1,
+      "e": "Order lies between class and family.",
+      "d": "Medium",
+      "topic": "Taxonomic ranks",
+      "slo": "Explain order"
+    },
+    {
+      "id": "BIO9CH2-203",
+      "q": "Consider this situation: A classification table has class blank family. Which idea or description best explains it?",
+      "o": [
+        "Rank below species",
+        "Rank between genus and species",
+        "Rank above kingdom",
+        "Rank between class and family"
+      ],
+      "a": 3,
+      "e": "Order lies between class and family.",
+      "d": "Hard",
+      "topic": "Taxonomic ranks",
+      "slo": "Apply understanding of order"
+    },
+    {
+      "id": "BIO9CH2-204",
+      "q": "Which of the following is scientifically accurate regarding order?",
+      "o": [
+        "Rank between class and family",
+        "Rank between genus and species",
+        "Rank below species",
+        "Rank above kingdom"
+      ],
+      "a": 0,
+      "e": "Order lies between class and family.",
+      "d": "Medium",
+      "topic": "Taxonomic ranks",
+      "slo": "Distinguish order from related ideas"
+    },
+    {
+      "id": "BIO9CH2-205",
+      "q": "Which statement best describes family?",
+      "o": [
+        "Rank below species",
+        "Rank between class and phylum",
+        "Rank between order and genus",
+        "Rank above kingdom"
+      ],
+      "a": 2,
+      "e": "Family is above genus and below order.",
+      "d": "Easy",
+      "topic": "Taxonomic ranks",
+      "slo": "Identify family"
+    },
+    {
+      "id": "BIO9CH2-206",
+      "q": "A learner is revising taxonomic ranks. Which description correctly matches the term \"Family\"?",
+      "o": [
+        "Rank above kingdom",
+        "Rank between order and genus",
+        "Rank between class and phylum",
+        "Rank below species"
+      ],
+      "a": 1,
+      "e": "Family is above genus and below order.",
+      "d": "Medium",
+      "topic": "Taxonomic ranks",
+      "slo": "Explain family"
+    },
+    {
+      "id": "BIO9CH2-207",
+      "q": "Consider this situation: A taxonomist lists order blank genus. Which idea or description best explains it?",
+      "o": [
+        "Rank between order and genus",
+        "Rank below species",
+        "Rank between class and phylum",
+        "Rank above kingdom"
+      ],
+      "a": 0,
+      "e": "Family is above genus and below order.",
+      "d": "Hard",
+      "topic": "Taxonomic ranks",
+      "slo": "Apply understanding of family"
+    },
+    {
+      "id": "BIO9CH2-208",
+      "q": "Which of the following is scientifically accurate regarding family?",
+      "o": [
+        "Rank between class and phylum",
+        "Rank below species",
+        "Rank above kingdom",
+        "Rank between order and genus"
+      ],
+      "a": 3,
+      "e": "Family is above genus and below order.",
+      "d": "Medium",
+      "topic": "Taxonomic ranks",
+      "slo": "Distinguish family from related ideas"
+    },
+    {
+      "id": "BIO9CH2-209",
+      "q": "Which statement best describes genus?",
+      "o": [
+        "Rank below species",
+        "Rank between phylum and class",
+        "Rank between family and species",
+        "Rank above kingdom"
+      ],
+      "a": 2,
+      "e": "Genus groups closely related species.",
+      "d": "Easy",
+      "topic": "Taxonomic ranks",
+      "slo": "Identify genus"
+    },
+    {
+      "id": "BIO9CH2-210",
+      "q": "A learner is revising taxonomic ranks. Which description correctly matches the term \"Genus\"?",
+      "o": [
+        "Rank below species",
+        "Rank between family and species",
+        "Rank above kingdom",
+        "Rank between phylum and class"
+      ],
+      "a": 1,
+      "e": "Genus groups closely related species.",
+      "d": "Medium",
+      "topic": "Taxonomic ranks",
+      "slo": "Explain genus"
+    },
+    {
+      "id": "BIO9CH2-211",
+      "q": "Consider this situation: A chart shows family blank species. Which idea or description best explains it?",
+      "o": [
+        "Rank below species",
+        "Rank between family and species",
+        "Rank between phylum and class",
+        "Rank above kingdom"
+      ],
+      "a": 1,
+      "e": "Genus groups closely related species.",
+      "d": "Hard",
+      "topic": "Taxonomic ranks",
+      "slo": "Apply understanding of genus"
+    },
+    {
+      "id": "BIO9CH2-212",
+      "q": "Which of the following is scientifically accurate regarding genus?",
+      "o": [
+        "Rank between family and species",
+        "Rank between phylum and class",
+        "Rank above kingdom",
+        "Rank below species"
+      ],
+      "a": 0,
+      "e": "Genus groups closely related species.",
+      "d": "Medium",
+      "topic": "Taxonomic ranks",
+      "slo": "Distinguish genus from related ideas"
+    },
+    {
+      "id": "BIO9CH2-213",
+      "q": "Which statement best describes relatedness within genus?",
+      "o": [
+        "All organisms in a kingdom are one species",
+        "Species in different families are always identical",
+        "Species in one genus must be identical",
+        "Species in one genus are generally closely related"
+      ],
+      "a": 3,
+      "e": "A genus brings together closely related species.",
+      "d": "Easy",
+      "topic": "Taxonomic ranks",
+      "slo": "Identify relatedness within genus"
+    },
+    {
+      "id": "BIO9CH2-214",
+      "q": "A learner is revising taxonomic ranks. Which description correctly matches the term \"Relatedness within genus\"?",
+      "o": [
+        "All organisms in a kingdom are one species",
+        "Species in different families are always identical",
+        "Species in one genus are generally closely related",
+        "Species in one genus must be identical"
+      ],
+      "a": 2,
+      "e": "A genus brings together closely related species.",
+      "d": "Medium",
+      "topic": "Taxonomic ranks",
+      "slo": "Explain relatedness within genus"
+    },
+    {
+      "id": "BIO9CH2-215",
+      "q": "Consider this situation: Two organisms share the same generic name. Which idea or description best explains it?",
+      "o": [
+        "Species in one genus must be identical",
+        "Species in different families are always identical",
+        "Species in one genus are generally closely related",
+        "All organisms in a kingdom are one species"
+      ],
+      "a": 2,
+      "e": "A genus brings together closely related species.",
+      "d": "Hard",
+      "topic": "Taxonomic ranks",
+      "slo": "Apply understanding of relatedness within genus"
+    },
+    {
+      "id": "BIO9CH2-216",
+      "q": "Which of the following is scientifically accurate regarding relatedness within genus?",
+      "o": [
+        "Species in different families are always identical",
+        "Species in one genus are generally closely related",
+        "All organisms in a kingdom are one species",
+        "Species in one genus must be identical"
+      ],
+      "a": 1,
+      "e": "A genus brings together closely related species.",
+      "d": "Medium",
+      "topic": "Taxonomic ranks",
+      "slo": "Distinguish relatedness within genus from related ideas"
+    },
+    {
+      "id": "BIO9CH2-217",
+      "q": "Which statement best describes narrowing groups?",
+      "o": [
+        "Similarity always decreases toward species",
+        "Every rank has exactly one organism",
+        "Groups always grow larger toward species",
+        "Groups become smaller and more similar toward species"
+      ],
+      "a": 3,
+      "e": "Lower ranks contain fewer and more closely related organisms.",
+      "d": "Easy",
+      "topic": "Taxonomic ranks",
+      "slo": "Identify narrowing groups"
+    },
+    {
+      "id": "BIO9CH2-218",
+      "q": "A learner is revising taxonomic ranks. Which description correctly matches the term \"Narrowing groups\"?",
+      "o": [
+        "Similarity always decreases toward species",
+        "Groups become smaller and more similar toward species",
+        "Groups always grow larger toward species",
+        "Every rank has exactly one organism"
+      ],
+      "a": 1,
+      "e": "Lower ranks contain fewer and more closely related organisms.",
+      "d": "Medium",
+      "topic": "Taxonomic ranks",
+      "slo": "Explain narrowing groups"
+    },
+    {
+      "id": "BIO9CH2-219",
+      "q": "Consider this situation: A student moves from kingdom down to species. Which idea or description best explains it?",
+      "o": [
+        "Groups become smaller and more similar toward species",
+        "Groups always grow larger toward species",
+        "Similarity always decreases toward species",
+        "Every rank has exactly one organism"
+      ],
+      "a": 0,
+      "e": "Lower ranks contain fewer and more closely related organisms.",
+      "d": "Hard",
+      "topic": "Taxonomic ranks",
+      "slo": "Apply understanding of narrowing groups"
+    },
+    {
+      "id": "BIO9CH2-220",
+      "q": "Which of the following is scientifically accurate regarding narrowing groups?",
+      "o": [
+        "Every rank has exactly one organism",
+        "Similarity always decreases toward species",
+        "Groups always grow larger toward species",
+        "Groups become smaller and more similar toward species"
+      ],
+      "a": 3,
+      "e": "Lower ranks contain fewer and more closely related organisms.",
+      "d": "Medium",
+      "topic": "Taxonomic ranks",
+      "slo": "Distinguish narrowing groups from related ideas"
+    },
+    {
+      "id": "BIO9CH2-221",
+      "q": "Which statement best describes shared family?",
+      "o": [
+        "Organisms in the same genus must be different kingdoms",
+        "Organisms in the same genus are always one individual",
+        "Organisms in the same genus cannot share an order",
+        "Organisms in the same genus also share a family"
+      ],
+      "a": 3,
+      "e": "A genus belongs within a family.",
+      "d": "Easy",
+      "topic": "Taxonomic ranks",
+      "slo": "Identify shared family"
+    },
+    {
+      "id": "BIO9CH2-222",
+      "q": "A learner is revising taxonomic ranks. Which description correctly matches the term \"Shared family\"?",
+      "o": [
+        "Organisms in the same genus are always one individual",
+        "Organisms in the same genus cannot share an order",
+        "Organisms in the same genus also share a family",
+        "Organisms in the same genus must be different kingdoms"
+      ],
+      "a": 2,
+      "e": "A genus belongs within a family.",
+      "d": "Medium",
+      "topic": "Taxonomic ranks",
+      "slo": "Explain shared family"
+    },
+    {
+      "id": "BIO9CH2-223",
+      "q": "Consider this situation: Two species belong to the same genus. Which idea or description best explains it?",
+      "o": [
+        "Organisms in the same genus cannot share an order",
+        "Organisms in the same genus must be different kingdoms",
+        "Organisms in the same genus also share a family",
+        "Organisms in the same genus are always one individual"
+      ],
+      "a": 2,
+      "e": "A genus belongs within a family.",
+      "d": "Hard",
+      "topic": "Taxonomic ranks",
+      "slo": "Apply understanding of shared family"
+    },
+    {
+      "id": "BIO9CH2-224",
+      "q": "Which of the following is scientifically accurate regarding shared family?",
+      "o": [
+        "Organisms in the same genus must be different kingdoms",
+        "Organisms in the same genus are always one individual",
+        "Organisms in the same genus also share a family",
+        "Organisms in the same genus cannot share an order"
+      ],
+      "a": 2,
+      "e": "A genus belongs within a family.",
+      "d": "Medium",
+      "topic": "Taxonomic ranks",
+      "slo": "Distinguish shared family from related ideas"
+    },
+    {
+      "id": "BIO9CH2-225",
+      "q": "Which statement best describes biological species concept?",
+      "o": [
+        "All organisms living in the same place",
+        "All organisms with equal body mass",
+        "Organisms that can interbreed and produce fertile offspring under natural conditions",
+        "All organisms with the same color"
+      ],
+      "a": 2,
+      "e": "The biological species concept emphasizes natural interbreeding and fertile offspring.",
+      "d": "Easy",
+      "topic": "Species",
+      "slo": "Identify biological species concept"
+    },
+    {
+      "id": "BIO9CH2-226",
+      "q": "A learner is revising species. Which description correctly matches the term \"Biological species concept\"?",
+      "o": [
+        "All organisms with equal body mass",
+        "All organisms living in the same place",
+        "Organisms that can interbreed and produce fertile offspring under natural conditions",
+        "All organisms with the same color"
+      ],
+      "a": 2,
+      "e": "The biological species concept emphasizes natural interbreeding and fertile offspring.",
+      "d": "Medium",
+      "topic": "Species",
+      "slo": "Explain biological species concept"
+    },
+    {
+      "id": "BIO9CH2-227",
+      "q": "Consider this situation: Two populations mate naturally and have fertile young. Which idea or description best explains it?",
+      "o": [
+        "Organisms that can interbreed and produce fertile offspring under natural conditions",
+        "All organisms with equal body mass",
+        "All organisms living in the same place",
+        "All organisms with the same color"
+      ],
+      "a": 0,
+      "e": "The biological species concept emphasizes natural interbreeding and fertile offspring.",
+      "d": "Hard",
+      "topic": "Species",
+      "slo": "Apply understanding of biological species concept"
+    },
+    {
+      "id": "BIO9CH2-228",
+      "q": "Which of the following is scientifically accurate regarding biological species concept?",
+      "o": [
+        "Organisms that can interbreed and produce fertile offspring under natural conditions",
+        "All organisms living in the same place",
+        "All organisms with the same color",
+        "All organisms with equal body mass"
+      ],
+      "a": 0,
+      "e": "The biological species concept emphasizes natural interbreeding and fertile offspring.",
+      "d": "Medium",
+      "topic": "Species",
+      "slo": "Distinguish biological species concept from related ideas"
+    },
+    {
+      "id": "BIO9CH2-229",
+      "q": "Which statement best describes fertile offspring?",
+      "o": [
+        "Offspring capable of reproduction",
+        "Offspring unable to reproduce",
+        "Offspring that never grows",
+        "Offspring lacking chromosomes"
+      ],
+      "a": 0,
+      "e": "Fertility means the ability to produce offspring.",
+      "d": "Easy",
+      "topic": "Species",
+      "slo": "Identify fertile offspring"
+    },
+    {
+      "id": "BIO9CH2-230",
+      "q": "A learner is revising species. Which description correctly matches the term \"Fertile offspring\"?",
+      "o": [
+        "Offspring capable of reproduction",
+        "Offspring lacking chromosomes",
+        "Offspring that never grows",
+        "Offspring unable to reproduce"
+      ],
+      "a": 0,
+      "e": "Fertility means the ability to produce offspring.",
+      "d": "Medium",
+      "topic": "Species",
+      "slo": "Explain fertile offspring"
+    },
+    {
+      "id": "BIO9CH2-231",
+      "q": "Consider this situation: A hybrid is evaluated for its ability to reproduce. Which idea or description best explains it?",
+      "o": [
+        "Offspring that never grows",
+        "Offspring unable to reproduce",
+        "Offspring capable of reproduction",
+        "Offspring lacking chromosomes"
+      ],
+      "a": 2,
+      "e": "Fertility means the ability to produce offspring.",
+      "d": "Hard",
+      "topic": "Species",
+      "slo": "Apply understanding of fertile offspring"
+    },
+    {
+      "id": "BIO9CH2-232",
+      "q": "Which of the following is scientifically accurate regarding fertile offspring?",
+      "o": [
+        "Offspring unable to reproduce",
+        "Offspring capable of reproduction",
+        "Offspring lacking chromosomes",
+        "Offspring that never grows"
+      ],
+      "a": 1,
+      "e": "Fertility means the ability to produce offspring.",
+      "d": "Medium",
+      "topic": "Species",
+      "slo": "Distinguish fertile offspring from related ideas"
+    },
+    {
+      "id": "BIO9CH2-233",
+      "q": "Which statement best describes reproductive isolation?",
+      "o": [
+        "Same food in two habitats",
+        "Identical DNA in every organism",
+        "Equal population sizes",
+        "Barriers preventing successful interbreeding between populations"
+      ],
+      "a": 3,
+      "e": "Reproductive barriers help keep species distinct.",
+      "d": "Easy",
+      "topic": "Species",
+      "slo": "Identify reproductive isolation"
+    },
+    {
+      "id": "BIO9CH2-234",
+      "q": "A learner is revising species. Which description correctly matches the term \"Reproductive isolation\"?",
+      "o": [
+        "Identical DNA in every organism",
+        "Equal population sizes",
+        "Same food in two habitats",
+        "Barriers preventing successful interbreeding between populations"
+      ],
+      "a": 3,
+      "e": "Reproductive barriers help keep species distinct.",
+      "d": "Medium",
+      "topic": "Species",
+      "slo": "Explain reproductive isolation"
+    },
+    {
+      "id": "BIO9CH2-235",
+      "q": "Consider this situation: Two populations cannot produce fertile offspring together. Which idea or description best explains it?",
+      "o": [
+        "Equal population sizes",
+        "Barriers preventing successful interbreeding between populations",
+        "Identical DNA in every organism",
+        "Same food in two habitats"
+      ],
+      "a": 1,
+      "e": "Reproductive barriers help keep species distinct.",
+      "d": "Hard",
+      "topic": "Species",
+      "slo": "Apply understanding of reproductive isolation"
+    },
+    {
+      "id": "BIO9CH2-236",
+      "q": "Which of the following is scientifically accurate regarding reproductive isolation?",
+      "o": [
+        "Same food in two habitats",
+        "Identical DNA in every organism",
+        "Barriers preventing successful interbreeding between populations",
+        "Equal population sizes"
+      ],
+      "a": 2,
+      "e": "Reproductive barriers help keep species distinct.",
+      "d": "Medium",
+      "topic": "Species",
+      "slo": "Distinguish reproductive isolation from related ideas"
+    },
+    {
+      "id": "BIO9CH2-237",
+      "q": "Which statement best describes scientific name advantage?",
+      "o": [
+        "Describes every feature of an organism",
+        "Gives a widely understood standard name",
+        "Guarantees the organism has only one local name",
+        "Replaces all classification ranks"
+      ],
+      "a": 1,
+      "e": "Scientific names reduce confusion across languages.",
+      "d": "Easy",
+      "topic": "Species",
+      "slo": "Identify scientific name advantage"
+    },
+    {
+      "id": "BIO9CH2-238",
+      "q": "A learner is revising species. Which description correctly matches the term \"Scientific name advantage\"?",
+      "o": [
+        "Guarantees the organism has only one local name",
+        "Describes every feature of an organism",
+        "Gives a widely understood standard name",
+        "Replaces all classification ranks"
+      ],
+      "a": 2,
+      "e": "Scientific names reduce confusion across languages.",
+      "d": "Medium",
+      "topic": "Species",
+      "slo": "Explain scientific name advantage"
+    },
+    {
+      "id": "BIO9CH2-239",
+      "q": "Consider this situation: A species has several different regional names. Which idea or description best explains it?",
+      "o": [
+        "Replaces all classification ranks",
+        "Gives a widely understood standard name",
+        "Describes every feature of an organism",
+        "Guarantees the organism has only one local name"
+      ],
+      "a": 1,
+      "e": "Scientific names reduce confusion across languages.",
+      "d": "Hard",
+      "topic": "Species",
+      "slo": "Apply understanding of scientific name advantage"
+    },
+    {
+      "id": "BIO9CH2-240",
+      "q": "Which of the following is scientifically accurate regarding scientific name advantage?",
+      "o": [
+        "Guarantees the organism has only one local name",
+        "Replaces all classification ranks",
+        "Describes every feature of an organism",
+        "Gives a widely understood standard name"
+      ],
+      "a": 3,
+      "e": "Scientific names reduce confusion across languages.",
+      "d": "Medium",
+      "topic": "Species",
+      "slo": "Distinguish scientific name advantage from related ideas"
+    },
+    {
+      "id": "BIO9CH2-241",
+      "q": "Which statement best describes meaning of binomial nomenclature?",
+      "o": [
+        "Two-part scientific naming of a species",
+        "Naming with four separate words",
+        "Naming only by color",
+        "Naming only by habitat"
+      ],
+      "a": 0,
+      "e": "Binomial names contain genus and specific epithet.",
+      "d": "Easy",
+      "topic": "Binomial nomenclature",
+      "slo": "Identify meaning of binomial nomenclature"
+    },
+    {
+      "id": "BIO9CH2-242",
+      "q": "A learner is revising binomial nomenclature. Which description correctly matches the term \"Meaning of binomial nomenclature\"?",
+      "o": [
+        "Naming with four separate words",
+        "Naming only by habitat",
+        "Two-part scientific naming of a species",
+        "Naming only by color"
+      ],
+      "a": 2,
+      "e": "Binomial names contain genus and specific epithet.",
+      "d": "Medium",
+      "topic": "Binomial nomenclature",
+      "slo": "Explain meaning of binomial nomenclature"
+    },
+    {
+      "id": "BIO9CH2-243",
+      "q": "Consider this situation: A species name consists of two Latinized words. Which idea or description best explains it?",
+      "o": [
+        "Naming with four separate words",
+        "Naming only by color",
+        "Naming only by habitat",
+        "Two-part scientific naming of a species"
+      ],
+      "a": 3,
+      "e": "Binomial names contain genus and specific epithet.",
+      "d": "Hard",
+      "topic": "Binomial nomenclature",
+      "slo": "Apply understanding of meaning of binomial nomenclature"
+    },
+    {
+      "id": "BIO9CH2-244",
+      "q": "Which of the following is scientifically accurate regarding meaning of binomial nomenclature?",
+      "o": [
+        "Naming only by color",
+        "Two-part scientific naming of a species",
+        "Naming with four separate words",
+        "Naming only by habitat"
+      ],
+      "a": 1,
+      "e": "Binomial names contain genus and specific epithet.",
+      "d": "Medium",
+      "topic": "Binomial nomenclature",
+      "slo": "Distinguish meaning of binomial nomenclature from related ideas"
+    },
+    {
+      "id": "BIO9CH2-245",
+      "q": "Which statement best describes first word of scientific name?",
+      "o": [
+        "Kingdom name",
+        "Family name",
+        "Order name",
+        "Genus name"
+      ],
+      "a": 3,
+      "e": "The first word of a binomial is the genus.",
+      "d": "Easy",
+      "topic": "Binomial nomenclature",
+      "slo": "Identify first word of scientific name"
+    },
+    {
+      "id": "BIO9CH2-246",
+      "q": "A learner is revising binomial nomenclature. Which description correctly matches the term \"First word of scientific name\"?",
+      "o": [
+        "Genus name",
+        "Order name",
+        "Family name",
+        "Kingdom name"
+      ],
+      "a": 0,
+      "e": "The first word of a binomial is the genus.",
+      "d": "Medium",
+      "topic": "Binomial nomenclature",
+      "slo": "Explain first word of scientific name"
+    },
+    {
+      "id": "BIO9CH2-247",
+      "q": "Consider this situation: A student examines the first word of a species name. Which idea or description best explains it?",
+      "o": [
+        "Family name",
+        "Order name",
+        "Genus name",
+        "Kingdom name"
+      ],
+      "a": 2,
+      "e": "The first word of a binomial is the genus.",
+      "d": "Hard",
+      "topic": "Binomial nomenclature",
+      "slo": "Apply understanding of first word of scientific name"
+    },
+    {
+      "id": "BIO9CH2-248",
+      "q": "Which of the following is scientifically accurate regarding first word of scientific name?",
+      "o": [
+        "Order name",
+        "Kingdom name",
+        "Genus name",
+        "Family name"
+      ],
+      "a": 2,
+      "e": "The first word of a binomial is the genus.",
+      "d": "Medium",
+      "topic": "Binomial nomenclature",
+      "slo": "Distinguish first word of scientific name from related ideas"
+    },
+    {
+      "id": "BIO9CH2-249",
+      "q": "Which statement best describes second word of scientific name?",
+      "o": [
+        "Kingdom",
+        "Family",
+        "Specific epithet",
+        "Phylum"
+      ],
+      "a": 2,
+      "e": "The second word is the specific epithet.",
+      "d": "Easy",
+      "topic": "Binomial nomenclature",
+      "slo": "Identify second word of scientific name"
+    },
+    {
+      "id": "BIO9CH2-250",
+      "q": "A learner is revising binomial nomenclature. Which description correctly matches the term \"Second word of scientific name\"?",
+      "o": [
+        "Family",
+        "Kingdom",
+        "Phylum",
+        "Specific epithet"
+      ],
+      "a": 3,
+      "e": "The second word is the specific epithet.",
+      "d": "Medium",
+      "topic": "Binomial nomenclature",
+      "slo": "Explain second word of scientific name"
+    },
+    {
+      "id": "BIO9CH2-251",
+      "q": "Consider this situation: A student examines the second word of a species name. Which idea or description best explains it?",
+      "o": [
+        "Kingdom",
+        "Specific epithet",
+        "Family",
+        "Phylum"
+      ],
+      "a": 1,
+      "e": "The second word is the specific epithet.",
+      "d": "Hard",
+      "topic": "Binomial nomenclature",
+      "slo": "Apply understanding of second word of scientific name"
+    },
+    {
+      "id": "BIO9CH2-252",
+      "q": "Which of the following is scientifically accurate regarding second word of scientific name?",
+      "o": [
+        "Phylum",
+        "Specific epithet",
+        "Kingdom",
+        "Family"
+      ],
+      "a": 1,
+      "e": "The second word is the specific epithet.",
+      "d": "Medium",
+      "topic": "Binomial nomenclature",
+      "slo": "Distinguish second word of scientific name from related ideas"
+    },
+    {
+      "id": "BIO9CH2-253",
+      "q": "Which statement best describes capitalization rule?",
+      "o": [
+        "Both words begin with capitals",
+        "Genus capitalized and specific epithet lowercase",
+        "Genus lowercase and epithet capitalized",
+        "Both words fully capitalized"
+      ],
+      "a": 1,
+      "e": "Scientific names capitalize the genus but not the epithet.",
+      "d": "Easy",
+      "topic": "Binomial nomenclature",
+      "slo": "Identify capitalization rule"
+    },
+    {
+      "id": "BIO9CH2-254",
+      "q": "A learner is revising binomial nomenclature. Which description correctly matches the term \"Capitalization rule\"?",
+      "o": [
+        "Both words fully capitalized",
+        "Genus lowercase and epithet capitalized",
+        "Genus capitalized and specific epithet lowercase",
+        "Both words begin with capitals"
+      ],
+      "a": 2,
+      "e": "Scientific names capitalize the genus but not the epithet.",
+      "d": "Medium",
+      "topic": "Binomial nomenclature",
+      "slo": "Explain capitalization rule"
+    },
+    {
+      "id": "BIO9CH2-255",
+      "q": "Consider this situation: A learner checks whether a scientific name is correctly capitalized. Which idea or description best explains it?",
+      "o": [
+        "Genus capitalized and specific epithet lowercase",
+        "Genus lowercase and epithet capitalized",
+        "Both words begin with capitals",
+        "Both words fully capitalized"
+      ],
+      "a": 0,
+      "e": "Scientific names capitalize the genus but not the epithet.",
+      "d": "Hard",
+      "topic": "Binomial nomenclature",
+      "slo": "Apply understanding of capitalization rule"
+    },
+    {
+      "id": "BIO9CH2-256",
+      "q": "Which of the following is scientifically accurate regarding capitalization rule?",
+      "o": [
+        "Both words begin with capitals",
+        "Genus capitalized and specific epithet lowercase",
+        "Both words fully capitalized",
+        "Genus lowercase and epithet capitalized"
+      ],
+      "a": 1,
+      "e": "Scientific names capitalize the genus but not the epithet.",
+      "d": "Medium",
+      "topic": "Binomial nomenclature",
+      "slo": "Distinguish capitalization rule from related ideas"
+    },
+    {
+      "id": "BIO9CH2-257",
+      "q": "Which statement best describes printed formatting rule?",
+      "o": [
+        "Both words in quotation marks",
+        "Both words italicized",
+        "Both words written as numbers",
+        "Only the second word bolded"
+      ],
+      "a": 1,
+      "e": "Scientific names are italicized in print.",
+      "d": "Easy",
+      "topic": "Binomial nomenclature",
+      "slo": "Identify printed formatting rule"
+    },
+    {
+      "id": "BIO9CH2-258",
+      "q": "A learner is revising binomial nomenclature. Which description correctly matches the term \"Printed formatting rule\"?",
+      "o": [
+        "Both words in quotation marks",
+        "Both words written as numbers",
+        "Only the second word bolded",
+        "Both words italicized"
+      ],
+      "a": 3,
+      "e": "Scientific names are italicized in print.",
+      "d": "Medium",
+      "topic": "Binomial nomenclature",
+      "slo": "Explain printed formatting rule"
+    },
+    {
+      "id": "BIO9CH2-259",
+      "q": "Consider this situation: A student formats a species name in a report. Which idea or description best explains it?",
+      "o": [
+        "Both words written as numbers",
+        "Both words in quotation marks",
+        "Both words italicized",
+        "Only the second word bolded"
+      ],
+      "a": 2,
+      "e": "Scientific names are italicized in print.",
+      "d": "Hard",
+      "topic": "Binomial nomenclature",
+      "slo": "Apply understanding of printed formatting rule"
+    },
+    {
+      "id": "BIO9CH2-260",
+      "q": "Which of the following is scientifically accurate regarding printed formatting rule?",
+      "o": [
+        "Both words written as numbers",
+        "Both words in quotation marks",
+        "Only the second word bolded",
+        "Both words italicized"
+      ],
+      "a": 3,
+      "e": "Scientific names are italicized in print.",
+      "d": "Medium",
+      "topic": "Binomial nomenclature",
+      "slo": "Distinguish printed formatting rule from related ideas"
+    },
+    {
+      "id": "BIO9CH2-261",
+      "q": "Which statement best describes zoo conservation role?",
+      "o": [
+        "Can support captive breeding of threatened animals",
+        "Guarantees every species survives",
+        "Always replaces all natural habitats",
+        "Makes protected areas unnecessary"
+      ],
+      "a": 0,
+      "e": "Captive breeding may aid conservation of some species.",
+      "d": "Easy",
+      "topic": "Conservation",
+      "slo": "Identify zoo conservation role"
+    },
+    {
+      "id": "BIO9CH2-262",
+      "q": "A learner is revising conservation. Which description correctly matches the term \"Zoo conservation role\"?",
+      "o": [
+        "Guarantees every species survives",
+        "Makes protected areas unnecessary",
+        "Always replaces all natural habitats",
+        "Can support captive breeding of threatened animals"
+      ],
+      "a": 3,
+      "e": "Captive breeding may aid conservation of some species.",
+      "d": "Medium",
+      "topic": "Conservation",
+      "slo": "Explain zoo conservation role"
+    },
+    {
+      "id": "BIO9CH2-263",
+      "q": "Consider this situation: A zoo manages a breeding program for a rare animal. Which idea or description best explains it?",
+      "o": [
+        "Always replaces all natural habitats",
+        "Makes protected areas unnecessary",
+        "Can support captive breeding of threatened animals",
+        "Guarantees every species survives"
+      ],
+      "a": 2,
+      "e": "Captive breeding may aid conservation of some species.",
+      "d": "Hard",
+      "topic": "Conservation",
+      "slo": "Apply understanding of zoo conservation role"
+    },
+    {
+      "id": "BIO9CH2-264",
+      "q": "Which of the following is scientifically accurate regarding zoo conservation role?",
+      "o": [
+        "Can support captive breeding of threatened animals",
+        "Makes protected areas unnecessary",
+        "Guarantees every species survives",
+        "Always replaces all natural habitats"
+      ],
+      "a": 0,
+      "e": "Captive breeding may aid conservation of some species.",
+      "d": "Medium",
+      "topic": "Conservation",
+      "slo": "Distinguish zoo conservation role from related ideas"
+    },
+    {
+      "id": "BIO9CH2-265",
+      "q": "Which statement best describes sustainable use?",
+      "o": [
+        "Harvesting without considering reproduction",
+        "Using resources without exhausting future availability",
+        "Removing all species from an ecosystem",
+        "Using all resources immediately"
+      ],
+      "a": 1,
+      "e": "Sustainable use balances present needs and future survival.",
+      "d": "Easy",
+      "topic": "Conservation",
+      "slo": "Identify sustainable use"
+    },
+    {
+      "id": "BIO9CH2-266",
+      "q": "A learner is revising conservation. Which description correctly matches the term \"Sustainable use\"?",
+      "o": [
+        "Using resources without exhausting future availability",
+        "Harvesting without considering reproduction",
+        "Using all resources immediately",
+        "Removing all species from an ecosystem"
+      ],
+      "a": 0,
+      "e": "Sustainable use balances present needs and future survival.",
+      "d": "Medium",
+      "topic": "Conservation",
+      "slo": "Explain sustainable use"
+    },
+    {
+      "id": "BIO9CH2-267",
+      "q": "Consider this situation: Fish catches are limited to allow populations to recover. Which idea or description best explains it?",
+      "o": [
+        "Removing all species from an ecosystem",
+        "Using resources without exhausting future availability",
+        "Using all resources immediately",
+        "Harvesting without considering reproduction"
+      ],
+      "a": 1,
+      "e": "Sustainable use balances present needs and future survival.",
+      "d": "Hard",
+      "topic": "Conservation",
+      "slo": "Apply understanding of sustainable use"
+    },
+    {
+      "id": "BIO9CH2-268",
+      "q": "Which of the following is scientifically accurate regarding sustainable use?",
+      "o": [
+        "Using all resources immediately",
+        "Harvesting without considering reproduction",
+        "Using resources without exhausting future availability",
+        "Removing all species from an ecosystem"
+      ],
+      "a": 2,
+      "e": "Sustainable use balances present needs and future survival.",
+      "d": "Medium",
+      "topic": "Conservation",
+      "slo": "Distinguish sustainable use from related ideas"
+    },
+    {
+      "id": "BIO9CH2-269",
+      "q": "Which statement best describes habitat fragmentation?",
+      "o": [
+        "Joining protected forests",
+        "Breaking continuous habitat into isolated patches",
+        "Increasing continuous habitat",
+        "Restoring wildlife corridors"
+      ],
+      "a": 1,
+      "e": "Fragmentation isolates populations and reduces habitat connectivity.",
+      "d": "Easy",
+      "topic": "Conservation",
+      "slo": "Identify habitat fragmentation"
+    },
+    {
+      "id": "BIO9CH2-270",
+      "q": "A learner is revising conservation. Which description correctly matches the term \"Habitat fragmentation\"?",
+      "o": [
+        "Increasing continuous habitat",
+        "Restoring wildlife corridors",
+        "Breaking continuous habitat into isolated patches",
+        "Joining protected forests"
+      ],
+      "a": 2,
+      "e": "Fragmentation isolates populations and reduces habitat connectivity.",
+      "d": "Medium",
+      "topic": "Conservation",
+      "slo": "Explain habitat fragmentation"
+    },
+    {
+      "id": "BIO9CH2-271",
+      "q": "Consider this situation: A road divides one forest into separate patches. Which idea or description best explains it?",
+      "o": [
+        "Breaking continuous habitat into isolated patches",
+        "Restoring wildlife corridors",
+        "Joining protected forests",
+        "Increasing continuous habitat"
+      ],
+      "a": 0,
+      "e": "Fragmentation isolates populations and reduces habitat connectivity.",
+      "d": "Hard",
+      "topic": "Conservation",
+      "slo": "Apply understanding of habitat fragmentation"
+    },
+    {
+      "id": "BIO9CH2-272",
+      "q": "Which of the following is scientifically accurate regarding habitat fragmentation?",
+      "o": [
+        "Increasing continuous habitat",
+        "Breaking continuous habitat into isolated patches",
+        "Joining protected forests",
+        "Restoring wildlife corridors"
+      ],
+      "a": 1,
+      "e": "Fragmentation isolates populations and reduces habitat connectivity.",
+      "d": "Medium",
+      "topic": "Conservation",
+      "slo": "Distinguish habitat fragmentation from related ideas"
+    },
+    {
+      "id": "BIO9CH2-273",
+      "q": "Which statement best describes wildlife corridor?",
+      "o": [
+        "A wall blocking all animal movement",
+        "Habitat connection allowing movement between patches",
+        "A chemical pesticide",
+        "A type of scientific name"
+      ],
+      "a": 1,
+      "e": "Corridors can reconnect fragmented populations.",
+      "d": "Easy",
+      "topic": "Conservation",
+      "slo": "Identify wildlife corridor"
+    },
+    {
+      "id": "BIO9CH2-274",
+      "q": "A learner is revising conservation. Which description correctly matches the term \"Wildlife corridor\"?",
+      "o": [
+        "Habitat connection allowing movement between patches",
+        "A type of scientific name",
+        "A chemical pesticide",
+        "A wall blocking all animal movement"
+      ],
+      "a": 0,
+      "e": "Corridors can reconnect fragmented populations.",
+      "d": "Medium",
+      "topic": "Conservation",
+      "slo": "Explain wildlife corridor"
+    },
+    {
+      "id": "BIO9CH2-275",
+      "q": "Consider this situation: A strip of vegetation links two forest reserves. Which idea or description best explains it?",
+      "o": [
+        "A type of scientific name",
+        "A wall blocking all animal movement",
+        "Habitat connection allowing movement between patches",
+        "A chemical pesticide"
+      ],
+      "a": 2,
+      "e": "Corridors can reconnect fragmented populations.",
+      "d": "Hard",
+      "topic": "Conservation",
+      "slo": "Apply understanding of wildlife corridor"
+    },
+    {
+      "id": "BIO9CH2-276",
+      "q": "Which of the following is scientifically accurate regarding wildlife corridor?",
+      "o": [
+        "Habitat connection allowing movement between patches",
+        "A wall blocking all animal movement",
+        "A type of scientific name",
+        "A chemical pesticide"
+      ],
+      "a": 0,
+      "e": "Corridors can reconnect fragmented populations.",
+      "d": "Medium",
+      "topic": "Conservation",
+      "slo": "Distinguish wildlife corridor from related ideas"
+    },
+    {
+      "id": "BIO9CH2-277",
+      "q": "Which statement best describes invasive species?",
+      "o": [
+        "Any rare native species",
+        "Non-native species that spreads and harms native biodiversity",
+        "All organisms in a national park",
+        "Every harmless garden plant"
+      ],
+      "a": 1,
+      "e": "Invasive species can outcompete or harm native species.",
+      "d": "Easy",
+      "topic": "Conservation",
+      "slo": "Identify invasive species"
+    },
+    {
+      "id": "BIO9CH2-278",
+      "q": "A learner is revising conservation. Which description correctly matches the term \"Invasive species\"?",
+      "o": [
+        "Non-native species that spreads and harms native biodiversity",
+        "Every harmless garden plant",
+        "All organisms in a national park",
+        "Any rare native species"
+      ],
+      "a": 0,
+      "e": "Invasive species can outcompete or harm native species.",
+      "d": "Medium",
+      "topic": "Conservation",
+      "slo": "Explain invasive species"
+    },
+    {
+      "id": "BIO9CH2-279",
+      "q": "Consider this situation: An introduced organism displaces native plants. Which idea or description best explains it?",
+      "o": [
+        "Any rare native species",
+        "All organisms in a national park",
+        "Non-native species that spreads and harms native biodiversity",
+        "Every harmless garden plant"
+      ],
+      "a": 2,
+      "e": "Invasive species can outcompete or harm native species.",
+      "d": "Hard",
+      "topic": "Conservation",
+      "slo": "Apply understanding of invasive species"
+    },
+    {
+      "id": "BIO9CH2-280",
+      "q": "Which of the following is scientifically accurate regarding invasive species?",
+      "o": [
+        "All organisms in a national park",
+        "Every harmless garden plant",
+        "Any rare native species",
+        "Non-native species that spreads and harms native biodiversity"
+      ],
+      "a": 3,
+      "e": "Invasive species can outcompete or harm native species.",
+      "d": "Medium",
+      "topic": "Conservation",
+      "slo": "Distinguish invasive species from related ideas"
+    },
+    {
+      "id": "BIO9CH2-281",
+      "q": "Which statement best describes extinction?",
+      "o": [
+        "Permanent disappearance of a species",
+        "Seasonal migration of a species",
+        "Growth of a population",
+        "Temporary sleep of an organism"
+      ],
+      "a": 0,
+      "e": "Extinction means no living members of the species remain.",
+      "d": "Easy",
+      "topic": "Conservation",
+      "slo": "Identify extinction"
+    },
+    {
+      "id": "BIO9CH2-282",
+      "q": "A learner is revising conservation. Which description correctly matches the term \"Extinction\"?",
+      "o": [
+        "Permanent disappearance of a species",
+        "Growth of a population",
+        "Seasonal migration of a species",
+        "Temporary sleep of an organism"
+      ],
+      "a": 0,
+      "e": "Extinction means no living members of the species remain.",
+      "d": "Medium",
+      "topic": "Conservation",
+      "slo": "Explain extinction"
+    },
+    {
+      "id": "BIO9CH2-283",
+      "q": "Consider this situation: The last member of a species dies. Which idea or description best explains it?",
+      "o": [
+        "Permanent disappearance of a species",
+        "Temporary sleep of an organism",
+        "Growth of a population",
+        "Seasonal migration of a species"
+      ],
+      "a": 0,
+      "e": "Extinction means no living members of the species remain.",
+      "d": "Hard",
+      "topic": "Conservation",
+      "slo": "Apply understanding of extinction"
+    },
+    {
+      "id": "BIO9CH2-284",
+      "q": "Which of the following is scientifically accurate regarding extinction?",
+      "o": [
+        "Growth of a population",
+        "Seasonal migration of a species",
+        "Permanent disappearance of a species",
+        "Temporary sleep of an organism"
+      ],
+      "a": 2,
+      "e": "Extinction means no living members of the species remain.",
+      "d": "Medium",
+      "topic": "Conservation",
+      "slo": "Distinguish extinction from related ideas"
+    },
+    {
+      "id": "BIO9CH2-285",
+      "q": "Which statement best describes red list?",
+      "o": [
+        "Assessment of species extinction risk",
+        "A list of all chemical elements",
+        "A list of only plant cell parts",
+        "A list of scientific instruments"
+      ],
+      "a": 0,
+      "e": "The IUCN Red List assesses conservation status and extinction risk.",
+      "d": "Easy",
+      "topic": "Conservation",
+      "slo": "Identify red list"
+    },
+    {
+      "id": "BIO9CH2-286",
+      "q": "A learner is revising conservation. Which description correctly matches the term \"Red List\"?",
+      "o": [
+        "A list of scientific instruments",
+        "A list of only plant cell parts",
+        "Assessment of species extinction risk",
+        "A list of all chemical elements"
+      ],
+      "a": 2,
+      "e": "The IUCN Red List assesses conservation status and extinction risk.",
+      "d": "Medium",
+      "topic": "Conservation",
+      "slo": "Explain red list"
+    },
+    {
+      "id": "BIO9CH2-287",
+      "q": "Consider this situation: A conservationist checks a species threat category. Which idea or description best explains it?",
+      "o": [
+        "Assessment of species extinction risk",
+        "A list of all chemical elements",
+        "A list of scientific instruments",
+        "A list of only plant cell parts"
+      ],
+      "a": 0,
+      "e": "The IUCN Red List assesses conservation status and extinction risk.",
+      "d": "Hard",
+      "topic": "Conservation",
+      "slo": "Apply understanding of red list"
+    },
+    {
+      "id": "BIO9CH2-288",
+      "q": "Which of the following is scientifically accurate regarding red list?",
+      "o": [
+        "A list of all chemical elements",
+        "Assessment of species extinction risk",
+        "A list of only plant cell parts",
+        "A list of scientific instruments"
+      ],
+      "a": 1,
+      "e": "The IUCN Red List assesses conservation status and extinction risk.",
+      "d": "Medium",
+      "topic": "Conservation",
+      "slo": "Distinguish red list from related ideas"
+    },
+    {
+      "id": "BIO9CH2-289",
+      "q": "Which statement best describes biodiversity monitoring?",
+      "o": [
+        "Counting only rocks",
+        "Naming organisms randomly",
+        "Repeatedly measuring species and populations over time",
+        "Removing all predators"
+      ],
+      "a": 2,
+      "e": "Monitoring reveals changes in biodiversity.",
+      "d": "Easy",
+      "topic": "Conservation",
+      "slo": "Identify biodiversity monitoring"
+    },
+    {
+      "id": "BIO9CH2-290",
+      "q": "A learner is revising conservation. Which description correctly matches the term \"Biodiversity monitoring\"?",
+      "o": [
+        "Counting only rocks",
+        "Naming organisms randomly",
+        "Removing all predators",
+        "Repeatedly measuring species and populations over time"
+      ],
+      "a": 3,
+      "e": "Monitoring reveals changes in biodiversity.",
+      "d": "Medium",
+      "topic": "Conservation",
+      "slo": "Explain biodiversity monitoring"
+    },
+    {
+      "id": "BIO9CH2-291",
+      "q": "Consider this situation: Researchers count birds in the same habitat every year. Which idea or description best explains it?",
+      "o": [
+        "Removing all predators",
+        "Counting only rocks",
+        "Repeatedly measuring species and populations over time",
+        "Naming organisms randomly"
+      ],
+      "a": 2,
+      "e": "Monitoring reveals changes in biodiversity.",
+      "d": "Hard",
+      "topic": "Conservation",
+      "slo": "Apply understanding of biodiversity monitoring"
+    },
+    {
+      "id": "BIO9CH2-292",
+      "q": "Which of the following is scientifically accurate regarding biodiversity monitoring?",
+      "o": [
+        "Naming organisms randomly",
+        "Repeatedly measuring species and populations over time",
+        "Removing all predators",
+        "Counting only rocks"
+      ],
+      "a": 1,
+      "e": "Monitoring reveals changes in biodiversity.",
+      "d": "Medium",
+      "topic": "Conservation",
+      "slo": "Distinguish biodiversity monitoring from related ideas"
+    },
+    {
+      "id": "BIO9CH2-293",
+      "q": "Which statement best describes community conservation?",
+      "o": [
+        "Local participation in protecting biodiversity",
+        "Eliminating environmental education",
+        "Excluding all local residents from decisions",
+        "Encouraging illegal hunting"
+      ],
+      "a": 0,
+      "e": "Community involvement can support long-term conservation.",
+      "d": "Easy",
+      "topic": "Conservation",
+      "slo": "Identify community conservation"
+    },
+    {
+      "id": "BIO9CH2-294",
+      "q": "A learner is revising conservation. Which description correctly matches the term \"Community conservation\"?",
+      "o": [
+        "Encouraging illegal hunting",
+        "Eliminating environmental education",
+        "Excluding all local residents from decisions",
+        "Local participation in protecting biodiversity"
+      ],
+      "a": 3,
+      "e": "Community involvement can support long-term conservation.",
+      "d": "Medium",
+      "topic": "Conservation",
+      "slo": "Explain community conservation"
+    },
+    {
+      "id": "BIO9CH2-295",
+      "q": "Consider this situation: Villagers help protect a nearby forest. Which idea or description best explains it?",
+      "o": [
+        "Encouraging illegal hunting",
+        "Local participation in protecting biodiversity",
+        "Eliminating environmental education",
+        "Excluding all local residents from decisions"
+      ],
+      "a": 1,
+      "e": "Community involvement can support long-term conservation.",
+      "d": "Hard",
+      "topic": "Conservation",
+      "slo": "Apply understanding of community conservation"
+    },
+    {
+      "id": "BIO9CH2-296",
+      "q": "Which of the following is scientifically accurate regarding community conservation?",
+      "o": [
+        "Excluding all local residents from decisions",
+        "Local participation in protecting biodiversity",
+        "Eliminating environmental education",
+        "Encouraging illegal hunting"
+      ],
+      "a": 1,
+      "e": "Community involvement can support long-term conservation.",
+      "d": "Medium",
+      "topic": "Conservation",
+      "slo": "Distinguish community conservation from related ideas"
+    },
+    {
+      "id": "BIO9CH2-297",
+      "q": "Which statement best describes reforestation?",
+      "o": [
+        "Re-establishing tree cover in deforested areas",
+        "Polluting freshwater",
+        "Increasing habitat fragmentation",
+        "Cutting all remaining trees"
+      ],
+      "a": 0,
+      "e": "Reforestation can help restore damaged forest habitats.",
+      "d": "Easy",
+      "topic": "Conservation",
+      "slo": "Identify reforestation"
+    },
+    {
+      "id": "BIO9CH2-298",
+      "q": "A learner is revising conservation. Which description correctly matches the term \"Reforestation\"?",
+      "o": [
+        "Cutting all remaining trees",
+        "Polluting freshwater",
+        "Re-establishing tree cover in deforested areas",
+        "Increasing habitat fragmentation"
+      ],
+      "a": 2,
+      "e": "Reforestation can help restore damaged forest habitats.",
+      "d": "Medium",
+      "topic": "Conservation",
+      "slo": "Explain reforestation"
+    },
+    {
+      "id": "BIO9CH2-299",
+      "q": "Consider this situation: Native trees are planted on cleared land. Which idea or description best explains it?",
+      "o": [
+        "Cutting all remaining trees",
+        "Polluting freshwater",
+        "Increasing habitat fragmentation",
+        "Re-establishing tree cover in deforested areas"
+      ],
+      "a": 3,
+      "e": "Reforestation can help restore damaged forest habitats.",
+      "d": "Hard",
+      "topic": "Conservation",
+      "slo": "Apply understanding of reforestation"
+    },
+    {
+      "id": "BIO9CH2-300",
+      "q": "Which of the following is scientifically accurate regarding reforestation?",
+      "o": [
+        "Cutting all remaining trees",
+        "Re-establishing tree cover in deforested areas",
+        "Polluting freshwater",
+        "Increasing habitat fragmentation"
+      ],
+      "a": 1,
+      "e": "Reforestation can help restore damaged forest habitats.",
+      "d": "Medium",
+      "topic": "Conservation",
+      "slo": "Distinguish reforestation from related ideas"
+    }
+  ]
+}

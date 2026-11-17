@@ -1,0 +1,4504 @@
+{
+  "questions": [
+    {
+      "id": "PHY9CH4-001",
+      "q": "What is the turning effect of a force called?",
+      "o": [
+        "Momentum",
+        "Moment of force (torque)",
+        "Pressure",
+        "Impulse"
+      ],
+      "a": 1,
+      "e": "Torque measures the turning effect of a force.",
+      "d": "Easy",
+      "topic": "Torque",
+      "slo": "P-09-B-44"
+    },
+    {
+      "id": "PHY9CH4-002",
+      "q": "Choose the correct statement: what is the turning effect of a force called?",
+      "o": [
+        "Pressure",
+        "Moment of force (torque)",
+        "Impulse",
+        "Momentum"
+      ],
+      "a": 1,
+      "e": "Torque measures the turning effect of a force.",
+      "d": "Medium",
+      "topic": "Torque",
+      "slo": "P-09-B-44"
+    },
+    {
+      "id": "PHY9CH4-003",
+      "q": "Chapter 4 review — What is the turning effect of a force called?",
+      "o": [
+        "Momentum",
+        "Impulse",
+        "Moment of force (torque)",
+        "Pressure"
+      ],
+      "a": 2,
+      "e": "Torque measures the turning effect of a force.",
+      "d": "Medium",
+      "topic": "Torque",
+      "slo": "P-09-B-44"
+    },
+    {
+      "id": "PHY9CH4-004",
+      "q": "Which expression gives the magnitude of torque?",
+      "o": [
+        "Mass × speed",
+        "Power × time",
+        "Force ÷ time",
+        "Force × perpendicular moment arm"
+      ],
+      "a": 3,
+      "e": "Torque equals force multiplied by perpendicular distance from the pivot.",
+      "d": "Easy",
+      "topic": "Torque",
+      "slo": "P-09-B-44"
+    },
+    {
+      "id": "PHY9CH4-005",
+      "q": "Choose the correct statement: which expression gives the magnitude of torque?",
+      "o": [
+        "Force ÷ time",
+        "Mass × speed",
+        "Power × time",
+        "Force × perpendicular moment arm"
+      ],
+      "a": 3,
+      "e": "Torque equals force multiplied by perpendicular distance from the pivot.",
+      "d": "Medium",
+      "topic": "Torque",
+      "slo": "P-09-B-44"
+    },
+    {
+      "id": "PHY9CH4-006",
+      "q": "Chapter 4 review — Which expression gives the magnitude of torque?",
+      "o": [
+        "Force × perpendicular moment arm",
+        "Mass × speed",
+        "Force ÷ time",
+        "Power × time"
+      ],
+      "a": 0,
+      "e": "Torque equals force multiplied by perpendicular distance from the pivot.",
+      "d": "Medium",
+      "topic": "Torque",
+      "slo": "P-09-B-44"
+    },
+    {
+      "id": "PHY9CH4-007",
+      "q": "What is the SI unit of torque?",
+      "o": [
+        "kilogram (kg)",
+        "newton metre (N m)",
+        "newton (N)",
+        "joule per second (J/s)"
+      ],
+      "a": 1,
+      "e": "Torque is measured in newton metres.",
+      "d": "Easy",
+      "topic": "Torque",
+      "slo": "P-09-B-44"
+    },
+    {
+      "id": "PHY9CH4-008",
+      "q": "Choose the correct statement: what is the SI unit of torque?",
+      "o": [
+        "kilogram (kg)",
+        "newton metre (N m)",
+        "newton (N)",
+        "joule per second (J/s)"
+      ],
+      "a": 1,
+      "e": "Torque is measured in newton metres.",
+      "d": "Medium",
+      "topic": "Torque",
+      "slo": "P-09-B-44"
+    },
+    {
+      "id": "PHY9CH4-009",
+      "q": "Chapter 4 review — What is the SI unit of torque?",
+      "o": [
+        "newton (N)",
+        "kilogram (kg)",
+        "joule per second (J/s)",
+        "newton metre (N m)"
+      ],
+      "a": 3,
+      "e": "Torque is measured in newton metres.",
+      "d": "Medium",
+      "topic": "Torque",
+      "slo": "P-09-B-44"
+    },
+    {
+      "id": "PHY9CH4-010",
+      "q": "When does an applied force produce zero torque about a pivot?",
+      "o": [
+        "When it acts far from the pivot",
+        "When its moment arm is greatest",
+        "When it acts perpendicular to a long handle",
+        "When its line of action passes through the pivot"
+      ],
+      "a": 3,
+      "e": "The perpendicular moment arm is zero.",
+      "d": "Easy",
+      "topic": "Torque",
+      "slo": "P-09-B-44"
+    },
+    {
+      "id": "PHY9CH4-011",
+      "q": "Choose the correct statement: when does an applied force produce zero torque about a pivot?",
+      "o": [
+        "When it acts far from the pivot",
+        "When it acts perpendicular to a long handle",
+        "When its moment arm is greatest",
+        "When its line of action passes through the pivot"
+      ],
+      "a": 3,
+      "e": "The perpendicular moment arm is zero.",
+      "d": "Medium",
+      "topic": "Torque",
+      "slo": "P-09-B-44"
+    },
+    {
+      "id": "PHY9CH4-012",
+      "q": "Chapter 4 review — When does an applied force produce zero torque about a pivot?",
+      "o": [
+        "When it acts far from the pivot",
+        "When its moment arm is greatest",
+        "When it acts perpendicular to a long handle",
+        "When its line of action passes through the pivot"
+      ],
+      "a": 3,
+      "e": "The perpendicular moment arm is zero.",
+      "d": "Medium",
+      "topic": "Torque",
+      "slo": "P-09-B-44"
+    },
+    {
+      "id": "PHY9CH4-013",
+      "q": "Why is a long spanner easier to use than a short one?",
+      "o": [
+        "It decreases the applied force direction",
+        "It eliminates friction entirely",
+        "It increases the bolt mass",
+        "It increases the moment arm"
+      ],
+      "a": 3,
+      "e": "A larger moment arm produces more torque for the same force.",
+      "d": "Easy",
+      "topic": "Torque",
+      "slo": "P-09-B-44"
+    },
+    {
+      "id": "PHY9CH4-014",
+      "q": "Choose the correct statement: why is a long spanner easier to use than a short one?",
+      "o": [
+        "It decreases the applied force direction",
+        "It eliminates friction entirely",
+        "It increases the moment arm",
+        "It increases the bolt mass"
+      ],
+      "a": 2,
+      "e": "A larger moment arm produces more torque for the same force.",
+      "d": "Medium",
+      "topic": "Torque",
+      "slo": "P-09-B-44"
+    },
+    {
+      "id": "PHY9CH4-015",
+      "q": "Chapter 4 review — Why is a long spanner easier to use than a short one?",
+      "o": [
+        "It increases the bolt mass",
+        "It increases the moment arm",
+        "It decreases the applied force direction",
+        "It eliminates friction entirely"
+      ],
+      "a": 1,
+      "e": "A larger moment arm produces more torque for the same force.",
+      "d": "Medium",
+      "topic": "Torque",
+      "slo": "P-09-B-44"
+    },
+    {
+      "id": "PHY9CH4-016",
+      "q": "In the textbook sign convention, anticlockwise torque is:",
+      "o": [
+        "Always zero",
+        "Negative",
+        "Undefined",
+        "Positive"
+      ],
+      "a": 3,
+      "e": "Anticlockwise moments are conventionally positive.",
+      "d": "Easy",
+      "topic": "Torque",
+      "slo": "P-09-B-44"
+    },
+    {
+      "id": "PHY9CH4-017",
+      "q": "Choose the correct statement: in the textbook sign convention, anticlockwise torque is:",
+      "o": [
+        "Undefined",
+        "Negative",
+        "Always zero",
+        "Positive"
+      ],
+      "a": 3,
+      "e": "Anticlockwise moments are conventionally positive.",
+      "d": "Medium",
+      "topic": "Torque",
+      "slo": "P-09-B-44"
+    },
+    {
+      "id": "PHY9CH4-018",
+      "q": "Chapter 4 review — In the textbook sign convention, anticlockwise torque is:",
+      "o": [
+        "Positive",
+        "Undefined",
+        "Negative",
+        "Always zero"
+      ],
+      "a": 0,
+      "e": "Anticlockwise moments are conventionally positive.",
+      "d": "Medium",
+      "topic": "Torque",
+      "slo": "P-09-B-44"
+    },
+    {
+      "id": "PHY9CH4-019",
+      "q": "In the textbook sign convention, clockwise torque is:",
+      "o": [
+        "Always zero",
+        "Undefined",
+        "Negative",
+        "Positive"
+      ],
+      "a": 2,
+      "e": "Clockwise moments are conventionally negative.",
+      "d": "Easy",
+      "topic": "Torque",
+      "slo": "P-09-B-44"
+    },
+    {
+      "id": "PHY9CH4-020",
+      "q": "Choose the correct statement: in the textbook sign convention, clockwise torque is:",
+      "o": [
+        "Negative",
+        "Positive",
+        "Always zero",
+        "Undefined"
+      ],
+      "a": 0,
+      "e": "Clockwise moments are conventionally negative.",
+      "d": "Medium",
+      "topic": "Torque",
+      "slo": "P-09-B-44"
+    },
+    {
+      "id": "PHY9CH4-021",
+      "q": "Chapter 4 review — In the textbook sign convention, clockwise torque is:",
+      "o": [
+        "Always zero",
+        "Undefined",
+        "Positive",
+        "Negative"
+      ],
+      "a": 3,
+      "e": "Clockwise moments are conventionally negative.",
+      "d": "Medium",
+      "topic": "Torque",
+      "slo": "P-09-B-44"
+    },
+    {
+      "id": "PHY9CH4-022",
+      "q": "What is the moment arm?",
+      "o": [
+        "Length of the whole object",
+        "Distance travelled by force",
+        "Total path length",
+        "Perpendicular distance from pivot to force line of action"
+      ],
+      "a": 3,
+      "e": "Only the perpendicular distance enters torque.",
+      "d": "Easy",
+      "topic": "Torque",
+      "slo": "P-09-B-44"
+    },
+    {
+      "id": "PHY9CH4-023",
+      "q": "Choose the correct statement: what is the moment arm?",
+      "o": [
+        "Total path length",
+        "Perpendicular distance from pivot to force line of action",
+        "Length of the whole object",
+        "Distance travelled by force"
+      ],
+      "a": 1,
+      "e": "Only the perpendicular distance enters torque.",
+      "d": "Medium",
+      "topic": "Torque",
+      "slo": "P-09-B-44"
+    },
+    {
+      "id": "PHY9CH4-024",
+      "q": "Chapter 4 review — What is the moment arm?",
+      "o": [
+        "Distance travelled by force",
+        "Length of the whole object",
+        "Perpendicular distance from pivot to force line of action",
+        "Total path length"
+      ],
+      "a": 2,
+      "e": "Only the perpendicular distance enters torque.",
+      "d": "Medium",
+      "topic": "Torque",
+      "slo": "P-09-B-44"
+    },
+    {
+      "id": "PHY9CH4-025",
+      "q": "Which change doubles torque if the applied force stays constant?",
+      "o": [
+        "Halving the perpendicular distance",
+        "Changing the colour of the lever",
+        "Doubling the perpendicular distance",
+        "Doubling mass without moving the force"
+      ],
+      "a": 2,
+      "e": "Torque is proportional to moment arm.",
+      "d": "Easy",
+      "topic": "Torque",
+      "slo": "P-09-B-44"
+    },
+    {
+      "id": "PHY9CH4-026",
+      "q": "Choose the correct statement: which change doubles torque if the applied force stays constant?",
+      "o": [
+        "Doubling mass without moving the force",
+        "Changing the colour of the lever",
+        "Halving the perpendicular distance",
+        "Doubling the perpendicular distance"
+      ],
+      "a": 3,
+      "e": "Torque is proportional to moment arm.",
+      "d": "Medium",
+      "topic": "Torque",
+      "slo": "P-09-B-44"
+    },
+    {
+      "id": "PHY9CH4-027",
+      "q": "Chapter 4 review — Which change doubles torque if the applied force stays constant?",
+      "o": [
+        "Halving the perpendicular distance",
+        "Doubling mass without moving the force",
+        "Doubling the perpendicular distance",
+        "Changing the colour of the lever"
+      ],
+      "a": 2,
+      "e": "Torque is proportional to moment arm.",
+      "d": "Medium",
+      "topic": "Torque",
+      "slo": "P-09-B-44"
+    },
+    {
+      "id": "PHY9CH4-028",
+      "q": "Which force direction gives maximum torque for a fixed force at the end of a lever?",
+      "o": [
+        "Any direction gives equal torque",
+        "Perpendicular to the lever",
+        "Along the lever away from pivot",
+        "Along the lever towards pivot"
+      ],
+      "a": 1,
+      "e": "A perpendicular force gives the greatest moment arm.",
+      "d": "Easy",
+      "topic": "Torque",
+      "slo": "P-09-B-44"
+    },
+    {
+      "id": "PHY9CH4-029",
+      "q": "Choose the correct statement: which force direction gives maximum torque for a fixed force at the end of a lever?",
+      "o": [
+        "Along the lever towards pivot",
+        "Perpendicular to the lever",
+        "Any direction gives equal torque",
+        "Along the lever away from pivot"
+      ],
+      "a": 1,
+      "e": "A perpendicular force gives the greatest moment arm.",
+      "d": "Medium",
+      "topic": "Torque",
+      "slo": "P-09-B-44"
+    },
+    {
+      "id": "PHY9CH4-030",
+      "q": "Chapter 4 review — Which force direction gives maximum torque for a fixed force at the end of a lever?",
+      "o": [
+        "Along the lever towards pivot",
+        "Any direction gives equal torque",
+        "Perpendicular to the lever",
+        "Along the lever away from pivot"
+      ],
+      "a": 2,
+      "e": "A perpendicular force gives the greatest moment arm.",
+      "d": "Medium",
+      "topic": "Torque",
+      "slo": "P-09-B-44"
+    },
+    {
+      "id": "PHY9CH4-031",
+      "q": "Like parallel forces act in:",
+      "o": [
+        "Perpendicular directions",
+        "The same direction",
+        "Opposite directions",
+        "Random changing directions"
+      ],
+      "a": 1,
+      "e": "Like parallel forces have parallel lines of action and the same sense.",
+      "d": "Easy",
+      "topic": "Parallel forces",
+      "slo": "P-09-B-43"
+    },
+    {
+      "id": "PHY9CH4-032",
+      "q": "Choose the correct statement: like parallel forces act in:",
+      "o": [
+        "Perpendicular directions",
+        "Random changing directions",
+        "The same direction",
+        "Opposite directions"
+      ],
+      "a": 2,
+      "e": "Like parallel forces have parallel lines of action and the same sense.",
+      "d": "Medium",
+      "topic": "Parallel forces",
+      "slo": "P-09-B-43"
+    },
+    {
+      "id": "PHY9CH4-033",
+      "q": "Chapter 4 review — Like parallel forces act in:",
+      "o": [
+        "Perpendicular directions",
+        "The same direction",
+        "Opposite directions",
+        "Random changing directions"
+      ],
+      "a": 1,
+      "e": "Like parallel forces have parallel lines of action and the same sense.",
+      "d": "Medium",
+      "topic": "Parallel forces",
+      "slo": "P-09-B-43"
+    },
+    {
+      "id": "PHY9CH4-034",
+      "q": "Unlike parallel forces act in:",
+      "o": [
+        "Opposite directions",
+        "The same direction",
+        "Circular directions",
+        "Perpendicular directions"
+      ],
+      "a": 0,
+      "e": "Unlike parallel forces are parallel but oppositely directed.",
+      "d": "Easy",
+      "topic": "Parallel forces",
+      "slo": "P-09-B-43"
+    },
+    {
+      "id": "PHY9CH4-035",
+      "q": "Choose the correct statement: unlike parallel forces act in:",
+      "o": [
+        "Circular directions",
+        "Perpendicular directions",
+        "The same direction",
+        "Opposite directions"
+      ],
+      "a": 3,
+      "e": "Unlike parallel forces are parallel but oppositely directed.",
+      "d": "Medium",
+      "topic": "Parallel forces",
+      "slo": "P-09-B-43"
+    },
+    {
+      "id": "PHY9CH4-036",
+      "q": "Chapter 4 review — Unlike parallel forces act in:",
+      "o": [
+        "Opposite directions",
+        "Circular directions",
+        "The same direction",
+        "Perpendicular directions"
+      ],
+      "a": 0,
+      "e": "Unlike parallel forces are parallel but oppositely directed.",
+      "d": "Medium",
+      "topic": "Parallel forces",
+      "slo": "P-09-B-43"
+    },
+    {
+      "id": "PHY9CH4-037",
+      "q": "What is the centre of mass?",
+      "o": [
+        "The point representing the average position of mass",
+        "Always the lowest point",
+        "The surface area centre only",
+        "The point of maximum speed"
+      ],
+      "a": 0,
+      "e": "Centre of mass represents mass distribution.",
+      "d": "Easy",
+      "topic": "Centre of mass",
+      "slo": "P-09-B-47"
+    },
+    {
+      "id": "PHY9CH4-038",
+      "q": "Choose the correct statement: what is the centre of mass?",
+      "o": [
+        "The surface area centre only",
+        "The point of maximum speed",
+        "Always the lowest point",
+        "The point representing the average position of mass"
+      ],
+      "a": 3,
+      "e": "Centre of mass represents mass distribution.",
+      "d": "Medium",
+      "topic": "Centre of mass",
+      "slo": "P-09-B-47"
+    },
+    {
+      "id": "PHY9CH4-039",
+      "q": "Chapter 4 review — What is the centre of mass?",
+      "o": [
+        "The surface area centre only",
+        "The point of maximum speed",
+        "The point representing the average position of mass",
+        "Always the lowest point"
+      ],
+      "a": 2,
+      "e": "Centre of mass represents mass distribution.",
+      "d": "Medium",
+      "topic": "Centre of mass",
+      "slo": "P-09-B-47"
+    },
+    {
+      "id": "PHY9CH4-040",
+      "q": "What is the centre of gravity?",
+      "o": [
+        "The point where friction vanishes",
+        "The point of contact with the floor",
+        "The point of highest density only",
+        "The point through which resultant weight acts"
+      ],
+      "a": 3,
+      "e": "The resultant gravitational force can be treated as acting at the centre of gravity.",
+      "d": "Easy",
+      "topic": "Centre of gravity",
+      "slo": "P-09-B-47"
+    },
+    {
+      "id": "PHY9CH4-041",
+      "q": "Choose the correct statement: what is the centre of gravity?",
+      "o": [
+        "The point where friction vanishes",
+        "The point through which resultant weight acts",
+        "The point of highest density only",
+        "The point of contact with the floor"
+      ],
+      "a": 1,
+      "e": "The resultant gravitational force can be treated as acting at the centre of gravity.",
+      "d": "Medium",
+      "topic": "Centre of gravity",
+      "slo": "P-09-B-47"
+    },
+    {
+      "id": "PHY9CH4-042",
+      "q": "Chapter 4 review — What is the centre of gravity?",
+      "o": [
+        "The point of highest density only",
+        "The point through which resultant weight acts",
+        "The point where friction vanishes",
+        "The point of contact with the floor"
+      ],
+      "a": 1,
+      "e": "The resultant gravitational force can be treated as acting at the centre of gravity.",
+      "d": "Medium",
+      "topic": "Centre of gravity",
+      "slo": "P-09-B-47"
+    },
+    {
+      "id": "PHY9CH4-043",
+      "q": "For a uniform sphere, where is its centre of mass?",
+      "o": [
+        "At its geometric centre",
+        "At its top surface",
+        "Outside the sphere",
+        "At its bottom surface"
+      ],
+      "a": 0,
+      "e": "Symmetry places the centre of mass at the geometric centre.",
+      "d": "Easy",
+      "topic": "Centre of mass",
+      "slo": "P-09-B-47"
+    },
+    {
+      "id": "PHY9CH4-044",
+      "q": "Choose the correct statement: for a uniform sphere, where is its centre of mass?",
+      "o": [
+        "Outside the sphere",
+        "At its bottom surface",
+        "At its geometric centre",
+        "At its top surface"
+      ],
+      "a": 2,
+      "e": "Symmetry places the centre of mass at the geometric centre.",
+      "d": "Medium",
+      "topic": "Centre of mass",
+      "slo": "P-09-B-47"
+    },
+    {
+      "id": "PHY9CH4-045",
+      "q": "Chapter 4 review — For a uniform sphere, where is its centre of mass?",
+      "o": [
+        "At its bottom surface",
+        "At its top surface",
+        "At its geometric centre",
+        "Outside the sphere"
+      ],
+      "a": 2,
+      "e": "Symmetry places the centre of mass at the geometric centre.",
+      "d": "Medium",
+      "topic": "Centre of mass",
+      "slo": "P-09-B-47"
+    },
+    {
+      "id": "PHY9CH4-046",
+      "q": "Can the centre of mass of a body lie outside its material?",
+      "o": [
+        "No, never",
+        "Yes, for example a ring",
+        "Only if its mass is zero",
+        "Only when falling"
+      ],
+      "a": 1,
+      "e": "A ring has its centre of mass at its empty central region.",
+      "d": "Easy",
+      "topic": "Centre of mass",
+      "slo": "P-09-B-47"
+    },
+    {
+      "id": "PHY9CH4-047",
+      "q": "Choose the correct statement: can the centre of mass of a body lie outside its material?",
+      "o": [
+        "Only if its mass is zero",
+        "Yes, for example a ring",
+        "No, never",
+        "Only when falling"
+      ],
+      "a": 1,
+      "e": "A ring has its centre of mass at its empty central region.",
+      "d": "Medium",
+      "topic": "Centre of mass",
+      "slo": "P-09-B-47"
+    },
+    {
+      "id": "PHY9CH4-048",
+      "q": "Chapter 4 review — Can the centre of mass of a body lie outside its material?",
+      "o": [
+        "Yes, for example a ring",
+        "Only when falling",
+        "Only if its mass is zero",
+        "No, never"
+      ],
+      "a": 0,
+      "e": "A ring has its centre of mass at its empty central region.",
+      "d": "Medium",
+      "topic": "Centre of mass",
+      "slo": "P-09-B-47"
+    },
+    {
+      "id": "PHY9CH4-049",
+      "q": "What tool is used to locate the centre of gravity of an irregular lamina?",
+      "o": [
+        "Spring balance only",
+        "Thermometer",
+        "Stopwatch",
+        "Plumb line"
+      ],
+      "a": 3,
+      "e": "Vertical lines drawn from suspension points intersect at the centre of gravity.",
+      "d": "Easy",
+      "topic": "Centre of gravity",
+      "slo": "P-09-B-48"
+    },
+    {
+      "id": "PHY9CH4-050",
+      "q": "Choose the correct statement: what tool is used to locate the centre of gravity of an irregular lamina?",
+      "o": [
+        "Stopwatch",
+        "Thermometer",
+        "Plumb line",
+        "Spring balance only"
+      ],
+      "a": 2,
+      "e": "Vertical lines drawn from suspension points intersect at the centre of gravity.",
+      "d": "Medium",
+      "topic": "Centre of gravity",
+      "slo": "P-09-B-48"
+    },
+    {
+      "id": "PHY9CH4-051",
+      "q": "Chapter 4 review — What tool is used to locate the centre of gravity of an irregular lamina?",
+      "o": [
+        "Spring balance only",
+        "Thermometer",
+        "Stopwatch",
+        "Plumb line"
+      ],
+      "a": 3,
+      "e": "Vertical lines drawn from suspension points intersect at the centre of gravity.",
+      "d": "Medium",
+      "topic": "Centre of gravity",
+      "slo": "P-09-B-48"
+    },
+    {
+      "id": "PHY9CH4-052",
+      "q": "How many different suspension positions help locate the centre of gravity of an irregular lamina reliably?",
+      "o": [
+        "At least three",
+        "Exactly one",
+        "None",
+        "Only horizontal supports"
+      ],
+      "a": 0,
+      "e": "Intersecting vertical lines from multiple suspensions locate the centre of gravity.",
+      "d": "Easy",
+      "topic": "Centre of gravity",
+      "slo": "P-09-B-48"
+    },
+    {
+      "id": "PHY9CH4-053",
+      "q": "Choose the correct statement: how many different suspension positions help locate the centre of gravity of an irregular lamina reliably?",
+      "o": [
+        "Only horizontal supports",
+        "None",
+        "At least three",
+        "Exactly one"
+      ],
+      "a": 2,
+      "e": "Intersecting vertical lines from multiple suspensions locate the centre of gravity.",
+      "d": "Medium",
+      "topic": "Centre of gravity",
+      "slo": "P-09-B-48"
+    },
+    {
+      "id": "PHY9CH4-054",
+      "q": "Chapter 4 review — How many different suspension positions help locate the centre of gravity of an irregular lamina reliably?",
+      "o": [
+        "Only horizontal supports",
+        "At least three",
+        "None",
+        "Exactly one"
+      ],
+      "a": 1,
+      "e": "Intersecting vertical lines from multiple suspensions locate the centre of gravity.",
+      "d": "Medium",
+      "topic": "Centre of gravity",
+      "slo": "P-09-B-48"
+    },
+    {
+      "id": "PHY9CH4-055",
+      "q": "What is the first condition for equilibrium?",
+      "o": [
+        "Mass must be zero",
+        "Net force is zero",
+        "Net force is maximum",
+        "Speed must be zero"
+      ],
+      "a": 1,
+      "e": "Translational equilibrium requires the vector sum of forces to vanish.",
+      "d": "Easy",
+      "topic": "Equilibrium",
+      "slo": "P-09-B-34"
+    },
+    {
+      "id": "PHY9CH4-056",
+      "q": "Choose the correct statement: what is the first condition for equilibrium?",
+      "o": [
+        "Mass must be zero",
+        "Net force is zero",
+        "Speed must be zero",
+        "Net force is maximum"
+      ],
+      "a": 1,
+      "e": "Translational equilibrium requires the vector sum of forces to vanish.",
+      "d": "Medium",
+      "topic": "Equilibrium",
+      "slo": "P-09-B-34"
+    },
+    {
+      "id": "PHY9CH4-057",
+      "q": "Chapter 4 review — What is the first condition for equilibrium?",
+      "o": [
+        "Mass must be zero",
+        "Speed must be zero",
+        "Net force is zero",
+        "Net force is maximum"
+      ],
+      "a": 2,
+      "e": "Translational equilibrium requires the vector sum of forces to vanish.",
+      "d": "Medium",
+      "topic": "Equilibrium",
+      "slo": "P-09-B-34"
+    },
+    {
+      "id": "PHY9CH4-058",
+      "q": "What is the second condition for equilibrium?",
+      "o": [
+        "Net torque is maximum",
+        "All forces act upward",
+        "The body must be at rest",
+        "Net torque is zero"
+      ],
+      "a": 3,
+      "e": "Rotational equilibrium requires zero resultant moment.",
+      "d": "Easy",
+      "topic": "Equilibrium",
+      "slo": "P-09-B-45"
+    },
+    {
+      "id": "PHY9CH4-059",
+      "q": "Choose the correct statement: what is the second condition for equilibrium?",
+      "o": [
+        "Net torque is maximum",
+        "Net torque is zero",
+        "All forces act upward",
+        "The body must be at rest"
+      ],
+      "a": 1,
+      "e": "Rotational equilibrium requires zero resultant moment.",
+      "d": "Medium",
+      "topic": "Equilibrium",
+      "slo": "P-09-B-45"
+    },
+    {
+      "id": "PHY9CH4-060",
+      "q": "Chapter 4 review — What is the second condition for equilibrium?",
+      "o": [
+        "The body must be at rest",
+        "Net torque is zero",
+        "Net torque is maximum",
+        "All forces act upward"
+      ],
+      "a": 1,
+      "e": "Rotational equilibrium requires zero resultant moment.",
+      "d": "Medium",
+      "topic": "Equilibrium",
+      "slo": "P-09-B-45"
+    },
+    {
+      "id": "PHY9CH4-061",
+      "q": "For complete equilibrium, which conditions must hold?",
+      "o": [
+        "Only net force is zero",
+        "Both net force and net torque are zero",
+        "Speed must increase",
+        "Only net torque is zero"
+      ],
+      "a": 1,
+      "e": "Complete equilibrium requires both translational and rotational balance.",
+      "d": "Easy",
+      "topic": "Equilibrium",
+      "slo": "P-09-B-34"
+    },
+    {
+      "id": "PHY9CH4-062",
+      "q": "Choose the correct statement: for complete equilibrium, which conditions must hold?",
+      "o": [
+        "Speed must increase",
+        "Only net torque is zero",
+        "Only net force is zero",
+        "Both net force and net torque are zero"
+      ],
+      "a": 3,
+      "e": "Complete equilibrium requires both translational and rotational balance.",
+      "d": "Medium",
+      "topic": "Equilibrium",
+      "slo": "P-09-B-34"
+    },
+    {
+      "id": "PHY9CH4-063",
+      "q": "Chapter 4 review — For complete equilibrium, which conditions must hold?",
+      "o": [
+        "Only net force is zero",
+        "Speed must increase",
+        "Both net force and net torque are zero",
+        "Only net torque is zero"
+      ],
+      "a": 2,
+      "e": "Complete equilibrium requires both translational and rotational balance.",
+      "d": "Medium",
+      "topic": "Equilibrium",
+      "slo": "P-09-B-34"
+    },
+    {
+      "id": "PHY9CH4-064",
+      "q": "What does the principle of moments state for equilibrium?",
+      "o": [
+        "All moments are zero individually",
+        "Clockwise moments are always larger",
+        "Total clockwise moments equal total anticlockwise moments",
+        "Total forces always equal total masses"
+      ],
+      "a": 2,
+      "e": "The opposing moments balance about the same pivot.",
+      "d": "Easy",
+      "topic": "Principle of moments",
+      "slo": "P-09-B-45"
+    },
+    {
+      "id": "PHY9CH4-065",
+      "q": "Choose the correct statement: what does the principle of moments state for equilibrium?",
+      "o": [
+        "Total forces always equal total masses",
+        "Clockwise moments are always larger",
+        "All moments are zero individually",
+        "Total clockwise moments equal total anticlockwise moments"
+      ],
+      "a": 3,
+      "e": "The opposing moments balance about the same pivot.",
+      "d": "Medium",
+      "topic": "Principle of moments",
+      "slo": "P-09-B-45"
+    },
+    {
+      "id": "PHY9CH4-066",
+      "q": "Chapter 4 review — What does the principle of moments state for equilibrium?",
+      "o": [
+        "All moments are zero individually",
+        "Total clockwise moments equal total anticlockwise moments",
+        "Clockwise moments are always larger",
+        "Total forces always equal total masses"
+      ],
+      "a": 1,
+      "e": "The opposing moments balance about the same pivot.",
+      "d": "Medium",
+      "topic": "Principle of moments",
+      "slo": "P-09-B-45"
+    },
+    {
+      "id": "PHY9CH4-067",
+      "q": "A balanced seesaw illustrates which principle?",
+      "o": [
+        "Principle of moments",
+        "Refraction",
+        "Ohm’s law",
+        "Conservation of charge"
+      ],
+      "a": 0,
+      "e": "Equal opposing moments balance the seesaw.",
+      "d": "Easy",
+      "topic": "Principle of moments",
+      "slo": "P-09-B-45"
+    },
+    {
+      "id": "PHY9CH4-068",
+      "q": "Choose the correct statement: a balanced seesaw illustrates which principle?",
+      "o": [
+        "Refraction",
+        "Principle of moments",
+        "Conservation of charge",
+        "Ohm’s law"
+      ],
+      "a": 1,
+      "e": "Equal opposing moments balance the seesaw.",
+      "d": "Medium",
+      "topic": "Principle of moments",
+      "slo": "P-09-B-45"
+    },
+    {
+      "id": "PHY9CH4-069",
+      "q": "Chapter 4 review — A balanced seesaw illustrates which principle?",
+      "o": [
+        "Ohm’s law",
+        "Conservation of charge",
+        "Principle of moments",
+        "Refraction"
+      ],
+      "a": 2,
+      "e": "Equal opposing moments balance the seesaw.",
+      "d": "Medium",
+      "topic": "Principle of moments",
+      "slo": "P-09-B-45"
+    },
+    {
+      "id": "PHY9CH4-070",
+      "q": "Which is an example of static equilibrium?",
+      "o": [
+        "A fan starting to spin",
+        "A book resting on a level table",
+        "A car speeding up",
+        "A falling stone accelerating"
+      ],
+      "a": 1,
+      "e": "The resting book has no net force or net moment.",
+      "d": "Easy",
+      "topic": "Equilibrium",
+      "slo": "P-09-B-34"
+    },
+    {
+      "id": "PHY9CH4-071",
+      "q": "Choose the correct statement: which is an example of static equilibrium?",
+      "o": [
+        "A falling stone accelerating",
+        "A book resting on a level table",
+        "A fan starting to spin",
+        "A car speeding up"
+      ],
+      "a": 1,
+      "e": "The resting book has no net force or net moment.",
+      "d": "Medium",
+      "topic": "Equilibrium",
+      "slo": "P-09-B-34"
+    },
+    {
+      "id": "PHY9CH4-072",
+      "q": "Chapter 4 review — Which is an example of static equilibrium?",
+      "o": [
+        "A book resting on a level table",
+        "A fan starting to spin",
+        "A car speeding up",
+        "A falling stone accelerating"
+      ],
+      "a": 0,
+      "e": "The resting book has no net force or net moment.",
+      "d": "Medium",
+      "topic": "Equilibrium",
+      "slo": "P-09-B-34"
+    },
+    {
+      "id": "PHY9CH4-073",
+      "q": "Which is an example of dynamic translational equilibrium?",
+      "o": [
+        "A car moving straight at constant velocity",
+        "A car speeding up",
+        "A car turning at constant speed",
+        "A car braking"
+      ],
+      "a": 0,
+      "e": "Uniform straight-line velocity corresponds to zero net force.",
+      "d": "Easy",
+      "topic": "Equilibrium",
+      "slo": "P-09-B-34"
+    },
+    {
+      "id": "PHY9CH4-074",
+      "q": "Choose the correct statement: which is an example of dynamic translational equilibrium?",
+      "o": [
+        "A car moving straight at constant velocity",
+        "A car speeding up",
+        "A car turning at constant speed",
+        "A car braking"
+      ],
+      "a": 0,
+      "e": "Uniform straight-line velocity corresponds to zero net force.",
+      "d": "Medium",
+      "topic": "Equilibrium",
+      "slo": "P-09-B-34"
+    },
+    {
+      "id": "PHY9CH4-075",
+      "q": "Chapter 4 review — Which is an example of dynamic translational equilibrium?",
+      "o": [
+        "A car speeding up",
+        "A car moving straight at constant velocity",
+        "A car turning at constant speed",
+        "A car braking"
+      ],
+      "a": 1,
+      "e": "Uniform straight-line velocity corresponds to zero net force.",
+      "d": "Medium",
+      "topic": "Equilibrium",
+      "slo": "P-09-B-34"
+    },
+    {
+      "id": "PHY9CH4-076",
+      "q": "Which is an example of dynamic rotational equilibrium?",
+      "o": [
+        "A fan speeding up",
+        "A fan spinning at constant angular speed",
+        "A fan slowing down",
+        "A stationary fan starting"
+      ],
+      "a": 1,
+      "e": "Constant angular speed with no angular acceleration means net torque is zero.",
+      "d": "Easy",
+      "topic": "Equilibrium",
+      "slo": "P-09-B-52"
+    },
+    {
+      "id": "PHY9CH4-077",
+      "q": "Choose the correct statement: which is an example of dynamic rotational equilibrium?",
+      "o": [
+        "A fan slowing down",
+        "A fan speeding up",
+        "A fan spinning at constant angular speed",
+        "A stationary fan starting"
+      ],
+      "a": 2,
+      "e": "Constant angular speed with no angular acceleration means net torque is zero.",
+      "d": "Medium",
+      "topic": "Equilibrium",
+      "slo": "P-09-B-52"
+    },
+    {
+      "id": "PHY9CH4-078",
+      "q": "Chapter 4 review — Which is an example of dynamic rotational equilibrium?",
+      "o": [
+        "A stationary fan starting",
+        "A fan spinning at constant angular speed",
+        "A fan slowing down",
+        "A fan speeding up"
+      ],
+      "a": 1,
+      "e": "Constant angular speed with no angular acceleration means net torque is zero.",
+      "d": "Medium",
+      "topic": "Equilibrium",
+      "slo": "P-09-B-52"
+    },
+    {
+      "id": "PHY9CH4-079",
+      "q": "What happens to the centre of mass when a stable object is slightly tilted?",
+      "o": [
+        "Its mass doubles",
+        "It falls",
+        "It rises",
+        "It disappears"
+      ],
+      "a": 2,
+      "e": "A stable body gains gravitational potential energy on small displacement.",
+      "d": "Easy",
+      "topic": "Stability",
+      "slo": "P-09-B-49"
+    },
+    {
+      "id": "PHY9CH4-080",
+      "q": "Choose the correct statement: what happens to the centre of mass when a stable object is slightly tilted?",
+      "o": [
+        "It disappears",
+        "It rises",
+        "It falls",
+        "Its mass doubles"
+      ],
+      "a": 1,
+      "e": "A stable body gains gravitational potential energy on small displacement.",
+      "d": "Medium",
+      "topic": "Stability",
+      "slo": "P-09-B-49"
+    },
+    {
+      "id": "PHY9CH4-081",
+      "q": "Chapter 4 review — What happens to the centre of mass when a stable object is slightly tilted?",
+      "o": [
+        "It rises",
+        "It falls",
+        "Its mass doubles",
+        "It disappears"
+      ],
+      "a": 0,
+      "e": "A stable body gains gravitational potential energy on small displacement.",
+      "d": "Medium",
+      "topic": "Stability",
+      "slo": "P-09-B-49"
+    },
+    {
+      "id": "PHY9CH4-082",
+      "q": "What happens to the centre of mass when an unstable object is slightly tilted?",
+      "o": [
+        "It rises",
+        "It remains at the same height always",
+        "It becomes weightless",
+        "It falls"
+      ],
+      "a": 3,
+      "e": "The displaced body tends to move farther from its original position.",
+      "d": "Easy",
+      "topic": "Stability",
+      "slo": "P-09-B-49"
+    },
+    {
+      "id": "PHY9CH4-083",
+      "q": "Choose the correct statement: what happens to the centre of mass when an unstable object is slightly tilted?",
+      "o": [
+        "It rises",
+        "It becomes weightless",
+        "It falls",
+        "It remains at the same height always"
+      ],
+      "a": 2,
+      "e": "The displaced body tends to move farther from its original position.",
+      "d": "Medium",
+      "topic": "Stability",
+      "slo": "P-09-B-49"
+    },
+    {
+      "id": "PHY9CH4-084",
+      "q": "Chapter 4 review — What happens to the centre of mass when an unstable object is slightly tilted?",
+      "o": [
+        "It falls",
+        "It becomes weightless",
+        "It remains at the same height always",
+        "It rises"
+      ],
+      "a": 0,
+      "e": "The displaced body tends to move farther from its original position.",
+      "d": "Medium",
+      "topic": "Stability",
+      "slo": "P-09-B-49"
+    },
+    {
+      "id": "PHY9CH4-085",
+      "q": "What happens to centre-of-mass height in neutral equilibrium after a small displacement?",
+      "o": [
+        "It remains unchanged",
+        "It becomes infinite",
+        "It must rise",
+        "It must fall"
+      ],
+      "a": 0,
+      "e": "Neutral equilibrium involves no change in centre-of-mass height.",
+      "d": "Easy",
+      "topic": "Stability",
+      "slo": "P-09-B-49"
+    },
+    {
+      "id": "PHY9CH4-086",
+      "q": "Choose the correct statement: what happens to centre-of-mass height in neutral equilibrium after a small displacement?",
+      "o": [
+        "It must rise",
+        "It becomes infinite",
+        "It must fall",
+        "It remains unchanged"
+      ],
+      "a": 3,
+      "e": "Neutral equilibrium involves no change in centre-of-mass height.",
+      "d": "Medium",
+      "topic": "Stability",
+      "slo": "P-09-B-49"
+    },
+    {
+      "id": "PHY9CH4-087",
+      "q": "Chapter 4 review — What happens to centre-of-mass height in neutral equilibrium after a small displacement?",
+      "o": [
+        "It must rise",
+        "It becomes infinite",
+        "It remains unchanged",
+        "It must fall"
+      ],
+      "a": 2,
+      "e": "Neutral equilibrium involves no change in centre-of-mass height.",
+      "d": "Medium",
+      "topic": "Stability",
+      "slo": "P-09-B-49"
+    },
+    {
+      "id": "PHY9CH4-088",
+      "q": "Which object is typically in neutral equilibrium on a horizontal surface?",
+      "o": [
+        "A book lying flat",
+        "A ball resting on a flat floor",
+        "A top-heavy tower leaning",
+        "A cone balanced on its tip"
+      ],
+      "a": 1,
+      "e": "Rolling a sphere on a level floor does not change its centre-of-mass height.",
+      "d": "Easy",
+      "topic": "Stability",
+      "slo": "P-09-B-49"
+    },
+    {
+      "id": "PHY9CH4-089",
+      "q": "Choose the correct statement: which object is typically in neutral equilibrium on a horizontal surface?",
+      "o": [
+        "A book lying flat",
+        "A top-heavy tower leaning",
+        "A ball resting on a flat floor",
+        "A cone balanced on its tip"
+      ],
+      "a": 2,
+      "e": "Rolling a sphere on a level floor does not change its centre-of-mass height.",
+      "d": "Medium",
+      "topic": "Stability",
+      "slo": "P-09-B-49"
+    },
+    {
+      "id": "PHY9CH4-090",
+      "q": "Chapter 4 review — Which object is typically in neutral equilibrium on a horizontal surface?",
+      "o": [
+        "A book lying flat",
+        "A cone balanced on its tip",
+        "A ball resting on a flat floor",
+        "A top-heavy tower leaning"
+      ],
+      "a": 2,
+      "e": "Rolling a sphere on a level floor does not change its centre-of-mass height.",
+      "d": "Medium",
+      "topic": "Stability",
+      "slo": "P-09-B-49"
+    },
+    {
+      "id": "PHY9CH4-091",
+      "q": "How can an object’s stability be increased?",
+      "o": [
+        "Remove all support",
+        "Lower its centre of mass",
+        "Raise its centre of mass",
+        "Narrow its base"
+      ],
+      "a": 1,
+      "e": "A lower centre of mass improves resistance to toppling.",
+      "d": "Easy",
+      "topic": "Stability",
+      "slo": "P-09-B-50"
+    },
+    {
+      "id": "PHY9CH4-092",
+      "q": "Choose the correct statement: how can an object’s stability be increased?",
+      "o": [
+        "Lower its centre of mass",
+        "Narrow its base",
+        "Remove all support",
+        "Raise its centre of mass"
+      ],
+      "a": 0,
+      "e": "A lower centre of mass improves resistance to toppling.",
+      "d": "Medium",
+      "topic": "Stability",
+      "slo": "P-09-B-50"
+    },
+    {
+      "id": "PHY9CH4-093",
+      "q": "Chapter 4 review — How can an object’s stability be increased?",
+      "o": [
+        "Raise its centre of mass",
+        "Narrow its base",
+        "Remove all support",
+        "Lower its centre of mass"
+      ],
+      "a": 3,
+      "e": "A lower centre of mass improves resistance to toppling.",
+      "d": "Medium",
+      "topic": "Stability",
+      "slo": "P-09-B-50"
+    },
+    {
+      "id": "PHY9CH4-094",
+      "q": "Which base improves stability?",
+      "o": [
+        "A narrower support base",
+        "A taller unsupported base",
+        "A wider support base",
+        "No base at all"
+      ],
+      "a": 2,
+      "e": "A broad base permits a larger tilt before the weight line leaves the support area.",
+      "d": "Easy",
+      "topic": "Stability",
+      "slo": "P-09-B-50"
+    },
+    {
+      "id": "PHY9CH4-095",
+      "q": "Choose the correct statement: which base improves stability?",
+      "o": [
+        "No base at all",
+        "A narrower support base",
+        "A taller unsupported base",
+        "A wider support base"
+      ],
+      "a": 3,
+      "e": "A broad base permits a larger tilt before the weight line leaves the support area.",
+      "d": "Medium",
+      "topic": "Stability",
+      "slo": "P-09-B-50"
+    },
+    {
+      "id": "PHY9CH4-096",
+      "q": "Chapter 4 review — Which base improves stability?",
+      "o": [
+        "No base at all",
+        "A narrower support base",
+        "A wider support base",
+        "A taller unsupported base"
+      ],
+      "a": 2,
+      "e": "A broad base permits a larger tilt before the weight line leaves the support area.",
+      "d": "Medium",
+      "topic": "Stability",
+      "slo": "P-09-B-50"
+    },
+    {
+      "id": "PHY9CH4-097",
+      "q": "When does a supported object start to topple?",
+      "o": [
+        "Whenever its mass is large",
+        "When the weight line lies inside its base",
+        "When the line of action of weight falls outside its base",
+        "Whenever it is painted"
+      ],
+      "a": 2,
+      "e": "Outside the support base, weight produces a toppling moment.",
+      "d": "Easy",
+      "topic": "Stability",
+      "slo": "P-09-B-51"
+    },
+    {
+      "id": "PHY9CH4-098",
+      "q": "Choose the correct statement: when does a supported object start to topple?",
+      "o": [
+        "When the weight line lies inside its base",
+        "Whenever its mass is large",
+        "Whenever it is painted",
+        "When the line of action of weight falls outside its base"
+      ],
+      "a": 3,
+      "e": "Outside the support base, weight produces a toppling moment.",
+      "d": "Medium",
+      "topic": "Stability",
+      "slo": "P-09-B-51"
+    },
+    {
+      "id": "PHY9CH4-099",
+      "q": "Chapter 4 review — When does a supported object start to topple?",
+      "o": [
+        "When the weight line lies inside its base",
+        "Whenever its mass is large",
+        "When the line of action of weight falls outside its base",
+        "Whenever it is painted"
+      ],
+      "a": 2,
+      "e": "Outside the support base, weight produces a toppling moment.",
+      "d": "Medium",
+      "topic": "Stability",
+      "slo": "P-09-B-51"
+    },
+    {
+      "id": "PHY9CH4-100",
+      "q": "Why do racing cars have a low body design?",
+      "o": [
+        "To eliminate gravity",
+        "To remove all friction",
+        "To increase the gravitational constant",
+        "To lower the centre of mass and improve stability"
+      ],
+      "a": 3,
+      "e": "Lower centre of mass helps resist overturning.",
+      "d": "Easy",
+      "topic": "Stability",
+      "slo": "P-09-B-51"
+    },
+    {
+      "id": "PHY9CH4-101",
+      "q": "Choose the correct statement: why do racing cars have a low body design?",
+      "o": [
+        "To eliminate gravity",
+        "To lower the centre of mass and improve stability",
+        "To increase the gravitational constant",
+        "To remove all friction"
+      ],
+      "a": 1,
+      "e": "Lower centre of mass helps resist overturning.",
+      "d": "Medium",
+      "topic": "Stability",
+      "slo": "P-09-B-51"
+    },
+    {
+      "id": "PHY9CH4-102",
+      "q": "Chapter 4 review — Why do racing cars have a low body design?",
+      "o": [
+        "To increase the gravitational constant",
+        "To lower the centre of mass and improve stability",
+        "To eliminate gravity",
+        "To remove all friction"
+      ],
+      "a": 1,
+      "e": "Lower centre of mass helps resist overturning.",
+      "d": "Medium",
+      "topic": "Stability",
+      "slo": "P-09-B-51"
+    },
+    {
+      "id": "PHY9CH4-103",
+      "q": "What is friction?",
+      "o": [
+        "A measure of temperature",
+        "A force that always increases speed",
+        "A non-contact gravitational force",
+        "A force opposing relative motion or its tendency between contacting surfaces"
+      ],
+      "a": 3,
+      "e": "Friction acts along surfaces and opposes sliding or attempted sliding.",
+      "d": "Easy",
+      "topic": "Friction",
+      "slo": "P-09-B-35"
+    },
+    {
+      "id": "PHY9CH4-104",
+      "q": "Choose the correct statement: what is friction?",
+      "o": [
+        "A force that always increases speed",
+        "A measure of temperature",
+        "A non-contact gravitational force",
+        "A force opposing relative motion or its tendency between contacting surfaces"
+      ],
+      "a": 3,
+      "e": "Friction acts along surfaces and opposes sliding or attempted sliding.",
+      "d": "Medium",
+      "topic": "Friction",
+      "slo": "P-09-B-35"
+    },
+    {
+      "id": "PHY9CH4-105",
+      "q": "Chapter 4 review — What is friction?",
+      "o": [
+        "A non-contact gravitational force",
+        "A measure of temperature",
+        "A force opposing relative motion or its tendency between contacting surfaces",
+        "A force that always increases speed"
+      ],
+      "a": 2,
+      "e": "Friction acts along surfaces and opposes sliding or attempted sliding.",
+      "d": "Medium",
+      "topic": "Friction",
+      "slo": "P-09-B-35"
+    },
+    {
+      "id": "PHY9CH4-106",
+      "q": "Which direction does sliding friction act?",
+      "o": [
+        "Always along motion",
+        "Opposite the relative sliding direction",
+        "Always vertically upward",
+        "Always towards the Earth’s centre"
+      ],
+      "a": 1,
+      "e": "Sliding friction opposes relative surface motion.",
+      "d": "Easy",
+      "topic": "Friction",
+      "slo": "P-09-B-37"
+    },
+    {
+      "id": "PHY9CH4-107",
+      "q": "Choose the correct statement: which direction does sliding friction act?",
+      "o": [
+        "Always along motion",
+        "Always vertically upward",
+        "Opposite the relative sliding direction",
+        "Always towards the Earth’s centre"
+      ],
+      "a": 2,
+      "e": "Sliding friction opposes relative surface motion.",
+      "d": "Medium",
+      "topic": "Friction",
+      "slo": "P-09-B-37"
+    },
+    {
+      "id": "PHY9CH4-108",
+      "q": "Chapter 4 review — Which direction does sliding friction act?",
+      "o": [
+        "Always towards the Earth’s centre",
+        "Always along motion",
+        "Always vertically upward",
+        "Opposite the relative sliding direction"
+      ],
+      "a": 3,
+      "e": "Sliding friction opposes relative surface motion.",
+      "d": "Medium",
+      "topic": "Friction",
+      "slo": "P-09-B-37"
+    },
+    {
+      "id": "PHY9CH4-109",
+      "q": "What does static friction oppose?",
+      "o": [
+        "Only circular motion",
+        "Only motion through air",
+        "The tendency of surfaces to start sliding",
+        "Only gravitational attraction"
+      ],
+      "a": 2,
+      "e": "Static friction acts before slipping begins.",
+      "d": "Easy",
+      "topic": "Friction",
+      "slo": "P-09-B-35"
+    },
+    {
+      "id": "PHY9CH4-110",
+      "q": "Choose the correct statement: what does static friction oppose?",
+      "o": [
+        "Only motion through air",
+        "Only circular motion",
+        "The tendency of surfaces to start sliding",
+        "Only gravitational attraction"
+      ],
+      "a": 2,
+      "e": "Static friction acts before slipping begins.",
+      "d": "Medium",
+      "topic": "Friction",
+      "slo": "P-09-B-35"
+    },
+    {
+      "id": "PHY9CH4-111",
+      "q": "Chapter 4 review — What does static friction oppose?",
+      "o": [
+        "Only motion through air",
+        "Only circular motion",
+        "The tendency of surfaces to start sliding",
+        "Only gravitational attraction"
+      ],
+      "a": 2,
+      "e": "Static friction acts before slipping begins.",
+      "d": "Medium",
+      "topic": "Friction",
+      "slo": "P-09-B-35"
+    },
+    {
+      "id": "PHY9CH4-112",
+      "q": "Which friction is generally smaller for comparable conditions?",
+      "o": [
+        "Rolling friction",
+        "All friction is always equal",
+        "Maximum static friction",
+        "Sliding friction"
+      ],
+      "a": 0,
+      "e": "Rolling usually faces less resistance than sliding.",
+      "d": "Easy",
+      "topic": "Friction",
+      "slo": "P-09-B-37"
+    },
+    {
+      "id": "PHY9CH4-113",
+      "q": "Choose the correct statement: which friction is generally smaller for comparable conditions?",
+      "o": [
+        "Rolling friction",
+        "Maximum static friction",
+        "Sliding friction",
+        "All friction is always equal"
+      ],
+      "a": 0,
+      "e": "Rolling usually faces less resistance than sliding.",
+      "d": "Medium",
+      "topic": "Friction",
+      "slo": "P-09-B-37"
+    },
+    {
+      "id": "PHY9CH4-114",
+      "q": "Chapter 4 review — Which friction is generally smaller for comparable conditions?",
+      "o": [
+        "All friction is always equal",
+        "Sliding friction",
+        "Rolling friction",
+        "Maximum static friction"
+      ],
+      "a": 2,
+      "e": "Rolling usually faces less resistance than sliding.",
+      "d": "Medium",
+      "topic": "Friction",
+      "slo": "P-09-B-37"
+    },
+    {
+      "id": "PHY9CH4-115",
+      "q": "Why are ball bearings used in machines?",
+      "o": [
+        "To replace sliding with lower rolling friction",
+        "To stop all rotation",
+        "To increase sliding friction",
+        "To increase weight"
+      ],
+      "a": 0,
+      "e": "Bearings reduce resistance by allowing rolling motion.",
+      "d": "Easy",
+      "topic": "Friction",
+      "slo": "P-09-B-38"
+    },
+    {
+      "id": "PHY9CH4-116",
+      "q": "Choose the correct statement: why are ball bearings used in machines?",
+      "o": [
+        "To increase sliding friction",
+        "To stop all rotation",
+        "To replace sliding with lower rolling friction",
+        "To increase weight"
+      ],
+      "a": 2,
+      "e": "Bearings reduce resistance by allowing rolling motion.",
+      "d": "Medium",
+      "topic": "Friction",
+      "slo": "P-09-B-38"
+    },
+    {
+      "id": "PHY9CH4-117",
+      "q": "Chapter 4 review — Why are ball bearings used in machines?",
+      "o": [
+        "To increase weight",
+        "To replace sliding with lower rolling friction",
+        "To increase sliding friction",
+        "To stop all rotation"
+      ],
+      "a": 1,
+      "e": "Bearings reduce resistance by allowing rolling motion.",
+      "d": "Medium",
+      "topic": "Friction",
+      "slo": "P-09-B-38"
+    },
+    {
+      "id": "PHY9CH4-118",
+      "q": "What is the purpose of lubricants?",
+      "o": [
+        "To create gravity",
+        "To reduce friction between surfaces",
+        "To increase surface roughness",
+        "To increase weight"
+      ],
+      "a": 1,
+      "e": "Lubrication separates surfaces and reduces rubbing.",
+      "d": "Easy",
+      "topic": "Friction",
+      "slo": "P-09-B-38"
+    },
+    {
+      "id": "PHY9CH4-119",
+      "q": "Choose the correct statement: what is the purpose of lubricants?",
+      "o": [
+        "To increase surface roughness",
+        "To reduce friction between surfaces",
+        "To create gravity",
+        "To increase weight"
+      ],
+      "a": 1,
+      "e": "Lubrication separates surfaces and reduces rubbing.",
+      "d": "Medium",
+      "topic": "Friction",
+      "slo": "P-09-B-38"
+    },
+    {
+      "id": "PHY9CH4-120",
+      "q": "Chapter 4 review — What is the purpose of lubricants?",
+      "o": [
+        "To increase surface roughness",
+        "To increase weight",
+        "To reduce friction between surfaces",
+        "To create gravity"
+      ],
+      "a": 2,
+      "e": "Lubrication separates surfaces and reduces rubbing.",
+      "d": "Medium",
+      "topic": "Friction",
+      "slo": "P-09-B-38"
+    },
+    {
+      "id": "PHY9CH4-121",
+      "q": "Which method can reduce fluid drag?",
+      "o": [
+        "Streamlining the shape",
+        "Adding rough projections",
+        "Making the object wider",
+        "Increasing frontal area"
+      ],
+      "a": 0,
+      "e": "Streamlined shapes reduce resistance through fluids.",
+      "d": "Easy",
+      "topic": "Friction",
+      "slo": "P-09-B-38"
+    },
+    {
+      "id": "PHY9CH4-122",
+      "q": "Choose the correct statement: which method can reduce fluid drag?",
+      "o": [
+        "Making the object wider",
+        "Streamlining the shape",
+        "Adding rough projections",
+        "Increasing frontal area"
+      ],
+      "a": 1,
+      "e": "Streamlined shapes reduce resistance through fluids.",
+      "d": "Medium",
+      "topic": "Friction",
+      "slo": "P-09-B-38"
+    },
+    {
+      "id": "PHY9CH4-123",
+      "q": "Chapter 4 review — Which method can reduce fluid drag?",
+      "o": [
+        "Making the object wider",
+        "Increasing frontal area",
+        "Streamlining the shape",
+        "Adding rough projections"
+      ],
+      "a": 2,
+      "e": "Streamlined shapes reduce resistance through fluids.",
+      "d": "Medium",
+      "topic": "Friction",
+      "slo": "P-09-B-38"
+    },
+    {
+      "id": "PHY9CH4-124",
+      "q": "What does friction often convert mechanical energy into?",
+      "o": [
+        "Nuclear energy",
+        "Mass",
+        "Electric charge",
+        "Thermal energy"
+      ],
+      "a": 3,
+      "e": "Friction dissipates mechanical energy as heat.",
+      "d": "Easy",
+      "topic": "Frictional dissipation",
+      "slo": "P-09-B-35"
+    },
+    {
+      "id": "PHY9CH4-125",
+      "q": "Choose the correct statement: what does friction often convert mechanical energy into?",
+      "o": [
+        "Mass",
+        "Thermal energy",
+        "Nuclear energy",
+        "Electric charge"
+      ],
+      "a": 1,
+      "e": "Friction dissipates mechanical energy as heat.",
+      "d": "Medium",
+      "topic": "Frictional dissipation",
+      "slo": "P-09-B-35"
+    },
+    {
+      "id": "PHY9CH4-126",
+      "q": "Chapter 4 review — What does friction often convert mechanical energy into?",
+      "o": [
+        "Electric charge",
+        "Thermal energy",
+        "Mass",
+        "Nuclear energy"
+      ],
+      "a": 1,
+      "e": "Friction dissipates mechanical energy as heat.",
+      "d": "Medium",
+      "topic": "Frictional dissipation",
+      "slo": "P-09-B-35"
+    },
+    {
+      "id": "PHY9CH4-127",
+      "q": "Why do hands become warm when rubbed together?",
+      "o": [
+        "Friction converts work into heat",
+        "The hands lose all mass",
+        "Gravity stops acting",
+        "Pressure becomes zero"
+      ],
+      "a": 0,
+      "e": "Rubbing dissipates mechanical energy as thermal energy.",
+      "d": "Easy",
+      "topic": "Frictional dissipation",
+      "slo": "P-09-B-35"
+    },
+    {
+      "id": "PHY9CH4-128",
+      "q": "Choose the correct statement: why do hands become warm when rubbed together?",
+      "o": [
+        "Friction converts work into heat",
+        "The hands lose all mass",
+        "Pressure becomes zero",
+        "Gravity stops acting"
+      ],
+      "a": 0,
+      "e": "Rubbing dissipates mechanical energy as thermal energy.",
+      "d": "Medium",
+      "topic": "Frictional dissipation",
+      "slo": "P-09-B-35"
+    },
+    {
+      "id": "PHY9CH4-129",
+      "q": "Chapter 4 review — Why do hands become warm when rubbed together?",
+      "o": [
+        "The hands lose all mass",
+        "Friction converts work into heat",
+        "Gravity stops acting",
+        "Pressure becomes zero"
+      ],
+      "a": 1,
+      "e": "Rubbing dissipates mechanical energy as thermal energy.",
+      "d": "Medium",
+      "topic": "Frictional dissipation",
+      "slo": "P-09-B-35"
+    },
+    {
+      "id": "PHY9CH4-130",
+      "q": "What is air resistance?",
+      "o": [
+        "A type of magnetic attraction",
+        "A drag force opposing motion through air",
+        "A force that always speeds falling objects",
+        "A force acting only in vacuum"
+      ],
+      "a": 1,
+      "e": "Air resistance opposes relative motion through air.",
+      "d": "Easy",
+      "topic": "Terminal velocity",
+      "slo": "P-09-B-36"
+    },
+    {
+      "id": "PHY9CH4-131",
+      "q": "Choose the correct statement: what is air resistance?",
+      "o": [
+        "A force acting only in vacuum",
+        "A force that always speeds falling objects",
+        "A type of magnetic attraction",
+        "A drag force opposing motion through air"
+      ],
+      "a": 3,
+      "e": "Air resistance opposes relative motion through air.",
+      "d": "Medium",
+      "topic": "Terminal velocity",
+      "slo": "P-09-B-36"
+    },
+    {
+      "id": "PHY9CH4-132",
+      "q": "Chapter 4 review — What is air resistance?",
+      "o": [
+        "A type of magnetic attraction",
+        "A force acting only in vacuum",
+        "A force that always speeds falling objects",
+        "A drag force opposing motion through air"
+      ],
+      "a": 3,
+      "e": "Air resistance opposes relative motion through air.",
+      "d": "Medium",
+      "topic": "Terminal velocity",
+      "slo": "P-09-B-36"
+    },
+    {
+      "id": "PHY9CH4-133",
+      "q": "What is terminal velocity?",
+      "o": [
+        "Maximum acceleration at release",
+        "Constant falling velocity when drag balances weight",
+        "Speed in a vacuum only",
+        "Zero speed at every instant"
+      ],
+      "a": 1,
+      "e": "At terminal velocity the net force and acceleration are zero.",
+      "d": "Easy",
+      "topic": "Terminal velocity",
+      "slo": "P-09-B-36"
+    },
+    {
+      "id": "PHY9CH4-134",
+      "q": "Choose the correct statement: what is terminal velocity?",
+      "o": [
+        "Zero speed at every instant",
+        "Maximum acceleration at release",
+        "Speed in a vacuum only",
+        "Constant falling velocity when drag balances weight"
+      ],
+      "a": 3,
+      "e": "At terminal velocity the net force and acceleration are zero.",
+      "d": "Medium",
+      "topic": "Terminal velocity",
+      "slo": "P-09-B-36"
+    },
+    {
+      "id": "PHY9CH4-135",
+      "q": "Chapter 4 review — What is terminal velocity?",
+      "o": [
+        "Constant falling velocity when drag balances weight",
+        "Maximum acceleration at release",
+        "Zero speed at every instant",
+        "Speed in a vacuum only"
+      ],
+      "a": 0,
+      "e": "At terminal velocity the net force and acceleration are zero.",
+      "d": "Medium",
+      "topic": "Terminal velocity",
+      "slo": "P-09-B-36"
+    },
+    {
+      "id": "PHY9CH4-136",
+      "q": "At terminal velocity, what is the net force on a falling object?",
+      "o": [
+        "Always upward and increasing",
+        "Infinite",
+        "Equal to twice its weight",
+        "Zero"
+      ],
+      "a": 3,
+      "e": "Drag and weight balance at terminal velocity.",
+      "d": "Easy",
+      "topic": "Terminal velocity",
+      "slo": "P-09-B-36"
+    },
+    {
+      "id": "PHY9CH4-137",
+      "q": "Choose the correct statement: at terminal velocity, what is the net force on a falling object?",
+      "o": [
+        "Infinite",
+        "Always upward and increasing",
+        "Equal to twice its weight",
+        "Zero"
+      ],
+      "a": 3,
+      "e": "Drag and weight balance at terminal velocity.",
+      "d": "Medium",
+      "topic": "Terminal velocity",
+      "slo": "P-09-B-36"
+    },
+    {
+      "id": "PHY9CH4-138",
+      "q": "Chapter 4 review — At terminal velocity, what is the net force on a falling object?",
+      "o": [
+        "Equal to twice its weight",
+        "Infinite",
+        "Zero",
+        "Always upward and increasing"
+      ],
+      "a": 2,
+      "e": "Drag and weight balance at terminal velocity.",
+      "d": "Medium",
+      "topic": "Terminal velocity",
+      "slo": "P-09-B-36"
+    },
+    {
+      "id": "PHY9CH4-139",
+      "q": "What happens to a skydiver’s terminal speed after a parachute opens?",
+      "o": [
+        "It stays unchanged",
+        "It increases without limit",
+        "It becomes the speed of light",
+        "It decreases"
+      ],
+      "a": 3,
+      "e": "A parachute increases drag area and lowers terminal speed.",
+      "d": "Easy",
+      "topic": "Terminal velocity",
+      "slo": "P-09-B-36"
+    },
+    {
+      "id": "PHY9CH4-140",
+      "q": "Choose the correct statement: what happens to a skydiver’s terminal speed after a parachute opens?",
+      "o": [
+        "It stays unchanged",
+        "It increases without limit",
+        "It decreases",
+        "It becomes the speed of light"
+      ],
+      "a": 2,
+      "e": "A parachute increases drag area and lowers terminal speed.",
+      "d": "Medium",
+      "topic": "Terminal velocity",
+      "slo": "P-09-B-36"
+    },
+    {
+      "id": "PHY9CH4-141",
+      "q": "Chapter 4 review — What happens to a skydiver’s terminal speed after a parachute opens?",
+      "o": [
+        "It increases without limit",
+        "It becomes the speed of light",
+        "It stays unchanged",
+        "It decreases"
+      ],
+      "a": 3,
+      "e": "A parachute increases drag area and lowers terminal speed.",
+      "d": "Medium",
+      "topic": "Terminal velocity",
+      "slo": "P-09-B-36"
+    },
+    {
+      "id": "PHY9CH4-142",
+      "q": "What is centripetal force directed towards?",
+      "o": [
+        "The centre of the circular path",
+        "Always vertically downward",
+        "Tangentially forward",
+        "Away from the centre"
+      ],
+      "a": 0,
+      "e": "Centripetal means centre-seeking.",
+      "d": "Easy",
+      "topic": "Centripetal force",
+      "slo": "P-09-B-53"
+    },
+    {
+      "id": "PHY9CH4-143",
+      "q": "Choose the correct statement: what is centripetal force directed towards?",
+      "o": [
+        "Always vertically downward",
+        "The centre of the circular path",
+        "Tangentially forward",
+        "Away from the centre"
+      ],
+      "a": 1,
+      "e": "Centripetal means centre-seeking.",
+      "d": "Medium",
+      "topic": "Centripetal force",
+      "slo": "P-09-B-53"
+    },
+    {
+      "id": "PHY9CH4-144",
+      "q": "Chapter 4 review — What is centripetal force directed towards?",
+      "o": [
+        "Always vertically downward",
+        "Tangentially forward",
+        "The centre of the circular path",
+        "Away from the centre"
+      ],
+      "a": 2,
+      "e": "Centripetal means centre-seeking.",
+      "d": "Medium",
+      "topic": "Centripetal force",
+      "slo": "P-09-B-53"
+    },
+    {
+      "id": "PHY9CH4-145",
+      "q": "Which force supplies centripetal force to a ball swung on a string?",
+      "o": [
+        "Nuclear force",
+        "Air pressure only",
+        "String tension",
+        "Buoyant force"
+      ],
+      "a": 2,
+      "e": "The inward tension bends the path into a circle.",
+      "d": "Easy",
+      "topic": "Centripetal force",
+      "slo": "P-09-B-54"
+    },
+    {
+      "id": "PHY9CH4-146",
+      "q": "Choose the correct statement: which force supplies centripetal force to a ball swung on a string?",
+      "o": [
+        "Nuclear force",
+        "String tension",
+        "Buoyant force",
+        "Air pressure only"
+      ],
+      "a": 1,
+      "e": "The inward tension bends the path into a circle.",
+      "d": "Medium",
+      "topic": "Centripetal force",
+      "slo": "P-09-B-54"
+    },
+    {
+      "id": "PHY9CH4-147",
+      "q": "Chapter 4 review — Which force supplies centripetal force to a ball swung on a string?",
+      "o": [
+        "String tension",
+        "Nuclear force",
+        "Air pressure only",
+        "Buoyant force"
+      ],
+      "a": 0,
+      "e": "The inward tension bends the path into a circle.",
+      "d": "Medium",
+      "topic": "Centripetal force",
+      "slo": "P-09-B-54"
+    },
+    {
+      "id": "PHY9CH4-148",
+      "q": "What supplies the centripetal force for planets orbiting the Sun?",
+      "o": [
+        "Friction with air",
+        "Tension in a rope",
+        "Gravity",
+        "Normal force from a road"
+      ],
+      "a": 2,
+      "e": "Solar gravity continually bends planetary trajectories.",
+      "d": "Easy",
+      "topic": "Centripetal force",
+      "slo": "P-09-B-54"
+    },
+    {
+      "id": "PHY9CH4-149",
+      "q": "Choose the correct statement: what supplies the centripetal force for planets orbiting the Sun?",
+      "o": [
+        "Gravity",
+        "Friction with air",
+        "Normal force from a road",
+        "Tension in a rope"
+      ],
+      "a": 0,
+      "e": "Solar gravity continually bends planetary trajectories.",
+      "d": "Medium",
+      "topic": "Centripetal force",
+      "slo": "P-09-B-54"
+    },
+    {
+      "id": "PHY9CH4-150",
+      "q": "Chapter 4 review — What supplies the centripetal force for planets orbiting the Sun?",
+      "o": [
+        "Gravity",
+        "Friction with air",
+        "Normal force from a road",
+        "Tension in a rope"
+      ],
+      "a": 0,
+      "e": "Solar gravity continually bends planetary trajectories.",
+      "d": "Medium",
+      "topic": "Centripetal force",
+      "slo": "P-09-B-54"
+    },
+    {
+      "id": "PHY9CH4-151",
+      "q": "What supplies centripetal force for a car turning on a level road?",
+      "o": [
+        "The car’s colour",
+        "A vertical normal force alone",
+        "Only its weight",
+        "Tyre-road friction"
+      ],
+      "a": 3,
+      "e": "Lateral tyre-road friction provides inward force.",
+      "d": "Easy",
+      "topic": "Centripetal force",
+      "slo": "P-09-B-54"
+    },
+    {
+      "id": "PHY9CH4-152",
+      "q": "Choose the correct statement: what supplies centripetal force for a car turning on a level road?",
+      "o": [
+        "Only its weight",
+        "Tyre-road friction",
+        "The car’s colour",
+        "A vertical normal force alone"
+      ],
+      "a": 1,
+      "e": "Lateral tyre-road friction provides inward force.",
+      "d": "Medium",
+      "topic": "Centripetal force",
+      "slo": "P-09-B-54"
+    },
+    {
+      "id": "PHY9CH4-153",
+      "q": "Chapter 4 review — What supplies centripetal force for a car turning on a level road?",
+      "o": [
+        "Only its weight",
+        "The car’s colour",
+        "Tyre-road friction",
+        "A vertical normal force alone"
+      ],
+      "a": 2,
+      "e": "Lateral tyre-road friction provides inward force.",
+      "d": "Medium",
+      "topic": "Centripetal force",
+      "slo": "P-09-B-54"
+    },
+    {
+      "id": "PHY9CH4-154",
+      "q": "What happens to an object released from circular motion if other forces are neglected?",
+      "o": [
+        "It moves along the tangent at release",
+        "It continues a perfect circle",
+        "It stops immediately",
+        "It moves radially outward instantly"
+      ],
+      "a": 0,
+      "e": "Without inward force, velocity continues in a straight tangent line.",
+      "d": "Easy",
+      "topic": "Centripetal force",
+      "slo": "P-09-B-53"
+    },
+    {
+      "id": "PHY9CH4-155",
+      "q": "Choose the correct statement: what happens to an object released from circular motion if other forces are neglected?",
+      "o": [
+        "It continues a perfect circle",
+        "It moves radially outward instantly",
+        "It stops immediately",
+        "It moves along the tangent at release"
+      ],
+      "a": 3,
+      "e": "Without inward force, velocity continues in a straight tangent line.",
+      "d": "Medium",
+      "topic": "Centripetal force",
+      "slo": "P-09-B-53"
+    },
+    {
+      "id": "PHY9CH4-156",
+      "q": "Chapter 4 review — What happens to an object released from circular motion if other forces are neglected?",
+      "o": [
+        "It moves radially outward instantly",
+        "It continues a perfect circle",
+        "It stops immediately",
+        "It moves along the tangent at release"
+      ],
+      "a": 3,
+      "e": "Without inward force, velocity continues in a straight tangent line.",
+      "d": "Medium",
+      "topic": "Centripetal force",
+      "slo": "P-09-B-53"
+    },
+    {
+      "id": "PHY9CH4-157",
+      "q": "Can an object moving at constant speed in a circle have acceleration?",
+      "o": [
+        "Only if it is falling",
+        "Yes, because velocity direction changes",
+        "No, its mass is constant",
+        "No, speed is constant"
+      ],
+      "a": 1,
+      "e": "Changing velocity direction creates centripetal acceleration.",
+      "d": "Easy",
+      "topic": "Centripetal force",
+      "slo": "P-09-B-53"
+    },
+    {
+      "id": "PHY9CH4-158",
+      "q": "Choose the correct statement: can an object moving at constant speed in a circle have acceleration?",
+      "o": [
+        "No, speed is constant",
+        "Only if it is falling",
+        "No, its mass is constant",
+        "Yes, because velocity direction changes"
+      ],
+      "a": 3,
+      "e": "Changing velocity direction creates centripetal acceleration.",
+      "d": "Medium",
+      "topic": "Centripetal force",
+      "slo": "P-09-B-53"
+    },
+    {
+      "id": "PHY9CH4-159",
+      "q": "Chapter 4 review — Can an object moving at constant speed in a circle have acceleration?",
+      "o": [
+        "No, speed is constant",
+        "No, its mass is constant",
+        "Only if it is falling",
+        "Yes, because velocity direction changes"
+      ],
+      "a": 3,
+      "e": "Changing velocity direction creates centripetal acceleration.",
+      "d": "Medium",
+      "topic": "Centripetal force",
+      "slo": "P-09-B-53"
+    },
+    {
+      "id": "PHY9CH4-160",
+      "q": "What is an orbit?",
+      "o": [
+        "A stationary point",
+        "A regular repeating path around another body",
+        "A force measurement",
+        "A straight road"
+      ],
+      "a": 1,
+      "e": "Orbital motion follows a repeating path around another body.",
+      "d": "Easy",
+      "topic": "Orbital motion",
+      "slo": "P-09-F-01"
+    },
+    {
+      "id": "PHY9CH4-161",
+      "q": "Choose the correct statement: what is an orbit?",
+      "o": [
+        "A stationary point",
+        "A regular repeating path around another body",
+        "A straight road",
+        "A force measurement"
+      ],
+      "a": 1,
+      "e": "Orbital motion follows a repeating path around another body.",
+      "d": "Medium",
+      "topic": "Orbital motion",
+      "slo": "P-09-F-01"
+    },
+    {
+      "id": "PHY9CH4-162",
+      "q": "Chapter 4 review — What is an orbit?",
+      "o": [
+        "A force measurement",
+        "A regular repeating path around another body",
+        "A stationary point",
+        "A straight road"
+      ],
+      "a": 1,
+      "e": "Orbital motion follows a repeating path around another body.",
+      "d": "Medium",
+      "topic": "Orbital motion",
+      "slo": "P-09-F-01"
+    },
+    {
+      "id": "PHY9CH4-163",
+      "q": "What is the orbital period?",
+      "o": [
+        "Mass of the satellite",
+        "Time for one complete orbit",
+        "Force per unit area",
+        "Distance of one orbit"
+      ],
+      "a": 1,
+      "e": "Orbital period T measures one revolution.",
+      "d": "Easy",
+      "topic": "Orbital motion",
+      "slo": "P-09-F-01"
+    },
+    {
+      "id": "PHY9CH4-164",
+      "q": "Choose the correct statement: what is the orbital period?",
+      "o": [
+        "Distance of one orbit",
+        "Mass of the satellite",
+        "Force per unit area",
+        "Time for one complete orbit"
+      ],
+      "a": 3,
+      "e": "Orbital period T measures one revolution.",
+      "d": "Medium",
+      "topic": "Orbital motion",
+      "slo": "P-09-F-01"
+    },
+    {
+      "id": "PHY9CH4-165",
+      "q": "Chapter 4 review — What is the orbital period?",
+      "o": [
+        "Time for one complete orbit",
+        "Mass of the satellite",
+        "Distance of one orbit",
+        "Force per unit area"
+      ],
+      "a": 0,
+      "e": "Orbital period T measures one revolution.",
+      "d": "Medium",
+      "topic": "Orbital motion",
+      "slo": "P-09-F-01"
+    },
+    {
+      "id": "PHY9CH4-166",
+      "q": "What is average orbital speed for a circular orbit of radius r and period T?",
+      "o": [
+        "2πr/T",
+        "T/(2πr)",
+        "2πT/r",
+        "rT/2π"
+      ],
+      "a": 0,
+      "e": "Circumference divided by orbital period gives average speed.",
+      "d": "Easy",
+      "topic": "Orbital motion",
+      "slo": "P-09-F-01"
+    },
+    {
+      "id": "PHY9CH4-167",
+      "q": "Choose the correct statement: what is average orbital speed for a circular orbit of radius r and period T?",
+      "o": [
+        "2πT/r",
+        "2πr/T",
+        "T/(2πr)",
+        "rT/2π"
+      ],
+      "a": 1,
+      "e": "Circumference divided by orbital period gives average speed.",
+      "d": "Medium",
+      "topic": "Orbital motion",
+      "slo": "P-09-F-01"
+    },
+    {
+      "id": "PHY9CH4-168",
+      "q": "Chapter 4 review — What is average orbital speed for a circular orbit of radius r and period T?",
+      "o": [
+        "rT/2π",
+        "T/(2πr)",
+        "2πr/T",
+        "2πT/r"
+      ],
+      "a": 2,
+      "e": "Circumference divided by orbital period gives average speed.",
+      "d": "Medium",
+      "topic": "Orbital motion",
+      "slo": "P-09-F-01"
+    },
+    {
+      "id": "PHY9CH4-169",
+      "q": "Which is a natural satellite of Earth?",
+      "o": [
+        "A weather satellite launched by rocket",
+        "A communication satellite",
+        "The Moon",
+        "A space station"
+      ],
+      "a": 2,
+      "e": "The Moon is Earth’s natural satellite.",
+      "d": "Easy",
+      "topic": "Orbital motion",
+      "slo": "P-09-F-01"
+    },
+    {
+      "id": "PHY9CH4-170",
+      "q": "Choose the correct statement: which is a natural satellite of Earth?",
+      "o": [
+        "The Moon",
+        "A space station",
+        "A communication satellite",
+        "A weather satellite launched by rocket"
+      ],
+      "a": 0,
+      "e": "The Moon is Earth’s natural satellite.",
+      "d": "Medium",
+      "topic": "Orbital motion",
+      "slo": "P-09-F-01"
+    },
+    {
+      "id": "PHY9CH4-171",
+      "q": "Chapter 4 review — Which is a natural satellite of Earth?",
+      "o": [
+        "The Moon",
+        "A communication satellite",
+        "A weather satellite launched by rocket",
+        "A space station"
+      ],
+      "a": 0,
+      "e": "The Moon is Earth’s natural satellite.",
+      "d": "Medium",
+      "topic": "Orbital motion",
+      "slo": "P-09-F-01"
+    },
+    {
+      "id": "PHY9CH4-172",
+      "q": "Which is an artificial satellite?",
+      "o": [
+        "Mars",
+        "A naturally occurring asteroid",
+        "The Moon",
+        "A human-made spacecraft in orbit"
+      ],
+      "a": 3,
+      "e": "Artificial satellites are launched by humans.",
+      "d": "Easy",
+      "topic": "Orbital motion",
+      "slo": "P-09-F-01"
+    },
+    {
+      "id": "PHY9CH4-173",
+      "q": "Choose the correct statement: which is an artificial satellite?",
+      "o": [
+        "The Moon",
+        "A human-made spacecraft in orbit",
+        "A naturally occurring asteroid",
+        "Mars"
+      ],
+      "a": 1,
+      "e": "Artificial satellites are launched by humans.",
+      "d": "Medium",
+      "topic": "Orbital motion",
+      "slo": "P-09-F-01"
+    },
+    {
+      "id": "PHY9CH4-174",
+      "q": "Chapter 4 review — Which is an artificial satellite?",
+      "o": [
+        "A naturally occurring asteroid",
+        "The Moon",
+        "A human-made spacecraft in orbit",
+        "Mars"
+      ],
+      "a": 2,
+      "e": "Artificial satellites are launched by humans.",
+      "d": "Medium",
+      "topic": "Orbital motion",
+      "slo": "P-09-F-01"
+    },
+    {
+      "id": "PHY9CH4-175",
+      "q": "How long does Earth take approximately to orbit the Sun?",
+      "o": [
+        "24 hours",
+        "365 days",
+        "12 hours",
+        "30 days"
+      ],
+      "a": 1,
+      "e": "Earth’s orbital period around the Sun is approximately one year.",
+      "d": "Easy",
+      "topic": "Planetary data",
+      "slo": "P-09-F-02"
+    },
+    {
+      "id": "PHY9CH4-176",
+      "q": "Choose the correct statement: how long does Earth take approximately to orbit the Sun?",
+      "o": [
+        "12 hours",
+        "30 days",
+        "365 days",
+        "24 hours"
+      ],
+      "a": 2,
+      "e": "Earth’s orbital period around the Sun is approximately one year.",
+      "d": "Medium",
+      "topic": "Planetary data",
+      "slo": "P-09-F-02"
+    },
+    {
+      "id": "PHY9CH4-177",
+      "q": "Chapter 4 review — How long does Earth take approximately to orbit the Sun?",
+      "o": [
+        "365 days",
+        "30 days",
+        "24 hours",
+        "12 hours"
+      ],
+      "a": 0,
+      "e": "Earth’s orbital period around the Sun is approximately one year.",
+      "d": "Medium",
+      "topic": "Planetary data",
+      "slo": "P-09-F-02"
+    },
+    {
+      "id": "PHY9CH4-178",
+      "q": "Which planet takes longer to orbit the Sun?",
+      "o": [
+        "Venus",
+        "Mercury",
+        "Neptune",
+        "Earth"
+      ],
+      "a": 2,
+      "e": "Distant Neptune has a much longer orbital period.",
+      "d": "Easy",
+      "topic": "Planetary data",
+      "slo": "P-09-F-02"
+    },
+    {
+      "id": "PHY9CH4-179",
+      "q": "Choose the correct statement: which planet takes longer to orbit the Sun?",
+      "o": [
+        "Earth",
+        "Neptune",
+        "Venus",
+        "Mercury"
+      ],
+      "a": 1,
+      "e": "Distant Neptune has a much longer orbital period.",
+      "d": "Medium",
+      "topic": "Planetary data",
+      "slo": "P-09-F-02"
+    },
+    {
+      "id": "PHY9CH4-180",
+      "q": "Chapter 4 review — Which planet takes longer to orbit the Sun?",
+      "o": [
+        "Mercury",
+        "Neptune",
+        "Venus",
+        "Earth"
+      ],
+      "a": 1,
+      "e": "Distant Neptune has a much longer orbital period.",
+      "d": "Medium",
+      "topic": "Planetary data",
+      "slo": "P-09-F-02"
+    },
+    {
+      "id": "PHY9CH4-181",
+      "q": "As orbital distance from the Sun increases for planets, orbital period generally:",
+      "o": [
+        "Decreases to zero",
+        "Becomes negative",
+        "Remains exactly the same",
+        "Increases"
+      ],
+      "a": 3,
+      "e": "Outer planets generally take longer to complete a solar orbit.",
+      "d": "Easy",
+      "topic": "Planetary data",
+      "slo": "P-09-F-02"
+    },
+    {
+      "id": "PHY9CH4-182",
+      "q": "Choose the correct statement: as orbital distance from the Sun increases for planets, orbital period generally:",
+      "o": [
+        "Remains exactly the same",
+        "Becomes negative",
+        "Increases",
+        "Decreases to zero"
+      ],
+      "a": 2,
+      "e": "Outer planets generally take longer to complete a solar orbit.",
+      "d": "Medium",
+      "topic": "Planetary data",
+      "slo": "P-09-F-02"
+    },
+    {
+      "id": "PHY9CH4-183",
+      "q": "Chapter 4 review — As orbital distance from the Sun increases for planets, orbital period generally:",
+      "o": [
+        "Decreases to zero",
+        "Becomes negative",
+        "Remains exactly the same",
+        "Increases"
+      ],
+      "a": 3,
+      "e": "Outer planets generally take longer to complete a solar orbit.",
+      "d": "Medium",
+      "topic": "Planetary data",
+      "slo": "P-09-F-02"
+    },
+    {
+      "id": "PHY9CH4-184",
+      "q": "A force of 10 N acts perpendicular to a lever at 0.2 m from the pivot. Find the torque.",
+      "o": [
+        "4 N m",
+        "10.2 N m",
+        "2 N m",
+        "50 N m"
+      ],
+      "a": 2,
+      "e": "Torque = Fd = 10 × 0.2 = 2 N m.",
+      "d": "Medium",
+      "topic": "Torque",
+      "slo": "P-09-B-44"
+    },
+    {
+      "id": "PHY9CH4-185",
+      "q": "A force of 20 N acts perpendicular to a lever at 0.3 m from the pivot. Find the torque.",
+      "o": [
+        "12 N m",
+        "20.3 N m",
+        "66.6667 N m",
+        "6 N m"
+      ],
+      "a": 3,
+      "e": "Torque = Fd = 20 × 0.3 = 6 N m.",
+      "d": "Medium",
+      "topic": "Torque",
+      "slo": "P-09-B-44"
+    },
+    {
+      "id": "PHY9CH4-186",
+      "q": "A force of 15 N acts perpendicular to a lever at 0.4 m from the pivot. Find the torque.",
+      "o": [
+        "15.4 N m",
+        "12 N m",
+        "6 N m",
+        "37.5 N m"
+      ],
+      "a": 2,
+      "e": "Torque = Fd = 15 × 0.4 = 6 N m.",
+      "d": "Medium",
+      "topic": "Torque",
+      "slo": "P-09-B-44"
+    },
+    {
+      "id": "PHY9CH4-187",
+      "q": "A force of 25 N acts perpendicular to a lever at 0.6 m from the pivot. Find the torque.",
+      "o": [
+        "15 N m",
+        "41.6667 N m",
+        "30 N m",
+        "25.6 N m"
+      ],
+      "a": 0,
+      "e": "Torque = Fd = 25 × 0.6 = 15 N m.",
+      "d": "Medium",
+      "topic": "Torque",
+      "slo": "P-09-B-44"
+    },
+    {
+      "id": "PHY9CH4-188",
+      "q": "A force of 12 N acts perpendicular to a lever at 0.5 m from the pivot. Find the torque.",
+      "o": [
+        "12.5 N m",
+        "24 N m",
+        "12 N m",
+        "6 N m"
+      ],
+      "a": 3,
+      "e": "Torque = Fd = 12 × 0.5 = 6 N m.",
+      "d": "Medium",
+      "topic": "Torque",
+      "slo": "P-09-B-44"
+    },
+    {
+      "id": "PHY9CH4-189",
+      "q": "A force of 30 N acts perpendicular to a lever at 0.2 m from the pivot. Find the torque.",
+      "o": [
+        "12 N m",
+        "6 N m",
+        "30.2 N m",
+        "150 N m"
+      ],
+      "a": 1,
+      "e": "Torque = Fd = 30 × 0.2 = 6 N m.",
+      "d": "Medium",
+      "topic": "Torque",
+      "slo": "P-09-B-44"
+    },
+    {
+      "id": "PHY9CH4-190",
+      "q": "A force of 40 N acts perpendicular to a lever at 0.25 m from the pivot. Find the torque.",
+      "o": [
+        "20 N m",
+        "160 N m",
+        "10 N m",
+        "40.25 N m"
+      ],
+      "a": 2,
+      "e": "Torque = Fd = 40 × 0.25 = 10 N m.",
+      "d": "Medium",
+      "topic": "Torque",
+      "slo": "P-09-B-44"
+    },
+    {
+      "id": "PHY9CH4-191",
+      "q": "A force of 50 N acts perpendicular to a lever at 0.4 m from the pivot. Find the torque.",
+      "o": [
+        "125 N m",
+        "50.4 N m",
+        "20 N m",
+        "40 N m"
+      ],
+      "a": 2,
+      "e": "Torque = Fd = 50 × 0.4 = 20 N m.",
+      "d": "Medium",
+      "topic": "Torque",
+      "slo": "P-09-B-44"
+    },
+    {
+      "id": "PHY9CH4-192",
+      "q": "A force of 8 N acts perpendicular to a lever at 0.75 m from the pivot. Find the torque.",
+      "o": [
+        "12 N m",
+        "8.75 N m",
+        "10.6667 N m",
+        "6 N m"
+      ],
+      "a": 3,
+      "e": "Torque = Fd = 8 × 0.75 = 6 N m.",
+      "d": "Medium",
+      "topic": "Torque",
+      "slo": "P-09-B-44"
+    },
+    {
+      "id": "PHY9CH4-193",
+      "q": "A force of 60 N acts perpendicular to a lever at 0.15 m from the pivot. Find the torque.",
+      "o": [
+        "18 N m",
+        "9 N m",
+        "400 N m",
+        "60.15 N m"
+      ],
+      "a": 1,
+      "e": "Torque = Fd = 60 × 0.15 = 9 N m.",
+      "d": "Medium",
+      "topic": "Torque",
+      "slo": "P-09-B-44"
+    },
+    {
+      "id": "PHY9CH4-194",
+      "q": "A seesaw has 100 N at 0.4 m on one side. At what distance should 200 N act on the other side to balance it?",
+      "o": [
+        "0.8 m",
+        "0.7 m",
+        "0.2 m",
+        "0.4 m"
+      ],
+      "a": 2,
+      "e": "Equal moments: 100 × 0.4 = 200 × d; d = 0.2 m.",
+      "d": "Hard",
+      "topic": "Principle of moments",
+      "slo": "P-09-B-45"
+    },
+    {
+      "id": "PHY9CH4-195",
+      "q": "A seesaw has 250 N at 0.6 m on one side. At what distance should 200 N act on the other side to balance it?",
+      "o": [
+        "0.75 m",
+        "0.6 m",
+        "0.48 m",
+        "1.25 m"
+      ],
+      "a": 0,
+      "e": "Equal moments: 250 × 0.6 = 200 × d; d = 0.75 m.",
+      "d": "Hard",
+      "topic": "Principle of moments",
+      "slo": "P-09-B-45"
+    },
+    {
+      "id": "PHY9CH4-196",
+      "q": "A seesaw has 300 N at 0.5 m on one side. At what distance should 150 N act on the other side to balance it?",
+      "o": [
+        "1.5 m",
+        "0.25 m",
+        "1 m",
+        "0.5 m"
+      ],
+      "a": 2,
+      "e": "Equal moments: 300 × 0.5 = 150 × d; d = 1 m.",
+      "d": "Hard",
+      "topic": "Principle of moments",
+      "slo": "P-09-B-45"
+    },
+    {
+      "id": "PHY9CH4-197",
+      "q": "A seesaw has 120 N at 0.3 m on one side. At what distance should 90 N act on the other side to balance it?",
+      "o": [
+        "0.3 m",
+        "0.4 m",
+        "0.9 m",
+        "0.225 m"
+      ],
+      "a": 1,
+      "e": "Equal moments: 120 × 0.3 = 90 × d; d = 0.4 m.",
+      "d": "Hard",
+      "topic": "Principle of moments",
+      "slo": "P-09-B-45"
+    },
+    {
+      "id": "PHY9CH4-198",
+      "q": "A seesaw has 80 N at 0.75 m on one side. At what distance should 100 N act on the other side to balance it?",
+      "o": [
+        "0.75 m",
+        "0.6 m",
+        "1.1 m",
+        "0.9375 m"
+      ],
+      "a": 1,
+      "e": "Equal moments: 80 × 0.75 = 100 × d; d = 0.6 m.",
+      "d": "Hard",
+      "topic": "Principle of moments",
+      "slo": "P-09-B-45"
+    },
+    {
+      "id": "PHY9CH4-199",
+      "q": "A seesaw has 400 N at 0.2 m on one side. At what distance should 160 N act on the other side to balance it?",
+      "o": [
+        "0.08 m",
+        "0.2 m",
+        "0.5 m",
+        "1 m"
+      ],
+      "a": 2,
+      "e": "Equal moments: 400 × 0.2 = 160 × d; d = 0.5 m.",
+      "d": "Hard",
+      "topic": "Principle of moments",
+      "slo": "P-09-B-45"
+    },
+    {
+      "id": "PHY9CH4-200",
+      "q": "A seesaw has 60 N at 0.5 m on one side. At what distance should 75 N act on the other side to balance it?",
+      "o": [
+        "0.9 m",
+        "0.5 m",
+        "0.625 m",
+        "0.4 m"
+      ],
+      "a": 3,
+      "e": "Equal moments: 60 × 0.5 = 75 × d; d = 0.4 m.",
+      "d": "Hard",
+      "topic": "Principle of moments",
+      "slo": "P-09-B-45"
+    },
+    {
+      "id": "PHY9CH4-201",
+      "q": "A seesaw has 150 N at 0.8 m on one side. At what distance should 200 N act on the other side to balance it?",
+      "o": [
+        "1.1 m",
+        "1.06667 m",
+        "0.6 m",
+        "0.8 m"
+      ],
+      "a": 2,
+      "e": "Equal moments: 150 × 0.8 = 200 × d; d = 0.6 m.",
+      "d": "Hard",
+      "topic": "Principle of moments",
+      "slo": "P-09-B-45"
+    },
+    {
+      "id": "PHY9CH4-202",
+      "q": "A seesaw has 240 N at 0.25 m on one side. At what distance should 120 N act on the other side to balance it?",
+      "o": [
+        "0.25 m",
+        "1 m",
+        "0.125 m",
+        "0.5 m"
+      ],
+      "a": 3,
+      "e": "Equal moments: 240 × 0.25 = 120 × d; d = 0.5 m.",
+      "d": "Hard",
+      "topic": "Principle of moments",
+      "slo": "P-09-B-45"
+    },
+    {
+      "id": "PHY9CH4-203",
+      "q": "A seesaw has 90 N at 0.4 m on one side. At what distance should 60 N act on the other side to balance it?",
+      "o": [
+        "0.6 m",
+        "0.4 m",
+        "1.1 m",
+        "0.266667 m"
+      ],
+      "a": 0,
+      "e": "Equal moments: 90 × 0.4 = 60 × d; d = 0.6 m.",
+      "d": "Hard",
+      "topic": "Principle of moments",
+      "slo": "P-09-B-45"
+    },
+    {
+      "id": "PHY9CH4-204",
+      "q": "Using π ≈ 22/7, find the average speed for a circular orbit of radius 10 km completed in 5 s.",
+      "o": [
+        "17.57 km/s",
+        "6.29 km/s",
+        "25.14 km/s",
+        "12.57 km/s"
+      ],
+      "a": 3,
+      "e": "Average orbital speed = 2πr/T = 12.57 km/s.",
+      "d": "Hard",
+      "topic": "Orbital motion",
+      "slo": "P-09-F-01"
+    },
+    {
+      "id": "PHY9CH4-205",
+      "q": "Using π ≈ 22/7, find the average speed for a circular orbit of radius 14 km completed in 7 s.",
+      "o": [
+        "12.57 km/s",
+        "25.14 km/s",
+        "6.29 km/s",
+        "17.57 km/s"
+      ],
+      "a": 0,
+      "e": "Average orbital speed = 2πr/T = 12.57 km/s.",
+      "d": "Hard",
+      "topic": "Orbital motion",
+      "slo": "P-09-F-01"
+    },
+    {
+      "id": "PHY9CH4-206",
+      "q": "Using π ≈ 22/7, find the average speed for a circular orbit of radius 21 km completed in 6 s.",
+      "o": [
+        "22.00 km/s",
+        "44.00 km/s",
+        "11.00 km/s",
+        "27.00 km/s"
+      ],
+      "a": 0,
+      "e": "Average orbital speed = 2πr/T = 22.00 km/s.",
+      "d": "Hard",
+      "topic": "Orbital motion",
+      "slo": "P-09-F-01"
+    },
+    {
+      "id": "PHY9CH4-207",
+      "q": "Using π ≈ 22/7, find the average speed for a circular orbit of radius 35 km completed in 10 s.",
+      "o": [
+        "22.00 km/s",
+        "44.00 km/s",
+        "27.00 km/s",
+        "11.00 km/s"
+      ],
+      "a": 0,
+      "e": "Average orbital speed = 2πr/T = 22.00 km/s.",
+      "d": "Hard",
+      "topic": "Orbital motion",
+      "slo": "P-09-F-01"
+    },
+    {
+      "id": "PHY9CH4-208",
+      "q": "Using π ≈ 22/7, find the average speed for a circular orbit of radius 7 km completed in 2 s.",
+      "o": [
+        "11.00 km/s",
+        "27.00 km/s",
+        "44.00 km/s",
+        "22.00 km/s"
+      ],
+      "a": 3,
+      "e": "Average orbital speed = 2πr/T = 22.00 km/s.",
+      "d": "Hard",
+      "topic": "Orbital motion",
+      "slo": "P-09-F-01"
+    },
+    {
+      "id": "PHY9CH4-209",
+      "q": "Using π ≈ 22/7, find the average speed for a circular orbit of radius 28 km completed in 8 s.",
+      "o": [
+        "22.00 km/s",
+        "11.00 km/s",
+        "44.00 km/s",
+        "27.00 km/s"
+      ],
+      "a": 0,
+      "e": "Average orbital speed = 2πr/T = 22.00 km/s.",
+      "d": "Hard",
+      "topic": "Orbital motion",
+      "slo": "P-09-F-01"
+    },
+    {
+      "id": "PHY9CH4-210",
+      "q": "Using π ≈ 22/7, find the average speed for a circular orbit of radius 42 km completed in 12 s.",
+      "o": [
+        "22.00 km/s",
+        "11.00 km/s",
+        "44.00 km/s",
+        "27.00 km/s"
+      ],
+      "a": 0,
+      "e": "Average orbital speed = 2πr/T = 22.00 km/s.",
+      "d": "Hard",
+      "topic": "Orbital motion",
+      "slo": "P-09-F-01"
+    },
+    {
+      "id": "PHY9CH4-211",
+      "q": "Using π ≈ 22/7, find the average speed for a circular orbit of radius 70 km completed in 20 s.",
+      "o": [
+        "11.00 km/s",
+        "44.00 km/s",
+        "22.00 km/s",
+        "27.00 km/s"
+      ],
+      "a": 2,
+      "e": "Average orbital speed = 2πr/T = 22.00 km/s.",
+      "d": "Hard",
+      "topic": "Orbital motion",
+      "slo": "P-09-F-01"
+    },
+    {
+      "id": "PHY9CH4-212",
+      "q": "Using π ≈ 22/7, find the average speed for a circular orbit of radius 56 km completed in 8 s.",
+      "o": [
+        "22.00 km/s",
+        "44.00 km/s",
+        "49.00 km/s",
+        "88.00 km/s"
+      ],
+      "a": 1,
+      "e": "Average orbital speed = 2πr/T = 44.00 km/s.",
+      "d": "Hard",
+      "topic": "Orbital motion",
+      "slo": "P-09-F-01"
+    },
+    {
+      "id": "PHY9CH4-213",
+      "q": "Using π ≈ 22/7, find the average speed for a circular orbit of radius 63 km completed in 9 s.",
+      "o": [
+        "49.00 km/s",
+        "22.00 km/s",
+        "44.00 km/s",
+        "88.00 km/s"
+      ],
+      "a": 2,
+      "e": "Average orbital speed = 2πr/T = 44.00 km/s.",
+      "d": "Hard",
+      "topic": "Orbital motion",
+      "slo": "P-09-F-01"
+    },
+    {
+      "id": "PHY9CH4-214",
+      "q": "A 20 N force acts at 0° to a lever 0.5 m long. What is the torque about its pivot?",
+      "o": [
+        "0 N m",
+        "40 N m",
+        "20.5 N m",
+        "10 N m"
+      ],
+      "a": 0,
+      "e": "Torque = F r sin θ; at 0° it is 0 N m.",
+      "d": "Hard",
+      "topic": "Torque",
+      "slo": "P-09-B-44"
+    },
+    {
+      "id": "PHY9CH4-215",
+      "q": "A 10 N force acts at 90° to a lever 0.8 m long. What is the torque about its pivot?",
+      "o": [
+        "10.8 N m",
+        "12.5 N m",
+        "0 N m",
+        "8 N m"
+      ],
+      "a": 3,
+      "e": "Torque = F r sin θ; at 90° it is 8 N m.",
+      "d": "Hard",
+      "topic": "Torque",
+      "slo": "P-09-B-44"
+    },
+    {
+      "id": "PHY9CH4-216",
+      "q": "A 40 N force acts at 0° to a lever 0.3 m long. What is the torque about its pivot?",
+      "o": [
+        "0 N m",
+        "12 N m",
+        "133.333 N m",
+        "40.3 N m"
+      ],
+      "a": 0,
+      "e": "Torque = F r sin θ; at 0° it is 0 N m.",
+      "d": "Hard",
+      "topic": "Torque",
+      "slo": "P-09-B-44"
+    },
+    {
+      "id": "PHY9CH4-217",
+      "q": "A 15 N force acts at 90° to a lever 0.4 m long. What is the torque about its pivot?",
+      "o": [
+        "15.4 N m",
+        "0 N m",
+        "6 N m",
+        "37.5 N m"
+      ],
+      "a": 2,
+      "e": "Torque = F r sin θ; at 90° it is 6 N m.",
+      "d": "Hard",
+      "topic": "Torque",
+      "slo": "P-09-B-44"
+    },
+    {
+      "id": "PHY9CH4-218",
+      "q": "A 30 N force acts at 0° to a lever 0.6 m long. What is the torque about its pivot?",
+      "o": [
+        "50 N m",
+        "30.6 N m",
+        "0 N m",
+        "18 N m"
+      ],
+      "a": 2,
+      "e": "Torque = F r sin θ; at 0° it is 0 N m.",
+      "d": "Hard",
+      "topic": "Torque",
+      "slo": "P-09-B-44"
+    },
+    {
+      "id": "PHY9CH4-219",
+      "q": "A 50 N force acts at 90° to a lever 0.2 m long. What is the torque about its pivot?",
+      "o": [
+        "10 N m",
+        "250 N m",
+        "50.2 N m",
+        "0 N m"
+      ],
+      "a": 0,
+      "e": "Torque = F r sin θ; at 90° it is 10 N m.",
+      "d": "Hard",
+      "topic": "Torque",
+      "slo": "P-09-B-44"
+    },
+    {
+      "id": "PHY9CH4-220",
+      "q": "A 25 N force acts at 0° to a lever 0.4 m long. What is the torque about its pivot?",
+      "o": [
+        "25.4 N m",
+        "10 N m",
+        "0 N m",
+        "62.5 N m"
+      ],
+      "a": 2,
+      "e": "Torque = F r sin θ; at 0° it is 0 N m.",
+      "d": "Hard",
+      "topic": "Torque",
+      "slo": "P-09-B-44"
+    },
+    {
+      "id": "PHY9CH4-221",
+      "q": "A 60 N force acts at 90° to a lever 0.5 m long. What is the torque about its pivot?",
+      "o": [
+        "30 N m",
+        "60.5 N m",
+        "120 N m",
+        "0 N m"
+      ],
+      "a": 0,
+      "e": "Torque = F r sin θ; at 90° it is 30 N m.",
+      "d": "Hard",
+      "topic": "Torque",
+      "slo": "P-09-B-44"
+    },
+    {
+      "id": "PHY9CH4-222",
+      "q": "A 12 N force acts at 0° to a lever 0.5 m long. What is the torque about its pivot?",
+      "o": [
+        "6 N m",
+        "12.5 N m",
+        "24 N m",
+        "0 N m"
+      ],
+      "a": 3,
+      "e": "Torque = F r sin θ; at 0° it is 0 N m.",
+      "d": "Hard",
+      "topic": "Torque",
+      "slo": "P-09-B-44"
+    },
+    {
+      "id": "PHY9CH4-223",
+      "q": "A 8 N force acts at 90° to a lever 0.75 m long. What is the torque about its pivot?",
+      "o": [
+        "6 N m",
+        "10.6667 N m",
+        "8.75 N m",
+        "0 N m"
+      ],
+      "a": 0,
+      "e": "Torque = F r sin θ; at 90° it is 6 N m.",
+      "d": "Hard",
+      "topic": "Torque",
+      "slo": "P-09-B-44"
+    },
+    {
+      "id": "PHY9CH4-224",
+      "q": "A bottle opener makes a cap easier to remove mainly because it acts as a:",
+      "o": [
+        "Lever",
+        "Thermometer",
+        "Pulley system with no pivot",
+        "Battery"
+      ],
+      "a": 0,
+      "e": "Its lever arm multiplies the turning effect of the applied force.",
+      "d": "Medium",
+      "topic": "Torque",
+      "slo": "P-09-B-44"
+    },
+    {
+      "id": "PHY9CH4-225",
+      "q": "If both clockwise and anticlockwise moments are 18 N m, what is the net moment?",
+      "o": [
+        "18 N m clockwise",
+        "36 N m clockwise",
+        "0 N m",
+        "36 N m anticlockwise"
+      ],
+      "a": 2,
+      "e": "Opposite moments cancel.",
+      "d": "Medium",
+      "topic": "Principle of moments",
+      "slo": "P-09-B-45"
+    },
+    {
+      "id": "PHY9CH4-226",
+      "q": "If clockwise moment is 25 N m and anticlockwise moment is 15 N m, what is the resultant?",
+      "o": [
+        "0 N m",
+        "10 N m anticlockwise",
+        "40 N m anticlockwise",
+        "10 N m clockwise"
+      ],
+      "a": 3,
+      "e": "Subtract opposite moments; the greater clockwise moment determines direction.",
+      "d": "Medium",
+      "topic": "Principle of moments",
+      "slo": "P-09-B-45"
+    },
+    {
+      "id": "PHY9CH4-227",
+      "q": "Which object is more stable on a table?",
+      "o": [
+        "A broad low box",
+        "A cone balanced on its tip",
+        "A narrow tall box",
+        "A tall thin pole"
+      ],
+      "a": 0,
+      "e": "Wide base and low centre of mass increase stability.",
+      "d": "Medium",
+      "topic": "Stability",
+      "slo": "P-09-B-50"
+    },
+    {
+      "id": "PHY9CH4-228",
+      "q": "Why is it easier to move a heavy cabinet using rollers?",
+      "o": [
+        "Rolling friction is always greater",
+        "Gravity becomes zero",
+        "Rolling increases weight",
+        "Rolling friction is less than sliding friction"
+      ],
+      "a": 3,
+      "e": "Rollers replace sliding contact with lower rolling resistance.",
+      "d": "Medium",
+      "topic": "Friction",
+      "slo": "P-09-B-37"
+    },
+    {
+      "id": "PHY9CH4-229",
+      "q": "Why can brakes become hot after repeated stopping?",
+      "o": [
+        "The brakes create gravitational energy",
+        "Friction dissipates kinetic energy as heat",
+        "Air becomes weightless",
+        "The car gains mass"
+      ],
+      "a": 1,
+      "e": "Braking friction transforms mechanical energy into thermal energy.",
+      "d": "Medium",
+      "topic": "Frictional dissipation",
+      "slo": "P-09-B-35"
+    },
+    {
+      "id": "PHY9CH4-230",
+      "q": "At the instant a falling skydiver reaches terminal velocity, acceleration is:",
+      "o": [
+        "0 m/s²",
+        "Increasing without limit",
+        "9.8 m/s² upward",
+        "9.8 m/s² downward"
+      ],
+      "a": 0,
+      "e": "Balanced drag and weight give zero acceleration.",
+      "d": "Medium",
+      "topic": "Terminal velocity",
+      "slo": "P-09-B-36"
+    },
+    {
+      "id": "PHY9CH4-231",
+      "q": "Before reaching terminal velocity, as air resistance increases, a falling object’s acceleration generally:",
+      "o": [
+        "Remains always equal to zero",
+        "Reverses immediately",
+        "Increases without limit",
+        "Decreases"
+      ],
+      "a": 3,
+      "e": "Growing upward drag reduces the net downward force.",
+      "d": "Medium",
+      "topic": "Terminal velocity",
+      "slo": "P-09-B-36"
+    },
+    {
+      "id": "PHY9CH4-232",
+      "q": "When a stone is whirled in a horizontal circle, the string force points:",
+      "o": [
+        "Towards the centre",
+        "Radially outward",
+        "Straight upward always",
+        "Along the instantaneous velocity"
+      ],
+      "a": 0,
+      "e": "String tension provides inward centripetal force.",
+      "d": "Medium",
+      "topic": "Centripetal force",
+      "slo": "P-09-B-54"
+    },
+    {
+      "id": "PHY9CH4-233",
+      "q": "If the orbital radius stays fixed but the orbital period doubles, average orbital speed:",
+      "o": [
+        "Quadruples",
+        "Stays unchanged",
+        "Doubles",
+        "Halves"
+      ],
+      "a": 3,
+      "e": "v = 2πr/T, so speed is inversely proportional to period.",
+      "d": "Medium",
+      "topic": "Orbital motion",
+      "slo": "P-09-F-01"
+    },
+    {
+      "id": "PHY9CH4-234",
+      "q": "If orbital radius doubles while orbital period is unchanged, average orbital speed:",
+      "o": [
+        "Doubles",
+        "Stays unchanged",
+        "Halves",
+        "Becomes zero"
+      ],
+      "a": 0,
+      "e": "v = 2πr/T for a circular path.",
+      "d": "Medium",
+      "topic": "Orbital motion",
+      "slo": "P-09-F-01"
+    },
+    {
+      "id": "PHY9CH4-235",
+      "q": "A lamina is suspended from two points in turn. Its centre of gravity lies:",
+      "o": [
+        "Outside every vertical line",
+        "At the intersection of the two plumb lines",
+        "At either suspension hook",
+        "At the highest corner"
+      ],
+      "a": 1,
+      "e": "The centre of gravity lies on each suspension vertical.",
+      "d": "Medium",
+      "topic": "Centre of gravity",
+      "slo": "P-09-B-48"
+    },
+    {
+      "id": "PHY9CH4-236",
+      "q": "A spinning fan slows after switching off because:",
+      "o": [
+        "The blades lose all mass",
+        "Resistive torques oppose rotation",
+        "Net torque must be zero",
+        "Gravity vanishes"
+      ],
+      "a": 1,
+      "e": "Friction and air resistance produce retarding torque.",
+      "d": "Medium",
+      "topic": "Rotational motion",
+      "slo": "P-09-B-52"
+    },
+    {
+      "id": "PHY9CH4-237",
+      "q": "Which action would make a door easiest to open?",
+      "o": [
+        "Push perpendicular to the door far from its hinges",
+        "Push parallel to the door near the hinges",
+        "Push at the hinges",
+        "Push along the hinge axis"
+      ],
+      "a": 0,
+      "e": "Large perpendicular lever arm gives the greatest torque.",
+      "d": "Medium",
+      "topic": "Torque",
+      "slo": "P-09-B-44"
+    },
+    {
+      "id": "PHY9CH4-238",
+      "q": "For a body at rest on a table, its upward normal force balances its:",
+      "o": [
+        "Speed",
+        "Torque only",
+        "Momentum",
+        "Weight"
+      ],
+      "a": 3,
+      "e": "Net vertical force is zero in equilibrium.",
+      "d": "Medium",
+      "topic": "Equilibrium",
+      "slo": "P-09-B-34"
+    },
+    {
+      "id": "PHY9CH4-239",
+      "q": "A perfectly balanced beam with equal downward forces on each side needs them placed:",
+      "o": [
+        "At equal perpendicular distances from pivot",
+        "On the same side",
+        "Exactly at the pivot only",
+        "At unequal distances always"
+      ],
+      "a": 0,
+      "e": "Equal forces need equal moment arms for opposite torques to cancel.",
+      "d": "Medium",
+      "topic": "Principle of moments",
+      "slo": "P-09-B-45"
+    },
+    {
+      "id": "PHY9CH4-240",
+      "q": "What is the direction of acceleration for uniform circular motion?",
+      "o": [
+        "Directly outward",
+        "Along the tangent",
+        "Zero at every point",
+        "Towards the centre"
+      ],
+      "a": 3,
+      "e": "Velocity changes direction toward the circle centre.",
+      "d": "Medium",
+      "topic": "Centripetal force",
+      "slo": "P-09-B-53"
+    },
+    {
+      "id": "PHY9CH4-241",
+      "q": "Why do people in an orbiting spacecraft appear weightless?",
+      "o": [
+        "Their speeds are zero",
+        "Gravity is completely absent",
+        "Their masses are zero",
+        "They and the spacecraft are in continuous free fall"
+      ],
+      "a": 3,
+      "e": "Orbital free fall causes apparent weightlessness.",
+      "d": "Medium",
+      "topic": "Orbital motion",
+      "slo": "P-09-F-01"
+    },
+    {
+      "id": "PHY9CH4-242",
+      "q": "Which statement about friction is correct?",
+      "o": [
+        "It is always harmful",
+        "It can be useful for walking and braking",
+        "It always acts in the direction of sliding",
+        "It exists only in liquids"
+      ],
+      "a": 1,
+      "e": "Friction supplies grip for walking and braking.",
+      "d": "Medium",
+      "topic": "Friction",
+      "slo": "P-09-B-35"
+    },
+    {
+      "id": "PHY9CH4-243",
+      "q": "A cone balanced on its pointed tip is an example of:",
+      "o": [
+        "Neutral equilibrium",
+        "Dynamic translational equilibrium",
+        "Unstable equilibrium",
+        "Stable equilibrium"
+      ],
+      "a": 2,
+      "e": "A small tilt lowers its centre of mass and it topples.",
+      "d": "Medium",
+      "topic": "Stability",
+      "slo": "P-09-B-49"
+    },
+    {
+      "id": "PHY9CH4-244",
+      "q": "A mechanic applies 5 N at a right angle to a spanner with a 0.2 m moment arm. What turning moment is produced?",
+      "o": [
+        "0.50 N m",
+        "2.00 N m",
+        "1.00 N m",
+        "6.00 N m"
+      ],
+      "a": 2,
+      "e": "F × d = 5 × 0.2 = 1.00 N m.",
+      "d": "Medium",
+      "topic": "Torque",
+      "slo": "P-09-B-44"
+    },
+    {
+      "id": "PHY9CH4-245",
+      "q": "A beam has a 45 N force 0.3 m left of its pivot. A 90 N force acts 0.15 m right of it. What happens?",
+      "o": [
+        "It rotates clockwise",
+        "The moments balance",
+        "It has no forces acting",
+        "It rotates anticlockwise"
+      ],
+      "a": 1,
+      "e": "Left moment 13.50 N m equals right moment 13.50 N m.",
+      "d": "Hard",
+      "topic": "Principle of moments",
+      "slo": "P-09-B-45"
+    },
+    {
+      "id": "PHY9CH4-246",
+      "q": "A satellite travels in an approximately circular path of radius 21 km with a period of 28 s. Using π = 22/7, what is its average orbital speed?",
+      "o": [
+        "2.357 km/s",
+        "9.429 km/s",
+        "4.714 km/s",
+        "6.714 km/s"
+      ],
+      "a": 2,
+      "e": "2πr/T = 4.714 km/s.",
+      "d": "Hard",
+      "topic": "Orbital motion",
+      "slo": "P-09-F-01"
+    },
+    {
+      "id": "PHY9CH4-247",
+      "q": "A mechanic applies 14 N at a right angle to a spanner with a 0.5 m moment arm. What turning moment is produced?",
+      "o": [
+        "21.00 N m",
+        "3.50 N m",
+        "14.00 N m",
+        "7.00 N m"
+      ],
+      "a": 3,
+      "e": "F × d = 14 × 0.5 = 7.00 N m.",
+      "d": "Medium",
+      "topic": "Torque",
+      "slo": "P-09-B-44"
+    },
+    {
+      "id": "PHY9CH4-248",
+      "q": "A beam has a 60 N force 0.6 m left of its pivot. A 120 N force acts 0.3 m right of it. What happens?",
+      "o": [
+        "It rotates anticlockwise",
+        "It rotates clockwise",
+        "It has no forces acting",
+        "The moments balance"
+      ],
+      "a": 3,
+      "e": "Left moment 36.00 N m equals right moment 36.00 N m.",
+      "d": "Hard",
+      "topic": "Principle of moments",
+      "slo": "P-09-B-45"
+    },
+    {
+      "id": "PHY9CH4-249",
+      "q": "A satellite travels in an approximately circular path of radius 42 km with a period of 14 s. Using π = 22/7, what is its average orbital speed?",
+      "o": [
+        "18.857 km/s",
+        "20.857 km/s",
+        "9.429 km/s",
+        "37.714 km/s"
+      ],
+      "a": 0,
+      "e": "2πr/T = 18.857 km/s.",
+      "d": "Hard",
+      "topic": "Orbital motion",
+      "slo": "P-09-F-01"
+    },
+    {
+      "id": "PHY9CH4-250",
+      "q": "A mechanic applies 23 N at a right angle to a spanner with a 0.8 m moment arm. What turning moment is produced?",
+      "o": [
+        "9.20 N m",
+        "41.40 N m",
+        "18.40 N m",
+        "36.80 N m"
+      ],
+      "a": 2,
+      "e": "F × d = 23 × 0.8 = 18.40 N m.",
+      "d": "Medium",
+      "topic": "Torque",
+      "slo": "P-09-B-44"
+    },
+    {
+      "id": "PHY9CH4-251",
+      "q": "A beam has a 75 N force 0.3 m left of its pivot. A 150 N force acts 0.15 m right of it. What happens?",
+      "o": [
+        "It rotates anticlockwise",
+        "It has no forces acting",
+        "The moments balance",
+        "It rotates clockwise"
+      ],
+      "a": 2,
+      "e": "Left moment 22.50 N m equals right moment 22.50 N m.",
+      "d": "Hard",
+      "topic": "Principle of moments",
+      "slo": "P-09-B-45"
+    },
+    {
+      "id": "PHY9CH4-252",
+      "q": "A satellite travels in an approximately circular path of radius 63 km with a period of 35 s. Using π = 22/7, what is its average orbital speed?",
+      "o": [
+        "13.314 km/s",
+        "22.629 km/s",
+        "5.657 km/s",
+        "11.314 km/s"
+      ],
+      "a": 3,
+      "e": "2πr/T = 11.314 km/s.",
+      "d": "Hard",
+      "topic": "Orbital motion",
+      "slo": "P-09-F-01"
+    },
+    {
+      "id": "PHY9CH4-253",
+      "q": "A mechanic applies 32 N at a right angle to a spanner with a 0.3 m moment arm. What turning moment is produced?",
+      "o": [
+        "9.60 N m",
+        "4.80 N m",
+        "19.20 N m",
+        "41.60 N m"
+      ],
+      "a": 0,
+      "e": "F × d = 32 × 0.3 = 9.60 N m.",
+      "d": "Medium",
+      "topic": "Torque",
+      "slo": "P-09-B-44"
+    },
+    {
+      "id": "PHY9CH4-254",
+      "q": "A beam has a 90 N force 0.6 m left of its pivot. A 180 N force acts 0.3 m right of it. What happens?",
+      "o": [
+        "It has no forces acting",
+        "It rotates clockwise",
+        "It rotates anticlockwise",
+        "The moments balance"
+      ],
+      "a": 3,
+      "e": "Left moment 54.00 N m equals right moment 54.00 N m.",
+      "d": "Hard",
+      "topic": "Principle of moments",
+      "slo": "P-09-B-45"
+    },
+    {
+      "id": "PHY9CH4-255",
+      "q": "A satellite travels in an approximately circular path of radius 84 km with a period of 21 s. Using π = 22/7, what is its average orbital speed?",
+      "o": [
+        "12.571 km/s",
+        "50.286 km/s",
+        "27.143 km/s",
+        "25.143 km/s"
+      ],
+      "a": 3,
+      "e": "2πr/T = 25.143 km/s.",
+      "d": "Hard",
+      "topic": "Orbital motion",
+      "slo": "P-09-F-01"
+    },
+    {
+      "id": "PHY9CH4-256",
+      "q": "A mechanic applies 41 N at a right angle to a spanner with a 0.6 m moment arm. What turning moment is produced?",
+      "o": [
+        "12.30 N m",
+        "65.60 N m",
+        "24.60 N m",
+        "49.20 N m"
+      ],
+      "a": 2,
+      "e": "F × d = 41 × 0.6 = 24.60 N m.",
+      "d": "Medium",
+      "topic": "Torque",
+      "slo": "P-09-B-44"
+    },
+    {
+      "id": "PHY9CH4-257",
+      "q": "A beam has a 105 N force 0.3 m left of its pivot. A 210 N force acts 0.15 m right of it. What happens?",
+      "o": [
+        "It rotates anticlockwise",
+        "The moments balance",
+        "It has no forces acting",
+        "It rotates clockwise"
+      ],
+      "a": 1,
+      "e": "Left moment 31.50 N m equals right moment 31.50 N m.",
+      "d": "Hard",
+      "topic": "Principle of moments",
+      "slo": "P-09-B-45"
+    },
+    {
+      "id": "PHY9CH4-258",
+      "q": "A satellite travels in an approximately circular path of radius 21 km with a period of 42 s. Using π = 22/7, what is its average orbital speed?",
+      "o": [
+        "1.571 km/s",
+        "3.143 km/s",
+        "6.286 km/s",
+        "5.143 km/s"
+      ],
+      "a": 1,
+      "e": "2πr/T = 3.143 km/s.",
+      "d": "Hard",
+      "topic": "Orbital motion",
+      "slo": "P-09-F-01"
+    },
+    {
+      "id": "PHY9CH4-259",
+      "q": "A mechanic applies 50 N at a right angle to a spanner with a 0.9 m moment arm. What turning moment is produced?",
+      "o": [
+        "22.50 N m",
+        "45.00 N m",
+        "95.00 N m",
+        "90.00 N m"
+      ],
+      "a": 1,
+      "e": "F × d = 50 × 0.9 = 45.00 N m.",
+      "d": "Medium",
+      "topic": "Torque",
+      "slo": "P-09-B-44"
+    },
+    {
+      "id": "PHY9CH4-260",
+      "q": "A beam has a 120 N force 0.6 m left of its pivot. A 240 N force acts 0.3 m right of it. What happens?",
+      "o": [
+        "It rotates clockwise",
+        "The moments balance",
+        "It rotates anticlockwise",
+        "It has no forces acting"
+      ],
+      "a": 1,
+      "e": "Left moment 72.00 N m equals right moment 72.00 N m.",
+      "d": "Hard",
+      "topic": "Principle of moments",
+      "slo": "P-09-B-45"
+    },
+    {
+      "id": "PHY9CH4-261",
+      "q": "A satellite travels in an approximately circular path of radius 42 km with a period of 28 s. Using π = 22/7, what is its average orbital speed?",
+      "o": [
+        "9.429 km/s",
+        "11.429 km/s",
+        "4.714 km/s",
+        "18.857 km/s"
+      ],
+      "a": 0,
+      "e": "2πr/T = 9.429 km/s.",
+      "d": "Hard",
+      "topic": "Orbital motion",
+      "slo": "P-09-F-01"
+    },
+    {
+      "id": "PHY9CH4-262",
+      "q": "A mechanic applies 59 N at a right angle to a spanner with a 0.4 m moment arm. What turning moment is produced?",
+      "o": [
+        "11.80 N m",
+        "23.60 N m",
+        "82.60 N m",
+        "47.20 N m"
+      ],
+      "a": 1,
+      "e": "F × d = 59 × 0.4 = 23.60 N m.",
+      "d": "Medium",
+      "topic": "Torque",
+      "slo": "P-09-B-44"
+    },
+    {
+      "id": "PHY9CH4-263",
+      "q": "A beam has a 135 N force 0.3 m left of its pivot. A 270 N force acts 0.15 m right of it. What happens?",
+      "o": [
+        "The moments balance",
+        "It rotates anticlockwise",
+        "It rotates clockwise",
+        "It has no forces acting"
+      ],
+      "a": 0,
+      "e": "Left moment 40.50 N m equals right moment 40.50 N m.",
+      "d": "Hard",
+      "topic": "Principle of moments",
+      "slo": "P-09-B-45"
+    },
+    {
+      "id": "PHY9CH4-264",
+      "q": "A satellite travels in an approximately circular path of radius 63 km with a period of 14 s. Using π = 22/7, what is its average orbital speed?",
+      "o": [
+        "14.143 km/s",
+        "30.286 km/s",
+        "28.286 km/s",
+        "56.571 km/s"
+      ],
+      "a": 2,
+      "e": "2πr/T = 28.286 km/s.",
+      "d": "Hard",
+      "topic": "Orbital motion",
+      "slo": "P-09-F-01"
+    },
+    {
+      "id": "PHY9CH4-265",
+      "q": "A mechanic applies 68 N at a right angle to a spanner with a 0.7 m moment arm. What turning moment is produced?",
+      "o": [
+        "95.20 N m",
+        "23.80 N m",
+        "115.60 N m",
+        "47.60 N m"
+      ],
+      "a": 3,
+      "e": "F × d = 68 × 0.7 = 47.60 N m.",
+      "d": "Medium",
+      "topic": "Torque",
+      "slo": "P-09-B-44"
+    },
+    {
+      "id": "PHY9CH4-266",
+      "q": "A beam has a 150 N force 0.6 m left of its pivot. A 300 N force acts 0.3 m right of it. What happens?",
+      "o": [
+        "The moments balance",
+        "It rotates clockwise",
+        "It rotates anticlockwise",
+        "It has no forces acting"
+      ],
+      "a": 0,
+      "e": "Left moment 90.00 N m equals right moment 90.00 N m.",
+      "d": "Hard",
+      "topic": "Principle of moments",
+      "slo": "P-09-B-45"
+    },
+    {
+      "id": "PHY9CH4-267",
+      "q": "A satellite travels in an approximately circular path of radius 84 km with a period of 35 s. Using π = 22/7, what is its average orbital speed?",
+      "o": [
+        "17.086 km/s",
+        "30.171 km/s",
+        "7.543 km/s",
+        "15.086 km/s"
+      ],
+      "a": 3,
+      "e": "2πr/T = 15.086 km/s.",
+      "d": "Hard",
+      "topic": "Orbital motion",
+      "slo": "P-09-F-01"
+    },
+    {
+      "id": "PHY9CH4-268",
+      "q": "A mechanic applies 77 N at a right angle to a spanner with a 0.2 m moment arm. What turning moment is produced?",
+      "o": [
+        "92.40 N m",
+        "15.40 N m",
+        "7.70 N m",
+        "30.80 N m"
+      ],
+      "a": 1,
+      "e": "F × d = 77 × 0.2 = 15.40 N m.",
+      "d": "Medium",
+      "topic": "Torque",
+      "slo": "P-09-B-44"
+    },
+    {
+      "id": "PHY9CH4-269",
+      "q": "A beam has a 165 N force 0.3 m left of its pivot. A 330 N force acts 0.15 m right of it. What happens?",
+      "o": [
+        "It rotates anticlockwise",
+        "The moments balance",
+        "It rotates clockwise",
+        "It has no forces acting"
+      ],
+      "a": 1,
+      "e": "Left moment 49.50 N m equals right moment 49.50 N m.",
+      "d": "Hard",
+      "topic": "Principle of moments",
+      "slo": "P-09-B-45"
+    },
+    {
+      "id": "PHY9CH4-270",
+      "q": "A satellite travels in an approximately circular path of radius 21 km with a period of 21 s. Using π = 22/7, what is its average orbital speed?",
+      "o": [
+        "8.286 km/s",
+        "6.286 km/s",
+        "12.571 km/s",
+        "3.143 km/s"
+      ],
+      "a": 1,
+      "e": "2πr/T = 6.286 km/s.",
+      "d": "Hard",
+      "topic": "Orbital motion",
+      "slo": "P-09-F-01"
+    },
+    {
+      "id": "PHY9CH4-271",
+      "q": "A mechanic applies 86 N at a right angle to a spanner with a 0.5 m moment arm. What turning moment is produced?",
+      "o": [
+        "129.00 N m",
+        "43.00 N m",
+        "21.50 N m",
+        "86.00 N m"
+      ],
+      "a": 1,
+      "e": "F × d = 86 × 0.5 = 43.00 N m.",
+      "d": "Medium",
+      "topic": "Torque",
+      "slo": "P-09-B-44"
+    },
+    {
+      "id": "PHY9CH4-272",
+      "q": "A beam has a 180 N force 0.6 m left of its pivot. A 360 N force acts 0.3 m right of it. What happens?",
+      "o": [
+        "It rotates clockwise",
+        "It rotates anticlockwise",
+        "It has no forces acting",
+        "The moments balance"
+      ],
+      "a": 3,
+      "e": "Left moment 108.00 N m equals right moment 108.00 N m.",
+      "d": "Hard",
+      "topic": "Principle of moments",
+      "slo": "P-09-B-45"
+    },
+    {
+      "id": "PHY9CH4-273",
+      "q": "A satellite travels in an approximately circular path of radius 42 km with a period of 42 s. Using π = 22/7, what is its average orbital speed?",
+      "o": [
+        "8.286 km/s",
+        "12.571 km/s",
+        "6.286 km/s",
+        "3.143 km/s"
+      ],
+      "a": 2,
+      "e": "2πr/T = 6.286 km/s.",
+      "d": "Hard",
+      "topic": "Orbital motion",
+      "slo": "P-09-F-01"
+    },
+    {
+      "id": "PHY9CH4-274",
+      "q": "A mechanic applies 95 N at a right angle to a spanner with a 0.8 m moment arm. What turning moment is produced?",
+      "o": [
+        "38.00 N m",
+        "152.00 N m",
+        "76.00 N m",
+        "171.00 N m"
+      ],
+      "a": 2,
+      "e": "F × d = 95 × 0.8 = 76.00 N m.",
+      "d": "Medium",
+      "topic": "Torque",
+      "slo": "P-09-B-44"
+    },
+    {
+      "id": "PHY9CH4-275",
+      "q": "A beam has a 195 N force 0.3 m left of its pivot. A 390 N force acts 0.15 m right of it. What happens?",
+      "o": [
+        "It rotates clockwise",
+        "It rotates anticlockwise",
+        "The moments balance",
+        "It has no forces acting"
+      ],
+      "a": 2,
+      "e": "Left moment 58.50 N m equals right moment 58.50 N m.",
+      "d": "Hard",
+      "topic": "Principle of moments",
+      "slo": "P-09-B-45"
+    },
+    {
+      "id": "PHY9CH4-276",
+      "q": "A satellite travels in an approximately circular path of radius 63 km with a period of 28 s. Using π = 22/7, what is its average orbital speed?",
+      "o": [
+        "7.071 km/s",
+        "14.143 km/s",
+        "28.286 km/s",
+        "16.143 km/s"
+      ],
+      "a": 1,
+      "e": "2πr/T = 14.143 km/s.",
+      "d": "Hard",
+      "topic": "Orbital motion",
+      "slo": "P-09-F-01"
+    },
+    {
+      "id": "PHY9CH4-277",
+      "q": "A mechanic applies 104 N at a right angle to a spanner with a 0.3 m moment arm. What turning moment is produced?",
+      "o": [
+        "62.40 N m",
+        "135.20 N m",
+        "15.60 N m",
+        "31.20 N m"
+      ],
+      "a": 3,
+      "e": "F × d = 104 × 0.3 = 31.20 N m.",
+      "d": "Medium",
+      "topic": "Torque",
+      "slo": "P-09-B-44"
+    },
+    {
+      "id": "PHY9CH4-278",
+      "q": "A beam has a 210 N force 0.6 m left of its pivot. A 420 N force acts 0.3 m right of it. What happens?",
+      "o": [
+        "It rotates clockwise",
+        "It has no forces acting",
+        "It rotates anticlockwise",
+        "The moments balance"
+      ],
+      "a": 3,
+      "e": "Left moment 126.00 N m equals right moment 126.00 N m.",
+      "d": "Hard",
+      "topic": "Principle of moments",
+      "slo": "P-09-B-45"
+    },
+    {
+      "id": "PHY9CH4-279",
+      "q": "A satellite travels in an approximately circular path of radius 84 km with a period of 14 s. Using π = 22/7, what is its average orbital speed?",
+      "o": [
+        "18.857 km/s",
+        "37.714 km/s",
+        "39.714 km/s",
+        "75.429 km/s"
+      ],
+      "a": 1,
+      "e": "2πr/T = 37.714 km/s.",
+      "d": "Hard",
+      "topic": "Orbital motion",
+      "slo": "P-09-F-01"
+    },
+    {
+      "id": "PHY9CH4-280",
+      "q": "A mechanic applies 113 N at a right angle to a spanner with a 0.6 m moment arm. What turning moment is produced?",
+      "o": [
+        "33.90 N m",
+        "135.60 N m",
+        "67.80 N m",
+        "180.80 N m"
+      ],
+      "a": 2,
+      "e": "F × d = 113 × 0.6 = 67.80 N m.",
+      "d": "Medium",
+      "topic": "Torque",
+      "slo": "P-09-B-44"
+    },
+    {
+      "id": "PHY9CH4-281",
+      "q": "A beam has a 225 N force 0.3 m left of its pivot. A 450 N force acts 0.15 m right of it. What happens?",
+      "o": [
+        "The moments balance",
+        "It has no forces acting",
+        "It rotates anticlockwise",
+        "It rotates clockwise"
+      ],
+      "a": 0,
+      "e": "Left moment 67.50 N m equals right moment 67.50 N m.",
+      "d": "Hard",
+      "topic": "Principle of moments",
+      "slo": "P-09-B-45"
+    },
+    {
+      "id": "PHY9CH4-282",
+      "q": "A satellite travels in an approximately circular path of radius 21 km with a period of 35 s. Using π = 22/7, what is its average orbital speed?",
+      "o": [
+        "7.543 km/s",
+        "3.771 km/s",
+        "1.886 km/s",
+        "5.771 km/s"
+      ],
+      "a": 1,
+      "e": "2πr/T = 3.771 km/s.",
+      "d": "Hard",
+      "topic": "Orbital motion",
+      "slo": "P-09-F-01"
+    },
+    {
+      "id": "PHY9CH4-283",
+      "q": "A mechanic applies 122 N at a right angle to a spanner with a 0.9 m moment arm. What turning moment is produced?",
+      "o": [
+        "109.80 N m",
+        "54.90 N m",
+        "231.80 N m",
+        "219.60 N m"
+      ],
+      "a": 0,
+      "e": "F × d = 122 × 0.9 = 109.80 N m.",
+      "d": "Medium",
+      "topic": "Torque",
+      "slo": "P-09-B-44"
+    },
+    {
+      "id": "PHY9CH4-284",
+      "q": "A beam has a 240 N force 0.6 m left of its pivot. A 480 N force acts 0.3 m right of it. What happens?",
+      "o": [
+        "It rotates anticlockwise",
+        "It rotates clockwise",
+        "It has no forces acting",
+        "The moments balance"
+      ],
+      "a": 3,
+      "e": "Left moment 144.00 N m equals right moment 144.00 N m.",
+      "d": "Hard",
+      "topic": "Principle of moments",
+      "slo": "P-09-B-45"
+    },
+    {
+      "id": "PHY9CH4-285",
+      "q": "A satellite travels in an approximately circular path of radius 42 km with a period of 21 s. Using π = 22/7, what is its average orbital speed?",
+      "o": [
+        "6.286 km/s",
+        "12.571 km/s",
+        "25.143 km/s",
+        "14.571 km/s"
+      ],
+      "a": 1,
+      "e": "2πr/T = 12.571 km/s.",
+      "d": "Hard",
+      "topic": "Orbital motion",
+      "slo": "P-09-F-01"
+    },
+    {
+      "id": "PHY9CH4-286",
+      "q": "A mechanic applies 131 N at a right angle to a spanner with a 0.4 m moment arm. What turning moment is produced?",
+      "o": [
+        "183.40 N m",
+        "52.40 N m",
+        "26.20 N m",
+        "104.80 N m"
+      ],
+      "a": 1,
+      "e": "F × d = 131 × 0.4 = 52.40 N m.",
+      "d": "Medium",
+      "topic": "Torque",
+      "slo": "P-09-B-44"
+    },
+    {
+      "id": "PHY9CH4-287",
+      "q": "A beam has a 255 N force 0.3 m left of its pivot. A 510 N force acts 0.15 m right of it. What happens?",
+      "o": [
+        "It rotates clockwise",
+        "It has no forces acting",
+        "The moments balance",
+        "It rotates anticlockwise"
+      ],
+      "a": 2,
+      "e": "Left moment 76.50 N m equals right moment 76.50 N m.",
+      "d": "Hard",
+      "topic": "Principle of moments",
+      "slo": "P-09-B-45"
+    },
+    {
+      "id": "PHY9CH4-288",
+      "q": "A satellite travels in an approximately circular path of radius 63 km with a period of 42 s. Using π = 22/7, what is its average orbital speed?",
+      "o": [
+        "9.429 km/s",
+        "11.429 km/s",
+        "4.714 km/s",
+        "18.857 km/s"
+      ],
+      "a": 0,
+      "e": "2πr/T = 9.429 km/s.",
+      "d": "Hard",
+      "topic": "Orbital motion",
+      "slo": "P-09-F-01"
+    },
+    {
+      "id": "PHY9CH4-289",
+      "q": "A mechanic applies 140 N at a right angle to a spanner with a 0.7 m moment arm. What turning moment is produced?",
+      "o": [
+        "98.00 N m",
+        "238.00 N m",
+        "196.00 N m",
+        "49.00 N m"
+      ],
+      "a": 0,
+      "e": "F × d = 140 × 0.7 = 98.00 N m.",
+      "d": "Medium",
+      "topic": "Torque",
+      "slo": "P-09-B-44"
+    },
+    {
+      "id": "PHY9CH4-290",
+      "q": "A beam has a 270 N force 0.6 m left of its pivot. A 540 N force acts 0.3 m right of it. What happens?",
+      "o": [
+        "It has no forces acting",
+        "It rotates clockwise",
+        "The moments balance",
+        "It rotates anticlockwise"
+      ],
+      "a": 2,
+      "e": "Left moment 162.00 N m equals right moment 162.00 N m.",
+      "d": "Hard",
+      "topic": "Principle of moments",
+      "slo": "P-09-B-45"
+    },
+    {
+      "id": "PHY9CH4-291",
+      "q": "A satellite travels in an approximately circular path of radius 84 km with a period of 28 s. Using π = 22/7, what is its average orbital speed?",
+      "o": [
+        "9.429 km/s",
+        "37.714 km/s",
+        "20.857 km/s",
+        "18.857 km/s"
+      ],
+      "a": 3,
+      "e": "2πr/T = 18.857 km/s.",
+      "d": "Hard",
+      "topic": "Orbital motion",
+      "slo": "P-09-F-01"
+    },
+    {
+      "id": "PHY9CH4-292",
+      "q": "A mechanic applies 149 N at a right angle to a spanner with a 0.2 m moment arm. What turning moment is produced?",
+      "o": [
+        "59.60 N m",
+        "29.80 N m",
+        "14.90 N m",
+        "178.80 N m"
+      ],
+      "a": 1,
+      "e": "F × d = 149 × 0.2 = 29.80 N m.",
+      "d": "Medium",
+      "topic": "Torque",
+      "slo": "P-09-B-44"
+    },
+    {
+      "id": "PHY9CH4-293",
+      "q": "A beam has a 285 N force 0.3 m left of its pivot. A 570 N force acts 0.15 m right of it. What happens?",
+      "o": [
+        "It rotates anticlockwise",
+        "It has no forces acting",
+        "It rotates clockwise",
+        "The moments balance"
+      ],
+      "a": 3,
+      "e": "Left moment 85.50 N m equals right moment 85.50 N m.",
+      "d": "Hard",
+      "topic": "Principle of moments",
+      "slo": "P-09-B-45"
+    },
+    {
+      "id": "PHY9CH4-294",
+      "q": "A satellite travels in an approximately circular path of radius 21 km with a period of 14 s. Using π = 22/7, what is its average orbital speed?",
+      "o": [
+        "18.857 km/s",
+        "9.429 km/s",
+        "11.429 km/s",
+        "4.714 km/s"
+      ],
+      "a": 1,
+      "e": "2πr/T = 9.429 km/s.",
+      "d": "Hard",
+      "topic": "Orbital motion",
+      "slo": "P-09-F-01"
+    },
+    {
+      "id": "PHY9CH4-295",
+      "q": "A mechanic applies 158 N at a right angle to a spanner with a 0.5 m moment arm. What turning moment is produced?",
+      "o": [
+        "79.00 N m",
+        "237.00 N m",
+        "39.50 N m",
+        "158.00 N m"
+      ],
+      "a": 0,
+      "e": "F × d = 158 × 0.5 = 79.00 N m.",
+      "d": "Medium",
+      "topic": "Torque",
+      "slo": "P-09-B-44"
+    },
+    {
+      "id": "PHY9CH4-296",
+      "q": "A beam has a 300 N force 0.6 m left of its pivot. A 600 N force acts 0.3 m right of it. What happens?",
+      "o": [
+        "It rotates anticlockwise",
+        "It rotates clockwise",
+        "It has no forces acting",
+        "The moments balance"
+      ],
+      "a": 3,
+      "e": "Left moment 180.00 N m equals right moment 180.00 N m.",
+      "d": "Hard",
+      "topic": "Principle of moments",
+      "slo": "P-09-B-45"
+    },
+    {
+      "id": "PHY9CH4-297",
+      "q": "A satellite travels in an approximately circular path of radius 42 km with a period of 35 s. Using π = 22/7, what is its average orbital speed?",
+      "o": [
+        "9.543 km/s",
+        "7.543 km/s",
+        "3.771 km/s",
+        "15.086 km/s"
+      ],
+      "a": 1,
+      "e": "2πr/T = 7.543 km/s.",
+      "d": "Hard",
+      "topic": "Orbital motion",
+      "slo": "P-09-F-01"
+    },
+    {
+      "id": "PHY9CH4-298",
+      "q": "A mechanic applies 167 N at a right angle to a spanner with a 0.8 m moment arm. What turning moment is produced?",
+      "o": [
+        "66.80 N m",
+        "300.60 N m",
+        "133.60 N m",
+        "267.20 N m"
+      ],
+      "a": 2,
+      "e": "F × d = 167 × 0.8 = 133.60 N m.",
+      "d": "Medium",
+      "topic": "Torque",
+      "slo": "P-09-B-44"
+    },
+    {
+      "id": "PHY9CH4-299",
+      "q": "A beam has a 315 N force 0.3 m left of its pivot. A 630 N force acts 0.15 m right of it. What happens?",
+      "o": [
+        "It has no forces acting",
+        "It rotates clockwise",
+        "It rotates anticlockwise",
+        "The moments balance"
+      ],
+      "a": 3,
+      "e": "Left moment 94.50 N m equals right moment 94.50 N m.",
+      "d": "Hard",
+      "topic": "Principle of moments",
+      "slo": "P-09-B-45"
+    },
+    {
+      "id": "PHY9CH4-300",
+      "q": "A satellite travels in an approximately circular path of radius 63 km with a period of 21 s. Using π = 22/7, what is its average orbital speed?",
+      "o": [
+        "20.857 km/s",
+        "18.857 km/s",
+        "37.714 km/s",
+        "9.429 km/s"
+      ],
+      "a": 1,
+      "e": "2πr/T = 18.857 km/s.",
+      "d": "Hard",
+      "topic": "Orbital motion",
+      "slo": "P-09-F-01"
+    }
+  ]
+}

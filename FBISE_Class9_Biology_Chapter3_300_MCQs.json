@@ -1,0 +1,4504 @@
+{
+  "questions": [
+    {
+      "id": "BIO9CH3-001",
+      "q": "Which statement correctly explains basic unit of life?",
+      "o": [
+        "The organ is the smallest living unit",
+        "The tissue is the basic unit of life",
+        "Only multicellular organisms contain cells",
+        "The cell is the basic structural and functional unit of life"
+      ],
+      "a": 3,
+      "e": "Cells carry out the essential functions of life.",
+      "d": "Easy",
+      "topic": "Cell theory",
+      "slo": "Identify basic unit of life in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-002",
+      "q": "Which statement correctly explains all living things?",
+      "o": [
+        "Only animals contain cells",
+        "All organisms are made only of tissues",
+        "Viruses are composed of ordinary cells",
+        "All living organisms consist of one or more cells"
+      ],
+      "a": 3,
+      "e": "Cell theory recognizes cellular organization of living things.",
+      "d": "Easy",
+      "topic": "Cell theory",
+      "slo": "Identify all living things in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-003",
+      "q": "Which statement correctly explains new cells?",
+      "o": [
+        "Every cell forms directly from an organ",
+        "Cells arise routinely from nonliving dust",
+        "New cells arise from pre-existing cells",
+        "Cells are made only by fusion of tissues"
+      ],
+      "a": 2,
+      "e": "Cell division produces new cells from existing cells.",
+      "d": "Easy",
+      "topic": "Cell theory",
+      "slo": "Identify new cells in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-004",
+      "q": "Which statement correctly explains unicellular organisms?",
+      "o": [
+        "It requires different organs to survive",
+        "A unicellular organism performs life processes within one cell",
+        "It contains no cytoplasm",
+        "It has many specialized tissues"
+      ],
+      "a": 1,
+      "e": "A single cell can carry out all essential life activities.",
+      "d": "Easy",
+      "topic": "Cell theory",
+      "slo": "Identify unicellular organisms in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-005",
+      "q": "Which statement correctly explains multicellular organisms?",
+      "o": [
+        "They never contain tissues",
+        "Multicellular organisms have many cells that can specialize",
+        "They are always microscopic",
+        "Each cell must perform every body function equally"
+      ],
+      "a": 1,
+      "e": "Specialized cells share work in complex organisms.",
+      "d": "Easy",
+      "topic": "Cell theory",
+      "slo": "Identify multicellular organisms in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-006",
+      "q": "Which statement correctly explains prokaryotic nucleus?",
+      "o": [
+        "Its DNA is inside a nuclear envelope",
+        "Its nucleus has a double membrane",
+        "It always contains chloroplasts",
+        "A prokaryotic cell lacks a membrane-bound nucleus"
+      ],
+      "a": 3,
+      "e": "Prokaryotes have DNA without a membrane-bound nucleus.",
+      "d": "Easy",
+      "topic": "Cell types",
+      "slo": "Identify prokaryotic nucleus in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-007",
+      "q": "Which statement correctly explains eukaryotic nucleus?",
+      "o": [
+        "A eukaryotic cell contains a membrane-bound nucleus",
+        "It has no genetic material",
+        "It has only free DNA in a nucleoid",
+        "It lacks all internal membranes"
+      ],
+      "a": 0,
+      "e": "Eukaryotes possess a true nucleus enclosed by a nuclear envelope.",
+      "d": "Easy",
+      "topic": "Cell types",
+      "slo": "Identify eukaryotic nucleus in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-008",
+      "q": "Which statement correctly explains bacterial cell?",
+      "o": [
+        "Every bacterium has mitochondria",
+        "A bacterium is a plant tissue",
+        "A bacterium is a multicellular animal",
+        "A bacterium is a prokaryotic organism"
+      ],
+      "a": 3,
+      "e": "Bacteria are cellular organisms without a true nucleus.",
+      "d": "Easy",
+      "topic": "Cell types",
+      "slo": "Identify bacterial cell in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-009",
+      "q": "Which statement correctly explains plant and animal cells?",
+      "o": [
+        "Both are always prokaryotic",
+        "Plant and animal cells are both eukaryotic",
+        "Neither contains DNA",
+        "Neither has a plasma membrane"
+      ],
+      "a": 1,
+      "e": "Both types have nuclei and membrane-bound organelles.",
+      "d": "Easy",
+      "topic": "Cell types",
+      "slo": "Identify plant and animal cells in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-010",
+      "q": "Which statement correctly explains plant cell wall?",
+      "o": [
+        "Its wall is made mainly of chitin",
+        "Animal cells have the same cellulose wall",
+        "A typical plant cell has a cellulose cell wall outside its plasma membrane",
+        "Its cell wall replaces the nucleus"
+      ],
+      "a": 2,
+      "e": "The cellulose cell wall provides support and protection in plants.",
+      "d": "Easy",
+      "topic": "Cell types",
+      "slo": "Identify plant cell wall in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-011",
+      "q": "Which statement correctly explains animal cell wall?",
+      "o": [
+        "Animal cells lack plasma membranes",
+        "Animal cells have chloroplasts in every tissue",
+        "Animal cells do not have a cellulose cell wall",
+        "Animal cells have a thick cellulose wall"
+      ],
+      "a": 2,
+      "e": "Animal cells are enclosed by plasma membranes but lack plant-type walls.",
+      "d": "Easy",
+      "topic": "Cell types",
+      "slo": "Identify animal cell wall in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-012",
+      "q": "Which statement correctly explains plant chloroplasts?",
+      "o": [
+        "All animal cells have chloroplasts",
+        "Chloroplasts occur in all bacterial cells",
+        "Photosynthetic plant cells can contain chloroplasts",
+        "Chloroplasts are the site of protein synthesis"
+      ],
+      "a": 2,
+      "e": "Chloroplasts capture light for photosynthesis.",
+      "d": "Easy",
+      "topic": "Cell types",
+      "slo": "Identify plant chloroplasts in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-013",
+      "q": "Which statement correctly explains plant vacuole?",
+      "o": [
+        "Its vacuole contains chromosomes instead of nucleus",
+        "A mature plant cell often contains a large central vacuole",
+        "The vacuole produces ribosomes",
+        "All animal cells have a larger central vacuole"
+      ],
+      "a": 1,
+      "e": "The central vacuole stores cell sap and supports turgidity.",
+      "d": "Easy",
+      "topic": "Cell types",
+      "slo": "Identify plant vacuole in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-014",
+      "q": "Which statement correctly explains plasma membrane position?",
+      "o": [
+        "It is always outside a plant cell wall",
+        "It is found only in bacteria",
+        "It is located only inside the nucleus",
+        "The plasma membrane forms the boundary of the cell contents"
+      ],
+      "a": 3,
+      "e": "The membrane separates the cell interior from its surroundings.",
+      "d": "Easy",
+      "topic": "Cell membrane",
+      "slo": "Identify plasma membrane position in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-015",
+      "q": "Which statement correctly explains selective permeability?",
+      "o": [
+        "The plasma membrane regulates movement of substances into and out of the cell",
+        "It only provides a rigid shape",
+        "It prevents all water movement",
+        "It allows every substance to pass equally"
+      ],
+      "a": 0,
+      "e": "Selective permeability controls exchange with the environment.",
+      "d": "Easy",
+      "topic": "Cell membrane",
+      "slo": "Identify selective permeability in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-016",
+      "q": "Which statement correctly explains phospholipid bilayer?",
+      "o": [
+        "It is a solid protein crystal",
+        "It is made only of cellulose",
+        "It consists solely of DNA",
+        "The plasma membrane contains a phospholipid bilayer"
+      ],
+      "a": 3,
+      "e": "Phospholipids form the basic double-layer structure of the membrane.",
+      "d": "Easy",
+      "topic": "Cell membrane",
+      "slo": "Identify phospholipid bilayer in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-017",
+      "q": "Which statement correctly explains membrane proteins?",
+      "o": [
+        "They form the plant cell wall",
+        "Membrane proteins can transport substances or act as receptors",
+        "They perform photosynthesis in all cells",
+        "All membrane proteins store hereditary code"
+      ],
+      "a": 1,
+      "e": "Proteins contribute transport and signaling functions to membranes.",
+      "d": "Easy",
+      "topic": "Cell membrane",
+      "slo": "Identify membrane proteins in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-018",
+      "q": "Which statement correctly explains cytoplasm location?",
+      "o": [
+        "It is only the fluid inside the nucleus",
+        "It consists entirely of chromosomes",
+        "It exists outside the cell wall",
+        "Cytoplasm lies between the plasma membrane and nucleus in a eukaryotic cell"
+      ],
+      "a": 3,
+      "e": "Cytoplasm includes cytosol and organelles outside the nucleus.",
+      "d": "Easy",
+      "topic": "Cytoplasm",
+      "slo": "Identify cytoplasm location in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-019",
+      "q": "Which statement correctly explains cytosol?",
+      "o": [
+        "Cytosol is the nuclear membrane",
+        "Cytosol is the rigid cell wall",
+        "Cytosol is the fluid portion of the cytoplasm",
+        "Cytosol is a chromosome"
+      ],
+      "a": 2,
+      "e": "Many metabolic reactions occur in the cytosol.",
+      "d": "Easy",
+      "topic": "Cytoplasm",
+      "slo": "Identify cytosol in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-020",
+      "q": "Which statement correctly explains nucleus function?",
+      "o": [
+        "It digests food in lysosomes",
+        "It produces ATP by aerobic respiration",
+        "The nucleus contains most of the cell's DNA and helps control activities",
+        "It is the main site of photosynthesis"
+      ],
+      "a": 2,
+      "e": "Nuclear DNA carries instructions regulating cell functions.",
+      "d": "Easy",
+      "topic": "Nucleus",
+      "slo": "Identify nucleus function in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-021",
+      "q": "Which statement correctly explains nuclear envelope?",
+      "o": [
+        "It encloses the central vacuole",
+        "It is the outermost layer of every cell",
+        "The nuclear envelope is a double membrane surrounding the nucleus",
+        "It is a cellulose cell wall"
+      ],
+      "a": 2,
+      "e": "The nuclear envelope separates nuclear contents from cytoplasm.",
+      "d": "Easy",
+      "topic": "Nucleus",
+      "slo": "Identify nuclear envelope in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-022",
+      "q": "Which statement correctly explains nuclear pores?",
+      "o": [
+        "They are sites of chlorophyll synthesis",
+        "They make the cell wall",
+        "Nuclear pores permit regulated exchange between nucleus and cytoplasm",
+        "They destroy all proteins"
+      ],
+      "a": 2,
+      "e": "Pores allow transport across the nuclear envelope.",
+      "d": "Easy",
+      "topic": "Nucleus",
+      "slo": "Identify nuclear pores in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-023",
+      "q": "Which statement correctly explains nucleolus?",
+      "o": [
+        "It stores cell sap",
+        "It digests damaged organelles",
+        "The nucleolus is involved in ribosome assembly",
+        "It generates most ATP"
+      ],
+      "a": 2,
+      "e": "The nucleolus helps produce ribosomal components.",
+      "d": "Easy",
+      "topic": "Nucleus",
+      "slo": "Identify nucleolus in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-024",
+      "q": "Which statement correctly explains chromatin?",
+      "o": [
+        "Chromatin is a vacuolar pigment",
+        "Chromatin is the fluid outside the cell",
+        "Chromatin contains DNA associated with proteins",
+        "Chromatin is made only of cellulose"
+      ],
+      "a": 2,
+      "e": "Chromatin is genetic material organized with proteins.",
+      "d": "Easy",
+      "topic": "Nucleus",
+      "slo": "Identify chromatin in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-025",
+      "q": "Which statement correctly explains ribosome function?",
+      "o": [
+        "Ribosomes store cell sap",
+        "Ribosomes digest entire organelles",
+        "Ribosomes perform photosynthesis",
+        "Ribosomes synthesize proteins"
+      ],
+      "a": 3,
+      "e": "Ribosomes translate genetic instructions into proteins.",
+      "d": "Easy",
+      "topic": "Ribosomes",
+      "slo": "Identify ribosome function in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-026",
+      "q": "Which statement correctly explains ribosome subunits?",
+      "o": [
+        "A ribosome has two nuclei",
+        "A ribosome is made of stacked cisternae",
+        "A ribosome is a single lipid droplet",
+        "A ribosome has a large and a small subunit"
+      ],
+      "a": 3,
+      "e": "Ribosomal subunits join during protein synthesis.",
+      "d": "Easy",
+      "topic": "Ribosomes",
+      "slo": "Identify ribosome subunits in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-027",
+      "q": "Which statement correctly explains free ribosomes?",
+      "o": [
+        "Free ribosomes commonly make proteins used within the cytosol",
+        "They store chlorophyll",
+        "They are located only in the nucleolus",
+        "They produce cellulose cell walls directly"
+      ],
+      "a": 0,
+      "e": "Free ribosomes synthesize many proteins functioning inside the cell.",
+      "d": "Easy",
+      "topic": "Ribosomes",
+      "slo": "Identify free ribosomes in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-028",
+      "q": "Which statement correctly explains rough er?",
+      "o": [
+        "Rough ER is a storage vacuole",
+        "Rough ER is the outer cell wall",
+        "Rough ER has no ribosomes anywhere",
+        "Rough endoplasmic reticulum has ribosomes attached to its surface"
+      ],
+      "a": 3,
+      "e": "Attached ribosomes give rough ER its rough appearance.",
+      "d": "Easy",
+      "topic": "Endoplasmic reticulum",
+      "slo": "Identify rough er in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-029",
+      "q": "Which statement correctly explains rough er role?",
+      "o": [
+        "It breaks down sunlight into oxygen",
+        "Rough ER helps synthesize and process proteins for secretion or membranes",
+        "It stores all chromosomes",
+        "It is the primary site of photosynthesis"
+      ],
+      "a": 1,
+      "e": "Proteins made on rough ER enter the secretory pathway.",
+      "d": "Easy",
+      "topic": "Endoplasmic reticulum",
+      "slo": "Identify rough er role in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-030",
+      "q": "Which statement correctly explains smooth er?",
+      "o": [
+        "Smooth ER is found outside the plasma membrane",
+        "Smooth ER is identical to a chloroplast",
+        "Smooth ER is coated with ribosomes",
+        "Smooth endoplasmic reticulum lacks attached ribosomes"
+      ],
+      "a": 3,
+      "e": "Smooth ER lacks surface-bound ribosomes.",
+      "d": "Easy",
+      "topic": "Endoplasmic reticulum",
+      "slo": "Identify smooth er in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-031",
+      "q": "Which statement correctly explains smooth er role?",
+      "o": [
+        "Smooth ER forms the cell wall directly",
+        "Smooth ER performs protein translation on attached ribosomes",
+        "Smooth ER is involved in lipid synthesis",
+        "Smooth ER is the site of chromosome replication only"
+      ],
+      "a": 2,
+      "e": "Smooth ER participates in lipid metabolism and other functions.",
+      "d": "Easy",
+      "topic": "Endoplasmic reticulum",
+      "slo": "Identify smooth er role in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-032",
+      "q": "Which statement correctly explains golgi cisternae?",
+      "o": [
+        "The Golgi apparatus contains stacks of flattened membrane sacs called cisternae",
+        "It consists of chromosomes",
+        "It is made of a single DNA strand",
+        "It is a hollow cellulose wall"
+      ],
+      "a": 0,
+      "e": "Golgi cisternae form a membrane-based processing system.",
+      "d": "Easy",
+      "topic": "Golgi apparatus",
+      "slo": "Identify golgi cisternae in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-033",
+      "q": "Which statement correctly explains golgi modification?",
+      "o": [
+        "It is the nucleus of a bacterium",
+        "It carries out DNA replication",
+        "The Golgi apparatus modifies and sorts products from the ER",
+        "It is the site of aerobic respiration"
+      ],
+      "a": 2,
+      "e": "Golgi compartments process and direct cellular products.",
+      "d": "Easy",
+      "topic": "Golgi apparatus",
+      "slo": "Identify golgi modification in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-034",
+      "q": "Which statement correctly explains secretory vesicles?",
+      "o": [
+        "They always remain inside the nucleus",
+        "Secretory vesicles can carry Golgi-processed products to the plasma membrane",
+        "They replace chromosomes",
+        "They are made of cellulose fibers"
+      ],
+      "a": 1,
+      "e": "Vesicles transport packaged material for secretion.",
+      "d": "Easy",
+      "topic": "Golgi apparatus",
+      "slo": "Identify secretory vesicles in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-035",
+      "q": "Which statement correctly explains golgi discovery?",
+      "o": [
+        "Camillo Golgi is associated with discovery of the Golgi apparatus",
+        "Mendel first described Golgi cisternae",
+        "Robert Hooke discovered Golgi stacks",
+        "Darwin named the Golgi apparatus"
+      ],
+      "a": 0,
+      "e": "The organelle was named after Camillo Golgi.",
+      "d": "Easy",
+      "topic": "Golgi apparatus",
+      "slo": "Identify golgi discovery in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-036",
+      "q": "Which statement correctly explains lysosome structure?",
+      "o": [
+        "Lysosomes are DNA chromosomes",
+        "Lysosomes are chlorophyll pigments",
+        "Lysosomes are cellulose walls",
+        "Lysosomes are membrane-bound sacs containing digestive enzymes"
+      ],
+      "a": 3,
+      "e": "Digestive enzymes within lysosomes break down materials.",
+      "d": "Easy",
+      "topic": "Lysosomes",
+      "slo": "Identify lysosome structure in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-037",
+      "q": "Which statement correctly explains intracellular digestion?",
+      "o": [
+        "Lysosomes help digest material taken into the cell",
+        "They create the nuclear envelope",
+        "They carry oxygen in blood",
+        "They absorb sunlight for photosynthesis"
+      ],
+      "a": 0,
+      "e": "Lysosomes can fuse with food-containing vesicles to digest contents.",
+      "d": "Easy",
+      "topic": "Lysosomes",
+      "slo": "Identify intracellular digestion in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-038",
+      "q": "Which statement correctly explains autophagy?",
+      "o": [
+        "Autophagy is pollen transfer",
+        "Autophagy is water loss from leaves",
+        "Autophagy is the formation of a new cell wall only",
+        "Autophagy involves breakdown of worn-out cell components"
+      ],
+      "a": 3,
+      "e": "Cells recycle damaged components through degradative pathways.",
+      "d": "Easy",
+      "topic": "Lysosomes",
+      "slo": "Identify autophagy in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-039",
+      "q": "Which statement correctly explains mitochondrial function?",
+      "o": [
+        "Mitochondria are major sites of aerobic respiration and ATP production",
+        "They store the entire cell sap",
+        "They synthesize cellulose walls",
+        "They are the main site of photosynthesis"
+      ],
+      "a": 0,
+      "e": "Mitochondria release usable energy during aerobic respiration.",
+      "d": "Easy",
+      "topic": "Mitochondria",
+      "slo": "Identify mitochondrial function in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-040",
+      "q": "Which statement correctly explains mitochondrial membranes?",
+      "o": [
+        "A mitochondrion has no membrane",
+        "A mitochondrion has outer and inner membranes",
+        "It is surrounded by a single nuclear envelope",
+        "It consists only of a cellulose wall"
+      ],
+      "a": 1,
+      "e": "Mitochondria are double-membrane organelles.",
+      "d": "Easy",
+      "topic": "Mitochondria",
+      "slo": "Identify mitochondrial membranes in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-041",
+      "q": "Which statement correctly explains cristae?",
+      "o": [
+        "Cristae are folds of the inner mitochondrial membrane",
+        "Cristae are Golgi vesicles",
+        "Cristae are folds of the cell wall",
+        "Cristae are nuclear pores"
+      ],
+      "a": 0,
+      "e": "Cristae increase the inner membrane surface area.",
+      "d": "Easy",
+      "topic": "Mitochondria",
+      "slo": "Identify cristae in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-042",
+      "q": "Which statement correctly explains mitochondrial matrix?",
+      "o": [
+        "The matrix is a chloroplast pigment",
+        "The matrix is the outer cell wall",
+        "The matrix is the nucleus",
+        "The matrix is the compartment enclosed by the inner mitochondrial membrane"
+      ],
+      "a": 3,
+      "e": "The matrix contains enzymes involved in respiration.",
+      "d": "Easy",
+      "topic": "Mitochondria",
+      "slo": "Identify mitochondrial matrix in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-043",
+      "q": "Which statement correctly explains chloroplast function?",
+      "o": [
+        "Chloroplasts carry out photosynthesis in plant cells",
+        "Chloroplasts make all ribosomes",
+        "Chloroplasts store genetic material for the nucleus",
+        "Chloroplasts digest worn-out organelles"
+      ],
+      "a": 0,
+      "e": "Chloroplasts use light energy to synthesize organic compounds.",
+      "d": "Easy",
+      "topic": "Plastids",
+      "slo": "Identify chloroplast function in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-044",
+      "q": "Which statement correctly explains chlorophyll?",
+      "o": [
+        "Chlorophyll is a green pigment involved in absorbing light",
+        "Chlorophyll is a membrane-bound organelle itself",
+        "Chlorophyll is a nuclear pore",
+        "Chlorophyll is a digestive enzyme"
+      ],
+      "a": 0,
+      "e": "Chlorophyll captures light for photosynthesis.",
+      "d": "Easy",
+      "topic": "Plastids",
+      "slo": "Identify chlorophyll in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-045",
+      "q": "Which statement correctly explains thylakoids?",
+      "o": [
+        "Thylakoids are cell walls",
+        "Thylakoids are membrane sacs inside chloroplasts",
+        "Thylakoids are folds inside mitochondria",
+        "Thylakoids are bacterial nuclei"
+      ],
+      "a": 1,
+      "e": "Thylakoid membranes contain photosynthetic pigments.",
+      "d": "Easy",
+      "topic": "Plastids",
+      "slo": "Identify thylakoids in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-046",
+      "q": "Which statement correctly explains grana?",
+      "o": [
+        "Grana are protein fibers in muscle",
+        "Grana are nuclear pores",
+        "Grana are stacks of thylakoids inside chloroplasts",
+        "Grana are stacks of Golgi cisternae"
+      ],
+      "a": 2,
+      "e": "Thylakoid stacks are called grana.",
+      "d": "Easy",
+      "topic": "Plastids",
+      "slo": "Identify grana in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-047",
+      "q": "Which statement correctly explains stroma?",
+      "o": [
+        "Stroma is the fluid-filled region of a chloroplast outside thylakoids",
+        "Stroma is the nucleus of an animal cell",
+        "Stroma is the inner mitochondrial fold",
+        "Stroma is the cell wall"
+      ],
+      "a": 0,
+      "e": "The stroma contains enzymes involved in sugar formation.",
+      "d": "Easy",
+      "topic": "Plastids",
+      "slo": "Identify stroma in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-048",
+      "q": "Which statement correctly explains chromoplasts?",
+      "o": [
+        "Chromoplasts digest bacteria",
+        "Chromoplasts store chromosomes",
+        "Chromoplasts perform muscle contraction",
+        "Chromoplasts contain pigments that give many flowers and fruits yellow, orange or red colors"
+      ],
+      "a": 3,
+      "e": "Chromoplasts contribute non-green colors to plant structures.",
+      "d": "Easy",
+      "topic": "Plastids",
+      "slo": "Identify chromoplasts in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-049",
+      "q": "Which statement correctly explains leucoplasts?",
+      "o": [
+        "Leucoplasts form nerve impulses",
+        "Leucoplasts are bacterial flagella",
+        "Leucoplasts are generally colorless plastids involved in storage",
+        "Leucoplasts are always green"
+      ],
+      "a": 2,
+      "e": "Colorless plastids often store food materials.",
+      "d": "Easy",
+      "topic": "Plastids",
+      "slo": "Identify leucoplasts in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-050",
+      "q": "Which statement correctly explains vacuole membrane?",
+      "o": [
+        "It is called a crista",
+        "The membrane surrounding a plant vacuole is called the tonoplast",
+        "It is called a thylakoid",
+        "It is called the nucleolus"
+      ],
+      "a": 1,
+      "e": "The tonoplast separates vacuolar contents from cytoplasm.",
+      "d": "Easy",
+      "topic": "Vacuoles",
+      "slo": "Identify vacuole membrane in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-051",
+      "q": "Which statement correctly explains cell sap?",
+      "o": [
+        "Cell sap is the cellulose wall",
+        "Cell sap is the fluid stored inside a plant vacuole",
+        "Cell sap is found only inside chromosomes",
+        "Cell sap is a ribosome"
+      ],
+      "a": 1,
+      "e": "Vacuoles contain water and dissolved substances called cell sap.",
+      "d": "Easy",
+      "topic": "Vacuoles",
+      "slo": "Identify cell sap in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-052",
+      "q": "Which statement correctly explains turgor?",
+      "o": [
+        "A water-filled central vacuole helps maintain turgor pressure",
+        "It replaces the plasma membrane",
+        "It causes all proteins to leave the cell",
+        "It destroys the plant cell wall"
+      ],
+      "a": 0,
+      "e": "Turgor helps support non-woody plant tissues.",
+      "d": "Easy",
+      "topic": "Vacuoles",
+      "slo": "Identify turgor in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-053",
+      "q": "Which statement correctly explains centrioles?",
+      "o": [
+        "Centrioles help organize microtubules in many animal cells",
+        "Centrioles contain chlorophyll",
+        "Centrioles store starch granules",
+        "Centrioles are plant cell walls"
+      ],
+      "a": 0,
+      "e": "Centrioles are associated with centrosomes and cell division.",
+      "d": "Easy",
+      "topic": "Centrioles",
+      "slo": "Identify centrioles in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-054",
+      "q": "Which statement correctly explains cytoskeleton?",
+      "o": [
+        "The cytoskeleton helps maintain cell shape and supports movement",
+        "It consists only of stored water",
+        "It is the cell's genetic code",
+        "It is a fixed cellulose wall in all cells"
+      ],
+      "a": 0,
+      "e": "Protein filaments provide internal support and transport routes.",
+      "d": "Easy",
+      "topic": "Cytoskeleton",
+      "slo": "Identify cytoskeleton in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-055",
+      "q": "Which statement correctly explains microtubules?",
+      "o": [
+        "They are cellulose plates outside the cell",
+        "Microtubules are cytoskeletal structures important in intracellular transport and cell division",
+        "They are mitochondrial DNA molecules",
+        "They are vacuolar pigments"
+      ],
+      "a": 1,
+      "e": "Microtubules support movement and spindle formation.",
+      "d": "Easy",
+      "topic": "Cytoskeleton",
+      "slo": "Identify microtubules in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-056",
+      "q": "Which statement correctly explains cell wall support?",
+      "o": [
+        "The wall is the site of DNA storage",
+        "The wall replaces all membranes",
+        "The plant cell wall provides rigidity and protection",
+        "The wall is the main site of ATP production"
+      ],
+      "a": 2,
+      "e": "A cellulose-rich wall supports plant cells.",
+      "d": "Easy",
+      "topic": "Cell wall",
+      "slo": "Identify cell wall support in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-057",
+      "q": "Which statement correctly explains cellulose?",
+      "o": [
+        "Cellulose is a digestive enzyme",
+        "Cellulose is the main pigment in chloroplasts",
+        "Cellulose is a nuclear protein",
+        "Cellulose is a major structural component of plant cell walls"
+      ],
+      "a": 3,
+      "e": "Cellulose fibers strengthen plant cell walls.",
+      "d": "Easy",
+      "topic": "Cell wall",
+      "slo": "Identify cellulose in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-058",
+      "q": "Which statement correctly explains cell wall permeability?",
+      "o": [
+        "The plant cell wall is generally more freely permeable than the plasma membrane",
+        "The wall selectively pumps every ion",
+        "The wall contains nuclear pores",
+        "The wall is an impermeable lipid bilayer"
+      ],
+      "a": 0,
+      "e": "The plasma membrane is the main selective barrier.",
+      "d": "Easy",
+      "topic": "Cell wall",
+      "slo": "Identify cell wall permeability in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-059",
+      "q": "Which statement correctly explains specialized cells?",
+      "o": [
+        "All cells lose their membranes",
+        "Cell specialization allows different cells to perform particular tasks efficiently",
+        "Specialization prevents tissues from forming",
+        "Every cell must have the same shape"
+      ],
+      "a": 1,
+      "e": "Structure is adapted to function in multicellular organisms.",
+      "d": "Easy",
+      "topic": "Cell specialization",
+      "slo": "Identify specialized cells in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-060",
+      "q": "Which statement correctly explains red blood cells?",
+      "o": [
+        "Red blood cells are specialized for oxygen transport",
+        "They produce root hairs",
+        "Red blood cells are specialized for photosynthesis",
+        "They form plant xylem vessels"
+      ],
+      "a": 0,
+      "e": "Hemoglobin enables red blood cells to carry oxygen.",
+      "d": "Easy",
+      "topic": "Cell specialization",
+      "slo": "Identify red blood cells in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-061",
+      "q": "Which statement correctly explains neuron?",
+      "o": [
+        "A neuron is specialized to transmit nerve impulses",
+        "A neuron stores starch in seeds",
+        "A neuron carries pollen grains",
+        "A neuron absorbs minerals through root hairs"
+      ],
+      "a": 0,
+      "e": "Long processes enable neurons to communicate across distances.",
+      "d": "Easy",
+      "topic": "Cell specialization",
+      "slo": "Identify neuron in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-062",
+      "q": "Which statement correctly explains muscle cell?",
+      "o": [
+        "Muscle cells mainly absorb sunlight",
+        "Muscle cells are specialized for contraction",
+        "Muscle cells make cellulose walls",
+        "Muscle cells are specialized for pollen formation"
+      ],
+      "a": 1,
+      "e": "Contractile proteins allow muscle cells to generate force.",
+      "d": "Easy",
+      "topic": "Cell specialization",
+      "slo": "Identify muscle cell in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-063",
+      "q": "Which statement correctly explains root hair cell?",
+      "o": [
+        "It secretes digestive enzymes into the stomach",
+        "A root hair cell has an extended surface to absorb water and minerals",
+        "It conducts nerve impulses",
+        "It is specialized for carrying oxygen in blood"
+      ],
+      "a": 1,
+      "e": "The hair-like extension increases absorption surface area.",
+      "d": "Easy",
+      "topic": "Cell specialization",
+      "slo": "Identify root hair cell in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-064",
+      "q": "Which statement correctly explains palisade mesophyll?",
+      "o": [
+        "They lack all membranes",
+        "They form animal bone",
+        "They carry blood oxygen",
+        "Palisade mesophyll cells contain many chloroplasts for photosynthesis"
+      ],
+      "a": 3,
+      "e": "Many chloroplasts support high rates of photosynthesis.",
+      "d": "Easy",
+      "topic": "Cell specialization",
+      "slo": "Identify palisade mesophyll in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-065",
+      "q": "Which statement correctly explains xylem vessels?",
+      "o": [
+        "Xylem vessels transmit nerve impulses",
+        "Xylem vessels make antibodies",
+        "Xylem vessels transport water and mineral salts in plants",
+        "Xylem vessels carry blood plasma"
+      ],
+      "a": 2,
+      "e": "Xylem tissue conducts water through the plant.",
+      "d": "Easy",
+      "topic": "Cell specialization",
+      "slo": "Identify xylem vessels in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-066",
+      "q": "Which statement correctly explains phloem sieve tubes?",
+      "o": [
+        "Phloem is the nucleus of a root cell",
+        "Phloem is the site of photosynthesis only",
+        "Phloem pumps oxygen through lungs",
+        "Phloem transports sugars and other organic nutrients in plants"
+      ],
+      "a": 3,
+      "e": "Phloem distributes products of photosynthesis.",
+      "d": "Easy",
+      "topic": "Cell specialization",
+      "slo": "Identify phloem sieve tubes in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-067",
+      "q": "Which statement correctly explains sperm cell?",
+      "o": [
+        "It is a mature xylem vessel",
+        "A sperm cell is adapted to swim toward and fertilize an egg",
+        "It is a photosynthetic plant cell",
+        "It is a red blood cell"
+      ],
+      "a": 1,
+      "e": "The flagellum enables motility in many animal sperm cells.",
+      "d": "Easy",
+      "topic": "Cell specialization",
+      "slo": "Identify sperm cell in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-068",
+      "q": "Which statement correctly explains tissue?",
+      "o": [
+        "A tissue is an entire ecosystem",
+        "A tissue is always a single molecule",
+        "A tissue is only an organelle",
+        "A tissue is a group of similar cells working together for a function"
+      ],
+      "a": 3,
+      "e": "Similar specialized cells form tissues.",
+      "d": "Easy",
+      "topic": "Tissues and organs",
+      "slo": "Identify tissue in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-069",
+      "q": "Which statement correctly explains organ?",
+      "o": [
+        "An organ is a single ribosome",
+        "An organ is always one cell",
+        "An organ is composed of different tissues working together",
+        "An organ is a population of species"
+      ],
+      "a": 2,
+      "e": "Different tissues combine to perform an organ's function.",
+      "d": "Easy",
+      "topic": "Tissues and organs",
+      "slo": "Identify organ in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-070",
+      "q": "Which statement correctly explains organ system?",
+      "o": [
+        "An organ system is a group of organs coordinating a major function",
+        "An organ system is a single chromosome",
+        "An organ system is a group of chloroplasts",
+        "An organ system is one protein"
+      ],
+      "a": 0,
+      "e": "Organ systems coordinate functions such as digestion.",
+      "d": "Easy",
+      "topic": "Tissues and organs",
+      "slo": "Identify organ system in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-071",
+      "q": "Which statement correctly explains levels of organization?",
+      "o": [
+        "Organ systems are smaller than cells",
+        "Organs form cells directly",
+        "Tissues form atoms",
+        "Cells form tissues, tissues form organs, and organs form organ systems"
+      ],
+      "a": 3,
+      "e": "Biological organization builds from cells to higher levels.",
+      "d": "Easy",
+      "topic": "Tissues and organs",
+      "slo": "Identify levels of organization in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-072",
+      "q": "Which statement correctly explains division of labour?",
+      "o": [
+        "Division of labour means different specialized parts perform different functions",
+        "Cells cannot cooperate",
+        "Organs are independent of tissues",
+        "All parts perform only one identical task"
+      ],
+      "a": 0,
+      "e": "Division of labour increases efficiency in multicellular life.",
+      "d": "Easy",
+      "topic": "Tissues and organs",
+      "slo": "Identify division of labour in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-073",
+      "q": "Which statement correctly explains stem cell definition?",
+      "o": [
+        "A stem cell cannot divide",
+        "A stem cell can self-renew and produce specialized daughter cells",
+        "A stem cell is a nonliving mineral",
+        "A stem cell is always a mature red blood cell"
+      ],
+      "a": 1,
+      "e": "Stem cells can divide and differentiate.",
+      "d": "Easy",
+      "topic": "Stem cells",
+      "slo": "Identify stem cell definition in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-074",
+      "q": "Which statement correctly explains differentiation?",
+      "o": [
+        "Differentiation means every cell becomes identical",
+        "Differentiation is only water diffusion",
+        "Differentiation is breakdown of cell walls",
+        "Differentiation is the process by which cells become specialized"
+      ],
+      "a": 3,
+      "e": "Cells develop specialized structures and functions during differentiation.",
+      "d": "Easy",
+      "topic": "Stem cells",
+      "slo": "Identify differentiation in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-075",
+      "q": "Which statement correctly explains embryonic stem cells?",
+      "o": [
+        "They are mature xylem cells",
+        "They cannot divide",
+        "Embryonic stem cells can develop into many types of body cells",
+        "They are always bacterial cells"
+      ],
+      "a": 2,
+      "e": "Embryonic stem cells have broad differentiation potential.",
+      "d": "Easy",
+      "topic": "Stem cells",
+      "slo": "Identify embryonic stem cells in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-076",
+      "q": "Which statement correctly explains adult stem cells?",
+      "o": [
+        "They are nonliving structures",
+        "Adult stem cells help maintain and repair particular tissues",
+        "They are always completely unspecialized embryos",
+        "They perform photosynthesis in all organs"
+      ],
+      "a": 1,
+      "e": "Tissue stem cells replenish cells during normal renewal and repair.",
+      "d": "Easy",
+      "topic": "Stem cells",
+      "slo": "Identify adult stem cells in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-077",
+      "q": "Which statement correctly explains bone marrow?",
+      "o": [
+        "Bone marrow makes cellulose walls",
+        "Bone marrow is a plant vacuole",
+        "Bone marrow contains stem cells that produce blood cells",
+        "Bone marrow produces chloroplasts"
+      ],
+      "a": 2,
+      "e": "Hematopoietic stem cells generate blood cell lineages.",
+      "d": "Easy",
+      "topic": "Stem cells",
+      "slo": "Identify bone marrow in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-078",
+      "q": "Which statement correctly explains prokaryotic organelles?",
+      "o": [
+        "Prokaryotic cells generally lack membrane-bound organelles",
+        "They always have chloroplasts",
+        "They always have mitochondria",
+        "They always have a Golgi apparatus"
+      ],
+      "a": 0,
+      "e": "Prokaryotes lack the membrane-bound organelles typical of eukaryotes.",
+      "d": "Easy",
+      "topic": "Cell comparisons",
+      "slo": "Identify prokaryotic organelles in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-079",
+      "q": "Which statement correctly explains ribosomes in both cell types?",
+      "o": [
+        "Both prokaryotic and eukaryotic cells contain ribosomes",
+        "Only plants contain ribosomes",
+        "Only animals contain ribosomes",
+        "Bacteria contain no ribosomes"
+      ],
+      "a": 0,
+      "e": "All cellular life requires machinery for protein synthesis.",
+      "d": "Easy",
+      "topic": "Cell comparisons",
+      "slo": "Identify ribosomes in both cell types in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-080",
+      "q": "Which statement correctly explains plasma membrane in both?",
+      "o": [
+        "Only plant cells have membranes",
+        "Neither cell type has membranes",
+        "Both plant and animal cells possess a plasma membrane",
+        "Only animal cells have membranes"
+      ],
+      "a": 2,
+      "e": "A plasma membrane encloses both plant and animal cells.",
+      "d": "Easy",
+      "topic": "Cell comparisons",
+      "slo": "Identify plasma membrane in both in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-081",
+      "q": "Which statement correctly explains mitochondria and energy?",
+      "o": [
+        "They contain only chloroplasts",
+        "Cells with high aerobic energy demand often contain many mitochondria",
+        "Such cells always lack ribosomes",
+        "They have no cytoplasm"
+      ],
+      "a": 1,
+      "e": "Mitochondrial abundance can reflect energy requirements.",
+      "d": "Easy",
+      "topic": "Cell comparisons",
+      "slo": "Identify mitochondria and energy in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-082",
+      "q": "Which statement correctly explains secretory cells?",
+      "o": [
+        "A cell secreting many proteins often has extensive rough ER and Golgi apparatus",
+        "It needs no ribosomes",
+        "It must lack a nucleus",
+        "It cannot have a plasma membrane"
+      ],
+      "a": 0,
+      "e": "Rough ER and Golgi process proteins destined for secretion.",
+      "d": "Easy",
+      "topic": "Cell comparisons",
+      "slo": "Identify secretory cells in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-083",
+      "q": "Which statement correctly explains photosynthetic cells?",
+      "o": [
+        "It lacks a plasma membrane",
+        "It contains only lysosomes",
+        "A photosynthetic leaf cell is expected to contain many chloroplasts",
+        "It has no cytoplasm"
+      ],
+      "a": 2,
+      "e": "Chloroplast abundance supports photosynthetic activity.",
+      "d": "Easy",
+      "topic": "Cell comparisons",
+      "slo": "Identify photosynthetic cells in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-084",
+      "q": "Which statement correctly explains vacuole loss of turgor?",
+      "o": [
+        "Loss of water from a plant cell vacuole can cause wilting",
+        "It converts the cell into a bacterium",
+        "It increases turgor indefinitely",
+        "It creates more chloroplasts instantly"
+      ],
+      "a": 0,
+      "e": "Reduced vacuolar water lowers turgor pressure.",
+      "d": "Easy",
+      "topic": "Cell comparisons",
+      "slo": "Identify vacuole loss of turgor in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-085",
+      "q": "Which statement correctly explains damaged lysosomes?",
+      "o": [
+        "They remove all need for ribosomes",
+        "They replace the nucleus",
+        "Defective lysosomes can impair intracellular digestion and recycling",
+        "They increase chlorophyll synthesis directly"
+      ],
+      "a": 2,
+      "e": "Lysosomal enzymes are needed to break down and recycle materials.",
+      "d": "Easy",
+      "topic": "Cell comparisons",
+      "slo": "Identify damaged lysosomes in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-086",
+      "q": "Which statement correctly explains damaged ribosomes?",
+      "o": [
+        "If ribosomes stop functioning, protein synthesis is disrupted",
+        "DNA becomes cellulose",
+        "Cell walls immediately become nuclei",
+        "Photosynthesis must increase"
+      ],
+      "a": 0,
+      "e": "Ribosomes are required to build proteins.",
+      "d": "Easy",
+      "topic": "Cell comparisons",
+      "slo": "Identify damaged ribosomes in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-087",
+      "q": "Which statement correctly explains damaged golgi?",
+      "o": [
+        "It turns animal cells into bacteria",
+        "It directly increases chlorophyll",
+        "It eliminates the need for DNA",
+        "Disrupted Golgi function can interfere with processing and secretion of proteins"
+      ],
+      "a": 3,
+      "e": "Golgi sorting is important for secretory pathways.",
+      "d": "Easy",
+      "topic": "Cell comparisons",
+      "slo": "Identify damaged golgi in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-088",
+      "q": "A student is reviewing the cell chapter. Which description of basic unit of life is scientifically accurate?",
+      "o": [
+        "The organ is the smallest living unit",
+        "The cell is the basic structural and functional unit of life",
+        "The tissue is the basic unit of life",
+        "Only multicellular organisms contain cells"
+      ],
+      "a": 1,
+      "e": "Cells carry out the essential functions of life.",
+      "d": "Medium",
+      "topic": "Cell theory",
+      "slo": "Explain basic unit of life in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-089",
+      "q": "A student is reviewing the cell chapter. Which description of all living things is scientifically accurate?",
+      "o": [
+        "Viruses are composed of ordinary cells",
+        "All organisms are made only of tissues",
+        "All living organisms consist of one or more cells",
+        "Only animals contain cells"
+      ],
+      "a": 2,
+      "e": "Cell theory recognizes cellular organization of living things.",
+      "d": "Medium",
+      "topic": "Cell theory",
+      "slo": "Explain all living things in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-090",
+      "q": "A student is reviewing the cell chapter. Which description of new cells is scientifically accurate?",
+      "o": [
+        "Cells are made only by fusion of tissues",
+        "New cells arise from pre-existing cells",
+        "Every cell forms directly from an organ",
+        "Cells arise routinely from nonliving dust"
+      ],
+      "a": 1,
+      "e": "Cell division produces new cells from existing cells.",
+      "d": "Medium",
+      "topic": "Cell theory",
+      "slo": "Explain new cells in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-091",
+      "q": "A student is reviewing the cell chapter. Which description of unicellular organisms is scientifically accurate?",
+      "o": [
+        "It has many specialized tissues",
+        "It contains no cytoplasm",
+        "It requires different organs to survive",
+        "A unicellular organism performs life processes within one cell"
+      ],
+      "a": 3,
+      "e": "A single cell can carry out all essential life activities.",
+      "d": "Medium",
+      "topic": "Cell theory",
+      "slo": "Explain unicellular organisms in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-092",
+      "q": "A student is reviewing the cell chapter. Which description of multicellular organisms is scientifically accurate?",
+      "o": [
+        "They are always microscopic",
+        "They never contain tissues",
+        "Each cell must perform every body function equally",
+        "Multicellular organisms have many cells that can specialize"
+      ],
+      "a": 3,
+      "e": "Specialized cells share work in complex organisms.",
+      "d": "Medium",
+      "topic": "Cell theory",
+      "slo": "Explain multicellular organisms in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-093",
+      "q": "A student is reviewing the cell chapter. Which description of prokaryotic nucleus is scientifically accurate?",
+      "o": [
+        "A prokaryotic cell lacks a membrane-bound nucleus",
+        "Its DNA is inside a nuclear envelope",
+        "It always contains chloroplasts",
+        "Its nucleus has a double membrane"
+      ],
+      "a": 0,
+      "e": "Prokaryotes have DNA without a membrane-bound nucleus.",
+      "d": "Medium",
+      "topic": "Cell types",
+      "slo": "Explain prokaryotic nucleus in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-094",
+      "q": "A student is reviewing the cell chapter. Which description of eukaryotic nucleus is scientifically accurate?",
+      "o": [
+        "It lacks all internal membranes",
+        "It has only free DNA in a nucleoid",
+        "It has no genetic material",
+        "A eukaryotic cell contains a membrane-bound nucleus"
+      ],
+      "a": 3,
+      "e": "Eukaryotes possess a true nucleus enclosed by a nuclear envelope.",
+      "d": "Medium",
+      "topic": "Cell types",
+      "slo": "Explain eukaryotic nucleus in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-095",
+      "q": "A student is reviewing the cell chapter. Which description of bacterial cell is scientifically accurate?",
+      "o": [
+        "Every bacterium has mitochondria",
+        "A bacterium is a prokaryotic organism",
+        "A bacterium is a multicellular animal",
+        "A bacterium is a plant tissue"
+      ],
+      "a": 1,
+      "e": "Bacteria are cellular organisms without a true nucleus.",
+      "d": "Medium",
+      "topic": "Cell types",
+      "slo": "Explain bacterial cell in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-096",
+      "q": "A student is reviewing the cell chapter. Which description of plant and animal cells is scientifically accurate?",
+      "o": [
+        "Neither has a plasma membrane",
+        "Plant and animal cells are both eukaryotic",
+        "Neither contains DNA",
+        "Both are always prokaryotic"
+      ],
+      "a": 1,
+      "e": "Both types have nuclei and membrane-bound organelles.",
+      "d": "Medium",
+      "topic": "Cell types",
+      "slo": "Explain plant and animal cells in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-097",
+      "q": "A student is reviewing the cell chapter. Which description of plant cell wall is scientifically accurate?",
+      "o": [
+        "Animal cells have the same cellulose wall",
+        "A typical plant cell has a cellulose cell wall outside its plasma membrane",
+        "Its cell wall replaces the nucleus",
+        "Its wall is made mainly of chitin"
+      ],
+      "a": 1,
+      "e": "The cellulose cell wall provides support and protection in plants.",
+      "d": "Medium",
+      "topic": "Cell types",
+      "slo": "Explain plant cell wall in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-098",
+      "q": "A student is reviewing the cell chapter. Which description of animal cell wall is scientifically accurate?",
+      "o": [
+        "Animal cells do not have a cellulose cell wall",
+        "Animal cells lack plasma membranes",
+        "Animal cells have chloroplasts in every tissue",
+        "Animal cells have a thick cellulose wall"
+      ],
+      "a": 0,
+      "e": "Animal cells are enclosed by plasma membranes but lack plant-type walls.",
+      "d": "Medium",
+      "topic": "Cell types",
+      "slo": "Explain animal cell wall in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-099",
+      "q": "A student is reviewing the cell chapter. Which description of plant chloroplasts is scientifically accurate?",
+      "o": [
+        "Chloroplasts are the site of protein synthesis",
+        "Chloroplasts occur in all bacterial cells",
+        "All animal cells have chloroplasts",
+        "Photosynthetic plant cells can contain chloroplasts"
+      ],
+      "a": 3,
+      "e": "Chloroplasts capture light for photosynthesis.",
+      "d": "Medium",
+      "topic": "Cell types",
+      "slo": "Explain plant chloroplasts in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-100",
+      "q": "A student is reviewing the cell chapter. Which description of plant vacuole is scientifically accurate?",
+      "o": [
+        "All animal cells have a larger central vacuole",
+        "A mature plant cell often contains a large central vacuole",
+        "Its vacuole contains chromosomes instead of nucleus",
+        "The vacuole produces ribosomes"
+      ],
+      "a": 1,
+      "e": "The central vacuole stores cell sap and supports turgidity.",
+      "d": "Medium",
+      "topic": "Cell types",
+      "slo": "Explain plant vacuole in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-101",
+      "q": "A student is reviewing the cell chapter. Which description of plasma membrane position is scientifically accurate?",
+      "o": [
+        "It is always outside a plant cell wall",
+        "It is found only in bacteria",
+        "It is located only inside the nucleus",
+        "The plasma membrane forms the boundary of the cell contents"
+      ],
+      "a": 3,
+      "e": "The membrane separates the cell interior from its surroundings.",
+      "d": "Medium",
+      "topic": "Cell membrane",
+      "slo": "Explain plasma membrane position in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-102",
+      "q": "A student is reviewing the cell chapter. Which description of selective permeability is scientifically accurate?",
+      "o": [
+        "It only provides a rigid shape",
+        "It prevents all water movement",
+        "It allows every substance to pass equally",
+        "The plasma membrane regulates movement of substances into and out of the cell"
+      ],
+      "a": 3,
+      "e": "Selective permeability controls exchange with the environment.",
+      "d": "Medium",
+      "topic": "Cell membrane",
+      "slo": "Explain selective permeability in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-103",
+      "q": "A student is reviewing the cell chapter. Which description of phospholipid bilayer is scientifically accurate?",
+      "o": [
+        "It is a solid protein crystal",
+        "It is made only of cellulose",
+        "The plasma membrane contains a phospholipid bilayer",
+        "It consists solely of DNA"
+      ],
+      "a": 2,
+      "e": "Phospholipids form the basic double-layer structure of the membrane.",
+      "d": "Medium",
+      "topic": "Cell membrane",
+      "slo": "Explain phospholipid bilayer in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-104",
+      "q": "A student is reviewing the cell chapter. Which description of membrane proteins is scientifically accurate?",
+      "o": [
+        "They perform photosynthesis in all cells",
+        "They form the plant cell wall",
+        "Membrane proteins can transport substances or act as receptors",
+        "All membrane proteins store hereditary code"
+      ],
+      "a": 2,
+      "e": "Proteins contribute transport and signaling functions to membranes.",
+      "d": "Medium",
+      "topic": "Cell membrane",
+      "slo": "Explain membrane proteins in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-105",
+      "q": "A student is reviewing the cell chapter. Which description of cytoplasm location is scientifically accurate?",
+      "o": [
+        "It is only the fluid inside the nucleus",
+        "Cytoplasm lies between the plasma membrane and nucleus in a eukaryotic cell",
+        "It exists outside the cell wall",
+        "It consists entirely of chromosomes"
+      ],
+      "a": 1,
+      "e": "Cytoplasm includes cytosol and organelles outside the nucleus.",
+      "d": "Medium",
+      "topic": "Cytoplasm",
+      "slo": "Explain cytoplasm location in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-106",
+      "q": "A student is reviewing the cell chapter. Which description of cytosol is scientifically accurate?",
+      "o": [
+        "Cytosol is the fluid portion of the cytoplasm",
+        "Cytosol is a chromosome",
+        "Cytosol is the nuclear membrane",
+        "Cytosol is the rigid cell wall"
+      ],
+      "a": 0,
+      "e": "Many metabolic reactions occur in the cytosol.",
+      "d": "Medium",
+      "topic": "Cytoplasm",
+      "slo": "Explain cytosol in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-107",
+      "q": "A student is reviewing the cell chapter. Which description of nucleus function is scientifically accurate?",
+      "o": [
+        "It produces ATP by aerobic respiration",
+        "It digests food in lysosomes",
+        "It is the main site of photosynthesis",
+        "The nucleus contains most of the cell's DNA and helps control activities"
+      ],
+      "a": 3,
+      "e": "Nuclear DNA carries instructions regulating cell functions.",
+      "d": "Medium",
+      "topic": "Nucleus",
+      "slo": "Explain nucleus function in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-108",
+      "q": "A student is reviewing the cell chapter. Which description of nuclear envelope is scientifically accurate?",
+      "o": [
+        "It is the outermost layer of every cell",
+        "It is a cellulose cell wall",
+        "It encloses the central vacuole",
+        "The nuclear envelope is a double membrane surrounding the nucleus"
+      ],
+      "a": 3,
+      "e": "The nuclear envelope separates nuclear contents from cytoplasm.",
+      "d": "Medium",
+      "topic": "Nucleus",
+      "slo": "Explain nuclear envelope in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-109",
+      "q": "A student is reviewing the cell chapter. Which description of nuclear pores is scientifically accurate?",
+      "o": [
+        "They destroy all proteins",
+        "Nuclear pores permit regulated exchange between nucleus and cytoplasm",
+        "They are sites of chlorophyll synthesis",
+        "They make the cell wall"
+      ],
+      "a": 1,
+      "e": "Pores allow transport across the nuclear envelope.",
+      "d": "Medium",
+      "topic": "Nucleus",
+      "slo": "Explain nuclear pores in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-110",
+      "q": "A student is reviewing the cell chapter. Which description of nucleolus is scientifically accurate?",
+      "o": [
+        "It stores cell sap",
+        "It generates most ATP",
+        "It digests damaged organelles",
+        "The nucleolus is involved in ribosome assembly"
+      ],
+      "a": 3,
+      "e": "The nucleolus helps produce ribosomal components.",
+      "d": "Medium",
+      "topic": "Nucleus",
+      "slo": "Explain nucleolus in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-111",
+      "q": "A student is reviewing the cell chapter. Which description of chromatin is scientifically accurate?",
+      "o": [
+        "Chromatin contains DNA associated with proteins",
+        "Chromatin is a vacuolar pigment",
+        "Chromatin is made only of cellulose",
+        "Chromatin is the fluid outside the cell"
+      ],
+      "a": 0,
+      "e": "Chromatin is genetic material organized with proteins.",
+      "d": "Medium",
+      "topic": "Nucleus",
+      "slo": "Explain chromatin in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-112",
+      "q": "A student is reviewing the cell chapter. Which description of ribosome function is scientifically accurate?",
+      "o": [
+        "Ribosomes store cell sap",
+        "Ribosomes synthesize proteins",
+        "Ribosomes digest entire organelles",
+        "Ribosomes perform photosynthesis"
+      ],
+      "a": 1,
+      "e": "Ribosomes translate genetic instructions into proteins.",
+      "d": "Medium",
+      "topic": "Ribosomes",
+      "slo": "Explain ribosome function in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-113",
+      "q": "A student is reviewing the cell chapter. Which description of ribosome subunits is scientifically accurate?",
+      "o": [
+        "A ribosome is made of stacked cisternae",
+        "A ribosome is a single lipid droplet",
+        "A ribosome has a large and a small subunit",
+        "A ribosome has two nuclei"
+      ],
+      "a": 2,
+      "e": "Ribosomal subunits join during protein synthesis.",
+      "d": "Medium",
+      "topic": "Ribosomes",
+      "slo": "Explain ribosome subunits in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-114",
+      "q": "A student is reviewing the cell chapter. Which description of free ribosomes is scientifically accurate?",
+      "o": [
+        "Free ribosomes commonly make proteins used within the cytosol",
+        "They are located only in the nucleolus",
+        "They store chlorophyll",
+        "They produce cellulose cell walls directly"
+      ],
+      "a": 0,
+      "e": "Free ribosomes synthesize many proteins functioning inside the cell.",
+      "d": "Medium",
+      "topic": "Ribosomes",
+      "slo": "Explain free ribosomes in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-115",
+      "q": "A student is reviewing the cell chapter. Which description of rough er is scientifically accurate?",
+      "o": [
+        "Rough endoplasmic reticulum has ribosomes attached to its surface",
+        "Rough ER is the outer cell wall",
+        "Rough ER is a storage vacuole",
+        "Rough ER has no ribosomes anywhere"
+      ],
+      "a": 0,
+      "e": "Attached ribosomes give rough ER its rough appearance.",
+      "d": "Medium",
+      "topic": "Endoplasmic reticulum",
+      "slo": "Explain rough er in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-116",
+      "q": "A student is reviewing the cell chapter. Which description of rough er role is scientifically accurate?",
+      "o": [
+        "It breaks down sunlight into oxygen",
+        "It is the primary site of photosynthesis",
+        "Rough ER helps synthesize and process proteins for secretion or membranes",
+        "It stores all chromosomes"
+      ],
+      "a": 2,
+      "e": "Proteins made on rough ER enter the secretory pathway.",
+      "d": "Medium",
+      "topic": "Endoplasmic reticulum",
+      "slo": "Explain rough er role in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-117",
+      "q": "A student is reviewing the cell chapter. Which description of smooth er is scientifically accurate?",
+      "o": [
+        "Smooth ER is coated with ribosomes",
+        "Smooth endoplasmic reticulum lacks attached ribosomes",
+        "Smooth ER is identical to a chloroplast",
+        "Smooth ER is found outside the plasma membrane"
+      ],
+      "a": 1,
+      "e": "Smooth ER lacks surface-bound ribosomes.",
+      "d": "Medium",
+      "topic": "Endoplasmic reticulum",
+      "slo": "Explain smooth er in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-118",
+      "q": "A student is reviewing the cell chapter. Which description of smooth er role is scientifically accurate?",
+      "o": [
+        "Smooth ER performs protein translation on attached ribosomes",
+        "Smooth ER forms the cell wall directly",
+        "Smooth ER is the site of chromosome replication only",
+        "Smooth ER is involved in lipid synthesis"
+      ],
+      "a": 3,
+      "e": "Smooth ER participates in lipid metabolism and other functions.",
+      "d": "Medium",
+      "topic": "Endoplasmic reticulum",
+      "slo": "Explain smooth er role in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-119",
+      "q": "A student is reviewing the cell chapter. Which description of golgi cisternae is scientifically accurate?",
+      "o": [
+        "The Golgi apparatus contains stacks of flattened membrane sacs called cisternae",
+        "It consists of chromosomes",
+        "It is a hollow cellulose wall",
+        "It is made of a single DNA strand"
+      ],
+      "a": 0,
+      "e": "Golgi cisternae form a membrane-based processing system.",
+      "d": "Medium",
+      "topic": "Golgi apparatus",
+      "slo": "Explain golgi cisternae in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-120",
+      "q": "A student is reviewing the cell chapter. Which description of golgi modification is scientifically accurate?",
+      "o": [
+        "It carries out DNA replication",
+        "The Golgi apparatus modifies and sorts products from the ER",
+        "It is the nucleus of a bacterium",
+        "It is the site of aerobic respiration"
+      ],
+      "a": 1,
+      "e": "Golgi compartments process and direct cellular products.",
+      "d": "Medium",
+      "topic": "Golgi apparatus",
+      "slo": "Explain golgi modification in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-121",
+      "q": "A student is reviewing the cell chapter. Which description of secretory vesicles is scientifically accurate?",
+      "o": [
+        "They are made of cellulose fibers",
+        "Secretory vesicles can carry Golgi-processed products to the plasma membrane",
+        "They replace chromosomes",
+        "They always remain inside the nucleus"
+      ],
+      "a": 1,
+      "e": "Vesicles transport packaged material for secretion.",
+      "d": "Medium",
+      "topic": "Golgi apparatus",
+      "slo": "Explain secretory vesicles in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-122",
+      "q": "A student is reviewing the cell chapter. Which description of golgi discovery is scientifically accurate?",
+      "o": [
+        "Robert Hooke discovered Golgi stacks",
+        "Mendel first described Golgi cisternae",
+        "Darwin named the Golgi apparatus",
+        "Camillo Golgi is associated with discovery of the Golgi apparatus"
+      ],
+      "a": 3,
+      "e": "The organelle was named after Camillo Golgi.",
+      "d": "Medium",
+      "topic": "Golgi apparatus",
+      "slo": "Explain golgi discovery in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-123",
+      "q": "A student is reviewing the cell chapter. Which description of lysosome structure is scientifically accurate?",
+      "o": [
+        "Lysosomes are chlorophyll pigments",
+        "Lysosomes are membrane-bound sacs containing digestive enzymes",
+        "Lysosomes are cellulose walls",
+        "Lysosomes are DNA chromosomes"
+      ],
+      "a": 1,
+      "e": "Digestive enzymes within lysosomes break down materials.",
+      "d": "Medium",
+      "topic": "Lysosomes",
+      "slo": "Explain lysosome structure in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-124",
+      "q": "A student is reviewing the cell chapter. Which description of intracellular digestion is scientifically accurate?",
+      "o": [
+        "Lysosomes help digest material taken into the cell",
+        "They carry oxygen in blood",
+        "They absorb sunlight for photosynthesis",
+        "They create the nuclear envelope"
+      ],
+      "a": 0,
+      "e": "Lysosomes can fuse with food-containing vesicles to digest contents.",
+      "d": "Medium",
+      "topic": "Lysosomes",
+      "slo": "Explain intracellular digestion in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-125",
+      "q": "A student is reviewing the cell chapter. Which description of autophagy is scientifically accurate?",
+      "o": [
+        "Autophagy is pollen transfer",
+        "Autophagy is water loss from leaves",
+        "Autophagy involves breakdown of worn-out cell components",
+        "Autophagy is the formation of a new cell wall only"
+      ],
+      "a": 2,
+      "e": "Cells recycle damaged components through degradative pathways.",
+      "d": "Medium",
+      "topic": "Lysosomes",
+      "slo": "Explain autophagy in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-126",
+      "q": "A student is reviewing the cell chapter. Which description of mitochondrial function is scientifically accurate?",
+      "o": [
+        "They store the entire cell sap",
+        "They are the main site of photosynthesis",
+        "Mitochondria are major sites of aerobic respiration and ATP production",
+        "They synthesize cellulose walls"
+      ],
+      "a": 2,
+      "e": "Mitochondria release usable energy during aerobic respiration.",
+      "d": "Medium",
+      "topic": "Mitochondria",
+      "slo": "Explain mitochondrial function in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-127",
+      "q": "A student is reviewing the cell chapter. Which description of mitochondrial membranes is scientifically accurate?",
+      "o": [
+        "A mitochondrion has no membrane",
+        "A mitochondrion has outer and inner membranes",
+        "It is surrounded by a single nuclear envelope",
+        "It consists only of a cellulose wall"
+      ],
+      "a": 1,
+      "e": "Mitochondria are double-membrane organelles.",
+      "d": "Medium",
+      "topic": "Mitochondria",
+      "slo": "Explain mitochondrial membranes in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-128",
+      "q": "A student is reviewing the cell chapter. Which description of cristae is scientifically accurate?",
+      "o": [
+        "Cristae are Golgi vesicles",
+        "Cristae are nuclear pores",
+        "Cristae are folds of the cell wall",
+        "Cristae are folds of the inner mitochondrial membrane"
+      ],
+      "a": 3,
+      "e": "Cristae increase the inner membrane surface area.",
+      "d": "Medium",
+      "topic": "Mitochondria",
+      "slo": "Explain cristae in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-129",
+      "q": "A student is reviewing the cell chapter. Which description of mitochondrial matrix is scientifically accurate?",
+      "o": [
+        "The matrix is a chloroplast pigment",
+        "The matrix is the nucleus",
+        "The matrix is the outer cell wall",
+        "The matrix is the compartment enclosed by the inner mitochondrial membrane"
+      ],
+      "a": 3,
+      "e": "The matrix contains enzymes involved in respiration.",
+      "d": "Medium",
+      "topic": "Mitochondria",
+      "slo": "Explain mitochondrial matrix in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-130",
+      "q": "A student is reviewing the cell chapter. Which description of chloroplast function is scientifically accurate?",
+      "o": [
+        "Chloroplasts store genetic material for the nucleus",
+        "Chloroplasts digest worn-out organelles",
+        "Chloroplasts make all ribosomes",
+        "Chloroplasts carry out photosynthesis in plant cells"
+      ],
+      "a": 3,
+      "e": "Chloroplasts use light energy to synthesize organic compounds.",
+      "d": "Medium",
+      "topic": "Plastids",
+      "slo": "Explain chloroplast function in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-131",
+      "q": "A student is reviewing the cell chapter. Which description of chlorophyll is scientifically accurate?",
+      "o": [
+        "Chlorophyll is a nuclear pore",
+        "Chlorophyll is a membrane-bound organelle itself",
+        "Chlorophyll is a digestive enzyme",
+        "Chlorophyll is a green pigment involved in absorbing light"
+      ],
+      "a": 3,
+      "e": "Chlorophyll captures light for photosynthesis.",
+      "d": "Medium",
+      "topic": "Plastids",
+      "slo": "Explain chlorophyll in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-132",
+      "q": "A student is reviewing the cell chapter. Which description of thylakoids is scientifically accurate?",
+      "o": [
+        "Thylakoids are bacterial nuclei",
+        "Thylakoids are membrane sacs inside chloroplasts",
+        "Thylakoids are cell walls",
+        "Thylakoids are folds inside mitochondria"
+      ],
+      "a": 1,
+      "e": "Thylakoid membranes contain photosynthetic pigments.",
+      "d": "Medium",
+      "topic": "Plastids",
+      "slo": "Explain thylakoids in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-133",
+      "q": "A student is reviewing the cell chapter. Which description of grana is scientifically accurate?",
+      "o": [
+        "Grana are stacks of Golgi cisternae",
+        "Grana are protein fibers in muscle",
+        "Grana are nuclear pores",
+        "Grana are stacks of thylakoids inside chloroplasts"
+      ],
+      "a": 3,
+      "e": "Thylakoid stacks are called grana.",
+      "d": "Medium",
+      "topic": "Plastids",
+      "slo": "Explain grana in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-134",
+      "q": "A student is reviewing the cell chapter. Which description of stroma is scientifically accurate?",
+      "o": [
+        "Stroma is the inner mitochondrial fold",
+        "Stroma is the cell wall",
+        "Stroma is the nucleus of an animal cell",
+        "Stroma is the fluid-filled region of a chloroplast outside thylakoids"
+      ],
+      "a": 3,
+      "e": "The stroma contains enzymes involved in sugar formation.",
+      "d": "Medium",
+      "topic": "Plastids",
+      "slo": "Explain stroma in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-135",
+      "q": "A student is reviewing the cell chapter. Which description of chromoplasts is scientifically accurate?",
+      "o": [
+        "Chromoplasts contain pigments that give many flowers and fruits yellow, orange or red colors",
+        "Chromoplasts store chromosomes",
+        "Chromoplasts digest bacteria",
+        "Chromoplasts perform muscle contraction"
+      ],
+      "a": 0,
+      "e": "Chromoplasts contribute non-green colors to plant structures.",
+      "d": "Medium",
+      "topic": "Plastids",
+      "slo": "Explain chromoplasts in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-136",
+      "q": "A student is reviewing the cell chapter. Which description of leucoplasts is scientifically accurate?",
+      "o": [
+        "Leucoplasts are generally colorless plastids involved in storage",
+        "Leucoplasts form nerve impulses",
+        "Leucoplasts are bacterial flagella",
+        "Leucoplasts are always green"
+      ],
+      "a": 0,
+      "e": "Colorless plastids often store food materials.",
+      "d": "Medium",
+      "topic": "Plastids",
+      "slo": "Explain leucoplasts in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-137",
+      "q": "A student is reviewing the cell chapter. Which description of vacuole membrane is scientifically accurate?",
+      "o": [
+        "It is called a thylakoid",
+        "It is called the nucleolus",
+        "It is called a crista",
+        "The membrane surrounding a plant vacuole is called the tonoplast"
+      ],
+      "a": 3,
+      "e": "The tonoplast separates vacuolar contents from cytoplasm.",
+      "d": "Medium",
+      "topic": "Vacuoles",
+      "slo": "Explain vacuole membrane in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-138",
+      "q": "A student is reviewing the cell chapter. Which description of cell sap is scientifically accurate?",
+      "o": [
+        "Cell sap is found only inside chromosomes",
+        "Cell sap is a ribosome",
+        "Cell sap is the fluid stored inside a plant vacuole",
+        "Cell sap is the cellulose wall"
+      ],
+      "a": 2,
+      "e": "Vacuoles contain water and dissolved substances called cell sap.",
+      "d": "Medium",
+      "topic": "Vacuoles",
+      "slo": "Explain cell sap in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-139",
+      "q": "A student is reviewing the cell chapter. Which description of turgor is scientifically accurate?",
+      "o": [
+        "It destroys the plant cell wall",
+        "A water-filled central vacuole helps maintain turgor pressure",
+        "It causes all proteins to leave the cell",
+        "It replaces the plasma membrane"
+      ],
+      "a": 1,
+      "e": "Turgor helps support non-woody plant tissues.",
+      "d": "Medium",
+      "topic": "Vacuoles",
+      "slo": "Explain turgor in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-140",
+      "q": "A student is reviewing the cell chapter. Which description of centrioles is scientifically accurate?",
+      "o": [
+        "Centrioles contain chlorophyll",
+        "Centrioles are plant cell walls",
+        "Centrioles store starch granules",
+        "Centrioles help organize microtubules in many animal cells"
+      ],
+      "a": 3,
+      "e": "Centrioles are associated with centrosomes and cell division.",
+      "d": "Medium",
+      "topic": "Centrioles",
+      "slo": "Explain centrioles in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-141",
+      "q": "A student is reviewing the cell chapter. Which description of cytoskeleton is scientifically accurate?",
+      "o": [
+        "It is a fixed cellulose wall in all cells",
+        "It is the cell's genetic code",
+        "The cytoskeleton helps maintain cell shape and supports movement",
+        "It consists only of stored water"
+      ],
+      "a": 2,
+      "e": "Protein filaments provide internal support and transport routes.",
+      "d": "Medium",
+      "topic": "Cytoskeleton",
+      "slo": "Explain cytoskeleton in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-142",
+      "q": "A student is reviewing the cell chapter. Which description of microtubules is scientifically accurate?",
+      "o": [
+        "Microtubules are cytoskeletal structures important in intracellular transport and cell division",
+        "They are cellulose plates outside the cell",
+        "They are vacuolar pigments",
+        "They are mitochondrial DNA molecules"
+      ],
+      "a": 0,
+      "e": "Microtubules support movement and spindle formation.",
+      "d": "Medium",
+      "topic": "Cytoskeleton",
+      "slo": "Explain microtubules in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-143",
+      "q": "A student is reviewing the cell chapter. Which description of cell wall support is scientifically accurate?",
+      "o": [
+        "The plant cell wall provides rigidity and protection",
+        "The wall replaces all membranes",
+        "The wall is the site of DNA storage",
+        "The wall is the main site of ATP production"
+      ],
+      "a": 0,
+      "e": "A cellulose-rich wall supports plant cells.",
+      "d": "Medium",
+      "topic": "Cell wall",
+      "slo": "Explain cell wall support in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-144",
+      "q": "A student is reviewing the cell chapter. Which description of cellulose is scientifically accurate?",
+      "o": [
+        "Cellulose is a major structural component of plant cell walls",
+        "Cellulose is a digestive enzyme",
+        "Cellulose is a nuclear protein",
+        "Cellulose is the main pigment in chloroplasts"
+      ],
+      "a": 0,
+      "e": "Cellulose fibers strengthen plant cell walls.",
+      "d": "Medium",
+      "topic": "Cell wall",
+      "slo": "Explain cellulose in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-145",
+      "q": "A student is reviewing the cell chapter. Which description of cell wall permeability is scientifically accurate?",
+      "o": [
+        "The wall contains nuclear pores",
+        "The wall selectively pumps every ion",
+        "The wall is an impermeable lipid bilayer",
+        "The plant cell wall is generally more freely permeable than the plasma membrane"
+      ],
+      "a": 3,
+      "e": "The plasma membrane is the main selective barrier.",
+      "d": "Medium",
+      "topic": "Cell wall",
+      "slo": "Explain cell wall permeability in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-146",
+      "q": "A student is reviewing the cell chapter. Which description of specialized cells is scientifically accurate?",
+      "o": [
+        "Every cell must have the same shape",
+        "All cells lose their membranes",
+        "Cell specialization allows different cells to perform particular tasks efficiently",
+        "Specialization prevents tissues from forming"
+      ],
+      "a": 2,
+      "e": "Structure is adapted to function in multicellular organisms.",
+      "d": "Medium",
+      "topic": "Cell specialization",
+      "slo": "Explain specialized cells in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-147",
+      "q": "A student is reviewing the cell chapter. Which description of red blood cells is scientifically accurate?",
+      "o": [
+        "Red blood cells are specialized for photosynthesis",
+        "They produce root hairs",
+        "They form plant xylem vessels",
+        "Red blood cells are specialized for oxygen transport"
+      ],
+      "a": 3,
+      "e": "Hemoglobin enables red blood cells to carry oxygen.",
+      "d": "Medium",
+      "topic": "Cell specialization",
+      "slo": "Explain red blood cells in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-148",
+      "q": "A student is reviewing the cell chapter. Which description of neuron is scientifically accurate?",
+      "o": [
+        "A neuron absorbs minerals through root hairs",
+        "A neuron is specialized to transmit nerve impulses",
+        "A neuron carries pollen grains",
+        "A neuron stores starch in seeds"
+      ],
+      "a": 1,
+      "e": "Long processes enable neurons to communicate across distances.",
+      "d": "Medium",
+      "topic": "Cell specialization",
+      "slo": "Explain neuron in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-149",
+      "q": "A student is reviewing the cell chapter. Which description of muscle cell is scientifically accurate?",
+      "o": [
+        "Muscle cells are specialized for pollen formation",
+        "Muscle cells are specialized for contraction",
+        "Muscle cells mainly absorb sunlight",
+        "Muscle cells make cellulose walls"
+      ],
+      "a": 1,
+      "e": "Contractile proteins allow muscle cells to generate force.",
+      "d": "Medium",
+      "topic": "Cell specialization",
+      "slo": "Explain muscle cell in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-150",
+      "q": "A student is reviewing the cell chapter. Which description of root hair cell is scientifically accurate?",
+      "o": [
+        "It is specialized for carrying oxygen in blood",
+        "It secretes digestive enzymes into the stomach",
+        "A root hair cell has an extended surface to absorb water and minerals",
+        "It conducts nerve impulses"
+      ],
+      "a": 2,
+      "e": "The hair-like extension increases absorption surface area.",
+      "d": "Medium",
+      "topic": "Cell specialization",
+      "slo": "Explain root hair cell in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-151",
+      "q": "A student is reviewing the cell chapter. Which description of palisade mesophyll is scientifically accurate?",
+      "o": [
+        "Palisade mesophyll cells contain many chloroplasts for photosynthesis",
+        "They carry blood oxygen",
+        "They form animal bone",
+        "They lack all membranes"
+      ],
+      "a": 0,
+      "e": "Many chloroplasts support high rates of photosynthesis.",
+      "d": "Medium",
+      "topic": "Cell specialization",
+      "slo": "Explain palisade mesophyll in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-152",
+      "q": "A student is reviewing the cell chapter. Which description of xylem vessels is scientifically accurate?",
+      "o": [
+        "Xylem vessels carry blood plasma",
+        "Xylem vessels transport water and mineral salts in plants",
+        "Xylem vessels make antibodies",
+        "Xylem vessels transmit nerve impulses"
+      ],
+      "a": 1,
+      "e": "Xylem tissue conducts water through the plant.",
+      "d": "Medium",
+      "topic": "Cell specialization",
+      "slo": "Explain xylem vessels in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-153",
+      "q": "A student is reviewing the cell chapter. Which description of phloem sieve tubes is scientifically accurate?",
+      "o": [
+        "Phloem is the nucleus of a root cell",
+        "Phloem pumps oxygen through lungs",
+        "Phloem transports sugars and other organic nutrients in plants",
+        "Phloem is the site of photosynthesis only"
+      ],
+      "a": 2,
+      "e": "Phloem distributes products of photosynthesis.",
+      "d": "Medium",
+      "topic": "Cell specialization",
+      "slo": "Explain phloem sieve tubes in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-154",
+      "q": "A student is reviewing the cell chapter. Which description of sperm cell is scientifically accurate?",
+      "o": [
+        "It is a photosynthetic plant cell",
+        "A sperm cell is adapted to swim toward and fertilize an egg",
+        "It is a red blood cell",
+        "It is a mature xylem vessel"
+      ],
+      "a": 1,
+      "e": "The flagellum enables motility in many animal sperm cells.",
+      "d": "Medium",
+      "topic": "Cell specialization",
+      "slo": "Explain sperm cell in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-155",
+      "q": "A student is reviewing the cell chapter. Which description of tissue is scientifically accurate?",
+      "o": [
+        "A tissue is a group of similar cells working together for a function",
+        "A tissue is an entire ecosystem",
+        "A tissue is always a single molecule",
+        "A tissue is only an organelle"
+      ],
+      "a": 0,
+      "e": "Similar specialized cells form tissues.",
+      "d": "Medium",
+      "topic": "Tissues and organs",
+      "slo": "Explain tissue in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-156",
+      "q": "A student is reviewing the cell chapter. Which description of organ is scientifically accurate?",
+      "o": [
+        "An organ is a population of species",
+        "An organ is composed of different tissues working together",
+        "An organ is always one cell",
+        "An organ is a single ribosome"
+      ],
+      "a": 1,
+      "e": "Different tissues combine to perform an organ's function.",
+      "d": "Medium",
+      "topic": "Tissues and organs",
+      "slo": "Explain organ in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-157",
+      "q": "A student is reviewing the cell chapter. Which description of organ system is scientifically accurate?",
+      "o": [
+        "An organ system is one protein",
+        "An organ system is a group of chloroplasts",
+        "An organ system is a single chromosome",
+        "An organ system is a group of organs coordinating a major function"
+      ],
+      "a": 3,
+      "e": "Organ systems coordinate functions such as digestion.",
+      "d": "Medium",
+      "topic": "Tissues and organs",
+      "slo": "Explain organ system in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-158",
+      "q": "A student is reviewing the cell chapter. Which description of levels of organization is scientifically accurate?",
+      "o": [
+        "Tissues form atoms",
+        "Organs form cells directly",
+        "Cells form tissues, tissues form organs, and organs form organ systems",
+        "Organ systems are smaller than cells"
+      ],
+      "a": 2,
+      "e": "Biological organization builds from cells to higher levels.",
+      "d": "Medium",
+      "topic": "Tissues and organs",
+      "slo": "Explain levels of organization in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-159",
+      "q": "A student is reviewing the cell chapter. Which description of division of labour is scientifically accurate?",
+      "o": [
+        "Division of labour means different specialized parts perform different functions",
+        "Cells cannot cooperate",
+        "All parts perform only one identical task",
+        "Organs are independent of tissues"
+      ],
+      "a": 0,
+      "e": "Division of labour increases efficiency in multicellular life.",
+      "d": "Medium",
+      "topic": "Tissues and organs",
+      "slo": "Explain division of labour in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-160",
+      "q": "A student is reviewing the cell chapter. Which description of stem cell definition is scientifically accurate?",
+      "o": [
+        "A stem cell cannot divide",
+        "A stem cell is a nonliving mineral",
+        "A stem cell is always a mature red blood cell",
+        "A stem cell can self-renew and produce specialized daughter cells"
+      ],
+      "a": 3,
+      "e": "Stem cells can divide and differentiate.",
+      "d": "Medium",
+      "topic": "Stem cells",
+      "slo": "Explain stem cell definition in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-161",
+      "q": "A student is reviewing the cell chapter. Which description of differentiation is scientifically accurate?",
+      "o": [
+        "Differentiation is only water diffusion",
+        "Differentiation is the process by which cells become specialized",
+        "Differentiation is breakdown of cell walls",
+        "Differentiation means every cell becomes identical"
+      ],
+      "a": 1,
+      "e": "Cells develop specialized structures and functions during differentiation.",
+      "d": "Medium",
+      "topic": "Stem cells",
+      "slo": "Explain differentiation in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-162",
+      "q": "A student is reviewing the cell chapter. Which description of embryonic stem cells is scientifically accurate?",
+      "o": [
+        "They cannot divide",
+        "They are always bacterial cells",
+        "Embryonic stem cells can develop into many types of body cells",
+        "They are mature xylem cells"
+      ],
+      "a": 2,
+      "e": "Embryonic stem cells have broad differentiation potential.",
+      "d": "Medium",
+      "topic": "Stem cells",
+      "slo": "Explain embryonic stem cells in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-163",
+      "q": "A student is reviewing the cell chapter. Which description of adult stem cells is scientifically accurate?",
+      "o": [
+        "Adult stem cells help maintain and repair particular tissues",
+        "They perform photosynthesis in all organs",
+        "They are nonliving structures",
+        "They are always completely unspecialized embryos"
+      ],
+      "a": 0,
+      "e": "Tissue stem cells replenish cells during normal renewal and repair.",
+      "d": "Medium",
+      "topic": "Stem cells",
+      "slo": "Explain adult stem cells in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-164",
+      "q": "A student is reviewing the cell chapter. Which description of bone marrow is scientifically accurate?",
+      "o": [
+        "Bone marrow is a plant vacuole",
+        "Bone marrow makes cellulose walls",
+        "Bone marrow contains stem cells that produce blood cells",
+        "Bone marrow produces chloroplasts"
+      ],
+      "a": 2,
+      "e": "Hematopoietic stem cells generate blood cell lineages.",
+      "d": "Medium",
+      "topic": "Stem cells",
+      "slo": "Explain bone marrow in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-165",
+      "q": "A student is reviewing the cell chapter. Which description of prokaryotic organelles is scientifically accurate?",
+      "o": [
+        "They always have a Golgi apparatus",
+        "Prokaryotic cells generally lack membrane-bound organelles",
+        "They always have chloroplasts",
+        "They always have mitochondria"
+      ],
+      "a": 1,
+      "e": "Prokaryotes lack the membrane-bound organelles typical of eukaryotes.",
+      "d": "Medium",
+      "topic": "Cell comparisons",
+      "slo": "Explain prokaryotic organelles in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-166",
+      "q": "A student is reviewing the cell chapter. Which description of ribosomes in both cell types is scientifically accurate?",
+      "o": [
+        "Bacteria contain no ribosomes",
+        "Only animals contain ribosomes",
+        "Both prokaryotic and eukaryotic cells contain ribosomes",
+        "Only plants contain ribosomes"
+      ],
+      "a": 2,
+      "e": "All cellular life requires machinery for protein synthesis.",
+      "d": "Medium",
+      "topic": "Cell comparisons",
+      "slo": "Explain ribosomes in both cell types in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-167",
+      "q": "A student is reviewing the cell chapter. Which description of plasma membrane in both is scientifically accurate?",
+      "o": [
+        "Only plant cells have membranes",
+        "Both plant and animal cells possess a plasma membrane",
+        "Neither cell type has membranes",
+        "Only animal cells have membranes"
+      ],
+      "a": 1,
+      "e": "A plasma membrane encloses both plant and animal cells.",
+      "d": "Medium",
+      "topic": "Cell comparisons",
+      "slo": "Explain plasma membrane in both in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-168",
+      "q": "A student is reviewing the cell chapter. Which description of mitochondria and energy is scientifically accurate?",
+      "o": [
+        "Such cells always lack ribosomes",
+        "Cells with high aerobic energy demand often contain many mitochondria",
+        "They contain only chloroplasts",
+        "They have no cytoplasm"
+      ],
+      "a": 1,
+      "e": "Mitochondrial abundance can reflect energy requirements.",
+      "d": "Medium",
+      "topic": "Cell comparisons",
+      "slo": "Explain mitochondria and energy in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-169",
+      "q": "A student is reviewing the cell chapter. Which description of secretory cells is scientifically accurate?",
+      "o": [
+        "It must lack a nucleus",
+        "A cell secreting many proteins often has extensive rough ER and Golgi apparatus",
+        "It cannot have a plasma membrane",
+        "It needs no ribosomes"
+      ],
+      "a": 1,
+      "e": "Rough ER and Golgi process proteins destined for secretion.",
+      "d": "Medium",
+      "topic": "Cell comparisons",
+      "slo": "Explain secretory cells in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-170",
+      "q": "A student is reviewing the cell chapter. Which description of photosynthetic cells is scientifically accurate?",
+      "o": [
+        "A photosynthetic leaf cell is expected to contain many chloroplasts",
+        "It lacks a plasma membrane",
+        "It contains only lysosomes",
+        "It has no cytoplasm"
+      ],
+      "a": 0,
+      "e": "Chloroplast abundance supports photosynthetic activity.",
+      "d": "Medium",
+      "topic": "Cell comparisons",
+      "slo": "Explain photosynthetic cells in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-171",
+      "q": "A student is reviewing the cell chapter. Which description of vacuole loss of turgor is scientifically accurate?",
+      "o": [
+        "It creates more chloroplasts instantly",
+        "It increases turgor indefinitely",
+        "Loss of water from a plant cell vacuole can cause wilting",
+        "It converts the cell into a bacterium"
+      ],
+      "a": 2,
+      "e": "Reduced vacuolar water lowers turgor pressure.",
+      "d": "Medium",
+      "topic": "Cell comparisons",
+      "slo": "Explain vacuole loss of turgor in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-172",
+      "q": "A student is reviewing the cell chapter. Which description of damaged lysosomes is scientifically accurate?",
+      "o": [
+        "They replace the nucleus",
+        "Defective lysosomes can impair intracellular digestion and recycling",
+        "They remove all need for ribosomes",
+        "They increase chlorophyll synthesis directly"
+      ],
+      "a": 1,
+      "e": "Lysosomal enzymes are needed to break down and recycle materials.",
+      "d": "Medium",
+      "topic": "Cell comparisons",
+      "slo": "Explain damaged lysosomes in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-173",
+      "q": "A student is reviewing the cell chapter. Which description of damaged ribosomes is scientifically accurate?",
+      "o": [
+        "Cell walls immediately become nuclei",
+        "DNA becomes cellulose",
+        "If ribosomes stop functioning, protein synthesis is disrupted",
+        "Photosynthesis must increase"
+      ],
+      "a": 2,
+      "e": "Ribosomes are required to build proteins.",
+      "d": "Medium",
+      "topic": "Cell comparisons",
+      "slo": "Explain damaged ribosomes in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-174",
+      "q": "A student is reviewing the cell chapter. Which description of damaged golgi is scientifically accurate?",
+      "o": [
+        "Disrupted Golgi function can interfere with processing and secretion of proteins",
+        "It turns animal cells into bacteria",
+        "It directly increases chlorophyll",
+        "It eliminates the need for DNA"
+      ],
+      "a": 0,
+      "e": "Golgi sorting is important for secretory pathways.",
+      "d": "Medium",
+      "topic": "Cell comparisons",
+      "slo": "Explain damaged golgi in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-175",
+      "q": "Which statement about basic unit of life should be included in an accurate biology revision note?",
+      "o": [
+        "Only multicellular organisms contain cells",
+        "The tissue is the basic unit of life",
+        "The cell is the basic structural and functional unit of life",
+        "The organ is the smallest living unit"
+      ],
+      "a": 2,
+      "e": "Cells carry out the essential functions of life.",
+      "d": "Medium",
+      "topic": "Cell theory",
+      "slo": "Distinguish basic unit of life in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-176",
+      "q": "Which statement about all living things should be included in an accurate biology revision note?",
+      "o": [
+        "All living organisms consist of one or more cells",
+        "All organisms are made only of tissues",
+        "Only animals contain cells",
+        "Viruses are composed of ordinary cells"
+      ],
+      "a": 0,
+      "e": "Cell theory recognizes cellular organization of living things.",
+      "d": "Medium",
+      "topic": "Cell theory",
+      "slo": "Distinguish all living things in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-177",
+      "q": "Which statement about new cells should be included in an accurate biology revision note?",
+      "o": [
+        "New cells arise from pre-existing cells",
+        "Cells are made only by fusion of tissues",
+        "Cells arise routinely from nonliving dust",
+        "Every cell forms directly from an organ"
+      ],
+      "a": 0,
+      "e": "Cell division produces new cells from existing cells.",
+      "d": "Medium",
+      "topic": "Cell theory",
+      "slo": "Distinguish new cells in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-178",
+      "q": "Which statement about unicellular organisms should be included in an accurate biology revision note?",
+      "o": [
+        "A unicellular organism performs life processes within one cell",
+        "It contains no cytoplasm",
+        "It has many specialized tissues",
+        "It requires different organs to survive"
+      ],
+      "a": 0,
+      "e": "A single cell can carry out all essential life activities.",
+      "d": "Medium",
+      "topic": "Cell theory",
+      "slo": "Distinguish unicellular organisms in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-179",
+      "q": "Which statement about multicellular organisms should be included in an accurate biology revision note?",
+      "o": [
+        "They never contain tissues",
+        "They are always microscopic",
+        "Each cell must perform every body function equally",
+        "Multicellular organisms have many cells that can specialize"
+      ],
+      "a": 3,
+      "e": "Specialized cells share work in complex organisms.",
+      "d": "Medium",
+      "topic": "Cell theory",
+      "slo": "Distinguish multicellular organisms in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-180",
+      "q": "Which statement about prokaryotic nucleus should be included in an accurate biology revision note?",
+      "o": [
+        "Its DNA is inside a nuclear envelope",
+        "A prokaryotic cell lacks a membrane-bound nucleus",
+        "Its nucleus has a double membrane",
+        "It always contains chloroplasts"
+      ],
+      "a": 1,
+      "e": "Prokaryotes have DNA without a membrane-bound nucleus.",
+      "d": "Medium",
+      "topic": "Cell types",
+      "slo": "Distinguish prokaryotic nucleus in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-181",
+      "q": "Which statement about eukaryotic nucleus should be included in an accurate biology revision note?",
+      "o": [
+        "A eukaryotic cell contains a membrane-bound nucleus",
+        "It has no genetic material",
+        "It lacks all internal membranes",
+        "It has only free DNA in a nucleoid"
+      ],
+      "a": 0,
+      "e": "Eukaryotes possess a true nucleus enclosed by a nuclear envelope.",
+      "d": "Medium",
+      "topic": "Cell types",
+      "slo": "Distinguish eukaryotic nucleus in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-182",
+      "q": "Which statement about bacterial cell should be included in an accurate biology revision note?",
+      "o": [
+        "A bacterium is a multicellular animal",
+        "Every bacterium has mitochondria",
+        "A bacterium is a plant tissue",
+        "A bacterium is a prokaryotic organism"
+      ],
+      "a": 3,
+      "e": "Bacteria are cellular organisms without a true nucleus.",
+      "d": "Medium",
+      "topic": "Cell types",
+      "slo": "Distinguish bacterial cell in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-183",
+      "q": "Which statement about plant and animal cells should be included in an accurate biology revision note?",
+      "o": [
+        "Neither has a plasma membrane",
+        "Plant and animal cells are both eukaryotic",
+        "Neither contains DNA",
+        "Both are always prokaryotic"
+      ],
+      "a": 1,
+      "e": "Both types have nuclei and membrane-bound organelles.",
+      "d": "Medium",
+      "topic": "Cell types",
+      "slo": "Distinguish plant and animal cells in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-184",
+      "q": "Which statement about plant cell wall should be included in an accurate biology revision note?",
+      "o": [
+        "Animal cells have the same cellulose wall",
+        "Its wall is made mainly of chitin",
+        "Its cell wall replaces the nucleus",
+        "A typical plant cell has a cellulose cell wall outside its plasma membrane"
+      ],
+      "a": 3,
+      "e": "The cellulose cell wall provides support and protection in plants.",
+      "d": "Medium",
+      "topic": "Cell types",
+      "slo": "Distinguish plant cell wall in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-185",
+      "q": "Which statement about animal cell wall should be included in an accurate biology revision note?",
+      "o": [
+        "Animal cells have chloroplasts in every tissue",
+        "Animal cells have a thick cellulose wall",
+        "Animal cells do not have a cellulose cell wall",
+        "Animal cells lack plasma membranes"
+      ],
+      "a": 2,
+      "e": "Animal cells are enclosed by plasma membranes but lack plant-type walls.",
+      "d": "Medium",
+      "topic": "Cell types",
+      "slo": "Distinguish animal cell wall in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-186",
+      "q": "Which statement about plant chloroplasts should be included in an accurate biology revision note?",
+      "o": [
+        "Photosynthetic plant cells can contain chloroplasts",
+        "All animal cells have chloroplasts",
+        "Chloroplasts occur in all bacterial cells",
+        "Chloroplasts are the site of protein synthesis"
+      ],
+      "a": 0,
+      "e": "Chloroplasts capture light for photosynthesis.",
+      "d": "Medium",
+      "topic": "Cell types",
+      "slo": "Distinguish plant chloroplasts in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-187",
+      "q": "Which statement about plant vacuole should be included in an accurate biology revision note?",
+      "o": [
+        "All animal cells have a larger central vacuole",
+        "The vacuole produces ribosomes",
+        "Its vacuole contains chromosomes instead of nucleus",
+        "A mature plant cell often contains a large central vacuole"
+      ],
+      "a": 3,
+      "e": "The central vacuole stores cell sap and supports turgidity.",
+      "d": "Medium",
+      "topic": "Cell types",
+      "slo": "Distinguish plant vacuole in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-188",
+      "q": "Which statement about plasma membrane position should be included in an accurate biology revision note?",
+      "o": [
+        "It is located only inside the nucleus",
+        "It is always outside a plant cell wall",
+        "It is found only in bacteria",
+        "The plasma membrane forms the boundary of the cell contents"
+      ],
+      "a": 3,
+      "e": "The membrane separates the cell interior from its surroundings.",
+      "d": "Medium",
+      "topic": "Cell membrane",
+      "slo": "Distinguish plasma membrane position in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-189",
+      "q": "Which statement about selective permeability should be included in an accurate biology revision note?",
+      "o": [
+        "It allows every substance to pass equally",
+        "It only provides a rigid shape",
+        "It prevents all water movement",
+        "The plasma membrane regulates movement of substances into and out of the cell"
+      ],
+      "a": 3,
+      "e": "Selective permeability controls exchange with the environment.",
+      "d": "Medium",
+      "topic": "Cell membrane",
+      "slo": "Distinguish selective permeability in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-190",
+      "q": "Which statement about phospholipid bilayer should be included in an accurate biology revision note?",
+      "o": [
+        "It is made only of cellulose",
+        "It consists solely of DNA",
+        "The plasma membrane contains a phospholipid bilayer",
+        "It is a solid protein crystal"
+      ],
+      "a": 2,
+      "e": "Phospholipids form the basic double-layer structure of the membrane.",
+      "d": "Medium",
+      "topic": "Cell membrane",
+      "slo": "Distinguish phospholipid bilayer in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-191",
+      "q": "Which statement about membrane proteins should be included in an accurate biology revision note?",
+      "o": [
+        "They perform photosynthesis in all cells",
+        "All membrane proteins store hereditary code",
+        "Membrane proteins can transport substances or act as receptors",
+        "They form the plant cell wall"
+      ],
+      "a": 2,
+      "e": "Proteins contribute transport and signaling functions to membranes.",
+      "d": "Medium",
+      "topic": "Cell membrane",
+      "slo": "Distinguish membrane proteins in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-192",
+      "q": "Which statement about cytoplasm location should be included in an accurate biology revision note?",
+      "o": [
+        "It is only the fluid inside the nucleus",
+        "It exists outside the cell wall",
+        "It consists entirely of chromosomes",
+        "Cytoplasm lies between the plasma membrane and nucleus in a eukaryotic cell"
+      ],
+      "a": 3,
+      "e": "Cytoplasm includes cytosol and organelles outside the nucleus.",
+      "d": "Medium",
+      "topic": "Cytoplasm",
+      "slo": "Distinguish cytoplasm location in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-193",
+      "q": "Which statement about cytosol should be included in an accurate biology revision note?",
+      "o": [
+        "Cytosol is the nuclear membrane",
+        "Cytosol is a chromosome",
+        "Cytosol is the rigid cell wall",
+        "Cytosol is the fluid portion of the cytoplasm"
+      ],
+      "a": 3,
+      "e": "Many metabolic reactions occur in the cytosol.",
+      "d": "Medium",
+      "topic": "Cytoplasm",
+      "slo": "Distinguish cytosol in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-194",
+      "q": "Which statement about nucleus function should be included in an accurate biology revision note?",
+      "o": [
+        "The nucleus contains most of the cell's DNA and helps control activities",
+        "It is the main site of photosynthesis",
+        "It digests food in lysosomes",
+        "It produces ATP by aerobic respiration"
+      ],
+      "a": 0,
+      "e": "Nuclear DNA carries instructions regulating cell functions.",
+      "d": "Medium",
+      "topic": "Nucleus",
+      "slo": "Distinguish nucleus function in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-195",
+      "q": "Which statement about nuclear envelope should be included in an accurate biology revision note?",
+      "o": [
+        "It encloses the central vacuole",
+        "It is the outermost layer of every cell",
+        "The nuclear envelope is a double membrane surrounding the nucleus",
+        "It is a cellulose cell wall"
+      ],
+      "a": 2,
+      "e": "The nuclear envelope separates nuclear contents from cytoplasm.",
+      "d": "Medium",
+      "topic": "Nucleus",
+      "slo": "Distinguish nuclear envelope in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-196",
+      "q": "Which statement about nuclear pores should be included in an accurate biology revision note?",
+      "o": [
+        "Nuclear pores permit regulated exchange between nucleus and cytoplasm",
+        "They destroy all proteins",
+        "They make the cell wall",
+        "They are sites of chlorophyll synthesis"
+      ],
+      "a": 0,
+      "e": "Pores allow transport across the nuclear envelope.",
+      "d": "Medium",
+      "topic": "Nucleus",
+      "slo": "Distinguish nuclear pores in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-197",
+      "q": "Which statement about nucleolus should be included in an accurate biology revision note?",
+      "o": [
+        "It generates most ATP",
+        "It stores cell sap",
+        "The nucleolus is involved in ribosome assembly",
+        "It digests damaged organelles"
+      ],
+      "a": 2,
+      "e": "The nucleolus helps produce ribosomal components.",
+      "d": "Medium",
+      "topic": "Nucleus",
+      "slo": "Distinguish nucleolus in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-198",
+      "q": "Which statement about chromatin should be included in an accurate biology revision note?",
+      "o": [
+        "Chromatin is made only of cellulose",
+        "Chromatin is the fluid outside the cell",
+        "Chromatin contains DNA associated with proteins",
+        "Chromatin is a vacuolar pigment"
+      ],
+      "a": 2,
+      "e": "Chromatin is genetic material organized with proteins.",
+      "d": "Medium",
+      "topic": "Nucleus",
+      "slo": "Distinguish chromatin in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-199",
+      "q": "Which statement about ribosome function should be included in an accurate biology revision note?",
+      "o": [
+        "Ribosomes digest entire organelles",
+        "Ribosomes store cell sap",
+        "Ribosomes perform photosynthesis",
+        "Ribosomes synthesize proteins"
+      ],
+      "a": 3,
+      "e": "Ribosomes translate genetic instructions into proteins.",
+      "d": "Medium",
+      "topic": "Ribosomes",
+      "slo": "Distinguish ribosome function in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-200",
+      "q": "Which statement about ribosome subunits should be included in an accurate biology revision note?",
+      "o": [
+        "A ribosome has a large and a small subunit",
+        "A ribosome is made of stacked cisternae",
+        "A ribosome has two nuclei",
+        "A ribosome is a single lipid droplet"
+      ],
+      "a": 0,
+      "e": "Ribosomal subunits join during protein synthesis.",
+      "d": "Medium",
+      "topic": "Ribosomes",
+      "slo": "Distinguish ribosome subunits in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-201",
+      "q": "Which statement about free ribosomes should be included in an accurate biology revision note?",
+      "o": [
+        "They are located only in the nucleolus",
+        "They store chlorophyll",
+        "They produce cellulose cell walls directly",
+        "Free ribosomes commonly make proteins used within the cytosol"
+      ],
+      "a": 3,
+      "e": "Free ribosomes synthesize many proteins functioning inside the cell.",
+      "d": "Medium",
+      "topic": "Ribosomes",
+      "slo": "Distinguish free ribosomes in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-202",
+      "q": "Which statement about rough er should be included in an accurate biology revision note?",
+      "o": [
+        "Rough ER is a storage vacuole",
+        "Rough ER has no ribosomes anywhere",
+        "Rough ER is the outer cell wall",
+        "Rough endoplasmic reticulum has ribosomes attached to its surface"
+      ],
+      "a": 3,
+      "e": "Attached ribosomes give rough ER its rough appearance.",
+      "d": "Medium",
+      "topic": "Endoplasmic reticulum",
+      "slo": "Distinguish rough er in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-203",
+      "q": "Which statement about rough er role should be included in an accurate biology revision note?",
+      "o": [
+        "It is the primary site of photosynthesis",
+        "It breaks down sunlight into oxygen",
+        "Rough ER helps synthesize and process proteins for secretion or membranes",
+        "It stores all chromosomes"
+      ],
+      "a": 2,
+      "e": "Proteins made on rough ER enter the secretory pathway.",
+      "d": "Medium",
+      "topic": "Endoplasmic reticulum",
+      "slo": "Distinguish rough er role in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-204",
+      "q": "Which statement about smooth er should be included in an accurate biology revision note?",
+      "o": [
+        "Smooth ER is coated with ribosomes",
+        "Smooth ER is found outside the plasma membrane",
+        "Smooth endoplasmic reticulum lacks attached ribosomes",
+        "Smooth ER is identical to a chloroplast"
+      ],
+      "a": 2,
+      "e": "Smooth ER lacks surface-bound ribosomes.",
+      "d": "Medium",
+      "topic": "Endoplasmic reticulum",
+      "slo": "Distinguish smooth er in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-205",
+      "q": "Which statement about smooth er role should be included in an accurate biology revision note?",
+      "o": [
+        "Smooth ER is involved in lipid synthesis",
+        "Smooth ER is the site of chromosome replication only",
+        "Smooth ER performs protein translation on attached ribosomes",
+        "Smooth ER forms the cell wall directly"
+      ],
+      "a": 0,
+      "e": "Smooth ER participates in lipid metabolism and other functions.",
+      "d": "Medium",
+      "topic": "Endoplasmic reticulum",
+      "slo": "Distinguish smooth er role in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-206",
+      "q": "Which statement about golgi cisternae should be included in an accurate biology revision note?",
+      "o": [
+        "The Golgi apparatus contains stacks of flattened membrane sacs called cisternae",
+        "It is made of a single DNA strand",
+        "It is a hollow cellulose wall",
+        "It consists of chromosomes"
+      ],
+      "a": 0,
+      "e": "Golgi cisternae form a membrane-based processing system.",
+      "d": "Medium",
+      "topic": "Golgi apparatus",
+      "slo": "Distinguish golgi cisternae in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-207",
+      "q": "Which statement about golgi modification should be included in an accurate biology revision note?",
+      "o": [
+        "It is the nucleus of a bacterium",
+        "It is the site of aerobic respiration",
+        "It carries out DNA replication",
+        "The Golgi apparatus modifies and sorts products from the ER"
+      ],
+      "a": 3,
+      "e": "Golgi compartments process and direct cellular products.",
+      "d": "Medium",
+      "topic": "Golgi apparatus",
+      "slo": "Distinguish golgi modification in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-208",
+      "q": "Which statement about secretory vesicles should be included in an accurate biology revision note?",
+      "o": [
+        "Secretory vesicles can carry Golgi-processed products to the plasma membrane",
+        "They always remain inside the nucleus",
+        "They replace chromosomes",
+        "They are made of cellulose fibers"
+      ],
+      "a": 0,
+      "e": "Vesicles transport packaged material for secretion.",
+      "d": "Medium",
+      "topic": "Golgi apparatus",
+      "slo": "Distinguish secretory vesicles in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-209",
+      "q": "Which statement about golgi discovery should be included in an accurate biology revision note?",
+      "o": [
+        "Camillo Golgi is associated with discovery of the Golgi apparatus",
+        "Darwin named the Golgi apparatus",
+        "Robert Hooke discovered Golgi stacks",
+        "Mendel first described Golgi cisternae"
+      ],
+      "a": 0,
+      "e": "The organelle was named after Camillo Golgi.",
+      "d": "Medium",
+      "topic": "Golgi apparatus",
+      "slo": "Distinguish golgi discovery in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-210",
+      "q": "Which statement about lysosome structure should be included in an accurate biology revision note?",
+      "o": [
+        "Lysosomes are chlorophyll pigments",
+        "Lysosomes are membrane-bound sacs containing digestive enzymes",
+        "Lysosomes are DNA chromosomes",
+        "Lysosomes are cellulose walls"
+      ],
+      "a": 1,
+      "e": "Digestive enzymes within lysosomes break down materials.",
+      "d": "Medium",
+      "topic": "Lysosomes",
+      "slo": "Distinguish lysosome structure in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-211",
+      "q": "Which statement about intracellular digestion should be included in an accurate biology revision note?",
+      "o": [
+        "Lysosomes help digest material taken into the cell",
+        "They absorb sunlight for photosynthesis",
+        "They carry oxygen in blood",
+        "They create the nuclear envelope"
+      ],
+      "a": 0,
+      "e": "Lysosomes can fuse with food-containing vesicles to digest contents.",
+      "d": "Medium",
+      "topic": "Lysosomes",
+      "slo": "Distinguish intracellular digestion in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-212",
+      "q": "Which statement about autophagy should be included in an accurate biology revision note?",
+      "o": [
+        "Autophagy involves breakdown of worn-out cell components",
+        "Autophagy is water loss from leaves",
+        "Autophagy is pollen transfer",
+        "Autophagy is the formation of a new cell wall only"
+      ],
+      "a": 0,
+      "e": "Cells recycle damaged components through degradative pathways.",
+      "d": "Medium",
+      "topic": "Lysosomes",
+      "slo": "Distinguish autophagy in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-213",
+      "q": "Which statement about mitochondrial function should be included in an accurate biology revision note?",
+      "o": [
+        "They synthesize cellulose walls",
+        "They store the entire cell sap",
+        "Mitochondria are major sites of aerobic respiration and ATP production",
+        "They are the main site of photosynthesis"
+      ],
+      "a": 2,
+      "e": "Mitochondria release usable energy during aerobic respiration.",
+      "d": "Medium",
+      "topic": "Mitochondria",
+      "slo": "Distinguish mitochondrial function in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-214",
+      "q": "Which statement about mitochondrial membranes should be included in an accurate biology revision note?",
+      "o": [
+        "A mitochondrion has no membrane",
+        "A mitochondrion has outer and inner membranes",
+        "It consists only of a cellulose wall",
+        "It is surrounded by a single nuclear envelope"
+      ],
+      "a": 1,
+      "e": "Mitochondria are double-membrane organelles.",
+      "d": "Medium",
+      "topic": "Mitochondria",
+      "slo": "Distinguish mitochondrial membranes in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-215",
+      "q": "Which statement about cristae should be included in an accurate biology revision note?",
+      "o": [
+        "Cristae are Golgi vesicles",
+        "Cristae are folds of the inner mitochondrial membrane",
+        "Cristae are nuclear pores",
+        "Cristae are folds of the cell wall"
+      ],
+      "a": 1,
+      "e": "Cristae increase the inner membrane surface area.",
+      "d": "Medium",
+      "topic": "Mitochondria",
+      "slo": "Distinguish cristae in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-216",
+      "q": "Which statement about mitochondrial matrix should be included in an accurate biology revision note?",
+      "o": [
+        "The matrix is a chloroplast pigment",
+        "The matrix is the outer cell wall",
+        "The matrix is the nucleus",
+        "The matrix is the compartment enclosed by the inner mitochondrial membrane"
+      ],
+      "a": 3,
+      "e": "The matrix contains enzymes involved in respiration.",
+      "d": "Medium",
+      "topic": "Mitochondria",
+      "slo": "Distinguish mitochondrial matrix in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-217",
+      "q": "Which statement about chloroplast function should be included in an accurate biology revision note?",
+      "o": [
+        "Chloroplasts digest worn-out organelles",
+        "Chloroplasts make all ribosomes",
+        "Chloroplasts store genetic material for the nucleus",
+        "Chloroplasts carry out photosynthesis in plant cells"
+      ],
+      "a": 3,
+      "e": "Chloroplasts use light energy to synthesize organic compounds.",
+      "d": "Medium",
+      "topic": "Plastids",
+      "slo": "Distinguish chloroplast function in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-218",
+      "q": "Which statement about chlorophyll should be included in an accurate biology revision note?",
+      "o": [
+        "Chlorophyll is a nuclear pore",
+        "Chlorophyll is a green pigment involved in absorbing light",
+        "Chlorophyll is a digestive enzyme",
+        "Chlorophyll is a membrane-bound organelle itself"
+      ],
+      "a": 1,
+      "e": "Chlorophyll captures light for photosynthesis.",
+      "d": "Medium",
+      "topic": "Plastids",
+      "slo": "Distinguish chlorophyll in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-219",
+      "q": "Which statement about thylakoids should be included in an accurate biology revision note?",
+      "o": [
+        "Thylakoids are cell walls",
+        "Thylakoids are membrane sacs inside chloroplasts",
+        "Thylakoids are bacterial nuclei",
+        "Thylakoids are folds inside mitochondria"
+      ],
+      "a": 1,
+      "e": "Thylakoid membranes contain photosynthetic pigments.",
+      "d": "Medium",
+      "topic": "Plastids",
+      "slo": "Distinguish thylakoids in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-220",
+      "q": "Which statement about grana should be included in an accurate biology revision note?",
+      "o": [
+        "Grana are protein fibers in muscle",
+        "Grana are stacks of Golgi cisternae",
+        "Grana are stacks of thylakoids inside chloroplasts",
+        "Grana are nuclear pores"
+      ],
+      "a": 2,
+      "e": "Thylakoid stacks are called grana.",
+      "d": "Medium",
+      "topic": "Plastids",
+      "slo": "Distinguish grana in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-221",
+      "q": "Which statement about stroma should be included in an accurate biology revision note?",
+      "o": [
+        "Stroma is the fluid-filled region of a chloroplast outside thylakoids",
+        "Stroma is the cell wall",
+        "Stroma is the inner mitochondrial fold",
+        "Stroma is the nucleus of an animal cell"
+      ],
+      "a": 0,
+      "e": "The stroma contains enzymes involved in sugar formation.",
+      "d": "Medium",
+      "topic": "Plastids",
+      "slo": "Distinguish stroma in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-222",
+      "q": "Which statement about chromoplasts should be included in an accurate biology revision note?",
+      "o": [
+        "Chromoplasts perform muscle contraction",
+        "Chromoplasts digest bacteria",
+        "Chromoplasts contain pigments that give many flowers and fruits yellow, orange or red colors",
+        "Chromoplasts store chromosomes"
+      ],
+      "a": 2,
+      "e": "Chromoplasts contribute non-green colors to plant structures.",
+      "d": "Medium",
+      "topic": "Plastids",
+      "slo": "Distinguish chromoplasts in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-223",
+      "q": "Which statement about leucoplasts should be included in an accurate biology revision note?",
+      "o": [
+        "Leucoplasts are generally colorless plastids involved in storage",
+        "Leucoplasts form nerve impulses",
+        "Leucoplasts are bacterial flagella",
+        "Leucoplasts are always green"
+      ],
+      "a": 0,
+      "e": "Colorless plastids often store food materials.",
+      "d": "Medium",
+      "topic": "Plastids",
+      "slo": "Distinguish leucoplasts in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-224",
+      "q": "Which statement about vacuole membrane should be included in an accurate biology revision note?",
+      "o": [
+        "The membrane surrounding a plant vacuole is called the tonoplast",
+        "It is called the nucleolus",
+        "It is called a crista",
+        "It is called a thylakoid"
+      ],
+      "a": 0,
+      "e": "The tonoplast separates vacuolar contents from cytoplasm.",
+      "d": "Medium",
+      "topic": "Vacuoles",
+      "slo": "Distinguish vacuole membrane in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-225",
+      "q": "Which statement about cell sap should be included in an accurate biology revision note?",
+      "o": [
+        "Cell sap is the cellulose wall",
+        "Cell sap is the fluid stored inside a plant vacuole",
+        "Cell sap is a ribosome",
+        "Cell sap is found only inside chromosomes"
+      ],
+      "a": 1,
+      "e": "Vacuoles contain water and dissolved substances called cell sap.",
+      "d": "Medium",
+      "topic": "Vacuoles",
+      "slo": "Distinguish cell sap in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-226",
+      "q": "Which statement about turgor should be included in an accurate biology revision note?",
+      "o": [
+        "A water-filled central vacuole helps maintain turgor pressure",
+        "It destroys the plant cell wall",
+        "It causes all proteins to leave the cell",
+        "It replaces the plasma membrane"
+      ],
+      "a": 0,
+      "e": "Turgor helps support non-woody plant tissues.",
+      "d": "Medium",
+      "topic": "Vacuoles",
+      "slo": "Distinguish turgor in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-227",
+      "q": "Which statement about centrioles should be included in an accurate biology revision note?",
+      "o": [
+        "Centrioles store starch granules",
+        "Centrioles contain chlorophyll",
+        "Centrioles help organize microtubules in many animal cells",
+        "Centrioles are plant cell walls"
+      ],
+      "a": 2,
+      "e": "Centrioles are associated with centrosomes and cell division.",
+      "d": "Medium",
+      "topic": "Centrioles",
+      "slo": "Distinguish centrioles in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-228",
+      "q": "Which statement about cytoskeleton should be included in an accurate biology revision note?",
+      "o": [
+        "It is the cell's genetic code",
+        "It is a fixed cellulose wall in all cells",
+        "It consists only of stored water",
+        "The cytoskeleton helps maintain cell shape and supports movement"
+      ],
+      "a": 3,
+      "e": "Protein filaments provide internal support and transport routes.",
+      "d": "Medium",
+      "topic": "Cytoskeleton",
+      "slo": "Distinguish cytoskeleton in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-229",
+      "q": "Which statement about microtubules should be included in an accurate biology revision note?",
+      "o": [
+        "Microtubules are cytoskeletal structures important in intracellular transport and cell division",
+        "They are mitochondrial DNA molecules",
+        "They are vacuolar pigments",
+        "They are cellulose plates outside the cell"
+      ],
+      "a": 0,
+      "e": "Microtubules support movement and spindle formation.",
+      "d": "Medium",
+      "topic": "Cytoskeleton",
+      "slo": "Distinguish microtubules in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-230",
+      "q": "Which statement about cell wall support should be included in an accurate biology revision note?",
+      "o": [
+        "The wall is the site of DNA storage",
+        "The wall replaces all membranes",
+        "The wall is the main site of ATP production",
+        "The plant cell wall provides rigidity and protection"
+      ],
+      "a": 3,
+      "e": "A cellulose-rich wall supports plant cells.",
+      "d": "Medium",
+      "topic": "Cell wall",
+      "slo": "Distinguish cell wall support in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-231",
+      "q": "Which statement about cellulose should be included in an accurate biology revision note?",
+      "o": [
+        "Cellulose is a major structural component of plant cell walls",
+        "Cellulose is a nuclear protein",
+        "Cellulose is a digestive enzyme",
+        "Cellulose is the main pigment in chloroplasts"
+      ],
+      "a": 0,
+      "e": "Cellulose fibers strengthen plant cell walls.",
+      "d": "Medium",
+      "topic": "Cell wall",
+      "slo": "Distinguish cellulose in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-232",
+      "q": "Which statement about cell wall permeability should be included in an accurate biology revision note?",
+      "o": [
+        "The wall contains nuclear pores",
+        "The wall is an impermeable lipid bilayer",
+        "The wall selectively pumps every ion",
+        "The plant cell wall is generally more freely permeable than the plasma membrane"
+      ],
+      "a": 3,
+      "e": "The plasma membrane is the main selective barrier.",
+      "d": "Medium",
+      "topic": "Cell wall",
+      "slo": "Distinguish cell wall permeability in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-233",
+      "q": "Which statement about specialized cells should be included in an accurate biology revision note?",
+      "o": [
+        "Specialization prevents tissues from forming",
+        "All cells lose their membranes",
+        "Every cell must have the same shape",
+        "Cell specialization allows different cells to perform particular tasks efficiently"
+      ],
+      "a": 3,
+      "e": "Structure is adapted to function in multicellular organisms.",
+      "d": "Medium",
+      "topic": "Cell specialization",
+      "slo": "Distinguish specialized cells in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-234",
+      "q": "Which statement about red blood cells should be included in an accurate biology revision note?",
+      "o": [
+        "They produce root hairs",
+        "They form plant xylem vessels",
+        "Red blood cells are specialized for photosynthesis",
+        "Red blood cells are specialized for oxygen transport"
+      ],
+      "a": 3,
+      "e": "Hemoglobin enables red blood cells to carry oxygen.",
+      "d": "Medium",
+      "topic": "Cell specialization",
+      "slo": "Distinguish red blood cells in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-235",
+      "q": "Which statement about neuron should be included in an accurate biology revision note?",
+      "o": [
+        "A neuron stores starch in seeds",
+        "A neuron carries pollen grains",
+        "A neuron is specialized to transmit nerve impulses",
+        "A neuron absorbs minerals through root hairs"
+      ],
+      "a": 2,
+      "e": "Long processes enable neurons to communicate across distances.",
+      "d": "Medium",
+      "topic": "Cell specialization",
+      "slo": "Distinguish neuron in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-236",
+      "q": "Which statement about muscle cell should be included in an accurate biology revision note?",
+      "o": [
+        "Muscle cells make cellulose walls",
+        "Muscle cells are specialized for contraction",
+        "Muscle cells are specialized for pollen formation",
+        "Muscle cells mainly absorb sunlight"
+      ],
+      "a": 1,
+      "e": "Contractile proteins allow muscle cells to generate force.",
+      "d": "Medium",
+      "topic": "Cell specialization",
+      "slo": "Distinguish muscle cell in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-237",
+      "q": "Which statement about root hair cell should be included in an accurate biology revision note?",
+      "o": [
+        "It secretes digestive enzymes into the stomach",
+        "A root hair cell has an extended surface to absorb water and minerals",
+        "It is specialized for carrying oxygen in blood",
+        "It conducts nerve impulses"
+      ],
+      "a": 1,
+      "e": "The hair-like extension increases absorption surface area.",
+      "d": "Medium",
+      "topic": "Cell specialization",
+      "slo": "Distinguish root hair cell in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-238",
+      "q": "Which statement about palisade mesophyll should be included in an accurate biology revision note?",
+      "o": [
+        "They lack all membranes",
+        "Palisade mesophyll cells contain many chloroplasts for photosynthesis",
+        "They carry blood oxygen",
+        "They form animal bone"
+      ],
+      "a": 1,
+      "e": "Many chloroplasts support high rates of photosynthesis.",
+      "d": "Medium",
+      "topic": "Cell specialization",
+      "slo": "Distinguish palisade mesophyll in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-239",
+      "q": "Which statement about xylem vessels should be included in an accurate biology revision note?",
+      "o": [
+        "Xylem vessels make antibodies",
+        "Xylem vessels carry blood plasma",
+        "Xylem vessels transport water and mineral salts in plants",
+        "Xylem vessels transmit nerve impulses"
+      ],
+      "a": 2,
+      "e": "Xylem tissue conducts water through the plant.",
+      "d": "Medium",
+      "topic": "Cell specialization",
+      "slo": "Distinguish xylem vessels in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-240",
+      "q": "Which statement about phloem sieve tubes should be included in an accurate biology revision note?",
+      "o": [
+        "Phloem is the nucleus of a root cell",
+        "Phloem transports sugars and other organic nutrients in plants",
+        "Phloem is the site of photosynthesis only",
+        "Phloem pumps oxygen through lungs"
+      ],
+      "a": 1,
+      "e": "Phloem distributes products of photosynthesis.",
+      "d": "Medium",
+      "topic": "Cell specialization",
+      "slo": "Distinguish phloem sieve tubes in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-241",
+      "q": "Which statement about sperm cell should be included in an accurate biology revision note?",
+      "o": [
+        "It is a red blood cell",
+        "It is a photosynthetic plant cell",
+        "A sperm cell is adapted to swim toward and fertilize an egg",
+        "It is a mature xylem vessel"
+      ],
+      "a": 2,
+      "e": "The flagellum enables motility in many animal sperm cells.",
+      "d": "Medium",
+      "topic": "Cell specialization",
+      "slo": "Distinguish sperm cell in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-242",
+      "q": "Which statement about tissue should be included in an accurate biology revision note?",
+      "o": [
+        "A tissue is always a single molecule",
+        "A tissue is an entire ecosystem",
+        "A tissue is only an organelle",
+        "A tissue is a group of similar cells working together for a function"
+      ],
+      "a": 3,
+      "e": "Similar specialized cells form tissues.",
+      "d": "Medium",
+      "topic": "Tissues and organs",
+      "slo": "Distinguish tissue in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-243",
+      "q": "Which statement about organ should be included in an accurate biology revision note?",
+      "o": [
+        "An organ is always one cell",
+        "An organ is a population of species",
+        "An organ is a single ribosome",
+        "An organ is composed of different tissues working together"
+      ],
+      "a": 3,
+      "e": "Different tissues combine to perform an organ's function.",
+      "d": "Medium",
+      "topic": "Tissues and organs",
+      "slo": "Distinguish organ in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-244",
+      "q": "Which statement about organ system should be included in an accurate biology revision note?",
+      "o": [
+        "An organ system is a group of organs coordinating a major function",
+        "An organ system is a group of chloroplasts",
+        "An organ system is one protein",
+        "An organ system is a single chromosome"
+      ],
+      "a": 0,
+      "e": "Organ systems coordinate functions such as digestion.",
+      "d": "Medium",
+      "topic": "Tissues and organs",
+      "slo": "Distinguish organ system in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-245",
+      "q": "Which statement about levels of organization should be included in an accurate biology revision note?",
+      "o": [
+        "Tissues form atoms",
+        "Organs form cells directly",
+        "Cells form tissues, tissues form organs, and organs form organ systems",
+        "Organ systems are smaller than cells"
+      ],
+      "a": 2,
+      "e": "Biological organization builds from cells to higher levels.",
+      "d": "Medium",
+      "topic": "Tissues and organs",
+      "slo": "Distinguish levels of organization in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-246",
+      "q": "Which statement about division of labour should be included in an accurate biology revision note?",
+      "o": [
+        "Cells cannot cooperate",
+        "Organs are independent of tissues",
+        "Division of labour means different specialized parts perform different functions",
+        "All parts perform only one identical task"
+      ],
+      "a": 2,
+      "e": "Division of labour increases efficiency in multicellular life.",
+      "d": "Medium",
+      "topic": "Tissues and organs",
+      "slo": "Distinguish division of labour in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-247",
+      "q": "Which statement about stem cell definition should be included in an accurate biology revision note?",
+      "o": [
+        "A stem cell cannot divide",
+        "A stem cell is always a mature red blood cell",
+        "A stem cell is a nonliving mineral",
+        "A stem cell can self-renew and produce specialized daughter cells"
+      ],
+      "a": 3,
+      "e": "Stem cells can divide and differentiate.",
+      "d": "Medium",
+      "topic": "Stem cells",
+      "slo": "Distinguish stem cell definition in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-248",
+      "q": "Which statement about differentiation should be included in an accurate biology revision note?",
+      "o": [
+        "Differentiation is only water diffusion",
+        "Differentiation is breakdown of cell walls",
+        "Differentiation means every cell becomes identical",
+        "Differentiation is the process by which cells become specialized"
+      ],
+      "a": 3,
+      "e": "Cells develop specialized structures and functions during differentiation.",
+      "d": "Medium",
+      "topic": "Stem cells",
+      "slo": "Distinguish differentiation in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-249",
+      "q": "Which statement about embryonic stem cells should be included in an accurate biology revision note?",
+      "o": [
+        "They are always bacterial cells",
+        "Embryonic stem cells can develop into many types of body cells",
+        "They cannot divide",
+        "They are mature xylem cells"
+      ],
+      "a": 1,
+      "e": "Embryonic stem cells have broad differentiation potential.",
+      "d": "Medium",
+      "topic": "Stem cells",
+      "slo": "Distinguish embryonic stem cells in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-250",
+      "q": "Which statement about adult stem cells should be included in an accurate biology revision note?",
+      "o": [
+        "They are nonliving structures",
+        "They perform photosynthesis in all organs",
+        "They are always completely unspecialized embryos",
+        "Adult stem cells help maintain and repair particular tissues"
+      ],
+      "a": 3,
+      "e": "Tissue stem cells replenish cells during normal renewal and repair.",
+      "d": "Medium",
+      "topic": "Stem cells",
+      "slo": "Distinguish adult stem cells in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-251",
+      "q": "Which statement about bone marrow should be included in an accurate biology revision note?",
+      "o": [
+        "Bone marrow produces chloroplasts",
+        "Bone marrow makes cellulose walls",
+        "Bone marrow is a plant vacuole",
+        "Bone marrow contains stem cells that produce blood cells"
+      ],
+      "a": 3,
+      "e": "Hematopoietic stem cells generate blood cell lineages.",
+      "d": "Medium",
+      "topic": "Stem cells",
+      "slo": "Distinguish bone marrow in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-252",
+      "q": "Which statement about prokaryotic organelles should be included in an accurate biology revision note?",
+      "o": [
+        "They always have a Golgi apparatus",
+        "They always have chloroplasts",
+        "Prokaryotic cells generally lack membrane-bound organelles",
+        "They always have mitochondria"
+      ],
+      "a": 2,
+      "e": "Prokaryotes lack the membrane-bound organelles typical of eukaryotes.",
+      "d": "Medium",
+      "topic": "Cell comparisons",
+      "slo": "Distinguish prokaryotic organelles in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-253",
+      "q": "Which statement about ribosomes in both cell types should be included in an accurate biology revision note?",
+      "o": [
+        "Only plants contain ribosomes",
+        "Only animals contain ribosomes",
+        "Both prokaryotic and eukaryotic cells contain ribosomes",
+        "Bacteria contain no ribosomes"
+      ],
+      "a": 2,
+      "e": "All cellular life requires machinery for protein synthesis.",
+      "d": "Medium",
+      "topic": "Cell comparisons",
+      "slo": "Distinguish ribosomes in both cell types in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-254",
+      "q": "Which statement about plasma membrane in both should be included in an accurate biology revision note?",
+      "o": [
+        "Only plant cells have membranes",
+        "Both plant and animal cells possess a plasma membrane",
+        "Only animal cells have membranes",
+        "Neither cell type has membranes"
+      ],
+      "a": 1,
+      "e": "A plasma membrane encloses both plant and animal cells.",
+      "d": "Medium",
+      "topic": "Cell comparisons",
+      "slo": "Distinguish plasma membrane in both in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-255",
+      "q": "Which statement about mitochondria and energy should be included in an accurate biology revision note?",
+      "o": [
+        "They contain only chloroplasts",
+        "Cells with high aerobic energy demand often contain many mitochondria",
+        "Such cells always lack ribosomes",
+        "They have no cytoplasm"
+      ],
+      "a": 1,
+      "e": "Mitochondrial abundance can reflect energy requirements.",
+      "d": "Medium",
+      "topic": "Cell comparisons",
+      "slo": "Distinguish mitochondria and energy in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-256",
+      "q": "Which statement about secretory cells should be included in an accurate biology revision note?",
+      "o": [
+        "A cell secreting many proteins often has extensive rough ER and Golgi apparatus",
+        "It needs no ribosomes",
+        "It cannot have a plasma membrane",
+        "It must lack a nucleus"
+      ],
+      "a": 0,
+      "e": "Rough ER and Golgi process proteins destined for secretion.",
+      "d": "Medium",
+      "topic": "Cell comparisons",
+      "slo": "Distinguish secretory cells in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-257",
+      "q": "Which statement about photosynthetic cells should be included in an accurate biology revision note?",
+      "o": [
+        "A photosynthetic leaf cell is expected to contain many chloroplasts",
+        "It contains only lysosomes",
+        "It has no cytoplasm",
+        "It lacks a plasma membrane"
+      ],
+      "a": 0,
+      "e": "Chloroplast abundance supports photosynthetic activity.",
+      "d": "Medium",
+      "topic": "Cell comparisons",
+      "slo": "Distinguish photosynthetic cells in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-258",
+      "q": "Which statement about vacuole loss of turgor should be included in an accurate biology revision note?",
+      "o": [
+        "It increases turgor indefinitely",
+        "It converts the cell into a bacterium",
+        "It creates more chloroplasts instantly",
+        "Loss of water from a plant cell vacuole can cause wilting"
+      ],
+      "a": 3,
+      "e": "Reduced vacuolar water lowers turgor pressure.",
+      "d": "Medium",
+      "topic": "Cell comparisons",
+      "slo": "Distinguish vacuole loss of turgor in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-259",
+      "q": "Which statement about damaged lysosomes should be included in an accurate biology revision note?",
+      "o": [
+        "Defective lysosomes can impair intracellular digestion and recycling",
+        "They replace the nucleus",
+        "They increase chlorophyll synthesis directly",
+        "They remove all need for ribosomes"
+      ],
+      "a": 0,
+      "e": "Lysosomal enzymes are needed to break down and recycle materials.",
+      "d": "Medium",
+      "topic": "Cell comparisons",
+      "slo": "Distinguish damaged lysosomes in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-260",
+      "q": "Which statement about damaged ribosomes should be included in an accurate biology revision note?",
+      "o": [
+        "DNA becomes cellulose",
+        "If ribosomes stop functioning, protein synthesis is disrupted",
+        "Photosynthesis must increase",
+        "Cell walls immediately become nuclei"
+      ],
+      "a": 1,
+      "e": "Ribosomes are required to build proteins.",
+      "d": "Medium",
+      "topic": "Cell comparisons",
+      "slo": "Distinguish damaged ribosomes in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-261",
+      "q": "Which statement about damaged golgi should be included in an accurate biology revision note?",
+      "o": [
+        "Disrupted Golgi function can interfere with processing and secretion of proteins",
+        "It turns animal cells into bacteria",
+        "It directly increases chlorophyll",
+        "It eliminates the need for DNA"
+      ],
+      "a": 0,
+      "e": "Golgi sorting is important for secretory pathways.",
+      "d": "Medium",
+      "topic": "Cell comparisons",
+      "slo": "Distinguish damaged golgi in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-262",
+      "q": "For an exam question on basic unit of life, which of the following statements is correct?",
+      "o": [
+        "The tissue is the basic unit of life",
+        "Only multicellular organisms contain cells",
+        "The cell is the basic structural and functional unit of life",
+        "The organ is the smallest living unit"
+      ],
+      "a": 2,
+      "e": "Cells carry out the essential functions of life.",
+      "d": "Hard",
+      "topic": "Cell theory",
+      "slo": "Apply basic unit of life in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-263",
+      "q": "For an exam question on all living things, which of the following statements is correct?",
+      "o": [
+        "Viruses are composed of ordinary cells",
+        "All living organisms consist of one or more cells",
+        "Only animals contain cells",
+        "All organisms are made only of tissues"
+      ],
+      "a": 1,
+      "e": "Cell theory recognizes cellular organization of living things.",
+      "d": "Hard",
+      "topic": "Cell theory",
+      "slo": "Apply all living things in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-264",
+      "q": "For an exam question on new cells, which of the following statements is correct?",
+      "o": [
+        "New cells arise from pre-existing cells",
+        "Every cell forms directly from an organ",
+        "Cells are made only by fusion of tissues",
+        "Cells arise routinely from nonliving dust"
+      ],
+      "a": 0,
+      "e": "Cell division produces new cells from existing cells.",
+      "d": "Hard",
+      "topic": "Cell theory",
+      "slo": "Apply new cells in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-265",
+      "q": "For an exam question on unicellular organisms, which of the following statements is correct?",
+      "o": [
+        "A unicellular organism performs life processes within one cell",
+        "It has many specialized tissues",
+        "It requires different organs to survive",
+        "It contains no cytoplasm"
+      ],
+      "a": 0,
+      "e": "A single cell can carry out all essential life activities.",
+      "d": "Hard",
+      "topic": "Cell theory",
+      "slo": "Apply unicellular organisms in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-266",
+      "q": "For an exam question on multicellular organisms, which of the following statements is correct?",
+      "o": [
+        "They are always microscopic",
+        "Each cell must perform every body function equally",
+        "Multicellular organisms have many cells that can specialize",
+        "They never contain tissues"
+      ],
+      "a": 2,
+      "e": "Specialized cells share work in complex organisms.",
+      "d": "Hard",
+      "topic": "Cell theory",
+      "slo": "Apply multicellular organisms in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-267",
+      "q": "For an exam question on prokaryotic nucleus, which of the following statements is correct?",
+      "o": [
+        "A prokaryotic cell lacks a membrane-bound nucleus",
+        "Its DNA is inside a nuclear envelope",
+        "It always contains chloroplasts",
+        "Its nucleus has a double membrane"
+      ],
+      "a": 0,
+      "e": "Prokaryotes have DNA without a membrane-bound nucleus.",
+      "d": "Hard",
+      "topic": "Cell types",
+      "slo": "Apply prokaryotic nucleus in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-268",
+      "q": "For an exam question on eukaryotic nucleus, which of the following statements is correct?",
+      "o": [
+        "It has only free DNA in a nucleoid",
+        "It lacks all internal membranes",
+        "It has no genetic material",
+        "A eukaryotic cell contains a membrane-bound nucleus"
+      ],
+      "a": 3,
+      "e": "Eukaryotes possess a true nucleus enclosed by a nuclear envelope.",
+      "d": "Hard",
+      "topic": "Cell types",
+      "slo": "Apply eukaryotic nucleus in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-269",
+      "q": "For an exam question on bacterial cell, which of the following statements is correct?",
+      "o": [
+        "Every bacterium has mitochondria",
+        "A bacterium is a prokaryotic organism",
+        "A bacterium is a plant tissue",
+        "A bacterium is a multicellular animal"
+      ],
+      "a": 1,
+      "e": "Bacteria are cellular organisms without a true nucleus.",
+      "d": "Hard",
+      "topic": "Cell types",
+      "slo": "Apply bacterial cell in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-270",
+      "q": "For an exam question on plant and animal cells, which of the following statements is correct?",
+      "o": [
+        "Neither has a plasma membrane",
+        "Neither contains DNA",
+        "Plant and animal cells are both eukaryotic",
+        "Both are always prokaryotic"
+      ],
+      "a": 2,
+      "e": "Both types have nuclei and membrane-bound organelles.",
+      "d": "Hard",
+      "topic": "Cell types",
+      "slo": "Apply plant and animal cells in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-271",
+      "q": "For an exam question on plant cell wall, which of the following statements is correct?",
+      "o": [
+        "Its cell wall replaces the nucleus",
+        "Animal cells have the same cellulose wall",
+        "Its wall is made mainly of chitin",
+        "A typical plant cell has a cellulose cell wall outside its plasma membrane"
+      ],
+      "a": 3,
+      "e": "The cellulose cell wall provides support and protection in plants.",
+      "d": "Hard",
+      "topic": "Cell types",
+      "slo": "Apply plant cell wall in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-272",
+      "q": "For an exam question on animal cell wall, which of the following statements is correct?",
+      "o": [
+        "Animal cells have a thick cellulose wall",
+        "Animal cells do not have a cellulose cell wall",
+        "Animal cells lack plasma membranes",
+        "Animal cells have chloroplasts in every tissue"
+      ],
+      "a": 1,
+      "e": "Animal cells are enclosed by plasma membranes but lack plant-type walls.",
+      "d": "Hard",
+      "topic": "Cell types",
+      "slo": "Apply animal cell wall in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-273",
+      "q": "For an exam question on plant chloroplasts, which of the following statements is correct?",
+      "o": [
+        "Chloroplasts occur in all bacterial cells",
+        "All animal cells have chloroplasts",
+        "Photosynthetic plant cells can contain chloroplasts",
+        "Chloroplasts are the site of protein synthesis"
+      ],
+      "a": 2,
+      "e": "Chloroplasts capture light for photosynthesis.",
+      "d": "Hard",
+      "topic": "Cell types",
+      "slo": "Apply plant chloroplasts in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-274",
+      "q": "For an exam question on plant vacuole, which of the following statements is correct?",
+      "o": [
+        "A mature plant cell often contains a large central vacuole",
+        "The vacuole produces ribosomes",
+        "All animal cells have a larger central vacuole",
+        "Its vacuole contains chromosomes instead of nucleus"
+      ],
+      "a": 0,
+      "e": "The central vacuole stores cell sap and supports turgidity.",
+      "d": "Hard",
+      "topic": "Cell types",
+      "slo": "Apply plant vacuole in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-275",
+      "q": "For an exam question on plasma membrane position, which of the following statements is correct?",
+      "o": [
+        "It is located only inside the nucleus",
+        "The plasma membrane forms the boundary of the cell contents",
+        "It is found only in bacteria",
+        "It is always outside a plant cell wall"
+      ],
+      "a": 1,
+      "e": "The membrane separates the cell interior from its surroundings.",
+      "d": "Hard",
+      "topic": "Cell membrane",
+      "slo": "Apply plasma membrane position in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-276",
+      "q": "For an exam question on selective permeability, which of the following statements is correct?",
+      "o": [
+        "The plasma membrane regulates movement of substances into and out of the cell",
+        "It prevents all water movement",
+        "It allows every substance to pass equally",
+        "It only provides a rigid shape"
+      ],
+      "a": 0,
+      "e": "Selective permeability controls exchange with the environment.",
+      "d": "Hard",
+      "topic": "Cell membrane",
+      "slo": "Apply selective permeability in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-277",
+      "q": "For an exam question on phospholipid bilayer, which of the following statements is correct?",
+      "o": [
+        "The plasma membrane contains a phospholipid bilayer",
+        "It is a solid protein crystal",
+        "It is made only of cellulose",
+        "It consists solely of DNA"
+      ],
+      "a": 0,
+      "e": "Phospholipids form the basic double-layer structure of the membrane.",
+      "d": "Hard",
+      "topic": "Cell membrane",
+      "slo": "Apply phospholipid bilayer in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-278",
+      "q": "For an exam question on membrane proteins, which of the following statements is correct?",
+      "o": [
+        "They perform photosynthesis in all cells",
+        "They form the plant cell wall",
+        "Membrane proteins can transport substances or act as receptors",
+        "All membrane proteins store hereditary code"
+      ],
+      "a": 2,
+      "e": "Proteins contribute transport and signaling functions to membranes.",
+      "d": "Hard",
+      "topic": "Cell membrane",
+      "slo": "Apply membrane proteins in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-279",
+      "q": "For an exam question on cytoplasm location, which of the following statements is correct?",
+      "o": [
+        "It is only the fluid inside the nucleus",
+        "It consists entirely of chromosomes",
+        "Cytoplasm lies between the plasma membrane and nucleus in a eukaryotic cell",
+        "It exists outside the cell wall"
+      ],
+      "a": 2,
+      "e": "Cytoplasm includes cytosol and organelles outside the nucleus.",
+      "d": "Hard",
+      "topic": "Cytoplasm",
+      "slo": "Apply cytoplasm location in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-280",
+      "q": "For an exam question on cytosol, which of the following statements is correct?",
+      "o": [
+        "Cytosol is the nuclear membrane",
+        "Cytosol is the fluid portion of the cytoplasm",
+        "Cytosol is a chromosome",
+        "Cytosol is the rigid cell wall"
+      ],
+      "a": 1,
+      "e": "Many metabolic reactions occur in the cytosol.",
+      "d": "Hard",
+      "topic": "Cytoplasm",
+      "slo": "Apply cytosol in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-281",
+      "q": "For an exam question on nucleus function, which of the following statements is correct?",
+      "o": [
+        "It produces ATP by aerobic respiration",
+        "It is the main site of photosynthesis",
+        "It digests food in lysosomes",
+        "The nucleus contains most of the cell's DNA and helps control activities"
+      ],
+      "a": 3,
+      "e": "Nuclear DNA carries instructions regulating cell functions.",
+      "d": "Hard",
+      "topic": "Nucleus",
+      "slo": "Apply nucleus function in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-282",
+      "q": "For an exam question on nuclear envelope, which of the following statements is correct?",
+      "o": [
+        "It is the outermost layer of every cell",
+        "It is a cellulose cell wall",
+        "The nuclear envelope is a double membrane surrounding the nucleus",
+        "It encloses the central vacuole"
+      ],
+      "a": 2,
+      "e": "The nuclear envelope separates nuclear contents from cytoplasm.",
+      "d": "Hard",
+      "topic": "Nucleus",
+      "slo": "Apply nuclear envelope in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-283",
+      "q": "For an exam question on nuclear pores, which of the following statements is correct?",
+      "o": [
+        "They are sites of chlorophyll synthesis",
+        "They destroy all proteins",
+        "They make the cell wall",
+        "Nuclear pores permit regulated exchange between nucleus and cytoplasm"
+      ],
+      "a": 3,
+      "e": "Pores allow transport across the nuclear envelope.",
+      "d": "Hard",
+      "topic": "Nucleus",
+      "slo": "Apply nuclear pores in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-284",
+      "q": "For an exam question on nucleolus, which of the following statements is correct?",
+      "o": [
+        "It generates most ATP",
+        "The nucleolus is involved in ribosome assembly",
+        "It digests damaged organelles",
+        "It stores cell sap"
+      ],
+      "a": 1,
+      "e": "The nucleolus helps produce ribosomal components.",
+      "d": "Hard",
+      "topic": "Nucleus",
+      "slo": "Apply nucleolus in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-285",
+      "q": "For an exam question on chromatin, which of the following statements is correct?",
+      "o": [
+        "Chromatin is the fluid outside the cell",
+        "Chromatin is a vacuolar pigment",
+        "Chromatin is made only of cellulose",
+        "Chromatin contains DNA associated with proteins"
+      ],
+      "a": 3,
+      "e": "Chromatin is genetic material organized with proteins.",
+      "d": "Hard",
+      "topic": "Nucleus",
+      "slo": "Apply chromatin in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-286",
+      "q": "For an exam question on ribosome function, which of the following statements is correct?",
+      "o": [
+        "Ribosomes synthesize proteins",
+        "Ribosomes perform photosynthesis",
+        "Ribosomes store cell sap",
+        "Ribosomes digest entire organelles"
+      ],
+      "a": 0,
+      "e": "Ribosomes translate genetic instructions into proteins.",
+      "d": "Hard",
+      "topic": "Ribosomes",
+      "slo": "Apply ribosome function in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-287",
+      "q": "For an exam question on ribosome subunits, which of the following statements is correct?",
+      "o": [
+        "A ribosome has a large and a small subunit",
+        "A ribosome is a single lipid droplet",
+        "A ribosome has two nuclei",
+        "A ribosome is made of stacked cisternae"
+      ],
+      "a": 0,
+      "e": "Ribosomal subunits join during protein synthesis.",
+      "d": "Hard",
+      "topic": "Ribosomes",
+      "slo": "Apply ribosome subunits in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-288",
+      "q": "For an exam question on free ribosomes, which of the following statements is correct?",
+      "o": [
+        "They produce cellulose cell walls directly",
+        "They store chlorophyll",
+        "They are located only in the nucleolus",
+        "Free ribosomes commonly make proteins used within the cytosol"
+      ],
+      "a": 3,
+      "e": "Free ribosomes synthesize many proteins functioning inside the cell.",
+      "d": "Hard",
+      "topic": "Ribosomes",
+      "slo": "Apply free ribosomes in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-289",
+      "q": "For an exam question on rough er, which of the following statements is correct?",
+      "o": [
+        "Rough ER is the outer cell wall",
+        "Rough endoplasmic reticulum has ribosomes attached to its surface",
+        "Rough ER has no ribosomes anywhere",
+        "Rough ER is a storage vacuole"
+      ],
+      "a": 1,
+      "e": "Attached ribosomes give rough ER its rough appearance.",
+      "d": "Hard",
+      "topic": "Endoplasmic reticulum",
+      "slo": "Apply rough er in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-290",
+      "q": "For an exam question on rough er role, which of the following statements is correct?",
+      "o": [
+        "It stores all chromosomes",
+        "It breaks down sunlight into oxygen",
+        "It is the primary site of photosynthesis",
+        "Rough ER helps synthesize and process proteins for secretion or membranes"
+      ],
+      "a": 3,
+      "e": "Proteins made on rough ER enter the secretory pathway.",
+      "d": "Hard",
+      "topic": "Endoplasmic reticulum",
+      "slo": "Apply rough er role in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-291",
+      "q": "For an exam question on smooth er, which of the following statements is correct?",
+      "o": [
+        "Smooth ER is coated with ribosomes",
+        "Smooth ER is identical to a chloroplast",
+        "Smooth ER is found outside the plasma membrane",
+        "Smooth endoplasmic reticulum lacks attached ribosomes"
+      ],
+      "a": 3,
+      "e": "Smooth ER lacks surface-bound ribosomes.",
+      "d": "Hard",
+      "topic": "Endoplasmic reticulum",
+      "slo": "Apply smooth er in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-292",
+      "q": "For an exam question on smooth er role, which of the following statements is correct?",
+      "o": [
+        "Smooth ER is involved in lipid synthesis",
+        "Smooth ER performs protein translation on attached ribosomes",
+        "Smooth ER forms the cell wall directly",
+        "Smooth ER is the site of chromosome replication only"
+      ],
+      "a": 0,
+      "e": "Smooth ER participates in lipid metabolism and other functions.",
+      "d": "Hard",
+      "topic": "Endoplasmic reticulum",
+      "slo": "Apply smooth er role in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-293",
+      "q": "For an exam question on golgi cisternae, which of the following statements is correct?",
+      "o": [
+        "The Golgi apparatus contains stacks of flattened membrane sacs called cisternae",
+        "It is made of a single DNA strand",
+        "It consists of chromosomes",
+        "It is a hollow cellulose wall"
+      ],
+      "a": 0,
+      "e": "Golgi cisternae form a membrane-based processing system.",
+      "d": "Hard",
+      "topic": "Golgi apparatus",
+      "slo": "Apply golgi cisternae in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-294",
+      "q": "For an exam question on golgi modification, which of the following statements is correct?",
+      "o": [
+        "It carries out DNA replication",
+        "The Golgi apparatus modifies and sorts products from the ER",
+        "It is the nucleus of a bacterium",
+        "It is the site of aerobic respiration"
+      ],
+      "a": 1,
+      "e": "Golgi compartments process and direct cellular products.",
+      "d": "Hard",
+      "topic": "Golgi apparatus",
+      "slo": "Apply golgi modification in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-295",
+      "q": "For an exam question on secretory vesicles, which of the following statements is correct?",
+      "o": [
+        "Secretory vesicles can carry Golgi-processed products to the plasma membrane",
+        "They replace chromosomes",
+        "They always remain inside the nucleus",
+        "They are made of cellulose fibers"
+      ],
+      "a": 0,
+      "e": "Vesicles transport packaged material for secretion.",
+      "d": "Hard",
+      "topic": "Golgi apparatus",
+      "slo": "Apply secretory vesicles in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-296",
+      "q": "For an exam question on golgi discovery, which of the following statements is correct?",
+      "o": [
+        "Darwin named the Golgi apparatus",
+        "Mendel first described Golgi cisternae",
+        "Camillo Golgi is associated with discovery of the Golgi apparatus",
+        "Robert Hooke discovered Golgi stacks"
+      ],
+      "a": 2,
+      "e": "The organelle was named after Camillo Golgi.",
+      "d": "Hard",
+      "topic": "Golgi apparatus",
+      "slo": "Apply golgi discovery in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-297",
+      "q": "For an exam question on lysosome structure, which of the following statements is correct?",
+      "o": [
+        "Lysosomes are DNA chromosomes",
+        "Lysosomes are chlorophyll pigments",
+        "Lysosomes are membrane-bound sacs containing digestive enzymes",
+        "Lysosomes are cellulose walls"
+      ],
+      "a": 2,
+      "e": "Digestive enzymes within lysosomes break down materials.",
+      "d": "Hard",
+      "topic": "Lysosomes",
+      "slo": "Apply lysosome structure in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-298",
+      "q": "For an exam question on intracellular digestion, which of the following statements is correct?",
+      "o": [
+        "They create the nuclear envelope",
+        "Lysosomes help digest material taken into the cell",
+        "They carry oxygen in blood",
+        "They absorb sunlight for photosynthesis"
+      ],
+      "a": 1,
+      "e": "Lysosomes can fuse with food-containing vesicles to digest contents.",
+      "d": "Hard",
+      "topic": "Lysosomes",
+      "slo": "Apply intracellular digestion in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-299",
+      "q": "For an exam question on autophagy, which of the following statements is correct?",
+      "o": [
+        "Autophagy is the formation of a new cell wall only",
+        "Autophagy is water loss from leaves",
+        "Autophagy is pollen transfer",
+        "Autophagy involves breakdown of worn-out cell components"
+      ],
+      "a": 3,
+      "e": "Cells recycle damaged components through degradative pathways.",
+      "d": "Hard",
+      "topic": "Lysosomes",
+      "slo": "Apply autophagy in the context of cell biology"
+    },
+    {
+      "id": "BIO9CH3-300",
+      "q": "For an exam question on mitochondrial function, which of the following statements is correct?",
+      "o": [
+        "They store the entire cell sap",
+        "They synthesize cellulose walls",
+        "Mitochondria are major sites of aerobic respiration and ATP production",
+        "They are the main site of photosynthesis"
+      ],
+      "a": 2,
+      "e": "Mitochondria release usable energy during aerobic respiration.",
+      "d": "Hard",
+      "topic": "Mitochondria",
+      "slo": "Apply mitochondrial function in the context of cell biology"
+    }
+  ]
+}

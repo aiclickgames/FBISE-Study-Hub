@@ -1,0 +1,4504 @@
+{
+  "questions": [
+    {
+      "id": "PHY9CH7-001",
+      "q": "Density means which physical quantity?",
+      "o": [
+        "Mass per unit volume",
+        "Volume per unit mass",
+        "Force per unit area",
+        "Weight per unit time"
+      ],
+      "a": 0,
+      "e": "Density is mass divided by volume.",
+      "d": "Easy",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-002",
+      "q": "Which formula defines density?",
+      "o": [
+        "rho = m+V",
+        "rho = mV",
+        "rho = V/m",
+        "rho = m/V"
+      ],
+      "a": 3,
+      "e": "Density equals mass divided by volume.",
+      "d": "Hard",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-003",
+      "q": "What is the SI unit of density?",
+      "o": [
+        "g/m",
+        "kg/m^3",
+        "kg/m^2",
+        "N/m^3"
+      ],
+      "a": 1,
+      "e": "The SI units are kilogram and cubic metre.",
+      "d": "Easy",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-004",
+      "q": "Which is a smaller common unit of density?",
+      "o": [
+        "N/cm^3",
+        "kg/m",
+        "g/cm^2",
+        "g/cm^3"
+      ],
+      "a": 3,
+      "e": "Grams per cubic centimetre is commonly used.",
+      "d": "Hard",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-005",
+      "q": "One g/cm^3 equals how many kg/m^3?",
+      "o": [
+        "1000",
+        "100",
+        "0.001",
+        "10"
+      ],
+      "a": 0,
+      "e": "Multiply g/cm^3 by 1000.",
+      "d": "Easy",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-006",
+      "q": "Density is classified as what kind of quantity?",
+      "o": [
+        "Force",
+        "Scalar",
+        "Vector",
+        "Acceleration"
+      ],
+      "a": 1,
+      "e": "Density has magnitude but no direction.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-007",
+      "q": "If mass doubles while volume stays fixed, density will:",
+      "o": [
+        "Double",
+        "Remain unchanged",
+        "Halve",
+        "Become zero"
+      ],
+      "a": 0,
+      "e": "rho=m/V.",
+      "d": "Hard",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-008",
+      "q": "If volume doubles at constant mass, density will:",
+      "o": [
+        "Remain unchanged",
+        "Double",
+        "Halve",
+        "Quadruple"
+      ],
+      "a": 2,
+      "e": "rho=m/V.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-009",
+      "q": "For a uniform material, density of a small sample compared with a large sample is:",
+      "o": [
+        "Always smaller",
+        "Always larger",
+        "The same",
+        "Zero"
+      ],
+      "a": 2,
+      "e": "Density is independent of sample size for uniform material.",
+      "d": "Hard",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-010",
+      "q": "Which instrument measures the mass of a liquid?",
+      "o": [
+        "Thermometer",
+        "Balance",
+        "Ruler",
+        "Barometer"
+      ],
+      "a": 1,
+      "e": "A balance measures mass.",
+      "d": "Medium",
+      "topic": "Measurement",
+      "slo": "P-09-C-02"
+    },
+    {
+      "id": "PHY9CH7-011",
+      "q": "Which apparatus measures liquid volume?",
+      "o": [
+        "Graduated measuring cylinder",
+        "Spring balance",
+        "Stopwatch",
+        "Thermocouple"
+      ],
+      "a": 0,
+      "e": "Graduations show liquid volume.",
+      "d": "Easy",
+      "topic": "Measurement",
+      "slo": "P-09-C-02"
+    },
+    {
+      "id": "PHY9CH7-012",
+      "q": "To find liquid mass in a cylinder, subtract:",
+      "o": [
+        "Cylinder height from volume",
+        "Liquid volume from total mass",
+        "Mass of empty cylinder from total mass",
+        "Total mass from empty mass"
+      ],
+      "a": 2,
+      "e": "Mass of liquid equals filled minus empty cylinder mass.",
+      "d": "Medium",
+      "topic": "Measurement",
+      "slo": "P-09-C-02"
+    },
+    {
+      "id": "PHY9CH7-013",
+      "q": "The volume of an irregular stone can be measured by:",
+      "o": [
+        "Water displacement",
+        "Reading a barometer",
+        "Measuring its diameter only",
+        "Using a stopwatch"
+      ],
+      "a": 0,
+      "e": "Rise in water volume equals displaced volume.",
+      "d": "Hard",
+      "topic": "Measurement",
+      "slo": "P-09-C-02"
+    },
+    {
+      "id": "PHY9CH7-014",
+      "q": "What is the volume of a rectangular block?",
+      "o": [
+        "Mass / density squared",
+        "Length x width x height",
+        "Length + width + height",
+        "Length / width"
+      ],
+      "a": 1,
+      "e": "Multiply three perpendicular dimensions.",
+      "d": "Easy",
+      "topic": "Measurement",
+      "slo": "P-09-C-02"
+    },
+    {
+      "id": "PHY9CH7-015",
+      "q": "What does a rise from 40 mL to 73 mL indicate for a submerged stone?",
+      "o": [
+        "113 cm^3",
+        "33 cm^3",
+        "40 cm^3",
+        "73 cm^3"
+      ],
+      "a": 1,
+      "e": "Displaced volume = 73-40 = 33 mL = 33 cm^3.",
+      "d": "Easy",
+      "topic": "Measurement",
+      "slo": "P-09-C-02"
+    },
+    {
+      "id": "PHY9CH7-016",
+      "q": "In which state are particles generally most closely packed?",
+      "o": [
+        "Solid",
+        "Vacuum",
+        "Plasma",
+        "Gas"
+      ],
+      "a": 0,
+      "e": "Solids generally have closely packed particles.",
+      "d": "Hard",
+      "topic": "States",
+      "slo": "P-09-C-03"
+    },
+    {
+      "id": "PHY9CH7-017",
+      "q": "In a solid, particles mainly:",
+      "o": [
+        "Move freely throughout a container",
+        "Move only in straight lines",
+        "Have no attractive forces",
+        "Vibrate about fixed positions"
+      ],
+      "a": 3,
+      "e": "Solid particles vibrate around mean positions.",
+      "d": "Medium",
+      "topic": "States",
+      "slo": "P-09-C-03"
+    },
+    {
+      "id": "PHY9CH7-018",
+      "q": "A liquid generally has:",
+      "o": [
+        "Fixed volume but no fixed shape",
+        "Fixed shape and no volume",
+        "Neither mass nor volume",
+        "Fixed shape and fixed volume"
+      ],
+      "a": 0,
+      "e": "Liquids take the shape of their container.",
+      "d": "Easy",
+      "topic": "States",
+      "slo": "P-09-C-03"
+    },
+    {
+      "id": "PHY9CH7-019",
+      "q": "A gas generally:",
+      "o": [
+        "Cannot be compressed",
+        "Fills its container",
+        "Has fixed volume",
+        "Keeps a fixed shape"
+      ],
+      "a": 1,
+      "e": "Gas particles move freely and spread out.",
+      "d": "Easy",
+      "topic": "States",
+      "slo": "P-09-C-03"
+    },
+    {
+      "id": "PHY9CH7-020",
+      "q": "Which state is generally most compressible?",
+      "o": [
+        "Solid",
+        "Gas",
+        "All equally",
+        "Liquid"
+      ],
+      "a": 1,
+      "e": "Gases have large spaces between particles.",
+      "d": "Hard",
+      "topic": "States",
+      "slo": "P-09-C-03"
+    },
+    {
+      "id": "PHY9CH7-021",
+      "q": "Compared with solids, attractive forces in gases are generally:",
+      "o": [
+        "Always stronger",
+        "Infinite",
+        "Much weaker",
+        "Exactly equal"
+      ],
+      "a": 2,
+      "e": "Gas particles are far apart and move freely.",
+      "d": "Medium",
+      "topic": "States",
+      "slo": "P-09-C-03"
+    },
+    {
+      "id": "PHY9CH7-022",
+      "q": "Particles in liquids can:",
+      "o": [
+        "Slide past one another",
+        "Remain infinitely far apart",
+        "Never move",
+        "Only vibrate at fixed lattice points"
+      ],
+      "a": 0,
+      "e": "Liquid particles can move relative to one another.",
+      "d": "Medium",
+      "topic": "States",
+      "slo": "P-09-C-03"
+    },
+    {
+      "id": "PHY9CH7-023",
+      "q": "Solids generally maintain their own shape because:",
+      "o": [
+        "Particles have fixed average positions",
+        "Particles have no mass",
+        "All solids are gases",
+        "Particles move freely everywhere"
+      ],
+      "a": 0,
+      "e": "Strong interparticle attractions keep solid structure.",
+      "d": "Medium",
+      "topic": "States",
+      "slo": "P-09-C-03"
+    },
+    {
+      "id": "PHY9CH7-024",
+      "q": "Liquids and gases are both called:",
+      "o": [
+        "Metals",
+        "Solids",
+        "Fluids",
+        "Crystals"
+      ],
+      "a": 2,
+      "e": "Both can flow.",
+      "d": "Easy",
+      "topic": "States",
+      "slo": "P-09-C-03"
+    },
+    {
+      "id": "PHY9CH7-025",
+      "q": "Plasma is best described as:",
+      "o": [
+        "Frozen liquid",
+        "Ionized gas with charged particles",
+        "Liquid metal only",
+        "Uncharged solid"
+      ],
+      "a": 1,
+      "e": "Plasma contains free electrons and ions.",
+      "d": "Medium",
+      "topic": "Plasma",
+      "slo": "P-09-C-04"
+    },
+    {
+      "id": "PHY9CH7-026",
+      "q": "Which is a natural example of plasma?",
+      "o": [
+        "A wooden desk",
+        "An ice cube",
+        "A glass of water",
+        "The Sun"
+      ],
+      "a": 3,
+      "e": "The Sun contains ionized matter.",
+      "d": "Medium",
+      "topic": "Plasma",
+      "slo": "P-09-C-04"
+    },
+    {
+      "id": "PHY9CH7-027",
+      "q": "Which phenomenon involves plasma?",
+      "o": [
+        "Melting ice",
+        "Dissolving sugar",
+        "Freezing water",
+        "Aurora"
+      ],
+      "a": 3,
+      "e": "Auroras involve energized charged particles.",
+      "d": "Hard",
+      "topic": "Plasma",
+      "slo": "P-09-C-04"
+    },
+    {
+      "id": "PHY9CH7-028",
+      "q": "When a substance is heated, average particle kinetic energy generally:",
+      "o": [
+        "Decreases",
+        "Becomes negative",
+        "Always remains zero",
+        "Increases"
+      ],
+      "a": 3,
+      "e": "Higher temperature corresponds to higher average kinetic energy.",
+      "d": "Medium",
+      "topic": "Temperature",
+      "slo": "P-09-C-05"
+    },
+    {
+      "id": "PHY9CH7-029",
+      "q": "Temperature is closely related to which property of particles?",
+      "o": [
+        "Number of protons",
+        "Total mass",
+        "Colour only",
+        "Average kinetic energy"
+      ],
+      "a": 3,
+      "e": "Temperature measures thermal state associated with average particle kinetic energy.",
+      "d": "Medium",
+      "topic": "Temperature",
+      "slo": "P-09-C-05"
+    },
+    {
+      "id": "PHY9CH7-030",
+      "q": "Absolute zero is approximately:",
+      "o": [
+        "273 degrees C",
+        "0 degrees C",
+        "100 degrees C",
+        "-273.15 degrees C"
+      ],
+      "a": 3,
+      "e": "0 K equals -273.15 degrees C.",
+      "d": "Medium",
+      "topic": "Temperature",
+      "slo": "P-09-C-05"
+    },
+    {
+      "id": "PHY9CH7-031",
+      "q": "Absolute zero on the Kelvin scale is:",
+      "o": [
+        "-273 K",
+        "273 K",
+        "100 K",
+        "0 K"
+      ],
+      "a": 3,
+      "e": "The Kelvin scale begins at absolute zero.",
+      "d": "Easy",
+      "topic": "Temperature",
+      "slo": "P-09-C-05"
+    },
+    {
+      "id": "PHY9CH7-032",
+      "q": "Internal energy consists of:",
+      "o": [
+        "Only sound energy",
+        "Microscopic kinetic and potential energies",
+        "Only gravitational potential energy of the object",
+        "Only bulk kinetic energy"
+      ],
+      "a": 1,
+      "e": "Internal energy sums microscopic kinetic and potential energies.",
+      "d": "Medium",
+      "topic": "Internal energy",
+      "slo": "P-09-C-06"
+    },
+    {
+      "id": "PHY9CH7-033",
+      "q": "Why do particles have microscopic potential energy?",
+      "o": [
+        "Interparticle forces and separation",
+        "Their colour",
+        "The clock time",
+        "Only their bulk speed"
+      ],
+      "a": 0,
+      "e": "Interactions among particles store potential energy.",
+      "d": "Medium",
+      "topic": "Internal energy",
+      "slo": "P-09-C-06"
+    },
+    {
+      "id": "PHY9CH7-034",
+      "q": "In the ideal gas model, internal energy depends on:",
+      "o": [
+        "Only total volume regardless of temperature",
+        "Particle kinetic energy",
+        "Only colour",
+        "Only container shape"
+      ],
+      "a": 1,
+      "e": "Ideal gas internal energy is associated with particle kinetic energy.",
+      "d": "Hard",
+      "topic": "Internal energy",
+      "slo": "P-09-C-06"
+    },
+    {
+      "id": "PHY9CH7-035",
+      "q": "If the temperature of an ideal gas increases, its internal energy:",
+      "o": [
+        "Becomes zero",
+        "Increases",
+        "Must remain unchanged",
+        "Decreases"
+      ],
+      "a": 1,
+      "e": "Mean particle kinetic energy rises with temperature.",
+      "d": "Medium",
+      "topic": "Internal energy",
+      "slo": "P-09-C-06"
+    },
+    {
+      "id": "PHY9CH7-036",
+      "q": "Which property makes a liquid-in-glass thermometer work?",
+      "o": [
+        "Thermal expansion of liquid",
+        "Magnetic attraction only",
+        "Change in sound speed",
+        "Change in weight"
+      ],
+      "a": 0,
+      "e": "Liquid volume changes with temperature.",
+      "d": "Hard",
+      "topic": "Thermometry",
+      "slo": "P-09-C-07"
+    },
+    {
+      "id": "PHY9CH7-037",
+      "q": "A resistance thermometer uses change in:",
+      "o": [
+        "Gravitational force",
+        "Mass",
+        "Electrical resistance",
+        "Liquid colour only"
+      ],
+      "a": 2,
+      "e": "Resistance varies with temperature.",
+      "d": "Medium",
+      "topic": "Thermometry",
+      "slo": "P-09-C-07"
+    },
+    {
+      "id": "PHY9CH7-038",
+      "q": "A liquid crystal thermometer measures temperature by change in:",
+      "o": [
+        "Colour",
+        "Height of mercury only",
+        "Magnetic field",
+        "Weight"
+      ],
+      "a": 0,
+      "e": "Liquid crystals change colour with temperature.",
+      "d": "Hard",
+      "topic": "Thermometry",
+      "slo": "P-09-C-07"
+    },
+    {
+      "id": "PHY9CH7-039",
+      "q": "A constant-volume gas thermometer uses change in:",
+      "o": [
+        "Liquid height",
+        "Gas pressure",
+        "Bulb colour",
+        "Gas mass"
+      ],
+      "a": 1,
+      "e": "Pressure varies with absolute temperature at fixed volume.",
+      "d": "Easy",
+      "topic": "Thermometry",
+      "slo": "P-09-C-07"
+    },
+    {
+      "id": "PHY9CH7-040",
+      "q": "At constant pressure, gas volume generally increases when:",
+      "o": [
+        "Volume is fixed",
+        "Gas is removed",
+        "Temperature decreases",
+        "Absolute temperature increases"
+      ],
+      "a": 3,
+      "e": "Charles law relates volume and absolute temperature.",
+      "d": "Medium",
+      "topic": "Thermometry",
+      "slo": "P-09-C-07"
+    },
+    {
+      "id": "PHY9CH7-041",
+      "q": "A bimetallic thermometer operates because two metals:",
+      "o": [
+        "Expand by different amounts",
+        "Have no thermal expansion",
+        "Always melt together",
+        "Have identical expansion"
+      ],
+      "a": 0,
+      "e": "Different expansion bends the strip.",
+      "d": "Medium",
+      "topic": "Thermometry",
+      "slo": "P-09-C-07"
+    },
+    {
+      "id": "PHY9CH7-042",
+      "q": "Why are fixed points used to calibrate thermometers?",
+      "o": [
+        "To provide reproducible reference temperatures",
+        "To increase thermometer mass",
+        "To make liquid opaque",
+        "To stop all expansion"
+      ],
+      "a": 0,
+      "e": "Fixed points anchor a temperature scale.",
+      "d": "Hard",
+      "topic": "Calibration",
+      "slo": "P-09-C-08"
+    },
+    {
+      "id": "PHY9CH7-043",
+      "q": "Ice point on the Celsius scale is:",
+      "o": [
+        "100 degrees C",
+        "32 degrees C",
+        "273 degrees C",
+        "0 degrees C"
+      ],
+      "a": 3,
+      "e": "Melting ice is 0 C at standard conditions.",
+      "d": "Easy",
+      "topic": "Calibration",
+      "slo": "P-09-C-08"
+    },
+    {
+      "id": "PHY9CH7-044",
+      "q": "Steam point on the Celsius scale is:",
+      "o": [
+        "32 degrees C",
+        "273 degrees C",
+        "0 degrees C",
+        "100 degrees C"
+      ],
+      "a": 3,
+      "e": "Boiling water is 100 C at standard pressure.",
+      "d": "Medium",
+      "topic": "Calibration",
+      "slo": "P-09-C-08"
+    },
+    {
+      "id": "PHY9CH7-045",
+      "q": "Ice point on the Fahrenheit scale is:",
+      "o": [
+        "0 degrees F",
+        "212 degrees F",
+        "32 degrees F",
+        "100 degrees F"
+      ],
+      "a": 2,
+      "e": "Freezing water corresponds to 32 F.",
+      "d": "Hard",
+      "topic": "Calibration",
+      "slo": "P-09-C-08"
+    },
+    {
+      "id": "PHY9CH7-046",
+      "q": "Steam point on the Fahrenheit scale is:",
+      "o": [
+        "100 degrees F",
+        "373 degrees F",
+        "212 degrees F",
+        "32 degrees F"
+      ],
+      "a": 2,
+      "e": "Boiling water corresponds to 212 F.",
+      "d": "Medium",
+      "topic": "Calibration",
+      "slo": "P-09-C-08"
+    },
+    {
+      "id": "PHY9CH7-047",
+      "q": "The interval between Celsius ice and steam points contains:",
+      "o": [
+        "273 equal divisions",
+        "32 equal divisions",
+        "180 equal divisions",
+        "100 equal divisions"
+      ],
+      "a": 3,
+      "e": "The Celsius scale has 100 divisions between reference points.",
+      "d": "Hard",
+      "topic": "Calibration",
+      "slo": "P-09-C-08"
+    },
+    {
+      "id": "PHY9CH7-048",
+      "q": "The Fahrenheit ice-to-steam interval contains:",
+      "o": [
+        "32 divisions",
+        "100 divisions",
+        "212 divisions",
+        "180 divisions"
+      ],
+      "a": 3,
+      "e": "212 - 32 = 180.",
+      "d": "Hard",
+      "topic": "Calibration",
+      "slo": "P-09-C-08"
+    },
+    {
+      "id": "PHY9CH7-049",
+      "q": "Thermometer sensitivity describes:",
+      "o": [
+        "Smallest detectable temperature change",
+        "Length of glass only",
+        "Maximum mass",
+        "Highest measurable pressure"
+      ],
+      "a": 0,
+      "e": "Sensitivity is ability to resolve small changes.",
+      "d": "Medium",
+      "topic": "Properties",
+      "slo": "P-09-C-09"
+    },
+    {
+      "id": "PHY9CH7-050",
+      "q": "Thermometer range is:",
+      "o": [
+        "Only the boiling point",
+        "The number of molecules",
+        "Only the least count",
+        "Lowest to highest measurable temperature"
+      ],
+      "a": 3,
+      "e": "Range specifies temperature limits.",
+      "d": "Medium",
+      "topic": "Properties",
+      "slo": "P-09-C-09"
+    },
+    {
+      "id": "PHY9CH7-051",
+      "q": "Linearity means:",
+      "o": [
+        "Temperature changes never move the liquid",
+        "The scale must be circular",
+        "The bulb is always straight",
+        "Equal temperature changes give equal changes in reading position"
+      ],
+      "a": 3,
+      "e": "A linear response gives uniform spacing.",
+      "d": "Medium",
+      "topic": "Properties",
+      "slo": "P-09-C-09"
+    },
+    {
+      "id": "PHY9CH7-052",
+      "q": "Which thermometer is suitable for high-temperature furnaces?",
+      "o": [
+        "Thermocouple",
+        "Paper ruler",
+        "Ordinary clinical liquid-in-glass thermometer",
+        "Stopwatch"
+      ],
+      "a": 0,
+      "e": "Thermocouples are used for industrial temperature measurement.",
+      "d": "Easy",
+      "topic": "Types",
+      "slo": "P-09-C-10"
+    },
+    {
+      "id": "PHY9CH7-053",
+      "q": "A thermocouple detects temperature using:",
+      "o": [
+        "Change in colour only",
+        "Liquid mass",
+        "Water displacement",
+        "Voltage between dissimilar metal junctions"
+      ],
+      "a": 3,
+      "e": "Thermoelectric voltage changes with temperature difference.",
+      "d": "Medium",
+      "topic": "Types",
+      "slo": "P-09-C-10"
+    },
+    {
+      "id": "PHY9CH7-054",
+      "q": "What increases sensitivity of a liquid-in-glass thermometer?",
+      "o": [
+        "Wider capillary tube",
+        "Narrower capillary tube",
+        "Smaller expansion of liquid",
+        "Removing the bulb"
+      ],
+      "a": 1,
+      "e": "A narrow bore gives a larger column rise per degree.",
+      "d": "Medium",
+      "topic": "Design",
+      "slo": "P-09-C-11"
+    },
+    {
+      "id": "PHY9CH7-055",
+      "q": "A larger thermometer bulb generally increases:",
+      "o": [
+        "Mass of surroundings",
+        "Maximum temperature always",
+        "Liquid freezing point",
+        "Sensitivity"
+      ],
+      "a": 3,
+      "e": "More liquid expands for the same temperature change.",
+      "d": "Medium",
+      "topic": "Design",
+      "slo": "P-09-C-11"
+    },
+    {
+      "id": "PHY9CH7-056",
+      "q": "Why is a uniform capillary bore important?",
+      "o": [
+        "To eliminate all heat transfer",
+        "For a uniform scale",
+        "To stop liquid expansion",
+        "To make density zero"
+      ],
+      "a": 1,
+      "e": "Uniform bore helps linear scale markings.",
+      "d": "Hard",
+      "topic": "Design",
+      "slo": "P-09-C-11"
+    },
+    {
+      "id": "PHY9CH7-057",
+      "q": "Which liquid property is desirable for a sensitive thermometer?",
+      "o": [
+        "Large thermal expansion",
+        "Zero thermal expansion",
+        "No fluidity",
+        "Infinite viscosity"
+      ],
+      "a": 0,
+      "e": "Greater expansion yields larger response.",
+      "d": "Easy",
+      "topic": "Design",
+      "slo": "P-09-C-11"
+    },
+    {
+      "id": "PHY9CH7-058",
+      "q": "The Kelvin scale is commonly called:",
+      "o": [
+        "Speed scale",
+        "Absolute temperature scale",
+        "Mass scale",
+        "Pressure scale"
+      ],
+      "a": 1,
+      "e": "Kelvin is the SI thermodynamic temperature scale.",
+      "d": "Easy",
+      "topic": "Calibration",
+      "slo": "P-09-C-08"
+    },
+    {
+      "id": "PHY9CH7-059",
+      "q": "What is 25 degrees C in kelvin (approximately)?",
+      "o": [
+        "248 K",
+        "25 K",
+        "298 K",
+        "373 K"
+      ],
+      "a": 2,
+      "e": "K = C + 273 approximately.",
+      "d": "Hard",
+      "topic": "Calibration",
+      "slo": "P-09-C-08"
+    },
+    {
+      "id": "PHY9CH7-060",
+      "q": "What is 300 K in Celsius (approximately)?",
+      "o": [
+        "573 degrees C",
+        "300 degrees C",
+        "27 degrees C",
+        "-27 degrees C"
+      ],
+      "a": 2,
+      "e": "C = K - 273 approximately.",
+      "d": "Medium",
+      "topic": "Calibration",
+      "slo": "P-09-C-08"
+    },
+    {
+      "id": "PHY9CH7-061",
+      "q": "Which sample has greater density: 1 kg or 100 g of the same homogeneous metal?",
+      "o": [
+        "100 g sample",
+        "1 kg sample",
+        "Neither has density",
+        "Both have the same density"
+      ],
+      "a": 3,
+      "e": "Density is an intensive property.",
+      "d": "Hard",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-062",
+      "q": "When a gas is compressed into a smaller volume at constant mass, density:",
+      "o": [
+        "Remains zero",
+        "Increases",
+        "Becomes negative",
+        "Decreases"
+      ],
+      "a": 1,
+      "e": "Density is mass divided by volume.",
+      "d": "Hard",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-063",
+      "q": "A thermistor measures temperature through a change in:",
+      "o": [
+        "Atmospheric pressure only",
+        "Electrical resistance",
+        "Liquid height",
+        "Mass"
+      ],
+      "a": 1,
+      "e": "A thermistor is temperature-sensitive resistor.",
+      "d": "Medium",
+      "topic": "Types",
+      "slo": "P-09-C-10"
+    },
+    {
+      "id": "PHY9CH7-064",
+      "q": "Which device relies on expansion of a liquid in a narrow tube?",
+      "o": [
+        "Liquid-in-glass thermometer",
+        "Thermocouple",
+        "Resistance thermometer",
+        "Bimetallic strip only"
+      ],
+      "a": 0,
+      "e": "The liquid column changes length with temperature.",
+      "d": "Easy",
+      "topic": "Types",
+      "slo": "P-09-C-10"
+    },
+    {
+      "id": "PHY9CH7-065",
+      "q": "Why are gases usually less dense than liquids?",
+      "o": [
+        "Their particles are farther apart",
+        "They contain no particles",
+        "They have no mass",
+        "Their atoms are always smaller"
+      ],
+      "a": 0,
+      "e": "Larger average separation gives lower mass per volume.",
+      "d": "Medium",
+      "topic": "States",
+      "slo": "P-09-C-03"
+    },
+    {
+      "id": "PHY9CH7-066",
+      "q": "Which of these is an example of particle vibrational motion?",
+      "o": [
+        "Atoms oscillating around lattice positions in a solid",
+        "A stone rolling downhill",
+        "A satellite orbiting Earth",
+        "A car driving"
+      ],
+      "a": 0,
+      "e": "Solid particles vibrate about fixed positions.",
+      "d": "Hard",
+      "topic": "States",
+      "slo": "P-09-C-03"
+    },
+    {
+      "id": "PHY9CH7-067",
+      "q": "Why does a clinical thermometer require an appropriate range?",
+      "o": [
+        "It must measure the Sun temperature",
+        "It must measure density",
+        "It must weigh less than a gram",
+        "It must cover human body temperatures"
+      ],
+      "a": 3,
+      "e": "Range must include intended temperatures.",
+      "d": "Easy",
+      "topic": "Properties",
+      "slo": "P-09-C-09"
+    },
+    {
+      "id": "PHY9CH7-068",
+      "q": "A thermometer with 0.1 C resolution compared with 1 C resolution can detect:",
+      "o": [
+        "Smaller temperature changes",
+        "Only larger changes",
+        "No changes",
+        "Only pressure"
+      ],
+      "a": 0,
+      "e": "0.1 C resolves smaller steps than 1 C.",
+      "d": "Medium",
+      "topic": "Properties",
+      "slo": "P-09-C-09"
+    },
+    {
+      "id": "PHY9CH7-069",
+      "q": "A substance has mass 120 g and volume 40 cm^3. What is its density?",
+      "o": [
+        "4800 g/cm^3",
+        "30 g/cm^3",
+        "3 g/cm^3",
+        "0.333333 g/cm^3"
+      ],
+      "a": 2,
+      "e": "rho = 120/40 = 3 g/cm^3.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-070",
+      "q": "A sample has density 3 g/cm^3 and volume 40 cm^3. Find its mass.",
+      "o": [
+        "43 g",
+        "120 g",
+        "12 g",
+        "40 g"
+      ],
+      "a": 1,
+      "e": "m = rho V = 3 x 40 = 120 g.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-071",
+      "q": "A solid has mass 120 g and density 3 g/cm^3. Find its volume.",
+      "o": [
+        "80 cm^3",
+        "120 cm^3",
+        "40 cm^3",
+        "360 cm^3"
+      ],
+      "a": 2,
+      "e": "V = m/rho = 120/3 = 40 cm^3.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-072",
+      "q": "A substance has mass 250 g and volume 50 cm^3. What is its density?",
+      "o": [
+        "50 g/cm^3",
+        "0.2 g/cm^3",
+        "12500 g/cm^3",
+        "5 g/cm^3"
+      ],
+      "a": 3,
+      "e": "rho = 250/50 = 5 g/cm^3.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-073",
+      "q": "A sample has density 5 g/cm^3 and volume 50 cm^3. Find its mass.",
+      "o": [
+        "250 g",
+        "25 g",
+        "50 g",
+        "55 g"
+      ],
+      "a": 0,
+      "e": "m = rho V = 5 x 50 = 250 g.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-074",
+      "q": "A solid has mass 250 g and density 5 g/cm^3. Find its volume.",
+      "o": [
+        "50 cm^3",
+        "250 cm^3",
+        "1250 cm^3",
+        "100 cm^3"
+      ],
+      "a": 0,
+      "e": "V = m/rho = 250/5 = 50 cm^3.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-075",
+      "q": "A substance has mass 360 g and volume 120 cm^3. What is its density?",
+      "o": [
+        "43200 g/cm^3",
+        "3 g/cm^3",
+        "0.333333 g/cm^3",
+        "30 g/cm^3"
+      ],
+      "a": 1,
+      "e": "rho = 360/120 = 3 g/cm^3.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-076",
+      "q": "A sample has density 3 g/cm^3 and volume 120 cm^3. Find its mass.",
+      "o": [
+        "123 g",
+        "360 g",
+        "120 g",
+        "36 g"
+      ],
+      "a": 1,
+      "e": "m = rho V = 3 x 120 = 360 g.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-077",
+      "q": "A solid has mass 360 g and density 3 g/cm^3. Find its volume.",
+      "o": [
+        "360 cm^3",
+        "1080 cm^3",
+        "120 cm^3",
+        "240 cm^3"
+      ],
+      "a": 2,
+      "e": "V = m/rho = 360/3 = 120 cm^3.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-078",
+      "q": "A substance has mass 500 g and volume 250 cm^3. What is its density?",
+      "o": [
+        "20 g/cm^3",
+        "2 g/cm^3",
+        "0.5 g/cm^3",
+        "125000 g/cm^3"
+      ],
+      "a": 1,
+      "e": "rho = 500/250 = 2 g/cm^3.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-079",
+      "q": "A sample has density 2 g/cm^3 and volume 250 cm^3. Find its mass.",
+      "o": [
+        "252 g",
+        "50 g",
+        "250 g",
+        "500 g"
+      ],
+      "a": 3,
+      "e": "m = rho V = 2 x 250 = 500 g.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-080",
+      "q": "A solid has mass 500 g and density 2 g/cm^3. Find its volume.",
+      "o": [
+        "11 (alternative)",
+        "1000 cm^3",
+        "250 cm^3",
+        "500 cm^3"
+      ],
+      "a": 2,
+      "e": "V = m/rho = 500/2 = 250 cm^3.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-081",
+      "q": "A substance has mass 900 g and volume 300 cm^3. What is its density?",
+      "o": [
+        "270000 g/cm^3",
+        "30 g/cm^3",
+        "3 g/cm^3",
+        "0.333333 g/cm^3"
+      ],
+      "a": 2,
+      "e": "rho = 900/300 = 3 g/cm^3.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-082",
+      "q": "A sample has density 3 g/cm^3 and volume 300 cm^3. Find its mass.",
+      "o": [
+        "300 g",
+        "900 g",
+        "90 g",
+        "303 g"
+      ],
+      "a": 1,
+      "e": "m = rho V = 3 x 300 = 900 g.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-083",
+      "q": "A solid has mass 900 g and density 3 g/cm^3. Find its volume.",
+      "o": [
+        "2700 cm^3",
+        "900 cm^3",
+        "300 cm^3",
+        "600 cm^3"
+      ],
+      "a": 2,
+      "e": "V = m/rho = 900/3 = 300 cm^3.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-084",
+      "q": "A substance has mass 750 g and volume 150 cm^3. What is its density?",
+      "o": [
+        "0.2 g/cm^3",
+        "5 g/cm^3",
+        "112500 g/cm^3",
+        "50 g/cm^3"
+      ],
+      "a": 1,
+      "e": "rho = 750/150 = 5 g/cm^3.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-085",
+      "q": "A sample has density 5 g/cm^3 and volume 150 cm^3. Find its mass.",
+      "o": [
+        "150 g",
+        "750 g",
+        "75 g",
+        "155 g"
+      ],
+      "a": 1,
+      "e": "m = rho V = 5 x 150 = 750 g.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-086",
+      "q": "A solid has mass 750 g and density 5 g/cm^3. Find its volume.",
+      "o": [
+        "750 cm^3",
+        "150 cm^3",
+        "300 cm^3",
+        "3750 cm^3"
+      ],
+      "a": 1,
+      "e": "V = m/rho = 750/5 = 150 cm^3.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-087",
+      "q": "A substance has mass 640 g and volume 80 cm^3. What is its density?",
+      "o": [
+        "0.125 g/cm^3",
+        "80 g/cm^3",
+        "51200 g/cm^3",
+        "8 g/cm^3"
+      ],
+      "a": 3,
+      "e": "rho = 640/80 = 8 g/cm^3.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-088",
+      "q": "A sample has density 8 g/cm^3 and volume 80 cm^3. Find its mass.",
+      "o": [
+        "80 g",
+        "640 g",
+        "64 g",
+        "88 g"
+      ],
+      "a": 1,
+      "e": "m = rho V = 8 x 80 = 640 g.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-089",
+      "q": "A solid has mass 640 g and density 8 g/cm^3. Find its volume.",
+      "o": [
+        "5120 cm^3",
+        "80 cm^3",
+        "640 cm^3",
+        "160 cm^3"
+      ],
+      "a": 1,
+      "e": "V = m/rho = 640/8 = 80 cm^3.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-090",
+      "q": "A substance has mass 840 g and volume 280 cm^3. What is its density?",
+      "o": [
+        "3 g/cm^3",
+        "0.333333 g/cm^3",
+        "235200 g/cm^3",
+        "30 g/cm^3"
+      ],
+      "a": 0,
+      "e": "rho = 840/280 = 3 g/cm^3.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-091",
+      "q": "A sample has density 3 g/cm^3 and volume 280 cm^3. Find its mass.",
+      "o": [
+        "840 g",
+        "280 g",
+        "283 g",
+        "84 g"
+      ],
+      "a": 0,
+      "e": "m = rho V = 3 x 280 = 840 g.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-092",
+      "q": "A solid has mass 840 g and density 3 g/cm^3. Find its volume.",
+      "o": [
+        "280 cm^3",
+        "840 cm^3",
+        "2520 cm^3",
+        "560 cm^3"
+      ],
+      "a": 0,
+      "e": "V = m/rho = 840/3 = 280 cm^3.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-093",
+      "q": "A substance has mass 420 g and volume 70 cm^3. What is its density?",
+      "o": [
+        "0.166667 g/cm^3",
+        "6 g/cm^3",
+        "60 g/cm^3",
+        "29400 g/cm^3"
+      ],
+      "a": 1,
+      "e": "rho = 420/70 = 6 g/cm^3.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-094",
+      "q": "A sample has density 6 g/cm^3 and volume 70 cm^3. Find its mass.",
+      "o": [
+        "420 g",
+        "42 g",
+        "76 g",
+        "70 g"
+      ],
+      "a": 0,
+      "e": "m = rho V = 6 x 70 = 420 g.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-095",
+      "q": "A solid has mass 420 g and density 6 g/cm^3. Find its volume.",
+      "o": [
+        "2520 cm^3",
+        "140 cm^3",
+        "70 cm^3",
+        "420 cm^3"
+      ],
+      "a": 2,
+      "e": "V = m/rho = 420/6 = 70 cm^3.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-096",
+      "q": "A substance has mass 180 g and volume 60 cm^3. What is its density?",
+      "o": [
+        "10800 g/cm^3",
+        "3 g/cm^3",
+        "0.333333 g/cm^3",
+        "30 g/cm^3"
+      ],
+      "a": 1,
+      "e": "rho = 180/60 = 3 g/cm^3.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-097",
+      "q": "A sample has density 3 g/cm^3 and volume 60 cm^3. Find its mass.",
+      "o": [
+        "63 g",
+        "180 g",
+        "60 g",
+        "18 g"
+      ],
+      "a": 1,
+      "e": "m = rho V = 3 x 60 = 180 g.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-098",
+      "q": "A solid has mass 180 g and density 3 g/cm^3. Find its volume.",
+      "o": [
+        "60 cm^3",
+        "180 cm^3",
+        "120 cm^3",
+        "540 cm^3"
+      ],
+      "a": 0,
+      "e": "V = m/rho = 180/3 = 60 cm^3.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-099",
+      "q": "A substance has mass 300 g and volume 75 cm^3. What is its density?",
+      "o": [
+        "22500 g/cm^3",
+        "4 g/cm^3",
+        "40 g/cm^3",
+        "0.25 g/cm^3"
+      ],
+      "a": 1,
+      "e": "rho = 300/75 = 4 g/cm^3.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-100",
+      "q": "A sample has density 4 g/cm^3 and volume 75 cm^3. Find its mass.",
+      "o": [
+        "79 g",
+        "300 g",
+        "75 g",
+        "30 g"
+      ],
+      "a": 1,
+      "e": "m = rho V = 4 x 75 = 300 g.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-101",
+      "q": "A solid has mass 300 g and density 4 g/cm^3. Find its volume.",
+      "o": [
+        "1200 cm^3",
+        "300 cm^3",
+        "75 cm^3",
+        "150 cm^3"
+      ],
+      "a": 2,
+      "e": "V = m/rho = 300/4 = 75 cm^3.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-102",
+      "q": "A substance has mass 960 g and volume 240 cm^3. What is its density?",
+      "o": [
+        "40 g/cm^3",
+        "4 g/cm^3",
+        "230400 g/cm^3",
+        "0.25 g/cm^3"
+      ],
+      "a": 1,
+      "e": "rho = 960/240 = 4 g/cm^3.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-103",
+      "q": "A sample has density 4 g/cm^3 and volume 240 cm^3. Find its mass.",
+      "o": [
+        "244 g",
+        "240 g",
+        "960 g",
+        "96 g"
+      ],
+      "a": 2,
+      "e": "m = rho V = 4 x 240 = 960 g.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-104",
+      "q": "A solid has mass 960 g and density 4 g/cm^3. Find its volume.",
+      "o": [
+        "480 cm^3",
+        "240 cm^3",
+        "960 cm^3",
+        "3840 cm^3"
+      ],
+      "a": 1,
+      "e": "V = m/rho = 960/4 = 240 cm^3.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-105",
+      "q": "A substance has mass 560 g and volume 140 cm^3. What is its density?",
+      "o": [
+        "40 g/cm^3",
+        "4 g/cm^3",
+        "78400 g/cm^3",
+        "0.25 g/cm^3"
+      ],
+      "a": 1,
+      "e": "rho = 560/140 = 4 g/cm^3.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-106",
+      "q": "A sample has density 4 g/cm^3 and volume 140 cm^3. Find its mass.",
+      "o": [
+        "144 g",
+        "140 g",
+        "56 g",
+        "560 g"
+      ],
+      "a": 3,
+      "e": "m = rho V = 4 x 140 = 560 g.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-107",
+      "q": "A solid has mass 560 g and density 4 g/cm^3. Find its volume.",
+      "o": [
+        "2240 cm^3",
+        "560 cm^3",
+        "140 cm^3",
+        "280 cm^3"
+      ],
+      "a": 2,
+      "e": "V = m/rho = 560/4 = 140 cm^3.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-108",
+      "q": "A substance has mass 720 g and volume 90 cm^3. What is its density?",
+      "o": [
+        "80 g/cm^3",
+        "0.125 g/cm^3",
+        "8 g/cm^3",
+        "64800 g/cm^3"
+      ],
+      "a": 2,
+      "e": "rho = 720/90 = 8 g/cm^3.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-109",
+      "q": "A sample has density 8 g/cm^3 and volume 90 cm^3. Find its mass.",
+      "o": [
+        "72 g",
+        "90 g",
+        "98 g",
+        "720 g"
+      ],
+      "a": 3,
+      "e": "m = rho V = 8 x 90 = 720 g.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-110",
+      "q": "A solid has mass 720 g and density 8 g/cm^3. Find its volume.",
+      "o": [
+        "720 cm^3",
+        "90 cm^3",
+        "5760 cm^3",
+        "180 cm^3"
+      ],
+      "a": 1,
+      "e": "V = m/rho = 720/8 = 90 cm^3.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-111",
+      "q": "A substance has mass 450 g and volume 150 cm^3. What is its density?",
+      "o": [
+        "0.333333 g/cm^3",
+        "3 g/cm^3",
+        "67500 g/cm^3",
+        "30 g/cm^3"
+      ],
+      "a": 1,
+      "e": "rho = 450/150 = 3 g/cm^3.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-112",
+      "q": "A sample has density 3 g/cm^3 and volume 150 cm^3. Find its mass.",
+      "o": [
+        "450 g",
+        "150 g",
+        "153 g",
+        "45 g"
+      ],
+      "a": 0,
+      "e": "m = rho V = 3 x 150 = 450 g.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-113",
+      "q": "A solid has mass 450 g and density 3 g/cm^3. Find its volume.",
+      "o": [
+        "1350 cm^3",
+        "450 cm^3",
+        "150 cm^3",
+        "300 cm^3"
+      ],
+      "a": 2,
+      "e": "V = m/rho = 450/3 = 150 cm^3.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-114",
+      "q": "A substance has mass 800 g and volume 200 cm^3. What is its density?",
+      "o": [
+        "160000 g/cm^3",
+        "4 g/cm^3",
+        "40 g/cm^3",
+        "0.25 g/cm^3"
+      ],
+      "a": 1,
+      "e": "rho = 800/200 = 4 g/cm^3.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-115",
+      "q": "A sample has density 4 g/cm^3 and volume 200 cm^3. Find its mass.",
+      "o": [
+        "204 g",
+        "200 g",
+        "800 g",
+        "80 g"
+      ],
+      "a": 2,
+      "e": "m = rho V = 4 x 200 = 800 g.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-116",
+      "q": "A solid has mass 800 g and density 4 g/cm^3. Find its volume.",
+      "o": [
+        "800 cm^3",
+        "400 cm^3",
+        "200 cm^3",
+        "3200 cm^3"
+      ],
+      "a": 2,
+      "e": "V = m/rho = 800/4 = 200 cm^3.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-117",
+      "q": "A substance has mass 270 g and volume 90 cm^3. What is its density?",
+      "o": [
+        "30 g/cm^3",
+        "24300 g/cm^3",
+        "0.333333 g/cm^3",
+        "3 g/cm^3"
+      ],
+      "a": 3,
+      "e": "rho = 270/90 = 3 g/cm^3.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-118",
+      "q": "A sample has density 3 g/cm^3 and volume 90 cm^3. Find its mass.",
+      "o": [
+        "93 g",
+        "27 g",
+        "270 g",
+        "90 g"
+      ],
+      "a": 2,
+      "e": "m = rho V = 3 x 90 = 270 g.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-119",
+      "q": "A solid has mass 270 g and density 3 g/cm^3. Find its volume.",
+      "o": [
+        "90 cm^3",
+        "180 cm^3",
+        "270 cm^3",
+        "810 cm^3"
+      ],
+      "a": 0,
+      "e": "V = m/rho = 270/3 = 90 cm^3.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-120",
+      "q": "A substance has mass 144 g and volume 48 cm^3. What is its density?",
+      "o": [
+        "30 g/cm^3",
+        "0.333333 g/cm^3",
+        "6912 g/cm^3",
+        "3 g/cm^3"
+      ],
+      "a": 3,
+      "e": "rho = 144/48 = 3 g/cm^3.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-121",
+      "q": "A sample has density 3 g/cm^3 and volume 48 cm^3. Find its mass.",
+      "o": [
+        "144 g",
+        "48 g",
+        "14.4 g",
+        "51 g"
+      ],
+      "a": 0,
+      "e": "m = rho V = 3 x 48 = 144 g.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-122",
+      "q": "A solid has mass 144 g and density 3 g/cm^3. Find its volume.",
+      "o": [
+        "144 cm^3",
+        "432 cm^3",
+        "96 cm^3",
+        "48 cm^3"
+      ],
+      "a": 3,
+      "e": "V = m/rho = 144/3 = 48 cm^3.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-123",
+      "q": "A substance has mass 1000 g and volume 400 cm^3. What is its density?",
+      "o": [
+        "0.4 g/cm^3",
+        "25 g/cm^3",
+        "2.5 g/cm^3",
+        "400000 g/cm^3"
+      ],
+      "a": 2,
+      "e": "rho = 1000/400 = 2.5 g/cm^3.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-124",
+      "q": "A sample has density 2.5 g/cm^3 and volume 400 cm^3. Find its mass.",
+      "o": [
+        "400 g",
+        "100 g",
+        "1000 g",
+        "402.5 g"
+      ],
+      "a": 2,
+      "e": "m = rho V = 2.5 x 400 = 1000 g.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-125",
+      "q": "A solid has mass 1000 g and density 2.5 g/cm^3. Find its volume.",
+      "o": [
+        "800 cm^3",
+        "1000 cm^3",
+        "400 cm^3",
+        "2500 cm^3"
+      ],
+      "a": 2,
+      "e": "V = m/rho = 1000/2.5 = 400 cm^3.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-126",
+      "q": "A substance has mass 630 g and volume 210 cm^3. What is its density?",
+      "o": [
+        "3 g/cm^3",
+        "0.333333 g/cm^3",
+        "132300 g/cm^3",
+        "30 g/cm^3"
+      ],
+      "a": 0,
+      "e": "rho = 630/210 = 3 g/cm^3.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-127",
+      "q": "A sample has density 3 g/cm^3 and volume 210 cm^3. Find its mass.",
+      "o": [
+        "213 g",
+        "630 g",
+        "210 g",
+        "63 g"
+      ],
+      "a": 1,
+      "e": "m = rho V = 3 x 210 = 630 g.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-128",
+      "q": "A solid has mass 630 g and density 3 g/cm^3. Find its volume.",
+      "o": [
+        "1890 cm^3",
+        "420 cm^3",
+        "210 cm^3",
+        "630 cm^3"
+      ],
+      "a": 2,
+      "e": "V = m/rho = 630/3 = 210 cm^3.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-129",
+      "q": "A substance has mass 525 g and volume 175 cm^3. What is its density?",
+      "o": [
+        "91875 g/cm^3",
+        "3 g/cm^3",
+        "0.333333 g/cm^3",
+        "30 g/cm^3"
+      ],
+      "a": 1,
+      "e": "rho = 525/175 = 3 g/cm^3.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-130",
+      "q": "A sample has density 3 g/cm^3 and volume 175 cm^3. Find its mass.",
+      "o": [
+        "52.5 g",
+        "178 g",
+        "175 g",
+        "525 g"
+      ],
+      "a": 3,
+      "e": "m = rho V = 3 x 175 = 525 g.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-131",
+      "q": "A solid has mass 525 g and density 3 g/cm^3. Find its volume.",
+      "o": [
+        "350 cm^3",
+        "175 cm^3",
+        "525 cm^3",
+        "1575 cm^3"
+      ],
+      "a": 1,
+      "e": "V = m/rho = 525/3 = 175 cm^3.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-132",
+      "q": "A substance has mass 660 g and volume 220 cm^3. What is its density?",
+      "o": [
+        "30 g/cm^3",
+        "3 g/cm^3",
+        "0.333333 g/cm^3",
+        "145200 g/cm^3"
+      ],
+      "a": 1,
+      "e": "rho = 660/220 = 3 g/cm^3.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-133",
+      "q": "A sample has density 3 g/cm^3 and volume 220 cm^3. Find its mass.",
+      "o": [
+        "220 g",
+        "66 g",
+        "223 g",
+        "660 g"
+      ],
+      "a": 3,
+      "e": "m = rho V = 3 x 220 = 660 g.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-134",
+      "q": "A solid has mass 660 g and density 3 g/cm^3. Find its volume.",
+      "o": [
+        "440 cm^3",
+        "220 cm^3",
+        "660 cm^3",
+        "1980 cm^3"
+      ],
+      "a": 1,
+      "e": "V = m/rho = 660/3 = 220 cm^3.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-135",
+      "q": "A substance has mass 240 g and volume 30 cm^3. What is its density?",
+      "o": [
+        "0.125 g/cm^3",
+        "7200 g/cm^3",
+        "8 g/cm^3",
+        "80 g/cm^3"
+      ],
+      "a": 2,
+      "e": "rho = 240/30 = 8 g/cm^3.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-136",
+      "q": "A sample has density 8 g/cm^3 and volume 30 cm^3. Find its mass.",
+      "o": [
+        "240 g",
+        "24 g",
+        "38 g",
+        "30 g"
+      ],
+      "a": 0,
+      "e": "m = rho V = 8 x 30 = 240 g.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-137",
+      "q": "A solid has mass 240 g and density 8 g/cm^3. Find its volume.",
+      "o": [
+        "1920 cm^3",
+        "60 cm^3",
+        "30 cm^3",
+        "240 cm^3"
+      ],
+      "a": 2,
+      "e": "V = m/rho = 240/8 = 30 cm^3.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-138",
+      "q": "A substance has mass 390 g and volume 130 cm^3. What is its density?",
+      "o": [
+        "3 g/cm^3",
+        "0.333333 g/cm^3",
+        "50700 g/cm^3",
+        "30 g/cm^3"
+      ],
+      "a": 0,
+      "e": "rho = 390/130 = 3 g/cm^3.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-139",
+      "q": "A sample has density 3 g/cm^3 and volume 130 cm^3. Find its mass.",
+      "o": [
+        "130 g",
+        "133 g",
+        "390 g",
+        "39 g"
+      ],
+      "a": 2,
+      "e": "m = rho V = 3 x 130 = 390 g.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-140",
+      "q": "A solid has mass 390 g and density 3 g/cm^3. Find its volume.",
+      "o": [
+        "1170 cm^3",
+        "130 cm^3",
+        "390 cm^3",
+        "260 cm^3"
+      ],
+      "a": 1,
+      "e": "V = m/rho = 390/3 = 130 cm^3.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-141",
+      "q": "A substance has mass 480 g and volume 160 cm^3. What is its density?",
+      "o": [
+        "3 g/cm^3",
+        "76800 g/cm^3",
+        "0.333333 g/cm^3",
+        "30 g/cm^3"
+      ],
+      "a": 0,
+      "e": "rho = 480/160 = 3 g/cm^3.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-142",
+      "q": "A sample has density 3 g/cm^3 and volume 160 cm^3. Find its mass.",
+      "o": [
+        "160 g",
+        "480 g",
+        "48 g",
+        "163 g"
+      ],
+      "a": 1,
+      "e": "m = rho V = 3 x 160 = 480 g.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-143",
+      "q": "A solid has mass 480 g and density 3 g/cm^3. Find its volume.",
+      "o": [
+        "320 cm^3",
+        "160 cm^3",
+        "1440 cm^3",
+        "480 cm^3"
+      ],
+      "a": 1,
+      "e": "V = m/rho = 480/3 = 160 cm^3.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-144",
+      "q": "A substance has mass 1050 g and volume 350 cm^3. What is its density?",
+      "o": [
+        "30 g/cm^3",
+        "367500 g/cm^3",
+        "0.333333 g/cm^3",
+        "3 g/cm^3"
+      ],
+      "a": 3,
+      "e": "rho = 1050/350 = 3 g/cm^3.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-145",
+      "q": "A sample has density 3 g/cm^3 and volume 350 cm^3. Find its mass.",
+      "o": [
+        "353 g",
+        "105 g",
+        "1050 g",
+        "350 g"
+      ],
+      "a": 2,
+      "e": "m = rho V = 3 x 350 = 1050 g.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-146",
+      "q": "A solid has mass 1050 g and density 3 g/cm^3. Find its volume.",
+      "o": [
+        "3150 cm^3",
+        "700 cm^3",
+        "350 cm^3",
+        "1050 cm^3"
+      ],
+      "a": 2,
+      "e": "V = m/rho = 1050/3 = 350 cm^3.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-147",
+      "q": "A substance has mass 360 g and volume 90 cm^3. What is its density?",
+      "o": [
+        "0.25 g/cm^3",
+        "32400 g/cm^3",
+        "40 g/cm^3",
+        "4 g/cm^3"
+      ],
+      "a": 3,
+      "e": "rho = 360/90 = 4 g/cm^3.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-148",
+      "q": "A sample has density 4 g/cm^3 and volume 90 cm^3. Find its mass.",
+      "o": [
+        "90 g",
+        "360 g",
+        "94 g",
+        "36 g"
+      ],
+      "a": 1,
+      "e": "m = rho V = 4 x 90 = 360 g.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-149",
+      "q": "A solid has mass 360 g and density 4 g/cm^3. Find its volume.",
+      "o": [
+        "1440 cm^3",
+        "360 cm^3",
+        "180 cm^3",
+        "90 cm^3"
+      ],
+      "a": 3,
+      "e": "V = m/rho = 360/4 = 90 cm^3.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-150",
+      "q": "A substance has mass 600 g and volume 120 cm^3. What is its density?",
+      "o": [
+        "5 g/cm^3",
+        "72000 g/cm^3",
+        "50 g/cm^3",
+        "0.2 g/cm^3"
+      ],
+      "a": 0,
+      "e": "rho = 600/120 = 5 g/cm^3.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-151",
+      "q": "A sample has density 5 g/cm^3 and volume 120 cm^3. Find its mass.",
+      "o": [
+        "60 g",
+        "125 g",
+        "600 g",
+        "120 g"
+      ],
+      "a": 2,
+      "e": "m = rho V = 5 x 120 = 600 g.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-152",
+      "q": "A solid has mass 600 g and density 5 g/cm^3. Find its volume.",
+      "o": [
+        "3000 cm^3",
+        "120 cm^3",
+        "240 cm^3",
+        "600 cm^3"
+      ],
+      "a": 1,
+      "e": "V = m/rho = 600/5 = 120 cm^3.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-153",
+      "q": "A substance has mass 200 g and volume 50 cm^3. What is its density?",
+      "o": [
+        "10000 g/cm^3",
+        "0.25 g/cm^3",
+        "4 g/cm^3",
+        "40 g/cm^3"
+      ],
+      "a": 2,
+      "e": "rho = 200/50 = 4 g/cm^3.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-154",
+      "q": "A sample has density 4 g/cm^3 and volume 50 cm^3. Find its mass.",
+      "o": [
+        "50 g",
+        "20 g",
+        "54 g",
+        "200 g"
+      ],
+      "a": 3,
+      "e": "m = rho V = 4 x 50 = 200 g.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-155",
+      "q": "A solid has mass 200 g and density 4 g/cm^3. Find its volume.",
+      "o": [
+        "50 cm^3",
+        "800 cm^3",
+        "200 cm^3",
+        "100 cm^3"
+      ],
+      "a": 0,
+      "e": "V = m/rho = 200/4 = 50 cm^3.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-156",
+      "q": "A substance has mass 720 g and volume 180 cm^3. What is its density?",
+      "o": [
+        "4 g/cm^3",
+        "0.25 g/cm^3",
+        "40 g/cm^3",
+        "129600 g/cm^3"
+      ],
+      "a": 0,
+      "e": "rho = 720/180 = 4 g/cm^3.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-157",
+      "q": "A sample has density 4 g/cm^3 and volume 180 cm^3. Find its mass.",
+      "o": [
+        "72 g",
+        "720 g",
+        "184 g",
+        "180 g"
+      ],
+      "a": 1,
+      "e": "m = rho V = 4 x 180 = 720 g.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-158",
+      "q": "A solid has mass 720 g and density 4 g/cm^3. Find its volume.",
+      "o": [
+        "180 cm^3",
+        "2880 cm^3",
+        "360 cm^3",
+        "720 cm^3"
+      ],
+      "a": 0,
+      "e": "V = m/rho = 720/4 = 180 cm^3.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-159",
+      "q": "An irregular object raises water in a measuring cylinder from 20 mL to 55 mL. Find its volume.",
+      "o": [
+        "35 cm^3",
+        "75 cm^3",
+        "55 cm^3",
+        "20 cm^3"
+      ],
+      "a": 0,
+      "e": "Volume = 55-20 = 35 mL = 35 cm^3.",
+      "d": "Medium",
+      "topic": "Measurement",
+      "slo": "P-09-C-02"
+    },
+    {
+      "id": "PHY9CH7-160",
+      "q": "An irregular object raises water in a measuring cylinder from 30 mL to 80 mL. Find its volume.",
+      "o": [
+        "30 cm^3",
+        "110 cm^3",
+        "80 cm^3",
+        "50 cm^3"
+      ],
+      "a": 3,
+      "e": "Volume = 80-30 = 50 mL = 50 cm^3.",
+      "d": "Medium",
+      "topic": "Measurement",
+      "slo": "P-09-C-02"
+    },
+    {
+      "id": "PHY9CH7-161",
+      "q": "An irregular object raises water in a measuring cylinder from 45 mL to 95 mL. Find its volume.",
+      "o": [
+        "45 cm^3",
+        "140 cm^3",
+        "50 cm^3",
+        "95 cm^3"
+      ],
+      "a": 2,
+      "e": "Volume = 95-45 = 50 mL = 50 cm^3.",
+      "d": "Medium",
+      "topic": "Measurement",
+      "slo": "P-09-C-02"
+    },
+    {
+      "id": "PHY9CH7-162",
+      "q": "An irregular object raises water in a measuring cylinder from 50 mL to 125 mL. Find its volume.",
+      "o": [
+        "50 cm^3",
+        "75 cm^3",
+        "125 cm^3",
+        "175 cm^3"
+      ],
+      "a": 1,
+      "e": "Volume = 125-50 = 75 mL = 75 cm^3.",
+      "d": "Medium",
+      "topic": "Measurement",
+      "slo": "P-09-C-02"
+    },
+    {
+      "id": "PHY9CH7-163",
+      "q": "An irregular object raises water in a measuring cylinder from 60 mL to 90 mL. Find its volume.",
+      "o": [
+        "150 cm^3",
+        "60 cm^3",
+        "30 cm^3",
+        "90 cm^3"
+      ],
+      "a": 2,
+      "e": "Volume = 90-60 = 30 mL = 30 cm^3.",
+      "d": "Medium",
+      "topic": "Measurement",
+      "slo": "P-09-C-02"
+    },
+    {
+      "id": "PHY9CH7-164",
+      "q": "An irregular object raises water in a measuring cylinder from 75 mL to 140 mL. Find its volume.",
+      "o": [
+        "140 cm^3",
+        "215 cm^3",
+        "65 cm^3",
+        "75 cm^3"
+      ],
+      "a": 2,
+      "e": "Volume = 140-75 = 65 mL = 65 cm^3.",
+      "d": "Medium",
+      "topic": "Measurement",
+      "slo": "P-09-C-02"
+    },
+    {
+      "id": "PHY9CH7-165",
+      "q": "An irregular object raises water in a measuring cylinder from 80 mL to 130 mL. Find its volume.",
+      "o": [
+        "130 cm^3",
+        "210 cm^3",
+        "50 cm^3",
+        "80 cm^3"
+      ],
+      "a": 2,
+      "e": "Volume = 130-80 = 50 mL = 50 cm^3.",
+      "d": "Medium",
+      "topic": "Measurement",
+      "slo": "P-09-C-02"
+    },
+    {
+      "id": "PHY9CH7-166",
+      "q": "An irregular object raises water in a measuring cylinder from 90 mL to 160 mL. Find its volume.",
+      "o": [
+        "70 cm^3",
+        "160 cm^3",
+        "250 cm^3",
+        "90 cm^3"
+      ],
+      "a": 0,
+      "e": "Volume = 160-90 = 70 mL = 70 cm^3.",
+      "d": "Medium",
+      "topic": "Measurement",
+      "slo": "P-09-C-02"
+    },
+    {
+      "id": "PHY9CH7-167",
+      "q": "An irregular object raises water in a measuring cylinder from 100 mL to 175 mL. Find its volume.",
+      "o": [
+        "275 cm^3",
+        "75 cm^3",
+        "175 cm^3",
+        "100 cm^3"
+      ],
+      "a": 1,
+      "e": "Volume = 175-100 = 75 mL = 75 cm^3.",
+      "d": "Medium",
+      "topic": "Measurement",
+      "slo": "P-09-C-02"
+    },
+    {
+      "id": "PHY9CH7-168",
+      "q": "An irregular object raises water in a measuring cylinder from 110 mL to 190 mL. Find its volume.",
+      "o": [
+        "300 cm^3",
+        "190 cm^3",
+        "110 cm^3",
+        "80 cm^3"
+      ],
+      "a": 3,
+      "e": "Volume = 190-110 = 80 mL = 80 cm^3.",
+      "d": "Medium",
+      "topic": "Measurement",
+      "slo": "P-09-C-02"
+    },
+    {
+      "id": "PHY9CH7-169",
+      "q": "An irregular object raises water in a measuring cylinder from 25 mL to 70 mL. Find its volume.",
+      "o": [
+        "70 cm^3",
+        "95 cm^3",
+        "25 cm^3",
+        "45 cm^3"
+      ],
+      "a": 3,
+      "e": "Volume = 70-25 = 45 mL = 45 cm^3.",
+      "d": "Medium",
+      "topic": "Measurement",
+      "slo": "P-09-C-02"
+    },
+    {
+      "id": "PHY9CH7-170",
+      "q": "An irregular object raises water in a measuring cylinder from 40 mL to 115 mL. Find its volume.",
+      "o": [
+        "155 cm^3",
+        "115 cm^3",
+        "40 cm^3",
+        "75 cm^3"
+      ],
+      "a": 3,
+      "e": "Volume = 115-40 = 75 mL = 75 cm^3.",
+      "d": "Medium",
+      "topic": "Measurement",
+      "slo": "P-09-C-02"
+    },
+    {
+      "id": "PHY9CH7-171",
+      "q": "An irregular object raises water in a measuring cylinder from 55 mL to 120 mL. Find its volume.",
+      "o": [
+        "65 cm^3",
+        "120 cm^3",
+        "175 cm^3",
+        "55 cm^3"
+      ],
+      "a": 0,
+      "e": "Volume = 120-55 = 65 mL = 65 cm^3.",
+      "d": "Medium",
+      "topic": "Measurement",
+      "slo": "P-09-C-02"
+    },
+    {
+      "id": "PHY9CH7-172",
+      "q": "An irregular object raises water in a measuring cylinder from 65 mL to 145 mL. Find its volume.",
+      "o": [
+        "80 cm^3",
+        "210 cm^3",
+        "65 cm^3",
+        "145 cm^3"
+      ],
+      "a": 0,
+      "e": "Volume = 145-65 = 80 mL = 80 cm^3.",
+      "d": "Medium",
+      "topic": "Measurement",
+      "slo": "P-09-C-02"
+    },
+    {
+      "id": "PHY9CH7-173",
+      "q": "An irregular object raises water in a measuring cylinder from 35 mL to 85 mL. Find its volume.",
+      "o": [
+        "85 cm^3",
+        "120 cm^3",
+        "35 cm^3",
+        "50 cm^3"
+      ],
+      "a": 3,
+      "e": "Volume = 85-35 = 50 mL = 50 cm^3.",
+      "d": "Medium",
+      "topic": "Measurement",
+      "slo": "P-09-C-02"
+    },
+    {
+      "id": "PHY9CH7-174",
+      "q": "An irregular object raises water in a measuring cylinder from 120 mL to 210 mL. Find its volume.",
+      "o": [
+        "330 cm^3",
+        "210 cm^3",
+        "120 cm^3",
+        "90 cm^3"
+      ],
+      "a": 3,
+      "e": "Volume = 210-120 = 90 mL = 90 cm^3.",
+      "d": "Medium",
+      "topic": "Measurement",
+      "slo": "P-09-C-02"
+    },
+    {
+      "id": "PHY9CH7-175",
+      "q": "An irregular object raises water in a measuring cylinder from 70 mL to 155 mL. Find its volume.",
+      "o": [
+        "155 cm^3",
+        "70 cm^3",
+        "85 cm^3",
+        "225 cm^3"
+      ],
+      "a": 2,
+      "e": "Volume = 155-70 = 85 mL = 85 cm^3.",
+      "d": "Medium",
+      "topic": "Measurement",
+      "slo": "P-09-C-02"
+    },
+    {
+      "id": "PHY9CH7-176",
+      "q": "An irregular object raises water in a measuring cylinder from 85 mL to 170 mL. Find its volume.",
+      "o": [
+        "170 cm^3",
+        "11 (alternative)",
+        "255 cm^3",
+        "85 cm^3"
+      ],
+      "a": 3,
+      "e": "Volume = 170-85 = 85 mL = 85 cm^3.",
+      "d": "Medium",
+      "topic": "Measurement",
+      "slo": "P-09-C-02"
+    },
+    {
+      "id": "PHY9CH7-177",
+      "q": "An irregular object raises water in a measuring cylinder from 95 mL to 180 mL. Find its volume.",
+      "o": [
+        "180 cm^3",
+        "95 cm^3",
+        "275 cm^3",
+        "85 cm^3"
+      ],
+      "a": 3,
+      "e": "Volume = 180-95 = 85 mL = 85 cm^3.",
+      "d": "Medium",
+      "topic": "Measurement",
+      "slo": "P-09-C-02"
+    },
+    {
+      "id": "PHY9CH7-178",
+      "q": "An irregular object raises water in a measuring cylinder from 105 mL to 165 mL. Find its volume.",
+      "o": [
+        "105 cm^3",
+        "165 cm^3",
+        "60 cm^3",
+        "270 cm^3"
+      ],
+      "a": 2,
+      "e": "Volume = 165-105 = 60 mL = 60 cm^3.",
+      "d": "Medium",
+      "topic": "Measurement",
+      "slo": "P-09-C-02"
+    },
+    {
+      "id": "PHY9CH7-179",
+      "q": "An empty cylinder has mass 50 g. With 60 mL liquid its mass is 170 g. What is the liquid density?",
+      "o": [
+        "2.83333 g/mL",
+        "7200 g/mL",
+        "2 g/mL",
+        "0.833333 g/mL"
+      ],
+      "a": 2,
+      "e": "Liquid mass = 170-50 = 120 g; density = 120/60 = 2 g/mL.",
+      "d": "Medium",
+      "topic": "Measurement",
+      "slo": "P-09-C-02"
+    },
+    {
+      "id": "PHY9CH7-180",
+      "q": "An empty cylinder has mass 80 g. With 90 mL liquid its mass is 260 g. What is the liquid density?",
+      "o": [
+        "2.88889 g/mL",
+        "2 g/mL",
+        "0.888889 g/mL",
+        "16200 g/mL"
+      ],
+      "a": 1,
+      "e": "Liquid mass = 260-80 = 180 g; density = 180/90 = 2 g/mL.",
+      "d": "Medium",
+      "topic": "Measurement",
+      "slo": "P-09-C-02"
+    },
+    {
+      "id": "PHY9CH7-181",
+      "q": "An empty cylinder has mass 40 g. With 50 mL liquid its mass is 140 g. What is the liquid density?",
+      "o": [
+        "0.8 g/mL",
+        "2.8 g/mL",
+        "2 g/mL",
+        "5000 g/mL"
+      ],
+      "a": 2,
+      "e": "Liquid mass = 140-40 = 100 g; density = 100/50 = 2 g/mL.",
+      "d": "Medium",
+      "topic": "Measurement",
+      "slo": "P-09-C-02"
+    },
+    {
+      "id": "PHY9CH7-182",
+      "q": "An empty cylinder has mass 100 g. With 120 mL liquid its mass is 340 g. What is the liquid density?",
+      "o": [
+        "2 g/mL",
+        "0.833333 g/mL",
+        "2.83333 g/mL",
+        "28800 g/mL"
+      ],
+      "a": 0,
+      "e": "Liquid mass = 340-100 = 240 g; density = 240/120 = 2 g/mL.",
+      "d": "Medium",
+      "topic": "Measurement",
+      "slo": "P-09-C-02"
+    },
+    {
+      "id": "PHY9CH7-183",
+      "q": "An empty cylinder has mass 70 g. With 60 mL liquid its mass is 190 g. What is the liquid density?",
+      "o": [
+        "2 g/mL",
+        "1.16667 g/mL",
+        "7200 g/mL",
+        "3.16667 g/mL"
+      ],
+      "a": 0,
+      "e": "Liquid mass = 190-70 = 120 g; density = 120/60 = 2 g/mL.",
+      "d": "Medium",
+      "topic": "Measurement",
+      "slo": "P-09-C-02"
+    },
+    {
+      "id": "PHY9CH7-184",
+      "q": "An empty cylinder has mass 55 g. With 75 mL liquid its mass is 205 g. What is the liquid density?",
+      "o": [
+        "11250 g/mL",
+        "2.73333 g/mL",
+        "2 g/mL",
+        "0.733333 g/mL"
+      ],
+      "a": 2,
+      "e": "Liquid mass = 205-55 = 150 g; density = 150/75 = 2 g/mL.",
+      "d": "Medium",
+      "topic": "Measurement",
+      "slo": "P-09-C-02"
+    },
+    {
+      "id": "PHY9CH7-185",
+      "q": "An empty cylinder has mass 90 g. With 90 mL liquid its mass is 270 g. What is the liquid density?",
+      "o": [
+        "1 g/mL",
+        "3 g/mL",
+        "16200 g/mL",
+        "2 g/mL"
+      ],
+      "a": 3,
+      "e": "Liquid mass = 270-90 = 180 g; density = 180/90 = 2 g/mL.",
+      "d": "Medium",
+      "topic": "Measurement",
+      "slo": "P-09-C-02"
+    },
+    {
+      "id": "PHY9CH7-186",
+      "q": "An empty cylinder has mass 120 g. With 120 mL liquid its mass is 360 g. What is the liquid density?",
+      "o": [
+        "3 g/mL",
+        "28800 g/mL",
+        "1 g/mL",
+        "2 g/mL"
+      ],
+      "a": 3,
+      "e": "Liquid mass = 360-120 = 240 g; density = 240/120 = 2 g/mL.",
+      "d": "Medium",
+      "topic": "Measurement",
+      "slo": "P-09-C-02"
+    },
+    {
+      "id": "PHY9CH7-187",
+      "q": "An empty cylinder has mass 45 g. With 75 mL liquid its mass is 195 g. What is the liquid density?",
+      "o": [
+        "11250 g/mL",
+        "2 g/mL",
+        "0.6 g/mL",
+        "2.6 g/mL"
+      ],
+      "a": 1,
+      "e": "Liquid mass = 195-45 = 150 g; density = 150/75 = 2 g/mL.",
+      "d": "Medium",
+      "topic": "Measurement",
+      "slo": "P-09-C-02"
+    },
+    {
+      "id": "PHY9CH7-188",
+      "q": "An empty cylinder has mass 60 g. With 120 mL liquid its mass is 300 g. What is the liquid density?",
+      "o": [
+        "2 g/mL",
+        "28800 g/mL",
+        "2.5 g/mL",
+        "0.5 g/mL"
+      ],
+      "a": 0,
+      "e": "Liquid mass = 300-60 = 240 g; density = 240/120 = 2 g/mL.",
+      "d": "Medium",
+      "topic": "Measurement",
+      "slo": "P-09-C-02"
+    },
+    {
+      "id": "PHY9CH7-189",
+      "q": "An empty cylinder has mass 85 g. With 100 mL liquid its mass is 285 g. What is the liquid density?",
+      "o": [
+        "2.85 g/mL",
+        "0.85 g/mL",
+        "2 g/mL",
+        "20000 g/mL"
+      ],
+      "a": 2,
+      "e": "Liquid mass = 285-85 = 200 g; density = 200/100 = 2 g/mL.",
+      "d": "Medium",
+      "topic": "Measurement",
+      "slo": "P-09-C-02"
+    },
+    {
+      "id": "PHY9CH7-190",
+      "q": "An empty cylinder has mass 110 g. With 120 mL liquid its mass is 350 g. What is the liquid density?",
+      "o": [
+        "2.91667 g/mL",
+        "2 g/mL",
+        "28800 g/mL",
+        "0.916667 g/mL"
+      ],
+      "a": 1,
+      "e": "Liquid mass = 350-110 = 240 g; density = 240/120 = 2 g/mL.",
+      "d": "Medium",
+      "topic": "Measurement",
+      "slo": "P-09-C-02"
+    },
+    {
+      "id": "PHY9CH7-191",
+      "q": "An empty cylinder has mass 35 g. With 50 mL liquid its mass is 135 g. What is the liquid density?",
+      "o": [
+        "2 g/mL",
+        "5000 g/mL",
+        "2.7 g/mL",
+        "0.7 g/mL"
+      ],
+      "a": 0,
+      "e": "Liquid mass = 135-35 = 100 g; density = 100/50 = 2 g/mL.",
+      "d": "Medium",
+      "topic": "Measurement",
+      "slo": "P-09-C-02"
+    },
+    {
+      "id": "PHY9CH7-192",
+      "q": "An empty cylinder has mass 65 g. With 90 mL liquid its mass is 245 g. What is the liquid density?",
+      "o": [
+        "16200 g/mL",
+        "2 g/mL",
+        "2.72222 g/mL",
+        "0.722222 g/mL"
+      ],
+      "a": 1,
+      "e": "Liquid mass = 245-65 = 180 g; density = 180/90 = 2 g/mL.",
+      "d": "Medium",
+      "topic": "Measurement",
+      "slo": "P-09-C-02"
+    },
+    {
+      "id": "PHY9CH7-193",
+      "q": "An empty cylinder has mass 95 g. With 100 mL liquid its mass is 295 g. What is the liquid density?",
+      "o": [
+        "0.95 g/mL",
+        "2 g/mL",
+        "2.95 g/mL",
+        "20000 g/mL"
+      ],
+      "a": 1,
+      "e": "Liquid mass = 295-95 = 200 g; density = 200/100 = 2 g/mL.",
+      "d": "Medium",
+      "topic": "Measurement",
+      "slo": "P-09-C-02"
+    },
+    {
+      "id": "PHY9CH7-194",
+      "q": "Using K = degrees C + 273, convert -20 degrees C to kelvin.",
+      "o": [
+        "293 K",
+        "253 K",
+        "353 K",
+        "-20 K"
+      ],
+      "a": 1,
+      "e": "-20 + 273 = 253 K.",
+      "d": "Medium",
+      "topic": "Calibration",
+      "slo": "P-09-C-08"
+    },
+    {
+      "id": "PHY9CH7-195",
+      "q": "Using K = degrees C + 273, convert -10 degrees C to kelvin.",
+      "o": [
+        "-10 K",
+        "283 K",
+        "263 K",
+        "363 K"
+      ],
+      "a": 2,
+      "e": "-10 + 273 = 263 K.",
+      "d": "Medium",
+      "topic": "Calibration",
+      "slo": "P-09-C-08"
+    },
+    {
+      "id": "PHY9CH7-196",
+      "q": "Using K = degrees C + 273, convert 0 degrees C to kelvin.",
+      "o": [
+        "373 K",
+        "11 (alternative)",
+        "0 K",
+        "273 K"
+      ],
+      "a": 3,
+      "e": "0 + 273 = 273 K.",
+      "d": "Medium",
+      "topic": "Calibration",
+      "slo": "P-09-C-08"
+    },
+    {
+      "id": "PHY9CH7-197",
+      "q": "Using K = degrees C + 273, convert 5 degrees C to kelvin.",
+      "o": [
+        "278 K",
+        "378 K",
+        "268 K",
+        "5 K"
+      ],
+      "a": 0,
+      "e": "5 + 273 = 278 K.",
+      "d": "Medium",
+      "topic": "Calibration",
+      "slo": "P-09-C-08"
+    },
+    {
+      "id": "PHY9CH7-198",
+      "q": "Using K = degrees C + 273, convert 10 degrees C to kelvin.",
+      "o": [
+        "283 K",
+        "383 K",
+        "263 K",
+        "10 K"
+      ],
+      "a": 0,
+      "e": "10 + 273 = 283 K.",
+      "d": "Medium",
+      "topic": "Calibration",
+      "slo": "P-09-C-08"
+    },
+    {
+      "id": "PHY9CH7-199",
+      "q": "Using K = degrees C + 273, convert 15 degrees C to kelvin.",
+      "o": [
+        "258 K",
+        "288 K",
+        "15 K",
+        "388 K"
+      ],
+      "a": 1,
+      "e": "15 + 273 = 288 K.",
+      "d": "Medium",
+      "topic": "Calibration",
+      "slo": "P-09-C-08"
+    },
+    {
+      "id": "PHY9CH7-200",
+      "q": "Using K = degrees C + 273, convert 20 degrees C to kelvin.",
+      "o": [
+        "293 K",
+        "20 K",
+        "253 K",
+        "393 K"
+      ],
+      "a": 0,
+      "e": "20 + 273 = 293 K.",
+      "d": "Medium",
+      "topic": "Calibration",
+      "slo": "P-09-C-08"
+    },
+    {
+      "id": "PHY9CH7-201",
+      "q": "Using K = degrees C + 273, convert 25 degrees C to kelvin.",
+      "o": [
+        "298 K",
+        "248 K",
+        "25 K",
+        "398 K"
+      ],
+      "a": 0,
+      "e": "25 + 273 = 298 K.",
+      "d": "Medium",
+      "topic": "Calibration",
+      "slo": "P-09-C-08"
+    },
+    {
+      "id": "PHY9CH7-202",
+      "q": "Using K = degrees C + 273, convert 30 degrees C to kelvin.",
+      "o": [
+        "30 K",
+        "403 K",
+        "303 K",
+        "243 K"
+      ],
+      "a": 2,
+      "e": "30 + 273 = 303 K.",
+      "d": "Medium",
+      "topic": "Calibration",
+      "slo": "P-09-C-08"
+    },
+    {
+      "id": "PHY9CH7-203",
+      "q": "Using K = degrees C + 273, convert 35 degrees C to kelvin.",
+      "o": [
+        "238 K",
+        "35 K",
+        "408 K",
+        "308 K"
+      ],
+      "a": 3,
+      "e": "35 + 273 = 308 K.",
+      "d": "Medium",
+      "topic": "Calibration",
+      "slo": "P-09-C-08"
+    },
+    {
+      "id": "PHY9CH7-204",
+      "q": "Using K = degrees C + 273, convert 40 degrees C to kelvin.",
+      "o": [
+        "413 K",
+        "313 K",
+        "40 K",
+        "233 K"
+      ],
+      "a": 1,
+      "e": "40 + 273 = 313 K.",
+      "d": "Medium",
+      "topic": "Calibration",
+      "slo": "P-09-C-08"
+    },
+    {
+      "id": "PHY9CH7-205",
+      "q": "Using K = degrees C + 273, convert 50 degrees C to kelvin.",
+      "o": [
+        "223 K",
+        "323 K",
+        "50 K",
+        "423 K"
+      ],
+      "a": 1,
+      "e": "50 + 273 = 323 K.",
+      "d": "Medium",
+      "topic": "Calibration",
+      "slo": "P-09-C-08"
+    },
+    {
+      "id": "PHY9CH7-206",
+      "q": "Using K = degrees C + 273, convert 60 degrees C to kelvin.",
+      "o": [
+        "433 K",
+        "333 K",
+        "213 K",
+        "60 K"
+      ],
+      "a": 1,
+      "e": "60 + 273 = 333 K.",
+      "d": "Medium",
+      "topic": "Calibration",
+      "slo": "P-09-C-08"
+    },
+    {
+      "id": "PHY9CH7-207",
+      "q": "Using K = degrees C + 273, convert 70 degrees C to kelvin.",
+      "o": [
+        "343 K",
+        "203 K",
+        "70 K",
+        "443 K"
+      ],
+      "a": 0,
+      "e": "70 + 273 = 343 K.",
+      "d": "Medium",
+      "topic": "Calibration",
+      "slo": "P-09-C-08"
+    },
+    {
+      "id": "PHY9CH7-208",
+      "q": "Using K = degrees C + 273, convert 80 degrees C to kelvin.",
+      "o": [
+        "80 K",
+        "353 K",
+        "453 K",
+        "193 K"
+      ],
+      "a": 1,
+      "e": "80 + 273 = 353 K.",
+      "d": "Medium",
+      "topic": "Calibration",
+      "slo": "P-09-C-08"
+    },
+    {
+      "id": "PHY9CH7-209",
+      "q": "Using K = degrees C + 273, convert 90 degrees C to kelvin.",
+      "o": [
+        "463 K",
+        "90 K",
+        "363 K",
+        "183 K"
+      ],
+      "a": 2,
+      "e": "90 + 273 = 363 K.",
+      "d": "Medium",
+      "topic": "Calibration",
+      "slo": "P-09-C-08"
+    },
+    {
+      "id": "PHY9CH7-210",
+      "q": "Using K = degrees C + 273, convert 100 degrees C to kelvin.",
+      "o": [
+        "473 K",
+        "100 K",
+        "373 K",
+        "173 K"
+      ],
+      "a": 2,
+      "e": "100 + 273 = 373 K.",
+      "d": "Medium",
+      "topic": "Calibration",
+      "slo": "P-09-C-08"
+    },
+    {
+      "id": "PHY9CH7-211",
+      "q": "Using K = degrees C + 273, convert 120 degrees C to kelvin.",
+      "o": [
+        "393 K",
+        "153 K",
+        "493 K",
+        "120 K"
+      ],
+      "a": 0,
+      "e": "120 + 273 = 393 K.",
+      "d": "Medium",
+      "topic": "Calibration",
+      "slo": "P-09-C-08"
+    },
+    {
+      "id": "PHY9CH7-212",
+      "q": "Using K = degrees C + 273, convert 150 degrees C to kelvin.",
+      "o": [
+        "423 K",
+        "150 K",
+        "123 K",
+        "523 K"
+      ],
+      "a": 0,
+      "e": "150 + 273 = 423 K.",
+      "d": "Medium",
+      "topic": "Calibration",
+      "slo": "P-09-C-08"
+    },
+    {
+      "id": "PHY9CH7-213",
+      "q": "Using K = degrees C + 273, convert 200 degrees C to kelvin.",
+      "o": [
+        "200 K",
+        "473 K",
+        "73 K",
+        "573 K"
+      ],
+      "a": 1,
+      "e": "200 + 273 = 473 K.",
+      "d": "Medium",
+      "topic": "Calibration",
+      "slo": "P-09-C-08"
+    },
+    {
+      "id": "PHY9CH7-214",
+      "q": "Convert -20 degrees C to Fahrenheit using F = (9/5)C + 32.",
+      "o": [
+        "-4 degrees F",
+        "12 degrees F",
+        "-20 degrees F",
+        "20.8889 degrees F"
+      ],
+      "a": 0,
+      "e": "F = 9/5 x (-20) + 32 = -4 F.",
+      "d": "Medium",
+      "topic": "Calibration",
+      "slo": "P-09-C-08"
+    },
+    {
+      "id": "PHY9CH7-215",
+      "q": "Convert -10 degrees C to Fahrenheit using F = (9/5)C + 32.",
+      "o": [
+        "26.4444 degrees F",
+        "14 degrees F",
+        "-10 degrees F",
+        "22 degrees F"
+      ],
+      "a": 1,
+      "e": "F = 9/5 x (-10) + 32 = 14 F.",
+      "d": "Medium",
+      "topic": "Calibration",
+      "slo": "P-09-C-08"
+    },
+    {
+      "id": "PHY9CH7-216",
+      "q": "Convert 0 degrees C to Fahrenheit using F = (9/5)C + 32.",
+      "o": [
+        "32 degrees F",
+        "22 (alternative)",
+        "11 (alternative)",
+        "0 degrees F"
+      ],
+      "a": 0,
+      "e": "F = 9/5 x (0) + 32 = 32 F.",
+      "d": "Medium",
+      "topic": "Calibration",
+      "slo": "P-09-C-08"
+    },
+    {
+      "id": "PHY9CH7-217",
+      "q": "Convert 10 degrees C to Fahrenheit using F = (9/5)C + 32.",
+      "o": [
+        "37.5556 degrees F",
+        "50 degrees F",
+        "10 degrees F",
+        "42 degrees F"
+      ],
+      "a": 1,
+      "e": "F = 9/5 x (10) + 32 = 50 F.",
+      "d": "Medium",
+      "topic": "Calibration",
+      "slo": "P-09-C-08"
+    },
+    {
+      "id": "PHY9CH7-218",
+      "q": "Convert 20 degrees C to Fahrenheit using F = (9/5)C + 32.",
+      "o": [
+        "20 degrees F",
+        "68 degrees F",
+        "43.1111 degrees F",
+        "52 degrees F"
+      ],
+      "a": 1,
+      "e": "F = 9/5 x (20) + 32 = 68 F.",
+      "d": "Medium",
+      "topic": "Calibration",
+      "slo": "P-09-C-08"
+    },
+    {
+      "id": "PHY9CH7-219",
+      "q": "Convert 25 degrees C to Fahrenheit using F = (9/5)C + 32.",
+      "o": [
+        "45.8889 degrees F",
+        "25 degrees F",
+        "77 degrees F",
+        "57 degrees F"
+      ],
+      "a": 2,
+      "e": "F = 9/5 x (25) + 32 = 77 F.",
+      "d": "Medium",
+      "topic": "Calibration",
+      "slo": "P-09-C-08"
+    },
+    {
+      "id": "PHY9CH7-220",
+      "q": "Convert 30 degrees C to Fahrenheit using F = (9/5)C + 32.",
+      "o": [
+        "30 degrees F",
+        "62 degrees F",
+        "48.6667 degrees F",
+        "86 degrees F"
+      ],
+      "a": 3,
+      "e": "F = 9/5 x (30) + 32 = 86 F.",
+      "d": "Medium",
+      "topic": "Calibration",
+      "slo": "P-09-C-08"
+    },
+    {
+      "id": "PHY9CH7-221",
+      "q": "Convert 40 degrees C to Fahrenheit using F = (9/5)C + 32.",
+      "o": [
+        "104 degrees F",
+        "54.2222 degrees F",
+        "72 degrees F",
+        "40 degrees F"
+      ],
+      "a": 0,
+      "e": "F = 9/5 x (40) + 32 = 104 F.",
+      "d": "Medium",
+      "topic": "Calibration",
+      "slo": "P-09-C-08"
+    },
+    {
+      "id": "PHY9CH7-222",
+      "q": "Convert 50 degrees C to Fahrenheit using F = (9/5)C + 32.",
+      "o": [
+        "122 degrees F",
+        "82 degrees F",
+        "59.7778 degrees F",
+        "50 degrees F"
+      ],
+      "a": 0,
+      "e": "F = 9/5 x (50) + 32 = 122 F.",
+      "d": "Medium",
+      "topic": "Calibration",
+      "slo": "P-09-C-08"
+    },
+    {
+      "id": "PHY9CH7-223",
+      "q": "Convert 60 degrees C to Fahrenheit using F = (9/5)C + 32.",
+      "o": [
+        "65.3333 degrees F",
+        "92 degrees F",
+        "60 degrees F",
+        "140 degrees F"
+      ],
+      "a": 3,
+      "e": "F = 9/5 x (60) + 32 = 140 F.",
+      "d": "Medium",
+      "topic": "Calibration",
+      "slo": "P-09-C-08"
+    },
+    {
+      "id": "PHY9CH7-224",
+      "q": "Convert 80 degrees C to Fahrenheit using F = (9/5)C + 32.",
+      "o": [
+        "76.4444 degrees F",
+        "80 degrees F",
+        "176 degrees F",
+        "112 degrees F"
+      ],
+      "a": 2,
+      "e": "F = 9/5 x (80) + 32 = 176 F.",
+      "d": "Medium",
+      "topic": "Calibration",
+      "slo": "P-09-C-08"
+    },
+    {
+      "id": "PHY9CH7-225",
+      "q": "Convert 100 degrees C to Fahrenheit using F = (9/5)C + 32.",
+      "o": [
+        "100 degrees F",
+        "87.5556 degrees F",
+        "212 degrees F",
+        "132 degrees F"
+      ],
+      "a": 2,
+      "e": "F = 9/5 x (100) + 32 = 212 F.",
+      "d": "Medium",
+      "topic": "Calibration",
+      "slo": "P-09-C-08"
+    },
+    {
+      "id": "PHY9CH7-226",
+      "q": "Convert 120 degrees C to Fahrenheit using F = (9/5)C + 32.",
+      "o": [
+        "248 degrees F",
+        "120 degrees F",
+        "152 degrees F",
+        "98.6667 degrees F"
+      ],
+      "a": 0,
+      "e": "F = 9/5 x (120) + 32 = 248 F.",
+      "d": "Medium",
+      "topic": "Calibration",
+      "slo": "P-09-C-08"
+    },
+    {
+      "id": "PHY9CH7-227",
+      "q": "Convert 150 degrees C to Fahrenheit using F = (9/5)C + 32.",
+      "o": [
+        "182 degrees F",
+        "150 degrees F",
+        "115.333 degrees F",
+        "302 degrees F"
+      ],
+      "a": 3,
+      "e": "F = 9/5 x (150) + 32 = 302 F.",
+      "d": "Medium",
+      "topic": "Calibration",
+      "slo": "P-09-C-08"
+    },
+    {
+      "id": "PHY9CH7-228",
+      "q": "Convert 200 degrees C to Fahrenheit using F = (9/5)C + 32.",
+      "o": [
+        "200 degrees F",
+        "143.111 degrees F",
+        "392 degrees F",
+        "232 degrees F"
+      ],
+      "a": 2,
+      "e": "F = 9/5 x (200) + 32 = 392 F.",
+      "d": "Medium",
+      "topic": "Calibration",
+      "slo": "P-09-C-08"
+    },
+    {
+      "id": "PHY9CH7-229",
+      "q": "Two identical-size blocks have masses 300 g and 600 g. Which is denser?",
+      "o": [
+        "The 300 g block",
+        "Density cannot be compared",
+        "The 600 g block",
+        "They have equal density"
+      ],
+      "a": 2,
+      "e": "At equal volume, greater mass means greater density.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-230",
+      "q": "A stone is lowered completely into water. Which measured quantity is the rise in water level used to find?",
+      "o": [
+        "Stone temperature",
+        "Stone weight",
+        "Stone mass",
+        "Stone volume"
+      ],
+      "a": 3,
+      "e": "Displaced water volume equals submerged stone volume.",
+      "d": "Medium",
+      "topic": "Measurement",
+      "slo": "P-09-C-02"
+    },
+    {
+      "id": "PHY9CH7-231",
+      "q": "A metal block is cut into two equal halves. The density of each half is:",
+      "o": [
+        "Doubled",
+        "Unchanged",
+        "Zero",
+        "Halved"
+      ],
+      "a": 1,
+      "e": "Both mass and volume halve.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-232",
+      "q": "A sealed gas is heated at fixed volume. Which property can a gas thermometer monitor?",
+      "o": [
+        "Number of particles",
+        "Pressure",
+        "Mass",
+        "Chemical formula"
+      ],
+      "a": 1,
+      "e": "Pressure rises with temperature at fixed volume.",
+      "d": "Medium",
+      "topic": "Thermometry",
+      "slo": "P-09-C-07"
+    },
+    {
+      "id": "PHY9CH7-233",
+      "q": "A temperature strip changes from green to blue on touching warm skin. It is most likely a:",
+      "o": [
+        "Mercury thermometer",
+        "Hydrometer",
+        "Spring balance",
+        "Liquid-crystal thermometer"
+      ],
+      "a": 3,
+      "e": "Liquid crystals change colour with temperature.",
+      "d": "Medium",
+      "topic": "Thermometry",
+      "slo": "P-09-C-07"
+    },
+    {
+      "id": "PHY9CH7-234",
+      "q": "An industrial furnace needs continuous temperature monitoring. Which sensor is appropriate?",
+      "o": [
+        "Clinical mercury thermometer",
+        "Thermocouple",
+        "Measuring cylinder",
+        "Stopwatch"
+      ],
+      "a": 1,
+      "e": "Thermocouples measure high temperatures.",
+      "d": "Medium",
+      "topic": "Types",
+      "slo": "P-09-C-10"
+    },
+    {
+      "id": "PHY9CH7-235",
+      "q": "A thermometer scale has equally spaced markings for equal temperature intervals. This shows:",
+      "o": [
+        "Elasticity",
+        "Compressibility",
+        "Linearity",
+        "Density"
+      ],
+      "a": 2,
+      "e": "Equal response per degree is linearity.",
+      "d": "Medium",
+      "topic": "Properties",
+      "slo": "P-09-C-09"
+    },
+    {
+      "id": "PHY9CH7-236",
+      "q": "A thermometer can measure -10 C to 110 C. This specification describes its:",
+      "o": [
+        "Range",
+        "Mass",
+        "Sensitivity",
+        "Volume"
+      ],
+      "a": 0,
+      "e": "Range is minimum to maximum measurable temperature.",
+      "d": "Medium",
+      "topic": "Properties",
+      "slo": "P-09-C-09"
+    },
+    {
+      "id": "PHY9CH7-237",
+      "q": "A thermometer registers a 0.2 C change but not a 0.05 C change. Its detectable increment is about:",
+      "o": [
+        "0.002 C",
+        "20 C",
+        "0.2 C",
+        "200 C"
+      ],
+      "a": 2,
+      "e": "The minimum resolvable change is about 0.2 C.",
+      "d": "Medium",
+      "topic": "Properties",
+      "slo": "P-09-C-09"
+    },
+    {
+      "id": "PHY9CH7-238",
+      "q": "A solid becomes a liquid when heated. What happens to particle freedom of movement?",
+      "o": [
+        "The mass becomes zero",
+        "It increases",
+        "All particles disappear",
+        "It becomes zero"
+      ],
+      "a": 1,
+      "e": "Liquid particles can move past one another.",
+      "d": "Medium",
+      "topic": "States",
+      "slo": "P-09-C-03"
+    },
+    {
+      "id": "PHY9CH7-239",
+      "q": "Which state would flow to fill the entire volume of a closed bottle?",
+      "o": [
+        "Crystal",
+        "Only ice",
+        "Gas",
+        "Solid"
+      ],
+      "a": 2,
+      "e": "Gas expands to fill available space.",
+      "d": "Medium",
+      "topic": "States",
+      "slo": "P-09-C-03"
+    },
+    {
+      "id": "PHY9CH7-240",
+      "q": "What happens to an ideal gas average particle kinetic energy when its temperature increases?",
+      "o": [
+        "It increases",
+        "It becomes negative",
+        "It remains zero",
+        "It decreases"
+      ],
+      "a": 0,
+      "e": "Average kinetic energy tracks absolute temperature.",
+      "d": "Medium",
+      "topic": "Temperature",
+      "slo": "P-09-C-05"
+    },
+    {
+      "id": "PHY9CH7-241",
+      "q": "A thermometer with a thinner capillary is compared with an otherwise identical wider one. Which is more sensitive?",
+      "o": [
+        "Wider capillary",
+        "Neither responds to heat",
+        "Both always identical",
+        "Thinner capillary"
+      ],
+      "a": 3,
+      "e": "A narrower capillary makes expansion more visible.",
+      "d": "Medium",
+      "topic": "Design",
+      "slo": "P-09-C-11"
+    },
+    {
+      "id": "PHY9CH7-242",
+      "q": "Which state has free electrons and positive ions?",
+      "o": [
+        "Plasma",
+        "Ice",
+        "Liquid water",
+        "Ordinary neutral gas only"
+      ],
+      "a": 0,
+      "e": "Ionization produces plasma.",
+      "d": "Medium",
+      "topic": "Plasma",
+      "slo": "P-09-C-04"
+    },
+    {
+      "id": "PHY9CH7-243",
+      "q": "A mass of 200 g occupies 100 cm^3. Another sample of the same material occupies 300 cm^3. Its mass should be:",
+      "o": [
+        "200 g",
+        "600 g",
+        "100 g",
+        "300 g"
+      ],
+      "a": 1,
+      "e": "Same density: 2 g/cm^3 x 300 cm^3 = 600 g.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-244",
+      "q": "A laboratory sample 1 has mass 120 g and occupies 20 cm^3. Calculate its density.",
+      "o": [
+        "0.167 g/cm^3",
+        "6 g/cm^3",
+        "7 g/cm^3",
+        "2400 g/cm^3"
+      ],
+      "a": 1,
+      "e": "Density = 120/20 = 6 g/cm^3.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-245",
+      "q": "A laboratory sample 2 has mass 140 g and occupies 25 cm^3. Calculate its density.",
+      "o": [
+        "6.6 g/cm^3",
+        "0.179 g/cm^3",
+        "5.6 g/cm^3",
+        "3500 g/cm^3"
+      ],
+      "a": 2,
+      "e": "Density = 140/25 = 5.6 g/cm^3.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-246",
+      "q": "A laboratory sample 3 has mass 160 g and occupies 30 cm^3. Calculate its density.",
+      "o": [
+        "4800 g/cm^3",
+        "5.33333 g/cm^3",
+        "0.188 g/cm^3",
+        "6.33333 g/cm^3"
+      ],
+      "a": 1,
+      "e": "Density = 160/30 = 5.33333 g/cm^3.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-247",
+      "q": "A laboratory sample 4 has mass 180 g and occupies 35 cm^3. Calculate its density.",
+      "o": [
+        "6.14286 g/cm^3",
+        "0.194 g/cm^3",
+        "6300 g/cm^3",
+        "5.14286 g/cm^3"
+      ],
+      "a": 3,
+      "e": "Density = 180/35 = 5.14286 g/cm^3.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-248",
+      "q": "A laboratory sample 5 has mass 200 g and occupies 40 cm^3. Calculate its density.",
+      "o": [
+        "5 g/cm^3",
+        "8000 g/cm^3",
+        "6 g/cm^3",
+        "0.200 g/cm^3"
+      ],
+      "a": 0,
+      "e": "Density = 200/40 = 5 g/cm^3.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-249",
+      "q": "A laboratory sample 6 has mass 220 g and occupies 45 cm^3. Calculate its density.",
+      "o": [
+        "4.88889 g/cm^3",
+        "9900 g/cm^3",
+        "5.88889 g/cm^3",
+        "0.205 g/cm^3"
+      ],
+      "a": 0,
+      "e": "Density = 220/45 = 4.88889 g/cm^3.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-250",
+      "q": "A laboratory sample 7 has mass 240 g and occupies 50 cm^3. Calculate its density.",
+      "o": [
+        "4.8 g/cm^3",
+        "12000 g/cm^3",
+        "0.208 g/cm^3",
+        "5.8 g/cm^3"
+      ],
+      "a": 0,
+      "e": "Density = 240/50 = 4.8 g/cm^3.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-251",
+      "q": "A laboratory sample 8 has mass 260 g and occupies 55 cm^3. Calculate its density.",
+      "o": [
+        "5.72727 g/cm^3",
+        "4.72727 g/cm^3",
+        "0.212 g/cm^3",
+        "14300 g/cm^3"
+      ],
+      "a": 1,
+      "e": "Density = 260/55 = 4.72727 g/cm^3.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-252",
+      "q": "A laboratory sample 9 has mass 280 g and occupies 60 cm^3. Calculate its density.",
+      "o": [
+        "5.66667 g/cm^3",
+        "4.66667 g/cm^3",
+        "0.214 g/cm^3",
+        "16800 g/cm^3"
+      ],
+      "a": 1,
+      "e": "Density = 280/60 = 4.66667 g/cm^3.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-253",
+      "q": "A laboratory sample 10 has mass 300 g and occupies 65 cm^3. Calculate its density.",
+      "o": [
+        "19500 g/cm^3",
+        "4.61538 g/cm^3",
+        "5.61538 g/cm^3",
+        "0.217 g/cm^3"
+      ],
+      "a": 1,
+      "e": "Density = 300/65 = 4.61538 g/cm^3.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-254",
+      "q": "A laboratory sample 11 has mass 320 g and occupies 70 cm^3. Calculate its density.",
+      "o": [
+        "0.219 g/cm^3",
+        "22400 g/cm^3",
+        "5.57143 g/cm^3",
+        "4.57143 g/cm^3"
+      ],
+      "a": 3,
+      "e": "Density = 320/70 = 4.57143 g/cm^3.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-255",
+      "q": "A laboratory sample 12 has mass 340 g and occupies 75 cm^3. Calculate its density.",
+      "o": [
+        "25500 g/cm^3",
+        "0.221 g/cm^3",
+        "5.53333 g/cm^3",
+        "4.53333 g/cm^3"
+      ],
+      "a": 3,
+      "e": "Density = 340/75 = 4.53333 g/cm^3.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-256",
+      "q": "A laboratory sample 13 has mass 360 g and occupies 80 cm^3. Calculate its density.",
+      "o": [
+        "0.222 g/cm^3",
+        "28800 g/cm^3",
+        "4.5 g/cm^3",
+        "5.5 g/cm^3"
+      ],
+      "a": 2,
+      "e": "Density = 360/80 = 4.5 g/cm^3.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-257",
+      "q": "A laboratory sample 14 has mass 380 g and occupies 20 cm^3. Calculate its density.",
+      "o": [
+        "20 g/cm^3",
+        "19 g/cm^3",
+        "0.053 g/cm^3",
+        "7600 g/cm^3"
+      ],
+      "a": 1,
+      "e": "Density = 380/20 = 19 g/cm^3.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-258",
+      "q": "A laboratory sample 15 has mass 400 g and occupies 25 cm^3. Calculate its density.",
+      "o": [
+        "0.062 g/cm^3",
+        "16 g/cm^3",
+        "17 g/cm^3",
+        "10000 g/cm^3"
+      ],
+      "a": 1,
+      "e": "Density = 400/25 = 16 g/cm^3.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-259",
+      "q": "A laboratory sample 16 has mass 420 g and occupies 30 cm^3. Calculate its density.",
+      "o": [
+        "14 g/cm^3",
+        "0.071 g/cm^3",
+        "15 g/cm^3",
+        "12600 g/cm^3"
+      ],
+      "a": 0,
+      "e": "Density = 420/30 = 14 g/cm^3.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-260",
+      "q": "A laboratory sample 17 has mass 440 g and occupies 35 cm^3. Calculate its density.",
+      "o": [
+        "15400 g/cm^3",
+        "13.5714 g/cm^3",
+        "0.080 g/cm^3",
+        "12.5714 g/cm^3"
+      ],
+      "a": 3,
+      "e": "Density = 440/35 = 12.5714 g/cm^3.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-261",
+      "q": "A laboratory sample 18 has mass 460 g and occupies 40 cm^3. Calculate its density.",
+      "o": [
+        "18400 g/cm^3",
+        "0.087 g/cm^3",
+        "12.5 g/cm^3",
+        "11.5 g/cm^3"
+      ],
+      "a": 3,
+      "e": "Density = 460/40 = 11.5 g/cm^3.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-262",
+      "q": "A laboratory sample 19 has mass 480 g and occupies 45 cm^3. Calculate its density.",
+      "o": [
+        "0.094 g/cm^3",
+        "10.6667 g/cm^3",
+        "21600 g/cm^3",
+        "11.6667 g/cm^3"
+      ],
+      "a": 1,
+      "e": "Density = 480/45 = 10.6667 g/cm^3.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-263",
+      "q": "A laboratory sample 20 has mass 500 g and occupies 50 cm^3. Calculate its density.",
+      "o": [
+        "11 g/cm^3",
+        "25000 g/cm^3",
+        "0.100 g/cm^3",
+        "10 g/cm^3"
+      ],
+      "a": 3,
+      "e": "Density = 500/50 = 10 g/cm^3.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-264",
+      "q": "A laboratory sample 21 has mass 520 g and occupies 55 cm^3. Calculate its density.",
+      "o": [
+        "9.45455 g/cm^3",
+        "10.4545 g/cm^3",
+        "0.106 g/cm^3",
+        "28600 g/cm^3"
+      ],
+      "a": 0,
+      "e": "Density = 520/55 = 9.45455 g/cm^3.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-265",
+      "q": "A laboratory sample 22 has mass 540 g and occupies 60 cm^3. Calculate its density.",
+      "o": [
+        "9 g/cm^3",
+        "0.111 g/cm^3",
+        "10 g/cm^3",
+        "32400 g/cm^3"
+      ],
+      "a": 0,
+      "e": "Density = 540/60 = 9 g/cm^3.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-266",
+      "q": "A laboratory sample 23 has mass 560 g and occupies 65 cm^3. Calculate its density.",
+      "o": [
+        "36400 g/cm^3",
+        "8.61538 g/cm^3",
+        "0.116 g/cm^3",
+        "9.61538 g/cm^3"
+      ],
+      "a": 1,
+      "e": "Density = 560/65 = 8.61538 g/cm^3.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-267",
+      "q": "A laboratory sample 24 has mass 580 g and occupies 70 cm^3. Calculate its density.",
+      "o": [
+        "8.28571 g/cm^3",
+        "0.121 g/cm^3",
+        "9.28571 g/cm^3",
+        "40600 g/cm^3"
+      ],
+      "a": 0,
+      "e": "Density = 580/70 = 8.28571 g/cm^3.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-268",
+      "q": "A laboratory sample 25 has mass 600 g and occupies 75 cm^3. Calculate its density.",
+      "o": [
+        "8 g/cm^3",
+        "9 g/cm^3",
+        "0.125 g/cm^3",
+        "45000 g/cm^3"
+      ],
+      "a": 0,
+      "e": "Density = 600/75 = 8 g/cm^3.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-269",
+      "q": "A laboratory sample 26 has mass 620 g and occupies 80 cm^3. Calculate its density.",
+      "o": [
+        "7.75 g/cm^3",
+        "8.75 g/cm^3",
+        "49600 g/cm^3",
+        "0.129 g/cm^3"
+      ],
+      "a": 0,
+      "e": "Density = 620/80 = 7.75 g/cm^3.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-270",
+      "q": "A laboratory sample 27 has mass 640 g and occupies 20 cm^3. Calculate its density.",
+      "o": [
+        "12800 g/cm^3",
+        "0.031 g/cm^3",
+        "33 g/cm^3",
+        "32 g/cm^3"
+      ],
+      "a": 3,
+      "e": "Density = 640/20 = 32 g/cm^3.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-271",
+      "q": "A laboratory sample 28 has mass 660 g and occupies 25 cm^3. Calculate its density.",
+      "o": [
+        "26.4 g/cm^3",
+        "16500 g/cm^3",
+        "0.038 g/cm^3",
+        "27.4 g/cm^3"
+      ],
+      "a": 0,
+      "e": "Density = 660/25 = 26.4 g/cm^3.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-272",
+      "q": "A laboratory sample 29 has mass 680 g and occupies 30 cm^3. Calculate its density.",
+      "o": [
+        "23.6667 g/cm^3",
+        "0.044 g/cm^3",
+        "20400 g/cm^3",
+        "22.6667 g/cm^3"
+      ],
+      "a": 3,
+      "e": "Density = 680/30 = 22.6667 g/cm^3.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-273",
+      "q": "A laboratory sample 30 has mass 700 g and occupies 35 cm^3. Calculate its density.",
+      "o": [
+        "21 g/cm^3",
+        "24500 g/cm^3",
+        "20 g/cm^3",
+        "0.050 g/cm^3"
+      ],
+      "a": 2,
+      "e": "Density = 700/35 = 20 g/cm^3.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-274",
+      "q": "A laboratory sample 31 has mass 720 g and occupies 40 cm^3. Calculate its density.",
+      "o": [
+        "0.056 g/cm^3",
+        "19 g/cm^3",
+        "18 g/cm^3",
+        "28800 g/cm^3"
+      ],
+      "a": 2,
+      "e": "Density = 720/40 = 18 g/cm^3.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-275",
+      "q": "A laboratory sample 32 has mass 740 g and occupies 45 cm^3. Calculate its density.",
+      "o": [
+        "17.4444 g/cm^3",
+        "0.061 g/cm^3",
+        "16.4444 g/cm^3",
+        "33300 g/cm^3"
+      ],
+      "a": 2,
+      "e": "Density = 740/45 = 16.4444 g/cm^3.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-276",
+      "q": "A laboratory sample 33 has mass 760 g and occupies 50 cm^3. Calculate its density.",
+      "o": [
+        "38000 g/cm^3",
+        "16.2 g/cm^3",
+        "15.2 g/cm^3",
+        "0.066 g/cm^3"
+      ],
+      "a": 2,
+      "e": "Density = 760/50 = 15.2 g/cm^3.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-277",
+      "q": "A laboratory sample 34 has mass 780 g and occupies 55 cm^3. Calculate its density.",
+      "o": [
+        "14.1818 g/cm^3",
+        "0.071 g/cm^3",
+        "15.1818 g/cm^3",
+        "42900 g/cm^3"
+      ],
+      "a": 0,
+      "e": "Density = 780/55 = 14.1818 g/cm^3.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-278",
+      "q": "A laboratory sample 35 has mass 800 g and occupies 60 cm^3. Calculate its density.",
+      "o": [
+        "48000 g/cm^3",
+        "13.3333 g/cm^3",
+        "0.075 g/cm^3",
+        "14.3333 g/cm^3"
+      ],
+      "a": 1,
+      "e": "Density = 800/60 = 13.3333 g/cm^3.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-279",
+      "q": "A laboratory sample 36 has mass 820 g and occupies 65 cm^3. Calculate its density.",
+      "o": [
+        "0.079 g/cm^3",
+        "53300 g/cm^3",
+        "12.6154 g/cm^3",
+        "13.6154 g/cm^3"
+      ],
+      "a": 2,
+      "e": "Density = 820/65 = 12.6154 g/cm^3.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-280",
+      "q": "A laboratory sample 37 has mass 840 g and occupies 70 cm^3. Calculate its density.",
+      "o": [
+        "58800 g/cm^3",
+        "0.083 g/cm^3",
+        "13 g/cm^3",
+        "12 g/cm^3"
+      ],
+      "a": 3,
+      "e": "Density = 840/70 = 12 g/cm^3.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-281",
+      "q": "A laboratory sample 38 has mass 860 g and occupies 75 cm^3. Calculate its density.",
+      "o": [
+        "11.4667 g/cm^3",
+        "64500 g/cm^3",
+        "0.087 g/cm^3",
+        "12.4667 g/cm^3"
+      ],
+      "a": 0,
+      "e": "Density = 860/75 = 11.4667 g/cm^3.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-282",
+      "q": "A laboratory sample 39 has mass 880 g and occupies 80 cm^3. Calculate its density.",
+      "o": [
+        "70400 g/cm^3",
+        "11 g/cm^3",
+        "0.091 g/cm^3",
+        "12 g/cm^3"
+      ],
+      "a": 1,
+      "e": "Density = 880/80 = 11 g/cm^3.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-283",
+      "q": "A laboratory sample 40 has mass 900 g and occupies 20 cm^3. Calculate its density.",
+      "o": [
+        "46 g/cm^3",
+        "0.022 g/cm^3",
+        "45 g/cm^3",
+        "18000 g/cm^3"
+      ],
+      "a": 2,
+      "e": "Density = 900/20 = 45 g/cm^3.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-284",
+      "q": "A laboratory sample 41 has mass 920 g and occupies 25 cm^3. Calculate its density.",
+      "o": [
+        "36.8 g/cm^3",
+        "37.8 g/cm^3",
+        "23000 g/cm^3",
+        "0.027 g/cm^3"
+      ],
+      "a": 0,
+      "e": "Density = 920/25 = 36.8 g/cm^3.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-285",
+      "q": "A laboratory sample 42 has mass 940 g and occupies 30 cm^3. Calculate its density.",
+      "o": [
+        "31.3333 g/cm^3",
+        "32.3333 g/cm^3",
+        "28200 g/cm^3",
+        "0.032 g/cm^3"
+      ],
+      "a": 0,
+      "e": "Density = 940/30 = 31.3333 g/cm^3.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-286",
+      "q": "A laboratory sample 43 has mass 960 g and occupies 35 cm^3. Calculate its density.",
+      "o": [
+        "28.4286 g/cm^3",
+        "0.036 g/cm^3",
+        "33600 g/cm^3",
+        "27.4286 g/cm^3"
+      ],
+      "a": 3,
+      "e": "Density = 960/35 = 27.4286 g/cm^3.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-287",
+      "q": "A laboratory sample 44 has mass 980 g and occupies 40 cm^3. Calculate its density.",
+      "o": [
+        "24.5 g/cm^3",
+        "0.041 g/cm^3",
+        "39200 g/cm^3",
+        "25.5 g/cm^3"
+      ],
+      "a": 0,
+      "e": "Density = 980/40 = 24.5 g/cm^3.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-288",
+      "q": "A laboratory sample 45 has mass 1000 g and occupies 45 cm^3. Calculate its density.",
+      "o": [
+        "45000 g/cm^3",
+        "23.2222 g/cm^3",
+        "0.045 g/cm^3",
+        "22.2222 g/cm^3"
+      ],
+      "a": 3,
+      "e": "Density = 1000/45 = 22.2222 g/cm^3.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-289",
+      "q": "A laboratory sample 46 has mass 1020 g and occupies 50 cm^3. Calculate its density.",
+      "o": [
+        "0.049 g/cm^3",
+        "51000 g/cm^3",
+        "20.4 g/cm^3",
+        "21.4 g/cm^3"
+      ],
+      "a": 2,
+      "e": "Density = 1020/50 = 20.4 g/cm^3.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-290",
+      "q": "A laboratory sample 47 has mass 1040 g and occupies 55 cm^3. Calculate its density.",
+      "o": [
+        "19.9091 g/cm^3",
+        "18.9091 g/cm^3",
+        "57200 g/cm^3",
+        "0.053 g/cm^3"
+      ],
+      "a": 1,
+      "e": "Density = 1040/55 = 18.9091 g/cm^3.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-291",
+      "q": "A laboratory sample 48 has mass 1060 g and occupies 60 cm^3. Calculate its density.",
+      "o": [
+        "63600 g/cm^3",
+        "18.6667 g/cm^3",
+        "17.6667 g/cm^3",
+        "0.057 g/cm^3"
+      ],
+      "a": 2,
+      "e": "Density = 1060/60 = 17.6667 g/cm^3.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-292",
+      "q": "A laboratory sample 49 has mass 1080 g and occupies 65 cm^3. Calculate its density.",
+      "o": [
+        "17.6154 g/cm^3",
+        "70200 g/cm^3",
+        "16.6154 g/cm^3",
+        "0.060 g/cm^3"
+      ],
+      "a": 2,
+      "e": "Density = 1080/65 = 16.6154 g/cm^3.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-293",
+      "q": "A laboratory sample 50 has mass 1100 g and occupies 70 cm^3. Calculate its density.",
+      "o": [
+        "77000 g/cm^3",
+        "0.064 g/cm^3",
+        "15.7143 g/cm^3",
+        "16.7143 g/cm^3"
+      ],
+      "a": 2,
+      "e": "Density = 1100/70 = 15.7143 g/cm^3.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-294",
+      "q": "A laboratory sample 51 has mass 1120 g and occupies 75 cm^3. Calculate its density.",
+      "o": [
+        "14.9333 g/cm^3",
+        "15.9333 g/cm^3",
+        "84000 g/cm^3",
+        "0.067 g/cm^3"
+      ],
+      "a": 0,
+      "e": "Density = 1120/75 = 14.9333 g/cm^3.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-295",
+      "q": "A laboratory sample 52 has mass 1140 g and occupies 80 cm^3. Calculate its density.",
+      "o": [
+        "14.25 g/cm^3",
+        "15.25 g/cm^3",
+        "0.070 g/cm^3",
+        "91200 g/cm^3"
+      ],
+      "a": 0,
+      "e": "Density = 1140/80 = 14.25 g/cm^3.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-296",
+      "q": "A laboratory sample 53 has mass 1160 g and occupies 20 cm^3. Calculate its density.",
+      "o": [
+        "0.017 g/cm^3",
+        "23200 g/cm^3",
+        "58 g/cm^3",
+        "59 g/cm^3"
+      ],
+      "a": 2,
+      "e": "Density = 1160/20 = 58 g/cm^3.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-297",
+      "q": "A laboratory sample 54 has mass 1180 g and occupies 25 cm^3. Calculate its density.",
+      "o": [
+        "48.2 g/cm^3",
+        "47.2 g/cm^3",
+        "29500 g/cm^3",
+        "0.021 g/cm^3"
+      ],
+      "a": 1,
+      "e": "Density = 1180/25 = 47.2 g/cm^3.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-298",
+      "q": "A laboratory sample 55 has mass 1200 g and occupies 30 cm^3. Calculate its density.",
+      "o": [
+        "40 g/cm^3",
+        "41 g/cm^3",
+        "0.025 g/cm^3",
+        "36000 g/cm^3"
+      ],
+      "a": 0,
+      "e": "Density = 1200/30 = 40 g/cm^3.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-299",
+      "q": "A laboratory sample 56 has mass 1220 g and occupies 35 cm^3. Calculate its density.",
+      "o": [
+        "42700 g/cm^3",
+        "34.8571 g/cm^3",
+        "0.029 g/cm^3",
+        "35.8571 g/cm^3"
+      ],
+      "a": 1,
+      "e": "Density = 1220/35 = 34.8571 g/cm^3.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    },
+    {
+      "id": "PHY9CH7-300",
+      "q": "A laboratory sample 57 has mass 1240 g and occupies 40 cm^3. Calculate its density.",
+      "o": [
+        "31 g/cm^3",
+        "49600 g/cm^3",
+        "0.032 g/cm^3",
+        "32 g/cm^3"
+      ],
+      "a": 0,
+      "e": "Density = 1240/40 = 31 g/cm^3.",
+      "d": "Medium",
+      "topic": "Density",
+      "slo": "P-09-C-01"
+    }
+  ]
+}

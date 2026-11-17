@@ -1,0 +1,4504 @@
+{
+  "questions": [
+    {
+      "id": "PHY9CH9-001",
+      "q": "What does physics primarily study?",
+      "o": [
+        "Matter, energy, space, time and their interactions",
+        "Only living organisms",
+        "Only chemical compounds",
+        "Only the Earth’s surface"
+      ],
+      "a": 0,
+      "e": "Physics examines physical phenomena and interactions of matter, energy, space and time.",
+      "d": "Easy",
+      "topic": "Nature of science",
+      "slo": "P-09-G-01"
+    },
+    {
+      "id": "PHY9CH9-002",
+      "q": "Choose the most accurate answer: what does physics primarily study?",
+      "o": [
+        "Only living organisms",
+        "Matter, energy, space, time and their interactions",
+        "Only chemical compounds",
+        "Only the Earth’s surface"
+      ],
+      "a": 1,
+      "e": "Physics examines physical phenomena and interactions of matter, energy, space and time.",
+      "d": "Medium",
+      "topic": "Nature of science",
+      "slo": "P-09-G-01"
+    },
+    {
+      "id": "PHY9CH9-003",
+      "q": "For a Class 9 physics revision quiz, answer this: What does physics primarily study?",
+      "o": [
+        "Only living organisms",
+        "Matter, energy, space, time and their interactions",
+        "Only the Earth’s surface",
+        "Only chemical compounds"
+      ],
+      "a": 1,
+      "e": "Physics examines physical phenomena and interactions of matter, energy, space and time.",
+      "d": "Medium",
+      "topic": "Nature of science",
+      "slo": "P-09-G-01"
+    },
+    {
+      "id": "PHY9CH9-004",
+      "q": "Select the scientifically correct response to this question: What does physics primarily study?",
+      "o": [
+        "Matter, energy, space, time and their interactions",
+        "Only the Earth’s surface",
+        "Only chemical compounds",
+        "Only living organisms"
+      ],
+      "a": 0,
+      "e": "Physics examines physical phenomena and interactions of matter, energy, space and time.",
+      "d": "Hard",
+      "topic": "Nature of science",
+      "slo": "P-09-G-01"
+    },
+    {
+      "id": "PHY9CH9-005",
+      "q": "Which pair is central to the scope of physics?",
+      "o": [
+        "Language and history",
+        "Matter and energy",
+        "Trade and accounting",
+        "Poetry and grammar"
+      ],
+      "a": 1,
+      "e": "Matter and energy are central subjects of physics.",
+      "d": "Easy",
+      "topic": "Nature of science",
+      "slo": "P-09-G-01"
+    },
+    {
+      "id": "PHY9CH9-006",
+      "q": "Choose the most accurate answer: which pair is central to the scope of physics?",
+      "o": [
+        "Poetry and grammar",
+        "Language and history",
+        "Trade and accounting",
+        "Matter and energy"
+      ],
+      "a": 3,
+      "e": "Matter and energy are central subjects of physics.",
+      "d": "Medium",
+      "topic": "Nature of science",
+      "slo": "P-09-G-01"
+    },
+    {
+      "id": "PHY9CH9-007",
+      "q": "For a Class 9 physics revision quiz, answer this: Which pair is central to the scope of physics?",
+      "o": [
+        "Language and history",
+        "Matter and energy",
+        "Trade and accounting",
+        "Poetry and grammar"
+      ],
+      "a": 1,
+      "e": "Matter and energy are central subjects of physics.",
+      "d": "Medium",
+      "topic": "Nature of science",
+      "slo": "P-09-G-01"
+    },
+    {
+      "id": "PHY9CH9-008",
+      "q": "Select the scientifically correct response to this question: Which pair is central to the scope of physics?",
+      "o": [
+        "Matter and energy",
+        "Trade and accounting",
+        "Poetry and grammar",
+        "Language and history"
+      ],
+      "a": 0,
+      "e": "Matter and energy are central subjects of physics.",
+      "d": "Hard",
+      "topic": "Nature of science",
+      "slo": "P-09-G-01"
+    },
+    {
+      "id": "PHY9CH9-009",
+      "q": "What is a central aim of physics?",
+      "o": [
+        "Avoid measurement",
+        "Replace experiments with opinion",
+        "Memorize all historical dates",
+        "Explain the physical world using evidence-based models"
+      ],
+      "a": 3,
+      "e": "Physics develops and tests explanations of the physical world.",
+      "d": "Easy",
+      "topic": "Nature of science",
+      "slo": "P-09-G-01"
+    },
+    {
+      "id": "PHY9CH9-010",
+      "q": "Choose the most accurate answer: what is a central aim of physics?",
+      "o": [
+        "Avoid measurement",
+        "Memorize all historical dates",
+        "Explain the physical world using evidence-based models",
+        "Replace experiments with opinion"
+      ],
+      "a": 2,
+      "e": "Physics develops and tests explanations of the physical world.",
+      "d": "Medium",
+      "topic": "Nature of science",
+      "slo": "P-09-G-01"
+    },
+    {
+      "id": "PHY9CH9-011",
+      "q": "For a Class 9 physics revision quiz, answer this: What is a central aim of physics?",
+      "o": [
+        "Explain the physical world using evidence-based models",
+        "Avoid measurement",
+        "Replace experiments with opinion",
+        "Memorize all historical dates"
+      ],
+      "a": 0,
+      "e": "Physics develops and tests explanations of the physical world.",
+      "d": "Medium",
+      "topic": "Nature of science",
+      "slo": "P-09-G-01"
+    },
+    {
+      "id": "PHY9CH9-012",
+      "q": "Select the scientifically correct response to this question: What is a central aim of physics?",
+      "o": [
+        "Replace experiments with opinion",
+        "Explain the physical world using evidence-based models",
+        "Avoid measurement",
+        "Memorize all historical dates"
+      ],
+      "a": 1,
+      "e": "Physics develops and tests explanations of the physical world.",
+      "d": "Hard",
+      "topic": "Nature of science",
+      "slo": "P-09-G-01"
+    },
+    {
+      "id": "PHY9CH9-013",
+      "q": "Which approach best represents physics?",
+      "o": [
+        "Rejecting reproducible results",
+        "Observation, experiment and mathematical description",
+        "Guessing without testing",
+        "Relying only on tradition"
+      ],
+      "a": 1,
+      "e": "Physics uses observations, experiments and mathematical relationships.",
+      "d": "Easy",
+      "topic": "Nature of science",
+      "slo": "P-09-G-01"
+    },
+    {
+      "id": "PHY9CH9-014",
+      "q": "Choose the most accurate answer: which approach best represents physics?",
+      "o": [
+        "Rejecting reproducible results",
+        "Observation, experiment and mathematical description",
+        "Relying only on tradition",
+        "Guessing without testing"
+      ],
+      "a": 1,
+      "e": "Physics uses observations, experiments and mathematical relationships.",
+      "d": "Medium",
+      "topic": "Nature of science",
+      "slo": "P-09-G-01"
+    },
+    {
+      "id": "PHY9CH9-015",
+      "q": "For a Class 9 physics revision quiz, answer this: Which approach best represents physics?",
+      "o": [
+        "Observation, experiment and mathematical description",
+        "Guessing without testing",
+        "Rejecting reproducible results",
+        "Relying only on tradition"
+      ],
+      "a": 0,
+      "e": "Physics uses observations, experiments and mathematical relationships.",
+      "d": "Medium",
+      "topic": "Nature of science",
+      "slo": "P-09-G-01"
+    },
+    {
+      "id": "PHY9CH9-016",
+      "q": "Select the scientifically correct response to this question: Which approach best represents physics?",
+      "o": [
+        "Rejecting reproducible results",
+        "Relying only on tradition",
+        "Observation, experiment and mathematical description",
+        "Guessing without testing"
+      ],
+      "a": 2,
+      "e": "Physics uses observations, experiments and mathematical relationships.",
+      "d": "Hard",
+      "topic": "Nature of science",
+      "slo": "P-09-G-01"
+    },
+    {
+      "id": "PHY9CH9-017",
+      "q": "Physics belongs to which broad group of sciences?",
+      "o": [
+        "Only language sciences",
+        "Physical sciences",
+        "Only biological sciences",
+        "Only social sciences"
+      ],
+      "a": 1,
+      "e": "Physics is a physical science and part of natural science.",
+      "d": "Easy",
+      "topic": "Nature of science",
+      "slo": "P-09-G-03"
+    },
+    {
+      "id": "PHY9CH9-018",
+      "q": "Choose the most accurate answer: physics belongs to which broad group of sciences?",
+      "o": [
+        "Only language sciences",
+        "Only biological sciences",
+        "Only social sciences",
+        "Physical sciences"
+      ],
+      "a": 3,
+      "e": "Physics is a physical science and part of natural science.",
+      "d": "Medium",
+      "topic": "Nature of science",
+      "slo": "P-09-G-03"
+    },
+    {
+      "id": "PHY9CH9-019",
+      "q": "For a Class 9 physics revision quiz, answer this: Physics belongs to which broad group of sciences?",
+      "o": [
+        "Only social sciences",
+        "Physical sciences",
+        "Only biological sciences",
+        "Only language sciences"
+      ],
+      "a": 1,
+      "e": "Physics is a physical science and part of natural science.",
+      "d": "Medium",
+      "topic": "Nature of science",
+      "slo": "P-09-G-03"
+    },
+    {
+      "id": "PHY9CH9-020",
+      "q": "Select the scientifically correct response to this question: Physics belongs to which broad group of sciences?",
+      "o": [
+        "Physical sciences",
+        "Only social sciences",
+        "Only language sciences",
+        "Only biological sciences"
+      ],
+      "a": 0,
+      "e": "Physics is a physical science and part of natural science.",
+      "d": "Hard",
+      "topic": "Nature of science",
+      "slo": "P-09-G-03"
+    },
+    {
+      "id": "PHY9CH9-021",
+      "q": "Which subject is another physical science alongside physics?",
+      "o": [
+        "Zoology",
+        "Genetics",
+        "Chemistry",
+        "Botany"
+      ],
+      "a": 2,
+      "e": "Chemistry and physics are physical sciences.",
+      "d": "Easy",
+      "topic": "Nature of science",
+      "slo": "P-09-G-03"
+    },
+    {
+      "id": "PHY9CH9-022",
+      "q": "Choose the most accurate answer: which subject is another physical science alongside physics?",
+      "o": [
+        "Botany",
+        "Zoology",
+        "Chemistry",
+        "Genetics"
+      ],
+      "a": 2,
+      "e": "Chemistry and physics are physical sciences.",
+      "d": "Medium",
+      "topic": "Nature of science",
+      "slo": "P-09-G-03"
+    },
+    {
+      "id": "PHY9CH9-023",
+      "q": "For a Class 9 physics revision quiz, answer this: Which subject is another physical science alongside physics?",
+      "o": [
+        "Genetics",
+        "Zoology",
+        "Botany",
+        "Chemistry"
+      ],
+      "a": 3,
+      "e": "Chemistry and physics are physical sciences.",
+      "d": "Medium",
+      "topic": "Nature of science",
+      "slo": "P-09-G-03"
+    },
+    {
+      "id": "PHY9CH9-024",
+      "q": "Select the scientifically correct response to this question: Which subject is another physical science alongside physics?",
+      "o": [
+        "Zoology",
+        "Botany",
+        "Genetics",
+        "Chemistry"
+      ],
+      "a": 3,
+      "e": "Chemistry and physics are physical sciences.",
+      "d": "Hard",
+      "topic": "Nature of science",
+      "slo": "P-09-G-03"
+    },
+    {
+      "id": "PHY9CH9-025",
+      "q": "Which subject is primarily a biological science?",
+      "o": [
+        "Botany",
+        "Mechanics",
+        "Acoustics",
+        "Optics"
+      ],
+      "a": 0,
+      "e": "Botany studies plants and is a biological science.",
+      "d": "Easy",
+      "topic": "Nature of science",
+      "slo": "P-09-G-03"
+    },
+    {
+      "id": "PHY9CH9-026",
+      "q": "Choose the most accurate answer: which subject is primarily a biological science?",
+      "o": [
+        "Optics",
+        "Botany",
+        "Mechanics",
+        "Acoustics"
+      ],
+      "a": 1,
+      "e": "Botany studies plants and is a biological science.",
+      "d": "Medium",
+      "topic": "Nature of science",
+      "slo": "P-09-G-03"
+    },
+    {
+      "id": "PHY9CH9-027",
+      "q": "For a Class 9 physics revision quiz, answer this: Which subject is primarily a biological science?",
+      "o": [
+        "Botany",
+        "Acoustics",
+        "Mechanics",
+        "Optics"
+      ],
+      "a": 0,
+      "e": "Botany studies plants and is a biological science.",
+      "d": "Medium",
+      "topic": "Nature of science",
+      "slo": "P-09-G-03"
+    },
+    {
+      "id": "PHY9CH9-028",
+      "q": "Select the scientifically correct response to this question: Which subject is primarily a biological science?",
+      "o": [
+        "Mechanics",
+        "Botany",
+        "Optics",
+        "Acoustics"
+      ],
+      "a": 1,
+      "e": "Botany studies plants and is a biological science.",
+      "d": "Hard",
+      "topic": "Nature of science",
+      "slo": "P-09-G-03"
+    },
+    {
+      "id": "PHY9CH9-029",
+      "q": "What is the relationship between physics and natural sciences?",
+      "o": [
+        "Physics is a branch of natural science",
+        "Physics is unrelated to natural science",
+        "Physics studies only technology",
+        "Natural science is a branch of physics only"
+      ],
+      "a": 0,
+      "e": "Physics is one of the natural sciences.",
+      "d": "Easy",
+      "topic": "Nature of science",
+      "slo": "P-09-G-03"
+    },
+    {
+      "id": "PHY9CH9-030",
+      "q": "Choose the most accurate answer: what is the relationship between physics and natural sciences?",
+      "o": [
+        "Physics is unrelated to natural science",
+        "Physics studies only technology",
+        "Physics is a branch of natural science",
+        "Natural science is a branch of physics only"
+      ],
+      "a": 2,
+      "e": "Physics is one of the natural sciences.",
+      "d": "Medium",
+      "topic": "Nature of science",
+      "slo": "P-09-G-03"
+    },
+    {
+      "id": "PHY9CH9-031",
+      "q": "For a Class 9 physics revision quiz, answer this: What is the relationship between physics and natural sciences?",
+      "o": [
+        "Physics is unrelated to natural science",
+        "Natural science is a branch of physics only",
+        "Physics studies only technology",
+        "Physics is a branch of natural science"
+      ],
+      "a": 3,
+      "e": "Physics is one of the natural sciences.",
+      "d": "Medium",
+      "topic": "Nature of science",
+      "slo": "P-09-G-03"
+    },
+    {
+      "id": "PHY9CH9-032",
+      "q": "Select the scientifically correct response to this question: What is the relationship between physics and natural sciences?",
+      "o": [
+        "Natural science is a branch of physics only",
+        "Physics studies only technology",
+        "Physics is a branch of natural science",
+        "Physics is unrelated to natural science"
+      ],
+      "a": 2,
+      "e": "Physics is one of the natural sciences.",
+      "d": "Hard",
+      "topic": "Nature of science",
+      "slo": "P-09-G-03"
+    },
+    {
+      "id": "PHY9CH9-033",
+      "q": "What does physical science mainly investigate?",
+      "o": [
+        "Only human emotions",
+        "Non-living physical systems and processes",
+        "Only literary texts",
+        "Only political systems"
+      ],
+      "a": 1,
+      "e": "Physical sciences include physics, chemistry and geology.",
+      "d": "Easy",
+      "topic": "Nature of science",
+      "slo": "P-09-G-03"
+    },
+    {
+      "id": "PHY9CH9-034",
+      "q": "Choose the most accurate answer: what does physical science mainly investigate?",
+      "o": [
+        "Only political systems",
+        "Only human emotions",
+        "Only literary texts",
+        "Non-living physical systems and processes"
+      ],
+      "a": 3,
+      "e": "Physical sciences include physics, chemistry and geology.",
+      "d": "Medium",
+      "topic": "Nature of science",
+      "slo": "P-09-G-03"
+    },
+    {
+      "id": "PHY9CH9-035",
+      "q": "For a Class 9 physics revision quiz, answer this: What does physical science mainly investigate?",
+      "o": [
+        "Non-living physical systems and processes",
+        "Only human emotions",
+        "Only political systems",
+        "Only literary texts"
+      ],
+      "a": 0,
+      "e": "Physical sciences include physics, chemistry and geology.",
+      "d": "Medium",
+      "topic": "Nature of science",
+      "slo": "P-09-G-03"
+    },
+    {
+      "id": "PHY9CH9-036",
+      "q": "Select the scientifically correct response to this question: What does physical science mainly investigate?",
+      "o": [
+        "Only human emotions",
+        "Only political systems",
+        "Non-living physical systems and processes",
+        "Only literary texts"
+      ],
+      "a": 2,
+      "e": "Physical sciences include physics, chemistry and geology.",
+      "d": "Hard",
+      "topic": "Nature of science",
+      "slo": "P-09-G-03"
+    },
+    {
+      "id": "PHY9CH9-037",
+      "q": "What is a scientist specializing in physics called?",
+      "o": [
+        "Botanist",
+        "Linguist",
+        "Historian",
+        "Physicist"
+      ],
+      "a": 3,
+      "e": "A physicist specializes in physics research.",
+      "d": "Easy",
+      "topic": "Physicists",
+      "slo": "P-09-G-04"
+    },
+    {
+      "id": "PHY9CH9-038",
+      "q": "Choose the most accurate answer: what is a scientist specializing in physics called?",
+      "o": [
+        "Physicist",
+        "Historian",
+        "Botanist",
+        "Linguist"
+      ],
+      "a": 0,
+      "e": "A physicist specializes in physics research.",
+      "d": "Medium",
+      "topic": "Physicists",
+      "slo": "P-09-G-04"
+    },
+    {
+      "id": "PHY9CH9-039",
+      "q": "For a Class 9 physics revision quiz, answer this: What is a scientist specializing in physics called?",
+      "o": [
+        "Historian",
+        "Botanist",
+        "Linguist",
+        "Physicist"
+      ],
+      "a": 3,
+      "e": "A physicist specializes in physics research.",
+      "d": "Medium",
+      "topic": "Physicists",
+      "slo": "P-09-G-04"
+    },
+    {
+      "id": "PHY9CH9-040",
+      "q": "Select the scientifically correct response to this question: What is a scientist specializing in physics called?",
+      "o": [
+        "Linguist",
+        "Historian",
+        "Physicist",
+        "Botanist"
+      ],
+      "a": 2,
+      "e": "A physicist specializes in physics research.",
+      "d": "Hard",
+      "topic": "Physicists",
+      "slo": "P-09-G-04"
+    },
+    {
+      "id": "PHY9CH9-041",
+      "q": "Which activity is typical of a physicist?",
+      "o": [
+        "Studying only ancient languages",
+        "Writing only historical biographies",
+        "Investigating physical laws through research",
+        "Classifying only plant species"
+      ],
+      "a": 2,
+      "e": "Physicists conduct theoretical or experimental research.",
+      "d": "Easy",
+      "topic": "Physicists",
+      "slo": "P-09-G-04"
+    },
+    {
+      "id": "PHY9CH9-042",
+      "q": "Choose the most accurate answer: which activity is typical of a physicist?",
+      "o": [
+        "Studying only ancient languages",
+        "Investigating physical laws through research",
+        "Classifying only plant species",
+        "Writing only historical biographies"
+      ],
+      "a": 1,
+      "e": "Physicists conduct theoretical or experimental research.",
+      "d": "Medium",
+      "topic": "Physicists",
+      "slo": "P-09-G-04"
+    },
+    {
+      "id": "PHY9CH9-043",
+      "q": "For a Class 9 physics revision quiz, answer this: Which activity is typical of a physicist?",
+      "o": [
+        "Writing only historical biographies",
+        "Investigating physical laws through research",
+        "Classifying only plant species",
+        "Studying only ancient languages"
+      ],
+      "a": 1,
+      "e": "Physicists conduct theoretical or experimental research.",
+      "d": "Medium",
+      "topic": "Physicists",
+      "slo": "P-09-G-04"
+    },
+    {
+      "id": "PHY9CH9-044",
+      "q": "Select the scientifically correct response to this question: Which activity is typical of a physicist?",
+      "o": [
+        "Studying only ancient languages",
+        "Investigating physical laws through research",
+        "Classifying only plant species",
+        "Writing only historical biographies"
+      ],
+      "a": 1,
+      "e": "Physicists conduct theoretical or experimental research.",
+      "d": "Hard",
+      "topic": "Physicists",
+      "slo": "P-09-G-04"
+    },
+    {
+      "id": "PHY9CH9-045",
+      "q": "Who investigates the fundamental laws of nature through physics?",
+      "o": [
+        "A geographer only",
+        "A novelist",
+        "A grammarian",
+        "A physicist"
+      ],
+      "a": 3,
+      "e": "Physicists explore and explain physical laws.",
+      "d": "Easy",
+      "topic": "Physicists",
+      "slo": "P-09-G-04"
+    },
+    {
+      "id": "PHY9CH9-046",
+      "q": "Choose the most accurate answer: who investigates the fundamental laws of nature through physics?",
+      "o": [
+        "A physicist",
+        "A novelist",
+        "A grammarian",
+        "A geographer only"
+      ],
+      "a": 0,
+      "e": "Physicists explore and explain physical laws.",
+      "d": "Medium",
+      "topic": "Physicists",
+      "slo": "P-09-G-04"
+    },
+    {
+      "id": "PHY9CH9-047",
+      "q": "For a Class 9 physics revision quiz, answer this: Who investigates the fundamental laws of nature through physics?",
+      "o": [
+        "A geographer only",
+        "A physicist",
+        "A novelist",
+        "A grammarian"
+      ],
+      "a": 1,
+      "e": "Physicists explore and explain physical laws.",
+      "d": "Medium",
+      "topic": "Physicists",
+      "slo": "P-09-G-04"
+    },
+    {
+      "id": "PHY9CH9-048",
+      "q": "Select the scientifically correct response to this question: Who investigates the fundamental laws of nature through physics?",
+      "o": [
+        "A geographer only",
+        "A novelist",
+        "A grammarian",
+        "A physicist"
+      ],
+      "a": 3,
+      "e": "Physicists explore and explain physical laws.",
+      "d": "Hard",
+      "topic": "Physicists",
+      "slo": "P-09-G-04"
+    },
+    {
+      "id": "PHY9CH9-049",
+      "q": "Why do physicists use mathematical formulas?",
+      "o": [
+        "To replace all observations with guesses",
+        "To express relationships and predict outcomes",
+        "To prove every claim without testing",
+        "To eliminate the need for evidence"
+      ],
+      "a": 1,
+      "e": "Mathematics helps represent and predict physical phenomena.",
+      "d": "Easy",
+      "topic": "Physicists",
+      "slo": "P-09-G-04"
+    },
+    {
+      "id": "PHY9CH9-050",
+      "q": "Choose the most accurate answer: why do physicists use mathematical formulas?",
+      "o": [
+        "To replace all observations with guesses",
+        "To express relationships and predict outcomes",
+        "To prove every claim without testing",
+        "To eliminate the need for evidence"
+      ],
+      "a": 1,
+      "e": "Mathematics helps represent and predict physical phenomena.",
+      "d": "Medium",
+      "topic": "Physicists",
+      "slo": "P-09-G-04"
+    },
+    {
+      "id": "PHY9CH9-051",
+      "q": "For a Class 9 physics revision quiz, answer this: Why do physicists use mathematical formulas?",
+      "o": [
+        "To prove every claim without testing",
+        "To eliminate the need for evidence",
+        "To express relationships and predict outcomes",
+        "To replace all observations with guesses"
+      ],
+      "a": 2,
+      "e": "Mathematics helps represent and predict physical phenomena.",
+      "d": "Medium",
+      "topic": "Physicists",
+      "slo": "P-09-G-04"
+    },
+    {
+      "id": "PHY9CH9-052",
+      "q": "Select the scientifically correct response to this question: Why do physicists use mathematical formulas?",
+      "o": [
+        "To prove every claim without testing",
+        "To express relationships and predict outcomes",
+        "To replace all observations with guesses",
+        "To eliminate the need for evidence"
+      ],
+      "a": 1,
+      "e": "Mathematics helps represent and predict physical phenomena.",
+      "d": "Hard",
+      "topic": "Physicists",
+      "slo": "P-09-G-04"
+    },
+    {
+      "id": "PHY9CH9-053",
+      "q": "Which technology uses satellites to help find a location?",
+      "o": [
+        "A paper notebook",
+        "GPS navigation",
+        "A wooden ruler",
+        "A mechanical pencil"
+      ],
+      "a": 1,
+      "e": "GPS uses satellite signals for positioning and navigation.",
+      "d": "Easy",
+      "topic": "Physics in daily life",
+      "slo": "P-09-G-01"
+    },
+    {
+      "id": "PHY9CH9-054",
+      "q": "Choose the most accurate answer: which technology uses satellites to help find a location?",
+      "o": [
+        "A mechanical pencil",
+        "A wooden ruler",
+        "GPS navigation",
+        "A paper notebook"
+      ],
+      "a": 2,
+      "e": "GPS uses satellite signals for positioning and navigation.",
+      "d": "Medium",
+      "topic": "Physics in daily life",
+      "slo": "P-09-G-01"
+    },
+    {
+      "id": "PHY9CH9-055",
+      "q": "For a Class 9 physics revision quiz, answer this: Which technology uses satellites to help find a location?",
+      "o": [
+        "A paper notebook",
+        "A mechanical pencil",
+        "GPS navigation",
+        "A wooden ruler"
+      ],
+      "a": 2,
+      "e": "GPS uses satellite signals for positioning and navigation.",
+      "d": "Medium",
+      "topic": "Physics in daily life",
+      "slo": "P-09-G-01"
+    },
+    {
+      "id": "PHY9CH9-056",
+      "q": "Select the scientifically correct response to this question: Which technology uses satellites to help find a location?",
+      "o": [
+        "A paper notebook",
+        "A mechanical pencil",
+        "GPS navigation",
+        "A wooden ruler"
+      ],
+      "a": 2,
+      "e": "GPS uses satellite signals for positioning and navigation.",
+      "d": "Hard",
+      "topic": "Physics in daily life",
+      "slo": "P-09-G-01"
+    },
+    {
+      "id": "PHY9CH9-057",
+      "q": "Which physical principle helps explain lift on airplane wings?",
+      "o": [
+        "Only radioactive decay",
+        "Pressure differences in moving air",
+        "Only chemical digestion",
+        "Only genetic inheritance"
+      ],
+      "a": 1,
+      "e": "Air pressure differences contribute to aerodynamic lift.",
+      "d": "Easy",
+      "topic": "Physics in daily life",
+      "slo": "P-09-G-01"
+    },
+    {
+      "id": "PHY9CH9-058",
+      "q": "Choose the most accurate answer: which physical principle helps explain lift on airplane wings?",
+      "o": [
+        "Only chemical digestion",
+        "Only genetic inheritance",
+        "Pressure differences in moving air",
+        "Only radioactive decay"
+      ],
+      "a": 2,
+      "e": "Air pressure differences contribute to aerodynamic lift.",
+      "d": "Medium",
+      "topic": "Physics in daily life",
+      "slo": "P-09-G-01"
+    },
+    {
+      "id": "PHY9CH9-059",
+      "q": "For a Class 9 physics revision quiz, answer this: Which physical principle helps explain lift on airplane wings?",
+      "o": [
+        "Only genetic inheritance",
+        "Only radioactive decay",
+        "Pressure differences in moving air",
+        "Only chemical digestion"
+      ],
+      "a": 2,
+      "e": "Air pressure differences contribute to aerodynamic lift.",
+      "d": "Medium",
+      "topic": "Physics in daily life",
+      "slo": "P-09-G-01"
+    },
+    {
+      "id": "PHY9CH9-060",
+      "q": "Select the scientifically correct response to this question: Which physical principle helps explain lift on airplane wings?",
+      "o": [
+        "Only radioactive decay",
+        "Pressure differences in moving air",
+        "Only chemical digestion",
+        "Only genetic inheritance"
+      ],
+      "a": 1,
+      "e": "Air pressure differences contribute to aerodynamic lift.",
+      "d": "Hard",
+      "topic": "Physics in daily life",
+      "slo": "P-09-G-01"
+    },
+    {
+      "id": "PHY9CH9-061",
+      "q": "Why can fluffed bird feathers help in winter?",
+      "o": [
+        "They create electricity",
+        "They trap insulating air",
+        "They stop all radiation",
+        "They eliminate gravity"
+      ],
+      "a": 1,
+      "e": "Trapped air reduces heat transfer.",
+      "d": "Easy",
+      "topic": "Physics in daily life",
+      "slo": "P-09-G-01"
+    },
+    {
+      "id": "PHY9CH9-062",
+      "q": "Choose the most accurate answer: why can fluffed bird feathers help in winter?",
+      "o": [
+        "They create electricity",
+        "They trap insulating air",
+        "They stop all radiation",
+        "They eliminate gravity"
+      ],
+      "a": 1,
+      "e": "Trapped air reduces heat transfer.",
+      "d": "Medium",
+      "topic": "Physics in daily life",
+      "slo": "P-09-G-01"
+    },
+    {
+      "id": "PHY9CH9-063",
+      "q": "For a Class 9 physics revision quiz, answer this: Why can fluffed bird feathers help in winter?",
+      "o": [
+        "They eliminate gravity",
+        "They create electricity",
+        "They stop all radiation",
+        "They trap insulating air"
+      ],
+      "a": 3,
+      "e": "Trapped air reduces heat transfer.",
+      "d": "Medium",
+      "topic": "Physics in daily life",
+      "slo": "P-09-G-01"
+    },
+    {
+      "id": "PHY9CH9-064",
+      "q": "Select the scientifically correct response to this question: Why can fluffed bird feathers help in winter?",
+      "o": [
+        "They trap insulating air",
+        "They eliminate gravity",
+        "They stop all radiation",
+        "They create electricity"
+      ],
+      "a": 0,
+      "e": "Trapped air reduces heat transfer.",
+      "d": "Hard",
+      "topic": "Physics in daily life",
+      "slo": "P-09-G-01"
+    },
+    {
+      "id": "PHY9CH9-065",
+      "q": "What contributes to the blue appearance of the sky?",
+      "o": [
+        "The Moon producing blue light",
+        "Reflection from ocean water everywhere",
+        "Absorption of all blue light by the ground",
+        "Scattering of sunlight by atmospheric molecules"
+      ],
+      "a": 3,
+      "e": "Atmospheric scattering affects the colors seen in the sky.",
+      "d": "Easy",
+      "topic": "Physics in daily life",
+      "slo": "P-09-G-01"
+    },
+    {
+      "id": "PHY9CH9-066",
+      "q": "Choose the most accurate answer: what contributes to the blue appearance of the sky?",
+      "o": [
+        "Reflection from ocean water everywhere",
+        "The Moon producing blue light",
+        "Absorption of all blue light by the ground",
+        "Scattering of sunlight by atmospheric molecules"
+      ],
+      "a": 3,
+      "e": "Atmospheric scattering affects the colors seen in the sky.",
+      "d": "Medium",
+      "topic": "Physics in daily life",
+      "slo": "P-09-G-01"
+    },
+    {
+      "id": "PHY9CH9-067",
+      "q": "For a Class 9 physics revision quiz, answer this: What contributes to the blue appearance of the sky?",
+      "o": [
+        "The Moon producing blue light",
+        "Scattering of sunlight by atmospheric molecules",
+        "Absorption of all blue light by the ground",
+        "Reflection from ocean water everywhere"
+      ],
+      "a": 1,
+      "e": "Atmospheric scattering affects the colors seen in the sky.",
+      "d": "Medium",
+      "topic": "Physics in daily life",
+      "slo": "P-09-G-01"
+    },
+    {
+      "id": "PHY9CH9-068",
+      "q": "Select the scientifically correct response to this question: What contributes to the blue appearance of the sky?",
+      "o": [
+        "Absorption of all blue light by the ground",
+        "The Moon producing blue light",
+        "Scattering of sunlight by atmospheric molecules",
+        "Reflection from ocean water everywhere"
+      ],
+      "a": 2,
+      "e": "Atmospheric scattering affects the colors seen in the sky.",
+      "d": "Hard",
+      "topic": "Physics in daily life",
+      "slo": "P-09-G-01"
+    },
+    {
+      "id": "PHY9CH9-069",
+      "q": "Why can large lakes moderate nearby climate?",
+      "o": [
+        "Water always stays at zero degrees",
+        "Water has a large heat capacity",
+        "Water cannot absorb heat",
+        "Water has no mass"
+      ],
+      "a": 1,
+      "e": "Water stores and releases substantial thermal energy.",
+      "d": "Easy",
+      "topic": "Physics in daily life",
+      "slo": "P-09-G-01"
+    },
+    {
+      "id": "PHY9CH9-070",
+      "q": "Choose the most accurate answer: why can large lakes moderate nearby climate?",
+      "o": [
+        "Water has no mass",
+        "Water cannot absorb heat",
+        "Water always stays at zero degrees",
+        "Water has a large heat capacity"
+      ],
+      "a": 3,
+      "e": "Water stores and releases substantial thermal energy.",
+      "d": "Medium",
+      "topic": "Physics in daily life",
+      "slo": "P-09-G-01"
+    },
+    {
+      "id": "PHY9CH9-071",
+      "q": "For a Class 9 physics revision quiz, answer this: Why can large lakes moderate nearby climate?",
+      "o": [
+        "Water has a large heat capacity",
+        "Water has no mass",
+        "Water cannot absorb heat",
+        "Water always stays at zero degrees"
+      ],
+      "a": 0,
+      "e": "Water stores and releases substantial thermal energy.",
+      "d": "Medium",
+      "topic": "Physics in daily life",
+      "slo": "P-09-G-01"
+    },
+    {
+      "id": "PHY9CH9-072",
+      "q": "Select the scientifically correct response to this question: Why can large lakes moderate nearby climate?",
+      "o": [
+        "Water always stays at zero degrees",
+        "Water has a large heat capacity",
+        "Water cannot absorb heat",
+        "Water has no mass"
+      ],
+      "a": 1,
+      "e": "Water stores and releases substantial thermal energy.",
+      "d": "Hard",
+      "topic": "Physics in daily life",
+      "slo": "P-09-G-01"
+    },
+    {
+      "id": "PHY9CH9-073",
+      "q": "Which physics principle helps explain a floating ship?",
+      "o": [
+        "Buoyancy and flotation",
+        "Nuclear fission",
+        "Magnetic repulsion alone",
+        "Sound resonance"
+      ],
+      "a": 0,
+      "e": "Buoyant force supports floating vessels.",
+      "d": "Easy",
+      "topic": "Physics in daily life",
+      "slo": "P-09-G-01"
+    },
+    {
+      "id": "PHY9CH9-074",
+      "q": "Choose the most accurate answer: which physics principle helps explain a floating ship?",
+      "o": [
+        "Sound resonance",
+        "Nuclear fission",
+        "Buoyancy and flotation",
+        "Magnetic repulsion alone"
+      ],
+      "a": 2,
+      "e": "Buoyant force supports floating vessels.",
+      "d": "Medium",
+      "topic": "Physics in daily life",
+      "slo": "P-09-G-01"
+    },
+    {
+      "id": "PHY9CH9-075",
+      "q": "For a Class 9 physics revision quiz, answer this: Which physics principle helps explain a floating ship?",
+      "o": [
+        "Buoyancy and flotation",
+        "Nuclear fission",
+        "Magnetic repulsion alone",
+        "Sound resonance"
+      ],
+      "a": 0,
+      "e": "Buoyant force supports floating vessels.",
+      "d": "Medium",
+      "topic": "Physics in daily life",
+      "slo": "P-09-G-01"
+    },
+    {
+      "id": "PHY9CH9-076",
+      "q": "Select the scientifically correct response to this question: Which physics principle helps explain a floating ship?",
+      "o": [
+        "Nuclear fission",
+        "Buoyancy and flotation",
+        "Magnetic repulsion alone",
+        "Sound resonance"
+      ],
+      "a": 1,
+      "e": "Buoyant force supports floating vessels.",
+      "d": "Hard",
+      "topic": "Physics in daily life",
+      "slo": "P-09-G-01"
+    },
+    {
+      "id": "PHY9CH9-077",
+      "q": "How does a car convert fuel energy into motion?",
+      "o": [
+        "It converts stored chemical energy into mechanical motion",
+        "It avoids energy transfer",
+        "It converts mass into time",
+        "It destroys energy"
+      ],
+      "a": 0,
+      "e": "Engines transform energy stored in fuel into motion and heat.",
+      "d": "Easy",
+      "topic": "Physics in daily life",
+      "slo": "P-09-G-01"
+    },
+    {
+      "id": "PHY9CH9-078",
+      "q": "Choose the most accurate answer: how does a car convert fuel energy into motion?",
+      "o": [
+        "It converts stored chemical energy into mechanical motion",
+        "It avoids energy transfer",
+        "It converts mass into time",
+        "It destroys energy"
+      ],
+      "a": 0,
+      "e": "Engines transform energy stored in fuel into motion and heat.",
+      "d": "Medium",
+      "topic": "Physics in daily life",
+      "slo": "P-09-G-01"
+    },
+    {
+      "id": "PHY9CH9-079",
+      "q": "For a Class 9 physics revision quiz, answer this: How does a car convert fuel energy into motion?",
+      "o": [
+        "It destroys energy",
+        "It converts stored chemical energy into mechanical motion",
+        "It converts mass into time",
+        "It avoids energy transfer"
+      ],
+      "a": 1,
+      "e": "Engines transform energy stored in fuel into motion and heat.",
+      "d": "Medium",
+      "topic": "Physics in daily life",
+      "slo": "P-09-G-01"
+    },
+    {
+      "id": "PHY9CH9-080",
+      "q": "Select the scientifically correct response to this question: How does a car convert fuel energy into motion?",
+      "o": [
+        "It converts stored chemical energy into mechanical motion",
+        "It avoids energy transfer",
+        "It destroys energy",
+        "It converts mass into time"
+      ],
+      "a": 0,
+      "e": "Engines transform energy stored in fuel into motion and heat.",
+      "d": "Hard",
+      "topic": "Physics in daily life",
+      "slo": "P-09-G-01"
+    },
+    {
+      "id": "PHY9CH9-081",
+      "q": "Which physics topic is crucial for mobile-phone communication?",
+      "o": [
+        "Electromagnetic waves",
+        "Plate tectonics alone",
+        "Plant photosynthesis",
+        "Ocean salinity alone"
+      ],
+      "a": 0,
+      "e": "Wireless devices transfer information using electromagnetic waves.",
+      "d": "Easy",
+      "topic": "Physics in daily life",
+      "slo": "P-09-G-01"
+    },
+    {
+      "id": "PHY9CH9-082",
+      "q": "Choose the most accurate answer: which physics topic is crucial for mobile-phone communication?",
+      "o": [
+        "Plant photosynthesis",
+        "Ocean salinity alone",
+        "Plate tectonics alone",
+        "Electromagnetic waves"
+      ],
+      "a": 3,
+      "e": "Wireless devices transfer information using electromagnetic waves.",
+      "d": "Medium",
+      "topic": "Physics in daily life",
+      "slo": "P-09-G-01"
+    },
+    {
+      "id": "PHY9CH9-083",
+      "q": "For a Class 9 physics revision quiz, answer this: Which physics topic is crucial for mobile-phone communication?",
+      "o": [
+        "Ocean salinity alone",
+        "Plant photosynthesis",
+        "Electromagnetic waves",
+        "Plate tectonics alone"
+      ],
+      "a": 2,
+      "e": "Wireless devices transfer information using electromagnetic waves.",
+      "d": "Medium",
+      "topic": "Physics in daily life",
+      "slo": "P-09-G-01"
+    },
+    {
+      "id": "PHY9CH9-084",
+      "q": "Select the scientifically correct response to this question: Which physics topic is crucial for mobile-phone communication?",
+      "o": [
+        "Electromagnetic waves",
+        "Ocean salinity alone",
+        "Plant photosynthesis",
+        "Plate tectonics alone"
+      ],
+      "a": 0,
+      "e": "Wireless devices transfer information using electromagnetic waves.",
+      "d": "Hard",
+      "topic": "Physics in daily life",
+      "slo": "P-09-G-01"
+    },
+    {
+      "id": "PHY9CH9-085",
+      "q": "Which device applies physics to seeing distant celestial objects?",
+      "o": [
+        "Thermostat only",
+        "Hydraulic jack",
+        "Stethoscope only",
+        "Telescope"
+      ],
+      "a": 3,
+      "e": "Telescopes collect and focus electromagnetic radiation.",
+      "d": "Easy",
+      "topic": "Physics in daily life",
+      "slo": "P-09-G-01"
+    },
+    {
+      "id": "PHY9CH9-086",
+      "q": "Choose the most accurate answer: which device applies physics to seeing distant celestial objects?",
+      "o": [
+        "Telescope",
+        "Hydraulic jack",
+        "Stethoscope only",
+        "Thermostat only"
+      ],
+      "a": 0,
+      "e": "Telescopes collect and focus electromagnetic radiation.",
+      "d": "Medium",
+      "topic": "Physics in daily life",
+      "slo": "P-09-G-01"
+    },
+    {
+      "id": "PHY9CH9-087",
+      "q": "For a Class 9 physics revision quiz, answer this: Which device applies physics to seeing distant celestial objects?",
+      "o": [
+        "Thermostat only",
+        "Stethoscope only",
+        "Hydraulic jack",
+        "Telescope"
+      ],
+      "a": 3,
+      "e": "Telescopes collect and focus electromagnetic radiation.",
+      "d": "Medium",
+      "topic": "Physics in daily life",
+      "slo": "P-09-G-01"
+    },
+    {
+      "id": "PHY9CH9-088",
+      "q": "Select the scientifically correct response to this question: Which device applies physics to seeing distant celestial objects?",
+      "o": [
+        "Telescope",
+        "Stethoscope only",
+        "Hydraulic jack",
+        "Thermostat only"
+      ],
+      "a": 0,
+      "e": "Telescopes collect and focus electromagnetic radiation.",
+      "d": "Hard",
+      "topic": "Physics in daily life",
+      "slo": "P-09-G-01"
+    },
+    {
+      "id": "PHY9CH9-089",
+      "q": "Which everyday object uses optical principles to correct vision?",
+      "o": [
+        "Bicycle chain",
+        "Door hinge",
+        "Eyeglasses",
+        "Spring balance"
+      ],
+      "a": 2,
+      "e": "Lenses in eyeglasses refract light to correct vision.",
+      "d": "Easy",
+      "topic": "Physics in daily life",
+      "slo": "P-09-G-01"
+    },
+    {
+      "id": "PHY9CH9-090",
+      "q": "Choose the most accurate answer: which everyday object uses optical principles to correct vision?",
+      "o": [
+        "Eyeglasses",
+        "Door hinge",
+        "Spring balance",
+        "Bicycle chain"
+      ],
+      "a": 0,
+      "e": "Lenses in eyeglasses refract light to correct vision.",
+      "d": "Medium",
+      "topic": "Physics in daily life",
+      "slo": "P-09-G-01"
+    },
+    {
+      "id": "PHY9CH9-091",
+      "q": "For a Class 9 physics revision quiz, answer this: Which everyday object uses optical principles to correct vision?",
+      "o": [
+        "Bicycle chain",
+        "Door hinge",
+        "Spring balance",
+        "Eyeglasses"
+      ],
+      "a": 3,
+      "e": "Lenses in eyeglasses refract light to correct vision.",
+      "d": "Medium",
+      "topic": "Physics in daily life",
+      "slo": "P-09-G-01"
+    },
+    {
+      "id": "PHY9CH9-092",
+      "q": "Select the scientifically correct response to this question: Which everyday object uses optical principles to correct vision?",
+      "o": [
+        "Spring balance",
+        "Eyeglasses",
+        "Bicycle chain",
+        "Door hinge"
+      ],
+      "a": 1,
+      "e": "Lenses in eyeglasses refract light to correct vision.",
+      "d": "Hard",
+      "topic": "Physics in daily life",
+      "slo": "P-09-G-01"
+    },
+    {
+      "id": "PHY9CH9-093",
+      "q": "Which field explains heat transfer in home air conditioners?",
+      "o": [
+        "Thermal physics",
+        "Botany",
+        "Genetics",
+        "Acoustics only"
+      ],
+      "a": 0,
+      "e": "Air conditioners transfer thermal energy.",
+      "d": "Easy",
+      "topic": "Physics in daily life",
+      "slo": "P-09-G-01"
+    },
+    {
+      "id": "PHY9CH9-094",
+      "q": "Choose the most accurate answer: which field explains heat transfer in home air conditioners?",
+      "o": [
+        "Thermal physics",
+        "Botany",
+        "Genetics",
+        "Acoustics only"
+      ],
+      "a": 0,
+      "e": "Air conditioners transfer thermal energy.",
+      "d": "Medium",
+      "topic": "Physics in daily life",
+      "slo": "P-09-G-01"
+    },
+    {
+      "id": "PHY9CH9-095",
+      "q": "For a Class 9 physics revision quiz, answer this: Which field explains heat transfer in home air conditioners?",
+      "o": [
+        "Acoustics only",
+        "Botany",
+        "Thermal physics",
+        "Genetics"
+      ],
+      "a": 2,
+      "e": "Air conditioners transfer thermal energy.",
+      "d": "Medium",
+      "topic": "Physics in daily life",
+      "slo": "P-09-G-01"
+    },
+    {
+      "id": "PHY9CH9-096",
+      "q": "Select the scientifically correct response to this question: Which field explains heat transfer in home air conditioners?",
+      "o": [
+        "Acoustics only",
+        "Genetics",
+        "Botany",
+        "Thermal physics"
+      ],
+      "a": 3,
+      "e": "Air conditioners transfer thermal energy.",
+      "d": "Hard",
+      "topic": "Physics in daily life",
+      "slo": "P-09-G-01"
+    },
+    {
+      "id": "PHY9CH9-097",
+      "q": "Which field applies physics to living organisms?",
+      "o": [
+        "Acoustics",
+        "Cosmology",
+        "Geology",
+        "Biophysics"
+      ],
+      "a": 3,
+      "e": "Biophysics studies physical processes in biological systems.",
+      "d": "Easy",
+      "topic": "Interdisciplinary physics",
+      "slo": "P-09-G-02"
+    },
+    {
+      "id": "PHY9CH9-098",
+      "q": "Choose the most accurate answer: which field applies physics to living organisms?",
+      "o": [
+        "Biophysics",
+        "Cosmology",
+        "Geology",
+        "Acoustics"
+      ],
+      "a": 0,
+      "e": "Biophysics studies physical processes in biological systems.",
+      "d": "Medium",
+      "topic": "Interdisciplinary physics",
+      "slo": "P-09-G-02"
+    },
+    {
+      "id": "PHY9CH9-099",
+      "q": "For a Class 9 physics revision quiz, answer this: Which field applies physics to living organisms?",
+      "o": [
+        "Cosmology",
+        "Geology",
+        "Acoustics",
+        "Biophysics"
+      ],
+      "a": 3,
+      "e": "Biophysics studies physical processes in biological systems.",
+      "d": "Medium",
+      "topic": "Interdisciplinary physics",
+      "slo": "P-09-G-02"
+    },
+    {
+      "id": "PHY9CH9-100",
+      "q": "Select the scientifically correct response to this question: Which field applies physics to living organisms?",
+      "o": [
+        "Geology",
+        "Acoustics",
+        "Biophysics",
+        "Cosmology"
+      ],
+      "a": 2,
+      "e": "Biophysics studies physical processes in biological systems.",
+      "d": "Hard",
+      "topic": "Interdisciplinary physics",
+      "slo": "P-09-G-02"
+    },
+    {
+      "id": "PHY9CH9-101",
+      "q": "Studying blood flow with fluid mechanics is an example of:",
+      "o": [
+        "Nuclear astrophysics",
+        "Classical literature",
+        "Biophysics",
+        "Optical astronomy"
+      ],
+      "a": 2,
+      "e": "Biophysics applies physical laws to biological functions.",
+      "d": "Easy",
+      "topic": "Interdisciplinary physics",
+      "slo": "P-09-G-02"
+    },
+    {
+      "id": "PHY9CH9-102",
+      "q": "Choose the most accurate answer: studying blood flow with fluid mechanics is an example of:",
+      "o": [
+        "Biophysics",
+        "Optical astronomy",
+        "Classical literature",
+        "Nuclear astrophysics"
+      ],
+      "a": 0,
+      "e": "Biophysics applies physical laws to biological functions.",
+      "d": "Medium",
+      "topic": "Interdisciplinary physics",
+      "slo": "P-09-G-02"
+    },
+    {
+      "id": "PHY9CH9-103",
+      "q": "For a Class 9 physics revision quiz, answer this: Studying blood flow with fluid mechanics is an example of:",
+      "o": [
+        "Classical literature",
+        "Optical astronomy",
+        "Biophysics",
+        "Nuclear astrophysics"
+      ],
+      "a": 2,
+      "e": "Biophysics applies physical laws to biological functions.",
+      "d": "Medium",
+      "topic": "Interdisciplinary physics",
+      "slo": "P-09-G-02"
+    },
+    {
+      "id": "PHY9CH9-104",
+      "q": "Select the scientifically correct response to this question: Studying blood flow with fluid mechanics is an example of:",
+      "o": [
+        "Nuclear astrophysics",
+        "Classical literature",
+        "Optical astronomy",
+        "Biophysics"
+      ],
+      "a": 3,
+      "e": "Biophysics applies physical laws to biological functions.",
+      "d": "Hard",
+      "topic": "Interdisciplinary physics",
+      "slo": "P-09-G-02"
+    },
+    {
+      "id": "PHY9CH9-105",
+      "q": "Using radiation for medical imaging is an application of:",
+      "o": [
+        "Geographical cartography only",
+        "Agricultural economics",
+        "Literary criticism",
+        "Biophysics"
+      ],
+      "a": 3,
+      "e": "Medical diagnostics use physical radiation principles.",
+      "d": "Easy",
+      "topic": "Interdisciplinary physics",
+      "slo": "P-09-G-02"
+    },
+    {
+      "id": "PHY9CH9-106",
+      "q": "Choose the most accurate answer: using radiation for medical imaging is an application of:",
+      "o": [
+        "Geographical cartography only",
+        "Agricultural economics",
+        "Literary criticism",
+        "Biophysics"
+      ],
+      "a": 3,
+      "e": "Medical diagnostics use physical radiation principles.",
+      "d": "Medium",
+      "topic": "Interdisciplinary physics",
+      "slo": "P-09-G-02"
+    },
+    {
+      "id": "PHY9CH9-107",
+      "q": "For a Class 9 physics revision quiz, answer this: Using radiation for medical imaging is an application of:",
+      "o": [
+        "Geographical cartography only",
+        "Biophysics",
+        "Literary criticism",
+        "Agricultural economics"
+      ],
+      "a": 1,
+      "e": "Medical diagnostics use physical radiation principles.",
+      "d": "Medium",
+      "topic": "Interdisciplinary physics",
+      "slo": "P-09-G-02"
+    },
+    {
+      "id": "PHY9CH9-108",
+      "q": "Select the scientifically correct response to this question: Using radiation for medical imaging is an application of:",
+      "o": [
+        "Biophysics",
+        "Agricultural economics",
+        "Literary criticism",
+        "Geographical cartography only"
+      ],
+      "a": 0,
+      "e": "Medical diagnostics use physical radiation principles.",
+      "d": "Hard",
+      "topic": "Interdisciplinary physics",
+      "slo": "P-09-G-02"
+    },
+    {
+      "id": "PHY9CH9-109",
+      "q": "Which field studies celestial objects beyond Earth’s atmosphere?",
+      "o": [
+        "Thermometry",
+        "Astronomy",
+        "Mechanics of bridges",
+        "Acoustics"
+      ],
+      "a": 1,
+      "e": "Astronomy studies objects and phenomena in space.",
+      "d": "Easy",
+      "topic": "Fields of physics",
+      "slo": "P-09-G-02"
+    },
+    {
+      "id": "PHY9CH9-110",
+      "q": "Choose the most accurate answer: which field studies celestial objects beyond Earth’s atmosphere?",
+      "o": [
+        "Thermometry",
+        "Mechanics of bridges",
+        "Acoustics",
+        "Astronomy"
+      ],
+      "a": 3,
+      "e": "Astronomy studies objects and phenomena in space.",
+      "d": "Medium",
+      "topic": "Fields of physics",
+      "slo": "P-09-G-02"
+    },
+    {
+      "id": "PHY9CH9-111",
+      "q": "For a Class 9 physics revision quiz, answer this: Which field studies celestial objects beyond Earth’s atmosphere?",
+      "o": [
+        "Acoustics",
+        "Astronomy",
+        "Mechanics of bridges",
+        "Thermometry"
+      ],
+      "a": 1,
+      "e": "Astronomy studies objects and phenomena in space.",
+      "d": "Medium",
+      "topic": "Fields of physics",
+      "slo": "P-09-G-02"
+    },
+    {
+      "id": "PHY9CH9-112",
+      "q": "Select the scientifically correct response to this question: Which field studies celestial objects beyond Earth’s atmosphere?",
+      "o": [
+        "Acoustics",
+        "Thermometry",
+        "Astronomy",
+        "Mechanics of bridges"
+      ],
+      "a": 2,
+      "e": "Astronomy studies objects and phenomena in space.",
+      "d": "Hard",
+      "topic": "Fields of physics",
+      "slo": "P-09-G-02"
+    },
+    {
+      "id": "PHY9CH9-113",
+      "q": "Which field studies the physical nature of stars?",
+      "o": [
+        "Materials accounting",
+        "Acoustics",
+        "Astrophysics",
+        "Biochemistry"
+      ],
+      "a": 2,
+      "e": "Astrophysics applies physics to stars and other celestial bodies.",
+      "d": "Easy",
+      "topic": "Fields of physics",
+      "slo": "P-09-G-02"
+    },
+    {
+      "id": "PHY9CH9-114",
+      "q": "Choose the most accurate answer: which field studies the physical nature of stars?",
+      "o": [
+        "Materials accounting",
+        "Biochemistry",
+        "Astrophysics",
+        "Acoustics"
+      ],
+      "a": 2,
+      "e": "Astrophysics applies physics to stars and other celestial bodies.",
+      "d": "Medium",
+      "topic": "Fields of physics",
+      "slo": "P-09-G-02"
+    },
+    {
+      "id": "PHY9CH9-115",
+      "q": "For a Class 9 physics revision quiz, answer this: Which field studies the physical nature of stars?",
+      "o": [
+        "Acoustics",
+        "Biochemistry",
+        "Astrophysics",
+        "Materials accounting"
+      ],
+      "a": 2,
+      "e": "Astrophysics applies physics to stars and other celestial bodies.",
+      "d": "Medium",
+      "topic": "Fields of physics",
+      "slo": "P-09-G-02"
+    },
+    {
+      "id": "PHY9CH9-116",
+      "q": "Select the scientifically correct response to this question: Which field studies the physical nature of stars?",
+      "o": [
+        "Acoustics",
+        "Biochemistry",
+        "Astrophysics",
+        "Materials accounting"
+      ],
+      "a": 2,
+      "e": "Astrophysics applies physics to stars and other celestial bodies.",
+      "d": "Hard",
+      "topic": "Fields of physics",
+      "slo": "P-09-G-02"
+    },
+    {
+      "id": "PHY9CH9-117",
+      "q": "Which field studies the origin and evolution of the universe?",
+      "o": [
+        "Biophysics",
+        "Optics",
+        "Cosmology",
+        "Acoustics"
+      ],
+      "a": 2,
+      "e": "Cosmology examines the universe as a whole.",
+      "d": "Easy",
+      "topic": "Fields of physics",
+      "slo": "P-09-G-02"
+    },
+    {
+      "id": "PHY9CH9-118",
+      "q": "Choose the most accurate answer: which field studies the origin and evolution of the universe?",
+      "o": [
+        "Cosmology",
+        "Biophysics",
+        "Acoustics",
+        "Optics"
+      ],
+      "a": 0,
+      "e": "Cosmology examines the universe as a whole.",
+      "d": "Medium",
+      "topic": "Fields of physics",
+      "slo": "P-09-G-02"
+    },
+    {
+      "id": "PHY9CH9-119",
+      "q": "For a Class 9 physics revision quiz, answer this: Which field studies the origin and evolution of the universe?",
+      "o": [
+        "Cosmology",
+        "Optics",
+        "Biophysics",
+        "Acoustics"
+      ],
+      "a": 0,
+      "e": "Cosmology examines the universe as a whole.",
+      "d": "Medium",
+      "topic": "Fields of physics",
+      "slo": "P-09-G-02"
+    },
+    {
+      "id": "PHY9CH9-120",
+      "q": "Select the scientifically correct response to this question: Which field studies the origin and evolution of the universe?",
+      "o": [
+        "Optics",
+        "Acoustics",
+        "Cosmology",
+        "Biophysics"
+      ],
+      "a": 2,
+      "e": "Cosmology examines the universe as a whole.",
+      "d": "Hard",
+      "topic": "Fields of physics",
+      "slo": "P-09-G-02"
+    },
+    {
+      "id": "PHY9CH9-121",
+      "q": "Which field studies light and its interactions with matter?",
+      "o": [
+        "Thermodynamics",
+        "Acoustics",
+        "Optics",
+        "Seismology"
+      ],
+      "a": 2,
+      "e": "Optics concerns light and optical instruments.",
+      "d": "Easy",
+      "topic": "Fields of physics",
+      "slo": "P-09-G-02"
+    },
+    {
+      "id": "PHY9CH9-122",
+      "q": "Choose the most accurate answer: which field studies light and its interactions with matter?",
+      "o": [
+        "Optics",
+        "Thermodynamics",
+        "Seismology",
+        "Acoustics"
+      ],
+      "a": 0,
+      "e": "Optics concerns light and optical instruments.",
+      "d": "Medium",
+      "topic": "Fields of physics",
+      "slo": "P-09-G-02"
+    },
+    {
+      "id": "PHY9CH9-123",
+      "q": "For a Class 9 physics revision quiz, answer this: Which field studies light and its interactions with matter?",
+      "o": [
+        "Optics",
+        "Seismology",
+        "Thermodynamics",
+        "Acoustics"
+      ],
+      "a": 0,
+      "e": "Optics concerns light and optical instruments.",
+      "d": "Medium",
+      "topic": "Fields of physics",
+      "slo": "P-09-G-02"
+    },
+    {
+      "id": "PHY9CH9-124",
+      "q": "Select the scientifically correct response to this question: Which field studies light and its interactions with matter?",
+      "o": [
+        "Seismology",
+        "Thermodynamics",
+        "Acoustics",
+        "Optics"
+      ],
+      "a": 3,
+      "e": "Optics concerns light and optical instruments.",
+      "d": "Hard",
+      "topic": "Fields of physics",
+      "slo": "P-09-G-02"
+    },
+    {
+      "id": "PHY9CH9-125",
+      "q": "Which field studies the structure of atomic nuclei?",
+      "o": [
+        "Classical astronomy",
+        "Nuclear physics",
+        "Optics",
+        "Acoustics"
+      ],
+      "a": 1,
+      "e": "Nuclear physics concerns nuclei and their properties.",
+      "d": "Easy",
+      "topic": "Fields of physics",
+      "slo": "P-09-G-02"
+    },
+    {
+      "id": "PHY9CH9-126",
+      "q": "Choose the most accurate answer: which field studies the structure of atomic nuclei?",
+      "o": [
+        "Optics",
+        "Acoustics",
+        "Nuclear physics",
+        "Classical astronomy"
+      ],
+      "a": 2,
+      "e": "Nuclear physics concerns nuclei and their properties.",
+      "d": "Medium",
+      "topic": "Fields of physics",
+      "slo": "P-09-G-02"
+    },
+    {
+      "id": "PHY9CH9-127",
+      "q": "For a Class 9 physics revision quiz, answer this: Which field studies the structure of atomic nuclei?",
+      "o": [
+        "Optics",
+        "Classical astronomy",
+        "Nuclear physics",
+        "Acoustics"
+      ],
+      "a": 2,
+      "e": "Nuclear physics concerns nuclei and their properties.",
+      "d": "Medium",
+      "topic": "Fields of physics",
+      "slo": "P-09-G-02"
+    },
+    {
+      "id": "PHY9CH9-128",
+      "q": "Select the scientifically correct response to this question: Which field studies the structure of atomic nuclei?",
+      "o": [
+        "Optics",
+        "Classical astronomy",
+        "Acoustics",
+        "Nuclear physics"
+      ],
+      "a": 3,
+      "e": "Nuclear physics concerns nuclei and their properties.",
+      "d": "Hard",
+      "topic": "Fields of physics",
+      "slo": "P-09-G-02"
+    },
+    {
+      "id": "PHY9CH9-129",
+      "q": "Which field studies fundamental particles and forces?",
+      "o": [
+        "Optics only",
+        "Botany",
+        "Particle physics",
+        "Meteorology only"
+      ],
+      "a": 2,
+      "e": "Particle physics investigates fundamental particles and interactions.",
+      "d": "Easy",
+      "topic": "Fields of physics",
+      "slo": "P-09-G-02"
+    },
+    {
+      "id": "PHY9CH9-130",
+      "q": "Choose the most accurate answer: which field studies fundamental particles and forces?",
+      "o": [
+        "Particle physics",
+        "Botany",
+        "Optics only",
+        "Meteorology only"
+      ],
+      "a": 0,
+      "e": "Particle physics investigates fundamental particles and interactions.",
+      "d": "Medium",
+      "topic": "Fields of physics",
+      "slo": "P-09-G-02"
+    },
+    {
+      "id": "PHY9CH9-131",
+      "q": "For a Class 9 physics revision quiz, answer this: Which field studies fundamental particles and forces?",
+      "o": [
+        "Particle physics",
+        "Optics only",
+        "Botany",
+        "Meteorology only"
+      ],
+      "a": 0,
+      "e": "Particle physics investigates fundamental particles and interactions.",
+      "d": "Medium",
+      "topic": "Fields of physics",
+      "slo": "P-09-G-02"
+    },
+    {
+      "id": "PHY9CH9-132",
+      "q": "Select the scientifically correct response to this question: Which field studies fundamental particles and forces?",
+      "o": [
+        "Meteorology only",
+        "Optics only",
+        "Particle physics",
+        "Botany"
+      ],
+      "a": 2,
+      "e": "Particle physics investigates fundamental particles and interactions.",
+      "d": "Hard",
+      "topic": "Fields of physics",
+      "slo": "P-09-G-02"
+    },
+    {
+      "id": "PHY9CH9-133",
+      "q": "Which field studies forces between electric charges?",
+      "o": [
+        "Acoustics",
+        "Cosmology",
+        "Genetics",
+        "Electromagnetism"
+      ],
+      "a": 3,
+      "e": "Electromagnetism studies electric and magnetic phenomena.",
+      "d": "Easy",
+      "topic": "Fields of physics",
+      "slo": "P-09-G-02"
+    },
+    {
+      "id": "PHY9CH9-134",
+      "q": "Choose the most accurate answer: which field studies forces between electric charges?",
+      "o": [
+        "Electromagnetism",
+        "Cosmology",
+        "Genetics",
+        "Acoustics"
+      ],
+      "a": 0,
+      "e": "Electromagnetism studies electric and magnetic phenomena.",
+      "d": "Medium",
+      "topic": "Fields of physics",
+      "slo": "P-09-G-02"
+    },
+    {
+      "id": "PHY9CH9-135",
+      "q": "For a Class 9 physics revision quiz, answer this: Which field studies forces between electric charges?",
+      "o": [
+        "Genetics",
+        "Acoustics",
+        "Cosmology",
+        "Electromagnetism"
+      ],
+      "a": 3,
+      "e": "Electromagnetism studies electric and magnetic phenomena.",
+      "d": "Medium",
+      "topic": "Fields of physics",
+      "slo": "P-09-G-02"
+    },
+    {
+      "id": "PHY9CH9-136",
+      "q": "Select the scientifically correct response to this question: Which field studies forces between electric charges?",
+      "o": [
+        "Electromagnetism",
+        "Genetics",
+        "Cosmology",
+        "Acoustics"
+      ],
+      "a": 0,
+      "e": "Electromagnetism studies electric and magnetic phenomena.",
+      "d": "Hard",
+      "topic": "Fields of physics",
+      "slo": "P-09-G-02"
+    },
+    {
+      "id": "PHY9CH9-137",
+      "q": "Which field studies sound production and transmission?",
+      "o": [
+        "Nuclear physics",
+        "Optics",
+        "Acoustics",
+        "Cosmology"
+      ],
+      "a": 2,
+      "e": "Acoustics is the physics of sound.",
+      "d": "Easy",
+      "topic": "Fields of physics",
+      "slo": "P-09-G-02"
+    },
+    {
+      "id": "PHY9CH9-138",
+      "q": "Choose the most accurate answer: which field studies sound production and transmission?",
+      "o": [
+        "Acoustics",
+        "Nuclear physics",
+        "Optics",
+        "Cosmology"
+      ],
+      "a": 0,
+      "e": "Acoustics is the physics of sound.",
+      "d": "Medium",
+      "topic": "Fields of physics",
+      "slo": "P-09-G-02"
+    },
+    {
+      "id": "PHY9CH9-139",
+      "q": "For a Class 9 physics revision quiz, answer this: Which field studies sound production and transmission?",
+      "o": [
+        "Optics",
+        "Acoustics",
+        "Cosmology",
+        "Nuclear physics"
+      ],
+      "a": 1,
+      "e": "Acoustics is the physics of sound.",
+      "d": "Medium",
+      "topic": "Fields of physics",
+      "slo": "P-09-G-02"
+    },
+    {
+      "id": "PHY9CH9-140",
+      "q": "Select the scientifically correct response to this question: Which field studies sound production and transmission?",
+      "o": [
+        "Nuclear physics",
+        "Cosmology",
+        "Optics",
+        "Acoustics"
+      ],
+      "a": 3,
+      "e": "Acoustics is the physics of sound.",
+      "d": "Hard",
+      "topic": "Fields of physics",
+      "slo": "P-09-G-02"
+    },
+    {
+      "id": "PHY9CH9-141",
+      "q": "Which field uses numerical analysis and computers for physics problems?",
+      "o": [
+        "Optical art",
+        "Botany",
+        "Medical ethics",
+        "Computational physics"
+      ],
+      "a": 3,
+      "e": "Computational physics applies computation to physical models.",
+      "d": "Easy",
+      "topic": "Fields of physics",
+      "slo": "P-09-G-02"
+    },
+    {
+      "id": "PHY9CH9-142",
+      "q": "Choose the most accurate answer: which field uses numerical analysis and computers for physics problems?",
+      "o": [
+        "Medical ethics",
+        "Botany",
+        "Computational physics",
+        "Optical art"
+      ],
+      "a": 2,
+      "e": "Computational physics applies computation to physical models.",
+      "d": "Medium",
+      "topic": "Fields of physics",
+      "slo": "P-09-G-02"
+    },
+    {
+      "id": "PHY9CH9-143",
+      "q": "For a Class 9 physics revision quiz, answer this: Which field uses numerical analysis and computers for physics problems?",
+      "o": [
+        "Optical art",
+        "Botany",
+        "Computational physics",
+        "Medical ethics"
+      ],
+      "a": 2,
+      "e": "Computational physics applies computation to physical models.",
+      "d": "Medium",
+      "topic": "Fields of physics",
+      "slo": "P-09-G-02"
+    },
+    {
+      "id": "PHY9CH9-144",
+      "q": "Select the scientifically correct response to this question: Which field uses numerical analysis and computers for physics problems?",
+      "o": [
+        "Botany",
+        "Optical art",
+        "Computational physics",
+        "Medical ethics"
+      ],
+      "a": 2,
+      "e": "Computational physics applies computation to physical models.",
+      "d": "Hard",
+      "topic": "Fields of physics",
+      "slo": "P-09-G-02"
+    },
+    {
+      "id": "PHY9CH9-145",
+      "q": "Which field focuses on heat, temperature and thermodynamics?",
+      "o": [
+        "Thermal physics",
+        "Acoustics",
+        "Nuclear chemistry only",
+        "Astronomy only"
+      ],
+      "a": 0,
+      "e": "Thermal physics investigates heat-related phenomena.",
+      "d": "Easy",
+      "topic": "Fields of physics",
+      "slo": "P-09-G-02"
+    },
+    {
+      "id": "PHY9CH9-146",
+      "q": "Choose the most accurate answer: which field focuses on heat, temperature and thermodynamics?",
+      "o": [
+        "Astronomy only",
+        "Nuclear chemistry only",
+        "Thermal physics",
+        "Acoustics"
+      ],
+      "a": 2,
+      "e": "Thermal physics investigates heat-related phenomena.",
+      "d": "Medium",
+      "topic": "Fields of physics",
+      "slo": "P-09-G-02"
+    },
+    {
+      "id": "PHY9CH9-147",
+      "q": "For a Class 9 physics revision quiz, answer this: Which field focuses on heat, temperature and thermodynamics?",
+      "o": [
+        "Acoustics",
+        "Thermal physics",
+        "Nuclear chemistry only",
+        "Astronomy only"
+      ],
+      "a": 1,
+      "e": "Thermal physics investigates heat-related phenomena.",
+      "d": "Medium",
+      "topic": "Fields of physics",
+      "slo": "P-09-G-02"
+    },
+    {
+      "id": "PHY9CH9-148",
+      "q": "Select the scientifically correct response to this question: Which field focuses on heat, temperature and thermodynamics?",
+      "o": [
+        "Nuclear chemistry only",
+        "Thermal physics",
+        "Acoustics",
+        "Astronomy only"
+      ],
+      "a": 1,
+      "e": "Thermal physics investigates heat-related phenomena.",
+      "d": "Hard",
+      "topic": "Fields of physics",
+      "slo": "P-09-G-02"
+    },
+    {
+      "id": "PHY9CH9-149",
+      "q": "Which field studies motion of large everyday objects under forces?",
+      "o": [
+        "Classical mechanics",
+        "Genetics",
+        "Botany",
+        "Quantum field theory only"
+      ],
+      "a": 0,
+      "e": "Classical mechanics describes macroscopic motion and forces.",
+      "d": "Easy",
+      "topic": "Fields of physics",
+      "slo": "P-09-G-02"
+    },
+    {
+      "id": "PHY9CH9-150",
+      "q": "Choose the most accurate answer: which field studies motion of large everyday objects under forces?",
+      "o": [
+        "Classical mechanics",
+        "Botany",
+        "Genetics",
+        "Quantum field theory only"
+      ],
+      "a": 0,
+      "e": "Classical mechanics describes macroscopic motion and forces.",
+      "d": "Medium",
+      "topic": "Fields of physics",
+      "slo": "P-09-G-02"
+    },
+    {
+      "id": "PHY9CH9-151",
+      "q": "For a Class 9 physics revision quiz, answer this: Which field studies motion of large everyday objects under forces?",
+      "o": [
+        "Classical mechanics",
+        "Genetics",
+        "Botany",
+        "Quantum field theory only"
+      ],
+      "a": 0,
+      "e": "Classical mechanics describes macroscopic motion and forces.",
+      "d": "Medium",
+      "topic": "Fields of physics",
+      "slo": "P-09-G-02"
+    },
+    {
+      "id": "PHY9CH9-152",
+      "q": "Select the scientifically correct response to this question: Which field studies motion of large everyday objects under forces?",
+      "o": [
+        "Classical mechanics",
+        "Quantum field theory only",
+        "Botany",
+        "Genetics"
+      ],
+      "a": 0,
+      "e": "Classical mechanics describes macroscopic motion and forces.",
+      "d": "Hard",
+      "topic": "Fields of physics",
+      "slo": "P-09-G-02"
+    },
+    {
+      "id": "PHY9CH9-153",
+      "q": "Which field studies behavior at atomic and subatomic scales?",
+      "o": [
+        "Acoustics only",
+        "Classical geography",
+        "Botany",
+        "Quantum mechanics"
+      ],
+      "a": 3,
+      "e": "Quantum mechanics describes microscopic physical behavior.",
+      "d": "Easy",
+      "topic": "Fields of physics",
+      "slo": "P-09-G-02"
+    },
+    {
+      "id": "PHY9CH9-154",
+      "q": "Choose the most accurate answer: which field studies behavior at atomic and subatomic scales?",
+      "o": [
+        "Quantum mechanics",
+        "Acoustics only",
+        "Classical geography",
+        "Botany"
+      ],
+      "a": 0,
+      "e": "Quantum mechanics describes microscopic physical behavior.",
+      "d": "Medium",
+      "topic": "Fields of physics",
+      "slo": "P-09-G-02"
+    },
+    {
+      "id": "PHY9CH9-155",
+      "q": "For a Class 9 physics revision quiz, answer this: Which field studies behavior at atomic and subatomic scales?",
+      "o": [
+        "Quantum mechanics",
+        "Classical geography",
+        "Acoustics only",
+        "Botany"
+      ],
+      "a": 0,
+      "e": "Quantum mechanics describes microscopic physical behavior.",
+      "d": "Medium",
+      "topic": "Fields of physics",
+      "slo": "P-09-G-02"
+    },
+    {
+      "id": "PHY9CH9-156",
+      "q": "Select the scientifically correct response to this question: Which field studies behavior at atomic and subatomic scales?",
+      "o": [
+        "Quantum mechanics",
+        "Classical geography",
+        "Botany",
+        "Acoustics only"
+      ],
+      "a": 0,
+      "e": "Quantum mechanics describes microscopic physical behavior.",
+      "d": "Hard",
+      "topic": "Fields of physics",
+      "slo": "P-09-G-02"
+    },
+    {
+      "id": "PHY9CH9-157",
+      "q": "Which field becomes especially important near the speed of light?",
+      "o": [
+        "Classical botany",
+        "Acoustics only",
+        "Thermometry only",
+        "Relativistic mechanics"
+      ],
+      "a": 3,
+      "e": "Relativity is important at speeds approaching light speed.",
+      "d": "Easy",
+      "topic": "Fields of physics",
+      "slo": "P-09-G-02"
+    },
+    {
+      "id": "PHY9CH9-158",
+      "q": "Choose the most accurate answer: which field becomes especially important near the speed of light?",
+      "o": [
+        "Relativistic mechanics",
+        "Acoustics only",
+        "Thermometry only",
+        "Classical botany"
+      ],
+      "a": 0,
+      "e": "Relativity is important at speeds approaching light speed.",
+      "d": "Medium",
+      "topic": "Fields of physics",
+      "slo": "P-09-G-02"
+    },
+    {
+      "id": "PHY9CH9-159",
+      "q": "For a Class 9 physics revision quiz, answer this: Which field becomes especially important near the speed of light?",
+      "o": [
+        "Relativistic mechanics",
+        "Acoustics only",
+        "Thermometry only",
+        "Classical botany"
+      ],
+      "a": 0,
+      "e": "Relativity is important at speeds approaching light speed.",
+      "d": "Medium",
+      "topic": "Fields of physics",
+      "slo": "P-09-G-02"
+    },
+    {
+      "id": "PHY9CH9-160",
+      "q": "Select the scientifically correct response to this question: Which field becomes especially important near the speed of light?",
+      "o": [
+        "Classical botany",
+        "Relativistic mechanics",
+        "Acoustics only",
+        "Thermometry only"
+      ],
+      "a": 1,
+      "e": "Relativity is important at speeds approaching light speed.",
+      "d": "Hard",
+      "topic": "Fields of physics",
+      "slo": "P-09-G-02"
+    },
+    {
+      "id": "PHY9CH9-161",
+      "q": "Which branch investigates physical processes in climate?",
+      "o": [
+        "Nuclear physics only",
+        "Climate physics",
+        "Botany only",
+        "Optics only"
+      ],
+      "a": 1,
+      "e": "Climate physics studies physical processes affecting climate.",
+      "d": "Easy",
+      "topic": "Fields of physics",
+      "slo": "P-09-G-02"
+    },
+    {
+      "id": "PHY9CH9-162",
+      "q": "Choose the most accurate answer: which branch investigates physical processes in climate?",
+      "o": [
+        "Botany only",
+        "Climate physics",
+        "Optics only",
+        "Nuclear physics only"
+      ],
+      "a": 1,
+      "e": "Climate physics studies physical processes affecting climate.",
+      "d": "Medium",
+      "topic": "Fields of physics",
+      "slo": "P-09-G-02"
+    },
+    {
+      "id": "PHY9CH9-163",
+      "q": "For a Class 9 physics revision quiz, answer this: Which branch investigates physical processes in climate?",
+      "o": [
+        "Nuclear physics only",
+        "Climate physics",
+        "Optics only",
+        "Botany only"
+      ],
+      "a": 1,
+      "e": "Climate physics studies physical processes affecting climate.",
+      "d": "Medium",
+      "topic": "Fields of physics",
+      "slo": "P-09-G-02"
+    },
+    {
+      "id": "PHY9CH9-164",
+      "q": "Select the scientifically correct response to this question: Which branch investigates physical processes in climate?",
+      "o": [
+        "Nuclear physics only",
+        "Climate physics",
+        "Botany only",
+        "Optics only"
+      ],
+      "a": 1,
+      "e": "Climate physics studies physical processes affecting climate.",
+      "d": "Hard",
+      "topic": "Fields of physics",
+      "slo": "P-09-G-02"
+    },
+    {
+      "id": "PHY9CH9-165",
+      "q": "Which field helps explain earthquake waves?",
+      "o": [
+        "Geophysics",
+        "Optical design only",
+        "Genetics",
+        "Acoustics of music only"
+      ],
+      "a": 0,
+      "e": "Geophysics applies physics to the Earth, including seismic waves.",
+      "d": "Easy",
+      "topic": "Fields of physics",
+      "slo": "P-09-G-02"
+    },
+    {
+      "id": "PHY9CH9-166",
+      "q": "Choose the most accurate answer: which field helps explain earthquake waves?",
+      "o": [
+        "Optical design only",
+        "Geophysics",
+        "Genetics",
+        "Acoustics of music only"
+      ],
+      "a": 1,
+      "e": "Geophysics applies physics to the Earth, including seismic waves.",
+      "d": "Medium",
+      "topic": "Fields of physics",
+      "slo": "P-09-G-02"
+    },
+    {
+      "id": "PHY9CH9-167",
+      "q": "For a Class 9 physics revision quiz, answer this: Which field helps explain earthquake waves?",
+      "o": [
+        "Acoustics of music only",
+        "Genetics",
+        "Optical design only",
+        "Geophysics"
+      ],
+      "a": 3,
+      "e": "Geophysics applies physics to the Earth, including seismic waves.",
+      "d": "Medium",
+      "topic": "Fields of physics",
+      "slo": "P-09-G-02"
+    },
+    {
+      "id": "PHY9CH9-168",
+      "q": "Select the scientifically correct response to this question: Which field helps explain earthquake waves?",
+      "o": [
+        "Acoustics of music only",
+        "Genetics",
+        "Geophysics",
+        "Optical design only"
+      ],
+      "a": 2,
+      "e": "Geophysics applies physics to the Earth, including seismic waves.",
+      "d": "Hard",
+      "topic": "Fields of physics",
+      "slo": "P-09-G-02"
+    },
+    {
+      "id": "PHY9CH9-169",
+      "q": "Why does chemistry draw on physics?",
+      "o": [
+        "Physics replaces chemical experiments",
+        "Chemistry has no relation to energy",
+        "Atomic and subatomic physics helps explain reactions",
+        "Chemical reactions never involve particles"
+      ],
+      "a": 2,
+      "e": "Physics helps explain interactions of particles in chemistry.",
+      "d": "Easy",
+      "topic": "Interdisciplinary physics",
+      "slo": "P-09-G-02"
+    },
+    {
+      "id": "PHY9CH9-170",
+      "q": "Choose the most accurate answer: why does chemistry draw on physics?",
+      "o": [
+        "Atomic and subatomic physics helps explain reactions",
+        "Chemistry has no relation to energy",
+        "Physics replaces chemical experiments",
+        "Chemical reactions never involve particles"
+      ],
+      "a": 0,
+      "e": "Physics helps explain interactions of particles in chemistry.",
+      "d": "Medium",
+      "topic": "Interdisciplinary physics",
+      "slo": "P-09-G-02"
+    },
+    {
+      "id": "PHY9CH9-171",
+      "q": "For a Class 9 physics revision quiz, answer this: Why does chemistry draw on physics?",
+      "o": [
+        "Physics replaces chemical experiments",
+        "Chemical reactions never involve particles",
+        "Chemistry has no relation to energy",
+        "Atomic and subatomic physics helps explain reactions"
+      ],
+      "a": 3,
+      "e": "Physics helps explain interactions of particles in chemistry.",
+      "d": "Medium",
+      "topic": "Interdisciplinary physics",
+      "slo": "P-09-G-02"
+    },
+    {
+      "id": "PHY9CH9-172",
+      "q": "Select the scientifically correct response to this question: Why does chemistry draw on physics?",
+      "o": [
+        "Chemistry has no relation to energy",
+        "Physics replaces chemical experiments",
+        "Chemical reactions never involve particles",
+        "Atomic and subatomic physics helps explain reactions"
+      ],
+      "a": 3,
+      "e": "Physics helps explain interactions of particles in chemistry.",
+      "d": "Hard",
+      "topic": "Interdisciplinary physics",
+      "slo": "P-09-G-02"
+    },
+    {
+      "id": "PHY9CH9-173",
+      "q": "Why does geology use seismic wave physics?",
+      "o": [
+        "To classify animal species",
+        "To design computer fonts",
+        "To determine grammar rules",
+        "To locate and study earthquakes"
+      ],
+      "a": 3,
+      "e": "Seismic waves help locate earthquakes and infer Earth structure.",
+      "d": "Easy",
+      "topic": "Interdisciplinary physics",
+      "slo": "P-09-G-02"
+    },
+    {
+      "id": "PHY9CH9-174",
+      "q": "Choose the most accurate answer: why does geology use seismic wave physics?",
+      "o": [
+        "To determine grammar rules",
+        "To classify animal species",
+        "To locate and study earthquakes",
+        "To design computer fonts"
+      ],
+      "a": 2,
+      "e": "Seismic waves help locate earthquakes and infer Earth structure.",
+      "d": "Medium",
+      "topic": "Interdisciplinary physics",
+      "slo": "P-09-G-02"
+    },
+    {
+      "id": "PHY9CH9-175",
+      "q": "For a Class 9 physics revision quiz, answer this: Why does geology use seismic wave physics?",
+      "o": [
+        "To determine grammar rules",
+        "To classify animal species",
+        "To locate and study earthquakes",
+        "To design computer fonts"
+      ],
+      "a": 2,
+      "e": "Seismic waves help locate earthquakes and infer Earth structure.",
+      "d": "Medium",
+      "topic": "Interdisciplinary physics",
+      "slo": "P-09-G-02"
+    },
+    {
+      "id": "PHY9CH9-176",
+      "q": "Select the scientifically correct response to this question: Why does geology use seismic wave physics?",
+      "o": [
+        "To locate and study earthquakes",
+        "To design computer fonts",
+        "To determine grammar rules",
+        "To classify animal species"
+      ],
+      "a": 0,
+      "e": "Seismic waves help locate earthquakes and infer Earth structure.",
+      "d": "Hard",
+      "topic": "Interdisciplinary physics",
+      "slo": "P-09-G-02"
+    },
+    {
+      "id": "PHY9CH9-177",
+      "q": "What best illustrates interdisciplinary scientific work?",
+      "o": [
+        "A researcher rejecting all other disciplines",
+        "Physicists and biologists jointly studying blood flow",
+        "Scientists never sharing results",
+        "Working without any evidence"
+      ],
+      "a": 1,
+      "e": "Complex scientific problems often need several specialties.",
+      "d": "Easy",
+      "topic": "Interdisciplinary physics",
+      "slo": "P-09-G-05"
+    },
+    {
+      "id": "PHY9CH9-178",
+      "q": "Choose the most accurate answer: what best illustrates interdisciplinary scientific work?",
+      "o": [
+        "Scientists never sharing results",
+        "Working without any evidence",
+        "A researcher rejecting all other disciplines",
+        "Physicists and biologists jointly studying blood flow"
+      ],
+      "a": 3,
+      "e": "Complex scientific problems often need several specialties.",
+      "d": "Medium",
+      "topic": "Interdisciplinary physics",
+      "slo": "P-09-G-05"
+    },
+    {
+      "id": "PHY9CH9-179",
+      "q": "For a Class 9 physics revision quiz, answer this: What best illustrates interdisciplinary scientific work?",
+      "o": [
+        "A researcher rejecting all other disciplines",
+        "Scientists never sharing results",
+        "Physicists and biologists jointly studying blood flow",
+        "Working without any evidence"
+      ],
+      "a": 2,
+      "e": "Complex scientific problems often need several specialties.",
+      "d": "Medium",
+      "topic": "Interdisciplinary physics",
+      "slo": "P-09-G-05"
+    },
+    {
+      "id": "PHY9CH9-180",
+      "q": "Select the scientifically correct response to this question: What best illustrates interdisciplinary scientific work?",
+      "o": [
+        "Working without any evidence",
+        "Scientists never sharing results",
+        "Physicists and biologists jointly studying blood flow",
+        "A researcher rejecting all other disciplines"
+      ],
+      "a": 2,
+      "e": "Complex scientific problems often need several specialties.",
+      "d": "Hard",
+      "topic": "Interdisciplinary physics",
+      "slo": "P-09-G-05"
+    },
+    {
+      "id": "PHY9CH9-181",
+      "q": "Why is criticism of ideas important in science?",
+      "o": [
+        "It makes testing unnecessary",
+        "It prevents collaboration",
+        "It helps detect errors and improve explanations",
+        "It proves every initial idea"
+      ],
+      "a": 2,
+      "e": "Constructive critique helps refine scientific knowledge.",
+      "d": "Easy",
+      "topic": "Scientific collaboration",
+      "slo": "P-09-G-05"
+    },
+    {
+      "id": "PHY9CH9-182",
+      "q": "Choose the most accurate answer: why is criticism of ideas important in science?",
+      "o": [
+        "It helps detect errors and improve explanations",
+        "It makes testing unnecessary",
+        "It prevents collaboration",
+        "It proves every initial idea"
+      ],
+      "a": 0,
+      "e": "Constructive critique helps refine scientific knowledge.",
+      "d": "Medium",
+      "topic": "Scientific collaboration",
+      "slo": "P-09-G-05"
+    },
+    {
+      "id": "PHY9CH9-183",
+      "q": "For a Class 9 physics revision quiz, answer this: Why is criticism of ideas important in science?",
+      "o": [
+        "It makes testing unnecessary",
+        "It helps detect errors and improve explanations",
+        "It prevents collaboration",
+        "It proves every initial idea"
+      ],
+      "a": 1,
+      "e": "Constructive critique helps refine scientific knowledge.",
+      "d": "Medium",
+      "topic": "Scientific collaboration",
+      "slo": "P-09-G-05"
+    },
+    {
+      "id": "PHY9CH9-184",
+      "q": "Select the scientifically correct response to this question: Why is criticism of ideas important in science?",
+      "o": [
+        "It proves every initial idea",
+        "It makes testing unnecessary",
+        "It prevents collaboration",
+        "It helps detect errors and improve explanations"
+      ],
+      "a": 3,
+      "e": "Constructive critique helps refine scientific knowledge.",
+      "d": "Hard",
+      "topic": "Scientific collaboration",
+      "slo": "P-09-G-05"
+    },
+    {
+      "id": "PHY9CH9-185",
+      "q": "Which practice supports reliable collaborative science?",
+      "o": [
+        "Selecting only convenient measurements",
+        "Sharing methods and evidence for scrutiny",
+        "Ignoring conflicting results",
+        "Keeping all methods secret"
+      ],
+      "a": 1,
+      "e": "Open scrutiny supports reproducibility and improvement.",
+      "d": "Easy",
+      "topic": "Scientific collaboration",
+      "slo": "P-09-G-05"
+    },
+    {
+      "id": "PHY9CH9-186",
+      "q": "Choose the most accurate answer: which practice supports reliable collaborative science?",
+      "o": [
+        "Ignoring conflicting results",
+        "Sharing methods and evidence for scrutiny",
+        "Selecting only convenient measurements",
+        "Keeping all methods secret"
+      ],
+      "a": 1,
+      "e": "Open scrutiny supports reproducibility and improvement.",
+      "d": "Medium",
+      "topic": "Scientific collaboration",
+      "slo": "P-09-G-05"
+    },
+    {
+      "id": "PHY9CH9-187",
+      "q": "For a Class 9 physics revision quiz, answer this: Which practice supports reliable collaborative science?",
+      "o": [
+        "Keeping all methods secret",
+        "Ignoring conflicting results",
+        "Selecting only convenient measurements",
+        "Sharing methods and evidence for scrutiny"
+      ],
+      "a": 3,
+      "e": "Open scrutiny supports reproducibility and improvement.",
+      "d": "Medium",
+      "topic": "Scientific collaboration",
+      "slo": "P-09-G-05"
+    },
+    {
+      "id": "PHY9CH9-188",
+      "q": "Select the scientifically correct response to this question: Which practice supports reliable collaborative science?",
+      "o": [
+        "Sharing methods and evidence for scrutiny",
+        "Keeping all methods secret",
+        "Selecting only convenient measurements",
+        "Ignoring conflicting results"
+      ],
+      "a": 0,
+      "e": "Open scrutiny supports reproducibility and improvement.",
+      "d": "Hard",
+      "topic": "Scientific collaboration",
+      "slo": "P-09-G-05"
+    },
+    {
+      "id": "PHY9CH9-189",
+      "q": "Why might an engineer work with a physicist?",
+      "o": [
+        "To apply physical principles to a practical design",
+        "To avoid testing prototypes",
+        "To eliminate measurement",
+        "To replace all calculations with guesses"
+      ],
+      "a": 0,
+      "e": "Engineering designs often use physics research.",
+      "d": "Easy",
+      "topic": "Scientific collaboration",
+      "slo": "P-09-G-05"
+    },
+    {
+      "id": "PHY9CH9-190",
+      "q": "Choose the most accurate answer: why might an engineer work with a physicist?",
+      "o": [
+        "To apply physical principles to a practical design",
+        "To avoid testing prototypes",
+        "To replace all calculations with guesses",
+        "To eliminate measurement"
+      ],
+      "a": 0,
+      "e": "Engineering designs often use physics research.",
+      "d": "Medium",
+      "topic": "Scientific collaboration",
+      "slo": "P-09-G-05"
+    },
+    {
+      "id": "PHY9CH9-191",
+      "q": "For a Class 9 physics revision quiz, answer this: Why might an engineer work with a physicist?",
+      "o": [
+        "To avoid testing prototypes",
+        "To apply physical principles to a practical design",
+        "To replace all calculations with guesses",
+        "To eliminate measurement"
+      ],
+      "a": 1,
+      "e": "Engineering designs often use physics research.",
+      "d": "Medium",
+      "topic": "Scientific collaboration",
+      "slo": "P-09-G-05"
+    },
+    {
+      "id": "PHY9CH9-192",
+      "q": "Select the scientifically correct response to this question: Why might an engineer work with a physicist?",
+      "o": [
+        "To replace all calculations with guesses",
+        "To avoid testing prototypes",
+        "To apply physical principles to a practical design",
+        "To eliminate measurement"
+      ],
+      "a": 2,
+      "e": "Engineering designs often use physics research.",
+      "d": "Hard",
+      "topic": "Scientific collaboration",
+      "slo": "P-09-G-05"
+    },
+    {
+      "id": "PHY9CH9-193",
+      "q": "Which scientist extended Newtonian mechanics for very high speeds?",
+      "o": [
+        "Albert Einstein",
+        "Charles Darwin",
+        "Louis Pasteur",
+        "Gregor Mendel"
+      ],
+      "a": 0,
+      "e": "Einstein developed relativity, which improves high-speed descriptions.",
+      "d": "Easy",
+      "topic": "Scientific collaboration",
+      "slo": "P-09-G-05"
+    },
+    {
+      "id": "PHY9CH9-194",
+      "q": "Choose the most accurate answer: which scientist extended Newtonian mechanics for very high speeds?",
+      "o": [
+        "Gregor Mendel",
+        "Charles Darwin",
+        "Albert Einstein",
+        "Louis Pasteur"
+      ],
+      "a": 2,
+      "e": "Einstein developed relativity, which improves high-speed descriptions.",
+      "d": "Medium",
+      "topic": "Scientific collaboration",
+      "slo": "P-09-G-05"
+    },
+    {
+      "id": "PHY9CH9-195",
+      "q": "For a Class 9 physics revision quiz, answer this: Which scientist extended Newtonian mechanics for very high speeds?",
+      "o": [
+        "Charles Darwin",
+        "Gregor Mendel",
+        "Louis Pasteur",
+        "Albert Einstein"
+      ],
+      "a": 3,
+      "e": "Einstein developed relativity, which improves high-speed descriptions.",
+      "d": "Medium",
+      "topic": "Scientific collaboration",
+      "slo": "P-09-G-05"
+    },
+    {
+      "id": "PHY9CH9-196",
+      "q": "Select the scientifically correct response to this question: Which scientist extended Newtonian mechanics for very high speeds?",
+      "o": [
+        "Charles Darwin",
+        "Louis Pasteur",
+        "Gregor Mendel",
+        "Albert Einstein"
+      ],
+      "a": 3,
+      "e": "Einstein developed relativity, which improves high-speed descriptions.",
+      "d": "Hard",
+      "topic": "Scientific collaboration",
+      "slo": "P-09-G-05"
+    },
+    {
+      "id": "PHY9CH9-197",
+      "q": "At everyday low speeds, relativity usually gives results that are:",
+      "o": [
+        "Unrelated to motion",
+        "Impossible to compare",
+        "Always opposite to Newtonian predictions",
+        "Very close to Newtonian predictions"
+      ],
+      "a": 3,
+      "e": "Newtonian mechanics approximates relativity at low speeds.",
+      "d": "Easy",
+      "topic": "Scientific collaboration",
+      "slo": "P-09-G-05"
+    },
+    {
+      "id": "PHY9CH9-198",
+      "q": "Choose the most accurate answer: at everyday low speeds, relativity usually gives results that are:",
+      "o": [
+        "Impossible to compare",
+        "Very close to Newtonian predictions",
+        "Unrelated to motion",
+        "Always opposite to Newtonian predictions"
+      ],
+      "a": 1,
+      "e": "Newtonian mechanics approximates relativity at low speeds.",
+      "d": "Medium",
+      "topic": "Scientific collaboration",
+      "slo": "P-09-G-05"
+    },
+    {
+      "id": "PHY9CH9-199",
+      "q": "For a Class 9 physics revision quiz, answer this: At everyday low speeds, relativity usually gives results that are:",
+      "o": [
+        "Very close to Newtonian predictions",
+        "Unrelated to motion",
+        "Impossible to compare",
+        "Always opposite to Newtonian predictions"
+      ],
+      "a": 0,
+      "e": "Newtonian mechanics approximates relativity at low speeds.",
+      "d": "Medium",
+      "topic": "Scientific collaboration",
+      "slo": "P-09-G-05"
+    },
+    {
+      "id": "PHY9CH9-200",
+      "q": "Select the scientifically correct response to this question: At everyday low speeds, relativity usually gives results that are:",
+      "o": [
+        "Very close to Newtonian predictions",
+        "Impossible to compare",
+        "Unrelated to motion",
+        "Always opposite to Newtonian predictions"
+      ],
+      "a": 0,
+      "e": "Newtonian mechanics approximates relativity at low speeds.",
+      "d": "Hard",
+      "topic": "Scientific collaboration",
+      "slo": "P-09-G-05"
+    },
+    {
+      "id": "PHY9CH9-201",
+      "q": "What is a scientific hypothesis?",
+      "o": [
+        "A measurement instrument",
+        "A personal preference",
+        "A tentative, testable explanation",
+        "An unchangeable fact"
+      ],
+      "a": 2,
+      "e": "A hypothesis is a proposal that can be investigated.",
+      "d": "Easy",
+      "topic": "Hypotheses",
+      "slo": "P-09-G-06"
+    },
+    {
+      "id": "PHY9CH9-202",
+      "q": "Choose the most accurate answer: what is a scientific hypothesis?",
+      "o": [
+        "An unchangeable fact",
+        "A tentative, testable explanation",
+        "A personal preference",
+        "A measurement instrument"
+      ],
+      "a": 1,
+      "e": "A hypothesis is a proposal that can be investigated.",
+      "d": "Medium",
+      "topic": "Hypotheses",
+      "slo": "P-09-G-06"
+    },
+    {
+      "id": "PHY9CH9-203",
+      "q": "For a Class 9 physics revision quiz, answer this: What is a scientific hypothesis?",
+      "o": [
+        "A measurement instrument",
+        "A tentative, testable explanation",
+        "An unchangeable fact",
+        "A personal preference"
+      ],
+      "a": 1,
+      "e": "A hypothesis is a proposal that can be investigated.",
+      "d": "Medium",
+      "topic": "Hypotheses",
+      "slo": "P-09-G-06"
+    },
+    {
+      "id": "PHY9CH9-204",
+      "q": "Select the scientifically correct response to this question: What is a scientific hypothesis?",
+      "o": [
+        "An unchangeable fact",
+        "A personal preference",
+        "A tentative, testable explanation",
+        "A measurement instrument"
+      ],
+      "a": 2,
+      "e": "A hypothesis is a proposal that can be investigated.",
+      "d": "Hard",
+      "topic": "Hypotheses",
+      "slo": "P-09-G-06"
+    },
+    {
+      "id": "PHY9CH9-205",
+      "q": "When is a hypothesis scientifically useful?",
+      "o": [
+        "When it uses complicated words",
+        "When no observation could ever challenge it",
+        "When it is popular",
+        "When observations or experiments can test it"
+      ],
+      "a": 3,
+      "e": "Testability is essential for scientific hypotheses.",
+      "d": "Easy",
+      "topic": "Hypotheses",
+      "slo": "P-09-G-06"
+    },
+    {
+      "id": "PHY9CH9-206",
+      "q": "Choose the most accurate answer: when is a hypothesis scientifically useful?",
+      "o": [
+        "When it uses complicated words",
+        "When no observation could ever challenge it",
+        "When it is popular",
+        "When observations or experiments can test it"
+      ],
+      "a": 3,
+      "e": "Testability is essential for scientific hypotheses.",
+      "d": "Medium",
+      "topic": "Hypotheses",
+      "slo": "P-09-G-06"
+    },
+    {
+      "id": "PHY9CH9-207",
+      "q": "For a Class 9 physics revision quiz, answer this: When is a hypothesis scientifically useful?",
+      "o": [
+        "When it is popular",
+        "When no observation could ever challenge it",
+        "When it uses complicated words",
+        "When observations or experiments can test it"
+      ],
+      "a": 3,
+      "e": "Testability is essential for scientific hypotheses.",
+      "d": "Medium",
+      "topic": "Hypotheses",
+      "slo": "P-09-G-06"
+    },
+    {
+      "id": "PHY9CH9-208",
+      "q": "Select the scientifically correct response to this question: When is a hypothesis scientifically useful?",
+      "o": [
+        "When no observation could ever challenge it",
+        "When it is popular",
+        "When it uses complicated words",
+        "When observations or experiments can test it"
+      ],
+      "a": 3,
+      "e": "Testability is essential for scientific hypotheses.",
+      "d": "Hard",
+      "topic": "Hypotheses",
+      "slo": "P-09-G-06"
+    },
+    {
+      "id": "PHY9CH9-209",
+      "q": "Why form a hypothesis before an experiment?",
+      "o": [
+        "To avoid identifying variables",
+        "To guarantee the desired result",
+        "To guide predictions and experimental design",
+        "To ignore unexpected evidence"
+      ],
+      "a": 2,
+      "e": "A hypothesis helps focus what an experiment tests.",
+      "d": "Easy",
+      "topic": "Hypotheses",
+      "slo": "P-09-G-06"
+    },
+    {
+      "id": "PHY9CH9-210",
+      "q": "Choose the most accurate answer: why form a hypothesis before an experiment?",
+      "o": [
+        "To guide predictions and experimental design",
+        "To avoid identifying variables",
+        "To ignore unexpected evidence",
+        "To guarantee the desired result"
+      ],
+      "a": 0,
+      "e": "A hypothesis helps focus what an experiment tests.",
+      "d": "Medium",
+      "topic": "Hypotheses",
+      "slo": "P-09-G-06"
+    },
+    {
+      "id": "PHY9CH9-211",
+      "q": "For a Class 9 physics revision quiz, answer this: Why form a hypothesis before an experiment?",
+      "o": [
+        "To avoid identifying variables",
+        "To ignore unexpected evidence",
+        "To guide predictions and experimental design",
+        "To guarantee the desired result"
+      ],
+      "a": 2,
+      "e": "A hypothesis helps focus what an experiment tests.",
+      "d": "Medium",
+      "topic": "Hypotheses",
+      "slo": "P-09-G-06"
+    },
+    {
+      "id": "PHY9CH9-212",
+      "q": "Select the scientifically correct response to this question: Why form a hypothesis before an experiment?",
+      "o": [
+        "To guide predictions and experimental design",
+        "To ignore unexpected evidence",
+        "To avoid identifying variables",
+        "To guarantee the desired result"
+      ],
+      "a": 0,
+      "e": "A hypothesis helps focus what an experiment tests.",
+      "d": "Hard",
+      "topic": "Hypotheses",
+      "slo": "P-09-G-06"
+    },
+    {
+      "id": "PHY9CH9-213",
+      "q": "What should a researcher do if results contradict a hypothesis?",
+      "o": [
+        "Hide the results",
+        "Revise or reject it based on evidence",
+        "Change measurements to fit it",
+        "Declare it a law immediately"
+      ],
+      "a": 1,
+      "e": "Scientific ideas must respond to contrary evidence.",
+      "d": "Easy",
+      "topic": "Hypotheses",
+      "slo": "P-09-G-06"
+    },
+    {
+      "id": "PHY9CH9-214",
+      "q": "Choose the most accurate answer: what should a researcher do if results contradict a hypothesis?",
+      "o": [
+        "Declare it a law immediately",
+        "Revise or reject it based on evidence",
+        "Hide the results",
+        "Change measurements to fit it"
+      ],
+      "a": 1,
+      "e": "Scientific ideas must respond to contrary evidence.",
+      "d": "Medium",
+      "topic": "Hypotheses",
+      "slo": "P-09-G-06"
+    },
+    {
+      "id": "PHY9CH9-215",
+      "q": "For a Class 9 physics revision quiz, answer this: What should a researcher do if results contradict a hypothesis?",
+      "o": [
+        "Declare it a law immediately",
+        "Hide the results",
+        "Revise or reject it based on evidence",
+        "Change measurements to fit it"
+      ],
+      "a": 2,
+      "e": "Scientific ideas must respond to contrary evidence.",
+      "d": "Medium",
+      "topic": "Hypotheses",
+      "slo": "P-09-G-06"
+    },
+    {
+      "id": "PHY9CH9-216",
+      "q": "Select the scientifically correct response to this question: What should a researcher do if results contradict a hypothesis?",
+      "o": [
+        "Hide the results",
+        "Revise or reject it based on evidence",
+        "Change measurements to fit it",
+        "Declare it a law immediately"
+      ],
+      "a": 1,
+      "e": "Scientific ideas must respond to contrary evidence.",
+      "d": "Hard",
+      "topic": "Hypotheses",
+      "slo": "P-09-G-06"
+    },
+    {
+      "id": "PHY9CH9-217",
+      "q": "Which is a testable hypothesis?",
+      "o": [
+        "Every result must agree with me",
+        "Invisible forces do whatever they want",
+        "A longer pendulum has a longer period under specified conditions",
+        "Nature always prefers beauty"
+      ],
+      "a": 2,
+      "e": "A pendulum claim can be checked by measurement.",
+      "d": "Easy",
+      "topic": "Hypotheses",
+      "slo": "P-09-G-06"
+    },
+    {
+      "id": "PHY9CH9-218",
+      "q": "Choose the most accurate answer: which is a testable hypothesis?",
+      "o": [
+        "A longer pendulum has a longer period under specified conditions",
+        "Nature always prefers beauty",
+        "Invisible forces do whatever they want",
+        "Every result must agree with me"
+      ],
+      "a": 0,
+      "e": "A pendulum claim can be checked by measurement.",
+      "d": "Medium",
+      "topic": "Hypotheses",
+      "slo": "P-09-G-06"
+    },
+    {
+      "id": "PHY9CH9-219",
+      "q": "For a Class 9 physics revision quiz, answer this: Which is a testable hypothesis?",
+      "o": [
+        "Invisible forces do whatever they want",
+        "A longer pendulum has a longer period under specified conditions",
+        "Nature always prefers beauty",
+        "Every result must agree with me"
+      ],
+      "a": 1,
+      "e": "A pendulum claim can be checked by measurement.",
+      "d": "Medium",
+      "topic": "Hypotheses",
+      "slo": "P-09-G-06"
+    },
+    {
+      "id": "PHY9CH9-220",
+      "q": "Select the scientifically correct response to this question: Which is a testable hypothesis?",
+      "o": [
+        "Invisible forces do whatever they want",
+        "Nature always prefers beauty",
+        "A longer pendulum has a longer period under specified conditions",
+        "Every result must agree with me"
+      ],
+      "a": 2,
+      "e": "A pendulum claim can be checked by measurement.",
+      "d": "Hard",
+      "topic": "Hypotheses",
+      "slo": "P-09-G-06"
+    },
+    {
+      "id": "PHY9CH9-221",
+      "q": "What is a scientific theory?",
+      "o": [
+        "An instrument for measuring force",
+        "A rule against experimentation",
+        "An unsupported guess",
+        "A well-supported explanation of natural phenomena"
+      ],
+      "a": 3,
+      "e": "Scientific theories explain observations and have strong evidential support.",
+      "d": "Easy",
+      "topic": "Theories",
+      "slo": "P-09-G-06"
+    },
+    {
+      "id": "PHY9CH9-222",
+      "q": "Choose the most accurate answer: what is a scientific theory?",
+      "o": [
+        "An instrument for measuring force",
+        "An unsupported guess",
+        "A rule against experimentation",
+        "A well-supported explanation of natural phenomena"
+      ],
+      "a": 3,
+      "e": "Scientific theories explain observations and have strong evidential support.",
+      "d": "Medium",
+      "topic": "Theories",
+      "slo": "P-09-G-06"
+    },
+    {
+      "id": "PHY9CH9-223",
+      "q": "For a Class 9 physics revision quiz, answer this: What is a scientific theory?",
+      "o": [
+        "A well-supported explanation of natural phenomena",
+        "An unsupported guess",
+        "A rule against experimentation",
+        "An instrument for measuring force"
+      ],
+      "a": 0,
+      "e": "Scientific theories explain observations and have strong evidential support.",
+      "d": "Medium",
+      "topic": "Theories",
+      "slo": "P-09-G-06"
+    },
+    {
+      "id": "PHY9CH9-224",
+      "q": "Select the scientifically correct response to this question: What is a scientific theory?",
+      "o": [
+        "A rule against experimentation",
+        "An unsupported guess",
+        "An instrument for measuring force",
+        "A well-supported explanation of natural phenomena"
+      ],
+      "a": 3,
+      "e": "Scientific theories explain observations and have strong evidential support.",
+      "d": "Hard",
+      "topic": "Theories",
+      "slo": "P-09-G-06"
+    },
+    {
+      "id": "PHY9CH9-225",
+      "q": "Which is an example of a scientific theory named in the textbook?",
+      "o": [
+        "A speedometer reading",
+        "A school timetable",
+        "A unit conversion table",
+        "Kinetic molecular theory"
+      ],
+      "a": 3,
+      "e": "Kinetic molecular theory explains aspects of matter.",
+      "d": "Easy",
+      "topic": "Theories",
+      "slo": "P-09-G-06"
+    },
+    {
+      "id": "PHY9CH9-226",
+      "q": "Choose the most accurate answer: which is an example of a scientific theory named in the textbook?",
+      "o": [
+        "A speedometer reading",
+        "A school timetable",
+        "A unit conversion table",
+        "Kinetic molecular theory"
+      ],
+      "a": 3,
+      "e": "Kinetic molecular theory explains aspects of matter.",
+      "d": "Medium",
+      "topic": "Theories",
+      "slo": "P-09-G-06"
+    },
+    {
+      "id": "PHY9CH9-227",
+      "q": "For a Class 9 physics revision quiz, answer this: Which is an example of a scientific theory named in the textbook?",
+      "o": [
+        "A speedometer reading",
+        "A school timetable",
+        "A unit conversion table",
+        "Kinetic molecular theory"
+      ],
+      "a": 3,
+      "e": "Kinetic molecular theory explains aspects of matter.",
+      "d": "Medium",
+      "topic": "Theories",
+      "slo": "P-09-G-06"
+    },
+    {
+      "id": "PHY9CH9-228",
+      "q": "Select the scientifically correct response to this question: Which is an example of a scientific theory named in the textbook?",
+      "o": [
+        "A unit conversion table",
+        "A speedometer reading",
+        "A school timetable",
+        "Kinetic molecular theory"
+      ],
+      "a": 3,
+      "e": "Kinetic molecular theory explains aspects of matter.",
+      "d": "Hard",
+      "topic": "Theories",
+      "slo": "P-09-G-06"
+    },
+    {
+      "id": "PHY9CH9-229",
+      "q": "Which other scientific theory is named in the textbook?",
+      "o": [
+        "A calendar",
+        "A sports ranking",
+        "General relativity",
+        "A recipe for bread"
+      ],
+      "a": 2,
+      "e": "General relativity is a scientific theory.",
+      "d": "Easy",
+      "topic": "Theories",
+      "slo": "P-09-G-06"
+    },
+    {
+      "id": "PHY9CH9-230",
+      "q": "Choose the most accurate answer: which other scientific theory is named in the textbook?",
+      "o": [
+        "A recipe for bread",
+        "A calendar",
+        "General relativity",
+        "A sports ranking"
+      ],
+      "a": 2,
+      "e": "General relativity is a scientific theory.",
+      "d": "Medium",
+      "topic": "Theories",
+      "slo": "P-09-G-06"
+    },
+    {
+      "id": "PHY9CH9-231",
+      "q": "For a Class 9 physics revision quiz, answer this: Which other scientific theory is named in the textbook?",
+      "o": [
+        "General relativity",
+        "A recipe for bread",
+        "A calendar",
+        "A sports ranking"
+      ],
+      "a": 0,
+      "e": "General relativity is a scientific theory.",
+      "d": "Medium",
+      "topic": "Theories",
+      "slo": "P-09-G-06"
+    },
+    {
+      "id": "PHY9CH9-232",
+      "q": "Select the scientifically correct response to this question: Which other scientific theory is named in the textbook?",
+      "o": [
+        "A calendar",
+        "A sports ranking",
+        "General relativity",
+        "A recipe for bread"
+      ],
+      "a": 2,
+      "e": "General relativity is a scientific theory.",
+      "d": "Hard",
+      "topic": "Theories",
+      "slo": "P-09-G-06"
+    },
+    {
+      "id": "PHY9CH9-233",
+      "q": "What makes a scientific theory stronger?",
+      "o": [
+        "A single unverified claim",
+        "Repeated testing and supporting evidence",
+        "Refusal to consider new data",
+        "Popularity alone"
+      ],
+      "a": 1,
+      "e": "Evidence and successful testing strengthen theories.",
+      "d": "Easy",
+      "topic": "Theories",
+      "slo": "P-09-G-06"
+    },
+    {
+      "id": "PHY9CH9-234",
+      "q": "Choose the most accurate answer: what makes a scientific theory stronger?",
+      "o": [
+        "A single unverified claim",
+        "Popularity alone",
+        "Repeated testing and supporting evidence",
+        "Refusal to consider new data"
+      ],
+      "a": 2,
+      "e": "Evidence and successful testing strengthen theories.",
+      "d": "Medium",
+      "topic": "Theories",
+      "slo": "P-09-G-06"
+    },
+    {
+      "id": "PHY9CH9-235",
+      "q": "For a Class 9 physics revision quiz, answer this: What makes a scientific theory stronger?",
+      "o": [
+        "Repeated testing and supporting evidence",
+        "Refusal to consider new data",
+        "A single unverified claim",
+        "Popularity alone"
+      ],
+      "a": 0,
+      "e": "Evidence and successful testing strengthen theories.",
+      "d": "Medium",
+      "topic": "Theories",
+      "slo": "P-09-G-06"
+    },
+    {
+      "id": "PHY9CH9-236",
+      "q": "Select the scientifically correct response to this question: What makes a scientific theory stronger?",
+      "o": [
+        "Repeated testing and supporting evidence",
+        "A single unverified claim",
+        "Refusal to consider new data",
+        "Popularity alone"
+      ],
+      "a": 0,
+      "e": "Evidence and successful testing strengthen theories.",
+      "d": "Hard",
+      "topic": "Theories",
+      "slo": "P-09-G-06"
+    },
+    {
+      "id": "PHY9CH9-237",
+      "q": "What can a strong scientific theory provide?",
+      "o": [
+        "Only personal opinions",
+        "Freedom from evidence",
+        "Explanations and testable predictions",
+        "A guarantee it can never change"
+      ],
+      "a": 2,
+      "e": "Theories explain patterns and predict observations.",
+      "d": "Easy",
+      "topic": "Theories",
+      "slo": "P-09-G-06"
+    },
+    {
+      "id": "PHY9CH9-238",
+      "q": "Choose the most accurate answer: what can a strong scientific theory provide?",
+      "o": [
+        "Only personal opinions",
+        "A guarantee it can never change",
+        "Freedom from evidence",
+        "Explanations and testable predictions"
+      ],
+      "a": 3,
+      "e": "Theories explain patterns and predict observations.",
+      "d": "Medium",
+      "topic": "Theories",
+      "slo": "P-09-G-06"
+    },
+    {
+      "id": "PHY9CH9-239",
+      "q": "For a Class 9 physics revision quiz, answer this: What can a strong scientific theory provide?",
+      "o": [
+        "Only personal opinions",
+        "Explanations and testable predictions",
+        "Freedom from evidence",
+        "A guarantee it can never change"
+      ],
+      "a": 1,
+      "e": "Theories explain patterns and predict observations.",
+      "d": "Medium",
+      "topic": "Theories",
+      "slo": "P-09-G-06"
+    },
+    {
+      "id": "PHY9CH9-240",
+      "q": "Select the scientifically correct response to this question: What can a strong scientific theory provide?",
+      "o": [
+        "Explanations and testable predictions",
+        "A guarantee it can never change",
+        "Only personal opinions",
+        "Freedom from evidence"
+      ],
+      "a": 0,
+      "e": "Theories explain patterns and predict observations.",
+      "d": "Hard",
+      "topic": "Theories",
+      "slo": "P-09-G-06"
+    },
+    {
+      "id": "PHY9CH9-241",
+      "q": "Can scientific theories be refined?",
+      "o": [
+        "No, theories can never change",
+        "Yes, when better evidence or models emerge",
+        "Only if an experiment is avoided",
+        "Only by voting"
+      ],
+      "a": 1,
+      "e": "Scientific explanations can improve as evidence develops.",
+      "d": "Easy",
+      "topic": "Theories",
+      "slo": "P-09-G-06"
+    },
+    {
+      "id": "PHY9CH9-242",
+      "q": "Choose the most accurate answer: can scientific theories be refined?",
+      "o": [
+        "Yes, when better evidence or models emerge",
+        "No, theories can never change",
+        "Only if an experiment is avoided",
+        "Only by voting"
+      ],
+      "a": 0,
+      "e": "Scientific explanations can improve as evidence develops.",
+      "d": "Medium",
+      "topic": "Theories",
+      "slo": "P-09-G-06"
+    },
+    {
+      "id": "PHY9CH9-243",
+      "q": "For a Class 9 physics revision quiz, answer this: Can scientific theories be refined?",
+      "o": [
+        "Yes, when better evidence or models emerge",
+        "No, theories can never change",
+        "Only by voting",
+        "Only if an experiment is avoided"
+      ],
+      "a": 0,
+      "e": "Scientific explanations can improve as evidence develops.",
+      "d": "Medium",
+      "topic": "Theories",
+      "slo": "P-09-G-06"
+    },
+    {
+      "id": "PHY9CH9-244",
+      "q": "What does a scientific law generally do?",
+      "o": [
+        "Describe a regularity or relationship in nature",
+        "Explain every cause in the universe",
+        "Express a personal opinion",
+        "Replace all experimental evidence"
+      ],
+      "a": 0,
+      "e": "Laws summarize observed patterns and relationships.",
+      "d": "Easy",
+      "topic": "Scientific laws",
+      "slo": "P-09-G-06"
+    },
+    {
+      "id": "PHY9CH9-245",
+      "q": "Choose the most accurate answer: what does a scientific law generally do?",
+      "o": [
+        "Describe a regularity or relationship in nature",
+        "Express a personal opinion",
+        "Replace all experimental evidence",
+        "Explain every cause in the universe"
+      ],
+      "a": 0,
+      "e": "Laws summarize observed patterns and relationships.",
+      "d": "Medium",
+      "topic": "Scientific laws",
+      "slo": "P-09-G-06"
+    },
+    {
+      "id": "PHY9CH9-246",
+      "q": "For a Class 9 physics revision quiz, answer this: What does a scientific law generally do?",
+      "o": [
+        "Describe a regularity or relationship in nature",
+        "Express a personal opinion",
+        "Replace all experimental evidence",
+        "Explain every cause in the universe"
+      ],
+      "a": 0,
+      "e": "Laws summarize observed patterns and relationships.",
+      "d": "Medium",
+      "topic": "Scientific laws",
+      "slo": "P-09-G-06"
+    },
+    {
+      "id": "PHY9CH9-247",
+      "q": "Which is an example of a scientific law?",
+      "o": [
+        "A textbook chapter heading",
+        "A guess about tomorrow’s weather",
+        "Newton’s law of universal gravitation",
+        "A laboratory timetable"
+      ],
+      "a": 2,
+      "e": "Newton’s law of gravitation states a physical relationship.",
+      "d": "Easy",
+      "topic": "Scientific laws",
+      "slo": "P-09-G-06"
+    },
+    {
+      "id": "PHY9CH9-248",
+      "q": "Choose the most accurate answer: which is an example of a scientific law?",
+      "o": [
+        "A guess about tomorrow’s weather",
+        "A textbook chapter heading",
+        "Newton’s law of universal gravitation",
+        "A laboratory timetable"
+      ],
+      "a": 2,
+      "e": "Newton’s law of gravitation states a physical relationship.",
+      "d": "Medium",
+      "topic": "Scientific laws",
+      "slo": "P-09-G-06"
+    },
+    {
+      "id": "PHY9CH9-249",
+      "q": "For a Class 9 physics revision quiz, answer this: Which is an example of a scientific law?",
+      "o": [
+        "A textbook chapter heading",
+        "A laboratory timetable",
+        "A guess about tomorrow’s weather",
+        "Newton’s law of universal gravitation"
+      ],
+      "a": 3,
+      "e": "Newton’s law of gravitation states a physical relationship.",
+      "d": "Medium",
+      "topic": "Scientific laws",
+      "slo": "P-09-G-06"
+    },
+    {
+      "id": "PHY9CH9-250",
+      "q": "Which other example of a scientific law appears in the textbook?",
+      "o": [
+        "Newton’s laws of motion",
+        "A drawing of a telescope",
+        "A list of scientists",
+        "A weather forecast alone"
+      ],
+      "a": 0,
+      "e": "Newton’s laws describe relationships in motion.",
+      "d": "Easy",
+      "topic": "Scientific laws",
+      "slo": "P-09-G-06"
+    },
+    {
+      "id": "PHY9CH9-251",
+      "q": "Choose the most accurate answer: which other example of a scientific law appears in the textbook?",
+      "o": [
+        "A weather forecast alone",
+        "A drawing of a telescope",
+        "Newton’s laws of motion",
+        "A list of scientists"
+      ],
+      "a": 2,
+      "e": "Newton’s laws describe relationships in motion.",
+      "d": "Medium",
+      "topic": "Scientific laws",
+      "slo": "P-09-G-06"
+    },
+    {
+      "id": "PHY9CH9-252",
+      "q": "For a Class 9 physics revision quiz, answer this: Which other example of a scientific law appears in the textbook?",
+      "o": [
+        "A drawing of a telescope",
+        "A list of scientists",
+        "A weather forecast alone",
+        "Newton’s laws of motion"
+      ],
+      "a": 3,
+      "e": "Newton’s laws describe relationships in motion.",
+      "d": "Medium",
+      "topic": "Scientific laws",
+      "slo": "P-09-G-06"
+    },
+    {
+      "id": "PHY9CH9-253",
+      "q": "What is a key difference between theories and laws?",
+      "o": [
+        "Laws are never tested",
+        "Theories are always guesses; laws are always opinions",
+        "Theories cannot predict outcomes",
+        "Theories explain; laws describe regularities"
+      ],
+      "a": 3,
+      "e": "Theories focus on explanation; laws summarize observed patterns.",
+      "d": "Easy",
+      "topic": "Scientific laws",
+      "slo": "P-09-G-06"
+    },
+    {
+      "id": "PHY9CH9-254",
+      "q": "Choose the most accurate answer: what is a key difference between theories and laws?",
+      "o": [
+        "Theories explain; laws describe regularities",
+        "Theories are always guesses; laws are always opinions",
+        "Theories cannot predict outcomes",
+        "Laws are never tested"
+      ],
+      "a": 0,
+      "e": "Theories focus on explanation; laws summarize observed patterns.",
+      "d": "Medium",
+      "topic": "Scientific laws",
+      "slo": "P-09-G-06"
+    },
+    {
+      "id": "PHY9CH9-255",
+      "q": "For a Class 9 physics revision quiz, answer this: What is a key difference between theories and laws?",
+      "o": [
+        "Theories cannot predict outcomes",
+        "Theories explain; laws describe regularities",
+        "Theories are always guesses; laws are always opinions",
+        "Laws are never tested"
+      ],
+      "a": 1,
+      "e": "Theories focus on explanation; laws summarize observed patterns.",
+      "d": "Medium",
+      "topic": "Scientific laws",
+      "slo": "P-09-G-06"
+    },
+    {
+      "id": "PHY9CH9-256",
+      "q": "Does a theory simply turn into a law when enough evidence is found?",
+      "o": [
+        "No, theories and laws serve different purposes",
+        "Only if it contains an equation",
+        "Yes, every theory automatically becomes a law",
+        "Only if a scientist votes for it"
+      ],
+      "a": 0,
+      "e": "Theories explain and laws describe; one is not merely a higher rank of the other.",
+      "d": "Easy",
+      "topic": "Scientific laws",
+      "slo": "P-09-G-06"
+    },
+    {
+      "id": "PHY9CH9-257",
+      "q": "Choose the most accurate answer: does a theory simply turn into a law when enough evidence is found?",
+      "o": [
+        "No, theories and laws serve different purposes",
+        "Yes, every theory automatically becomes a law",
+        "Only if a scientist votes for it",
+        "Only if it contains an equation"
+      ],
+      "a": 0,
+      "e": "Theories explain and laws describe; one is not merely a higher rank of the other.",
+      "d": "Medium",
+      "topic": "Scientific laws",
+      "slo": "P-09-G-06"
+    },
+    {
+      "id": "PHY9CH9-258",
+      "q": "For a Class 9 physics revision quiz, answer this: Does a theory simply turn into a law when enough evidence is found?",
+      "o": [
+        "Only if it contains an equation",
+        "Only if a scientist votes for it",
+        "No, theories and laws serve different purposes",
+        "Yes, every theory automatically becomes a law"
+      ],
+      "a": 2,
+      "e": "Theories explain and laws describe; one is not merely a higher rank of the other.",
+      "d": "Medium",
+      "topic": "Scientific laws",
+      "slo": "P-09-G-06"
+    },
+    {
+      "id": "PHY9CH9-259",
+      "q": "What does falsifiability mean?",
+      "o": [
+        "A claim is certainly false",
+        "A claim cannot be tested",
+        "A claim must be popular",
+        "A claim could in principle be shown false by evidence"
+      ],
+      "a": 3,
+      "e": "A falsifiable claim allows a possible observation that would contradict it.",
+      "d": "Easy",
+      "topic": "Falsifiability",
+      "slo": "P-09-G-07"
+    },
+    {
+      "id": "PHY9CH9-260",
+      "q": "Choose the most accurate answer: what does falsifiability mean?",
+      "o": [
+        "A claim could in principle be shown false by evidence",
+        "A claim cannot be tested",
+        "A claim must be popular",
+        "A claim is certainly false"
+      ],
+      "a": 0,
+      "e": "A falsifiable claim allows a possible observation that would contradict it.",
+      "d": "Medium",
+      "topic": "Falsifiability",
+      "slo": "P-09-G-07"
+    },
+    {
+      "id": "PHY9CH9-261",
+      "q": "For a Class 9 physics revision quiz, answer this: What does falsifiability mean?",
+      "o": [
+        "A claim must be popular",
+        "A claim could in principle be shown false by evidence",
+        "A claim is certainly false",
+        "A claim cannot be tested"
+      ],
+      "a": 1,
+      "e": "A falsifiable claim allows a possible observation that would contradict it.",
+      "d": "Medium",
+      "topic": "Falsifiability",
+      "slo": "P-09-G-07"
+    },
+    {
+      "id": "PHY9CH9-262",
+      "q": "Which claim is most clearly falsifiable?",
+      "o": [
+        "No possible observation matters",
+        "All metal samples expand when heated under stated conditions",
+        "Everything happens for unknowable reasons",
+        "An invisible force always changes its behavior to escape tests"
+      ],
+      "a": 1,
+      "e": "A specific measurable claim can be challenged by counterexamples.",
+      "d": "Easy",
+      "topic": "Falsifiability",
+      "slo": "P-09-G-07"
+    },
+    {
+      "id": "PHY9CH9-263",
+      "q": "Choose the most accurate answer: which claim is most clearly falsifiable?",
+      "o": [
+        "An invisible force always changes its behavior to escape tests",
+        "All metal samples expand when heated under stated conditions",
+        "No possible observation matters",
+        "Everything happens for unknowable reasons"
+      ],
+      "a": 1,
+      "e": "A specific measurable claim can be challenged by counterexamples.",
+      "d": "Medium",
+      "topic": "Falsifiability",
+      "slo": "P-09-G-07"
+    },
+    {
+      "id": "PHY9CH9-264",
+      "q": "For a Class 9 physics revision quiz, answer this: Which claim is most clearly falsifiable?",
+      "o": [
+        "Everything happens for unknowable reasons",
+        "All metal samples expand when heated under stated conditions",
+        "No possible observation matters",
+        "An invisible force always changes its behavior to escape tests"
+      ],
+      "a": 1,
+      "e": "A specific measurable claim can be challenged by counterexamples.",
+      "d": "Medium",
+      "topic": "Falsifiability",
+      "slo": "P-09-G-07"
+    },
+    {
+      "id": "PHY9CH9-265",
+      "q": "Why is falsifiability important to science?",
+      "o": [
+        "It makes claims open to evidence-based challenge",
+        "It forbids revision of ideas",
+        "It eliminates the need for observations",
+        "It guarantees every hypothesis is true"
+      ],
+      "a": 0,
+      "e": "Scientific claims must face potential disconfirming evidence.",
+      "d": "Easy",
+      "topic": "Falsifiability",
+      "slo": "P-09-G-07"
+    },
+    {
+      "id": "PHY9CH9-266",
+      "q": "Choose the most accurate answer: why is falsifiability important to science?",
+      "o": [
+        "It makes claims open to evidence-based challenge",
+        "It forbids revision of ideas",
+        "It eliminates the need for observations",
+        "It guarantees every hypothesis is true"
+      ],
+      "a": 0,
+      "e": "Scientific claims must face potential disconfirming evidence.",
+      "d": "Medium",
+      "topic": "Falsifiability",
+      "slo": "P-09-G-07"
+    },
+    {
+      "id": "PHY9CH9-267",
+      "q": "For a Class 9 physics revision quiz, answer this: Why is falsifiability important to science?",
+      "o": [
+        "It guarantees every hypothesis is true",
+        "It makes claims open to evidence-based challenge",
+        "It eliminates the need for observations",
+        "It forbids revision of ideas"
+      ],
+      "a": 1,
+      "e": "Scientific claims must face potential disconfirming evidence.",
+      "d": "Medium",
+      "topic": "Falsifiability",
+      "slo": "P-09-G-07"
+    },
+    {
+      "id": "PHY9CH9-268",
+      "q": "If a prediction fails a fair test, what should scientists consider?",
+      "o": [
+        "Declaring the claim untestable",
+        "Revising the model or its assumptions",
+        "Banning repeated tests",
+        "Ignoring the data automatically"
+      ],
+      "a": 1,
+      "e": "Failed predictions prompt critical examination.",
+      "d": "Easy",
+      "topic": "Falsifiability",
+      "slo": "P-09-G-07"
+    },
+    {
+      "id": "PHY9CH9-269",
+      "q": "Choose the most accurate answer: if a prediction fails a fair test, what should scientists consider?",
+      "o": [
+        "Declaring the claim untestable",
+        "Ignoring the data automatically",
+        "Revising the model or its assumptions",
+        "Banning repeated tests"
+      ],
+      "a": 2,
+      "e": "Failed predictions prompt critical examination.",
+      "d": "Medium",
+      "topic": "Falsifiability",
+      "slo": "P-09-G-07"
+    },
+    {
+      "id": "PHY9CH9-270",
+      "q": "For a Class 9 physics revision quiz, answer this: If a prediction fails a fair test, what should scientists consider?",
+      "o": [
+        "Declaring the claim untestable",
+        "Ignoring the data automatically",
+        "Revising the model or its assumptions",
+        "Banning repeated tests"
+      ],
+      "a": 2,
+      "e": "Failed predictions prompt critical examination.",
+      "d": "Medium",
+      "topic": "Falsifiability",
+      "slo": "P-09-G-07"
+    },
+    {
+      "id": "PHY9CH9-271",
+      "q": "Which activity is science?",
+      "o": [
+        "Manufacturing a smartphone for sale",
+        "Installing a solar panel",
+        "Designing a bridge support",
+        "Investigating why an object accelerates"
+      ],
+      "a": 3,
+      "e": "Science seeks evidence-based explanations of nature.",
+      "d": "Easy",
+      "topic": "Science technology engineering",
+      "slo": "P-09-G-08"
+    },
+    {
+      "id": "PHY9CH9-272",
+      "q": "Choose the most accurate answer: which activity is science?",
+      "o": [
+        "Investigating why an object accelerates",
+        "Installing a solar panel",
+        "Manufacturing a smartphone for sale",
+        "Designing a bridge support"
+      ],
+      "a": 0,
+      "e": "Science seeks evidence-based explanations of nature.",
+      "d": "Medium",
+      "topic": "Science technology engineering",
+      "slo": "P-09-G-08"
+    },
+    {
+      "id": "PHY9CH9-273",
+      "q": "For a Class 9 physics revision quiz, answer this: Which activity is science?",
+      "o": [
+        "Manufacturing a smartphone for sale",
+        "Designing a bridge support",
+        "Investigating why an object accelerates",
+        "Installing a solar panel"
+      ],
+      "a": 2,
+      "e": "Science seeks evidence-based explanations of nature.",
+      "d": "Medium",
+      "topic": "Science technology engineering",
+      "slo": "P-09-G-08"
+    },
+    {
+      "id": "PHY9CH9-274",
+      "q": "Which activity best represents technology?",
+      "o": [
+        "Measuring acceleration to test a hypothesis",
+        "Explaining a natural law",
+        "Studying why stars shine",
+        "Developing a smartphone using scientific knowledge"
+      ],
+      "a": 3,
+      "e": "Technology applies knowledge to practical tools and systems.",
+      "d": "Easy",
+      "topic": "Science technology engineering",
+      "slo": "P-09-G-08"
+    },
+    {
+      "id": "PHY9CH9-275",
+      "q": "Choose the most accurate answer: which activity best represents technology?",
+      "o": [
+        "Studying why stars shine",
+        "Developing a smartphone using scientific knowledge",
+        "Measuring acceleration to test a hypothesis",
+        "Explaining a natural law"
+      ],
+      "a": 1,
+      "e": "Technology applies knowledge to practical tools and systems.",
+      "d": "Medium",
+      "topic": "Science technology engineering",
+      "slo": "P-09-G-08"
+    },
+    {
+      "id": "PHY9CH9-276",
+      "q": "For a Class 9 physics revision quiz, answer this: Which activity best represents technology?",
+      "o": [
+        "Studying why stars shine",
+        "Explaining a natural law",
+        "Measuring acceleration to test a hypothesis",
+        "Developing a smartphone using scientific knowledge"
+      ],
+      "a": 3,
+      "e": "Technology applies knowledge to practical tools and systems.",
+      "d": "Medium",
+      "topic": "Science technology engineering",
+      "slo": "P-09-G-08"
+    },
+    {
+      "id": "PHY9CH9-277",
+      "q": "Which activity best represents engineering?",
+      "o": [
+        "Designing a safe bridge using physical principles",
+        "Formulating a testable hypothesis only",
+        "Observing a falling leaf only",
+        "Classifying star colors without design"
+      ],
+      "a": 0,
+      "e": "Engineering applies science and mathematics to designs and processes.",
+      "d": "Easy",
+      "topic": "Science technology engineering",
+      "slo": "P-09-G-08"
+    },
+    {
+      "id": "PHY9CH9-278",
+      "q": "Choose the most accurate answer: which activity best represents engineering?",
+      "o": [
+        "Observing a falling leaf only",
+        "Classifying star colors without design",
+        "Designing a safe bridge using physical principles",
+        "Formulating a testable hypothesis only"
+      ],
+      "a": 2,
+      "e": "Engineering applies science and mathematics to designs and processes.",
+      "d": "Medium",
+      "topic": "Science technology engineering",
+      "slo": "P-09-G-08"
+    },
+    {
+      "id": "PHY9CH9-279",
+      "q": "For a Class 9 physics revision quiz, answer this: Which activity best represents engineering?",
+      "o": [
+        "Designing a safe bridge using physical principles",
+        "Observing a falling leaf only",
+        "Formulating a testable hypothesis only",
+        "Classifying star colors without design"
+      ],
+      "a": 0,
+      "e": "Engineering applies science and mathematics to designs and processes.",
+      "d": "Medium",
+      "topic": "Science technology engineering",
+      "slo": "P-09-G-08"
+    },
+    {
+      "id": "PHY9CH9-280",
+      "q": "How are science and technology related?",
+      "o": [
+        "Technology cannot support science",
+        "Scientific discoveries can enable useful devices",
+        "They are identical activities",
+        "Science never influences technology"
+      ],
+      "a": 1,
+      "e": "Science and technology influence each other but have distinct aims.",
+      "d": "Easy",
+      "topic": "Science technology engineering",
+      "slo": "P-09-G-08"
+    },
+    {
+      "id": "PHY9CH9-281",
+      "q": "Choose the most accurate answer: how are science and technology related?",
+      "o": [
+        "They are identical activities",
+        "Technology cannot support science",
+        "Scientific discoveries can enable useful devices",
+        "Science never influences technology"
+      ],
+      "a": 2,
+      "e": "Science and technology influence each other but have distinct aims.",
+      "d": "Medium",
+      "topic": "Science technology engineering",
+      "slo": "P-09-G-08"
+    },
+    {
+      "id": "PHY9CH9-282",
+      "q": "For a Class 9 physics revision quiz, answer this: How are science and technology related?",
+      "o": [
+        "Science never influences technology",
+        "They are identical activities",
+        "Scientific discoveries can enable useful devices",
+        "Technology cannot support science"
+      ],
+      "a": 2,
+      "e": "Science and technology influence each other but have distinct aims.",
+      "d": "Medium",
+      "topic": "Science technology engineering",
+      "slo": "P-09-G-08"
+    },
+    {
+      "id": "PHY9CH9-283",
+      "q": "What is a main goal of engineering?",
+      "o": [
+        "Only name natural phenomena",
+        "Avoid mathematical reasoning",
+        "Replace evidence with preference",
+        "Solve practical problems through systematic design"
+      ],
+      "a": 3,
+      "e": "Engineering develops workable solutions using science and mathematics.",
+      "d": "Easy",
+      "topic": "Science technology engineering",
+      "slo": "P-09-G-08"
+    },
+    {
+      "id": "PHY9CH9-284",
+      "q": "Choose the most accurate answer: what is a main goal of engineering?",
+      "o": [
+        "Only name natural phenomena",
+        "Replace evidence with preference",
+        "Solve practical problems through systematic design",
+        "Avoid mathematical reasoning"
+      ],
+      "a": 2,
+      "e": "Engineering develops workable solutions using science and mathematics.",
+      "d": "Medium",
+      "topic": "Science technology engineering",
+      "slo": "P-09-G-08"
+    },
+    {
+      "id": "PHY9CH9-285",
+      "q": "For a Class 9 physics revision quiz, answer this: What is a main goal of engineering?",
+      "o": [
+        "Replace evidence with preference",
+        "Avoid mathematical reasoning",
+        "Only name natural phenomena",
+        "Solve practical problems through systematic design"
+      ],
+      "a": 3,
+      "e": "Engineering develops workable solutions using science and mathematics.",
+      "d": "Medium",
+      "topic": "Science technology engineering",
+      "slo": "P-09-G-08"
+    },
+    {
+      "id": "PHY9CH9-286",
+      "q": "Which example shows technology supporting scientific research?",
+      "o": [
+        "Using a telescope to collect astronomical data",
+        "Ignoring all instruments",
+        "Guessing star positions without observations",
+        "Refusing to share measurements"
+      ],
+      "a": 0,
+      "e": "Scientific tools make new observations possible.",
+      "d": "Easy",
+      "topic": "Science technology engineering",
+      "slo": "P-09-G-08"
+    },
+    {
+      "id": "PHY9CH9-287",
+      "q": "Choose the most accurate answer: which example shows technology supporting scientific research?",
+      "o": [
+        "Refusing to share measurements",
+        "Guessing star positions without observations",
+        "Using a telescope to collect astronomical data",
+        "Ignoring all instruments"
+      ],
+      "a": 2,
+      "e": "Scientific tools make new observations possible.",
+      "d": "Medium",
+      "topic": "Science technology engineering",
+      "slo": "P-09-G-08"
+    },
+    {
+      "id": "PHY9CH9-288",
+      "q": "For a Class 9 physics revision quiz, answer this: Which example shows technology supporting scientific research?",
+      "o": [
+        "Using a telescope to collect astronomical data",
+        "Ignoring all instruments",
+        "Guessing star positions without observations",
+        "Refusing to share measurements"
+      ],
+      "a": 0,
+      "e": "Scientific tools make new observations possible.",
+      "d": "Medium",
+      "topic": "Science technology engineering",
+      "slo": "P-09-G-08"
+    },
+    {
+      "id": "PHY9CH9-289",
+      "q": "Which is an example of civil engineering?",
+      "o": [
+        "Designing roads and bridges",
+        "Investigating the age of stars",
+        "Studying only sound waves",
+        "Describing electron charge only"
+      ],
+      "a": 0,
+      "e": "Civil engineering designs and builds infrastructure.",
+      "d": "Easy",
+      "topic": "Science technology engineering",
+      "slo": "P-09-G-08"
+    },
+    {
+      "id": "PHY9CH9-290",
+      "q": "Choose the most accurate answer: which is an example of civil engineering?",
+      "o": [
+        "Studying only sound waves",
+        "Describing electron charge only",
+        "Investigating the age of stars",
+        "Designing roads and bridges"
+      ],
+      "a": 3,
+      "e": "Civil engineering designs and builds infrastructure.",
+      "d": "Medium",
+      "topic": "Science technology engineering",
+      "slo": "P-09-G-08"
+    },
+    {
+      "id": "PHY9CH9-291",
+      "q": "For a Class 9 physics revision quiz, answer this: Which is an example of civil engineering?",
+      "o": [
+        "Studying only sound waves",
+        "Investigating the age of stars",
+        "Designing roads and bridges",
+        "Describing electron charge only"
+      ],
+      "a": 2,
+      "e": "Civil engineering designs and builds infrastructure.",
+      "d": "Medium",
+      "topic": "Science technology engineering",
+      "slo": "P-09-G-08"
+    },
+    {
+      "id": "PHY9CH9-292",
+      "q": "Which statement best distinguishes engineering from science?",
+      "o": [
+        "Engineering designs solutions; science investigates explanations",
+        "They have no shared methods",
+        "Engineering never uses science",
+        "Science only builds machines"
+      ],
+      "a": 0,
+      "e": "Engineering focuses on practical design and science on understanding.",
+      "d": "Easy",
+      "topic": "Science technology engineering",
+      "slo": "P-09-G-08"
+    },
+    {
+      "id": "PHY9CH9-293",
+      "q": "Choose the most accurate answer: which statement best distinguishes engineering from science?",
+      "o": [
+        "Engineering never uses science",
+        "Science only builds machines",
+        "They have no shared methods",
+        "Engineering designs solutions; science investigates explanations"
+      ],
+      "a": 3,
+      "e": "Engineering focuses on practical design and science on understanding.",
+      "d": "Medium",
+      "topic": "Science technology engineering",
+      "slo": "P-09-G-08"
+    },
+    {
+      "id": "PHY9CH9-294",
+      "q": "For a Class 9 physics revision quiz, answer this: Which statement best distinguishes engineering from science?",
+      "o": [
+        "Engineering never uses science",
+        "Science only builds machines",
+        "Engineering designs solutions; science investigates explanations",
+        "They have no shared methods"
+      ],
+      "a": 2,
+      "e": "Engineering focuses on practical design and science on understanding.",
+      "d": "Medium",
+      "topic": "Science technology engineering",
+      "slo": "P-09-G-08"
+    },
+    {
+      "id": "PHY9CH9-295",
+      "q": "What does a smartphone illustrate in the textbook?",
+      "o": [
+        "A scientific law",
+        "A natural celestial object",
+        "A biological species",
+        "Technology combining physics and engineering"
+      ],
+      "a": 3,
+      "e": "Smartphones apply scientific knowledge in practical devices.",
+      "d": "Easy",
+      "topic": "Science technology engineering",
+      "slo": "P-09-G-08"
+    },
+    {
+      "id": "PHY9CH9-296",
+      "q": "Choose the most accurate answer: what does a smartphone illustrate in the textbook?",
+      "o": [
+        "A natural celestial object",
+        "Technology combining physics and engineering",
+        "A biological species",
+        "A scientific law"
+      ],
+      "a": 1,
+      "e": "Smartphones apply scientific knowledge in practical devices.",
+      "d": "Medium",
+      "topic": "Science technology engineering",
+      "slo": "P-09-G-08"
+    },
+    {
+      "id": "PHY9CH9-297",
+      "q": "For a Class 9 physics revision quiz, answer this: What does a smartphone illustrate in the textbook?",
+      "o": [
+        "Technology combining physics and engineering",
+        "A natural celestial object",
+        "A biological species",
+        "A scientific law"
+      ],
+      "a": 0,
+      "e": "Smartphones apply scientific knowledge in practical devices.",
+      "d": "Medium",
+      "topic": "Science technology engineering",
+      "slo": "P-09-G-08"
+    },
+    {
+      "id": "PHY9CH9-298",
+      "q": "Why must bridge designers understand structural mechanics?",
+      "o": [
+        "To eliminate gravity",
+        "To predict forces and ensure safety",
+        "To avoid all calculations",
+        "To replace testing with decoration"
+      ],
+      "a": 1,
+      "e": "Structural mechanics helps engineers design safe structures.",
+      "d": "Easy",
+      "topic": "Science technology engineering",
+      "slo": "P-09-G-08"
+    },
+    {
+      "id": "PHY9CH9-299",
+      "q": "Choose the most accurate answer: why must bridge designers understand structural mechanics?",
+      "o": [
+        "To predict forces and ensure safety",
+        "To eliminate gravity",
+        "To avoid all calculations",
+        "To replace testing with decoration"
+      ],
+      "a": 0,
+      "e": "Structural mechanics helps engineers design safe structures.",
+      "d": "Medium",
+      "topic": "Science technology engineering",
+      "slo": "P-09-G-08"
+    },
+    {
+      "id": "PHY9CH9-300",
+      "q": "For a Class 9 physics revision quiz, answer this: Why must bridge designers understand structural mechanics?",
+      "o": [
+        "To avoid all calculations",
+        "To replace testing with decoration",
+        "To predict forces and ensure safety",
+        "To eliminate gravity"
+      ],
+      "a": 2,
+      "e": "Structural mechanics helps engineers design safe structures.",
+      "d": "Medium",
+      "topic": "Science technology engineering",
+      "slo": "P-09-G-08"
+    }
+  ]
+}

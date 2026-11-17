@@ -1,0 +1,4504 @@
+{
+  "questions": [
+    {
+      "id": "BIO9CH5-001",
+      "q": "Which sequence shows increasing levels of organization in a multicellular organism?",
+      "o": [
+        "Cell, organ system, tissue, organ, organism",
+        "Cell, tissue, organ, organ system, organism",
+        "Tissue, cell, organ, organism, organ system",
+        "Organ, tissue, cell, organism, organ system"
+      ],
+      "a": 1,
+      "e": "Cells form tissues, tissues form organs, and organs work in systems.",
+      "d": "Easy",
+      "topic": "Levels of organization",
+      "slo": "Identify and explain: Levels of organization"
+    },
+    {
+      "id": "BIO9CH5-002",
+      "q": "Choose the most scientifically accurate answer: which sequence shows increasing levels of organization in a multicellular organism?",
+      "o": [
+        "Tissue, cell, organ, organism, organ system",
+        "Cell, organ system, tissue, organ, organism",
+        "Cell, tissue, organ, organ system, organism",
+        "Organ, tissue, cell, organism, organ system"
+      ],
+      "a": 2,
+      "e": "Cells form tissues, tissues form organs, and organs work in systems.",
+      "d": "Medium",
+      "topic": "Levels of organization",
+      "slo": "Interpret: Levels of organization"
+    },
+    {
+      "id": "BIO9CH5-003",
+      "q": "In a biology assessment about levels of organization, which response correctly answers this question: Which sequence shows increasing levels of organization in a multicellular organism?",
+      "o": [
+        "Cell, tissue, organ, organ system, organism",
+        "Organ, tissue, cell, organism, organ system",
+        "Tissue, cell, organ, organism, organ system",
+        "Cell, organ system, tissue, organ, organism"
+      ],
+      "a": 0,
+      "e": "Cells form tissues, tissues form organs, and organs work in systems.",
+      "d": "Hard",
+      "topic": "Levels of organization",
+      "slo": "Apply knowledge of: Levels of organization"
+    },
+    {
+      "id": "BIO9CH5-004",
+      "q": "A student is revising levels of organization. For the question \"Which sequence shows increasing levels of organization in a multicellular organism?\" which option should the student select?",
+      "o": [
+        "Cell, tissue, organ, organ system, organism",
+        "Organ, tissue, cell, organism, organ system",
+        "Cell, organ system, tissue, organ, organism",
+        "Tissue, cell, organ, organism, organ system"
+      ],
+      "a": 0,
+      "e": "Cells form tissues, tissues form organs, and organs work in systems.",
+      "d": "Medium",
+      "topic": "Levels of organization",
+      "slo": "Reason about: Levels of organization"
+    },
+    {
+      "id": "BIO9CH5-005",
+      "q": "What is a tissue?",
+      "o": [
+        "A group of similar cells performing a common function",
+        "A collection of organ systems",
+        "A group of unrelated organisms",
+        "A single organelle"
+      ],
+      "a": 0,
+      "e": "Tissues contain cells organized for a shared function.",
+      "d": "Medium",
+      "topic": "Levels of organization",
+      "slo": "Identify and explain: Levels of organization"
+    },
+    {
+      "id": "BIO9CH5-006",
+      "q": "Choose the most scientifically accurate answer: what is a tissue?",
+      "o": [
+        "A group of unrelated organisms",
+        "A collection of organ systems",
+        "A single organelle",
+        "A group of similar cells performing a common function"
+      ],
+      "a": 3,
+      "e": "Tissues contain cells organized for a shared function.",
+      "d": "Medium",
+      "topic": "Levels of organization",
+      "slo": "Interpret: Levels of organization"
+    },
+    {
+      "id": "BIO9CH5-007",
+      "q": "In a biology assessment about levels of organization, which response correctly answers this question: What is a tissue?",
+      "o": [
+        "A single organelle",
+        "A group of unrelated organisms",
+        "A group of similar cells performing a common function",
+        "A collection of organ systems"
+      ],
+      "a": 2,
+      "e": "Tissues contain cells organized for a shared function.",
+      "d": "Medium",
+      "topic": "Levels of organization",
+      "slo": "Apply knowledge of: Levels of organization"
+    },
+    {
+      "id": "BIO9CH5-008",
+      "q": "A student is revising levels of organization. For the question \"What is a tissue?\" which option should the student select?",
+      "o": [
+        "A group of similar cells performing a common function",
+        "A collection of organ systems",
+        "A single organelle",
+        "A group of unrelated organisms"
+      ],
+      "a": 0,
+      "e": "Tissues contain cells organized for a shared function.",
+      "d": "Medium",
+      "topic": "Levels of organization",
+      "slo": "Reason about: Levels of organization"
+    },
+    {
+      "id": "BIO9CH5-009",
+      "q": "What is an organ?",
+      "o": [
+        "A molecule with one function",
+        "A structure made of different tissues working together",
+        "A single cell only",
+        "A group of organisms"
+      ],
+      "a": 1,
+      "e": "Different tissues cooperate to perform an organ's functions.",
+      "d": "Medium",
+      "topic": "Levels of organization",
+      "slo": "Identify and explain: Levels of organization"
+    },
+    {
+      "id": "BIO9CH5-010",
+      "q": "Choose the most scientifically accurate answer: what is an organ?",
+      "o": [
+        "A group of organisms",
+        "A molecule with one function",
+        "A single cell only",
+        "A structure made of different tissues working together"
+      ],
+      "a": 3,
+      "e": "Different tissues cooperate to perform an organ's functions.",
+      "d": "Medium",
+      "topic": "Levels of organization",
+      "slo": "Interpret: Levels of organization"
+    },
+    {
+      "id": "BIO9CH5-011",
+      "q": "In a biology assessment about levels of organization, which response correctly answers this question: What is an organ?",
+      "o": [
+        "A single cell only",
+        "A group of organisms",
+        "A structure made of different tissues working together",
+        "A molecule with one function"
+      ],
+      "a": 2,
+      "e": "Different tissues cooperate to perform an organ's functions.",
+      "d": "Medium",
+      "topic": "Levels of organization",
+      "slo": "Apply knowledge of: Levels of organization"
+    },
+    {
+      "id": "BIO9CH5-012",
+      "q": "A student is revising levels of organization. For the question \"What is an organ?\" which option should the student select?",
+      "o": [
+        "A single cell only",
+        "A molecule with one function",
+        "A group of organisms",
+        "A structure made of different tissues working together"
+      ],
+      "a": 3,
+      "e": "Different tissues cooperate to perform an organ's functions.",
+      "d": "Medium",
+      "topic": "Levels of organization",
+      "slo": "Reason about: Levels of organization"
+    },
+    {
+      "id": "BIO9CH5-013",
+      "q": "What is an organ system?",
+      "o": [
+        "A group of organs working together for major functions",
+        "All organisms in an ecosystem",
+        "One tissue without organs",
+        "A single type of cell"
+      ],
+      "a": 0,
+      "e": "An organ system combines organs to carry out related functions.",
+      "d": "Easy",
+      "topic": "Levels of organization",
+      "slo": "Identify and explain: Levels of organization"
+    },
+    {
+      "id": "BIO9CH5-014",
+      "q": "Choose the most scientifically accurate answer: what is an organ system?",
+      "o": [
+        "All organisms in an ecosystem",
+        "A single type of cell",
+        "One tissue without organs",
+        "A group of organs working together for major functions"
+      ],
+      "a": 3,
+      "e": "An organ system combines organs to carry out related functions.",
+      "d": "Medium",
+      "topic": "Levels of organization",
+      "slo": "Interpret: Levels of organization"
+    },
+    {
+      "id": "BIO9CH5-015",
+      "q": "In a biology assessment about levels of organization, which response correctly answers this question: What is an organ system?",
+      "o": [
+        "One tissue without organs",
+        "A single type of cell",
+        "A group of organs working together for major functions",
+        "All organisms in an ecosystem"
+      ],
+      "a": 2,
+      "e": "An organ system combines organs to carry out related functions.",
+      "d": "Medium",
+      "topic": "Levels of organization",
+      "slo": "Apply knowledge of: Levels of organization"
+    },
+    {
+      "id": "BIO9CH5-016",
+      "q": "What is the highest organizational level within one human body?",
+      "o": [
+        "Organ",
+        "Organ system",
+        "Tissue",
+        "Organism"
+      ],
+      "a": 3,
+      "e": "The complete human is an organism comprising organ systems.",
+      "d": "Medium",
+      "topic": "Levels of organization",
+      "slo": "Identify and explain: Levels of organization"
+    },
+    {
+      "id": "BIO9CH5-017",
+      "q": "Choose the most scientifically accurate answer: what is the highest organizational level within one human body?",
+      "o": [
+        "Organism",
+        "Organ system",
+        "Tissue",
+        "Organ"
+      ],
+      "a": 0,
+      "e": "The complete human is an organism comprising organ systems.",
+      "d": "Medium",
+      "topic": "Levels of organization",
+      "slo": "Interpret: Levels of organization"
+    },
+    {
+      "id": "BIO9CH5-018",
+      "q": "In a biology assessment about levels of organization, which response correctly answers this question: What is the highest organizational level within one human body?",
+      "o": [
+        "Organ system",
+        "Tissue",
+        "Organ",
+        "Organism"
+      ],
+      "a": 3,
+      "e": "The complete human is an organism comprising organ systems.",
+      "d": "Hard",
+      "topic": "Levels of organization",
+      "slo": "Apply knowledge of: Levels of organization"
+    },
+    {
+      "id": "BIO9CH5-019",
+      "q": "Which example is an organ rather than a tissue?",
+      "o": [
+        "Epithelial tissue",
+        "Connective tissue",
+        "Muscle tissue",
+        "Stomach"
+      ],
+      "a": 3,
+      "e": "The stomach includes several tissue types and performs digestion.",
+      "d": "Medium",
+      "topic": "Levels of organization",
+      "slo": "Identify and explain: Levels of organization"
+    },
+    {
+      "id": "BIO9CH5-020",
+      "q": "Choose the most scientifically accurate answer: which example is an organ rather than a tissue?",
+      "o": [
+        "Muscle tissue",
+        "Stomach",
+        "Epithelial tissue",
+        "Connective tissue"
+      ],
+      "a": 1,
+      "e": "The stomach includes several tissue types and performs digestion.",
+      "d": "Medium",
+      "topic": "Levels of organization",
+      "slo": "Interpret: Levels of organization"
+    },
+    {
+      "id": "BIO9CH5-021",
+      "q": "In a biology assessment about levels of organization, which response correctly answers this question: Which example is an organ rather than a tissue?",
+      "o": [
+        "Stomach",
+        "Muscle tissue",
+        "Connective tissue",
+        "Epithelial tissue"
+      ],
+      "a": 0,
+      "e": "The stomach includes several tissue types and performs digestion.",
+      "d": "Medium",
+      "topic": "Levels of organization",
+      "slo": "Apply knowledge of: Levels of organization"
+    },
+    {
+      "id": "BIO9CH5-022",
+      "q": "Which example represents an organ system?",
+      "o": [
+        "Nerve tissue",
+        "Muscle cell",
+        "Stomach lining",
+        "Digestive system"
+      ],
+      "a": 3,
+      "e": "The digestive system includes cooperating organs.",
+      "d": "Easy",
+      "topic": "Levels of organization",
+      "slo": "Identify and explain: Levels of organization"
+    },
+    {
+      "id": "BIO9CH5-023",
+      "q": "Choose the most scientifically accurate answer: which example represents an organ system?",
+      "o": [
+        "Nerve tissue",
+        "Stomach lining",
+        "Muscle cell",
+        "Digestive system"
+      ],
+      "a": 3,
+      "e": "The digestive system includes cooperating organs.",
+      "d": "Medium",
+      "topic": "Levels of organization",
+      "slo": "Interpret: Levels of organization"
+    },
+    {
+      "id": "BIO9CH5-024",
+      "q": "In a biology assessment about levels of organization, which response correctly answers this question: Which example represents an organ system?",
+      "o": [
+        "Nerve tissue",
+        "Stomach lining",
+        "Digestive system",
+        "Muscle cell"
+      ],
+      "a": 2,
+      "e": "The digestive system includes cooperating organs.",
+      "d": "Medium",
+      "topic": "Levels of organization",
+      "slo": "Apply knowledge of: Levels of organization"
+    },
+    {
+      "id": "BIO9CH5-025",
+      "q": "Why is division of labour beneficial in multicellular organisms?",
+      "o": [
+        "Every cell must perform every task equally",
+        "Organs become unnecessary",
+        "Specialized structures perform tasks efficiently",
+        "Cells lose all coordination"
+      ],
+      "a": 2,
+      "e": "Specialization and cooperation improve efficiency.",
+      "d": "Medium",
+      "topic": "Levels of organization",
+      "slo": "Identify and explain: Levels of organization"
+    },
+    {
+      "id": "BIO9CH5-026",
+      "q": "Choose the most scientifically accurate answer: why is division of labour beneficial in multicellular organisms?",
+      "o": [
+        "Specialized structures perform tasks efficiently",
+        "Cells lose all coordination",
+        "Every cell must perform every task equally",
+        "Organs become unnecessary"
+      ],
+      "a": 0,
+      "e": "Specialization and cooperation improve efficiency.",
+      "d": "Medium",
+      "topic": "Levels of organization",
+      "slo": "Interpret: Levels of organization"
+    },
+    {
+      "id": "BIO9CH5-027",
+      "q": "In a biology assessment about levels of organization, which response correctly answers this question: Why is division of labour beneficial in multicellular organisms?",
+      "o": [
+        "Organs become unnecessary",
+        "Every cell must perform every task equally",
+        "Specialized structures perform tasks efficiently",
+        "Cells lose all coordination"
+      ],
+      "a": 2,
+      "e": "Specialization and cooperation improve efficiency.",
+      "d": "Medium",
+      "topic": "Levels of organization",
+      "slo": "Apply knowledge of: Levels of organization"
+    },
+    {
+      "id": "BIO9CH5-028",
+      "q": "Which organ pumps blood throughout the body?",
+      "o": [
+        "Heart",
+        "Lung",
+        "Stomach",
+        "Kidney"
+      ],
+      "a": 0,
+      "e": "The heart is a muscular pump of the circulatory system.",
+      "d": "Medium",
+      "topic": "Human organs",
+      "slo": "Identify and explain: Human organs"
+    },
+    {
+      "id": "BIO9CH5-029",
+      "q": "Choose the most scientifically accurate answer: which organ pumps blood throughout the body?",
+      "o": [
+        "Heart",
+        "Lung",
+        "Kidney",
+        "Stomach"
+      ],
+      "a": 0,
+      "e": "The heart is a muscular pump of the circulatory system.",
+      "d": "Medium",
+      "topic": "Human organs",
+      "slo": "Interpret: Human organs"
+    },
+    {
+      "id": "BIO9CH5-030",
+      "q": "In a biology assessment about human organs, which response correctly answers this question: Which organ pumps blood throughout the body?",
+      "o": [
+        "Kidney",
+        "Lung",
+        "Heart",
+        "Stomach"
+      ],
+      "a": 2,
+      "e": "The heart is a muscular pump of the circulatory system.",
+      "d": "Hard",
+      "topic": "Human organs",
+      "slo": "Apply knowledge of: Human organs"
+    },
+    {
+      "id": "BIO9CH5-031",
+      "q": "Which organ is primarily responsible for gas exchange?",
+      "o": [
+        "Liver",
+        "Lungs",
+        "Stomach",
+        "Bladder"
+      ],
+      "a": 1,
+      "e": "Gas exchange occurs across respiratory surfaces in the lungs.",
+      "d": "Easy",
+      "topic": "Human organs",
+      "slo": "Identify and explain: Human organs"
+    },
+    {
+      "id": "BIO9CH5-032",
+      "q": "Choose the most scientifically accurate answer: which organ is primarily responsible for gas exchange?",
+      "o": [
+        "Lungs",
+        "Bladder",
+        "Stomach",
+        "Liver"
+      ],
+      "a": 0,
+      "e": "Gas exchange occurs across respiratory surfaces in the lungs.",
+      "d": "Medium",
+      "topic": "Human organs",
+      "slo": "Interpret: Human organs"
+    },
+    {
+      "id": "BIO9CH5-033",
+      "q": "In a biology assessment about human organs, which response correctly answers this question: Which organ is primarily responsible for gas exchange?",
+      "o": [
+        "Bladder",
+        "Liver",
+        "Stomach",
+        "Lungs"
+      ],
+      "a": 3,
+      "e": "Gas exchange occurs across respiratory surfaces in the lungs.",
+      "d": "Medium",
+      "topic": "Human organs",
+      "slo": "Apply knowledge of: Human organs"
+    },
+    {
+      "id": "BIO9CH5-034",
+      "q": "Which organ mixes food and begins significant protein digestion?",
+      "o": [
+        "Stomach",
+        "Heart",
+        "Kidney",
+        "Trachea"
+      ],
+      "a": 0,
+      "e": "The stomach churns food and secretes gastric juice.",
+      "d": "Medium",
+      "topic": "Human organs",
+      "slo": "Identify and explain: Human organs"
+    },
+    {
+      "id": "BIO9CH5-035",
+      "q": "Choose the most scientifically accurate answer: which organ mixes food and begins significant protein digestion?",
+      "o": [
+        "Kidney",
+        "Stomach",
+        "Heart",
+        "Trachea"
+      ],
+      "a": 1,
+      "e": "The stomach churns food and secretes gastric juice.",
+      "d": "Medium",
+      "topic": "Human organs",
+      "slo": "Interpret: Human organs"
+    },
+    {
+      "id": "BIO9CH5-036",
+      "q": "In a biology assessment about human organs, which response correctly answers this question: Which organ mixes food and begins significant protein digestion?",
+      "o": [
+        "Trachea",
+        "Heart",
+        "Stomach",
+        "Kidney"
+      ],
+      "a": 2,
+      "e": "The stomach churns food and secretes gastric juice.",
+      "d": "Medium",
+      "topic": "Human organs",
+      "slo": "Apply knowledge of: Human organs"
+    },
+    {
+      "id": "BIO9CH5-037",
+      "q": "Which organ filters blood to help produce urine?",
+      "o": [
+        "Kidney",
+        "Lung",
+        "Stomach",
+        "Pancreas"
+      ],
+      "a": 0,
+      "e": "Kidneys remove wastes and regulate water and salts.",
+      "d": "Medium",
+      "topic": "Human organs",
+      "slo": "Identify and explain: Human organs"
+    },
+    {
+      "id": "BIO9CH5-038",
+      "q": "Choose the most scientifically accurate answer: which organ filters blood to help produce urine?",
+      "o": [
+        "Kidney",
+        "Pancreas",
+        "Lung",
+        "Stomach"
+      ],
+      "a": 0,
+      "e": "Kidneys remove wastes and regulate water and salts.",
+      "d": "Medium",
+      "topic": "Human organs",
+      "slo": "Interpret: Human organs"
+    },
+    {
+      "id": "BIO9CH5-039",
+      "q": "In a biology assessment about human organs, which response correctly answers this question: Which organ filters blood to help produce urine?",
+      "o": [
+        "Kidney",
+        "Lung",
+        "Pancreas",
+        "Stomach"
+      ],
+      "a": 0,
+      "e": "Kidneys remove wastes and regulate water and salts.",
+      "d": "Medium",
+      "topic": "Human organs",
+      "slo": "Apply knowledge of: Human organs"
+    },
+    {
+      "id": "BIO9CH5-040",
+      "q": "Which organ coordinates information and many body responses?",
+      "o": [
+        "Brain",
+        "Liver",
+        "Spleen",
+        "Stomach"
+      ],
+      "a": 0,
+      "e": "The brain is a major control centre of the nervous system.",
+      "d": "Easy",
+      "topic": "Human organs",
+      "slo": "Identify and explain: Human organs"
+    },
+    {
+      "id": "BIO9CH5-041",
+      "q": "Choose the most scientifically accurate answer: which organ coordinates information and many body responses?",
+      "o": [
+        "Liver",
+        "Brain",
+        "Spleen",
+        "Stomach"
+      ],
+      "a": 1,
+      "e": "The brain is a major control centre of the nervous system.",
+      "d": "Medium",
+      "topic": "Human organs",
+      "slo": "Interpret: Human organs"
+    },
+    {
+      "id": "BIO9CH5-042",
+      "q": "In a biology assessment about human organs, which response correctly answers this question: Which organ coordinates information and many body responses?",
+      "o": [
+        "Spleen",
+        "Liver",
+        "Stomach",
+        "Brain"
+      ],
+      "a": 3,
+      "e": "The brain is a major control centre of the nervous system.",
+      "d": "Hard",
+      "topic": "Human organs",
+      "slo": "Apply knowledge of: Human organs"
+    },
+    {
+      "id": "BIO9CH5-043",
+      "q": "Which organ produces bile?",
+      "o": [
+        "Liver",
+        "Heart",
+        "Lung",
+        "Kidney"
+      ],
+      "a": 0,
+      "e": "The liver produces bile, which aids fat digestion.",
+      "d": "Medium",
+      "topic": "Human organs",
+      "slo": "Identify and explain: Human organs"
+    },
+    {
+      "id": "BIO9CH5-044",
+      "q": "Choose the most scientifically accurate answer: which organ produces bile?",
+      "o": [
+        "Lung",
+        "Heart",
+        "Kidney",
+        "Liver"
+      ],
+      "a": 3,
+      "e": "The liver produces bile, which aids fat digestion.",
+      "d": "Medium",
+      "topic": "Human organs",
+      "slo": "Interpret: Human organs"
+    },
+    {
+      "id": "BIO9CH5-045",
+      "q": "In a biology assessment about human organs, which response correctly answers this question: Which organ produces bile?",
+      "o": [
+        "Lung",
+        "Kidney",
+        "Heart",
+        "Liver"
+      ],
+      "a": 3,
+      "e": "The liver produces bile, which aids fat digestion.",
+      "d": "Medium",
+      "topic": "Human organs",
+      "slo": "Apply knowledge of: Human organs"
+    },
+    {
+      "id": "BIO9CH5-046",
+      "q": "Which system transports oxygen, nutrients and wastes around the body?",
+      "o": [
+        "Integumentary system",
+        "Urinary system",
+        "Skeletal system",
+        "Cardiovascular system"
+      ],
+      "a": 3,
+      "e": "Heart and blood vessels circulate blood and transport substances.",
+      "d": "Medium",
+      "topic": "Human systems",
+      "slo": "Identify and explain: Human systems"
+    },
+    {
+      "id": "BIO9CH5-047",
+      "q": "Choose the most scientifically accurate answer: which system transports oxygen, nutrients and wastes around the body?",
+      "o": [
+        "Urinary system",
+        "Cardiovascular system",
+        "Skeletal system",
+        "Integumentary system"
+      ],
+      "a": 1,
+      "e": "Heart and blood vessels circulate blood and transport substances.",
+      "d": "Medium",
+      "topic": "Human systems",
+      "slo": "Interpret: Human systems"
+    },
+    {
+      "id": "BIO9CH5-048",
+      "q": "In a biology assessment about human systems, which response correctly answers this question: Which system transports oxygen, nutrients and wastes around the body?",
+      "o": [
+        "Skeletal system",
+        "Cardiovascular system",
+        "Integumentary system",
+        "Urinary system"
+      ],
+      "a": 1,
+      "e": "Heart and blood vessels circulate blood and transport substances.",
+      "d": "Medium",
+      "topic": "Human systems",
+      "slo": "Apply knowledge of: Human systems"
+    },
+    {
+      "id": "BIO9CH5-049",
+      "q": "Which structures form the core of the cardiovascular system?",
+      "o": [
+        "Bones and joints",
+        "Heart and blood vessels",
+        "Lungs and airways",
+        "Kidneys and bladder"
+      ],
+      "a": 1,
+      "e": "The heart pumps blood through blood vessels.",
+      "d": "Easy",
+      "topic": "Human systems",
+      "slo": "Identify and explain: Human systems"
+    },
+    {
+      "id": "BIO9CH5-050",
+      "q": "Choose the most scientifically accurate answer: which structures form the core of the cardiovascular system?",
+      "o": [
+        "Lungs and airways",
+        "Heart and blood vessels",
+        "Kidneys and bladder",
+        "Bones and joints"
+      ],
+      "a": 1,
+      "e": "The heart pumps blood through blood vessels.",
+      "d": "Medium",
+      "topic": "Human systems",
+      "slo": "Interpret: Human systems"
+    },
+    {
+      "id": "BIO9CH5-051",
+      "q": "In a biology assessment about human systems, which response correctly answers this question: Which structures form the core of the cardiovascular system?",
+      "o": [
+        "Heart and blood vessels",
+        "Bones and joints",
+        "Kidneys and bladder",
+        "Lungs and airways"
+      ],
+      "a": 0,
+      "e": "The heart pumps blood through blood vessels.",
+      "d": "Medium",
+      "topic": "Human systems",
+      "slo": "Apply knowledge of: Human systems"
+    },
+    {
+      "id": "BIO9CH5-052",
+      "q": "Which system transports tissue fluid back to blood and supports immunity?",
+      "o": [
+        "Digestive system",
+        "Lymphatic system",
+        "Respiratory system",
+        "Skeletal system"
+      ],
+      "a": 1,
+      "e": "Lymphatic vessels and organs return fluid and contribute to defense.",
+      "d": "Medium",
+      "topic": "Human systems",
+      "slo": "Identify and explain: Human systems"
+    },
+    {
+      "id": "BIO9CH5-053",
+      "q": "Choose the most scientifically accurate answer: which system transports tissue fluid back to blood and supports immunity?",
+      "o": [
+        "Skeletal system",
+        "Digestive system",
+        "Respiratory system",
+        "Lymphatic system"
+      ],
+      "a": 3,
+      "e": "Lymphatic vessels and organs return fluid and contribute to defense.",
+      "d": "Medium",
+      "topic": "Human systems",
+      "slo": "Interpret: Human systems"
+    },
+    {
+      "id": "BIO9CH5-054",
+      "q": "In a biology assessment about human systems, which response correctly answers this question: Which system transports tissue fluid back to blood and supports immunity?",
+      "o": [
+        "Skeletal system",
+        "Lymphatic system",
+        "Respiratory system",
+        "Digestive system"
+      ],
+      "a": 1,
+      "e": "Lymphatic vessels and organs return fluid and contribute to defense.",
+      "d": "Hard",
+      "topic": "Human systems",
+      "slo": "Apply knowledge of: Human systems"
+    },
+    {
+      "id": "BIO9CH5-055",
+      "q": "Which system breaks down food and absorbs nutrients?",
+      "o": [
+        "Digestive system",
+        "Nervous system",
+        "Urinary system",
+        "Muscular system"
+      ],
+      "a": 0,
+      "e": "Digestive organs process food and absorb usable substances.",
+      "d": "Medium",
+      "topic": "Human systems",
+      "slo": "Identify and explain: Human systems"
+    },
+    {
+      "id": "BIO9CH5-056",
+      "q": "Choose the most scientifically accurate answer: which system breaks down food and absorbs nutrients?",
+      "o": [
+        "Urinary system",
+        "Muscular system",
+        "Digestive system",
+        "Nervous system"
+      ],
+      "a": 2,
+      "e": "Digestive organs process food and absorb usable substances.",
+      "d": "Medium",
+      "topic": "Human systems",
+      "slo": "Interpret: Human systems"
+    },
+    {
+      "id": "BIO9CH5-057",
+      "q": "In a biology assessment about human systems, which response correctly answers this question: Which system breaks down food and absorbs nutrients?",
+      "o": [
+        "Nervous system",
+        "Urinary system",
+        "Muscular system",
+        "Digestive system"
+      ],
+      "a": 3,
+      "e": "Digestive organs process food and absorb usable substances.",
+      "d": "Medium",
+      "topic": "Human systems",
+      "slo": "Apply knowledge of: Human systems"
+    },
+    {
+      "id": "BIO9CH5-058",
+      "q": "Which system uses hormones for body-wide chemical communication?",
+      "o": [
+        "Skeletal system",
+        "Digestive system",
+        "Endocrine system",
+        "Integumentary system"
+      ],
+      "a": 2,
+      "e": "Endocrine glands release hormones into blood.",
+      "d": "Easy",
+      "topic": "Human systems",
+      "slo": "Identify and explain: Human systems"
+    },
+    {
+      "id": "BIO9CH5-059",
+      "q": "Choose the most scientifically accurate answer: which system uses hormones for body-wide chemical communication?",
+      "o": [
+        "Digestive system",
+        "Integumentary system",
+        "Skeletal system",
+        "Endocrine system"
+      ],
+      "a": 3,
+      "e": "Endocrine glands release hormones into blood.",
+      "d": "Medium",
+      "topic": "Human systems",
+      "slo": "Interpret: Human systems"
+    },
+    {
+      "id": "BIO9CH5-060",
+      "q": "In a biology assessment about human systems, which response correctly answers this question: Which system uses hormones for body-wide chemical communication?",
+      "o": [
+        "Integumentary system",
+        "Digestive system",
+        "Endocrine system",
+        "Skeletal system"
+      ],
+      "a": 2,
+      "e": "Endocrine glands release hormones into blood.",
+      "d": "Medium",
+      "topic": "Human systems",
+      "slo": "Apply knowledge of: Human systems"
+    },
+    {
+      "id": "BIO9CH5-061",
+      "q": "Which system provides a protective external covering?",
+      "o": [
+        "Integumentary system",
+        "Lymphatic system",
+        "Urinary system",
+        "Cardiovascular system"
+      ],
+      "a": 0,
+      "e": "Skin and related structures protect the body.",
+      "d": "Medium",
+      "topic": "Human systems",
+      "slo": "Identify and explain: Human systems"
+    },
+    {
+      "id": "BIO9CH5-062",
+      "q": "Choose the most scientifically accurate answer: which system provides a protective external covering?",
+      "o": [
+        "Lymphatic system",
+        "Integumentary system",
+        "Urinary system",
+        "Cardiovascular system"
+      ],
+      "a": 1,
+      "e": "Skin and related structures protect the body.",
+      "d": "Medium",
+      "topic": "Human systems",
+      "slo": "Interpret: Human systems"
+    },
+    {
+      "id": "BIO9CH5-063",
+      "q": "In a biology assessment about human systems, which response correctly answers this question: Which system provides a protective external covering?",
+      "o": [
+        "Cardiovascular system",
+        "Urinary system",
+        "Lymphatic system",
+        "Integumentary system"
+      ],
+      "a": 3,
+      "e": "Skin and related structures protect the body.",
+      "d": "Medium",
+      "topic": "Human systems",
+      "slo": "Apply knowledge of: Human systems"
+    },
+    {
+      "id": "BIO9CH5-064",
+      "q": "Which system enables body movement through contraction?",
+      "o": [
+        "Endocrine system",
+        "Muscular system",
+        "Digestive system",
+        "Lymphatic system"
+      ],
+      "a": 1,
+      "e": "Muscles contract to produce movement and maintain posture.",
+      "d": "Medium",
+      "topic": "Human systems",
+      "slo": "Identify and explain: Human systems"
+    },
+    {
+      "id": "BIO9CH5-065",
+      "q": "Choose the most scientifically accurate answer: which system enables body movement through contraction?",
+      "o": [
+        "Digestive system",
+        "Muscular system",
+        "Lymphatic system",
+        "Endocrine system"
+      ],
+      "a": 1,
+      "e": "Muscles contract to produce movement and maintain posture.",
+      "d": "Medium",
+      "topic": "Human systems",
+      "slo": "Interpret: Human systems"
+    },
+    {
+      "id": "BIO9CH5-066",
+      "q": "In a biology assessment about human systems, which response correctly answers this question: Which system enables body movement through contraction?",
+      "o": [
+        "Lymphatic system",
+        "Digestive system",
+        "Muscular system",
+        "Endocrine system"
+      ],
+      "a": 2,
+      "e": "Muscles contract to produce movement and maintain posture.",
+      "d": "Hard",
+      "topic": "Human systems",
+      "slo": "Apply knowledge of: Human systems"
+    },
+    {
+      "id": "BIO9CH5-067",
+      "q": "Which system rapidly detects stimuli and coordinates responses?",
+      "o": [
+        "Skeletal system",
+        "Digestive system",
+        "Urinary system",
+        "Nervous system"
+      ],
+      "a": 3,
+      "e": "Nerves and central nervous structures transmit signals.",
+      "d": "Easy",
+      "topic": "Human systems",
+      "slo": "Identify and explain: Human systems"
+    },
+    {
+      "id": "BIO9CH5-068",
+      "q": "Choose the most scientifically accurate answer: which system rapidly detects stimuli and coordinates responses?",
+      "o": [
+        "Urinary system",
+        "Digestive system",
+        "Skeletal system",
+        "Nervous system"
+      ],
+      "a": 3,
+      "e": "Nerves and central nervous structures transmit signals.",
+      "d": "Medium",
+      "topic": "Human systems",
+      "slo": "Interpret: Human systems"
+    },
+    {
+      "id": "BIO9CH5-069",
+      "q": "In a biology assessment about human systems, which response correctly answers this question: Which system rapidly detects stimuli and coordinates responses?",
+      "o": [
+        "Skeletal system",
+        "Digestive system",
+        "Urinary system",
+        "Nervous system"
+      ],
+      "a": 3,
+      "e": "Nerves and central nervous structures transmit signals.",
+      "d": "Medium",
+      "topic": "Human systems",
+      "slo": "Apply knowledge of: Human systems"
+    },
+    {
+      "id": "BIO9CH5-070",
+      "q": "Which system brings air to gas-exchange surfaces?",
+      "o": [
+        "Urinary system",
+        "Endocrine system",
+        "Respiratory system",
+        "Skeletal system"
+      ],
+      "a": 2,
+      "e": "Airways and lungs enable ventilation and gas exchange.",
+      "d": "Medium",
+      "topic": "Human systems",
+      "slo": "Identify and explain: Human systems"
+    },
+    {
+      "id": "BIO9CH5-071",
+      "q": "Choose the most scientifically accurate answer: which system brings air to gas-exchange surfaces?",
+      "o": [
+        "Urinary system",
+        "Endocrine system",
+        "Respiratory system",
+        "Skeletal system"
+      ],
+      "a": 2,
+      "e": "Airways and lungs enable ventilation and gas exchange.",
+      "d": "Medium",
+      "topic": "Human systems",
+      "slo": "Interpret: Human systems"
+    },
+    {
+      "id": "BIO9CH5-072",
+      "q": "In a biology assessment about human systems, which response correctly answers this question: Which system brings air to gas-exchange surfaces?",
+      "o": [
+        "Urinary system",
+        "Skeletal system",
+        "Endocrine system",
+        "Respiratory system"
+      ],
+      "a": 3,
+      "e": "Airways and lungs enable ventilation and gas exchange.",
+      "d": "Medium",
+      "topic": "Human systems",
+      "slo": "Apply knowledge of: Human systems"
+    },
+    {
+      "id": "BIO9CH5-073",
+      "q": "Which system supports the body and protects internal organs?",
+      "o": [
+        "Skeletal system",
+        "Digestive system",
+        "Endocrine system",
+        "Lymphatic system"
+      ],
+      "a": 0,
+      "e": "Bones and cartilage provide support and protection.",
+      "d": "Medium",
+      "topic": "Human systems",
+      "slo": "Identify and explain: Human systems"
+    },
+    {
+      "id": "BIO9CH5-074",
+      "q": "Choose the most scientifically accurate answer: which system supports the body and protects internal organs?",
+      "o": [
+        "Endocrine system",
+        "Digestive system",
+        "Lymphatic system",
+        "Skeletal system"
+      ],
+      "a": 3,
+      "e": "Bones and cartilage provide support and protection.",
+      "d": "Medium",
+      "topic": "Human systems",
+      "slo": "Interpret: Human systems"
+    },
+    {
+      "id": "BIO9CH5-075",
+      "q": "In a biology assessment about human systems, which response correctly answers this question: Which system supports the body and protects internal organs?",
+      "o": [
+        "Lymphatic system",
+        "Digestive system",
+        "Skeletal system",
+        "Endocrine system"
+      ],
+      "a": 2,
+      "e": "Bones and cartilage provide support and protection.",
+      "d": "Medium",
+      "topic": "Human systems",
+      "slo": "Apply knowledge of: Human systems"
+    },
+    {
+      "id": "BIO9CH5-076",
+      "q": "Which system removes nitrogenous wastes and regulates fluid balance?",
+      "o": [
+        "Respiratory system",
+        "Urinary system",
+        "Muscular system",
+        "Skeletal system"
+      ],
+      "a": 1,
+      "e": "Kidneys and urinary passages excrete urine and maintain balance.",
+      "d": "Easy",
+      "topic": "Human systems",
+      "slo": "Identify and explain: Human systems"
+    },
+    {
+      "id": "BIO9CH5-077",
+      "q": "Choose the most scientifically accurate answer: which system removes nitrogenous wastes and regulates fluid balance?",
+      "o": [
+        "Respiratory system",
+        "Skeletal system",
+        "Urinary system",
+        "Muscular system"
+      ],
+      "a": 2,
+      "e": "Kidneys and urinary passages excrete urine and maintain balance.",
+      "d": "Medium",
+      "topic": "Human systems",
+      "slo": "Interpret: Human systems"
+    },
+    {
+      "id": "BIO9CH5-078",
+      "q": "In a biology assessment about human systems, which response correctly answers this question: Which system removes nitrogenous wastes and regulates fluid balance?",
+      "o": [
+        "Muscular system",
+        "Skeletal system",
+        "Respiratory system",
+        "Urinary system"
+      ],
+      "a": 3,
+      "e": "Kidneys and urinary passages excrete urine and maintain balance.",
+      "d": "Hard",
+      "topic": "Human systems",
+      "slo": "Apply knowledge of: Human systems"
+    },
+    {
+      "id": "BIO9CH5-079",
+      "q": "Which system defends against pathogens?",
+      "o": [
+        "Skeletal system",
+        "Muscular system",
+        "Immune system",
+        "Digestive system"
+      ],
+      "a": 2,
+      "e": "Immune cells and organs recognize and respond to pathogens.",
+      "d": "Medium",
+      "topic": "Human systems",
+      "slo": "Identify and explain: Human systems"
+    },
+    {
+      "id": "BIO9CH5-080",
+      "q": "Choose the most scientifically accurate answer: which system defends against pathogens?",
+      "o": [
+        "Immune system",
+        "Skeletal system",
+        "Digestive system",
+        "Muscular system"
+      ],
+      "a": 0,
+      "e": "Immune cells and organs recognize and respond to pathogens.",
+      "d": "Medium",
+      "topic": "Human systems",
+      "slo": "Interpret: Human systems"
+    },
+    {
+      "id": "BIO9CH5-081",
+      "q": "In a biology assessment about human systems, which response correctly answers this question: Which system defends against pathogens?",
+      "o": [
+        "Immune system",
+        "Muscular system",
+        "Digestive system",
+        "Skeletal system"
+      ],
+      "a": 0,
+      "e": "Immune cells and organs recognize and respond to pathogens.",
+      "d": "Medium",
+      "topic": "Human systems",
+      "slo": "Apply knowledge of: Human systems"
+    },
+    {
+      "id": "BIO9CH5-082",
+      "q": "Which system enables production of offspring?",
+      "o": [
+        "Urinary system",
+        "Respiratory system",
+        "Reproductive system",
+        "Integumentary system"
+      ],
+      "a": 2,
+      "e": "Reproductive organs produce gametes and support reproduction.",
+      "d": "Medium",
+      "topic": "Human systems",
+      "slo": "Identify and explain: Human systems"
+    },
+    {
+      "id": "BIO9CH5-083",
+      "q": "Choose the most scientifically accurate answer: which system enables production of offspring?",
+      "o": [
+        "Urinary system",
+        "Respiratory system",
+        "Reproductive system",
+        "Integumentary system"
+      ],
+      "a": 2,
+      "e": "Reproductive organs produce gametes and support reproduction.",
+      "d": "Medium",
+      "topic": "Human systems",
+      "slo": "Interpret: Human systems"
+    },
+    {
+      "id": "BIO9CH5-084",
+      "q": "In a biology assessment about human systems, which response correctly answers this question: Which system enables production of offspring?",
+      "o": [
+        "Respiratory system",
+        "Integumentary system",
+        "Urinary system",
+        "Reproductive system"
+      ],
+      "a": 3,
+      "e": "Reproductive organs produce gametes and support reproduction.",
+      "d": "Medium",
+      "topic": "Human systems",
+      "slo": "Apply knowledge of: Human systems"
+    },
+    {
+      "id": "BIO9CH5-085",
+      "q": "Which system works with muscles to produce movement at joints?",
+      "o": [
+        "Digestive system",
+        "Lymphatic system",
+        "Endocrine system",
+        "Skeletal system"
+      ],
+      "a": 3,
+      "e": "Bones provide levers that muscles move at joints.",
+      "d": "Easy",
+      "topic": "Human systems",
+      "slo": "Identify and explain: Human systems"
+    },
+    {
+      "id": "BIO9CH5-086",
+      "q": "Choose the most scientifically accurate answer: which system works with muscles to produce movement at joints?",
+      "o": [
+        "Lymphatic system",
+        "Digestive system",
+        "Skeletal system",
+        "Endocrine system"
+      ],
+      "a": 2,
+      "e": "Bones provide levers that muscles move at joints.",
+      "d": "Medium",
+      "topic": "Human systems",
+      "slo": "Interpret: Human systems"
+    },
+    {
+      "id": "BIO9CH5-087",
+      "q": "In a biology assessment about human systems, which response correctly answers this question: Which system works with muscles to produce movement at joints?",
+      "o": [
+        "Endocrine system",
+        "Skeletal system",
+        "Lymphatic system",
+        "Digestive system"
+      ],
+      "a": 1,
+      "e": "Bones provide levers that muscles move at joints.",
+      "d": "Medium",
+      "topic": "Human systems",
+      "slo": "Apply knowledge of: Human systems"
+    },
+    {
+      "id": "BIO9CH5-088",
+      "q": "What is homeostasis?",
+      "o": [
+        "Stopping all metabolism",
+        "Maintenance of a relatively stable internal environment",
+        "Keeping every external condition unchanged",
+        "Making body temperature identical to air temperature"
+      ],
+      "a": 1,
+      "e": "Homeostatic processes regulate internal conditions within suitable limits.",
+      "d": "Medium",
+      "topic": "Homeostasis",
+      "slo": "Identify and explain: Homeostasis"
+    },
+    {
+      "id": "BIO9CH5-089",
+      "q": "Choose the most scientifically accurate answer: what is homeostasis?",
+      "o": [
+        "Stopping all metabolism",
+        "Keeping every external condition unchanged",
+        "Making body temperature identical to air temperature",
+        "Maintenance of a relatively stable internal environment"
+      ],
+      "a": 3,
+      "e": "Homeostatic processes regulate internal conditions within suitable limits.",
+      "d": "Medium",
+      "topic": "Homeostasis",
+      "slo": "Interpret: Homeostasis"
+    },
+    {
+      "id": "BIO9CH5-090",
+      "q": "In a biology assessment about homeostasis, which response correctly answers this question: What is homeostasis?",
+      "o": [
+        "Maintenance of a relatively stable internal environment",
+        "Keeping every external condition unchanged",
+        "Making body temperature identical to air temperature",
+        "Stopping all metabolism"
+      ],
+      "a": 0,
+      "e": "Homeostatic processes regulate internal conditions within suitable limits.",
+      "d": "Hard",
+      "topic": "Homeostasis",
+      "slo": "Apply knowledge of: Homeostasis"
+    },
+    {
+      "id": "BIO9CH5-091",
+      "q": "Why is homeostasis essential for enzymes?",
+      "o": [
+        "Enzymes work best within suitable internal conditions",
+        "Enzymes do not depend on temperature",
+        "Enzymes are all destroyed by water",
+        "Enzymes only function when body conditions change randomly"
+      ],
+      "a": 0,
+      "e": "Stable temperature and chemical conditions support enzyme activity.",
+      "d": "Medium",
+      "topic": "Homeostasis",
+      "slo": "Identify and explain: Homeostasis"
+    },
+    {
+      "id": "BIO9CH5-092",
+      "q": "Choose the most scientifically accurate answer: why is homeostasis essential for enzymes?",
+      "o": [
+        "Enzymes only function when body conditions change randomly",
+        "Enzymes work best within suitable internal conditions",
+        "Enzymes do not depend on temperature",
+        "Enzymes are all destroyed by water"
+      ],
+      "a": 1,
+      "e": "Stable temperature and chemical conditions support enzyme activity.",
+      "d": "Medium",
+      "topic": "Homeostasis",
+      "slo": "Interpret: Homeostasis"
+    },
+    {
+      "id": "BIO9CH5-093",
+      "q": "In a biology assessment about homeostasis, which response correctly answers this question: Why is homeostasis essential for enzymes?",
+      "o": [
+        "Enzymes only function when body conditions change randomly",
+        "Enzymes do not depend on temperature",
+        "Enzymes are all destroyed by water",
+        "Enzymes work best within suitable internal conditions"
+      ],
+      "a": 3,
+      "e": "Stable temperature and chemical conditions support enzyme activity.",
+      "d": "Medium",
+      "topic": "Homeostasis",
+      "slo": "Apply knowledge of: Homeostasis"
+    },
+    {
+      "id": "BIO9CH5-094",
+      "q": "Which condition is regulated during human homeostasis?",
+      "o": [
+        "Length of daylight",
+        "Earth's rotation",
+        "Body temperature",
+        "Atmospheric seasons"
+      ],
+      "a": 2,
+      "e": "The body adjusts heat production and loss to regulate temperature.",
+      "d": "Easy",
+      "topic": "Homeostasis",
+      "slo": "Identify and explain: Homeostasis"
+    },
+    {
+      "id": "BIO9CH5-095",
+      "q": "Choose the most scientifically accurate answer: which condition is regulated during human homeostasis?",
+      "o": [
+        "Length of daylight",
+        "Body temperature",
+        "Atmospheric seasons",
+        "Earth's rotation"
+      ],
+      "a": 1,
+      "e": "The body adjusts heat production and loss to regulate temperature.",
+      "d": "Medium",
+      "topic": "Homeostasis",
+      "slo": "Interpret: Homeostasis"
+    },
+    {
+      "id": "BIO9CH5-096",
+      "q": "In a biology assessment about homeostasis, which response correctly answers this question: Which condition is regulated during human homeostasis?",
+      "o": [
+        "Body temperature",
+        "Atmospheric seasons",
+        "Earth's rotation",
+        "Length of daylight"
+      ],
+      "a": 0,
+      "e": "The body adjusts heat production and loss to regulate temperature.",
+      "d": "Medium",
+      "topic": "Homeostasis",
+      "slo": "Apply knowledge of: Homeostasis"
+    },
+    {
+      "id": "BIO9CH5-097",
+      "q": "What is negative feedback?",
+      "o": [
+        "A response that always amplifies a change",
+        "A response that counteracts a change from a normal range",
+        "A response unrelated to the stimulus",
+        "A process that stops all signals"
+      ],
+      "a": 1,
+      "e": "Negative feedback tends to restore a regulated condition.",
+      "d": "Medium",
+      "topic": "Homeostasis",
+      "slo": "Identify and explain: Homeostasis"
+    },
+    {
+      "id": "BIO9CH5-098",
+      "q": "Choose the most scientifically accurate answer: what is negative feedback?",
+      "o": [
+        "A process that stops all signals",
+        "A response that counteracts a change from a normal range",
+        "A response unrelated to the stimulus",
+        "A response that always amplifies a change"
+      ],
+      "a": 1,
+      "e": "Negative feedback tends to restore a regulated condition.",
+      "d": "Medium",
+      "topic": "Homeostasis",
+      "slo": "Interpret: Homeostasis"
+    },
+    {
+      "id": "BIO9CH5-099",
+      "q": "In a biology assessment about homeostasis, which response correctly answers this question: What is negative feedback?",
+      "o": [
+        "A response that counteracts a change from a normal range",
+        "A response that always amplifies a change",
+        "A process that stops all signals",
+        "A response unrelated to the stimulus"
+      ],
+      "a": 0,
+      "e": "Negative feedback tends to restore a regulated condition.",
+      "d": "Medium",
+      "topic": "Homeostasis",
+      "slo": "Apply knowledge of: Homeostasis"
+    },
+    {
+      "id": "BIO9CH5-100",
+      "q": "What is a stimulus in a homeostatic pathway?",
+      "o": [
+        "A waste product in every case",
+        "The final correction only",
+        "A detectable change in a regulated condition",
+        "A permanent organ"
+      ],
+      "a": 2,
+      "e": "A stimulus initiates the regulatory response.",
+      "d": "Medium",
+      "topic": "Homeostasis",
+      "slo": "Identify and explain: Homeostasis"
+    },
+    {
+      "id": "BIO9CH5-101",
+      "q": "Choose the most scientifically accurate answer: what is a stimulus in a homeostatic pathway?",
+      "o": [
+        "A waste product in every case",
+        "A permanent organ",
+        "A detectable change in a regulated condition",
+        "The final correction only"
+      ],
+      "a": 2,
+      "e": "A stimulus initiates the regulatory response.",
+      "d": "Medium",
+      "topic": "Homeostasis",
+      "slo": "Interpret: Homeostasis"
+    },
+    {
+      "id": "BIO9CH5-102",
+      "q": "In a biology assessment about homeostasis, which response correctly answers this question: What is a stimulus in a homeostatic pathway?",
+      "o": [
+        "A waste product in every case",
+        "The final correction only",
+        "A detectable change in a regulated condition",
+        "A permanent organ"
+      ],
+      "a": 2,
+      "e": "A stimulus initiates the regulatory response.",
+      "d": "Hard",
+      "topic": "Homeostasis",
+      "slo": "Apply knowledge of: Homeostasis"
+    },
+    {
+      "id": "BIO9CH5-103",
+      "q": "What does a receptor do in homeostasis?",
+      "o": [
+        "Carries out every correction directly",
+        "Prevents any stimulus",
+        "Produces all hormones",
+        "Detects a change in conditions"
+      ],
+      "a": 3,
+      "e": "Receptors sense changes and provide information for regulation.",
+      "d": "Easy",
+      "topic": "Homeostasis",
+      "slo": "Identify and explain: Homeostasis"
+    },
+    {
+      "id": "BIO9CH5-104",
+      "q": "Choose the most scientifically accurate answer: what does a receptor do in homeostasis?",
+      "o": [
+        "Produces all hormones",
+        "Detects a change in conditions",
+        "Carries out every correction directly",
+        "Prevents any stimulus"
+      ],
+      "a": 1,
+      "e": "Receptors sense changes and provide information for regulation.",
+      "d": "Medium",
+      "topic": "Homeostasis",
+      "slo": "Interpret: Homeostasis"
+    },
+    {
+      "id": "BIO9CH5-105",
+      "q": "In a biology assessment about homeostasis, which response correctly answers this question: What does a receptor do in homeostasis?",
+      "o": [
+        "Carries out every correction directly",
+        "Produces all hormones",
+        "Detects a change in conditions",
+        "Prevents any stimulus"
+      ],
+      "a": 2,
+      "e": "Receptors sense changes and provide information for regulation.",
+      "d": "Medium",
+      "topic": "Homeostasis",
+      "slo": "Apply knowledge of: Homeostasis"
+    },
+    {
+      "id": "BIO9CH5-106",
+      "q": "What does a control centre do in a feedback pathway?",
+      "o": [
+        "Makes every stimulus disappear instantly",
+        "Acts only as a structural support",
+        "Stores nutrients without regulation",
+        "Processes information and directs a response"
+      ],
+      "a": 3,
+      "e": "Control centres compare conditions with the regulated range and coordinate effectors.",
+      "d": "Medium",
+      "topic": "Homeostasis",
+      "slo": "Identify and explain: Homeostasis"
+    },
+    {
+      "id": "BIO9CH5-107",
+      "q": "Choose the most scientifically accurate answer: what does a control centre do in a feedback pathway?",
+      "o": [
+        "Makes every stimulus disappear instantly",
+        "Processes information and directs a response",
+        "Acts only as a structural support",
+        "Stores nutrients without regulation"
+      ],
+      "a": 1,
+      "e": "Control centres compare conditions with the regulated range and coordinate effectors.",
+      "d": "Medium",
+      "topic": "Homeostasis",
+      "slo": "Interpret: Homeostasis"
+    },
+    {
+      "id": "BIO9CH5-108",
+      "q": "In a biology assessment about homeostasis, which response correctly answers this question: What does a control centre do in a feedback pathway?",
+      "o": [
+        "Acts only as a structural support",
+        "Stores nutrients without regulation",
+        "Processes information and directs a response",
+        "Makes every stimulus disappear instantly"
+      ],
+      "a": 2,
+      "e": "Control centres compare conditions with the regulated range and coordinate effectors.",
+      "d": "Medium",
+      "topic": "Homeostasis",
+      "slo": "Apply knowledge of: Homeostasis"
+    },
+    {
+      "id": "BIO9CH5-109",
+      "q": "What is an effector?",
+      "o": [
+        "The initial environmental change",
+        "A structure that carries out a corrective response",
+        "A synonym for the receptor",
+        "An organelle that only stores DNA"
+      ],
+      "a": 1,
+      "e": "Muscles and glands often act as effectors.",
+      "d": "Medium",
+      "topic": "Homeostasis",
+      "slo": "Identify and explain: Homeostasis"
+    },
+    {
+      "id": "BIO9CH5-110",
+      "q": "Choose the most scientifically accurate answer: what is an effector?",
+      "o": [
+        "An organelle that only stores DNA",
+        "A synonym for the receptor",
+        "The initial environmental change",
+        "A structure that carries out a corrective response"
+      ],
+      "a": 3,
+      "e": "Muscles and glands often act as effectors.",
+      "d": "Medium",
+      "topic": "Homeostasis",
+      "slo": "Interpret: Homeostasis"
+    },
+    {
+      "id": "BIO9CH5-111",
+      "q": "In a biology assessment about homeostasis, which response correctly answers this question: What is an effector?",
+      "o": [
+        "An organelle that only stores DNA",
+        "A structure that carries out a corrective response",
+        "The initial environmental change",
+        "A synonym for the receptor"
+      ],
+      "a": 1,
+      "e": "Muscles and glands often act as effectors.",
+      "d": "Medium",
+      "topic": "Homeostasis",
+      "slo": "Apply knowledge of: Homeostasis"
+    },
+    {
+      "id": "BIO9CH5-112",
+      "q": "What happens to skin blood vessels when a person is too hot?",
+      "o": [
+        "They often dilate to increase heat loss",
+        "They stop carrying blood",
+        "They turn into sweat glands",
+        "They always constrict to prevent heat loss"
+      ],
+      "a": 0,
+      "e": "Vasodilation increases blood flow near the skin surface.",
+      "d": "Easy",
+      "topic": "Temperature regulation",
+      "slo": "Identify and explain: Temperature regulation"
+    },
+    {
+      "id": "BIO9CH5-113",
+      "q": "Choose the most scientifically accurate answer: what happens to skin blood vessels when a person is too hot?",
+      "o": [
+        "They often dilate to increase heat loss",
+        "They always constrict to prevent heat loss",
+        "They turn into sweat glands",
+        "They stop carrying blood"
+      ],
+      "a": 0,
+      "e": "Vasodilation increases blood flow near the skin surface.",
+      "d": "Medium",
+      "topic": "Temperature regulation",
+      "slo": "Interpret: Temperature regulation"
+    },
+    {
+      "id": "BIO9CH5-114",
+      "q": "In a biology assessment about temperature regulation, which response correctly answers this question: What happens to skin blood vessels when a person is too hot?",
+      "o": [
+        "They often dilate to increase heat loss",
+        "They always constrict to prevent heat loss",
+        "They stop carrying blood",
+        "They turn into sweat glands"
+      ],
+      "a": 0,
+      "e": "Vasodilation increases blood flow near the skin surface.",
+      "d": "Hard",
+      "topic": "Temperature regulation",
+      "slo": "Apply knowledge of: Temperature regulation"
+    },
+    {
+      "id": "BIO9CH5-115",
+      "q": "How does sweating help cool the body?",
+      "o": [
+        "Sweat makes enzymes stop functioning",
+        "Sweat stops all blood circulation",
+        "Sweat directly produces body heat",
+        "Evaporation of sweat removes heat"
+      ],
+      "a": 3,
+      "e": "Evaporation requires energy, drawing heat from the skin.",
+      "d": "Medium",
+      "topic": "Temperature regulation",
+      "slo": "Identify and explain: Temperature regulation"
+    },
+    {
+      "id": "BIO9CH5-116",
+      "q": "Choose the most scientifically accurate answer: how does sweating help cool the body?",
+      "o": [
+        "Sweat stops all blood circulation",
+        "Sweat makes enzymes stop functioning",
+        "Evaporation of sweat removes heat",
+        "Sweat directly produces body heat"
+      ],
+      "a": 2,
+      "e": "Evaporation requires energy, drawing heat from the skin.",
+      "d": "Medium",
+      "topic": "Temperature regulation",
+      "slo": "Interpret: Temperature regulation"
+    },
+    {
+      "id": "BIO9CH5-117",
+      "q": "In a biology assessment about temperature regulation, which response correctly answers this question: How does sweating help cool the body?",
+      "o": [
+        "Evaporation of sweat removes heat",
+        "Sweat makes enzymes stop functioning",
+        "Sweat stops all blood circulation",
+        "Sweat directly produces body heat"
+      ],
+      "a": 0,
+      "e": "Evaporation requires energy, drawing heat from the skin.",
+      "d": "Medium",
+      "topic": "Temperature regulation",
+      "slo": "Apply knowledge of: Temperature regulation"
+    },
+    {
+      "id": "BIO9CH5-118",
+      "q": "What happens to skin blood vessels when a person is cold?",
+      "o": [
+        "They become lymph nodes",
+        "They often constrict to reduce heat loss",
+        "They release digestive enzymes",
+        "They always dilate maximally"
+      ],
+      "a": 1,
+      "e": "Vasoconstriction reduces warm blood flow near the skin surface.",
+      "d": "Medium",
+      "topic": "Temperature regulation",
+      "slo": "Identify and explain: Temperature regulation"
+    },
+    {
+      "id": "BIO9CH5-119",
+      "q": "Choose the most scientifically accurate answer: what happens to skin blood vessels when a person is cold?",
+      "o": [
+        "They become lymph nodes",
+        "They always dilate maximally",
+        "They release digestive enzymes",
+        "They often constrict to reduce heat loss"
+      ],
+      "a": 3,
+      "e": "Vasoconstriction reduces warm blood flow near the skin surface.",
+      "d": "Medium",
+      "topic": "Temperature regulation",
+      "slo": "Interpret: Temperature regulation"
+    },
+    {
+      "id": "BIO9CH5-120",
+      "q": "In a biology assessment about temperature regulation, which response correctly answers this question: What happens to skin blood vessels when a person is cold?",
+      "o": [
+        "They often constrict to reduce heat loss",
+        "They become lymph nodes",
+        "They release digestive enzymes",
+        "They always dilate maximally"
+      ],
+      "a": 0,
+      "e": "Vasoconstriction reduces warm blood flow near the skin surface.",
+      "d": "Medium",
+      "topic": "Temperature regulation",
+      "slo": "Apply knowledge of: Temperature regulation"
+    },
+    {
+      "id": "BIO9CH5-121",
+      "q": "Why does shivering warm the body?",
+      "o": [
+        "Repeated muscle contractions produce heat",
+        "It prevents all cellular respiration",
+        "It turns muscle into fat",
+        "It increases sweat evaporation"
+      ],
+      "a": 0,
+      "e": "Muscle activity releases heat as metabolism increases.",
+      "d": "Easy",
+      "topic": "Temperature regulation",
+      "slo": "Identify and explain: Temperature regulation"
+    },
+    {
+      "id": "BIO9CH5-122",
+      "q": "Choose the most scientifically accurate answer: why does shivering warm the body?",
+      "o": [
+        "It prevents all cellular respiration",
+        "It increases sweat evaporation",
+        "It turns muscle into fat",
+        "Repeated muscle contractions produce heat"
+      ],
+      "a": 3,
+      "e": "Muscle activity releases heat as metabolism increases.",
+      "d": "Medium",
+      "topic": "Temperature regulation",
+      "slo": "Interpret: Temperature regulation"
+    },
+    {
+      "id": "BIO9CH5-123",
+      "q": "In a biology assessment about temperature regulation, which response correctly answers this question: Why does shivering warm the body?",
+      "o": [
+        "It turns muscle into fat",
+        "It prevents all cellular respiration",
+        "It increases sweat evaporation",
+        "Repeated muscle contractions produce heat"
+      ],
+      "a": 3,
+      "e": "Muscle activity releases heat as metabolism increases.",
+      "d": "Medium",
+      "topic": "Temperature regulation",
+      "slo": "Apply knowledge of: Temperature regulation"
+    },
+    {
+      "id": "BIO9CH5-124",
+      "q": "Which combination helps a hot person lose heat?",
+      "o": [
+        "Sweating and skin vasodilation",
+        "Shivering and vasoconstriction",
+        "Vasoconstriction and goosebumps",
+        "Reduced sweating and shivering"
+      ],
+      "a": 0,
+      "e": "Both responses facilitate cooling.",
+      "d": "Medium",
+      "topic": "Temperature regulation",
+      "slo": "Identify and explain: Temperature regulation"
+    },
+    {
+      "id": "BIO9CH5-125",
+      "q": "Choose the most scientifically accurate answer: which combination helps a hot person lose heat?",
+      "o": [
+        "Sweating and skin vasodilation",
+        "Vasoconstriction and goosebumps",
+        "Shivering and vasoconstriction",
+        "Reduced sweating and shivering"
+      ],
+      "a": 0,
+      "e": "Both responses facilitate cooling.",
+      "d": "Medium",
+      "topic": "Temperature regulation",
+      "slo": "Interpret: Temperature regulation"
+    },
+    {
+      "id": "BIO9CH5-126",
+      "q": "In a biology assessment about temperature regulation, which response correctly answers this question: Which combination helps a hot person lose heat?",
+      "o": [
+        "Vasoconstriction and goosebumps",
+        "Reduced sweating and shivering",
+        "Sweating and skin vasodilation",
+        "Shivering and vasoconstriction"
+      ],
+      "a": 2,
+      "e": "Both responses facilitate cooling.",
+      "d": "Hard",
+      "topic": "Temperature regulation",
+      "slo": "Apply knowledge of: Temperature regulation"
+    },
+    {
+      "id": "BIO9CH5-127",
+      "q": "Which combination conserves or produces heat in cold conditions?",
+      "o": [
+        "Skin vasoconstriction and shivering",
+        "Increased skin blood flow and sweating",
+        "Sweating and vasodilation",
+        "Reduced muscle activity and sweating"
+      ],
+      "a": 0,
+      "e": "Reduced heat loss and increased heat production protect temperature.",
+      "d": "Medium",
+      "topic": "Temperature regulation",
+      "slo": "Identify and explain: Temperature regulation"
+    },
+    {
+      "id": "BIO9CH5-128",
+      "q": "Choose the most scientifically accurate answer: which combination conserves or produces heat in cold conditions?",
+      "o": [
+        "Reduced muscle activity and sweating",
+        "Skin vasoconstriction and shivering",
+        "Sweating and vasodilation",
+        "Increased skin blood flow and sweating"
+      ],
+      "a": 1,
+      "e": "Reduced heat loss and increased heat production protect temperature.",
+      "d": "Medium",
+      "topic": "Temperature regulation",
+      "slo": "Interpret: Temperature regulation"
+    },
+    {
+      "id": "BIO9CH5-129",
+      "q": "In a biology assessment about temperature regulation, which response correctly answers this question: Which combination conserves or produces heat in cold conditions?",
+      "o": [
+        "Increased skin blood flow and sweating",
+        "Skin vasoconstriction and shivering",
+        "Reduced muscle activity and sweating",
+        "Sweating and vasodilation"
+      ],
+      "a": 1,
+      "e": "Reduced heat loss and increased heat production protect temperature.",
+      "d": "Medium",
+      "topic": "Temperature regulation",
+      "slo": "Apply knowledge of: Temperature regulation"
+    },
+    {
+      "id": "BIO9CH5-130",
+      "q": "What is the normal role of feedback after a condition returns to range?",
+      "o": [
+        "Every organ system shuts down",
+        "All receptors are permanently destroyed",
+        "The corrective response is reduced",
+        "The corrective response must increase indefinitely"
+      ],
+      "a": 2,
+      "e": "Negative feedback decreases the drive for correction once balance returns.",
+      "d": "Easy",
+      "topic": "Homeostasis",
+      "slo": "Identify and explain: Homeostasis"
+    },
+    {
+      "id": "BIO9CH5-131",
+      "q": "Choose the most scientifically accurate answer: what is the normal role of feedback after a condition returns to range?",
+      "o": [
+        "Every organ system shuts down",
+        "The corrective response must increase indefinitely",
+        "All receptors are permanently destroyed",
+        "The corrective response is reduced"
+      ],
+      "a": 3,
+      "e": "Negative feedback decreases the drive for correction once balance returns.",
+      "d": "Medium",
+      "topic": "Homeostasis",
+      "slo": "Interpret: Homeostasis"
+    },
+    {
+      "id": "BIO9CH5-132",
+      "q": "In a biology assessment about homeostasis, which response correctly answers this question: What is the normal role of feedback after a condition returns to range?",
+      "o": [
+        "The corrective response is reduced",
+        "Every organ system shuts down",
+        "The corrective response must increase indefinitely",
+        "All receptors are permanently destroyed"
+      ],
+      "a": 0,
+      "e": "Negative feedback decreases the drive for correction once balance returns.",
+      "d": "Medium",
+      "topic": "Homeostasis",
+      "slo": "Apply knowledge of: Homeostasis"
+    },
+    {
+      "id": "BIO9CH5-133",
+      "q": "How do respiratory and cardiovascular systems cooperate?",
+      "o": [
+        "Both produce bones",
+        "Both manufacture all antibodies",
+        "Both digest food in the stomach",
+        "Lungs exchange gases and blood transports them"
+      ],
+      "a": 3,
+      "e": "Oxygen enters blood at lungs and is carried to tissues.",
+      "d": "Medium",
+      "topic": "Human systems",
+      "slo": "Identify and explain: Human systems"
+    },
+    {
+      "id": "BIO9CH5-134",
+      "q": "Choose the most scientifically accurate answer: how do respiratory and cardiovascular systems cooperate?",
+      "o": [
+        "Lungs exchange gases and blood transports them",
+        "Both manufacture all antibodies",
+        "Both produce bones",
+        "Both digest food in the stomach"
+      ],
+      "a": 0,
+      "e": "Oxygen enters blood at lungs and is carried to tissues.",
+      "d": "Medium",
+      "topic": "Human systems",
+      "slo": "Interpret: Human systems"
+    },
+    {
+      "id": "BIO9CH5-135",
+      "q": "In a biology assessment about human systems, which response correctly answers this question: How do respiratory and cardiovascular systems cooperate?",
+      "o": [
+        "Both digest food in the stomach",
+        "Both manufacture all antibodies",
+        "Both produce bones",
+        "Lungs exchange gases and blood transports them"
+      ],
+      "a": 3,
+      "e": "Oxygen enters blood at lungs and is carried to tissues.",
+      "d": "Medium",
+      "topic": "Human systems",
+      "slo": "Apply knowledge of: Human systems"
+    },
+    {
+      "id": "BIO9CH5-136",
+      "q": "How do digestive and cardiovascular systems cooperate?",
+      "o": [
+        "Absorbed nutrients enter circulation for delivery to cells",
+        "The heart produces digestive enzymes",
+        "Blood vessels digest food in the mouth",
+        "Both systems exclusively remove urine"
+      ],
+      "a": 0,
+      "e": "Digestion and absorption supply nutrients that blood distributes.",
+      "d": "Medium",
+      "topic": "Human systems",
+      "slo": "Identify and explain: Human systems"
+    },
+    {
+      "id": "BIO9CH5-137",
+      "q": "Choose the most scientifically accurate answer: how do digestive and cardiovascular systems cooperate?",
+      "o": [
+        "Absorbed nutrients enter circulation for delivery to cells",
+        "Both systems exclusively remove urine",
+        "The heart produces digestive enzymes",
+        "Blood vessels digest food in the mouth"
+      ],
+      "a": 0,
+      "e": "Digestion and absorption supply nutrients that blood distributes.",
+      "d": "Medium",
+      "topic": "Human systems",
+      "slo": "Interpret: Human systems"
+    },
+    {
+      "id": "BIO9CH5-138",
+      "q": "In a biology assessment about human systems, which response correctly answers this question: How do digestive and cardiovascular systems cooperate?",
+      "o": [
+        "The heart produces digestive enzymes",
+        "Blood vessels digest food in the mouth",
+        "Absorbed nutrients enter circulation for delivery to cells",
+        "Both systems exclusively remove urine"
+      ],
+      "a": 2,
+      "e": "Digestion and absorption supply nutrients that blood distributes.",
+      "d": "Hard",
+      "topic": "Human systems",
+      "slo": "Apply knowledge of: Human systems"
+    },
+    {
+      "id": "BIO9CH5-139",
+      "q": "How do urinary and cardiovascular systems cooperate?",
+      "o": [
+        "Blood vessels store urine",
+        "Kidneys filter blood and help regulate its composition",
+        "The heart makes urine",
+        "Kidneys pump blood through arteries"
+      ],
+      "a": 1,
+      "e": "Blood supplies the kidneys, which remove wastes and regulate fluids.",
+      "d": "Easy",
+      "topic": "Human systems",
+      "slo": "Identify and explain: Human systems"
+    },
+    {
+      "id": "BIO9CH5-140",
+      "q": "Choose the most scientifically accurate answer: how do urinary and cardiovascular systems cooperate?",
+      "o": [
+        "Kidneys filter blood and help regulate its composition",
+        "Blood vessels store urine",
+        "The heart makes urine",
+        "Kidneys pump blood through arteries"
+      ],
+      "a": 0,
+      "e": "Blood supplies the kidneys, which remove wastes and regulate fluids.",
+      "d": "Medium",
+      "topic": "Human systems",
+      "slo": "Interpret: Human systems"
+    },
+    {
+      "id": "BIO9CH5-141",
+      "q": "In a biology assessment about human systems, which response correctly answers this question: How do urinary and cardiovascular systems cooperate?",
+      "o": [
+        "Kidneys pump blood through arteries",
+        "The heart makes urine",
+        "Blood vessels store urine",
+        "Kidneys filter blood and help regulate its composition"
+      ],
+      "a": 3,
+      "e": "Blood supplies the kidneys, which remove wastes and regulate fluids.",
+      "d": "Medium",
+      "topic": "Human systems",
+      "slo": "Apply knowledge of: Human systems"
+    },
+    {
+      "id": "BIO9CH5-142",
+      "q": "How do nervous and muscular systems cooperate?",
+      "o": [
+        "Muscles produce all sensory neurons",
+        "Nerve signals stimulate muscle contraction",
+        "Both digest food in the stomach",
+        "Nerves form bones"
+      ],
+      "a": 1,
+      "e": "Motor neurons transmit commands to muscles.",
+      "d": "Medium",
+      "topic": "Human systems",
+      "slo": "Identify and explain: Human systems"
+    },
+    {
+      "id": "BIO9CH5-143",
+      "q": "Choose the most scientifically accurate answer: how do nervous and muscular systems cooperate?",
+      "o": [
+        "Nerve signals stimulate muscle contraction",
+        "Muscles produce all sensory neurons",
+        "Nerves form bones",
+        "Both digest food in the stomach"
+      ],
+      "a": 0,
+      "e": "Motor neurons transmit commands to muscles.",
+      "d": "Medium",
+      "topic": "Human systems",
+      "slo": "Interpret: Human systems"
+    },
+    {
+      "id": "BIO9CH5-144",
+      "q": "In a biology assessment about human systems, which response correctly answers this question: How do nervous and muscular systems cooperate?",
+      "o": [
+        "Nerve signals stimulate muscle contraction",
+        "Both digest food in the stomach",
+        "Nerves form bones",
+        "Muscles produce all sensory neurons"
+      ],
+      "a": 0,
+      "e": "Motor neurons transmit commands to muscles.",
+      "d": "Medium",
+      "topic": "Human systems",
+      "slo": "Apply knowledge of: Human systems"
+    },
+    {
+      "id": "BIO9CH5-145",
+      "q": "How do skeletal and muscular systems cooperate?",
+      "o": [
+        "Bones contract like muscles",
+        "The skeleton alone generates muscle force",
+        "Muscles make all joints immovable",
+        "Muscles pull on bones to move joints"
+      ],
+      "a": 3,
+      "e": "Skeletal muscles exert force on bones through tendons.",
+      "d": "Medium",
+      "topic": "Human systems",
+      "slo": "Identify and explain: Human systems"
+    },
+    {
+      "id": "BIO9CH5-146",
+      "q": "Choose the most scientifically accurate answer: how do skeletal and muscular systems cooperate?",
+      "o": [
+        "The skeleton alone generates muscle force",
+        "Muscles pull on bones to move joints",
+        "Bones contract like muscles",
+        "Muscles make all joints immovable"
+      ],
+      "a": 1,
+      "e": "Skeletal muscles exert force on bones through tendons.",
+      "d": "Medium",
+      "topic": "Human systems",
+      "slo": "Interpret: Human systems"
+    },
+    {
+      "id": "BIO9CH5-147",
+      "q": "In a biology assessment about human systems, which response correctly answers this question: How do skeletal and muscular systems cooperate?",
+      "o": [
+        "Muscles make all joints immovable",
+        "Muscles pull on bones to move joints",
+        "Bones contract like muscles",
+        "The skeleton alone generates muscle force"
+      ],
+      "a": 1,
+      "e": "Skeletal muscles exert force on bones through tendons.",
+      "d": "Medium",
+      "topic": "Human systems",
+      "slo": "Apply knowledge of: Human systems"
+    },
+    {
+      "id": "BIO9CH5-148",
+      "q": "How do endocrine and nervous systems differ?",
+      "o": [
+        "Hormones are bones",
+        "Nerves are digestive enzymes",
+        "Endocrine signals are hormonal while nervous signals are mainly electrical and chemical at synapses",
+        "Both use only electrical impulses in blood"
+      ],
+      "a": 2,
+      "e": "Hormonal and neural signalling use different mechanisms and time scales.",
+      "d": "Easy",
+      "topic": "Human systems",
+      "slo": "Identify and explain: Human systems"
+    },
+    {
+      "id": "BIO9CH5-149",
+      "q": "Choose the most scientifically accurate answer: how do endocrine and nervous systems differ?",
+      "o": [
+        "Nerves are digestive enzymes",
+        "Both use only electrical impulses in blood",
+        "Hormones are bones",
+        "Endocrine signals are hormonal while nervous signals are mainly electrical and chemical at synapses"
+      ],
+      "a": 3,
+      "e": "Hormonal and neural signalling use different mechanisms and time scales.",
+      "d": "Medium",
+      "topic": "Human systems",
+      "slo": "Interpret: Human systems"
+    },
+    {
+      "id": "BIO9CH5-150",
+      "q": "In a biology assessment about human systems, which response correctly answers this question: How do endocrine and nervous systems differ?",
+      "o": [
+        "Endocrine signals are hormonal while nervous signals are mainly electrical and chemical at synapses",
+        "Hormones are bones",
+        "Nerves are digestive enzymes",
+        "Both use only electrical impulses in blood"
+      ],
+      "a": 0,
+      "e": "Hormonal and neural signalling use different mechanisms and time scales.",
+      "d": "Hard",
+      "topic": "Human systems",
+      "slo": "Apply knowledge of: Human systems"
+    },
+    {
+      "id": "BIO9CH5-151",
+      "q": "What is a plant tissue?",
+      "o": [
+        "A plant species",
+        "A single chloroplast",
+        "A collection of animal organs",
+        "A group of plant cells organized for a common role"
+      ],
+      "a": 3,
+      "e": "Plant tissues include specialized groups of cells.",
+      "d": "Medium",
+      "topic": "Plant tissues",
+      "slo": "Identify and explain: Plant tissues"
+    },
+    {
+      "id": "BIO9CH5-152",
+      "q": "Choose the most scientifically accurate answer: what is a plant tissue?",
+      "o": [
+        "A collection of animal organs",
+        "A plant species",
+        "A group of plant cells organized for a common role",
+        "A single chloroplast"
+      ],
+      "a": 2,
+      "e": "Plant tissues include specialized groups of cells.",
+      "d": "Medium",
+      "topic": "Plant tissues",
+      "slo": "Interpret: Plant tissues"
+    },
+    {
+      "id": "BIO9CH5-153",
+      "q": "In a biology assessment about plant tissues, which response correctly answers this question: What is a plant tissue?",
+      "o": [
+        "A group of plant cells organized for a common role",
+        "A single chloroplast",
+        "A plant species",
+        "A collection of animal organs"
+      ],
+      "a": 0,
+      "e": "Plant tissues include specialized groups of cells.",
+      "d": "Medium",
+      "topic": "Plant tissues",
+      "slo": "Apply knowledge of: Plant tissues"
+    },
+    {
+      "id": "BIO9CH5-154",
+      "q": "Which plant tissue is responsible for new growth by cell division?",
+      "o": [
+        "Mature cork",
+        "Dead epidermal cuticle",
+        "Meristematic tissue",
+        "Xylem vessel only"
+      ],
+      "a": 2,
+      "e": "Meristematic cells divide to produce new plant cells.",
+      "d": "Medium",
+      "topic": "Plant tissues",
+      "slo": "Identify and explain: Plant tissues"
+    },
+    {
+      "id": "BIO9CH5-155",
+      "q": "Choose the most scientifically accurate answer: which plant tissue is responsible for new growth by cell division?",
+      "o": [
+        "Xylem vessel only",
+        "Mature cork",
+        "Dead epidermal cuticle",
+        "Meristematic tissue"
+      ],
+      "a": 3,
+      "e": "Meristematic cells divide to produce new plant cells.",
+      "d": "Medium",
+      "topic": "Plant tissues",
+      "slo": "Interpret: Plant tissues"
+    },
+    {
+      "id": "BIO9CH5-156",
+      "q": "In a biology assessment about plant tissues, which response correctly answers this question: Which plant tissue is responsible for new growth by cell division?",
+      "o": [
+        "Mature cork",
+        "Meristematic tissue",
+        "Xylem vessel only",
+        "Dead epidermal cuticle"
+      ],
+      "a": 1,
+      "e": "Meristematic cells divide to produce new plant cells.",
+      "d": "Medium",
+      "topic": "Plant tissues",
+      "slo": "Apply knowledge of: Plant tissues"
+    },
+    {
+      "id": "BIO9CH5-157",
+      "q": "Where are apical meristems typically found?",
+      "o": [
+        "Only inside seeds after germination",
+        "Only inside mature xylem vessels",
+        "At growing tips of roots and shoots",
+        "Only on leaf cuticles"
+      ],
+      "a": 2,
+      "e": "Apical meristems drive primary growth in length.",
+      "d": "Easy",
+      "topic": "Plant tissues",
+      "slo": "Identify and explain: Plant tissues"
+    },
+    {
+      "id": "BIO9CH5-158",
+      "q": "Choose the most scientifically accurate answer: where are apical meristems typically found?",
+      "o": [
+        "Only on leaf cuticles",
+        "At growing tips of roots and shoots",
+        "Only inside mature xylem vessels",
+        "Only inside seeds after germination"
+      ],
+      "a": 1,
+      "e": "Apical meristems drive primary growth in length.",
+      "d": "Medium",
+      "topic": "Plant tissues",
+      "slo": "Interpret: Plant tissues"
+    },
+    {
+      "id": "BIO9CH5-159",
+      "q": "In a biology assessment about plant tissues, which response correctly answers this question: Where are apical meristems typically found?",
+      "o": [
+        "Only inside seeds after germination",
+        "At growing tips of roots and shoots",
+        "Only on leaf cuticles",
+        "Only inside mature xylem vessels"
+      ],
+      "a": 1,
+      "e": "Apical meristems drive primary growth in length.",
+      "d": "Medium",
+      "topic": "Plant tissues",
+      "slo": "Apply knowledge of: Plant tissues"
+    },
+    {
+      "id": "BIO9CH5-160",
+      "q": "Which tissue protects the outer surface of young plant organs?",
+      "o": [
+        "Epidermal tissue",
+        "Palisade mesophyll only",
+        "Xylem vessels",
+        "Phloem sieve tubes"
+      ],
+      "a": 0,
+      "e": "The epidermis forms an external protective layer.",
+      "d": "Medium",
+      "topic": "Plant tissues",
+      "slo": "Identify and explain: Plant tissues"
+    },
+    {
+      "id": "BIO9CH5-161",
+      "q": "Choose the most scientifically accurate answer: which tissue protects the outer surface of young plant organs?",
+      "o": [
+        "Phloem sieve tubes",
+        "Epidermal tissue",
+        "Xylem vessels",
+        "Palisade mesophyll only"
+      ],
+      "a": 1,
+      "e": "The epidermis forms an external protective layer.",
+      "d": "Medium",
+      "topic": "Plant tissues",
+      "slo": "Interpret: Plant tissues"
+    },
+    {
+      "id": "BIO9CH5-162",
+      "q": "In a biology assessment about plant tissues, which response correctly answers this question: Which tissue protects the outer surface of young plant organs?",
+      "o": [
+        "Xylem vessels",
+        "Epidermal tissue",
+        "Phloem sieve tubes",
+        "Palisade mesophyll only"
+      ],
+      "a": 1,
+      "e": "The epidermis forms an external protective layer.",
+      "d": "Hard",
+      "topic": "Plant tissues",
+      "slo": "Apply knowledge of: Plant tissues"
+    },
+    {
+      "id": "BIO9CH5-163",
+      "q": "What is the cuticle's main function on many leaves?",
+      "o": [
+        "Forming the root cap",
+        "Reducing water loss",
+        "Producing pollen",
+        "Transporting sugar through veins"
+      ],
+      "a": 1,
+      "e": "A waxy cuticle limits evaporation from exposed surfaces.",
+      "d": "Medium",
+      "topic": "Plant tissues",
+      "slo": "Identify and explain: Plant tissues"
+    },
+    {
+      "id": "BIO9CH5-164",
+      "q": "Choose the most scientifically accurate answer: what is the cuticle's main function on many leaves?",
+      "o": [
+        "Reducing water loss",
+        "Producing pollen",
+        "Forming the root cap",
+        "Transporting sugar through veins"
+      ],
+      "a": 0,
+      "e": "A waxy cuticle limits evaporation from exposed surfaces.",
+      "d": "Medium",
+      "topic": "Plant tissues",
+      "slo": "Interpret: Plant tissues"
+    },
+    {
+      "id": "BIO9CH5-165",
+      "q": "In a biology assessment about plant tissues, which response correctly answers this question: What is the cuticle's main function on many leaves?",
+      "o": [
+        "Reducing water loss",
+        "Forming the root cap",
+        "Producing pollen",
+        "Transporting sugar through veins"
+      ],
+      "a": 0,
+      "e": "A waxy cuticle limits evaporation from exposed surfaces.",
+      "d": "Medium",
+      "topic": "Plant tissues",
+      "slo": "Apply knowledge of: Plant tissues"
+    },
+    {
+      "id": "BIO9CH5-166",
+      "q": "What are stomata?",
+      "o": [
+        "Holes in the cell nucleus",
+        "Xylem tubes in roots",
+        "Pores that permit gas exchange and transpiration",
+        "Storage cells inside seeds"
+      ],
+      "a": 2,
+      "e": "Stomatal pores allow gas movement and water-vapour loss.",
+      "d": "Easy",
+      "topic": "Plant tissues",
+      "slo": "Identify and explain: Plant tissues"
+    },
+    {
+      "id": "BIO9CH5-167",
+      "q": "Choose the most scientifically accurate answer: what are stomata?",
+      "o": [
+        "Xylem tubes in roots",
+        "Holes in the cell nucleus",
+        "Storage cells inside seeds",
+        "Pores that permit gas exchange and transpiration"
+      ],
+      "a": 3,
+      "e": "Stomatal pores allow gas movement and water-vapour loss.",
+      "d": "Medium",
+      "topic": "Plant tissues",
+      "slo": "Interpret: Plant tissues"
+    },
+    {
+      "id": "BIO9CH5-168",
+      "q": "In a biology assessment about plant tissues, which response correctly answers this question: What are stomata?",
+      "o": [
+        "Storage cells inside seeds",
+        "Xylem tubes in roots",
+        "Holes in the cell nucleus",
+        "Pores that permit gas exchange and transpiration"
+      ],
+      "a": 3,
+      "e": "Stomatal pores allow gas movement and water-vapour loss.",
+      "d": "Medium",
+      "topic": "Plant tissues",
+      "slo": "Apply knowledge of: Plant tissues"
+    },
+    {
+      "id": "BIO9CH5-169",
+      "q": "What do guard cells regulate?",
+      "o": [
+        "Movement of blood",
+        "Growth of bones",
+        "Formation of chromosomes",
+        "Opening and closing of stomata"
+      ],
+      "a": 3,
+      "e": "Changes in guard-cell turgor affect stomatal aperture.",
+      "d": "Medium",
+      "topic": "Plant tissues",
+      "slo": "Identify and explain: Plant tissues"
+    },
+    {
+      "id": "BIO9CH5-170",
+      "q": "Choose the most scientifically accurate answer: what do guard cells regulate?",
+      "o": [
+        "Formation of chromosomes",
+        "Growth of bones",
+        "Movement of blood",
+        "Opening and closing of stomata"
+      ],
+      "a": 3,
+      "e": "Changes in guard-cell turgor affect stomatal aperture.",
+      "d": "Medium",
+      "topic": "Plant tissues",
+      "slo": "Interpret: Plant tissues"
+    },
+    {
+      "id": "BIO9CH5-171",
+      "q": "In a biology assessment about plant tissues, which response correctly answers this question: What do guard cells regulate?",
+      "o": [
+        "Growth of bones",
+        "Opening and closing of stomata",
+        "Formation of chromosomes",
+        "Movement of blood"
+      ],
+      "a": 1,
+      "e": "Changes in guard-cell turgor affect stomatal aperture.",
+      "d": "Medium",
+      "topic": "Plant tissues",
+      "slo": "Apply knowledge of: Plant tissues"
+    },
+    {
+      "id": "BIO9CH5-172",
+      "q": "Which tissue transports water and mineral ions in vascular plants?",
+      "o": [
+        "Xylem",
+        "Epidermis",
+        "Phloem",
+        "Palisade mesophyll"
+      ],
+      "a": 0,
+      "e": "Xylem conducts water and dissolved minerals mainly upward.",
+      "d": "Medium",
+      "topic": "Plant tissues",
+      "slo": "Identify and explain: Plant tissues"
+    },
+    {
+      "id": "BIO9CH5-173",
+      "q": "Choose the most scientifically accurate answer: which tissue transports water and mineral ions in vascular plants?",
+      "o": [
+        "Phloem",
+        "Palisade mesophyll",
+        "Epidermis",
+        "Xylem"
+      ],
+      "a": 3,
+      "e": "Xylem conducts water and dissolved minerals mainly upward.",
+      "d": "Medium",
+      "topic": "Plant tissues",
+      "slo": "Interpret: Plant tissues"
+    },
+    {
+      "id": "BIO9CH5-174",
+      "q": "In a biology assessment about plant tissues, which response correctly answers this question: Which tissue transports water and mineral ions in vascular plants?",
+      "o": [
+        "Epidermis",
+        "Xylem",
+        "Phloem",
+        "Palisade mesophyll"
+      ],
+      "a": 1,
+      "e": "Xylem conducts water and dissolved minerals mainly upward.",
+      "d": "Hard",
+      "topic": "Plant tissues",
+      "slo": "Apply knowledge of: Plant tissues"
+    },
+    {
+      "id": "BIO9CH5-175",
+      "q": "Which tissue transports sugars from sources to sinks in plants?",
+      "o": [
+        "Cork",
+        "Phloem",
+        "Xylem",
+        "Cuticle"
+      ],
+      "a": 1,
+      "e": "Phloem translocates organic nutrients such as sucrose.",
+      "d": "Easy",
+      "topic": "Plant tissues",
+      "slo": "Identify and explain: Plant tissues"
+    },
+    {
+      "id": "BIO9CH5-176",
+      "q": "Choose the most scientifically accurate answer: which tissue transports sugars from sources to sinks in plants?",
+      "o": [
+        "Cork",
+        "Xylem",
+        "Phloem",
+        "Cuticle"
+      ],
+      "a": 2,
+      "e": "Phloem translocates organic nutrients such as sucrose.",
+      "d": "Medium",
+      "topic": "Plant tissues",
+      "slo": "Interpret: Plant tissues"
+    },
+    {
+      "id": "BIO9CH5-177",
+      "q": "In a biology assessment about plant tissues, which response correctly answers this question: Which tissue transports sugars from sources to sinks in plants?",
+      "o": [
+        "Cuticle",
+        "Cork",
+        "Xylem",
+        "Phloem"
+      ],
+      "a": 3,
+      "e": "Phloem translocates organic nutrients such as sucrose.",
+      "d": "Medium",
+      "topic": "Plant tissues",
+      "slo": "Apply knowledge of: Plant tissues"
+    },
+    {
+      "id": "BIO9CH5-178",
+      "q": "What is a vascular bundle?",
+      "o": [
+        "A layer of wax",
+        "A collection of chloroplasts only",
+        "A grouping of xylem and phloem tissues",
+        "A group of stomata"
+      ],
+      "a": 2,
+      "e": "Vascular bundles contain conducting tissues.",
+      "d": "Medium",
+      "topic": "Plant tissues",
+      "slo": "Identify and explain: Plant tissues"
+    },
+    {
+      "id": "BIO9CH5-179",
+      "q": "Choose the most scientifically accurate answer: what is a vascular bundle?",
+      "o": [
+        "A collection of chloroplasts only",
+        "A group of stomata",
+        "A layer of wax",
+        "A grouping of xylem and phloem tissues"
+      ],
+      "a": 3,
+      "e": "Vascular bundles contain conducting tissues.",
+      "d": "Medium",
+      "topic": "Plant tissues",
+      "slo": "Interpret: Plant tissues"
+    },
+    {
+      "id": "BIO9CH5-180",
+      "q": "In a biology assessment about plant tissues, which response correctly answers this question: What is a vascular bundle?",
+      "o": [
+        "A grouping of xylem and phloem tissues",
+        "A layer of wax",
+        "A group of stomata",
+        "A collection of chloroplasts only"
+      ],
+      "a": 0,
+      "e": "Vascular bundles contain conducting tissues.",
+      "d": "Medium",
+      "topic": "Plant tissues",
+      "slo": "Apply knowledge of: Plant tissues"
+    },
+    {
+      "id": "BIO9CH5-181",
+      "q": "What is the main function of palisade mesophyll?",
+      "o": [
+        "Mechanical pumping of water",
+        "Blood transport",
+        "Photosynthesis",
+        "Urine formation"
+      ],
+      "a": 2,
+      "e": "Palisade cells contain many chloroplasts for light absorption.",
+      "d": "Medium",
+      "topic": "Plant tissues",
+      "slo": "Identify and explain: Plant tissues"
+    },
+    {
+      "id": "BIO9CH5-182",
+      "q": "Choose the most scientifically accurate answer: what is the main function of palisade mesophyll?",
+      "o": [
+        "Photosynthesis",
+        "Urine formation",
+        "Blood transport",
+        "Mechanical pumping of water"
+      ],
+      "a": 0,
+      "e": "Palisade cells contain many chloroplasts for light absorption.",
+      "d": "Medium",
+      "topic": "Plant tissues",
+      "slo": "Interpret: Plant tissues"
+    },
+    {
+      "id": "BIO9CH5-183",
+      "q": "In a biology assessment about plant tissues, which response correctly answers this question: What is the main function of palisade mesophyll?",
+      "o": [
+        "Mechanical pumping of water",
+        "Photosynthesis",
+        "Urine formation",
+        "Blood transport"
+      ],
+      "a": 1,
+      "e": "Palisade cells contain many chloroplasts for light absorption.",
+      "d": "Medium",
+      "topic": "Plant tissues",
+      "slo": "Apply knowledge of: Plant tissues"
+    },
+    {
+      "id": "BIO9CH5-184",
+      "q": "What is a key feature of spongy mesophyll?",
+      "o": [
+        "Air spaces that facilitate internal gas movement",
+        "A complete absence of living cells",
+        "A thick external wax coat",
+        "Only lignified water vessels"
+      ],
+      "a": 0,
+      "e": "Air spaces support diffusion of gases within leaves.",
+      "d": "Easy",
+      "topic": "Plant tissues",
+      "slo": "Identify and explain: Plant tissues"
+    },
+    {
+      "id": "BIO9CH5-185",
+      "q": "Choose the most scientifically accurate answer: what is a key feature of spongy mesophyll?",
+      "o": [
+        "Only lignified water vessels",
+        "Air spaces that facilitate internal gas movement",
+        "A complete absence of living cells",
+        "A thick external wax coat"
+      ],
+      "a": 1,
+      "e": "Air spaces support diffusion of gases within leaves.",
+      "d": "Medium",
+      "topic": "Plant tissues",
+      "slo": "Interpret: Plant tissues"
+    },
+    {
+      "id": "BIO9CH5-186",
+      "q": "In a biology assessment about plant tissues, which response correctly answers this question: What is a key feature of spongy mesophyll?",
+      "o": [
+        "Only lignified water vessels",
+        "Air spaces that facilitate internal gas movement",
+        "A complete absence of living cells",
+        "A thick external wax coat"
+      ],
+      "a": 1,
+      "e": "Air spaces support diffusion of gases within leaves.",
+      "d": "Hard",
+      "topic": "Plant tissues",
+      "slo": "Apply knowledge of: Plant tissues"
+    },
+    {
+      "id": "BIO9CH5-187",
+      "q": "What is a typical function of parenchyma cells?",
+      "o": [
+        "Producing animal hormones",
+        "Conducting nerve impulses",
+        "Pumping blood",
+        "Storage and other basic metabolic functions"
+      ],
+      "a": 3,
+      "e": "Living parenchyma cells often store materials and perform metabolism.",
+      "d": "Medium",
+      "topic": "Plant tissues",
+      "slo": "Identify and explain: Plant tissues"
+    },
+    {
+      "id": "BIO9CH5-188",
+      "q": "Choose the most scientifically accurate answer: what is a typical function of parenchyma cells?",
+      "o": [
+        "Producing animal hormones",
+        "Conducting nerve impulses",
+        "Pumping blood",
+        "Storage and other basic metabolic functions"
+      ],
+      "a": 3,
+      "e": "Living parenchyma cells often store materials and perform metabolism.",
+      "d": "Medium",
+      "topic": "Plant tissues",
+      "slo": "Interpret: Plant tissues"
+    },
+    {
+      "id": "BIO9CH5-189",
+      "q": "In a biology assessment about plant tissues, which response correctly answers this question: What is a typical function of parenchyma cells?",
+      "o": [
+        "Pumping blood",
+        "Conducting nerve impulses",
+        "Producing animal hormones",
+        "Storage and other basic metabolic functions"
+      ],
+      "a": 3,
+      "e": "Living parenchyma cells often store materials and perform metabolism.",
+      "d": "Medium",
+      "topic": "Plant tissues",
+      "slo": "Apply knowledge of: Plant tissues"
+    },
+    {
+      "id": "BIO9CH5-190",
+      "q": "What is a major role of collenchyma tissue?",
+      "o": [
+        "Transporting oxygen in blood",
+        "Flexible support in growing plant parts",
+        "Producing red blood cells",
+        "Transmitting nerve impulses"
+      ],
+      "a": 1,
+      "e": "Collenchyma supports young organs while allowing growth.",
+      "d": "Medium",
+      "topic": "Plant tissues",
+      "slo": "Identify and explain: Plant tissues"
+    },
+    {
+      "id": "BIO9CH5-191",
+      "q": "Choose the most scientifically accurate answer: what is a major role of collenchyma tissue?",
+      "o": [
+        "Transporting oxygen in blood",
+        "Producing red blood cells",
+        "Flexible support in growing plant parts",
+        "Transmitting nerve impulses"
+      ],
+      "a": 2,
+      "e": "Collenchyma supports young organs while allowing growth.",
+      "d": "Medium",
+      "topic": "Plant tissues",
+      "slo": "Interpret: Plant tissues"
+    },
+    {
+      "id": "BIO9CH5-192",
+      "q": "In a biology assessment about plant tissues, which response correctly answers this question: What is a major role of collenchyma tissue?",
+      "o": [
+        "Producing red blood cells",
+        "Transmitting nerve impulses",
+        "Flexible support in growing plant parts",
+        "Transporting oxygen in blood"
+      ],
+      "a": 2,
+      "e": "Collenchyma supports young organs while allowing growth.",
+      "d": "Medium",
+      "topic": "Plant tissues",
+      "slo": "Apply knowledge of: Plant tissues"
+    },
+    {
+      "id": "BIO9CH5-193",
+      "q": "What is a major role of sclerenchyma tissue?",
+      "o": [
+        "Absorption of oxygen in lungs",
+        "Making sweat",
+        "Strong mechanical support with thickened walls",
+        "Rapid hormone signalling"
+      ],
+      "a": 2,
+      "e": "Thick lignified walls provide rigidity and strength.",
+      "d": "Easy",
+      "topic": "Plant tissues",
+      "slo": "Identify and explain: Plant tissues"
+    },
+    {
+      "id": "BIO9CH5-194",
+      "q": "Choose the most scientifically accurate answer: what is a major role of sclerenchyma tissue?",
+      "o": [
+        "Strong mechanical support with thickened walls",
+        "Rapid hormone signalling",
+        "Making sweat",
+        "Absorption of oxygen in lungs"
+      ],
+      "a": 0,
+      "e": "Thick lignified walls provide rigidity and strength.",
+      "d": "Medium",
+      "topic": "Plant tissues",
+      "slo": "Interpret: Plant tissues"
+    },
+    {
+      "id": "BIO9CH5-195",
+      "q": "In a biology assessment about plant tissues, which response correctly answers this question: What is a major role of sclerenchyma tissue?",
+      "o": [
+        "Making sweat",
+        "Rapid hormone signalling",
+        "Strong mechanical support with thickened walls",
+        "Absorption of oxygen in lungs"
+      ],
+      "a": 2,
+      "e": "Thick lignified walls provide rigidity and strength.",
+      "d": "Medium",
+      "topic": "Plant tissues",
+      "slo": "Apply knowledge of: Plant tissues"
+    },
+    {
+      "id": "BIO9CH5-196",
+      "q": "Why do root hairs improve water absorption?",
+      "o": [
+        "They replace the xylem",
+        "They increase the surface area of root epidermal cells",
+        "They pump blood",
+        "They contain stomata"
+      ],
+      "a": 1,
+      "e": "Root hairs increase contact with soil water.",
+      "d": "Medium",
+      "topic": "Plant tissues",
+      "slo": "Identify and explain: Plant tissues"
+    },
+    {
+      "id": "BIO9CH5-197",
+      "q": "Choose the most scientifically accurate answer: why do root hairs improve water absorption?",
+      "o": [
+        "They increase the surface area of root epidermal cells",
+        "They replace the xylem",
+        "They contain stomata",
+        "They pump blood"
+      ],
+      "a": 0,
+      "e": "Root hairs increase contact with soil water.",
+      "d": "Medium",
+      "topic": "Plant tissues",
+      "slo": "Interpret: Plant tissues"
+    },
+    {
+      "id": "BIO9CH5-198",
+      "q": "In a biology assessment about plant tissues, which response correctly answers this question: Why do root hairs improve water absorption?",
+      "o": [
+        "They replace the xylem",
+        "They pump blood",
+        "They increase the surface area of root epidermal cells",
+        "They contain stomata"
+      ],
+      "a": 2,
+      "e": "Root hairs increase contact with soil water.",
+      "d": "Hard",
+      "topic": "Plant tissues",
+      "slo": "Apply knowledge of: Plant tissues"
+    },
+    {
+      "id": "BIO9CH5-199",
+      "q": "Which leaf surface is commonly covered by a protective epidermis?",
+      "o": [
+        "Only the xylem interior",
+        "Both upper and lower surfaces",
+        "Only the vascular cambium",
+        "Only chloroplast membranes"
+      ],
+      "a": 1,
+      "e": "Epidermal layers protect leaf tissues.",
+      "d": "Medium",
+      "topic": "Leaf anatomy",
+      "slo": "Identify and explain: Leaf anatomy"
+    },
+    {
+      "id": "BIO9CH5-200",
+      "q": "Choose the most scientifically accurate answer: which leaf surface is commonly covered by a protective epidermis?",
+      "o": [
+        "Only the vascular cambium",
+        "Only chloroplast membranes",
+        "Both upper and lower surfaces",
+        "Only the xylem interior"
+      ],
+      "a": 2,
+      "e": "Epidermal layers protect leaf tissues.",
+      "d": "Medium",
+      "topic": "Leaf anatomy",
+      "slo": "Interpret: Leaf anatomy"
+    },
+    {
+      "id": "BIO9CH5-201",
+      "q": "In a biology assessment about leaf anatomy, which response correctly answers this question: Which leaf surface is commonly covered by a protective epidermis?",
+      "o": [
+        "Only the vascular cambium",
+        "Only the xylem interior",
+        "Both upper and lower surfaces",
+        "Only chloroplast membranes"
+      ],
+      "a": 2,
+      "e": "Epidermal layers protect leaf tissues.",
+      "d": "Medium",
+      "topic": "Leaf anatomy",
+      "slo": "Apply knowledge of: Leaf anatomy"
+    },
+    {
+      "id": "BIO9CH5-202",
+      "q": "Which leaf tissue lies just beneath the upper epidermis in many dicot leaves?",
+      "o": [
+        "Cardiac muscle",
+        "Bone tissue",
+        "Palisade mesophyll",
+        "Root cortex"
+      ],
+      "a": 2,
+      "e": "Palisade mesophyll is commonly positioned for strong light capture.",
+      "d": "Easy",
+      "topic": "Leaf anatomy",
+      "slo": "Identify and explain: Leaf anatomy"
+    },
+    {
+      "id": "BIO9CH5-203",
+      "q": "Choose the most scientifically accurate answer: which leaf tissue lies just beneath the upper epidermis in many dicot leaves?",
+      "o": [
+        "Root cortex",
+        "Cardiac muscle",
+        "Palisade mesophyll",
+        "Bone tissue"
+      ],
+      "a": 2,
+      "e": "Palisade mesophyll is commonly positioned for strong light capture.",
+      "d": "Medium",
+      "topic": "Leaf anatomy",
+      "slo": "Interpret: Leaf anatomy"
+    },
+    {
+      "id": "BIO9CH5-204",
+      "q": "In a biology assessment about leaf anatomy, which response correctly answers this question: Which leaf tissue lies just beneath the upper epidermis in many dicot leaves?",
+      "o": [
+        "Bone tissue",
+        "Root cortex",
+        "Cardiac muscle",
+        "Palisade mesophyll"
+      ],
+      "a": 3,
+      "e": "Palisade mesophyll is commonly positioned for strong light capture.",
+      "d": "Medium",
+      "topic": "Leaf anatomy",
+      "slo": "Apply knowledge of: Leaf anatomy"
+    },
+    {
+      "id": "BIO9CH5-205",
+      "q": "Which leaf tissue generally contains larger intercellular air spaces?",
+      "o": [
+        "Palisade layer",
+        "Spongy mesophyll",
+        "Upper cuticle",
+        "Xylem vessels"
+      ],
+      "a": 1,
+      "e": "Spongy mesophyll facilitates gas diffusion.",
+      "d": "Medium",
+      "topic": "Leaf anatomy",
+      "slo": "Identify and explain: Leaf anatomy"
+    },
+    {
+      "id": "BIO9CH5-206",
+      "q": "Choose the most scientifically accurate answer: which leaf tissue generally contains larger intercellular air spaces?",
+      "o": [
+        "Spongy mesophyll",
+        "Xylem vessels",
+        "Palisade layer",
+        "Upper cuticle"
+      ],
+      "a": 0,
+      "e": "Spongy mesophyll facilitates gas diffusion.",
+      "d": "Medium",
+      "topic": "Leaf anatomy",
+      "slo": "Interpret: Leaf anatomy"
+    },
+    {
+      "id": "BIO9CH5-207",
+      "q": "In a biology assessment about leaf anatomy, which response correctly answers this question: Which leaf tissue generally contains larger intercellular air spaces?",
+      "o": [
+        "Palisade layer",
+        "Xylem vessels",
+        "Upper cuticle",
+        "Spongy mesophyll"
+      ],
+      "a": 3,
+      "e": "Spongy mesophyll facilitates gas diffusion.",
+      "d": "Medium",
+      "topic": "Leaf anatomy",
+      "slo": "Apply knowledge of: Leaf anatomy"
+    },
+    {
+      "id": "BIO9CH5-208",
+      "q": "Which vascular tissue usually lies toward the upper side of a dicot leaf vein?",
+      "o": [
+        "Phloem",
+        "Cuticle",
+        "Guard cells",
+        "Xylem"
+      ],
+      "a": 3,
+      "e": "In typical dicot leaf veins xylem is oriented toward the upper surface.",
+      "d": "Medium",
+      "topic": "Leaf anatomy",
+      "slo": "Identify and explain: Leaf anatomy"
+    },
+    {
+      "id": "BIO9CH5-209",
+      "q": "Choose the most scientifically accurate answer: which vascular tissue usually lies toward the upper side of a dicot leaf vein?",
+      "o": [
+        "Xylem",
+        "Phloem",
+        "Guard cells",
+        "Cuticle"
+      ],
+      "a": 0,
+      "e": "In typical dicot leaf veins xylem is oriented toward the upper surface.",
+      "d": "Medium",
+      "topic": "Leaf anatomy",
+      "slo": "Interpret: Leaf anatomy"
+    },
+    {
+      "id": "BIO9CH5-210",
+      "q": "In a biology assessment about leaf anatomy, which response correctly answers this question: Which vascular tissue usually lies toward the upper side of a dicot leaf vein?",
+      "o": [
+        "Guard cells",
+        "Phloem",
+        "Cuticle",
+        "Xylem"
+      ],
+      "a": 3,
+      "e": "In typical dicot leaf veins xylem is oriented toward the upper surface.",
+      "d": "Hard",
+      "topic": "Leaf anatomy",
+      "slo": "Apply knowledge of: Leaf anatomy"
+    },
+    {
+      "id": "BIO9CH5-211",
+      "q": "Which vascular tissue usually lies toward the lower side of a dicot leaf vein?",
+      "o": [
+        "Cuticle",
+        "Phloem",
+        "Xylem",
+        "Palisade mesophyll"
+      ],
+      "a": 1,
+      "e": "Phloem is typically positioned below xylem in a leaf vein.",
+      "d": "Easy",
+      "topic": "Leaf anatomy",
+      "slo": "Identify and explain: Leaf anatomy"
+    },
+    {
+      "id": "BIO9CH5-212",
+      "q": "Choose the most scientifically accurate answer: which vascular tissue usually lies toward the lower side of a dicot leaf vein?",
+      "o": [
+        "Cuticle",
+        "Palisade mesophyll",
+        "Phloem",
+        "Xylem"
+      ],
+      "a": 2,
+      "e": "Phloem is typically positioned below xylem in a leaf vein.",
+      "d": "Medium",
+      "topic": "Leaf anatomy",
+      "slo": "Interpret: Leaf anatomy"
+    },
+    {
+      "id": "BIO9CH5-213",
+      "q": "In a biology assessment about leaf anatomy, which response correctly answers this question: Which vascular tissue usually lies toward the lower side of a dicot leaf vein?",
+      "o": [
+        "Xylem",
+        "Cuticle",
+        "Phloem",
+        "Palisade mesophyll"
+      ],
+      "a": 2,
+      "e": "Phloem is typically positioned below xylem in a leaf vein.",
+      "d": "Medium",
+      "topic": "Leaf anatomy",
+      "slo": "Apply knowledge of: Leaf anatomy"
+    },
+    {
+      "id": "BIO9CH5-214",
+      "q": "Why is a leaf thin and broad?",
+      "o": [
+        "To eliminate the need for vascular tissues",
+        "To expose a large area to light while keeping diffusion distances short",
+        "To prevent all gas exchange",
+        "To stop photosynthesis"
+      ],
+      "a": 1,
+      "e": "Leaf shape promotes light interception and exchange of gases.",
+      "d": "Medium",
+      "topic": "Leaf anatomy",
+      "slo": "Identify and explain: Leaf anatomy"
+    },
+    {
+      "id": "BIO9CH5-215",
+      "q": "Choose the most scientifically accurate answer: why is a leaf thin and broad?",
+      "o": [
+        "To stop photosynthesis",
+        "To eliminate the need for vascular tissues",
+        "To expose a large area to light while keeping diffusion distances short",
+        "To prevent all gas exchange"
+      ],
+      "a": 2,
+      "e": "Leaf shape promotes light interception and exchange of gases.",
+      "d": "Medium",
+      "topic": "Leaf anatomy",
+      "slo": "Interpret: Leaf anatomy"
+    },
+    {
+      "id": "BIO9CH5-216",
+      "q": "In a biology assessment about leaf anatomy, which response correctly answers this question: Why is a leaf thin and broad?",
+      "o": [
+        "To stop photosynthesis",
+        "To expose a large area to light while keeping diffusion distances short",
+        "To prevent all gas exchange",
+        "To eliminate the need for vascular tissues"
+      ],
+      "a": 1,
+      "e": "Leaf shape promotes light interception and exchange of gases.",
+      "d": "Medium",
+      "topic": "Leaf anatomy",
+      "slo": "Apply knowledge of: Leaf anatomy"
+    },
+    {
+      "id": "BIO9CH5-217",
+      "q": "Why are many stomata found in the lower epidermis of terrestrial leaves?",
+      "o": [
+        "The lower surface never contacts air",
+        "Lower epidermis contains no cells",
+        "It guarantees zero transpiration",
+        "It can reduce direct exposure and water loss while permitting gas exchange"
+      ],
+      "a": 3,
+      "e": "Lower placement often moderates water loss while allowing diffusion.",
+      "d": "Medium",
+      "topic": "Leaf anatomy",
+      "slo": "Identify and explain: Leaf anatomy"
+    },
+    {
+      "id": "BIO9CH5-218",
+      "q": "Choose the most scientifically accurate answer: why are many stomata found in the lower epidermis of terrestrial leaves?",
+      "o": [
+        "Lower epidermis contains no cells",
+        "It can reduce direct exposure and water loss while permitting gas exchange",
+        "It guarantees zero transpiration",
+        "The lower surface never contacts air"
+      ],
+      "a": 1,
+      "e": "Lower placement often moderates water loss while allowing diffusion.",
+      "d": "Medium",
+      "topic": "Leaf anatomy",
+      "slo": "Interpret: Leaf anatomy"
+    },
+    {
+      "id": "BIO9CH5-219",
+      "q": "In a biology assessment about leaf anatomy, which response correctly answers this question: Why are many stomata found in the lower epidermis of terrestrial leaves?",
+      "o": [
+        "The lower surface never contacts air",
+        "It can reduce direct exposure and water loss while permitting gas exchange",
+        "Lower epidermis contains no cells",
+        "It guarantees zero transpiration"
+      ],
+      "a": 1,
+      "e": "Lower placement often moderates water loss while allowing diffusion.",
+      "d": "Medium",
+      "topic": "Leaf anatomy",
+      "slo": "Apply knowledge of: Leaf anatomy"
+    },
+    {
+      "id": "BIO9CH5-220",
+      "q": "What is the function of leaf veins?",
+      "o": [
+        "Produce animal gametes",
+        "Digest proteins in the stomach",
+        "Transmit nerve impulses",
+        "Transport materials and support the leaf"
+      ],
+      "a": 3,
+      "e": "Xylem and phloem in veins distribute water and sugars.",
+      "d": "Easy",
+      "topic": "Leaf anatomy",
+      "slo": "Identify and explain: Leaf anatomy"
+    },
+    {
+      "id": "BIO9CH5-221",
+      "q": "Choose the most scientifically accurate answer: what is the function of leaf veins?",
+      "o": [
+        "Transport materials and support the leaf",
+        "Produce animal gametes",
+        "Digest proteins in the stomach",
+        "Transmit nerve impulses"
+      ],
+      "a": 0,
+      "e": "Xylem and phloem in veins distribute water and sugars.",
+      "d": "Medium",
+      "topic": "Leaf anatomy",
+      "slo": "Interpret: Leaf anatomy"
+    },
+    {
+      "id": "BIO9CH5-222",
+      "q": "In a biology assessment about leaf anatomy, which response correctly answers this question: What is the function of leaf veins?",
+      "o": [
+        "Digest proteins in the stomach",
+        "Transmit nerve impulses",
+        "Transport materials and support the leaf",
+        "Produce animal gametes"
+      ],
+      "a": 2,
+      "e": "Xylem and phloem in veins distribute water and sugars.",
+      "d": "Hard",
+      "topic": "Leaf anatomy",
+      "slo": "Apply knowledge of: Leaf anatomy"
+    },
+    {
+      "id": "BIO9CH5-223",
+      "q": "Why are chloroplasts abundant in mesophyll cells?",
+      "o": [
+        "Mesophyll produces urine",
+        "Mesophyll forms all root hairs",
+        "Chloroplasts transport blood",
+        "Mesophyll is the main site of leaf photosynthesis"
+      ],
+      "a": 3,
+      "e": "Chloroplasts capture light energy for photosynthesis.",
+      "d": "Medium",
+      "topic": "Leaf anatomy",
+      "slo": "Identify and explain: Leaf anatomy"
+    },
+    {
+      "id": "BIO9CH5-224",
+      "q": "Choose the most scientifically accurate answer: why are chloroplasts abundant in mesophyll cells?",
+      "o": [
+        "Mesophyll is the main site of leaf photosynthesis",
+        "Mesophyll forms all root hairs",
+        "Chloroplasts transport blood",
+        "Mesophyll produces urine"
+      ],
+      "a": 0,
+      "e": "Chloroplasts capture light energy for photosynthesis.",
+      "d": "Medium",
+      "topic": "Leaf anatomy",
+      "slo": "Interpret: Leaf anatomy"
+    },
+    {
+      "id": "BIO9CH5-225",
+      "q": "In a biology assessment about leaf anatomy, which response correctly answers this question: Why are chloroplasts abundant in mesophyll cells?",
+      "o": [
+        "Chloroplasts transport blood",
+        "Mesophyll forms all root hairs",
+        "Mesophyll produces urine",
+        "Mesophyll is the main site of leaf photosynthesis"
+      ],
+      "a": 3,
+      "e": "Chloroplasts capture light energy for photosynthesis.",
+      "d": "Medium",
+      "topic": "Leaf anatomy",
+      "slo": "Apply knowledge of: Leaf anatomy"
+    },
+    {
+      "id": "BIO9CH5-226",
+      "q": "What is the role of the leaf cuticle during dry weather?",
+      "o": [
+        "It opens all stomata",
+        "It increases uncontrolled evaporation",
+        "It slows water loss from the leaf surface",
+        "It pumps sucrose through xylem"
+      ],
+      "a": 2,
+      "e": "The waxy cuticle acts as a barrier to water loss.",
+      "d": "Medium",
+      "topic": "Leaf anatomy",
+      "slo": "Identify and explain: Leaf anatomy"
+    },
+    {
+      "id": "BIO9CH5-227",
+      "q": "Choose the most scientifically accurate answer: what is the role of the leaf cuticle during dry weather?",
+      "o": [
+        "It slows water loss from the leaf surface",
+        "It increases uncontrolled evaporation",
+        "It pumps sucrose through xylem",
+        "It opens all stomata"
+      ],
+      "a": 0,
+      "e": "The waxy cuticle acts as a barrier to water loss.",
+      "d": "Medium",
+      "topic": "Leaf anatomy",
+      "slo": "Interpret: Leaf anatomy"
+    },
+    {
+      "id": "BIO9CH5-228",
+      "q": "In a biology assessment about leaf anatomy, which response correctly answers this question: What is the role of the leaf cuticle during dry weather?",
+      "o": [
+        "It increases uncontrolled evaporation",
+        "It opens all stomata",
+        "It pumps sucrose through xylem",
+        "It slows water loss from the leaf surface"
+      ],
+      "a": 3,
+      "e": "The waxy cuticle acts as a barrier to water loss.",
+      "d": "Medium",
+      "topic": "Leaf anatomy",
+      "slo": "Apply knowledge of: Leaf anatomy"
+    },
+    {
+      "id": "BIO9CH5-229",
+      "q": "Which plant organ anchors the plant and absorbs water and minerals?",
+      "o": [
+        "Root",
+        "Fruit",
+        "Leaf blade",
+        "Flower petal"
+      ],
+      "a": 0,
+      "e": "Roots anchor plants and absorb water and dissolved ions.",
+      "d": "Easy",
+      "topic": "Plant organs",
+      "slo": "Identify and explain: Plant organs"
+    },
+    {
+      "id": "BIO9CH5-230",
+      "q": "Choose the most scientifically accurate answer: which plant organ anchors the plant and absorbs water and minerals?",
+      "o": [
+        "Fruit",
+        "Leaf blade",
+        "Flower petal",
+        "Root"
+      ],
+      "a": 3,
+      "e": "Roots anchor plants and absorb water and dissolved ions.",
+      "d": "Medium",
+      "topic": "Plant organs",
+      "slo": "Interpret: Plant organs"
+    },
+    {
+      "id": "BIO9CH5-231",
+      "q": "In a biology assessment about plant organs, which response correctly answers this question: Which plant organ anchors the plant and absorbs water and minerals?",
+      "o": [
+        "Root",
+        "Leaf blade",
+        "Flower petal",
+        "Fruit"
+      ],
+      "a": 0,
+      "e": "Roots anchor plants and absorb water and dissolved ions.",
+      "d": "Medium",
+      "topic": "Plant organs",
+      "slo": "Apply knowledge of: Plant organs"
+    },
+    {
+      "id": "BIO9CH5-232",
+      "q": "Which plant organ supports leaves and conducts materials between roots and shoots?",
+      "o": [
+        "Stem",
+        "Seed coat",
+        "Petal",
+        "Stigma"
+      ],
+      "a": 0,
+      "e": "Stems support aerial structures and contain vascular tissues.",
+      "d": "Medium",
+      "topic": "Plant organs",
+      "slo": "Identify and explain: Plant organs"
+    },
+    {
+      "id": "BIO9CH5-233",
+      "q": "Choose the most scientifically accurate answer: which plant organ supports leaves and conducts materials between roots and shoots?",
+      "o": [
+        "Petal",
+        "Stem",
+        "Stigma",
+        "Seed coat"
+      ],
+      "a": 1,
+      "e": "Stems support aerial structures and contain vascular tissues.",
+      "d": "Medium",
+      "topic": "Plant organs",
+      "slo": "Interpret: Plant organs"
+    },
+    {
+      "id": "BIO9CH5-234",
+      "q": "In a biology assessment about plant organs, which response correctly answers this question: Which plant organ supports leaves and conducts materials between roots and shoots?",
+      "o": [
+        "Stem",
+        "Petal",
+        "Stigma",
+        "Seed coat"
+      ],
+      "a": 0,
+      "e": "Stems support aerial structures and contain vascular tissues.",
+      "d": "Hard",
+      "topic": "Plant organs",
+      "slo": "Apply knowledge of: Plant organs"
+    },
+    {
+      "id": "BIO9CH5-235",
+      "q": "Which plant organ is usually specialized for photosynthesis?",
+      "o": [
+        "Seed coat",
+        "Leaf",
+        "Root cap",
+        "Anther"
+      ],
+      "a": 1,
+      "e": "Leaves commonly provide a broad photosynthetic surface.",
+      "d": "Medium",
+      "topic": "Plant organs",
+      "slo": "Identify and explain: Plant organs"
+    },
+    {
+      "id": "BIO9CH5-236",
+      "q": "Choose the most scientifically accurate answer: which plant organ is usually specialized for photosynthesis?",
+      "o": [
+        "Leaf",
+        "Anther",
+        "Seed coat",
+        "Root cap"
+      ],
+      "a": 0,
+      "e": "Leaves commonly provide a broad photosynthetic surface.",
+      "d": "Medium",
+      "topic": "Plant organs",
+      "slo": "Interpret: Plant organs"
+    },
+    {
+      "id": "BIO9CH5-237",
+      "q": "In a biology assessment about plant organs, which response correctly answers this question: Which plant organ is usually specialized for photosynthesis?",
+      "o": [
+        "Root cap",
+        "Seed coat",
+        "Anther",
+        "Leaf"
+      ],
+      "a": 3,
+      "e": "Leaves commonly provide a broad photosynthetic surface.",
+      "d": "Medium",
+      "topic": "Plant organs",
+      "slo": "Apply knowledge of: Plant organs"
+    },
+    {
+      "id": "BIO9CH5-238",
+      "q": "Why must roots and leaves work together?",
+      "o": [
+        "Leaves filter blood",
+        "Roots replace chloroplasts",
+        "Roots supply water while leaves manufacture sugars",
+        "Roots make all atmospheric oxygen"
+      ],
+      "a": 2,
+      "e": "Plant organs exchange materials through vascular tissues.",
+      "d": "Easy",
+      "topic": "Plant organs",
+      "slo": "Identify and explain: Plant organs"
+    },
+    {
+      "id": "BIO9CH5-239",
+      "q": "Choose the most scientifically accurate answer: why must roots and leaves work together?",
+      "o": [
+        "Roots make all atmospheric oxygen",
+        "Leaves filter blood",
+        "Roots supply water while leaves manufacture sugars",
+        "Roots replace chloroplasts"
+      ],
+      "a": 2,
+      "e": "Plant organs exchange materials through vascular tissues.",
+      "d": "Medium",
+      "topic": "Plant organs",
+      "slo": "Interpret: Plant organs"
+    },
+    {
+      "id": "BIO9CH5-240",
+      "q": "In a biology assessment about plant organs, which response correctly answers this question: Why must roots and leaves work together?",
+      "o": [
+        "Leaves filter blood",
+        "Roots supply water while leaves manufacture sugars",
+        "Roots replace chloroplasts",
+        "Roots make all atmospheric oxygen"
+      ],
+      "a": 1,
+      "e": "Plant organs exchange materials through vascular tissues.",
+      "d": "Medium",
+      "topic": "Plant organs",
+      "slo": "Apply knowledge of: Plant organs"
+    },
+    {
+      "id": "BIO9CH5-241",
+      "q": "Which system comprises roots and related below-ground structures?",
+      "o": [
+        "Root system",
+        "Nervous system",
+        "Digestive system",
+        "Shoot system"
+      ],
+      "a": 0,
+      "e": "The root system typically includes the roots.",
+      "d": "Medium",
+      "topic": "Plant organs",
+      "slo": "Identify and explain: Plant organs"
+    },
+    {
+      "id": "BIO9CH5-242",
+      "q": "Choose the most scientifically accurate answer: which system comprises roots and related below-ground structures?",
+      "o": [
+        "Root system",
+        "Nervous system",
+        "Shoot system",
+        "Digestive system"
+      ],
+      "a": 0,
+      "e": "The root system typically includes the roots.",
+      "d": "Medium",
+      "topic": "Plant organs",
+      "slo": "Interpret: Plant organs"
+    },
+    {
+      "id": "BIO9CH5-243",
+      "q": "In a biology assessment about plant organs, which response correctly answers this question: Which system comprises roots and related below-ground structures?",
+      "o": [
+        "Shoot system",
+        "Nervous system",
+        "Root system",
+        "Digestive system"
+      ],
+      "a": 2,
+      "e": "The root system typically includes the roots.",
+      "d": "Medium",
+      "topic": "Plant organs",
+      "slo": "Apply knowledge of: Plant organs"
+    },
+    {
+      "id": "BIO9CH5-244",
+      "q": "Which system comprises stems, leaves and buds?",
+      "o": [
+        "Urinary system",
+        "Shoot system",
+        "Root system",
+        "Circulatory system"
+      ],
+      "a": 1,
+      "e": "The shoot system contains aerial vegetative organs.",
+      "d": "Medium",
+      "topic": "Plant organs",
+      "slo": "Identify and explain: Plant organs"
+    },
+    {
+      "id": "BIO9CH5-245",
+      "q": "Choose the most scientifically accurate answer: which system comprises stems, leaves and buds?",
+      "o": [
+        "Circulatory system",
+        "Root system",
+        "Urinary system",
+        "Shoot system"
+      ],
+      "a": 3,
+      "e": "The shoot system contains aerial vegetative organs.",
+      "d": "Medium",
+      "topic": "Plant organs",
+      "slo": "Interpret: Plant organs"
+    },
+    {
+      "id": "BIO9CH5-246",
+      "q": "In a biology assessment about plant organs, which response correctly answers this question: Which system comprises stems, leaves and buds?",
+      "o": [
+        "Shoot system",
+        "Circulatory system",
+        "Urinary system",
+        "Root system"
+      ],
+      "a": 0,
+      "e": "The shoot system contains aerial vegetative organs.",
+      "d": "Hard",
+      "topic": "Plant organs",
+      "slo": "Apply knowledge of: Plant organs"
+    },
+    {
+      "id": "BIO9CH5-247",
+      "q": "Which tissue carries sugars made in leaves toward growing roots?",
+      "o": [
+        "Phloem",
+        "Xylem",
+        "Epidermis",
+        "Cuticle"
+      ],
+      "a": 0,
+      "e": "Phloem transports photosynthates to non-photosynthetic sinks.",
+      "d": "Easy",
+      "topic": "Plant organs",
+      "slo": "Identify and explain: Plant organs"
+    },
+    {
+      "id": "BIO9CH5-248",
+      "q": "Choose the most scientifically accurate answer: which tissue carries sugars made in leaves toward growing roots?",
+      "o": [
+        "Epidermis",
+        "Cuticle",
+        "Phloem",
+        "Xylem"
+      ],
+      "a": 2,
+      "e": "Phloem transports photosynthates to non-photosynthetic sinks.",
+      "d": "Medium",
+      "topic": "Plant organs",
+      "slo": "Interpret: Plant organs"
+    },
+    {
+      "id": "BIO9CH5-249",
+      "q": "In a biology assessment about plant organs, which response correctly answers this question: Which tissue carries sugars made in leaves toward growing roots?",
+      "o": [
+        "Cuticle",
+        "Xylem",
+        "Epidermis",
+        "Phloem"
+      ],
+      "a": 3,
+      "e": "Phloem transports photosynthates to non-photosynthetic sinks.",
+      "d": "Medium",
+      "topic": "Plant organs",
+      "slo": "Apply knowledge of: Plant organs"
+    },
+    {
+      "id": "BIO9CH5-250",
+      "q": "Which tissue supplies water from roots to leaf mesophyll?",
+      "o": [
+        "Phloem",
+        "Cuticle",
+        "Xylem",
+        "Palisade tissue"
+      ],
+      "a": 2,
+      "e": "Xylem delivers water used in photosynthesis and transpiration.",
+      "d": "Medium",
+      "topic": "Plant organs",
+      "slo": "Identify and explain: Plant organs"
+    },
+    {
+      "id": "BIO9CH5-251",
+      "q": "Choose the most scientifically accurate answer: which tissue supplies water from roots to leaf mesophyll?",
+      "o": [
+        "Palisade tissue",
+        "Cuticle",
+        "Xylem",
+        "Phloem"
+      ],
+      "a": 2,
+      "e": "Xylem delivers water used in photosynthesis and transpiration.",
+      "d": "Medium",
+      "topic": "Plant organs",
+      "slo": "Interpret: Plant organs"
+    },
+    {
+      "id": "BIO9CH5-252",
+      "q": "In a biology assessment about plant organs, which response correctly answers this question: Which tissue supplies water from roots to leaf mesophyll?",
+      "o": [
+        "Phloem",
+        "Cuticle",
+        "Palisade tissue",
+        "Xylem"
+      ],
+      "a": 3,
+      "e": "Xylem delivers water used in photosynthesis and transpiration.",
+      "d": "Medium",
+      "topic": "Plant organs",
+      "slo": "Apply knowledge of: Plant organs"
+    },
+    {
+      "id": "BIO9CH5-253",
+      "q": "What happens if xylem transport to leaves is severely blocked?",
+      "o": [
+        "Roots turn into flowers",
+        "Sugar synthesis must increase immediately",
+        "Leaves may wilt from insufficient water supply",
+        "Stomata become bones"
+      ],
+      "a": 2,
+      "e": "Reduced water delivery impairs turgor and photosynthesis.",
+      "d": "Medium",
+      "topic": "Plant organs",
+      "slo": "Identify and explain: Plant organs"
+    },
+    {
+      "id": "BIO9CH5-254",
+      "q": "Choose the most scientifically accurate answer: what happens if xylem transport to leaves is severely blocked?",
+      "o": [
+        "Stomata become bones",
+        "Sugar synthesis must increase immediately",
+        "Roots turn into flowers",
+        "Leaves may wilt from insufficient water supply"
+      ],
+      "a": 3,
+      "e": "Reduced water delivery impairs turgor and photosynthesis.",
+      "d": "Medium",
+      "topic": "Plant organs",
+      "slo": "Interpret: Plant organs"
+    },
+    {
+      "id": "BIO9CH5-255",
+      "q": "In a biology assessment about plant organs, which response correctly answers this question: What happens if xylem transport to leaves is severely blocked?",
+      "o": [
+        "Roots turn into flowers",
+        "Sugar synthesis must increase immediately",
+        "Leaves may wilt from insufficient water supply",
+        "Stomata become bones"
+      ],
+      "a": 2,
+      "e": "Reduced water delivery impairs turgor and photosynthesis.",
+      "d": "Medium",
+      "topic": "Plant organs",
+      "slo": "Apply knowledge of: Plant organs"
+    },
+    {
+      "id": "BIO9CH5-256",
+      "q": "What happens if phloem transport from leaves is blocked?",
+      "o": [
+        "Growing and storage tissues may receive less sugar",
+        "All stomata disappear",
+        "Water can no longer enter any root hair",
+        "Lungs stop gas exchange"
+      ],
+      "a": 0,
+      "e": "Phloem supplies organic nutrients to sink tissues.",
+      "d": "Easy",
+      "topic": "Plant organs",
+      "slo": "Identify and explain: Plant organs"
+    },
+    {
+      "id": "BIO9CH5-257",
+      "q": "Choose the most scientifically accurate answer: what happens if phloem transport from leaves is blocked?",
+      "o": [
+        "Water can no longer enter any root hair",
+        "Growing and storage tissues may receive less sugar",
+        "All stomata disappear",
+        "Lungs stop gas exchange"
+      ],
+      "a": 1,
+      "e": "Phloem supplies organic nutrients to sink tissues.",
+      "d": "Medium",
+      "topic": "Plant organs",
+      "slo": "Interpret: Plant organs"
+    },
+    {
+      "id": "BIO9CH5-258",
+      "q": "In a biology assessment about plant organs, which response correctly answers this question: What happens if phloem transport from leaves is blocked?",
+      "o": [
+        "Growing and storage tissues may receive less sugar",
+        "Water can no longer enter any root hair",
+        "All stomata disappear",
+        "Lungs stop gas exchange"
+      ],
+      "a": 0,
+      "e": "Phloem supplies organic nutrients to sink tissues.",
+      "d": "Hard",
+      "topic": "Plant organs",
+      "slo": "Apply knowledge of: Plant organs"
+    },
+    {
+      "id": "BIO9CH5-259",
+      "q": "What is the principal function of ground tissue in many plants?",
+      "o": [
+        "Photosynthesis, storage and support",
+        "Formation of blood cells",
+        "Transmission of electrical impulses in animals",
+        "Making antibodies only"
+      ],
+      "a": 0,
+      "e": "Ground tissue performs multiple basic plant functions.",
+      "d": "Medium",
+      "topic": "Plant tissues",
+      "slo": "Identify and explain: Plant tissues"
+    },
+    {
+      "id": "BIO9CH5-260",
+      "q": "Choose the most scientifically accurate answer: what is the principal function of ground tissue in many plants?",
+      "o": [
+        "Formation of blood cells",
+        "Transmission of electrical impulses in animals",
+        "Photosynthesis, storage and support",
+        "Making antibodies only"
+      ],
+      "a": 2,
+      "e": "Ground tissue performs multiple basic plant functions.",
+      "d": "Medium",
+      "topic": "Plant tissues",
+      "slo": "Interpret: Plant tissues"
+    },
+    {
+      "id": "BIO9CH5-261",
+      "q": "In a biology assessment about plant tissues, which response correctly answers this question: What is the principal function of ground tissue in many plants?",
+      "o": [
+        "Transmission of electrical impulses in animals",
+        "Photosynthesis, storage and support",
+        "Making antibodies only",
+        "Formation of blood cells"
+      ],
+      "a": 1,
+      "e": "Ground tissue performs multiple basic plant functions.",
+      "d": "Medium",
+      "topic": "Plant tissues",
+      "slo": "Apply knowledge of: Plant tissues"
+    },
+    {
+      "id": "BIO9CH5-262",
+      "q": "What is a key role of dermal tissue in plants?",
+      "o": [
+        "Producing nerve impulses",
+        "Making stomach acid",
+        "Pumping blood",
+        "Protection and regulation of exchange with the environment"
+      ],
+      "a": 3,
+      "e": "Dermal tissues form the external interface of plant organs.",
+      "d": "Medium",
+      "topic": "Plant tissues",
+      "slo": "Identify and explain: Plant tissues"
+    },
+    {
+      "id": "BIO9CH5-263",
+      "q": "Choose the most scientifically accurate answer: what is a key role of dermal tissue in plants?",
+      "o": [
+        "Pumping blood",
+        "Protection and regulation of exchange with the environment",
+        "Producing nerve impulses",
+        "Making stomach acid"
+      ],
+      "a": 1,
+      "e": "Dermal tissues form the external interface of plant organs.",
+      "d": "Medium",
+      "topic": "Plant tissues",
+      "slo": "Interpret: Plant tissues"
+    },
+    {
+      "id": "BIO9CH5-264",
+      "q": "In a biology assessment about plant tissues, which response correctly answers this question: What is a key role of dermal tissue in plants?",
+      "o": [
+        "Protection and regulation of exchange with the environment",
+        "Making stomach acid",
+        "Pumping blood",
+        "Producing nerve impulses"
+      ],
+      "a": 0,
+      "e": "Dermal tissues form the external interface of plant organs.",
+      "d": "Medium",
+      "topic": "Plant tissues",
+      "slo": "Apply knowledge of: Plant tissues"
+    },
+    {
+      "id": "BIO9CH5-265",
+      "q": "What is a key role of vascular tissue in plants?",
+      "o": [
+        "Contraction of muscles",
+        "Production of urine",
+        "Long-distance transport of water, minerals and sugars",
+        "Direct production of animal hormones"
+      ],
+      "a": 2,
+      "e": "Xylem and phloem conduct substances throughout plants.",
+      "d": "Easy",
+      "topic": "Plant tissues",
+      "slo": "Identify and explain: Plant tissues"
+    },
+    {
+      "id": "BIO9CH5-266",
+      "q": "Choose the most scientifically accurate answer: what is a key role of vascular tissue in plants?",
+      "o": [
+        "Contraction of muscles",
+        "Long-distance transport of water, minerals and sugars",
+        "Production of urine",
+        "Direct production of animal hormones"
+      ],
+      "a": 1,
+      "e": "Xylem and phloem conduct substances throughout plants.",
+      "d": "Medium",
+      "topic": "Plant tissues",
+      "slo": "Interpret: Plant tissues"
+    },
+    {
+      "id": "BIO9CH5-267",
+      "q": "In a biology assessment about plant tissues, which response correctly answers this question: What is a key role of vascular tissue in plants?",
+      "o": [
+        "Production of urine",
+        "Direct production of animal hormones",
+        "Long-distance transport of water, minerals and sugars",
+        "Contraction of muscles"
+      ],
+      "a": 2,
+      "e": "Xylem and phloem conduct substances throughout plants.",
+      "d": "Medium",
+      "topic": "Plant tissues",
+      "slo": "Apply knowledge of: Plant tissues"
+    },
+    {
+      "id": "BIO9CH5-268",
+      "q": "Why is tissue specialization useful in a leaf?",
+      "o": [
+        "Photosynthesis must stop",
+        "Every cell performs only the same task",
+        "Different tissues cooperate in photosynthesis, exchange and transport",
+        "Vascular tissues become unnecessary"
+      ],
+      "a": 2,
+      "e": "Epidermal, mesophyll and vascular tissues have complementary roles.",
+      "d": "Medium",
+      "topic": "Plant tissues",
+      "slo": "Identify and explain: Plant tissues"
+    },
+    {
+      "id": "BIO9CH5-269",
+      "q": "Choose the most scientifically accurate answer: why is tissue specialization useful in a leaf?",
+      "o": [
+        "Photosynthesis must stop",
+        "Every cell performs only the same task",
+        "Vascular tissues become unnecessary",
+        "Different tissues cooperate in photosynthesis, exchange and transport"
+      ],
+      "a": 3,
+      "e": "Epidermal, mesophyll and vascular tissues have complementary roles.",
+      "d": "Medium",
+      "topic": "Plant tissues",
+      "slo": "Interpret: Plant tissues"
+    },
+    {
+      "id": "BIO9CH5-270",
+      "q": "In a biology assessment about plant tissues, which response correctly answers this question: Why is tissue specialization useful in a leaf?",
+      "o": [
+        "Vascular tissues become unnecessary",
+        "Different tissues cooperate in photosynthesis, exchange and transport",
+        "Every cell performs only the same task",
+        "Photosynthesis must stop"
+      ],
+      "a": 1,
+      "e": "Epidermal, mesophyll and vascular tissues have complementary roles.",
+      "d": "Hard",
+      "topic": "Plant tissues",
+      "slo": "Apply knowledge of: Plant tissues"
+    },
+    {
+      "id": "BIO9CH5-271",
+      "q": "Why does exercise increase both breathing and heart rates?",
+      "o": [
+        "Working muscles need more oxygen and faster waste removal",
+        "The stomach pumps blood",
+        "Bones replace the lungs",
+        "Kidneys immediately stop filtering"
+      ],
+      "a": 0,
+      "e": "Respiratory and circulatory activity increase to meet metabolic demand.",
+      "d": "Medium",
+      "topic": "Human systems",
+      "slo": "Identify and explain: Human systems"
+    },
+    {
+      "id": "BIO9CH5-272",
+      "q": "Choose the most scientifically accurate answer: why does exercise increase both breathing and heart rates?",
+      "o": [
+        "Bones replace the lungs",
+        "Working muscles need more oxygen and faster waste removal",
+        "Kidneys immediately stop filtering",
+        "The stomach pumps blood"
+      ],
+      "a": 1,
+      "e": "Respiratory and circulatory activity increase to meet metabolic demand.",
+      "d": "Medium",
+      "topic": "Human systems",
+      "slo": "Interpret: Human systems"
+    },
+    {
+      "id": "BIO9CH5-273",
+      "q": "In a biology assessment about human systems, which response correctly answers this question: Why does exercise increase both breathing and heart rates?",
+      "o": [
+        "Bones replace the lungs",
+        "Kidneys immediately stop filtering",
+        "Working muscles need more oxygen and faster waste removal",
+        "The stomach pumps blood"
+      ],
+      "a": 2,
+      "e": "Respiratory and circulatory activity increase to meet metabolic demand.",
+      "d": "Medium",
+      "topic": "Human systems",
+      "slo": "Apply knowledge of: Human systems"
+    },
+    {
+      "id": "BIO9CH5-274",
+      "q": "A person's body temperature rises during exercise. Which response helps return it toward normal?",
+      "o": [
+        "Shivering",
+        "Skin vasoconstriction",
+        "Stopping all breathing",
+        "Sweating"
+      ],
+      "a": 3,
+      "e": "Evaporation of sweat increases heat loss.",
+      "d": "Easy",
+      "topic": "Homeostasis",
+      "slo": "Identify and explain: Homeostasis"
+    },
+    {
+      "id": "BIO9CH5-275",
+      "q": "Choose the most scientifically accurate answer: a person's body temperature rises during exercise. Which response helps return it toward normal?",
+      "o": [
+        "Sweating",
+        "Skin vasoconstriction",
+        "Shivering",
+        "Stopping all breathing"
+      ],
+      "a": 0,
+      "e": "Evaporation of sweat increases heat loss.",
+      "d": "Medium",
+      "topic": "Homeostasis",
+      "slo": "Interpret: Homeostasis"
+    },
+    {
+      "id": "BIO9CH5-276",
+      "q": "In a biology assessment about homeostasis, which response correctly answers this question: A person's body temperature rises during exercise. Which response helps return it toward normal?",
+      "o": [
+        "Stopping all breathing",
+        "Skin vasoconstriction",
+        "Sweating",
+        "Shivering"
+      ],
+      "a": 2,
+      "e": "Evaporation of sweat increases heat loss.",
+      "d": "Medium",
+      "topic": "Homeostasis",
+      "slo": "Apply knowledge of: Homeostasis"
+    },
+    {
+      "id": "BIO9CH5-277",
+      "q": "A person's skin becomes pale in cold weather. Which response explains this?",
+      "o": [
+        "Greater sweat evaporation",
+        "Skin vasoconstriction",
+        "Increased digestion",
+        "Increased skin vasodilation"
+      ],
+      "a": 1,
+      "e": "Reduced blood flow near the surface conserves heat.",
+      "d": "Medium",
+      "topic": "Homeostasis",
+      "slo": "Identify and explain: Homeostasis"
+    },
+    {
+      "id": "BIO9CH5-278",
+      "q": "Choose the most scientifically accurate answer: a person's skin becomes pale in cold weather. Which response explains this?",
+      "o": [
+        "Skin vasoconstriction",
+        "Greater sweat evaporation",
+        "Increased skin vasodilation",
+        "Increased digestion"
+      ],
+      "a": 0,
+      "e": "Reduced blood flow near the surface conserves heat.",
+      "d": "Medium",
+      "topic": "Homeostasis",
+      "slo": "Interpret: Homeostasis"
+    },
+    {
+      "id": "BIO9CH5-279",
+      "q": "In a biology assessment about homeostasis, which response correctly answers this question: A person's skin becomes pale in cold weather. Which response explains this?",
+      "o": [
+        "Increased digestion",
+        "Increased skin vasodilation",
+        "Greater sweat evaporation",
+        "Skin vasoconstriction"
+      ],
+      "a": 3,
+      "e": "Reduced blood flow near the surface conserves heat.",
+      "d": "Medium",
+      "topic": "Homeostasis",
+      "slo": "Apply knowledge of: Homeostasis"
+    },
+    {
+      "id": "BIO9CH5-280",
+      "q": "A leaf loses water too rapidly on a hot day. Which structure can reduce stomatal water loss?",
+      "o": [
+        "Root cap",
+        "Xylem vessel walls",
+        "Palisade chloroplasts",
+        "Guard cells"
+      ],
+      "a": 3,
+      "e": "Guard cells can close stomata to reduce transpiration.",
+      "d": "Medium",
+      "topic": "Leaf anatomy",
+      "slo": "Identify and explain: Leaf anatomy"
+    },
+    {
+      "id": "BIO9CH5-281",
+      "q": "Choose the most scientifically accurate answer: a leaf loses water too rapidly on a hot day. Which structure can reduce stomatal water loss?",
+      "o": [
+        "Root cap",
+        "Guard cells",
+        "Xylem vessel walls",
+        "Palisade chloroplasts"
+      ],
+      "a": 1,
+      "e": "Guard cells can close stomata to reduce transpiration.",
+      "d": "Medium",
+      "topic": "Leaf anatomy",
+      "slo": "Interpret: Leaf anatomy"
+    },
+    {
+      "id": "BIO9CH5-282",
+      "q": "In a biology assessment about leaf anatomy, which response correctly answers this question: A leaf loses water too rapidly on a hot day. Which structure can reduce stomatal water loss?",
+      "o": [
+        "Palisade chloroplasts",
+        "Guard cells",
+        "Xylem vessel walls",
+        "Root cap"
+      ],
+      "a": 1,
+      "e": "Guard cells can close stomata to reduce transpiration.",
+      "d": "Hard",
+      "topic": "Leaf anatomy",
+      "slo": "Apply knowledge of: Leaf anatomy"
+    },
+    {
+      "id": "BIO9CH5-283",
+      "q": "A stem bends in wind without breaking. Which tissue is particularly associated with flexible support?",
+      "o": [
+        "Xylem vessels only",
+        "Sclerenchyma fibres only",
+        "Cork cells only",
+        "Collenchyma"
+      ],
+      "a": 3,
+      "e": "Collenchyma supports growing stems while retaining flexibility.",
+      "d": "Easy",
+      "topic": "Plant tissues",
+      "slo": "Identify and explain: Plant tissues"
+    },
+    {
+      "id": "BIO9CH5-284",
+      "q": "Choose the most scientifically accurate answer: a stem bends in wind without breaking. Which tissue is particularly associated with flexible support?",
+      "o": [
+        "Sclerenchyma fibres only",
+        "Cork cells only",
+        "Collenchyma",
+        "Xylem vessels only"
+      ],
+      "a": 2,
+      "e": "Collenchyma supports growing stems while retaining flexibility.",
+      "d": "Medium",
+      "topic": "Plant tissues",
+      "slo": "Interpret: Plant tissues"
+    },
+    {
+      "id": "BIO9CH5-285",
+      "q": "In a biology assessment about plant tissues, which response correctly answers this question: A stem bends in wind without breaking. Which tissue is particularly associated with flexible support?",
+      "o": [
+        "Sclerenchyma fibres only",
+        "Cork cells only",
+        "Xylem vessels only",
+        "Collenchyma"
+      ],
+      "a": 3,
+      "e": "Collenchyma supports growing stems while retaining flexibility.",
+      "d": "Medium",
+      "topic": "Plant tissues",
+      "slo": "Apply knowledge of: Plant tissues"
+    },
+    {
+      "id": "BIO9CH5-286",
+      "q": "A mature seed coat is hard and resistant to damage. Which tissue type often contributes strength?",
+      "o": [
+        "Phloem companion cells",
+        "Sclerenchyma",
+        "Guard cells",
+        "Palisade mesophyll"
+      ],
+      "a": 1,
+      "e": "Sclerenchyma has thick, often lignified supporting walls.",
+      "d": "Medium",
+      "topic": "Plant tissues",
+      "slo": "Identify and explain: Plant tissues"
+    },
+    {
+      "id": "BIO9CH5-287",
+      "q": "Choose the most scientifically accurate answer: a mature seed coat is hard and resistant to damage. Which tissue type often contributes strength?",
+      "o": [
+        "Palisade mesophyll",
+        "Guard cells",
+        "Sclerenchyma",
+        "Phloem companion cells"
+      ],
+      "a": 2,
+      "e": "Sclerenchyma has thick, often lignified supporting walls.",
+      "d": "Medium",
+      "topic": "Plant tissues",
+      "slo": "Interpret: Plant tissues"
+    },
+    {
+      "id": "BIO9CH5-288",
+      "q": "In a biology assessment about plant tissues, which response correctly answers this question: A mature seed coat is hard and resistant to damage. Which tissue type often contributes strength?",
+      "o": [
+        "Sclerenchyma",
+        "Palisade mesophyll",
+        "Phloem companion cells",
+        "Guard cells"
+      ],
+      "a": 0,
+      "e": "Sclerenchyma has thick, often lignified supporting walls.",
+      "d": "Medium",
+      "topic": "Plant tissues",
+      "slo": "Apply knowledge of: Plant tissues"
+    },
+    {
+      "id": "BIO9CH5-289",
+      "q": "A doctor tests whether a patient's kidneys can remove urea. Which system is primarily being examined?",
+      "o": [
+        "Skeletal system",
+        "Respiratory system",
+        "Urinary system",
+        "Muscular system"
+      ],
+      "a": 2,
+      "e": "Kidneys are principal organs of the urinary system.",
+      "d": "Medium",
+      "topic": "Human systems",
+      "slo": "Identify and explain: Human systems"
+    },
+    {
+      "id": "BIO9CH5-290",
+      "q": "Choose the most scientifically accurate answer: a doctor tests whether a patient's kidneys can remove urea. Which system is primarily being examined?",
+      "o": [
+        "Muscular system",
+        "Respiratory system",
+        "Skeletal system",
+        "Urinary system"
+      ],
+      "a": 3,
+      "e": "Kidneys are principal organs of the urinary system.",
+      "d": "Medium",
+      "topic": "Human systems",
+      "slo": "Interpret: Human systems"
+    },
+    {
+      "id": "BIO9CH5-291",
+      "q": "In a biology assessment about human systems, which response correctly answers this question: A doctor tests whether a patient's kidneys can remove urea. Which system is primarily being examined?",
+      "o": [
+        "Skeletal system",
+        "Muscular system",
+        "Urinary system",
+        "Respiratory system"
+      ],
+      "a": 2,
+      "e": "Kidneys are principal organs of the urinary system.",
+      "d": "Medium",
+      "topic": "Human systems",
+      "slo": "Apply knowledge of: Human systems"
+    },
+    {
+      "id": "BIO9CH5-292",
+      "q": "A child has a broken bone. Which system is directly injured?",
+      "o": [
+        "Endocrine system",
+        "Lymphatic system",
+        "Digestive system",
+        "Skeletal system"
+      ],
+      "a": 3,
+      "e": "Bones are parts of the skeletal system.",
+      "d": "Easy",
+      "topic": "Human systems",
+      "slo": "Identify and explain: Human systems"
+    },
+    {
+      "id": "BIO9CH5-293",
+      "q": "Choose the most scientifically accurate answer: a child has a broken bone. Which system is directly injured?",
+      "o": [
+        "Lymphatic system",
+        "Endocrine system",
+        "Skeletal system",
+        "Digestive system"
+      ],
+      "a": 2,
+      "e": "Bones are parts of the skeletal system.",
+      "d": "Medium",
+      "topic": "Human systems",
+      "slo": "Interpret: Human systems"
+    },
+    {
+      "id": "BIO9CH5-294",
+      "q": "In a biology assessment about human systems, which response correctly answers this question: A child has a broken bone. Which system is directly injured?",
+      "o": [
+        "Lymphatic system",
+        "Skeletal system",
+        "Endocrine system",
+        "Digestive system"
+      ],
+      "a": 1,
+      "e": "Bones are parts of the skeletal system.",
+      "d": "Hard",
+      "topic": "Human systems",
+      "slo": "Apply knowledge of: Human systems"
+    },
+    {
+      "id": "BIO9CH5-295",
+      "q": "A hormone travels through blood to act on distant cells. Which system releases it?",
+      "o": [
+        "Skeletal system",
+        "Integumentary system",
+        "Endocrine system",
+        "Muscular system"
+      ],
+      "a": 2,
+      "e": "Endocrine glands release hormones for signalling.",
+      "d": "Medium",
+      "topic": "Human systems",
+      "slo": "Identify and explain: Human systems"
+    },
+    {
+      "id": "BIO9CH5-296",
+      "q": "Choose the most scientifically accurate answer: a hormone travels through blood to act on distant cells. Which system releases it?",
+      "o": [
+        "Integumentary system",
+        "Skeletal system",
+        "Endocrine system",
+        "Muscular system"
+      ],
+      "a": 2,
+      "e": "Endocrine glands release hormones for signalling.",
+      "d": "Medium",
+      "topic": "Human systems",
+      "slo": "Interpret: Human systems"
+    },
+    {
+      "id": "BIO9CH5-297",
+      "q": "In a biology assessment about human systems, which response correctly answers this question: A hormone travels through blood to act on distant cells. Which system releases it?",
+      "o": [
+        "Endocrine system",
+        "Muscular system",
+        "Skeletal system",
+        "Integumentary system"
+      ],
+      "a": 0,
+      "e": "Endocrine glands release hormones for signalling.",
+      "d": "Medium",
+      "topic": "Human systems",
+      "slo": "Apply knowledge of: Human systems"
+    },
+    {
+      "id": "BIO9CH5-298",
+      "q": "A sensory signal from a hot object triggers a rapid hand withdrawal. Which system coordinates this?",
+      "o": [
+        "Nervous system",
+        "Digestive system",
+        "Skeletal system",
+        "Urinary system"
+      ],
+      "a": 0,
+      "e": "Neural circuits rapidly coordinate reflex responses.",
+      "d": "Medium",
+      "topic": "Human systems",
+      "slo": "Identify and explain: Human systems"
+    },
+    {
+      "id": "BIO9CH5-299",
+      "q": "Choose the most scientifically accurate answer: a sensory signal from a hot object triggers a rapid hand withdrawal. Which system coordinates this?",
+      "o": [
+        "Urinary system",
+        "Digestive system",
+        "Skeletal system",
+        "Nervous system"
+      ],
+      "a": 3,
+      "e": "Neural circuits rapidly coordinate reflex responses.",
+      "d": "Medium",
+      "topic": "Human systems",
+      "slo": "Interpret: Human systems"
+    },
+    {
+      "id": "BIO9CH5-300",
+      "q": "In a biology assessment about human systems, which response correctly answers this question: A sensory signal from a hot object triggers a rapid hand withdrawal. Which system coordinates this?",
+      "o": [
+        "Skeletal system",
+        "Digestive system",
+        "Nervous system",
+        "Urinary system"
+      ],
+      "a": 2,
+      "e": "Neural circuits rapidly coordinate reflex responses.",
+      "d": "Medium",
+      "topic": "Human systems",
+      "slo": "Apply knowledge of: Human systems"
+    }
+  ]
+}

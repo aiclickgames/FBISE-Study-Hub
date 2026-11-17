@@ -1,0 +1,5104 @@
+{
+  "questions": [
+    {
+      "id": "BIO9CH10-001",
+      "q": "What is biological variation?",
+      "o": [
+        "Changes in weather",
+        "Differences in traits among individuals of the same species",
+        "Identical traits in all individuals",
+        "Differences between cells of one organ"
+      ],
+      "a": 1,
+      "e": "Variation means differences in characteristics within a species.",
+      "d": "Easy",
+      "topic": "Variation",
+      "slo": "Explain or apply: variation",
+      "concept_id": "CH10-C001",
+      "question_format": "direct"
+    },
+    {
+      "id": "BIO9CH10-002",
+      "q": "Choose the most accurate answer: what is biological variation?",
+      "o": [
+        "Differences in traits among individuals of the same species",
+        "Changes in weather",
+        "Differences between cells of one organ",
+        "Identical traits in all individuals"
+      ],
+      "a": 0,
+      "e": "Variation means differences in characteristics within a species.",
+      "d": "Medium",
+      "topic": "Variation",
+      "slo": "Explain or apply: variation",
+      "concept_id": "CH10-C001",
+      "question_format": "recognition"
+    },
+    {
+      "id": "BIO9CH10-003",
+      "q": "A student is reviewing evolution. What is biological variation?",
+      "o": [
+        "Changes in weather",
+        "Identical traits in all individuals",
+        "Differences between cells of one organ",
+        "Differences in traits among individuals of the same species"
+      ],
+      "a": 3,
+      "e": "Variation means differences in characteristics within a species.",
+      "d": "Medium",
+      "topic": "Variation",
+      "slo": "Explain or apply: variation",
+      "concept_id": "CH10-C001",
+      "question_format": "context"
+    },
+    {
+      "id": "BIO9CH10-004",
+      "q": "In an exam on Chapter 10, which answer is scientifically correct? What is biological variation?",
+      "o": [
+        "Changes in weather",
+        "Identical traits in all individuals",
+        "Differences between cells of one organ",
+        "Differences in traits among individuals of the same species"
+      ],
+      "a": 3,
+      "e": "Variation means differences in characteristics within a species.",
+      "d": "Hard",
+      "topic": "Variation",
+      "slo": "Explain or apply: variation",
+      "concept_id": "CH10-C001",
+      "question_format": "exam"
+    },
+    {
+      "id": "BIO9CH10-005",
+      "q": "Which example illustrates variation within a species?",
+      "o": [
+        "A cat producing a kitten",
+        "Domestic cats having different coat colours",
+        "A cat and a tree belonging to different kingdoms",
+        "All cats having the same eye colour"
+      ],
+      "a": 1,
+      "e": "Cats of the same species may differ in coat colour.",
+      "d": "Easy",
+      "topic": "Variation",
+      "slo": "Explain or apply: variation",
+      "concept_id": "CH10-C002",
+      "question_format": "direct"
+    },
+    {
+      "id": "BIO9CH10-006",
+      "q": "Choose the most accurate answer: which example illustrates variation within a species?",
+      "o": [
+        "Domestic cats having different coat colours",
+        "A cat and a tree belonging to different kingdoms",
+        "All cats having the same eye colour",
+        "A cat producing a kitten"
+      ],
+      "a": 0,
+      "e": "Cats of the same species may differ in coat colour.",
+      "d": "Medium",
+      "topic": "Variation",
+      "slo": "Explain or apply: variation",
+      "concept_id": "CH10-C002",
+      "question_format": "recognition"
+    },
+    {
+      "id": "BIO9CH10-007",
+      "q": "A student is reviewing evolution. Which example illustrates variation within a species?",
+      "o": [
+        "All cats having the same eye colour",
+        "A cat producing a kitten",
+        "A cat and a tree belonging to different kingdoms",
+        "Domestic cats having different coat colours"
+      ],
+      "a": 3,
+      "e": "Cats of the same species may differ in coat colour.",
+      "d": "Medium",
+      "topic": "Variation",
+      "slo": "Explain or apply: variation",
+      "concept_id": "CH10-C002",
+      "question_format": "context"
+    },
+    {
+      "id": "BIO9CH10-008",
+      "q": "In an exam on Chapter 10, which answer is scientifically correct? Which example illustrates variation within a species?",
+      "o": [
+        "Domestic cats having different coat colours",
+        "A cat producing a kitten",
+        "All cats having the same eye colour",
+        "A cat and a tree belonging to different kingdoms"
+      ],
+      "a": 0,
+      "e": "Cats of the same species may differ in coat colour.",
+      "d": "Hard",
+      "topic": "Variation",
+      "slo": "Explain or apply: variation",
+      "concept_id": "CH10-C002",
+      "question_format": "exam"
+    },
+    {
+      "id": "BIO9CH10-009",
+      "q": "Which characteristic can vary among domestic cats?",
+      "o": [
+        "Number of kingdoms",
+        "Eye colour",
+        "Definition of a species",
+        "Presence of DNA in cells"
+      ],
+      "a": 1,
+      "e": "Eye colour is one variable trait among cats.",
+      "d": "Easy",
+      "topic": "Variation",
+      "slo": "Explain or apply: variation",
+      "concept_id": "CH10-C003",
+      "question_format": "direct"
+    },
+    {
+      "id": "BIO9CH10-010",
+      "q": "Choose the most accurate answer: which characteristic can vary among domestic cats?",
+      "o": [
+        "Eye colour",
+        "Definition of a species",
+        "Presence of DNA in cells",
+        "Number of kingdoms"
+      ],
+      "a": 0,
+      "e": "Eye colour is one variable trait among cats.",
+      "d": "Medium",
+      "topic": "Variation",
+      "slo": "Explain or apply: variation",
+      "concept_id": "CH10-C003",
+      "question_format": "recognition"
+    },
+    {
+      "id": "BIO9CH10-011",
+      "q": "A student is reviewing evolution. Which characteristic can vary among domestic cats?",
+      "o": [
+        "Number of kingdoms",
+        "Definition of a species",
+        "Eye colour",
+        "Presence of DNA in cells"
+      ],
+      "a": 2,
+      "e": "Eye colour is one variable trait among cats.",
+      "d": "Medium",
+      "topic": "Variation",
+      "slo": "Explain or apply: variation",
+      "concept_id": "CH10-C003",
+      "question_format": "context"
+    },
+    {
+      "id": "BIO9CH10-012",
+      "q": "In an exam on Chapter 10, which answer is scientifically correct? Which characteristic can vary among domestic cats?",
+      "o": [
+        "Eye colour",
+        "Definition of a species",
+        "Number of kingdoms",
+        "Presence of DNA in cells"
+      ],
+      "a": 0,
+      "e": "Eye colour is one variable trait among cats.",
+      "d": "Hard",
+      "topic": "Variation",
+      "slo": "Explain or apply: variation",
+      "concept_id": "CH10-C003",
+      "question_format": "exam"
+    },
+    {
+      "id": "BIO9CH10-013",
+      "q": "Why can some inherited variations be advantageous?",
+      "o": [
+        "They can improve survival in particular conditions",
+        "They guarantee immortality",
+        "They prevent reproduction",
+        "They eliminate competition"
+      ],
+      "a": 0,
+      "e": "An advantageous trait may increase survival or reproductive success.",
+      "d": "Easy",
+      "topic": "Variation",
+      "slo": "Explain or apply: variation",
+      "concept_id": "CH10-C004",
+      "question_format": "direct"
+    },
+    {
+      "id": "BIO9CH10-014",
+      "q": "Choose the most accurate answer: why can some inherited variations be advantageous?",
+      "o": [
+        "They eliminate competition",
+        "They guarantee immortality",
+        "They can improve survival in particular conditions",
+        "They prevent reproduction"
+      ],
+      "a": 2,
+      "e": "An advantageous trait may increase survival or reproductive success.",
+      "d": "Medium",
+      "topic": "Variation",
+      "slo": "Explain or apply: variation",
+      "concept_id": "CH10-C004",
+      "question_format": "recognition"
+    },
+    {
+      "id": "BIO9CH10-015",
+      "q": "A student is reviewing evolution. Why can some inherited variations be advantageous?",
+      "o": [
+        "They can improve survival in particular conditions",
+        "They guarantee immortality",
+        "They prevent reproduction",
+        "They eliminate competition"
+      ],
+      "a": 0,
+      "e": "An advantageous trait may increase survival or reproductive success.",
+      "d": "Medium",
+      "topic": "Variation",
+      "slo": "Explain or apply: variation",
+      "concept_id": "CH10-C004",
+      "question_format": "context"
+    },
+    {
+      "id": "BIO9CH10-016",
+      "q": "In an exam on Chapter 10, which answer is scientifically correct? Why can some inherited variations be advantageous?",
+      "o": [
+        "They guarantee immortality",
+        "They eliminate competition",
+        "They can improve survival in particular conditions",
+        "They prevent reproduction"
+      ],
+      "a": 2,
+      "e": "An advantageous trait may increase survival or reproductive success.",
+      "d": "Hard",
+      "topic": "Variation",
+      "slo": "Explain or apply: variation",
+      "concept_id": "CH10-C004",
+      "question_format": "exam"
+    },
+    {
+      "id": "BIO9CH10-017",
+      "q": "What describes a harmful variation?",
+      "o": [
+        "A trait shared by all individuals",
+        "A trait that reduces fitness in a given environment",
+        "A trait that always improves survival",
+        "Any difference in fur colour"
+      ],
+      "a": 1,
+      "e": "A harmful inherited change can lower survival or reproductive success.",
+      "d": "Easy",
+      "topic": "Variation",
+      "slo": "Explain or apply: variation",
+      "concept_id": "CH10-C005",
+      "question_format": "direct"
+    },
+    {
+      "id": "BIO9CH10-018",
+      "q": "Choose the most accurate answer: what describes a harmful variation?",
+      "o": [
+        "Any difference in fur colour",
+        "A trait shared by all individuals",
+        "A trait that reduces fitness in a given environment",
+        "A trait that always improves survival"
+      ],
+      "a": 2,
+      "e": "A harmful inherited change can lower survival or reproductive success.",
+      "d": "Medium",
+      "topic": "Variation",
+      "slo": "Explain or apply: variation",
+      "concept_id": "CH10-C005",
+      "question_format": "recognition"
+    },
+    {
+      "id": "BIO9CH10-019",
+      "q": "A student is reviewing evolution. What describes a harmful variation?",
+      "o": [
+        "A trait that always improves survival",
+        "A trait that reduces fitness in a given environment",
+        "Any difference in fur colour",
+        "A trait shared by all individuals"
+      ],
+      "a": 1,
+      "e": "A harmful inherited change can lower survival or reproductive success.",
+      "d": "Medium",
+      "topic": "Variation",
+      "slo": "Explain or apply: variation",
+      "concept_id": "CH10-C005",
+      "question_format": "context"
+    },
+    {
+      "id": "BIO9CH10-020",
+      "q": "In an exam on Chapter 10, which answer is scientifically correct? What describes a harmful variation?",
+      "o": [
+        "A trait that always improves survival",
+        "A trait that reduces fitness in a given environment",
+        "Any difference in fur colour",
+        "A trait shared by all individuals"
+      ],
+      "a": 1,
+      "e": "A harmful inherited change can lower survival or reproductive success.",
+      "d": "Hard",
+      "topic": "Variation",
+      "slo": "Explain or apply: variation",
+      "concept_id": "CH10-C005",
+      "question_format": "exam"
+    },
+    {
+      "id": "BIO9CH10-021",
+      "q": "Which process creates new combinations of alleles during meiosis?",
+      "o": [
+        "Binary fission",
+        "Transpiration",
+        "Crossing over",
+        "Photosynthesis"
+      ],
+      "a": 2,
+      "e": "Crossing over exchanges segments between homologous chromosomes.",
+      "d": "Easy",
+      "topic": "Variation",
+      "slo": "Explain or apply: variation",
+      "concept_id": "CH10-C006",
+      "question_format": "direct"
+    },
+    {
+      "id": "BIO9CH10-022",
+      "q": "Choose the most accurate answer: which process creates new combinations of alleles during meiosis?",
+      "o": [
+        "Photosynthesis",
+        "Binary fission",
+        "Transpiration",
+        "Crossing over"
+      ],
+      "a": 3,
+      "e": "Crossing over exchanges segments between homologous chromosomes.",
+      "d": "Medium",
+      "topic": "Variation",
+      "slo": "Explain or apply: variation",
+      "concept_id": "CH10-C006",
+      "question_format": "recognition"
+    },
+    {
+      "id": "BIO9CH10-023",
+      "q": "A student is reviewing evolution. Which process creates new combinations of alleles during meiosis?",
+      "o": [
+        "Crossing over",
+        "Transpiration",
+        "Photosynthesis",
+        "Binary fission"
+      ],
+      "a": 0,
+      "e": "Crossing over exchanges segments between homologous chromosomes.",
+      "d": "Medium",
+      "topic": "Variation",
+      "slo": "Explain or apply: variation",
+      "concept_id": "CH10-C006",
+      "question_format": "context"
+    },
+    {
+      "id": "BIO9CH10-024",
+      "q": "In an exam on Chapter 10, which answer is scientifically correct? Which process creates new combinations of alleles during meiosis?",
+      "o": [
+        "Photosynthesis",
+        "Binary fission",
+        "Transpiration",
+        "Crossing over"
+      ],
+      "a": 3,
+      "e": "Crossing over exchanges segments between homologous chromosomes.",
+      "d": "Hard",
+      "topic": "Variation",
+      "slo": "Explain or apply: variation",
+      "concept_id": "CH10-C006",
+      "question_format": "exam"
+    },
+    {
+      "id": "BIO9CH10-025",
+      "q": "During which process does crossing over normally occur?",
+      "o": [
+        "Mitosis of ordinary body cells",
+        "Meiosis",
+        "Pollination alone",
+        "Vegetative propagation"
+      ],
+      "a": 1,
+      "e": "Crossing over in meiosis contributes to genetic recombination.",
+      "d": "Easy",
+      "topic": "Variation",
+      "slo": "Explain or apply: variation",
+      "concept_id": "CH10-C007",
+      "question_format": "direct"
+    },
+    {
+      "id": "BIO9CH10-026",
+      "q": "Choose the most accurate answer: during which process does crossing over normally occur?",
+      "o": [
+        "Meiosis",
+        "Vegetative propagation",
+        "Mitosis of ordinary body cells",
+        "Pollination alone"
+      ],
+      "a": 0,
+      "e": "Crossing over in meiosis contributes to genetic recombination.",
+      "d": "Medium",
+      "topic": "Variation",
+      "slo": "Explain or apply: variation",
+      "concept_id": "CH10-C007",
+      "question_format": "recognition"
+    },
+    {
+      "id": "BIO9CH10-027",
+      "q": "A student is reviewing evolution. During which process does crossing over normally occur?",
+      "o": [
+        "Vegetative propagation",
+        "Meiosis",
+        "Pollination alone",
+        "Mitosis of ordinary body cells"
+      ],
+      "a": 1,
+      "e": "Crossing over in meiosis contributes to genetic recombination.",
+      "d": "Medium",
+      "topic": "Variation",
+      "slo": "Explain or apply: variation",
+      "concept_id": "CH10-C007",
+      "question_format": "context"
+    },
+    {
+      "id": "BIO9CH10-028",
+      "q": "In an exam on Chapter 10, which answer is scientifically correct? During which process does crossing over normally occur?",
+      "o": [
+        "Pollination alone",
+        "Meiosis",
+        "Vegetative propagation",
+        "Mitosis of ordinary body cells"
+      ],
+      "a": 1,
+      "e": "Crossing over in meiosis contributes to genetic recombination.",
+      "d": "Hard",
+      "topic": "Variation",
+      "slo": "Explain or apply: variation",
+      "concept_id": "CH10-C007",
+      "question_format": "exam"
+    },
+    {
+      "id": "BIO9CH10-029",
+      "q": "What does independent assortment contribute to offspring?",
+      "o": [
+        "Different combinations of chromosomes in gametes",
+        "The loss of all chromosomes",
+        "A constant number of mutations",
+        "Exactly identical gametes in every case"
+      ],
+      "a": 0,
+      "e": "Independent assortment produces chromosome combinations.",
+      "d": "Easy",
+      "topic": "Variation",
+      "slo": "Explain or apply: variation",
+      "concept_id": "CH10-C008",
+      "question_format": "direct"
+    },
+    {
+      "id": "BIO9CH10-030",
+      "q": "Choose the most accurate answer: what does independent assortment contribute to offspring?",
+      "o": [
+        "A constant number of mutations",
+        "Exactly identical gametes in every case",
+        "The loss of all chromosomes",
+        "Different combinations of chromosomes in gametes"
+      ],
+      "a": 3,
+      "e": "Independent assortment produces chromosome combinations.",
+      "d": "Medium",
+      "topic": "Variation",
+      "slo": "Explain or apply: variation",
+      "concept_id": "CH10-C008",
+      "question_format": "recognition"
+    },
+    {
+      "id": "BIO9CH10-031",
+      "q": "A student is reviewing evolution. What does independent assortment contribute to offspring?",
+      "o": [
+        "Different combinations of chromosomes in gametes",
+        "Exactly identical gametes in every case",
+        "A constant number of mutations",
+        "The loss of all chromosomes"
+      ],
+      "a": 0,
+      "e": "Independent assortment produces chromosome combinations.",
+      "d": "Medium",
+      "topic": "Variation",
+      "slo": "Explain or apply: variation",
+      "concept_id": "CH10-C008",
+      "question_format": "context"
+    },
+    {
+      "id": "BIO9CH10-032",
+      "q": "In an exam on Chapter 10, which answer is scientifically correct? What does independent assortment contribute to offspring?",
+      "o": [
+        "The loss of all chromosomes",
+        "A constant number of mutations",
+        "Exactly identical gametes in every case",
+        "Different combinations of chromosomes in gametes"
+      ],
+      "a": 3,
+      "e": "Independent assortment produces chromosome combinations.",
+      "d": "Hard",
+      "topic": "Variation",
+      "slo": "Explain or apply: variation",
+      "concept_id": "CH10-C008",
+      "question_format": "exam"
+    },
+    {
+      "id": "BIO9CH10-033",
+      "q": "How does random fertilization contribute to variation?",
+      "o": [
+        "Every sperm is genetically identical",
+        "Different sperm and egg combinations can unite",
+        "Only one sperm is produced",
+        "Fertilization prevents recombination"
+      ],
+      "a": 1,
+      "e": "Random union of gametes adds genetic combinations.",
+      "d": "Easy",
+      "topic": "Variation",
+      "slo": "Explain or apply: variation",
+      "concept_id": "CH10-C009",
+      "question_format": "direct"
+    },
+    {
+      "id": "BIO9CH10-034",
+      "q": "Choose the most accurate answer: how does random fertilization contribute to variation?",
+      "o": [
+        "Fertilization prevents recombination",
+        "Every sperm is genetically identical",
+        "Different sperm and egg combinations can unite",
+        "Only one sperm is produced"
+      ],
+      "a": 2,
+      "e": "Random union of gametes adds genetic combinations.",
+      "d": "Medium",
+      "topic": "Variation",
+      "slo": "Explain or apply: variation",
+      "concept_id": "CH10-C009",
+      "question_format": "recognition"
+    },
+    {
+      "id": "BIO9CH10-035",
+      "q": "A student is reviewing evolution. How does random fertilization contribute to variation?",
+      "o": [
+        "Only one sperm is produced",
+        "Every sperm is genetically identical",
+        "Different sperm and egg combinations can unite",
+        "Fertilization prevents recombination"
+      ],
+      "a": 2,
+      "e": "Random union of gametes adds genetic combinations.",
+      "d": "Medium",
+      "topic": "Variation",
+      "slo": "Explain or apply: variation",
+      "concept_id": "CH10-C009",
+      "question_format": "context"
+    },
+    {
+      "id": "BIO9CH10-036",
+      "q": "In an exam on Chapter 10, which answer is scientifically correct? How does random fertilization contribute to variation?",
+      "o": [
+        "Only one sperm is produced",
+        "Different sperm and egg combinations can unite",
+        "Fertilization prevents recombination",
+        "Every sperm is genetically identical"
+      ],
+      "a": 1,
+      "e": "Random union of gametes adds genetic combinations.",
+      "d": "Hard",
+      "topic": "Variation",
+      "slo": "Explain or apply: variation",
+      "concept_id": "CH10-C009",
+      "question_format": "exam"
+    },
+    {
+      "id": "BIO9CH10-037",
+      "q": "Which event can introduce a new heritable allele?",
+      "o": [
+        "Ordinary muscle contraction",
+        "Mutation in a germ cell",
+        "Evaporation",
+        "Digestion of starch"
+      ],
+      "a": 1,
+      "e": "A germline mutation can be passed to offspring.",
+      "d": "Easy",
+      "topic": "Variation",
+      "slo": "Explain or apply: variation",
+      "concept_id": "CH10-C010",
+      "question_format": "direct"
+    },
+    {
+      "id": "BIO9CH10-038",
+      "q": "Choose the most accurate answer: which event can introduce a new heritable allele?",
+      "o": [
+        "Evaporation",
+        "Mutation in a germ cell",
+        "Digestion of starch",
+        "Ordinary muscle contraction"
+      ],
+      "a": 1,
+      "e": "A germline mutation can be passed to offspring.",
+      "d": "Medium",
+      "topic": "Variation",
+      "slo": "Explain or apply: variation",
+      "concept_id": "CH10-C010",
+      "question_format": "recognition"
+    },
+    {
+      "id": "BIO9CH10-039",
+      "q": "A student is reviewing evolution. Which event can introduce a new heritable allele?",
+      "o": [
+        "Digestion of starch",
+        "Mutation in a germ cell",
+        "Ordinary muscle contraction",
+        "Evaporation"
+      ],
+      "a": 1,
+      "e": "A germline mutation can be passed to offspring.",
+      "d": "Medium",
+      "topic": "Variation",
+      "slo": "Explain or apply: variation",
+      "concept_id": "CH10-C010",
+      "question_format": "context"
+    },
+    {
+      "id": "BIO9CH10-040",
+      "q": "In an exam on Chapter 10, which answer is scientifically correct? Which event can introduce a new heritable allele?",
+      "o": [
+        "Ordinary muscle contraction",
+        "Digestion of starch",
+        "Mutation in a germ cell",
+        "Evaporation"
+      ],
+      "a": 2,
+      "e": "A germline mutation can be passed to offspring.",
+      "d": "Hard",
+      "topic": "Variation",
+      "slo": "Explain or apply: variation",
+      "concept_id": "CH10-C010",
+      "question_format": "exam"
+    },
+    {
+      "id": "BIO9CH10-041",
+      "q": "What is gene flow?",
+      "o": [
+        "Transfer of water through xylem",
+        "Formation of fossils",
+        "Breakdown of glucose",
+        "Transfer of genes between populations"
+      ],
+      "a": 3,
+      "e": "Gene flow occurs when alleles move between populations.",
+      "d": "Easy",
+      "topic": "Variation",
+      "slo": "Explain or apply: variation",
+      "concept_id": "CH10-C011",
+      "question_format": "direct"
+    },
+    {
+      "id": "BIO9CH10-042",
+      "q": "Choose the most accurate answer: what is gene flow?",
+      "o": [
+        "Formation of fossils",
+        "Transfer of water through xylem",
+        "Breakdown of glucose",
+        "Transfer of genes between populations"
+      ],
+      "a": 3,
+      "e": "Gene flow occurs when alleles move between populations.",
+      "d": "Medium",
+      "topic": "Variation",
+      "slo": "Explain or apply: variation",
+      "concept_id": "CH10-C011",
+      "question_format": "recognition"
+    },
+    {
+      "id": "BIO9CH10-043",
+      "q": "A student is reviewing evolution. What is gene flow?",
+      "o": [
+        "Breakdown of glucose",
+        "Formation of fossils",
+        "Transfer of genes between populations",
+        "Transfer of water through xylem"
+      ],
+      "a": 2,
+      "e": "Gene flow occurs when alleles move between populations.",
+      "d": "Medium",
+      "topic": "Variation",
+      "slo": "Explain or apply: variation",
+      "concept_id": "CH10-C011",
+      "question_format": "context"
+    },
+    {
+      "id": "BIO9CH10-044",
+      "q": "In an exam on Chapter 10, which answer is scientifically correct? What is gene flow?",
+      "o": [
+        "Transfer of water through xylem",
+        "Formation of fossils",
+        "Transfer of genes between populations",
+        "Breakdown of glucose"
+      ],
+      "a": 2,
+      "e": "Gene flow occurs when alleles move between populations.",
+      "d": "Hard",
+      "topic": "Variation",
+      "slo": "Explain or apply: variation",
+      "concept_id": "CH10-C011",
+      "question_format": "exam"
+    },
+    {
+      "id": "BIO9CH10-045",
+      "q": "Which situation best illustrates gene flow?",
+      "o": [
+        "Individuals migrate and breed in a new population",
+        "A rock erodes",
+        "A leaf loses water",
+        "A cell divides without genetic exchange"
+      ],
+      "a": 0,
+      "e": "Migration followed by breeding can move alleles between populations.",
+      "d": "Easy",
+      "topic": "Variation",
+      "slo": "Explain or apply: variation",
+      "concept_id": "CH10-C012",
+      "question_format": "direct"
+    },
+    {
+      "id": "BIO9CH10-046",
+      "q": "Choose the most accurate answer: which situation best illustrates gene flow?",
+      "o": [
+        "Individuals migrate and breed in a new population",
+        "A rock erodes",
+        "A leaf loses water",
+        "A cell divides without genetic exchange"
+      ],
+      "a": 0,
+      "e": "Migration followed by breeding can move alleles between populations.",
+      "d": "Medium",
+      "topic": "Variation",
+      "slo": "Explain or apply: variation",
+      "concept_id": "CH10-C012",
+      "question_format": "recognition"
+    },
+    {
+      "id": "BIO9CH10-047",
+      "q": "A student is reviewing evolution. Which situation best illustrates gene flow?",
+      "o": [
+        "A leaf loses water",
+        "Individuals migrate and breed in a new population",
+        "A rock erodes",
+        "A cell divides without genetic exchange"
+      ],
+      "a": 1,
+      "e": "Migration followed by breeding can move alleles between populations.",
+      "d": "Medium",
+      "topic": "Variation",
+      "slo": "Explain or apply: variation",
+      "concept_id": "CH10-C012",
+      "question_format": "context"
+    },
+    {
+      "id": "BIO9CH10-048",
+      "q": "In an exam on Chapter 10, which answer is scientifically correct? Which situation best illustrates gene flow?",
+      "o": [
+        "A leaf loses water",
+        "A rock erodes",
+        "Individuals migrate and breed in a new population",
+        "A cell divides without genetic exchange"
+      ],
+      "a": 2,
+      "e": "Migration followed by breeding can move alleles between populations.",
+      "d": "Hard",
+      "topic": "Variation",
+      "slo": "Explain or apply: variation",
+      "concept_id": "CH10-C012",
+      "question_format": "exam"
+    },
+    {
+      "id": "BIO9CH10-049",
+      "q": "What is biological evolution?",
+      "o": [
+        "Change in inherited characteristics of populations over generations",
+        "Growth of one individual during childhood",
+        "Daily temperature changes",
+        "The movement of an animal from place to place"
+      ],
+      "a": 0,
+      "e": "Evolution concerns inherited changes across generations.",
+      "d": "Easy",
+      "topic": "Evolution",
+      "slo": "Explain or apply: evolution",
+      "concept_id": "CH10-C013",
+      "question_format": "direct"
+    },
+    {
+      "id": "BIO9CH10-050",
+      "q": "Choose the most accurate answer: what is biological evolution?",
+      "o": [
+        "Daily temperature changes",
+        "Growth of one individual during childhood",
+        "The movement of an animal from place to place",
+        "Change in inherited characteristics of populations over generations"
+      ],
+      "a": 3,
+      "e": "Evolution concerns inherited changes across generations.",
+      "d": "Medium",
+      "topic": "Evolution",
+      "slo": "Explain or apply: evolution",
+      "concept_id": "CH10-C013",
+      "question_format": "recognition"
+    },
+    {
+      "id": "BIO9CH10-051",
+      "q": "A student is reviewing evolution. What is biological evolution?",
+      "o": [
+        "The movement of an animal from place to place",
+        "Daily temperature changes",
+        "Change in inherited characteristics of populations over generations",
+        "Growth of one individual during childhood"
+      ],
+      "a": 2,
+      "e": "Evolution concerns inherited changes across generations.",
+      "d": "Medium",
+      "topic": "Evolution",
+      "slo": "Explain or apply: evolution",
+      "concept_id": "CH10-C013",
+      "question_format": "context"
+    },
+    {
+      "id": "BIO9CH10-052",
+      "q": "In an exam on Chapter 10, which answer is scientifically correct? What is biological evolution?",
+      "o": [
+        "The movement of an animal from place to place",
+        "Change in inherited characteristics of populations over generations",
+        "Growth of one individual during childhood",
+        "Daily temperature changes"
+      ],
+      "a": 1,
+      "e": "Evolution concerns inherited changes across generations.",
+      "d": "Hard",
+      "topic": "Evolution",
+      "slo": "Explain or apply: evolution",
+      "concept_id": "CH10-C013",
+      "question_format": "exam"
+    },
+    {
+      "id": "BIO9CH10-053",
+      "q": "At what level is evolution usually measured?",
+      "o": [
+        "One individual's daily behaviour",
+        "One cell's temporary shape",
+        "One organ during a day",
+        "Population across generations"
+      ],
+      "a": 3,
+      "e": "Evolution is a population-level change in inherited traits.",
+      "d": "Easy",
+      "topic": "Evolution",
+      "slo": "Explain or apply: evolution",
+      "concept_id": "CH10-C014",
+      "question_format": "direct"
+    },
+    {
+      "id": "BIO9CH10-054",
+      "q": "Choose the most accurate answer: at what level is evolution usually measured?",
+      "o": [
+        "One individual's daily behaviour",
+        "Population across generations",
+        "One cell's temporary shape",
+        "One organ during a day"
+      ],
+      "a": 1,
+      "e": "Evolution is a population-level change in inherited traits.",
+      "d": "Medium",
+      "topic": "Evolution",
+      "slo": "Explain or apply: evolution",
+      "concept_id": "CH10-C014",
+      "question_format": "recognition"
+    },
+    {
+      "id": "BIO9CH10-055",
+      "q": "A student is reviewing evolution. At what level is evolution usually measured?",
+      "o": [
+        "One individual's daily behaviour",
+        "Population across generations",
+        "One organ during a day",
+        "One cell's temporary shape"
+      ],
+      "a": 1,
+      "e": "Evolution is a population-level change in inherited traits.",
+      "d": "Medium",
+      "topic": "Evolution",
+      "slo": "Explain or apply: evolution",
+      "concept_id": "CH10-C014",
+      "question_format": "context"
+    },
+    {
+      "id": "BIO9CH10-056",
+      "q": "In an exam on Chapter 10, which answer is scientifically correct? At what level is evolution usually measured?",
+      "o": [
+        "One individual's daily behaviour",
+        "Population across generations",
+        "One cell's temporary shape",
+        "One organ during a day"
+      ],
+      "a": 1,
+      "e": "Evolution is a population-level change in inherited traits.",
+      "d": "Hard",
+      "topic": "Evolution",
+      "slo": "Explain or apply: evolution",
+      "concept_id": "CH10-C014",
+      "question_format": "exam"
+    },
+    {
+      "id": "BIO9CH10-057",
+      "q": "Why are inherited traits important in evolution?",
+      "o": [
+        "They always disappear at birth",
+        "They can be transmitted to later generations",
+        "They cannot affect survival",
+        "They are identical in every organism"
+      ],
+      "a": 1,
+      "e": "Heritable differences allow evolutionary change over generations.",
+      "d": "Easy",
+      "topic": "Evolution",
+      "slo": "Explain or apply: evolution",
+      "concept_id": "CH10-C015",
+      "question_format": "direct"
+    },
+    {
+      "id": "BIO9CH10-058",
+      "q": "Choose the most accurate answer: why are inherited traits important in evolution?",
+      "o": [
+        "They can be transmitted to later generations",
+        "They cannot affect survival",
+        "They always disappear at birth",
+        "They are identical in every organism"
+      ],
+      "a": 0,
+      "e": "Heritable differences allow evolutionary change over generations.",
+      "d": "Medium",
+      "topic": "Evolution",
+      "slo": "Explain or apply: evolution",
+      "concept_id": "CH10-C015",
+      "question_format": "recognition"
+    },
+    {
+      "id": "BIO9CH10-059",
+      "q": "A student is reviewing evolution. Why are inherited traits important in evolution?",
+      "o": [
+        "They cannot affect survival",
+        "They can be transmitted to later generations",
+        "They are identical in every organism",
+        "They always disappear at birth"
+      ],
+      "a": 1,
+      "e": "Heritable differences allow evolutionary change over generations.",
+      "d": "Medium",
+      "topic": "Evolution",
+      "slo": "Explain or apply: evolution",
+      "concept_id": "CH10-C015",
+      "question_format": "context"
+    },
+    {
+      "id": "BIO9CH10-060",
+      "q": "In an exam on Chapter 10, which answer is scientifically correct? Why are inherited traits important in evolution?",
+      "o": [
+        "They can be transmitted to later generations",
+        "They cannot affect survival",
+        "They are identical in every organism",
+        "They always disappear at birth"
+      ],
+      "a": 0,
+      "e": "Heritable differences allow evolutionary change over generations.",
+      "d": "Hard",
+      "topic": "Evolution",
+      "slo": "Explain or apply: evolution",
+      "concept_id": "CH10-C015",
+      "question_format": "exam"
+    },
+    {
+      "id": "BIO9CH10-061",
+      "q": "What is a population in evolutionary biology?",
+      "o": [
+        "All organisms in all kingdoms",
+        "Only the predators of a region",
+        "All cells in an organism",
+        "Members of one species living in an area"
+      ],
+      "a": 3,
+      "e": "Populations are groups of individuals of the same species.",
+      "d": "Easy",
+      "topic": "Evolution",
+      "slo": "Explain or apply: evolution",
+      "concept_id": "CH10-C016",
+      "question_format": "direct"
+    },
+    {
+      "id": "BIO9CH10-062",
+      "q": "Choose the most accurate answer: what is a population in evolutionary biology?",
+      "o": [
+        "Members of one species living in an area",
+        "All cells in an organism",
+        "Only the predators of a region",
+        "All organisms in all kingdoms"
+      ],
+      "a": 0,
+      "e": "Populations are groups of individuals of the same species.",
+      "d": "Medium",
+      "topic": "Evolution",
+      "slo": "Explain or apply: evolution",
+      "concept_id": "CH10-C016",
+      "question_format": "recognition"
+    },
+    {
+      "id": "BIO9CH10-063",
+      "q": "A student is reviewing evolution. What is a population in evolutionary biology?",
+      "o": [
+        "All cells in an organism",
+        "All organisms in all kingdoms",
+        "Members of one species living in an area",
+        "Only the predators of a region"
+      ],
+      "a": 2,
+      "e": "Populations are groups of individuals of the same species.",
+      "d": "Medium",
+      "topic": "Evolution",
+      "slo": "Explain or apply: evolution",
+      "concept_id": "CH10-C016",
+      "question_format": "context"
+    },
+    {
+      "id": "BIO9CH10-064",
+      "q": "In an exam on Chapter 10, which answer is scientifically correct? What is a population in evolutionary biology?",
+      "o": [
+        "All cells in an organism",
+        "All organisms in all kingdoms",
+        "Members of one species living in an area",
+        "Only the predators of a region"
+      ],
+      "a": 2,
+      "e": "Populations are groups of individuals of the same species.",
+      "d": "Hard",
+      "topic": "Evolution",
+      "slo": "Explain or apply: evolution",
+      "concept_id": "CH10-C016",
+      "question_format": "exam"
+    },
+    {
+      "id": "BIO9CH10-065",
+      "q": "What does common ancestry suggest?",
+      "o": [
+        "All modern species are identical",
+        "Fossils are never related to living organisms",
+        "Every individual has the same parents",
+        "Different species may descend from earlier shared ancestors"
+      ],
+      "a": 3,
+      "e": "Common ancestry links related lineages through shared ancestors.",
+      "d": "Easy",
+      "topic": "Evolution",
+      "slo": "Explain or apply: evolution",
+      "concept_id": "CH10-C017",
+      "question_format": "direct"
+    },
+    {
+      "id": "BIO9CH10-066",
+      "q": "Choose the most accurate answer: what does common ancestry suggest?",
+      "o": [
+        "All modern species are identical",
+        "Fossils are never related to living organisms",
+        "Every individual has the same parents",
+        "Different species may descend from earlier shared ancestors"
+      ],
+      "a": 3,
+      "e": "Common ancestry links related lineages through shared ancestors.",
+      "d": "Medium",
+      "topic": "Evolution",
+      "slo": "Explain or apply: evolution",
+      "concept_id": "CH10-C017",
+      "question_format": "recognition"
+    },
+    {
+      "id": "BIO9CH10-067",
+      "q": "A student is reviewing evolution. What does common ancestry suggest?",
+      "o": [
+        "Fossils are never related to living organisms",
+        "All modern species are identical",
+        "Different species may descend from earlier shared ancestors",
+        "Every individual has the same parents"
+      ],
+      "a": 2,
+      "e": "Common ancestry links related lineages through shared ancestors.",
+      "d": "Medium",
+      "topic": "Evolution",
+      "slo": "Explain or apply: evolution",
+      "concept_id": "CH10-C017",
+      "question_format": "context"
+    },
+    {
+      "id": "BIO9CH10-068",
+      "q": "In an exam on Chapter 10, which answer is scientifically correct? What does common ancestry suggest?",
+      "o": [
+        "Different species may descend from earlier shared ancestors",
+        "Every individual has the same parents",
+        "Fossils are never related to living organisms",
+        "All modern species are identical"
+      ],
+      "a": 0,
+      "e": "Common ancestry links related lineages through shared ancestors.",
+      "d": "Hard",
+      "topic": "Evolution",
+      "slo": "Explain or apply: evolution",
+      "concept_id": "CH10-C017",
+      "question_format": "exam"
+    },
+    {
+      "id": "BIO9CH10-069",
+      "q": "Which statement fits the long timescale of evolution?",
+      "o": [
+        "Changes can accumulate over many generations",
+        "All evolutionary change occurs overnight",
+        "Earth has existed only for one century",
+        "Individuals change species at will"
+      ],
+      "a": 0,
+      "e": "Evolutionary patterns may develop over long periods.",
+      "d": "Easy",
+      "topic": "Evolution",
+      "slo": "Explain or apply: evolution",
+      "concept_id": "CH10-C018",
+      "question_format": "direct"
+    },
+    {
+      "id": "BIO9CH10-070",
+      "q": "Choose the most accurate answer: which statement fits the long timescale of evolution?",
+      "o": [
+        "Individuals change species at will",
+        "Earth has existed only for one century",
+        "Changes can accumulate over many generations",
+        "All evolutionary change occurs overnight"
+      ],
+      "a": 2,
+      "e": "Evolutionary patterns may develop over long periods.",
+      "d": "Medium",
+      "topic": "Evolution",
+      "slo": "Explain or apply: evolution",
+      "concept_id": "CH10-C018",
+      "question_format": "recognition"
+    },
+    {
+      "id": "BIO9CH10-071",
+      "q": "A student is reviewing evolution. Which statement fits the long timescale of evolution?",
+      "o": [
+        "Individuals change species at will",
+        "Changes can accumulate over many generations",
+        "All evolutionary change occurs overnight",
+        "Earth has existed only for one century"
+      ],
+      "a": 1,
+      "e": "Evolutionary patterns may develop over long periods.",
+      "d": "Medium",
+      "topic": "Evolution",
+      "slo": "Explain or apply: evolution",
+      "concept_id": "CH10-C018",
+      "question_format": "context"
+    },
+    {
+      "id": "BIO9CH10-072",
+      "q": "In an exam on Chapter 10, which answer is scientifically correct? Which statement fits the long timescale of evolution?",
+      "o": [
+        "All evolutionary change occurs overnight",
+        "Changes can accumulate over many generations",
+        "Individuals change species at will",
+        "Earth has existed only for one century"
+      ],
+      "a": 1,
+      "e": "Evolutionary patterns may develop over long periods.",
+      "d": "Hard",
+      "topic": "Evolution",
+      "slo": "Explain or apply: evolution",
+      "concept_id": "CH10-C018",
+      "question_format": "exam"
+    },
+    {
+      "id": "BIO9CH10-073",
+      "q": "Who is strongly associated with the theory of natural selection?",
+      "o": [
+        "Charles Darwin",
+        "Robert Hooke",
+        "Gregor Mendel alone",
+        "Louis Pasteur"
+      ],
+      "a": 0,
+      "e": "Darwin developed the theory of evolution by natural selection.",
+      "d": "Easy",
+      "topic": "Natural selection",
+      "slo": "Explain or apply: natural selection",
+      "concept_id": "CH10-C019",
+      "question_format": "direct"
+    },
+    {
+      "id": "BIO9CH10-074",
+      "q": "Choose the most accurate answer: who is strongly associated with the theory of natural selection?",
+      "o": [
+        "Robert Hooke",
+        "Charles Darwin",
+        "Gregor Mendel alone",
+        "Louis Pasteur"
+      ],
+      "a": 1,
+      "e": "Darwin developed the theory of evolution by natural selection.",
+      "d": "Medium",
+      "topic": "Natural selection",
+      "slo": "Explain or apply: natural selection",
+      "concept_id": "CH10-C019",
+      "question_format": "recognition"
+    },
+    {
+      "id": "BIO9CH10-075",
+      "q": "A student is reviewing evolution. Who is strongly associated with the theory of natural selection?",
+      "o": [
+        "Louis Pasteur",
+        "Charles Darwin",
+        "Robert Hooke",
+        "Gregor Mendel alone"
+      ],
+      "a": 1,
+      "e": "Darwin developed the theory of evolution by natural selection.",
+      "d": "Medium",
+      "topic": "Natural selection",
+      "slo": "Explain or apply: natural selection",
+      "concept_id": "CH10-C019",
+      "question_format": "context"
+    },
+    {
+      "id": "BIO9CH10-076",
+      "q": "In an exam on Chapter 10, which answer is scientifically correct? Who is strongly associated with the theory of natural selection?",
+      "o": [
+        "Gregor Mendel alone",
+        "Robert Hooke",
+        "Charles Darwin",
+        "Louis Pasteur"
+      ],
+      "a": 2,
+      "e": "Darwin developed the theory of evolution by natural selection.",
+      "d": "Hard",
+      "topic": "Natural selection",
+      "slo": "Explain or apply: natural selection",
+      "concept_id": "CH10-C019",
+      "question_format": "exam"
+    },
+    {
+      "id": "BIO9CH10-077",
+      "q": "Which observation helped Darwin develop evolutionary ideas?",
+      "o": [
+        "All fossils matched living species exactly",
+        "Differences among organisms on the Galapagos Islands",
+        "No organisms competed for food",
+        "All species were identical everywhere"
+      ],
+      "a": 1,
+      "e": "Island organisms showed differences related to their environments.",
+      "d": "Easy",
+      "topic": "Natural selection",
+      "slo": "Explain or apply: natural selection",
+      "concept_id": "CH10-C020",
+      "question_format": "direct"
+    },
+    {
+      "id": "BIO9CH10-078",
+      "q": "Choose the most accurate answer: which observation helped Darwin develop evolutionary ideas?",
+      "o": [
+        "No organisms competed for food",
+        "All species were identical everywhere",
+        "Differences among organisms on the Galapagos Islands",
+        "All fossils matched living species exactly"
+      ],
+      "a": 2,
+      "e": "Island organisms showed differences related to their environments.",
+      "d": "Medium",
+      "topic": "Natural selection",
+      "slo": "Explain or apply: natural selection",
+      "concept_id": "CH10-C020",
+      "question_format": "recognition"
+    },
+    {
+      "id": "BIO9CH10-079",
+      "q": "A student is reviewing evolution. Which observation helped Darwin develop evolutionary ideas?",
+      "o": [
+        "No organisms competed for food",
+        "Differences among organisms on the Galapagos Islands",
+        "All fossils matched living species exactly",
+        "All species were identical everywhere"
+      ],
+      "a": 1,
+      "e": "Island organisms showed differences related to their environments.",
+      "d": "Medium",
+      "topic": "Natural selection",
+      "slo": "Explain or apply: natural selection",
+      "concept_id": "CH10-C020",
+      "question_format": "context"
+    },
+    {
+      "id": "BIO9CH10-080",
+      "q": "In an exam on Chapter 10, which answer is scientifically correct? Which observation helped Darwin develop evolutionary ideas?",
+      "o": [
+        "All fossils matched living species exactly",
+        "All species were identical everywhere",
+        "No organisms competed for food",
+        "Differences among organisms on the Galapagos Islands"
+      ],
+      "a": 3,
+      "e": "Island organisms showed differences related to their environments.",
+      "d": "Hard",
+      "topic": "Natural selection",
+      "slo": "Explain or apply: natural selection",
+      "concept_id": "CH10-C020",
+      "question_format": "exam"
+    },
+    {
+      "id": "BIO9CH10-081",
+      "q": "Which birds are famous in discussions of Darwin's observations?",
+      "o": [
+        "Penguins of Antarctica only",
+        "Domestic chickens only",
+        "Galapagos finches",
+        "Ostriches only"
+      ],
+      "a": 2,
+      "e": "Finch beak differences helped illustrate adaptation to different foods.",
+      "d": "Easy",
+      "topic": "Natural selection",
+      "slo": "Explain or apply: natural selection",
+      "concept_id": "CH10-C021",
+      "question_format": "direct"
+    },
+    {
+      "id": "BIO9CH10-082",
+      "q": "Choose the most accurate answer: which birds are famous in discussions of Darwin's observations?",
+      "o": [
+        "Ostriches only",
+        "Domestic chickens only",
+        "Penguins of Antarctica only",
+        "Galapagos finches"
+      ],
+      "a": 3,
+      "e": "Finch beak differences helped illustrate adaptation to different foods.",
+      "d": "Medium",
+      "topic": "Natural selection",
+      "slo": "Explain or apply: natural selection",
+      "concept_id": "CH10-C021",
+      "question_format": "recognition"
+    },
+    {
+      "id": "BIO9CH10-083",
+      "q": "A student is reviewing evolution. Which birds are famous in discussions of Darwin's observations?",
+      "o": [
+        "Galapagos finches",
+        "Penguins of Antarctica only",
+        "Domestic chickens only",
+        "Ostriches only"
+      ],
+      "a": 0,
+      "e": "Finch beak differences helped illustrate adaptation to different foods.",
+      "d": "Medium",
+      "topic": "Natural selection",
+      "slo": "Explain or apply: natural selection",
+      "concept_id": "CH10-C021",
+      "question_format": "context"
+    },
+    {
+      "id": "BIO9CH10-084",
+      "q": "In an exam on Chapter 10, which answer is scientifically correct? Which birds are famous in discussions of Darwin's observations?",
+      "o": [
+        "Galapagos finches",
+        "Domestic chickens only",
+        "Ostriches only",
+        "Penguins of Antarctica only"
+      ],
+      "a": 0,
+      "e": "Finch beak differences helped illustrate adaptation to different foods.",
+      "d": "Hard",
+      "topic": "Natural selection",
+      "slo": "Explain or apply: natural selection",
+      "concept_id": "CH10-C021",
+      "question_format": "exam"
+    },
+    {
+      "id": "BIO9CH10-085",
+      "q": "What is natural selection?",
+      "o": [
+        "Every organism survives equally",
+        "A change in one individual's wishes",
+        "Humans choose all traits in wild species",
+        "Individuals with favourable inherited traits tend to leave more offspring"
+      ],
+      "a": 3,
+      "e": "Natural selection changes the frequencies of heritable traits through differential reproduction.",
+      "d": "Easy",
+      "topic": "Natural selection",
+      "slo": "Explain or apply: natural selection",
+      "concept_id": "CH10-C022",
+      "question_format": "direct"
+    },
+    {
+      "id": "BIO9CH10-086",
+      "q": "Choose the most accurate answer: what is natural selection?",
+      "o": [
+        "Every organism survives equally",
+        "Individuals with favourable inherited traits tend to leave more offspring",
+        "A change in one individual's wishes",
+        "Humans choose all traits in wild species"
+      ],
+      "a": 1,
+      "e": "Natural selection changes the frequencies of heritable traits through differential reproduction.",
+      "d": "Medium",
+      "topic": "Natural selection",
+      "slo": "Explain or apply: natural selection",
+      "concept_id": "CH10-C022",
+      "question_format": "recognition"
+    },
+    {
+      "id": "BIO9CH10-087",
+      "q": "A student is reviewing evolution. What is natural selection?",
+      "o": [
+        "Every organism survives equally",
+        "A change in one individual's wishes",
+        "Humans choose all traits in wild species",
+        "Individuals with favourable inherited traits tend to leave more offspring"
+      ],
+      "a": 3,
+      "e": "Natural selection changes the frequencies of heritable traits through differential reproduction.",
+      "d": "Medium",
+      "topic": "Natural selection",
+      "slo": "Explain or apply: natural selection",
+      "concept_id": "CH10-C022",
+      "question_format": "context"
+    },
+    {
+      "id": "BIO9CH10-088",
+      "q": "In an exam on Chapter 10, which answer is scientifically correct? What is natural selection?",
+      "o": [
+        "A change in one individual's wishes",
+        "Every organism survives equally",
+        "Individuals with favourable inherited traits tend to leave more offspring",
+        "Humans choose all traits in wild species"
+      ],
+      "a": 2,
+      "e": "Natural selection changes the frequencies of heritable traits through differential reproduction.",
+      "d": "Hard",
+      "topic": "Natural selection",
+      "slo": "Explain or apply: natural selection",
+      "concept_id": "CH10-C022",
+      "question_format": "exam"
+    },
+    {
+      "id": "BIO9CH10-089",
+      "q": "Which condition is necessary for natural selection?",
+      "o": [
+        "Absence of reproduction",
+        "Complete genetic identity",
+        "Heritable variation among individuals",
+        "No environmental challenges"
+      ],
+      "a": 2,
+      "e": "Selection acts on heritable differences among individuals.",
+      "d": "Easy",
+      "topic": "Natural selection",
+      "slo": "Explain or apply: natural selection",
+      "concept_id": "CH10-C023",
+      "question_format": "direct"
+    },
+    {
+      "id": "BIO9CH10-090",
+      "q": "Choose the most accurate answer: which condition is necessary for natural selection?",
+      "o": [
+        "Absence of reproduction",
+        "Heritable variation among individuals",
+        "Complete genetic identity",
+        "No environmental challenges"
+      ],
+      "a": 1,
+      "e": "Selection acts on heritable differences among individuals.",
+      "d": "Medium",
+      "topic": "Natural selection",
+      "slo": "Explain or apply: natural selection",
+      "concept_id": "CH10-C023",
+      "question_format": "recognition"
+    },
+    {
+      "id": "BIO9CH10-091",
+      "q": "A student is reviewing evolution. Which condition is necessary for natural selection?",
+      "o": [
+        "Absence of reproduction",
+        "Heritable variation among individuals",
+        "Complete genetic identity",
+        "No environmental challenges"
+      ],
+      "a": 1,
+      "e": "Selection acts on heritable differences among individuals.",
+      "d": "Medium",
+      "topic": "Natural selection",
+      "slo": "Explain or apply: natural selection",
+      "concept_id": "CH10-C023",
+      "question_format": "context"
+    },
+    {
+      "id": "BIO9CH10-092",
+      "q": "In an exam on Chapter 10, which answer is scientifically correct? Which condition is necessary for natural selection?",
+      "o": [
+        "Complete genetic identity",
+        "Absence of reproduction",
+        "No environmental challenges",
+        "Heritable variation among individuals"
+      ],
+      "a": 3,
+      "e": "Selection acts on heritable differences among individuals.",
+      "d": "Hard",
+      "topic": "Natural selection",
+      "slo": "Explain or apply: natural selection",
+      "concept_id": "CH10-C023",
+      "question_format": "exam"
+    },
+    {
+      "id": "BIO9CH10-093",
+      "q": "What is differential reproductive success?",
+      "o": [
+        "All offspring die before reproducing",
+        "Every individual has exactly two offspring",
+        "Individuals reproduce without variation",
+        "Some individuals leave more surviving offspring than others"
+      ],
+      "a": 3,
+      "e": "Differences in offspring contribution are central to natural selection.",
+      "d": "Easy",
+      "topic": "Natural selection",
+      "slo": "Explain or apply: natural selection",
+      "concept_id": "CH10-C024",
+      "question_format": "direct"
+    },
+    {
+      "id": "BIO9CH10-094",
+      "q": "Choose the most accurate answer: what is differential reproductive success?",
+      "o": [
+        "All offspring die before reproducing",
+        "Every individual has exactly two offspring",
+        "Some individuals leave more surviving offspring than others",
+        "Individuals reproduce without variation"
+      ],
+      "a": 2,
+      "e": "Differences in offspring contribution are central to natural selection.",
+      "d": "Medium",
+      "topic": "Natural selection",
+      "slo": "Explain or apply: natural selection",
+      "concept_id": "CH10-C024",
+      "question_format": "recognition"
+    },
+    {
+      "id": "BIO9CH10-095",
+      "q": "A student is reviewing evolution. What is differential reproductive success?",
+      "o": [
+        "Every individual has exactly two offspring",
+        "Individuals reproduce without variation",
+        "All offspring die before reproducing",
+        "Some individuals leave more surviving offspring than others"
+      ],
+      "a": 3,
+      "e": "Differences in offspring contribution are central to natural selection.",
+      "d": "Medium",
+      "topic": "Natural selection",
+      "slo": "Explain or apply: natural selection",
+      "concept_id": "CH10-C024",
+      "question_format": "context"
+    },
+    {
+      "id": "BIO9CH10-096",
+      "q": "In an exam on Chapter 10, which answer is scientifically correct? What is differential reproductive success?",
+      "o": [
+        "Some individuals leave more surviving offspring than others",
+        "All offspring die before reproducing",
+        "Every individual has exactly two offspring",
+        "Individuals reproduce without variation"
+      ],
+      "a": 0,
+      "e": "Differences in offspring contribution are central to natural selection.",
+      "d": "Hard",
+      "topic": "Natural selection",
+      "slo": "Explain or apply: natural selection",
+      "concept_id": "CH10-C024",
+      "question_format": "exam"
+    },
+    {
+      "id": "BIO9CH10-097",
+      "q": "What does adaptation mean in evolutionary biology?",
+      "o": [
+        "A temporary wish to change",
+        "An inherited feature that improves fitness in an environment",
+        "Any injury to an organism",
+        "The age of a fossil"
+      ],
+      "a": 1,
+      "e": "Adaptations are inherited characteristics favoured in particular conditions.",
+      "d": "Easy",
+      "topic": "Natural selection",
+      "slo": "Explain or apply: natural selection",
+      "concept_id": "CH10-C025",
+      "question_format": "direct"
+    },
+    {
+      "id": "BIO9CH10-098",
+      "q": "Choose the most accurate answer: what does adaptation mean in evolutionary biology?",
+      "o": [
+        "An inherited feature that improves fitness in an environment",
+        "The age of a fossil",
+        "Any injury to an organism",
+        "A temporary wish to change"
+      ],
+      "a": 0,
+      "e": "Adaptations are inherited characteristics favoured in particular conditions.",
+      "d": "Medium",
+      "topic": "Natural selection",
+      "slo": "Explain or apply: natural selection",
+      "concept_id": "CH10-C025",
+      "question_format": "recognition"
+    },
+    {
+      "id": "BIO9CH10-099",
+      "q": "A student is reviewing evolution. What does adaptation mean in evolutionary biology?",
+      "o": [
+        "An inherited feature that improves fitness in an environment",
+        "The age of a fossil",
+        "Any injury to an organism",
+        "A temporary wish to change"
+      ],
+      "a": 0,
+      "e": "Adaptations are inherited characteristics favoured in particular conditions.",
+      "d": "Medium",
+      "topic": "Natural selection",
+      "slo": "Explain or apply: natural selection",
+      "concept_id": "CH10-C025",
+      "question_format": "context"
+    },
+    {
+      "id": "BIO9CH10-100",
+      "q": "In an exam on Chapter 10, which answer is scientifically correct? What does adaptation mean in evolutionary biology?",
+      "o": [
+        "An inherited feature that improves fitness in an environment",
+        "The age of a fossil",
+        "Any injury to an organism",
+        "A temporary wish to change"
+      ],
+      "a": 0,
+      "e": "Adaptations are inherited characteristics favoured in particular conditions.",
+      "d": "Hard",
+      "topic": "Natural selection",
+      "slo": "Explain or apply: natural selection",
+      "concept_id": "CH10-C025",
+      "question_format": "exam"
+    },
+    {
+      "id": "BIO9CH10-101",
+      "q": "Why can camouflage be favoured by natural selection?",
+      "o": [
+        "It prevents reproduction",
+        "It guarantees unlimited food",
+        "It stops all mutation",
+        "It may help prey avoid detection"
+      ],
+      "a": 3,
+      "e": "Camouflage can improve survival and thus reproductive success.",
+      "d": "Easy",
+      "topic": "Natural selection",
+      "slo": "Explain or apply: natural selection",
+      "concept_id": "CH10-C026",
+      "question_format": "direct"
+    },
+    {
+      "id": "BIO9CH10-102",
+      "q": "Choose the most accurate answer: why can camouflage be favoured by natural selection?",
+      "o": [
+        "It stops all mutation",
+        "It guarantees unlimited food",
+        "It may help prey avoid detection",
+        "It prevents reproduction"
+      ],
+      "a": 2,
+      "e": "Camouflage can improve survival and thus reproductive success.",
+      "d": "Medium",
+      "topic": "Natural selection",
+      "slo": "Explain or apply: natural selection",
+      "concept_id": "CH10-C026",
+      "question_format": "recognition"
+    },
+    {
+      "id": "BIO9CH10-103",
+      "q": "A student is reviewing evolution. Why can camouflage be favoured by natural selection?",
+      "o": [
+        "It guarantees unlimited food",
+        "It prevents reproduction",
+        "It stops all mutation",
+        "It may help prey avoid detection"
+      ],
+      "a": 3,
+      "e": "Camouflage can improve survival and thus reproductive success.",
+      "d": "Medium",
+      "topic": "Natural selection",
+      "slo": "Explain or apply: natural selection",
+      "concept_id": "CH10-C026",
+      "question_format": "context"
+    },
+    {
+      "id": "BIO9CH10-104",
+      "q": "In an exam on Chapter 10, which answer is scientifically correct? Why can camouflage be favoured by natural selection?",
+      "o": [
+        "It may help prey avoid detection",
+        "It prevents reproduction",
+        "It stops all mutation",
+        "It guarantees unlimited food"
+      ],
+      "a": 0,
+      "e": "Camouflage can improve survival and thus reproductive success.",
+      "d": "Hard",
+      "topic": "Natural selection",
+      "slo": "Explain or apply: natural selection",
+      "concept_id": "CH10-C026",
+      "question_format": "exam"
+    },
+    {
+      "id": "BIO9CH10-105",
+      "q": "What happens when an environment changes?",
+      "o": [
+        "Natural selection has no effect",
+        "Traits that were advantageous may become less useful",
+        "Mutation stops forever",
+        "All organisms instantly become identical"
+      ],
+      "a": 1,
+      "e": "Fitness depends on environmental conditions.",
+      "d": "Easy",
+      "topic": "Natural selection",
+      "slo": "Explain or apply: natural selection",
+      "concept_id": "CH10-C027",
+      "question_format": "direct"
+    },
+    {
+      "id": "BIO9CH10-106",
+      "q": "Choose the most accurate answer: what happens when an environment changes?",
+      "o": [
+        "Traits that were advantageous may become less useful",
+        "Mutation stops forever",
+        "All organisms instantly become identical",
+        "Natural selection has no effect"
+      ],
+      "a": 0,
+      "e": "Fitness depends on environmental conditions.",
+      "d": "Medium",
+      "topic": "Natural selection",
+      "slo": "Explain or apply: natural selection",
+      "concept_id": "CH10-C027",
+      "question_format": "recognition"
+    },
+    {
+      "id": "BIO9CH10-107",
+      "q": "A student is reviewing evolution. What happens when an environment changes?",
+      "o": [
+        "Natural selection has no effect",
+        "All organisms instantly become identical",
+        "Mutation stops forever",
+        "Traits that were advantageous may become less useful"
+      ],
+      "a": 3,
+      "e": "Fitness depends on environmental conditions.",
+      "d": "Medium",
+      "topic": "Natural selection",
+      "slo": "Explain or apply: natural selection",
+      "concept_id": "CH10-C027",
+      "question_format": "context"
+    },
+    {
+      "id": "BIO9CH10-108",
+      "q": "In an exam on Chapter 10, which answer is scientifically correct? What happens when an environment changes?",
+      "o": [
+        "Traits that were advantageous may become less useful",
+        "Mutation stops forever",
+        "Natural selection has no effect",
+        "All organisms instantly become identical"
+      ],
+      "a": 0,
+      "e": "Fitness depends on environmental conditions.",
+      "d": "Hard",
+      "topic": "Natural selection",
+      "slo": "Explain or apply: natural selection",
+      "concept_id": "CH10-C027",
+      "question_format": "exam"
+    },
+    {
+      "id": "BIO9CH10-109",
+      "q": "What is competition in natural selection?",
+      "o": [
+        "A kind of fossil",
+        "Organisms seeking limited resources",
+        "All organisms cooperating without limits",
+        "An identical DNA sequence"
+      ],
+      "a": 1,
+      "e": "Limited resources can influence survival and reproduction.",
+      "d": "Easy",
+      "topic": "Natural selection",
+      "slo": "Explain or apply: natural selection",
+      "concept_id": "CH10-C028",
+      "question_format": "direct"
+    },
+    {
+      "id": "BIO9CH10-110",
+      "q": "Choose the most accurate answer: what is competition in natural selection?",
+      "o": [
+        "A kind of fossil",
+        "All organisms cooperating without limits",
+        "An identical DNA sequence",
+        "Organisms seeking limited resources"
+      ],
+      "a": 3,
+      "e": "Limited resources can influence survival and reproduction.",
+      "d": "Medium",
+      "topic": "Natural selection",
+      "slo": "Explain or apply: natural selection",
+      "concept_id": "CH10-C028",
+      "question_format": "recognition"
+    },
+    {
+      "id": "BIO9CH10-111",
+      "q": "A student is reviewing evolution. What is competition in natural selection?",
+      "o": [
+        "An identical DNA sequence",
+        "All organisms cooperating without limits",
+        "Organisms seeking limited resources",
+        "A kind of fossil"
+      ],
+      "a": 2,
+      "e": "Limited resources can influence survival and reproduction.",
+      "d": "Medium",
+      "topic": "Natural selection",
+      "slo": "Explain or apply: natural selection",
+      "concept_id": "CH10-C028",
+      "question_format": "context"
+    },
+    {
+      "id": "BIO9CH10-112",
+      "q": "In an exam on Chapter 10, which answer is scientifically correct? What is competition in natural selection?",
+      "o": [
+        "All organisms cooperating without limits",
+        "An identical DNA sequence",
+        "Organisms seeking limited resources",
+        "A kind of fossil"
+      ],
+      "a": 2,
+      "e": "Limited resources can influence survival and reproduction.",
+      "d": "Hard",
+      "topic": "Natural selection",
+      "slo": "Explain or apply: natural selection",
+      "concept_id": "CH10-C028",
+      "question_format": "exam"
+    },
+    {
+      "id": "BIO9CH10-113",
+      "q": "Which resource can be limited in a population?",
+      "o": [
+        "The number of planets",
+        "Food",
+        "The laws of chemistry",
+        "The existence of gravity"
+      ],
+      "a": 1,
+      "e": "Limited food can create competition.",
+      "d": "Easy",
+      "topic": "Natural selection",
+      "slo": "Explain or apply: natural selection",
+      "concept_id": "CH10-C029",
+      "question_format": "direct"
+    },
+    {
+      "id": "BIO9CH10-114",
+      "q": "Choose the most accurate answer: which resource can be limited in a population?",
+      "o": [
+        "The existence of gravity",
+        "Food",
+        "The number of planets",
+        "The laws of chemistry"
+      ],
+      "a": 1,
+      "e": "Limited food can create competition.",
+      "d": "Medium",
+      "topic": "Natural selection",
+      "slo": "Explain or apply: natural selection",
+      "concept_id": "CH10-C029",
+      "question_format": "recognition"
+    },
+    {
+      "id": "BIO9CH10-115",
+      "q": "A student is reviewing evolution. Which resource can be limited in a population?",
+      "o": [
+        "The number of planets",
+        "The existence of gravity",
+        "Food",
+        "The laws of chemistry"
+      ],
+      "a": 2,
+      "e": "Limited food can create competition.",
+      "d": "Medium",
+      "topic": "Natural selection",
+      "slo": "Explain or apply: natural selection",
+      "concept_id": "CH10-C029",
+      "question_format": "context"
+    },
+    {
+      "id": "BIO9CH10-116",
+      "q": "In an exam on Chapter 10, which answer is scientifically correct? Which resource can be limited in a population?",
+      "o": [
+        "The number of planets",
+        "The existence of gravity",
+        "The laws of chemistry",
+        "Food"
+      ],
+      "a": 3,
+      "e": "Limited food can create competition.",
+      "d": "Hard",
+      "topic": "Natural selection",
+      "slo": "Explain or apply: natural selection",
+      "concept_id": "CH10-C029",
+      "question_format": "exam"
+    },
+    {
+      "id": "BIO9CH10-117",
+      "q": "Why do more offspring not always mean more adults?",
+      "o": [
+        "All offspring necessarily mature",
+        "Many offspring fail to survive and reproduce",
+        "Natural selection prevents births",
+        "Organisms never compete"
+      ],
+      "a": 1,
+      "e": "Not all offspring survive to reproductive age.",
+      "d": "Easy",
+      "topic": "Natural selection",
+      "slo": "Explain or apply: natural selection",
+      "concept_id": "CH10-C030",
+      "question_format": "direct"
+    },
+    {
+      "id": "BIO9CH10-118",
+      "q": "Choose the most accurate answer: why do more offspring not always mean more adults?",
+      "o": [
+        "Many offspring fail to survive and reproduce",
+        "Organisms never compete",
+        "Natural selection prevents births",
+        "All offspring necessarily mature"
+      ],
+      "a": 0,
+      "e": "Not all offspring survive to reproductive age.",
+      "d": "Medium",
+      "topic": "Natural selection",
+      "slo": "Explain or apply: natural selection",
+      "concept_id": "CH10-C030",
+      "question_format": "recognition"
+    },
+    {
+      "id": "BIO9CH10-119",
+      "q": "A student is reviewing evolution. Why do more offspring not always mean more adults?",
+      "o": [
+        "Natural selection prevents births",
+        "Many offspring fail to survive and reproduce",
+        "Organisms never compete",
+        "All offspring necessarily mature"
+      ],
+      "a": 1,
+      "e": "Not all offspring survive to reproductive age.",
+      "d": "Medium",
+      "topic": "Natural selection",
+      "slo": "Explain or apply: natural selection",
+      "concept_id": "CH10-C030",
+      "question_format": "context"
+    },
+    {
+      "id": "BIO9CH10-120",
+      "q": "In an exam on Chapter 10, which answer is scientifically correct? Why do more offspring not always mean more adults?",
+      "o": [
+        "Many offspring fail to survive and reproduce",
+        "Organisms never compete",
+        "All offspring necessarily mature",
+        "Natural selection prevents births"
+      ],
+      "a": 0,
+      "e": "Not all offspring survive to reproductive age.",
+      "d": "Hard",
+      "topic": "Natural selection",
+      "slo": "Explain or apply: natural selection",
+      "concept_id": "CH10-C030",
+      "question_format": "exam"
+    },
+    {
+      "id": "BIO9CH10-121",
+      "q": "Can an individual evolve genetically during its lifetime?",
+      "o": [
+        "Yes, without reproduction or inheritance",
+        "Yes, merely exercising changes inherited alleles in offspring",
+        "Yes, every wish changes its genes",
+        "No, evolutionary change concerns populations across generations"
+      ],
+      "a": 3,
+      "e": "Individuals can acclimatize, but population evolution requires heritable change over generations.",
+      "d": "Easy",
+      "topic": "Natural selection",
+      "slo": "Explain or apply: natural selection",
+      "concept_id": "CH10-C031",
+      "question_format": "direct"
+    },
+    {
+      "id": "BIO9CH10-122",
+      "q": "Choose the most accurate answer: can an individual evolve genetically during its lifetime?",
+      "o": [
+        "Yes, every wish changes its genes",
+        "Yes, without reproduction or inheritance",
+        "Yes, merely exercising changes inherited alleles in offspring",
+        "No, evolutionary change concerns populations across generations"
+      ],
+      "a": 3,
+      "e": "Individuals can acclimatize, but population evolution requires heritable change over generations.",
+      "d": "Medium",
+      "topic": "Natural selection",
+      "slo": "Explain or apply: natural selection",
+      "concept_id": "CH10-C031",
+      "question_format": "recognition"
+    },
+    {
+      "id": "BIO9CH10-123",
+      "q": "A student is reviewing evolution. Can an individual evolve genetically during its lifetime?",
+      "o": [
+        "Yes, without reproduction or inheritance",
+        "No, evolutionary change concerns populations across generations",
+        "Yes, every wish changes its genes",
+        "Yes, merely exercising changes inherited alleles in offspring"
+      ],
+      "a": 1,
+      "e": "Individuals can acclimatize, but population evolution requires heritable change over generations.",
+      "d": "Medium",
+      "topic": "Natural selection",
+      "slo": "Explain or apply: natural selection",
+      "concept_id": "CH10-C031",
+      "question_format": "context"
+    },
+    {
+      "id": "BIO9CH10-124",
+      "q": "In an exam on Chapter 10, which answer is scientifically correct? Can an individual evolve genetically during its lifetime?",
+      "o": [
+        "Yes, merely exercising changes inherited alleles in offspring",
+        "Yes, without reproduction or inheritance",
+        "No, evolutionary change concerns populations across generations",
+        "Yes, every wish changes its genes"
+      ],
+      "a": 2,
+      "e": "Individuals can acclimatize, but population evolution requires heritable change over generations.",
+      "d": "Hard",
+      "topic": "Natural selection",
+      "slo": "Explain or apply: natural selection",
+      "concept_id": "CH10-C031",
+      "question_format": "exam"
+    },
+    {
+      "id": "BIO9CH10-125",
+      "q": "What is fitness in evolutionary biology?",
+      "o": [
+        "Relative reproductive success",
+        "The age of an individual",
+        "Muscle strength alone",
+        "Body mass only"
+      ],
+      "a": 0,
+      "e": "Evolutionary fitness relates to successful reproduction.",
+      "d": "Easy",
+      "topic": "Natural selection",
+      "slo": "Explain or apply: natural selection",
+      "concept_id": "CH10-C032",
+      "question_format": "direct"
+    },
+    {
+      "id": "BIO9CH10-126",
+      "q": "Choose the most accurate answer: what is fitness in evolutionary biology?",
+      "o": [
+        "Muscle strength alone",
+        "The age of an individual",
+        "Body mass only",
+        "Relative reproductive success"
+      ],
+      "a": 3,
+      "e": "Evolutionary fitness relates to successful reproduction.",
+      "d": "Medium",
+      "topic": "Natural selection",
+      "slo": "Explain or apply: natural selection",
+      "concept_id": "CH10-C032",
+      "question_format": "recognition"
+    },
+    {
+      "id": "BIO9CH10-127",
+      "q": "A student is reviewing evolution. What is fitness in evolutionary biology?",
+      "o": [
+        "Relative reproductive success",
+        "Muscle strength alone",
+        "The age of an individual",
+        "Body mass only"
+      ],
+      "a": 0,
+      "e": "Evolutionary fitness relates to successful reproduction.",
+      "d": "Medium",
+      "topic": "Natural selection",
+      "slo": "Explain or apply: natural selection",
+      "concept_id": "CH10-C032",
+      "question_format": "context"
+    },
+    {
+      "id": "BIO9CH10-128",
+      "q": "In an exam on Chapter 10, which answer is scientifically correct? What is fitness in evolutionary biology?",
+      "o": [
+        "Muscle strength alone",
+        "The age of an individual",
+        "Relative reproductive success",
+        "Body mass only"
+      ],
+      "a": 2,
+      "e": "Evolutionary fitness relates to successful reproduction.",
+      "d": "Hard",
+      "topic": "Natural selection",
+      "slo": "Explain or apply: natural selection",
+      "concept_id": "CH10-C032",
+      "question_format": "exam"
+    },
+    {
+      "id": "BIO9CH10-129",
+      "q": "What best explains the spread of a beneficial inherited trait?",
+      "o": [
+        "It always spreads instantly",
+        "It cannot be inherited",
+        "Its carriers tend to leave more descendants",
+        "It appears because every organism needs it"
+      ],
+      "a": 2,
+      "e": "Traits that improve reproductive success can increase in frequency.",
+      "d": "Easy",
+      "topic": "Natural selection",
+      "slo": "Explain or apply: natural selection",
+      "concept_id": "CH10-C033",
+      "question_format": "direct"
+    },
+    {
+      "id": "BIO9CH10-130",
+      "q": "Choose the most accurate answer: what best explains the spread of a beneficial inherited trait?",
+      "o": [
+        "It cannot be inherited",
+        "It always spreads instantly",
+        "Its carriers tend to leave more descendants",
+        "It appears because every organism needs it"
+      ],
+      "a": 2,
+      "e": "Traits that improve reproductive success can increase in frequency.",
+      "d": "Medium",
+      "topic": "Natural selection",
+      "slo": "Explain or apply: natural selection",
+      "concept_id": "CH10-C033",
+      "question_format": "recognition"
+    },
+    {
+      "id": "BIO9CH10-131",
+      "q": "A student is reviewing evolution. What best explains the spread of a beneficial inherited trait?",
+      "o": [
+        "It always spreads instantly",
+        "Its carriers tend to leave more descendants",
+        "It appears because every organism needs it",
+        "It cannot be inherited"
+      ],
+      "a": 1,
+      "e": "Traits that improve reproductive success can increase in frequency.",
+      "d": "Medium",
+      "topic": "Natural selection",
+      "slo": "Explain or apply: natural selection",
+      "concept_id": "CH10-C033",
+      "question_format": "context"
+    },
+    {
+      "id": "BIO9CH10-132",
+      "q": "In an exam on Chapter 10, which answer is scientifically correct? What best explains the spread of a beneficial inherited trait?",
+      "o": [
+        "It cannot be inherited",
+        "It always spreads instantly",
+        "Its carriers tend to leave more descendants",
+        "It appears because every organism needs it"
+      ],
+      "a": 2,
+      "e": "Traits that improve reproductive success can increase in frequency.",
+      "d": "Hard",
+      "topic": "Natural selection",
+      "slo": "Explain or apply: natural selection",
+      "concept_id": "CH10-C033",
+      "question_format": "exam"
+    },
+    {
+      "id": "BIO9CH10-133",
+      "q": "What are fossils?",
+      "o": [
+        "Weather records",
+        "Newly formed gametes",
+        "Preserved remains or traces of ancient organisms",
+        "Modern living cells only"
+      ],
+      "a": 2,
+      "e": "Fossils preserve evidence of past life.",
+      "d": "Easy",
+      "topic": "Evidence",
+      "slo": "Explain or apply: evidence",
+      "concept_id": "CH10-C034",
+      "question_format": "direct"
+    },
+    {
+      "id": "BIO9CH10-134",
+      "q": "Choose the most accurate answer: what are fossils?",
+      "o": [
+        "Newly formed gametes",
+        "Weather records",
+        "Modern living cells only",
+        "Preserved remains or traces of ancient organisms"
+      ],
+      "a": 3,
+      "e": "Fossils preserve evidence of past life.",
+      "d": "Medium",
+      "topic": "Evidence",
+      "slo": "Explain or apply: evidence",
+      "concept_id": "CH10-C034",
+      "question_format": "recognition"
+    },
+    {
+      "id": "BIO9CH10-135",
+      "q": "A student is reviewing evolution. What are fossils?",
+      "o": [
+        "Newly formed gametes",
+        "Preserved remains or traces of ancient organisms",
+        "Modern living cells only",
+        "Weather records"
+      ],
+      "a": 1,
+      "e": "Fossils preserve evidence of past life.",
+      "d": "Medium",
+      "topic": "Evidence",
+      "slo": "Explain or apply: evidence",
+      "concept_id": "CH10-C034",
+      "question_format": "context"
+    },
+    {
+      "id": "BIO9CH10-136",
+      "q": "In an exam on Chapter 10, which answer is scientifically correct? What are fossils?",
+      "o": [
+        "Newly formed gametes",
+        "Weather records",
+        "Modern living cells only",
+        "Preserved remains or traces of ancient organisms"
+      ],
+      "a": 3,
+      "e": "Fossils preserve evidence of past life.",
+      "d": "Hard",
+      "topic": "Evidence",
+      "slo": "Explain or apply: evidence",
+      "concept_id": "CH10-C034",
+      "question_format": "exam"
+    },
+    {
+      "id": "BIO9CH10-137",
+      "q": "Which material commonly preserves fossils?",
+      "o": [
+        "Living muscle tissue",
+        "Freshly distilled water",
+        "Air alone",
+        "Sedimentary rock"
+      ],
+      "a": 3,
+      "e": "Sediments can bury and preserve remains or traces.",
+      "d": "Easy",
+      "topic": "Evidence",
+      "slo": "Explain or apply: evidence",
+      "concept_id": "CH10-C035",
+      "question_format": "direct"
+    },
+    {
+      "id": "BIO9CH10-138",
+      "q": "Choose the most accurate answer: which material commonly preserves fossils?",
+      "o": [
+        "Air alone",
+        "Sedimentary rock",
+        "Living muscle tissue",
+        "Freshly distilled water"
+      ],
+      "a": 1,
+      "e": "Sediments can bury and preserve remains or traces.",
+      "d": "Medium",
+      "topic": "Evidence",
+      "slo": "Explain or apply: evidence",
+      "concept_id": "CH10-C035",
+      "question_format": "recognition"
+    },
+    {
+      "id": "BIO9CH10-139",
+      "q": "A student is reviewing evolution. Which material commonly preserves fossils?",
+      "o": [
+        "Living muscle tissue",
+        "Freshly distilled water",
+        "Sedimentary rock",
+        "Air alone"
+      ],
+      "a": 2,
+      "e": "Sediments can bury and preserve remains or traces.",
+      "d": "Medium",
+      "topic": "Evidence",
+      "slo": "Explain or apply: evidence",
+      "concept_id": "CH10-C035",
+      "question_format": "context"
+    },
+    {
+      "id": "BIO9CH10-140",
+      "q": "In an exam on Chapter 10, which answer is scientifically correct? Which material commonly preserves fossils?",
+      "o": [
+        "Sedimentary rock",
+        "Living muscle tissue",
+        "Freshly distilled water",
+        "Air alone"
+      ],
+      "a": 0,
+      "e": "Sediments can bury and preserve remains or traces.",
+      "d": "Hard",
+      "topic": "Evidence",
+      "slo": "Explain or apply: evidence",
+      "concept_id": "CH10-C035",
+      "question_format": "exam"
+    },
+    {
+      "id": "BIO9CH10-141",
+      "q": "Why are fossils important to evolution?",
+      "o": [
+        "They replace all other evidence",
+        "They show only modern organisms",
+        "They document organisms that lived in the past",
+        "They prove every species is unchanged"
+      ],
+      "a": 2,
+      "e": "Fossils provide a historical record of life.",
+      "d": "Easy",
+      "topic": "Evidence",
+      "slo": "Explain or apply: evidence",
+      "concept_id": "CH10-C036",
+      "question_format": "direct"
+    },
+    {
+      "id": "BIO9CH10-142",
+      "q": "Choose the most accurate answer: why are fossils important to evolution?",
+      "o": [
+        "They prove every species is unchanged",
+        "They replace all other evidence",
+        "They show only modern organisms",
+        "They document organisms that lived in the past"
+      ],
+      "a": 3,
+      "e": "Fossils provide a historical record of life.",
+      "d": "Medium",
+      "topic": "Evidence",
+      "slo": "Explain or apply: evidence",
+      "concept_id": "CH10-C036",
+      "question_format": "recognition"
+    },
+    {
+      "id": "BIO9CH10-143",
+      "q": "A student is reviewing evolution. Why are fossils important to evolution?",
+      "o": [
+        "They show only modern organisms",
+        "They prove every species is unchanged",
+        "They document organisms that lived in the past",
+        "They replace all other evidence"
+      ],
+      "a": 2,
+      "e": "Fossils provide a historical record of life.",
+      "d": "Medium",
+      "topic": "Evidence",
+      "slo": "Explain or apply: evidence",
+      "concept_id": "CH10-C036",
+      "question_format": "context"
+    },
+    {
+      "id": "BIO9CH10-144",
+      "q": "In an exam on Chapter 10, which answer is scientifically correct? Why are fossils important to evolution?",
+      "o": [
+        "They replace all other evidence",
+        "They prove every species is unchanged",
+        "They document organisms that lived in the past",
+        "They show only modern organisms"
+      ],
+      "a": 2,
+      "e": "Fossils provide a historical record of life.",
+      "d": "Hard",
+      "topic": "Evidence",
+      "slo": "Explain or apply: evidence",
+      "concept_id": "CH10-C036",
+      "question_format": "exam"
+    },
+    {
+      "id": "BIO9CH10-145",
+      "q": "What does a sequence of fossils in rock layers help show?",
+      "o": [
+        "Changes in life forms through time",
+        "That species cannot become extinct",
+        "That all fossils are the same age",
+        "That rocks never form layers"
+      ],
+      "a": 0,
+      "e": "Fossil succession helps reconstruct changes over geological time.",
+      "d": "Easy",
+      "topic": "Evidence",
+      "slo": "Explain or apply: evidence",
+      "concept_id": "CH10-C037",
+      "question_format": "direct"
+    },
+    {
+      "id": "BIO9CH10-146",
+      "q": "Choose the most accurate answer: what does a sequence of fossils in rock layers help show?",
+      "o": [
+        "That rocks never form layers",
+        "Changes in life forms through time",
+        "That species cannot become extinct",
+        "That all fossils are the same age"
+      ],
+      "a": 1,
+      "e": "Fossil succession helps reconstruct changes over geological time.",
+      "d": "Medium",
+      "topic": "Evidence",
+      "slo": "Explain or apply: evidence",
+      "concept_id": "CH10-C037",
+      "question_format": "recognition"
+    },
+    {
+      "id": "BIO9CH10-147",
+      "q": "A student is reviewing evolution. What does a sequence of fossils in rock layers help show?",
+      "o": [
+        "Changes in life forms through time",
+        "That rocks never form layers",
+        "That all fossils are the same age",
+        "That species cannot become extinct"
+      ],
+      "a": 0,
+      "e": "Fossil succession helps reconstruct changes over geological time.",
+      "d": "Medium",
+      "topic": "Evidence",
+      "slo": "Explain or apply: evidence",
+      "concept_id": "CH10-C037",
+      "question_format": "context"
+    },
+    {
+      "id": "BIO9CH10-148",
+      "q": "In an exam on Chapter 10, which answer is scientifically correct? What does a sequence of fossils in rock layers help show?",
+      "o": [
+        "Changes in life forms through time",
+        "That all fossils are the same age",
+        "That rocks never form layers",
+        "That species cannot become extinct"
+      ],
+      "a": 0,
+      "e": "Fossil succession helps reconstruct changes over geological time.",
+      "d": "Hard",
+      "topic": "Evidence",
+      "slo": "Explain or apply: evidence",
+      "concept_id": "CH10-C037",
+      "question_format": "exam"
+    },
+    {
+      "id": "BIO9CH10-149",
+      "q": "What does a transitional fossil show?",
+      "o": [
+        "A fossil made in a laboratory only",
+        "An organism with no traits",
+        "A rock with no biological trace",
+        "A combination of features linking evolutionary groups"
+      ],
+      "a": 3,
+      "e": "Transitional forms provide evidence of evolutionary relationships.",
+      "d": "Easy",
+      "topic": "Evidence",
+      "slo": "Explain or apply: evidence",
+      "concept_id": "CH10-C038",
+      "question_format": "direct"
+    },
+    {
+      "id": "BIO9CH10-150",
+      "q": "Choose the most accurate answer: what does a transitional fossil show?",
+      "o": [
+        "A fossil made in a laboratory only",
+        "A combination of features linking evolutionary groups",
+        "A rock with no biological trace",
+        "An organism with no traits"
+      ],
+      "a": 1,
+      "e": "Transitional forms provide evidence of evolutionary relationships.",
+      "d": "Medium",
+      "topic": "Evidence",
+      "slo": "Explain or apply: evidence",
+      "concept_id": "CH10-C038",
+      "question_format": "recognition"
+    },
+    {
+      "id": "BIO9CH10-151",
+      "q": "A student is reviewing evolution. What does a transitional fossil show?",
+      "o": [
+        "A combination of features linking evolutionary groups",
+        "A rock with no biological trace",
+        "A fossil made in a laboratory only",
+        "An organism with no traits"
+      ],
+      "a": 0,
+      "e": "Transitional forms provide evidence of evolutionary relationships.",
+      "d": "Medium",
+      "topic": "Evidence",
+      "slo": "Explain or apply: evidence",
+      "concept_id": "CH10-C038",
+      "question_format": "context"
+    },
+    {
+      "id": "BIO9CH10-152",
+      "q": "In an exam on Chapter 10, which answer is scientifically correct? What does a transitional fossil show?",
+      "o": [
+        "A fossil made in a laboratory only",
+        "A combination of features linking evolutionary groups",
+        "A rock with no biological trace",
+        "An organism with no traits"
+      ],
+      "a": 1,
+      "e": "Transitional forms provide evidence of evolutionary relationships.",
+      "d": "Hard",
+      "topic": "Evidence",
+      "slo": "Explain or apply: evidence",
+      "concept_id": "CH10-C038",
+      "question_format": "exam"
+    },
+    {
+      "id": "BIO9CH10-153",
+      "q": "Which animal is commonly used to illustrate changes in a fossil lineage?",
+      "o": [
+        "Modern goldfish only",
+        "Horse",
+        "Modern earthworm only",
+        "Domestic cat only"
+      ],
+      "a": 1,
+      "e": "Horse fossil sequences are often used to illustrate evolutionary change.",
+      "d": "Easy",
+      "topic": "Evidence",
+      "slo": "Explain or apply: evidence",
+      "concept_id": "CH10-C039",
+      "question_format": "direct"
+    },
+    {
+      "id": "BIO9CH10-154",
+      "q": "Choose the most accurate answer: which animal is commonly used to illustrate changes in a fossil lineage?",
+      "o": [
+        "Modern goldfish only",
+        "Domestic cat only",
+        "Modern earthworm only",
+        "Horse"
+      ],
+      "a": 3,
+      "e": "Horse fossil sequences are often used to illustrate evolutionary change.",
+      "d": "Medium",
+      "topic": "Evidence",
+      "slo": "Explain or apply: evidence",
+      "concept_id": "CH10-C039",
+      "question_format": "recognition"
+    },
+    {
+      "id": "BIO9CH10-155",
+      "q": "A student is reviewing evolution. Which animal is commonly used to illustrate changes in a fossil lineage?",
+      "o": [
+        "Modern earthworm only",
+        "Domestic cat only",
+        "Modern goldfish only",
+        "Horse"
+      ],
+      "a": 3,
+      "e": "Horse fossil sequences are often used to illustrate evolutionary change.",
+      "d": "Medium",
+      "topic": "Evidence",
+      "slo": "Explain or apply: evidence",
+      "concept_id": "CH10-C039",
+      "question_format": "context"
+    },
+    {
+      "id": "BIO9CH10-156",
+      "q": "In an exam on Chapter 10, which answer is scientifically correct? Which animal is commonly used to illustrate changes in a fossil lineage?",
+      "o": [
+        "Domestic cat only",
+        "Modern goldfish only",
+        "Modern earthworm only",
+        "Horse"
+      ],
+      "a": 3,
+      "e": "Horse fossil sequences are often used to illustrate evolutionary change.",
+      "d": "Hard",
+      "topic": "Evidence",
+      "slo": "Explain or apply: evidence",
+      "concept_id": "CH10-C039",
+      "question_format": "exam"
+    },
+    {
+      "id": "BIO9CH10-157",
+      "q": "What is comparative anatomy?",
+      "o": [
+        "Study of rainfall patterns",
+        "Study of planetary motion",
+        "Study of similarities and differences in organism structures",
+        "Study of food calories only"
+      ],
+      "a": 2,
+      "e": "Comparative anatomy compares body structures among organisms.",
+      "d": "Easy",
+      "topic": "Evidence",
+      "slo": "Explain or apply: evidence",
+      "concept_id": "CH10-C040",
+      "question_format": "direct"
+    },
+    {
+      "id": "BIO9CH10-158",
+      "q": "Choose the most accurate answer: what is comparative anatomy?",
+      "o": [
+        "Study of planetary motion",
+        "Study of similarities and differences in organism structures",
+        "Study of food calories only",
+        "Study of rainfall patterns"
+      ],
+      "a": 1,
+      "e": "Comparative anatomy compares body structures among organisms.",
+      "d": "Medium",
+      "topic": "Evidence",
+      "slo": "Explain or apply: evidence",
+      "concept_id": "CH10-C040",
+      "question_format": "recognition"
+    },
+    {
+      "id": "BIO9CH10-159",
+      "q": "A student is reviewing evolution. What is comparative anatomy?",
+      "o": [
+        "Study of food calories only",
+        "Study of planetary motion",
+        "Study of similarities and differences in organism structures",
+        "Study of rainfall patterns"
+      ],
+      "a": 2,
+      "e": "Comparative anatomy compares body structures among organisms.",
+      "d": "Medium",
+      "topic": "Evidence",
+      "slo": "Explain or apply: evidence",
+      "concept_id": "CH10-C040",
+      "question_format": "context"
+    },
+    {
+      "id": "BIO9CH10-160",
+      "q": "In an exam on Chapter 10, which answer is scientifically correct? What is comparative anatomy?",
+      "o": [
+        "Study of food calories only",
+        "Study of rainfall patterns",
+        "Study of planetary motion",
+        "Study of similarities and differences in organism structures"
+      ],
+      "a": 3,
+      "e": "Comparative anatomy compares body structures among organisms.",
+      "d": "Hard",
+      "topic": "Evidence",
+      "slo": "Explain or apply: evidence",
+      "concept_id": "CH10-C040",
+      "question_format": "exam"
+    },
+    {
+      "id": "BIO9CH10-161",
+      "q": "What are homologous structures?",
+      "o": [
+        "Structures found only in plants",
+        "Structures with a common evolutionary origin, possibly different functions",
+        "Structures identical only in colour",
+        "Structures with no ancestral relationship"
+      ],
+      "a": 1,
+      "e": "Homologous structures share an underlying inherited structural plan.",
+      "d": "Easy",
+      "topic": "Evidence",
+      "slo": "Explain or apply: evidence",
+      "concept_id": "CH10-C041",
+      "question_format": "direct"
+    },
+    {
+      "id": "BIO9CH10-162",
+      "q": "Choose the most accurate answer: what are homologous structures?",
+      "o": [
+        "Structures with a common evolutionary origin, possibly different functions",
+        "Structures identical only in colour",
+        "Structures with no ancestral relationship",
+        "Structures found only in plants"
+      ],
+      "a": 0,
+      "e": "Homologous structures share an underlying inherited structural plan.",
+      "d": "Medium",
+      "topic": "Evidence",
+      "slo": "Explain or apply: evidence",
+      "concept_id": "CH10-C041",
+      "question_format": "recognition"
+    },
+    {
+      "id": "BIO9CH10-163",
+      "q": "A student is reviewing evolution. What are homologous structures?",
+      "o": [
+        "Structures with no ancestral relationship",
+        "Structures found only in plants",
+        "Structures identical only in colour",
+        "Structures with a common evolutionary origin, possibly different functions"
+      ],
+      "a": 3,
+      "e": "Homologous structures share an underlying inherited structural plan.",
+      "d": "Medium",
+      "topic": "Evidence",
+      "slo": "Explain or apply: evidence",
+      "concept_id": "CH10-C041",
+      "question_format": "context"
+    },
+    {
+      "id": "BIO9CH10-164",
+      "q": "In an exam on Chapter 10, which answer is scientifically correct? What are homologous structures?",
+      "o": [
+        "Structures found only in plants",
+        "Structures with a common evolutionary origin, possibly different functions",
+        "Structures with no ancestral relationship",
+        "Structures identical only in colour"
+      ],
+      "a": 1,
+      "e": "Homologous structures share an underlying inherited structural plan.",
+      "d": "Hard",
+      "topic": "Evidence",
+      "slo": "Explain or apply: evidence",
+      "concept_id": "CH10-C041",
+      "question_format": "exam"
+    },
+    {
+      "id": "BIO9CH10-165",
+      "q": "Which example shows homologous structures?",
+      "o": [
+        "A leaf and a rock",
+        "A bird wing and insect wing solely because both fly",
+        "Forelimbs of a human and a whale",
+        "A fin and a bicycle wheel"
+      ],
+      "a": 2,
+      "e": "Vertebrate forelimbs share a common skeletal pattern.",
+      "d": "Easy",
+      "topic": "Evidence",
+      "slo": "Explain or apply: evidence",
+      "concept_id": "CH10-C042",
+      "question_format": "direct"
+    },
+    {
+      "id": "BIO9CH10-166",
+      "q": "Choose the most accurate answer: which example shows homologous structures?",
+      "o": [
+        "A bird wing and insect wing solely because both fly",
+        "Forelimbs of a human and a whale",
+        "A fin and a bicycle wheel",
+        "A leaf and a rock"
+      ],
+      "a": 1,
+      "e": "Vertebrate forelimbs share a common skeletal pattern.",
+      "d": "Medium",
+      "topic": "Evidence",
+      "slo": "Explain or apply: evidence",
+      "concept_id": "CH10-C042",
+      "question_format": "recognition"
+    },
+    {
+      "id": "BIO9CH10-167",
+      "q": "A student is reviewing evolution. Which example shows homologous structures?",
+      "o": [
+        "A fin and a bicycle wheel",
+        "Forelimbs of a human and a whale",
+        "A leaf and a rock",
+        "A bird wing and insect wing solely because both fly"
+      ],
+      "a": 1,
+      "e": "Vertebrate forelimbs share a common skeletal pattern.",
+      "d": "Medium",
+      "topic": "Evidence",
+      "slo": "Explain or apply: evidence",
+      "concept_id": "CH10-C042",
+      "question_format": "context"
+    },
+    {
+      "id": "BIO9CH10-168",
+      "q": "In an exam on Chapter 10, which answer is scientifically correct? Which example shows homologous structures?",
+      "o": [
+        "A fin and a bicycle wheel",
+        "A bird wing and insect wing solely because both fly",
+        "A leaf and a rock",
+        "Forelimbs of a human and a whale"
+      ],
+      "a": 3,
+      "e": "Vertebrate forelimbs share a common skeletal pattern.",
+      "d": "Hard",
+      "topic": "Evidence",
+      "slo": "Explain or apply: evidence",
+      "concept_id": "CH10-C042",
+      "question_format": "exam"
+    },
+    {
+      "id": "BIO9CH10-169",
+      "q": "Why do homologous limbs support common ancestry?",
+      "o": [
+        "They have exactly the same external size",
+        "They lack any bones",
+        "They perform exactly the same function",
+        "They retain a similar underlying bone arrangement"
+      ],
+      "a": 3,
+      "e": "Shared structural patterns suggest inheritance from a common ancestor.",
+      "d": "Easy",
+      "topic": "Evidence",
+      "slo": "Explain or apply: evidence",
+      "concept_id": "CH10-C043",
+      "question_format": "direct"
+    },
+    {
+      "id": "BIO9CH10-170",
+      "q": "Choose the most accurate answer: why do homologous limbs support common ancestry?",
+      "o": [
+        "They retain a similar underlying bone arrangement",
+        "They have exactly the same external size",
+        "They lack any bones",
+        "They perform exactly the same function"
+      ],
+      "a": 0,
+      "e": "Shared structural patterns suggest inheritance from a common ancestor.",
+      "d": "Medium",
+      "topic": "Evidence",
+      "slo": "Explain or apply: evidence",
+      "concept_id": "CH10-C043",
+      "question_format": "recognition"
+    },
+    {
+      "id": "BIO9CH10-171",
+      "q": "A student is reviewing evolution. Why do homologous limbs support common ancestry?",
+      "o": [
+        "They have exactly the same external size",
+        "They perform exactly the same function",
+        "They retain a similar underlying bone arrangement",
+        "They lack any bones"
+      ],
+      "a": 2,
+      "e": "Shared structural patterns suggest inheritance from a common ancestor.",
+      "d": "Medium",
+      "topic": "Evidence",
+      "slo": "Explain or apply: evidence",
+      "concept_id": "CH10-C043",
+      "question_format": "context"
+    },
+    {
+      "id": "BIO9CH10-172",
+      "q": "In an exam on Chapter 10, which answer is scientifically correct? Why do homologous limbs support common ancestry?",
+      "o": [
+        "They retain a similar underlying bone arrangement",
+        "They lack any bones",
+        "They have exactly the same external size",
+        "They perform exactly the same function"
+      ],
+      "a": 0,
+      "e": "Shared structural patterns suggest inheritance from a common ancestor.",
+      "d": "Hard",
+      "topic": "Evidence",
+      "slo": "Explain or apply: evidence",
+      "concept_id": "CH10-C043",
+      "question_format": "exam"
+    },
+    {
+      "id": "BIO9CH10-173",
+      "q": "Which animals appear in the textbook comparison of homologous forelimbs?",
+      "o": [
+        "Only four breeds of cat",
+        "Human, dog, bird and whale",
+        "Fish, coral, mushroom and fern",
+        "Earthworm, snail, spider and fly"
+      ],
+      "a": 1,
+      "e": "The textbook illustrates homologous forelimbs of human, dog, bird and whale.",
+      "d": "Easy",
+      "topic": "Evidence",
+      "slo": "Explain or apply: evidence",
+      "concept_id": "CH10-C044",
+      "question_format": "direct"
+    },
+    {
+      "id": "BIO9CH10-174",
+      "q": "Choose the most accurate answer: which animals appear in the textbook comparison of homologous forelimbs?",
+      "o": [
+        "Fish, coral, mushroom and fern",
+        "Earthworm, snail, spider and fly",
+        "Only four breeds of cat",
+        "Human, dog, bird and whale"
+      ],
+      "a": 3,
+      "e": "The textbook illustrates homologous forelimbs of human, dog, bird and whale.",
+      "d": "Medium",
+      "topic": "Evidence",
+      "slo": "Explain or apply: evidence",
+      "concept_id": "CH10-C044",
+      "question_format": "recognition"
+    },
+    {
+      "id": "BIO9CH10-175",
+      "q": "A student is reviewing evolution. Which animals appear in the textbook comparison of homologous forelimbs?",
+      "o": [
+        "Earthworm, snail, spider and fly",
+        "Only four breeds of cat",
+        "Fish, coral, mushroom and fern",
+        "Human, dog, bird and whale"
+      ],
+      "a": 3,
+      "e": "The textbook illustrates homologous forelimbs of human, dog, bird and whale.",
+      "d": "Medium",
+      "topic": "Evidence",
+      "slo": "Explain or apply: evidence",
+      "concept_id": "CH10-C044",
+      "question_format": "context"
+    },
+    {
+      "id": "BIO9CH10-176",
+      "q": "In an exam on Chapter 10, which answer is scientifically correct? Which animals appear in the textbook comparison of homologous forelimbs?",
+      "o": [
+        "Earthworm, snail, spider and fly",
+        "Human, dog, bird and whale",
+        "Fish, coral, mushroom and fern",
+        "Only four breeds of cat"
+      ],
+      "a": 1,
+      "e": "The textbook illustrates homologous forelimbs of human, dog, bird and whale.",
+      "d": "Hard",
+      "topic": "Evidence",
+      "slo": "Explain or apply: evidence",
+      "concept_id": "CH10-C044",
+      "question_format": "exam"
+    },
+    {
+      "id": "BIO9CH10-177",
+      "q": "What are vestigial structures?",
+      "o": [
+        "New organs created by artificial selection",
+        "Organs with no evolutionary history",
+        "Organs that always work at maximum capacity",
+        "Reduced structures inherited from ancestors with greater function"
+      ],
+      "a": 3,
+      "e": "Vestigial structures retain evidence of ancestral forms.",
+      "d": "Easy",
+      "topic": "Evidence",
+      "slo": "Explain or apply: evidence",
+      "concept_id": "CH10-C045",
+      "question_format": "direct"
+    },
+    {
+      "id": "BIO9CH10-178",
+      "q": "Choose the most accurate answer: what are vestigial structures?",
+      "o": [
+        "Organs with no evolutionary history",
+        "Reduced structures inherited from ancestors with greater function",
+        "New organs created by artificial selection",
+        "Organs that always work at maximum capacity"
+      ],
+      "a": 1,
+      "e": "Vestigial structures retain evidence of ancestral forms.",
+      "d": "Medium",
+      "topic": "Evidence",
+      "slo": "Explain or apply: evidence",
+      "concept_id": "CH10-C045",
+      "question_format": "recognition"
+    },
+    {
+      "id": "BIO9CH10-179",
+      "q": "A student is reviewing evolution. What are vestigial structures?",
+      "o": [
+        "Organs that always work at maximum capacity",
+        "Organs with no evolutionary history",
+        "Reduced structures inherited from ancestors with greater function",
+        "New organs created by artificial selection"
+      ],
+      "a": 2,
+      "e": "Vestigial structures retain evidence of ancestral forms.",
+      "d": "Medium",
+      "topic": "Evidence",
+      "slo": "Explain or apply: evidence",
+      "concept_id": "CH10-C045",
+      "question_format": "context"
+    },
+    {
+      "id": "BIO9CH10-180",
+      "q": "In an exam on Chapter 10, which answer is scientifically correct? What are vestigial structures?",
+      "o": [
+        "Reduced structures inherited from ancestors with greater function",
+        "New organs created by artificial selection",
+        "Organs that always work at maximum capacity",
+        "Organs with no evolutionary history"
+      ],
+      "a": 0,
+      "e": "Vestigial structures retain evidence of ancestral forms.",
+      "d": "Hard",
+      "topic": "Evidence",
+      "slo": "Explain or apply: evidence",
+      "concept_id": "CH10-C045",
+      "question_format": "exam"
+    },
+    {
+      "id": "BIO9CH10-181",
+      "q": "Which human structure is listed as vestigial in the textbook?",
+      "o": [
+        "Liver",
+        "Brain",
+        "Appendix",
+        "Heart"
+      ],
+      "a": 2,
+      "e": "The textbook cites the human appendix as an example of a vestigial structure.",
+      "d": "Easy",
+      "topic": "Evidence",
+      "slo": "Explain or apply: evidence",
+      "concept_id": "CH10-C046",
+      "question_format": "direct"
+    },
+    {
+      "id": "BIO9CH10-182",
+      "q": "Choose the most accurate answer: which human structure is listed as vestigial in the textbook?",
+      "o": [
+        "Brain",
+        "Heart",
+        "Appendix",
+        "Liver"
+      ],
+      "a": 2,
+      "e": "The textbook cites the human appendix as an example of a vestigial structure.",
+      "d": "Medium",
+      "topic": "Evidence",
+      "slo": "Explain or apply: evidence",
+      "concept_id": "CH10-C046",
+      "question_format": "recognition"
+    },
+    {
+      "id": "BIO9CH10-183",
+      "q": "A student is reviewing evolution. Which human structure is listed as vestigial in the textbook?",
+      "o": [
+        "Brain",
+        "Appendix",
+        "Liver",
+        "Heart"
+      ],
+      "a": 1,
+      "e": "The textbook cites the human appendix as an example of a vestigial structure.",
+      "d": "Medium",
+      "topic": "Evidence",
+      "slo": "Explain or apply: evidence",
+      "concept_id": "CH10-C046",
+      "question_format": "context"
+    },
+    {
+      "id": "BIO9CH10-184",
+      "q": "In an exam on Chapter 10, which answer is scientifically correct? Which human structure is listed as vestigial in the textbook?",
+      "o": [
+        "Heart",
+        "Brain",
+        "Appendix",
+        "Liver"
+      ],
+      "a": 2,
+      "e": "The textbook cites the human appendix as an example of a vestigial structure.",
+      "d": "Hard",
+      "topic": "Evidence",
+      "slo": "Explain or apply: evidence",
+      "concept_id": "CH10-C046",
+      "question_format": "exam"
+    },
+    {
+      "id": "BIO9CH10-185",
+      "q": "Which feature is a textbook example of vestigiality in flightless birds?",
+      "o": [
+        "Reduced wings",
+        "Living cells",
+        "A functional heart",
+        "A complete digestive system"
+      ],
+      "a": 0,
+      "e": "The textbook identifies wings of flightless birds as vestigial examples.",
+      "d": "Easy",
+      "topic": "Evidence",
+      "slo": "Explain or apply: evidence",
+      "concept_id": "CH10-C047",
+      "question_format": "direct"
+    },
+    {
+      "id": "BIO9CH10-186",
+      "q": "Choose the most accurate answer: which feature is a textbook example of vestigiality in flightless birds?",
+      "o": [
+        "A complete digestive system",
+        "A functional heart",
+        "Living cells",
+        "Reduced wings"
+      ],
+      "a": 3,
+      "e": "The textbook identifies wings of flightless birds as vestigial examples.",
+      "d": "Medium",
+      "topic": "Evidence",
+      "slo": "Explain or apply: evidence",
+      "concept_id": "CH10-C047",
+      "question_format": "recognition"
+    },
+    {
+      "id": "BIO9CH10-187",
+      "q": "A student is reviewing evolution. Which feature is a textbook example of vestigiality in flightless birds?",
+      "o": [
+        "A complete digestive system",
+        "Living cells",
+        "A functional heart",
+        "Reduced wings"
+      ],
+      "a": 3,
+      "e": "The textbook identifies wings of flightless birds as vestigial examples.",
+      "d": "Medium",
+      "topic": "Evidence",
+      "slo": "Explain or apply: evidence",
+      "concept_id": "CH10-C047",
+      "question_format": "context"
+    },
+    {
+      "id": "BIO9CH10-188",
+      "q": "In an exam on Chapter 10, which answer is scientifically correct? Which feature is a textbook example of vestigiality in flightless birds?",
+      "o": [
+        "A complete digestive system",
+        "Living cells",
+        "A functional heart",
+        "Reduced wings"
+      ],
+      "a": 3,
+      "e": "The textbook identifies wings of flightless birds as vestigial examples.",
+      "d": "Hard",
+      "topic": "Evidence",
+      "slo": "Explain or apply: evidence",
+      "concept_id": "CH10-C047",
+      "question_format": "exam"
+    },
+    {
+      "id": "BIO9CH10-189",
+      "q": "Which plant feature is cited as vestigial in some cacti?",
+      "o": [
+        "Seeds in every plant",
+        "Leaves",
+        "Roots in every plant",
+        "Chlorophyll in every plant"
+      ],
+      "a": 1,
+      "e": "Some cacti have greatly reduced leaves.",
+      "d": "Easy",
+      "topic": "Evidence",
+      "slo": "Explain or apply: evidence",
+      "concept_id": "CH10-C048",
+      "question_format": "direct"
+    },
+    {
+      "id": "BIO9CH10-190",
+      "q": "Choose the most accurate answer: which plant feature is cited as vestigial in some cacti?",
+      "o": [
+        "Chlorophyll in every plant",
+        "Seeds in every plant",
+        "Leaves",
+        "Roots in every plant"
+      ],
+      "a": 2,
+      "e": "Some cacti have greatly reduced leaves.",
+      "d": "Medium",
+      "topic": "Evidence",
+      "slo": "Explain or apply: evidence",
+      "concept_id": "CH10-C048",
+      "question_format": "recognition"
+    },
+    {
+      "id": "BIO9CH10-191",
+      "q": "A student is reviewing evolution. Which plant feature is cited as vestigial in some cacti?",
+      "o": [
+        "Leaves",
+        "Seeds in every plant",
+        "Roots in every plant",
+        "Chlorophyll in every plant"
+      ],
+      "a": 0,
+      "e": "Some cacti have greatly reduced leaves.",
+      "d": "Medium",
+      "topic": "Evidence",
+      "slo": "Explain or apply: evidence",
+      "concept_id": "CH10-C048",
+      "question_format": "context"
+    },
+    {
+      "id": "BIO9CH10-192",
+      "q": "In an exam on Chapter 10, which answer is scientifically correct? Which plant feature is cited as vestigial in some cacti?",
+      "o": [
+        "Chlorophyll in every plant",
+        "Roots in every plant",
+        "Leaves",
+        "Seeds in every plant"
+      ],
+      "a": 2,
+      "e": "Some cacti have greatly reduced leaves.",
+      "d": "Hard",
+      "topic": "Evidence",
+      "slo": "Explain or apply: evidence",
+      "concept_id": "CH10-C048",
+      "question_format": "exam"
+    },
+    {
+      "id": "BIO9CH10-193",
+      "q": "What does shared anatomy between species most directly support?",
+      "o": [
+        "That all species live in the same habitat",
+        "That every species has identical genes",
+        "The absence of genetic inheritance",
+        "Evolutionary relationship and common ancestry"
+      ],
+      "a": 3,
+      "e": "Shared anatomical plans can indicate related ancestry.",
+      "d": "Easy",
+      "topic": "Evidence",
+      "slo": "Explain or apply: evidence",
+      "concept_id": "CH10-C049",
+      "question_format": "direct"
+    },
+    {
+      "id": "BIO9CH10-194",
+      "q": "Choose the most accurate answer: what does shared anatomy between species most directly support?",
+      "o": [
+        "That all species live in the same habitat",
+        "The absence of genetic inheritance",
+        "Evolutionary relationship and common ancestry",
+        "That every species has identical genes"
+      ],
+      "a": 2,
+      "e": "Shared anatomical plans can indicate related ancestry.",
+      "d": "Medium",
+      "topic": "Evidence",
+      "slo": "Explain or apply: evidence",
+      "concept_id": "CH10-C049",
+      "question_format": "recognition"
+    },
+    {
+      "id": "BIO9CH10-195",
+      "q": "A student is reviewing evolution. What does shared anatomy between species most directly support?",
+      "o": [
+        "Evolutionary relationship and common ancestry",
+        "The absence of genetic inheritance",
+        "That every species has identical genes",
+        "That all species live in the same habitat"
+      ],
+      "a": 0,
+      "e": "Shared anatomical plans can indicate related ancestry.",
+      "d": "Medium",
+      "topic": "Evidence",
+      "slo": "Explain or apply: evidence",
+      "concept_id": "CH10-C049",
+      "question_format": "context"
+    },
+    {
+      "id": "BIO9CH10-196",
+      "q": "In an exam on Chapter 10, which answer is scientifically correct? What does shared anatomy between species most directly support?",
+      "o": [
+        "That all species live in the same habitat",
+        "Evolutionary relationship and common ancestry",
+        "The absence of genetic inheritance",
+        "That every species has identical genes"
+      ],
+      "a": 1,
+      "e": "Shared anatomical plans can indicate related ancestry.",
+      "d": "Hard",
+      "topic": "Evidence",
+      "slo": "Explain or apply: evidence",
+      "concept_id": "CH10-C049",
+      "question_format": "exam"
+    },
+    {
+      "id": "BIO9CH10-197",
+      "q": "What is artificial selection?",
+      "o": [
+        "Random weather changes",
+        "Fossil formation",
+        "Humans choosing organisms with desired inherited traits for breeding",
+        "Natural predators selecting prey"
+      ],
+      "a": 2,
+      "e": "Artificial selection is human-directed selection for preferred characteristics.",
+      "d": "Easy",
+      "topic": "Selection breeding",
+      "slo": "Explain or apply: selection breeding",
+      "concept_id": "CH10-C050",
+      "question_format": "direct"
+    },
+    {
+      "id": "BIO9CH10-198",
+      "q": "Choose the most accurate answer: what is artificial selection?",
+      "o": [
+        "Natural predators selecting prey",
+        "Humans choosing organisms with desired inherited traits for breeding",
+        "Fossil formation",
+        "Random weather changes"
+      ],
+      "a": 1,
+      "e": "Artificial selection is human-directed selection for preferred characteristics.",
+      "d": "Medium",
+      "topic": "Selection breeding",
+      "slo": "Explain or apply: selection breeding",
+      "concept_id": "CH10-C050",
+      "question_format": "recognition"
+    },
+    {
+      "id": "BIO9CH10-199",
+      "q": "A student is reviewing evolution. What is artificial selection?",
+      "o": [
+        "Humans choosing organisms with desired inherited traits for breeding",
+        "Natural predators selecting prey",
+        "Random weather changes",
+        "Fossil formation"
+      ],
+      "a": 0,
+      "e": "Artificial selection is human-directed selection for preferred characteristics.",
+      "d": "Medium",
+      "topic": "Selection breeding",
+      "slo": "Explain or apply: selection breeding",
+      "concept_id": "CH10-C050",
+      "question_format": "context"
+    },
+    {
+      "id": "BIO9CH10-200",
+      "q": "In an exam on Chapter 10, which answer is scientifically correct? What is artificial selection?",
+      "o": [
+        "Fossil formation",
+        "Humans choosing organisms with desired inherited traits for breeding",
+        "Random weather changes",
+        "Natural predators selecting prey"
+      ],
+      "a": 1,
+      "e": "Artificial selection is human-directed selection for preferred characteristics.",
+      "d": "Hard",
+      "topic": "Selection breeding",
+      "slo": "Explain or apply: selection breeding",
+      "concept_id": "CH10-C050",
+      "question_format": "exam"
+    },
+    {
+      "id": "BIO9CH10-201",
+      "q": "What is another term for artificial selection?",
+      "o": [
+        "Gene flow",
+        "Fossilization",
+        "Independent assortment",
+        "Selective breeding"
+      ],
+      "a": 3,
+      "e": "Selective breeding means choosing parents with desired traits.",
+      "d": "Easy",
+      "topic": "Selection breeding",
+      "slo": "Explain or apply: selection breeding",
+      "concept_id": "CH10-C051",
+      "question_format": "direct"
+    },
+    {
+      "id": "BIO9CH10-202",
+      "q": "Choose the most accurate answer: what is another term for artificial selection?",
+      "o": [
+        "Selective breeding",
+        "Independent assortment",
+        "Fossilization",
+        "Gene flow"
+      ],
+      "a": 0,
+      "e": "Selective breeding means choosing parents with desired traits.",
+      "d": "Medium",
+      "topic": "Selection breeding",
+      "slo": "Explain or apply: selection breeding",
+      "concept_id": "CH10-C051",
+      "question_format": "recognition"
+    },
+    {
+      "id": "BIO9CH10-203",
+      "q": "A student is reviewing evolution. What is another term for artificial selection?",
+      "o": [
+        "Gene flow",
+        "Independent assortment",
+        "Fossilization",
+        "Selective breeding"
+      ],
+      "a": 3,
+      "e": "Selective breeding means choosing parents with desired traits.",
+      "d": "Medium",
+      "topic": "Selection breeding",
+      "slo": "Explain or apply: selection breeding",
+      "concept_id": "CH10-C051",
+      "question_format": "context"
+    },
+    {
+      "id": "BIO9CH10-204",
+      "q": "In an exam on Chapter 10, which answer is scientifically correct? What is another term for artificial selection?",
+      "o": [
+        "Independent assortment",
+        "Selective breeding",
+        "Gene flow",
+        "Fossilization"
+      ],
+      "a": 1,
+      "e": "Selective breeding means choosing parents with desired traits.",
+      "d": "Hard",
+      "topic": "Selection breeding",
+      "slo": "Explain or apply: selection breeding",
+      "concept_id": "CH10-C051",
+      "question_format": "exam"
+    },
+    {
+      "id": "BIO9CH10-205",
+      "q": "Who decides which traits are favoured in artificial selection?",
+      "o": [
+        "Only geological forces",
+        "Breeders or farmers",
+        "Only natural predators",
+        "Only fossils"
+      ],
+      "a": 1,
+      "e": "People deliberately choose breeding parents.",
+      "d": "Easy",
+      "topic": "Selection breeding",
+      "slo": "Explain or apply: selection breeding",
+      "concept_id": "CH10-C052",
+      "question_format": "direct"
+    },
+    {
+      "id": "BIO9CH10-206",
+      "q": "Choose the most accurate answer: who decides which traits are favoured in artificial selection?",
+      "o": [
+        "Only geological forces",
+        "Breeders or farmers",
+        "Only fossils",
+        "Only natural predators"
+      ],
+      "a": 1,
+      "e": "People deliberately choose breeding parents.",
+      "d": "Medium",
+      "topic": "Selection breeding",
+      "slo": "Explain or apply: selection breeding",
+      "concept_id": "CH10-C052",
+      "question_format": "recognition"
+    },
+    {
+      "id": "BIO9CH10-207",
+      "q": "A student is reviewing evolution. Who decides which traits are favoured in artificial selection?",
+      "o": [
+        "Only natural predators",
+        "Only fossils",
+        "Breeders or farmers",
+        "Only geological forces"
+      ],
+      "a": 2,
+      "e": "People deliberately choose breeding parents.",
+      "d": "Medium",
+      "topic": "Selection breeding",
+      "slo": "Explain or apply: selection breeding",
+      "concept_id": "CH10-C052",
+      "question_format": "context"
+    },
+    {
+      "id": "BIO9CH10-208",
+      "q": "In an exam on Chapter 10, which answer is scientifically correct? Who decides which traits are favoured in artificial selection?",
+      "o": [
+        "Only natural predators",
+        "Only geological forces",
+        "Only fossils",
+        "Breeders or farmers"
+      ],
+      "a": 3,
+      "e": "People deliberately choose breeding parents.",
+      "d": "Hard",
+      "topic": "Selection breeding",
+      "slo": "Explain or apply: selection breeding",
+      "concept_id": "CH10-C052",
+      "question_format": "exam"
+    },
+    {
+      "id": "BIO9CH10-209",
+      "q": "Which trait might farmers select in crops?",
+      "o": [
+        "Inability to germinate",
+        "Drought tolerance",
+        "Permanent sterility in all seeds",
+        "No nutrient absorption"
+      ],
+      "a": 1,
+      "e": "Drought tolerance can be a useful crop trait.",
+      "d": "Easy",
+      "topic": "Selection breeding",
+      "slo": "Explain or apply: selection breeding",
+      "concept_id": "CH10-C053",
+      "question_format": "direct"
+    },
+    {
+      "id": "BIO9CH10-210",
+      "q": "Choose the most accurate answer: which trait might farmers select in crops?",
+      "o": [
+        "Permanent sterility in all seeds",
+        "Inability to germinate",
+        "No nutrient absorption",
+        "Drought tolerance"
+      ],
+      "a": 3,
+      "e": "Drought tolerance can be a useful crop trait.",
+      "d": "Medium",
+      "topic": "Selection breeding",
+      "slo": "Explain or apply: selection breeding",
+      "concept_id": "CH10-C053",
+      "question_format": "recognition"
+    },
+    {
+      "id": "BIO9CH10-211",
+      "q": "A student is reviewing evolution. Which trait might farmers select in crops?",
+      "o": [
+        "Permanent sterility in all seeds",
+        "Inability to germinate",
+        "No nutrient absorption",
+        "Drought tolerance"
+      ],
+      "a": 3,
+      "e": "Drought tolerance can be a useful crop trait.",
+      "d": "Medium",
+      "topic": "Selection breeding",
+      "slo": "Explain or apply: selection breeding",
+      "concept_id": "CH10-C053",
+      "question_format": "context"
+    },
+    {
+      "id": "BIO9CH10-212",
+      "q": "In an exam on Chapter 10, which answer is scientifically correct? Which trait might farmers select in crops?",
+      "o": [
+        "Inability to germinate",
+        "Drought tolerance",
+        "No nutrient absorption",
+        "Permanent sterility in all seeds"
+      ],
+      "a": 1,
+      "e": "Drought tolerance can be a useful crop trait.",
+      "d": "Hard",
+      "topic": "Selection breeding",
+      "slo": "Explain or apply: selection breeding",
+      "concept_id": "CH10-C053",
+      "question_format": "exam"
+    },
+    {
+      "id": "BIO9CH10-213",
+      "q": "Which outcome might farmers seek through selection?",
+      "o": [
+        "Larger or faster-growing crops",
+        "Removal of photosynthesis",
+        "No plant reproduction",
+        "Elimination of all variation on Earth"
+      ],
+      "a": 0,
+      "e": "Selection can increase desired crop characteristics.",
+      "d": "Easy",
+      "topic": "Selection breeding",
+      "slo": "Explain or apply: selection breeding",
+      "concept_id": "CH10-C054",
+      "question_format": "direct"
+    },
+    {
+      "id": "BIO9CH10-214",
+      "q": "Choose the most accurate answer: which outcome might farmers seek through selection?",
+      "o": [
+        "Elimination of all variation on Earth",
+        "Larger or faster-growing crops",
+        "No plant reproduction",
+        "Removal of photosynthesis"
+      ],
+      "a": 1,
+      "e": "Selection can increase desired crop characteristics.",
+      "d": "Medium",
+      "topic": "Selection breeding",
+      "slo": "Explain or apply: selection breeding",
+      "concept_id": "CH10-C054",
+      "question_format": "recognition"
+    },
+    {
+      "id": "BIO9CH10-215",
+      "q": "A student is reviewing evolution. Which outcome might farmers seek through selection?",
+      "o": [
+        "Larger or faster-growing crops",
+        "Elimination of all variation on Earth",
+        "No plant reproduction",
+        "Removal of photosynthesis"
+      ],
+      "a": 0,
+      "e": "Selection can increase desired crop characteristics.",
+      "d": "Medium",
+      "topic": "Selection breeding",
+      "slo": "Explain or apply: selection breeding",
+      "concept_id": "CH10-C054",
+      "question_format": "context"
+    },
+    {
+      "id": "BIO9CH10-216",
+      "q": "In an exam on Chapter 10, which answer is scientifically correct? Which outcome might farmers seek through selection?",
+      "o": [
+        "No plant reproduction",
+        "Elimination of all variation on Earth",
+        "Removal of photosynthesis",
+        "Larger or faster-growing crops"
+      ],
+      "a": 3,
+      "e": "Selection can increase desired crop characteristics.",
+      "d": "Hard",
+      "topic": "Selection breeding",
+      "slo": "Explain or apply: selection breeding",
+      "concept_id": "CH10-C054",
+      "question_format": "exam"
+    },
+    {
+      "id": "BIO9CH10-217",
+      "q": "What is selective breeding of animals used for?",
+      "o": [
+        "Increasing desirable inherited traits",
+        "Making every species identical",
+        "Turning animals into rocks",
+        "Stopping all reproduction"
+      ],
+      "a": 0,
+      "e": "Breeding can favour useful animal traits over generations.",
+      "d": "Easy",
+      "topic": "Selection breeding",
+      "slo": "Explain or apply: selection breeding",
+      "concept_id": "CH10-C055",
+      "question_format": "direct"
+    },
+    {
+      "id": "BIO9CH10-218",
+      "q": "Choose the most accurate answer: what is selective breeding of animals used for?",
+      "o": [
+        "Making every species identical",
+        "Increasing desirable inherited traits",
+        "Turning animals into rocks",
+        "Stopping all reproduction"
+      ],
+      "a": 1,
+      "e": "Breeding can favour useful animal traits over generations.",
+      "d": "Medium",
+      "topic": "Selection breeding",
+      "slo": "Explain or apply: selection breeding",
+      "concept_id": "CH10-C055",
+      "question_format": "recognition"
+    },
+    {
+      "id": "BIO9CH10-219",
+      "q": "A student is reviewing evolution. What is selective breeding of animals used for?",
+      "o": [
+        "Increasing desirable inherited traits",
+        "Turning animals into rocks",
+        "Making every species identical",
+        "Stopping all reproduction"
+      ],
+      "a": 0,
+      "e": "Breeding can favour useful animal traits over generations.",
+      "d": "Medium",
+      "topic": "Selection breeding",
+      "slo": "Explain or apply: selection breeding",
+      "concept_id": "CH10-C055",
+      "question_format": "context"
+    },
+    {
+      "id": "BIO9CH10-220",
+      "q": "In an exam on Chapter 10, which answer is scientifically correct? What is selective breeding of animals used for?",
+      "o": [
+        "Increasing desirable inherited traits",
+        "Turning animals into rocks",
+        "Stopping all reproduction",
+        "Making every species identical"
+      ],
+      "a": 0,
+      "e": "Breeding can favour useful animal traits over generations.",
+      "d": "Hard",
+      "topic": "Selection breeding",
+      "slo": "Explain or apply: selection breeding",
+      "concept_id": "CH10-C055",
+      "question_format": "exam"
+    },
+    {
+      "id": "BIO9CH10-221",
+      "q": "What is hybridization in breeding?",
+      "o": [
+        "A cell losing all chromosomes",
+        "A seed drying in air",
+        "A fossil becoming rock",
+        "Crossing genetically different varieties or lines"
+      ],
+      "a": 3,
+      "e": "Hybridization combines inherited traits from different parental lines.",
+      "d": "Easy",
+      "topic": "Selection breeding",
+      "slo": "Explain or apply: selection breeding",
+      "concept_id": "CH10-C056",
+      "question_format": "direct"
+    },
+    {
+      "id": "BIO9CH10-222",
+      "q": "Choose the most accurate answer: what is hybridization in breeding?",
+      "o": [
+        "A cell losing all chromosomes",
+        "A seed drying in air",
+        "A fossil becoming rock",
+        "Crossing genetically different varieties or lines"
+      ],
+      "a": 3,
+      "e": "Hybridization combines inherited traits from different parental lines.",
+      "d": "Medium",
+      "topic": "Selection breeding",
+      "slo": "Explain or apply: selection breeding",
+      "concept_id": "CH10-C056",
+      "question_format": "recognition"
+    },
+    {
+      "id": "BIO9CH10-223",
+      "q": "A student is reviewing evolution. What is hybridization in breeding?",
+      "o": [
+        "A fossil becoming rock",
+        "A cell losing all chromosomes",
+        "A seed drying in air",
+        "Crossing genetically different varieties or lines"
+      ],
+      "a": 3,
+      "e": "Hybridization combines inherited traits from different parental lines.",
+      "d": "Medium",
+      "topic": "Selection breeding",
+      "slo": "Explain or apply: selection breeding",
+      "concept_id": "CH10-C056",
+      "question_format": "context"
+    },
+    {
+      "id": "BIO9CH10-224",
+      "q": "In an exam on Chapter 10, which answer is scientifically correct? What is hybridization in breeding?",
+      "o": [
+        "Crossing genetically different varieties or lines",
+        "A fossil becoming rock",
+        "A seed drying in air",
+        "A cell losing all chromosomes"
+      ],
+      "a": 0,
+      "e": "Hybridization combines inherited traits from different parental lines.",
+      "d": "Hard",
+      "topic": "Selection breeding",
+      "slo": "Explain or apply: selection breeding",
+      "concept_id": "CH10-C056",
+      "question_format": "exam"
+    },
+    {
+      "id": "BIO9CH10-225",
+      "q": "How does selective breeding differ from natural selection?",
+      "o": [
+        "Humans choose the desired traits rather than environmental pressures alone",
+        "It creates organisms without parents",
+        "It never involves inheritance",
+        "It requires fossils"
+      ],
+      "a": 0,
+      "e": "Artificial selection is guided by human breeding choices.",
+      "d": "Easy",
+      "topic": "Selection breeding",
+      "slo": "Explain or apply: selection breeding",
+      "concept_id": "CH10-C057",
+      "question_format": "direct"
+    },
+    {
+      "id": "BIO9CH10-226",
+      "q": "Choose the most accurate answer: how does selective breeding differ from natural selection?",
+      "o": [
+        "It never involves inheritance",
+        "Humans choose the desired traits rather than environmental pressures alone",
+        "It requires fossils",
+        "It creates organisms without parents"
+      ],
+      "a": 1,
+      "e": "Artificial selection is guided by human breeding choices.",
+      "d": "Medium",
+      "topic": "Selection breeding",
+      "slo": "Explain or apply: selection breeding",
+      "concept_id": "CH10-C057",
+      "question_format": "recognition"
+    },
+    {
+      "id": "BIO9CH10-227",
+      "q": "A student is reviewing evolution. How does selective breeding differ from natural selection?",
+      "o": [
+        "It never involves inheritance",
+        "It requires fossils",
+        "Humans choose the desired traits rather than environmental pressures alone",
+        "It creates organisms without parents"
+      ],
+      "a": 2,
+      "e": "Artificial selection is guided by human breeding choices.",
+      "d": "Medium",
+      "topic": "Selection breeding",
+      "slo": "Explain or apply: selection breeding",
+      "concept_id": "CH10-C057",
+      "question_format": "context"
+    },
+    {
+      "id": "BIO9CH10-228",
+      "q": "In an exam on Chapter 10, which answer is scientifically correct? How does selective breeding differ from natural selection?",
+      "o": [
+        "It creates organisms without parents",
+        "Humans choose the desired traits rather than environmental pressures alone",
+        "It never involves inheritance",
+        "It requires fossils"
+      ],
+      "a": 1,
+      "e": "Artificial selection is guided by human breeding choices.",
+      "d": "Hard",
+      "topic": "Selection breeding",
+      "slo": "Explain or apply: selection breeding",
+      "concept_id": "CH10-C057",
+      "question_format": "exam"
+    },
+    {
+      "id": "BIO9CH10-229",
+      "q": "What is one limitation of selective breeding?",
+      "o": [
+        "It never changes trait frequencies",
+        "It guarantees success in every environment",
+        "It always eliminates all diseases",
+        "Reduced genetic diversity can increase vulnerability"
+      ],
+      "a": 3,
+      "e": "Strong selection for few traits can narrow genetic diversity.",
+      "d": "Easy",
+      "topic": "Selection breeding",
+      "slo": "Explain or apply: selection breeding",
+      "concept_id": "CH10-C058",
+      "question_format": "direct"
+    },
+    {
+      "id": "BIO9CH10-230",
+      "q": "Choose the most accurate answer: what is one limitation of selective breeding?",
+      "o": [
+        "It guarantees success in every environment",
+        "Reduced genetic diversity can increase vulnerability",
+        "It never changes trait frequencies",
+        "It always eliminates all diseases"
+      ],
+      "a": 1,
+      "e": "Strong selection for few traits can narrow genetic diversity.",
+      "d": "Medium",
+      "topic": "Selection breeding",
+      "slo": "Explain or apply: selection breeding",
+      "concept_id": "CH10-C058",
+      "question_format": "recognition"
+    },
+    {
+      "id": "BIO9CH10-231",
+      "q": "A student is reviewing evolution. What is one limitation of selective breeding?",
+      "o": [
+        "Reduced genetic diversity can increase vulnerability",
+        "It guarantees success in every environment",
+        "It always eliminates all diseases",
+        "It never changes trait frequencies"
+      ],
+      "a": 0,
+      "e": "Strong selection for few traits can narrow genetic diversity.",
+      "d": "Medium",
+      "topic": "Selection breeding",
+      "slo": "Explain or apply: selection breeding",
+      "concept_id": "CH10-C058",
+      "question_format": "context"
+    },
+    {
+      "id": "BIO9CH10-232",
+      "q": "In an exam on Chapter 10, which answer is scientifically correct? What is one limitation of selective breeding?",
+      "o": [
+        "It guarantees success in every environment",
+        "It always eliminates all diseases",
+        "It never changes trait frequencies",
+        "Reduced genetic diversity can increase vulnerability"
+      ],
+      "a": 3,
+      "e": "Strong selection for few traits can narrow genetic diversity.",
+      "d": "Hard",
+      "topic": "Selection breeding",
+      "slo": "Explain or apply: selection breeding",
+      "concept_id": "CH10-C058",
+      "question_format": "exam"
+    },
+    {
+      "id": "BIO9CH10-233",
+      "q": "Why must desired crop traits be heritable?",
+      "o": [
+        "They must disappear in offspring",
+        "They need to pass from parents to offspring",
+        "They are not related to genes",
+        "They exist only in soil"
+      ],
+      "a": 1,
+      "e": "Selection works across generations when traits are inherited.",
+      "d": "Easy",
+      "topic": "Selection breeding",
+      "slo": "Explain or apply: selection breeding",
+      "concept_id": "CH10-C059",
+      "question_format": "direct"
+    },
+    {
+      "id": "BIO9CH10-234",
+      "q": "Choose the most accurate answer: why must desired crop traits be heritable?",
+      "o": [
+        "They must disappear in offspring",
+        "They are not related to genes",
+        "They exist only in soil",
+        "They need to pass from parents to offspring"
+      ],
+      "a": 3,
+      "e": "Selection works across generations when traits are inherited.",
+      "d": "Medium",
+      "topic": "Selection breeding",
+      "slo": "Explain or apply: selection breeding",
+      "concept_id": "CH10-C059",
+      "question_format": "recognition"
+    },
+    {
+      "id": "BIO9CH10-235",
+      "q": "A student is reviewing evolution. Why must desired crop traits be heritable?",
+      "o": [
+        "They must disappear in offspring",
+        "They need to pass from parents to offspring",
+        "They exist only in soil",
+        "They are not related to genes"
+      ],
+      "a": 1,
+      "e": "Selection works across generations when traits are inherited.",
+      "d": "Medium",
+      "topic": "Selection breeding",
+      "slo": "Explain or apply: selection breeding",
+      "concept_id": "CH10-C059",
+      "question_format": "context"
+    },
+    {
+      "id": "BIO9CH10-236",
+      "q": "In an exam on Chapter 10, which answer is scientifically correct? Why must desired crop traits be heritable?",
+      "o": [
+        "They need to pass from parents to offspring",
+        "They exist only in soil",
+        "They must disappear in offspring",
+        "They are not related to genes"
+      ],
+      "a": 0,
+      "e": "Selection works across generations when traits are inherited.",
+      "d": "Hard",
+      "topic": "Selection breeding",
+      "slo": "Explain or apply: selection breeding",
+      "concept_id": "CH10-C059",
+      "question_format": "exam"
+    },
+    {
+      "id": "BIO9CH10-237",
+      "q": "What is speciation?",
+      "o": [
+        "Formation of new species from existing populations",
+        "Growth of one organism",
+        "Loss of all biodiversity",
+        "Formation of a new organ in one day"
+      ],
+      "a": 0,
+      "e": "Speciation occurs when populations diverge into distinct species.",
+      "d": "Easy",
+      "topic": "Speciation",
+      "slo": "Explain or apply: speciation",
+      "concept_id": "CH10-C060",
+      "question_format": "direct"
+    },
+    {
+      "id": "BIO9CH10-238",
+      "q": "Choose the most accurate answer: what is speciation?",
+      "o": [
+        "Growth of one organism",
+        "Loss of all biodiversity",
+        "Formation of new species from existing populations",
+        "Formation of a new organ in one day"
+      ],
+      "a": 2,
+      "e": "Speciation occurs when populations diverge into distinct species.",
+      "d": "Medium",
+      "topic": "Speciation",
+      "slo": "Explain or apply: speciation",
+      "concept_id": "CH10-C060",
+      "question_format": "recognition"
+    },
+    {
+      "id": "BIO9CH10-239",
+      "q": "A student is reviewing evolution. What is speciation?",
+      "o": [
+        "Growth of one organism",
+        "Formation of a new organ in one day",
+        "Formation of new species from existing populations",
+        "Loss of all biodiversity"
+      ],
+      "a": 2,
+      "e": "Speciation occurs when populations diverge into distinct species.",
+      "d": "Medium",
+      "topic": "Speciation",
+      "slo": "Explain or apply: speciation",
+      "concept_id": "CH10-C060",
+      "question_format": "context"
+    },
+    {
+      "id": "BIO9CH10-240",
+      "q": "In an exam on Chapter 10, which answer is scientifically correct? What is speciation?",
+      "o": [
+        "Formation of new species from existing populations",
+        "Loss of all biodiversity",
+        "Growth of one organism",
+        "Formation of a new organ in one day"
+      ],
+      "a": 0,
+      "e": "Speciation occurs when populations diverge into distinct species.",
+      "d": "Hard",
+      "topic": "Speciation",
+      "slo": "Explain or apply: speciation",
+      "concept_id": "CH10-C060",
+      "question_format": "exam"
+    },
+    {
+      "id": "BIO9CH10-241",
+      "q": "What is reproductive isolation?",
+      "o": [
+        "A method of seed storage",
+        "Barriers preventing successful gene exchange between populations",
+        "Any separation between organs",
+        "A form of photosynthesis"
+      ],
+      "a": 1,
+      "e": "Reproductive isolation restricts interbreeding between populations.",
+      "d": "Easy",
+      "topic": "Speciation",
+      "slo": "Explain or apply: speciation",
+      "concept_id": "CH10-C061",
+      "question_format": "direct"
+    },
+    {
+      "id": "BIO9CH10-242",
+      "q": "Choose the most accurate answer: what is reproductive isolation?",
+      "o": [
+        "Barriers preventing successful gene exchange between populations",
+        "Any separation between organs",
+        "A method of seed storage",
+        "A form of photosynthesis"
+      ],
+      "a": 0,
+      "e": "Reproductive isolation restricts interbreeding between populations.",
+      "d": "Medium",
+      "topic": "Speciation",
+      "slo": "Explain or apply: speciation",
+      "concept_id": "CH10-C061",
+      "question_format": "recognition"
+    },
+    {
+      "id": "BIO9CH10-243",
+      "q": "A student is reviewing evolution. What is reproductive isolation?",
+      "o": [
+        "Barriers preventing successful gene exchange between populations",
+        "A form of photosynthesis",
+        "Any separation between organs",
+        "A method of seed storage"
+      ],
+      "a": 0,
+      "e": "Reproductive isolation restricts interbreeding between populations.",
+      "d": "Medium",
+      "topic": "Speciation",
+      "slo": "Explain or apply: speciation",
+      "concept_id": "CH10-C061",
+      "question_format": "context"
+    },
+    {
+      "id": "BIO9CH10-244",
+      "q": "In an exam on Chapter 10, which answer is scientifically correct? What is reproductive isolation?",
+      "o": [
+        "A method of seed storage",
+        "A form of photosynthesis",
+        "Barriers preventing successful gene exchange between populations",
+        "Any separation between organs"
+      ],
+      "a": 2,
+      "e": "Reproductive isolation restricts interbreeding between populations.",
+      "d": "Hard",
+      "topic": "Speciation",
+      "slo": "Explain or apply: speciation",
+      "concept_id": "CH10-C061",
+      "question_format": "exam"
+    },
+    {
+      "id": "BIO9CH10-245",
+      "q": "How can geographic separation contribute to speciation?",
+      "o": [
+        "It forces all populations to remain genetically identical",
+        "It guarantees immediate hybridization",
+        "It stops mutation everywhere",
+        "Separated populations may evolve independently"
+      ],
+      "a": 3,
+      "e": "Physical barriers can reduce gene flow and permit divergence.",
+      "d": "Easy",
+      "topic": "Speciation",
+      "slo": "Explain or apply: speciation",
+      "concept_id": "CH10-C062",
+      "question_format": "direct"
+    },
+    {
+      "id": "BIO9CH10-246",
+      "q": "Choose the most accurate answer: how can geographic separation contribute to speciation?",
+      "o": [
+        "It stops mutation everywhere",
+        "It forces all populations to remain genetically identical",
+        "Separated populations may evolve independently",
+        "It guarantees immediate hybridization"
+      ],
+      "a": 2,
+      "e": "Physical barriers can reduce gene flow and permit divergence.",
+      "d": "Medium",
+      "topic": "Speciation",
+      "slo": "Explain or apply: speciation",
+      "concept_id": "CH10-C062",
+      "question_format": "recognition"
+    },
+    {
+      "id": "BIO9CH10-247",
+      "q": "A student is reviewing evolution. How can geographic separation contribute to speciation?",
+      "o": [
+        "It forces all populations to remain genetically identical",
+        "It guarantees immediate hybridization",
+        "Separated populations may evolve independently",
+        "It stops mutation everywhere"
+      ],
+      "a": 2,
+      "e": "Physical barriers can reduce gene flow and permit divergence.",
+      "d": "Medium",
+      "topic": "Speciation",
+      "slo": "Explain or apply: speciation",
+      "concept_id": "CH10-C062",
+      "question_format": "context"
+    },
+    {
+      "id": "BIO9CH10-248",
+      "q": "In an exam on Chapter 10, which answer is scientifically correct? How can geographic separation contribute to speciation?",
+      "o": [
+        "It forces all populations to remain genetically identical",
+        "It stops mutation everywhere",
+        "Separated populations may evolve independently",
+        "It guarantees immediate hybridization"
+      ],
+      "a": 2,
+      "e": "Physical barriers can reduce gene flow and permit divergence.",
+      "d": "Hard",
+      "topic": "Speciation",
+      "slo": "Explain or apply: speciation",
+      "concept_id": "CH10-C062",
+      "question_format": "exam"
+    },
+    {
+      "id": "BIO9CH10-249",
+      "q": "Which geographic barrier could separate populations?",
+      "o": [
+        "Identical habitat without barriers",
+        "A shared food source",
+        "A mountain range",
+        "A single chromosome"
+      ],
+      "a": 2,
+      "e": "Mountains may prevent members of populations from interbreeding.",
+      "d": "Easy",
+      "topic": "Speciation",
+      "slo": "Explain or apply: speciation",
+      "concept_id": "CH10-C063",
+      "question_format": "direct"
+    },
+    {
+      "id": "BIO9CH10-250",
+      "q": "Choose the most accurate answer: which geographic barrier could separate populations?",
+      "o": [
+        "A shared food source",
+        "A mountain range",
+        "Identical habitat without barriers",
+        "A single chromosome"
+      ],
+      "a": 1,
+      "e": "Mountains may prevent members of populations from interbreeding.",
+      "d": "Medium",
+      "topic": "Speciation",
+      "slo": "Explain or apply: speciation",
+      "concept_id": "CH10-C063",
+      "question_format": "recognition"
+    },
+    {
+      "id": "BIO9CH10-251",
+      "q": "A student is reviewing evolution. Which geographic barrier could separate populations?",
+      "o": [
+        "A shared food source",
+        "A single chromosome",
+        "Identical habitat without barriers",
+        "A mountain range"
+      ],
+      "a": 3,
+      "e": "Mountains may prevent members of populations from interbreeding.",
+      "d": "Medium",
+      "topic": "Speciation",
+      "slo": "Explain or apply: speciation",
+      "concept_id": "CH10-C063",
+      "question_format": "context"
+    },
+    {
+      "id": "BIO9CH10-252",
+      "q": "In an exam on Chapter 10, which answer is scientifically correct? Which geographic barrier could separate populations?",
+      "o": [
+        "A mountain range",
+        "A single chromosome",
+        "A shared food source",
+        "Identical habitat without barriers"
+      ],
+      "a": 0,
+      "e": "Mountains may prevent members of populations from interbreeding.",
+      "d": "Hard",
+      "topic": "Speciation",
+      "slo": "Explain or apply: speciation",
+      "concept_id": "CH10-C063",
+      "question_format": "exam"
+    },
+    {
+      "id": "BIO9CH10-253",
+      "q": "Why does reduced gene flow matter during speciation?",
+      "o": [
+        "Populations can accumulate different inherited changes",
+        "It prevents any mutation",
+        "It makes all populations identical",
+        "It removes natural selection"
+      ],
+      "a": 0,
+      "e": "Limited gene exchange allows genetic divergence.",
+      "d": "Easy",
+      "topic": "Speciation",
+      "slo": "Explain or apply: speciation",
+      "concept_id": "CH10-C064",
+      "question_format": "direct"
+    },
+    {
+      "id": "BIO9CH10-254",
+      "q": "Choose the most accurate answer: why does reduced gene flow matter during speciation?",
+      "o": [
+        "It removes natural selection",
+        "It makes all populations identical",
+        "It prevents any mutation",
+        "Populations can accumulate different inherited changes"
+      ],
+      "a": 3,
+      "e": "Limited gene exchange allows genetic divergence.",
+      "d": "Medium",
+      "topic": "Speciation",
+      "slo": "Explain or apply: speciation",
+      "concept_id": "CH10-C064",
+      "question_format": "recognition"
+    },
+    {
+      "id": "BIO9CH10-255",
+      "q": "A student is reviewing evolution. Why does reduced gene flow matter during speciation?",
+      "o": [
+        "It makes all populations identical",
+        "It prevents any mutation",
+        "It removes natural selection",
+        "Populations can accumulate different inherited changes"
+      ],
+      "a": 3,
+      "e": "Limited gene exchange allows genetic divergence.",
+      "d": "Medium",
+      "topic": "Speciation",
+      "slo": "Explain or apply: speciation",
+      "concept_id": "CH10-C064",
+      "question_format": "context"
+    },
+    {
+      "id": "BIO9CH10-256",
+      "q": "In an exam on Chapter 10, which answer is scientifically correct? Why does reduced gene flow matter during speciation?",
+      "o": [
+        "Populations can accumulate different inherited changes",
+        "It removes natural selection",
+        "It prevents any mutation",
+        "It makes all populations identical"
+      ],
+      "a": 0,
+      "e": "Limited gene exchange allows genetic divergence.",
+      "d": "Hard",
+      "topic": "Speciation",
+      "slo": "Explain or apply: speciation",
+      "concept_id": "CH10-C064",
+      "question_format": "exam"
+    },
+    {
+      "id": "BIO9CH10-257",
+      "q": "What is a species in the biological species concept?",
+      "o": [
+        "All organisms of one colour",
+        "All organisms living on one continent",
+        "A group whose members can interbreed and produce fertile offspring",
+        "Any organisms with the same size"
+      ],
+      "a": 2,
+      "e": "The biological species concept emphasizes reproductive compatibility.",
+      "d": "Easy",
+      "topic": "Speciation",
+      "slo": "Explain or apply: speciation",
+      "concept_id": "CH10-C065",
+      "question_format": "direct"
+    },
+    {
+      "id": "BIO9CH10-258",
+      "q": "Choose the most accurate answer: what is a species in the biological species concept?",
+      "o": [
+        "Any organisms with the same size",
+        "All organisms living on one continent",
+        "All organisms of one colour",
+        "A group whose members can interbreed and produce fertile offspring"
+      ],
+      "a": 3,
+      "e": "The biological species concept emphasizes reproductive compatibility.",
+      "d": "Medium",
+      "topic": "Speciation",
+      "slo": "Explain or apply: speciation",
+      "concept_id": "CH10-C065",
+      "question_format": "recognition"
+    },
+    {
+      "id": "BIO9CH10-259",
+      "q": "A student is reviewing evolution. What is a species in the biological species concept?",
+      "o": [
+        "All organisms of one colour",
+        "All organisms living on one continent",
+        "Any organisms with the same size",
+        "A group whose members can interbreed and produce fertile offspring"
+      ],
+      "a": 3,
+      "e": "The biological species concept emphasizes reproductive compatibility.",
+      "d": "Medium",
+      "topic": "Speciation",
+      "slo": "Explain or apply: speciation",
+      "concept_id": "CH10-C065",
+      "question_format": "context"
+    },
+    {
+      "id": "BIO9CH10-260",
+      "q": "In an exam on Chapter 10, which answer is scientifically correct? What is a species in the biological species concept?",
+      "o": [
+        "All organisms living on one continent",
+        "All organisms of one colour",
+        "Any organisms with the same size",
+        "A group whose members can interbreed and produce fertile offspring"
+      ],
+      "a": 3,
+      "e": "The biological species concept emphasizes reproductive compatibility.",
+      "d": "Hard",
+      "topic": "Speciation",
+      "slo": "Explain or apply: speciation",
+      "concept_id": "CH10-C065",
+      "question_format": "exam"
+    },
+    {
+      "id": "BIO9CH10-261",
+      "q": "What is a likely long-term result of isolation and divergence?",
+      "o": [
+        "Fossils stop forming",
+        "Distinct species may arise",
+        "All mutations are reversed",
+        "All organisms become one individual"
+      ],
+      "a": 1,
+      "e": "Accumulated differences can eventually produce reproductive isolation.",
+      "d": "Easy",
+      "topic": "Speciation",
+      "slo": "Explain or apply: speciation",
+      "concept_id": "CH10-C066",
+      "question_format": "direct"
+    },
+    {
+      "id": "BIO9CH10-262",
+      "q": "Choose the most accurate answer: what is a likely long-term result of isolation and divergence?",
+      "o": [
+        "Distinct species may arise",
+        "All organisms become one individual",
+        "All mutations are reversed",
+        "Fossils stop forming"
+      ],
+      "a": 0,
+      "e": "Accumulated differences can eventually produce reproductive isolation.",
+      "d": "Medium",
+      "topic": "Speciation",
+      "slo": "Explain or apply: speciation",
+      "concept_id": "CH10-C066",
+      "question_format": "recognition"
+    },
+    {
+      "id": "BIO9CH10-263",
+      "q": "A student is reviewing evolution. What is a likely long-term result of isolation and divergence?",
+      "o": [
+        "Fossils stop forming",
+        "All organisms become one individual",
+        "Distinct species may arise",
+        "All mutations are reversed"
+      ],
+      "a": 2,
+      "e": "Accumulated differences can eventually produce reproductive isolation.",
+      "d": "Medium",
+      "topic": "Speciation",
+      "slo": "Explain or apply: speciation",
+      "concept_id": "CH10-C066",
+      "question_format": "context"
+    },
+    {
+      "id": "BIO9CH10-264",
+      "q": "In an exam on Chapter 10, which answer is scientifically correct? What is a likely long-term result of isolation and divergence?",
+      "o": [
+        "Distinct species may arise",
+        "Fossils stop forming",
+        "All organisms become one individual",
+        "All mutations are reversed"
+      ],
+      "a": 0,
+      "e": "Accumulated differences can eventually produce reproductive isolation.",
+      "d": "Hard",
+      "topic": "Speciation",
+      "slo": "Explain or apply: speciation",
+      "concept_id": "CH10-C066",
+      "question_format": "exam"
+    },
+    {
+      "id": "BIO9CH10-265",
+      "q": "How does speciation affect biodiversity?",
+      "o": [
+        "It prevents any adaptation",
+        "It always removes all species",
+        "It can increase the number of species",
+        "It makes organisms genetically identical"
+      ],
+      "a": 2,
+      "e": "Formation of new species can add to biodiversity.",
+      "d": "Easy",
+      "topic": "Speciation",
+      "slo": "Explain or apply: speciation",
+      "concept_id": "CH10-C067",
+      "question_format": "direct"
+    },
+    {
+      "id": "BIO9CH10-266",
+      "q": "Choose the most accurate answer: how does speciation affect biodiversity?",
+      "o": [
+        "It always removes all species",
+        "It can increase the number of species",
+        "It prevents any adaptation",
+        "It makes organisms genetically identical"
+      ],
+      "a": 1,
+      "e": "Formation of new species can add to biodiversity.",
+      "d": "Medium",
+      "topic": "Speciation",
+      "slo": "Explain or apply: speciation",
+      "concept_id": "CH10-C067",
+      "question_format": "recognition"
+    },
+    {
+      "id": "BIO9CH10-267",
+      "q": "A student is reviewing evolution. How does speciation affect biodiversity?",
+      "o": [
+        "It prevents any adaptation",
+        "It makes organisms genetically identical",
+        "It always removes all species",
+        "It can increase the number of species"
+      ],
+      "a": 3,
+      "e": "Formation of new species can add to biodiversity.",
+      "d": "Medium",
+      "topic": "Speciation",
+      "slo": "Explain or apply: speciation",
+      "concept_id": "CH10-C067",
+      "question_format": "context"
+    },
+    {
+      "id": "BIO9CH10-268",
+      "q": "In an exam on Chapter 10, which answer is scientifically correct? How does speciation affect biodiversity?",
+      "o": [
+        "It prevents any adaptation",
+        "It can increase the number of species",
+        "It always removes all species",
+        "It makes organisms genetically identical"
+      ],
+      "a": 1,
+      "e": "Formation of new species can add to biodiversity.",
+      "d": "Hard",
+      "topic": "Speciation",
+      "slo": "Explain or apply: speciation",
+      "concept_id": "CH10-C067",
+      "question_format": "exam"
+    },
+    {
+      "id": "BIO9CH10-269",
+      "q": "A population of insects becomes harder for birds to see because of inherited colour differences. Which process is illustrated?",
+      "o": [
+        "Transpiration",
+        "Natural selection",
+        "Artificial selection by farmers",
+        "Fossilization"
+      ],
+      "a": 1,
+      "e": "Camouflaged insects may survive and reproduce more successfully.",
+      "d": "Easy",
+      "topic": "Integration",
+      "slo": "Explain or apply: integration",
+      "concept_id": "CH10-C068",
+      "question_format": "direct"
+    },
+    {
+      "id": "BIO9CH10-270",
+      "q": "Choose the most accurate answer: a population of insects becomes harder for birds to see because of inherited colour differences. Which process is illustrated?",
+      "o": [
+        "Natural selection",
+        "Artificial selection by farmers",
+        "Fossilization",
+        "Transpiration"
+      ],
+      "a": 0,
+      "e": "Camouflaged insects may survive and reproduce more successfully.",
+      "d": "Medium",
+      "topic": "Integration",
+      "slo": "Explain or apply: integration",
+      "concept_id": "CH10-C068",
+      "question_format": "recognition"
+    },
+    {
+      "id": "BIO9CH10-271",
+      "q": "A student is reviewing evolution. A population of insects becomes harder for birds to see because of inherited colour differences. Which process is illustrated?",
+      "o": [
+        "Artificial selection by farmers",
+        "Fossilization",
+        "Transpiration",
+        "Natural selection"
+      ],
+      "a": 3,
+      "e": "Camouflaged insects may survive and reproduce more successfully.",
+      "d": "Medium",
+      "topic": "Integration",
+      "slo": "Explain or apply: integration",
+      "concept_id": "CH10-C068",
+      "question_format": "context"
+    },
+    {
+      "id": "BIO9CH10-272",
+      "q": "In an exam on Chapter 10, which answer is scientifically correct? A population of insects becomes harder for birds to see because of inherited colour differences. Which process is illustrated?",
+      "o": [
+        "Natural selection",
+        "Fossilization",
+        "Transpiration",
+        "Artificial selection by farmers"
+      ],
+      "a": 0,
+      "e": "Camouflaged insects may survive and reproduce more successfully.",
+      "d": "Hard",
+      "topic": "Integration",
+      "slo": "Explain or apply: integration",
+      "concept_id": "CH10-C068",
+      "question_format": "exam"
+    },
+    {
+      "id": "BIO9CH10-273",
+      "q": "Two cat populations exchange breeding individuals. Which source of variation is involved?",
+      "o": [
+        "Fossilization",
+        "Vestigiality",
+        "Sedimentation",
+        "Gene flow"
+      ],
+      "a": 3,
+      "e": "Migration and interbreeding move genes between populations.",
+      "d": "Easy",
+      "topic": "Integration",
+      "slo": "Explain or apply: integration",
+      "concept_id": "CH10-C069",
+      "question_format": "direct"
+    },
+    {
+      "id": "BIO9CH10-274",
+      "q": "Choose the most accurate answer: two cat populations exchange breeding individuals. Which source of variation is involved?",
+      "o": [
+        "Sedimentation",
+        "Vestigiality",
+        "Gene flow",
+        "Fossilization"
+      ],
+      "a": 2,
+      "e": "Migration and interbreeding move genes between populations.",
+      "d": "Medium",
+      "topic": "Integration",
+      "slo": "Explain or apply: integration",
+      "concept_id": "CH10-C069",
+      "question_format": "recognition"
+    },
+    {
+      "id": "BIO9CH10-275",
+      "q": "A student is reviewing evolution. Two cat populations exchange breeding individuals. Which source of variation is involved?",
+      "o": [
+        "Fossilization",
+        "Sedimentation",
+        "Vestigiality",
+        "Gene flow"
+      ],
+      "a": 3,
+      "e": "Migration and interbreeding move genes between populations.",
+      "d": "Medium",
+      "topic": "Integration",
+      "slo": "Explain or apply: integration",
+      "concept_id": "CH10-C069",
+      "question_format": "context"
+    },
+    {
+      "id": "BIO9CH10-276",
+      "q": "In an exam on Chapter 10, which answer is scientifically correct? Two cat populations exchange breeding individuals. Which source of variation is involved?",
+      "o": [
+        "Gene flow",
+        "Sedimentation",
+        "Vestigiality",
+        "Fossilization"
+      ],
+      "a": 0,
+      "e": "Migration and interbreeding move genes between populations.",
+      "d": "Hard",
+      "topic": "Integration",
+      "slo": "Explain or apply: integration",
+      "concept_id": "CH10-C069",
+      "question_format": "exam"
+    },
+    {
+      "id": "BIO9CH10-277",
+      "q": "A breeder repeatedly chooses the largest fruits as parents. Which process occurs?",
+      "o": [
+        "Artificial selection",
+        "Random extinction",
+        "Geographic isolation",
+        "Natural fossilization"
+      ],
+      "a": 0,
+      "e": "Human choice directs selection for fruit size.",
+      "d": "Easy",
+      "topic": "Integration",
+      "slo": "Explain or apply: integration",
+      "concept_id": "CH10-C070",
+      "question_format": "direct"
+    },
+    {
+      "id": "BIO9CH10-278",
+      "q": "Choose the most accurate answer: a breeder repeatedly chooses the largest fruits as parents. Which process occurs?",
+      "o": [
+        "Natural fossilization",
+        "Geographic isolation",
+        "Random extinction",
+        "Artificial selection"
+      ],
+      "a": 3,
+      "e": "Human choice directs selection for fruit size.",
+      "d": "Medium",
+      "topic": "Integration",
+      "slo": "Explain or apply: integration",
+      "concept_id": "CH10-C070",
+      "question_format": "recognition"
+    },
+    {
+      "id": "BIO9CH10-279",
+      "q": "A student is reviewing evolution. A breeder repeatedly chooses the largest fruits as parents. Which process occurs?",
+      "o": [
+        "Artificial selection",
+        "Random extinction",
+        "Natural fossilization",
+        "Geographic isolation"
+      ],
+      "a": 0,
+      "e": "Human choice directs selection for fruit size.",
+      "d": "Medium",
+      "topic": "Integration",
+      "slo": "Explain or apply: integration",
+      "concept_id": "CH10-C070",
+      "question_format": "context"
+    },
+    {
+      "id": "BIO9CH10-280",
+      "q": "In an exam on Chapter 10, which answer is scientifically correct? A breeder repeatedly chooses the largest fruits as parents. Which process occurs?",
+      "o": [
+        "Natural fossilization",
+        "Geographic isolation",
+        "Random extinction",
+        "Artificial selection"
+      ],
+      "a": 3,
+      "e": "Human choice directs selection for fruit size.",
+      "d": "Hard",
+      "topic": "Integration",
+      "slo": "Explain or apply: integration",
+      "concept_id": "CH10-C070",
+      "question_format": "exam"
+    },
+    {
+      "id": "BIO9CH10-281",
+      "q": "A newly found ancient skeleton resembles several modern vertebrates. Which evidence is being studied?",
+      "o": [
+        "Comparative anatomy",
+        "Blood clotting",
+        "Seed germination",
+        "Transpiration rate"
+      ],
+      "a": 0,
+      "e": "Comparing skeletal plans can reveal evolutionary relationships.",
+      "d": "Easy",
+      "topic": "Integration",
+      "slo": "Explain or apply: integration",
+      "concept_id": "CH10-C071",
+      "question_format": "direct"
+    },
+    {
+      "id": "BIO9CH10-282",
+      "q": "Choose the most accurate answer: a newly found ancient skeleton resembles several modern vertebrates. Which evidence is being studied?",
+      "o": [
+        "Comparative anatomy",
+        "Transpiration rate",
+        "Blood clotting",
+        "Seed germination"
+      ],
+      "a": 0,
+      "e": "Comparing skeletal plans can reveal evolutionary relationships.",
+      "d": "Medium",
+      "topic": "Integration",
+      "slo": "Explain or apply: integration",
+      "concept_id": "CH10-C071",
+      "question_format": "recognition"
+    },
+    {
+      "id": "BIO9CH10-283",
+      "q": "A student is reviewing evolution. A newly found ancient skeleton resembles several modern vertebrates. Which evidence is being studied?",
+      "o": [
+        "Seed germination",
+        "Comparative anatomy",
+        "Blood clotting",
+        "Transpiration rate"
+      ],
+      "a": 1,
+      "e": "Comparing skeletal plans can reveal evolutionary relationships.",
+      "d": "Medium",
+      "topic": "Integration",
+      "slo": "Explain or apply: integration",
+      "concept_id": "CH10-C071",
+      "question_format": "context"
+    },
+    {
+      "id": "BIO9CH10-284",
+      "q": "In an exam on Chapter 10, which answer is scientifically correct? A newly found ancient skeleton resembles several modern vertebrates. Which evidence is being studied?",
+      "o": [
+        "Seed germination",
+        "Comparative anatomy",
+        "Blood clotting",
+        "Transpiration rate"
+      ],
+      "a": 1,
+      "e": "Comparing skeletal plans can reveal evolutionary relationships.",
+      "d": "Hard",
+      "topic": "Integration",
+      "slo": "Explain or apply: integration",
+      "concept_id": "CH10-C071",
+      "question_format": "exam"
+    },
+    {
+      "id": "BIO9CH10-285",
+      "q": "Why is inherited variation essential for populations facing environmental change?",
+      "o": [
+        "It prevents reproduction",
+        "It stops all competition",
+        "Every organism must react identically",
+        "Different traits may provide different survival advantages"
+      ],
+      "a": 3,
+      "e": "Variation supplies differences on which selection may act.",
+      "d": "Easy",
+      "topic": "Integration",
+      "slo": "Explain or apply: integration",
+      "concept_id": "CH10-C072",
+      "question_format": "direct"
+    },
+    {
+      "id": "BIO9CH10-286",
+      "q": "Choose the most accurate answer: why is inherited variation essential for populations facing environmental change?",
+      "o": [
+        "Every organism must react identically",
+        "Different traits may provide different survival advantages",
+        "It prevents reproduction",
+        "It stops all competition"
+      ],
+      "a": 1,
+      "e": "Variation supplies differences on which selection may act.",
+      "d": "Medium",
+      "topic": "Integration",
+      "slo": "Explain or apply: integration",
+      "concept_id": "CH10-C072",
+      "question_format": "recognition"
+    },
+    {
+      "id": "BIO9CH10-287",
+      "q": "A student is reviewing evolution. Why is inherited variation essential for populations facing environmental change?",
+      "o": [
+        "It prevents reproduction",
+        "It stops all competition",
+        "Different traits may provide different survival advantages",
+        "Every organism must react identically"
+      ],
+      "a": 2,
+      "e": "Variation supplies differences on which selection may act.",
+      "d": "Medium",
+      "topic": "Integration",
+      "slo": "Explain or apply: integration",
+      "concept_id": "CH10-C072",
+      "question_format": "context"
+    },
+    {
+      "id": "BIO9CH10-288",
+      "q": "In an exam on Chapter 10, which answer is scientifically correct? Why is inherited variation essential for populations facing environmental change?",
+      "o": [
+        "It prevents reproduction",
+        "It stops all competition",
+        "Different traits may provide different survival advantages",
+        "Every organism must react identically"
+      ],
+      "a": 2,
+      "e": "Variation supplies differences on which selection may act.",
+      "d": "Hard",
+      "topic": "Integration",
+      "slo": "Explain or apply: integration",
+      "concept_id": "CH10-C072",
+      "question_format": "exam"
+    },
+    {
+      "id": "BIO9CH10-289",
+      "q": "A crop variety has high yield but is highly susceptible to one disease. What is a plausible breeding concern?",
+      "o": [
+        "Inability of any plant to reproduce",
+        "Absence of inheritance",
+        "Narrow genetic diversity",
+        "No relation between genes and traits"
+      ],
+      "a": 2,
+      "e": "Reduced diversity may increase shared vulnerability to disease.",
+      "d": "Easy",
+      "topic": "Integration",
+      "slo": "Explain or apply: integration",
+      "concept_id": "CH10-C073",
+      "question_format": "direct"
+    },
+    {
+      "id": "BIO9CH10-290",
+      "q": "Choose the most accurate answer: a crop variety has high yield but is highly susceptible to one disease. What is a plausible breeding concern?",
+      "o": [
+        "Narrow genetic diversity",
+        "Absence of inheritance",
+        "Inability of any plant to reproduce",
+        "No relation between genes and traits"
+      ],
+      "a": 0,
+      "e": "Reduced diversity may increase shared vulnerability to disease.",
+      "d": "Medium",
+      "topic": "Integration",
+      "slo": "Explain or apply: integration",
+      "concept_id": "CH10-C073",
+      "question_format": "recognition"
+    },
+    {
+      "id": "BIO9CH10-291",
+      "q": "A student is reviewing evolution. A crop variety has high yield but is highly susceptible to one disease. What is a plausible breeding concern?",
+      "o": [
+        "Narrow genetic diversity",
+        "Inability of any plant to reproduce",
+        "No relation between genes and traits",
+        "Absence of inheritance"
+      ],
+      "a": 0,
+      "e": "Reduced diversity may increase shared vulnerability to disease.",
+      "d": "Medium",
+      "topic": "Integration",
+      "slo": "Explain or apply: integration",
+      "concept_id": "CH10-C073",
+      "question_format": "context"
+    },
+    {
+      "id": "BIO9CH10-292",
+      "q": "In an exam on Chapter 10, which answer is scientifically correct? A crop variety has high yield but is highly susceptible to one disease. What is a plausible breeding concern?",
+      "o": [
+        "Inability of any plant to reproduce",
+        "No relation between genes and traits",
+        "Absence of inheritance",
+        "Narrow genetic diversity"
+      ],
+      "a": 3,
+      "e": "Reduced diversity may increase shared vulnerability to disease.",
+      "d": "Hard",
+      "topic": "Integration",
+      "slo": "Explain or apply: integration",
+      "concept_id": "CH10-C073",
+      "question_format": "exam"
+    },
+    {
+      "id": "BIO9CH10-293",
+      "q": "Which evidence type uses preserved footprints?",
+      "o": [
+        "Live seedlings",
+        "Mature pollen grains",
+        "Modern blood samples",
+        "Trace fossils"
+      ],
+      "a": 3,
+      "e": "Footprints preserved in rock are trace fossils.",
+      "d": "Easy",
+      "topic": "Evidence",
+      "slo": "Explain or apply: evidence",
+      "concept_id": "CH10-C074",
+      "question_format": "direct"
+    },
+    {
+      "id": "BIO9CH10-294",
+      "q": "Choose the most accurate answer: which evidence type uses preserved footprints?",
+      "o": [
+        "Mature pollen grains",
+        "Trace fossils",
+        "Modern blood samples",
+        "Live seedlings"
+      ],
+      "a": 1,
+      "e": "Footprints preserved in rock are trace fossils.",
+      "d": "Medium",
+      "topic": "Evidence",
+      "slo": "Explain or apply: evidence",
+      "concept_id": "CH10-C074",
+      "question_format": "recognition"
+    },
+    {
+      "id": "BIO9CH10-295",
+      "q": "A student is reviewing evolution. Which evidence type uses preserved footprints?",
+      "o": [
+        "Live seedlings",
+        "Trace fossils",
+        "Mature pollen grains",
+        "Modern blood samples"
+      ],
+      "a": 1,
+      "e": "Footprints preserved in rock are trace fossils.",
+      "d": "Medium",
+      "topic": "Evidence",
+      "slo": "Explain or apply: evidence",
+      "concept_id": "CH10-C074",
+      "question_format": "context"
+    },
+    {
+      "id": "BIO9CH10-296",
+      "q": "In an exam on Chapter 10, which answer is scientifically correct? Which evidence type uses preserved footprints?",
+      "o": [
+        "Trace fossils",
+        "Live seedlings",
+        "Mature pollen grains",
+        "Modern blood samples"
+      ],
+      "a": 0,
+      "e": "Footprints preserved in rock are trace fossils.",
+      "d": "Hard",
+      "topic": "Evidence",
+      "slo": "Explain or apply: evidence",
+      "concept_id": "CH10-C074",
+      "question_format": "exam"
+    },
+    {
+      "id": "BIO9CH10-297",
+      "q": "Why does mutation differ from crossing over?",
+      "o": [
+        "Mutation always produces identical clones",
+        "Crossing over always creates a new species",
+        "Mutation can create new alleles whereas crossing over rearranges existing alleles",
+        "Neither affects inheritance"
+      ],
+      "a": 2,
+      "e": "Mutation changes DNA sequences while crossing over recombines chromosome segments.",
+      "d": "Easy",
+      "topic": "Variation",
+      "slo": "Explain or apply: variation",
+      "concept_id": "CH10-C075",
+      "question_format": "direct"
+    },
+    {
+      "id": "BIO9CH10-298",
+      "q": "Choose the most accurate answer: why does mutation differ from crossing over?",
+      "o": [
+        "Crossing over always creates a new species",
+        "Neither affects inheritance",
+        "Mutation always produces identical clones",
+        "Mutation can create new alleles whereas crossing over rearranges existing alleles"
+      ],
+      "a": 3,
+      "e": "Mutation changes DNA sequences while crossing over recombines chromosome segments.",
+      "d": "Medium",
+      "topic": "Variation",
+      "slo": "Explain or apply: variation",
+      "concept_id": "CH10-C075",
+      "question_format": "recognition"
+    },
+    {
+      "id": "BIO9CH10-299",
+      "q": "A student is reviewing evolution. Why does mutation differ from crossing over?",
+      "o": [
+        "Mutation can create new alleles whereas crossing over rearranges existing alleles",
+        "Crossing over always creates a new species",
+        "Neither affects inheritance",
+        "Mutation always produces identical clones"
+      ],
+      "a": 0,
+      "e": "Mutation changes DNA sequences while crossing over recombines chromosome segments.",
+      "d": "Medium",
+      "topic": "Variation",
+      "slo": "Explain or apply: variation",
+      "concept_id": "CH10-C075",
+      "question_format": "context"
+    },
+    {
+      "id": "BIO9CH10-300",
+      "q": "In an exam on Chapter 10, which answer is scientifically correct? Why does mutation differ from crossing over?",
+      "o": [
+        "Mutation always produces identical clones",
+        "Neither affects inheritance",
+        "Mutation can create new alleles whereas crossing over rearranges existing alleles",
+        "Crossing over always creates a new species"
+      ],
+      "a": 2,
+      "e": "Mutation changes DNA sequences while crossing over recombines chromosome segments.",
+      "d": "Hard",
+      "topic": "Variation",
+      "slo": "Explain or apply: variation",
+      "concept_id": "CH10-C075",
+      "question_format": "exam"
+    }
+  ]
+}

@@ -1,0 +1,4804 @@
+{
+  "questions": [
+    {
+      "id": "BIO9CH6-001",
+      "q": "What does biochemistry study?",
+      "o": [
+        "Weather systems",
+        "Earth's rocks",
+        "Classification of organisms",
+        "Chemical substances and processes in living organisms"
+      ],
+      "a": 3,
+      "e": "Biochemistry examines chemicals and reactions of life.",
+      "d": "Easy",
+      "topic": "Biochemistry",
+      "slo": "Explain or identify: Biochemistry",
+      "concept_id": "CH6-C001"
+    },
+    {
+      "id": "BIO9CH6-002",
+      "q": "For a Chapter 6 revision test, what does biochemistry study?",
+      "o": [
+        "Weather systems",
+        "Classification of organisms",
+        "Chemical substances and processes in living organisms",
+        "Earth's rocks"
+      ],
+      "a": 2,
+      "e": "Biochemistry examines chemicals and reactions of life.",
+      "d": "Medium",
+      "topic": "Biochemistry",
+      "slo": "Explain or identify: Biochemistry",
+      "concept_id": "CH6-C001"
+    },
+    {
+      "id": "BIO9CH6-003",
+      "q": "Select the scientifically correct answer: what does biochemistry study?",
+      "o": [
+        "Earth's rocks",
+        "Chemical substances and processes in living organisms",
+        "Classification of organisms",
+        "Weather systems"
+      ],
+      "a": 1,
+      "e": "Biochemistry examines chemicals and reactions of life.",
+      "d": "Medium",
+      "topic": "Biochemistry",
+      "slo": "Explain or identify: Biochemistry",
+      "concept_id": "CH6-C001"
+    },
+    {
+      "id": "BIO9CH6-004",
+      "q": "Which two fields are closely linked by biochemistry?",
+      "o": [
+        "Biology and chemistry",
+        "Economics and geography",
+        "Geology and history",
+        "Physics and astronomy"
+      ],
+      "a": 0,
+      "e": "Biochemistry connects chemical principles to biological processes.",
+      "d": "Easy",
+      "topic": "Biochemistry",
+      "slo": "Explain or identify: Biochemistry",
+      "concept_id": "CH6-C002"
+    },
+    {
+      "id": "BIO9CH6-005",
+      "q": "For a Chapter 6 revision test, which two fields are closely linked by biochemistry?",
+      "o": [
+        "Economics and geography",
+        "Geology and history",
+        "Physics and astronomy",
+        "Biology and chemistry"
+      ],
+      "a": 3,
+      "e": "Biochemistry connects chemical principles to biological processes.",
+      "d": "Medium",
+      "topic": "Biochemistry",
+      "slo": "Explain or identify: Biochemistry",
+      "concept_id": "CH6-C002"
+    },
+    {
+      "id": "BIO9CH6-006",
+      "q": "Select the scientifically correct answer: which two fields are closely linked by biochemistry?",
+      "o": [
+        "Economics and geography",
+        "Physics and astronomy",
+        "Biology and chemistry",
+        "Geology and history"
+      ],
+      "a": 2,
+      "e": "Biochemistry connects chemical principles to biological processes.",
+      "d": "Medium",
+      "topic": "Biochemistry",
+      "slo": "Explain or identify: Biochemistry",
+      "concept_id": "CH6-C002"
+    },
+    {
+      "id": "BIO9CH6-007",
+      "q": "What is a major focus of molecular biology?",
+      "o": [
+        "Only fossil age",
+        "Only ecosystem climate",
+        "Only animal behaviour",
+        "Interactions of biomolecules inside cells"
+      ],
+      "a": 3,
+      "e": "Molecular biology examines molecules and their interactions in cells.",
+      "d": "Easy",
+      "topic": "Molecular biology",
+      "slo": "Explain or identify: Molecular biology",
+      "concept_id": "CH6-C003"
+    },
+    {
+      "id": "BIO9CH6-008",
+      "q": "For a Chapter 6 revision test, what is a major focus of molecular biology?",
+      "o": [
+        "Only animal behaviour",
+        "Only fossil age",
+        "Interactions of biomolecules inside cells",
+        "Only ecosystem climate"
+      ],
+      "a": 2,
+      "e": "Molecular biology examines molecules and their interactions in cells.",
+      "d": "Medium",
+      "topic": "Molecular biology",
+      "slo": "Explain or identify: Molecular biology",
+      "concept_id": "CH6-C003"
+    },
+    {
+      "id": "BIO9CH6-009",
+      "q": "Select the scientifically correct answer: what is a major focus of molecular biology?",
+      "o": [
+        "Only fossil age",
+        "Only ecosystem climate",
+        "Interactions of biomolecules inside cells",
+        "Only animal behaviour"
+      ],
+      "a": 2,
+      "e": "Molecular biology examines molecules and their interactions in cells.",
+      "d": "Medium",
+      "topic": "Molecular biology",
+      "slo": "Explain or identify: Molecular biology",
+      "concept_id": "CH6-C003"
+    },
+    {
+      "id": "BIO9CH6-010",
+      "q": "Which process is studied in molecular biology?",
+      "o": [
+        "DNA replication",
+        "Rock erosion",
+        "Planetary motion",
+        "Soil formation"
+      ],
+      "a": 0,
+      "e": "DNA replication is a molecular process involving nucleic acids and enzymes.",
+      "d": "Easy",
+      "topic": "Molecular biology",
+      "slo": "Explain or identify: Molecular biology",
+      "concept_id": "CH6-C004"
+    },
+    {
+      "id": "BIO9CH6-011",
+      "q": "For a Chapter 6 revision test, which process is studied in molecular biology?",
+      "o": [
+        "DNA replication",
+        "Soil formation",
+        "Planetary motion",
+        "Rock erosion"
+      ],
+      "a": 0,
+      "e": "DNA replication is a molecular process involving nucleic acids and enzymes.",
+      "d": "Medium",
+      "topic": "Molecular biology",
+      "slo": "Explain or identify: Molecular biology",
+      "concept_id": "CH6-C004"
+    },
+    {
+      "id": "BIO9CH6-012",
+      "q": "Select the scientifically correct answer: which process is studied in molecular biology?",
+      "o": [
+        "Rock erosion",
+        "Planetary motion",
+        "Soil formation",
+        "DNA replication"
+      ],
+      "a": 3,
+      "e": "DNA replication is a molecular process involving nucleic acids and enzymes.",
+      "d": "Medium",
+      "topic": "Molecular biology",
+      "slo": "Explain or identify: Molecular biology",
+      "concept_id": "CH6-C004"
+    },
+    {
+      "id": "BIO9CH6-013",
+      "q": "Which process can be explained using biochemistry?",
+      "o": [
+        "Lunar eclipse",
+        "Tectonic plate motion",
+        "Photosynthesis",
+        "Ocean tides"
+      ],
+      "a": 2,
+      "e": "Photosynthesis involves a series of biochemical reactions.",
+      "d": "Easy",
+      "topic": "Biochemistry applications",
+      "slo": "Explain or identify: Biochemistry applications",
+      "concept_id": "CH6-C005"
+    },
+    {
+      "id": "BIO9CH6-014",
+      "q": "For a Chapter 6 revision test, which process can be explained using biochemistry?",
+      "o": [
+        "Ocean tides",
+        "Tectonic plate motion",
+        "Photosynthesis",
+        "Lunar eclipse"
+      ],
+      "a": 2,
+      "e": "Photosynthesis involves a series of biochemical reactions.",
+      "d": "Medium",
+      "topic": "Biochemistry applications",
+      "slo": "Explain or identify: Biochemistry applications",
+      "concept_id": "CH6-C005"
+    },
+    {
+      "id": "BIO9CH6-015",
+      "q": "Select the scientifically correct answer: which process can be explained using biochemistry?",
+      "o": [
+        "Lunar eclipse",
+        "Tectonic plate motion",
+        "Ocean tides",
+        "Photosynthesis"
+      ],
+      "a": 3,
+      "e": "Photosynthesis involves a series of biochemical reactions.",
+      "d": "Medium",
+      "topic": "Biochemistry applications",
+      "slo": "Explain or identify: Biochemistry applications",
+      "concept_id": "CH6-C005"
+    },
+    {
+      "id": "BIO9CH6-016",
+      "q": "Why is biochemistry useful in understanding digestion?",
+      "o": [
+        "It measures rainfall",
+        "It predicts planetary orbits",
+        "It explains chemical breakdown of food",
+        "It classifies rocks"
+      ],
+      "a": 2,
+      "e": "Digestive enzymes catalyse chemical reactions on nutrients.",
+      "d": "Easy",
+      "topic": "Biochemistry applications",
+      "slo": "Explain or identify: Biochemistry applications",
+      "concept_id": "CH6-C006"
+    },
+    {
+      "id": "BIO9CH6-017",
+      "q": "For a Chapter 6 revision test, why is biochemistry useful in understanding digestion?",
+      "o": [
+        "It measures rainfall",
+        "It predicts planetary orbits",
+        "It explains chemical breakdown of food",
+        "It classifies rocks"
+      ],
+      "a": 2,
+      "e": "Digestive enzymes catalyse chemical reactions on nutrients.",
+      "d": "Medium",
+      "topic": "Biochemistry applications",
+      "slo": "Explain or identify: Biochemistry applications",
+      "concept_id": "CH6-C006"
+    },
+    {
+      "id": "BIO9CH6-018",
+      "q": "Select the scientifically correct answer: why is biochemistry useful in understanding digestion?",
+      "o": [
+        "It classifies rocks",
+        "It explains chemical breakdown of food",
+        "It measures rainfall",
+        "It predicts planetary orbits"
+      ],
+      "a": 1,
+      "e": "Digestive enzymes catalyse chemical reactions on nutrients.",
+      "d": "Medium",
+      "topic": "Biochemistry applications",
+      "slo": "Explain or identify: Biochemistry applications",
+      "concept_id": "CH6-C006"
+    },
+    {
+      "id": "BIO9CH6-019",
+      "q": "Which six elements form most human body mass?",
+      "o": [
+        "Oxygen, carbon, hydrogen, nitrogen, calcium and phosphorus",
+        "Iron, zinc, iodine, copper, silver and gold",
+        "Sodium, potassium, chlorine, bromine, fluorine and iodine",
+        "Silicon, aluminium, magnesium, sulfur, iron and nickel"
+      ],
+      "a": 0,
+      "e": "The textbook lists these six as major bioelements.",
+      "d": "Easy",
+      "topic": "Bioelements",
+      "slo": "Explain or identify: Bioelements",
+      "concept_id": "CH6-C007"
+    },
+    {
+      "id": "BIO9CH6-020",
+      "q": "For a Chapter 6 revision test, which six elements form most human body mass?",
+      "o": [
+        "Iron, zinc, iodine, copper, silver and gold",
+        "Sodium, potassium, chlorine, bromine, fluorine and iodine",
+        "Silicon, aluminium, magnesium, sulfur, iron and nickel",
+        "Oxygen, carbon, hydrogen, nitrogen, calcium and phosphorus"
+      ],
+      "a": 3,
+      "e": "The textbook lists these six as major bioelements.",
+      "d": "Medium",
+      "topic": "Bioelements",
+      "slo": "Explain or identify: Bioelements",
+      "concept_id": "CH6-C007"
+    },
+    {
+      "id": "BIO9CH6-021",
+      "q": "Select the scientifically correct answer: which six elements form most human body mass?",
+      "o": [
+        "Sodium, potassium, chlorine, bromine, fluorine and iodine",
+        "Silicon, aluminium, magnesium, sulfur, iron and nickel",
+        "Iron, zinc, iodine, copper, silver and gold",
+        "Oxygen, carbon, hydrogen, nitrogen, calcium and phosphorus"
+      ],
+      "a": 3,
+      "e": "The textbook lists these six as major bioelements.",
+      "d": "Medium",
+      "topic": "Bioelements",
+      "slo": "Explain or identify: Bioelements",
+      "concept_id": "CH6-C007"
+    },
+    {
+      "id": "BIO9CH6-022",
+      "q": "Which element makes up the largest proportion of human body mass?",
+      "o": [
+        "Calcium",
+        "Iron",
+        "Phosphorus",
+        "Oxygen"
+      ],
+      "a": 3,
+      "e": "The textbook chart shows oxygen as the largest contributor.",
+      "d": "Easy",
+      "topic": "Bioelements",
+      "slo": "Explain or identify: Bioelements",
+      "concept_id": "CH6-C008"
+    },
+    {
+      "id": "BIO9CH6-023",
+      "q": "For a Chapter 6 revision test, which element makes up the largest proportion of human body mass?",
+      "o": [
+        "Iron",
+        "Oxygen",
+        "Calcium",
+        "Phosphorus"
+      ],
+      "a": 1,
+      "e": "The textbook chart shows oxygen as the largest contributor.",
+      "d": "Medium",
+      "topic": "Bioelements",
+      "slo": "Explain or identify: Bioelements",
+      "concept_id": "CH6-C008"
+    },
+    {
+      "id": "BIO9CH6-024",
+      "q": "Select the scientifically correct answer: which element makes up the largest proportion of human body mass?",
+      "o": [
+        "Phosphorus",
+        "Iron",
+        "Calcium",
+        "Oxygen"
+      ],
+      "a": 3,
+      "e": "The textbook chart shows oxygen as the largest contributor.",
+      "d": "Medium",
+      "topic": "Bioelements",
+      "slo": "Explain or identify: Bioelements",
+      "concept_id": "CH6-C008"
+    },
+    {
+      "id": "BIO9CH6-025",
+      "q": "Approximately what percentage of human body mass is oxygen?",
+      "o": [
+        "65%",
+        "1%",
+        "10%",
+        "3%"
+      ],
+      "a": 0,
+      "e": "The chapter's bioelement chart gives about 65% oxygen.",
+      "d": "Easy",
+      "topic": "Bioelements",
+      "slo": "Explain or identify: Bioelements",
+      "concept_id": "CH6-C009"
+    },
+    {
+      "id": "BIO9CH6-026",
+      "q": "For a Chapter 6 revision test, approximately what percentage of human body mass is oxygen?",
+      "o": [
+        "10%",
+        "65%",
+        "1%",
+        "3%"
+      ],
+      "a": 1,
+      "e": "The chapter's bioelement chart gives about 65% oxygen.",
+      "d": "Medium",
+      "topic": "Bioelements",
+      "slo": "Explain or identify: Bioelements",
+      "concept_id": "CH6-C009"
+    },
+    {
+      "id": "BIO9CH6-027",
+      "q": "Select the scientifically correct answer: approximately what percentage of human body mass is oxygen?",
+      "o": [
+        "1%",
+        "10%",
+        "3%",
+        "65%"
+      ],
+      "a": 3,
+      "e": "The chapter's bioelement chart gives about 65% oxygen.",
+      "d": "Medium",
+      "topic": "Bioelements",
+      "slo": "Explain or identify: Bioelements",
+      "concept_id": "CH6-C009"
+    },
+    {
+      "id": "BIO9CH6-028",
+      "q": "Approximately what percentage of human body mass is carbon?",
+      "o": [
+        "18%",
+        "3%",
+        "65%",
+        "1%"
+      ],
+      "a": 0,
+      "e": "Carbon accounts for approximately 18% in the textbook chart.",
+      "d": "Easy",
+      "topic": "Bioelements",
+      "slo": "Explain or identify: Bioelements",
+      "concept_id": "CH6-C010"
+    },
+    {
+      "id": "BIO9CH6-029",
+      "q": "For a Chapter 6 revision test, approximately what percentage of human body mass is carbon?",
+      "o": [
+        "3%",
+        "65%",
+        "18%",
+        "1%"
+      ],
+      "a": 2,
+      "e": "Carbon accounts for approximately 18% in the textbook chart.",
+      "d": "Medium",
+      "topic": "Bioelements",
+      "slo": "Explain or identify: Bioelements",
+      "concept_id": "CH6-C010"
+    },
+    {
+      "id": "BIO9CH6-030",
+      "q": "Select the scientifically correct answer: approximately what percentage of human body mass is carbon?",
+      "o": [
+        "65%",
+        "1%",
+        "3%",
+        "18%"
+      ],
+      "a": 3,
+      "e": "Carbon accounts for approximately 18% in the textbook chart.",
+      "d": "Medium",
+      "topic": "Bioelements",
+      "slo": "Explain or identify: Bioelements",
+      "concept_id": "CH6-C010"
+    },
+    {
+      "id": "BIO9CH6-031",
+      "q": "Approximately what percentage of human body mass is hydrogen?",
+      "o": [
+        "10%",
+        "65%",
+        "18%",
+        "1%"
+      ],
+      "a": 0,
+      "e": "Hydrogen contributes approximately 10% by mass.",
+      "d": "Easy",
+      "topic": "Bioelements",
+      "slo": "Explain or identify: Bioelements",
+      "concept_id": "CH6-C011"
+    },
+    {
+      "id": "BIO9CH6-032",
+      "q": "For a Chapter 6 revision test, approximately what percentage of human body mass is hydrogen?",
+      "o": [
+        "65%",
+        "10%",
+        "1%",
+        "18%"
+      ],
+      "a": 1,
+      "e": "Hydrogen contributes approximately 10% by mass.",
+      "d": "Medium",
+      "topic": "Bioelements",
+      "slo": "Explain or identify: Bioelements",
+      "concept_id": "CH6-C011"
+    },
+    {
+      "id": "BIO9CH6-033",
+      "q": "Select the scientifically correct answer: approximately what percentage of human body mass is hydrogen?",
+      "o": [
+        "10%",
+        "18%",
+        "1%",
+        "65%"
+      ],
+      "a": 0,
+      "e": "Hydrogen contributes approximately 10% by mass.",
+      "d": "Medium",
+      "topic": "Bioelements",
+      "slo": "Explain or identify: Bioelements",
+      "concept_id": "CH6-C011"
+    },
+    {
+      "id": "BIO9CH6-034",
+      "q": "Approximately what percentage of human body mass is nitrogen?",
+      "o": [
+        "3%",
+        "10%",
+        "18%",
+        "65%"
+      ],
+      "a": 0,
+      "e": "Nitrogen is listed as about 3% of human body mass.",
+      "d": "Easy",
+      "topic": "Bioelements",
+      "slo": "Explain or identify: Bioelements",
+      "concept_id": "CH6-C012"
+    },
+    {
+      "id": "BIO9CH6-035",
+      "q": "For a Chapter 6 revision test, approximately what percentage of human body mass is nitrogen?",
+      "o": [
+        "65%",
+        "3%",
+        "10%",
+        "18%"
+      ],
+      "a": 1,
+      "e": "Nitrogen is listed as about 3% of human body mass.",
+      "d": "Medium",
+      "topic": "Bioelements",
+      "slo": "Explain or identify: Bioelements",
+      "concept_id": "CH6-C012"
+    },
+    {
+      "id": "BIO9CH6-036",
+      "q": "Select the scientifically correct answer: approximately what percentage of human body mass is nitrogen?",
+      "o": [
+        "65%",
+        "18%",
+        "10%",
+        "3%"
+      ],
+      "a": 3,
+      "e": "Nitrogen is listed as about 3% of human body mass.",
+      "d": "Medium",
+      "topic": "Bioelements",
+      "slo": "Explain or identify: Bioelements",
+      "concept_id": "CH6-C012"
+    },
+    {
+      "id": "BIO9CH6-037",
+      "q": "Approximately what percentage of human body mass is calcium?",
+      "o": [
+        "65%",
+        "10%",
+        "18%",
+        "2%"
+      ],
+      "a": 3,
+      "e": "The chapter's chart shows about 2% calcium.",
+      "d": "Easy",
+      "topic": "Bioelements",
+      "slo": "Explain or identify: Bioelements",
+      "concept_id": "CH6-C013"
+    },
+    {
+      "id": "BIO9CH6-038",
+      "q": "For a Chapter 6 revision test, approximately what percentage of human body mass is calcium?",
+      "o": [
+        "2%",
+        "10%",
+        "18%",
+        "65%"
+      ],
+      "a": 0,
+      "e": "The chapter's chart shows about 2% calcium.",
+      "d": "Medium",
+      "topic": "Bioelements",
+      "slo": "Explain or identify: Bioelements",
+      "concept_id": "CH6-C013"
+    },
+    {
+      "id": "BIO9CH6-039",
+      "q": "Select the scientifically correct answer: approximately what percentage of human body mass is calcium?",
+      "o": [
+        "18%",
+        "10%",
+        "65%",
+        "2%"
+      ],
+      "a": 3,
+      "e": "The chapter's chart shows about 2% calcium.",
+      "d": "Medium",
+      "topic": "Bioelements",
+      "slo": "Explain or identify: Bioelements",
+      "concept_id": "CH6-C013"
+    },
+    {
+      "id": "BIO9CH6-040",
+      "q": "Approximately what percentage of human body mass is phosphorus?",
+      "o": [
+        "18%",
+        "65%",
+        "10%",
+        "1%"
+      ],
+      "a": 3,
+      "e": "The chapter's chart shows about 1% phosphorus.",
+      "d": "Easy",
+      "topic": "Bioelements",
+      "slo": "Explain or identify: Bioelements",
+      "concept_id": "CH6-C014"
+    },
+    {
+      "id": "BIO9CH6-041",
+      "q": "For a Chapter 6 revision test, approximately what percentage of human body mass is phosphorus?",
+      "o": [
+        "18%",
+        "65%",
+        "10%",
+        "1%"
+      ],
+      "a": 3,
+      "e": "The chapter's chart shows about 1% phosphorus.",
+      "d": "Medium",
+      "topic": "Bioelements",
+      "slo": "Explain or identify: Bioelements",
+      "concept_id": "CH6-C014"
+    },
+    {
+      "id": "BIO9CH6-042",
+      "q": "Select the scientifically correct answer: approximately what percentage of human body mass is phosphorus?",
+      "o": [
+        "10%",
+        "18%",
+        "65%",
+        "1%"
+      ],
+      "a": 3,
+      "e": "The chapter's chart shows about 1% phosphorus.",
+      "d": "Medium",
+      "topic": "Bioelements",
+      "slo": "Explain or identify: Bioelements",
+      "concept_id": "CH6-C014"
+    },
+    {
+      "id": "BIO9CH6-043",
+      "q": "Which is a minor bioelement mentioned in the textbook?",
+      "o": [
+        "Zinc",
+        "Oxygen",
+        "Carbon",
+        "Hydrogen"
+      ],
+      "a": 0,
+      "e": "Zinc is among the trace or minor bioelements.",
+      "d": "Easy",
+      "topic": "Bioelements",
+      "slo": "Explain or identify: Bioelements",
+      "concept_id": "CH6-C015"
+    },
+    {
+      "id": "BIO9CH6-044",
+      "q": "For a Chapter 6 revision test, which is a minor bioelement mentioned in the textbook?",
+      "o": [
+        "Oxygen",
+        "Zinc",
+        "Carbon",
+        "Hydrogen"
+      ],
+      "a": 1,
+      "e": "Zinc is among the trace or minor bioelements.",
+      "d": "Medium",
+      "topic": "Bioelements",
+      "slo": "Explain or identify: Bioelements",
+      "concept_id": "CH6-C015"
+    },
+    {
+      "id": "BIO9CH6-045",
+      "q": "Select the scientifically correct answer: which is a minor bioelement mentioned in the textbook?",
+      "o": [
+        "Oxygen",
+        "Carbon",
+        "Zinc",
+        "Hydrogen"
+      ],
+      "a": 2,
+      "e": "Zinc is among the trace or minor bioelements.",
+      "d": "Medium",
+      "topic": "Bioelements",
+      "slo": "Explain or identify: Bioelements",
+      "concept_id": "CH6-C015"
+    },
+    {
+      "id": "BIO9CH6-046",
+      "q": "Which is another minor bioelement mentioned in the textbook?",
+      "o": [
+        "Calcium",
+        "Iodine",
+        "Nitrogen",
+        "Oxygen"
+      ],
+      "a": 1,
+      "e": "Iodine is needed in small amounts.",
+      "d": "Easy",
+      "topic": "Bioelements",
+      "slo": "Explain or identify: Bioelements",
+      "concept_id": "CH6-C016"
+    },
+    {
+      "id": "BIO9CH6-047",
+      "q": "For a Chapter 6 revision test, which is another minor bioelement mentioned in the textbook?",
+      "o": [
+        "Calcium",
+        "Oxygen",
+        "Iodine",
+        "Nitrogen"
+      ],
+      "a": 2,
+      "e": "Iodine is needed in small amounts.",
+      "d": "Medium",
+      "topic": "Bioelements",
+      "slo": "Explain or identify: Bioelements",
+      "concept_id": "CH6-C016"
+    },
+    {
+      "id": "BIO9CH6-048",
+      "q": "Select the scientifically correct answer: which is another minor bioelement mentioned in the textbook?",
+      "o": [
+        "Iodine",
+        "Oxygen",
+        "Calcium",
+        "Nitrogen"
+      ],
+      "a": 0,
+      "e": "Iodine is needed in small amounts.",
+      "d": "Medium",
+      "topic": "Bioelements",
+      "slo": "Explain or identify: Bioelements",
+      "concept_id": "CH6-C016"
+    },
+    {
+      "id": "BIO9CH6-049",
+      "q": "What are biological molecules?",
+      "o": [
+        "Only rocks in soil",
+        "Only atmospheric gases",
+        "Only synthetic plastics",
+        "Molecules used or produced by living organisms"
+      ],
+      "a": 3,
+      "e": "Biomolecules take part in living processes.",
+      "d": "Easy",
+      "topic": "Biomolecules",
+      "slo": "Explain or identify: Biomolecules",
+      "concept_id": "CH6-C017"
+    },
+    {
+      "id": "BIO9CH6-050",
+      "q": "For a Chapter 6 revision test, what are biological molecules?",
+      "o": [
+        "Molecules used or produced by living organisms",
+        "Only synthetic plastics",
+        "Only rocks in soil",
+        "Only atmospheric gases"
+      ],
+      "a": 0,
+      "e": "Biomolecules take part in living processes.",
+      "d": "Medium",
+      "topic": "Biomolecules",
+      "slo": "Explain or identify: Biomolecules",
+      "concept_id": "CH6-C017"
+    },
+    {
+      "id": "BIO9CH6-051",
+      "q": "Select the scientifically correct answer: what are biological molecules?",
+      "o": [
+        "Molecules used or produced by living organisms",
+        "Only synthetic plastics",
+        "Only rocks in soil",
+        "Only atmospheric gases"
+      ],
+      "a": 0,
+      "e": "Biomolecules take part in living processes.",
+      "d": "Medium",
+      "topic": "Biomolecules",
+      "slo": "Explain or identify: Biomolecules",
+      "concept_id": "CH6-C017"
+    },
+    {
+      "id": "BIO9CH6-052",
+      "q": "Which group contains major organic biomolecules?",
+      "o": [
+        "Carbohydrates, lipids, proteins and nucleic acids",
+        "Water, salt, sand and glass",
+        "Iron, copper, zinc and silver",
+        "Oxygen, nitrogen, helium and neon"
+      ],
+      "a": 0,
+      "e": "These four groups are central organic biomolecules.",
+      "d": "Easy",
+      "topic": "Biomolecules",
+      "slo": "Explain or identify: Biomolecules",
+      "concept_id": "CH6-C018"
+    },
+    {
+      "id": "BIO9CH6-053",
+      "q": "For a Chapter 6 revision test, which group contains major organic biomolecules?",
+      "o": [
+        "Iron, copper, zinc and silver",
+        "Carbohydrates, lipids, proteins and nucleic acids",
+        "Oxygen, nitrogen, helium and neon",
+        "Water, salt, sand and glass"
+      ],
+      "a": 1,
+      "e": "These four groups are central organic biomolecules.",
+      "d": "Medium",
+      "topic": "Biomolecules",
+      "slo": "Explain or identify: Biomolecules",
+      "concept_id": "CH6-C018"
+    },
+    {
+      "id": "BIO9CH6-054",
+      "q": "Select the scientifically correct answer: which group contains major organic biomolecules?",
+      "o": [
+        "Water, salt, sand and glass",
+        "Carbohydrates, lipids, proteins and nucleic acids",
+        "Iron, copper, zinc and silver",
+        "Oxygen, nitrogen, helium and neon"
+      ],
+      "a": 1,
+      "e": "These four groups are central organic biomolecules.",
+      "d": "Medium",
+      "topic": "Biomolecules",
+      "slo": "Explain or identify: Biomolecules",
+      "concept_id": "CH6-C018"
+    },
+    {
+      "id": "BIO9CH6-055",
+      "q": "Which are examples of inorganic biomolecules?",
+      "o": [
+        "Lipids and starch",
+        "Proteins and DNA",
+        "Water and mineral salts",
+        "RNA and glycogen"
+      ],
+      "a": 2,
+      "e": "The textbook distinguishes inorganic water and salts from organic biomolecules.",
+      "d": "Easy",
+      "topic": "Biomolecules",
+      "slo": "Explain or identify: Biomolecules",
+      "concept_id": "CH6-C019"
+    },
+    {
+      "id": "BIO9CH6-056",
+      "q": "For a Chapter 6 revision test, which are examples of inorganic biomolecules?",
+      "o": [
+        "Proteins and DNA",
+        "Lipids and starch",
+        "RNA and glycogen",
+        "Water and mineral salts"
+      ],
+      "a": 3,
+      "e": "The textbook distinguishes inorganic water and salts from organic biomolecules.",
+      "d": "Medium",
+      "topic": "Biomolecules",
+      "slo": "Explain or identify: Biomolecules",
+      "concept_id": "CH6-C019"
+    },
+    {
+      "id": "BIO9CH6-057",
+      "q": "Select the scientifically correct answer: which are examples of inorganic biomolecules?",
+      "o": [
+        "Lipids and starch",
+        "Proteins and DNA",
+        "RNA and glycogen",
+        "Water and mineral salts"
+      ],
+      "a": 3,
+      "e": "The textbook distinguishes inorganic water and salts from organic biomolecules.",
+      "d": "Medium",
+      "topic": "Biomolecules",
+      "slo": "Explain or identify: Biomolecules",
+      "concept_id": "CH6-C019"
+    },
+    {
+      "id": "BIO9CH6-058",
+      "q": "What is a monomer?",
+      "o": [
+        "A small unit that can join to form a polymer",
+        "A complete organ",
+        "A cell membrane",
+        "A chromosome pair"
+      ],
+      "a": 0,
+      "e": "Monomers link to make larger polymer molecules.",
+      "d": "Easy",
+      "topic": "Biomolecules",
+      "slo": "Explain or identify: Biomolecules",
+      "concept_id": "CH6-C020"
+    },
+    {
+      "id": "BIO9CH6-059",
+      "q": "For a Chapter 6 revision test, what is a monomer?",
+      "o": [
+        "A cell membrane",
+        "A small unit that can join to form a polymer",
+        "A chromosome pair",
+        "A complete organ"
+      ],
+      "a": 1,
+      "e": "Monomers link to make larger polymer molecules.",
+      "d": "Medium",
+      "topic": "Biomolecules",
+      "slo": "Explain or identify: Biomolecules",
+      "concept_id": "CH6-C020"
+    },
+    {
+      "id": "BIO9CH6-060",
+      "q": "Select the scientifically correct answer: what is a monomer?",
+      "o": [
+        "A chromosome pair",
+        "A cell membrane",
+        "A small unit that can join to form a polymer",
+        "A complete organ"
+      ],
+      "a": 2,
+      "e": "Monomers link to make larger polymer molecules.",
+      "d": "Medium",
+      "topic": "Biomolecules",
+      "slo": "Explain or identify: Biomolecules",
+      "concept_id": "CH6-C020"
+    },
+    {
+      "id": "BIO9CH6-061",
+      "q": "What is a polymer?",
+      "o": [
+        "A mineral crystal only",
+        "A tissue layer",
+        "A large molecule made of repeating smaller units",
+        "A single proton"
+      ],
+      "a": 2,
+      "e": "Polymers consist of linked monomers.",
+      "d": "Easy",
+      "topic": "Biomolecules",
+      "slo": "Explain or identify: Biomolecules",
+      "concept_id": "CH6-C021"
+    },
+    {
+      "id": "BIO9CH6-062",
+      "q": "For a Chapter 6 revision test, what is a polymer?",
+      "o": [
+        "A mineral crystal only",
+        "A tissue layer",
+        "A large molecule made of repeating smaller units",
+        "A single proton"
+      ],
+      "a": 2,
+      "e": "Polymers consist of linked monomers.",
+      "d": "Medium",
+      "topic": "Biomolecules",
+      "slo": "Explain or identify: Biomolecules",
+      "concept_id": "CH6-C021"
+    },
+    {
+      "id": "BIO9CH6-063",
+      "q": "Select the scientifically correct answer: what is a polymer?",
+      "o": [
+        "A tissue layer",
+        "A single proton",
+        "A mineral crystal only",
+        "A large molecule made of repeating smaller units"
+      ],
+      "a": 3,
+      "e": "Polymers consist of linked monomers.",
+      "d": "Medium",
+      "topic": "Biomolecules",
+      "slo": "Explain or identify: Biomolecules",
+      "concept_id": "CH6-C021"
+    },
+    {
+      "id": "BIO9CH6-064",
+      "q": "What are the monomers of proteins?",
+      "o": [
+        "Fatty acids",
+        "Nucleotides",
+        "Monosaccharides",
+        "Amino acids"
+      ],
+      "a": 3,
+      "e": "Proteins are chains of amino acids.",
+      "d": "Easy",
+      "topic": "Proteins",
+      "slo": "Explain or identify: Proteins",
+      "concept_id": "CH6-C022"
+    },
+    {
+      "id": "BIO9CH6-065",
+      "q": "For a Chapter 6 revision test, what are the monomers of proteins?",
+      "o": [
+        "Monosaccharides",
+        "Nucleotides",
+        "Amino acids",
+        "Fatty acids"
+      ],
+      "a": 2,
+      "e": "Proteins are chains of amino acids.",
+      "d": "Medium",
+      "topic": "Proteins",
+      "slo": "Explain or identify: Proteins",
+      "concept_id": "CH6-C022"
+    },
+    {
+      "id": "BIO9CH6-066",
+      "q": "Select the scientifically correct answer: what are the monomers of proteins?",
+      "o": [
+        "Amino acids",
+        "Fatty acids",
+        "Monosaccharides",
+        "Nucleotides"
+      ],
+      "a": 0,
+      "e": "Proteins are chains of amino acids.",
+      "d": "Medium",
+      "topic": "Proteins",
+      "slo": "Explain or identify: Proteins",
+      "concept_id": "CH6-C022"
+    },
+    {
+      "id": "BIO9CH6-067",
+      "q": "Which elements occur commonly in proteins?",
+      "o": [
+        "Only iron and copper",
+        "Only sodium and chlorine",
+        "Carbon, hydrogen, oxygen and nitrogen",
+        "Only calcium and phosphorus"
+      ],
+      "a": 2,
+      "e": "Proteins contain C, H, O and N and sometimes other elements.",
+      "d": "Easy",
+      "topic": "Proteins",
+      "slo": "Explain or identify: Proteins",
+      "concept_id": "CH6-C023"
+    },
+    {
+      "id": "BIO9CH6-068",
+      "q": "For a Chapter 6 revision test, which elements occur commonly in proteins?",
+      "o": [
+        "Only calcium and phosphorus",
+        "Only iron and copper",
+        "Only sodium and chlorine",
+        "Carbon, hydrogen, oxygen and nitrogen"
+      ],
+      "a": 3,
+      "e": "Proteins contain C, H, O and N and sometimes other elements.",
+      "d": "Medium",
+      "topic": "Proteins",
+      "slo": "Explain or identify: Proteins",
+      "concept_id": "CH6-C023"
+    },
+    {
+      "id": "BIO9CH6-069",
+      "q": "Select the scientifically correct answer: which elements occur commonly in proteins?",
+      "o": [
+        "Only sodium and chlorine",
+        "Only iron and copper",
+        "Only calcium and phosphorus",
+        "Carbon, hydrogen, oxygen and nitrogen"
+      ],
+      "a": 3,
+      "e": "Proteins contain C, H, O and N and sometimes other elements.",
+      "d": "Medium",
+      "topic": "Proteins",
+      "slo": "Explain or identify: Proteins",
+      "concept_id": "CH6-C023"
+    },
+    {
+      "id": "BIO9CH6-070",
+      "q": "Approximately how many common amino acid types build proteins?",
+      "o": [
+        "20",
+        "5",
+        "2",
+        "100"
+      ],
+      "a": 0,
+      "e": "About twenty standard amino acids occur in proteins.",
+      "d": "Easy",
+      "topic": "Amino acids",
+      "slo": "Explain or identify: Amino acids",
+      "concept_id": "CH6-C024"
+    },
+    {
+      "id": "BIO9CH6-071",
+      "q": "For a Chapter 6 revision test, approximately how many common amino acid types build proteins?",
+      "o": [
+        "5",
+        "20",
+        "2",
+        "100"
+      ],
+      "a": 1,
+      "e": "About twenty standard amino acids occur in proteins.",
+      "d": "Medium",
+      "topic": "Amino acids",
+      "slo": "Explain or identify: Amino acids",
+      "concept_id": "CH6-C024"
+    },
+    {
+      "id": "BIO9CH6-072",
+      "q": "Select the scientifically correct answer: approximately how many common amino acid types build proteins?",
+      "o": [
+        "100",
+        "2",
+        "20",
+        "5"
+      ],
+      "a": 2,
+      "e": "About twenty standard amino acids occur in proteins.",
+      "d": "Medium",
+      "topic": "Amino acids",
+      "slo": "Explain or identify: Amino acids",
+      "concept_id": "CH6-C024"
+    },
+    {
+      "id": "BIO9CH6-073",
+      "q": "Which functional group is present in an amino acid?",
+      "o": [
+        "Ester linkage only",
+        "Amino group",
+        "Phosphate group only",
+        "Aldehyde group only"
+      ],
+      "a": 1,
+      "e": "Amino acids contain an amino group and a carboxyl group.",
+      "d": "Easy",
+      "topic": "Amino acids",
+      "slo": "Explain or identify: Amino acids",
+      "concept_id": "CH6-C025"
+    },
+    {
+      "id": "BIO9CH6-074",
+      "q": "For a Chapter 6 revision test, which functional group is present in an amino acid?",
+      "o": [
+        "Ester linkage only",
+        "Phosphate group only",
+        "Amino group",
+        "Aldehyde group only"
+      ],
+      "a": 2,
+      "e": "Amino acids contain an amino group and a carboxyl group.",
+      "d": "Medium",
+      "topic": "Amino acids",
+      "slo": "Explain or identify: Amino acids",
+      "concept_id": "CH6-C025"
+    },
+    {
+      "id": "BIO9CH6-075",
+      "q": "Select the scientifically correct answer: which functional group is present in an amino acid?",
+      "o": [
+        "Amino group",
+        "Phosphate group only",
+        "Aldehyde group only",
+        "Ester linkage only"
+      ],
+      "a": 0,
+      "e": "Amino acids contain an amino group and a carboxyl group.",
+      "d": "Medium",
+      "topic": "Amino acids",
+      "slo": "Explain or identify: Amino acids",
+      "concept_id": "CH6-C025"
+    },
+    {
+      "id": "BIO9CH6-076",
+      "q": "Which other functional group is present in an amino acid?",
+      "o": [
+        "Ketone group only",
+        "Carboxyl group",
+        "Ether group only",
+        "Sulfate group only"
+      ],
+      "a": 1,
+      "e": "The carboxyl group is characteristic of amino acids.",
+      "d": "Easy",
+      "topic": "Amino acids",
+      "slo": "Explain or identify: Amino acids",
+      "concept_id": "CH6-C026"
+    },
+    {
+      "id": "BIO9CH6-077",
+      "q": "For a Chapter 6 revision test, which other functional group is present in an amino acid?",
+      "o": [
+        "Ether group only",
+        "Ketone group only",
+        "Carboxyl group",
+        "Sulfate group only"
+      ],
+      "a": 2,
+      "e": "The carboxyl group is characteristic of amino acids.",
+      "d": "Medium",
+      "topic": "Amino acids",
+      "slo": "Explain or identify: Amino acids",
+      "concept_id": "CH6-C026"
+    },
+    {
+      "id": "BIO9CH6-078",
+      "q": "Select the scientifically correct answer: which other functional group is present in an amino acid?",
+      "o": [
+        "Ether group only",
+        "Sulfate group only",
+        "Carboxyl group",
+        "Ketone group only"
+      ],
+      "a": 2,
+      "e": "The carboxyl group is characteristic of amino acids.",
+      "d": "Medium",
+      "topic": "Amino acids",
+      "slo": "Explain or identify: Amino acids",
+      "concept_id": "CH6-C026"
+    },
+    {
+      "id": "BIO9CH6-079",
+      "q": "What part of an amino acid varies among amino acid types?",
+      "o": [
+        "The R group or side chain",
+        "The amino group",
+        "The carboxyl group",
+        "The central carbon atom"
+      ],
+      "a": 0,
+      "e": "Different R groups give amino acids different properties.",
+      "d": "Easy",
+      "topic": "Amino acids",
+      "slo": "Explain or identify: Amino acids",
+      "concept_id": "CH6-C027"
+    },
+    {
+      "id": "BIO9CH6-080",
+      "q": "For a Chapter 6 revision test, what part of an amino acid varies among amino acid types?",
+      "o": [
+        "The R group or side chain",
+        "The central carbon atom",
+        "The carboxyl group",
+        "The amino group"
+      ],
+      "a": 0,
+      "e": "Different R groups give amino acids different properties.",
+      "d": "Medium",
+      "topic": "Amino acids",
+      "slo": "Explain or identify: Amino acids",
+      "concept_id": "CH6-C027"
+    },
+    {
+      "id": "BIO9CH6-081",
+      "q": "Select the scientifically correct answer: what part of an amino acid varies among amino acid types?",
+      "o": [
+        "The central carbon atom",
+        "The R group or side chain",
+        "The amino group",
+        "The carboxyl group"
+      ],
+      "a": 1,
+      "e": "Different R groups give amino acids different properties.",
+      "d": "Medium",
+      "topic": "Amino acids",
+      "slo": "Explain or identify: Amino acids",
+      "concept_id": "CH6-C027"
+    },
+    {
+      "id": "BIO9CH6-082",
+      "q": "What bond joins amino acids in a polypeptide?",
+      "o": [
+        "Glycosidic bond",
+        "Hydrogen bond between DNA bases",
+        "Ionic bond between salts",
+        "Peptide bond"
+      ],
+      "a": 3,
+      "e": "Peptide bonds link amino acids.",
+      "d": "Easy",
+      "topic": "Proteins",
+      "slo": "Explain or identify: Proteins",
+      "concept_id": "CH6-C028"
+    },
+    {
+      "id": "BIO9CH6-083",
+      "q": "For a Chapter 6 revision test, what bond joins amino acids in a polypeptide?",
+      "o": [
+        "Peptide bond",
+        "Hydrogen bond between DNA bases",
+        "Glycosidic bond",
+        "Ionic bond between salts"
+      ],
+      "a": 0,
+      "e": "Peptide bonds link amino acids.",
+      "d": "Medium",
+      "topic": "Proteins",
+      "slo": "Explain or identify: Proteins",
+      "concept_id": "CH6-C028"
+    },
+    {
+      "id": "BIO9CH6-084",
+      "q": "Select the scientifically correct answer: what bond joins amino acids in a polypeptide?",
+      "o": [
+        "Glycosidic bond",
+        "Hydrogen bond between DNA bases",
+        "Peptide bond",
+        "Ionic bond between salts"
+      ],
+      "a": 2,
+      "e": "Peptide bonds link amino acids.",
+      "d": "Medium",
+      "topic": "Proteins",
+      "slo": "Explain or identify: Proteins",
+      "concept_id": "CH6-C028"
+    },
+    {
+      "id": "BIO9CH6-085",
+      "q": "What is a polypeptide?",
+      "o": [
+        "A lipid bilayer",
+        "A chain of amino acids",
+        "A chain of glucose only",
+        "A double helix of DNA"
+      ],
+      "a": 1,
+      "e": "Polypeptides contain amino acids joined by peptide bonds.",
+      "d": "Easy",
+      "topic": "Proteins",
+      "slo": "Explain or identify: Proteins",
+      "concept_id": "CH6-C029"
+    },
+    {
+      "id": "BIO9CH6-086",
+      "q": "For a Chapter 6 revision test, what is a polypeptide?",
+      "o": [
+        "A lipid bilayer",
+        "A chain of glucose only",
+        "A double helix of DNA",
+        "A chain of amino acids"
+      ],
+      "a": 3,
+      "e": "Polypeptides contain amino acids joined by peptide bonds.",
+      "d": "Medium",
+      "topic": "Proteins",
+      "slo": "Explain or identify: Proteins",
+      "concept_id": "CH6-C029"
+    },
+    {
+      "id": "BIO9CH6-087",
+      "q": "Select the scientifically correct answer: what is a polypeptide?",
+      "o": [
+        "A double helix of DNA",
+        "A chain of glucose only",
+        "A chain of amino acids",
+        "A lipid bilayer"
+      ],
+      "a": 2,
+      "e": "Polypeptides contain amino acids joined by peptide bonds.",
+      "d": "Medium",
+      "topic": "Proteins",
+      "slo": "Explain or identify: Proteins",
+      "concept_id": "CH6-C029"
+    },
+    {
+      "id": "BIO9CH6-088",
+      "q": "What is primary protein structure?",
+      "o": [
+        "Sequence of amino acids",
+        "A folded chromosome",
+        "Overall arrangement of organs",
+        "The number of cells in a tissue"
+      ],
+      "a": 0,
+      "e": "Primary structure is the linear amino acid sequence.",
+      "d": "Easy",
+      "topic": "Protein structure",
+      "slo": "Explain or identify: Protein structure",
+      "concept_id": "CH6-C030"
+    },
+    {
+      "id": "BIO9CH6-089",
+      "q": "For a Chapter 6 revision test, what is primary protein structure?",
+      "o": [
+        "A folded chromosome",
+        "Sequence of amino acids",
+        "The number of cells in a tissue",
+        "Overall arrangement of organs"
+      ],
+      "a": 1,
+      "e": "Primary structure is the linear amino acid sequence.",
+      "d": "Medium",
+      "topic": "Protein structure",
+      "slo": "Explain or identify: Protein structure",
+      "concept_id": "CH6-C030"
+    },
+    {
+      "id": "BIO9CH6-090",
+      "q": "Select the scientifically correct answer: what is primary protein structure?",
+      "o": [
+        "The number of cells in a tissue",
+        "A folded chromosome",
+        "Sequence of amino acids",
+        "Overall arrangement of organs"
+      ],
+      "a": 2,
+      "e": "Primary structure is the linear amino acid sequence.",
+      "d": "Medium",
+      "topic": "Protein structure",
+      "slo": "Explain or identify: Protein structure",
+      "concept_id": "CH6-C030"
+    },
+    {
+      "id": "BIO9CH6-091",
+      "q": "What does secondary protein structure describe?",
+      "o": [
+        "Local folding of the polypeptide chain",
+        "The order of genes on chromosomes",
+        "The lipid content of a membrane",
+        "The number of cells"
+      ],
+      "a": 0,
+      "e": "Secondary structure involves local folding such as helices and sheets.",
+      "d": "Easy",
+      "topic": "Protein structure",
+      "slo": "Explain or identify: Protein structure",
+      "concept_id": "CH6-C031"
+    },
+    {
+      "id": "BIO9CH6-092",
+      "q": "For a Chapter 6 revision test, what does secondary protein structure describe?",
+      "o": [
+        "The number of cells",
+        "The lipid content of a membrane",
+        "Local folding of the polypeptide chain",
+        "The order of genes on chromosomes"
+      ],
+      "a": 2,
+      "e": "Secondary structure involves local folding such as helices and sheets.",
+      "d": "Medium",
+      "topic": "Protein structure",
+      "slo": "Explain or identify: Protein structure",
+      "concept_id": "CH6-C031"
+    },
+    {
+      "id": "BIO9CH6-093",
+      "q": "Select the scientifically correct answer: what does secondary protein structure describe?",
+      "o": [
+        "The lipid content of a membrane",
+        "The number of cells",
+        "Local folding of the polypeptide chain",
+        "The order of genes on chromosomes"
+      ],
+      "a": 2,
+      "e": "Secondary structure involves local folding such as helices and sheets.",
+      "d": "Medium",
+      "topic": "Protein structure",
+      "slo": "Explain or identify: Protein structure",
+      "concept_id": "CH6-C031"
+    },
+    {
+      "id": "BIO9CH6-094",
+      "q": "What does tertiary protein structure describe?",
+      "o": [
+        "The DNA double helix",
+        "Only the number of peptide bonds",
+        "Overall three-dimensional folding of one polypeptide",
+        "A sequence of nucleotides"
+      ],
+      "a": 2,
+      "e": "Tertiary structure is the overall folded shape of a polypeptide.",
+      "d": "Easy",
+      "topic": "Protein structure",
+      "slo": "Explain or identify: Protein structure",
+      "concept_id": "CH6-C032"
+    },
+    {
+      "id": "BIO9CH6-095",
+      "q": "For a Chapter 6 revision test, what does tertiary protein structure describe?",
+      "o": [
+        "Overall three-dimensional folding of one polypeptide",
+        "Only the number of peptide bonds",
+        "A sequence of nucleotides",
+        "The DNA double helix"
+      ],
+      "a": 0,
+      "e": "Tertiary structure is the overall folded shape of a polypeptide.",
+      "d": "Medium",
+      "topic": "Protein structure",
+      "slo": "Explain or identify: Protein structure",
+      "concept_id": "CH6-C032"
+    },
+    {
+      "id": "BIO9CH6-096",
+      "q": "Select the scientifically correct answer: what does tertiary protein structure describe?",
+      "o": [
+        "Only the number of peptide bonds",
+        "The DNA double helix",
+        "Overall three-dimensional folding of one polypeptide",
+        "A sequence of nucleotides"
+      ],
+      "a": 2,
+      "e": "Tertiary structure is the overall folded shape of a polypeptide.",
+      "d": "Medium",
+      "topic": "Protein structure",
+      "slo": "Explain or identify: Protein structure",
+      "concept_id": "CH6-C032"
+    },
+    {
+      "id": "BIO9CH6-097",
+      "q": "When does a protein have quaternary structure?",
+      "o": [
+        "When it is only a sugar",
+        "When it lacks any folding",
+        "When it contains one amino acid",
+        "When multiple polypeptide subunits associate"
+      ],
+      "a": 3,
+      "e": "Quaternary structure involves association of polypeptide subunits.",
+      "d": "Easy",
+      "topic": "Protein structure",
+      "slo": "Explain or identify: Protein structure",
+      "concept_id": "CH6-C033"
+    },
+    {
+      "id": "BIO9CH6-098",
+      "q": "For a Chapter 6 revision test, when does a protein have quaternary structure?",
+      "o": [
+        "When multiple polypeptide subunits associate",
+        "When it contains one amino acid",
+        "When it is only a sugar",
+        "When it lacks any folding"
+      ],
+      "a": 0,
+      "e": "Quaternary structure involves association of polypeptide subunits.",
+      "d": "Medium",
+      "topic": "Protein structure",
+      "slo": "Explain or identify: Protein structure",
+      "concept_id": "CH6-C033"
+    },
+    {
+      "id": "BIO9CH6-099",
+      "q": "Select the scientifically correct answer: when does a protein have quaternary structure?",
+      "o": [
+        "When it is only a sugar",
+        "When it contains one amino acid",
+        "When multiple polypeptide subunits associate",
+        "When it lacks any folding"
+      ],
+      "a": 2,
+      "e": "Quaternary structure involves association of polypeptide subunits.",
+      "d": "Medium",
+      "topic": "Protein structure",
+      "slo": "Explain or identify: Protein structure",
+      "concept_id": "CH6-C033"
+    },
+    {
+      "id": "BIO9CH6-100",
+      "q": "Which protein can transport oxygen in blood?",
+      "o": [
+        "Starch",
+        "Haemoglobin",
+        "Cholesterol",
+        "Cellulose"
+      ],
+      "a": 1,
+      "e": "Haemoglobin is an oxygen-transport protein.",
+      "d": "Easy",
+      "topic": "Protein function",
+      "slo": "Explain or identify: Protein function",
+      "concept_id": "CH6-C034"
+    },
+    {
+      "id": "BIO9CH6-101",
+      "q": "For a Chapter 6 revision test, which protein can transport oxygen in blood?",
+      "o": [
+        "Starch",
+        "Cellulose",
+        "Haemoglobin",
+        "Cholesterol"
+      ],
+      "a": 2,
+      "e": "Haemoglobin is an oxygen-transport protein.",
+      "d": "Medium",
+      "topic": "Protein function",
+      "slo": "Explain or identify: Protein function",
+      "concept_id": "CH6-C034"
+    },
+    {
+      "id": "BIO9CH6-102",
+      "q": "Select the scientifically correct answer: which protein can transport oxygen in blood?",
+      "o": [
+        "Starch",
+        "Haemoglobin",
+        "Cholesterol",
+        "Cellulose"
+      ],
+      "a": 1,
+      "e": "Haemoglobin is an oxygen-transport protein.",
+      "d": "Medium",
+      "topic": "Protein function",
+      "slo": "Explain or identify: Protein function",
+      "concept_id": "CH6-C034"
+    },
+    {
+      "id": "BIO9CH6-103",
+      "q": "Which type of protein speeds up biochemical reactions?",
+      "o": [
+        "Triglycerides",
+        "Starch granules",
+        "Enzymes",
+        "DNA nucleotides"
+      ],
+      "a": 2,
+      "e": "Most enzymes are proteins that catalyse reactions.",
+      "d": "Easy",
+      "topic": "Protein function",
+      "slo": "Explain or identify: Protein function",
+      "concept_id": "CH6-C035"
+    },
+    {
+      "id": "BIO9CH6-104",
+      "q": "For a Chapter 6 revision test, which type of protein speeds up biochemical reactions?",
+      "o": [
+        "Enzymes",
+        "DNA nucleotides",
+        "Triglycerides",
+        "Starch granules"
+      ],
+      "a": 0,
+      "e": "Most enzymes are proteins that catalyse reactions.",
+      "d": "Medium",
+      "topic": "Protein function",
+      "slo": "Explain or identify: Protein function",
+      "concept_id": "CH6-C035"
+    },
+    {
+      "id": "BIO9CH6-105",
+      "q": "Select the scientifically correct answer: which type of protein speeds up biochemical reactions?",
+      "o": [
+        "Triglycerides",
+        "Starch granules",
+        "DNA nucleotides",
+        "Enzymes"
+      ],
+      "a": 3,
+      "e": "Most enzymes are proteins that catalyse reactions.",
+      "d": "Medium",
+      "topic": "Protein function",
+      "slo": "Explain or identify: Protein function",
+      "concept_id": "CH6-C035"
+    },
+    {
+      "id": "BIO9CH6-106",
+      "q": "What is a function of antibodies?",
+      "o": [
+        "Transmitting nerve impulses directly",
+        "Building cellulose walls",
+        "Storing starch",
+        "Defence against specific antigens"
+      ],
+      "a": 3,
+      "e": "Antibodies are immune proteins.",
+      "d": "Easy",
+      "topic": "Protein function",
+      "slo": "Explain or identify: Protein function",
+      "concept_id": "CH6-C036"
+    },
+    {
+      "id": "BIO9CH6-107",
+      "q": "For a Chapter 6 revision test, what is a function of antibodies?",
+      "o": [
+        "Building cellulose walls",
+        "Storing starch",
+        "Transmitting nerve impulses directly",
+        "Defence against specific antigens"
+      ],
+      "a": 3,
+      "e": "Antibodies are immune proteins.",
+      "d": "Medium",
+      "topic": "Protein function",
+      "slo": "Explain or identify: Protein function",
+      "concept_id": "CH6-C036"
+    },
+    {
+      "id": "BIO9CH6-108",
+      "q": "Select the scientifically correct answer: what is a function of antibodies?",
+      "o": [
+        "Storing starch",
+        "Building cellulose walls",
+        "Transmitting nerve impulses directly",
+        "Defence against specific antigens"
+      ],
+      "a": 3,
+      "e": "Antibodies are immune proteins.",
+      "d": "Medium",
+      "topic": "Protein function",
+      "slo": "Explain or identify: Protein function",
+      "concept_id": "CH6-C036"
+    },
+    {
+      "id": "BIO9CH6-109",
+      "q": "Which protein type contributes to muscle contraction?",
+      "o": [
+        "Actin and myosin",
+        "DNA and RNA",
+        "Glucose and fructose",
+        "Starch and glycogen"
+      ],
+      "a": 0,
+      "e": "Actin and myosin participate in muscle contraction.",
+      "d": "Easy",
+      "topic": "Protein function",
+      "slo": "Explain or identify: Protein function",
+      "concept_id": "CH6-C037"
+    },
+    {
+      "id": "BIO9CH6-110",
+      "q": "For a Chapter 6 revision test, which protein type contributes to muscle contraction?",
+      "o": [
+        "DNA and RNA",
+        "Glucose and fructose",
+        "Starch and glycogen",
+        "Actin and myosin"
+      ],
+      "a": 3,
+      "e": "Actin and myosin participate in muscle contraction.",
+      "d": "Medium",
+      "topic": "Protein function",
+      "slo": "Explain or identify: Protein function",
+      "concept_id": "CH6-C037"
+    },
+    {
+      "id": "BIO9CH6-111",
+      "q": "Select the scientifically correct answer: which protein type contributes to muscle contraction?",
+      "o": [
+        "Actin and myosin",
+        "Glucose and fructose",
+        "Starch and glycogen",
+        "DNA and RNA"
+      ],
+      "a": 0,
+      "e": "Actin and myosin participate in muscle contraction.",
+      "d": "Medium",
+      "topic": "Protein function",
+      "slo": "Explain or identify: Protein function",
+      "concept_id": "CH6-C037"
+    },
+    {
+      "id": "BIO9CH6-112",
+      "q": "What is a role of membrane transport proteins?",
+      "o": [
+        "Storing all hereditary information",
+        "Moving selected substances across membranes",
+        "Forming cellulose only",
+        "Synthesizing sunlight"
+      ],
+      "a": 1,
+      "e": "Channels and carriers assist movement across membranes.",
+      "d": "Easy",
+      "topic": "Protein function",
+      "slo": "Explain or identify: Protein function",
+      "concept_id": "CH6-C038"
+    },
+    {
+      "id": "BIO9CH6-113",
+      "q": "For a Chapter 6 revision test, what is a role of membrane transport proteins?",
+      "o": [
+        "Moving selected substances across membranes",
+        "Forming cellulose only",
+        "Synthesizing sunlight",
+        "Storing all hereditary information"
+      ],
+      "a": 0,
+      "e": "Channels and carriers assist movement across membranes.",
+      "d": "Medium",
+      "topic": "Protein function",
+      "slo": "Explain or identify: Protein function",
+      "concept_id": "CH6-C038"
+    },
+    {
+      "id": "BIO9CH6-114",
+      "q": "Select the scientifically correct answer: what is a role of membrane transport proteins?",
+      "o": [
+        "Moving selected substances across membranes",
+        "Storing all hereditary information",
+        "Synthesizing sunlight",
+        "Forming cellulose only"
+      ],
+      "a": 0,
+      "e": "Channels and carriers assist movement across membranes.",
+      "d": "Medium",
+      "topic": "Protein function",
+      "slo": "Explain or identify: Protein function",
+      "concept_id": "CH6-C038"
+    },
+    {
+      "id": "BIO9CH6-115",
+      "q": "Which property is typical of lipids?",
+      "o": [
+        "They are generally insoluble in water",
+        "They always dissolve readily in water",
+        "They are always proteins",
+        "They contain no carbon"
+      ],
+      "a": 0,
+      "e": "Many lipids are hydrophobic.",
+      "d": "Easy",
+      "topic": "Lipids",
+      "slo": "Explain or identify: Lipids",
+      "concept_id": "CH6-C039"
+    },
+    {
+      "id": "BIO9CH6-116",
+      "q": "For a Chapter 6 revision test, which property is typical of lipids?",
+      "o": [
+        "They always dissolve readily in water",
+        "They are always proteins",
+        "They are generally insoluble in water",
+        "They contain no carbon"
+      ],
+      "a": 2,
+      "e": "Many lipids are hydrophobic.",
+      "d": "Medium",
+      "topic": "Lipids",
+      "slo": "Explain or identify: Lipids",
+      "concept_id": "CH6-C039"
+    },
+    {
+      "id": "BIO9CH6-117",
+      "q": "Select the scientifically correct answer: which property is typical of lipids?",
+      "o": [
+        "They contain no carbon",
+        "They are generally insoluble in water",
+        "They always dissolve readily in water",
+        "They are always proteins"
+      ],
+      "a": 1,
+      "e": "Many lipids are hydrophobic.",
+      "d": "Medium",
+      "topic": "Lipids",
+      "slo": "Explain or identify: Lipids",
+      "concept_id": "CH6-C039"
+    },
+    {
+      "id": "BIO9CH6-118",
+      "q": "Which is an example of a lipid?",
+      "o": [
+        "Glycine",
+        "DNA",
+        "Glucose",
+        "Wax"
+      ],
+      "a": 3,
+      "e": "Waxes belong to the lipid group.",
+      "d": "Easy",
+      "topic": "Lipids",
+      "slo": "Explain or identify: Lipids",
+      "concept_id": "CH6-C040"
+    },
+    {
+      "id": "BIO9CH6-119",
+      "q": "For a Chapter 6 revision test, which is an example of a lipid?",
+      "o": [
+        "DNA",
+        "Wax",
+        "Glucose",
+        "Glycine"
+      ],
+      "a": 1,
+      "e": "Waxes belong to the lipid group.",
+      "d": "Medium",
+      "topic": "Lipids",
+      "slo": "Explain or identify: Lipids",
+      "concept_id": "CH6-C040"
+    },
+    {
+      "id": "BIO9CH6-120",
+      "q": "Select the scientifically correct answer: which is an example of a lipid?",
+      "o": [
+        "DNA",
+        "Glucose",
+        "Wax",
+        "Glycine"
+      ],
+      "a": 2,
+      "e": "Waxes belong to the lipid group.",
+      "d": "Medium",
+      "topic": "Lipids",
+      "slo": "Explain or identify: Lipids",
+      "concept_id": "CH6-C040"
+    },
+    {
+      "id": "BIO9CH6-121",
+      "q": "Which is another example of a lipid?",
+      "o": [
+        "Starch",
+        "Phospholipid",
+        "RNA",
+        "Haemoglobin"
+      ],
+      "a": 1,
+      "e": "Phospholipids are major membrane lipids.",
+      "d": "Easy",
+      "topic": "Lipids",
+      "slo": "Explain or identify: Lipids",
+      "concept_id": "CH6-C041"
+    },
+    {
+      "id": "BIO9CH6-122",
+      "q": "For a Chapter 6 revision test, which is another example of a lipid?",
+      "o": [
+        "Haemoglobin",
+        "Phospholipid",
+        "RNA",
+        "Starch"
+      ],
+      "a": 1,
+      "e": "Phospholipids are major membrane lipids.",
+      "d": "Medium",
+      "topic": "Lipids",
+      "slo": "Explain or identify: Lipids",
+      "concept_id": "CH6-C041"
+    },
+    {
+      "id": "BIO9CH6-123",
+      "q": "Select the scientifically correct answer: which is another example of a lipid?",
+      "o": [
+        "RNA",
+        "Phospholipid",
+        "Haemoglobin",
+        "Starch"
+      ],
+      "a": 1,
+      "e": "Phospholipids are major membrane lipids.",
+      "d": "Medium",
+      "topic": "Lipids",
+      "slo": "Explain or identify: Lipids",
+      "concept_id": "CH6-C041"
+    },
+    {
+      "id": "BIO9CH6-124",
+      "q": "What is a key role of fats in organisms?",
+      "o": [
+        "Long-term energy storage",
+        "Direct coding of genetic information",
+        "Catalysis of all reactions",
+        "Formation of peptide bonds"
+      ],
+      "a": 0,
+      "e": "Fats provide concentrated energy reserves.",
+      "d": "Easy",
+      "topic": "Lipids",
+      "slo": "Explain or identify: Lipids",
+      "concept_id": "CH6-C042"
+    },
+    {
+      "id": "BIO9CH6-125",
+      "q": "For a Chapter 6 revision test, what is a key role of fats in organisms?",
+      "o": [
+        "Formation of peptide bonds",
+        "Catalysis of all reactions",
+        "Direct coding of genetic information",
+        "Long-term energy storage"
+      ],
+      "a": 3,
+      "e": "Fats provide concentrated energy reserves.",
+      "d": "Medium",
+      "topic": "Lipids",
+      "slo": "Explain or identify: Lipids",
+      "concept_id": "CH6-C042"
+    },
+    {
+      "id": "BIO9CH6-126",
+      "q": "Select the scientifically correct answer: what is a key role of fats in organisms?",
+      "o": [
+        "Direct coding of genetic information",
+        "Long-term energy storage",
+        "Catalysis of all reactions",
+        "Formation of peptide bonds"
+      ],
+      "a": 1,
+      "e": "Fats provide concentrated energy reserves.",
+      "d": "Medium",
+      "topic": "Lipids",
+      "slo": "Explain or identify: Lipids",
+      "concept_id": "CH6-C042"
+    },
+    {
+      "id": "BIO9CH6-127",
+      "q": "Which lipids form much of the cell membrane bilayer?",
+      "o": [
+        "Cellulose",
+        "Glycogen",
+        "Triglycerides only",
+        "Phospholipids"
+      ],
+      "a": 3,
+      "e": "Phospholipids form the membrane bilayer.",
+      "d": "Easy",
+      "topic": "Lipids",
+      "slo": "Explain or identify: Lipids",
+      "concept_id": "CH6-C043"
+    },
+    {
+      "id": "BIO9CH6-128",
+      "q": "For a Chapter 6 revision test, which lipids form much of the cell membrane bilayer?",
+      "o": [
+        "Cellulose",
+        "Glycogen",
+        "Phospholipids",
+        "Triglycerides only"
+      ],
+      "a": 2,
+      "e": "Phospholipids form the membrane bilayer.",
+      "d": "Medium",
+      "topic": "Lipids",
+      "slo": "Explain or identify: Lipids",
+      "concept_id": "CH6-C043"
+    },
+    {
+      "id": "BIO9CH6-129",
+      "q": "Select the scientifically correct answer: which lipids form much of the cell membrane bilayer?",
+      "o": [
+        "Triglycerides only",
+        "Phospholipids",
+        "Cellulose",
+        "Glycogen"
+      ],
+      "a": 1,
+      "e": "Phospholipids form the membrane bilayer.",
+      "d": "Medium",
+      "topic": "Lipids",
+      "slo": "Explain or identify: Lipids",
+      "concept_id": "CH6-C043"
+    },
+    {
+      "id": "BIO9CH6-130",
+      "q": "What are common components of a triglyceride?",
+      "o": [
+        "Three amino acids and phosphate",
+        "Two nucleotides and calcium",
+        "Glycerol and three fatty acids",
+        "Ribose and four bases"
+      ],
+      "a": 2,
+      "e": "Triglycerides are formed from glycerol and three fatty acids.",
+      "d": "Easy",
+      "topic": "Lipids",
+      "slo": "Explain or identify: Lipids",
+      "concept_id": "CH6-C044"
+    },
+    {
+      "id": "BIO9CH6-131",
+      "q": "For a Chapter 6 revision test, what are common components of a triglyceride?",
+      "o": [
+        "Two nucleotides and calcium",
+        "Three amino acids and phosphate",
+        "Glycerol and three fatty acids",
+        "Ribose and four bases"
+      ],
+      "a": 2,
+      "e": "Triglycerides are formed from glycerol and three fatty acids.",
+      "d": "Medium",
+      "topic": "Lipids",
+      "slo": "Explain or identify: Lipids",
+      "concept_id": "CH6-C044"
+    },
+    {
+      "id": "BIO9CH6-132",
+      "q": "Select the scientifically correct answer: what are common components of a triglyceride?",
+      "o": [
+        "Two nucleotides and calcium",
+        "Three amino acids and phosphate",
+        "Ribose and four bases",
+        "Glycerol and three fatty acids"
+      ],
+      "a": 3,
+      "e": "Triglycerides are formed from glycerol and three fatty acids.",
+      "d": "Medium",
+      "topic": "Lipids",
+      "slo": "Explain or identify: Lipids",
+      "concept_id": "CH6-C044"
+    },
+    {
+      "id": "BIO9CH6-133",
+      "q": "Which lipid can help waterproof plant surfaces?",
+      "o": [
+        "Wax",
+        "Albumin",
+        "DNA",
+        "Glycogen"
+      ],
+      "a": 0,
+      "e": "Waxes form protective water-resistant coverings.",
+      "d": "Easy",
+      "topic": "Lipids",
+      "slo": "Explain or identify: Lipids",
+      "concept_id": "CH6-C045"
+    },
+    {
+      "id": "BIO9CH6-134",
+      "q": "For a Chapter 6 revision test, which lipid can help waterproof plant surfaces?",
+      "o": [
+        "Wax",
+        "DNA",
+        "Albumin",
+        "Glycogen"
+      ],
+      "a": 0,
+      "e": "Waxes form protective water-resistant coverings.",
+      "d": "Medium",
+      "topic": "Lipids",
+      "slo": "Explain or identify: Lipids",
+      "concept_id": "CH6-C045"
+    },
+    {
+      "id": "BIO9CH6-135",
+      "q": "Select the scientifically correct answer: which lipid can help waterproof plant surfaces?",
+      "o": [
+        "Wax",
+        "Glycogen",
+        "Albumin",
+        "DNA"
+      ],
+      "a": 0,
+      "e": "Waxes form protective water-resistant coverings.",
+      "d": "Medium",
+      "topic": "Lipids",
+      "slo": "Explain or identify: Lipids",
+      "concept_id": "CH6-C045"
+    },
+    {
+      "id": "BIO9CH6-136",
+      "q": "What is a saturated fatty acid?",
+      "o": [
+        "A fatty acid with several C=C bonds",
+        "A nucleotide with ribose",
+        "A protein with peptide bonds",
+        "A fatty acid with no carbon-carbon double bonds"
+      ],
+      "a": 3,
+      "e": "Saturated fatty acids have no C=C double bonds.",
+      "d": "Easy",
+      "topic": "Lipids",
+      "slo": "Explain or identify: Lipids",
+      "concept_id": "CH6-C046"
+    },
+    {
+      "id": "BIO9CH6-137",
+      "q": "For a Chapter 6 revision test, what is a saturated fatty acid?",
+      "o": [
+        "A fatty acid with no carbon-carbon double bonds",
+        "A nucleotide with ribose",
+        "A protein with peptide bonds",
+        "A fatty acid with several C=C bonds"
+      ],
+      "a": 0,
+      "e": "Saturated fatty acids have no C=C double bonds.",
+      "d": "Medium",
+      "topic": "Lipids",
+      "slo": "Explain or identify: Lipids",
+      "concept_id": "CH6-C046"
+    },
+    {
+      "id": "BIO9CH6-138",
+      "q": "Select the scientifically correct answer: what is a saturated fatty acid?",
+      "o": [
+        "A fatty acid with no carbon-carbon double bonds",
+        "A protein with peptide bonds",
+        "A fatty acid with several C=C bonds",
+        "A nucleotide with ribose"
+      ],
+      "a": 0,
+      "e": "Saturated fatty acids have no C=C double bonds.",
+      "d": "Medium",
+      "topic": "Lipids",
+      "slo": "Explain or identify: Lipids",
+      "concept_id": "CH6-C046"
+    },
+    {
+      "id": "BIO9CH6-139",
+      "q": "What characterizes an unsaturated fatty acid?",
+      "o": [
+        "No hydrogen atoms",
+        "At least one carbon-carbon double bond",
+        "No carbon atoms",
+        "Only peptide bonds"
+      ],
+      "a": 1,
+      "e": "Unsaturated fatty acids have one or more C=C bonds.",
+      "d": "Easy",
+      "topic": "Lipids",
+      "slo": "Explain or identify: Lipids",
+      "concept_id": "CH6-C047"
+    },
+    {
+      "id": "BIO9CH6-140",
+      "q": "For a Chapter 6 revision test, what characterizes an unsaturated fatty acid?",
+      "o": [
+        "Only peptide bonds",
+        "No carbon atoms",
+        "At least one carbon-carbon double bond",
+        "No hydrogen atoms"
+      ],
+      "a": 2,
+      "e": "Unsaturated fatty acids have one or more C=C bonds.",
+      "d": "Medium",
+      "topic": "Lipids",
+      "slo": "Explain or identify: Lipids",
+      "concept_id": "CH6-C047"
+    },
+    {
+      "id": "BIO9CH6-141",
+      "q": "Select the scientifically correct answer: what characterizes an unsaturated fatty acid?",
+      "o": [
+        "Only peptide bonds",
+        "At least one carbon-carbon double bond",
+        "No carbon atoms",
+        "No hydrogen atoms"
+      ],
+      "a": 1,
+      "e": "Unsaturated fatty acids have one or more C=C bonds.",
+      "d": "Medium",
+      "topic": "Lipids",
+      "slo": "Explain or identify: Lipids",
+      "concept_id": "CH6-C047"
+    },
+    {
+      "id": "BIO9CH6-142",
+      "q": "Which elements make up carbohydrates?",
+      "o": [
+        "Carbon, hydrogen and oxygen",
+        "Only nitrogen and sulfur",
+        "Only sodium and chlorine",
+        "Only calcium and iron"
+      ],
+      "a": 0,
+      "e": "Carbohydrates are composed mainly of C, H and O.",
+      "d": "Easy",
+      "topic": "Carbohydrates",
+      "slo": "Explain or identify: Carbohydrates",
+      "concept_id": "CH6-C048"
+    },
+    {
+      "id": "BIO9CH6-143",
+      "q": "For a Chapter 6 revision test, which elements make up carbohydrates?",
+      "o": [
+        "Carbon, hydrogen and oxygen",
+        "Only calcium and iron",
+        "Only sodium and chlorine",
+        "Only nitrogen and sulfur"
+      ],
+      "a": 0,
+      "e": "Carbohydrates are composed mainly of C, H and O.",
+      "d": "Medium",
+      "topic": "Carbohydrates",
+      "slo": "Explain or identify: Carbohydrates",
+      "concept_id": "CH6-C048"
+    },
+    {
+      "id": "BIO9CH6-144",
+      "q": "Select the scientifically correct answer: which elements make up carbohydrates?",
+      "o": [
+        "Only nitrogen and sulfur",
+        "Only calcium and iron",
+        "Only sodium and chlorine",
+        "Carbon, hydrogen and oxygen"
+      ],
+      "a": 3,
+      "e": "Carbohydrates are composed mainly of C, H and O.",
+      "d": "Medium",
+      "topic": "Carbohydrates",
+      "slo": "Explain or identify: Carbohydrates",
+      "concept_id": "CH6-C048"
+    },
+    {
+      "id": "BIO9CH6-145",
+      "q": "What is a monosaccharide?",
+      "o": [
+        "A membrane protein",
+        "A single sugar unit",
+        "A DNA segment",
+        "A chain of amino acids"
+      ],
+      "a": 1,
+      "e": "Monosaccharides are simple sugars.",
+      "d": "Easy",
+      "topic": "Carbohydrates",
+      "slo": "Explain or identify: Carbohydrates",
+      "concept_id": "CH6-C049"
+    },
+    {
+      "id": "BIO9CH6-146",
+      "q": "For a Chapter 6 revision test, what is a monosaccharide?",
+      "o": [
+        "A membrane protein",
+        "A single sugar unit",
+        "A DNA segment",
+        "A chain of amino acids"
+      ],
+      "a": 1,
+      "e": "Monosaccharides are simple sugars.",
+      "d": "Medium",
+      "topic": "Carbohydrates",
+      "slo": "Explain or identify: Carbohydrates",
+      "concept_id": "CH6-C049"
+    },
+    {
+      "id": "BIO9CH6-147",
+      "q": "Select the scientifically correct answer: what is a monosaccharide?",
+      "o": [
+        "A single sugar unit",
+        "A chain of amino acids",
+        "A membrane protein",
+        "A DNA segment"
+      ],
+      "a": 0,
+      "e": "Monosaccharides are simple sugars.",
+      "d": "Medium",
+      "topic": "Carbohydrates",
+      "slo": "Explain or identify: Carbohydrates",
+      "concept_id": "CH6-C049"
+    },
+    {
+      "id": "BIO9CH6-148",
+      "q": "Which is a monosaccharide?",
+      "o": [
+        "Cellulose",
+        "Starch",
+        "Sucrose",
+        "Glucose"
+      ],
+      "a": 3,
+      "e": "Glucose is a single sugar molecule.",
+      "d": "Easy",
+      "topic": "Carbohydrates",
+      "slo": "Explain or identify: Carbohydrates",
+      "concept_id": "CH6-C050"
+    },
+    {
+      "id": "BIO9CH6-149",
+      "q": "For a Chapter 6 revision test, which is a monosaccharide?",
+      "o": [
+        "Sucrose",
+        "Cellulose",
+        "Glucose",
+        "Starch"
+      ],
+      "a": 2,
+      "e": "Glucose is a single sugar molecule.",
+      "d": "Medium",
+      "topic": "Carbohydrates",
+      "slo": "Explain or identify: Carbohydrates",
+      "concept_id": "CH6-C050"
+    },
+    {
+      "id": "BIO9CH6-150",
+      "q": "Select the scientifically correct answer: which is a monosaccharide?",
+      "o": [
+        "Sucrose",
+        "Glucose",
+        "Cellulose",
+        "Starch"
+      ],
+      "a": 1,
+      "e": "Glucose is a single sugar molecule.",
+      "d": "Medium",
+      "topic": "Carbohydrates",
+      "slo": "Explain or identify: Carbohydrates",
+      "concept_id": "CH6-C050"
+    },
+    {
+      "id": "BIO9CH6-151",
+      "q": "Which is another monosaccharide?",
+      "o": [
+        "Lactose",
+        "Maltose",
+        "Glycogen",
+        "Fructose"
+      ],
+      "a": 3,
+      "e": "Fructose is a simple sugar.",
+      "d": "Easy",
+      "topic": "Carbohydrates",
+      "slo": "Explain or identify: Carbohydrates",
+      "concept_id": "CH6-C051"
+    },
+    {
+      "id": "BIO9CH6-152",
+      "q": "For a Chapter 6 revision test, which is another monosaccharide?",
+      "o": [
+        "Glycogen",
+        "Fructose",
+        "Lactose",
+        "Maltose"
+      ],
+      "a": 1,
+      "e": "Fructose is a simple sugar.",
+      "d": "Medium",
+      "topic": "Carbohydrates",
+      "slo": "Explain or identify: Carbohydrates",
+      "concept_id": "CH6-C051"
+    },
+    {
+      "id": "BIO9CH6-153",
+      "q": "Select the scientifically correct answer: which is another monosaccharide?",
+      "o": [
+        "Lactose",
+        "Maltose",
+        "Glycogen",
+        "Fructose"
+      ],
+      "a": 3,
+      "e": "Fructose is a simple sugar.",
+      "d": "Medium",
+      "topic": "Carbohydrates",
+      "slo": "Explain or identify: Carbohydrates",
+      "concept_id": "CH6-C051"
+    },
+    {
+      "id": "BIO9CH6-154",
+      "q": "What is a disaccharide?",
+      "o": [
+        "Three linked amino acids",
+        "A lipid and a protein",
+        "Two nucleic acid strands",
+        "Two linked monosaccharide units"
+      ],
+      "a": 3,
+      "e": "Disaccharides contain two monosaccharides.",
+      "d": "Easy",
+      "topic": "Carbohydrates",
+      "slo": "Explain or identify: Carbohydrates",
+      "concept_id": "CH6-C052"
+    },
+    {
+      "id": "BIO9CH6-155",
+      "q": "For a Chapter 6 revision test, what is a disaccharide?",
+      "o": [
+        "Two nucleic acid strands",
+        "A lipid and a protein",
+        "Three linked amino acids",
+        "Two linked monosaccharide units"
+      ],
+      "a": 3,
+      "e": "Disaccharides contain two monosaccharides.",
+      "d": "Medium",
+      "topic": "Carbohydrates",
+      "slo": "Explain or identify: Carbohydrates",
+      "concept_id": "CH6-C052"
+    },
+    {
+      "id": "BIO9CH6-156",
+      "q": "Select the scientifically correct answer: what is a disaccharide?",
+      "o": [
+        "Three linked amino acids",
+        "Two nucleic acid strands",
+        "A lipid and a protein",
+        "Two linked monosaccharide units"
+      ],
+      "a": 3,
+      "e": "Disaccharides contain two monosaccharides.",
+      "d": "Medium",
+      "topic": "Carbohydrates",
+      "slo": "Explain or identify: Carbohydrates",
+      "concept_id": "CH6-C052"
+    },
+    {
+      "id": "BIO9CH6-157",
+      "q": "Which is a disaccharide?",
+      "o": [
+        "Fructose",
+        "Sucrose",
+        "Starch",
+        "Glucose"
+      ],
+      "a": 1,
+      "e": "Sucrose contains two linked monosaccharides.",
+      "d": "Easy",
+      "topic": "Carbohydrates",
+      "slo": "Explain or identify: Carbohydrates",
+      "concept_id": "CH6-C053"
+    },
+    {
+      "id": "BIO9CH6-158",
+      "q": "For a Chapter 6 revision test, which is a disaccharide?",
+      "o": [
+        "Sucrose",
+        "Starch",
+        "Glucose",
+        "Fructose"
+      ],
+      "a": 0,
+      "e": "Sucrose contains two linked monosaccharides.",
+      "d": "Medium",
+      "topic": "Carbohydrates",
+      "slo": "Explain or identify: Carbohydrates",
+      "concept_id": "CH6-C053"
+    },
+    {
+      "id": "BIO9CH6-159",
+      "q": "Select the scientifically correct answer: which is a disaccharide?",
+      "o": [
+        "Starch",
+        "Sucrose",
+        "Fructose",
+        "Glucose"
+      ],
+      "a": 1,
+      "e": "Sucrose contains two linked monosaccharides.",
+      "d": "Medium",
+      "topic": "Carbohydrates",
+      "slo": "Explain or identify: Carbohydrates",
+      "concept_id": "CH6-C053"
+    },
+    {
+      "id": "BIO9CH6-160",
+      "q": "Which sugar is commonly called milk sugar?",
+      "o": [
+        "Fructose",
+        "Sucrose",
+        "Glycogen",
+        "Lactose"
+      ],
+      "a": 3,
+      "e": "Lactose occurs naturally in milk.",
+      "d": "Easy",
+      "topic": "Carbohydrates",
+      "slo": "Explain or identify: Carbohydrates",
+      "concept_id": "CH6-C054"
+    },
+    {
+      "id": "BIO9CH6-161",
+      "q": "For a Chapter 6 revision test, which sugar is commonly called milk sugar?",
+      "o": [
+        "Sucrose",
+        "Lactose",
+        "Glycogen",
+        "Fructose"
+      ],
+      "a": 1,
+      "e": "Lactose occurs naturally in milk.",
+      "d": "Medium",
+      "topic": "Carbohydrates",
+      "slo": "Explain or identify: Carbohydrates",
+      "concept_id": "CH6-C054"
+    },
+    {
+      "id": "BIO9CH6-162",
+      "q": "Select the scientifically correct answer: which sugar is commonly called milk sugar?",
+      "o": [
+        "Fructose",
+        "Sucrose",
+        "Glycogen",
+        "Lactose"
+      ],
+      "a": 3,
+      "e": "Lactose occurs naturally in milk.",
+      "d": "Medium",
+      "topic": "Carbohydrates",
+      "slo": "Explain or identify: Carbohydrates",
+      "concept_id": "CH6-C054"
+    },
+    {
+      "id": "BIO9CH6-163",
+      "q": "Which disaccharide consists of two glucose units?",
+      "o": [
+        "Cellulose",
+        "Maltose",
+        "Lactose",
+        "Sucrose"
+      ],
+      "a": 1,
+      "e": "Maltose is composed of two glucose units.",
+      "d": "Easy",
+      "topic": "Carbohydrates",
+      "slo": "Explain or identify: Carbohydrates",
+      "concept_id": "CH6-C055"
+    },
+    {
+      "id": "BIO9CH6-164",
+      "q": "For a Chapter 6 revision test, which disaccharide consists of two glucose units?",
+      "o": [
+        "Lactose",
+        "Maltose",
+        "Cellulose",
+        "Sucrose"
+      ],
+      "a": 1,
+      "e": "Maltose is composed of two glucose units.",
+      "d": "Medium",
+      "topic": "Carbohydrates",
+      "slo": "Explain or identify: Carbohydrates",
+      "concept_id": "CH6-C055"
+    },
+    {
+      "id": "BIO9CH6-165",
+      "q": "Select the scientifically correct answer: which disaccharide consists of two glucose units?",
+      "o": [
+        "Cellulose",
+        "Maltose",
+        "Lactose",
+        "Sucrose"
+      ],
+      "a": 1,
+      "e": "Maltose is composed of two glucose units.",
+      "d": "Medium",
+      "topic": "Carbohydrates",
+      "slo": "Explain or identify: Carbohydrates",
+      "concept_id": "CH6-C055"
+    },
+    {
+      "id": "BIO9CH6-166",
+      "q": "Which monosaccharides form sucrose?",
+      "o": [
+        "Glucose and glucose",
+        "Glucose and galactose",
+        "Fructose and galactose",
+        "Glucose and fructose"
+      ],
+      "a": 3,
+      "e": "Sucrose is formed from glucose and fructose.",
+      "d": "Easy",
+      "topic": "Carbohydrates",
+      "slo": "Explain or identify: Carbohydrates",
+      "concept_id": "CH6-C056"
+    },
+    {
+      "id": "BIO9CH6-167",
+      "q": "For a Chapter 6 revision test, which monosaccharides form sucrose?",
+      "o": [
+        "Glucose and glucose",
+        "Fructose and galactose",
+        "Glucose and galactose",
+        "Glucose and fructose"
+      ],
+      "a": 3,
+      "e": "Sucrose is formed from glucose and fructose.",
+      "d": "Medium",
+      "topic": "Carbohydrates",
+      "slo": "Explain or identify: Carbohydrates",
+      "concept_id": "CH6-C056"
+    },
+    {
+      "id": "BIO9CH6-168",
+      "q": "Select the scientifically correct answer: which monosaccharides form sucrose?",
+      "o": [
+        "Glucose and fructose",
+        "Glucose and galactose",
+        "Fructose and galactose",
+        "Glucose and glucose"
+      ],
+      "a": 0,
+      "e": "Sucrose is formed from glucose and fructose.",
+      "d": "Medium",
+      "topic": "Carbohydrates",
+      "slo": "Explain or identify: Carbohydrates",
+      "concept_id": "CH6-C056"
+    },
+    {
+      "id": "BIO9CH6-169",
+      "q": "Which monosaccharides form lactose?",
+      "o": [
+        "Glucose and glucose",
+        "Glucose and fructose",
+        "Glucose and galactose",
+        "Fructose and ribose"
+      ],
+      "a": 2,
+      "e": "Lactose consists of glucose and galactose.",
+      "d": "Easy",
+      "topic": "Carbohydrates",
+      "slo": "Explain or identify: Carbohydrates",
+      "concept_id": "CH6-C057"
+    },
+    {
+      "id": "BIO9CH6-170",
+      "q": "For a Chapter 6 revision test, which monosaccharides form lactose?",
+      "o": [
+        "Glucose and galactose",
+        "Fructose and ribose",
+        "Glucose and fructose",
+        "Glucose and glucose"
+      ],
+      "a": 0,
+      "e": "Lactose consists of glucose and galactose.",
+      "d": "Medium",
+      "topic": "Carbohydrates",
+      "slo": "Explain or identify: Carbohydrates",
+      "concept_id": "CH6-C057"
+    },
+    {
+      "id": "BIO9CH6-171",
+      "q": "Select the scientifically correct answer: which monosaccharides form lactose?",
+      "o": [
+        "Glucose and galactose",
+        "Glucose and fructose",
+        "Glucose and glucose",
+        "Fructose and ribose"
+      ],
+      "a": 0,
+      "e": "Lactose consists of glucose and galactose.",
+      "d": "Medium",
+      "topic": "Carbohydrates",
+      "slo": "Explain or identify: Carbohydrates",
+      "concept_id": "CH6-C057"
+    },
+    {
+      "id": "BIO9CH6-172",
+      "q": "What is a polysaccharide?",
+      "o": [
+        "A single amino acid",
+        "One nucleotide",
+        "A fatty acid",
+        "A carbohydrate made of many sugar units"
+      ],
+      "a": 3,
+      "e": "Polysaccharides are long chains of sugar units.",
+      "d": "Easy",
+      "topic": "Carbohydrates",
+      "slo": "Explain or identify: Carbohydrates",
+      "concept_id": "CH6-C058"
+    },
+    {
+      "id": "BIO9CH6-173",
+      "q": "For a Chapter 6 revision test, what is a polysaccharide?",
+      "o": [
+        "One nucleotide",
+        "A carbohydrate made of many sugar units",
+        "A fatty acid",
+        "A single amino acid"
+      ],
+      "a": 1,
+      "e": "Polysaccharides are long chains of sugar units.",
+      "d": "Medium",
+      "topic": "Carbohydrates",
+      "slo": "Explain or identify: Carbohydrates",
+      "concept_id": "CH6-C058"
+    },
+    {
+      "id": "BIO9CH6-174",
+      "q": "Select the scientifically correct answer: what is a polysaccharide?",
+      "o": [
+        "One nucleotide",
+        "A carbohydrate made of many sugar units",
+        "A fatty acid",
+        "A single amino acid"
+      ],
+      "a": 1,
+      "e": "Polysaccharides are long chains of sugar units.",
+      "d": "Medium",
+      "topic": "Carbohydrates",
+      "slo": "Explain or identify: Carbohydrates",
+      "concept_id": "CH6-C058"
+    },
+    {
+      "id": "BIO9CH6-175",
+      "q": "Which polysaccharide stores energy in plants?",
+      "o": [
+        "DNA",
+        "Glycogen",
+        "Starch",
+        "Chitin"
+      ],
+      "a": 2,
+      "e": "Plants commonly store carbohydrate as starch.",
+      "d": "Easy",
+      "topic": "Carbohydrates",
+      "slo": "Explain or identify: Carbohydrates",
+      "concept_id": "CH6-C059"
+    },
+    {
+      "id": "BIO9CH6-176",
+      "q": "For a Chapter 6 revision test, which polysaccharide stores energy in plants?",
+      "o": [
+        "DNA",
+        "Glycogen",
+        "Starch",
+        "Chitin"
+      ],
+      "a": 2,
+      "e": "Plants commonly store carbohydrate as starch.",
+      "d": "Medium",
+      "topic": "Carbohydrates",
+      "slo": "Explain or identify: Carbohydrates",
+      "concept_id": "CH6-C059"
+    },
+    {
+      "id": "BIO9CH6-177",
+      "q": "Select the scientifically correct answer: which polysaccharide stores energy in plants?",
+      "o": [
+        "DNA",
+        "Starch",
+        "Chitin",
+        "Glycogen"
+      ],
+      "a": 1,
+      "e": "Plants commonly store carbohydrate as starch.",
+      "d": "Medium",
+      "topic": "Carbohydrates",
+      "slo": "Explain or identify: Carbohydrates",
+      "concept_id": "CH6-C059"
+    },
+    {
+      "id": "BIO9CH6-178",
+      "q": "Which polysaccharide stores energy in animals?",
+      "o": [
+        "Chitin",
+        "Sucrose",
+        "Glycogen",
+        "Cellulose"
+      ],
+      "a": 2,
+      "e": "Animals store glucose in glycogen.",
+      "d": "Easy",
+      "topic": "Carbohydrates",
+      "slo": "Explain or identify: Carbohydrates",
+      "concept_id": "CH6-C060"
+    },
+    {
+      "id": "BIO9CH6-179",
+      "q": "For a Chapter 6 revision test, which polysaccharide stores energy in animals?",
+      "o": [
+        "Chitin",
+        "Sucrose",
+        "Glycogen",
+        "Cellulose"
+      ],
+      "a": 2,
+      "e": "Animals store glucose in glycogen.",
+      "d": "Medium",
+      "topic": "Carbohydrates",
+      "slo": "Explain or identify: Carbohydrates",
+      "concept_id": "CH6-C060"
+    },
+    {
+      "id": "BIO9CH6-180",
+      "q": "Select the scientifically correct answer: which polysaccharide stores energy in animals?",
+      "o": [
+        "Chitin",
+        "Sucrose",
+        "Glycogen",
+        "Cellulose"
+      ],
+      "a": 2,
+      "e": "Animals store glucose in glycogen.",
+      "d": "Medium",
+      "topic": "Carbohydrates",
+      "slo": "Explain or identify: Carbohydrates",
+      "concept_id": "CH6-C060"
+    },
+    {
+      "id": "BIO9CH6-181",
+      "q": "Which polysaccharide strengthens plant cell walls?",
+      "o": [
+        "Lactose",
+        "Glycogen",
+        "Sucrose",
+        "Cellulose"
+      ],
+      "a": 3,
+      "e": "Cellulose is the principal structural polysaccharide of plant cell walls.",
+      "d": "Easy",
+      "topic": "Carbohydrates",
+      "slo": "Explain or identify: Carbohydrates",
+      "concept_id": "CH6-C061"
+    },
+    {
+      "id": "BIO9CH6-182",
+      "q": "For a Chapter 6 revision test, which polysaccharide strengthens plant cell walls?",
+      "o": [
+        "Cellulose",
+        "Glycogen",
+        "Sucrose",
+        "Lactose"
+      ],
+      "a": 0,
+      "e": "Cellulose is the principal structural polysaccharide of plant cell walls.",
+      "d": "Medium",
+      "topic": "Carbohydrates",
+      "slo": "Explain or identify: Carbohydrates",
+      "concept_id": "CH6-C061"
+    },
+    {
+      "id": "BIO9CH6-183",
+      "q": "Select the scientifically correct answer: which polysaccharide strengthens plant cell walls?",
+      "o": [
+        "Cellulose",
+        "Glycogen",
+        "Sucrose",
+        "Lactose"
+      ],
+      "a": 0,
+      "e": "Cellulose is the principal structural polysaccharide of plant cell walls.",
+      "d": "Medium",
+      "topic": "Carbohydrates",
+      "slo": "Explain or identify: Carbohydrates",
+      "concept_id": "CH6-C061"
+    },
+    {
+      "id": "BIO9CH6-184",
+      "q": "Which polysaccharide occurs in fungal cell walls?",
+      "o": [
+        "Starch",
+        "Maltose",
+        "Chitin",
+        "Glycogen"
+      ],
+      "a": 2,
+      "e": "Chitin contributes to fungal cell walls.",
+      "d": "Easy",
+      "topic": "Carbohydrates",
+      "slo": "Explain or identify: Carbohydrates",
+      "concept_id": "CH6-C062"
+    },
+    {
+      "id": "BIO9CH6-185",
+      "q": "For a Chapter 6 revision test, which polysaccharide occurs in fungal cell walls?",
+      "o": [
+        "Glycogen",
+        "Starch",
+        "Chitin",
+        "Maltose"
+      ],
+      "a": 2,
+      "e": "Chitin contributes to fungal cell walls.",
+      "d": "Medium",
+      "topic": "Carbohydrates",
+      "slo": "Explain or identify: Carbohydrates",
+      "concept_id": "CH6-C062"
+    },
+    {
+      "id": "BIO9CH6-186",
+      "q": "Select the scientifically correct answer: which polysaccharide occurs in fungal cell walls?",
+      "o": [
+        "Chitin",
+        "Maltose",
+        "Starch",
+        "Glycogen"
+      ],
+      "a": 0,
+      "e": "Chitin contributes to fungal cell walls.",
+      "d": "Medium",
+      "topic": "Carbohydrates",
+      "slo": "Explain or identify: Carbohydrates",
+      "concept_id": "CH6-C062"
+    },
+    {
+      "id": "BIO9CH6-187",
+      "q": "What type of bond joins sugar units in disaccharides and polysaccharides?",
+      "o": [
+        "Disulfide bond",
+        "Glycosidic bond",
+        "Phosphodiester bond",
+        "Peptide bond"
+      ],
+      "a": 1,
+      "e": "Glycosidic bonds link monosaccharides.",
+      "d": "Easy",
+      "topic": "Carbohydrates",
+      "slo": "Explain or identify: Carbohydrates",
+      "concept_id": "CH6-C063"
+    },
+    {
+      "id": "BIO9CH6-188",
+      "q": "For a Chapter 6 revision test, what type of bond joins sugar units in disaccharides and polysaccharides?",
+      "o": [
+        "Glycosidic bond",
+        "Phosphodiester bond",
+        "Peptide bond",
+        "Disulfide bond"
+      ],
+      "a": 0,
+      "e": "Glycosidic bonds link monosaccharides.",
+      "d": "Medium",
+      "topic": "Carbohydrates",
+      "slo": "Explain or identify: Carbohydrates",
+      "concept_id": "CH6-C063"
+    },
+    {
+      "id": "BIO9CH6-189",
+      "q": "Select the scientifically correct answer: what type of bond joins sugar units in disaccharides and polysaccharides?",
+      "o": [
+        "Phosphodiester bond",
+        "Disulfide bond",
+        "Peptide bond",
+        "Glycosidic bond"
+      ],
+      "a": 3,
+      "e": "Glycosidic bonds link monosaccharides.",
+      "d": "Medium",
+      "topic": "Carbohydrates",
+      "slo": "Explain or identify: Carbohydrates",
+      "concept_id": "CH6-C063"
+    },
+    {
+      "id": "BIO9CH6-190",
+      "q": "What is a primary immediate energy source for many cells?",
+      "o": [
+        "Chitin",
+        "Wax",
+        "Glucose",
+        "Cellulose"
+      ],
+      "a": 2,
+      "e": "Glucose is commonly broken down to release usable energy.",
+      "d": "Easy",
+      "topic": "Carbohydrates",
+      "slo": "Explain or identify: Carbohydrates",
+      "concept_id": "CH6-C064"
+    },
+    {
+      "id": "BIO9CH6-191",
+      "q": "For a Chapter 6 revision test, what is a primary immediate energy source for many cells?",
+      "o": [
+        "Wax",
+        "Glucose",
+        "Cellulose",
+        "Chitin"
+      ],
+      "a": 1,
+      "e": "Glucose is commonly broken down to release usable energy.",
+      "d": "Medium",
+      "topic": "Carbohydrates",
+      "slo": "Explain or identify: Carbohydrates",
+      "concept_id": "CH6-C064"
+    },
+    {
+      "id": "BIO9CH6-192",
+      "q": "Select the scientifically correct answer: what is a primary immediate energy source for many cells?",
+      "o": [
+        "Wax",
+        "Cellulose",
+        "Chitin",
+        "Glucose"
+      ],
+      "a": 3,
+      "e": "Glucose is commonly broken down to release usable energy.",
+      "d": "Medium",
+      "topic": "Carbohydrates",
+      "slo": "Explain or identify: Carbohydrates",
+      "concept_id": "CH6-C064"
+    },
+    {
+      "id": "BIO9CH6-193",
+      "q": "What are the two principal nucleic acids?",
+      "o": [
+        "Starch and glycogen",
+        "Actin and myosin",
+        "Fats and waxes",
+        "DNA and RNA"
+      ],
+      "a": 3,
+      "e": "DNA and RNA are nucleic acids.",
+      "d": "Easy",
+      "topic": "Nucleic acids",
+      "slo": "Explain or identify: Nucleic acids",
+      "concept_id": "CH6-C065"
+    },
+    {
+      "id": "BIO9CH6-194",
+      "q": "For a Chapter 6 revision test, what are the two principal nucleic acids?",
+      "o": [
+        "Starch and glycogen",
+        "Fats and waxes",
+        "DNA and RNA",
+        "Actin and myosin"
+      ],
+      "a": 2,
+      "e": "DNA and RNA are nucleic acids.",
+      "d": "Medium",
+      "topic": "Nucleic acids",
+      "slo": "Explain or identify: Nucleic acids",
+      "concept_id": "CH6-C065"
+    },
+    {
+      "id": "BIO9CH6-195",
+      "q": "Select the scientifically correct answer: what are the two principal nucleic acids?",
+      "o": [
+        "Starch and glycogen",
+        "Fats and waxes",
+        "DNA and RNA",
+        "Actin and myosin"
+      ],
+      "a": 2,
+      "e": "DNA and RNA are nucleic acids.",
+      "d": "Medium",
+      "topic": "Nucleic acids",
+      "slo": "Explain or identify: Nucleic acids",
+      "concept_id": "CH6-C065"
+    },
+    {
+      "id": "BIO9CH6-196",
+      "q": "What is the monomer of nucleic acids?",
+      "o": [
+        "Nucleotide",
+        "Glucose",
+        "Fatty acid",
+        "Amino acid"
+      ],
+      "a": 0,
+      "e": "Nucleic acids are polymers of nucleotides.",
+      "d": "Easy",
+      "topic": "Nucleic acids",
+      "slo": "Explain or identify: Nucleic acids",
+      "concept_id": "CH6-C066"
+    },
+    {
+      "id": "BIO9CH6-197",
+      "q": "For a Chapter 6 revision test, what is the monomer of nucleic acids?",
+      "o": [
+        "Amino acid",
+        "Fatty acid",
+        "Glucose",
+        "Nucleotide"
+      ],
+      "a": 3,
+      "e": "Nucleic acids are polymers of nucleotides.",
+      "d": "Medium",
+      "topic": "Nucleic acids",
+      "slo": "Explain or identify: Nucleic acids",
+      "concept_id": "CH6-C066"
+    },
+    {
+      "id": "BIO9CH6-198",
+      "q": "Select the scientifically correct answer: what is the monomer of nucleic acids?",
+      "o": [
+        "Glucose",
+        "Nucleotide",
+        "Fatty acid",
+        "Amino acid"
+      ],
+      "a": 1,
+      "e": "Nucleic acids are polymers of nucleotides.",
+      "d": "Medium",
+      "topic": "Nucleic acids",
+      "slo": "Explain or identify: Nucleic acids",
+      "concept_id": "CH6-C066"
+    },
+    {
+      "id": "BIO9CH6-199",
+      "q": "Which three parts form a nucleotide?",
+      "o": [
+        "Sugar, phosphate and nitrogenous base",
+        "Two monosaccharides and water",
+        "Amino group, carboxyl group and R group",
+        "Glycerol and three fatty acids"
+      ],
+      "a": 0,
+      "e": "Each nucleotide has a pentose sugar, phosphate and nitrogenous base.",
+      "d": "Easy",
+      "topic": "Nucleotides",
+      "slo": "Explain or identify: Nucleotides",
+      "concept_id": "CH6-C067"
+    },
+    {
+      "id": "BIO9CH6-200",
+      "q": "For a Chapter 6 revision test, which three parts form a nucleotide?",
+      "o": [
+        "Amino group, carboxyl group and R group",
+        "Glycerol and three fatty acids",
+        "Two monosaccharides and water",
+        "Sugar, phosphate and nitrogenous base"
+      ],
+      "a": 3,
+      "e": "Each nucleotide has a pentose sugar, phosphate and nitrogenous base.",
+      "d": "Medium",
+      "topic": "Nucleotides",
+      "slo": "Explain or identify: Nucleotides",
+      "concept_id": "CH6-C067"
+    },
+    {
+      "id": "BIO9CH6-201",
+      "q": "Select the scientifically correct answer: which three parts form a nucleotide?",
+      "o": [
+        "Amino group, carboxyl group and R group",
+        "Two monosaccharides and water",
+        "Sugar, phosphate and nitrogenous base",
+        "Glycerol and three fatty acids"
+      ],
+      "a": 2,
+      "e": "Each nucleotide has a pentose sugar, phosphate and nitrogenous base.",
+      "d": "Medium",
+      "topic": "Nucleotides",
+      "slo": "Explain or identify: Nucleotides",
+      "concept_id": "CH6-C067"
+    },
+    {
+      "id": "BIO9CH6-202",
+      "q": "Which sugar is present in DNA nucleotides?",
+      "o": [
+        "Glucose",
+        "Deoxyribose",
+        "Ribose",
+        "Fructose"
+      ],
+      "a": 1,
+      "e": "DNA contains deoxyribose sugar.",
+      "d": "Easy",
+      "topic": "Nucleotides",
+      "slo": "Explain or identify: Nucleotides",
+      "concept_id": "CH6-C068"
+    },
+    {
+      "id": "BIO9CH6-203",
+      "q": "For a Chapter 6 revision test, which sugar is present in DNA nucleotides?",
+      "o": [
+        "Ribose",
+        "Deoxyribose",
+        "Fructose",
+        "Glucose"
+      ],
+      "a": 1,
+      "e": "DNA contains deoxyribose sugar.",
+      "d": "Medium",
+      "topic": "Nucleotides",
+      "slo": "Explain or identify: Nucleotides",
+      "concept_id": "CH6-C068"
+    },
+    {
+      "id": "BIO9CH6-204",
+      "q": "Select the scientifically correct answer: which sugar is present in DNA nucleotides?",
+      "o": [
+        "Glucose",
+        "Ribose",
+        "Deoxyribose",
+        "Fructose"
+      ],
+      "a": 2,
+      "e": "DNA contains deoxyribose sugar.",
+      "d": "Medium",
+      "topic": "Nucleotides",
+      "slo": "Explain or identify: Nucleotides",
+      "concept_id": "CH6-C068"
+    },
+    {
+      "id": "BIO9CH6-205",
+      "q": "Which sugar is present in RNA nucleotides?",
+      "o": [
+        "Lactose",
+        "Deoxyribose",
+        "Sucrose",
+        "Ribose"
+      ],
+      "a": 3,
+      "e": "RNA contains ribose sugar.",
+      "d": "Easy",
+      "topic": "Nucleotides",
+      "slo": "Explain or identify: Nucleotides",
+      "concept_id": "CH6-C069"
+    },
+    {
+      "id": "BIO9CH6-206",
+      "q": "For a Chapter 6 revision test, which sugar is present in RNA nucleotides?",
+      "o": [
+        "Deoxyribose",
+        "Sucrose",
+        "Lactose",
+        "Ribose"
+      ],
+      "a": 3,
+      "e": "RNA contains ribose sugar.",
+      "d": "Medium",
+      "topic": "Nucleotides",
+      "slo": "Explain or identify: Nucleotides",
+      "concept_id": "CH6-C069"
+    },
+    {
+      "id": "BIO9CH6-207",
+      "q": "Select the scientifically correct answer: which sugar is present in RNA nucleotides?",
+      "o": [
+        "Lactose",
+        "Sucrose",
+        "Deoxyribose",
+        "Ribose"
+      ],
+      "a": 3,
+      "e": "RNA contains ribose sugar.",
+      "d": "Medium",
+      "topic": "Nucleotides",
+      "slo": "Explain or identify: Nucleotides",
+      "concept_id": "CH6-C069"
+    },
+    {
+      "id": "BIO9CH6-208",
+      "q": "Which nitrogenous base occurs in DNA but not RNA?",
+      "o": [
+        "Adenine",
+        "Guanine",
+        "Thymine",
+        "Uracil"
+      ],
+      "a": 2,
+      "e": "DNA contains thymine while RNA typically uses uracil.",
+      "d": "Easy",
+      "topic": "DNA",
+      "slo": "Explain or identify: DNA",
+      "concept_id": "CH6-C070"
+    },
+    {
+      "id": "BIO9CH6-209",
+      "q": "For a Chapter 6 revision test, which nitrogenous base occurs in DNA but not RNA?",
+      "o": [
+        "Uracil",
+        "Guanine",
+        "Thymine",
+        "Adenine"
+      ],
+      "a": 2,
+      "e": "DNA contains thymine while RNA typically uses uracil.",
+      "d": "Medium",
+      "topic": "DNA",
+      "slo": "Explain or identify: DNA",
+      "concept_id": "CH6-C070"
+    },
+    {
+      "id": "BIO9CH6-210",
+      "q": "Select the scientifically correct answer: which nitrogenous base occurs in DNA but not RNA?",
+      "o": [
+        "Adenine",
+        "Uracil",
+        "Thymine",
+        "Guanine"
+      ],
+      "a": 2,
+      "e": "DNA contains thymine while RNA typically uses uracil.",
+      "d": "Medium",
+      "topic": "DNA",
+      "slo": "Explain or identify: DNA",
+      "concept_id": "CH6-C070"
+    },
+    {
+      "id": "BIO9CH6-211",
+      "q": "Which nitrogenous base occurs in RNA instead of thymine?",
+      "o": [
+        "Thymine",
+        "Guanine",
+        "Cytosine",
+        "Uracil"
+      ],
+      "a": 3,
+      "e": "RNA contains uracil in place of thymine.",
+      "d": "Easy",
+      "topic": "RNA",
+      "slo": "Explain or identify: RNA",
+      "concept_id": "CH6-C071"
+    },
+    {
+      "id": "BIO9CH6-212",
+      "q": "For a Chapter 6 revision test, which nitrogenous base occurs in RNA instead of thymine?",
+      "o": [
+        "Thymine",
+        "Guanine",
+        "Cytosine",
+        "Uracil"
+      ],
+      "a": 3,
+      "e": "RNA contains uracil in place of thymine.",
+      "d": "Medium",
+      "topic": "RNA",
+      "slo": "Explain or identify: RNA",
+      "concept_id": "CH6-C071"
+    },
+    {
+      "id": "BIO9CH6-213",
+      "q": "Select the scientifically correct answer: which nitrogenous base occurs in RNA instead of thymine?",
+      "o": [
+        "Cytosine",
+        "Guanine",
+        "Thymine",
+        "Uracil"
+      ],
+      "a": 3,
+      "e": "RNA contains uracil in place of thymine.",
+      "d": "Medium",
+      "topic": "RNA",
+      "slo": "Explain or identify: RNA",
+      "concept_id": "CH6-C071"
+    },
+    {
+      "id": "BIO9CH6-214",
+      "q": "Which bases pair in DNA?",
+      "o": [
+        "Cytosine and thymine",
+        "Adenine and cytosine",
+        "Guanine and thymine",
+        "Adenine and thymine"
+      ],
+      "a": 3,
+      "e": "A pairs with T in DNA.",
+      "d": "Easy",
+      "topic": "DNA",
+      "slo": "Explain or identify: DNA",
+      "concept_id": "CH6-C072"
+    },
+    {
+      "id": "BIO9CH6-215",
+      "q": "For a Chapter 6 revision test, which bases pair in DNA?",
+      "o": [
+        "Guanine and thymine",
+        "Adenine and cytosine",
+        "Cytosine and thymine",
+        "Adenine and thymine"
+      ],
+      "a": 3,
+      "e": "A pairs with T in DNA.",
+      "d": "Medium",
+      "topic": "DNA",
+      "slo": "Explain or identify: DNA",
+      "concept_id": "CH6-C072"
+    },
+    {
+      "id": "BIO9CH6-216",
+      "q": "Select the scientifically correct answer: which bases pair in DNA?",
+      "o": [
+        "Cytosine and thymine",
+        "Adenine and thymine",
+        "Adenine and cytosine",
+        "Guanine and thymine"
+      ],
+      "a": 1,
+      "e": "A pairs with T in DNA.",
+      "d": "Medium",
+      "topic": "DNA",
+      "slo": "Explain or identify: DNA",
+      "concept_id": "CH6-C072"
+    },
+    {
+      "id": "BIO9CH6-217",
+      "q": "Which other pair forms in DNA?",
+      "o": [
+        "Guanine and cytosine",
+        "Guanine and adenine",
+        "Adenine and uracil",
+        "Cytosine and thymine"
+      ],
+      "a": 0,
+      "e": "G pairs with C in DNA.",
+      "d": "Easy",
+      "topic": "DNA",
+      "slo": "Explain or identify: DNA",
+      "concept_id": "CH6-C073"
+    },
+    {
+      "id": "BIO9CH6-218",
+      "q": "For a Chapter 6 revision test, which other pair forms in DNA?",
+      "o": [
+        "Guanine and adenine",
+        "Guanine and cytosine",
+        "Adenine and uracil",
+        "Cytosine and thymine"
+      ],
+      "a": 1,
+      "e": "G pairs with C in DNA.",
+      "d": "Medium",
+      "topic": "DNA",
+      "slo": "Explain or identify: DNA",
+      "concept_id": "CH6-C073"
+    },
+    {
+      "id": "BIO9CH6-219",
+      "q": "Select the scientifically correct answer: which other pair forms in DNA?",
+      "o": [
+        "Guanine and adenine",
+        "Adenine and uracil",
+        "Guanine and cytosine",
+        "Cytosine and thymine"
+      ],
+      "a": 2,
+      "e": "G pairs with C in DNA.",
+      "d": "Medium",
+      "topic": "DNA",
+      "slo": "Explain or identify: DNA",
+      "concept_id": "CH6-C073"
+    },
+    {
+      "id": "BIO9CH6-220",
+      "q": "How many hydrogen bonds commonly join A and T in DNA?",
+      "o": [
+        "Two",
+        "Four",
+        "Three",
+        "One"
+      ],
+      "a": 0,
+      "e": "A-T base pairs form two hydrogen bonds.",
+      "d": "Easy",
+      "topic": "DNA",
+      "slo": "Explain or identify: DNA",
+      "concept_id": "CH6-C074"
+    },
+    {
+      "id": "BIO9CH6-221",
+      "q": "For a Chapter 6 revision test, how many hydrogen bonds commonly join A and T in DNA?",
+      "o": [
+        "One",
+        "Three",
+        "Two",
+        "Four"
+      ],
+      "a": 2,
+      "e": "A-T base pairs form two hydrogen bonds.",
+      "d": "Medium",
+      "topic": "DNA",
+      "slo": "Explain or identify: DNA",
+      "concept_id": "CH6-C074"
+    },
+    {
+      "id": "BIO9CH6-222",
+      "q": "Select the scientifically correct answer: how many hydrogen bonds commonly join A and T in DNA?",
+      "o": [
+        "One",
+        "Four",
+        "Two",
+        "Three"
+      ],
+      "a": 2,
+      "e": "A-T base pairs form two hydrogen bonds.",
+      "d": "Medium",
+      "topic": "DNA",
+      "slo": "Explain or identify: DNA",
+      "concept_id": "CH6-C074"
+    },
+    {
+      "id": "BIO9CH6-223",
+      "q": "How many hydrogen bonds commonly join G and C in DNA?",
+      "o": [
+        "Three",
+        "One",
+        "Four",
+        "Two"
+      ],
+      "a": 0,
+      "e": "G-C base pairs form three hydrogen bonds.",
+      "d": "Easy",
+      "topic": "DNA",
+      "slo": "Explain or identify: DNA",
+      "concept_id": "CH6-C075"
+    },
+    {
+      "id": "BIO9CH6-224",
+      "q": "For a Chapter 6 revision test, how many hydrogen bonds commonly join G and C in DNA?",
+      "o": [
+        "One",
+        "Three",
+        "Two",
+        "Four"
+      ],
+      "a": 1,
+      "e": "G-C base pairs form three hydrogen bonds.",
+      "d": "Medium",
+      "topic": "DNA",
+      "slo": "Explain or identify: DNA",
+      "concept_id": "CH6-C075"
+    },
+    {
+      "id": "BIO9CH6-225",
+      "q": "Select the scientifically correct answer: how many hydrogen bonds commonly join G and C in DNA?",
+      "o": [
+        "One",
+        "Four",
+        "Two",
+        "Three"
+      ],
+      "a": 3,
+      "e": "G-C base pairs form three hydrogen bonds.",
+      "d": "Medium",
+      "topic": "DNA",
+      "slo": "Explain or identify: DNA",
+      "concept_id": "CH6-C075"
+    },
+    {
+      "id": "BIO9CH6-226",
+      "q": "What shape describes the usual DNA molecule?",
+      "o": [
+        "Lipid bilayer",
+        "Globular protein",
+        "Double helix",
+        "Single straight chain only"
+      ],
+      "a": 2,
+      "e": "DNA consists of two strands twisted into a double helix.",
+      "d": "Easy",
+      "topic": "DNA",
+      "slo": "Explain or identify: DNA",
+      "concept_id": "CH6-C076"
+    },
+    {
+      "id": "BIO9CH6-227",
+      "q": "For a Chapter 6 revision test, what shape describes the usual DNA molecule?",
+      "o": [
+        "Double helix",
+        "Lipid bilayer",
+        "Single straight chain only",
+        "Globular protein"
+      ],
+      "a": 0,
+      "e": "DNA consists of two strands twisted into a double helix.",
+      "d": "Medium",
+      "topic": "DNA",
+      "slo": "Explain or identify: DNA",
+      "concept_id": "CH6-C076"
+    },
+    {
+      "id": "BIO9CH6-228",
+      "q": "Select the scientifically correct answer: what shape describes the usual DNA molecule?",
+      "o": [
+        "Single straight chain only",
+        "Double helix",
+        "Lipid bilayer",
+        "Globular protein"
+      ],
+      "a": 1,
+      "e": "DNA consists of two strands twisted into a double helix.",
+      "d": "Medium",
+      "topic": "DNA",
+      "slo": "Explain or identify: DNA",
+      "concept_id": "CH6-C076"
+    },
+    {
+      "id": "BIO9CH6-229",
+      "q": "What does complementary base pairing help DNA do?",
+      "o": [
+        "Break down fats directly",
+        "Make ATP without enzymes",
+        "Copy genetic information accurately",
+        "Build cellulose walls"
+      ],
+      "a": 2,
+      "e": "Complementarity allows each strand to guide copying.",
+      "d": "Easy",
+      "topic": "DNA",
+      "slo": "Explain or identify: DNA",
+      "concept_id": "CH6-C077"
+    },
+    {
+      "id": "BIO9CH6-230",
+      "q": "For a Chapter 6 revision test, what does complementary base pairing help DNA do?",
+      "o": [
+        "Copy genetic information accurately",
+        "Make ATP without enzymes",
+        "Break down fats directly",
+        "Build cellulose walls"
+      ],
+      "a": 0,
+      "e": "Complementarity allows each strand to guide copying.",
+      "d": "Medium",
+      "topic": "DNA",
+      "slo": "Explain or identify: DNA",
+      "concept_id": "CH6-C077"
+    },
+    {
+      "id": "BIO9CH6-231",
+      "q": "Select the scientifically correct answer: what does complementary base pairing help DNA do?",
+      "o": [
+        "Copy genetic information accurately",
+        "Build cellulose walls",
+        "Make ATP without enzymes",
+        "Break down fats directly"
+      ],
+      "a": 0,
+      "e": "Complementarity allows each strand to guide copying.",
+      "d": "Medium",
+      "topic": "DNA",
+      "slo": "Explain or identify: DNA",
+      "concept_id": "CH6-C077"
+    },
+    {
+      "id": "BIO9CH6-232",
+      "q": "What is a gene?",
+      "o": [
+        "A complete organ",
+        "A carbohydrate storage granule",
+        "A segment of DNA carrying hereditary information",
+        "A type of lipid"
+      ],
+      "a": 2,
+      "e": "Genes are DNA sequences that carry hereditary instructions.",
+      "d": "Easy",
+      "topic": "DNA",
+      "slo": "Explain or identify: DNA",
+      "concept_id": "CH6-C078"
+    },
+    {
+      "id": "BIO9CH6-233",
+      "q": "For a Chapter 6 revision test, what is a gene?",
+      "o": [
+        "A segment of DNA carrying hereditary information",
+        "A type of lipid",
+        "A complete organ",
+        "A carbohydrate storage granule"
+      ],
+      "a": 0,
+      "e": "Genes are DNA sequences that carry hereditary instructions.",
+      "d": "Medium",
+      "topic": "DNA",
+      "slo": "Explain or identify: DNA",
+      "concept_id": "CH6-C078"
+    },
+    {
+      "id": "BIO9CH6-234",
+      "q": "Select the scientifically correct answer: what is a gene?",
+      "o": [
+        "A segment of DNA carrying hereditary information",
+        "A type of lipid",
+        "A complete organ",
+        "A carbohydrate storage granule"
+      ],
+      "a": 0,
+      "e": "Genes are DNA sequences that carry hereditary instructions.",
+      "d": "Medium",
+      "topic": "DNA",
+      "slo": "Explain or identify: DNA",
+      "concept_id": "CH6-C078"
+    },
+    {
+      "id": "BIO9CH6-235",
+      "q": "Where is most DNA located in a typical human cell?",
+      "o": [
+        "Lysosome",
+        "Cell wall",
+        "Golgi apparatus",
+        "Nucleus"
+      ],
+      "a": 3,
+      "e": "Most human cellular DNA is found in the nucleus.",
+      "d": "Easy",
+      "topic": "DNA",
+      "slo": "Explain or identify: DNA",
+      "concept_id": "CH6-C079"
+    },
+    {
+      "id": "BIO9CH6-236",
+      "q": "For a Chapter 6 revision test, where is most DNA located in a typical human cell?",
+      "o": [
+        "Nucleus",
+        "Golgi apparatus",
+        "Lysosome",
+        "Cell wall"
+      ],
+      "a": 0,
+      "e": "Most human cellular DNA is found in the nucleus.",
+      "d": "Medium",
+      "topic": "DNA",
+      "slo": "Explain or identify: DNA",
+      "concept_id": "CH6-C079"
+    },
+    {
+      "id": "BIO9CH6-237",
+      "q": "Select the scientifically correct answer: where is most DNA located in a typical human cell?",
+      "o": [
+        "Nucleus",
+        "Golgi apparatus",
+        "Lysosome",
+        "Cell wall"
+      ],
+      "a": 0,
+      "e": "Most human cellular DNA is found in the nucleus.",
+      "d": "Medium",
+      "topic": "DNA",
+      "slo": "Explain or identify: DNA",
+      "concept_id": "CH6-C079"
+    },
+    {
+      "id": "BIO9CH6-238",
+      "q": "What is the relationship between DNA and chromosomes?",
+      "o": [
+        "DNA is a kind of lipid",
+        "Chromosomes contain DNA associated with proteins",
+        "Chromosomes are made only of glucose",
+        "Chromosomes are made only of water"
+      ],
+      "a": 1,
+      "e": "Chromosomal DNA is packaged with proteins.",
+      "d": "Easy",
+      "topic": "DNA",
+      "slo": "Explain or identify: DNA",
+      "concept_id": "CH6-C080"
+    },
+    {
+      "id": "BIO9CH6-239",
+      "q": "For a Chapter 6 revision test, what is the relationship between DNA and chromosomes?",
+      "o": [
+        "Chromosomes contain DNA associated with proteins",
+        "DNA is a kind of lipid",
+        "Chromosomes are made only of water",
+        "Chromosomes are made only of glucose"
+      ],
+      "a": 0,
+      "e": "Chromosomal DNA is packaged with proteins.",
+      "d": "Medium",
+      "topic": "DNA",
+      "slo": "Explain or identify: DNA",
+      "concept_id": "CH6-C080"
+    },
+    {
+      "id": "BIO9CH6-240",
+      "q": "Select the scientifically correct answer: what is the relationship between DNA and chromosomes?",
+      "o": [
+        "Chromosomes are made only of water",
+        "Chromosomes contain DNA associated with proteins",
+        "Chromosomes are made only of glucose",
+        "DNA is a kind of lipid"
+      ],
+      "a": 1,
+      "e": "Chromosomal DNA is packaged with proteins.",
+      "d": "Medium",
+      "topic": "DNA",
+      "slo": "Explain or identify: DNA",
+      "concept_id": "CH6-C080"
+    },
+    {
+      "id": "BIO9CH6-241",
+      "q": "What is DNA replication?",
+      "o": [
+        "Building a lipid from glycerol",
+        "Folding a protein",
+        "Breaking down starch",
+        "Making a copy of DNA"
+      ],
+      "a": 3,
+      "e": "Replication copies genetic material before division.",
+      "d": "Easy",
+      "topic": "DNA",
+      "slo": "Explain or identify: DNA",
+      "concept_id": "CH6-C081"
+    },
+    {
+      "id": "BIO9CH6-242",
+      "q": "For a Chapter 6 revision test, what is DNA replication?",
+      "o": [
+        "Making a copy of DNA",
+        "Breaking down starch",
+        "Building a lipid from glycerol",
+        "Folding a protein"
+      ],
+      "a": 0,
+      "e": "Replication copies genetic material before division.",
+      "d": "Medium",
+      "topic": "DNA",
+      "slo": "Explain or identify: DNA",
+      "concept_id": "CH6-C081"
+    },
+    {
+      "id": "BIO9CH6-243",
+      "q": "Select the scientifically correct answer: what is DNA replication?",
+      "o": [
+        "Breaking down starch",
+        "Building a lipid from glycerol",
+        "Making a copy of DNA",
+        "Folding a protein"
+      ],
+      "a": 2,
+      "e": "Replication copies genetic material before division.",
+      "d": "Medium",
+      "topic": "DNA",
+      "slo": "Explain or identify: DNA",
+      "concept_id": "CH6-C081"
+    },
+    {
+      "id": "BIO9CH6-244",
+      "q": "What does semiconservative replication mean?",
+      "o": [
+        "One molecule contains no bases",
+        "Each daughter DNA molecule contains one original strand",
+        "Both strands are entirely newly made",
+        "DNA becomes RNA"
+      ],
+      "a": 1,
+      "e": "Each new DNA double helix retains one parental strand.",
+      "d": "Easy",
+      "topic": "DNA",
+      "slo": "Explain or identify: DNA",
+      "concept_id": "CH6-C082"
+    },
+    {
+      "id": "BIO9CH6-245",
+      "q": "For a Chapter 6 revision test, what does semiconservative replication mean?",
+      "o": [
+        "Each daughter DNA molecule contains one original strand",
+        "One molecule contains no bases",
+        "DNA becomes RNA",
+        "Both strands are entirely newly made"
+      ],
+      "a": 0,
+      "e": "Each new DNA double helix retains one parental strand.",
+      "d": "Medium",
+      "topic": "DNA",
+      "slo": "Explain or identify: DNA",
+      "concept_id": "CH6-C082"
+    },
+    {
+      "id": "BIO9CH6-246",
+      "q": "Select the scientifically correct answer: what does semiconservative replication mean?",
+      "o": [
+        "One molecule contains no bases",
+        "DNA becomes RNA",
+        "Each daughter DNA molecule contains one original strand",
+        "Both strands are entirely newly made"
+      ],
+      "a": 2,
+      "e": "Each new DNA double helix retains one parental strand.",
+      "d": "Medium",
+      "topic": "DNA",
+      "slo": "Explain or identify: DNA",
+      "concept_id": "CH6-C082"
+    },
+    {
+      "id": "BIO9CH6-247",
+      "q": "Which nucleic acid commonly carries genetic instructions to ribosomes?",
+      "o": [
+        "Messenger RNA",
+        "DNA ligase",
+        "Ribosomal RNA",
+        "Transfer RNA"
+      ],
+      "a": 0,
+      "e": "mRNA conveys coding information for protein synthesis.",
+      "d": "Easy",
+      "topic": "RNA",
+      "slo": "Explain or identify: RNA",
+      "concept_id": "CH6-C083"
+    },
+    {
+      "id": "BIO9CH6-248",
+      "q": "For a Chapter 6 revision test, which nucleic acid commonly carries genetic instructions to ribosomes?",
+      "o": [
+        "Ribosomal RNA",
+        "Transfer RNA",
+        "Messenger RNA",
+        "DNA ligase"
+      ],
+      "a": 2,
+      "e": "mRNA conveys coding information for protein synthesis.",
+      "d": "Medium",
+      "topic": "RNA",
+      "slo": "Explain or identify: RNA",
+      "concept_id": "CH6-C083"
+    },
+    {
+      "id": "BIO9CH6-249",
+      "q": "Select the scientifically correct answer: which nucleic acid commonly carries genetic instructions to ribosomes?",
+      "o": [
+        "Ribosomal RNA",
+        "Transfer RNA",
+        "Messenger RNA",
+        "DNA ligase"
+      ],
+      "a": 2,
+      "e": "mRNA conveys coding information for protein synthesis.",
+      "d": "Medium",
+      "topic": "RNA",
+      "slo": "Explain or identify: RNA",
+      "concept_id": "CH6-C083"
+    },
+    {
+      "id": "BIO9CH6-250",
+      "q": "Which RNA delivers amino acids during translation?",
+      "o": [
+        "Ribosomal RNA",
+        "DNA polymerase",
+        "Transfer RNA",
+        "Messenger RNA"
+      ],
+      "a": 2,
+      "e": "tRNA brings amino acids to the ribosome.",
+      "d": "Easy",
+      "topic": "RNA",
+      "slo": "Explain or identify: RNA",
+      "concept_id": "CH6-C084"
+    },
+    {
+      "id": "BIO9CH6-251",
+      "q": "For a Chapter 6 revision test, which RNA delivers amino acids during translation?",
+      "o": [
+        "DNA polymerase",
+        "Messenger RNA",
+        "Transfer RNA",
+        "Ribosomal RNA"
+      ],
+      "a": 2,
+      "e": "tRNA brings amino acids to the ribosome.",
+      "d": "Medium",
+      "topic": "RNA",
+      "slo": "Explain or identify: RNA",
+      "concept_id": "CH6-C084"
+    },
+    {
+      "id": "BIO9CH6-252",
+      "q": "Select the scientifically correct answer: which RNA delivers amino acids during translation?",
+      "o": [
+        "Messenger RNA",
+        "DNA polymerase",
+        "Transfer RNA",
+        "Ribosomal RNA"
+      ],
+      "a": 2,
+      "e": "tRNA brings amino acids to the ribosome.",
+      "d": "Medium",
+      "topic": "RNA",
+      "slo": "Explain or identify: RNA",
+      "concept_id": "CH6-C084"
+    },
+    {
+      "id": "BIO9CH6-253",
+      "q": "Which RNA is a major structural and functional part of ribosomes?",
+      "o": [
+        "Ribosomal RNA",
+        "Transfer RNA",
+        "Messenger RNA",
+        "DNA polymerase"
+      ],
+      "a": 0,
+      "e": "rRNA is part of the ribosome.",
+      "d": "Easy",
+      "topic": "RNA",
+      "slo": "Explain or identify: RNA",
+      "concept_id": "CH6-C085"
+    },
+    {
+      "id": "BIO9CH6-254",
+      "q": "For a Chapter 6 revision test, which RNA is a major structural and functional part of ribosomes?",
+      "o": [
+        "Transfer RNA",
+        "Ribosomal RNA",
+        "Messenger RNA",
+        "DNA polymerase"
+      ],
+      "a": 1,
+      "e": "rRNA is part of the ribosome.",
+      "d": "Medium",
+      "topic": "RNA",
+      "slo": "Explain or identify: RNA",
+      "concept_id": "CH6-C085"
+    },
+    {
+      "id": "BIO9CH6-255",
+      "q": "Select the scientifically correct answer: which RNA is a major structural and functional part of ribosomes?",
+      "o": [
+        "Transfer RNA",
+        "Ribosomal RNA",
+        "Messenger RNA",
+        "DNA polymerase"
+      ],
+      "a": 1,
+      "e": "rRNA is part of the ribosome.",
+      "d": "Medium",
+      "topic": "RNA",
+      "slo": "Explain or identify: RNA",
+      "concept_id": "CH6-C085"
+    },
+    {
+      "id": "BIO9CH6-256",
+      "q": "Which statement generally distinguishes RNA from DNA?",
+      "o": [
+        "RNA is usually single-stranded",
+        "RNA always has thymine",
+        "RNA is always a double helix",
+        "RNA contains deoxyribose"
+      ],
+      "a": 0,
+      "e": "Most cellular RNA is single-stranded and contains ribose and uracil.",
+      "d": "Easy",
+      "topic": "RNA",
+      "slo": "Explain or identify: RNA",
+      "concept_id": "CH6-C086"
+    },
+    {
+      "id": "BIO9CH6-257",
+      "q": "For a Chapter 6 revision test, which statement generally distinguishes RNA from DNA?",
+      "o": [
+        "RNA is usually single-stranded",
+        "RNA contains deoxyribose",
+        "RNA is always a double helix",
+        "RNA always has thymine"
+      ],
+      "a": 0,
+      "e": "Most cellular RNA is single-stranded and contains ribose and uracil.",
+      "d": "Medium",
+      "topic": "RNA",
+      "slo": "Explain or identify: RNA",
+      "concept_id": "CH6-C086"
+    },
+    {
+      "id": "BIO9CH6-258",
+      "q": "Select the scientifically correct answer: which statement generally distinguishes RNA from DNA?",
+      "o": [
+        "RNA is always a double helix",
+        "RNA always has thymine",
+        "RNA is usually single-stranded",
+        "RNA contains deoxyribose"
+      ],
+      "a": 2,
+      "e": "Most cellular RNA is single-stranded and contains ribose and uracil.",
+      "d": "Medium",
+      "topic": "RNA",
+      "slo": "Explain or identify: RNA",
+      "concept_id": "CH6-C086"
+    },
+    {
+      "id": "BIO9CH6-259",
+      "q": "What is transcription?",
+      "o": [
+        "Joining fatty acids",
+        "Copying a lipid",
+        "Synthesis of RNA using DNA as a template",
+        "Synthesis of protein using mRNA"
+      ],
+      "a": 2,
+      "e": "Transcription produces RNA from a DNA template.",
+      "d": "Easy",
+      "topic": "Gene expression",
+      "slo": "Explain or identify: Gene expression",
+      "concept_id": "CH6-C087"
+    },
+    {
+      "id": "BIO9CH6-260",
+      "q": "For a Chapter 6 revision test, what is transcription?",
+      "o": [
+        "Synthesis of protein using mRNA",
+        "Joining fatty acids",
+        "Synthesis of RNA using DNA as a template",
+        "Copying a lipid"
+      ],
+      "a": 2,
+      "e": "Transcription produces RNA from a DNA template.",
+      "d": "Medium",
+      "topic": "Gene expression",
+      "slo": "Explain or identify: Gene expression",
+      "concept_id": "CH6-C087"
+    },
+    {
+      "id": "BIO9CH6-261",
+      "q": "Select the scientifically correct answer: what is transcription?",
+      "o": [
+        "Synthesis of protein using mRNA",
+        "Joining fatty acids",
+        "Copying a lipid",
+        "Synthesis of RNA using DNA as a template"
+      ],
+      "a": 3,
+      "e": "Transcription produces RNA from a DNA template.",
+      "d": "Medium",
+      "topic": "Gene expression",
+      "slo": "Explain or identify: Gene expression",
+      "concept_id": "CH6-C087"
+    },
+    {
+      "id": "BIO9CH6-262",
+      "q": "What is translation?",
+      "o": [
+        "Making glucose from starch",
+        "Copying DNA into DNA",
+        "Synthesis of a polypeptide using an mRNA sequence",
+        "Joining two DNA strands"
+      ],
+      "a": 2,
+      "e": "Ribosomes translate mRNA codons into amino acid sequences.",
+      "d": "Easy",
+      "topic": "Gene expression",
+      "slo": "Explain or identify: Gene expression",
+      "concept_id": "CH6-C088"
+    },
+    {
+      "id": "BIO9CH6-263",
+      "q": "For a Chapter 6 revision test, what is translation?",
+      "o": [
+        "Joining two DNA strands",
+        "Making glucose from starch",
+        "Synthesis of a polypeptide using an mRNA sequence",
+        "Copying DNA into DNA"
+      ],
+      "a": 2,
+      "e": "Ribosomes translate mRNA codons into amino acid sequences.",
+      "d": "Medium",
+      "topic": "Gene expression",
+      "slo": "Explain or identify: Gene expression",
+      "concept_id": "CH6-C088"
+    },
+    {
+      "id": "BIO9CH6-264",
+      "q": "Select the scientifically correct answer: what is translation?",
+      "o": [
+        "Joining two DNA strands",
+        "Making glucose from starch",
+        "Synthesis of a polypeptide using an mRNA sequence",
+        "Copying DNA into DNA"
+      ],
+      "a": 2,
+      "e": "Ribosomes translate mRNA codons into amino acid sequences.",
+      "d": "Medium",
+      "topic": "Gene expression",
+      "slo": "Explain or identify: Gene expression",
+      "concept_id": "CH6-C088"
+    },
+    {
+      "id": "BIO9CH6-265",
+      "q": "Where does translation occur?",
+      "o": [
+        "Inside the cell wall",
+        "At ribosomes",
+        "Only in vacuoles",
+        "Only in lysosomes"
+      ],
+      "a": 1,
+      "e": "Ribosomes are sites of protein synthesis.",
+      "d": "Easy",
+      "topic": "Gene expression",
+      "slo": "Explain or identify: Gene expression",
+      "concept_id": "CH6-C089"
+    },
+    {
+      "id": "BIO9CH6-266",
+      "q": "For a Chapter 6 revision test, where does translation occur?",
+      "o": [
+        "At ribosomes",
+        "Only in lysosomes",
+        "Only in vacuoles",
+        "Inside the cell wall"
+      ],
+      "a": 0,
+      "e": "Ribosomes are sites of protein synthesis.",
+      "d": "Medium",
+      "topic": "Gene expression",
+      "slo": "Explain or identify: Gene expression",
+      "concept_id": "CH6-C089"
+    },
+    {
+      "id": "BIO9CH6-267",
+      "q": "Select the scientifically correct answer: where does translation occur?",
+      "o": [
+        "At ribosomes",
+        "Only in vacuoles",
+        "Inside the cell wall",
+        "Only in lysosomes"
+      ],
+      "a": 0,
+      "e": "Ribosomes are sites of protein synthesis.",
+      "d": "Medium",
+      "topic": "Gene expression",
+      "slo": "Explain or identify: Gene expression",
+      "concept_id": "CH6-C089"
+    },
+    {
+      "id": "BIO9CH6-268",
+      "q": "Where does transcription usually occur in a eukaryotic cell?",
+      "o": [
+        "Vacuole",
+        "Cell wall",
+        "Extracellular fluid",
+        "Nucleus"
+      ],
+      "a": 3,
+      "e": "Eukaryotic nuclear DNA is transcribed in the nucleus.",
+      "d": "Easy",
+      "topic": "Gene expression",
+      "slo": "Explain or identify: Gene expression",
+      "concept_id": "CH6-C090"
+    },
+    {
+      "id": "BIO9CH6-269",
+      "q": "For a Chapter 6 revision test, where does transcription usually occur in a eukaryotic cell?",
+      "o": [
+        "Vacuole",
+        "Nucleus",
+        "Cell wall",
+        "Extracellular fluid"
+      ],
+      "a": 1,
+      "e": "Eukaryotic nuclear DNA is transcribed in the nucleus.",
+      "d": "Medium",
+      "topic": "Gene expression",
+      "slo": "Explain or identify: Gene expression",
+      "concept_id": "CH6-C090"
+    },
+    {
+      "id": "BIO9CH6-270",
+      "q": "Select the scientifically correct answer: where does transcription usually occur in a eukaryotic cell?",
+      "o": [
+        "Vacuole",
+        "Nucleus",
+        "Cell wall",
+        "Extracellular fluid"
+      ],
+      "a": 1,
+      "e": "Eukaryotic nuclear DNA is transcribed in the nucleus.",
+      "d": "Medium",
+      "topic": "Gene expression",
+      "slo": "Explain or identify: Gene expression",
+      "concept_id": "CH6-C090"
+    },
+    {
+      "id": "BIO9CH6-271",
+      "q": "Which sequence represents the central flow of genetic information?",
+      "o": [
+        "DNA to RNA to protein",
+        "Water to starch to protein",
+        "Lipid to sugar to DNA",
+        "Protein to RNA to DNA only"
+      ],
+      "a": 0,
+      "e": "The chapter describes DNA information being transcribed into RNA and translated into protein.",
+      "d": "Easy",
+      "topic": "Gene expression",
+      "slo": "Explain or identify: Gene expression",
+      "concept_id": "CH6-C091"
+    },
+    {
+      "id": "BIO9CH6-272",
+      "q": "For a Chapter 6 revision test, which sequence represents the central flow of genetic information?",
+      "o": [
+        "Protein to RNA to DNA only",
+        "DNA to RNA to protein",
+        "Water to starch to protein",
+        "Lipid to sugar to DNA"
+      ],
+      "a": 1,
+      "e": "The chapter describes DNA information being transcribed into RNA and translated into protein.",
+      "d": "Medium",
+      "topic": "Gene expression",
+      "slo": "Explain or identify: Gene expression",
+      "concept_id": "CH6-C091"
+    },
+    {
+      "id": "BIO9CH6-273",
+      "q": "Select the scientifically correct answer: which sequence represents the central flow of genetic information?",
+      "o": [
+        "Lipid to sugar to DNA",
+        "DNA to RNA to protein",
+        "Water to starch to protein",
+        "Protein to RNA to DNA only"
+      ],
+      "a": 1,
+      "e": "The chapter describes DNA information being transcribed into RNA and translated into protein.",
+      "d": "Medium",
+      "topic": "Gene expression",
+      "slo": "Explain or identify: Gene expression",
+      "concept_id": "CH6-C091"
+    },
+    {
+      "id": "BIO9CH6-274",
+      "q": "What is a codon?",
+      "o": [
+        "A DNA double helix",
+        "A chain of three lipids",
+        "An amino acid side chain",
+        "A three-nucleotide sequence on mRNA"
+      ],
+      "a": 3,
+      "e": "A codon specifies an amino acid or a stop signal.",
+      "d": "Easy",
+      "topic": "Gene expression",
+      "slo": "Explain or identify: Gene expression",
+      "concept_id": "CH6-C092"
+    },
+    {
+      "id": "BIO9CH6-275",
+      "q": "For a Chapter 6 revision test, what is a codon?",
+      "o": [
+        "An amino acid side chain",
+        "A DNA double helix",
+        "A chain of three lipids",
+        "A three-nucleotide sequence on mRNA"
+      ],
+      "a": 3,
+      "e": "A codon specifies an amino acid or a stop signal.",
+      "d": "Medium",
+      "topic": "Gene expression",
+      "slo": "Explain or identify: Gene expression",
+      "concept_id": "CH6-C092"
+    },
+    {
+      "id": "BIO9CH6-276",
+      "q": "Select the scientifically correct answer: what is a codon?",
+      "o": [
+        "A DNA double helix",
+        "An amino acid side chain",
+        "A chain of three lipids",
+        "A three-nucleotide sequence on mRNA"
+      ],
+      "a": 3,
+      "e": "A codon specifies an amino acid or a stop signal.",
+      "d": "Medium",
+      "topic": "Gene expression",
+      "slo": "Explain or identify: Gene expression",
+      "concept_id": "CH6-C092"
+    },
+    {
+      "id": "BIO9CH6-277",
+      "q": "What determines the amino acid order of a protein?",
+      "o": [
+        "Amount of water alone",
+        "Cell size alone",
+        "Membrane lipid thickness",
+        "Sequence of codons in mRNA"
+      ],
+      "a": 3,
+      "e": "The coding sequence determines the amino acid sequence.",
+      "d": "Easy",
+      "topic": "Gene expression",
+      "slo": "Explain or identify: Gene expression",
+      "concept_id": "CH6-C093"
+    },
+    {
+      "id": "BIO9CH6-278",
+      "q": "For a Chapter 6 revision test, what determines the amino acid order of a protein?",
+      "o": [
+        "Membrane lipid thickness",
+        "Amount of water alone",
+        "Cell size alone",
+        "Sequence of codons in mRNA"
+      ],
+      "a": 3,
+      "e": "The coding sequence determines the amino acid sequence.",
+      "d": "Medium",
+      "topic": "Gene expression",
+      "slo": "Explain or identify: Gene expression",
+      "concept_id": "CH6-C093"
+    },
+    {
+      "id": "BIO9CH6-279",
+      "q": "Select the scientifically correct answer: what determines the amino acid order of a protein?",
+      "o": [
+        "Sequence of codons in mRNA",
+        "Membrane lipid thickness",
+        "Cell size alone",
+        "Amount of water alone"
+      ],
+      "a": 0,
+      "e": "The coding sequence determines the amino acid sequence.",
+      "d": "Medium",
+      "topic": "Gene expression",
+      "slo": "Explain or identify: Gene expression",
+      "concept_id": "CH6-C093"
+    },
+    {
+      "id": "BIO9CH6-280",
+      "q": "What is the product of transcription?",
+      "o": [
+        "A polypeptide directly",
+        "RNA",
+        "A triglyceride",
+        "A cellulose fibre"
+      ],
+      "a": 1,
+      "e": "Transcription synthesizes an RNA strand.",
+      "d": "Easy",
+      "topic": "Gene expression",
+      "slo": "Explain or identify: Gene expression",
+      "concept_id": "CH6-C094"
+    },
+    {
+      "id": "BIO9CH6-281",
+      "q": "For a Chapter 6 revision test, what is the product of transcription?",
+      "o": [
+        "A triglyceride",
+        "RNA",
+        "A cellulose fibre",
+        "A polypeptide directly"
+      ],
+      "a": 1,
+      "e": "Transcription synthesizes an RNA strand.",
+      "d": "Medium",
+      "topic": "Gene expression",
+      "slo": "Explain or identify: Gene expression",
+      "concept_id": "CH6-C094"
+    },
+    {
+      "id": "BIO9CH6-282",
+      "q": "Select the scientifically correct answer: what is the product of transcription?",
+      "o": [
+        "A cellulose fibre",
+        "RNA",
+        "A triglyceride",
+        "A polypeptide directly"
+      ],
+      "a": 1,
+      "e": "Transcription synthesizes an RNA strand.",
+      "d": "Medium",
+      "topic": "Gene expression",
+      "slo": "Explain or identify: Gene expression",
+      "concept_id": "CH6-C094"
+    },
+    {
+      "id": "BIO9CH6-283",
+      "q": "What is the direct product of translation?",
+      "o": [
+        "A DNA double helix",
+        "A polypeptide",
+        "A starch molecule",
+        "A fatty acid"
+      ],
+      "a": 1,
+      "e": "Translation links amino acids into a polypeptide.",
+      "d": "Easy",
+      "topic": "Gene expression",
+      "slo": "Explain or identify: Gene expression",
+      "concept_id": "CH6-C095"
+    },
+    {
+      "id": "BIO9CH6-284",
+      "q": "For a Chapter 6 revision test, what is the direct product of translation?",
+      "o": [
+        "A starch molecule",
+        "A fatty acid",
+        "A polypeptide",
+        "A DNA double helix"
+      ],
+      "a": 2,
+      "e": "Translation links amino acids into a polypeptide.",
+      "d": "Medium",
+      "topic": "Gene expression",
+      "slo": "Explain or identify: Gene expression",
+      "concept_id": "CH6-C095"
+    },
+    {
+      "id": "BIO9CH6-285",
+      "q": "Select the scientifically correct answer: what is the direct product of translation?",
+      "o": [
+        "A DNA double helix",
+        "A fatty acid",
+        "A polypeptide",
+        "A starch molecule"
+      ],
+      "a": 2,
+      "e": "Translation links amino acids into a polypeptide.",
+      "d": "Medium",
+      "topic": "Gene expression",
+      "slo": "Explain or identify: Gene expression",
+      "concept_id": "CH6-C095"
+    },
+    {
+      "id": "BIO9CH6-286",
+      "q": "Why is RNA needed in protein synthesis?",
+      "o": [
+        "It replaces all enzymes",
+        "It helps transfer and decode DNA-derived instructions",
+        "It stores fats permanently",
+        "It forms cell walls"
+      ],
+      "a": 1,
+      "e": "mRNA, tRNA and rRNA participate in protein synthesis.",
+      "d": "Easy",
+      "topic": "Gene expression",
+      "slo": "Explain or identify: Gene expression",
+      "concept_id": "CH6-C096"
+    },
+    {
+      "id": "BIO9CH6-287",
+      "q": "For a Chapter 6 revision test, why is RNA needed in protein synthesis?",
+      "o": [
+        "It forms cell walls",
+        "It replaces all enzymes",
+        "It helps transfer and decode DNA-derived instructions",
+        "It stores fats permanently"
+      ],
+      "a": 2,
+      "e": "mRNA, tRNA and rRNA participate in protein synthesis.",
+      "d": "Medium",
+      "topic": "Gene expression",
+      "slo": "Explain or identify: Gene expression",
+      "concept_id": "CH6-C096"
+    },
+    {
+      "id": "BIO9CH6-288",
+      "q": "Select the scientifically correct answer: why is RNA needed in protein synthesis?",
+      "o": [
+        "It replaces all enzymes",
+        "It stores fats permanently",
+        "It helps transfer and decode DNA-derived instructions",
+        "It forms cell walls"
+      ],
+      "a": 2,
+      "e": "mRNA, tRNA and rRNA participate in protein synthesis.",
+      "d": "Medium",
+      "topic": "Gene expression",
+      "slo": "Explain or identify: Gene expression",
+      "concept_id": "CH6-C096"
+    },
+    {
+      "id": "BIO9CH6-289",
+      "q": "Which biomolecule class includes both enzymes and antibodies?",
+      "o": [
+        "Lipids",
+        "Proteins",
+        "Carbohydrates",
+        "Nucleic acids"
+      ],
+      "a": 1,
+      "e": "Enzymes and antibodies are examples of proteins.",
+      "d": "Easy",
+      "topic": "Biomolecules",
+      "slo": "Explain or identify: Biomolecules",
+      "concept_id": "CH6-C097"
+    },
+    {
+      "id": "BIO9CH6-290",
+      "q": "For a Chapter 6 revision test, which biomolecule class includes both enzymes and antibodies?",
+      "o": [
+        "Proteins",
+        "Carbohydrates",
+        "Lipids",
+        "Nucleic acids"
+      ],
+      "a": 0,
+      "e": "Enzymes and antibodies are examples of proteins.",
+      "d": "Medium",
+      "topic": "Biomolecules",
+      "slo": "Explain or identify: Biomolecules",
+      "concept_id": "CH6-C097"
+    },
+    {
+      "id": "BIO9CH6-291",
+      "q": "Select the scientifically correct answer: which biomolecule class includes both enzymes and antibodies?",
+      "o": [
+        "Proteins",
+        "Carbohydrates",
+        "Lipids",
+        "Nucleic acids"
+      ],
+      "a": 0,
+      "e": "Enzymes and antibodies are examples of proteins.",
+      "d": "Medium",
+      "topic": "Biomolecules",
+      "slo": "Explain or identify: Biomolecules",
+      "concept_id": "CH6-C097"
+    },
+    {
+      "id": "BIO9CH6-292",
+      "q": "Which biomolecule class includes starch and cellulose?",
+      "o": [
+        "Nucleic acids",
+        "Proteins",
+        "Carbohydrates",
+        "Lipids"
+      ],
+      "a": 2,
+      "e": "Starch and cellulose are polysaccharides.",
+      "d": "Easy",
+      "topic": "Biomolecules",
+      "slo": "Explain or identify: Biomolecules",
+      "concept_id": "CH6-C098"
+    },
+    {
+      "id": "BIO9CH6-293",
+      "q": "For a Chapter 6 revision test, which biomolecule class includes starch and cellulose?",
+      "o": [
+        "Proteins",
+        "Lipids",
+        "Carbohydrates",
+        "Nucleic acids"
+      ],
+      "a": 2,
+      "e": "Starch and cellulose are polysaccharides.",
+      "d": "Medium",
+      "topic": "Biomolecules",
+      "slo": "Explain or identify: Biomolecules",
+      "concept_id": "CH6-C098"
+    },
+    {
+      "id": "BIO9CH6-294",
+      "q": "Select the scientifically correct answer: which biomolecule class includes starch and cellulose?",
+      "o": [
+        "Carbohydrates",
+        "Lipids",
+        "Nucleic acids",
+        "Proteins"
+      ],
+      "a": 0,
+      "e": "Starch and cellulose are polysaccharides.",
+      "d": "Medium",
+      "topic": "Biomolecules",
+      "slo": "Explain or identify: Biomolecules",
+      "concept_id": "CH6-C098"
+    },
+    {
+      "id": "BIO9CH6-295",
+      "q": "Which biomolecule class includes DNA and RNA?",
+      "o": [
+        "Proteins",
+        "Nucleic acids",
+        "Carbohydrates",
+        "Lipids"
+      ],
+      "a": 1,
+      "e": "DNA and RNA are nucleic acids.",
+      "d": "Easy",
+      "topic": "Biomolecules",
+      "slo": "Explain or identify: Biomolecules",
+      "concept_id": "CH6-C099"
+    },
+    {
+      "id": "BIO9CH6-296",
+      "q": "For a Chapter 6 revision test, which biomolecule class includes DNA and RNA?",
+      "o": [
+        "Lipids",
+        "Proteins",
+        "Carbohydrates",
+        "Nucleic acids"
+      ],
+      "a": 3,
+      "e": "DNA and RNA are nucleic acids.",
+      "d": "Medium",
+      "topic": "Biomolecules",
+      "slo": "Explain or identify: Biomolecules",
+      "concept_id": "CH6-C099"
+    },
+    {
+      "id": "BIO9CH6-297",
+      "q": "Select the scientifically correct answer: which biomolecule class includes DNA and RNA?",
+      "o": [
+        "Carbohydrates",
+        "Proteins",
+        "Lipids",
+        "Nucleic acids"
+      ],
+      "a": 3,
+      "e": "DNA and RNA are nucleic acids.",
+      "d": "Medium",
+      "topic": "Biomolecules",
+      "slo": "Explain or identify: Biomolecules",
+      "concept_id": "CH6-C099"
+    },
+    {
+      "id": "BIO9CH6-298",
+      "q": "Which biomolecule class includes fats and oils?",
+      "o": [
+        "Proteins",
+        "Lipids",
+        "Nucleic acids",
+        "Carbohydrates"
+      ],
+      "a": 1,
+      "e": "Fats and oils are lipids.",
+      "d": "Easy",
+      "topic": "Biomolecules",
+      "slo": "Explain or identify: Biomolecules",
+      "concept_id": "CH6-C100"
+    },
+    {
+      "id": "BIO9CH6-299",
+      "q": "For a Chapter 6 revision test, which biomolecule class includes fats and oils?",
+      "o": [
+        "Proteins",
+        "Lipids",
+        "Carbohydrates",
+        "Nucleic acids"
+      ],
+      "a": 1,
+      "e": "Fats and oils are lipids.",
+      "d": "Medium",
+      "topic": "Biomolecules",
+      "slo": "Explain or identify: Biomolecules",
+      "concept_id": "CH6-C100"
+    },
+    {
+      "id": "BIO9CH6-300",
+      "q": "Select the scientifically correct answer: which biomolecule class includes fats and oils?",
+      "o": [
+        "Proteins",
+        "Lipids",
+        "Nucleic acids",
+        "Carbohydrates"
+      ],
+      "a": 1,
+      "e": "Fats and oils are lipids.",
+      "d": "Medium",
+      "topic": "Biomolecules",
+      "slo": "Explain or identify: Biomolecules",
+      "concept_id": "CH6-C100"
+    }
+  ]
+}

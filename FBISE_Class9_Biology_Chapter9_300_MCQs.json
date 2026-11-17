@@ -1,0 +1,4804 @@
+{
+  "questions": [
+    {
+      "id": "BIO9CH9-001",
+      "q": "Which statement defines asexual reproduction?",
+      "o": [
+        "Production of offspring from one parent without gamete fusion",
+        "Formation of seeds only",
+        "Union of two pollen grains",
+        "Fusion of male and female gametes"
+      ],
+      "a": 0,
+      "e": "Asexual reproduction does not involve fusion of gametes.",
+      "d": "Easy",
+      "topic": "Asexual reproduction",
+      "slo": "Define asexual reproduction",
+      "concept_id": "CH9-C001"
+    },
+    {
+      "id": "BIO9CH9-002",
+      "q": "In a Class 9 Biology assessment on asexual reproduction, choose the scientifically correct answer: Which statement defines asexual reproduction?",
+      "o": [
+        "Formation of seeds only",
+        "Union of two pollen grains",
+        "Production of offspring from one parent without gamete fusion",
+        "Fusion of male and female gametes"
+      ],
+      "a": 2,
+      "e": "Asexual reproduction does not involve fusion of gametes.",
+      "d": "Medium",
+      "topic": "Asexual reproduction",
+      "slo": "Define asexual reproduction",
+      "concept_id": "CH9-C001"
+    },
+    {
+      "id": "BIO9CH9-003",
+      "q": "Why are offspring produced by ordinary asexual reproduction usually genetically similar to the parent?",
+      "o": [
+        "They are formed by meiosis only",
+        "They always receive genes from two parents",
+        "They arise through mitotic divisions without gamete fusion",
+        "They undergo cross-pollination"
+      ],
+      "a": 2,
+      "e": "Mitotic cell division ordinarily preserves the parental genetic information.",
+      "d": "Easy",
+      "topic": "Asexual reproduction",
+      "slo": "Explain genetic similarity",
+      "concept_id": "CH9-C002"
+    },
+    {
+      "id": "BIO9CH9-004",
+      "q": "In a Class 9 Biology assessment on asexual reproduction, choose the scientifically correct answer: Why are offspring produced by ordinary asexual reproduction usually genetically similar to the parent?",
+      "o": [
+        "They always receive genes from two parents",
+        "They arise through mitotic divisions without gamete fusion",
+        "They are formed by meiosis only",
+        "They undergo cross-pollination"
+      ],
+      "a": 1,
+      "e": "Mitotic cell division ordinarily preserves the parental genetic information.",
+      "d": "Medium",
+      "topic": "Asexual reproduction",
+      "slo": "Explain genetic similarity",
+      "concept_id": "CH9-C002"
+    },
+    {
+      "id": "BIO9CH9-005",
+      "q": "Which asexual process divides one cell into two daughter cells?",
+      "o": [
+        "Seed dispersal",
+        "Binary fission",
+        "Pollination",
+        "Double fertilization"
+      ],
+      "a": 1,
+      "e": "Binary fission produces two cells from one parent cell.",
+      "d": "Easy",
+      "topic": "Asexual reproduction",
+      "slo": "Identify binary fission",
+      "concept_id": "CH9-C003"
+    },
+    {
+      "id": "BIO9CH9-006",
+      "q": "In a Class 9 Biology assessment on asexual reproduction, choose the scientifically correct answer: Which asexual process divides one cell into two daughter cells?",
+      "o": [
+        "Pollination",
+        "Double fertilization",
+        "Seed dispersal",
+        "Binary fission"
+      ],
+      "a": 3,
+      "e": "Binary fission produces two cells from one parent cell.",
+      "d": "Medium",
+      "topic": "Asexual reproduction",
+      "slo": "Identify binary fission",
+      "concept_id": "CH9-C003"
+    },
+    {
+      "id": "BIO9CH9-007",
+      "q": "Which organism commonly reproduces by binary fission?",
+      "o": [
+        "Pine through cones",
+        "Flowering wheat through pollen",
+        "Bacterium",
+        "Mango tree through seeds"
+      ],
+      "a": 2,
+      "e": "Many bacteria divide by binary fission.",
+      "d": "Easy",
+      "topic": "Binary fission",
+      "slo": "Identify example",
+      "concept_id": "CH9-C004"
+    },
+    {
+      "id": "BIO9CH9-008",
+      "q": "In a Class 9 Biology assessment on binary fission, choose the scientifically correct answer: Which organism commonly reproduces by binary fission?",
+      "o": [
+        "Flowering wheat through pollen",
+        "Pine through cones",
+        "Bacterium",
+        "Mango tree through seeds"
+      ],
+      "a": 2,
+      "e": "Many bacteria divide by binary fission.",
+      "d": "Medium",
+      "topic": "Binary fission",
+      "slo": "Identify example",
+      "concept_id": "CH9-C004"
+    },
+    {
+      "id": "BIO9CH9-009",
+      "q": "Before a bacterial cell separates during binary fission, what happens to its genetic material?",
+      "o": [
+        "It is permanently destroyed",
+        "It becomes a seed",
+        "It enters a flower",
+        "It is replicated"
+      ],
+      "a": 3,
+      "e": "DNA replication precedes cell division.",
+      "d": "Easy",
+      "topic": "Binary fission",
+      "slo": "Sequence events",
+      "concept_id": "CH9-C005"
+    },
+    {
+      "id": "BIO9CH9-010",
+      "q": "In a Class 9 Biology assessment on binary fission, choose the scientifically correct answer: Before a bacterial cell separates during binary fission, what happens to its genetic material?",
+      "o": [
+        "It enters a flower",
+        "It is replicated",
+        "It becomes a seed",
+        "It is permanently destroyed"
+      ],
+      "a": 1,
+      "e": "DNA replication precedes cell division.",
+      "d": "Medium",
+      "topic": "Binary fission",
+      "slo": "Sequence events",
+      "concept_id": "CH9-C005"
+    },
+    {
+      "id": "BIO9CH9-011",
+      "q": "A single bacterium becomes two genetically similar cells. Which process occurred?",
+      "o": [
+        "Fertilization",
+        "Cross-pollination",
+        "Binary fission",
+        "Grafting"
+      ],
+      "a": 2,
+      "e": "Binary fission splits one cell into two.",
+      "d": "Easy",
+      "topic": "Binary fission",
+      "slo": "Apply process",
+      "concept_id": "CH9-C006"
+    },
+    {
+      "id": "BIO9CH9-012",
+      "q": "In a Class 9 Biology assessment on binary fission, choose the scientifically correct answer: A single bacterium becomes two genetically similar cells. Which process occurred?",
+      "o": [
+        "Grafting",
+        "Binary fission",
+        "Cross-pollination",
+        "Fertilization"
+      ],
+      "a": 1,
+      "e": "Binary fission splits one cell into two.",
+      "d": "Medium",
+      "topic": "Binary fission",
+      "slo": "Apply process",
+      "concept_id": "CH9-C006"
+    },
+    {
+      "id": "BIO9CH9-013",
+      "q": "What characterizes budding?",
+      "o": [
+        "A seed coat breaks",
+        "Two gametes fuse",
+        "A new individual develops as an outgrowth of the parent",
+        "A pollen grain lands on stigma"
+      ],
+      "a": 2,
+      "e": "A bud grows from the parent and can separate.",
+      "d": "Easy",
+      "topic": "Budding",
+      "slo": "Define budding",
+      "concept_id": "CH9-C007"
+    },
+    {
+      "id": "BIO9CH9-014",
+      "q": "In a Class 9 Biology assessment on budding, choose the scientifically correct answer: What characterizes budding?",
+      "o": [
+        "A new individual develops as an outgrowth of the parent",
+        "A pollen grain lands on stigma",
+        "Two gametes fuse",
+        "A seed coat breaks"
+      ],
+      "a": 0,
+      "e": "A bud grows from the parent and can separate.",
+      "d": "Medium",
+      "topic": "Budding",
+      "slo": "Define budding",
+      "concept_id": "CH9-C007"
+    },
+    {
+      "id": "BIO9CH9-015",
+      "q": "Which organism commonly reproduces by budding?",
+      "o": [
+        "Pine through cones",
+        "Yeast",
+        "Wheat through seeds",
+        "Maize through pollen"
+      ],
+      "a": 1,
+      "e": "Yeast cells can form daughter buds.",
+      "d": "Easy",
+      "topic": "Budding",
+      "slo": "Identify yeast",
+      "concept_id": "CH9-C008"
+    },
+    {
+      "id": "BIO9CH9-016",
+      "q": "In a Class 9 Biology assessment on budding, choose the scientifically correct answer: Which organism commonly reproduces by budding?",
+      "o": [
+        "Maize through pollen",
+        "Yeast",
+        "Pine through cones",
+        "Wheat through seeds"
+      ],
+      "a": 1,
+      "e": "Yeast cells can form daughter buds.",
+      "d": "Medium",
+      "topic": "Budding",
+      "slo": "Identify yeast",
+      "concept_id": "CH9-C008"
+    },
+    {
+      "id": "BIO9CH9-017",
+      "q": "Which animal is a standard example of budding?",
+      "o": [
+        "Hydra",
+        "Butterfly by pollen",
+        "Earthworm by seed",
+        "Frog by spore"
+      ],
+      "a": 0,
+      "e": "Hydra can produce buds that grow into new individuals.",
+      "d": "Easy",
+      "topic": "Budding",
+      "slo": "Identify Hydra",
+      "concept_id": "CH9-C009"
+    },
+    {
+      "id": "BIO9CH9-018",
+      "q": "In a Class 9 Biology assessment on budding, choose the scientifically correct answer: Which animal is a standard example of budding?",
+      "o": [
+        "Hydra",
+        "Butterfly by pollen",
+        "Frog by spore",
+        "Earthworm by seed"
+      ],
+      "a": 0,
+      "e": "Hydra can produce buds that grow into new individuals.",
+      "d": "Medium",
+      "topic": "Budding",
+      "slo": "Identify Hydra",
+      "concept_id": "CH9-C009"
+    },
+    {
+      "id": "BIO9CH9-019",
+      "q": "What is a key difference between budding and binary fission?",
+      "o": [
+        "Budding always needs two parents",
+        "Budding initially produces an unequal-sized outgrowth",
+        "Binary fission uses pollen",
+        "Binary fission produces seeds"
+      ],
+      "a": 1,
+      "e": "A daughter bud is initially smaller than its parent.",
+      "d": "Easy",
+      "topic": "Budding",
+      "slo": "Distinguish division",
+      "concept_id": "CH9-C010"
+    },
+    {
+      "id": "BIO9CH9-020",
+      "q": "In a Class 9 Biology assessment on budding, choose the scientifically correct answer: What is a key difference between budding and binary fission?",
+      "o": [
+        "Binary fission uses pollen",
+        "Binary fission produces seeds",
+        "Budding initially produces an unequal-sized outgrowth",
+        "Budding always needs two parents"
+      ],
+      "a": 2,
+      "e": "A daughter bud is initially smaller than its parent.",
+      "d": "Medium",
+      "topic": "Budding",
+      "slo": "Distinguish division",
+      "concept_id": "CH9-C010"
+    },
+    {
+      "id": "BIO9CH9-021",
+      "q": "In asexual spore formation, new individuals develop from:",
+      "o": [
+        "Seeds with cotyledons only",
+        "Fertilized ovules only",
+        "Pollen tubes only",
+        "Reproductive spores"
+      ],
+      "a": 3,
+      "e": "Spores can germinate to form new organisms under suitable conditions.",
+      "d": "Easy",
+      "topic": "Spore formation",
+      "slo": "Define spores",
+      "concept_id": "CH9-C011"
+    },
+    {
+      "id": "BIO9CH9-022",
+      "q": "In a Class 9 Biology assessment on spore formation, choose the scientifically correct answer: In asexual spore formation, new individuals develop from:",
+      "o": [
+        "Pollen tubes only",
+        "Fertilized ovules only",
+        "Reproductive spores",
+        "Seeds with cotyledons only"
+      ],
+      "a": 2,
+      "e": "Spores can germinate to form new organisms under suitable conditions.",
+      "d": "Medium",
+      "topic": "Spore formation",
+      "slo": "Define spores",
+      "concept_id": "CH9-C011"
+    },
+    {
+      "id": "BIO9CH9-023",
+      "q": "Which fungus is commonly illustrated as reproducing by spores?",
+      "o": [
+        "Mango",
+        "Rose",
+        "Pea",
+        "Rhizopus"
+      ],
+      "a": 3,
+      "e": "Rhizopus forms spores inside sporangia.",
+      "d": "Easy",
+      "topic": "Spore formation",
+      "slo": "Identify Rhizopus",
+      "concept_id": "CH9-C012"
+    },
+    {
+      "id": "BIO9CH9-024",
+      "q": "In a Class 9 Biology assessment on spore formation, choose the scientifically correct answer: Which fungus is commonly illustrated as reproducing by spores?",
+      "o": [
+        "Pea",
+        "Mango",
+        "Rose",
+        "Rhizopus"
+      ],
+      "a": 3,
+      "e": "Rhizopus forms spores inside sporangia.",
+      "d": "Medium",
+      "topic": "Spore formation",
+      "slo": "Identify Rhizopus",
+      "concept_id": "CH9-C012"
+    },
+    {
+      "id": "BIO9CH9-025",
+      "q": "What is a sporangium?",
+      "o": [
+        "A structure in which spores form",
+        "A plant seed coat",
+        "A root cap",
+        "The female part of a flower"
+      ],
+      "a": 0,
+      "e": "Sporangia are spore-producing structures.",
+      "d": "Easy",
+      "topic": "Spore formation",
+      "slo": "Define sporangium",
+      "concept_id": "CH9-C013"
+    },
+    {
+      "id": "BIO9CH9-026",
+      "q": "In a Class 9 Biology assessment on spore formation, choose the scientifically correct answer: What is a sporangium?",
+      "o": [
+        "The female part of a flower",
+        "A root cap",
+        "A plant seed coat",
+        "A structure in which spores form"
+      ],
+      "a": 3,
+      "e": "Sporangia are spore-producing structures.",
+      "d": "Medium",
+      "topic": "Spore formation",
+      "slo": "Define sporangium",
+      "concept_id": "CH9-C013"
+    },
+    {
+      "id": "BIO9CH9-027",
+      "q": "Why can fungal spores spread widely?",
+      "o": [
+        "They must travel through phloem",
+        "They can be dispersed by air",
+        "They are always attached to roots",
+        "They cannot leave the parent"
+      ],
+      "a": 1,
+      "e": "Small spores may be carried by air currents.",
+      "d": "Easy",
+      "topic": "Spore formation",
+      "slo": "Explain dispersal",
+      "concept_id": "CH9-C014"
+    },
+    {
+      "id": "BIO9CH9-028",
+      "q": "In a Class 9 Biology assessment on spore formation, choose the scientifically correct answer: Why can fungal spores spread widely?",
+      "o": [
+        "They must travel through phloem",
+        "They are always attached to roots",
+        "They can be dispersed by air",
+        "They cannot leave the parent"
+      ],
+      "a": 2,
+      "e": "Small spores may be carried by air currents.",
+      "d": "Medium",
+      "topic": "Spore formation",
+      "slo": "Explain dispersal",
+      "concept_id": "CH9-C014"
+    },
+    {
+      "id": "BIO9CH9-029",
+      "q": "A fungal spore on moist bread starts growing. What is this called?",
+      "o": [
+        "Germination",
+        "Fertilization",
+        "Pollination",
+        "Translocation"
+      ],
+      "a": 0,
+      "e": "Spores germinate under favorable conditions.",
+      "d": "Easy",
+      "topic": "Spore formation",
+      "slo": "Identify favorable conditions",
+      "concept_id": "CH9-C015"
+    },
+    {
+      "id": "BIO9CH9-030",
+      "q": "In a Class 9 Biology assessment on spore formation, choose the scientifically correct answer: A fungal spore on moist bread starts growing. What is this called?",
+      "o": [
+        "Germination",
+        "Translocation",
+        "Pollination",
+        "Fertilization"
+      ],
+      "a": 0,
+      "e": "Spores germinate under favorable conditions.",
+      "d": "Medium",
+      "topic": "Spore formation",
+      "slo": "Identify favorable conditions",
+      "concept_id": "CH9-C015"
+    },
+    {
+      "id": "BIO9CH9-031",
+      "q": "Which plant structures can produce new individuals by vegetative propagation?",
+      "o": [
+        "Only fertilized eggs",
+        "Only pollen grains",
+        "Only anthers",
+        "Roots, stems or leaves"
+      ],
+      "a": 3,
+      "e": "Vegetative organs can generate new plants.",
+      "d": "Easy",
+      "topic": "Vegetative propagation",
+      "slo": "Define vegetative propagation",
+      "concept_id": "CH9-C016"
+    },
+    {
+      "id": "BIO9CH9-032",
+      "q": "In a Class 9 Biology assessment on vegetative propagation, choose the scientifically correct answer: Which plant structures can produce new individuals by vegetative propagation?",
+      "o": [
+        "Only fertilized eggs",
+        "Roots, stems or leaves",
+        "Only anthers",
+        "Only pollen grains"
+      ],
+      "a": 1,
+      "e": "Vegetative organs can generate new plants.",
+      "d": "Medium",
+      "topic": "Vegetative propagation",
+      "slo": "Define vegetative propagation",
+      "concept_id": "CH9-C016"
+    },
+    {
+      "id": "BIO9CH9-033",
+      "q": "Which is a natural vegetative propagation method?",
+      "o": [
+        "Seed formation",
+        "Growth from a potato tuber",
+        "Hand pollination",
+        "Cross-fertilization"
+      ],
+      "a": 1,
+      "e": "Potato tubers bear buds that grow into shoots.",
+      "d": "Easy",
+      "topic": "Vegetative propagation",
+      "slo": "Recognize natural method",
+      "concept_id": "CH9-C017"
+    },
+    {
+      "id": "BIO9CH9-034",
+      "q": "In a Class 9 Biology assessment on vegetative propagation, choose the scientifically correct answer: Which is a natural vegetative propagation method?",
+      "o": [
+        "Growth from a potato tuber",
+        "Seed formation",
+        "Cross-fertilization",
+        "Hand pollination"
+      ],
+      "a": 0,
+      "e": "Potato tubers bear buds that grow into shoots.",
+      "d": "Medium",
+      "topic": "Vegetative propagation",
+      "slo": "Recognize natural method",
+      "concept_id": "CH9-C017"
+    },
+    {
+      "id": "BIO9CH9-035",
+      "q": "Which plant commonly reproduces vegetatively by bulbs?",
+      "o": [
+        "Maize through pollen",
+        "Onion",
+        "Bean through seeds",
+        "Sunflower through seeds"
+      ],
+      "a": 1,
+      "e": "Onion bulbs contain buds and stored nutrients.",
+      "d": "Easy",
+      "topic": "Vegetative propagation",
+      "slo": "Identify bulbs",
+      "concept_id": "CH9-C018"
+    },
+    {
+      "id": "BIO9CH9-036",
+      "q": "In a Class 9 Biology assessment on vegetative propagation, choose the scientifically correct answer: Which plant commonly reproduces vegetatively by bulbs?",
+      "o": [
+        "Onion",
+        "Sunflower through seeds",
+        "Bean through seeds",
+        "Maize through pollen"
+      ],
+      "a": 0,
+      "e": "Onion bulbs contain buds and stored nutrients.",
+      "d": "Medium",
+      "topic": "Vegetative propagation",
+      "slo": "Identify bulbs",
+      "concept_id": "CH9-C018"
+    },
+    {
+      "id": "BIO9CH9-037",
+      "q": "Which plant has underground stem tubers with eyes?",
+      "o": [
+        "Carrot",
+        "Rice",
+        "Wheat",
+        "Potato"
+      ],
+      "a": 3,
+      "e": "Potato eyes are buds on stem tubers.",
+      "d": "Easy",
+      "topic": "Vegetative propagation",
+      "slo": "Identify tubers",
+      "concept_id": "CH9-C019"
+    },
+    {
+      "id": "BIO9CH9-038",
+      "q": "In a Class 9 Biology assessment on vegetative propagation, choose the scientifically correct answer: Which plant has underground stem tubers with eyes?",
+      "o": [
+        "Potato",
+        "Wheat",
+        "Rice",
+        "Carrot"
+      ],
+      "a": 0,
+      "e": "Potato eyes are buds on stem tubers.",
+      "d": "Medium",
+      "topic": "Vegetative propagation",
+      "slo": "Identify tubers",
+      "concept_id": "CH9-C019"
+    },
+    {
+      "id": "BIO9CH9-039",
+      "q": "Why is a potato tuber classified as a stem rather than a root?",
+      "o": [
+        "It bears buds called eyes",
+        "It grows underground",
+        "It contains water",
+        "It stores food"
+      ],
+      "a": 0,
+      "e": "The presence of buds identifies a stem structure.",
+      "d": "Easy",
+      "topic": "Vegetative propagation",
+      "slo": "Distinguish root and stem",
+      "concept_id": "CH9-C020"
+    },
+    {
+      "id": "BIO9CH9-040",
+      "q": "In a Class 9 Biology assessment on vegetative propagation, choose the scientifically correct answer: Why is a potato tuber classified as a stem rather than a root?",
+      "o": [
+        "It bears buds called eyes",
+        "It grows underground",
+        "It contains water",
+        "It stores food"
+      ],
+      "a": 0,
+      "e": "The presence of buds identifies a stem structure.",
+      "d": "Medium",
+      "topic": "Vegetative propagation",
+      "slo": "Distinguish root and stem",
+      "concept_id": "CH9-C020"
+    },
+    {
+      "id": "BIO9CH9-041",
+      "q": "Which plant commonly propagates using a rhizome?",
+      "o": [
+        "Ginger",
+        "Mango through fruit",
+        "Pea through seed",
+        "Wheat through grain"
+      ],
+      "a": 0,
+      "e": "Ginger has an underground horizontal stem called a rhizome.",
+      "d": "Easy",
+      "topic": "Vegetative propagation",
+      "slo": "Identify rhizomes",
+      "concept_id": "CH9-C021"
+    },
+    {
+      "id": "BIO9CH9-042",
+      "q": "In a Class 9 Biology assessment on vegetative propagation, choose the scientifically correct answer: Which plant commonly propagates using a rhizome?",
+      "o": [
+        "Mango through fruit",
+        "Ginger",
+        "Wheat through grain",
+        "Pea through seed"
+      ],
+      "a": 1,
+      "e": "Ginger has an underground horizontal stem called a rhizome.",
+      "d": "Medium",
+      "topic": "Vegetative propagation",
+      "slo": "Identify rhizomes",
+      "concept_id": "CH9-C021"
+    },
+    {
+      "id": "BIO9CH9-043",
+      "q": "A rhizome is best described as:",
+      "o": [
+        "A horizontal underground stem with nodes and buds",
+        "A leaf pore",
+        "A pollen-producing sac",
+        "A seed coat"
+      ],
+      "a": 0,
+      "e": "Rhizomes are modified stems that can generate shoots and roots.",
+      "d": "Easy",
+      "topic": "Vegetative propagation",
+      "slo": "Define rhizome",
+      "concept_id": "CH9-C022"
+    },
+    {
+      "id": "BIO9CH9-044",
+      "q": "In a Class 9 Biology assessment on vegetative propagation, choose the scientifically correct answer: A rhizome is best described as:",
+      "o": [
+        "A horizontal underground stem with nodes and buds",
+        "A leaf pore",
+        "A pollen-producing sac",
+        "A seed coat"
+      ],
+      "a": 0,
+      "e": "Rhizomes are modified stems that can generate shoots and roots.",
+      "d": "Medium",
+      "topic": "Vegetative propagation",
+      "slo": "Define rhizome",
+      "concept_id": "CH9-C022"
+    },
+    {
+      "id": "BIO9CH9-045",
+      "q": "Which plant is commonly propagated through runners?",
+      "o": [
+        "Maize through grain",
+        "Mango through seed",
+        "Pine through cone",
+        "Strawberry"
+      ],
+      "a": 3,
+      "e": "Strawberry runners form daughter plantlets at nodes.",
+      "d": "Easy",
+      "topic": "Vegetative propagation",
+      "slo": "Identify runners",
+      "concept_id": "CH9-C023"
+    },
+    {
+      "id": "BIO9CH9-046",
+      "q": "In a Class 9 Biology assessment on vegetative propagation, choose the scientifically correct answer: Which plant is commonly propagated through runners?",
+      "o": [
+        "Maize through grain",
+        "Strawberry",
+        "Pine through cone",
+        "Mango through seed"
+      ],
+      "a": 1,
+      "e": "Strawberry runners form daughter plantlets at nodes.",
+      "d": "Medium",
+      "topic": "Vegetative propagation",
+      "slo": "Identify runners",
+      "concept_id": "CH9-C023"
+    },
+    {
+      "id": "BIO9CH9-047",
+      "q": "What is a runner in vegetative propagation?",
+      "o": [
+        "A pollen grain",
+        "A seed embryo",
+        "A male gamete",
+        "A horizontal stem spreading along the ground"
+      ],
+      "a": 3,
+      "e": "Runners form new plants at suitable nodes.",
+      "d": "Easy",
+      "topic": "Vegetative propagation",
+      "slo": "Define runner",
+      "concept_id": "CH9-C024"
+    },
+    {
+      "id": "BIO9CH9-048",
+      "q": "In a Class 9 Biology assessment on vegetative propagation, choose the scientifically correct answer: What is a runner in vegetative propagation?",
+      "o": [
+        "A horizontal stem spreading along the ground",
+        "A male gamete",
+        "A seed embryo",
+        "A pollen grain"
+      ],
+      "a": 0,
+      "e": "Runners form new plants at suitable nodes.",
+      "d": "Medium",
+      "topic": "Vegetative propagation",
+      "slo": "Define runner",
+      "concept_id": "CH9-C024"
+    },
+    {
+      "id": "BIO9CH9-049",
+      "q": "A new shoot arising from an underground part near a parent plant is often a:",
+      "o": [
+        "Sucker",
+        "Pollen tube",
+        "Cotyledon",
+        "Stigma"
+      ],
+      "a": 0,
+      "e": "Suckers develop into new shoots from the parent plant's underground parts.",
+      "d": "Easy",
+      "topic": "Vegetative propagation",
+      "slo": "Identify suckers",
+      "concept_id": "CH9-C025"
+    },
+    {
+      "id": "BIO9CH9-050",
+      "q": "In a Class 9 Biology assessment on vegetative propagation, choose the scientifically correct answer: A new shoot arising from an underground part near a parent plant is often a:",
+      "o": [
+        "Sucker",
+        "Pollen tube",
+        "Cotyledon",
+        "Stigma"
+      ],
+      "a": 0,
+      "e": "Suckers develop into new shoots from the parent plant's underground parts.",
+      "d": "Medium",
+      "topic": "Vegetative propagation",
+      "slo": "Identify suckers",
+      "concept_id": "CH9-C025"
+    },
+    {
+      "id": "BIO9CH9-051",
+      "q": "Which plant produces plantlets from leaf margins?",
+      "o": [
+        "Wheat",
+        "Maize",
+        "Bryophyllum",
+        "Pine"
+      ],
+      "a": 2,
+      "e": "Bryophyllum leaf margins can form new plantlets.",
+      "d": "Easy",
+      "topic": "Vegetative propagation",
+      "slo": "Identify Bryophyllum",
+      "concept_id": "CH9-C026"
+    },
+    {
+      "id": "BIO9CH9-052",
+      "q": "In a Class 9 Biology assessment on vegetative propagation, choose the scientifically correct answer: Which plant produces plantlets from leaf margins?",
+      "o": [
+        "Pine",
+        "Bryophyllum",
+        "Maize",
+        "Wheat"
+      ],
+      "a": 1,
+      "e": "Bryophyllum leaf margins can form new plantlets.",
+      "d": "Medium",
+      "topic": "Vegetative propagation",
+      "slo": "Identify Bryophyllum",
+      "concept_id": "CH9-C026"
+    },
+    {
+      "id": "BIO9CH9-053",
+      "q": "Small plantlets develop at notches along a leaf edge. Which reproduction is illustrated?",
+      "o": [
+        "Vegetative propagation",
+        "Seed dispersal",
+        "Cross-pollination",
+        "Double fertilization"
+      ],
+      "a": 0,
+      "e": "Leaf-borne plantlets are a form of asexual reproduction.",
+      "d": "Easy",
+      "topic": "Vegetative propagation",
+      "slo": "Apply leaf propagation",
+      "concept_id": "CH9-C027"
+    },
+    {
+      "id": "BIO9CH9-054",
+      "q": "In a Class 9 Biology assessment on vegetative propagation, choose the scientifically correct answer: Small plantlets develop at notches along a leaf edge. Which reproduction is illustrated?",
+      "o": [
+        "Cross-pollination",
+        "Double fertilization",
+        "Vegetative propagation",
+        "Seed dispersal"
+      ],
+      "a": 2,
+      "e": "Leaf-borne plantlets are a form of asexual reproduction.",
+      "d": "Medium",
+      "topic": "Vegetative propagation",
+      "slo": "Apply leaf propagation",
+      "concept_id": "CH9-C027"
+    },
+    {
+      "id": "BIO9CH9-055",
+      "q": "Why can runners help a plant colonize nearby ground?",
+      "o": [
+        "They produce daughter plants without seeds",
+        "They eliminate all roots",
+        "They require two parents",
+        "They turn into pollen"
+      ],
+      "a": 0,
+      "e": "Runners generate new plantlets at their nodes.",
+      "d": "Easy",
+      "topic": "Vegetative propagation",
+      "slo": "Explain rapid spread",
+      "concept_id": "CH9-C028"
+    },
+    {
+      "id": "BIO9CH9-056",
+      "q": "In a Class 9 Biology assessment on vegetative propagation, choose the scientifically correct answer: Why can runners help a plant colonize nearby ground?",
+      "o": [
+        "They produce daughter plants without seeds",
+        "They require two parents",
+        "They turn into pollen",
+        "They eliminate all roots"
+      ],
+      "a": 0,
+      "e": "Runners generate new plantlets at their nodes.",
+      "d": "Medium",
+      "topic": "Vegetative propagation",
+      "slo": "Explain rapid spread",
+      "concept_id": "CH9-C028"
+    },
+    {
+      "id": "BIO9CH9-057",
+      "q": "A gardener plants a piece of rose stem and it grows roots. Which method was used?",
+      "o": [
+        "Binary fission",
+        "Stem cutting",
+        "Spore formation",
+        "Pollination"
+      ],
+      "a": 1,
+      "e": "Stem cuttings can develop roots and shoots.",
+      "d": "Easy",
+      "topic": "Artificial propagation",
+      "slo": "Identify stem cutting",
+      "concept_id": "CH9-C029"
+    },
+    {
+      "id": "BIO9CH9-058",
+      "q": "In a Class 9 Biology assessment on artificial propagation, choose the scientifically correct answer: A gardener plants a piece of rose stem and it grows roots. Which method was used?",
+      "o": [
+        "Pollination",
+        "Binary fission",
+        "Spore formation",
+        "Stem cutting"
+      ],
+      "a": 3,
+      "e": "Stem cuttings can develop roots and shoots.",
+      "d": "Medium",
+      "topic": "Artificial propagation",
+      "slo": "Identify stem cutting",
+      "concept_id": "CH9-C029"
+    },
+    {
+      "id": "BIO9CH9-059",
+      "q": "What must a successful stem cutting usually develop to become an independent plant?",
+      "o": [
+        "Anthers only",
+        "Pollen sacs only",
+        "A fertilized egg before rooting",
+        "Roots and shoots"
+      ],
+      "a": 3,
+      "e": "A cutting must establish functioning plant organs.",
+      "d": "Easy",
+      "topic": "Artificial propagation",
+      "slo": "Describe cutting",
+      "concept_id": "CH9-C030"
+    },
+    {
+      "id": "BIO9CH9-060",
+      "q": "In a Class 9 Biology assessment on artificial propagation, choose the scientifically correct answer: What must a successful stem cutting usually develop to become an independent plant?",
+      "o": [
+        "A fertilized egg before rooting",
+        "Roots and shoots",
+        "Anthers only",
+        "Pollen sacs only"
+      ],
+      "a": 1,
+      "e": "A cutting must establish functioning plant organs.",
+      "d": "Medium",
+      "topic": "Artificial propagation",
+      "slo": "Describe cutting",
+      "concept_id": "CH9-C030"
+    },
+    {
+      "id": "BIO9CH9-061",
+      "q": "Which plant is commonly propagated using stem cuttings?",
+      "o": [
+        "Maize through pollen",
+        "Pea through seed",
+        "Wheat through grain",
+        "Rose"
+      ],
+      "a": 3,
+      "e": "Rose cuttings are used in horticulture.",
+      "d": "Easy",
+      "topic": "Artificial propagation",
+      "slo": "Identify cutting example",
+      "concept_id": "CH9-C031"
+    },
+    {
+      "id": "BIO9CH9-062",
+      "q": "In a Class 9 Biology assessment on artificial propagation, choose the scientifically correct answer: Which plant is commonly propagated using stem cuttings?",
+      "o": [
+        "Maize through pollen",
+        "Pea through seed",
+        "Rose",
+        "Wheat through grain"
+      ],
+      "a": 2,
+      "e": "Rose cuttings are used in horticulture.",
+      "d": "Medium",
+      "topic": "Artificial propagation",
+      "slo": "Identify cutting example",
+      "concept_id": "CH9-C031"
+    },
+    {
+      "id": "BIO9CH9-063",
+      "q": "What is grafting?",
+      "o": [
+        "Splitting a bacterium",
+        "Fusing two pollen grains",
+        "Joining a shoot of one plant to the rooted part of another compatible plant",
+        "Making a seed coat"
+      ],
+      "a": 2,
+      "e": "Grafting unites a scion with a rootstock.",
+      "d": "Easy",
+      "topic": "Artificial propagation",
+      "slo": "Identify grafting",
+      "concept_id": "CH9-C032"
+    },
+    {
+      "id": "BIO9CH9-064",
+      "q": "In a Class 9 Biology assessment on artificial propagation, choose the scientifically correct answer: What is grafting?",
+      "o": [
+        "Making a seed coat",
+        "Fusing two pollen grains",
+        "Splitting a bacterium",
+        "Joining a shoot of one plant to the rooted part of another compatible plant"
+      ],
+      "a": 3,
+      "e": "Grafting unites a scion with a rootstock.",
+      "d": "Medium",
+      "topic": "Artificial propagation",
+      "slo": "Identify grafting",
+      "concept_id": "CH9-C032"
+    },
+    {
+      "id": "BIO9CH9-065",
+      "q": "In grafting, what is the scion?",
+      "o": [
+        "The shoot portion attached to the stock",
+        "The root hair",
+        "The seed coat",
+        "The pollen grain"
+      ],
+      "a": 0,
+      "e": "The scion is the desired upper shoot.",
+      "d": "Easy",
+      "topic": "Artificial propagation",
+      "slo": "Define scion",
+      "concept_id": "CH9-C033"
+    },
+    {
+      "id": "BIO9CH9-066",
+      "q": "In a Class 9 Biology assessment on artificial propagation, choose the scientifically correct answer: In grafting, what is the scion?",
+      "o": [
+        "The root hair",
+        "The pollen grain",
+        "The seed coat",
+        "The shoot portion attached to the stock"
+      ],
+      "a": 3,
+      "e": "The scion is the desired upper shoot.",
+      "d": "Medium",
+      "topic": "Artificial propagation",
+      "slo": "Define scion",
+      "concept_id": "CH9-C033"
+    },
+    {
+      "id": "BIO9CH9-067",
+      "q": "In grafting, the root-bearing part is called the:",
+      "o": [
+        "Scion",
+        "Cotyledon",
+        "Stock or rootstock",
+        "Stigma"
+      ],
+      "a": 2,
+      "e": "The rootstock provides the roots and lower stem.",
+      "d": "Easy",
+      "topic": "Artificial propagation",
+      "slo": "Define stock",
+      "concept_id": "CH9-C034"
+    },
+    {
+      "id": "BIO9CH9-068",
+      "q": "In a Class 9 Biology assessment on artificial propagation, choose the scientifically correct answer: In grafting, the root-bearing part is called the:",
+      "o": [
+        "Stock or rootstock",
+        "Scion",
+        "Stigma",
+        "Cotyledon"
+      ],
+      "a": 0,
+      "e": "The rootstock provides the roots and lower stem.",
+      "d": "Medium",
+      "topic": "Artificial propagation",
+      "slo": "Define stock",
+      "concept_id": "CH9-C034"
+    },
+    {
+      "id": "BIO9CH9-069",
+      "q": "Why might a fruit grower graft a desirable variety onto a hardy rootstock?",
+      "o": [
+        "To prevent all disease forever",
+        "To produce spores",
+        "To make two different species automatically fertile",
+        "To combine desirable shoot traits with robust roots"
+      ],
+      "a": 3,
+      "e": "Grafting can combine scion fruit traits with rootstock resilience.",
+      "d": "Easy",
+      "topic": "Artificial propagation",
+      "slo": "Explain grafting benefit",
+      "concept_id": "CH9-C035"
+    },
+    {
+      "id": "BIO9CH9-070",
+      "q": "In a Class 9 Biology assessment on artificial propagation, choose the scientifically correct answer: Why might a fruit grower graft a desirable variety onto a hardy rootstock?",
+      "o": [
+        "To combine desirable shoot traits with robust roots",
+        "To make two different species automatically fertile",
+        "To prevent all disease forever",
+        "To produce spores"
+      ],
+      "a": 0,
+      "e": "Grafting can combine scion fruit traits with rootstock resilience.",
+      "d": "Medium",
+      "topic": "Artificial propagation",
+      "slo": "Explain grafting benefit",
+      "concept_id": "CH9-C035"
+    },
+    {
+      "id": "BIO9CH9-071",
+      "q": "Why must tissues of stock and scion be aligned closely?",
+      "o": [
+        "They must produce pollen together",
+        "Their growing tissues must connect for transport",
+        "They must become spores",
+        "They must form a seed coat"
+      ],
+      "a": 1,
+      "e": "Successful grafting requires vascular continuity and healing.",
+      "d": "Easy",
+      "topic": "Artificial propagation",
+      "slo": "Recognize graft union",
+      "concept_id": "CH9-C036"
+    },
+    {
+      "id": "BIO9CH9-072",
+      "q": "In a Class 9 Biology assessment on artificial propagation, choose the scientifically correct answer: Why must tissues of stock and scion be aligned closely?",
+      "o": [
+        "They must become spores",
+        "They must form a seed coat",
+        "They must produce pollen together",
+        "Their growing tissues must connect for transport"
+      ],
+      "a": 3,
+      "e": "Successful grafting requires vascular continuity and healing.",
+      "d": "Medium",
+      "topic": "Artificial propagation",
+      "slo": "Recognize graft union",
+      "concept_id": "CH9-C036"
+    },
+    {
+      "id": "BIO9CH9-073",
+      "q": "Which method grows new plants from small tissue pieces under sterile laboratory conditions?",
+      "o": [
+        "Binary fission of bacteria",
+        "Wind pollination",
+        "Tissue culture",
+        "Seed dispersal"
+      ],
+      "a": 2,
+      "e": "Plant tissue culture uses controlled nutrient media.",
+      "d": "Easy",
+      "topic": "Artificial propagation",
+      "slo": "Identify tissue culture",
+      "concept_id": "CH9-C037"
+    },
+    {
+      "id": "BIO9CH9-074",
+      "q": "In a Class 9 Biology assessment on artificial propagation, choose the scientifically correct answer: Which method grows new plants from small tissue pieces under sterile laboratory conditions?",
+      "o": [
+        "Wind pollination",
+        "Tissue culture",
+        "Seed dispersal",
+        "Binary fission of bacteria"
+      ],
+      "a": 1,
+      "e": "Plant tissue culture uses controlled nutrient media.",
+      "d": "Medium",
+      "topic": "Artificial propagation",
+      "slo": "Identify tissue culture",
+      "concept_id": "CH9-C037"
+    },
+    {
+      "id": "BIO9CH9-075",
+      "q": "What property enables some plant cells to regenerate an entire plant?",
+      "o": [
+        "Transpiration",
+        "Totipotency",
+        "Pollination",
+        "Dormancy alone"
+      ],
+      "a": 1,
+      "e": "Totipotent cells can give rise to a whole plant under suitable conditions.",
+      "d": "Easy",
+      "topic": "Artificial propagation",
+      "slo": "Explain totipotency",
+      "concept_id": "CH9-C038"
+    },
+    {
+      "id": "BIO9CH9-076",
+      "q": "In a Class 9 Biology assessment on artificial propagation, choose the scientifically correct answer: What property enables some plant cells to regenerate an entire plant?",
+      "o": [
+        "Pollination",
+        "Dormancy alone",
+        "Totipotency",
+        "Transpiration"
+      ],
+      "a": 2,
+      "e": "Totipotent cells can give rise to a whole plant under suitable conditions.",
+      "d": "Medium",
+      "topic": "Artificial propagation",
+      "slo": "Explain totipotency",
+      "concept_id": "CH9-C038"
+    },
+    {
+      "id": "BIO9CH9-077",
+      "q": "What is an explant in tissue culture?",
+      "o": [
+        "A fruit wall",
+        "A small piece of plant tissue used to start a culture",
+        "A ripe seed only",
+        "A pollen tube"
+      ],
+      "a": 1,
+      "e": "An explant is the starting tissue material.",
+      "d": "Easy",
+      "topic": "Artificial propagation",
+      "slo": "Identify explant",
+      "concept_id": "CH9-C039"
+    },
+    {
+      "id": "BIO9CH9-078",
+      "q": "In a Class 9 Biology assessment on artificial propagation, choose the scientifically correct answer: What is an explant in tissue culture?",
+      "o": [
+        "A ripe seed only",
+        "A fruit wall",
+        "A small piece of plant tissue used to start a culture",
+        "A pollen tube"
+      ],
+      "a": 2,
+      "e": "An explant is the starting tissue material.",
+      "d": "Medium",
+      "topic": "Artificial propagation",
+      "slo": "Identify explant",
+      "concept_id": "CH9-C039"
+    },
+    {
+      "id": "BIO9CH9-079",
+      "q": "Why are sterile conditions important in tissue culture?",
+      "o": [
+        "To stop all cell division",
+        "To produce wind",
+        "To allow insects to pollinate",
+        "To prevent contamination by microorganisms"
+      ],
+      "a": 3,
+      "e": "Sterile techniques reduce microbial competition and infection.",
+      "d": "Easy",
+      "topic": "Artificial propagation",
+      "slo": "Explain sterile conditions",
+      "concept_id": "CH9-C040"
+    },
+    {
+      "id": "BIO9CH9-080",
+      "q": "In a Class 9 Biology assessment on artificial propagation, choose the scientifically correct answer: Why are sterile conditions important in tissue culture?",
+      "o": [
+        "To produce wind",
+        "To stop all cell division",
+        "To allow insects to pollinate",
+        "To prevent contamination by microorganisms"
+      ],
+      "a": 3,
+      "e": "Sterile techniques reduce microbial competition and infection.",
+      "d": "Medium",
+      "topic": "Artificial propagation",
+      "slo": "Explain sterile conditions",
+      "concept_id": "CH9-C040"
+    },
+    {
+      "id": "BIO9CH9-081",
+      "q": "Why is tissue culture useful to growers?",
+      "o": [
+        "It can produce many similar plants in limited space",
+        "It always creates unrelated species",
+        "It replaces photosynthesis permanently",
+        "It requires no nutrients"
+      ],
+      "a": 0,
+      "e": "Micropropagation can multiply selected plant varieties quickly.",
+      "d": "Easy",
+      "topic": "Artificial propagation",
+      "slo": "Explain rapid multiplication",
+      "concept_id": "CH9-C041"
+    },
+    {
+      "id": "BIO9CH9-082",
+      "q": "In a Class 9 Biology assessment on artificial propagation, choose the scientifically correct answer: Why is tissue culture useful to growers?",
+      "o": [
+        "It can produce many similar plants in limited space",
+        "It always creates unrelated species",
+        "It requires no nutrients",
+        "It replaces photosynthesis permanently"
+      ],
+      "a": 0,
+      "e": "Micropropagation can multiply selected plant varieties quickly.",
+      "d": "Medium",
+      "topic": "Artificial propagation",
+      "slo": "Explain rapid multiplication",
+      "concept_id": "CH9-C041"
+    },
+    {
+      "id": "BIO9CH9-083",
+      "q": "What is one disadvantage of propagating all crops from genetically identical clones?",
+      "o": [
+        "Shared susceptibility to the same disease",
+        "Guaranteed immunity to every pathogen",
+        "Automatic cross-pollination",
+        "Unlimited genetic diversity"
+      ],
+      "a": 0,
+      "e": "Low genetic variation can increase vulnerability.",
+      "d": "Easy",
+      "topic": "Artificial propagation",
+      "slo": "Evaluate cloning",
+      "concept_id": "CH9-C042"
+    },
+    {
+      "id": "BIO9CH9-084",
+      "q": "In a Class 9 Biology assessment on artificial propagation, choose the scientifically correct answer: What is one disadvantage of propagating all crops from genetically identical clones?",
+      "o": [
+        "Shared susceptibility to the same disease",
+        "Automatic cross-pollination",
+        "Unlimited genetic diversity",
+        "Guaranteed immunity to every pathogen"
+      ],
+      "a": 0,
+      "e": "Low genetic variation can increase vulnerability.",
+      "d": "Medium",
+      "topic": "Artificial propagation",
+      "slo": "Evaluate cloning",
+      "concept_id": "CH9-C042"
+    },
+    {
+      "id": "BIO9CH9-085",
+      "q": "Which method is most suitable for multiplying a selected rose variety while preserving its characteristics?",
+      "o": [
+        "Random seed selection",
+        "Vegetative cuttings",
+        "Crossing it with an unrelated rose",
+        "Wind dispersal of seeds"
+      ],
+      "a": 1,
+      "e": "Cuttings typically retain the selected parent's genotype.",
+      "d": "Easy",
+      "topic": "Artificial propagation",
+      "slo": "Compare propagation",
+      "concept_id": "CH9-C043"
+    },
+    {
+      "id": "BIO9CH9-086",
+      "q": "In a Class 9 Biology assessment on artificial propagation, choose the scientifically correct answer: Which method is most suitable for multiplying a selected rose variety while preserving its characteristics?",
+      "o": [
+        "Crossing it with an unrelated rose",
+        "Wind dispersal of seeds",
+        "Random seed selection",
+        "Vegetative cuttings"
+      ],
+      "a": 3,
+      "e": "Cuttings typically retain the selected parent's genotype.",
+      "d": "Medium",
+      "topic": "Artificial propagation",
+      "slo": "Compare propagation",
+      "concept_id": "CH9-C043"
+    },
+    {
+      "id": "BIO9CH9-087",
+      "q": "A farmer needs many identical disease-free banana plantlets. Which method is especially useful?",
+      "o": [
+        "Wind pollination only",
+        "Binary fission of bacteria",
+        "Tissue culture",
+        "Spore release from Rhizopus"
+      ],
+      "a": 2,
+      "e": "Tissue culture can mass-propagate selected plant material.",
+      "d": "Easy",
+      "topic": "Artificial propagation",
+      "slo": "Apply choice",
+      "concept_id": "CH9-C044"
+    },
+    {
+      "id": "BIO9CH9-088",
+      "q": "In a Class 9 Biology assessment on artificial propagation, choose the scientifically correct answer: A farmer needs many identical disease-free banana plantlets. Which method is especially useful?",
+      "o": [
+        "Binary fission of bacteria",
+        "Spore release from Rhizopus",
+        "Wind pollination only",
+        "Tissue culture"
+      ],
+      "a": 3,
+      "e": "Tissue culture can mass-propagate selected plant material.",
+      "d": "Medium",
+      "topic": "Artificial propagation",
+      "slo": "Apply choice",
+      "concept_id": "CH9-C044"
+    },
+    {
+      "id": "BIO9CH9-089",
+      "q": "What is essential to sexual reproduction in flowering plants?",
+      "o": [
+        "Production of runners",
+        "Formation of stem cuttings",
+        "Budding of yeast",
+        "Fusion of male and female gametes"
+      ],
+      "a": 3,
+      "e": "Sexual reproduction involves gamete fusion.",
+      "d": "Easy",
+      "topic": "Sexual reproduction",
+      "slo": "Define sexual reproduction",
+      "concept_id": "CH9-C045"
+    },
+    {
+      "id": "BIO9CH9-090",
+      "q": "In a Class 9 Biology assessment on sexual reproduction, choose the scientifically correct answer: What is essential to sexual reproduction in flowering plants?",
+      "o": [
+        "Fusion of male and female gametes",
+        "Production of runners",
+        "Budding of yeast",
+        "Formation of stem cuttings"
+      ],
+      "a": 0,
+      "e": "Sexual reproduction involves gamete fusion.",
+      "d": "Medium",
+      "topic": "Sexual reproduction",
+      "slo": "Define sexual reproduction",
+      "concept_id": "CH9-C045"
+    },
+    {
+      "id": "BIO9CH9-091",
+      "q": "Why does sexual reproduction often increase genetic variation?",
+      "o": [
+        "It avoids fertilization",
+        "It combines genetic material from gametes",
+        "It prevents meiosis",
+        "It makes every offspring a clone"
+      ],
+      "a": 1,
+      "e": "Meiosis and fertilization generate new gene combinations.",
+      "d": "Easy",
+      "topic": "Sexual reproduction",
+      "slo": "Explain variation",
+      "concept_id": "CH9-C046"
+    },
+    {
+      "id": "BIO9CH9-092",
+      "q": "In a Class 9 Biology assessment on sexual reproduction, choose the scientifically correct answer: Why does sexual reproduction often increase genetic variation?",
+      "o": [
+        "It makes every offspring a clone",
+        "It combines genetic material from gametes",
+        "It avoids fertilization",
+        "It prevents meiosis"
+      ],
+      "a": 1,
+      "e": "Meiosis and fertilization generate new gene combinations.",
+      "d": "Medium",
+      "topic": "Sexual reproduction",
+      "slo": "Explain variation",
+      "concept_id": "CH9-C046"
+    },
+    {
+      "id": "BIO9CH9-093",
+      "q": "Why is meiosis important during plant sexual reproduction?",
+      "o": [
+        "It doubles chromosome number every generation",
+        "It produces haploid reproductive cells or spores",
+        "It makes only identical body cells",
+        "It forms roots directly"
+      ],
+      "a": 1,
+      "e": "Meiosis reduces chromosome number before the sexual phase.",
+      "d": "Easy",
+      "topic": "Sexual reproduction",
+      "slo": "Explain meiosis",
+      "concept_id": "CH9-C047"
+    },
+    {
+      "id": "BIO9CH9-094",
+      "q": "In a Class 9 Biology assessment on sexual reproduction, choose the scientifically correct answer: Why is meiosis important during plant sexual reproduction?",
+      "o": [
+        "It produces haploid reproductive cells or spores",
+        "It makes only identical body cells",
+        "It doubles chromosome number every generation",
+        "It forms roots directly"
+      ],
+      "a": 0,
+      "e": "Meiosis reduces chromosome number before the sexual phase.",
+      "d": "Medium",
+      "topic": "Sexual reproduction",
+      "slo": "Explain meiosis",
+      "concept_id": "CH9-C047"
+    },
+    {
+      "id": "BIO9CH9-095",
+      "q": "What is the primary reproductive role of a flower?",
+      "o": [
+        "To absorb soil minerals",
+        "To pump water through roots",
+        "To carry out binary fission",
+        "To form gametes and enable fertilization and seed development"
+      ],
+      "a": 3,
+      "e": "Flowers are reproductive organs of angiosperms.",
+      "d": "Easy",
+      "topic": "Flower structure",
+      "slo": "Identify flower function",
+      "concept_id": "CH9-C048"
+    },
+    {
+      "id": "BIO9CH9-096",
+      "q": "In a Class 9 Biology assessment on flower structure, choose the scientifically correct answer: What is the primary reproductive role of a flower?",
+      "o": [
+        "To form gametes and enable fertilization and seed development",
+        "To carry out binary fission",
+        "To absorb soil minerals",
+        "To pump water through roots"
+      ],
+      "a": 0,
+      "e": "Flowers are reproductive organs of angiosperms.",
+      "d": "Medium",
+      "topic": "Flower structure",
+      "slo": "Identify flower function",
+      "concept_id": "CH9-C048"
+    },
+    {
+      "id": "BIO9CH9-097",
+      "q": "What is the thalamus or receptacle of a flower?",
+      "o": [
+        "The seed embryo",
+        "The enlarged tip supporting floral parts",
+        "A root hair",
+        "A pollen tube"
+      ],
+      "a": 1,
+      "e": "The floral receptacle bears the whorls of the flower.",
+      "d": "Easy",
+      "topic": "Flower structure",
+      "slo": "Define thalamus",
+      "concept_id": "CH9-C049"
+    },
+    {
+      "id": "BIO9CH9-098",
+      "q": "In a Class 9 Biology assessment on flower structure, choose the scientifically correct answer: What is the thalamus or receptacle of a flower?",
+      "o": [
+        "A root hair",
+        "A pollen tube",
+        "The seed embryo",
+        "The enlarged tip supporting floral parts"
+      ],
+      "a": 3,
+      "e": "The floral receptacle bears the whorls of the flower.",
+      "d": "Medium",
+      "topic": "Flower structure",
+      "slo": "Define thalamus",
+      "concept_id": "CH9-C049"
+    },
+    {
+      "id": "BIO9CH9-099",
+      "q": "Which floral whorl is made up of sepals?",
+      "o": [
+        "Androecium",
+        "Calyx",
+        "Gynoecium",
+        "Corolla"
+      ],
+      "a": 1,
+      "e": "The calyx comprises sepals.",
+      "d": "Easy",
+      "topic": "Flower structure",
+      "slo": "Identify calyx",
+      "concept_id": "CH9-C050"
+    },
+    {
+      "id": "BIO9CH9-100",
+      "q": "In a Class 9 Biology assessment on flower structure, choose the scientifically correct answer: Which floral whorl is made up of sepals?",
+      "o": [
+        "Calyx",
+        "Corolla",
+        "Gynoecium",
+        "Androecium"
+      ],
+      "a": 0,
+      "e": "The calyx comprises sepals.",
+      "d": "Medium",
+      "topic": "Flower structure",
+      "slo": "Identify calyx",
+      "concept_id": "CH9-C050"
+    },
+    {
+      "id": "BIO9CH9-101",
+      "q": "Which floral whorl consists of petals?",
+      "o": [
+        "Androecium",
+        "Corolla",
+        "Gynoecium",
+        "Calyx"
+      ],
+      "a": 1,
+      "e": "Petals collectively form the corolla.",
+      "d": "Easy",
+      "topic": "Flower structure",
+      "slo": "Identify corolla",
+      "concept_id": "CH9-C051"
+    },
+    {
+      "id": "BIO9CH9-102",
+      "q": "In a Class 9 Biology assessment on flower structure, choose the scientifically correct answer: Which floral whorl consists of petals?",
+      "o": [
+        "Calyx",
+        "Androecium",
+        "Corolla",
+        "Gynoecium"
+      ],
+      "a": 2,
+      "e": "Petals collectively form the corolla.",
+      "d": "Medium",
+      "topic": "Flower structure",
+      "slo": "Identify corolla",
+      "concept_id": "CH9-C051"
+    },
+    {
+      "id": "BIO9CH9-103",
+      "q": "Which floral whorl consists of stamens?",
+      "o": [
+        "Androecium",
+        "Gynoecium",
+        "Calyx",
+        "Corolla"
+      ],
+      "a": 0,
+      "e": "The androecium is the male reproductive whorl.",
+      "d": "Easy",
+      "topic": "Flower structure",
+      "slo": "Identify androecium",
+      "concept_id": "CH9-C052"
+    },
+    {
+      "id": "BIO9CH9-104",
+      "q": "In a Class 9 Biology assessment on flower structure, choose the scientifically correct answer: Which floral whorl consists of stamens?",
+      "o": [
+        "Gynoecium",
+        "Corolla",
+        "Androecium",
+        "Calyx"
+      ],
+      "a": 2,
+      "e": "The androecium is the male reproductive whorl.",
+      "d": "Medium",
+      "topic": "Flower structure",
+      "slo": "Identify androecium",
+      "concept_id": "CH9-C052"
+    },
+    {
+      "id": "BIO9CH9-105",
+      "q": "Which floral whorl consists of carpels?",
+      "o": [
+        "Androecium",
+        "Gynoecium",
+        "Corolla",
+        "Calyx"
+      ],
+      "a": 1,
+      "e": "The gynoecium is the female reproductive whorl.",
+      "d": "Easy",
+      "topic": "Flower structure",
+      "slo": "Identify gynoecium",
+      "concept_id": "CH9-C053"
+    },
+    {
+      "id": "BIO9CH9-106",
+      "q": "In a Class 9 Biology assessment on flower structure, choose the scientifically correct answer: Which floral whorl consists of carpels?",
+      "o": [
+        "Gynoecium",
+        "Calyx",
+        "Corolla",
+        "Androecium"
+      ],
+      "a": 0,
+      "e": "The gynoecium is the female reproductive whorl.",
+      "d": "Medium",
+      "topic": "Flower structure",
+      "slo": "Identify gynoecium",
+      "concept_id": "CH9-C053"
+    },
+    {
+      "id": "BIO9CH9-107",
+      "q": "Which two floral whorls are described as essential for sexual reproduction?",
+      "o": [
+        "Androecium and gynoecium",
+        "Sepals and petals",
+        "Calyx and corolla",
+        "Pedicel and receptacle"
+      ],
+      "a": 0,
+      "e": "Stamens and carpels are the reproductive whorls.",
+      "d": "Easy",
+      "topic": "Flower structure",
+      "slo": "Distinguish whorls",
+      "concept_id": "CH9-C054"
+    },
+    {
+      "id": "BIO9CH9-108",
+      "q": "In a Class 9 Biology assessment on flower structure, choose the scientifically correct answer: Which two floral whorls are described as essential for sexual reproduction?",
+      "o": [
+        "Calyx and corolla",
+        "Pedicel and receptacle",
+        "Androecium and gynoecium",
+        "Sepals and petals"
+      ],
+      "a": 2,
+      "e": "Stamens and carpels are the reproductive whorls.",
+      "d": "Medium",
+      "topic": "Flower structure",
+      "slo": "Distinguish whorls",
+      "concept_id": "CH9-C054"
+    },
+    {
+      "id": "BIO9CH9-109",
+      "q": "Which whorls mainly protect or attract rather than directly form gametes?",
+      "o": [
+        "Anther and ovary",
+        "Stigma and style",
+        "Androecium and gynoecium",
+        "Calyx and corolla"
+      ],
+      "a": 3,
+      "e": "Calyx and corolla are accessory whorls.",
+      "d": "Easy",
+      "topic": "Flower structure",
+      "slo": "Identify accessory whorls",
+      "concept_id": "CH9-C055"
+    },
+    {
+      "id": "BIO9CH9-110",
+      "q": "In a Class 9 Biology assessment on flower structure, choose the scientifically correct answer: Which whorls mainly protect or attract rather than directly form gametes?",
+      "o": [
+        "Stigma and style",
+        "Androecium and gynoecium",
+        "Calyx and corolla",
+        "Anther and ovary"
+      ],
+      "a": 2,
+      "e": "Calyx and corolla are accessory whorls.",
+      "d": "Medium",
+      "topic": "Flower structure",
+      "slo": "Identify accessory whorls",
+      "concept_id": "CH9-C055"
+    },
+    {
+      "id": "BIO9CH9-111",
+      "q": "What is a major function of sepals in a flower bud?",
+      "o": [
+        "Form embryo directly",
+        "Carry pollen tubes to ovules",
+        "Protect developing floral parts",
+        "Produce sperm nuclei"
+      ],
+      "a": 2,
+      "e": "Sepals protect the unopened bud.",
+      "d": "Easy",
+      "topic": "Flower structure",
+      "slo": "Identify sepal function",
+      "concept_id": "CH9-C056"
+    },
+    {
+      "id": "BIO9CH9-112",
+      "q": "In a Class 9 Biology assessment on flower structure, choose the scientifically correct answer: What is a major function of sepals in a flower bud?",
+      "o": [
+        "Carry pollen tubes to ovules",
+        "Form embryo directly",
+        "Produce sperm nuclei",
+        "Protect developing floral parts"
+      ],
+      "a": 3,
+      "e": "Sepals protect the unopened bud.",
+      "d": "Medium",
+      "topic": "Flower structure",
+      "slo": "Identify sepal function",
+      "concept_id": "CH9-C056"
+    },
+    {
+      "id": "BIO9CH9-113",
+      "q": "Why are petals often brightly coloured?",
+      "o": [
+        "To carry xylem water to roots",
+        "To form root hairs",
+        "To absorb minerals from soil",
+        "To attract animal pollinators"
+      ],
+      "a": 3,
+      "e": "Bright petals can help attract pollinating animals.",
+      "d": "Easy",
+      "topic": "Flower structure",
+      "slo": "Explain petal function",
+      "concept_id": "CH9-C057"
+    },
+    {
+      "id": "BIO9CH9-114",
+      "q": "In a Class 9 Biology assessment on flower structure, choose the scientifically correct answer: Why are petals often brightly coloured?",
+      "o": [
+        "To carry xylem water to roots",
+        "To attract animal pollinators",
+        "To absorb minerals from soil",
+        "To form root hairs"
+      ],
+      "a": 1,
+      "e": "Bright petals can help attract pollinating animals.",
+      "d": "Medium",
+      "topic": "Flower structure",
+      "slo": "Explain petal function",
+      "concept_id": "CH9-C057"
+    },
+    {
+      "id": "BIO9CH9-115",
+      "q": "Which structures together form a typical stamen?",
+      "o": [
+        "Stigma and style",
+        "Ovary and ovule",
+        "Sepal and petal",
+        "Anther and filament"
+      ],
+      "a": 3,
+      "e": "A stamen consists of a filament supporting an anther.",
+      "d": "Easy",
+      "topic": "Flower structure",
+      "slo": "Identify stamen",
+      "concept_id": "CH9-C058"
+    },
+    {
+      "id": "BIO9CH9-116",
+      "q": "In a Class 9 Biology assessment on flower structure, choose the scientifically correct answer: Which structures together form a typical stamen?",
+      "o": [
+        "Stigma and style",
+        "Anther and filament",
+        "Sepal and petal",
+        "Ovary and ovule"
+      ],
+      "a": 1,
+      "e": "A stamen consists of a filament supporting an anther.",
+      "d": "Medium",
+      "topic": "Flower structure",
+      "slo": "Identify stamen",
+      "concept_id": "CH9-C058"
+    },
+    {
+      "id": "BIO9CH9-117",
+      "q": "Where are pollen grains produced in a typical flower?",
+      "o": [
+        "Stigma",
+        "Style",
+        "Sepal",
+        "Anther"
+      ],
+      "a": 3,
+      "e": "Pollen develops in anther pollen sacs.",
+      "d": "Easy",
+      "topic": "Flower structure",
+      "slo": "Identify anther",
+      "concept_id": "CH9-C059"
+    },
+    {
+      "id": "BIO9CH9-118",
+      "q": "In a Class 9 Biology assessment on flower structure, choose the scientifically correct answer: Where are pollen grains produced in a typical flower?",
+      "o": [
+        "Sepal",
+        "Style",
+        "Stigma",
+        "Anther"
+      ],
+      "a": 3,
+      "e": "Pollen develops in anther pollen sacs.",
+      "d": "Medium",
+      "topic": "Flower structure",
+      "slo": "Identify anther",
+      "concept_id": "CH9-C059"
+    },
+    {
+      "id": "BIO9CH9-119",
+      "q": "What is the function of the filament?",
+      "o": [
+        "Store cotyledon food",
+        "Form the pollen tube",
+        "Support the anther",
+        "Protect the seed embryo"
+      ],
+      "a": 2,
+      "e": "The filament holds the anther in position.",
+      "d": "Easy",
+      "topic": "Flower structure",
+      "slo": "Identify filament",
+      "concept_id": "CH9-C060"
+    },
+    {
+      "id": "BIO9CH9-120",
+      "q": "In a Class 9 Biology assessment on flower structure, choose the scientifically correct answer: What is the function of the filament?",
+      "o": [
+        "Store cotyledon food",
+        "Protect the seed embryo",
+        "Form the pollen tube",
+        "Support the anther"
+      ],
+      "a": 3,
+      "e": "The filament holds the anther in position.",
+      "d": "Medium",
+      "topic": "Flower structure",
+      "slo": "Identify filament",
+      "concept_id": "CH9-C060"
+    },
+    {
+      "id": "BIO9CH9-121",
+      "q": "Which set forms a typical carpel?",
+      "o": [
+        "Sepal, petal and root",
+        "Pollen, seed and leaf",
+        "Stigma, style and ovary",
+        "Anther, filament and petal"
+      ],
+      "a": 2,
+      "e": "A carpel includes stigma, style and ovary.",
+      "d": "Easy",
+      "topic": "Flower structure",
+      "slo": "Identify carpel",
+      "concept_id": "CH9-C061"
+    },
+    {
+      "id": "BIO9CH9-122",
+      "q": "In a Class 9 Biology assessment on flower structure, choose the scientifically correct answer: Which set forms a typical carpel?",
+      "o": [
+        "Stigma, style and ovary",
+        "Pollen, seed and leaf",
+        "Sepal, petal and root",
+        "Anther, filament and petal"
+      ],
+      "a": 0,
+      "e": "A carpel includes stigma, style and ovary.",
+      "d": "Medium",
+      "topic": "Flower structure",
+      "slo": "Identify carpel",
+      "concept_id": "CH9-C061"
+    },
+    {
+      "id": "BIO9CH9-123",
+      "q": "Which part of the carpel receives pollen?",
+      "o": [
+        "Ovule",
+        "Filament",
+        "Ovary wall",
+        "Stigma"
+      ],
+      "a": 3,
+      "e": "The stigma is the pollen-receptive surface.",
+      "d": "Easy",
+      "topic": "Flower structure",
+      "slo": "Identify stigma",
+      "concept_id": "CH9-C062"
+    },
+    {
+      "id": "BIO9CH9-124",
+      "q": "In a Class 9 Biology assessment on flower structure, choose the scientifically correct answer: Which part of the carpel receives pollen?",
+      "o": [
+        "Stigma",
+        "Filament",
+        "Ovary wall",
+        "Ovule"
+      ],
+      "a": 0,
+      "e": "The stigma is the pollen-receptive surface.",
+      "d": "Medium",
+      "topic": "Flower structure",
+      "slo": "Identify stigma",
+      "concept_id": "CH9-C062"
+    },
+    {
+      "id": "BIO9CH9-125",
+      "q": "Which part connects the stigma to the ovary?",
+      "o": [
+        "Cotyledon",
+        "Anther",
+        "Style",
+        "Sepal"
+      ],
+      "a": 2,
+      "e": "The style provides a route for pollen-tube growth.",
+      "d": "Easy",
+      "topic": "Flower structure",
+      "slo": "Identify style",
+      "concept_id": "CH9-C063"
+    },
+    {
+      "id": "BIO9CH9-126",
+      "q": "In a Class 9 Biology assessment on flower structure, choose the scientifically correct answer: Which part connects the stigma to the ovary?",
+      "o": [
+        "Anther",
+        "Sepal",
+        "Cotyledon",
+        "Style"
+      ],
+      "a": 3,
+      "e": "The style provides a route for pollen-tube growth.",
+      "d": "Medium",
+      "topic": "Flower structure",
+      "slo": "Identify style",
+      "concept_id": "CH9-C063"
+    },
+    {
+      "id": "BIO9CH9-127",
+      "q": "Which floral part contains the ovules?",
+      "o": [
+        "Corolla",
+        "Filament",
+        "Ovary",
+        "Anther"
+      ],
+      "a": 2,
+      "e": "Ovules are enclosed within the ovary.",
+      "d": "Easy",
+      "topic": "Flower structure",
+      "slo": "Identify ovary",
+      "concept_id": "CH9-C064"
+    },
+    {
+      "id": "BIO9CH9-128",
+      "q": "In a Class 9 Biology assessment on flower structure, choose the scientifically correct answer: Which floral part contains the ovules?",
+      "o": [
+        "Corolla",
+        "Filament",
+        "Anther",
+        "Ovary"
+      ],
+      "a": 3,
+      "e": "Ovules are enclosed within the ovary.",
+      "d": "Medium",
+      "topic": "Flower structure",
+      "slo": "Identify ovary",
+      "concept_id": "CH9-C064"
+    },
+    {
+      "id": "BIO9CH9-129",
+      "q": "What does an ovule normally become after fertilization?",
+      "o": [
+        "Seed",
+        "Stigma",
+        "Petal",
+        "Anther"
+      ],
+      "a": 0,
+      "e": "A fertilized ovule develops into a seed.",
+      "d": "Easy",
+      "topic": "Flower structure",
+      "slo": "Identify ovule",
+      "concept_id": "CH9-C065"
+    },
+    {
+      "id": "BIO9CH9-130",
+      "q": "In a Class 9 Biology assessment on flower structure, choose the scientifically correct answer: What does an ovule normally become after fertilization?",
+      "o": [
+        "Stigma",
+        "Seed",
+        "Petal",
+        "Anther"
+      ],
+      "a": 1,
+      "e": "A fertilized ovule develops into a seed.",
+      "d": "Medium",
+      "topic": "Flower structure",
+      "slo": "Identify ovule",
+      "concept_id": "CH9-C065"
+    },
+    {
+      "id": "BIO9CH9-131",
+      "q": "Which floral structure typically develops into a fruit?",
+      "o": [
+        "Stigma",
+        "Anther",
+        "Filament",
+        "Ovary"
+      ],
+      "a": 3,
+      "e": "The ovary wall develops into the fruit wall.",
+      "d": "Easy",
+      "topic": "Flower structure",
+      "slo": "Identify fruit origin",
+      "concept_id": "CH9-C066"
+    },
+    {
+      "id": "BIO9CH9-132",
+      "q": "In a Class 9 Biology assessment on flower structure, choose the scientifically correct answer: Which floral structure typically develops into a fruit?",
+      "o": [
+        "Anther",
+        "Ovary",
+        "Stigma",
+        "Filament"
+      ],
+      "a": 1,
+      "e": "The ovary wall develops into the fruit wall.",
+      "d": "Medium",
+      "topic": "Flower structure",
+      "slo": "Identify fruit origin",
+      "concept_id": "CH9-C066"
+    },
+    {
+      "id": "BIO9CH9-133",
+      "q": "What is another name for a pollen sac in the anther?",
+      "o": [
+        "Cotyledon",
+        "Micropyle",
+        "Microsporangium",
+        "Megasporangium"
+      ],
+      "a": 2,
+      "e": "Microsporangia produce microspores.",
+      "d": "Easy",
+      "topic": "Microsporogenesis",
+      "slo": "Identify pollen sac",
+      "concept_id": "CH9-C067"
+    },
+    {
+      "id": "BIO9CH9-134",
+      "q": "In a Class 9 Biology assessment on microsporogenesis, choose the scientifically correct answer: What is another name for a pollen sac in the anther?",
+      "o": [
+        "Cotyledon",
+        "Micropyle",
+        "Microsporangium",
+        "Megasporangium"
+      ],
+      "a": 2,
+      "e": "Microsporangia produce microspores.",
+      "d": "Medium",
+      "topic": "Microsporogenesis",
+      "slo": "Identify pollen sac",
+      "concept_id": "CH9-C067"
+    },
+    {
+      "id": "BIO9CH9-135",
+      "q": "Microspores are formed in anthers by:",
+      "o": [
+        "Fusion of sperm nuclei",
+        "Meiosis of pollen mother cells",
+        "Growth of root hairs",
+        "Germination of seeds"
+      ],
+      "a": 1,
+      "e": "Meiosis produces haploid microspores.",
+      "d": "Easy",
+      "topic": "Microsporogenesis",
+      "slo": "Describe microspores",
+      "concept_id": "CH9-C068"
+    },
+    {
+      "id": "BIO9CH9-136",
+      "q": "In a Class 9 Biology assessment on microsporogenesis, choose the scientifically correct answer: Microspores are formed in anthers by:",
+      "o": [
+        "Meiosis of pollen mother cells",
+        "Growth of root hairs",
+        "Fusion of sperm nuclei",
+        "Germination of seeds"
+      ],
+      "a": 0,
+      "e": "Meiosis produces haploid microspores.",
+      "d": "Medium",
+      "topic": "Microsporogenesis",
+      "slo": "Describe microspores",
+      "concept_id": "CH9-C068"
+    },
+    {
+      "id": "BIO9CH9-137",
+      "q": "What is the chromosome condition of a microspore?",
+      "o": [
+        "Haploid",
+        "Without any chromosomes",
+        "Tetraploid in all species",
+        "Always diploid"
+      ],
+      "a": 0,
+      "e": "Microspores are haploid products of meiosis.",
+      "d": "Easy",
+      "topic": "Microsporogenesis",
+      "slo": "Identify ploidy",
+      "concept_id": "CH9-C069"
+    },
+    {
+      "id": "BIO9CH9-138",
+      "q": "In a Class 9 Biology assessment on microsporogenesis, choose the scientifically correct answer: What is the chromosome condition of a microspore?",
+      "o": [
+        "Tetraploid in all species",
+        "Always diploid",
+        "Without any chromosomes",
+        "Haploid"
+      ],
+      "a": 3,
+      "e": "Microspores are haploid products of meiosis.",
+      "d": "Medium",
+      "topic": "Microsporogenesis",
+      "slo": "Identify ploidy",
+      "concept_id": "CH9-C069"
+    },
+    {
+      "id": "BIO9CH9-139",
+      "q": "Where does megaspore formation occur in flowering plants?",
+      "o": [
+        "Inside the petal",
+        "Within the filament",
+        "Within the ovule",
+        "On the sepal surface"
+      ],
+      "a": 2,
+      "e": "Megaspores form in ovules.",
+      "d": "Easy",
+      "topic": "Megasporogenesis",
+      "slo": "Identify megaspore location",
+      "concept_id": "CH9-C070"
+    },
+    {
+      "id": "BIO9CH9-140",
+      "q": "In a Class 9 Biology assessment on megasporogenesis, choose the scientifically correct answer: Where does megaspore formation occur in flowering plants?",
+      "o": [
+        "On the sepal surface",
+        "Inside the petal",
+        "Within the filament",
+        "Within the ovule"
+      ],
+      "a": 3,
+      "e": "Megaspores form in ovules.",
+      "d": "Medium",
+      "topic": "Megasporogenesis",
+      "slo": "Identify megaspore location",
+      "concept_id": "CH9-C070"
+    },
+    {
+      "id": "BIO9CH9-141",
+      "q": "How many megaspores are typically produced initially by meiosis of one megaspore mother cell?",
+      "o": [
+        "Eight",
+        "Sixteen",
+        "One",
+        "Four"
+      ],
+      "a": 3,
+      "e": "Meiosis initially yields four haploid megaspores.",
+      "d": "Easy",
+      "topic": "Megasporogenesis",
+      "slo": "Explain megaspore formation",
+      "concept_id": "CH9-C071"
+    },
+    {
+      "id": "BIO9CH9-142",
+      "q": "In a Class 9 Biology assessment on megasporogenesis, choose the scientifically correct answer: How many megaspores are typically produced initially by meiosis of one megaspore mother cell?",
+      "o": [
+        "Eight",
+        "Four",
+        "Sixteen",
+        "One"
+      ],
+      "a": 1,
+      "e": "Meiosis initially yields four haploid megaspores.",
+      "d": "Medium",
+      "topic": "Megasporogenesis",
+      "slo": "Explain megaspore formation",
+      "concept_id": "CH9-C071"
+    },
+    {
+      "id": "BIO9CH9-143",
+      "q": "In the common angiosperm pattern, how many of the four megaspores usually remain functional?",
+      "o": [
+        "None",
+        "All four always",
+        "Eight",
+        "One"
+      ],
+      "a": 3,
+      "e": "Usually one megaspore survives and develops.",
+      "d": "Easy",
+      "topic": "Megasporogenesis",
+      "slo": "Identify functional megaspore",
+      "concept_id": "CH9-C072"
+    },
+    {
+      "id": "BIO9CH9-144",
+      "q": "In a Class 9 Biology assessment on megasporogenesis, choose the scientifically correct answer: In the common angiosperm pattern, how many of the four megaspores usually remain functional?",
+      "o": [
+        "None",
+        "All four always",
+        "One",
+        "Eight"
+      ],
+      "a": 2,
+      "e": "Usually one megaspore survives and develops.",
+      "d": "Medium",
+      "topic": "Megasporogenesis",
+      "slo": "Identify functional megaspore",
+      "concept_id": "CH9-C072"
+    },
+    {
+      "id": "BIO9CH9-145",
+      "q": "What is pollination?",
+      "o": [
+        "Transfer of pollen from anther to stigma",
+        "Formation of a root tuber",
+        "Fusion of two sperm nuclei",
+        "Development of a seedling"
+      ],
+      "a": 0,
+      "e": "Pollination transfers pollen to a receptive stigma.",
+      "d": "Easy",
+      "topic": "Pollination",
+      "slo": "Define pollination",
+      "concept_id": "CH9-C073"
+    },
+    {
+      "id": "BIO9CH9-146",
+      "q": "In a Class 9 Biology assessment on pollination, choose the scientifically correct answer: What is pollination?",
+      "o": [
+        "Formation of a root tuber",
+        "Fusion of two sperm nuclei",
+        "Development of a seedling",
+        "Transfer of pollen from anther to stigma"
+      ],
+      "a": 3,
+      "e": "Pollination transfers pollen to a receptive stigma.",
+      "d": "Medium",
+      "topic": "Pollination",
+      "slo": "Define pollination",
+      "concept_id": "CH9-C073"
+    },
+    {
+      "id": "BIO9CH9-147",
+      "q": "Pollination within the same flower or between flowers of the same plant is:",
+      "o": [
+        "Self-pollination",
+        "Germination",
+        "Double fertilization",
+        "Cross-pollination between separate plants"
+      ],
+      "a": 0,
+      "e": "Self-pollination involves pollen transfer within one plant.",
+      "d": "Easy",
+      "topic": "Pollination",
+      "slo": "Identify self-pollination",
+      "concept_id": "CH9-C074"
+    },
+    {
+      "id": "BIO9CH9-148",
+      "q": "In a Class 9 Biology assessment on pollination, choose the scientifically correct answer: Pollination within the same flower or between flowers of the same plant is:",
+      "o": [
+        "Cross-pollination between separate plants",
+        "Self-pollination",
+        "Germination",
+        "Double fertilization"
+      ],
+      "a": 1,
+      "e": "Self-pollination involves pollen transfer within one plant.",
+      "d": "Medium",
+      "topic": "Pollination",
+      "slo": "Identify self-pollination",
+      "concept_id": "CH9-C074"
+    },
+    {
+      "id": "BIO9CH9-149",
+      "q": "Pollen moves from one plant to a flower of another plant of the same species. This is:",
+      "o": [
+        "Cross-pollination",
+        "Budding",
+        "Binary fission",
+        "Vegetative propagation"
+      ],
+      "a": 0,
+      "e": "Cross-pollination occurs between different plants of the same species.",
+      "d": "Easy",
+      "topic": "Pollination",
+      "slo": "Identify cross-pollination",
+      "concept_id": "CH9-C075"
+    },
+    {
+      "id": "BIO9CH9-150",
+      "q": "In a Class 9 Biology assessment on pollination, choose the scientifically correct answer: Pollen moves from one plant to a flower of another plant of the same species. This is:",
+      "o": [
+        "Vegetative propagation",
+        "Binary fission",
+        "Budding",
+        "Cross-pollination"
+      ],
+      "a": 3,
+      "e": "Cross-pollination occurs between different plants of the same species.",
+      "d": "Medium",
+      "topic": "Pollination",
+      "slo": "Identify cross-pollination",
+      "concept_id": "CH9-C075"
+    },
+    {
+      "id": "BIO9CH9-151",
+      "q": "Which type of pollination generally promotes more genetic mixing between plants?",
+      "o": [
+        "Cutting propagation",
+        "Asexual budding",
+        "Cross-pollination",
+        "Self-pollination only"
+      ],
+      "a": 2,
+      "e": "Cross-pollination can combine genes from distinct individuals.",
+      "d": "Easy",
+      "topic": "Pollination",
+      "slo": "Explain variability",
+      "concept_id": "CH9-C076"
+    },
+    {
+      "id": "BIO9CH9-152",
+      "q": "In a Class 9 Biology assessment on pollination, choose the scientifically correct answer: Which type of pollination generally promotes more genetic mixing between plants?",
+      "o": [
+        "Cross-pollination",
+        "Asexual budding",
+        "Self-pollination only",
+        "Cutting propagation"
+      ],
+      "a": 0,
+      "e": "Cross-pollination can combine genes from distinct individuals.",
+      "d": "Medium",
+      "topic": "Pollination",
+      "slo": "Explain variability",
+      "concept_id": "CH9-C076"
+    },
+    {
+      "id": "BIO9CH9-153",
+      "q": "Which can act as pollinating agents?",
+      "o": [
+        "Wind and insects",
+        "Only root hairs",
+        "Only xylem and phloem",
+        "Only cotyledons"
+      ],
+      "a": 0,
+      "e": "Wind and animals can transfer pollen.",
+      "d": "Easy",
+      "topic": "Pollination",
+      "slo": "Identify agents",
+      "concept_id": "CH9-C077"
+    },
+    {
+      "id": "BIO9CH9-154",
+      "q": "In a Class 9 Biology assessment on pollination, choose the scientifically correct answer: Which can act as pollinating agents?",
+      "o": [
+        "Wind and insects",
+        "Only cotyledons",
+        "Only xylem and phloem",
+        "Only root hairs"
+      ],
+      "a": 0,
+      "e": "Wind and animals can transfer pollen.",
+      "d": "Medium",
+      "topic": "Pollination",
+      "slo": "Identify agents",
+      "concept_id": "CH9-C077"
+    },
+    {
+      "id": "BIO9CH9-155",
+      "q": "Bright petals and nectar are commonly associated with:",
+      "o": [
+        "Binary fission",
+        "Root grafting",
+        "Insect pollination",
+        "Spore formation"
+      ],
+      "a": 2,
+      "e": "Showy flowers often attract insects.",
+      "d": "Easy",
+      "topic": "Pollination",
+      "slo": "Interpret insect pollination",
+      "concept_id": "CH9-C078"
+    },
+    {
+      "id": "BIO9CH9-156",
+      "q": "In a Class 9 Biology assessment on pollination, choose the scientifically correct answer: Bright petals and nectar are commonly associated with:",
+      "o": [
+        "Spore formation",
+        "Binary fission",
+        "Root grafting",
+        "Insect pollination"
+      ],
+      "a": 3,
+      "e": "Showy flowers often attract insects.",
+      "d": "Medium",
+      "topic": "Pollination",
+      "slo": "Interpret insect pollination",
+      "concept_id": "CH9-C078"
+    },
+    {
+      "id": "BIO9CH9-157",
+      "q": "A flower with exposed anthers and abundant light pollen is often adapted for:",
+      "o": [
+        "Seed germination",
+        "Wind pollination",
+        "Vegetative budding",
+        "Tissue culture"
+      ],
+      "a": 1,
+      "e": "Wind-pollinated flowers commonly release many light pollen grains.",
+      "d": "Easy",
+      "topic": "Pollination",
+      "slo": "Interpret wind pollination",
+      "concept_id": "CH9-C079"
+    },
+    {
+      "id": "BIO9CH9-158",
+      "q": "In a Class 9 Biology assessment on pollination, choose the scientifically correct answer: A flower with exposed anthers and abundant light pollen is often adapted for:",
+      "o": [
+        "Vegetative budding",
+        "Seed germination",
+        "Wind pollination",
+        "Tissue culture"
+      ],
+      "a": 2,
+      "e": "Wind-pollinated flowers commonly release many light pollen grains.",
+      "d": "Medium",
+      "topic": "Pollination",
+      "slo": "Interpret wind pollination",
+      "concept_id": "CH9-C079"
+    },
+    {
+      "id": "BIO9CH9-159",
+      "q": "Why do many wind-pollinated flowers produce large amounts of pollen?",
+      "o": [
+        "Much pollen is lost before reaching a stigma",
+        "Pollen replaces water",
+        "All pollen grains become seeds",
+        "Wind causes every pollen grain to fertilize"
+      ],
+      "a": 0,
+      "e": "Producing many grains increases the chance of successful transfer.",
+      "d": "Easy",
+      "topic": "Pollination",
+      "slo": "Explain pollen production",
+      "concept_id": "CH9-C080"
+    },
+    {
+      "id": "BIO9CH9-160",
+      "q": "In a Class 9 Biology assessment on pollination, choose the scientifically correct answer: Why do many wind-pollinated flowers produce large amounts of pollen?",
+      "o": [
+        "Wind causes every pollen grain to fertilize",
+        "Pollen replaces water",
+        "Much pollen is lost before reaching a stigma",
+        "All pollen grains become seeds"
+      ],
+      "a": 2,
+      "e": "Producing many grains increases the chance of successful transfer.",
+      "d": "Medium",
+      "topic": "Pollination",
+      "slo": "Explain pollen production",
+      "concept_id": "CH9-C080"
+    },
+    {
+      "id": "BIO9CH9-161",
+      "q": "Why can excessive insecticide use reduce seed production in insect-pollinated crops?",
+      "o": [
+        "It makes all flowers wind-pollinated",
+        "It prevents root respiration entirely",
+        "It can kill or deter pollinating insects",
+        "It converts ovules into petals"
+      ],
+      "a": 2,
+      "e": "Pollinator loss reduces pollen transfer.",
+      "d": "Easy",
+      "topic": "Pollination",
+      "slo": "Analyze pesticide impact",
+      "concept_id": "CH9-C081"
+    },
+    {
+      "id": "BIO9CH9-162",
+      "q": "In a Class 9 Biology assessment on pollination, choose the scientifically correct answer: Why can excessive insecticide use reduce seed production in insect-pollinated crops?",
+      "o": [
+        "It converts ovules into petals",
+        "It can kill or deter pollinating insects",
+        "It makes all flowers wind-pollinated",
+        "It prevents root respiration entirely"
+      ],
+      "a": 1,
+      "e": "Pollinator loss reduces pollen transfer.",
+      "d": "Medium",
+      "topic": "Pollination",
+      "slo": "Analyze pesticide impact",
+      "concept_id": "CH9-C081"
+    },
+    {
+      "id": "BIO9CH9-163",
+      "q": "After a compatible pollen grain lands on a stigma, what can it form?",
+      "o": [
+        "Pollen tube",
+        "Rhizome",
+        "Runner",
+        "Root hair"
+      ],
+      "a": 0,
+      "e": "A pollen tube grows toward the ovule.",
+      "d": "Easy",
+      "topic": "Gametophytes",
+      "slo": "Identify pollen germination",
+      "concept_id": "CH9-C082"
+    },
+    {
+      "id": "BIO9CH9-164",
+      "q": "In a Class 9 Biology assessment on gametophytes, choose the scientifically correct answer: After a compatible pollen grain lands on a stigma, what can it form?",
+      "o": [
+        "Pollen tube",
+        "Root hair",
+        "Runner",
+        "Rhizome"
+      ],
+      "a": 0,
+      "e": "A pollen tube grows toward the ovule.",
+      "d": "Medium",
+      "topic": "Gametophytes",
+      "slo": "Identify pollen germination",
+      "concept_id": "CH9-C082"
+    },
+    {
+      "id": "BIO9CH9-165",
+      "q": "What is produced when the generative nucleus divides?",
+      "o": [
+        "Two ovules",
+        "Two sperm nuclei",
+        "One cotyledon",
+        "Four sepals"
+      ],
+      "a": 1,
+      "e": "The generative nucleus forms two male gametes.",
+      "d": "Easy",
+      "topic": "Gametophytes",
+      "slo": "Identify generative nucleus",
+      "concept_id": "CH9-C083"
+    },
+    {
+      "id": "BIO9CH9-166",
+      "q": "In a Class 9 Biology assessment on gametophytes, choose the scientifically correct answer: What is produced when the generative nucleus divides?",
+      "o": [
+        "Two sperm nuclei",
+        "Four sepals",
+        "Two ovules",
+        "One cotyledon"
+      ],
+      "a": 0,
+      "e": "The generative nucleus forms two male gametes.",
+      "d": "Medium",
+      "topic": "Gametophytes",
+      "slo": "Identify generative nucleus",
+      "concept_id": "CH9-C083"
+    },
+    {
+      "id": "BIO9CH9-167",
+      "q": "What is the main role of the tube nucleus?",
+      "o": [
+        "Store starch in cotyledons",
+        "Guide and support pollen-tube growth",
+        "Form the fruit wall",
+        "Become the seed coat"
+      ],
+      "a": 1,
+      "e": "The tube nucleus is associated with pollen-tube development.",
+      "d": "Easy",
+      "topic": "Gametophytes",
+      "slo": "Identify tube nucleus",
+      "concept_id": "CH9-C084"
+    },
+    {
+      "id": "BIO9CH9-168",
+      "q": "In a Class 9 Biology assessment on gametophytes, choose the scientifically correct answer: What is the main role of the tube nucleus?",
+      "o": [
+        "Form the fruit wall",
+        "Guide and support pollen-tube growth",
+        "Store starch in cotyledons",
+        "Become the seed coat"
+      ],
+      "a": 1,
+      "e": "The tube nucleus is associated with pollen-tube development.",
+      "d": "Medium",
+      "topic": "Gametophytes",
+      "slo": "Identify tube nucleus",
+      "concept_id": "CH9-C084"
+    },
+    {
+      "id": "BIO9CH9-169",
+      "q": "Where is the female gametophyte located?",
+      "o": [
+        "In the filament",
+        "On the petal",
+        "Inside a pollen sac",
+        "Inside the ovule"
+      ],
+      "a": 3,
+      "e": "The embryo sac develops within an ovule.",
+      "d": "Easy",
+      "topic": "Gametophytes",
+      "slo": "Describe embryo sac",
+      "concept_id": "CH9-C085"
+    },
+    {
+      "id": "BIO9CH9-170",
+      "q": "In a Class 9 Biology assessment on gametophytes, choose the scientifically correct answer: Where is the female gametophyte located?",
+      "o": [
+        "On the petal",
+        "Inside the ovule",
+        "In the filament",
+        "Inside a pollen sac"
+      ],
+      "a": 1,
+      "e": "The embryo sac develops within an ovule.",
+      "d": "Medium",
+      "topic": "Gametophytes",
+      "slo": "Describe embryo sac",
+      "concept_id": "CH9-C085"
+    },
+    {
+      "id": "BIO9CH9-171",
+      "q": "Which female gametophyte cell fuses with one sperm nucleus?",
+      "o": [
+        "Guard cell",
+        "Pollen mother cell",
+        "Sepal cell",
+        "Egg cell"
+      ],
+      "a": 3,
+      "e": "The egg and one sperm form a zygote.",
+      "d": "Easy",
+      "topic": "Gametophytes",
+      "slo": "Identify egg",
+      "concept_id": "CH9-C086"
+    },
+    {
+      "id": "BIO9CH9-172",
+      "q": "In a Class 9 Biology assessment on gametophytes, choose the scientifically correct answer: Which female gametophyte cell fuses with one sperm nucleus?",
+      "o": [
+        "Pollen mother cell",
+        "Egg cell",
+        "Sepal cell",
+        "Guard cell"
+      ],
+      "a": 1,
+      "e": "The egg and one sperm form a zygote.",
+      "d": "Medium",
+      "topic": "Gametophytes",
+      "slo": "Identify egg",
+      "concept_id": "CH9-C086"
+    },
+    {
+      "id": "BIO9CH9-173",
+      "q": "In typical angiosperms, the second sperm nucleus fuses with:",
+      "o": [
+        "The filament",
+        "The stigma epidermis",
+        "Two polar nuclei in the central cell",
+        "A sepal"
+      ],
+      "a": 2,
+      "e": "This fusion forms the primary endosperm nucleus.",
+      "d": "Easy",
+      "topic": "Gametophytes",
+      "slo": "Identify polar nuclei",
+      "concept_id": "CH9-C087"
+    },
+    {
+      "id": "BIO9CH9-174",
+      "q": "In a Class 9 Biology assessment on gametophytes, choose the scientifically correct answer: In typical angiosperms, the second sperm nucleus fuses with:",
+      "o": [
+        "The stigma epidermis",
+        "The filament",
+        "Two polar nuclei in the central cell",
+        "A sepal"
+      ],
+      "a": 2,
+      "e": "This fusion forms the primary endosperm nucleus.",
+      "d": "Medium",
+      "topic": "Gametophytes",
+      "slo": "Identify polar nuclei",
+      "concept_id": "CH9-C087"
+    },
+    {
+      "id": "BIO9CH9-175",
+      "q": "What is fertilization?",
+      "o": [
+        "Fusion of male and female gametes",
+        "Fruit falling from a tree",
+        "A stem cutting taking root",
+        "Pollen landing on stigma only"
+      ],
+      "a": 0,
+      "e": "Fertilization combines gamete nuclei.",
+      "d": "Easy",
+      "topic": "Fertilization",
+      "slo": "Define fertilization",
+      "concept_id": "CH9-C088"
+    },
+    {
+      "id": "BIO9CH9-176",
+      "q": "In a Class 9 Biology assessment on fertilization, choose the scientifically correct answer: What is fertilization?",
+      "o": [
+        "Pollen landing on stigma only",
+        "Fruit falling from a tree",
+        "A stem cutting taking root",
+        "Fusion of male and female gametes"
+      ],
+      "a": 3,
+      "e": "Fertilization combines gamete nuclei.",
+      "d": "Medium",
+      "topic": "Fertilization",
+      "slo": "Define fertilization",
+      "concept_id": "CH9-C088"
+    },
+    {
+      "id": "BIO9CH9-177",
+      "q": "Why is fertilization in angiosperms called double fertilization?",
+      "o": [
+        "Two flowers exchange petals",
+        "Two ovaries fuse",
+        "One sperm forms the zygote and another forms the endosperm nucleus",
+        "Two pollen grains always form two seeds"
+      ],
+      "a": 2,
+      "e": "Two fusion events occur within the embryo sac.",
+      "d": "Easy",
+      "topic": "Fertilization",
+      "slo": "Explain double fertilization",
+      "concept_id": "CH9-C089"
+    },
+    {
+      "id": "BIO9CH9-178",
+      "q": "In a Class 9 Biology assessment on fertilization, choose the scientifically correct answer: Why is fertilization in angiosperms called double fertilization?",
+      "o": [
+        "One sperm forms the zygote and another forms the endosperm nucleus",
+        "Two ovaries fuse",
+        "Two flowers exchange petals",
+        "Two pollen grains always form two seeds"
+      ],
+      "a": 0,
+      "e": "Two fusion events occur within the embryo sac.",
+      "d": "Medium",
+      "topic": "Fertilization",
+      "slo": "Explain double fertilization",
+      "concept_id": "CH9-C089"
+    },
+    {
+      "id": "BIO9CH9-179",
+      "q": "Which structure forms when a sperm nucleus fuses with the egg nucleus?",
+      "o": [
+        "Pollen sac",
+        "Petal",
+        "Seed coat",
+        "Zygote"
+      ],
+      "a": 3,
+      "e": "The fertilized egg is the zygote.",
+      "d": "Easy",
+      "topic": "Fertilization",
+      "slo": "Identify zygote",
+      "concept_id": "CH9-C090"
+    },
+    {
+      "id": "BIO9CH9-180",
+      "q": "In a Class 9 Biology assessment on fertilization, choose the scientifically correct answer: Which structure forms when a sperm nucleus fuses with the egg nucleus?",
+      "o": [
+        "Petal",
+        "Seed coat",
+        "Zygote",
+        "Pollen sac"
+      ],
+      "a": 2,
+      "e": "The fertilized egg is the zygote.",
+      "d": "Medium",
+      "topic": "Fertilization",
+      "slo": "Identify zygote",
+      "concept_id": "CH9-C090"
+    },
+    {
+      "id": "BIO9CH9-181",
+      "q": "What commonly develops from the primary endosperm nucleus?",
+      "o": [
+        "Stigma",
+        "Endosperm",
+        "Root cap",
+        "Filament"
+      ],
+      "a": 1,
+      "e": "Endosperm usually supplies nourishment to the developing embryo.",
+      "d": "Easy",
+      "topic": "Fertilization",
+      "slo": "Identify endosperm",
+      "concept_id": "CH9-C091"
+    },
+    {
+      "id": "BIO9CH9-182",
+      "q": "In a Class 9 Biology assessment on fertilization, choose the scientifically correct answer: What commonly develops from the primary endosperm nucleus?",
+      "o": [
+        "Filament",
+        "Endosperm",
+        "Root cap",
+        "Stigma"
+      ],
+      "a": 1,
+      "e": "Endosperm usually supplies nourishment to the developing embryo.",
+      "d": "Medium",
+      "topic": "Fertilization",
+      "slo": "Identify endosperm",
+      "concept_id": "CH9-C091"
+    },
+    {
+      "id": "BIO9CH9-183",
+      "q": "In a typical diploid flowering plant, the zygote is:",
+      "o": [
+        "Haploid",
+        "Always triploid",
+        "Without chromosomes",
+        "Diploid"
+      ],
+      "a": 3,
+      "e": "Fusion of two haploid gametes restores diploidy.",
+      "d": "Easy",
+      "topic": "Fertilization",
+      "slo": "Describe zygote ploidy",
+      "concept_id": "CH9-C092"
+    },
+    {
+      "id": "BIO9CH9-184",
+      "q": "In a Class 9 Biology assessment on fertilization, choose the scientifically correct answer: In a typical diploid flowering plant, the zygote is:",
+      "o": [
+        "Without chromosomes",
+        "Diploid",
+        "Haploid",
+        "Always triploid"
+      ],
+      "a": 1,
+      "e": "Fusion of two haploid gametes restores diploidy.",
+      "d": "Medium",
+      "topic": "Fertilization",
+      "slo": "Describe zygote ploidy",
+      "concept_id": "CH9-C092"
+    },
+    {
+      "id": "BIO9CH9-185",
+      "q": "In a typical flowering plant with two polar nuclei, the endosperm nucleus is initially:",
+      "o": [
+        "Haploid",
+        "Tetraploid in every case",
+        "Diploid",
+        "Triploid"
+      ],
+      "a": 3,
+      "e": "Fusion of one sperm with two polar nuclei typically yields three chromosome sets.",
+      "d": "Easy",
+      "topic": "Fertilization",
+      "slo": "Describe endosperm ploidy",
+      "concept_id": "CH9-C093"
+    },
+    {
+      "id": "BIO9CH9-186",
+      "q": "In a Class 9 Biology assessment on fertilization, choose the scientifically correct answer: In a typical flowering plant with two polar nuclei, the endosperm nucleus is initially:",
+      "o": [
+        "Triploid",
+        "Haploid",
+        "Diploid",
+        "Tetraploid in every case"
+      ],
+      "a": 0,
+      "e": "Fusion of one sperm with two polar nuclei typically yields three chromosome sets.",
+      "d": "Medium",
+      "topic": "Fertilization",
+      "slo": "Describe endosperm ploidy",
+      "concept_id": "CH9-C093"
+    },
+    {
+      "id": "BIO9CH9-187",
+      "q": "What develops from the zygote inside a seed?",
+      "o": [
+        "Fruit wall",
+        "Embryo",
+        "Stigma",
+        "Seed coat"
+      ],
+      "a": 1,
+      "e": "The zygote develops into the embryo.",
+      "d": "Easy",
+      "topic": "Seed structure",
+      "slo": "Identify embryo",
+      "concept_id": "CH9-C094"
+    },
+    {
+      "id": "BIO9CH9-188",
+      "q": "In a Class 9 Biology assessment on seed structure, choose the scientifically correct answer: What develops from the zygote inside a seed?",
+      "o": [
+        "Stigma",
+        "Fruit wall",
+        "Seed coat",
+        "Embryo"
+      ],
+      "a": 3,
+      "e": "The zygote develops into the embryo.",
+      "d": "Medium",
+      "topic": "Seed structure",
+      "slo": "Identify embryo",
+      "concept_id": "CH9-C094"
+    },
+    {
+      "id": "BIO9CH9-189",
+      "q": "Which ovule tissues form the seed coat?",
+      "o": [
+        "Filaments",
+        "Anthers",
+        "Petals",
+        "Integuments"
+      ],
+      "a": 3,
+      "e": "Ovule integuments develop into protective seed coverings.",
+      "d": "Easy",
+      "topic": "Seed structure",
+      "slo": "Identify seed coat origin",
+      "concept_id": "CH9-C095"
+    },
+    {
+      "id": "BIO9CH9-190",
+      "q": "In a Class 9 Biology assessment on seed structure, choose the scientifically correct answer: Which ovule tissues form the seed coat?",
+      "o": [
+        "Integuments",
+        "Petals",
+        "Filaments",
+        "Anthers"
+      ],
+      "a": 0,
+      "e": "Ovule integuments develop into protective seed coverings.",
+      "d": "Medium",
+      "topic": "Seed structure",
+      "slo": "Identify seed coat origin",
+      "concept_id": "CH9-C095"
+    },
+    {
+      "id": "BIO9CH9-191",
+      "q": "What is the main role of the seed coat?",
+      "o": [
+        "Protect the embryo",
+        "Form a pollen tube",
+        "Produce pollen grains",
+        "Carry out pollination"
+      ],
+      "a": 0,
+      "e": "The seed coat protects the embryo from damage.",
+      "d": "Easy",
+      "topic": "Seed structure",
+      "slo": "Explain seed coat",
+      "concept_id": "CH9-C096"
+    },
+    {
+      "id": "BIO9CH9-192",
+      "q": "In a Class 9 Biology assessment on seed structure, choose the scientifically correct answer: What is the main role of the seed coat?",
+      "o": [
+        "Form a pollen tube",
+        "Protect the embryo",
+        "Carry out pollination",
+        "Produce pollen grains"
+      ],
+      "a": 1,
+      "e": "The seed coat protects the embryo from damage.",
+      "d": "Medium",
+      "topic": "Seed structure",
+      "slo": "Explain seed coat",
+      "concept_id": "CH9-C096"
+    },
+    {
+      "id": "BIO9CH9-193",
+      "q": "What is a cotyledon?",
+      "o": [
+        "A root hair",
+        "An embryonic seed leaf",
+        "A floral stigma",
+        "A pollen sac"
+      ],
+      "a": 1,
+      "e": "Cotyledons are seed leaves that may store or absorb nutrients.",
+      "d": "Easy",
+      "topic": "Seed structure",
+      "slo": "Identify cotyledon",
+      "concept_id": "CH9-C097"
+    },
+    {
+      "id": "BIO9CH9-194",
+      "q": "In a Class 9 Biology assessment on seed structure, choose the scientifically correct answer: What is a cotyledon?",
+      "o": [
+        "A floral stigma",
+        "A pollen sac",
+        "An embryonic seed leaf",
+        "A root hair"
+      ],
+      "a": 2,
+      "e": "Cotyledons are seed leaves that may store or absorb nutrients.",
+      "d": "Medium",
+      "topic": "Seed structure",
+      "slo": "Identify cotyledon",
+      "concept_id": "CH9-C097"
+    },
+    {
+      "id": "BIO9CH9-195",
+      "q": "Which part of a seed embryo develops into the primary root?",
+      "o": [
+        "Radicle",
+        "Endosperm",
+        "Testa",
+        "Plumule"
+      ],
+      "a": 0,
+      "e": "The radicle forms the embryonic root.",
+      "d": "Easy",
+      "topic": "Seed structure",
+      "slo": "Identify radicle",
+      "concept_id": "CH9-C098"
+    },
+    {
+      "id": "BIO9CH9-196",
+      "q": "In a Class 9 Biology assessment on seed structure, choose the scientifically correct answer: Which part of a seed embryo develops into the primary root?",
+      "o": [
+        "Radicle",
+        "Testa",
+        "Endosperm",
+        "Plumule"
+      ],
+      "a": 0,
+      "e": "The radicle forms the embryonic root.",
+      "d": "Medium",
+      "topic": "Seed structure",
+      "slo": "Identify radicle",
+      "concept_id": "CH9-C098"
+    },
+    {
+      "id": "BIO9CH9-197",
+      "q": "Which part of the embryo develops into the shoot?",
+      "o": [
+        "Micropyle",
+        "Radicle",
+        "Plumule",
+        "Testa"
+      ],
+      "a": 2,
+      "e": "The plumule develops into the shoot system.",
+      "d": "Easy",
+      "topic": "Seed structure",
+      "slo": "Identify plumule",
+      "concept_id": "CH9-C099"
+    },
+    {
+      "id": "BIO9CH9-198",
+      "q": "In a Class 9 Biology assessment on seed structure, choose the scientifically correct answer: Which part of the embryo develops into the shoot?",
+      "o": [
+        "Plumule",
+        "Radicle",
+        "Micropyle",
+        "Testa"
+      ],
+      "a": 0,
+      "e": "The plumule develops into the shoot system.",
+      "d": "Medium",
+      "topic": "Seed structure",
+      "slo": "Identify plumule",
+      "concept_id": "CH9-C099"
+    },
+    {
+      "id": "BIO9CH9-199",
+      "q": "What is the micropyle of a seed?",
+      "o": [
+        "A petal vein",
+        "A mature anther",
+        "A small opening in the seed coat",
+        "A root node"
+      ],
+      "a": 2,
+      "e": "The micropyle is a small opening inherited from the ovule.",
+      "d": "Easy",
+      "topic": "Seed structure",
+      "slo": "Identify micropyle",
+      "concept_id": "CH9-C100"
+    },
+    {
+      "id": "BIO9CH9-200",
+      "q": "In a Class 9 Biology assessment on seed structure, choose the scientifically correct answer: What is the micropyle of a seed?",
+      "o": [
+        "A root node",
+        "A mature anther",
+        "A small opening in the seed coat",
+        "A petal vein"
+      ],
+      "a": 2,
+      "e": "The micropyle is a small opening inherited from the ovule.",
+      "d": "Medium",
+      "topic": "Seed structure",
+      "slo": "Identify micropyle",
+      "concept_id": "CH9-C100"
+    },
+    {
+      "id": "BIO9CH9-201",
+      "q": "What is seed germination?",
+      "o": [
+        "Transfer of pollen to stigma",
+        "Formation of spores in fungi",
+        "Resumption of embryo growth into a seedling",
+        "Fusion of sperm with polar nuclei"
+      ],
+      "a": 2,
+      "e": "Germination begins growth of the dormant embryo.",
+      "d": "Easy",
+      "topic": "Seed germination",
+      "slo": "Define germination",
+      "concept_id": "CH9-C101"
+    },
+    {
+      "id": "BIO9CH9-202",
+      "q": "In a Class 9 Biology assessment on seed germination, choose the scientifically correct answer: What is seed germination?",
+      "o": [
+        "Fusion of sperm with polar nuclei",
+        "Formation of spores in fungi",
+        "Resumption of embryo growth into a seedling",
+        "Transfer of pollen to stigma"
+      ],
+      "a": 2,
+      "e": "Germination begins growth of the dormant embryo.",
+      "d": "Medium",
+      "topic": "Seed germination",
+      "slo": "Define germination",
+      "concept_id": "CH9-C101"
+    },
+    {
+      "id": "BIO9CH9-203",
+      "q": "Which conditions are commonly needed for seed germination?",
+      "o": [
+        "Only bright light in every species",
+        "Only a mature flower",
+        "Water, oxygen and suitable temperature",
+        "Only pollen"
+      ],
+      "a": 2,
+      "e": "Most seeds need moisture, oxygen and suitable warmth.",
+      "d": "Easy",
+      "topic": "Seed germination",
+      "slo": "Identify requirements",
+      "concept_id": "CH9-C102"
+    },
+    {
+      "id": "BIO9CH9-204",
+      "q": "In a Class 9 Biology assessment on seed germination, choose the scientifically correct answer: Which conditions are commonly needed for seed germination?",
+      "o": [
+        "Water, oxygen and suitable temperature",
+        "Only bright light in every species",
+        "Only pollen",
+        "Only a mature flower"
+      ],
+      "a": 0,
+      "e": "Most seeds need moisture, oxygen and suitable warmth.",
+      "d": "Medium",
+      "topic": "Seed germination",
+      "slo": "Identify requirements",
+      "concept_id": "CH9-C102"
+    },
+    {
+      "id": "BIO9CH9-205",
+      "q": "Why does a dry seed absorb water before germinating?",
+      "o": [
+        "Water produces pollen",
+        "Water directly becomes DNA",
+        "Water eliminates the embryo",
+        "Water activates metabolism and swelling"
+      ],
+      "a": 3,
+      "e": "Imbibition hydrates seed tissues and enables enzyme activity.",
+      "d": "Easy",
+      "topic": "Seed germination",
+      "slo": "Explain water uptake",
+      "concept_id": "CH9-C103"
+    },
+    {
+      "id": "BIO9CH9-206",
+      "q": "In a Class 9 Biology assessment on seed germination, choose the scientifically correct answer: Why does a dry seed absorb water before germinating?",
+      "o": [
+        "Water activates metabolism and swelling",
+        "Water eliminates the embryo",
+        "Water produces pollen",
+        "Water directly becomes DNA"
+      ],
+      "a": 0,
+      "e": "Imbibition hydrates seed tissues and enables enzyme activity.",
+      "d": "Medium",
+      "topic": "Seed germination",
+      "slo": "Explain water uptake",
+      "concept_id": "CH9-C103"
+    },
+    {
+      "id": "BIO9CH9-207",
+      "q": "Why is oxygen usually important during seed germination?",
+      "o": [
+        "It replaces all stored food",
+        "It supports aerobic respiration for energy",
+        "It becomes the seed coat",
+        "It forms petals"
+      ],
+      "a": 1,
+      "e": "Respiration provides ATP for seedling growth.",
+      "d": "Easy",
+      "topic": "Seed germination",
+      "slo": "Explain oxygen",
+      "concept_id": "CH9-C104"
+    },
+    {
+      "id": "BIO9CH9-208",
+      "q": "In a Class 9 Biology assessment on seed germination, choose the scientifically correct answer: Why is oxygen usually important during seed germination?",
+      "o": [
+        "It replaces all stored food",
+        "It supports aerobic respiration for energy",
+        "It becomes the seed coat",
+        "It forms petals"
+      ],
+      "a": 1,
+      "e": "Respiration provides ATP for seedling growth.",
+      "d": "Medium",
+      "topic": "Seed germination",
+      "slo": "Explain oxygen",
+      "concept_id": "CH9-C104"
+    },
+    {
+      "id": "BIO9CH9-209",
+      "q": "Why can unsuitable temperature prevent germination?",
+      "o": [
+        "Pollination must restart",
+        "Enzymes may function too slowly or be damaged",
+        "The seed instantly becomes a flower",
+        "The embryo loses all chromosomes"
+      ],
+      "a": 1,
+      "e": "Germination depends on suitable metabolic conditions.",
+      "d": "Easy",
+      "topic": "Seed germination",
+      "slo": "Explain temperature",
+      "concept_id": "CH9-C105"
+    },
+    {
+      "id": "BIO9CH9-210",
+      "q": "In a Class 9 Biology assessment on seed germination, choose the scientifically correct answer: Why can unsuitable temperature prevent germination?",
+      "o": [
+        "Pollination must restart",
+        "Enzymes may function too slowly or be damaged",
+        "The embryo loses all chromosomes",
+        "The seed instantly becomes a flower"
+      ],
+      "a": 1,
+      "e": "Germination depends on suitable metabolic conditions.",
+      "d": "Medium",
+      "topic": "Seed germination",
+      "slo": "Explain temperature",
+      "concept_id": "CH9-C105"
+    },
+    {
+      "id": "BIO9CH9-211",
+      "q": "In epigeal germination, the cotyledons are usually:",
+      "o": [
+        "Changed into pollen",
+        "Always left deep underground",
+        "Transformed into ovules",
+        "Raised above the soil"
+      ],
+      "a": 3,
+      "e": "Hypocotyl elongation commonly lifts cotyledons above ground.",
+      "d": "Easy",
+      "topic": "Seed germination",
+      "slo": "Distinguish epigeal",
+      "concept_id": "CH9-C106"
+    },
+    {
+      "id": "BIO9CH9-212",
+      "q": "In a Class 9 Biology assessment on seed germination, choose the scientifically correct answer: In epigeal germination, the cotyledons are usually:",
+      "o": [
+        "Changed into pollen",
+        "Transformed into ovules",
+        "Always left deep underground",
+        "Raised above the soil"
+      ],
+      "a": 3,
+      "e": "Hypocotyl elongation commonly lifts cotyledons above ground.",
+      "d": "Medium",
+      "topic": "Seed germination",
+      "slo": "Distinguish epigeal",
+      "concept_id": "CH9-C106"
+    },
+    {
+      "id": "BIO9CH9-213",
+      "q": "In hypogeal germination, cotyledons generally:",
+      "o": [
+        "Remain below the soil",
+        "Become anthers",
+        "Are absent in every seed",
+        "Always become petals"
+      ],
+      "a": 0,
+      "e": "In hypogeal germination cotyledons remain underground.",
+      "d": "Easy",
+      "topic": "Seed germination",
+      "slo": "Distinguish hypogeal",
+      "concept_id": "CH9-C107"
+    },
+    {
+      "id": "BIO9CH9-214",
+      "q": "In a Class 9 Biology assessment on seed germination, choose the scientifically correct answer: In hypogeal germination, cotyledons generally:",
+      "o": [
+        "Are absent in every seed",
+        "Remain below the soil",
+        "Always become petals",
+        "Become anthers"
+      ],
+      "a": 1,
+      "e": "In hypogeal germination cotyledons remain underground.",
+      "d": "Medium",
+      "topic": "Seed germination",
+      "slo": "Distinguish hypogeal",
+      "concept_id": "CH9-C107"
+    },
+    {
+      "id": "BIO9CH9-215",
+      "q": "Which plant is a common example of epigeal germination?",
+      "o": [
+        "Bean",
+        "Pea",
+        "Coconut",
+        "Maize"
+      ],
+      "a": 0,
+      "e": "Bean commonly shows epigeal germination.",
+      "d": "Easy",
+      "topic": "Seed germination",
+      "slo": "Identify epigeal example",
+      "concept_id": "CH9-C108"
+    },
+    {
+      "id": "BIO9CH9-216",
+      "q": "In a Class 9 Biology assessment on seed germination, choose the scientifically correct answer: Which plant is a common example of epigeal germination?",
+      "o": [
+        "Bean",
+        "Coconut",
+        "Maize",
+        "Pea"
+      ],
+      "a": 0,
+      "e": "Bean commonly shows epigeal germination.",
+      "d": "Medium",
+      "topic": "Seed germination",
+      "slo": "Identify epigeal example",
+      "concept_id": "CH9-C108"
+    },
+    {
+      "id": "BIO9CH9-217",
+      "q": "Which plant commonly exhibits hypogeal germination?",
+      "o": [
+        "Bean",
+        "Pea",
+        "Castor",
+        "Cotton"
+      ],
+      "a": 1,
+      "e": "Pea cotyledons generally remain underground.",
+      "d": "Easy",
+      "topic": "Seed germination",
+      "slo": "Identify hypogeal example",
+      "concept_id": "CH9-C109"
+    },
+    {
+      "id": "BIO9CH9-218",
+      "q": "In a Class 9 Biology assessment on seed germination, choose the scientifically correct answer: Which plant commonly exhibits hypogeal germination?",
+      "o": [
+        "Bean",
+        "Cotton",
+        "Pea",
+        "Castor"
+      ],
+      "a": 2,
+      "e": "Pea cotyledons generally remain underground.",
+      "d": "Medium",
+      "topic": "Seed germination",
+      "slo": "Identify hypogeal example",
+      "concept_id": "CH9-C109"
+    },
+    {
+      "id": "BIO9CH9-219",
+      "q": "Why does a germinating seed initially use stored food?",
+      "o": [
+        "Its embryo has no cells",
+        "It has already formed fruit",
+        "It cannot respire",
+        "Its leaves are not yet fully photosynthetic"
+      ],
+      "a": 3,
+      "e": "Stored reserves fuel early growth before photosynthesis becomes sufficient.",
+      "d": "Easy",
+      "topic": "Seed germination",
+      "slo": "Explain seed reserve",
+      "concept_id": "CH9-C110"
+    },
+    {
+      "id": "BIO9CH9-220",
+      "q": "In a Class 9 Biology assessment on seed germination, choose the scientifically correct answer: Why does a germinating seed initially use stored food?",
+      "o": [
+        "It has already formed fruit",
+        "It cannot respire",
+        "Its embryo has no cells",
+        "Its leaves are not yet fully photosynthetic"
+      ],
+      "a": 3,
+      "e": "Stored reserves fuel early growth before photosynthesis becomes sufficient.",
+      "d": "Medium",
+      "topic": "Seed germination",
+      "slo": "Explain seed reserve",
+      "concept_id": "CH9-C110"
+    },
+    {
+      "id": "BIO9CH9-221",
+      "q": "Why might a seed fail to germinate in waterlogged soil?",
+      "o": [
+        "Too little oxygen reaches the embryo",
+        "The cotyledons become pollen",
+        "The seed receives too much sunlight",
+        "All enzymes require no oxygen"
+      ],
+      "a": 0,
+      "e": "Waterlogging restricts oxygen for respiration.",
+      "d": "Easy",
+      "topic": "Seed germination",
+      "slo": "Apply waterlogging",
+      "concept_id": "CH9-C111"
+    },
+    {
+      "id": "BIO9CH9-222",
+      "q": "In a Class 9 Biology assessment on seed germination, choose the scientifically correct answer: Why might a seed fail to germinate in waterlogged soil?",
+      "o": [
+        "The cotyledons become pollen",
+        "All enzymes require no oxygen",
+        "Too little oxygen reaches the embryo",
+        "The seed receives too much sunlight"
+      ],
+      "a": 2,
+      "e": "Waterlogging restricts oxygen for respiration.",
+      "d": "Medium",
+      "topic": "Seed germination",
+      "slo": "Apply waterlogging",
+      "concept_id": "CH9-C111"
+    },
+    {
+      "id": "BIO9CH9-223",
+      "q": "Why does a viable seed remain dormant in very dry soil?",
+      "o": [
+        "Its pollen cannot fly",
+        "Insufficient water prevents metabolic activation",
+        "It has no embryo",
+        "It already contains a flower"
+      ],
+      "a": 1,
+      "e": "Water is needed to restart seed metabolism.",
+      "d": "Easy",
+      "topic": "Seed germination",
+      "slo": "Apply dryness",
+      "concept_id": "CH9-C112"
+    },
+    {
+      "id": "BIO9CH9-224",
+      "q": "In a Class 9 Biology assessment on seed germination, choose the scientifically correct answer: Why does a viable seed remain dormant in very dry soil?",
+      "o": [
+        "Insufficient water prevents metabolic activation",
+        "It already contains a flower",
+        "It has no embryo",
+        "Its pollen cannot fly"
+      ],
+      "a": 0,
+      "e": "Water is needed to restart seed metabolism.",
+      "d": "Medium",
+      "topic": "Seed germination",
+      "slo": "Apply dryness",
+      "concept_id": "CH9-C112"
+    },
+    {
+      "id": "BIO9CH9-225",
+      "q": "To test how temperature affects germination, which variable should be changed?",
+      "o": [
+        "Seed type and oxygen together",
+        "Temperature and water together",
+        "Temperature only",
+        "All variables randomly"
+      ],
+      "a": 2,
+      "e": "A fair experiment varies one factor while keeping others constant.",
+      "d": "Easy",
+      "topic": "Seed germination",
+      "slo": "Apply experiment",
+      "concept_id": "CH9-C113"
+    },
+    {
+      "id": "BIO9CH9-226",
+      "q": "In a Class 9 Biology assessment on seed germination, choose the scientifically correct answer: To test how temperature affects germination, which variable should be changed?",
+      "o": [
+        "Temperature and water together",
+        "Temperature only",
+        "Seed type and oxygen together",
+        "All variables randomly"
+      ],
+      "a": 1,
+      "e": "A fair experiment varies one factor while keeping others constant.",
+      "d": "Medium",
+      "topic": "Seed germination",
+      "slo": "Apply experiment",
+      "concept_id": "CH9-C113"
+    },
+    {
+      "id": "BIO9CH9-227",
+      "q": "A seedling first develops a root that anchors it and absorbs water. This root comes from the:",
+      "o": [
+        "Stigma",
+        "Plumule",
+        "Radicle",
+        "Anther"
+      ],
+      "a": 2,
+      "e": "The radicle emerges to form the primary root.",
+      "d": "Easy",
+      "topic": "Seed germination",
+      "slo": "Analyze growth",
+      "concept_id": "CH9-C114"
+    },
+    {
+      "id": "BIO9CH9-228",
+      "q": "In a Class 9 Biology assessment on seed germination, choose the scientifically correct answer: A seedling first develops a root that anchors it and absorbs water. This root comes from the:",
+      "o": [
+        "Anther",
+        "Radicle",
+        "Stigma",
+        "Plumule"
+      ],
+      "a": 1,
+      "e": "The radicle emerges to form the primary root.",
+      "d": "Medium",
+      "topic": "Seed germination",
+      "slo": "Analyze growth",
+      "concept_id": "CH9-C114"
+    },
+    {
+      "id": "BIO9CH9-229",
+      "q": "A shoot emerges and begins producing leaves. It developed from the:",
+      "o": [
+        "Plumule",
+        "Radicle",
+        "Testa",
+        "Micropyle"
+      ],
+      "a": 0,
+      "e": "The plumule is the embryonic shoot.",
+      "d": "Easy",
+      "topic": "Seed germination",
+      "slo": "Analyze growth",
+      "concept_id": "CH9-C115"
+    },
+    {
+      "id": "BIO9CH9-230",
+      "q": "In a Class 9 Biology assessment on seed germination, choose the scientifically correct answer: A shoot emerges and begins producing leaves. It developed from the:",
+      "o": [
+        "Testa",
+        "Micropyle",
+        "Plumule",
+        "Radicle"
+      ],
+      "a": 2,
+      "e": "The plumule is the embryonic shoot.",
+      "d": "Medium",
+      "topic": "Seed germination",
+      "slo": "Analyze growth",
+      "concept_id": "CH9-C115"
+    },
+    {
+      "id": "BIO9CH9-231",
+      "q": "Which method generally produces genetically identical offspring most reliably?",
+      "o": [
+        "Double fertilization",
+        "Sexual reproduction by seeds",
+        "Cross-pollination between unrelated plants",
+        "Vegetative propagation from one parent"
+      ],
+      "a": 3,
+      "e": "Vegetative reproduction preserves a parent's genotype more closely.",
+      "d": "Easy",
+      "topic": "Integration",
+      "slo": "Compare reproduction",
+      "concept_id": "CH9-C116"
+    },
+    {
+      "id": "BIO9CH9-232",
+      "q": "In a Class 9 Biology assessment on integration, choose the scientifically correct answer: Which method generally produces genetically identical offspring most reliably?",
+      "o": [
+        "Vegetative propagation from one parent",
+        "Cross-pollination between unrelated plants",
+        "Double fertilization",
+        "Sexual reproduction by seeds"
+      ],
+      "a": 0,
+      "e": "Vegetative reproduction preserves a parent's genotype more closely.",
+      "d": "Medium",
+      "topic": "Integration",
+      "slo": "Compare reproduction",
+      "concept_id": "CH9-C116"
+    },
+    {
+      "id": "BIO9CH9-233",
+      "q": "Which process most directly creates a new combination of parental genes?",
+      "o": [
+        "Rhizome propagation",
+        "Sexual reproduction",
+        "Stem cutting",
+        "Budding"
+      ],
+      "a": 1,
+      "e": "Fusion of genetically different gametes combines hereditary material.",
+      "d": "Easy",
+      "topic": "Integration",
+      "slo": "Compare reproduction",
+      "concept_id": "CH9-C117"
+    },
+    {
+      "id": "BIO9CH9-234",
+      "q": "In a Class 9 Biology assessment on integration, choose the scientifically correct answer: Which process most directly creates a new combination of parental genes?",
+      "o": [
+        "Rhizome propagation",
+        "Sexual reproduction",
+        "Stem cutting",
+        "Budding"
+      ],
+      "a": 1,
+      "e": "Fusion of genetically different gametes combines hereditary material.",
+      "d": "Medium",
+      "topic": "Integration",
+      "slo": "Compare reproduction",
+      "concept_id": "CH9-C117"
+    },
+    {
+      "id": "BIO9CH9-235",
+      "q": "Why does successful pollination not always guarantee fertilization?",
+      "o": [
+        "All pollen grains contain embryos",
+        "Pollination always creates a zygote immediately",
+        "The stigma becomes a seed instantly",
+        "Pollen may be incompatible or fail to form a functioning pollen tube"
+      ],
+      "a": 3,
+      "e": "Pollen must germinate and deliver gametes for fertilization.",
+      "d": "Easy",
+      "topic": "Integration",
+      "slo": "Connect pollination and fertilization",
+      "concept_id": "CH9-C118"
+    },
+    {
+      "id": "BIO9CH9-236",
+      "q": "In a Class 9 Biology assessment on integration, choose the scientifically correct answer: Why does successful pollination not always guarantee fertilization?",
+      "o": [
+        "Pollination always creates a zygote immediately",
+        "Pollen may be incompatible or fail to form a functioning pollen tube",
+        "All pollen grains contain embryos",
+        "The stigma becomes a seed instantly"
+      ],
+      "a": 1,
+      "e": "Pollen must germinate and deliver gametes for fertilization.",
+      "d": "Medium",
+      "topic": "Integration",
+      "slo": "Connect pollination and fertilization",
+      "concept_id": "CH9-C118"
+    },
+    {
+      "id": "BIO9CH9-237",
+      "q": "A fertilized flower develops a fleshy fruit containing seeds. Which structures gave rise to them?",
+      "o": [
+        "Ovary becomes fruit and ovules become seeds",
+        "Sepals become seeds and pollen becomes fruit",
+        "Filament becomes fruit and stigma becomes seeds",
+        "Anthers become fruit and petals become seeds"
+      ],
+      "a": 0,
+      "e": "After fertilization the ovary develops into fruit and ovules into seeds.",
+      "d": "Easy",
+      "topic": "Integration",
+      "slo": "Connect flower and fruit",
+      "concept_id": "CH9-C119"
+    },
+    {
+      "id": "BIO9CH9-238",
+      "q": "In a Class 9 Biology assessment on integration, choose the scientifically correct answer: A fertilized flower develops a fleshy fruit containing seeds. Which structures gave rise to them?",
+      "o": [
+        "Ovary becomes fruit and ovules become seeds",
+        "Sepals become seeds and pollen becomes fruit",
+        "Anthers become fruit and petals become seeds",
+        "Filament becomes fruit and stigma becomes seeds"
+      ],
+      "a": 0,
+      "e": "After fertilization the ovary develops into fruit and ovules into seeds.",
+      "d": "Medium",
+      "topic": "Integration",
+      "slo": "Connect flower and fruit",
+      "concept_id": "CH9-C119"
+    },
+    {
+      "id": "BIO9CH9-239",
+      "q": "A grower wants genetic variation to breed a new variety. Which approach is most suitable?",
+      "o": [
+        "Cloning by cuttings only",
+        "Tissue culture of one clone only",
+        "Propagation by runners only",
+        "Controlled cross-pollination"
+      ],
+      "a": 3,
+      "e": "Crossing distinct parents can produce varied offspring.",
+      "d": "Easy",
+      "topic": "Integration",
+      "slo": "Apply reproduction choice",
+      "concept_id": "CH9-C120"
+    },
+    {
+      "id": "BIO9CH9-240",
+      "q": "In a Class 9 Biology assessment on integration, choose the scientifically correct answer: A grower wants genetic variation to breed a new variety. Which approach is most suitable?",
+      "o": [
+        "Propagation by runners only",
+        "Tissue culture of one clone only",
+        "Controlled cross-pollination",
+        "Cloning by cuttings only"
+      ],
+      "a": 2,
+      "e": "Crossing distinct parents can produce varied offspring.",
+      "d": "Medium",
+      "topic": "Integration",
+      "slo": "Apply reproduction choice",
+      "concept_id": "CH9-C120"
+    },
+    {
+      "id": "BIO9CH9-241",
+      "q": "Which farming practice would best support insect-pollinated fruit crops?",
+      "o": [
+        "Apply insecticides directly to active pollinators",
+        "Protect pollinators and avoid harmful spraying during flowering",
+        "Remove all flowers",
+        "Cover every stigma permanently"
+      ],
+      "a": 1,
+      "e": "Protecting pollinators supports transfer of pollen.",
+      "d": "Easy",
+      "topic": "Integration",
+      "slo": "Apply pollinator protection",
+      "concept_id": "CH9-C121"
+    },
+    {
+      "id": "BIO9CH9-242",
+      "q": "In a Class 9 Biology assessment on integration, choose the scientifically correct answer: Which farming practice would best support insect-pollinated fruit crops?",
+      "o": [
+        "Apply insecticides directly to active pollinators",
+        "Protect pollinators and avoid harmful spraying during flowering",
+        "Remove all flowers",
+        "Cover every stigma permanently"
+      ],
+      "a": 1,
+      "e": "Protecting pollinators supports transfer of pollen.",
+      "d": "Medium",
+      "topic": "Integration",
+      "slo": "Apply pollinator protection",
+      "concept_id": "CH9-C121"
+    },
+    {
+      "id": "BIO9CH9-243",
+      "q": "A flower has petals and sepals but lacks stamens. Which function is directly absent?",
+      "o": [
+        "Production of pollen by that flower",
+        "Protection of flower bud",
+        "Attraction of pollinators",
+        "Support by receptacle"
+      ],
+      "a": 0,
+      "e": "Stamens are the pollen-producing male organs.",
+      "d": "Easy",
+      "topic": "Integration",
+      "slo": "Interpret floral anatomy",
+      "concept_id": "CH9-C122"
+    },
+    {
+      "id": "BIO9CH9-244",
+      "q": "In a Class 9 Biology assessment on integration, choose the scientifically correct answer: A flower has petals and sepals but lacks stamens. Which function is directly absent?",
+      "o": [
+        "Protection of flower bud",
+        "Support by receptacle",
+        "Production of pollen by that flower",
+        "Attraction of pollinators"
+      ],
+      "a": 2,
+      "e": "Stamens are the pollen-producing male organs.",
+      "d": "Medium",
+      "topic": "Integration",
+      "slo": "Interpret floral anatomy",
+      "concept_id": "CH9-C122"
+    },
+    {
+      "id": "BIO9CH9-245",
+      "q": "If a flower lacks a functional stigma, which process is most directly impaired?",
+      "o": [
+        "Formation of sepals",
+        "Absorption by roots",
+        "Reception of pollen",
+        "Production of chlorophyll"
+      ],
+      "a": 2,
+      "e": "The stigma receives pollen during pollination.",
+      "d": "Easy",
+      "topic": "Integration",
+      "slo": "Interpret floral anatomy",
+      "concept_id": "CH9-C123"
+    },
+    {
+      "id": "BIO9CH9-246",
+      "q": "In a Class 9 Biology assessment on integration, choose the scientifically correct answer: If a flower lacks a functional stigma, which process is most directly impaired?",
+      "o": [
+        "Absorption by roots",
+        "Formation of sepals",
+        "Reception of pollen",
+        "Production of chlorophyll"
+      ],
+      "a": 2,
+      "e": "The stigma receives pollen during pollination.",
+      "d": "Medium",
+      "topic": "Integration",
+      "slo": "Interpret floral anatomy",
+      "concept_id": "CH9-C123"
+    },
+    {
+      "id": "BIO9CH9-247",
+      "q": "Why does formation of fruits benefit many flowering plants?",
+      "o": [
+        "Fruits produce pollen in roots",
+        "Fruits can protect and help disperse seeds",
+        "Fruits replace meiosis",
+        "Fruits prevent embryo formation"
+      ],
+      "a": 1,
+      "e": "Fruits protect seeds and may aid their spread.",
+      "d": "Easy",
+      "topic": "Integration",
+      "slo": "Apply seed dispersal",
+      "concept_id": "CH9-C124"
+    },
+    {
+      "id": "BIO9CH9-248",
+      "q": "In a Class 9 Biology assessment on integration, choose the scientifically correct answer: Why does formation of fruits benefit many flowering plants?",
+      "o": [
+        "Fruits can protect and help disperse seeds",
+        "Fruits produce pollen in roots",
+        "Fruits prevent embryo formation",
+        "Fruits replace meiosis"
+      ],
+      "a": 0,
+      "e": "Fruits protect seeds and may aid their spread.",
+      "d": "Medium",
+      "topic": "Integration",
+      "slo": "Apply seed dispersal",
+      "concept_id": "CH9-C124"
+    },
+    {
+      "id": "BIO9CH9-249",
+      "q": "Two equal groups of seeds get water and oxygen; one is kept very cold. What is the likely cause of slower germination?",
+      "o": [
+        "The embryo becomes a root tuber",
+        "Lower temperature slows enzyme-controlled reactions",
+        "Water is no longer needed",
+        "Cold creates extra pollen"
+      ],
+      "a": 1,
+      "e": "Metabolic reactions depend on temperature.",
+      "d": "Easy",
+      "topic": "Integration",
+      "slo": "Evaluate germination",
+      "concept_id": "CH9-C125"
+    },
+    {
+      "id": "BIO9CH9-250",
+      "q": "In a Class 9 Biology assessment on integration, choose the scientifically correct answer: Two equal groups of seeds get water and oxygen; one is kept very cold. What is the likely cause of slower germination?",
+      "o": [
+        "Lower temperature slows enzyme-controlled reactions",
+        "Water is no longer needed",
+        "Cold creates extra pollen",
+        "The embryo becomes a root tuber"
+      ],
+      "a": 0,
+      "e": "Metabolic reactions depend on temperature.",
+      "d": "Medium",
+      "topic": "Integration",
+      "slo": "Evaluate germination",
+      "concept_id": "CH9-C125"
+    },
+    {
+      "id": "BIO9CH9-251",
+      "q": "Which sequence correctly represents sexual reproduction in a flowering plant?",
+      "o": [
+        "Seed development → spore release → grafting → pollination",
+        "Pollination → fertilization → seed development → germination",
+        "Fertilization → pollen production → pollination → budding",
+        "Germination → pollination → budding → binary fission"
+      ],
+      "a": 1,
+      "e": "Pollen transfer precedes fertilization and seed formation.",
+      "d": "Easy",
+      "topic": "Integration",
+      "slo": "Identify life cycle",
+      "concept_id": "CH9-C126"
+    },
+    {
+      "id": "BIO9CH9-252",
+      "q": "In a Class 9 Biology assessment on integration, choose the scientifically correct answer: Which sequence correctly represents sexual reproduction in a flowering plant?",
+      "o": [
+        "Pollination → fertilization → seed development → germination",
+        "Germination → pollination → budding → binary fission",
+        "Seed development → spore release → grafting → pollination",
+        "Fertilization → pollen production → pollination → budding"
+      ],
+      "a": 0,
+      "e": "Pollen transfer precedes fertilization and seed formation.",
+      "d": "Medium",
+      "topic": "Integration",
+      "slo": "Identify life cycle",
+      "concept_id": "CH9-C126"
+    },
+    {
+      "id": "BIO9CH9-253",
+      "q": "Why do seedlings from seeds often differ from the parent plant?",
+      "o": [
+        "Seed coats rewrite all genes",
+        "Roots eliminate genetic variation",
+        "Seeds are always clones",
+        "Meiosis and fertilization reshuffle hereditary material"
+      ],
+      "a": 3,
+      "e": "Sexual reproduction creates new allele combinations.",
+      "d": "Easy",
+      "topic": "Integration",
+      "slo": "Explain inheritance",
+      "concept_id": "CH9-C127"
+    },
+    {
+      "id": "BIO9CH9-254",
+      "q": "In a Class 9 Biology assessment on integration, choose the scientifically correct answer: Why do seedlings from seeds often differ from the parent plant?",
+      "o": [
+        "Seed coats rewrite all genes",
+        "Roots eliminate genetic variation",
+        "Seeds are always clones",
+        "Meiosis and fertilization reshuffle hereditary material"
+      ],
+      "a": 3,
+      "e": "Sexual reproduction creates new allele combinations.",
+      "d": "Medium",
+      "topic": "Integration",
+      "slo": "Explain inheritance",
+      "concept_id": "CH9-C127"
+    },
+    {
+      "id": "BIO9CH9-255",
+      "q": "A seed is viable and watered but sealed in an airtight jar. Which limitation is most likely?",
+      "o": [
+        "Too much grafting",
+        "Lack of pollen grains",
+        "Oxygen shortage",
+        "No anther tissue"
+      ],
+      "a": 2,
+      "e": "The embryo needs oxygen for aerobic respiration.",
+      "d": "Easy",
+      "topic": "Integration",
+      "slo": "Analyze seed failure",
+      "concept_id": "CH9-C128"
+    },
+    {
+      "id": "BIO9CH9-256",
+      "q": "In a Class 9 Biology assessment on integration, choose the scientifically correct answer: A seed is viable and watered but sealed in an airtight jar. Which limitation is most likely?",
+      "o": [
+        "No anther tissue",
+        "Too much grafting",
+        "Oxygen shortage",
+        "Lack of pollen grains"
+      ],
+      "a": 2,
+      "e": "The embryo needs oxygen for aerobic respiration.",
+      "d": "Medium",
+      "topic": "Integration",
+      "slo": "Analyze seed failure",
+      "concept_id": "CH9-C128"
+    },
+    {
+      "id": "BIO9CH9-257",
+      "q": "A potato eye develops into a new plant. Why is it called vegetative reproduction?",
+      "o": [
+        "A pollen grain reaches a stigma",
+        "A bud on a modified stem forms a new individual",
+        "A sperm fuses with an egg",
+        "A seed forms in a fruit"
+      ],
+      "a": 1,
+      "e": "The tuber bud grows without gamete fusion.",
+      "d": "Easy",
+      "topic": "Integration",
+      "slo": "Identify natural clone",
+      "concept_id": "CH9-C129"
+    },
+    {
+      "id": "BIO9CH9-258",
+      "q": "In a Class 9 Biology assessment on integration, choose the scientifically correct answer: A potato eye develops into a new plant. Why is it called vegetative reproduction?",
+      "o": [
+        "A seed forms in a fruit",
+        "A bud on a modified stem forms a new individual",
+        "A pollen grain reaches a stigma",
+        "A sperm fuses with an egg"
+      ],
+      "a": 1,
+      "e": "The tuber bud grows without gamete fusion.",
+      "d": "Medium",
+      "topic": "Integration",
+      "slo": "Identify natural clone",
+      "concept_id": "CH9-C129"
+    },
+    {
+      "id": "BIO9CH9-259",
+      "q": "A mould colony appears far from the original colony after airflow. What most likely spread?",
+      "o": [
+        "Flowering seeds",
+        "Pollen tubes",
+        "Airborne spores",
+        "Grafted scions"
+      ],
+      "a": 2,
+      "e": "Fungal spores can be carried by wind.",
+      "d": "Easy",
+      "topic": "Integration",
+      "slo": "Interpret spore dispersal",
+      "concept_id": "CH9-C130"
+    },
+    {
+      "id": "BIO9CH9-260",
+      "q": "In a Class 9 Biology assessment on integration, choose the scientifically correct answer: A mould colony appears far from the original colony after airflow. What most likely spread?",
+      "o": [
+        "Flowering seeds",
+        "Pollen tubes",
+        "Airborne spores",
+        "Grafted scions"
+      ],
+      "a": 2,
+      "e": "Fungal spores can be carried by wind.",
+      "d": "Medium",
+      "topic": "Integration",
+      "slo": "Interpret spore dispersal",
+      "concept_id": "CH9-C130"
+    },
+    {
+      "id": "BIO9CH9-261",
+      "q": "Which statement correctly distinguishes pollen from a seed?",
+      "o": [
+        "Pollen is always a fruit",
+        "Pollen carries the male gametophyte; a seed contains a developing embryo",
+        "Pollen contains a mature root system",
+        "A seed is an anther"
+      ],
+      "a": 1,
+      "e": "Pollen participates in fertilization, while seeds develop after it.",
+      "d": "Easy",
+      "topic": "Integration",
+      "slo": "Compare pollen and seed",
+      "concept_id": "CH9-C131"
+    },
+    {
+      "id": "BIO9CH9-262",
+      "q": "In a Class 9 Biology assessment on integration, choose the scientifically correct answer: Which statement correctly distinguishes pollen from a seed?",
+      "o": [
+        "Pollen is always a fruit",
+        "Pollen carries the male gametophyte; a seed contains a developing embryo",
+        "Pollen contains a mature root system",
+        "A seed is an anther"
+      ],
+      "a": 1,
+      "e": "Pollen participates in fertilization, while seeds develop after it.",
+      "d": "Medium",
+      "topic": "Integration",
+      "slo": "Compare pollen and seed",
+      "concept_id": "CH9-C131"
+    },
+    {
+      "id": "BIO9CH9-263",
+      "q": "Why is seed dormancy useful for many plants?",
+      "o": [
+        "It replaces the seed coat",
+        "It eliminates reproduction",
+        "It delays germination until conditions favor survival",
+        "It prevents all future growth"
+      ],
+      "a": 2,
+      "e": "Dormancy can help seeds survive unfavorable seasons.",
+      "d": "Easy",
+      "topic": "Integration",
+      "slo": "Explain seed dormancy",
+      "concept_id": "CH9-C132"
+    },
+    {
+      "id": "BIO9CH9-264",
+      "q": "In a Class 9 Biology assessment on integration, choose the scientifically correct answer: Why is seed dormancy useful for many plants?",
+      "o": [
+        "It prevents all future growth",
+        "It replaces the seed coat",
+        "It eliminates reproduction",
+        "It delays germination until conditions favor survival"
+      ],
+      "a": 3,
+      "e": "Dormancy can help seeds survive unfavorable seasons.",
+      "d": "Medium",
+      "topic": "Integration",
+      "slo": "Explain seed dormancy",
+      "concept_id": "CH9-C132"
+    },
+    {
+      "id": "BIO9CH9-265",
+      "q": "When comparing germination of two seed types, which conditions should be kept the same to test seed type fairly?",
+      "o": [
+        "Only number of petals",
+        "Water, oxygen and temperature",
+        "Only seed colour",
+        "Only pollinator species"
+      ],
+      "a": 1,
+      "e": "Controlled environmental conditions allow a fair comparison.",
+      "d": "Easy",
+      "topic": "Integration",
+      "slo": "Identify experiment control",
+      "concept_id": "CH9-C133"
+    },
+    {
+      "id": "BIO9CH9-266",
+      "q": "In a Class 9 Biology assessment on integration, choose the scientifically correct answer: When comparing germination of two seed types, which conditions should be kept the same to test seed type fairly?",
+      "o": [
+        "Only seed colour",
+        "Only number of petals",
+        "Only pollinator species",
+        "Water, oxygen and temperature"
+      ],
+      "a": 3,
+      "e": "Controlled environmental conditions allow a fair comparison.",
+      "d": "Medium",
+      "topic": "Integration",
+      "slo": "Identify experiment control",
+      "concept_id": "CH9-C133"
+    },
+    {
+      "id": "BIO9CH9-267",
+      "q": "A student is revising asexual reproduction and encounters this problem: Which statement defines asexual reproduction?",
+      "o": [
+        "Production of offspring from one parent without gamete fusion",
+        "Formation of seeds only",
+        "Fusion of male and female gametes",
+        "Union of two pollen grains"
+      ],
+      "a": 0,
+      "e": "Asexual reproduction does not involve fusion of gametes.",
+      "d": "Medium",
+      "topic": "Asexual reproduction",
+      "slo": "Define asexual reproduction",
+      "concept_id": "CH9-C001"
+    },
+    {
+      "id": "BIO9CH9-268",
+      "q": "A student is revising asexual reproduction and encounters this problem: Why are offspring produced by ordinary asexual reproduction usually genetically similar to the parent?",
+      "o": [
+        "They always receive genes from two parents",
+        "They are formed by meiosis only",
+        "They arise through mitotic divisions without gamete fusion",
+        "They undergo cross-pollination"
+      ],
+      "a": 2,
+      "e": "Mitotic cell division ordinarily preserves the parental genetic information.",
+      "d": "Medium",
+      "topic": "Asexual reproduction",
+      "slo": "Explain genetic similarity",
+      "concept_id": "CH9-C002"
+    },
+    {
+      "id": "BIO9CH9-269",
+      "q": "A student is revising asexual reproduction and encounters this problem: Which asexual process divides one cell into two daughter cells?",
+      "o": [
+        "Pollination",
+        "Seed dispersal",
+        "Binary fission",
+        "Double fertilization"
+      ],
+      "a": 2,
+      "e": "Binary fission produces two cells from one parent cell.",
+      "d": "Medium",
+      "topic": "Asexual reproduction",
+      "slo": "Identify binary fission",
+      "concept_id": "CH9-C003"
+    },
+    {
+      "id": "BIO9CH9-270",
+      "q": "A student is revising binary fission and encounters this problem: Which organism commonly reproduces by binary fission?",
+      "o": [
+        "Bacterium",
+        "Flowering wheat through pollen",
+        "Mango tree through seeds",
+        "Pine through cones"
+      ],
+      "a": 0,
+      "e": "Many bacteria divide by binary fission.",
+      "d": "Medium",
+      "topic": "Binary fission",
+      "slo": "Identify example",
+      "concept_id": "CH9-C004"
+    },
+    {
+      "id": "BIO9CH9-271",
+      "q": "A student is revising binary fission and encounters this problem: Before a bacterial cell separates during binary fission, what happens to its genetic material?",
+      "o": [
+        "It enters a flower",
+        "It becomes a seed",
+        "It is replicated",
+        "It is permanently destroyed"
+      ],
+      "a": 2,
+      "e": "DNA replication precedes cell division.",
+      "d": "Medium",
+      "topic": "Binary fission",
+      "slo": "Sequence events",
+      "concept_id": "CH9-C005"
+    },
+    {
+      "id": "BIO9CH9-272",
+      "q": "A student is revising binary fission and encounters this problem: A single bacterium becomes two genetically similar cells. Which process occurred?",
+      "o": [
+        "Binary fission",
+        "Cross-pollination",
+        "Fertilization",
+        "Grafting"
+      ],
+      "a": 0,
+      "e": "Binary fission splits one cell into two.",
+      "d": "Medium",
+      "topic": "Binary fission",
+      "slo": "Apply process",
+      "concept_id": "CH9-C006"
+    },
+    {
+      "id": "BIO9CH9-273",
+      "q": "A student is revising budding and encounters this problem: What characterizes budding?",
+      "o": [
+        "A seed coat breaks",
+        "Two gametes fuse",
+        "A new individual develops as an outgrowth of the parent",
+        "A pollen grain lands on stigma"
+      ],
+      "a": 2,
+      "e": "A bud grows from the parent and can separate.",
+      "d": "Medium",
+      "topic": "Budding",
+      "slo": "Define budding",
+      "concept_id": "CH9-C007"
+    },
+    {
+      "id": "BIO9CH9-274",
+      "q": "A student is revising budding and encounters this problem: Which organism commonly reproduces by budding?",
+      "o": [
+        "Wheat through seeds",
+        "Pine through cones",
+        "Maize through pollen",
+        "Yeast"
+      ],
+      "a": 3,
+      "e": "Yeast cells can form daughter buds.",
+      "d": "Medium",
+      "topic": "Budding",
+      "slo": "Identify yeast",
+      "concept_id": "CH9-C008"
+    },
+    {
+      "id": "BIO9CH9-275",
+      "q": "A student is revising budding and encounters this problem: Which animal is a standard example of budding?",
+      "o": [
+        "Butterfly by pollen",
+        "Hydra",
+        "Frog by spore",
+        "Earthworm by seed"
+      ],
+      "a": 1,
+      "e": "Hydra can produce buds that grow into new individuals.",
+      "d": "Medium",
+      "topic": "Budding",
+      "slo": "Identify Hydra",
+      "concept_id": "CH9-C009"
+    },
+    {
+      "id": "BIO9CH9-276",
+      "q": "A student is revising budding and encounters this problem: What is a key difference between budding and binary fission?",
+      "o": [
+        "Binary fission produces seeds",
+        "Binary fission uses pollen",
+        "Budding always needs two parents",
+        "Budding initially produces an unequal-sized outgrowth"
+      ],
+      "a": 3,
+      "e": "A daughter bud is initially smaller than its parent.",
+      "d": "Medium",
+      "topic": "Budding",
+      "slo": "Distinguish division",
+      "concept_id": "CH9-C010"
+    },
+    {
+      "id": "BIO9CH9-277",
+      "q": "A student is revising spore formation and encounters this problem: In asexual spore formation, new individuals develop from:",
+      "o": [
+        "Fertilized ovules only",
+        "Reproductive spores",
+        "Pollen tubes only",
+        "Seeds with cotyledons only"
+      ],
+      "a": 1,
+      "e": "Spores can germinate to form new organisms under suitable conditions.",
+      "d": "Medium",
+      "topic": "Spore formation",
+      "slo": "Define spores",
+      "concept_id": "CH9-C011"
+    },
+    {
+      "id": "BIO9CH9-278",
+      "q": "A student is revising spore formation and encounters this problem: Which fungus is commonly illustrated as reproducing by spores?",
+      "o": [
+        "Mango",
+        "Rhizopus",
+        "Rose",
+        "Pea"
+      ],
+      "a": 1,
+      "e": "Rhizopus forms spores inside sporangia.",
+      "d": "Medium",
+      "topic": "Spore formation",
+      "slo": "Identify Rhizopus",
+      "concept_id": "CH9-C012"
+    },
+    {
+      "id": "BIO9CH9-279",
+      "q": "A student is revising spore formation and encounters this problem: What is a sporangium?",
+      "o": [
+        "A structure in which spores form",
+        "The female part of a flower",
+        "A plant seed coat",
+        "A root cap"
+      ],
+      "a": 0,
+      "e": "Sporangia are spore-producing structures.",
+      "d": "Medium",
+      "topic": "Spore formation",
+      "slo": "Define sporangium",
+      "concept_id": "CH9-C013"
+    },
+    {
+      "id": "BIO9CH9-280",
+      "q": "A student is revising spore formation and encounters this problem: Why can fungal spores spread widely?",
+      "o": [
+        "They can be dispersed by air",
+        "They cannot leave the parent",
+        "They must travel through phloem",
+        "They are always attached to roots"
+      ],
+      "a": 0,
+      "e": "Small spores may be carried by air currents.",
+      "d": "Medium",
+      "topic": "Spore formation",
+      "slo": "Explain dispersal",
+      "concept_id": "CH9-C014"
+    },
+    {
+      "id": "BIO9CH9-281",
+      "q": "A student is revising spore formation and encounters this problem: A fungal spore on moist bread starts growing. What is this called?",
+      "o": [
+        "Fertilization",
+        "Pollination",
+        "Translocation",
+        "Germination"
+      ],
+      "a": 3,
+      "e": "Spores germinate under favorable conditions.",
+      "d": "Medium",
+      "topic": "Spore formation",
+      "slo": "Identify favorable conditions",
+      "concept_id": "CH9-C015"
+    },
+    {
+      "id": "BIO9CH9-282",
+      "q": "A student is revising vegetative propagation and encounters this problem: Which plant structures can produce new individuals by vegetative propagation?",
+      "o": [
+        "Roots, stems or leaves",
+        "Only fertilized eggs",
+        "Only anthers",
+        "Only pollen grains"
+      ],
+      "a": 0,
+      "e": "Vegetative organs can generate new plants.",
+      "d": "Medium",
+      "topic": "Vegetative propagation",
+      "slo": "Define vegetative propagation",
+      "concept_id": "CH9-C016"
+    },
+    {
+      "id": "BIO9CH9-283",
+      "q": "A student is revising vegetative propagation and encounters this problem: Which is a natural vegetative propagation method?",
+      "o": [
+        "Hand pollination",
+        "Growth from a potato tuber",
+        "Seed formation",
+        "Cross-fertilization"
+      ],
+      "a": 1,
+      "e": "Potato tubers bear buds that grow into shoots.",
+      "d": "Medium",
+      "topic": "Vegetative propagation",
+      "slo": "Recognize natural method",
+      "concept_id": "CH9-C017"
+    },
+    {
+      "id": "BIO9CH9-284",
+      "q": "A student is revising vegetative propagation and encounters this problem: Which plant commonly reproduces vegetatively by bulbs?",
+      "o": [
+        "Bean through seeds",
+        "Sunflower through seeds",
+        "Onion",
+        "Maize through pollen"
+      ],
+      "a": 2,
+      "e": "Onion bulbs contain buds and stored nutrients.",
+      "d": "Medium",
+      "topic": "Vegetative propagation",
+      "slo": "Identify bulbs",
+      "concept_id": "CH9-C018"
+    },
+    {
+      "id": "BIO9CH9-285",
+      "q": "A student is revising vegetative propagation and encounters this problem: Which plant has underground stem tubers with eyes?",
+      "o": [
+        "Carrot",
+        "Rice",
+        "Potato",
+        "Wheat"
+      ],
+      "a": 2,
+      "e": "Potato eyes are buds on stem tubers.",
+      "d": "Medium",
+      "topic": "Vegetative propagation",
+      "slo": "Identify tubers",
+      "concept_id": "CH9-C019"
+    },
+    {
+      "id": "BIO9CH9-286",
+      "q": "A student is revising vegetative propagation and encounters this problem: Why is a potato tuber classified as a stem rather than a root?",
+      "o": [
+        "It contains water",
+        "It stores food",
+        "It bears buds called eyes",
+        "It grows underground"
+      ],
+      "a": 2,
+      "e": "The presence of buds identifies a stem structure.",
+      "d": "Medium",
+      "topic": "Vegetative propagation",
+      "slo": "Distinguish root and stem",
+      "concept_id": "CH9-C020"
+    },
+    {
+      "id": "BIO9CH9-287",
+      "q": "A student is revising vegetative propagation and encounters this problem: Which plant commonly propagates using a rhizome?",
+      "o": [
+        "Pea through seed",
+        "Ginger",
+        "Wheat through grain",
+        "Mango through fruit"
+      ],
+      "a": 1,
+      "e": "Ginger has an underground horizontal stem called a rhizome.",
+      "d": "Medium",
+      "topic": "Vegetative propagation",
+      "slo": "Identify rhizomes",
+      "concept_id": "CH9-C021"
+    },
+    {
+      "id": "BIO9CH9-288",
+      "q": "A student is revising vegetative propagation and encounters this problem: A rhizome is best described as:",
+      "o": [
+        "A seed coat",
+        "A horizontal underground stem with nodes and buds",
+        "A pollen-producing sac",
+        "A leaf pore"
+      ],
+      "a": 1,
+      "e": "Rhizomes are modified stems that can generate shoots and roots.",
+      "d": "Medium",
+      "topic": "Vegetative propagation",
+      "slo": "Define rhizome",
+      "concept_id": "CH9-C022"
+    },
+    {
+      "id": "BIO9CH9-289",
+      "q": "A student is revising vegetative propagation and encounters this problem: Which plant is commonly propagated through runners?",
+      "o": [
+        "Pine through cone",
+        "Maize through grain",
+        "Mango through seed",
+        "Strawberry"
+      ],
+      "a": 3,
+      "e": "Strawberry runners form daughter plantlets at nodes.",
+      "d": "Medium",
+      "topic": "Vegetative propagation",
+      "slo": "Identify runners",
+      "concept_id": "CH9-C023"
+    },
+    {
+      "id": "BIO9CH9-290",
+      "q": "A student is revising vegetative propagation and encounters this problem: What is a runner in vegetative propagation?",
+      "o": [
+        "A male gamete",
+        "A seed embryo",
+        "A pollen grain",
+        "A horizontal stem spreading along the ground"
+      ],
+      "a": 3,
+      "e": "Runners form new plants at suitable nodes.",
+      "d": "Medium",
+      "topic": "Vegetative propagation",
+      "slo": "Define runner",
+      "concept_id": "CH9-C024"
+    },
+    {
+      "id": "BIO9CH9-291",
+      "q": "A student is revising vegetative propagation and encounters this problem: A new shoot arising from an underground part near a parent plant is often a:",
+      "o": [
+        "Stigma",
+        "Sucker",
+        "Cotyledon",
+        "Pollen tube"
+      ],
+      "a": 1,
+      "e": "Suckers develop into new shoots from the parent plant's underground parts.",
+      "d": "Medium",
+      "topic": "Vegetative propagation",
+      "slo": "Identify suckers",
+      "concept_id": "CH9-C025"
+    },
+    {
+      "id": "BIO9CH9-292",
+      "q": "A student is revising vegetative propagation and encounters this problem: Which plant produces plantlets from leaf margins?",
+      "o": [
+        "Bryophyllum",
+        "Pine",
+        "Wheat",
+        "Maize"
+      ],
+      "a": 0,
+      "e": "Bryophyllum leaf margins can form new plantlets.",
+      "d": "Medium",
+      "topic": "Vegetative propagation",
+      "slo": "Identify Bryophyllum",
+      "concept_id": "CH9-C026"
+    },
+    {
+      "id": "BIO9CH9-293",
+      "q": "A student is revising vegetative propagation and encounters this problem: Small plantlets develop at notches along a leaf edge. Which reproduction is illustrated?",
+      "o": [
+        "Seed dispersal",
+        "Vegetative propagation",
+        "Double fertilization",
+        "Cross-pollination"
+      ],
+      "a": 1,
+      "e": "Leaf-borne plantlets are a form of asexual reproduction.",
+      "d": "Medium",
+      "topic": "Vegetative propagation",
+      "slo": "Apply leaf propagation",
+      "concept_id": "CH9-C027"
+    },
+    {
+      "id": "BIO9CH9-294",
+      "q": "A student is revising vegetative propagation and encounters this problem: Why can runners help a plant colonize nearby ground?",
+      "o": [
+        "They turn into pollen",
+        "They require two parents",
+        "They produce daughter plants without seeds",
+        "They eliminate all roots"
+      ],
+      "a": 2,
+      "e": "Runners generate new plantlets at their nodes.",
+      "d": "Medium",
+      "topic": "Vegetative propagation",
+      "slo": "Explain rapid spread",
+      "concept_id": "CH9-C028"
+    },
+    {
+      "id": "BIO9CH9-295",
+      "q": "A student is revising artificial propagation and encounters this problem: A gardener plants a piece of rose stem and it grows roots. Which method was used?",
+      "o": [
+        "Pollination",
+        "Binary fission",
+        "Spore formation",
+        "Stem cutting"
+      ],
+      "a": 3,
+      "e": "Stem cuttings can develop roots and shoots.",
+      "d": "Medium",
+      "topic": "Artificial propagation",
+      "slo": "Identify stem cutting",
+      "concept_id": "CH9-C029"
+    },
+    {
+      "id": "BIO9CH9-296",
+      "q": "A student is revising artificial propagation and encounters this problem: What must a successful stem cutting usually develop to become an independent plant?",
+      "o": [
+        "Pollen sacs only",
+        "A fertilized egg before rooting",
+        "Roots and shoots",
+        "Anthers only"
+      ],
+      "a": 2,
+      "e": "A cutting must establish functioning plant organs.",
+      "d": "Medium",
+      "topic": "Artificial propagation",
+      "slo": "Describe cutting",
+      "concept_id": "CH9-C030"
+    },
+    {
+      "id": "BIO9CH9-297",
+      "q": "A student is revising artificial propagation and encounters this problem: Which plant is commonly propagated using stem cuttings?",
+      "o": [
+        "Maize through pollen",
+        "Rose",
+        "Pea through seed",
+        "Wheat through grain"
+      ],
+      "a": 1,
+      "e": "Rose cuttings are used in horticulture.",
+      "d": "Medium",
+      "topic": "Artificial propagation",
+      "slo": "Identify cutting example",
+      "concept_id": "CH9-C031"
+    },
+    {
+      "id": "BIO9CH9-298",
+      "q": "A student is revising artificial propagation and encounters this problem: What is grafting?",
+      "o": [
+        "Fusing two pollen grains",
+        "Making a seed coat",
+        "Splitting a bacterium",
+        "Joining a shoot of one plant to the rooted part of another compatible plant"
+      ],
+      "a": 3,
+      "e": "Grafting unites a scion with a rootstock.",
+      "d": "Medium",
+      "topic": "Artificial propagation",
+      "slo": "Identify grafting",
+      "concept_id": "CH9-C032"
+    },
+    {
+      "id": "BIO9CH9-299",
+      "q": "A student is revising artificial propagation and encounters this problem: In grafting, what is the scion?",
+      "o": [
+        "The seed coat",
+        "The shoot portion attached to the stock",
+        "The pollen grain",
+        "The root hair"
+      ],
+      "a": 1,
+      "e": "The scion is the desired upper shoot.",
+      "d": "Medium",
+      "topic": "Artificial propagation",
+      "slo": "Define scion",
+      "concept_id": "CH9-C033"
+    },
+    {
+      "id": "BIO9CH9-300",
+      "q": "A student is revising artificial propagation and encounters this problem: In grafting, the root-bearing part is called the:",
+      "o": [
+        "Stock or rootstock",
+        "Stigma",
+        "Cotyledon",
+        "Scion"
+      ],
+      "a": 0,
+      "e": "The rootstock provides the roots and lower stem.",
+      "d": "Medium",
+      "topic": "Artificial propagation",
+      "slo": "Define stock",
+      "concept_id": "CH9-C034"
+    }
+  ]
+}

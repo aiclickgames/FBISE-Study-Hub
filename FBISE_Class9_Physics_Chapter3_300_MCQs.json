@@ -1,0 +1,4504 @@
+{
+  "questions": [
+    {
+      "id": "PHY9CH3-001",
+      "q": "What does dynamics study?",
+      "o": [
+        "Light only",
+        "Motion together with its causes",
+        "Heat only",
+        "Motion without causes"
+      ],
+      "a": 1,
+      "e": "Dynamics relates forces to motion.",
+      "d": "Easy",
+      "topic": "Introduction",
+      "slo": "P-09-B-17"
+    },
+    {
+      "id": "PHY9CH3-002",
+      "q": "Force is a ___ quantity.",
+      "o": [
+        "base",
+        "vector",
+        "scalar",
+        "dimensionless"
+      ],
+      "a": 1,
+      "e": "Force has magnitude and direction.",
+      "d": "Easy",
+      "topic": "Force",
+      "slo": "P-09-B-23"
+    },
+    {
+      "id": "PHY9CH3-003",
+      "q": "What is the SI unit of force?",
+      "o": [
+        "newton (N)",
+        "joule (J)",
+        "kilogram (kg)",
+        "watt (W)"
+      ],
+      "a": 0,
+      "e": "Force is measured in newtons.",
+      "d": "Easy",
+      "topic": "Force",
+      "slo": "P-09-B-23"
+    },
+    {
+      "id": "PHY9CH3-004",
+      "q": "Which is a contact force?",
+      "o": [
+        "electrostatic force",
+        "normal force",
+        "gravity",
+        "magnetic force"
+      ],
+      "a": 1,
+      "e": "Normal force requires surface contact.",
+      "d": "Easy",
+      "topic": "Contact forces",
+      "slo": "P-09-B-23"
+    },
+    {
+      "id": "PHY9CH3-005",
+      "q": "Which is a non-contact force?",
+      "o": [
+        "gravitational force",
+        "normal force",
+        "tension",
+        "friction"
+      ],
+      "a": 0,
+      "e": "Gravity acts without direct contact.",
+      "d": "Easy",
+      "topic": "Non-contact forces",
+      "slo": "P-09-B-23"
+    },
+    {
+      "id": "PHY9CH3-006",
+      "q": "In which direction does a horizontal surface exert its normal force?",
+      "o": [
+        "Always east",
+        "Parallel to the surface",
+        "Perpendicular to the surface",
+        "Always downward"
+      ],
+      "a": 2,
+      "e": "Normal means perpendicular to the surface.",
+      "d": "Easy",
+      "topic": "Contact forces",
+      "slo": "P-09-B-24"
+    },
+    {
+      "id": "PHY9CH3-007",
+      "q": "Which force acts through a taut rope?",
+      "o": [
+        "electrostatic force",
+        "tension",
+        "gravity",
+        "magnetism"
+      ],
+      "a": 1,
+      "e": "A taut rope transmits tension.",
+      "d": "Easy",
+      "topic": "Contact forces",
+      "slo": "P-09-B-24"
+    },
+    {
+      "id": "PHY9CH3-008",
+      "q": "Which force opposes sliding between surfaces?",
+      "o": [
+        "weight",
+        "thrust",
+        "electrostatic force",
+        "friction"
+      ],
+      "a": 3,
+      "e": "Friction resists relative sliding.",
+      "d": "Easy",
+      "topic": "Contact forces",
+      "slo": "P-09-B-24"
+    },
+    {
+      "id": "PHY9CH3-009",
+      "q": "What force pushes a rocket forward?",
+      "o": [
+        "normal force",
+        "static friction",
+        "thrust",
+        "weight"
+      ],
+      "a": 2,
+      "e": "Thrust propels the rocket.",
+      "d": "Easy",
+      "topic": "Contact forces",
+      "slo": "P-09-B-24"
+    },
+    {
+      "id": "PHY9CH3-010",
+      "q": "A stretched rubber band exerts which type of force?",
+      "o": [
+        "electrostatic force",
+        "gravitational force",
+        "elastic force",
+        "magnetic force"
+      ],
+      "a": 2,
+      "e": "Elastic forces resist deformation.",
+      "d": "Easy",
+      "topic": "Contact forces",
+      "slo": "P-09-B-24"
+    },
+    {
+      "id": "PHY9CH3-011",
+      "q": "Which interaction can attract or repel electric charges?",
+      "o": [
+        "electrostatic force",
+        "normal force",
+        "tension",
+        "gravity"
+      ],
+      "a": 0,
+      "e": "Electric charges exert electrostatic forces.",
+      "d": "Easy",
+      "topic": "Non-contact forces",
+      "slo": "P-09-B-24"
+    },
+    {
+      "id": "PHY9CH3-012",
+      "q": "Which interaction can repel like magnetic poles?",
+      "o": [
+        "tension",
+        "weight",
+        "magnetic force",
+        "friction"
+      ],
+      "a": 2,
+      "e": "Like magnetic poles repel.",
+      "d": "Easy",
+      "topic": "Non-contact forces",
+      "slo": "P-09-B-24"
+    },
+    {
+      "id": "PHY9CH3-013",
+      "q": "Which force attracts the Moon toward Earth?",
+      "o": [
+        "gravitational force",
+        "friction",
+        "normal force",
+        "tension"
+      ],
+      "a": 0,
+      "e": "Masses attract gravitationally.",
+      "d": "Easy",
+      "topic": "Non-contact forces",
+      "slo": "P-09-B-24"
+    },
+    {
+      "id": "PHY9CH3-014",
+      "q": "Which is one of the four fundamental interactions?",
+      "o": [
+        "friction",
+        "tension",
+        "strong nuclear interaction",
+        "normal force"
+      ],
+      "a": 2,
+      "e": "The strong interaction is fundamental.",
+      "d": "Easy",
+      "topic": "Fundamental forces",
+      "slo": "P-09-B-25"
+    },
+    {
+      "id": "PHY9CH3-015",
+      "q": "Which fundamental interaction governs beta decay?",
+      "o": [
+        "normal force",
+        "tension",
+        "friction",
+        "weak nuclear interaction"
+      ],
+      "a": 3,
+      "e": "The weak interaction is involved in beta decay.",
+      "d": "Easy",
+      "topic": "Fundamental forces",
+      "slo": "P-09-B-25"
+    },
+    {
+      "id": "PHY9CH3-016",
+      "q": "Which fundamental interaction binds protons and neutrons in nuclei?",
+      "o": [
+        "gravity",
+        "friction",
+        "tension",
+        "strong nuclear interaction"
+      ],
+      "a": 3,
+      "e": "The strong nuclear interaction binds nucleons.",
+      "d": "Easy",
+      "topic": "Fundamental forces",
+      "slo": "P-09-B-25"
+    },
+    {
+      "id": "PHY9CH3-017",
+      "q": "Which fundamental interaction acts between electrically charged particles?",
+      "o": [
+        "tension only",
+        "normal force only",
+        "friction only",
+        "electromagnetic interaction"
+      ],
+      "a": 3,
+      "e": "Electric and magnetic effects are electromagnetic.",
+      "d": "Easy",
+      "topic": "Fundamental forces",
+      "slo": "P-09-B-25"
+    },
+    {
+      "id": "PHY9CH3-018",
+      "q": "How many fundamental interactions are commonly recognized in physics?",
+      "o": [
+        "5",
+        "3",
+        "2",
+        "4"
+      ],
+      "a": 3,
+      "e": "Gravity, electromagnetic, strong and weak interactions are recognized.",
+      "d": "Easy",
+      "topic": "Fundamental forces",
+      "slo": "P-09-B-25"
+    },
+    {
+      "id": "PHY9CH3-019",
+      "q": "What does a free-body diagram show?",
+      "o": [
+        "Only its path",
+        "Only its speed",
+        "Forces acting on one selected object",
+        "Only its mass"
+      ],
+      "a": 2,
+      "e": "A free-body diagram isolates an object and its external forces.",
+      "d": "Easy",
+      "topic": "Force diagrams",
+      "slo": "P-09-B-26"
+    },
+    {
+      "id": "PHY9CH3-020",
+      "q": "In a free-body diagram, an arrow represents what?",
+      "o": [
+        "A force vector",
+        "Elapsed time",
+        "A unit of mass",
+        "Temperature"
+      ],
+      "a": 0,
+      "e": "Arrows show force directions and relative magnitudes.",
+      "d": "Easy",
+      "topic": "Force diagrams",
+      "slo": "P-09-B-26"
+    },
+    {
+      "id": "PHY9CH3-021",
+      "q": "What is the resultant force?",
+      "o": [
+        "Vector sum of all forces",
+        "The largest force only",
+        "The friction only",
+        "The weight only"
+      ],
+      "a": 0,
+      "e": "Net force is the vector sum of forces.",
+      "d": "Easy",
+      "topic": "Resultant force",
+      "slo": "P-09-B-29"
+    },
+    {
+      "id": "PHY9CH3-022",
+      "q": "Two equal opposite forces on an object produce what resultant?",
+      "o": [
+        "An infinite force",
+        "Zero net force",
+        "Double either force",
+        "One force upward"
+      ],
+      "a": 1,
+      "e": "Equal opposite forces cancel.",
+      "d": "Easy",
+      "topic": "Resultant force",
+      "slo": "P-09-B-29"
+    },
+    {
+      "id": "PHY9CH3-023",
+      "q": "What happens when two forces act in the same direction?",
+      "o": [
+        "Their magnitudes divide",
+        "Their magnitudes multiply",
+        "They cancel",
+        "Their magnitudes add"
+      ],
+      "a": 3,
+      "e": "Like-directed collinear forces add.",
+      "d": "Easy",
+      "topic": "Resultant force",
+      "slo": "P-09-B-29"
+    },
+    {
+      "id": "PHY9CH3-024",
+      "q": "What happens when unequal forces act in opposite directions?",
+      "o": [
+        "Net force is always zero",
+        "Net force equals their difference",
+        "Net force equals their product",
+        "Net force equals their sum"
+      ],
+      "a": 1,
+      "e": "Opposite collinear forces subtract.",
+      "d": "Easy",
+      "topic": "Resultant force",
+      "slo": "P-09-B-29"
+    },
+    {
+      "id": "PHY9CH3-025",
+      "q": "Newton’s first law is also called the law of ___.",
+      "o": [
+        "pressure",
+        "density",
+        "inertia",
+        "energy"
+      ],
+      "a": 2,
+      "e": "The first law describes inertia.",
+      "d": "Easy",
+      "topic": "First law",
+      "slo": "P-09-B-27"
+    },
+    {
+      "id": "PHY9CH3-026",
+      "q": "What is inertia?",
+      "o": [
+        "Ability to create energy",
+        "Resistance to a change in velocity",
+        "Rate of doing work",
+        "Force due to gravity"
+      ],
+      "a": 1,
+      "e": "Inertia resists changes in motion.",
+      "d": "Easy",
+      "topic": "Inertia",
+      "slo": "P-09-B-18"
+    },
+    {
+      "id": "PHY9CH3-027",
+      "q": "Which quantity measures inertia?",
+      "o": [
+        "mass",
+        "speed",
+        "weight",
+        "temperature"
+      ],
+      "a": 0,
+      "e": "More mass means more inertia.",
+      "d": "Easy",
+      "topic": "Inertia",
+      "slo": "P-09-B-18"
+    },
+    {
+      "id": "PHY9CH3-028",
+      "q": "If net external force is zero, a moving object continues with ___.",
+      "o": [
+        "increasing speed",
+        "circular motion",
+        "decreasing speed",
+        "constant velocity in a straight line"
+      ],
+      "a": 3,
+      "e": "Newton’s first law predicts constant velocity.",
+      "d": "Easy",
+      "topic": "First law",
+      "slo": "P-09-B-27"
+    },
+    {
+      "id": "PHY9CH3-029",
+      "q": "When a bus brakes suddenly, passengers tend to move ___.",
+      "o": [
+        "forward",
+        "sideways only",
+        "backward",
+        "upward"
+      ],
+      "a": 0,
+      "e": "Inertia tends to preserve their forward motion.",
+      "d": "Easy",
+      "topic": "Inertia",
+      "slo": "P-09-B-18"
+    },
+    {
+      "id": "PHY9CH3-030",
+      "q": "When a stationary bus starts suddenly, passengers tend to lean ___.",
+      "o": [
+        "backward",
+        "forward",
+        "left always",
+        "upward"
+      ],
+      "a": 0,
+      "e": "Their bodies tend to remain at rest.",
+      "d": "Easy",
+      "topic": "Inertia",
+      "slo": "P-09-B-18"
+    },
+    {
+      "id": "PHY9CH3-031",
+      "q": "What changes when a nonzero net force acts on a body?",
+      "o": [
+        "velocity",
+        "temperature necessarily",
+        "mass necessarily",
+        "volume necessarily"
+      ],
+      "a": 0,
+      "e": "A net force produces acceleration, changing velocity.",
+      "d": "Easy",
+      "topic": "Second law",
+      "slo": "P-09-B-28"
+    },
+    {
+      "id": "PHY9CH3-032",
+      "q": "Which expression states Newton’s second law for constant mass?",
+      "o": [
+        "F = a/m",
+        "F = m/a",
+        "F = ma",
+        "F = mv"
+      ],
+      "a": 2,
+      "e": "Net force equals mass times acceleration.",
+      "d": "Easy",
+      "topic": "Second law",
+      "slo": "P-09-B-30"
+    },
+    {
+      "id": "PHY9CH3-033",
+      "q": "At fixed mass, doubling net force makes acceleration ___.",
+      "o": [
+        "four times",
+        "double",
+        "half",
+        "unchanged"
+      ],
+      "a": 1,
+      "e": "Acceleration is proportional to net force.",
+      "d": "Easy",
+      "topic": "Second law",
+      "slo": "P-09-B-30"
+    },
+    {
+      "id": "PHY9CH3-034",
+      "q": "At fixed net force, doubling mass makes acceleration ___.",
+      "o": [
+        "four times",
+        "double",
+        "unchanged",
+        "half"
+      ],
+      "a": 3,
+      "e": "Acceleration is inversely proportional to mass.",
+      "d": "Easy",
+      "topic": "Second law",
+      "slo": "P-09-B-30"
+    },
+    {
+      "id": "PHY9CH3-035",
+      "q": "The acceleration produced by net force points ___.",
+      "o": [
+        "always opposite velocity",
+        "in the direction of net force",
+        "always north",
+        "always upward"
+      ],
+      "a": 1,
+      "e": "Acceleration has the direction of the net force.",
+      "d": "Easy",
+      "topic": "Second law",
+      "slo": "P-09-B-30"
+    },
+    {
+      "id": "PHY9CH3-036",
+      "q": "One newton is equal to ___.",
+      "o": [
+        "1 kg m/s²",
+        "1 N/kg",
+        "1 kg m/s",
+        "1 kg/s"
+      ],
+      "a": 0,
+      "e": "From F=ma, 1 N=1 kg m/s².",
+      "d": "Easy",
+      "topic": "Second law",
+      "slo": "P-09-B-30"
+    },
+    {
+      "id": "PHY9CH3-037",
+      "q": "Which statement describes Newton’s third law?",
+      "o": [
+        "Forces occur in equal and opposite pairs on different bodies",
+        "Forces always cancel on one body",
+        "Mass equals weight",
+        "Acceleration is always zero"
+      ],
+      "a": 0,
+      "e": "Action-reaction forces act on different objects.",
+      "d": "Easy",
+      "topic": "Third law",
+      "slo": "P-09-B-31"
+    },
+    {
+      "id": "PHY9CH3-038",
+      "q": "Why do action and reaction forces not cancel on one object?",
+      "o": [
+        "They differ in magnitude",
+        "One is not a force",
+        "They act at different times",
+        "They act on different objects"
+      ],
+      "a": 3,
+      "e": "Third-law partners act on separate bodies.",
+      "d": "Easy",
+      "topic": "Third law",
+      "slo": "P-09-B-32"
+    },
+    {
+      "id": "PHY9CH3-039",
+      "q": "A swimmer pushes water backward. What pushes the swimmer forward?",
+      "o": [
+        "The swimmer’s mass",
+        "Water pushing on the swimmer",
+        "No force",
+        "Gravity disappearing"
+      ],
+      "a": 1,
+      "e": "Water exerts the reaction force.",
+      "d": "Easy",
+      "topic": "Third law",
+      "slo": "P-09-B-32"
+    },
+    {
+      "id": "PHY9CH3-040",
+      "q": "A gun recoils when fired mainly because of ___.",
+      "o": [
+        "loss of mass of Earth",
+        "momentum conservation",
+        "increased gravity",
+        "absence of friction"
+      ],
+      "a": 1,
+      "e": "Bullet and gun acquire opposite momenta.",
+      "d": "Easy",
+      "topic": "Momentum conservation",
+      "slo": "P-09-B-41"
+    },
+    {
+      "id": "PHY9CH3-041",
+      "q": "Which is an action-reaction pair?",
+      "o": [
+        "Weight and normal force on one book",
+        "Two opposing forces on one rope",
+        "Gravity and friction on one box",
+        "Foot pushes ball; ball pushes foot"
+      ],
+      "a": 3,
+      "e": "Third-law forces act on two different bodies.",
+      "d": "Easy",
+      "topic": "Third law",
+      "slo": "P-09-B-32"
+    },
+    {
+      "id": "PHY9CH3-042",
+      "q": "Why can a rocket accelerate in space?",
+      "o": [
+        "Gravity is absent everywhere",
+        "It pushes exhaust gases backward",
+        "There is no inertia",
+        "It pushes on air only"
+      ],
+      "a": 1,
+      "e": "Exhaust gases exert an opposite force on the rocket.",
+      "d": "Easy",
+      "topic": "Third law",
+      "slo": "P-09-B-32"
+    },
+    {
+      "id": "PHY9CH3-043",
+      "q": "Newtonian mechanics needs modification at speeds near ___.",
+      "o": [
+        "walking speed",
+        "sound speed only",
+        "cycling speed",
+        "the speed of light"
+      ],
+      "a": 3,
+      "e": "Relativistic effects matter near light speed.",
+      "d": "Easy",
+      "topic": "Limitations",
+      "slo": "P-09-B-33"
+    },
+    {
+      "id": "PHY9CH3-044",
+      "q": "Newton’s laws are most directly applicable to ___.",
+      "o": [
+        "ordinary macroscopic motion at low speeds",
+        "objects near light speed without corrections",
+        "all subatomic phenomena exactly",
+        "situations without reference frames"
+      ],
+      "a": 0,
+      "e": "Newtonian mechanics approximates everyday motion well.",
+      "d": "Easy",
+      "topic": "Limitations",
+      "slo": "P-09-B-33"
+    },
+    {
+      "id": "PHY9CH3-045",
+      "q": "What is mass?",
+      "o": [
+        "Rate of velocity change",
+        "Force of gravity",
+        "Work per second",
+        "Measure of quantity of matter and inertia"
+      ],
+      "a": 3,
+      "e": "Mass measures matter and inertia.",
+      "d": "Easy",
+      "topic": "Mass and weight",
+      "slo": "P-09-B-17"
+    },
+    {
+      "id": "PHY9CH3-046",
+      "q": "What is weight?",
+      "o": [
+        "Quantity of matter",
+        "Speed of falling",
+        "Volume of matter",
+        "Gravitational force on an object"
+      ],
+      "a": 3,
+      "e": "Weight is a force, W=mg.",
+      "d": "Easy",
+      "topic": "Mass and weight",
+      "slo": "P-09-B-19"
+    },
+    {
+      "id": "PHY9CH3-047",
+      "q": "Which quantity changes when a person goes from Earth to the Moon?",
+      "o": [
+        "mass",
+        "number of atoms",
+        "weight",
+        "inertia"
+      ],
+      "a": 2,
+      "e": "Weight changes with gravitational field strength.",
+      "d": "Easy",
+      "topic": "Mass and weight",
+      "slo": "P-09-B-19"
+    },
+    {
+      "id": "PHY9CH3-048",
+      "q": "What is the SI unit of mass?",
+      "o": [
+        "pascal (Pa)",
+        "kilogram (kg)",
+        "joule (J)",
+        "newton (N)"
+      ],
+      "a": 1,
+      "e": "Mass is measured in kilograms.",
+      "d": "Easy",
+      "topic": "Mass and weight",
+      "slo": "P-09-B-17"
+    },
+    {
+      "id": "PHY9CH3-049",
+      "q": "What is the SI unit of weight?",
+      "o": [
+        "second (s)",
+        "metre (m)",
+        "kilogram (kg)",
+        "newton (N)"
+      ],
+      "a": 3,
+      "e": "Weight is a gravitational force.",
+      "d": "Easy",
+      "topic": "Mass and weight",
+      "slo": "P-09-B-19"
+    },
+    {
+      "id": "PHY9CH3-050",
+      "q": "Which formula gives weight near Earth?",
+      "o": [
+        "W = mv",
+        "W = m/g",
+        "W = g/m",
+        "W = mg"
+      ],
+      "a": 3,
+      "e": "Weight is mass multiplied by gravitational acceleration.",
+      "d": "Easy",
+      "topic": "Mass and weight",
+      "slo": "P-09-B-19"
+    },
+    {
+      "id": "PHY9CH3-051",
+      "q": "What is gravitational field strength?",
+      "o": [
+        "Mass per unit force",
+        "Work per unit distance",
+        "Force per unit mass",
+        "Speed per unit time"
+      ],
+      "a": 2,
+      "e": "g=W/m.",
+      "d": "Easy",
+      "topic": "Gravitational field",
+      "slo": "P-09-B-20"
+    },
+    {
+      "id": "PHY9CH3-052",
+      "q": "What is the SI unit of gravitational field strength?",
+      "o": [
+        "kg m/s",
+        "N m",
+        "kg/N",
+        "N/kg"
+      ],
+      "a": 3,
+      "e": "Gravitational field strength is force divided by mass.",
+      "d": "Easy",
+      "topic": "Gravitational field",
+      "slo": "P-09-B-20"
+    },
+    {
+      "id": "PHY9CH3-053",
+      "q": "Near Earth, g is approximately ___.",
+      "o": [
+        "980 N/kg",
+        "9.8 N/kg",
+        "0.98 N/kg",
+        "98 N/kg"
+      ],
+      "a": 1,
+      "e": "Near Earth’s surface g is about 9.8 N/kg.",
+      "d": "Easy",
+      "topic": "Gravitational field",
+      "slo": "P-09-B-20"
+    },
+    {
+      "id": "PHY9CH3-054",
+      "q": "Which instrument directly measures force or weight?",
+      "o": [
+        "measuring cylinder",
+        "metre rule",
+        "spring balance",
+        "stopwatch"
+      ],
+      "a": 2,
+      "e": "A spring balance measures force through spring extension.",
+      "d": "Easy",
+      "topic": "Measuring forces",
+      "slo": "P-09-B-22"
+    },
+    {
+      "id": "PHY9CH3-055",
+      "q": "An electronic balance is commonly used to measure ___.",
+      "o": [
+        "mass",
+        "speed",
+        "acceleration",
+        "time"
+      ],
+      "a": 0,
+      "e": "An electronic balance reports mass.",
+      "d": "Easy",
+      "topic": "Measuring forces",
+      "slo": "P-09-B-21"
+    },
+    {
+      "id": "PHY9CH3-056",
+      "q": "What happens to a spring balance reading if the gravitational field becomes weaker?",
+      "o": [
+        "It increases",
+        "It becomes mass in kilograms",
+        "It decreases",
+        "It stays exactly the same"
+      ],
+      "a": 2,
+      "e": "The measured weight is proportional to g.",
+      "d": "Easy",
+      "topic": "Measuring forces",
+      "slo": "P-09-B-22"
+    },
+    {
+      "id": "PHY9CH3-057",
+      "q": "What is linear momentum?",
+      "o": [
+        "Force times distance",
+        "Mass times acceleration",
+        "Product of mass and velocity",
+        "Mass divided by velocity"
+      ],
+      "a": 2,
+      "e": "p=mv.",
+      "d": "Easy",
+      "topic": "Momentum",
+      "slo": "P-09-B-39"
+    },
+    {
+      "id": "PHY9CH3-058",
+      "q": "Which expression gives linear momentum?",
+      "o": [
+        "p = Fv",
+        "p = m/v",
+        "p = ma",
+        "p = mv"
+      ],
+      "a": 3,
+      "e": "Momentum equals mass times velocity.",
+      "d": "Easy",
+      "topic": "Momentum",
+      "slo": "P-09-B-39"
+    },
+    {
+      "id": "PHY9CH3-059",
+      "q": "What is the SI unit of momentum?",
+      "o": [
+        "N/m",
+        "J/s",
+        "kg m/s",
+        "kg m/s²"
+      ],
+      "a": 2,
+      "e": "Momentum has units mass times velocity.",
+      "d": "Easy",
+      "topic": "Momentum",
+      "slo": "P-09-B-39"
+    },
+    {
+      "id": "PHY9CH3-060",
+      "q": "Is momentum a scalar or vector?",
+      "o": [
+        "vector",
+        "dimensionless",
+        "scalar",
+        "neither measurable nor directional"
+      ],
+      "a": 0,
+      "e": "Momentum points along velocity.",
+      "d": "Easy",
+      "topic": "Momentum",
+      "slo": "P-09-B-39"
+    },
+    {
+      "id": "PHY9CH3-061",
+      "q": "If mass doubles at constant velocity, momentum ___.",
+      "o": [
+        "becomes zero",
+        "stays unchanged",
+        "doubles",
+        "halves"
+      ],
+      "a": 2,
+      "e": "p=mv.",
+      "d": "Easy",
+      "topic": "Momentum",
+      "slo": "P-09-B-39"
+    },
+    {
+      "id": "PHY9CH3-062",
+      "q": "If velocity reverses, the momentum vector ___.",
+      "o": [
+        "becomes twice the mass",
+        "loses units",
+        "must become zero",
+        "reverses direction"
+      ],
+      "a": 3,
+      "e": "Momentum points in the velocity direction.",
+      "d": "Easy",
+      "topic": "Momentum",
+      "slo": "P-09-B-39"
+    },
+    {
+      "id": "PHY9CH3-063",
+      "q": "What is impulse?",
+      "o": [
+        "Force multiplied by distance",
+        "Force divided by time",
+        "Force multiplied by time interval",
+        "Mass multiplied by time"
+      ],
+      "a": 2,
+      "e": "Impulse J=FΔt for constant force.",
+      "d": "Easy",
+      "topic": "Impulse",
+      "slo": "P-09-B-40"
+    },
+    {
+      "id": "PHY9CH3-064",
+      "q": "What is the SI unit of impulse?",
+      "o": [
+        "N m",
+        "N/s",
+        "N s",
+        "kg/s"
+      ],
+      "a": 2,
+      "e": "Impulse equals force times time.",
+      "d": "Easy",
+      "topic": "Impulse",
+      "slo": "P-09-B-40"
+    },
+    {
+      "id": "PHY9CH3-065",
+      "q": "Impulse is equal to ___.",
+      "o": [
+        "change in energy always",
+        "distance travelled",
+        "change in mass",
+        "change in momentum"
+      ],
+      "a": 3,
+      "e": "Impulse-momentum theorem: J=Δp.",
+      "d": "Easy",
+      "topic": "Impulse",
+      "slo": "P-09-B-40"
+    },
+    {
+      "id": "PHY9CH3-066",
+      "q": "Why does moving the hands backward while catching a ball reduce force?",
+      "o": [
+        "It increases stopping time",
+        "It increases ball mass",
+        "It eliminates momentum",
+        "It increases gravitational field"
+      ],
+      "a": 0,
+      "e": "For a fixed momentum change, longer time reduces average force.",
+      "d": "Easy",
+      "topic": "Impulse",
+      "slo": "P-09-B-40"
+    },
+    {
+      "id": "PHY9CH3-067",
+      "q": "Why are airbags useful during collisions?",
+      "o": [
+        "They remove inertia",
+        "They increase car speed",
+        "They increase stopping time and reduce average force",
+        "They eliminate momentum before collision"
+      ],
+      "a": 2,
+      "e": "A longer stopping time reduces force for a given impulse.",
+      "d": "Easy",
+      "topic": "Impulse",
+      "slo": "P-09-B-40"
+    },
+    {
+      "id": "PHY9CH3-068",
+      "q": "Net force equals the rate of change of ___.",
+      "o": [
+        "temperature",
+        "distance",
+        "momentum",
+        "mass always"
+      ],
+      "a": 2,
+      "e": "F=Δp/Δt.",
+      "d": "Easy",
+      "topic": "Momentum and force",
+      "slo": "P-09-B-42"
+    },
+    {
+      "id": "PHY9CH3-069",
+      "q": "Momentum is conserved in a system when ___.",
+      "o": [
+        "objects have equal masses",
+        "all objects are stationary",
+        "friction is always large",
+        "net external force is zero"
+      ],
+      "a": 3,
+      "e": "An isolated system has constant total momentum.",
+      "d": "Easy",
+      "topic": "Momentum conservation",
+      "slo": "P-09-B-41"
+    },
+    {
+      "id": "PHY9CH3-070",
+      "q": "In a collision with negligible external force, total momentum ___.",
+      "o": [
+        "always doubles",
+        "always becomes zero",
+        "always decreases",
+        "remains constant"
+      ],
+      "a": 3,
+      "e": "Total momentum before equals total momentum after.",
+      "d": "Easy",
+      "topic": "Momentum conservation",
+      "slo": "P-09-B-41"
+    },
+    {
+      "id": "PHY9CH3-071",
+      "q": "A stationary rifle fires a bullet forward. The rifle moves ___.",
+      "o": [
+        "not at all",
+        "forward faster",
+        "backward",
+        "upward always"
+      ],
+      "a": 2,
+      "e": "Opposite momenta keep total momentum unchanged.",
+      "d": "Easy",
+      "topic": "Momentum conservation",
+      "slo": "P-09-B-41"
+    },
+    {
+      "id": "PHY9CH3-072",
+      "q": "Which object has greater momentum at the same speed?",
+      "o": [
+        "The one with smaller mass",
+        "Both always have zero momentum",
+        "The one with smaller volume",
+        "The one with greater mass"
+      ],
+      "a": 3,
+      "e": "p=mv.",
+      "d": "Easy",
+      "topic": "Momentum",
+      "slo": "P-09-B-39"
+    },
+    {
+      "id": "PHY9CH3-073",
+      "q": "For a fixed momentum change, a shorter collision time gives ___.",
+      "o": [
+        "zero force",
+        "greater average force",
+        "unchanged force in every case",
+        "smaller average force"
+      ],
+      "a": 1,
+      "e": "Favg=Δp/Δt.",
+      "d": "Easy",
+      "topic": "Impulse",
+      "slo": "P-09-B-40"
+    },
+    {
+      "id": "PHY9CH3-074",
+      "q": "An object at rest on a horizontal table has which two main vertical forces?",
+      "o": [
+        "Weight upward and normal force downward",
+        "Friction upward and tension downward",
+        "Weight downward and normal force upward",
+        "Thrust upward and magnetic force downward"
+      ],
+      "a": 2,
+      "e": "The support force balances weight.",
+      "d": "Easy",
+      "topic": "Force diagrams",
+      "slo": "P-09-B-26"
+    },
+    {
+      "id": "PHY9CH3-075",
+      "q": "When net force is zero, acceleration is ___.",
+      "o": [
+        "zero",
+        "always 9.8 m/s²",
+        "always increasing",
+        "undefined"
+      ],
+      "a": 0,
+      "e": "From F=ma for nonzero mass.",
+      "d": "Easy",
+      "topic": "First law",
+      "slo": "P-09-B-27"
+    },
+    {
+      "id": "PHY9CH3-076",
+      "q": "What is the direction of friction on a sliding block?",
+      "o": [
+        "Opposite relative sliding",
+        "Always upward",
+        "Always perpendicular to contact",
+        "Always same as velocity"
+      ],
+      "a": 0,
+      "e": "Kinetic friction opposes relative motion.",
+      "d": "Easy",
+      "topic": "Contact forces",
+      "slo": "P-09-B-24"
+    },
+    {
+      "id": "PHY9CH3-077",
+      "q": "Which statement about mass on the Moon is correct?",
+      "o": [
+        "It is the same as on Earth",
+        "It becomes zero",
+        "It is measured in newtons",
+        "It becomes six times larger"
+      ],
+      "a": 0,
+      "e": "Changing location does not change mass.",
+      "d": "Easy",
+      "topic": "Mass and weight",
+      "slo": "P-09-B-17"
+    },
+    {
+      "id": "PHY9CH3-078",
+      "q": "Which force is directed toward Earth’s centre?",
+      "o": [
+        "weight",
+        "thrust always",
+        "tension always",
+        "normal force"
+      ],
+      "a": 0,
+      "e": "Weight is gravitational attraction toward Earth.",
+      "d": "Easy",
+      "topic": "Mass and weight",
+      "slo": "P-09-B-19"
+    },
+    {
+      "id": "PHY9CH3-079",
+      "q": "A person walking pushes the ground backward. The ground pushes the person ___.",
+      "o": [
+        "forward",
+        "upward only",
+        "backward",
+        "not at all"
+      ],
+      "a": 0,
+      "e": "Static friction from the ground provides forward force.",
+      "d": "Easy",
+      "topic": "Third law",
+      "slo": "P-09-B-32"
+    },
+    {
+      "id": "PHY9CH3-080",
+      "q": "In an isolated two-object collision, individual momenta may change but ___.",
+      "o": [
+        "each mass doubles",
+        "each momentum must stay constant",
+        "each speed must stay constant",
+        "total momentum stays constant"
+      ],
+      "a": 3,
+      "e": "Internal forces exchange momentum without changing total.",
+      "d": "Easy",
+      "topic": "Momentum conservation",
+      "slo": "P-09-B-41"
+    },
+    {
+      "id": "PHY9CH3-081",
+      "q": "A free-body diagram should include ___.",
+      "o": [
+        "all objects in the universe",
+        "external forces acting on the chosen body",
+        "only its acceleration arrow",
+        "forces the body exerts on other bodies"
+      ],
+      "a": 1,
+      "e": "Only forces on the isolated body belong in its FBD.",
+      "d": "Easy",
+      "topic": "Force diagrams",
+      "slo": "P-09-B-26"
+    },
+    {
+      "id": "PHY9CH3-082",
+      "q": "A force meter is calibrated in ___.",
+      "o": [
+        "kilograms only",
+        "metres",
+        "seconds",
+        "newtons"
+      ],
+      "a": 3,
+      "e": "Force meters measure forces in N.",
+      "d": "Easy",
+      "topic": "Measuring forces",
+      "slo": "P-09-B-22"
+    },
+    {
+      "id": "PHY9CH3-083",
+      "q": "Which fundamental force is the weakest at the particle scale?",
+      "o": [
+        "gravitational interaction",
+        "electromagnetic interaction",
+        "weak interaction",
+        "strong interaction"
+      ],
+      "a": 0,
+      "e": "Gravity is far weaker than the other fundamental interactions at particle scales.",
+      "d": "Easy",
+      "topic": "Fundamental forces",
+      "slo": "P-09-B-25"
+    },
+    {
+      "id": "PHY9CH3-084",
+      "q": "What is the relationship between N/kg and m/s²?",
+      "o": [
+        "N/kg equals kg m/s",
+        "They measure unrelated quantities",
+        "They are equivalent units for g",
+        "N/kg is a unit of momentum"
+      ],
+      "a": 2,
+      "e": "1 N/kg=1 m/s².",
+      "d": "Easy",
+      "topic": "Gravitational field",
+      "slo": "P-09-B-20"
+    },
+    {
+      "id": "PHY9CH3-085",
+      "q": "If two forces balance, does it mean the object must be at rest?",
+      "o": [
+        "Yes, unless it has mass",
+        "No, it must accelerate",
+        "No, it may move at constant velocity",
+        "Yes, always"
+      ],
+      "a": 2,
+      "e": "Zero net force allows rest or uniform straight-line motion.",
+      "d": "Easy",
+      "topic": "First law",
+      "slo": "P-09-B-27"
+    },
+    {
+      "id": "PHY9CH3-086",
+      "q": "What net force accelerates a 40 kg object at 3 m/s²?",
+      "o": [
+        "240 N",
+        "60 N",
+        "120 N",
+        "122 N"
+      ],
+      "a": 2,
+      "e": "F=ma=40×3=120 N.",
+      "d": "Hard",
+      "topic": "Second law",
+      "slo": "P-09-B-30"
+    },
+    {
+      "id": "PHY9CH3-087",
+      "q": "What net force accelerates a 40 kg object at 8 m/s²?",
+      "o": [
+        "322 N",
+        "640 N",
+        "160 N",
+        "320 N"
+      ],
+      "a": 3,
+      "e": "F=ma=40×8=320 N.",
+      "d": "Medium",
+      "topic": "Second law",
+      "slo": "P-09-B-30"
+    },
+    {
+      "id": "PHY9CH3-088",
+      "q": "What net force accelerates a 10 kg object at 1 m/s²?",
+      "o": [
+        "12 N",
+        "5 N",
+        "20 N",
+        "10 N"
+      ],
+      "a": 3,
+      "e": "F=ma=10×1=10 N.",
+      "d": "Medium",
+      "topic": "Second law",
+      "slo": "P-09-B-30"
+    },
+    {
+      "id": "PHY9CH3-089",
+      "q": "What net force accelerates a 5 kg object at 5 m/s²?",
+      "o": [
+        "25 N",
+        "27 N",
+        "12.5 N",
+        "50 N"
+      ],
+      "a": 0,
+      "e": "F=ma=5×5=25 N.",
+      "d": "Hard",
+      "topic": "Second law",
+      "slo": "P-09-B-30"
+    },
+    {
+      "id": "PHY9CH3-090",
+      "q": "What net force accelerates a 6 kg object at 10 m/s²?",
+      "o": [
+        "60 N",
+        "30 N",
+        "62 N",
+        "120 N"
+      ],
+      "a": 0,
+      "e": "F=ma=6×10=60 N.",
+      "d": "Medium",
+      "topic": "Second law",
+      "slo": "P-09-B-30"
+    },
+    {
+      "id": "PHY9CH3-091",
+      "q": "What net force accelerates a 2 kg object at 5 m/s²?",
+      "o": [
+        "10 N",
+        "5 N",
+        "12 N",
+        "20 N"
+      ],
+      "a": 0,
+      "e": "F=ma=2×5=10 N.",
+      "d": "Medium",
+      "topic": "Second law",
+      "slo": "P-09-B-30"
+    },
+    {
+      "id": "PHY9CH3-092",
+      "q": "What net force accelerates a 50 kg object at 1 m/s²?",
+      "o": [
+        "52 N",
+        "50 N",
+        "100 N",
+        "25 N"
+      ],
+      "a": 1,
+      "e": "F=ma=50×1=50 N.",
+      "d": "Hard",
+      "topic": "Second law",
+      "slo": "P-09-B-30"
+    },
+    {
+      "id": "PHY9CH3-093",
+      "q": "What net force accelerates a 2 kg object at 4 m/s²?",
+      "o": [
+        "8 N",
+        "16 N",
+        "10 N",
+        "4 N"
+      ],
+      "a": 0,
+      "e": "F=ma=2×4=8 N.",
+      "d": "Medium",
+      "topic": "Second law",
+      "slo": "P-09-B-30"
+    },
+    {
+      "id": "PHY9CH3-094",
+      "q": "What net force accelerates a 50 kg object at 6 m/s²?",
+      "o": [
+        "600 N",
+        "300 N",
+        "302 N",
+        "150 N"
+      ],
+      "a": 1,
+      "e": "F=ma=50×6=300 N.",
+      "d": "Medium",
+      "topic": "Second law",
+      "slo": "P-09-B-30"
+    },
+    {
+      "id": "PHY9CH3-095",
+      "q": "What net force accelerates a 5 kg object at 1 m/s²?",
+      "o": [
+        "2.5 N",
+        "5 N",
+        "10 N",
+        "7 N"
+      ],
+      "a": 1,
+      "e": "F=ma=5×1=5 N.",
+      "d": "Hard",
+      "topic": "Second law",
+      "slo": "P-09-B-30"
+    },
+    {
+      "id": "PHY9CH3-096",
+      "q": "What net force accelerates a 15 kg object at 5 m/s²?",
+      "o": [
+        "75 N",
+        "150 N",
+        "77 N",
+        "37.5 N"
+      ],
+      "a": 0,
+      "e": "F=ma=15×5=75 N.",
+      "d": "Medium",
+      "topic": "Second law",
+      "slo": "P-09-B-30"
+    },
+    {
+      "id": "PHY9CH3-097",
+      "q": "What net force accelerates a 8 kg object at 1 m/s²?",
+      "o": [
+        "16 N",
+        "10 N",
+        "8 N",
+        "4 N"
+      ],
+      "a": 2,
+      "e": "F=ma=8×1=8 N.",
+      "d": "Medium",
+      "topic": "Second law",
+      "slo": "P-09-B-30"
+    },
+    {
+      "id": "PHY9CH3-098",
+      "q": "What net force accelerates a 40 kg object at 4 m/s²?",
+      "o": [
+        "162 N",
+        "320 N",
+        "80 N",
+        "160 N"
+      ],
+      "a": 3,
+      "e": "F=ma=40×4=160 N.",
+      "d": "Hard",
+      "topic": "Second law",
+      "slo": "P-09-B-30"
+    },
+    {
+      "id": "PHY9CH3-099",
+      "q": "What net force accelerates a 2 kg object at 8 m/s²?",
+      "o": [
+        "18 N",
+        "16 N",
+        "32 N",
+        "8 N"
+      ],
+      "a": 1,
+      "e": "F=ma=2×8=16 N.",
+      "d": "Medium",
+      "topic": "Second law",
+      "slo": "P-09-B-30"
+    },
+    {
+      "id": "PHY9CH3-100",
+      "q": "What net force accelerates a 10 kg object at 6 m/s²?",
+      "o": [
+        "62 N",
+        "60 N",
+        "120 N",
+        "30 N"
+      ],
+      "a": 1,
+      "e": "F=ma=10×6=60 N.",
+      "d": "Medium",
+      "topic": "Second law",
+      "slo": "P-09-B-30"
+    },
+    {
+      "id": "PHY9CH3-101",
+      "q": "What net force accelerates a 2 kg object at 1 m/s²?",
+      "o": [
+        "4 N",
+        "2 N",
+        "1 N",
+        "7 N"
+      ],
+      "a": 1,
+      "e": "F=ma=2×1=2 N.",
+      "d": "Hard",
+      "topic": "Second law",
+      "slo": "P-09-B-30"
+    },
+    {
+      "id": "PHY9CH3-102",
+      "q": "What net force accelerates a 6 kg object at 2 m/s²?",
+      "o": [
+        "12 N",
+        "14 N",
+        "24 N",
+        "6 N"
+      ],
+      "a": 0,
+      "e": "F=ma=6×2=12 N.",
+      "d": "Medium",
+      "topic": "Second law",
+      "slo": "P-09-B-30"
+    },
+    {
+      "id": "PHY9CH3-103",
+      "q": "What net force accelerates a 30 kg object at 3 m/s²?",
+      "o": [
+        "45 N",
+        "180 N",
+        "90 N",
+        "92 N"
+      ],
+      "a": 2,
+      "e": "F=ma=30×3=90 N.",
+      "d": "Medium",
+      "topic": "Second law",
+      "slo": "P-09-B-30"
+    },
+    {
+      "id": "PHY9CH3-104",
+      "q": "What net force accelerates a 4 kg object at 3 m/s²?",
+      "o": [
+        "12 N",
+        "6 N",
+        "24 N",
+        "14 N"
+      ],
+      "a": 0,
+      "e": "F=ma=4×3=12 N.",
+      "d": "Hard",
+      "topic": "Second law",
+      "slo": "P-09-B-30"
+    },
+    {
+      "id": "PHY9CH3-105",
+      "q": "What net force accelerates a 6 kg object at 5 m/s²?",
+      "o": [
+        "32 N",
+        "30 N",
+        "60 N",
+        "15 N"
+      ],
+      "a": 1,
+      "e": "F=ma=6×5=30 N.",
+      "d": "Medium",
+      "topic": "Second law",
+      "slo": "P-09-B-30"
+    },
+    {
+      "id": "PHY9CH3-106",
+      "q": "A net force of 12 N acts on a mass of 6 kg. Find its acceleration.",
+      "o": [
+        "7 m/s²",
+        "1 m/s²",
+        "4 m/s²",
+        "2 m/s²"
+      ],
+      "a": 3,
+      "e": "a=F/m=12/6=2 m/s².",
+      "d": "Hard",
+      "topic": "Second law",
+      "slo": "P-09-B-30"
+    },
+    {
+      "id": "PHY9CH3-107",
+      "q": "A net force of 32 N acts on a mass of 4 kg. Find its acceleration.",
+      "o": [
+        "4 m/s²",
+        "8 m/s²",
+        "10 m/s²",
+        "16 m/s²"
+      ],
+      "a": 1,
+      "e": "a=F/m=32/4=8 m/s².",
+      "d": "Medium",
+      "topic": "Second law",
+      "slo": "P-09-B-30"
+    },
+    {
+      "id": "PHY9CH3-108",
+      "q": "A net force of 20 N acts on a mass of 10 kg. Find its acceleration.",
+      "o": [
+        "2 m/s²",
+        "7 m/s²",
+        "1 m/s²",
+        "4 m/s²"
+      ],
+      "a": 0,
+      "e": "a=F/m=20/10=2 m/s².",
+      "d": "Medium",
+      "topic": "Second law",
+      "slo": "P-09-B-30"
+    },
+    {
+      "id": "PHY9CH3-109",
+      "q": "A net force of 40 N acts on a mass of 20 kg. Find its acceleration.",
+      "o": [
+        "4 m/s²",
+        "2 m/s²",
+        "1 m/s²",
+        "7 m/s²"
+      ],
+      "a": 1,
+      "e": "a=F/m=40/20=2 m/s².",
+      "d": "Hard",
+      "topic": "Second law",
+      "slo": "P-09-B-30"
+    },
+    {
+      "id": "PHY9CH3-110",
+      "q": "A net force of 96 N acts on a mass of 12 kg. Find its acceleration.",
+      "o": [
+        "16 m/s²",
+        "4 m/s²",
+        "10 m/s²",
+        "8 m/s²"
+      ],
+      "a": 3,
+      "e": "a=F/m=96/12=8 m/s².",
+      "d": "Medium",
+      "topic": "Second law",
+      "slo": "P-09-B-30"
+    },
+    {
+      "id": "PHY9CH3-111",
+      "q": "A net force of 12 N acts on a mass of 4 kg. Find its acceleration.",
+      "o": [
+        "3 m/s²",
+        "6 m/s²",
+        "5 m/s²",
+        "1.5 m/s²"
+      ],
+      "a": 0,
+      "e": "a=F/m=12/4=3 m/s².",
+      "d": "Medium",
+      "topic": "Second law",
+      "slo": "P-09-B-30"
+    },
+    {
+      "id": "PHY9CH3-112",
+      "q": "A net force of 16 N acts on a mass of 8 kg. Find its acceleration.",
+      "o": [
+        "4 m/s²",
+        "7 m/s²",
+        "2 m/s²",
+        "1 m/s²"
+      ],
+      "a": 2,
+      "e": "a=F/m=16/8=2 m/s².",
+      "d": "Hard",
+      "topic": "Second law",
+      "slo": "P-09-B-30"
+    },
+    {
+      "id": "PHY9CH3-113",
+      "q": "A net force of 15 N acts on a mass of 3 kg. Find its acceleration.",
+      "o": [
+        "10 m/s²",
+        "7 m/s²",
+        "2.5 m/s²",
+        "5 m/s²"
+      ],
+      "a": 3,
+      "e": "a=F/m=15/3=5 m/s².",
+      "d": "Medium",
+      "topic": "Second law",
+      "slo": "P-09-B-30"
+    },
+    {
+      "id": "PHY9CH3-114",
+      "q": "A net force of 20 N acts on a mass of 4 kg. Find its acceleration.",
+      "o": [
+        "10 m/s²",
+        "5 m/s²",
+        "2.5 m/s²",
+        "7 m/s²"
+      ],
+      "a": 1,
+      "e": "a=F/m=20/4=5 m/s².",
+      "d": "Medium",
+      "topic": "Second law",
+      "slo": "P-09-B-30"
+    },
+    {
+      "id": "PHY9CH3-115",
+      "q": "A net force of 60 N acts on a mass of 12 kg. Find its acceleration.",
+      "o": [
+        "7 m/s²",
+        "5 m/s²",
+        "2.5 m/s²",
+        "10 m/s²"
+      ],
+      "a": 1,
+      "e": "a=F/m=60/12=5 m/s².",
+      "d": "Hard",
+      "topic": "Second law",
+      "slo": "P-09-B-30"
+    },
+    {
+      "id": "PHY9CH3-116",
+      "q": "A net force of 100 N acts on a mass of 20 kg. Find its acceleration.",
+      "o": [
+        "2.5 m/s²",
+        "5 m/s²",
+        "10 m/s²",
+        "7 m/s²"
+      ],
+      "a": 1,
+      "e": "a=F/m=100/20=5 m/s².",
+      "d": "Medium",
+      "topic": "Second law",
+      "slo": "P-09-B-30"
+    },
+    {
+      "id": "PHY9CH3-117",
+      "q": "A net force of 45 N acts on a mass of 15 kg. Find its acceleration.",
+      "o": [
+        "1.5 m/s²",
+        "5 m/s²",
+        "6 m/s²",
+        "3 m/s²"
+      ],
+      "a": 3,
+      "e": "a=F/m=45/15=3 m/s².",
+      "d": "Medium",
+      "topic": "Second law",
+      "slo": "P-09-B-30"
+    },
+    {
+      "id": "PHY9CH3-118",
+      "q": "A net force of 10 N acts on a mass of 5 kg. Find its acceleration.",
+      "o": [
+        "2 m/s²",
+        "1 m/s²",
+        "7 m/s²",
+        "4 m/s²"
+      ],
+      "a": 0,
+      "e": "a=F/m=10/5=2 m/s².",
+      "d": "Hard",
+      "topic": "Second law",
+      "slo": "P-09-B-30"
+    },
+    {
+      "id": "PHY9CH3-119",
+      "q": "A net force of 64 N acts on a mass of 8 kg. Find its acceleration.",
+      "o": [
+        "16 m/s²",
+        "8 m/s²",
+        "10 m/s²",
+        "4 m/s²"
+      ],
+      "a": 1,
+      "e": "a=F/m=64/8=8 m/s².",
+      "d": "Medium",
+      "topic": "Second law",
+      "slo": "P-09-B-30"
+    },
+    {
+      "id": "PHY9CH3-120",
+      "q": "A net force of 120 N acts on a mass of 15 kg. Find its acceleration.",
+      "o": [
+        "10 m/s²",
+        "4 m/s²",
+        "8 m/s²",
+        "16 m/s²"
+      ],
+      "a": 2,
+      "e": "a=F/m=120/15=8 m/s².",
+      "d": "Medium",
+      "topic": "Second law",
+      "slo": "P-09-B-30"
+    },
+    {
+      "id": "PHY9CH3-121",
+      "q": "A net force of 5 N acts on a mass of 5 kg. Find its acceleration.",
+      "o": [
+        "2 m/s²",
+        "1 m/s²",
+        "3 m/s²",
+        "0.5 m/s²"
+      ],
+      "a": 1,
+      "e": "a=F/m=5/5=1 m/s².",
+      "d": "Hard",
+      "topic": "Second law",
+      "slo": "P-09-B-30"
+    },
+    {
+      "id": "PHY9CH3-122",
+      "q": "A net force of 4 N acts on a mass of 4 kg. Find its acceleration.",
+      "o": [
+        "2 m/s²",
+        "0.5 m/s²",
+        "3 m/s²",
+        "1 m/s²"
+      ],
+      "a": 3,
+      "e": "a=F/m=4/4=1 m/s².",
+      "d": "Medium",
+      "topic": "Second law",
+      "slo": "P-09-B-30"
+    },
+    {
+      "id": "PHY9CH3-123",
+      "q": "A net force of 60 N acts on a mass of 15 kg. Find its acceleration.",
+      "o": [
+        "2 m/s²",
+        "4 m/s²",
+        "8 m/s²",
+        "6 m/s²"
+      ],
+      "a": 1,
+      "e": "a=F/m=60/15=4 m/s².",
+      "d": "Medium",
+      "topic": "Second law",
+      "slo": "P-09-B-30"
+    },
+    {
+      "id": "PHY9CH3-124",
+      "q": "A net force of 60 N acts on a mass of 20 kg. Find its acceleration.",
+      "o": [
+        "3 m/s²",
+        "5 m/s²",
+        "6 m/s²",
+        "1.5 m/s²"
+      ],
+      "a": 0,
+      "e": "a=F/m=60/20=3 m/s².",
+      "d": "Hard",
+      "topic": "Second law",
+      "slo": "P-09-B-30"
+    },
+    {
+      "id": "PHY9CH3-125",
+      "q": "A net force of 75 N acts on a mass of 15 kg. Find its acceleration.",
+      "o": [
+        "10 m/s²",
+        "2.5 m/s²",
+        "7 m/s²",
+        "5 m/s²"
+      ],
+      "a": 3,
+      "e": "a=F/m=75/15=5 m/s².",
+      "d": "Medium",
+      "topic": "Second law",
+      "slo": "P-09-B-30"
+    },
+    {
+      "id": "PHY9CH3-126",
+      "q": "A body accelerates at 3 m/s² under a net force of 24 N. Find its mass.",
+      "o": [
+        "16 kg",
+        "10 kg",
+        "8 kg",
+        "4 kg"
+      ],
+      "a": 2,
+      "e": "m=F/a=24/3=8 kg.",
+      "d": "Hard",
+      "topic": "Second law",
+      "slo": "P-09-B-30"
+    },
+    {
+      "id": "PHY9CH3-127",
+      "q": "A body accelerates at 2 m/s² under a net force of 6 N. Find its mass.",
+      "o": [
+        "5 kg",
+        "3 kg",
+        "6 kg",
+        "1.5 kg"
+      ],
+      "a": 1,
+      "e": "m=F/a=6/2=3 kg.",
+      "d": "Medium",
+      "topic": "Second law",
+      "slo": "P-09-B-30"
+    },
+    {
+      "id": "PHY9CH3-128",
+      "q": "A body accelerates at 8 m/s² under a net force of 120 N. Find its mass.",
+      "o": [
+        "30 kg",
+        "17 kg",
+        "7.5 kg",
+        "15 kg"
+      ],
+      "a": 3,
+      "e": "m=F/a=120/8=15 kg.",
+      "d": "Medium",
+      "topic": "Second law",
+      "slo": "P-09-B-30"
+    },
+    {
+      "id": "PHY9CH3-129",
+      "q": "A body accelerates at 5 m/s² under a net force of 10 N. Find its mass.",
+      "o": [
+        "2 kg",
+        "1 kg",
+        "4 kg",
+        "7 kg"
+      ],
+      "a": 0,
+      "e": "m=F/a=10/5=2 kg.",
+      "d": "Hard",
+      "topic": "Second law",
+      "slo": "P-09-B-30"
+    },
+    {
+      "id": "PHY9CH3-130",
+      "q": "A body accelerates at 5 m/s² under a net force of 40 N. Find its mass.",
+      "o": [
+        "16 kg",
+        "10 kg",
+        "8 kg",
+        "4 kg"
+      ],
+      "a": 2,
+      "e": "m=F/a=40/5=8 kg.",
+      "d": "Medium",
+      "topic": "Second law",
+      "slo": "P-09-B-30"
+    },
+    {
+      "id": "PHY9CH3-131",
+      "q": "A body accelerates at 4 m/s² under a net force of 60 N. Find its mass.",
+      "o": [
+        "30 kg",
+        "7.5 kg",
+        "15 kg",
+        "17 kg"
+      ],
+      "a": 2,
+      "e": "m=F/a=60/4=15 kg.",
+      "d": "Medium",
+      "topic": "Second law",
+      "slo": "P-09-B-30"
+    },
+    {
+      "id": "PHY9CH3-132",
+      "q": "A body accelerates at 8 m/s² under a net force of 16 N. Find its mass.",
+      "o": [
+        "2 kg",
+        "4 kg",
+        "7 kg",
+        "1 kg"
+      ],
+      "a": 0,
+      "e": "m=F/a=16/8=2 kg.",
+      "d": "Hard",
+      "topic": "Second law",
+      "slo": "P-09-B-30"
+    },
+    {
+      "id": "PHY9CH3-133",
+      "q": "A body accelerates at 3 m/s² under a net force of 45 N. Find its mass.",
+      "o": [
+        "15 kg",
+        "7.5 kg",
+        "30 kg",
+        "17 kg"
+      ],
+      "a": 0,
+      "e": "m=F/a=45/3=15 kg.",
+      "d": "Medium",
+      "topic": "Second law",
+      "slo": "P-09-B-30"
+    },
+    {
+      "id": "PHY9CH3-134",
+      "q": "A body accelerates at 4 m/s² under a net force of 40 N. Find its mass.",
+      "o": [
+        "20 kg",
+        "10 kg",
+        "5 kg",
+        "12 kg"
+      ],
+      "a": 1,
+      "e": "m=F/a=40/4=10 kg.",
+      "d": "Medium",
+      "topic": "Second law",
+      "slo": "P-09-B-30"
+    },
+    {
+      "id": "PHY9CH3-135",
+      "q": "A body accelerates at 5 m/s² under a net force of 25 N. Find its mass.",
+      "o": [
+        "2.5 kg",
+        "5 kg",
+        "10 kg",
+        "7 kg"
+      ],
+      "a": 1,
+      "e": "m=F/a=25/5=5 kg.",
+      "d": "Hard",
+      "topic": "Second law",
+      "slo": "P-09-B-30"
+    },
+    {
+      "id": "PHY9CH3-136",
+      "q": "A body accelerates at 2 m/s² under a net force of 16 N. Find its mass.",
+      "o": [
+        "8 kg",
+        "10 kg",
+        "4 kg",
+        "16 kg"
+      ],
+      "a": 0,
+      "e": "m=F/a=16/2=8 kg.",
+      "d": "Medium",
+      "topic": "Second law",
+      "slo": "P-09-B-30"
+    },
+    {
+      "id": "PHY9CH3-137",
+      "q": "A body accelerates at 6 m/s² under a net force of 48 N. Find its mass.",
+      "o": [
+        "10 kg",
+        "16 kg",
+        "8 kg",
+        "4 kg"
+      ],
+      "a": 2,
+      "e": "m=F/a=48/6=8 kg.",
+      "d": "Medium",
+      "topic": "Second law",
+      "slo": "P-09-B-30"
+    },
+    {
+      "id": "PHY9CH3-138",
+      "q": "Find the weight of a 5 kg object where g=1.6 N/kg.",
+      "o": [
+        "16 N",
+        "10 N",
+        "8 N",
+        "4 N"
+      ],
+      "a": 2,
+      "e": "W=mg=5×1.6=8 N.",
+      "d": "Hard",
+      "topic": "Mass and weight",
+      "slo": "P-09-B-19"
+    },
+    {
+      "id": "PHY9CH3-139",
+      "q": "Find the weight of a 30 kg object where g=1.6 N/kg.",
+      "o": [
+        "24 N",
+        "50 N",
+        "96 N",
+        "48 N"
+      ],
+      "a": 3,
+      "e": "W=mg=30×1.6=48 N.",
+      "d": "Medium",
+      "topic": "Mass and weight",
+      "slo": "P-09-B-19"
+    },
+    {
+      "id": "PHY9CH3-140",
+      "q": "Find the weight of a 4 kg object where g=9.8 N/kg.",
+      "o": [
+        "41.2 N",
+        "39.2 N",
+        "19.6 N",
+        "78.4 N"
+      ],
+      "a": 1,
+      "e": "W=mg=4×9.8=39.2 N.",
+      "d": "Medium",
+      "topic": "Mass and weight",
+      "slo": "P-09-B-19"
+    },
+    {
+      "id": "PHY9CH3-141",
+      "q": "Find the weight of a 40 kg object where g=1.6 N/kg.",
+      "o": [
+        "128 N",
+        "64 N",
+        "66 N",
+        "32 N"
+      ],
+      "a": 1,
+      "e": "W=mg=40×1.6=64 N.",
+      "d": "Hard",
+      "topic": "Mass and weight",
+      "slo": "P-09-B-19"
+    },
+    {
+      "id": "PHY9CH3-142",
+      "q": "Find the weight of a 30 kg object where g=10 N/kg.",
+      "o": [
+        "302 N",
+        "600 N",
+        "150 N",
+        "300 N"
+      ],
+      "a": 3,
+      "e": "W=mg=30×10=300 N.",
+      "d": "Medium",
+      "topic": "Mass and weight",
+      "slo": "P-09-B-19"
+    },
+    {
+      "id": "PHY9CH3-143",
+      "q": "Find the weight of a 15 kg object where g=1.6 N/kg.",
+      "o": [
+        "48 N",
+        "24 N",
+        "12 N",
+        "26 N"
+      ],
+      "a": 1,
+      "e": "W=mg=15×1.6=24 N.",
+      "d": "Medium",
+      "topic": "Mass and weight",
+      "slo": "P-09-B-19"
+    },
+    {
+      "id": "PHY9CH3-144",
+      "q": "Find the weight of a 15 kg object where g=3.7 N/kg.",
+      "o": [
+        "111 N",
+        "57.5 N",
+        "55.5 N",
+        "27.75 N"
+      ],
+      "a": 2,
+      "e": "W=mg=15×3.7=55.5 N.",
+      "d": "Hard",
+      "topic": "Mass and weight",
+      "slo": "P-09-B-19"
+    },
+    {
+      "id": "PHY9CH3-145",
+      "q": "Find the weight of a 10 kg object where g=10 N/kg.",
+      "o": [
+        "102 N",
+        "200 N",
+        "100 N",
+        "50 N"
+      ],
+      "a": 2,
+      "e": "W=mg=10×10=100 N.",
+      "d": "Medium",
+      "topic": "Mass and weight",
+      "slo": "P-09-B-19"
+    },
+    {
+      "id": "PHY9CH3-146",
+      "q": "Find the weight of a 4 kg object where g=10 N/kg.",
+      "o": [
+        "40 N",
+        "80 N",
+        "20 N",
+        "42 N"
+      ],
+      "a": 0,
+      "e": "W=mg=4×10=40 N.",
+      "d": "Medium",
+      "topic": "Mass and weight",
+      "slo": "P-09-B-19"
+    },
+    {
+      "id": "PHY9CH3-147",
+      "q": "Find the weight of a 1 kg object where g=9.8 N/kg.",
+      "o": [
+        "9.8 N",
+        "4.9 N",
+        "19.6 N",
+        "11.8 N"
+      ],
+      "a": 0,
+      "e": "W=mg=1×9.8=9.8 N.",
+      "d": "Hard",
+      "topic": "Mass and weight",
+      "slo": "P-09-B-19"
+    },
+    {
+      "id": "PHY9CH3-148",
+      "q": "Find the weight of a 50 kg object where g=10 N/kg.",
+      "o": [
+        "500 N",
+        "1000 N",
+        "502 N",
+        "250 N"
+      ],
+      "a": 0,
+      "e": "W=mg=50×10=500 N.",
+      "d": "Medium",
+      "topic": "Mass and weight",
+      "slo": "P-09-B-19"
+    },
+    {
+      "id": "PHY9CH3-149",
+      "q": "Find the weight of a 25 kg object where g=10 N/kg.",
+      "o": [
+        "125 N",
+        "250 N",
+        "500 N",
+        "252 N"
+      ],
+      "a": 1,
+      "e": "W=mg=25×10=250 N.",
+      "d": "Medium",
+      "topic": "Mass and weight",
+      "slo": "P-09-B-19"
+    },
+    {
+      "id": "PHY9CH3-150",
+      "q": "Find the weight of a 1 kg object where g=3.7 N/kg.",
+      "o": [
+        "1.85 N",
+        "5.7 N",
+        "7.4 N",
+        "3.7 N"
+      ],
+      "a": 3,
+      "e": "W=mg=1×3.7=3.7 N.",
+      "d": "Hard",
+      "topic": "Mass and weight",
+      "slo": "P-09-B-19"
+    },
+    {
+      "id": "PHY9CH3-151",
+      "q": "Find the weight of a 50 kg object where g=9.8 N/kg.",
+      "o": [
+        "980 N",
+        "245 N",
+        "490 N",
+        "492 N"
+      ],
+      "a": 2,
+      "e": "W=mg=50×9.8=490 N.",
+      "d": "Medium",
+      "topic": "Mass and weight",
+      "slo": "P-09-B-19"
+    },
+    {
+      "id": "PHY9CH3-152",
+      "q": "Find the weight of a 2 kg object where g=9.8 N/kg.",
+      "o": [
+        "39.2 N",
+        "19.6 N",
+        "9.8 N",
+        "21.6 N"
+      ],
+      "a": 1,
+      "e": "W=mg=2×9.8=19.6 N.",
+      "d": "Medium",
+      "topic": "Mass and weight",
+      "slo": "P-09-B-19"
+    },
+    {
+      "id": "PHY9CH3-153",
+      "q": "Find the weight of a 25 kg object where g=1.6 N/kg.",
+      "o": [
+        "40 N",
+        "42 N",
+        "20 N",
+        "80 N"
+      ],
+      "a": 0,
+      "e": "W=mg=25×1.6=40 N.",
+      "d": "Hard",
+      "topic": "Mass and weight",
+      "slo": "P-09-B-19"
+    },
+    {
+      "id": "PHY9CH3-154",
+      "q": "Find the weight of a 3 kg object where g=3.7 N/kg.",
+      "o": [
+        "22.2 N",
+        "5.55 N",
+        "13.1 N",
+        "11.1 N"
+      ],
+      "a": 3,
+      "e": "W=mg=3×3.7=11.1 N.",
+      "d": "Medium",
+      "topic": "Mass and weight",
+      "slo": "P-09-B-19"
+    },
+    {
+      "id": "PHY9CH3-155",
+      "q": "Find the weight of a 15 kg object where g=10 N/kg.",
+      "o": [
+        "300 N",
+        "150 N",
+        "75 N",
+        "152 N"
+      ],
+      "a": 1,
+      "e": "W=mg=15×10=150 N.",
+      "d": "Medium",
+      "topic": "Mass and weight",
+      "slo": "P-09-B-19"
+    },
+    {
+      "id": "PHY9CH3-156",
+      "q": "Find the weight of a 15 kg object where g=9.8 N/kg.",
+      "o": [
+        "147 N",
+        "294 N",
+        "149 N",
+        "73.5 N"
+      ],
+      "a": 0,
+      "e": "W=mg=15×9.8=147 N.",
+      "d": "Hard",
+      "topic": "Mass and weight",
+      "slo": "P-09-B-19"
+    },
+    {
+      "id": "PHY9CH3-157",
+      "q": "Find the weight of a 10 kg object where g=3.7 N/kg.",
+      "o": [
+        "37 N",
+        "74 N",
+        "39 N",
+        "18.5 N"
+      ],
+      "a": 0,
+      "e": "W=mg=10×3.7=37 N.",
+      "d": "Medium",
+      "topic": "Mass and weight",
+      "slo": "P-09-B-19"
+    },
+    {
+      "id": "PHY9CH3-158",
+      "q": "An object of mass 10 kg weighs 16 N. Find gravitational field strength.",
+      "o": [
+        "3.2 N/kg",
+        "0.8 N/kg",
+        "1.6 N/kg",
+        "3.6 N/kg"
+      ],
+      "a": 2,
+      "e": "g=W/m=16/10=1.6 N/kg.",
+      "d": "Hard",
+      "topic": "Gravitational field",
+      "slo": "P-09-B-20"
+    },
+    {
+      "id": "PHY9CH3-159",
+      "q": "An object of mass 10 kg weighs 98 N. Find gravitational field strength.",
+      "o": [
+        "9.8 N/kg",
+        "19.6 N/kg",
+        "11.8 N/kg",
+        "4.9 N/kg"
+      ],
+      "a": 0,
+      "e": "g=W/m=98/10=9.8 N/kg.",
+      "d": "Medium",
+      "topic": "Gravitational field",
+      "slo": "P-09-B-20"
+    },
+    {
+      "id": "PHY9CH3-160",
+      "q": "An object of mass 5 kg weighs 18.5 N. Find gravitational field strength.",
+      "o": [
+        "3.7 N/kg",
+        "7.4 N/kg",
+        "5.7 N/kg",
+        "1.85 N/kg"
+      ],
+      "a": 0,
+      "e": "g=W/m=18.5/5=3.7 N/kg.",
+      "d": "Medium",
+      "topic": "Gravitational field",
+      "slo": "P-09-B-20"
+    },
+    {
+      "id": "PHY9CH3-161",
+      "q": "An object of mass 2 kg weighs 20 N. Find gravitational field strength.",
+      "o": [
+        "20 N/kg",
+        "10 N/kg",
+        "12 N/kg",
+        "5 N/kg"
+      ],
+      "a": 1,
+      "e": "g=W/m=20/2=10 N/kg.",
+      "d": "Hard",
+      "topic": "Gravitational field",
+      "slo": "P-09-B-20"
+    },
+    {
+      "id": "PHY9CH3-162",
+      "q": "An object of mass 2 kg weighs 3.2 N. Find gravitational field strength.",
+      "o": [
+        "3.6 N/kg",
+        "3.2 N/kg",
+        "1.6 N/kg",
+        "0.8 N/kg"
+      ],
+      "a": 2,
+      "e": "g=W/m=3.2/2=1.6 N/kg.",
+      "d": "Medium",
+      "topic": "Gravitational field",
+      "slo": "P-09-B-20"
+    },
+    {
+      "id": "PHY9CH3-163",
+      "q": "An object of mass 4 kg weighs 40 N. Find gravitational field strength.",
+      "o": [
+        "10 N/kg",
+        "20 N/kg",
+        "5 N/kg",
+        "12 N/kg"
+      ],
+      "a": 0,
+      "e": "g=W/m=40/4=10 N/kg.",
+      "d": "Medium",
+      "topic": "Gravitational field",
+      "slo": "P-09-B-20"
+    },
+    {
+      "id": "PHY9CH3-164",
+      "q": "An object of mass 6 kg weighs 58.8 N. Find gravitational field strength.",
+      "o": [
+        "4.9 N/kg",
+        "11.8 N/kg",
+        "9.8 N/kg",
+        "19.6 N/kg"
+      ],
+      "a": 2,
+      "e": "g=W/m=58.8/6=9.8 N/kg.",
+      "d": "Hard",
+      "topic": "Gravitational field",
+      "slo": "P-09-B-20"
+    },
+    {
+      "id": "PHY9CH3-165",
+      "q": "An object of mass 3 kg weighs 29.4 N. Find gravitational field strength.",
+      "o": [
+        "4.9 N/kg",
+        "19.6 N/kg",
+        "11.8 N/kg",
+        "9.8 N/kg"
+      ],
+      "a": 3,
+      "e": "g=W/m=29.4/3=9.8 N/kg.",
+      "d": "Medium",
+      "topic": "Gravitational field",
+      "slo": "P-09-B-20"
+    },
+    {
+      "id": "PHY9CH3-166",
+      "q": "An object of mass 8 kg weighs 80 N. Find gravitational field strength.",
+      "o": [
+        "5 N/kg",
+        "12 N/kg",
+        "20 N/kg",
+        "10 N/kg"
+      ],
+      "a": 3,
+      "e": "g=W/m=80/8=10 N/kg.",
+      "d": "Medium",
+      "topic": "Gravitational field",
+      "slo": "P-09-B-20"
+    },
+    {
+      "id": "PHY9CH3-167",
+      "q": "An object of mass 8 kg weighs 78.4 N. Find gravitational field strength.",
+      "o": [
+        "11.8 N/kg",
+        "4.9 N/kg",
+        "19.6 N/kg",
+        "9.8 N/kg"
+      ],
+      "a": 3,
+      "e": "g=W/m=78.4/8=9.8 N/kg.",
+      "d": "Hard",
+      "topic": "Gravitational field",
+      "slo": "P-09-B-20"
+    },
+    {
+      "id": "PHY9CH3-168",
+      "q": "An object of mass 4 kg weighs 6.4 N. Find gravitational field strength.",
+      "o": [
+        "3.2 N/kg",
+        "1.6 N/kg",
+        "3.6 N/kg",
+        "0.8 N/kg"
+      ],
+      "a": 1,
+      "e": "g=W/m=6.4/4=1.6 N/kg.",
+      "d": "Medium",
+      "topic": "Gravitational field",
+      "slo": "P-09-B-20"
+    },
+    {
+      "id": "PHY9CH3-169",
+      "q": "An object of mass 6 kg weighs 22.2 N. Find gravitational field strength.",
+      "o": [
+        "3.7 N/kg",
+        "5.7 N/kg",
+        "1.85 N/kg",
+        "7.4 N/kg"
+      ],
+      "a": 0,
+      "e": "g=W/m=22.2/6=3.7 N/kg.",
+      "d": "Medium",
+      "topic": "Gravitational field",
+      "slo": "P-09-B-20"
+    },
+    {
+      "id": "PHY9CH3-170",
+      "q": "Calculate momentum of a 15 kg body moving at 10 m/s.",
+      "o": [
+        "75 kg m/s",
+        "300 kg m/s",
+        "152 kg m/s",
+        "150 kg m/s"
+      ],
+      "a": 3,
+      "e": "p=mv=15×10=150 kg m/s.",
+      "d": "Hard",
+      "topic": "Momentum",
+      "slo": "P-09-B-39"
+    },
+    {
+      "id": "PHY9CH3-171",
+      "q": "Calculate momentum of a 25 kg body moving at 4 m/s.",
+      "o": [
+        "50 kg m/s",
+        "102 kg m/s",
+        "200 kg m/s",
+        "100 kg m/s"
+      ],
+      "a": 3,
+      "e": "p=mv=25×4=100 kg m/s.",
+      "d": "Medium",
+      "topic": "Momentum",
+      "slo": "P-09-B-39"
+    },
+    {
+      "id": "PHY9CH3-172",
+      "q": "Calculate momentum of a 6 kg body moving at 6 m/s.",
+      "o": [
+        "18 kg m/s",
+        "72 kg m/s",
+        "36 kg m/s",
+        "38 kg m/s"
+      ],
+      "a": 2,
+      "e": "p=mv=6×6=36 kg m/s.",
+      "d": "Medium",
+      "topic": "Momentum",
+      "slo": "P-09-B-39"
+    },
+    {
+      "id": "PHY9CH3-173",
+      "q": "Calculate momentum of a 20 kg body moving at 4 m/s.",
+      "o": [
+        "40 kg m/s",
+        "82 kg m/s",
+        "160 kg m/s",
+        "80 kg m/s"
+      ],
+      "a": 3,
+      "e": "p=mv=20×4=80 kg m/s.",
+      "d": "Hard",
+      "topic": "Momentum",
+      "slo": "P-09-B-39"
+    },
+    {
+      "id": "PHY9CH3-174",
+      "q": "Calculate momentum of a 25 kg body moving at 8 m/s.",
+      "o": [
+        "100 kg m/s",
+        "200 kg m/s",
+        "400 kg m/s",
+        "202 kg m/s"
+      ],
+      "a": 1,
+      "e": "p=mv=25×8=200 kg m/s.",
+      "d": "Medium",
+      "topic": "Momentum",
+      "slo": "P-09-B-39"
+    },
+    {
+      "id": "PHY9CH3-175",
+      "q": "Calculate momentum of a 3 kg body moving at 15 m/s.",
+      "o": [
+        "45 kg m/s",
+        "22.5 kg m/s",
+        "47 kg m/s",
+        "90 kg m/s"
+      ],
+      "a": 0,
+      "e": "p=mv=3×15=45 kg m/s.",
+      "d": "Medium",
+      "topic": "Momentum",
+      "slo": "P-09-B-39"
+    },
+    {
+      "id": "PHY9CH3-176",
+      "q": "Calculate momentum of a 5 kg body moving at 6 m/s.",
+      "o": [
+        "30 kg m/s",
+        "32 kg m/s",
+        "60 kg m/s",
+        "15 kg m/s"
+      ],
+      "a": 0,
+      "e": "p=mv=5×6=30 kg m/s.",
+      "d": "Hard",
+      "topic": "Momentum",
+      "slo": "P-09-B-39"
+    },
+    {
+      "id": "PHY9CH3-177",
+      "q": "Calculate momentum of a 2 kg body moving at 10 m/s.",
+      "o": [
+        "22 kg m/s",
+        "10 kg m/s",
+        "20 kg m/s",
+        "40 kg m/s"
+      ],
+      "a": 2,
+      "e": "p=mv=2×10=20 kg m/s.",
+      "d": "Medium",
+      "topic": "Momentum",
+      "slo": "P-09-B-39"
+    },
+    {
+      "id": "PHY9CH3-178",
+      "q": "Calculate momentum of a 4 kg body moving at 6 m/s.",
+      "o": [
+        "12 kg m/s",
+        "26 kg m/s",
+        "48 kg m/s",
+        "24 kg m/s"
+      ],
+      "a": 3,
+      "e": "p=mv=4×6=24 kg m/s.",
+      "d": "Medium",
+      "topic": "Momentum",
+      "slo": "P-09-B-39"
+    },
+    {
+      "id": "PHY9CH3-179",
+      "q": "Calculate momentum of a 5 kg body moving at 3 m/s.",
+      "o": [
+        "15 kg m/s",
+        "17 kg m/s",
+        "7.5 kg m/s",
+        "30 kg m/s"
+      ],
+      "a": 0,
+      "e": "p=mv=5×3=15 kg m/s.",
+      "d": "Hard",
+      "topic": "Momentum",
+      "slo": "P-09-B-39"
+    },
+    {
+      "id": "PHY9CH3-180",
+      "q": "Calculate momentum of a 2 kg body moving at 15 m/s.",
+      "o": [
+        "32 kg m/s",
+        "30 kg m/s",
+        "15 kg m/s",
+        "60 kg m/s"
+      ],
+      "a": 1,
+      "e": "p=mv=2×15=30 kg m/s.",
+      "d": "Medium",
+      "topic": "Momentum",
+      "slo": "P-09-B-39"
+    },
+    {
+      "id": "PHY9CH3-181",
+      "q": "Calculate momentum of a 2 kg body moving at 5 m/s.",
+      "o": [
+        "12 kg m/s",
+        "5 kg m/s",
+        "20 kg m/s",
+        "10 kg m/s"
+      ],
+      "a": 3,
+      "e": "p=mv=2×5=10 kg m/s.",
+      "d": "Medium",
+      "topic": "Momentum",
+      "slo": "P-09-B-39"
+    },
+    {
+      "id": "PHY9CH3-182",
+      "q": "Calculate momentum of a 12 kg body moving at 10 m/s.",
+      "o": [
+        "240 kg m/s",
+        "60 kg m/s",
+        "122 kg m/s",
+        "120 kg m/s"
+      ],
+      "a": 3,
+      "e": "p=mv=12×10=120 kg m/s.",
+      "d": "Hard",
+      "topic": "Momentum",
+      "slo": "P-09-B-39"
+    },
+    {
+      "id": "PHY9CH3-183",
+      "q": "Calculate momentum of a 1 kg body moving at 15 m/s.",
+      "o": [
+        "17 kg m/s",
+        "15 kg m/s",
+        "7.5 kg m/s",
+        "30 kg m/s"
+      ],
+      "a": 1,
+      "e": "p=mv=1×15=15 kg m/s.",
+      "d": "Medium",
+      "topic": "Momentum",
+      "slo": "P-09-B-39"
+    },
+    {
+      "id": "PHY9CH3-184",
+      "q": "Calculate momentum of a 10 kg body moving at 6 m/s.",
+      "o": [
+        "120 kg m/s",
+        "62 kg m/s",
+        "30 kg m/s",
+        "60 kg m/s"
+      ],
+      "a": 3,
+      "e": "p=mv=10×6=60 kg m/s.",
+      "d": "Medium",
+      "topic": "Momentum",
+      "slo": "P-09-B-39"
+    },
+    {
+      "id": "PHY9CH3-185",
+      "q": "Calculate momentum of a 10 kg body moving at 10 m/s.",
+      "o": [
+        "50 kg m/s",
+        "200 kg m/s",
+        "102 kg m/s",
+        "100 kg m/s"
+      ],
+      "a": 3,
+      "e": "p=mv=10×10=100 kg m/s.",
+      "d": "Hard",
+      "topic": "Momentum",
+      "slo": "P-09-B-39"
+    },
+    {
+      "id": "PHY9CH3-186",
+      "q": "Calculate momentum of a 4 kg body moving at 10 m/s.",
+      "o": [
+        "20 kg m/s",
+        "80 kg m/s",
+        "42 kg m/s",
+        "40 kg m/s"
+      ],
+      "a": 3,
+      "e": "p=mv=4×10=40 kg m/s.",
+      "d": "Medium",
+      "topic": "Momentum",
+      "slo": "P-09-B-39"
+    },
+    {
+      "id": "PHY9CH3-187",
+      "q": "Calculate momentum of a 8 kg body moving at 12 m/s.",
+      "o": [
+        "98 kg m/s",
+        "96 kg m/s",
+        "192 kg m/s",
+        "48 kg m/s"
+      ],
+      "a": 1,
+      "e": "p=mv=8×12=96 kg m/s.",
+      "d": "Medium",
+      "topic": "Momentum",
+      "slo": "P-09-B-39"
+    },
+    {
+      "id": "PHY9CH3-188",
+      "q": "Calculate momentum of a 5 kg body moving at 2 m/s.",
+      "o": [
+        "5 kg m/s",
+        "12 kg m/s",
+        "10 kg m/s",
+        "20 kg m/s"
+      ],
+      "a": 2,
+      "e": "p=mv=5×2=10 kg m/s.",
+      "d": "Hard",
+      "topic": "Momentum",
+      "slo": "P-09-B-39"
+    },
+    {
+      "id": "PHY9CH3-189",
+      "q": "Calculate momentum of a 4 kg body moving at 5 m/s.",
+      "o": [
+        "22 kg m/s",
+        "10 kg m/s",
+        "20 kg m/s",
+        "40 kg m/s"
+      ],
+      "a": 2,
+      "e": "p=mv=4×5=20 kg m/s.",
+      "d": "Medium",
+      "topic": "Momentum",
+      "slo": "P-09-B-39"
+    },
+    {
+      "id": "PHY9CH3-190",
+      "q": "A 12 kg object has momentum 96 kg m/s. Find its speed.",
+      "o": [
+        "16 m/s",
+        "10 m/s",
+        "4 m/s",
+        "8 m/s"
+      ],
+      "a": 3,
+      "e": "v=p/m=96/12=8 m/s.",
+      "d": "Hard",
+      "topic": "Momentum",
+      "slo": "P-09-B-39"
+    },
+    {
+      "id": "PHY9CH3-191",
+      "q": "A 10 kg object has momentum 30 kg m/s. Find its speed.",
+      "o": [
+        "1.5 m/s",
+        "5 m/s",
+        "3 m/s",
+        "6 m/s"
+      ],
+      "a": 2,
+      "e": "v=p/m=30/10=3 m/s.",
+      "d": "Medium",
+      "topic": "Momentum",
+      "slo": "P-09-B-39"
+    },
+    {
+      "id": "PHY9CH3-192",
+      "q": "A 4 kg object has momentum 20 kg m/s. Find its speed.",
+      "o": [
+        "5 m/s",
+        "2.5 m/s",
+        "7 m/s",
+        "10 m/s"
+      ],
+      "a": 0,
+      "e": "v=p/m=20/4=5 m/s.",
+      "d": "Medium",
+      "topic": "Momentum",
+      "slo": "P-09-B-39"
+    },
+    {
+      "id": "PHY9CH3-193",
+      "q": "A 2 kg object has momentum 4 kg m/s. Find its speed.",
+      "o": [
+        "1 m/s",
+        "4 m/s",
+        "2 m/s",
+        "7 m/s"
+      ],
+      "a": 2,
+      "e": "v=p/m=4/2=2 m/s.",
+      "d": "Hard",
+      "topic": "Momentum",
+      "slo": "P-09-B-39"
+    },
+    {
+      "id": "PHY9CH3-194",
+      "q": "A 5 kg object has momentum 40 kg m/s. Find its speed.",
+      "o": [
+        "8 m/s",
+        "4 m/s",
+        "10 m/s",
+        "16 m/s"
+      ],
+      "a": 0,
+      "e": "v=p/m=40/5=8 m/s.",
+      "d": "Medium",
+      "topic": "Momentum",
+      "slo": "P-09-B-39"
+    },
+    {
+      "id": "PHY9CH3-195",
+      "q": "A 3 kg object has momentum 12 kg m/s. Find its speed.",
+      "o": [
+        "4 m/s",
+        "6 m/s",
+        "8 m/s",
+        "2 m/s"
+      ],
+      "a": 0,
+      "e": "v=p/m=12/3=4 m/s.",
+      "d": "Medium",
+      "topic": "Momentum",
+      "slo": "P-09-B-39"
+    },
+    {
+      "id": "PHY9CH3-196",
+      "q": "A 12 kg object has momentum 24 kg m/s. Find its speed.",
+      "o": [
+        "2 m/s",
+        "7 m/s",
+        "1 m/s",
+        "4 m/s"
+      ],
+      "a": 0,
+      "e": "v=p/m=24/12=2 m/s.",
+      "d": "Hard",
+      "topic": "Momentum",
+      "slo": "P-09-B-39"
+    },
+    {
+      "id": "PHY9CH3-197",
+      "q": "A 5 kg object has momentum 50 kg m/s. Find its speed.",
+      "o": [
+        "5 m/s",
+        "20 m/s",
+        "12 m/s",
+        "10 m/s"
+      ],
+      "a": 3,
+      "e": "v=p/m=50/5=10 m/s.",
+      "d": "Medium",
+      "topic": "Momentum",
+      "slo": "P-09-B-39"
+    },
+    {
+      "id": "PHY9CH3-198",
+      "q": "A 10 kg object has momentum 100 kg m/s. Find its speed.",
+      "o": [
+        "20 m/s",
+        "5 m/s",
+        "10 m/s",
+        "12 m/s"
+      ],
+      "a": 2,
+      "e": "v=p/m=100/10=10 m/s.",
+      "d": "Medium",
+      "topic": "Momentum",
+      "slo": "P-09-B-39"
+    },
+    {
+      "id": "PHY9CH3-199",
+      "q": "A 20 kg object has momentum 120 kg m/s. Find its speed.",
+      "o": [
+        "12 m/s",
+        "3 m/s",
+        "8 m/s",
+        "6 m/s"
+      ],
+      "a": 3,
+      "e": "v=p/m=120/20=6 m/s.",
+      "d": "Hard",
+      "topic": "Momentum",
+      "slo": "P-09-B-39"
+    },
+    {
+      "id": "PHY9CH3-200",
+      "q": "A 8 kg object has momentum 48 kg m/s. Find its speed.",
+      "o": [
+        "8 m/s",
+        "3 m/s",
+        "6 m/s",
+        "12 m/s"
+      ],
+      "a": 2,
+      "e": "v=p/m=48/8=6 m/s.",
+      "d": "Medium",
+      "topic": "Momentum",
+      "slo": "P-09-B-39"
+    },
+    {
+      "id": "PHY9CH3-201",
+      "q": "A 15 kg object has momentum 150 kg m/s. Find its speed.",
+      "o": [
+        "10 m/s",
+        "20 m/s",
+        "12 m/s",
+        "5 m/s"
+      ],
+      "a": 0,
+      "e": "v=p/m=150/15=10 m/s.",
+      "d": "Medium",
+      "topic": "Momentum",
+      "slo": "P-09-B-39"
+    },
+    {
+      "id": "PHY9CH3-202",
+      "q": "A constant force of 30 N acts for 6 s. Calculate the impulse.",
+      "o": [
+        "90 N s",
+        "182 N s",
+        "180 N s",
+        "360 N s"
+      ],
+      "a": 2,
+      "e": "J=FΔt=30×6=180 N s.",
+      "d": "Hard",
+      "topic": "Impulse",
+      "slo": "P-09-B-40"
+    },
+    {
+      "id": "PHY9CH3-203",
+      "q": "A constant force of 20 N acts for 10 s. Calculate the impulse.",
+      "o": [
+        "400 N s",
+        "100 N s",
+        "200 N s",
+        "202 N s"
+      ],
+      "a": 2,
+      "e": "J=FΔt=20×10=200 N s.",
+      "d": "Medium",
+      "topic": "Impulse",
+      "slo": "P-09-B-40"
+    },
+    {
+      "id": "PHY9CH3-204",
+      "q": "A constant force of 10 N acts for 3 s. Calculate the impulse.",
+      "o": [
+        "30 N s",
+        "60 N s",
+        "15 N s",
+        "32 N s"
+      ],
+      "a": 0,
+      "e": "J=FΔt=10×3=30 N s.",
+      "d": "Medium",
+      "topic": "Impulse",
+      "slo": "P-09-B-40"
+    },
+    {
+      "id": "PHY9CH3-205",
+      "q": "A constant force of 25 N acts for 10 s. Calculate the impulse.",
+      "o": [
+        "250 N s",
+        "252 N s",
+        "500 N s",
+        "125 N s"
+      ],
+      "a": 0,
+      "e": "J=FΔt=25×10=250 N s.",
+      "d": "Hard",
+      "topic": "Impulse",
+      "slo": "P-09-B-40"
+    },
+    {
+      "id": "PHY9CH3-206",
+      "q": "A constant force of 20 N acts for 5 s. Calculate the impulse.",
+      "o": [
+        "200 N s",
+        "100 N s",
+        "50 N s",
+        "102 N s"
+      ],
+      "a": 1,
+      "e": "J=FΔt=20×5=100 N s.",
+      "d": "Medium",
+      "topic": "Impulse",
+      "slo": "P-09-B-40"
+    },
+    {
+      "id": "PHY9CH3-207",
+      "q": "A constant force of 25 N acts for 6 s. Calculate the impulse.",
+      "o": [
+        "75 N s",
+        "150 N s",
+        "300 N s",
+        "152 N s"
+      ],
+      "a": 1,
+      "e": "J=FΔt=25×6=150 N s.",
+      "d": "Medium",
+      "topic": "Impulse",
+      "slo": "P-09-B-40"
+    },
+    {
+      "id": "PHY9CH3-208",
+      "q": "A constant force of 10 N acts for 5 s. Calculate the impulse.",
+      "o": [
+        "52 N s",
+        "50 N s",
+        "100 N s",
+        "25 N s"
+      ],
+      "a": 1,
+      "e": "J=FΔt=10×5=50 N s.",
+      "d": "Hard",
+      "topic": "Impulse",
+      "slo": "P-09-B-40"
+    },
+    {
+      "id": "PHY9CH3-209",
+      "q": "A constant force of 5 N acts for 6 s. Calculate the impulse.",
+      "o": [
+        "32 N s",
+        "60 N s",
+        "30 N s",
+        "15 N s"
+      ],
+      "a": 2,
+      "e": "J=FΔt=5×6=30 N s.",
+      "d": "Medium",
+      "topic": "Impulse",
+      "slo": "P-09-B-40"
+    },
+    {
+      "id": "PHY9CH3-210",
+      "q": "A constant force of 15 N acts for 8 s. Calculate the impulse.",
+      "o": [
+        "240 N s",
+        "120 N s",
+        "60 N s",
+        "122 N s"
+      ],
+      "a": 1,
+      "e": "J=FΔt=15×8=120 N s.",
+      "d": "Medium",
+      "topic": "Impulse",
+      "slo": "P-09-B-40"
+    },
+    {
+      "id": "PHY9CH3-211",
+      "q": "A constant force of 6 N acts for 6 s. Calculate the impulse.",
+      "o": [
+        "18 N s",
+        "72 N s",
+        "36 N s",
+        "38 N s"
+      ],
+      "a": 2,
+      "e": "J=FΔt=6×6=36 N s.",
+      "d": "Hard",
+      "topic": "Impulse",
+      "slo": "P-09-B-40"
+    },
+    {
+      "id": "PHY9CH3-212",
+      "q": "A constant force of 50 N acts for 3 s. Calculate the impulse.",
+      "o": [
+        "150 N s",
+        "75 N s",
+        "152 N s",
+        "300 N s"
+      ],
+      "a": 0,
+      "e": "J=FΔt=50×3=150 N s.",
+      "d": "Medium",
+      "topic": "Impulse",
+      "slo": "P-09-B-40"
+    },
+    {
+      "id": "PHY9CH3-213",
+      "q": "A constant force of 6 N acts for 8 s. Calculate the impulse.",
+      "o": [
+        "96 N s",
+        "24 N s",
+        "48 N s",
+        "50 N s"
+      ],
+      "a": 2,
+      "e": "J=FΔt=6×8=48 N s.",
+      "d": "Medium",
+      "topic": "Impulse",
+      "slo": "P-09-B-40"
+    },
+    {
+      "id": "PHY9CH3-214",
+      "q": "A constant force of 4 N acts for 4 s. Calculate the impulse.",
+      "o": [
+        "16 N s",
+        "32 N s",
+        "18 N s",
+        "8 N s"
+      ],
+      "a": 0,
+      "e": "J=FΔt=4×4=16 N s.",
+      "d": "Hard",
+      "topic": "Impulse",
+      "slo": "P-09-B-40"
+    },
+    {
+      "id": "PHY9CH3-215",
+      "q": "A constant force of 12 N acts for 4 s. Calculate the impulse.",
+      "o": [
+        "96 N s",
+        "48 N s",
+        "50 N s",
+        "24 N s"
+      ],
+      "a": 1,
+      "e": "J=FΔt=12×4=48 N s.",
+      "d": "Medium",
+      "topic": "Impulse",
+      "slo": "P-09-B-40"
+    },
+    {
+      "id": "PHY9CH3-216",
+      "q": "A constant force of 3 N acts for 5 s. Calculate the impulse.",
+      "o": [
+        "30 N s",
+        "7.5 N s",
+        "15 N s",
+        "17 N s"
+      ],
+      "a": 2,
+      "e": "J=FΔt=3×5=15 N s.",
+      "d": "Medium",
+      "topic": "Impulse",
+      "slo": "P-09-B-40"
+    },
+    {
+      "id": "PHY9CH3-217",
+      "q": "A constant force of 30 N acts for 4 s. Calculate the impulse.",
+      "o": [
+        "60 N s",
+        "122 N s",
+        "120 N s",
+        "240 N s"
+      ],
+      "a": 2,
+      "e": "J=FΔt=30×4=120 N s.",
+      "d": "Hard",
+      "topic": "Impulse",
+      "slo": "P-09-B-40"
+    },
+    {
+      "id": "PHY9CH3-218",
+      "q": "A constant force of 40 N acts for 6 s. Calculate the impulse.",
+      "o": [
+        "242 N s",
+        "480 N s",
+        "240 N s",
+        "120 N s"
+      ],
+      "a": 2,
+      "e": "J=FΔt=40×6=240 N s.",
+      "d": "Medium",
+      "topic": "Impulse",
+      "slo": "P-09-B-40"
+    },
+    {
+      "id": "PHY9CH3-219",
+      "q": "A constant force of 6 N acts for 2 s. Calculate the impulse.",
+      "o": [
+        "24 N s",
+        "6 N s",
+        "14 N s",
+        "12 N s"
+      ],
+      "a": 3,
+      "e": "J=FΔt=6×2=12 N s.",
+      "d": "Medium",
+      "topic": "Impulse",
+      "slo": "P-09-B-40"
+    },
+    {
+      "id": "PHY9CH3-220",
+      "q": "A constant force of 15 N acts for 4 s. Calculate the impulse.",
+      "o": [
+        "62 N s",
+        "30 N s",
+        "120 N s",
+        "60 N s"
+      ],
+      "a": 3,
+      "e": "J=FΔt=15×4=60 N s.",
+      "d": "Hard",
+      "topic": "Impulse",
+      "slo": "P-09-B-40"
+    },
+    {
+      "id": "PHY9CH3-221",
+      "q": "A constant force of 15 N acts for 6 s. Calculate the impulse.",
+      "o": [
+        "180 N s",
+        "90 N s",
+        "45 N s",
+        "92 N s"
+      ],
+      "a": 1,
+      "e": "J=FΔt=15×6=90 N s.",
+      "d": "Medium",
+      "topic": "Impulse",
+      "slo": "P-09-B-40"
+    },
+    {
+      "id": "PHY9CH3-222",
+      "q": "A 200 kg body moving at 6 m/s stops uniformly in 10 s. What is the magnitude of average stopping force?",
+      "o": [
+        "120 N",
+        "240 N",
+        "122 N",
+        "60 N"
+      ],
+      "a": 0,
+      "e": "|F|=m|Δv|/Δt=200×6/10=120 N.",
+      "d": "Hard",
+      "topic": "Impulse",
+      "slo": "P-09-B-40"
+    },
+    {
+      "id": "PHY9CH3-223",
+      "q": "A 5 kg body moving at 8 m/s stops uniformly in 5 s. What is the magnitude of average stopping force?",
+      "o": [
+        "8 N",
+        "10 N",
+        "4 N",
+        "16 N"
+      ],
+      "a": 0,
+      "e": "|F|=m|Δv|/Δt=5×8/5=8 N.",
+      "d": "Medium",
+      "topic": "Impulse",
+      "slo": "P-09-B-40"
+    },
+    {
+      "id": "PHY9CH3-224",
+      "q": "A 5 kg body moving at 15 m/s stops uniformly in 4 s. What is the magnitude of average stopping force?",
+      "o": [
+        "37.5 N",
+        "20.75 N",
+        "18.75 N",
+        "9.375 N"
+      ],
+      "a": 2,
+      "e": "|F|=m|Δv|/Δt=5×15/4=18.75 N.",
+      "d": "Medium",
+      "topic": "Impulse",
+      "slo": "P-09-B-40"
+    },
+    {
+      "id": "PHY9CH3-225",
+      "q": "A 8 kg body moving at 12 m/s stops uniformly in 5 s. What is the magnitude of average stopping force?",
+      "o": [
+        "9.6 N",
+        "21.2 N",
+        "38.4 N",
+        "19.2 N"
+      ],
+      "a": 3,
+      "e": "|F|=m|Δv|/Δt=8×12/5=19.2 N.",
+      "d": "Hard",
+      "topic": "Impulse",
+      "slo": "P-09-B-40"
+    },
+    {
+      "id": "PHY9CH3-226",
+      "q": "A 200 kg body moving at 5 m/s stops uniformly in 4 s. What is the magnitude of average stopping force?",
+      "o": [
+        "500 N",
+        "125 N",
+        "252 N",
+        "250 N"
+      ],
+      "a": 3,
+      "e": "|F|=m|Δv|/Δt=200×5/4=250 N.",
+      "d": "Medium",
+      "topic": "Impulse",
+      "slo": "P-09-B-40"
+    },
+    {
+      "id": "PHY9CH3-227",
+      "q": "A 20 kg body moving at 10 m/s stops uniformly in 10 s. What is the magnitude of average stopping force?",
+      "o": [
+        "20 N",
+        "22 N",
+        "40 N",
+        "10 N"
+      ],
+      "a": 0,
+      "e": "|F|=m|Δv|/Δt=20×10/10=20 N.",
+      "d": "Medium",
+      "topic": "Impulse",
+      "slo": "P-09-B-40"
+    },
+    {
+      "id": "PHY9CH3-228",
+      "q": "A 100 kg body moving at 15 m/s stops uniformly in 5 s. What is the magnitude of average stopping force?",
+      "o": [
+        "302 N",
+        "150 N",
+        "300 N",
+        "600 N"
+      ],
+      "a": 2,
+      "e": "|F|=m|Δv|/Δt=100×15/5=300 N.",
+      "d": "Hard",
+      "topic": "Impulse",
+      "slo": "P-09-B-40"
+    },
+    {
+      "id": "PHY9CH3-229",
+      "q": "A 3 kg body moving at 15 m/s stops uniformly in 5 s. What is the magnitude of average stopping force?",
+      "o": [
+        "11 N",
+        "18 N",
+        "4.5 N",
+        "9 N"
+      ],
+      "a": 3,
+      "e": "|F|=m|Δv|/Δt=3×15/5=9 N.",
+      "d": "Medium",
+      "topic": "Impulse",
+      "slo": "P-09-B-40"
+    },
+    {
+      "id": "PHY9CH3-230",
+      "q": "A 40 kg body moving at 10 m/s stops uniformly in 2 s. What is the magnitude of average stopping force?",
+      "o": [
+        "202 N",
+        "200 N",
+        "400 N",
+        "100 N"
+      ],
+      "a": 1,
+      "e": "|F|=m|Δv|/Δt=40×10/2=200 N.",
+      "d": "Medium",
+      "topic": "Impulse",
+      "slo": "P-09-B-40"
+    },
+    {
+      "id": "PHY9CH3-231",
+      "q": "A 40 kg body moving at 10 m/s stops uniformly in 10 s. What is the magnitude of average stopping force?",
+      "o": [
+        "80 N",
+        "42 N",
+        "20 N",
+        "40 N"
+      ],
+      "a": 3,
+      "e": "|F|=m|Δv|/Δt=40×10/10=40 N.",
+      "d": "Hard",
+      "topic": "Impulse",
+      "slo": "P-09-B-40"
+    },
+    {
+      "id": "PHY9CH3-232",
+      "q": "A 5 kg body moving at 4 m/s stops uniformly in 5 s. What is the magnitude of average stopping force?",
+      "o": [
+        "2 N",
+        "8 N",
+        "6 N",
+        "4 N"
+      ],
+      "a": 3,
+      "e": "|F|=m|Δv|/Δt=5×4/5=4 N.",
+      "d": "Medium",
+      "topic": "Impulse",
+      "slo": "P-09-B-40"
+    },
+    {
+      "id": "PHY9CH3-233",
+      "q": "A 50 kg body moving at 6 m/s stops uniformly in 5 s. What is the magnitude of average stopping force?",
+      "o": [
+        "62 N",
+        "60 N",
+        "120 N",
+        "30 N"
+      ],
+      "a": 1,
+      "e": "|F|=m|Δv|/Δt=50×6/5=60 N.",
+      "d": "Medium",
+      "topic": "Impulse",
+      "slo": "P-09-B-40"
+    },
+    {
+      "id": "PHY9CH3-234",
+      "q": "A 8 kg body moving at 5 m/s stops uniformly in 4 s. What is the magnitude of average stopping force?",
+      "o": [
+        "10 N",
+        "12 N",
+        "20 N",
+        "5 N"
+      ],
+      "a": 0,
+      "e": "|F|=m|Δv|/Δt=8×5/4=10 N.",
+      "d": "Hard",
+      "topic": "Impulse",
+      "slo": "P-09-B-40"
+    },
+    {
+      "id": "PHY9CH3-235",
+      "q": "A 100 kg body moving at 6 m/s stops uniformly in 2 s. What is the magnitude of average stopping force?",
+      "o": [
+        "300 N",
+        "150 N",
+        "600 N",
+        "302 N"
+      ],
+      "a": 0,
+      "e": "|F|=m|Δv|/Δt=100×6/2=300 N.",
+      "d": "Medium",
+      "topic": "Impulse",
+      "slo": "P-09-B-40"
+    },
+    {
+      "id": "PHY9CH3-236",
+      "q": "Two horizontal forces of 40 N rightward and 8 N leftward act on a body. What is the magnitude of the resultant?",
+      "o": [
+        "64 N",
+        "32 N",
+        "16 N",
+        "34 N"
+      ],
+      "a": 1,
+      "e": "Opposite forces subtract: 40−8=32 N to the right.",
+      "d": "Hard",
+      "topic": "Resultant force",
+      "slo": "P-09-B-29"
+    },
+    {
+      "id": "PHY9CH3-237",
+      "q": "Two horizontal forces of 15 N rightward and 5 N leftward act on a body. What is the magnitude of the resultant?",
+      "o": [
+        "10 N",
+        "5 N",
+        "12 N",
+        "20 N"
+      ],
+      "a": 0,
+      "e": "Opposite forces subtract: 15−5=10 N to the right.",
+      "d": "Medium",
+      "topic": "Resultant force",
+      "slo": "P-09-B-29"
+    },
+    {
+      "id": "PHY9CH3-238",
+      "q": "Two horizontal forces of 50 N rightward and 5 N leftward act on a body. What is the magnitude of the resultant?",
+      "o": [
+        "45 N",
+        "22.5 N",
+        "47 N",
+        "90 N"
+      ],
+      "a": 0,
+      "e": "Opposite forces subtract: 50−5=45 N to the right.",
+      "d": "Medium",
+      "topic": "Resultant force",
+      "slo": "P-09-B-29"
+    },
+    {
+      "id": "PHY9CH3-239",
+      "q": "Two horizontal forces of 18 N rightward and 15 N leftward act on a body. What is the magnitude of the resultant?",
+      "o": [
+        "3 N",
+        "1.5 N",
+        "6 N",
+        "5 N"
+      ],
+      "a": 0,
+      "e": "Opposite forces subtract: 18−15=3 N to the right.",
+      "d": "Hard",
+      "topic": "Resultant force",
+      "slo": "P-09-B-29"
+    },
+    {
+      "id": "PHY9CH3-240",
+      "q": "Two horizontal forces of 8 N rightward and 5 N leftward act on a body. What is the magnitude of the resultant?",
+      "o": [
+        "6 N",
+        "5 N",
+        "3 N",
+        "1.5 N"
+      ],
+      "a": 2,
+      "e": "Opposite forces subtract: 8−5=3 N to the right.",
+      "d": "Medium",
+      "topic": "Resultant force",
+      "slo": "P-09-B-29"
+    },
+    {
+      "id": "PHY9CH3-241",
+      "q": "Two horizontal forces of 15 N rightward and 4 N leftward act on a body. What is the magnitude of the resultant?",
+      "o": [
+        "22 N",
+        "13 N",
+        "5.5 N",
+        "11 N"
+      ],
+      "a": 3,
+      "e": "Opposite forces subtract: 15−4=11 N to the right.",
+      "d": "Medium",
+      "topic": "Resultant force",
+      "slo": "P-09-B-29"
+    },
+    {
+      "id": "PHY9CH3-242",
+      "q": "Two horizontal forces of 35 N rightward and 6 N leftward act on a body. What is the magnitude of the resultant?",
+      "o": [
+        "58 N",
+        "14.5 N",
+        "31 N",
+        "29 N"
+      ],
+      "a": 3,
+      "e": "Opposite forces subtract: 35−6=29 N to the right.",
+      "d": "Hard",
+      "topic": "Resultant force",
+      "slo": "P-09-B-29"
+    },
+    {
+      "id": "PHY9CH3-243",
+      "q": "Two horizontal forces of 25 N rightward and 2 N leftward act on a body. What is the magnitude of the resultant?",
+      "o": [
+        "46 N",
+        "25 N",
+        "23 N",
+        "11.5 N"
+      ],
+      "a": 2,
+      "e": "Opposite forces subtract: 25−2=23 N to the right.",
+      "d": "Medium",
+      "topic": "Resultant force",
+      "slo": "P-09-B-29"
+    },
+    {
+      "id": "PHY9CH3-244",
+      "q": "Two horizontal forces of 40 N rightward and 5 N leftward act on a body. What is the magnitude of the resultant?",
+      "o": [
+        "17.5 N",
+        "35 N",
+        "37 N",
+        "70 N"
+      ],
+      "a": 1,
+      "e": "Opposite forces subtract: 40−5=35 N to the right.",
+      "d": "Medium",
+      "topic": "Resultant force",
+      "slo": "P-09-B-29"
+    },
+    {
+      "id": "PHY9CH3-245",
+      "q": "Two horizontal forces of 10 N rightward and 9 N leftward act on a body. What is the magnitude of the resultant?",
+      "o": [
+        "0.5 N",
+        "3 N",
+        "2 N",
+        "1 N"
+      ],
+      "a": 3,
+      "e": "Opposite forces subtract: 10−9=1 N to the right.",
+      "d": "Hard",
+      "topic": "Resultant force",
+      "slo": "P-09-B-29"
+    },
+    {
+      "id": "PHY9CH3-246",
+      "q": "Two horizontal forces of 5 N rightward and 4 N leftward act on a body. What is the magnitude of the resultant?",
+      "o": [
+        "2 N",
+        "0.5 N",
+        "1 N",
+        "3 N"
+      ],
+      "a": 2,
+      "e": "Opposite forces subtract: 5−4=1 N to the right.",
+      "d": "Medium",
+      "topic": "Resultant force",
+      "slo": "P-09-B-29"
+    },
+    {
+      "id": "PHY9CH3-247",
+      "q": "Two horizontal forces of 40 N rightward and 3 N leftward act on a body. What is the magnitude of the resultant?",
+      "o": [
+        "37 N",
+        "74 N",
+        "39 N",
+        "18.5 N"
+      ],
+      "a": 0,
+      "e": "Opposite forces subtract: 40−3=37 N to the right.",
+      "d": "Medium",
+      "topic": "Resultant force",
+      "slo": "P-09-B-29"
+    },
+    {
+      "id": "PHY9CH3-248",
+      "q": "Two horizontal forces of 8 N rightward and 3 N leftward act on a body. What is the magnitude of the resultant?",
+      "o": [
+        "10 N",
+        "2.5 N",
+        "5 N",
+        "7 N"
+      ],
+      "a": 2,
+      "e": "Opposite forces subtract: 8−3=5 N to the right.",
+      "d": "Hard",
+      "topic": "Resultant force",
+      "slo": "P-09-B-29"
+    },
+    {
+      "id": "PHY9CH3-249",
+      "q": "Two horizontal forces of 15 N rightward and 3 N leftward act on a body. What is the magnitude of the resultant?",
+      "o": [
+        "6 N",
+        "14 N",
+        "12 N",
+        "24 N"
+      ],
+      "a": 2,
+      "e": "Opposite forces subtract: 15−3=12 N to the right.",
+      "d": "Medium",
+      "topic": "Resultant force",
+      "slo": "P-09-B-29"
+    },
+    {
+      "id": "PHY9CH3-250",
+      "q": "Two forces of 15 N and 3 N act along the same straight line in the same direction. Find the resultant magnitude.",
+      "o": [
+        "36 N",
+        "9 N",
+        "20 N",
+        "18 N"
+      ],
+      "a": 3,
+      "e": "Like-directed forces add: 15+3=18 N.",
+      "d": "Hard",
+      "topic": "Resultant force",
+      "slo": "P-09-B-29"
+    },
+    {
+      "id": "PHY9CH3-251",
+      "q": "Two forces of 5 N and 5 N act along the same straight line in the same direction. Find the resultant magnitude.",
+      "o": [
+        "5 N",
+        "10 N",
+        "12 N",
+        "20 N"
+      ],
+      "a": 1,
+      "e": "Like-directed forces add: 5+5=10 N.",
+      "d": "Medium",
+      "topic": "Resultant force",
+      "slo": "P-09-B-29"
+    },
+    {
+      "id": "PHY9CH3-252",
+      "q": "Two forces of 10 N and 10 N act along the same straight line in the same direction. Find the resultant magnitude.",
+      "o": [
+        "22 N",
+        "20 N",
+        "40 N",
+        "10 N"
+      ],
+      "a": 1,
+      "e": "Like-directed forces add: 10+10=20 N.",
+      "d": "Medium",
+      "topic": "Resultant force",
+      "slo": "P-09-B-29"
+    },
+    {
+      "id": "PHY9CH3-253",
+      "q": "Two forces of 6 N and 4 N act along the same straight line in the same direction. Find the resultant magnitude.",
+      "o": [
+        "5 N",
+        "20 N",
+        "10 N",
+        "12 N"
+      ],
+      "a": 2,
+      "e": "Like-directed forces add: 6+4=10 N.",
+      "d": "Hard",
+      "topic": "Resultant force",
+      "slo": "P-09-B-29"
+    },
+    {
+      "id": "PHY9CH3-254",
+      "q": "Two forces of 12 N and 15 N act along the same straight line in the same direction. Find the resultant magnitude.",
+      "o": [
+        "54 N",
+        "13.5 N",
+        "29 N",
+        "27 N"
+      ],
+      "a": 3,
+      "e": "Like-directed forces add: 12+15=27 N.",
+      "d": "Medium",
+      "topic": "Resultant force",
+      "slo": "P-09-B-29"
+    },
+    {
+      "id": "PHY9CH3-255",
+      "q": "Two forces of 2 N and 20 N act along the same straight line in the same direction. Find the resultant magnitude.",
+      "o": [
+        "11 N",
+        "22 N",
+        "24 N",
+        "44 N"
+      ],
+      "a": 1,
+      "e": "Like-directed forces add: 2+20=22 N.",
+      "d": "Medium",
+      "topic": "Resultant force",
+      "slo": "P-09-B-29"
+    },
+    {
+      "id": "PHY9CH3-256",
+      "q": "Two forces of 5 N and 2 N act along the same straight line in the same direction. Find the resultant magnitude.",
+      "o": [
+        "7 N",
+        "3.5 N",
+        "14 N",
+        "9 N"
+      ],
+      "a": 0,
+      "e": "Like-directed forces add: 5+2=7 N.",
+      "d": "Hard",
+      "topic": "Resultant force",
+      "slo": "P-09-B-29"
+    },
+    {
+      "id": "PHY9CH3-257",
+      "q": "Two forces of 3 N and 12 N act along the same straight line in the same direction. Find the resultant magnitude.",
+      "o": [
+        "30 N",
+        "17 N",
+        "7.5 N",
+        "15 N"
+      ],
+      "a": 3,
+      "e": "Like-directed forces add: 3+12=15 N.",
+      "d": "Medium",
+      "topic": "Resultant force",
+      "slo": "P-09-B-29"
+    },
+    {
+      "id": "PHY9CH3-258",
+      "q": "Two forces of 10 N and 12 N act along the same straight line in the same direction. Find the resultant magnitude.",
+      "o": [
+        "44 N",
+        "24 N",
+        "11 N",
+        "22 N"
+      ],
+      "a": 3,
+      "e": "Like-directed forces add: 10+12=22 N.",
+      "d": "Medium",
+      "topic": "Resultant force",
+      "slo": "P-09-B-29"
+    },
+    {
+      "id": "PHY9CH3-259",
+      "q": "Two forces of 8 N and 3 N act along the same straight line in the same direction. Find the resultant magnitude.",
+      "o": [
+        "5.5 N",
+        "22 N",
+        "13 N",
+        "11 N"
+      ],
+      "a": 3,
+      "e": "Like-directed forces add: 8+3=11 N.",
+      "d": "Hard",
+      "topic": "Resultant force",
+      "slo": "P-09-B-29"
+    },
+    {
+      "id": "PHY9CH3-260",
+      "q": "A 15 kg body speeds up from 5 m/s to 9 m/s in the same direction. What is the change in momentum?",
+      "o": [
+        "60 kg m/s",
+        "62 kg m/s",
+        "120 kg m/s",
+        "30 kg m/s"
+      ],
+      "a": 0,
+      "e": "Δp=m(v−u)=15×(9−5)=60 kg m/s.",
+      "d": "Hard",
+      "topic": "Momentum and force",
+      "slo": "P-09-B-42"
+    },
+    {
+      "id": "PHY9CH3-261",
+      "q": "A 4 kg body speeds up from 3 m/s to 7 m/s in the same direction. What is the change in momentum?",
+      "o": [
+        "32 kg m/s",
+        "16 kg m/s",
+        "18 kg m/s",
+        "8 kg m/s"
+      ],
+      "a": 1,
+      "e": "Δp=m(v−u)=4×(7−3)=16 kg m/s.",
+      "d": "Medium",
+      "topic": "Momentum and force",
+      "slo": "P-09-B-42"
+    },
+    {
+      "id": "PHY9CH3-262",
+      "q": "A 4 kg body speeds up from 2 m/s to 5 m/s in the same direction. What is the change in momentum?",
+      "o": [
+        "24 kg m/s",
+        "6 kg m/s",
+        "12 kg m/s",
+        "14 kg m/s"
+      ],
+      "a": 2,
+      "e": "Δp=m(v−u)=4×(5−2)=12 kg m/s.",
+      "d": "Medium",
+      "topic": "Momentum and force",
+      "slo": "P-09-B-42"
+    },
+    {
+      "id": "PHY9CH3-263",
+      "q": "A 2 kg body speeds up from 1 m/s to 5 m/s in the same direction. What is the change in momentum?",
+      "o": [
+        "16 kg m/s",
+        "4 kg m/s",
+        "8 kg m/s",
+        "10 kg m/s"
+      ],
+      "a": 2,
+      "e": "Δp=m(v−u)=2×(5−1)=8 kg m/s.",
+      "d": "Hard",
+      "topic": "Momentum and force",
+      "slo": "P-09-B-42"
+    },
+    {
+      "id": "PHY9CH3-264",
+      "q": "A 3 kg body speeds up from 4 m/s to 10 m/s in the same direction. What is the change in momentum?",
+      "o": [
+        "18 kg m/s",
+        "36 kg m/s",
+        "20 kg m/s",
+        "9 kg m/s"
+      ],
+      "a": 0,
+      "e": "Δp=m(v−u)=3×(10−4)=18 kg m/s.",
+      "d": "Medium",
+      "topic": "Momentum and force",
+      "slo": "P-09-B-42"
+    },
+    {
+      "id": "PHY9CH3-265",
+      "q": "A 4 kg body speeds up from 1 m/s to 7 m/s in the same direction. What is the change in momentum?",
+      "o": [
+        "26 kg m/s",
+        "12 kg m/s",
+        "24 kg m/s",
+        "48 kg m/s"
+      ],
+      "a": 2,
+      "e": "Δp=m(v−u)=4×(7−1)=24 kg m/s.",
+      "d": "Medium",
+      "topic": "Momentum and force",
+      "slo": "P-09-B-42"
+    },
+    {
+      "id": "PHY9CH3-266",
+      "q": "A 5 kg body speeds up from 3 m/s to 11 m/s in the same direction. What is the change in momentum?",
+      "o": [
+        "80 kg m/s",
+        "42 kg m/s",
+        "20 kg m/s",
+        "40 kg m/s"
+      ],
+      "a": 3,
+      "e": "Δp=m(v−u)=5×(11−3)=40 kg m/s.",
+      "d": "Hard",
+      "topic": "Momentum and force",
+      "slo": "P-09-B-42"
+    },
+    {
+      "id": "PHY9CH3-267",
+      "q": "A 3 kg body speeds up from 1 m/s to 7 m/s in the same direction. What is the change in momentum?",
+      "o": [
+        "36 kg m/s",
+        "18 kg m/s",
+        "20 kg m/s",
+        "9 kg m/s"
+      ],
+      "a": 1,
+      "e": "Δp=m(v−u)=3×(7−1)=18 kg m/s.",
+      "d": "Medium",
+      "topic": "Momentum and force",
+      "slo": "P-09-B-42"
+    },
+    {
+      "id": "PHY9CH3-268",
+      "q": "A 6 kg body speeds up from 1 m/s to 4 m/s in the same direction. What is the change in momentum?",
+      "o": [
+        "9 kg m/s",
+        "18 kg m/s",
+        "20 kg m/s",
+        "36 kg m/s"
+      ],
+      "a": 1,
+      "e": "Δp=m(v−u)=6×(4−1)=18 kg m/s.",
+      "d": "Medium",
+      "topic": "Momentum and force",
+      "slo": "P-09-B-42"
+    },
+    {
+      "id": "PHY9CH3-269",
+      "q": "A 15 kg body speeds up from 2 m/s to 6 m/s in the same direction. What is the change in momentum?",
+      "o": [
+        "60 kg m/s",
+        "120 kg m/s",
+        "62 kg m/s",
+        "30 kg m/s"
+      ],
+      "a": 0,
+      "e": "Δp=m(v−u)=15×(6−2)=60 kg m/s.",
+      "d": "Hard",
+      "topic": "Momentum and force",
+      "slo": "P-09-B-42"
+    },
+    {
+      "id": "PHY9CH3-270",
+      "q": "A 10 kg body speeds up from 4 m/s to 8 m/s in the same direction. What is the change in momentum?",
+      "o": [
+        "20 kg m/s",
+        "80 kg m/s",
+        "40 kg m/s",
+        "42 kg m/s"
+      ],
+      "a": 2,
+      "e": "Δp=m(v−u)=10×(8−4)=40 kg m/s.",
+      "d": "Medium",
+      "topic": "Momentum and force",
+      "slo": "P-09-B-42"
+    },
+    {
+      "id": "PHY9CH3-271",
+      "q": "A 12 kg body speeds up from 3 m/s to 8 m/s in the same direction. What is the change in momentum?",
+      "o": [
+        "60 kg m/s",
+        "30 kg m/s",
+        "120 kg m/s",
+        "62 kg m/s"
+      ],
+      "a": 0,
+      "e": "Δp=m(v−u)=12×(8−3)=60 kg m/s.",
+      "d": "Medium",
+      "topic": "Momentum and force",
+      "slo": "P-09-B-42"
+    },
+    {
+      "id": "PHY9CH3-272",
+      "q": "A 5 kg body speeds up from 3 m/s to 9 m/s in the same direction. What is the change in momentum?",
+      "o": [
+        "15 kg m/s",
+        "32 kg m/s",
+        "60 kg m/s",
+        "30 kg m/s"
+      ],
+      "a": 3,
+      "e": "Δp=m(v−u)=5×(9−3)=30 kg m/s.",
+      "d": "Hard",
+      "topic": "Momentum and force",
+      "slo": "P-09-B-42"
+    },
+    {
+      "id": "PHY9CH3-273",
+      "q": "A 12 kg body speeds up from 1 m/s to 9 m/s in the same direction. What is the change in momentum?",
+      "o": [
+        "98 kg m/s",
+        "96 kg m/s",
+        "192 kg m/s",
+        "48 kg m/s"
+      ],
+      "a": 1,
+      "e": "Δp=m(v−u)=12×(9−1)=96 kg m/s.",
+      "d": "Medium",
+      "topic": "Momentum and force",
+      "slo": "P-09-B-42"
+    },
+    {
+      "id": "PHY9CH3-274",
+      "q": "A stationary launcher of mass 100 kg fires a 5 kg projectile at 30 m/s. Find the launcher recoil speed (ignore external forces).",
+      "o": [
+        "1.5 m/s",
+        "3.5 m/s",
+        "0.75 m/s",
+        "3 m/s"
+      ],
+      "a": 0,
+      "e": "Conservation of momentum gives recoil speed (5×30)/100=1.5 m/s, opposite to projectile.",
+      "d": "Hard",
+      "topic": "Momentum conservation",
+      "slo": "P-09-B-41"
+    },
+    {
+      "id": "PHY9CH3-275",
+      "q": "A stationary launcher of mass 50 kg fires a 4 kg projectile at 10 m/s. Find the launcher recoil speed (ignore external forces).",
+      "o": [
+        "0.4 m/s",
+        "2.8 m/s",
+        "0.8 m/s",
+        "1.6 m/s"
+      ],
+      "a": 2,
+      "e": "Conservation of momentum gives recoil speed (4×10)/50=0.8 m/s, opposite to projectile.",
+      "d": "Medium",
+      "topic": "Momentum conservation",
+      "slo": "P-09-B-41"
+    },
+    {
+      "id": "PHY9CH3-276",
+      "q": "A stationary launcher of mass 20 kg fires a 3 kg projectile at 10 m/s. Find the launcher recoil speed (ignore external forces).",
+      "o": [
+        "3 m/s",
+        "1.5 m/s",
+        "0.75 m/s",
+        "3.5 m/s"
+      ],
+      "a": 1,
+      "e": "Conservation of momentum gives recoil speed (3×10)/20=1.5 m/s, opposite to projectile.",
+      "d": "Medium",
+      "topic": "Momentum conservation",
+      "slo": "P-09-B-41"
+    },
+    {
+      "id": "PHY9CH3-277",
+      "q": "A stationary launcher of mass 40 kg fires a 1 kg projectile at 30 m/s. Find the launcher recoil speed (ignore external forces).",
+      "o": [
+        "0.375 m/s",
+        "0.75 m/s",
+        "1.5 m/s",
+        "2.75 m/s"
+      ],
+      "a": 1,
+      "e": "Conservation of momentum gives recoil speed (1×30)/40=0.75 m/s, opposite to projectile.",
+      "d": "Hard",
+      "topic": "Momentum conservation",
+      "slo": "P-09-B-41"
+    },
+    {
+      "id": "PHY9CH3-278",
+      "q": "A stationary launcher of mass 50 kg fires a 4 kg projectile at 50 m/s. Find the launcher recoil speed (ignore external forces).",
+      "o": [
+        "4 m/s",
+        "2 m/s",
+        "8 m/s",
+        "6 m/s"
+      ],
+      "a": 0,
+      "e": "Conservation of momentum gives recoil speed (4×50)/50=4 m/s, opposite to projectile.",
+      "d": "Medium",
+      "topic": "Momentum conservation",
+      "slo": "P-09-B-41"
+    },
+    {
+      "id": "PHY9CH3-279",
+      "q": "A stationary launcher of mass 10 kg fires a 3 kg projectile at 50 m/s. Find the launcher recoil speed (ignore external forces).",
+      "o": [
+        "17 m/s",
+        "30 m/s",
+        "15 m/s",
+        "7.5 m/s"
+      ],
+      "a": 2,
+      "e": "Conservation of momentum gives recoil speed (3×50)/10=15 m/s, opposite to projectile.",
+      "d": "Medium",
+      "topic": "Momentum conservation",
+      "slo": "P-09-B-41"
+    },
+    {
+      "id": "PHY9CH3-280",
+      "q": "A stationary launcher of mass 100 kg fires a 3 kg projectile at 40 m/s. Find the launcher recoil speed (ignore external forces).",
+      "o": [
+        "0.6 m/s",
+        "3.2 m/s",
+        "2.4 m/s",
+        "1.2 m/s"
+      ],
+      "a": 3,
+      "e": "Conservation of momentum gives recoil speed (3×40)/100=1.2 m/s, opposite to projectile.",
+      "d": "Hard",
+      "topic": "Momentum conservation",
+      "slo": "P-09-B-41"
+    },
+    {
+      "id": "PHY9CH3-281",
+      "q": "A stationary launcher of mass 100 kg fires a 2 kg projectile at 50 m/s. Find the launcher recoil speed (ignore external forces).",
+      "o": [
+        "0.5 m/s",
+        "2 m/s",
+        "3 m/s",
+        "1 m/s"
+      ],
+      "a": 3,
+      "e": "Conservation of momentum gives recoil speed (2×50)/100=1 m/s, opposite to projectile.",
+      "d": "Medium",
+      "topic": "Momentum conservation",
+      "slo": "P-09-B-41"
+    },
+    {
+      "id": "PHY9CH3-282",
+      "q": "A stationary launcher of mass 40 kg fires a 5 kg projectile at 50 m/s. Find the launcher recoil speed (ignore external forces).",
+      "o": [
+        "6.25 m/s",
+        "8.25 m/s",
+        "12.5 m/s",
+        "3.125 m/s"
+      ],
+      "a": 0,
+      "e": "Conservation of momentum gives recoil speed (5×50)/40=6.25 m/s, opposite to projectile.",
+      "d": "Medium",
+      "topic": "Momentum conservation",
+      "slo": "P-09-B-41"
+    },
+    {
+      "id": "PHY9CH3-283",
+      "q": "A stationary launcher of mass 20 kg fires a 4 kg projectile at 10 m/s. Find the launcher recoil speed (ignore external forces).",
+      "o": [
+        "2 m/s",
+        "1 m/s",
+        "4 m/s",
+        "7 m/s"
+      ],
+      "a": 0,
+      "e": "Conservation of momentum gives recoil speed (4×10)/20=2 m/s, opposite to projectile.",
+      "d": "Hard",
+      "topic": "Momentum conservation",
+      "slo": "P-09-B-41"
+    },
+    {
+      "id": "PHY9CH3-284",
+      "q": "A stationary launcher of mass 25 kg fires a 3 kg projectile at 20 m/s. Find the launcher recoil speed (ignore external forces).",
+      "o": [
+        "1.2 m/s",
+        "2.4 m/s",
+        "4.8 m/s",
+        "4.4 m/s"
+      ],
+      "a": 1,
+      "e": "Conservation of momentum gives recoil speed (3×20)/25=2.4 m/s, opposite to projectile.",
+      "d": "Medium",
+      "topic": "Momentum conservation",
+      "slo": "P-09-B-41"
+    },
+    {
+      "id": "PHY9CH3-285",
+      "q": "A stationary launcher of mass 25 kg fires a 5 kg projectile at 30 m/s. Find the launcher recoil speed (ignore external forces).",
+      "o": [
+        "12 m/s",
+        "6 m/s",
+        "8 m/s",
+        "3 m/s"
+      ],
+      "a": 1,
+      "e": "Conservation of momentum gives recoil speed (5×30)/25=6 m/s, opposite to projectile.",
+      "d": "Medium",
+      "topic": "Momentum conservation",
+      "slo": "P-09-B-41"
+    },
+    {
+      "id": "PHY9CH3-286",
+      "q": "A 5 kg cart moving at 8 m/s sticks to an identical stationary cart. Find their common speed (no external horizontal force).",
+      "o": [
+        "2 m/s",
+        "6 m/s",
+        "4 m/s",
+        "8 m/s"
+      ],
+      "a": 2,
+      "e": "Conservation of momentum: (5×8)/(5+5)=4 m/s.",
+      "d": "Hard",
+      "topic": "Momentum conservation",
+      "slo": "P-09-B-41"
+    },
+    {
+      "id": "PHY9CH3-287",
+      "q": "A 10 kg cart moving at 8 m/s sticks to an identical stationary cart. Find their common speed (no external horizontal force).",
+      "o": [
+        "4 m/s",
+        "2 m/s",
+        "8 m/s",
+        "6 m/s"
+      ],
+      "a": 0,
+      "e": "Conservation of momentum: (10×8)/(10+10)=4 m/s.",
+      "d": "Medium",
+      "topic": "Momentum conservation",
+      "slo": "P-09-B-41"
+    },
+    {
+      "id": "PHY9CH3-288",
+      "q": "A 8 kg cart moving at 6 m/s sticks to an identical stationary cart. Find their common speed (no external horizontal force).",
+      "o": [
+        "3 m/s",
+        "5 m/s",
+        "6 m/s",
+        "1.5 m/s"
+      ],
+      "a": 0,
+      "e": "Conservation of momentum: (8×6)/(8+8)=3 m/s.",
+      "d": "Medium",
+      "topic": "Momentum conservation",
+      "slo": "P-09-B-41"
+    },
+    {
+      "id": "PHY9CH3-289",
+      "q": "A 3 kg cart moving at 12 m/s sticks to an identical stationary cart. Find their common speed (no external horizontal force).",
+      "o": [
+        "8 m/s",
+        "12 m/s",
+        "6 m/s",
+        "3 m/s"
+      ],
+      "a": 2,
+      "e": "Conservation of momentum: (3×12)/(3+3)=6 m/s.",
+      "d": "Hard",
+      "topic": "Momentum conservation",
+      "slo": "P-09-B-41"
+    },
+    {
+      "id": "PHY9CH3-290",
+      "q": "A 8 kg cart moving at 12 m/s sticks to an identical stationary cart. Find their common speed (no external horizontal force).",
+      "o": [
+        "8 m/s",
+        "3 m/s",
+        "12 m/s",
+        "6 m/s"
+      ],
+      "a": 3,
+      "e": "Conservation of momentum: (8×12)/(8+8)=6 m/s.",
+      "d": "Medium",
+      "topic": "Momentum conservation",
+      "slo": "P-09-B-41"
+    },
+    {
+      "id": "PHY9CH3-291",
+      "q": "A 4 kg cart moving at 12 m/s sticks to an identical stationary cart. Find their common speed (no external horizontal force).",
+      "o": [
+        "3 m/s",
+        "8 m/s",
+        "12 m/s",
+        "6 m/s"
+      ],
+      "a": 3,
+      "e": "Conservation of momentum: (4×12)/(4+4)=6 m/s.",
+      "d": "Medium",
+      "topic": "Momentum conservation",
+      "slo": "P-09-B-41"
+    },
+    {
+      "id": "PHY9CH3-292",
+      "q": "A 3 kg cart moving at 2 m/s sticks to an identical stationary cart. Find their common speed (no external horizontal force).",
+      "o": [
+        "3 m/s",
+        "1 m/s",
+        "2 m/s",
+        "0.5 m/s"
+      ],
+      "a": 1,
+      "e": "Conservation of momentum: (3×2)/(3+3)=1 m/s.",
+      "d": "Hard",
+      "topic": "Momentum conservation",
+      "slo": "P-09-B-41"
+    },
+    {
+      "id": "PHY9CH3-293",
+      "q": "A 2 kg cart moving at 6 m/s sticks to an identical stationary cart. Find their common speed (no external horizontal force).",
+      "o": [
+        "1.5 m/s",
+        "3 m/s",
+        "6 m/s",
+        "5 m/s"
+      ],
+      "a": 1,
+      "e": "Conservation of momentum: (2×6)/(2+2)=3 m/s.",
+      "d": "Medium",
+      "topic": "Momentum conservation",
+      "slo": "P-09-B-41"
+    },
+    {
+      "id": "PHY9CH3-294",
+      "q": "A 8 kg cart moving at 4 m/s sticks to an identical stationary cart. Find their common speed (no external horizontal force).",
+      "o": [
+        "2 m/s",
+        "1 m/s",
+        "4 m/s",
+        "7 m/s"
+      ],
+      "a": 0,
+      "e": "Conservation of momentum: (8×4)/(8+8)=2 m/s.",
+      "d": "Medium",
+      "topic": "Momentum conservation",
+      "slo": "P-09-B-41"
+    },
+    {
+      "id": "PHY9CH3-295",
+      "q": "A 5 kg cart moving at 4 m/s sticks to an identical stationary cart. Find their common speed (no external horizontal force).",
+      "o": [
+        "7 m/s",
+        "2 m/s",
+        "1 m/s",
+        "4 m/s"
+      ],
+      "a": 1,
+      "e": "Conservation of momentum: (5×4)/(5+5)=2 m/s.",
+      "d": "Hard",
+      "topic": "Momentum conservation",
+      "slo": "P-09-B-41"
+    },
+    {
+      "id": "PHY9CH3-296",
+      "q": "A 8 kg cart moving at 8 m/s sticks to an identical stationary cart. Find their common speed (no external horizontal force).",
+      "o": [
+        "4 m/s",
+        "2 m/s",
+        "8 m/s",
+        "6 m/s"
+      ],
+      "a": 0,
+      "e": "Conservation of momentum: (8×8)/(8+8)=4 m/s.",
+      "d": "Medium",
+      "topic": "Momentum conservation",
+      "slo": "P-09-B-41"
+    },
+    {
+      "id": "PHY9CH3-297",
+      "q": "A 3 kg cart moving at 4 m/s sticks to an identical stationary cart. Find their common speed (no external horizontal force).",
+      "o": [
+        "2 m/s",
+        "1 m/s",
+        "4 m/s",
+        "7 m/s"
+      ],
+      "a": 0,
+      "e": "Conservation of momentum: (3×4)/(3+3)=2 m/s.",
+      "d": "Medium",
+      "topic": "Momentum conservation",
+      "slo": "P-09-B-41"
+    },
+    {
+      "id": "PHY9CH3-298",
+      "q": "A 5 kg cart moving at 6 m/s sticks to an identical stationary cart. Find their common speed (no external horizontal force).",
+      "o": [
+        "1.5 m/s",
+        "3 m/s",
+        "6 m/s",
+        "5 m/s"
+      ],
+      "a": 1,
+      "e": "Conservation of momentum: (5×6)/(5+5)=3 m/s.",
+      "d": "Hard",
+      "topic": "Momentum conservation",
+      "slo": "P-09-B-41"
+    },
+    {
+      "id": "PHY9CH3-299",
+      "q": "A 4 kg cart moving at 6 m/s sticks to an identical stationary cart. Find their common speed (no external horizontal force).",
+      "o": [
+        "6 m/s",
+        "1.5 m/s",
+        "5 m/s",
+        "3 m/s"
+      ],
+      "a": 3,
+      "e": "Conservation of momentum: (4×6)/(4+4)=3 m/s.",
+      "d": "Medium",
+      "topic": "Momentum conservation",
+      "slo": "P-09-B-41"
+    },
+    {
+      "id": "PHY9CH3-300",
+      "q": "A 6 kg cart moving at 8 m/s sticks to an identical stationary cart. Find their common speed (no external horizontal force).",
+      "o": [
+        "8 m/s",
+        "6 m/s",
+        "4 m/s",
+        "2 m/s"
+      ],
+      "a": 2,
+      "e": "Conservation of momentum: (6×8)/(6+6)=4 m/s.",
+      "d": "Medium",
+      "topic": "Momentum conservation",
+      "slo": "P-09-B-41"
+    }
+  ]
+}

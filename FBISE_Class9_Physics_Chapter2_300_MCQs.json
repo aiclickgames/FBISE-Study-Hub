@@ -1,0 +1,4504 @@
+{
+  "questions": [
+    {
+      "id": "PHY9CH2-001",
+      "q": "What does kinematics study?",
+      "o": [
+        "Motion without considering its causes",
+        "Electrical circuits",
+        "Forces only",
+        "Heat transfer"
+      ],
+      "a": 0,
+      "e": "Kinematics describes motion without analyzing the forces causing it.",
+      "d": "Easy",
+      "topic": "Introduction",
+      "slo": "P-09-B-01"
+    },
+    {
+      "id": "PHY9CH2-002",
+      "q": "What is a reference point used for?",
+      "o": [
+        "Measuring mass",
+        "Describing position and motion",
+        "Finding temperature",
+        "Changing speed"
+      ],
+      "a": 1,
+      "e": "Position and motion are specified relative to a reference point.",
+      "d": "Easy",
+      "topic": "Rest and motion",
+      "slo": "P-09-B-01"
+    },
+    {
+      "id": "PHY9CH2-003",
+      "q": "When is an object at rest relative to an observer?",
+      "o": [
+        "Its speed always increases",
+        "Its position does not change with time",
+        "Its mass is zero",
+        "Its direction changes"
+      ],
+      "a": 1,
+      "e": "Rest is relative to an observer and means no change of position.",
+      "d": "Easy",
+      "topic": "Rest and motion",
+      "slo": "P-09-B-01"
+    },
+    {
+      "id": "PHY9CH2-004",
+      "q": "Which example illustrates relative rest?",
+      "o": [
+        "A seated passenger relative to the bus",
+        "A rotating fan blade relative to its frame",
+        "A falling stone relative to the road",
+        "A runner relative to the track"
+      ],
+      "a": 0,
+      "e": "A seated passenger maintains position relative to the bus.",
+      "d": "Easy",
+      "topic": "Rest and motion",
+      "slo": "P-09-B-01"
+    },
+    {
+      "id": "PHY9CH2-005",
+      "q": "A passenger sitting in a moving bus is moving relative to what?",
+      "o": [
+        "The bus floor",
+        "A roadside tree",
+        "The bus seat",
+        "A fellow seated passenger"
+      ],
+      "a": 1,
+      "e": "The passenger changes position relative to the roadside tree.",
+      "d": "Easy",
+      "topic": "Rest and motion",
+      "slo": "P-09-B-01"
+    },
+    {
+      "id": "PHY9CH2-006",
+      "q": "Which motion has no change in the orientation of the moving object?",
+      "o": [
+        "Rotatory motion",
+        "Translatory motion",
+        "Vibratory motion",
+        "Spinning motion"
+      ],
+      "a": 1,
+      "e": "In pure translatory motion the body does not rotate.",
+      "d": "Easy",
+      "topic": "Types of motion",
+      "slo": "P-09-B-01"
+    },
+    {
+      "id": "PHY9CH2-007",
+      "q": "Which is an example of rotatory motion?",
+      "o": [
+        "A sliding book",
+        "A moving elevator",
+        "A falling stone",
+        "A spinning ceiling fan"
+      ],
+      "a": 3,
+      "e": "The fan rotates around its axis.",
+      "d": "Easy",
+      "topic": "Types of motion",
+      "slo": "P-09-B-01"
+    },
+    {
+      "id": "PHY9CH2-008",
+      "q": "Which is an example of vibratory motion?",
+      "o": [
+        "A train on a straight track",
+        "A plucked guitar string",
+        "A freely falling stone",
+        "A rolling cart"
+      ],
+      "a": 1,
+      "e": "The string moves back and forth about its mean position.",
+      "d": "Easy",
+      "topic": "Types of motion",
+      "slo": "P-09-B-01"
+    },
+    {
+      "id": "PHY9CH2-009",
+      "q": "A car moving along a straight road exhibits which translatory motion?",
+      "o": [
+        "Vibratory",
+        "Rectilinear",
+        "Curvilinear",
+        "Rotatory"
+      ],
+      "a": 1,
+      "e": "Rectilinear motion follows a straight path.",
+      "d": "Easy",
+      "topic": "Types of motion",
+      "slo": "P-09-B-01"
+    },
+    {
+      "id": "PHY9CH2-010",
+      "q": "A car rounding a bend exhibits which translatory motion?",
+      "o": [
+        "Curvilinear",
+        "Rectilinear",
+        "Purely rotatory",
+        "Vibratory"
+      ],
+      "a": 0,
+      "e": "Curvilinear motion follows a curved path.",
+      "d": "Easy",
+      "topic": "Types of motion",
+      "slo": "P-09-B-01"
+    },
+    {
+      "id": "PHY9CH2-011",
+      "q": "A butterfly changing direction unpredictably illustrates which motion?",
+      "o": [
+        "Simple vibration",
+        "Uniform rectilinear motion",
+        "Random motion",
+        "Pure rotation"
+      ],
+      "a": 2,
+      "e": "Random motion has an irregular, unpredictable path.",
+      "d": "Easy",
+      "topic": "Types of motion",
+      "slo": "P-09-B-01"
+    },
+    {
+      "id": "PHY9CH2-012",
+      "q": "Which part of a spinning fan undergoes circular motion around its axis?",
+      "o": [
+        "A stationary table",
+        "The switch on the wall",
+        "A stationary wall",
+        "A point on a blade"
+      ],
+      "a": 3,
+      "e": "A point on the blade travels around the axis in a circle.",
+      "d": "Easy",
+      "topic": "Types of motion",
+      "slo": "P-09-B-01"
+    },
+    {
+      "id": "PHY9CH2-013",
+      "q": "What is distance?",
+      "o": [
+        "Shortest directed change in position",
+        "Rate of change of speed",
+        "Change in velocity per second",
+        "Total length of the path traveled"
+      ],
+      "a": 3,
+      "e": "Distance is the length of the actual path followed.",
+      "d": "Easy",
+      "topic": "Distance and displacement",
+      "slo": "P-09-B-02"
+    },
+    {
+      "id": "PHY9CH2-014",
+      "q": "What is displacement?",
+      "o": [
+        "Distance per second",
+        "Directed change from initial to final position",
+        "Total path length",
+        "Change of mass"
+      ],
+      "a": 1,
+      "e": "Displacement specifies the change in position and direction.",
+      "d": "Easy",
+      "topic": "Distance and displacement",
+      "slo": "P-09-B-02"
+    },
+    {
+      "id": "PHY9CH2-015",
+      "q": "Which quantity is scalar?",
+      "o": [
+        "Velocity",
+        "Displacement",
+        "Distance",
+        "Acceleration"
+      ],
+      "a": 2,
+      "e": "Distance has magnitude only.",
+      "d": "Easy",
+      "topic": "Distance and displacement",
+      "slo": "P-09-B-02"
+    },
+    {
+      "id": "PHY9CH2-016",
+      "q": "Which quantity is a vector?",
+      "o": [
+        "Displacement",
+        "Speed",
+        "Distance",
+        "Time"
+      ],
+      "a": 0,
+      "e": "Displacement has both magnitude and direction.",
+      "d": "Easy",
+      "topic": "Distance and displacement",
+      "slo": "P-09-B-02"
+    },
+    {
+      "id": "PHY9CH2-017",
+      "q": "What is the SI unit of displacement?",
+      "o": [
+        "metre per second squared (m/s²)",
+        "metre per second (m/s)",
+        "second (s)",
+        "metre (m)"
+      ],
+      "a": 3,
+      "e": "Displacement is a length and is measured in metres.",
+      "d": "Easy",
+      "topic": "Distance and displacement",
+      "slo": "P-09-B-02"
+    },
+    {
+      "id": "PHY9CH2-018",
+      "q": "After completing one lap and returning to the start, displacement is:",
+      "o": [
+        "Zero",
+        "Equal to the track length",
+        "Greater than distance",
+        "Always 1 m"
+      ],
+      "a": 0,
+      "e": "Final and initial positions coincide.",
+      "d": "Easy",
+      "topic": "Distance and displacement",
+      "slo": "P-09-B-02"
+    },
+    {
+      "id": "PHY9CH2-019",
+      "q": "Which is always true for a journey?",
+      "o": [
+        "Distance is always zero",
+        "Distance is at least the magnitude of displacement",
+        "Displacement is always greater than distance",
+        "Distance and displacement always differ"
+      ],
+      "a": 1,
+      "e": "The straight-line separation cannot exceed path length.",
+      "d": "Easy",
+      "topic": "Distance and displacement",
+      "slo": "P-09-B-02"
+    },
+    {
+      "id": "PHY9CH2-020",
+      "q": "When can distance equal displacement magnitude?",
+      "o": [
+        "For motion along a straight line without reversing",
+        "Only for circular motion",
+        "Only when at rest",
+        "Only for random motion"
+      ],
+      "a": 0,
+      "e": "Straight one-direction motion follows the shortest path.",
+      "d": "Easy",
+      "topic": "Distance and displacement",
+      "slo": "P-09-B-02"
+    },
+    {
+      "id": "PHY9CH2-021",
+      "q": "Can displacement be negative along a chosen axis?",
+      "o": [
+        "Only if distance is negative",
+        "Yes, when directed opposite to the positive axis",
+        "Only if time is negative",
+        "No, it is always positive"
+      ],
+      "a": 1,
+      "e": "The sign of one-dimensional displacement indicates direction.",
+      "d": "Easy",
+      "topic": "Distance and displacement",
+      "slo": "P-09-B-02"
+    },
+    {
+      "id": "PHY9CH2-022",
+      "q": "Which quantity measures how fast distance is covered?",
+      "o": [
+        "Displacement",
+        "Acceleration",
+        "Speed",
+        "Mass"
+      ],
+      "a": 2,
+      "e": "Speed is distance traveled per unit time.",
+      "d": "Easy",
+      "topic": "Speed and velocity",
+      "slo": "P-09-B-03"
+    },
+    {
+      "id": "PHY9CH2-023",
+      "q": "Which quantity includes direction of motion?",
+      "o": [
+        "Velocity",
+        "Time",
+        "Distance",
+        "Speed"
+      ],
+      "a": 0,
+      "e": "Velocity is a vector.",
+      "d": "Easy",
+      "topic": "Speed and velocity",
+      "slo": "P-09-B-03"
+    },
+    {
+      "id": "PHY9CH2-024",
+      "q": "Which is the SI unit of speed?",
+      "o": [
+        "m/s²",
+        "s",
+        "m",
+        "m/s"
+      ],
+      "a": 3,
+      "e": "Speed is distance divided by time.",
+      "d": "Easy",
+      "topic": "Speed and velocity",
+      "slo": "P-09-B-03"
+    },
+    {
+      "id": "PHY9CH2-025",
+      "q": "Which is the SI unit of acceleration?",
+      "o": [
+        "m/s",
+        "m/s²",
+        "m",
+        "s"
+      ],
+      "a": 1,
+      "e": "Acceleration is change in velocity per unit time.",
+      "d": "Easy",
+      "topic": "Acceleration",
+      "slo": "P-09-B-07"
+    },
+    {
+      "id": "PHY9CH2-026",
+      "q": "What is average speed?",
+      "o": [
+        "Total distance divided by total elapsed time",
+        "Net displacement divided by time",
+        "Final speed minus initial speed",
+        "Distance multiplied by time"
+      ],
+      "a": 0,
+      "e": "Average speed uses total distance, including detours.",
+      "d": "Easy",
+      "topic": "Average speed",
+      "slo": "P-09-B-04"
+    },
+    {
+      "id": "PHY9CH2-027",
+      "q": "What is average velocity?",
+      "o": [
+        "Total distance divided by time",
+        "Speed multiplied by time",
+        "Acceleration multiplied by time",
+        "Total displacement divided by total time"
+      ],
+      "a": 3,
+      "e": "Average velocity is based on net displacement.",
+      "d": "Easy",
+      "topic": "Speed and velocity",
+      "slo": "P-09-B-02"
+    },
+    {
+      "id": "PHY9CH2-028",
+      "q": "What does a speedometer show approximately?",
+      "o": [
+        "Average velocity for the entire trip",
+        "Total displacement",
+        "Instantaneous speed",
+        "Acceleration"
+      ],
+      "a": 2,
+      "e": "A speedometer displays speed at the current instant.",
+      "d": "Easy",
+      "topic": "Average and instantaneous speed",
+      "slo": "P-09-B-05"
+    },
+    {
+      "id": "PHY9CH2-029",
+      "q": "A runner completes a circular lap at constant speed. Is velocity constant?",
+      "o": [
+        "No, its direction changes",
+        "Yes, speed is constant",
+        "No, mass changes",
+        "Yes, time passes uniformly"
+      ],
+      "a": 0,
+      "e": "Velocity changes when direction changes.",
+      "d": "Easy",
+      "topic": "Uniform velocity",
+      "slo": "P-09-B-06"
+    },
+    {
+      "id": "PHY9CH2-030",
+      "q": "When is velocity uniform?",
+      "o": [
+        "Acceleration is increasing",
+        "Magnitude and direction remain constant",
+        "Only direction changes",
+        "Only magnitude remains constant"
+      ],
+      "a": 1,
+      "e": "Uniform velocity requires a constant vector velocity.",
+      "d": "Easy",
+      "topic": "Uniform velocity",
+      "slo": "P-09-B-06"
+    },
+    {
+      "id": "PHY9CH2-031",
+      "q": "Which motion has zero acceleration?",
+      "o": [
+        "Constant velocity in a straight line",
+        "Slowing down",
+        "Speeding up in a straight line",
+        "Moving in a circle at constant speed"
+      ],
+      "a": 0,
+      "e": "Acceleration is zero when velocity does not change.",
+      "d": "Easy",
+      "topic": "Acceleration",
+      "slo": "P-09-B-07"
+    },
+    {
+      "id": "PHY9CH2-032",
+      "q": "What is acceleration?",
+      "o": [
+        "Mass per unit volume",
+        "Displacement multiplied by time",
+        "Distance per unit time",
+        "Change in velocity per unit time"
+      ],
+      "a": 3,
+      "e": "Acceleration describes the rate of velocity change.",
+      "d": "Easy",
+      "topic": "Acceleration",
+      "slo": "P-09-B-07"
+    },
+    {
+      "id": "PHY9CH2-033",
+      "q": "Can an object accelerate without changing its speed?",
+      "o": [
+        "Yes, by changing direction",
+        "No, acceleration always changes speed",
+        "Only in a vacuum",
+        "Only when at rest"
+      ],
+      "a": 0,
+      "e": "Changing direction changes the velocity vector.",
+      "d": "Easy",
+      "topic": "Acceleration",
+      "slo": "P-09-B-07"
+    },
+    {
+      "id": "PHY9CH2-034",
+      "q": "A negative acceleration along the chosen positive axis means:",
+      "o": [
+        "Acceleration points in the negative direction",
+        "Speed must increase",
+        "Distance is negative",
+        "Object must be at rest"
+      ],
+      "a": 0,
+      "e": "The sign specifies acceleration direction; slowing down depends on velocity direction.",
+      "d": "Medium",
+      "topic": "Acceleration",
+      "slo": "P-09-B-08"
+    },
+    {
+      "id": "PHY9CH2-035",
+      "q": "What is uniform acceleration?",
+      "o": [
+        "Equal distances in all intervals",
+        "Constant displacement",
+        "Increasing mass",
+        "Equal velocity changes in equal time intervals"
+      ],
+      "a": 3,
+      "e": "Uniform acceleration is a constant rate of velocity change.",
+      "d": "Medium",
+      "topic": "Acceleration",
+      "slo": "P-09-B-08"
+    },
+    {
+      "id": "PHY9CH2-036",
+      "q": "What is non-uniform acceleration?",
+      "o": [
+        "Distance always zero",
+        "Acceleration always equal to zero",
+        "Velocity always constant",
+        "Acceleration that changes with time"
+      ],
+      "a": 3,
+      "e": "Unequal changes in velocity per equal time indicate non-uniform acceleration.",
+      "d": "Medium",
+      "topic": "Acceleration",
+      "slo": "P-09-B-08"
+    },
+    {
+      "id": "PHY9CH2-037",
+      "q": "What acceleration is used for free fall near Earth in this chapter?",
+      "o": [
+        "98 m/s² upward",
+        "9.8 m/s² downward",
+        "9.8 m/s downward",
+        "0 m/s²"
+      ],
+      "a": 1,
+      "e": "Gravitational acceleration is approximately 9.8 m/s² downward.",
+      "d": "Easy",
+      "topic": "Motion due to gravity",
+      "slo": "P-09-B-10"
+    },
+    {
+      "id": "PHY9CH2-038",
+      "q": "At the highest point of a ball thrown vertically upward, its acceleration is:",
+      "o": [
+        "Zero",
+        "Dependent on its mass",
+        "9.8 m/s² downward",
+        "9.8 m/s² upward"
+      ],
+      "a": 2,
+      "e": "Gravity continues acting at the top of the trajectory.",
+      "d": "Easy",
+      "topic": "Motion due to gravity",
+      "slo": "P-09-B-10"
+    },
+    {
+      "id": "PHY9CH2-039",
+      "q": "For a freely falling body released from rest, initial velocity is:",
+      "o": [
+        "9.8 m/s",
+        "9.8 m/s²",
+        "0 m/s",
+        "1 m/s"
+      ],
+      "a": 2,
+      "e": "Released from rest means initial speed is zero.",
+      "d": "Easy",
+      "topic": "Motion due to gravity",
+      "slo": "P-09-B-10"
+    },
+    {
+      "id": "PHY9CH2-040",
+      "q": "Neglecting air resistance, two objects of different masses fall with:",
+      "o": [
+        "Zero acceleration",
+        "Acceleration inversely proportional to time",
+        "Acceleration proportional to mass",
+        "The same gravitational acceleration"
+      ],
+      "a": 3,
+      "e": "Near Earth both have approximately the same free-fall acceleration.",
+      "d": "Easy",
+      "topic": "Motion due to gravity",
+      "slo": "P-09-B-10"
+    },
+    {
+      "id": "PHY9CH2-041",
+      "q": "What is plotted on the horizontal axis of a distance-time graph?",
+      "o": [
+        "Acceleration",
+        "Distance",
+        "Speed",
+        "Time"
+      ],
+      "a": 3,
+      "e": "Time is the independent horizontal variable.",
+      "d": "Easy",
+      "topic": "Distance-time graphs",
+      "slo": "P-09-B-09"
+    },
+    {
+      "id": "PHY9CH2-042",
+      "q": "What is plotted on the vertical axis of a distance-time graph?",
+      "o": [
+        "Time",
+        "Acceleration",
+        "Distance",
+        "Mass"
+      ],
+      "a": 2,
+      "e": "Distance is plotted vertically.",
+      "d": "Easy",
+      "topic": "Distance-time graphs",
+      "slo": "P-09-B-09"
+    },
+    {
+      "id": "PHY9CH2-043",
+      "q": "What does the slope of a distance-time graph represent?",
+      "o": [
+        "Speed",
+        "Force",
+        "Acceleration",
+        "Displacement"
+      ],
+      "a": 0,
+      "e": "Slope equals change in distance divided by time.",
+      "d": "Easy",
+      "topic": "Distance-time graphs",
+      "slo": "P-09-B-11"
+    },
+    {
+      "id": "PHY9CH2-044",
+      "q": "A horizontal distance-time graph represents:",
+      "o": [
+        "Constant nonzero speed",
+        "Rest",
+        "Increasing speed",
+        "Uniform acceleration"
+      ],
+      "a": 1,
+      "e": "Distance remains unchanged as time passes.",
+      "d": "Easy",
+      "topic": "Distance-time graphs",
+      "slo": "P-09-B-09"
+    },
+    {
+      "id": "PHY9CH2-045",
+      "q": "A straight rising distance-time graph represents:",
+      "o": [
+        "Constant speed",
+        "Increasing acceleration",
+        "Rest",
+        "Decreasing time"
+      ],
+      "a": 0,
+      "e": "A constant slope means constant speed.",
+      "d": "Easy",
+      "topic": "Distance-time graphs",
+      "slo": "P-09-B-09"
+    },
+    {
+      "id": "PHY9CH2-046",
+      "q": "A distance-time curve with an increasing slope indicates:",
+      "o": [
+        "Decreasing speed",
+        "Increasing speed",
+        "Constant speed",
+        "Rest"
+      ],
+      "a": 1,
+      "e": "The slope is speed, so a steeper slope means greater speed.",
+      "d": "Easy",
+      "topic": "Distance-time graphs",
+      "slo": "P-09-B-09"
+    },
+    {
+      "id": "PHY9CH2-047",
+      "q": "A distance-time curve that becomes flatter indicates:",
+      "o": [
+        "Increasing speed",
+        "Decreasing speed",
+        "Constant acceleration always",
+        "Increasing mass"
+      ],
+      "a": 1,
+      "e": "A decreasing slope means speed is falling.",
+      "d": "Easy",
+      "topic": "Distance-time graphs",
+      "slo": "P-09-B-09"
+    },
+    {
+      "id": "PHY9CH2-048",
+      "q": "Which distance-time graph shows the faster constant speed?",
+      "o": [
+        "The flatter straight line",
+        "The steeper straight line",
+        "The line with smaller distance at every instant",
+        "The horizontal line"
+      ],
+      "a": 1,
+      "e": "Greater slope corresponds to greater speed.",
+      "d": "Easy",
+      "topic": "Distance-time graphs",
+      "slo": "P-09-B-11"
+    },
+    {
+      "id": "PHY9CH2-049",
+      "q": "What is plotted on the vertical axis of a speed-time graph?",
+      "o": [
+        "Speed",
+        "Distance",
+        "Time",
+        "Mass"
+      ],
+      "a": 0,
+      "e": "Speed is the vertical variable.",
+      "d": "Easy",
+      "topic": "Speed-time graphs",
+      "slo": "P-09-B-09"
+    },
+    {
+      "id": "PHY9CH2-050",
+      "q": "What does the gradient of a speed-time graph give for straight-line motion with unchanged direction?",
+      "o": [
+        "Distance",
+        "Acceleration",
+        "Momentum",
+        "Mass"
+      ],
+      "a": 1,
+      "e": "The speed-time gradient is the rate of speed change, equal to signed acceleration for motion in a fixed positive direction.",
+      "d": "Medium",
+      "topic": "Speed-time graphs",
+      "slo": "P-09-B-15"
+    },
+    {
+      "id": "PHY9CH2-051",
+      "q": "What does the area under a speed-time graph represent?",
+      "o": [
+        "Velocity change",
+        "Distance traveled",
+        "Mass",
+        "Acceleration"
+      ],
+      "a": 1,
+      "e": "Area equals speed multiplied by time, giving distance.",
+      "d": "Medium",
+      "topic": "Speed-time graphs",
+      "slo": "P-09-B-13"
+    },
+    {
+      "id": "PHY9CH2-052",
+      "q": "A horizontal speed-time graph above zero indicates:",
+      "o": [
+        "Constant nonzero speed",
+        "Rest",
+        "Increasing acceleration",
+        "Increasing speed"
+      ],
+      "a": 0,
+      "e": "Speed remains constant over time.",
+      "d": "Easy",
+      "topic": "Speed-time graphs",
+      "slo": "P-09-B-09"
+    },
+    {
+      "id": "PHY9CH2-053",
+      "q": "A speed-time graph along the time axis indicates:",
+      "o": [
+        "Zero speed",
+        "Negative distance",
+        "Increasing speed",
+        "Constant positive speed"
+      ],
+      "a": 0,
+      "e": "Speed is zero at every displayed time.",
+      "d": "Easy",
+      "topic": "Speed-time graphs",
+      "slo": "P-09-B-09"
+    },
+    {
+      "id": "PHY9CH2-054",
+      "q": "A straight upward-sloping speed-time graph indicates:",
+      "o": [
+        "Constant speed",
+        "Uniform increase of speed",
+        "Decreasing speed",
+        "Rest"
+      ],
+      "a": 1,
+      "e": "Constant positive gradient means speed increases at a constant rate.",
+      "d": "Medium",
+      "topic": "Speed-time graphs",
+      "slo": "P-09-B-14"
+    },
+    {
+      "id": "PHY9CH2-055",
+      "q": "A straight downward-sloping speed-time graph indicates:",
+      "o": [
+        "Increasing speed",
+        "Constant speed",
+        "Increasing distance at an increasing rate",
+        "Uniform decrease of speed"
+      ],
+      "a": 3,
+      "e": "A constant negative slope indicates speed falls uniformly.",
+      "d": "Medium",
+      "topic": "Speed-time graphs",
+      "slo": "P-09-B-14"
+    },
+    {
+      "id": "PHY9CH2-056",
+      "q": "The area of a rectangle under a constant speed-time graph is:",
+      "o": [
+        "Speed ÷ time",
+        "Time ÷ speed",
+        "Speed × time",
+        "Speed + time"
+      ],
+      "a": 2,
+      "e": "Rectangle area equals height times width.",
+      "d": "Medium",
+      "topic": "Speed-time graphs",
+      "slo": "P-09-B-13"
+    },
+    {
+      "id": "PHY9CH2-057",
+      "q": "The area of a triangle under a speed-time graph is:",
+      "o": [
+        "½ × base × height",
+        "Base ÷ height",
+        "Base + height",
+        "2 × base × height"
+      ],
+      "a": 0,
+      "e": "The triangular area formula gives distance.",
+      "d": "Medium",
+      "topic": "Speed-time graphs",
+      "slo": "P-09-B-13"
+    },
+    {
+      "id": "PHY9CH2-058",
+      "q": "Which quantity can never be negative?",
+      "o": [
+        "Displacement along an axis",
+        "Velocity along an axis",
+        "Distance traveled",
+        "Acceleration along an axis"
+      ],
+      "a": 2,
+      "e": "Total path length is nonnegative.",
+      "d": "Easy",
+      "topic": "Distance and displacement",
+      "slo": "P-09-B-02"
+    },
+    {
+      "id": "PHY9CH2-059",
+      "q": "What is the approximate universal speed limit mentioned in the chapter?",
+      "o": [
+        "9.8 m/s",
+        "3 × 10⁵ m/s",
+        "343 m/s",
+        "3 × 10⁸ m/s"
+      ],
+      "a": 3,
+      "e": "The speed of light in vacuum is approximately 3 × 10⁸ m/s.",
+      "d": "Medium",
+      "topic": "Speed of light",
+      "slo": "P-09-B-16"
+    },
+    {
+      "id": "PHY9CH2-060",
+      "q": "Which phenomenon sets the universal speed limit?",
+      "o": [
+        "Speed of sound in air",
+        "Speed of a car",
+        "Speed of light in vacuum",
+        "Speed of Earth rotation"
+      ],
+      "a": 2,
+      "e": "The speed of light in vacuum is the limiting speed.",
+      "d": "Medium",
+      "topic": "Speed of light",
+      "slo": "P-09-B-16"
+    },
+    {
+      "id": "PHY9CH2-061",
+      "q": "Which quantity is calculated using v = s/t?",
+      "o": [
+        "Density",
+        "Acceleration",
+        "Speed",
+        "Force"
+      ],
+      "a": 2,
+      "e": "Speed equals distance divided by time.",
+      "d": "Easy",
+      "topic": "Speed and velocity",
+      "slo": "P-09-B-03"
+    },
+    {
+      "id": "PHY9CH2-062",
+      "q": "Which quantity is calculated using a = (v − u)/t?",
+      "o": [
+        "Distance",
+        "Average speed",
+        "Mass",
+        "Acceleration"
+      ],
+      "a": 3,
+      "e": "Acceleration equals change in velocity divided by elapsed time.",
+      "d": "Easy",
+      "topic": "Acceleration",
+      "slo": "P-09-B-07"
+    },
+    {
+      "id": "PHY9CH2-063",
+      "q": "Which equation gives final velocity for uniform acceleration?",
+      "o": [
+        "v = u + at",
+        "v = u − t/a",
+        "v = a/(ut)",
+        "v = ut/a"
+      ],
+      "a": 0,
+      "e": "Rearrange a = (v − u)/t to obtain v = u + at.",
+      "d": "Easy",
+      "topic": "Acceleration",
+      "slo": "P-09-B-07"
+    },
+    {
+      "id": "PHY9CH2-064",
+      "q": "When a moving object reverses direction, which quantity definitely changes?",
+      "o": [
+        "Velocity",
+        "Time unit",
+        "Mass",
+        "Temperature"
+      ],
+      "a": 0,
+      "e": "Reversing direction changes the velocity vector.",
+      "d": "Easy",
+      "topic": "Speed and velocity",
+      "slo": "P-09-B-02"
+    },
+    {
+      "id": "PHY9CH2-065",
+      "q": "A car moves east at 12 m/s. Which statement correctly describes its velocity?",
+      "o": [
+        "12 m east",
+        "12 m/s² east",
+        "12 m/s east",
+        "12 seconds east"
+      ],
+      "a": 2,
+      "e": "Velocity must include speed and direction.",
+      "d": "Easy",
+      "topic": "Speed and velocity",
+      "slo": "P-09-B-02"
+    },
+    {
+      "id": "PHY9CH2-066",
+      "q": "Why can average speed differ from average velocity magnitude?",
+      "o": [
+        "Velocity has no units",
+        "Time is different for each",
+        "Speed has a direction",
+        "Distance can exceed displacement magnitude"
+      ],
+      "a": 3,
+      "e": "Average speed uses total distance, whereas average velocity uses net displacement.",
+      "d": "Easy",
+      "topic": "Speed and velocity",
+      "slo": "P-09-B-02"
+    },
+    {
+      "id": "PHY9CH2-067",
+      "q": "What is the gradient of a horizontal speed-time line?",
+      "o": [
+        "Undefined",
+        "Positive and increasing",
+        "Zero",
+        "Negative and decreasing"
+      ],
+      "a": 2,
+      "e": "A horizontal line has zero vertical change.",
+      "d": "Medium",
+      "topic": "Speed-time graphs",
+      "slo": "P-09-B-15"
+    },
+    {
+      "id": "PHY9CH2-068",
+      "q": "How is speed converted from km/h to m/s?",
+      "o": [
+        "Multiply by 1000",
+        "Multiply by 3.6",
+        "Divide by 60",
+        "Divide by 3.6"
+      ],
+      "a": 3,
+      "e": "1 km/h = 1000/3600 m/s.",
+      "d": "Easy",
+      "topic": "Speed and velocity",
+      "slo": "P-09-B-03"
+    },
+    {
+      "id": "PHY9CH2-069",
+      "q": "How is speed converted from m/s to km/h?",
+      "o": [
+        "Divide by 1000",
+        "Multiply by 3.6",
+        "Multiply by 60",
+        "Divide by 3.6"
+      ],
+      "a": 1,
+      "e": "1 m/s = 3.6 km/h.",
+      "d": "Easy",
+      "topic": "Speed and velocity",
+      "slo": "P-09-B-03"
+    },
+    {
+      "id": "PHY9CH2-070",
+      "q": "What does a nonzero slope on a speed-time graph indicate?",
+      "o": [
+        "Changing speed",
+        "Zero elapsed time",
+        "Zero distance",
+        "Constant speed"
+      ],
+      "a": 0,
+      "e": "Nonzero slope means speed varies with time.",
+      "d": "Medium",
+      "topic": "Speed-time graphs",
+      "slo": "P-09-B-15"
+    },
+    {
+      "id": "PHY9CH2-071",
+      "q": "Which pair contains only vectors?",
+      "o": [
+        "Speed and time",
+        "Time and distance",
+        "Velocity and acceleration",
+        "Distance and speed"
+      ],
+      "a": 2,
+      "e": "Both velocity and acceleration have direction.",
+      "d": "Easy",
+      "topic": "Speed and velocity",
+      "slo": "P-09-B-02"
+    },
+    {
+      "id": "PHY9CH2-072",
+      "q": "Which pair contains only scalars?",
+      "o": [
+        "Displacement and velocity",
+        "Displacement and acceleration",
+        "Velocity and acceleration",
+        "Distance and speed"
+      ],
+      "a": 3,
+      "e": "Both distance and speed have magnitude only.",
+      "d": "Easy",
+      "topic": "Speed and velocity",
+      "slo": "P-09-B-02"
+    },
+    {
+      "id": "PHY9CH2-073",
+      "q": "A stone falls vertically from rest. How does its speed change (ignoring drag)?",
+      "o": [
+        "It increases by about 9.8 m/s each second",
+        "It decreases by 9.8 m/s each second",
+        "It stays zero",
+        "It doubles exactly every second"
+      ],
+      "a": 0,
+      "e": "Free fall has approximately constant acceleration of 9.8 m/s².",
+      "d": "Easy",
+      "topic": "Motion due to gravity",
+      "slo": "P-09-B-10"
+    },
+    {
+      "id": "PHY9CH2-074",
+      "q": "For an object thrown upward, which direction is gravitational acceleration?",
+      "o": [
+        "Upward on ascent",
+        "Alternating each second",
+        "Zero at the top",
+        "Downward throughout"
+      ],
+      "a": 3,
+      "e": "Gravity points downward during ascent, at the top, and during descent.",
+      "d": "Easy",
+      "topic": "Motion due to gravity",
+      "slo": "P-09-B-10"
+    },
+    {
+      "id": "PHY9CH2-075",
+      "q": "What is the main difference between instantaneous and average speed?",
+      "o": [
+        "Average speed has direction",
+        "Instantaneous speed is at one moment; average covers an interval",
+        "Average speed is always larger",
+        "Instantaneous speed has direction"
+      ],
+      "a": 1,
+      "e": "Instantaneous speed refers to an instant; average speed to a full interval.",
+      "d": "Easy",
+      "topic": "Average and instantaneous speed",
+      "slo": "P-09-B-05"
+    },
+    {
+      "id": "PHY9CH2-076",
+      "q": "What does the symbol Δ usually indicate in motion equations?",
+      "o": [
+        "Multiplication",
+        "Division",
+        "Zero velocity",
+        "Change in a quantity"
+      ],
+      "a": 3,
+      "e": "Δ indicates final value minus initial value.",
+      "d": "Easy",
+      "topic": "Acceleration",
+      "slo": "P-09-B-07"
+    },
+    {
+      "id": "PHY9CH2-077",
+      "q": "If a car slows while traveling east, its acceleration points:",
+      "o": [
+        "North",
+        "East",
+        "Always upward",
+        "West"
+      ],
+      "a": 3,
+      "e": "Acceleration opposes eastward velocity during slowing.",
+      "d": "Medium",
+      "topic": "Acceleration",
+      "slo": "P-09-B-08"
+    },
+    {
+      "id": "PHY9CH2-078",
+      "q": "If a car speeds up while traveling west, its acceleration points:",
+      "o": [
+        "North",
+        "West",
+        "Always downward",
+        "East"
+      ],
+      "a": 1,
+      "e": "Acceleration is in the direction of increasing westward velocity.",
+      "d": "Medium",
+      "topic": "Acceleration",
+      "slo": "P-09-B-08"
+    },
+    {
+      "id": "PHY9CH2-079",
+      "q": "Which motion can have constant speed but changing velocity?",
+      "o": [
+        "Rest",
+        "Straight-line uniform motion",
+        "Straight-line motion at constant velocity",
+        "Uniform circular motion"
+      ],
+      "a": 3,
+      "e": "Circular motion continually changes direction.",
+      "d": "Easy",
+      "topic": "Uniform velocity",
+      "slo": "P-09-B-06"
+    },
+    {
+      "id": "PHY9CH2-080",
+      "q": "What does a steeper speed-time graph indicate in magnitude?",
+      "o": [
+        "Larger mass",
+        "Always larger distance",
+        "Larger rate of change of speed",
+        "Larger total time"
+      ],
+      "a": 2,
+      "e": "Steeper slope means a larger acceleration magnitude for straight-line motion.",
+      "d": "Medium",
+      "topic": "Speed-time graphs",
+      "slo": "P-09-B-15"
+    },
+    {
+      "id": "PHY9CH2-081",
+      "q": "Which is needed to specify a velocity completely?",
+      "o": [
+        "Distance only",
+        "Magnitude and direction",
+        "Time only",
+        "Magnitude only"
+      ],
+      "a": 1,
+      "e": "Velocity is a vector and requires direction.",
+      "d": "Easy",
+      "topic": "Speed and velocity",
+      "slo": "P-09-B-02"
+    },
+    {
+      "id": "PHY9CH2-082",
+      "q": "For a complete round trip, average velocity is:",
+      "o": [
+        "Always equal to average speed",
+        "Equal to total distance",
+        "Zero",
+        "Always negative"
+      ],
+      "a": 2,
+      "e": "A round trip has zero net displacement.",
+      "d": "Easy",
+      "topic": "Speed and velocity",
+      "slo": "P-09-B-02"
+    },
+    {
+      "id": "PHY9CH2-083",
+      "q": "In a distance-time graph, a straight line with greater gradient shows:",
+      "o": [
+        "Higher speed",
+        "Higher acceleration necessarily",
+        "Greater mass",
+        "Longer elapsed time necessarily"
+      ],
+      "a": 0,
+      "e": "Speed equals the slope of distance versus time.",
+      "d": "Easy",
+      "topic": "Distance-time graphs",
+      "slo": "P-09-B-11"
+    },
+    {
+      "id": "PHY9CH2-084",
+      "q": "Which measurement is needed with distance to calculate average speed?",
+      "o": [
+        "Temperature",
+        "Force",
+        "Mass",
+        "Elapsed time"
+      ],
+      "a": 3,
+      "e": "Average speed is total distance divided by total time.",
+      "d": "Easy",
+      "topic": "Average speed",
+      "slo": "P-09-B-04"
+    },
+    {
+      "id": "PHY9CH2-085",
+      "q": "In uniform acceleration, what remains constant?",
+      "o": [
+        "Displacement itself",
+        "Change in velocity per unit time",
+        "Distance per unit time",
+        "Velocity itself"
+      ],
+      "a": 1,
+      "e": "Constant acceleration means the rate of velocity change is constant.",
+      "d": "Medium",
+      "topic": "Acceleration",
+      "slo": "P-09-B-08"
+    },
+    {
+      "id": "PHY9CH2-086",
+      "q": "What is the speed of an object that remains at the same position?",
+      "o": [
+        "0 m/s",
+        "3 × 10⁸ m/s",
+        "9.8 m/s",
+        "1 m/s"
+      ],
+      "a": 0,
+      "e": "An object at rest covers no distance per unit time.",
+      "d": "Easy",
+      "topic": "Rest and motion",
+      "slo": "P-09-B-01"
+    },
+    {
+      "id": "PHY9CH2-087",
+      "q": "Which describes the displacement of a body moving 5 m north?",
+      "o": [
+        "5 s north",
+        "5 m/s² north",
+        "5 m north",
+        "5 m/s north"
+      ],
+      "a": 2,
+      "e": "Displacement is a directed length.",
+      "d": "Easy",
+      "topic": "Distance and displacement",
+      "slo": "P-09-B-02"
+    },
+    {
+      "id": "PHY9CH2-088",
+      "q": "A speed-time graph has zero area over an interval. What is the distance traveled?",
+      "o": [
+        "Infinite",
+        "Equal to elapsed time",
+        "Equal to acceleration",
+        "Zero"
+      ],
+      "a": 3,
+      "e": "Area under a speed-time graph gives distance.",
+      "d": "Medium",
+      "topic": "Speed-time graphs",
+      "slo": "P-09-B-13"
+    },
+    {
+      "id": "PHY9CH2-089",
+      "q": "A cyclist travels 8 m in 2 s at constant speed. Find the speed.",
+      "o": [
+        "8 m/s",
+        "2 m/s",
+        "4 m/s",
+        "6 m/s"
+      ],
+      "a": 2,
+      "e": "Speed = distance/time = 8/2 = 4 m/s.",
+      "d": "Medium",
+      "topic": "Speed and velocity",
+      "slo": "P-09-B-03"
+    },
+    {
+      "id": "PHY9CH2-090",
+      "q": "A cyclist travels 18 m in 3 s at constant speed. Find the speed.",
+      "o": [
+        "12 m/s",
+        "3 m/s",
+        "8 m/s",
+        "6 m/s"
+      ],
+      "a": 3,
+      "e": "Speed = distance/time = 18/3 = 6 m/s.",
+      "d": "Medium",
+      "topic": "Speed and velocity",
+      "slo": "P-09-B-03"
+    },
+    {
+      "id": "PHY9CH2-091",
+      "q": "A cyclist travels 32 m in 4 s at constant speed. Find the speed.",
+      "o": [
+        "4 m/s",
+        "16 m/s",
+        "8 m/s",
+        "10 m/s"
+      ],
+      "a": 2,
+      "e": "Speed = distance/time = 32/4 = 8 m/s.",
+      "d": "Medium",
+      "topic": "Speed and velocity",
+      "slo": "P-09-B-03"
+    },
+    {
+      "id": "PHY9CH2-092",
+      "q": "A cyclist travels 50 m in 5 s at constant speed. Find the speed.",
+      "o": [
+        "10 m/s",
+        "12 m/s",
+        "20 m/s",
+        "5 m/s"
+      ],
+      "a": 0,
+      "e": "Speed = distance/time = 50/5 = 10 m/s.",
+      "d": "Medium",
+      "topic": "Speed and velocity",
+      "slo": "P-09-B-03"
+    },
+    {
+      "id": "PHY9CH2-093",
+      "q": "A cyclist travels 72 m in 6 s at constant speed. Find the speed.",
+      "o": [
+        "12 m/s",
+        "24 m/s",
+        "14 m/s",
+        "6 m/s"
+      ],
+      "a": 0,
+      "e": "Speed = distance/time = 72/6 = 12 m/s.",
+      "d": "Medium",
+      "topic": "Speed and velocity",
+      "slo": "P-09-B-03"
+    },
+    {
+      "id": "PHY9CH2-094",
+      "q": "A cyclist travels 98 m in 7 s at constant speed. Find the speed.",
+      "o": [
+        "14 m/s",
+        "28 m/s",
+        "16 m/s",
+        "7 m/s"
+      ],
+      "a": 0,
+      "e": "Speed = distance/time = 98/7 = 14 m/s.",
+      "d": "Medium",
+      "topic": "Speed and velocity",
+      "slo": "P-09-B-03"
+    },
+    {
+      "id": "PHY9CH2-095",
+      "q": "A cyclist travels 128 m in 8 s at constant speed. Find the speed.",
+      "o": [
+        "8 m/s",
+        "18 m/s",
+        "32 m/s",
+        "16 m/s"
+      ],
+      "a": 3,
+      "e": "Speed = distance/time = 128/8 = 16 m/s.",
+      "d": "Medium",
+      "topic": "Speed and velocity",
+      "slo": "P-09-B-03"
+    },
+    {
+      "id": "PHY9CH2-096",
+      "q": "A cyclist travels 162 m in 9 s at constant speed. Find the speed.",
+      "o": [
+        "18 m/s",
+        "20 m/s",
+        "9 m/s",
+        "36 m/s"
+      ],
+      "a": 0,
+      "e": "Speed = distance/time = 162/9 = 18 m/s.",
+      "d": "Medium",
+      "topic": "Speed and velocity",
+      "slo": "P-09-B-03"
+    },
+    {
+      "id": "PHY9CH2-097",
+      "q": "A cyclist travels 200 m in 10 s at constant speed. Find the speed.",
+      "o": [
+        "40 m/s",
+        "20 m/s",
+        "22 m/s",
+        "10 m/s"
+      ],
+      "a": 1,
+      "e": "Speed = distance/time = 200/10 = 20 m/s.",
+      "d": "Medium",
+      "topic": "Speed and velocity",
+      "slo": "P-09-B-03"
+    },
+    {
+      "id": "PHY9CH2-098",
+      "q": "A cyclist travels 44 m in 11 s at constant speed. Find the speed.",
+      "o": [
+        "2 m/s",
+        "4 m/s",
+        "6 m/s",
+        "8 m/s"
+      ],
+      "a": 1,
+      "e": "Speed = distance/time = 44/11 = 4 m/s.",
+      "d": "Medium",
+      "topic": "Speed and velocity",
+      "slo": "P-09-B-03"
+    },
+    {
+      "id": "PHY9CH2-099",
+      "q": "A cyclist travels 72 m in 12 s at constant speed. Find the speed.",
+      "o": [
+        "6 m/s",
+        "3 m/s",
+        "8 m/s",
+        "12 m/s"
+      ],
+      "a": 0,
+      "e": "Speed = distance/time = 72/12 = 6 m/s.",
+      "d": "Medium",
+      "topic": "Speed and velocity",
+      "slo": "P-09-B-03"
+    },
+    {
+      "id": "PHY9CH2-100",
+      "q": "A cyclist travels 104 m in 13 s at constant speed. Find the speed.",
+      "o": [
+        "8 m/s",
+        "10 m/s",
+        "16 m/s",
+        "4 m/s"
+      ],
+      "a": 0,
+      "e": "Speed = distance/time = 104/13 = 8 m/s.",
+      "d": "Medium",
+      "topic": "Speed and velocity",
+      "slo": "P-09-B-03"
+    },
+    {
+      "id": "PHY9CH2-101",
+      "q": "A cyclist travels 140 m in 14 s at constant speed. Find the speed.",
+      "o": [
+        "20 m/s",
+        "5 m/s",
+        "10 m/s",
+        "12 m/s"
+      ],
+      "a": 2,
+      "e": "Speed = distance/time = 140/14 = 10 m/s.",
+      "d": "Medium",
+      "topic": "Speed and velocity",
+      "slo": "P-09-B-03"
+    },
+    {
+      "id": "PHY9CH2-102",
+      "q": "A cyclist travels 180 m in 15 s at constant speed. Find the speed.",
+      "o": [
+        "24 m/s",
+        "12 m/s",
+        "14 m/s",
+        "6 m/s"
+      ],
+      "a": 1,
+      "e": "Speed = distance/time = 180/15 = 12 m/s.",
+      "d": "Medium",
+      "topic": "Speed and velocity",
+      "slo": "P-09-B-03"
+    },
+    {
+      "id": "PHY9CH2-103",
+      "q": "A cyclist travels 224 m in 16 s at constant speed. Find the speed.",
+      "o": [
+        "28 m/s",
+        "16 m/s",
+        "14 m/s",
+        "7 m/s"
+      ],
+      "a": 2,
+      "e": "Speed = distance/time = 224/16 = 14 m/s.",
+      "d": "Medium",
+      "topic": "Speed and velocity",
+      "slo": "P-09-B-03"
+    },
+    {
+      "id": "PHY9CH2-104",
+      "q": "A cyclist travels 272 m in 17 s at constant speed. Find the speed.",
+      "o": [
+        "32 m/s",
+        "18 m/s",
+        "8 m/s",
+        "16 m/s"
+      ],
+      "a": 3,
+      "e": "Speed = distance/time = 272/17 = 16 m/s.",
+      "d": "Medium",
+      "topic": "Speed and velocity",
+      "slo": "P-09-B-03"
+    },
+    {
+      "id": "PHY9CH2-105",
+      "q": "A cyclist travels 324 m in 18 s at constant speed. Find the speed.",
+      "o": [
+        "9 m/s",
+        "18 m/s",
+        "20 m/s",
+        "36 m/s"
+      ],
+      "a": 1,
+      "e": "Speed = distance/time = 324/18 = 18 m/s.",
+      "d": "Medium",
+      "topic": "Speed and velocity",
+      "slo": "P-09-B-03"
+    },
+    {
+      "id": "PHY9CH2-106",
+      "q": "A cyclist travels 380 m in 19 s at constant speed. Find the speed.",
+      "o": [
+        "22 m/s",
+        "10 m/s",
+        "40 m/s",
+        "20 m/s"
+      ],
+      "a": 3,
+      "e": "Speed = distance/time = 380/19 = 20 m/s.",
+      "d": "Medium",
+      "topic": "Speed and velocity",
+      "slo": "P-09-B-03"
+    },
+    {
+      "id": "PHY9CH2-107",
+      "q": "A vehicle maintains a speed of 3 m/s for 3 s. How far does it travel?",
+      "o": [
+        "6 m",
+        "12 m",
+        "9 m",
+        "18 m"
+      ],
+      "a": 2,
+      "e": "Distance = speed × time = 3 × 3 = 9 m.",
+      "d": "Medium",
+      "topic": "Speed and velocity",
+      "slo": "P-09-B-03"
+    },
+    {
+      "id": "PHY9CH2-108",
+      "q": "A vehicle maintains a speed of 4 m/s for 4 s. How far does it travel?",
+      "o": [
+        "16 m",
+        "32 m",
+        "12 m",
+        "20 m"
+      ],
+      "a": 0,
+      "e": "Distance = speed × time = 4 × 4 = 16 m.",
+      "d": "Medium",
+      "topic": "Speed and velocity",
+      "slo": "P-09-B-03"
+    },
+    {
+      "id": "PHY9CH2-109",
+      "q": "A vehicle maintains a speed of 5 m/s for 5 s. How far does it travel?",
+      "o": [
+        "50 m",
+        "25 m",
+        "20 m",
+        "30 m"
+      ],
+      "a": 1,
+      "e": "Distance = speed × time = 5 × 5 = 25 m.",
+      "d": "Medium",
+      "topic": "Speed and velocity",
+      "slo": "P-09-B-03"
+    },
+    {
+      "id": "PHY9CH2-110",
+      "q": "A vehicle maintains a speed of 6 m/s for 6 s. How far does it travel?",
+      "o": [
+        "36 m",
+        "42 m",
+        "30 m",
+        "72 m"
+      ],
+      "a": 0,
+      "e": "Distance = speed × time = 6 × 6 = 36 m.",
+      "d": "Medium",
+      "topic": "Speed and velocity",
+      "slo": "P-09-B-03"
+    },
+    {
+      "id": "PHY9CH2-111",
+      "q": "A vehicle maintains a speed of 7 m/s for 7 s. How far does it travel?",
+      "o": [
+        "49 m",
+        "98 m",
+        "56 m",
+        "42 m"
+      ],
+      "a": 0,
+      "e": "Distance = speed × time = 7 × 7 = 49 m.",
+      "d": "Medium",
+      "topic": "Speed and velocity",
+      "slo": "P-09-B-03"
+    },
+    {
+      "id": "PHY9CH2-112",
+      "q": "A vehicle maintains a speed of 8 m/s for 8 s. How far does it travel?",
+      "o": [
+        "64 m",
+        "56 m",
+        "128 m",
+        "72 m"
+      ],
+      "a": 0,
+      "e": "Distance = speed × time = 8 × 8 = 64 m.",
+      "d": "Medium",
+      "topic": "Speed and velocity",
+      "slo": "P-09-B-03"
+    },
+    {
+      "id": "PHY9CH2-113",
+      "q": "A vehicle maintains a speed of 9 m/s for 9 s. How far does it travel?",
+      "o": [
+        "81 m",
+        "90 m",
+        "162 m",
+        "72 m"
+      ],
+      "a": 0,
+      "e": "Distance = speed × time = 9 × 9 = 81 m.",
+      "d": "Medium",
+      "topic": "Speed and velocity",
+      "slo": "P-09-B-03"
+    },
+    {
+      "id": "PHY9CH2-114",
+      "q": "A vehicle maintains a speed of 10 m/s for 10 s. How far does it travel?",
+      "o": [
+        "90 m",
+        "100 m",
+        "200 m",
+        "110 m"
+      ],
+      "a": 1,
+      "e": "Distance = speed × time = 10 × 10 = 100 m.",
+      "d": "Medium",
+      "topic": "Speed and velocity",
+      "slo": "P-09-B-03"
+    },
+    {
+      "id": "PHY9CH2-115",
+      "q": "A vehicle maintains a speed of 3 m/s for 11 s. How far does it travel?",
+      "o": [
+        "44 m",
+        "22 m",
+        "66 m",
+        "33 m"
+      ],
+      "a": 3,
+      "e": "Distance = speed × time = 3 × 11 = 33 m.",
+      "d": "Medium",
+      "topic": "Speed and velocity",
+      "slo": "P-09-B-03"
+    },
+    {
+      "id": "PHY9CH2-116",
+      "q": "A vehicle maintains a speed of 4 m/s for 12 s. How far does it travel?",
+      "o": [
+        "48 m",
+        "60 m",
+        "36 m",
+        "96 m"
+      ],
+      "a": 0,
+      "e": "Distance = speed × time = 4 × 12 = 48 m.",
+      "d": "Medium",
+      "topic": "Speed and velocity",
+      "slo": "P-09-B-03"
+    },
+    {
+      "id": "PHY9CH2-117",
+      "q": "A vehicle maintains a speed of 5 m/s for 13 s. How far does it travel?",
+      "o": [
+        "78 m",
+        "65 m",
+        "130 m",
+        "52 m"
+      ],
+      "a": 1,
+      "e": "Distance = speed × time = 5 × 13 = 65 m.",
+      "d": "Medium",
+      "topic": "Speed and velocity",
+      "slo": "P-09-B-03"
+    },
+    {
+      "id": "PHY9CH2-118",
+      "q": "A vehicle maintains a speed of 6 m/s for 14 s. How far does it travel?",
+      "o": [
+        "98 m",
+        "70 m",
+        "84 m",
+        "168 m"
+      ],
+      "a": 2,
+      "e": "Distance = speed × time = 6 × 14 = 84 m.",
+      "d": "Medium",
+      "topic": "Speed and velocity",
+      "slo": "P-09-B-03"
+    },
+    {
+      "id": "PHY9CH2-119",
+      "q": "A vehicle maintains a speed of 7 m/s for 15 s. How far does it travel?",
+      "o": [
+        "105 m",
+        "120 m",
+        "90 m",
+        "210 m"
+      ],
+      "a": 0,
+      "e": "Distance = speed × time = 7 × 15 = 105 m.",
+      "d": "Medium",
+      "topic": "Speed and velocity",
+      "slo": "P-09-B-03"
+    },
+    {
+      "id": "PHY9CH2-120",
+      "q": "A vehicle maintains a speed of 8 m/s for 16 s. How far does it travel?",
+      "o": [
+        "112 m",
+        "256 m",
+        "128 m",
+        "144 m"
+      ],
+      "a": 2,
+      "e": "Distance = speed × time = 8 × 16 = 128 m.",
+      "d": "Medium",
+      "topic": "Speed and velocity",
+      "slo": "P-09-B-03"
+    },
+    {
+      "id": "PHY9CH2-121",
+      "q": "A vehicle maintains a speed of 9 m/s for 17 s. How far does it travel?",
+      "o": [
+        "306 m",
+        "153 m",
+        "170 m",
+        "136 m"
+      ],
+      "a": 1,
+      "e": "Distance = speed × time = 9 × 17 = 153 m.",
+      "d": "Medium",
+      "topic": "Speed and velocity",
+      "slo": "P-09-B-03"
+    },
+    {
+      "id": "PHY9CH2-122",
+      "q": "A vehicle maintains a speed of 10 m/s for 18 s. How far does it travel?",
+      "o": [
+        "180 m",
+        "162 m",
+        "360 m",
+        "198 m"
+      ],
+      "a": 0,
+      "e": "Distance = speed × time = 10 × 18 = 180 m.",
+      "d": "Medium",
+      "topic": "Speed and velocity",
+      "slo": "P-09-B-03"
+    },
+    {
+      "id": "PHY9CH2-123",
+      "q": "A vehicle maintains a speed of 3 m/s for 19 s. How far does it travel?",
+      "o": [
+        "38 m",
+        "76 m",
+        "114 m",
+        "57 m"
+      ],
+      "a": 3,
+      "e": "Distance = speed × time = 3 × 19 = 57 m.",
+      "d": "Medium",
+      "topic": "Speed and velocity",
+      "slo": "P-09-B-03"
+    },
+    {
+      "id": "PHY9CH2-124",
+      "q": "A vehicle maintains a speed of 4 m/s for 20 s. How far does it travel?",
+      "o": [
+        "80 m",
+        "160 m",
+        "60 m",
+        "100 m"
+      ],
+      "a": 0,
+      "e": "Distance = speed × time = 4 × 20 = 80 m.",
+      "d": "Medium",
+      "topic": "Speed and velocity",
+      "slo": "P-09-B-03"
+    },
+    {
+      "id": "PHY9CH2-125",
+      "q": "A runner covers 16 m at a constant speed of 4 m/s. Find the time taken.",
+      "o": [
+        "6 s",
+        "4 s",
+        "8 s",
+        "9 s"
+      ],
+      "a": 1,
+      "e": "Time = distance/speed = 16/4 = 4 s.",
+      "d": "Medium",
+      "topic": "Speed and velocity",
+      "slo": "P-09-B-03"
+    },
+    {
+      "id": "PHY9CH2-126",
+      "q": "A runner covers 25 m at a constant speed of 5 m/s. Find the time taken.",
+      "o": [
+        "10 s",
+        "7 s",
+        "11 s",
+        "5 s"
+      ],
+      "a": 3,
+      "e": "Time = distance/speed = 25/5 = 5 s.",
+      "d": "Medium",
+      "topic": "Speed and velocity",
+      "slo": "P-09-B-03"
+    },
+    {
+      "id": "PHY9CH2-127",
+      "q": "A runner covers 36 m at a constant speed of 6 m/s. Find the time taken.",
+      "o": [
+        "12 s",
+        "6 s",
+        "8 s",
+        "13 s"
+      ],
+      "a": 1,
+      "e": "Time = distance/speed = 36/6 = 6 s.",
+      "d": "Medium",
+      "topic": "Speed and velocity",
+      "slo": "P-09-B-03"
+    },
+    {
+      "id": "PHY9CH2-128",
+      "q": "A runner covers 49 m at a constant speed of 7 m/s. Find the time taken.",
+      "o": [
+        "15 s",
+        "9 s",
+        "7 s",
+        "14 s"
+      ],
+      "a": 2,
+      "e": "Time = distance/speed = 49/7 = 7 s.",
+      "d": "Medium",
+      "topic": "Speed and velocity",
+      "slo": "P-09-B-03"
+    },
+    {
+      "id": "PHY9CH2-129",
+      "q": "A runner covers 64 m at a constant speed of 8 m/s. Find the time taken.",
+      "o": [
+        "10 s",
+        "16 s",
+        "8 s",
+        "17 s"
+      ],
+      "a": 2,
+      "e": "Time = distance/speed = 64/8 = 8 s.",
+      "d": "Medium",
+      "topic": "Speed and velocity",
+      "slo": "P-09-B-03"
+    },
+    {
+      "id": "PHY9CH2-130",
+      "q": "A runner covers 81 m at a constant speed of 9 m/s. Find the time taken.",
+      "o": [
+        "11 s",
+        "9 s",
+        "19 s",
+        "18 s"
+      ],
+      "a": 1,
+      "e": "Time = distance/speed = 81/9 = 9 s.",
+      "d": "Medium",
+      "topic": "Speed and velocity",
+      "slo": "P-09-B-03"
+    },
+    {
+      "id": "PHY9CH2-131",
+      "q": "A runner covers 100 m at a constant speed of 10 m/s. Find the time taken.",
+      "o": [
+        "12 s",
+        "10 s",
+        "21 s",
+        "20 s"
+      ],
+      "a": 1,
+      "e": "Time = distance/speed = 100/10 = 10 s.",
+      "d": "Medium",
+      "topic": "Speed and velocity",
+      "slo": "P-09-B-03"
+    },
+    {
+      "id": "PHY9CH2-132",
+      "q": "A runner covers 121 m at a constant speed of 11 m/s. Find the time taken.",
+      "o": [
+        "13 s",
+        "22 s",
+        "23 s",
+        "11 s"
+      ],
+      "a": 3,
+      "e": "Time = distance/speed = 121/11 = 11 s.",
+      "d": "Medium",
+      "topic": "Speed and velocity",
+      "slo": "P-09-B-03"
+    },
+    {
+      "id": "PHY9CH2-133",
+      "q": "A runner covers 48 m at a constant speed of 4 m/s. Find the time taken.",
+      "o": [
+        "16 s",
+        "12 s",
+        "14 s",
+        "24 s"
+      ],
+      "a": 1,
+      "e": "Time = distance/speed = 48/4 = 12 s.",
+      "d": "Medium",
+      "topic": "Speed and velocity",
+      "slo": "P-09-B-03"
+    },
+    {
+      "id": "PHY9CH2-134",
+      "q": "A runner covers 65 m at a constant speed of 5 m/s. Find the time taken.",
+      "o": [
+        "15 s",
+        "13 s",
+        "18 s",
+        "26 s"
+      ],
+      "a": 1,
+      "e": "Time = distance/speed = 65/5 = 13 s.",
+      "d": "Medium",
+      "topic": "Speed and velocity",
+      "slo": "P-09-B-03"
+    },
+    {
+      "id": "PHY9CH2-135",
+      "q": "A runner covers 84 m at a constant speed of 6 m/s. Find the time taken.",
+      "o": [
+        "20 s",
+        "28 s",
+        "14 s",
+        "16 s"
+      ],
+      "a": 2,
+      "e": "Time = distance/speed = 84/6 = 14 s.",
+      "d": "Medium",
+      "topic": "Speed and velocity",
+      "slo": "P-09-B-03"
+    },
+    {
+      "id": "PHY9CH2-136",
+      "q": "A runner covers 105 m at a constant speed of 7 m/s. Find the time taken.",
+      "o": [
+        "30 s",
+        "17 s",
+        "15 s",
+        "22 s"
+      ],
+      "a": 2,
+      "e": "Time = distance/speed = 105/7 = 15 s.",
+      "d": "Medium",
+      "topic": "Speed and velocity",
+      "slo": "P-09-B-03"
+    },
+    {
+      "id": "PHY9CH2-137",
+      "q": "A runner covers 128 m at a constant speed of 8 m/s. Find the time taken.",
+      "o": [
+        "32 s",
+        "24 s",
+        "18 s",
+        "16 s"
+      ],
+      "a": 3,
+      "e": "Time = distance/speed = 128/8 = 16 s.",
+      "d": "Medium",
+      "topic": "Speed and velocity",
+      "slo": "P-09-B-03"
+    },
+    {
+      "id": "PHY9CH2-138",
+      "q": "A runner covers 153 m at a constant speed of 9 m/s. Find the time taken.",
+      "o": [
+        "34 s",
+        "19 s",
+        "26 s",
+        "17 s"
+      ],
+      "a": 3,
+      "e": "Time = distance/speed = 153/9 = 17 s.",
+      "d": "Medium",
+      "topic": "Speed and velocity",
+      "slo": "P-09-B-03"
+    },
+    {
+      "id": "PHY9CH2-139",
+      "q": "A runner covers 180 m at a constant speed of 10 m/s. Find the time taken.",
+      "o": [
+        "20 s",
+        "18 s",
+        "28 s",
+        "36 s"
+      ],
+      "a": 1,
+      "e": "Time = distance/speed = 180/10 = 18 s.",
+      "d": "Medium",
+      "topic": "Speed and velocity",
+      "slo": "P-09-B-03"
+    },
+    {
+      "id": "PHY9CH2-140",
+      "q": "A runner covers 209 m at a constant speed of 11 m/s. Find the time taken.",
+      "o": [
+        "21 s",
+        "38 s",
+        "30 s",
+        "19 s"
+      ],
+      "a": 3,
+      "e": "Time = distance/speed = 209/11 = 19 s.",
+      "d": "Medium",
+      "topic": "Speed and velocity",
+      "slo": "P-09-B-03"
+    },
+    {
+      "id": "PHY9CH2-141",
+      "q": "A runner covers 80 m at a constant speed of 4 m/s. Find the time taken.",
+      "o": [
+        "24 s",
+        "40 s",
+        "20 s",
+        "22 s"
+      ],
+      "a": 2,
+      "e": "Time = distance/speed = 80/4 = 20 s.",
+      "d": "Medium",
+      "topic": "Speed and velocity",
+      "slo": "P-09-B-03"
+    },
+    {
+      "id": "PHY9CH2-142",
+      "q": "A runner covers 105 m at a constant speed of 5 m/s. Find the time taken.",
+      "o": [
+        "42 s",
+        "26 s",
+        "21 s",
+        "23 s"
+      ],
+      "a": 2,
+      "e": "Time = distance/speed = 105/5 = 21 s.",
+      "d": "Medium",
+      "topic": "Speed and velocity",
+      "slo": "P-09-B-03"
+    },
+    {
+      "id": "PHY9CH2-143",
+      "q": "A car has initial velocity 1 m/s and accelerates uniformly at 2 m/s² for 2 s. Find its final velocity.",
+      "o": [
+        "5 m/s",
+        "6 m/s",
+        "7 m/s",
+        "3 m/s"
+      ],
+      "a": 0,
+      "e": "v = u + at = 1 + 2 × 2 = 5 m/s.",
+      "d": "Medium",
+      "topic": "Acceleration",
+      "slo": "P-09-B-07"
+    },
+    {
+      "id": "PHY9CH2-144",
+      "q": "A car has initial velocity 2 m/s and accelerates uniformly at 3 m/s² for 3 s. Find its final velocity.",
+      "o": [
+        "13 m/s",
+        "8 m/s",
+        "11 m/s",
+        "14 m/s"
+      ],
+      "a": 2,
+      "e": "v = u + at = 2 + 3 × 3 = 11 m/s.",
+      "d": "Medium",
+      "topic": "Acceleration",
+      "slo": "P-09-B-07"
+    },
+    {
+      "id": "PHY9CH2-145",
+      "q": "A car has initial velocity 3 m/s and accelerates uniformly at 4 m/s² for 4 s. Find its final velocity.",
+      "o": [
+        "23 m/s",
+        "15 m/s",
+        "22 m/s",
+        "19 m/s"
+      ],
+      "a": 3,
+      "e": "v = u + at = 3 + 4 × 4 = 19 m/s.",
+      "d": "Medium",
+      "topic": "Acceleration",
+      "slo": "P-09-B-07"
+    },
+    {
+      "id": "PHY9CH2-146",
+      "q": "A car has initial velocity 4 m/s and accelerates uniformly at 5 m/s² for 5 s. Find its final velocity.",
+      "o": [
+        "33 m/s",
+        "34 m/s",
+        "29 m/s",
+        "24 m/s"
+      ],
+      "a": 2,
+      "e": "v = u + at = 4 + 5 × 5 = 29 m/s.",
+      "d": "Medium",
+      "topic": "Acceleration",
+      "slo": "P-09-B-07"
+    },
+    {
+      "id": "PHY9CH2-147",
+      "q": "A car has initial velocity 5 m/s and accelerates uniformly at 6 m/s² for 6 s. Find its final velocity.",
+      "o": [
+        "41 m/s",
+        "35 m/s",
+        "46 m/s",
+        "47 m/s"
+      ],
+      "a": 0,
+      "e": "v = u + at = 5 + 6 × 6 = 41 m/s.",
+      "d": "Medium",
+      "topic": "Acceleration",
+      "slo": "P-09-B-07"
+    },
+    {
+      "id": "PHY9CH2-148",
+      "q": "A car has initial velocity 1 m/s and accelerates uniformly at 7 m/s² for 7 s. Find its final velocity.",
+      "o": [
+        "57 m/s",
+        "43 m/s",
+        "51 m/s",
+        "50 m/s"
+      ],
+      "a": 3,
+      "e": "v = u + at = 1 + 7 × 7 = 50 m/s.",
+      "d": "Medium",
+      "topic": "Acceleration",
+      "slo": "P-09-B-07"
+    },
+    {
+      "id": "PHY9CH2-149",
+      "q": "A car has initial velocity 2 m/s and accelerates uniformly at 8 m/s² for 8 s. Find its final velocity.",
+      "o": [
+        "68 m/s",
+        "66 m/s",
+        "58 m/s",
+        "74 m/s"
+      ],
+      "a": 1,
+      "e": "v = u + at = 2 + 8 × 8 = 66 m/s.",
+      "d": "Medium",
+      "topic": "Acceleration",
+      "slo": "P-09-B-07"
+    },
+    {
+      "id": "PHY9CH2-150",
+      "q": "A car has initial velocity 3 m/s and accelerates uniformly at 9 m/s² for 9 s. Find its final velocity.",
+      "o": [
+        "93 m/s",
+        "84 m/s",
+        "75 m/s",
+        "87 m/s"
+      ],
+      "a": 1,
+      "e": "v = u + at = 3 + 9 × 9 = 84 m/s.",
+      "d": "Medium",
+      "topic": "Acceleration",
+      "slo": "P-09-B-07"
+    },
+    {
+      "id": "PHY9CH2-151",
+      "q": "A car has initial velocity 4 m/s and accelerates uniformly at 2 m/s² for 10 s. Find its final velocity.",
+      "o": [
+        "22 m/s",
+        "28 m/s",
+        "26 m/s",
+        "24 m/s"
+      ],
+      "a": 3,
+      "e": "v = u + at = 4 + 2 × 10 = 24 m/s.",
+      "d": "Medium",
+      "topic": "Acceleration",
+      "slo": "P-09-B-07"
+    },
+    {
+      "id": "PHY9CH2-152",
+      "q": "A car has initial velocity 5 m/s and accelerates uniformly at 3 m/s² for 11 s. Find its final velocity.",
+      "o": [
+        "41 m/s",
+        "38 m/s",
+        "35 m/s",
+        "43 m/s"
+      ],
+      "a": 1,
+      "e": "v = u + at = 5 + 3 × 11 = 38 m/s.",
+      "d": "Medium",
+      "topic": "Acceleration",
+      "slo": "P-09-B-07"
+    },
+    {
+      "id": "PHY9CH2-153",
+      "q": "A car has initial velocity 1 m/s and accelerates uniformly at 4 m/s² for 12 s. Find its final velocity.",
+      "o": [
+        "45 m/s",
+        "50 m/s",
+        "49 m/s",
+        "53 m/s"
+      ],
+      "a": 2,
+      "e": "v = u + at = 1 + 4 × 12 = 49 m/s.",
+      "d": "Medium",
+      "topic": "Acceleration",
+      "slo": "P-09-B-07"
+    },
+    {
+      "id": "PHY9CH2-154",
+      "q": "A car has initial velocity 2 m/s and accelerates uniformly at 5 m/s² for 13 s. Find its final velocity.",
+      "o": [
+        "72 m/s",
+        "62 m/s",
+        "69 m/s",
+        "67 m/s"
+      ],
+      "a": 3,
+      "e": "v = u + at = 2 + 5 × 13 = 67 m/s.",
+      "d": "Medium",
+      "topic": "Acceleration",
+      "slo": "P-09-B-07"
+    },
+    {
+      "id": "PHY9CH2-155",
+      "q": "A car has initial velocity 3 m/s and accelerates uniformly at 6 m/s² for 14 s. Find its final velocity.",
+      "o": [
+        "87 m/s",
+        "90 m/s",
+        "93 m/s",
+        "81 m/s"
+      ],
+      "a": 0,
+      "e": "v = u + at = 3 + 6 × 14 = 87 m/s.",
+      "d": "Medium",
+      "topic": "Acceleration",
+      "slo": "P-09-B-07"
+    },
+    {
+      "id": "PHY9CH2-156",
+      "q": "A car has initial velocity 4 m/s and accelerates uniformly at 7 m/s² for 15 s. Find its final velocity.",
+      "o": [
+        "116 m/s",
+        "109 m/s",
+        "102 m/s",
+        "113 m/s"
+      ],
+      "a": 1,
+      "e": "v = u + at = 4 + 7 × 15 = 109 m/s.",
+      "d": "Medium",
+      "topic": "Acceleration",
+      "slo": "P-09-B-07"
+    },
+    {
+      "id": "PHY9CH2-157",
+      "q": "A car has initial velocity 5 m/s and accelerates uniformly at 8 m/s² for 16 s. Find its final velocity.",
+      "o": [
+        "141 m/s",
+        "133 m/s",
+        "138 m/s",
+        "125 m/s"
+      ],
+      "a": 1,
+      "e": "v = u + at = 5 + 8 × 16 = 133 m/s.",
+      "d": "Medium",
+      "topic": "Acceleration",
+      "slo": "P-09-B-07"
+    },
+    {
+      "id": "PHY9CH2-158",
+      "q": "A car has initial velocity 1 m/s and accelerates uniformly at 9 m/s² for 17 s. Find its final velocity.",
+      "o": [
+        "155 m/s",
+        "154 m/s",
+        "163 m/s",
+        "145 m/s"
+      ],
+      "a": 1,
+      "e": "v = u + at = 1 + 9 × 17 = 154 m/s.",
+      "d": "Medium",
+      "topic": "Acceleration",
+      "slo": "P-09-B-07"
+    },
+    {
+      "id": "PHY9CH2-159",
+      "q": "A car has initial velocity 2 m/s and accelerates uniformly at 2 m/s² for 18 s. Find its final velocity.",
+      "o": [
+        "40 m/s",
+        "36 m/s",
+        "38 m/s",
+        "41 m/s"
+      ],
+      "a": 2,
+      "e": "v = u + at = 2 + 2 × 18 = 38 m/s.",
+      "d": "Medium",
+      "topic": "Acceleration",
+      "slo": "P-09-B-07"
+    },
+    {
+      "id": "PHY9CH2-160",
+      "q": "A car has initial velocity 3 m/s and accelerates uniformly at 3 m/s² for 19 s. Find its final velocity.",
+      "o": [
+        "60 m/s",
+        "64 m/s",
+        "63 m/s",
+        "57 m/s"
+      ],
+      "a": 0,
+      "e": "v = u + at = 3 + 3 × 19 = 60 m/s.",
+      "d": "Medium",
+      "topic": "Acceleration",
+      "slo": "P-09-B-07"
+    },
+    {
+      "id": "PHY9CH2-161",
+      "q": "A trolley changes velocity from 2 m/s to 8 m/s in 3 s. Find its acceleration.",
+      "o": [
+        "4 m/s²",
+        "2 m/s²",
+        "3 m/s²",
+        "5 m/s²"
+      ],
+      "a": 1,
+      "e": "a = (v − u)/t = (8 − 2)/3 = 2 m/s².",
+      "d": "Medium",
+      "topic": "Acceleration",
+      "slo": "P-09-B-07"
+    },
+    {
+      "id": "PHY9CH2-162",
+      "q": "A trolley changes velocity from 3 m/s to 15 m/s in 4 s. Find its acceleration.",
+      "o": [
+        "7 m/s²",
+        "3 m/s²",
+        "6 m/s²",
+        "4 m/s²"
+      ],
+      "a": 1,
+      "e": "a = (v − u)/t = (15 − 3)/4 = 3 m/s².",
+      "d": "Medium",
+      "topic": "Acceleration",
+      "slo": "P-09-B-07"
+    },
+    {
+      "id": "PHY9CH2-163",
+      "q": "A trolley changes velocity from 4 m/s to 24 m/s in 5 s. Find its acceleration.",
+      "o": [
+        "5 m/s²",
+        "4 m/s²",
+        "8 m/s²",
+        "9 m/s²"
+      ],
+      "a": 1,
+      "e": "a = (v − u)/t = (24 − 4)/5 = 4 m/s².",
+      "d": "Medium",
+      "topic": "Acceleration",
+      "slo": "P-09-B-07"
+    },
+    {
+      "id": "PHY9CH2-164",
+      "q": "A trolley changes velocity from 5 m/s to 35 m/s in 6 s. Find its acceleration.",
+      "o": [
+        "6 m/s²",
+        "10 m/s²",
+        "5 m/s²",
+        "11 m/s²"
+      ],
+      "a": 2,
+      "e": "a = (v − u)/t = (35 − 5)/6 = 5 m/s².",
+      "d": "Medium",
+      "topic": "Acceleration",
+      "slo": "P-09-B-07"
+    },
+    {
+      "id": "PHY9CH2-165",
+      "q": "A trolley changes velocity from 6 m/s to 48 m/s in 7 s. Find its acceleration.",
+      "o": [
+        "12 m/s²",
+        "6 m/s²",
+        "13 m/s²",
+        "7 m/s²"
+      ],
+      "a": 1,
+      "e": "a = (v − u)/t = (48 − 6)/7 = 6 m/s².",
+      "d": "Medium",
+      "topic": "Acceleration",
+      "slo": "P-09-B-07"
+    },
+    {
+      "id": "PHY9CH2-166",
+      "q": "A trolley changes velocity from 2 m/s to 58 m/s in 8 s. Find its acceleration.",
+      "o": [
+        "8 m/s²",
+        "15 m/s²",
+        "7 m/s²",
+        "14 m/s²"
+      ],
+      "a": 2,
+      "e": "a = (v − u)/t = (58 − 2)/8 = 7 m/s².",
+      "d": "Medium",
+      "topic": "Acceleration",
+      "slo": "P-09-B-07"
+    },
+    {
+      "id": "PHY9CH2-167",
+      "q": "A trolley changes velocity from 3 m/s to 75 m/s in 9 s. Find its acceleration.",
+      "o": [
+        "17 m/s²",
+        "9 m/s²",
+        "8 m/s²",
+        "16 m/s²"
+      ],
+      "a": 2,
+      "e": "a = (v − u)/t = (75 − 3)/9 = 8 m/s².",
+      "d": "Medium",
+      "topic": "Acceleration",
+      "slo": "P-09-B-07"
+    },
+    {
+      "id": "PHY9CH2-168",
+      "q": "A trolley changes velocity from 4 m/s to 24 m/s in 10 s. Find its acceleration.",
+      "o": [
+        "3 m/s²",
+        "12 m/s²",
+        "4 m/s²",
+        "2 m/s²"
+      ],
+      "a": 3,
+      "e": "a = (v − u)/t = (24 − 4)/10 = 2 m/s².",
+      "d": "Medium",
+      "topic": "Acceleration",
+      "slo": "P-09-B-07"
+    },
+    {
+      "id": "PHY9CH2-169",
+      "q": "A trolley changes velocity from 5 m/s to 38 m/s in 11 s. Find its acceleration.",
+      "o": [
+        "4 m/s²",
+        "14 m/s²",
+        "3 m/s²",
+        "6 m/s²"
+      ],
+      "a": 2,
+      "e": "a = (v − u)/t = (38 − 5)/11 = 3 m/s².",
+      "d": "Medium",
+      "topic": "Acceleration",
+      "slo": "P-09-B-07"
+    },
+    {
+      "id": "PHY9CH2-170",
+      "q": "A trolley changes velocity from 6 m/s to 54 m/s in 12 s. Find its acceleration.",
+      "o": [
+        "8 m/s²",
+        "16 m/s²",
+        "4 m/s²",
+        "5 m/s²"
+      ],
+      "a": 2,
+      "e": "a = (v − u)/t = (54 − 6)/12 = 4 m/s².",
+      "d": "Medium",
+      "topic": "Acceleration",
+      "slo": "P-09-B-07"
+    },
+    {
+      "id": "PHY9CH2-171",
+      "q": "A trolley changes velocity from 2 m/s to 67 m/s in 13 s. Find its acceleration.",
+      "o": [
+        "6 m/s²",
+        "18 m/s²",
+        "10 m/s²",
+        "5 m/s²"
+      ],
+      "a": 3,
+      "e": "a = (v − u)/t = (67 − 2)/13 = 5 m/s².",
+      "d": "Medium",
+      "topic": "Acceleration",
+      "slo": "P-09-B-07"
+    },
+    {
+      "id": "PHY9CH2-172",
+      "q": "A trolley changes velocity from 3 m/s to 87 m/s in 14 s. Find its acceleration.",
+      "o": [
+        "12 m/s²",
+        "20 m/s²",
+        "7 m/s²",
+        "6 m/s²"
+      ],
+      "a": 3,
+      "e": "a = (v − u)/t = (87 − 3)/14 = 6 m/s².",
+      "d": "Medium",
+      "topic": "Acceleration",
+      "slo": "P-09-B-07"
+    },
+    {
+      "id": "PHY9CH2-173",
+      "q": "A trolley changes velocity from 4 m/s to 109 m/s in 15 s. Find its acceleration.",
+      "o": [
+        "14 m/s²",
+        "7 m/s²",
+        "8 m/s²",
+        "22 m/s²"
+      ],
+      "a": 1,
+      "e": "a = (v − u)/t = (109 − 4)/15 = 7 m/s².",
+      "d": "Medium",
+      "topic": "Acceleration",
+      "slo": "P-09-B-07"
+    },
+    {
+      "id": "PHY9CH2-174",
+      "q": "A trolley changes velocity from 5 m/s to 133 m/s in 16 s. Find its acceleration.",
+      "o": [
+        "16 m/s²",
+        "9 m/s²",
+        "8 m/s²",
+        "24 m/s²"
+      ],
+      "a": 2,
+      "e": "a = (v − u)/t = (133 − 5)/16 = 8 m/s².",
+      "d": "Medium",
+      "topic": "Acceleration",
+      "slo": "P-09-B-07"
+    },
+    {
+      "id": "PHY9CH2-175",
+      "q": "A trolley changes velocity from 6 m/s to 40 m/s in 17 s. Find its acceleration.",
+      "o": [
+        "2 m/s²",
+        "4 m/s²",
+        "3 m/s²",
+        "19 m/s²"
+      ],
+      "a": 0,
+      "e": "a = (v − u)/t = (40 − 6)/17 = 2 m/s².",
+      "d": "Medium",
+      "topic": "Acceleration",
+      "slo": "P-09-B-07"
+    },
+    {
+      "id": "PHY9CH2-176",
+      "q": "A trolley changes velocity from 2 m/s to 56 m/s in 18 s. Find its acceleration.",
+      "o": [
+        "4 m/s²",
+        "21 m/s²",
+        "6 m/s²",
+        "3 m/s²"
+      ],
+      "a": 3,
+      "e": "a = (v − u)/t = (56 − 2)/18 = 3 m/s².",
+      "d": "Medium",
+      "topic": "Acceleration",
+      "slo": "P-09-B-07"
+    },
+    {
+      "id": "PHY9CH2-177",
+      "q": "A trolley changes velocity from 3 m/s to 79 m/s in 19 s. Find its acceleration.",
+      "o": [
+        "5 m/s²",
+        "4 m/s²",
+        "8 m/s²",
+        "23 m/s²"
+      ],
+      "a": 1,
+      "e": "a = (v − u)/t = (79 − 3)/19 = 4 m/s².",
+      "d": "Medium",
+      "topic": "Acceleration",
+      "slo": "P-09-B-07"
+    },
+    {
+      "id": "PHY9CH2-178",
+      "q": "A trolley changes velocity from 4 m/s to 104 m/s in 20 s. Find its acceleration.",
+      "o": [
+        "6 m/s²",
+        "25 m/s²",
+        "5 m/s²",
+        "10 m/s²"
+      ],
+      "a": 2,
+      "e": "a = (v − u)/t = (104 − 4)/20 = 5 m/s².",
+      "d": "Medium",
+      "topic": "Acceleration",
+      "slo": "P-09-B-07"
+    },
+    {
+      "id": "PHY9CH2-179",
+      "q": "A bicycle has uniform acceleration 2 m/s² for 2 s. What is the change in velocity?",
+      "o": [
+        "2 m/s",
+        "8 m/s",
+        "6 m/s",
+        "4 m/s"
+      ],
+      "a": 3,
+      "e": "Δv = at = 2 × 2 = 4 m/s.",
+      "d": "Medium",
+      "topic": "Acceleration",
+      "slo": "P-09-B-07"
+    },
+    {
+      "id": "PHY9CH2-180",
+      "q": "A bicycle has uniform acceleration 3 m/s² for 3 s. What is the change in velocity?",
+      "o": [
+        "9 m/s",
+        "12 m/s",
+        "18 m/s",
+        "6 m/s"
+      ],
+      "a": 0,
+      "e": "Δv = at = 3 × 3 = 9 m/s.",
+      "d": "Medium",
+      "topic": "Acceleration",
+      "slo": "P-09-B-07"
+    },
+    {
+      "id": "PHY9CH2-181",
+      "q": "A bicycle has uniform acceleration 4 m/s² for 4 s. What is the change in velocity?",
+      "o": [
+        "16 m/s",
+        "32 m/s",
+        "12 m/s",
+        "20 m/s"
+      ],
+      "a": 0,
+      "e": "Δv = at = 4 × 4 = 16 m/s.",
+      "d": "Medium",
+      "topic": "Acceleration",
+      "slo": "P-09-B-07"
+    },
+    {
+      "id": "PHY9CH2-182",
+      "q": "A bicycle has uniform acceleration 5 m/s² for 5 s. What is the change in velocity?",
+      "o": [
+        "50 m/s",
+        "25 m/s",
+        "30 m/s",
+        "20 m/s"
+      ],
+      "a": 1,
+      "e": "Δv = at = 5 × 5 = 25 m/s.",
+      "d": "Medium",
+      "topic": "Acceleration",
+      "slo": "P-09-B-07"
+    },
+    {
+      "id": "PHY9CH2-183",
+      "q": "A bicycle has uniform acceleration 6 m/s² for 6 s. What is the change in velocity?",
+      "o": [
+        "72 m/s",
+        "42 m/s",
+        "36 m/s",
+        "30 m/s"
+      ],
+      "a": 2,
+      "e": "Δv = at = 6 × 6 = 36 m/s.",
+      "d": "Medium",
+      "topic": "Acceleration",
+      "slo": "P-09-B-07"
+    },
+    {
+      "id": "PHY9CH2-184",
+      "q": "A bicycle has uniform acceleration 7 m/s² for 7 s. What is the change in velocity?",
+      "o": [
+        "42 m/s",
+        "98 m/s",
+        "49 m/s",
+        "56 m/s"
+      ],
+      "a": 2,
+      "e": "Δv = at = 7 × 7 = 49 m/s.",
+      "d": "Medium",
+      "topic": "Acceleration",
+      "slo": "P-09-B-07"
+    },
+    {
+      "id": "PHY9CH2-185",
+      "q": "A bicycle has uniform acceleration 2 m/s² for 8 s. What is the change in velocity?",
+      "o": [
+        "16 m/s",
+        "18 m/s",
+        "32 m/s",
+        "14 m/s"
+      ],
+      "a": 0,
+      "e": "Δv = at = 2 × 8 = 16 m/s.",
+      "d": "Medium",
+      "topic": "Acceleration",
+      "slo": "P-09-B-07"
+    },
+    {
+      "id": "PHY9CH2-186",
+      "q": "A bicycle has uniform acceleration 3 m/s² for 9 s. What is the change in velocity?",
+      "o": [
+        "54 m/s",
+        "27 m/s",
+        "24 m/s",
+        "30 m/s"
+      ],
+      "a": 1,
+      "e": "Δv = at = 3 × 9 = 27 m/s.",
+      "d": "Medium",
+      "topic": "Acceleration",
+      "slo": "P-09-B-07"
+    },
+    {
+      "id": "PHY9CH2-187",
+      "q": "A bicycle has uniform acceleration 4 m/s² for 10 s. What is the change in velocity?",
+      "o": [
+        "44 m/s",
+        "80 m/s",
+        "40 m/s",
+        "36 m/s"
+      ],
+      "a": 2,
+      "e": "Δv = at = 4 × 10 = 40 m/s.",
+      "d": "Medium",
+      "topic": "Acceleration",
+      "slo": "P-09-B-07"
+    },
+    {
+      "id": "PHY9CH2-188",
+      "q": "A bicycle has uniform acceleration 5 m/s² for 11 s. What is the change in velocity?",
+      "o": [
+        "60 m/s",
+        "55 m/s",
+        "50 m/s",
+        "110 m/s"
+      ],
+      "a": 1,
+      "e": "Δv = at = 5 × 11 = 55 m/s.",
+      "d": "Medium",
+      "topic": "Acceleration",
+      "slo": "P-09-B-07"
+    },
+    {
+      "id": "PHY9CH2-189",
+      "q": "A bicycle has uniform acceleration 6 m/s² for 12 s. What is the change in velocity?",
+      "o": [
+        "66 m/s",
+        "72 m/s",
+        "78 m/s",
+        "144 m/s"
+      ],
+      "a": 1,
+      "e": "Δv = at = 6 × 12 = 72 m/s.",
+      "d": "Medium",
+      "topic": "Acceleration",
+      "slo": "P-09-B-07"
+    },
+    {
+      "id": "PHY9CH2-190",
+      "q": "A bicycle has uniform acceleration 7 m/s² for 13 s. What is the change in velocity?",
+      "o": [
+        "84 m/s",
+        "182 m/s",
+        "91 m/s",
+        "98 m/s"
+      ],
+      "a": 2,
+      "e": "Δv = at = 7 × 13 = 91 m/s.",
+      "d": "Medium",
+      "topic": "Acceleration",
+      "slo": "P-09-B-07"
+    },
+    {
+      "id": "PHY9CH2-191",
+      "q": "A bicycle has uniform acceleration 2 m/s² for 14 s. What is the change in velocity?",
+      "o": [
+        "56 m/s",
+        "26 m/s",
+        "28 m/s",
+        "30 m/s"
+      ],
+      "a": 2,
+      "e": "Δv = at = 2 × 14 = 28 m/s.",
+      "d": "Medium",
+      "topic": "Acceleration",
+      "slo": "P-09-B-07"
+    },
+    {
+      "id": "PHY9CH2-192",
+      "q": "A bicycle has uniform acceleration 3 m/s² for 15 s. What is the change in velocity?",
+      "o": [
+        "48 m/s",
+        "45 m/s",
+        "42 m/s",
+        "90 m/s"
+      ],
+      "a": 1,
+      "e": "Δv = at = 3 × 15 = 45 m/s.",
+      "d": "Medium",
+      "topic": "Acceleration",
+      "slo": "P-09-B-07"
+    },
+    {
+      "id": "PHY9CH2-193",
+      "q": "A bicycle has uniform acceleration 4 m/s² for 16 s. What is the change in velocity?",
+      "o": [
+        "60 m/s",
+        "64 m/s",
+        "128 m/s",
+        "68 m/s"
+      ],
+      "a": 1,
+      "e": "Δv = at = 4 × 16 = 64 m/s.",
+      "d": "Medium",
+      "topic": "Acceleration",
+      "slo": "P-09-B-07"
+    },
+    {
+      "id": "PHY9CH2-194",
+      "q": "A bicycle has uniform acceleration 5 m/s² for 17 s. What is the change in velocity?",
+      "o": [
+        "85 m/s",
+        "170 m/s",
+        "80 m/s",
+        "90 m/s"
+      ],
+      "a": 0,
+      "e": "Δv = at = 5 × 17 = 85 m/s.",
+      "d": "Medium",
+      "topic": "Acceleration",
+      "slo": "P-09-B-07"
+    },
+    {
+      "id": "PHY9CH2-195",
+      "q": "A bicycle has uniform acceleration 6 m/s² for 18 s. What is the change in velocity?",
+      "o": [
+        "114 m/s",
+        "102 m/s",
+        "216 m/s",
+        "108 m/s"
+      ],
+      "a": 3,
+      "e": "Δv = at = 6 × 18 = 108 m/s.",
+      "d": "Medium",
+      "topic": "Acceleration",
+      "slo": "P-09-B-07"
+    },
+    {
+      "id": "PHY9CH2-196",
+      "q": "A bicycle has uniform acceleration 7 m/s² for 19 s. What is the change in velocity?",
+      "o": [
+        "126 m/s",
+        "266 m/s",
+        "140 m/s",
+        "133 m/s"
+      ],
+      "a": 3,
+      "e": "Δv = at = 7 × 19 = 133 m/s.",
+      "d": "Medium",
+      "topic": "Acceleration",
+      "slo": "P-09-B-07"
+    },
+    {
+      "id": "PHY9CH2-197",
+      "q": "A speed-time graph shows constant speed 3 m/s for 2 s. Find the area under the graph (distance).",
+      "o": [
+        "12 m",
+        "9 m",
+        "4 m",
+        "6 m"
+      ],
+      "a": 3,
+      "e": "Area = rectangle height × width = 3 × 2 = 6 m.",
+      "d": "Medium",
+      "topic": "Speed-time graphs",
+      "slo": "P-09-B-13"
+    },
+    {
+      "id": "PHY9CH2-198",
+      "q": "A speed-time graph shows constant speed 4 m/s for 3 s. Find the area under the graph (distance).",
+      "o": [
+        "16 m",
+        "12 m",
+        "24 m",
+        "9 m"
+      ],
+      "a": 1,
+      "e": "Area = rectangle height × width = 4 × 3 = 12 m.",
+      "d": "Medium",
+      "topic": "Speed-time graphs",
+      "slo": "P-09-B-13"
+    },
+    {
+      "id": "PHY9CH2-199",
+      "q": "A speed-time graph shows constant speed 5 m/s for 4 s. Find the area under the graph (distance).",
+      "o": [
+        "40 m",
+        "16 m",
+        "25 m",
+        "20 m"
+      ],
+      "a": 3,
+      "e": "Area = rectangle height × width = 5 × 4 = 20 m.",
+      "d": "Medium",
+      "topic": "Speed-time graphs",
+      "slo": "P-09-B-13"
+    },
+    {
+      "id": "PHY9CH2-200",
+      "q": "A speed-time graph shows constant speed 6 m/s for 5 s. Find the area under the graph (distance).",
+      "o": [
+        "60 m",
+        "25 m",
+        "36 m",
+        "30 m"
+      ],
+      "a": 3,
+      "e": "Area = rectangle height × width = 6 × 5 = 30 m.",
+      "d": "Medium",
+      "topic": "Speed-time graphs",
+      "slo": "P-09-B-13"
+    },
+    {
+      "id": "PHY9CH2-201",
+      "q": "A speed-time graph shows constant speed 7 m/s for 6 s. Find the area under the graph (distance).",
+      "o": [
+        "42 m",
+        "49 m",
+        "84 m",
+        "36 m"
+      ],
+      "a": 0,
+      "e": "Area = rectangle height × width = 7 × 6 = 42 m.",
+      "d": "Medium",
+      "topic": "Speed-time graphs",
+      "slo": "P-09-B-13"
+    },
+    {
+      "id": "PHY9CH2-202",
+      "q": "A speed-time graph shows constant speed 8 m/s for 7 s. Find the area under the graph (distance).",
+      "o": [
+        "112 m",
+        "64 m",
+        "49 m",
+        "56 m"
+      ],
+      "a": 3,
+      "e": "Area = rectangle height × width = 8 × 7 = 56 m.",
+      "d": "Medium",
+      "topic": "Speed-time graphs",
+      "slo": "P-09-B-13"
+    },
+    {
+      "id": "PHY9CH2-203",
+      "q": "A speed-time graph shows constant speed 9 m/s for 8 s. Find the area under the graph (distance).",
+      "o": [
+        "72 m",
+        "64 m",
+        "144 m",
+        "81 m"
+      ],
+      "a": 0,
+      "e": "Area = rectangle height × width = 9 × 8 = 72 m.",
+      "d": "Medium",
+      "topic": "Speed-time graphs",
+      "slo": "P-09-B-13"
+    },
+    {
+      "id": "PHY9CH2-204",
+      "q": "A speed-time graph shows constant speed 10 m/s for 9 s. Find the area under the graph (distance).",
+      "o": [
+        "180 m",
+        "81 m",
+        "100 m",
+        "90 m"
+      ],
+      "a": 3,
+      "e": "Area = rectangle height × width = 10 × 9 = 90 m.",
+      "d": "Medium",
+      "topic": "Speed-time graphs",
+      "slo": "P-09-B-13"
+    },
+    {
+      "id": "PHY9CH2-205",
+      "q": "A speed-time graph shows constant speed 11 m/s for 10 s. Find the area under the graph (distance).",
+      "o": [
+        "220 m",
+        "110 m",
+        "100 m",
+        "121 m"
+      ],
+      "a": 1,
+      "e": "Area = rectangle height × width = 11 × 10 = 110 m.",
+      "d": "Medium",
+      "topic": "Speed-time graphs",
+      "slo": "P-09-B-13"
+    },
+    {
+      "id": "PHY9CH2-206",
+      "q": "A speed-time graph shows constant speed 12 m/s for 11 s. Find the area under the graph (distance).",
+      "o": [
+        "121 m",
+        "144 m",
+        "132 m",
+        "264 m"
+      ],
+      "a": 2,
+      "e": "Area = rectangle height × width = 12 × 11 = 132 m.",
+      "d": "Medium",
+      "topic": "Speed-time graphs",
+      "slo": "P-09-B-13"
+    },
+    {
+      "id": "PHY9CH2-207",
+      "q": "A speed-time graph shows constant speed 3 m/s for 12 s. Find the area under the graph (distance).",
+      "o": [
+        "24 m",
+        "72 m",
+        "39 m",
+        "36 m"
+      ],
+      "a": 3,
+      "e": "Area = rectangle height × width = 3 × 12 = 36 m.",
+      "d": "Medium",
+      "topic": "Speed-time graphs",
+      "slo": "P-09-B-13"
+    },
+    {
+      "id": "PHY9CH2-208",
+      "q": "A speed-time graph shows constant speed 4 m/s for 13 s. Find the area under the graph (distance).",
+      "o": [
+        "52 m",
+        "56 m",
+        "39 m",
+        "104 m"
+      ],
+      "a": 0,
+      "e": "Area = rectangle height × width = 4 × 13 = 52 m.",
+      "d": "Medium",
+      "topic": "Speed-time graphs",
+      "slo": "P-09-B-13"
+    },
+    {
+      "id": "PHY9CH2-209",
+      "q": "A speed-time graph shows constant speed 5 m/s for 14 s. Find the area under the graph (distance).",
+      "o": [
+        "75 m",
+        "140 m",
+        "70 m",
+        "56 m"
+      ],
+      "a": 2,
+      "e": "Area = rectangle height × width = 5 × 14 = 70 m.",
+      "d": "Medium",
+      "topic": "Speed-time graphs",
+      "slo": "P-09-B-13"
+    },
+    {
+      "id": "PHY9CH2-210",
+      "q": "A speed-time graph shows constant speed 6 m/s for 15 s. Find the area under the graph (distance).",
+      "o": [
+        "96 m",
+        "75 m",
+        "180 m",
+        "90 m"
+      ],
+      "a": 3,
+      "e": "Area = rectangle height × width = 6 × 15 = 90 m.",
+      "d": "Medium",
+      "topic": "Speed-time graphs",
+      "slo": "P-09-B-13"
+    },
+    {
+      "id": "PHY9CH2-211",
+      "q": "A speed-time graph shows constant speed 7 m/s for 16 s. Find the area under the graph (distance).",
+      "o": [
+        "112 m",
+        "224 m",
+        "96 m",
+        "119 m"
+      ],
+      "a": 0,
+      "e": "Area = rectangle height × width = 7 × 16 = 112 m.",
+      "d": "Medium",
+      "topic": "Speed-time graphs",
+      "slo": "P-09-B-13"
+    },
+    {
+      "id": "PHY9CH2-212",
+      "q": "A speed-time graph shows constant speed 8 m/s for 17 s. Find the area under the graph (distance).",
+      "o": [
+        "119 m",
+        "144 m",
+        "272 m",
+        "136 m"
+      ],
+      "a": 3,
+      "e": "Area = rectangle height × width = 8 × 17 = 136 m.",
+      "d": "Medium",
+      "topic": "Speed-time graphs",
+      "slo": "P-09-B-13"
+    },
+    {
+      "id": "PHY9CH2-213",
+      "q": "A speed-time graph shows constant speed 9 m/s for 18 s. Find the area under the graph (distance).",
+      "o": [
+        "144 m",
+        "171 m",
+        "162 m",
+        "324 m"
+      ],
+      "a": 2,
+      "e": "Area = rectangle height × width = 9 × 18 = 162 m.",
+      "d": "Medium",
+      "topic": "Speed-time graphs",
+      "slo": "P-09-B-13"
+    },
+    {
+      "id": "PHY9CH2-214",
+      "q": "A speed-time graph shows constant speed 10 m/s for 19 s. Find the area under the graph (distance).",
+      "o": [
+        "171 m",
+        "200 m",
+        "380 m",
+        "190 m"
+      ],
+      "a": 3,
+      "e": "Area = rectangle height × width = 10 × 19 = 190 m.",
+      "d": "Medium",
+      "topic": "Speed-time graphs",
+      "slo": "P-09-B-13"
+    },
+    {
+      "id": "PHY9CH2-215",
+      "q": "A body starts from rest and its speed increases linearly to 4 m/s in 4 s. Find distance from the triangular speed-time graph.",
+      "o": [
+        "8 m",
+        "13 m",
+        "12 m",
+        "16 m"
+      ],
+      "a": 0,
+      "e": "Triangle area = ½ × 4 × 4 = 8 m.",
+      "d": "Hard",
+      "topic": "Speed-time graphs",
+      "slo": "P-09-B-13"
+    },
+    {
+      "id": "PHY9CH2-216",
+      "q": "A body starts from rest and its speed increases linearly to 5 m/s in 6 s. Find distance from the triangular speed-time graph.",
+      "o": [
+        "15 m",
+        "21 m",
+        "30 m",
+        "20 m"
+      ],
+      "a": 0,
+      "e": "Triangle area = ½ × 6 × 5 = 15 m.",
+      "d": "Hard",
+      "topic": "Speed-time graphs",
+      "slo": "P-09-B-13"
+    },
+    {
+      "id": "PHY9CH2-217",
+      "q": "A body starts from rest and its speed increases linearly to 6 m/s in 8 s. Find distance from the triangular speed-time graph.",
+      "o": [
+        "30 m",
+        "32 m",
+        "24 m",
+        "48 m"
+      ],
+      "a": 2,
+      "e": "Triangle area = ½ × 8 × 6 = 24 m.",
+      "d": "Hard",
+      "topic": "Speed-time graphs",
+      "slo": "P-09-B-13"
+    },
+    {
+      "id": "PHY9CH2-218",
+      "q": "A body starts from rest and its speed increases linearly to 7 m/s in 10 s. Find distance from the triangular speed-time graph.",
+      "o": [
+        "42 m",
+        "70 m",
+        "45 m",
+        "35 m"
+      ],
+      "a": 3,
+      "e": "Triangle area = ½ × 10 × 7 = 35 m.",
+      "d": "Hard",
+      "topic": "Speed-time graphs",
+      "slo": "P-09-B-13"
+    },
+    {
+      "id": "PHY9CH2-219",
+      "q": "A body starts from rest and its speed increases linearly to 8 m/s in 12 s. Find distance from the triangular speed-time graph.",
+      "o": [
+        "96 m",
+        "56 m",
+        "48 m",
+        "60 m"
+      ],
+      "a": 2,
+      "e": "Triangle area = ½ × 12 × 8 = 48 m.",
+      "d": "Hard",
+      "topic": "Speed-time graphs",
+      "slo": "P-09-B-13"
+    },
+    {
+      "id": "PHY9CH2-220",
+      "q": "A body starts from rest and its speed increases linearly to 9 m/s in 14 s. Find distance from the triangular speed-time graph.",
+      "o": [
+        "72 m",
+        "63 m",
+        "126 m",
+        "77 m"
+      ],
+      "a": 1,
+      "e": "Triangle area = ½ × 14 × 9 = 63 m.",
+      "d": "Hard",
+      "topic": "Speed-time graphs",
+      "slo": "P-09-B-13"
+    },
+    {
+      "id": "PHY9CH2-221",
+      "q": "A body starts from rest and its speed increases linearly to 10 m/s in 16 s. Find distance from the triangular speed-time graph.",
+      "o": [
+        "80 m",
+        "160 m",
+        "96 m",
+        "90 m"
+      ],
+      "a": 0,
+      "e": "Triangle area = ½ × 16 × 10 = 80 m.",
+      "d": "Hard",
+      "topic": "Speed-time graphs",
+      "slo": "P-09-B-13"
+    },
+    {
+      "id": "PHY9CH2-222",
+      "q": "A body starts from rest and its speed increases linearly to 11 m/s in 18 s. Find distance from the triangular speed-time graph.",
+      "o": [
+        "110 m",
+        "198 m",
+        "99 m",
+        "117 m"
+      ],
+      "a": 2,
+      "e": "Triangle area = ½ × 18 × 11 = 99 m.",
+      "d": "Hard",
+      "topic": "Speed-time graphs",
+      "slo": "P-09-B-13"
+    },
+    {
+      "id": "PHY9CH2-223",
+      "q": "A body starts from rest and its speed increases linearly to 12 m/s in 20 s. Find distance from the triangular speed-time graph.",
+      "o": [
+        "140 m",
+        "132 m",
+        "240 m",
+        "120 m"
+      ],
+      "a": 3,
+      "e": "Triangle area = ½ × 20 × 12 = 120 m.",
+      "d": "Hard",
+      "topic": "Speed-time graphs",
+      "slo": "P-09-B-13"
+    },
+    {
+      "id": "PHY9CH2-224",
+      "q": "A body starts from rest and its speed increases linearly to 13 m/s in 22 s. Find distance from the triangular speed-time graph.",
+      "o": [
+        "165 m",
+        "286 m",
+        "143 m",
+        "156 m"
+      ],
+      "a": 2,
+      "e": "Triangle area = ½ × 22 × 13 = 143 m.",
+      "d": "Hard",
+      "topic": "Speed-time graphs",
+      "slo": "P-09-B-13"
+    },
+    {
+      "id": "PHY9CH2-225",
+      "q": "A body starts from rest and its speed increases linearly to 4 m/s in 24 s. Find distance from the triangular speed-time graph.",
+      "o": [
+        "96 m",
+        "52 m",
+        "48 m",
+        "72 m"
+      ],
+      "a": 2,
+      "e": "Triangle area = ½ × 24 × 4 = 48 m.",
+      "d": "Hard",
+      "topic": "Speed-time graphs",
+      "slo": "P-09-B-13"
+    },
+    {
+      "id": "PHY9CH2-226",
+      "q": "A body starts from rest and its speed increases linearly to 5 m/s in 26 s. Find distance from the triangular speed-time graph.",
+      "o": [
+        "70 m",
+        "65 m",
+        "91 m",
+        "130 m"
+      ],
+      "a": 1,
+      "e": "Triangle area = ½ × 26 × 5 = 65 m.",
+      "d": "Hard",
+      "topic": "Speed-time graphs",
+      "slo": "P-09-B-13"
+    },
+    {
+      "id": "PHY9CH2-227",
+      "q": "A body starts from rest and its speed increases linearly to 6 m/s in 28 s. Find distance from the triangular speed-time graph.",
+      "o": [
+        "112 m",
+        "84 m",
+        "90 m",
+        "168 m"
+      ],
+      "a": 1,
+      "e": "Triangle area = ½ × 28 × 6 = 84 m.",
+      "d": "Hard",
+      "topic": "Speed-time graphs",
+      "slo": "P-09-B-13"
+    },
+    {
+      "id": "PHY9CH2-228",
+      "q": "A body starts from rest and its speed increases linearly to 7 m/s in 30 s. Find distance from the triangular speed-time graph.",
+      "o": [
+        "105 m",
+        "112 m",
+        "135 m",
+        "210 m"
+      ],
+      "a": 0,
+      "e": "Triangle area = ½ × 30 × 7 = 105 m.",
+      "d": "Hard",
+      "topic": "Speed-time graphs",
+      "slo": "P-09-B-13"
+    },
+    {
+      "id": "PHY9CH2-229",
+      "q": "A body starts from rest and its speed increases linearly to 8 m/s in 32 s. Find distance from the triangular speed-time graph.",
+      "o": [
+        "160 m",
+        "128 m",
+        "256 m",
+        "136 m"
+      ],
+      "a": 1,
+      "e": "Triangle area = ½ × 32 × 8 = 128 m.",
+      "d": "Hard",
+      "topic": "Speed-time graphs",
+      "slo": "P-09-B-13"
+    },
+    {
+      "id": "PHY9CH2-230",
+      "q": "A body starts from rest and its speed increases linearly to 9 m/s in 34 s. Find distance from the triangular speed-time graph.",
+      "o": [
+        "153 m",
+        "306 m",
+        "187 m",
+        "162 m"
+      ],
+      "a": 0,
+      "e": "Triangle area = ½ × 34 × 9 = 153 m.",
+      "d": "Hard",
+      "topic": "Speed-time graphs",
+      "slo": "P-09-B-13"
+    },
+    {
+      "id": "PHY9CH2-231",
+      "q": "A body starts from rest and its speed increases linearly to 10 m/s in 36 s. Find distance from the triangular speed-time graph.",
+      "o": [
+        "180 m",
+        "190 m",
+        "360 m",
+        "216 m"
+      ],
+      "a": 0,
+      "e": "Triangle area = ½ × 36 × 10 = 180 m.",
+      "d": "Hard",
+      "topic": "Speed-time graphs",
+      "slo": "P-09-B-13"
+    },
+    {
+      "id": "PHY9CH2-232",
+      "q": "A body starts from rest and its speed increases linearly to 11 m/s in 38 s. Find distance from the triangular speed-time graph.",
+      "o": [
+        "247 m",
+        "209 m",
+        "418 m",
+        "220 m"
+      ],
+      "a": 1,
+      "e": "Triangle area = ½ × 38 × 11 = 209 m.",
+      "d": "Hard",
+      "topic": "Speed-time graphs",
+      "slo": "P-09-B-13"
+    },
+    {
+      "id": "PHY9CH2-233",
+      "q": "On a distance-time graph, distance rises from 2 m at 0 s to 8 m at 2 s along a straight line. Find its gradient.",
+      "o": [
+        "5 m/s",
+        "4 m/s",
+        "3 m/s",
+        "6 m/s"
+      ],
+      "a": 2,
+      "e": "Gradient = (8 − 2)/2 = 3 m/s.",
+      "d": "Medium",
+      "topic": "Distance-time graphs",
+      "slo": "P-09-B-11"
+    },
+    {
+      "id": "PHY9CH2-234",
+      "q": "On a distance-time graph, distance rises from 3 m at 0 s to 15 m at 3 s along a straight line. Find its gradient.",
+      "o": [
+        "7 m/s",
+        "5 m/s",
+        "8 m/s",
+        "4 m/s"
+      ],
+      "a": 3,
+      "e": "Gradient = (15 − 3)/3 = 4 m/s.",
+      "d": "Medium",
+      "topic": "Distance-time graphs",
+      "slo": "P-09-B-11"
+    },
+    {
+      "id": "PHY9CH2-235",
+      "q": "On a distance-time graph, distance rises from 4 m at 0 s to 24 m at 4 s along a straight line. Find its gradient.",
+      "o": [
+        "10 m/s",
+        "6 m/s",
+        "5 m/s",
+        "9 m/s"
+      ],
+      "a": 2,
+      "e": "Gradient = (24 − 4)/4 = 5 m/s.",
+      "d": "Medium",
+      "topic": "Distance-time graphs",
+      "slo": "P-09-B-11"
+    },
+    {
+      "id": "PHY9CH2-236",
+      "q": "On a distance-time graph, distance rises from 5 m at 0 s to 35 m at 5 s along a straight line. Find its gradient.",
+      "o": [
+        "6 m/s",
+        "11 m/s",
+        "7 m/s",
+        "12 m/s"
+      ],
+      "a": 0,
+      "e": "Gradient = (35 − 5)/5 = 6 m/s.",
+      "d": "Medium",
+      "topic": "Distance-time graphs",
+      "slo": "P-09-B-11"
+    },
+    {
+      "id": "PHY9CH2-237",
+      "q": "On a distance-time graph, distance rises from 6 m at 0 s to 48 m at 6 s along a straight line. Find its gradient.",
+      "o": [
+        "7 m/s",
+        "8 m/s",
+        "14 m/s",
+        "13 m/s"
+      ],
+      "a": 0,
+      "e": "Gradient = (48 − 6)/6 = 7 m/s.",
+      "d": "Medium",
+      "topic": "Distance-time graphs",
+      "slo": "P-09-B-11"
+    },
+    {
+      "id": "PHY9CH2-238",
+      "q": "On a distance-time graph, distance rises from 7 m at 0 s to 63 m at 7 s along a straight line. Find its gradient.",
+      "o": [
+        "15 m/s",
+        "16 m/s",
+        "8 m/s",
+        "9 m/s"
+      ],
+      "a": 2,
+      "e": "Gradient = (63 − 7)/7 = 8 m/s.",
+      "d": "Medium",
+      "topic": "Distance-time graphs",
+      "slo": "P-09-B-11"
+    },
+    {
+      "id": "PHY9CH2-239",
+      "q": "On a distance-time graph, distance rises from 8 m at 0 s to 80 m at 8 s along a straight line. Find its gradient.",
+      "o": [
+        "10 m/s",
+        "9 m/s",
+        "18 m/s",
+        "17 m/s"
+      ],
+      "a": 1,
+      "e": "Gradient = (80 − 8)/8 = 9 m/s.",
+      "d": "Medium",
+      "topic": "Distance-time graphs",
+      "slo": "P-09-B-11"
+    },
+    {
+      "id": "PHY9CH2-240",
+      "q": "On a distance-time graph, distance rises from 2 m at 0 s to 92 m at 9 s along a straight line. Find its gradient.",
+      "o": [
+        "11 m/s",
+        "19 m/s",
+        "20 m/s",
+        "10 m/s"
+      ],
+      "a": 3,
+      "e": "Gradient = (92 − 2)/9 = 10 m/s.",
+      "d": "Medium",
+      "topic": "Distance-time graphs",
+      "slo": "P-09-B-11"
+    },
+    {
+      "id": "PHY9CH2-241",
+      "q": "On a distance-time graph, distance rises from 3 m at 0 s to 33 m at 10 s along a straight line. Find its gradient.",
+      "o": [
+        "3 m/s",
+        "4 m/s",
+        "13 m/s",
+        "6 m/s"
+      ],
+      "a": 0,
+      "e": "Gradient = (33 − 3)/10 = 3 m/s.",
+      "d": "Medium",
+      "topic": "Distance-time graphs",
+      "slo": "P-09-B-11"
+    },
+    {
+      "id": "PHY9CH2-242",
+      "q": "On a distance-time graph, distance rises from 4 m at 0 s to 48 m at 11 s along a straight line. Find its gradient.",
+      "o": [
+        "4 m/s",
+        "5 m/s",
+        "15 m/s",
+        "8 m/s"
+      ],
+      "a": 0,
+      "e": "Gradient = (48 − 4)/11 = 4 m/s.",
+      "d": "Medium",
+      "topic": "Distance-time graphs",
+      "slo": "P-09-B-11"
+    },
+    {
+      "id": "PHY9CH2-243",
+      "q": "On a distance-time graph, distance rises from 5 m at 0 s to 65 m at 12 s along a straight line. Find its gradient.",
+      "o": [
+        "6 m/s",
+        "17 m/s",
+        "10 m/s",
+        "5 m/s"
+      ],
+      "a": 3,
+      "e": "Gradient = (65 − 5)/12 = 5 m/s.",
+      "d": "Medium",
+      "topic": "Distance-time graphs",
+      "slo": "P-09-B-11"
+    },
+    {
+      "id": "PHY9CH2-244",
+      "q": "On a distance-time graph, distance rises from 6 m at 0 s to 84 m at 13 s along a straight line. Find its gradient.",
+      "o": [
+        "19 m/s",
+        "7 m/s",
+        "6 m/s",
+        "12 m/s"
+      ],
+      "a": 2,
+      "e": "Gradient = (84 − 6)/13 = 6 m/s.",
+      "d": "Medium",
+      "topic": "Distance-time graphs",
+      "slo": "P-09-B-11"
+    },
+    {
+      "id": "PHY9CH2-245",
+      "q": "On a distance-time graph, distance rises from 7 m at 0 s to 105 m at 14 s along a straight line. Find its gradient.",
+      "o": [
+        "7 m/s",
+        "21 m/s",
+        "14 m/s",
+        "8 m/s"
+      ],
+      "a": 0,
+      "e": "Gradient = (105 − 7)/14 = 7 m/s.",
+      "d": "Medium",
+      "topic": "Distance-time graphs",
+      "slo": "P-09-B-11"
+    },
+    {
+      "id": "PHY9CH2-246",
+      "q": "On a distance-time graph, distance rises from 8 m at 0 s to 128 m at 15 s along a straight line. Find its gradient.",
+      "o": [
+        "8 m/s",
+        "16 m/s",
+        "9 m/s",
+        "23 m/s"
+      ],
+      "a": 0,
+      "e": "Gradient = (128 − 8)/15 = 8 m/s.",
+      "d": "Medium",
+      "topic": "Distance-time graphs",
+      "slo": "P-09-B-11"
+    },
+    {
+      "id": "PHY9CH2-247",
+      "q": "On a distance-time graph, distance rises from 2 m at 0 s to 146 m at 16 s along a straight line. Find its gradient.",
+      "o": [
+        "10 m/s",
+        "9 m/s",
+        "18 m/s",
+        "25 m/s"
+      ],
+      "a": 1,
+      "e": "Gradient = (146 − 2)/16 = 9 m/s.",
+      "d": "Medium",
+      "topic": "Distance-time graphs",
+      "slo": "P-09-B-11"
+    },
+    {
+      "id": "PHY9CH2-248",
+      "q": "On a distance-time graph, distance rises from 3 m at 0 s to 173 m at 17 s along a straight line. Find its gradient.",
+      "o": [
+        "20 m/s",
+        "10 m/s",
+        "11 m/s",
+        "27 m/s"
+      ],
+      "a": 1,
+      "e": "Gradient = (173 − 3)/17 = 10 m/s.",
+      "d": "Medium",
+      "topic": "Distance-time graphs",
+      "slo": "P-09-B-11"
+    },
+    {
+      "id": "PHY9CH2-249",
+      "q": "On a distance-time graph, distance rises from 4 m at 0 s to 58 m at 18 s along a straight line. Find its gradient.",
+      "o": [
+        "6 m/s",
+        "21 m/s",
+        "3 m/s",
+        "4 m/s"
+      ],
+      "a": 2,
+      "e": "Gradient = (58 − 4)/18 = 3 m/s.",
+      "d": "Medium",
+      "topic": "Distance-time graphs",
+      "slo": "P-09-B-11"
+    },
+    {
+      "id": "PHY9CH2-250",
+      "q": "On a distance-time graph, distance rises from 5 m at 0 s to 81 m at 19 s along a straight line. Find its gradient.",
+      "o": [
+        "8 m/s",
+        "23 m/s",
+        "4 m/s",
+        "5 m/s"
+      ],
+      "a": 2,
+      "e": "Gradient = (81 − 5)/19 = 4 m/s.",
+      "d": "Medium",
+      "topic": "Distance-time graphs",
+      "slo": "P-09-B-11"
+    },
+    {
+      "id": "PHY9CH2-251",
+      "q": "A speed-time graph rises linearly from 1 m/s to 5 m/s in 2 s. Find its gradient.",
+      "o": [
+        "2 m/s²",
+        "4 m/s²",
+        "3 m/s²",
+        "5 m/s²"
+      ],
+      "a": 0,
+      "e": "Gradient = (5 − 1)/2 = 2 m/s².",
+      "d": "Medium",
+      "topic": "Speed-time graphs",
+      "slo": "P-09-B-14"
+    },
+    {
+      "id": "PHY9CH2-252",
+      "q": "A speed-time graph rises linearly from 2 m/s to 11 m/s in 3 s. Find its gradient.",
+      "o": [
+        "6 m/s²",
+        "7 m/s²",
+        "3 m/s²",
+        "4 m/s²"
+      ],
+      "a": 2,
+      "e": "Gradient = (11 − 2)/3 = 3 m/s².",
+      "d": "Medium",
+      "topic": "Speed-time graphs",
+      "slo": "P-09-B-14"
+    },
+    {
+      "id": "PHY9CH2-253",
+      "q": "A speed-time graph rises linearly from 3 m/s to 19 m/s in 4 s. Find its gradient.",
+      "o": [
+        "9 m/s²",
+        "8 m/s²",
+        "4 m/s²",
+        "5 m/s²"
+      ],
+      "a": 2,
+      "e": "Gradient = (19 − 3)/4 = 4 m/s².",
+      "d": "Medium",
+      "topic": "Speed-time graphs",
+      "slo": "P-09-B-14"
+    },
+    {
+      "id": "PHY9CH2-254",
+      "q": "A speed-time graph rises linearly from 4 m/s to 29 m/s in 5 s. Find its gradient.",
+      "o": [
+        "6 m/s²",
+        "5 m/s²",
+        "10 m/s²",
+        "11 m/s²"
+      ],
+      "a": 1,
+      "e": "Gradient = (29 − 4)/5 = 5 m/s².",
+      "d": "Medium",
+      "topic": "Speed-time graphs",
+      "slo": "P-09-B-14"
+    },
+    {
+      "id": "PHY9CH2-255",
+      "q": "A speed-time graph rises linearly from 5 m/s to 41 m/s in 6 s. Find its gradient.",
+      "o": [
+        "6 m/s²",
+        "12 m/s²",
+        "13 m/s²",
+        "7 m/s²"
+      ],
+      "a": 0,
+      "e": "Gradient = (41 − 5)/6 = 6 m/s².",
+      "d": "Medium",
+      "topic": "Speed-time graphs",
+      "slo": "P-09-B-14"
+    },
+    {
+      "id": "PHY9CH2-256",
+      "q": "A speed-time graph rises linearly from 1 m/s to 50 m/s in 7 s. Find its gradient.",
+      "o": [
+        "8 m/s²",
+        "15 m/s²",
+        "7 m/s²",
+        "14 m/s²"
+      ],
+      "a": 2,
+      "e": "Gradient = (50 − 1)/7 = 7 m/s².",
+      "d": "Medium",
+      "topic": "Speed-time graphs",
+      "slo": "P-09-B-14"
+    },
+    {
+      "id": "PHY9CH2-257",
+      "q": "A speed-time graph rises linearly from 2 m/s to 66 m/s in 8 s. Find its gradient.",
+      "o": [
+        "16 m/s²",
+        "8 m/s²",
+        "9 m/s²",
+        "17 m/s²"
+      ],
+      "a": 1,
+      "e": "Gradient = (66 − 2)/8 = 8 m/s².",
+      "d": "Medium",
+      "topic": "Speed-time graphs",
+      "slo": "P-09-B-14"
+    },
+    {
+      "id": "PHY9CH2-258",
+      "q": "A speed-time graph rises linearly from 3 m/s to 84 m/s in 9 s. Find its gradient.",
+      "o": [
+        "19 m/s²",
+        "18 m/s²",
+        "9 m/s²",
+        "10 m/s²"
+      ],
+      "a": 2,
+      "e": "Gradient = (84 − 3)/9 = 9 m/s².",
+      "d": "Medium",
+      "topic": "Speed-time graphs",
+      "slo": "P-09-B-14"
+    },
+    {
+      "id": "PHY9CH2-259",
+      "q": "A speed-time graph rises linearly from 4 m/s to 24 m/s in 10 s. Find its gradient.",
+      "o": [
+        "2 m/s²",
+        "12 m/s²",
+        "4 m/s²",
+        "3 m/s²"
+      ],
+      "a": 0,
+      "e": "Gradient = (24 − 4)/10 = 2 m/s².",
+      "d": "Medium",
+      "topic": "Speed-time graphs",
+      "slo": "P-09-B-14"
+    },
+    {
+      "id": "PHY9CH2-260",
+      "q": "A speed-time graph rises linearly from 5 m/s to 38 m/s in 11 s. Find its gradient.",
+      "o": [
+        "14 m/s²",
+        "4 m/s²",
+        "6 m/s²",
+        "3 m/s²"
+      ],
+      "a": 3,
+      "e": "Gradient = (38 − 5)/11 = 3 m/s².",
+      "d": "Medium",
+      "topic": "Speed-time graphs",
+      "slo": "P-09-B-14"
+    },
+    {
+      "id": "PHY9CH2-261",
+      "q": "A speed-time graph rises linearly from 1 m/s to 49 m/s in 12 s. Find its gradient.",
+      "o": [
+        "4 m/s²",
+        "8 m/s²",
+        "16 m/s²",
+        "5 m/s²"
+      ],
+      "a": 0,
+      "e": "Gradient = (49 − 1)/12 = 4 m/s².",
+      "d": "Medium",
+      "topic": "Speed-time graphs",
+      "slo": "P-09-B-14"
+    },
+    {
+      "id": "PHY9CH2-262",
+      "q": "A speed-time graph rises linearly from 2 m/s to 67 m/s in 13 s. Find its gradient.",
+      "o": [
+        "18 m/s²",
+        "6 m/s²",
+        "10 m/s²",
+        "5 m/s²"
+      ],
+      "a": 3,
+      "e": "Gradient = (67 − 2)/13 = 5 m/s².",
+      "d": "Medium",
+      "topic": "Speed-time graphs",
+      "slo": "P-09-B-14"
+    },
+    {
+      "id": "PHY9CH2-263",
+      "q": "A speed-time graph rises linearly from 3 m/s to 87 m/s in 14 s. Find its gradient.",
+      "o": [
+        "6 m/s²",
+        "20 m/s²",
+        "12 m/s²",
+        "7 m/s²"
+      ],
+      "a": 0,
+      "e": "Gradient = (87 − 3)/14 = 6 m/s².",
+      "d": "Medium",
+      "topic": "Speed-time graphs",
+      "slo": "P-09-B-14"
+    },
+    {
+      "id": "PHY9CH2-264",
+      "q": "A speed-time graph rises linearly from 4 m/s to 109 m/s in 15 s. Find its gradient.",
+      "o": [
+        "14 m/s²",
+        "8 m/s²",
+        "22 m/s²",
+        "7 m/s²"
+      ],
+      "a": 3,
+      "e": "Gradient = (109 − 4)/15 = 7 m/s².",
+      "d": "Medium",
+      "topic": "Speed-time graphs",
+      "slo": "P-09-B-14"
+    },
+    {
+      "id": "PHY9CH2-265",
+      "q": "A speed-time graph rises linearly from 5 m/s to 133 m/s in 16 s. Find its gradient.",
+      "o": [
+        "8 m/s²",
+        "16 m/s²",
+        "9 m/s²",
+        "24 m/s²"
+      ],
+      "a": 0,
+      "e": "Gradient = (133 − 5)/16 = 8 m/s².",
+      "d": "Medium",
+      "topic": "Speed-time graphs",
+      "slo": "P-09-B-14"
+    },
+    {
+      "id": "PHY9CH2-266",
+      "q": "A speed-time graph rises linearly from 1 m/s to 154 m/s in 17 s. Find its gradient.",
+      "o": [
+        "18 m/s²",
+        "26 m/s²",
+        "9 m/s²",
+        "10 m/s²"
+      ],
+      "a": 2,
+      "e": "Gradient = (154 − 1)/17 = 9 m/s².",
+      "d": "Medium",
+      "topic": "Speed-time graphs",
+      "slo": "P-09-B-14"
+    },
+    {
+      "id": "PHY9CH2-267",
+      "q": "A speed-time graph rises linearly from 2 m/s to 38 m/s in 18 s. Find its gradient.",
+      "o": [
+        "4 m/s²",
+        "2 m/s²",
+        "3 m/s²",
+        "20 m/s²"
+      ],
+      "a": 1,
+      "e": "Gradient = (38 − 2)/18 = 2 m/s².",
+      "d": "Medium",
+      "topic": "Speed-time graphs",
+      "slo": "P-09-B-14"
+    },
+    {
+      "id": "PHY9CH2-268",
+      "q": "A speed-time graph rises linearly from 3 m/s to 60 m/s in 19 s. Find its gradient.",
+      "o": [
+        "6 m/s²",
+        "22 m/s²",
+        "3 m/s²",
+        "4 m/s²"
+      ],
+      "a": 2,
+      "e": "Gradient = (60 − 3)/19 = 3 m/s².",
+      "d": "Medium",
+      "topic": "Speed-time graphs",
+      "slo": "P-09-B-14"
+    },
+    {
+      "id": "PHY9CH2-269",
+      "q": "A student walks 5 m east and then 1 m west. What total distance is covered?",
+      "o": [
+        "11 m",
+        "6 m",
+        "4 m",
+        "7 m"
+      ],
+      "a": 1,
+      "e": "Distance adds path lengths: 5 + 1 = 6 m.",
+      "d": "Medium",
+      "topic": "Distance and displacement",
+      "slo": "P-09-B-02"
+    },
+    {
+      "id": "PHY9CH2-270",
+      "q": "A student walks 6 m east and then 2 m west. What total distance is covered?",
+      "o": [
+        "10 m",
+        "8 m",
+        "14 m",
+        "4 m"
+      ],
+      "a": 1,
+      "e": "Distance adds path lengths: 6 + 2 = 8 m.",
+      "d": "Medium",
+      "topic": "Distance and displacement",
+      "slo": "P-09-B-02"
+    },
+    {
+      "id": "PHY9CH2-271",
+      "q": "A student walks 7 m east and then 3 m west. What total distance is covered?",
+      "o": [
+        "17 m",
+        "13 m",
+        "10 m",
+        "4 m"
+      ],
+      "a": 2,
+      "e": "Distance adds path lengths: 7 + 3 = 10 m.",
+      "d": "Medium",
+      "topic": "Distance and displacement",
+      "slo": "P-09-B-02"
+    },
+    {
+      "id": "PHY9CH2-272",
+      "q": "A student walks 8 m east and then 4 m west. What total distance is covered?",
+      "o": [
+        "12 m",
+        "16 m",
+        "20 m",
+        "4 m"
+      ],
+      "a": 0,
+      "e": "Distance adds path lengths: 8 + 4 = 12 m.",
+      "d": "Medium",
+      "topic": "Distance and displacement",
+      "slo": "P-09-B-02"
+    },
+    {
+      "id": "PHY9CH2-273",
+      "q": "A student walks 9 m east and then 5 m west. What total distance is covered?",
+      "o": [
+        "14 m",
+        "19 m",
+        "4 m",
+        "23 m"
+      ],
+      "a": 0,
+      "e": "Distance adds path lengths: 9 + 5 = 14 m.",
+      "d": "Medium",
+      "topic": "Distance and displacement",
+      "slo": "P-09-B-02"
+    },
+    {
+      "id": "PHY9CH2-274",
+      "q": "A student walks 10 m east and then 1 m west. What total distance is covered?",
+      "o": [
+        "9 m",
+        "11 m",
+        "21 m",
+        "12 m"
+      ],
+      "a": 1,
+      "e": "Distance adds path lengths: 10 + 1 = 11 m.",
+      "d": "Medium",
+      "topic": "Distance and displacement",
+      "slo": "P-09-B-02"
+    },
+    {
+      "id": "PHY9CH2-275",
+      "q": "A student walks 11 m east and then 2 m west. What total distance is covered?",
+      "o": [
+        "24 m",
+        "13 m",
+        "9 m",
+        "15 m"
+      ],
+      "a": 1,
+      "e": "Distance adds path lengths: 11 + 2 = 13 m.",
+      "d": "Medium",
+      "topic": "Distance and displacement",
+      "slo": "P-09-B-02"
+    },
+    {
+      "id": "PHY9CH2-276",
+      "q": "A student walks 12 m east and then 3 m west. What total distance is covered?",
+      "o": [
+        "9 m",
+        "18 m",
+        "15 m",
+        "27 m"
+      ],
+      "a": 2,
+      "e": "Distance adds path lengths: 12 + 3 = 15 m.",
+      "d": "Medium",
+      "topic": "Distance and displacement",
+      "slo": "P-09-B-02"
+    },
+    {
+      "id": "PHY9CH2-277",
+      "q": "A student walks 13 m east and then 4 m west. What total distance is covered?",
+      "o": [
+        "30 m",
+        "21 m",
+        "17 m",
+        "9 m"
+      ],
+      "a": 2,
+      "e": "Distance adds path lengths: 13 + 4 = 17 m.",
+      "d": "Medium",
+      "topic": "Distance and displacement",
+      "slo": "P-09-B-02"
+    },
+    {
+      "id": "PHY9CH2-278",
+      "q": "A student walks 14 m east and then 5 m west. What total distance is covered?",
+      "o": [
+        "24 m",
+        "19 m",
+        "33 m",
+        "9 m"
+      ],
+      "a": 1,
+      "e": "Distance adds path lengths: 14 + 5 = 19 m.",
+      "d": "Medium",
+      "topic": "Distance and displacement",
+      "slo": "P-09-B-02"
+    },
+    {
+      "id": "PHY9CH2-279",
+      "q": "A student walks 15 m east and then 1 m west. What total distance is covered?",
+      "o": [
+        "14 m",
+        "17 m",
+        "31 m",
+        "16 m"
+      ],
+      "a": 3,
+      "e": "Distance adds path lengths: 15 + 1 = 16 m.",
+      "d": "Medium",
+      "topic": "Distance and displacement",
+      "slo": "P-09-B-02"
+    },
+    {
+      "id": "PHY9CH2-280",
+      "q": "A student walks 16 m east and then 2 m west. What total distance is covered?",
+      "o": [
+        "20 m",
+        "34 m",
+        "14 m",
+        "18 m"
+      ],
+      "a": 3,
+      "e": "Distance adds path lengths: 16 + 2 = 18 m.",
+      "d": "Medium",
+      "topic": "Distance and displacement",
+      "slo": "P-09-B-02"
+    },
+    {
+      "id": "PHY9CH2-281",
+      "q": "A student walks 17 m east and then 3 m west. What total distance is covered?",
+      "o": [
+        "14 m",
+        "37 m",
+        "23 m",
+        "20 m"
+      ],
+      "a": 3,
+      "e": "Distance adds path lengths: 17 + 3 = 20 m.",
+      "d": "Medium",
+      "topic": "Distance and displacement",
+      "slo": "P-09-B-02"
+    },
+    {
+      "id": "PHY9CH2-282",
+      "q": "A student walks 18 m east and then 4 m west. What total distance is covered?",
+      "o": [
+        "26 m",
+        "40 m",
+        "22 m",
+        "14 m"
+      ],
+      "a": 2,
+      "e": "Distance adds path lengths: 18 + 4 = 22 m.",
+      "d": "Medium",
+      "topic": "Distance and displacement",
+      "slo": "P-09-B-02"
+    },
+    {
+      "id": "PHY9CH2-283",
+      "q": "A student walks 19 m east and then 5 m west. What total distance is covered?",
+      "o": [
+        "24 m",
+        "29 m",
+        "43 m",
+        "14 m"
+      ],
+      "a": 0,
+      "e": "Distance adds path lengths: 19 + 5 = 24 m.",
+      "d": "Medium",
+      "topic": "Distance and displacement",
+      "slo": "P-09-B-02"
+    },
+    {
+      "id": "PHY9CH2-284",
+      "q": "A student walks 20 m east and then 1 m west. What total distance is covered?",
+      "o": [
+        "21 m",
+        "41 m",
+        "19 m",
+        "22 m"
+      ],
+      "a": 0,
+      "e": "Distance adds path lengths: 20 + 1 = 21 m.",
+      "d": "Medium",
+      "topic": "Distance and displacement",
+      "slo": "P-09-B-02"
+    },
+    {
+      "id": "PHY9CH2-285",
+      "q": "A student walks 21 m east and then 2 m west. What total distance is covered?",
+      "o": [
+        "23 m",
+        "44 m",
+        "25 m",
+        "19 m"
+      ],
+      "a": 0,
+      "e": "Distance adds path lengths: 21 + 2 = 23 m.",
+      "d": "Medium",
+      "topic": "Distance and displacement",
+      "slo": "P-09-B-02"
+    },
+    {
+      "id": "PHY9CH2-286",
+      "q": "A student walks 22 m east and then 3 m west. What total distance is covered?",
+      "o": [
+        "19 m",
+        "28 m",
+        "25 m",
+        "47 m"
+      ],
+      "a": 2,
+      "e": "Distance adds path lengths: 22 + 3 = 25 m.",
+      "d": "Medium",
+      "topic": "Distance and displacement",
+      "slo": "P-09-B-02"
+    },
+    {
+      "id": "PHY9CH2-287",
+      "q": "A student walks 7 m east and then 1 m west. Find the magnitude of displacement.",
+      "o": [
+        "7 m",
+        "13 m",
+        "6 m",
+        "8 m"
+      ],
+      "a": 2,
+      "e": "Net eastward displacement = 7 − 1 = 6 m east.",
+      "d": "Medium",
+      "topic": "Distance and displacement",
+      "slo": "P-09-B-02"
+    },
+    {
+      "id": "PHY9CH2-288",
+      "q": "A student walks 8 m east and then 2 m west. Find the magnitude of displacement.",
+      "o": [
+        "8 m",
+        "6 m",
+        "10 m",
+        "14 m"
+      ],
+      "a": 1,
+      "e": "Net eastward displacement = 8 − 2 = 6 m east.",
+      "d": "Medium",
+      "topic": "Distance and displacement",
+      "slo": "P-09-B-02"
+    },
+    {
+      "id": "PHY9CH2-289",
+      "q": "A student walks 9 m east and then 3 m west. Find the magnitude of displacement.",
+      "o": [
+        "15 m",
+        "6 m",
+        "9 m",
+        "12 m"
+      ],
+      "a": 1,
+      "e": "Net eastward displacement = 9 − 3 = 6 m east.",
+      "d": "Medium",
+      "topic": "Distance and displacement",
+      "slo": "P-09-B-02"
+    },
+    {
+      "id": "PHY9CH2-290",
+      "q": "A student walks 10 m east and then 4 m west. Find the magnitude of displacement.",
+      "o": [
+        "16 m",
+        "6 m",
+        "14 m",
+        "10 m"
+      ],
+      "a": 1,
+      "e": "Net eastward displacement = 10 − 4 = 6 m east.",
+      "d": "Medium",
+      "topic": "Distance and displacement",
+      "slo": "P-09-B-02"
+    },
+    {
+      "id": "PHY9CH2-291",
+      "q": "A student walks 11 m east and then 1 m west. Find the magnitude of displacement.",
+      "o": [
+        "10 m",
+        "12 m",
+        "21 m",
+        "11 m"
+      ],
+      "a": 0,
+      "e": "Net eastward displacement = 11 − 1 = 10 m east.",
+      "d": "Medium",
+      "topic": "Distance and displacement",
+      "slo": "P-09-B-02"
+    },
+    {
+      "id": "PHY9CH2-292",
+      "q": "A student walks 12 m east and then 2 m west. Find the magnitude of displacement.",
+      "o": [
+        "10 m",
+        "12 m",
+        "14 m",
+        "22 m"
+      ],
+      "a": 0,
+      "e": "Net eastward displacement = 12 − 2 = 10 m east.",
+      "d": "Medium",
+      "topic": "Distance and displacement",
+      "slo": "P-09-B-02"
+    },
+    {
+      "id": "PHY9CH2-293",
+      "q": "A student walks 13 m east and then 3 m west. Find the magnitude of displacement.",
+      "o": [
+        "10 m",
+        "23 m",
+        "16 m",
+        "13 m"
+      ],
+      "a": 0,
+      "e": "Net eastward displacement = 13 − 3 = 10 m east.",
+      "d": "Medium",
+      "topic": "Distance and displacement",
+      "slo": "P-09-B-02"
+    },
+    {
+      "id": "PHY9CH2-294",
+      "q": "A student walks 14 m east and then 4 m west. Find the magnitude of displacement.",
+      "o": [
+        "14 m",
+        "18 m",
+        "10 m",
+        "24 m"
+      ],
+      "a": 2,
+      "e": "Net eastward displacement = 14 − 4 = 10 m east.",
+      "d": "Medium",
+      "topic": "Distance and displacement",
+      "slo": "P-09-B-02"
+    },
+    {
+      "id": "PHY9CH2-295",
+      "q": "A student walks 15 m east and then 1 m west. Find the magnitude of displacement.",
+      "o": [
+        "16 m",
+        "14 m",
+        "15 m",
+        "29 m"
+      ],
+      "a": 1,
+      "e": "Net eastward displacement = 15 − 1 = 14 m east.",
+      "d": "Medium",
+      "topic": "Distance and displacement",
+      "slo": "P-09-B-02"
+    },
+    {
+      "id": "PHY9CH2-296",
+      "q": "A student walks 16 m east and then 2 m west. Find the magnitude of displacement.",
+      "o": [
+        "14 m",
+        "18 m",
+        "16 m",
+        "30 m"
+      ],
+      "a": 0,
+      "e": "Net eastward displacement = 16 − 2 = 14 m east.",
+      "d": "Medium",
+      "topic": "Distance and displacement",
+      "slo": "P-09-B-02"
+    },
+    {
+      "id": "PHY9CH2-297",
+      "q": "A student walks 17 m east and then 3 m west. Find the magnitude of displacement.",
+      "o": [
+        "14 m",
+        "20 m",
+        "31 m",
+        "17 m"
+      ],
+      "a": 0,
+      "e": "Net eastward displacement = 17 − 3 = 14 m east.",
+      "d": "Medium",
+      "topic": "Distance and displacement",
+      "slo": "P-09-B-02"
+    },
+    {
+      "id": "PHY9CH2-298",
+      "q": "A student walks 18 m east and then 4 m west. Find the magnitude of displacement.",
+      "o": [
+        "18 m",
+        "14 m",
+        "32 m",
+        "22 m"
+      ],
+      "a": 1,
+      "e": "Net eastward displacement = 18 − 4 = 14 m east.",
+      "d": "Medium",
+      "topic": "Distance and displacement",
+      "slo": "P-09-B-02"
+    },
+    {
+      "id": "PHY9CH2-299",
+      "q": "A student walks 19 m east and then 1 m west. Find the magnitude of displacement.",
+      "o": [
+        "19 m",
+        "20 m",
+        "18 m",
+        "37 m"
+      ],
+      "a": 2,
+      "e": "Net eastward displacement = 19 − 1 = 18 m east.",
+      "d": "Medium",
+      "topic": "Distance and displacement",
+      "slo": "P-09-B-02"
+    },
+    {
+      "id": "PHY9CH2-300",
+      "q": "A student walks 20 m east and then 2 m west. Find the magnitude of displacement.",
+      "o": [
+        "38 m",
+        "22 m",
+        "20 m",
+        "18 m"
+      ],
+      "a": 3,
+      "e": "Net eastward displacement = 20 − 2 = 18 m east.",
+      "d": "Medium",
+      "topic": "Distance and displacement",
+      "slo": "P-09-B-02"
+    }
+  ]
+}

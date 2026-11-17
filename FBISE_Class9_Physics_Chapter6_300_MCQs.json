@@ -1,0 +1,4504 @@
+{
+  "questions": [
+    {
+      "id": "PHY9CH6-001",
+      "q": "When is mechanical work done by a force?",
+      "o": [
+        "Only when time passes",
+        "Whenever a force exists",
+        "Only when an object is at rest",
+        "When it causes displacement in its direction"
+      ],
+      "a": 3,
+      "e": "Work requires displacement along the force.",
+      "d": "Easy",
+      "topic": "Work",
+      "slo": "P-09-B-60"
+    },
+    {
+      "id": "PHY9CH6-002",
+      "q": "For Chapter 6 revision: when is mechanical work done by a force?",
+      "o": [
+        "When it causes displacement in its direction",
+        "Whenever a force exists",
+        "Only when an object is at rest",
+        "Only when time passes"
+      ],
+      "a": 0,
+      "e": "Work requires displacement along the force.",
+      "d": "Hard",
+      "topic": "Work",
+      "slo": "P-09-B-60"
+    },
+    {
+      "id": "PHY9CH6-003",
+      "q": "What is the SI unit of work?",
+      "o": [
+        "joule (J)",
+        "newton (N)",
+        "watt (W)",
+        "pascal (Pa)"
+      ],
+      "a": 0,
+      "e": "Work is measured in joules.",
+      "d": "Medium",
+      "topic": "Work",
+      "slo": "P-09-B-60"
+    },
+    {
+      "id": "PHY9CH6-004",
+      "q": "For Chapter 6 revision: what is the SI unit of work?",
+      "o": [
+        "newton (N)",
+        "pascal (Pa)",
+        "joule (J)",
+        "watt (W)"
+      ],
+      "a": 2,
+      "e": "Work is measured in joules.",
+      "d": "Medium",
+      "topic": "Work",
+      "slo": "P-09-B-60"
+    },
+    {
+      "id": "PHY9CH6-005",
+      "q": "Which expression gives work for a constant force parallel to displacement?",
+      "o": [
+        "W = Fd",
+        "W = F + d",
+        "W = F/d",
+        "W = d/F"
+      ],
+      "a": 0,
+      "e": "Work equals force times displacement along the force.",
+      "d": "Medium",
+      "topic": "Work",
+      "slo": "P-09-B-61"
+    },
+    {
+      "id": "PHY9CH6-006",
+      "q": "For Chapter 6 revision: which expression gives work for a constant force parallel to displacement?",
+      "o": [
+        "W = Fd",
+        "W = F/d",
+        "W = d/F",
+        "W = F + d"
+      ],
+      "a": 0,
+      "e": "Work equals force times displacement along the force.",
+      "d": "Medium",
+      "topic": "Work",
+      "slo": "P-09-B-61"
+    },
+    {
+      "id": "PHY9CH6-007",
+      "q": "A person holds a heavy bag motionless. What is the mechanical work on the bag?",
+      "o": [
+        "Negative",
+        "Positive",
+        "Infinite",
+        "Zero"
+      ],
+      "a": 3,
+      "e": "There is no displacement.",
+      "d": "Easy",
+      "topic": "Work",
+      "slo": "P-09-B-60"
+    },
+    {
+      "id": "PHY9CH6-008",
+      "q": "For Chapter 6 revision: a person holds a heavy bag motionless. What is the mechanical work on the bag?",
+      "o": [
+        "Zero",
+        "Infinite",
+        "Negative",
+        "Positive"
+      ],
+      "a": 0,
+      "e": "There is no displacement.",
+      "d": "Hard",
+      "topic": "Work",
+      "slo": "P-09-B-60"
+    },
+    {
+      "id": "PHY9CH6-009",
+      "q": "Which kind of physical quantity is work?",
+      "o": [
+        "Scalar",
+        "Neither scalar nor vector",
+        "Vector",
+        "Tensor only"
+      ],
+      "a": 0,
+      "e": "Work has magnitude but no direction.",
+      "d": "Medium",
+      "topic": "Work",
+      "slo": "P-09-B-60"
+    },
+    {
+      "id": "PHY9CH6-010",
+      "q": "For Chapter 6 revision: which kind of physical quantity is work?",
+      "o": [
+        "Neither scalar nor vector",
+        "Tensor only",
+        "Vector",
+        "Scalar"
+      ],
+      "a": 3,
+      "e": "Work has magnitude but no direction.",
+      "d": "Medium",
+      "topic": "Work",
+      "slo": "P-09-B-60"
+    },
+    {
+      "id": "PHY9CH6-011",
+      "q": "What is one joule equivalent to?",
+      "o": [
+        "1 N/s",
+        "1 W/s",
+        "1 N m",
+        "1 kg/m"
+      ],
+      "a": 2,
+      "e": "One joule is the work done by one newton through one metre.",
+      "d": "Medium",
+      "topic": "Work",
+      "slo": "P-09-B-60"
+    },
+    {
+      "id": "PHY9CH6-012",
+      "q": "For Chapter 6 revision: what is one joule equivalent to?",
+      "o": [
+        "1 W/s",
+        "1 kg/m",
+        "1 N/s",
+        "1 N m"
+      ],
+      "a": 3,
+      "e": "One joule is the work done by one newton through one metre.",
+      "d": "Medium",
+      "topic": "Work",
+      "slo": "P-09-B-60"
+    },
+    {
+      "id": "PHY9CH6-013",
+      "q": "Which quantity represents capacity to do work?",
+      "o": [
+        "Energy",
+        "Force",
+        "Pressure",
+        "Power"
+      ],
+      "a": 0,
+      "e": "Energy is the capacity to do work.",
+      "d": "Easy",
+      "topic": "Energy",
+      "slo": "P-09-B-62"
+    },
+    {
+      "id": "PHY9CH6-014",
+      "q": "For Chapter 6 revision: which quantity represents capacity to do work?",
+      "o": [
+        "Force",
+        "Pressure",
+        "Power",
+        "Energy"
+      ],
+      "a": 3,
+      "e": "Energy is the capacity to do work.",
+      "d": "Hard",
+      "topic": "Energy",
+      "slo": "P-09-B-62"
+    },
+    {
+      "id": "PHY9CH6-015",
+      "q": "What is the SI unit of energy?",
+      "o": [
+        "newton",
+        "watt",
+        "joule",
+        "ampere"
+      ],
+      "a": 2,
+      "e": "Energy and work share the joule unit.",
+      "d": "Medium",
+      "topic": "Energy",
+      "slo": "P-09-B-62"
+    },
+    {
+      "id": "PHY9CH6-016",
+      "q": "For Chapter 6 revision: what is the SI unit of energy?",
+      "o": [
+        "joule",
+        "ampere",
+        "watt",
+        "newton"
+      ],
+      "a": 0,
+      "e": "Energy and work share the joule unit.",
+      "d": "Medium",
+      "topic": "Energy",
+      "slo": "P-09-B-62"
+    },
+    {
+      "id": "PHY9CH6-017",
+      "q": "Which energy is possessed because of motion?",
+      "o": [
+        "Kinetic energy",
+        "Gravitational potential energy",
+        "Elastic potential energy",
+        "Chemical potential energy"
+      ],
+      "a": 0,
+      "e": "Kinetic energy depends on motion.",
+      "d": "Medium",
+      "topic": "Kinetic energy",
+      "slo": "P-09-B-64"
+    },
+    {
+      "id": "PHY9CH6-018",
+      "q": "For Chapter 6 revision: which energy is possessed because of motion?",
+      "o": [
+        "Chemical potential energy",
+        "Elastic potential energy",
+        "Gravitational potential energy",
+        "Kinetic energy"
+      ],
+      "a": 3,
+      "e": "Kinetic energy depends on motion.",
+      "d": "Medium",
+      "topic": "Kinetic energy",
+      "slo": "P-09-B-64"
+    },
+    {
+      "id": "PHY9CH6-019",
+      "q": "What is the expression for translational kinetic energy?",
+      "o": [
+        "KE = F/d",
+        "KE = mgh",
+        "KE = mv",
+        "KE = 1/2 mv^2"
+      ],
+      "a": 3,
+      "e": "Kinetic energy equals one-half mass times speed squared.",
+      "d": "Easy",
+      "topic": "Kinetic energy",
+      "slo": "P-09-B-64"
+    },
+    {
+      "id": "PHY9CH6-020",
+      "q": "For Chapter 6 revision: what is the expression for translational kinetic energy?",
+      "o": [
+        "KE = mv",
+        "KE = F/d",
+        "KE = mgh",
+        "KE = 1/2 mv^2"
+      ],
+      "a": 3,
+      "e": "Kinetic energy equals one-half mass times speed squared.",
+      "d": "Hard",
+      "topic": "Kinetic energy",
+      "slo": "P-09-B-64"
+    },
+    {
+      "id": "PHY9CH6-021",
+      "q": "If speed doubles while mass stays constant, kinetic energy becomes",
+      "o": [
+        "Four times",
+        "Twice",
+        "Eight times",
+        "Half"
+      ],
+      "a": 0,
+      "e": "Kinetic energy varies with the square of speed.",
+      "d": "Medium",
+      "topic": "Kinetic energy",
+      "slo": "P-09-B-64"
+    },
+    {
+      "id": "PHY9CH6-022",
+      "q": "For Chapter 6 revision: if speed doubles while mass stays constant, kinetic energy becomes",
+      "o": [
+        "Eight times",
+        "Four times",
+        "Twice",
+        "Half"
+      ],
+      "a": 1,
+      "e": "Kinetic energy varies with the square of speed.",
+      "d": "Medium",
+      "topic": "Kinetic energy",
+      "slo": "P-09-B-64"
+    },
+    {
+      "id": "PHY9CH6-023",
+      "q": "If mass doubles at unchanged speed, kinetic energy becomes",
+      "o": [
+        "Half",
+        "Twice",
+        "Four times",
+        "Unchanged"
+      ],
+      "a": 1,
+      "e": "Kinetic energy is proportional to mass.",
+      "d": "Medium",
+      "topic": "Kinetic energy",
+      "slo": "P-09-B-64"
+    },
+    {
+      "id": "PHY9CH6-024",
+      "q": "For Chapter 6 revision: if mass doubles at unchanged speed, kinetic energy becomes",
+      "o": [
+        "Twice",
+        "Half",
+        "Unchanged",
+        "Four times"
+      ],
+      "a": 0,
+      "e": "Kinetic energy is proportional to mass.",
+      "d": "Medium",
+      "topic": "Kinetic energy",
+      "slo": "P-09-B-64"
+    },
+    {
+      "id": "PHY9CH6-025",
+      "q": "What is the kinetic energy of an object at rest?",
+      "o": [
+        "Its weight in joules",
+        "0 J",
+        "Its mass in joules",
+        "1 J"
+      ],
+      "a": 1,
+      "e": "Speed is zero so KE = 0.",
+      "d": "Easy",
+      "topic": "Kinetic energy",
+      "slo": "P-09-B-64"
+    },
+    {
+      "id": "PHY9CH6-026",
+      "q": "For Chapter 6 revision: what is the kinetic energy of an object at rest?",
+      "o": [
+        "0 J",
+        "Its weight in joules",
+        "Its mass in joules",
+        "1 J"
+      ],
+      "a": 0,
+      "e": "Speed is zero so KE = 0.",
+      "d": "Hard",
+      "topic": "Kinetic energy",
+      "slo": "P-09-B-64"
+    },
+    {
+      "id": "PHY9CH6-027",
+      "q": "Which is an example of stored elastic energy?",
+      "o": [
+        "A moving bicycle",
+        "Sunlight travelling",
+        "A ringing bell",
+        "A stretched spring"
+      ],
+      "a": 3,
+      "e": "A stretched spring stores elastic potential energy.",
+      "d": "Medium",
+      "topic": "Stored energy",
+      "slo": "P-09-B-63"
+    },
+    {
+      "id": "PHY9CH6-028",
+      "q": "For Chapter 6 revision: which is an example of stored elastic energy?",
+      "o": [
+        "A ringing bell",
+        "A moving bicycle",
+        "A stretched spring",
+        "Sunlight travelling"
+      ],
+      "a": 2,
+      "e": "A stretched spring stores elastic potential energy.",
+      "d": "Medium",
+      "topic": "Stored energy",
+      "slo": "P-09-B-63"
+    },
+    {
+      "id": "PHY9CH6-029",
+      "q": "Where is chemical energy stored in food?",
+      "o": [
+        "Speed of the food",
+        "Chemical bonds",
+        "Sound waves",
+        "Height above ground"
+      ],
+      "a": 1,
+      "e": "Food stores chemical potential energy in its bonds.",
+      "d": "Medium",
+      "topic": "Stored energy",
+      "slo": "P-09-B-63"
+    },
+    {
+      "id": "PHY9CH6-030",
+      "q": "For Chapter 6 revision: where is chemical energy stored in food?",
+      "o": [
+        "Height above ground",
+        "Chemical bonds",
+        "Speed of the food",
+        "Sound waves"
+      ],
+      "a": 1,
+      "e": "Food stores chemical potential energy in its bonds.",
+      "d": "Medium",
+      "topic": "Stored energy",
+      "slo": "P-09-B-63"
+    },
+    {
+      "id": "PHY9CH6-031",
+      "q": "What is gravitational potential energy near Earth given by?",
+      "o": [
+        "PE = F/t",
+        "PE = mgh",
+        "PE = 1/2 mv^2",
+        "PE = mv"
+      ],
+      "a": 1,
+      "e": "Near Earth the change in gravitational potential energy is mgh.",
+      "d": "Easy",
+      "topic": "Potential energy",
+      "slo": "P-09-B-65"
+    },
+    {
+      "id": "PHY9CH6-032",
+      "q": "For Chapter 6 revision: what is gravitational potential energy near Earth given by?",
+      "o": [
+        "PE = F/t",
+        "PE = 1/2 mv^2",
+        "PE = mgh",
+        "PE = mv"
+      ],
+      "a": 2,
+      "e": "Near Earth the change in gravitational potential energy is mgh.",
+      "d": "Hard",
+      "topic": "Potential energy",
+      "slo": "P-09-B-65"
+    },
+    {
+      "id": "PHY9CH6-033",
+      "q": "Which change increases gravitational potential energy at constant mass?",
+      "o": [
+        "Reducing g",
+        "Increasing height",
+        "Reducing mass",
+        "Reducing height"
+      ],
+      "a": 1,
+      "e": "PE increases with height when m and g are fixed.",
+      "d": "Medium",
+      "topic": "Potential energy",
+      "slo": "P-09-B-65"
+    },
+    {
+      "id": "PHY9CH6-034",
+      "q": "For Chapter 6 revision: which change increases gravitational potential energy at constant mass?",
+      "o": [
+        "Reducing g",
+        "Reducing mass",
+        "Reducing height",
+        "Increasing height"
+      ],
+      "a": 3,
+      "e": "PE increases with height when m and g are fixed.",
+      "d": "Medium",
+      "topic": "Potential energy",
+      "slo": "P-09-B-65"
+    },
+    {
+      "id": "PHY9CH6-035",
+      "q": "A book is lifted onto a shelf. Which energy store increases?",
+      "o": [
+        "Sound only",
+        "Nuclear only",
+        "Gravitational potential",
+        "Kinetic only"
+      ],
+      "a": 2,
+      "e": "Lifting increases gravitational potential energy.",
+      "d": "Medium",
+      "topic": "Potential energy",
+      "slo": "P-09-B-65"
+    },
+    {
+      "id": "PHY9CH6-036",
+      "q": "For Chapter 6 revision: a book is lifted onto a shelf. Which energy store increases?",
+      "o": [
+        "Nuclear only",
+        "Kinetic only",
+        "Gravitational potential",
+        "Sound only"
+      ],
+      "a": 2,
+      "e": "Lifting increases gravitational potential energy.",
+      "d": "Medium",
+      "topic": "Potential energy",
+      "slo": "P-09-B-65"
+    },
+    {
+      "id": "PHY9CH6-037",
+      "q": "Which quantity is commonly taken as g near Earth surface?",
+      "o": [
+        "9.8 N",
+        "98 m/s",
+        "9.8 m/s",
+        "9.8 m/s^2"
+      ],
+      "a": 3,
+      "e": "Earth gravitational acceleration is approximately 9.8 m/s squared.",
+      "d": "Easy",
+      "topic": "Potential energy",
+      "slo": "P-09-B-65"
+    },
+    {
+      "id": "PHY9CH6-038",
+      "q": "For Chapter 6 revision: which quantity is commonly taken as g near Earth surface?",
+      "o": [
+        "9.8 m/s",
+        "98 m/s",
+        "9.8 N",
+        "9.8 m/s^2"
+      ],
+      "a": 3,
+      "e": "Earth gravitational acceleration is approximately 9.8 m/s squared.",
+      "d": "Hard",
+      "topic": "Potential energy",
+      "slo": "P-09-B-65"
+    },
+    {
+      "id": "PHY9CH6-039",
+      "q": "What happens to gravitational PE of a falling object?",
+      "o": [
+        "It decreases",
+        "It increases",
+        "It becomes negative in every case",
+        "It stays fixed"
+      ],
+      "a": 0,
+      "e": "As height decreases, gravitational PE decreases.",
+      "d": "Medium",
+      "topic": "Energy conversion",
+      "slo": "P-09-B-66"
+    },
+    {
+      "id": "PHY9CH6-040",
+      "q": "For Chapter 6 revision: what happens to gravitational PE of a falling object?",
+      "o": [
+        "It increases",
+        "It decreases",
+        "It becomes negative in every case",
+        "It stays fixed"
+      ],
+      "a": 1,
+      "e": "As height decreases, gravitational PE decreases.",
+      "d": "Medium",
+      "topic": "Energy conversion",
+      "slo": "P-09-B-66"
+    },
+    {
+      "id": "PHY9CH6-041",
+      "q": "In ideal free fall, falling gravitational potential energy becomes",
+      "o": [
+        "Kinetic energy",
+        "Mass",
+        "Nuclear energy",
+        "Charge"
+      ],
+      "a": 0,
+      "e": "Ignoring air resistance, PE converts into KE.",
+      "d": "Medium",
+      "topic": "Energy conversion",
+      "slo": "P-09-B-66"
+    },
+    {
+      "id": "PHY9CH6-042",
+      "q": "For Chapter 6 revision: in ideal free fall, falling gravitational potential energy becomes",
+      "o": [
+        "Mass",
+        "Charge",
+        "Nuclear energy",
+        "Kinetic energy"
+      ],
+      "a": 3,
+      "e": "Ignoring air resistance, PE converts into KE.",
+      "d": "Medium",
+      "topic": "Energy conversion",
+      "slo": "P-09-B-66"
+    },
+    {
+      "id": "PHY9CH6-043",
+      "q": "What happens to a cyclist kinetic energy when speeding up?",
+      "o": [
+        "It cannot change",
+        "It increases",
+        "It decreases",
+        "It remains zero"
+      ],
+      "a": 1,
+      "e": "Higher speed means higher kinetic energy.",
+      "d": "Easy",
+      "topic": "Energy conversion",
+      "slo": "P-09-B-66"
+    },
+    {
+      "id": "PHY9CH6-044",
+      "q": "For Chapter 6 revision: what happens to a cyclist kinetic energy when speeding up?",
+      "o": [
+        "It remains zero",
+        "It increases",
+        "It decreases",
+        "It cannot change"
+      ],
+      "a": 1,
+      "e": "Higher speed means higher kinetic energy.",
+      "d": "Hard",
+      "topic": "Energy conversion",
+      "slo": "P-09-B-66"
+    },
+    {
+      "id": "PHY9CH6-045",
+      "q": "What does the work-energy theorem state?",
+      "o": [
+        "Net work equals mass",
+        "Net work equals change in kinetic energy",
+        "Energy always increases",
+        "Power equals force"
+      ],
+      "a": 1,
+      "e": "Net work done on an object changes its kinetic energy.",
+      "d": "Medium",
+      "topic": "Work-energy",
+      "slo": "P-09-B-64"
+    },
+    {
+      "id": "PHY9CH6-046",
+      "q": "For Chapter 6 revision: what does the work-energy theorem state?",
+      "o": [
+        "Power equals force",
+        "Energy always increases",
+        "Net work equals change in kinetic energy",
+        "Net work equals mass"
+      ],
+      "a": 2,
+      "e": "Net work done on an object changes its kinetic energy.",
+      "d": "Medium",
+      "topic": "Work-energy",
+      "slo": "P-09-B-64"
+    },
+    {
+      "id": "PHY9CH6-047",
+      "q": "What does conservation of energy mean?",
+      "o": [
+        "Energy is a force",
+        "Energy disappears as heat",
+        "Energy is always useful",
+        "Energy cannot be created or destroyed"
+      ],
+      "a": 3,
+      "e": "Energy transfers or transforms while total energy remains constant.",
+      "d": "Medium",
+      "topic": "Conservation",
+      "slo": "P-09-B-68"
+    },
+    {
+      "id": "PHY9CH6-048",
+      "q": "For Chapter 6 revision: what does conservation of energy mean?",
+      "o": [
+        "Energy is a force",
+        "Energy disappears as heat",
+        "Energy is always useful",
+        "Energy cannot be created or destroyed"
+      ],
+      "a": 3,
+      "e": "Energy transfers or transforms while total energy remains constant.",
+      "d": "Medium",
+      "topic": "Conservation",
+      "slo": "P-09-B-68"
+    },
+    {
+      "id": "PHY9CH6-049",
+      "q": "Why cannot a perpetual energy machine supply energy forever without input?",
+      "o": [
+        "Gravity stops working",
+        "Mass always increases",
+        "All motion is circular",
+        "It cannot create energy and has losses"
+      ],
+      "a": 3,
+      "e": "Energy conservation and dissipation prevent perpetual useful output.",
+      "d": "Easy",
+      "topic": "Conservation",
+      "slo": "P-09-B-69"
+    },
+    {
+      "id": "PHY9CH6-050",
+      "q": "For Chapter 6 revision: why cannot a perpetual energy machine supply energy forever without input?",
+      "o": [
+        "Gravity stops working",
+        "Mass always increases",
+        "All motion is circular",
+        "It cannot create energy and has losses"
+      ],
+      "a": 3,
+      "e": "Energy conservation and dissipation prevent perpetual useful output.",
+      "d": "Hard",
+      "topic": "Conservation",
+      "slo": "P-09-B-69"
+    },
+    {
+      "id": "PHY9CH6-051",
+      "q": "Which energy change occurs in a glowing filament bulb?",
+      "o": [
+        "Electrical to light and thermal",
+        "Sound to gravitational",
+        "Thermal to chemical only",
+        "Chemical to nuclear"
+      ],
+      "a": 0,
+      "e": "A bulb converts electrical energy to light and heat.",
+      "d": "Medium",
+      "topic": "Energy transfers",
+      "slo": "P-09-B-67"
+    },
+    {
+      "id": "PHY9CH6-052",
+      "q": "For Chapter 6 revision: which energy change occurs in a glowing filament bulb?",
+      "o": [
+        "Thermal to chemical only",
+        "Chemical to nuclear",
+        "Electrical to light and thermal",
+        "Sound to gravitational"
+      ],
+      "a": 2,
+      "e": "A bulb converts electrical energy to light and heat.",
+      "d": "Medium",
+      "topic": "Energy transfers",
+      "slo": "P-09-B-67"
+    },
+    {
+      "id": "PHY9CH6-053",
+      "q": "Which energy change occurs in a hydroelectric generator?",
+      "o": [
+        "Water gravitational to electrical",
+        "Sound to nuclear",
+        "Heat to gravitational only",
+        "Electrical to chemical only"
+      ],
+      "a": 0,
+      "e": "Falling water drives a turbine and generator.",
+      "d": "Medium",
+      "topic": "Energy transfers",
+      "slo": "P-09-B-71"
+    },
+    {
+      "id": "PHY9CH6-054",
+      "q": "For Chapter 6 revision: which energy change occurs in a hydroelectric generator?",
+      "o": [
+        "Electrical to chemical only",
+        "Heat to gravitational only",
+        "Water gravitational to electrical",
+        "Sound to nuclear"
+      ],
+      "a": 2,
+      "e": "Falling water drives a turbine and generator.",
+      "d": "Medium",
+      "topic": "Energy transfers",
+      "slo": "P-09-B-71"
+    },
+    {
+      "id": "PHY9CH6-055",
+      "q": "In a petrol car, the initial fuel energy store is mainly",
+      "o": [
+        "Elastic",
+        "Nuclear",
+        "Chemical",
+        "Gravitational"
+      ],
+      "a": 2,
+      "e": "Petrol stores chemical energy.",
+      "d": "Easy",
+      "topic": "Energy transfers",
+      "slo": "P-09-B-67"
+    },
+    {
+      "id": "PHY9CH6-056",
+      "q": "For Chapter 6 revision: in a petrol car, the initial fuel energy store is mainly",
+      "o": [
+        "Elastic",
+        "Gravitational",
+        "Chemical",
+        "Nuclear"
+      ],
+      "a": 2,
+      "e": "Petrol stores chemical energy.",
+      "d": "Hard",
+      "topic": "Energy transfers",
+      "slo": "P-09-B-67"
+    },
+    {
+      "id": "PHY9CH6-057",
+      "q": "Which energy is commonly dissipated by friction?",
+      "o": [
+        "Thermal energy",
+        "Mass energy only",
+        "Magnetic potential only",
+        "Gravitational PE"
+      ],
+      "a": 0,
+      "e": "Friction usually warms surfaces and surroundings.",
+      "d": "Medium",
+      "topic": "Energy transfers",
+      "slo": "P-09-B-67"
+    },
+    {
+      "id": "PHY9CH6-058",
+      "q": "For Chapter 6 revision: which energy is commonly dissipated by friction?",
+      "o": [
+        "Mass energy only",
+        "Magnetic potential only",
+        "Gravitational PE",
+        "Thermal energy"
+      ],
+      "a": 3,
+      "e": "Friction usually warms surfaces and surroundings.",
+      "d": "Medium",
+      "topic": "Energy transfers",
+      "slo": "P-09-B-67"
+    },
+    {
+      "id": "PHY9CH6-059",
+      "q": "What is the energy stored in a raised object called?",
+      "o": [
+        "Electrical current",
+        "Kinetic energy",
+        "Gravitational potential energy",
+        "Sound energy"
+      ],
+      "a": 2,
+      "e": "A raised object stores energy due to its position.",
+      "d": "Medium",
+      "topic": "Stored energy",
+      "slo": "P-09-B-63"
+    },
+    {
+      "id": "PHY9CH6-060",
+      "q": "For Chapter 6 revision: what is the energy stored in a raised object called?",
+      "o": [
+        "Kinetic energy",
+        "Electrical current",
+        "Gravitational potential energy",
+        "Sound energy"
+      ],
+      "a": 2,
+      "e": "A raised object stores energy due to its position.",
+      "d": "Medium",
+      "topic": "Stored energy",
+      "slo": "P-09-B-63"
+    },
+    {
+      "id": "PHY9CH6-061",
+      "q": "Which source is non-renewable?",
+      "o": [
+        "Sunlight",
+        "Coal",
+        "Wind",
+        "Tidal flow"
+      ],
+      "a": 1,
+      "e": "Coal forms over geological timescales and is finite.",
+      "d": "Easy",
+      "topic": "Energy resources",
+      "slo": "P-09-B-70"
+    },
+    {
+      "id": "PHY9CH6-062",
+      "q": "For Chapter 6 revision: which source is non-renewable?",
+      "o": [
+        "Sunlight",
+        "Tidal flow",
+        "Wind",
+        "Coal"
+      ],
+      "a": 3,
+      "e": "Coal forms over geological timescales and is finite.",
+      "d": "Hard",
+      "topic": "Energy resources",
+      "slo": "P-09-B-70"
+    },
+    {
+      "id": "PHY9CH6-063",
+      "q": "Which source is renewable?",
+      "o": [
+        "Natural gas",
+        "Wind",
+        "Coal",
+        "Petroleum"
+      ],
+      "a": 1,
+      "e": "Wind is naturally replenished.",
+      "d": "Medium",
+      "topic": "Energy resources",
+      "slo": "P-09-B-70"
+    },
+    {
+      "id": "PHY9CH6-064",
+      "q": "For Chapter 6 revision: which source is renewable?",
+      "o": [
+        "Coal",
+        "Natural gas",
+        "Wind",
+        "Petroleum"
+      ],
+      "a": 2,
+      "e": "Wind is naturally replenished.",
+      "d": "Medium",
+      "topic": "Energy resources",
+      "slo": "P-09-B-70"
+    },
+    {
+      "id": "PHY9CH6-065",
+      "q": "Which fossil fuel is a gas?",
+      "o": [
+        "Coal",
+        "Biomass wood",
+        "Natural gas",
+        "Uranium"
+      ],
+      "a": 2,
+      "e": "Natural gas is a fossil fuel.",
+      "d": "Medium",
+      "topic": "Energy resources",
+      "slo": "P-09-B-70"
+    },
+    {
+      "id": "PHY9CH6-066",
+      "q": "For Chapter 6 revision: which fossil fuel is a gas?",
+      "o": [
+        "Coal",
+        "Biomass wood",
+        "Uranium",
+        "Natural gas"
+      ],
+      "a": 3,
+      "e": "Natural gas is a fossil fuel.",
+      "d": "Medium",
+      "topic": "Energy resources",
+      "slo": "P-09-B-70"
+    },
+    {
+      "id": "PHY9CH6-067",
+      "q": "Which fossil fuel is typically solid?",
+      "o": [
+        "Petrol",
+        "Coal",
+        "Diesel",
+        "Natural gas"
+      ],
+      "a": 1,
+      "e": "Coal is a solid fossil fuel.",
+      "d": "Easy",
+      "topic": "Energy resources",
+      "slo": "P-09-B-70"
+    },
+    {
+      "id": "PHY9CH6-068",
+      "q": "For Chapter 6 revision: which fossil fuel is typically solid?",
+      "o": [
+        "Petrol",
+        "Natural gas",
+        "Coal",
+        "Diesel"
+      ],
+      "a": 2,
+      "e": "Coal is a solid fossil fuel.",
+      "d": "Hard",
+      "topic": "Energy resources",
+      "slo": "P-09-B-70"
+    },
+    {
+      "id": "PHY9CH6-069",
+      "q": "What is a major drawback of burning fossil fuels?",
+      "o": [
+        "No energy release",
+        "No heat production",
+        "Zero air pollution",
+        "Greenhouse gas emissions"
+      ],
+      "a": 3,
+      "e": "Combustion produces carbon dioxide and other pollutants.",
+      "d": "Medium",
+      "topic": "Energy resources",
+      "slo": "P-09-B-72"
+    },
+    {
+      "id": "PHY9CH6-070",
+      "q": "For Chapter 6 revision: what is a major drawback of burning fossil fuels?",
+      "o": [
+        "No energy release",
+        "Zero air pollution",
+        "No heat production",
+        "Greenhouse gas emissions"
+      ],
+      "a": 3,
+      "e": "Combustion produces carbon dioxide and other pollutants.",
+      "d": "Medium",
+      "topic": "Energy resources",
+      "slo": "P-09-B-72"
+    },
+    {
+      "id": "PHY9CH6-071",
+      "q": "Which technology converts sunlight directly to electricity?",
+      "o": [
+        "Solar photovoltaic cell",
+        "Wind turbine",
+        "Steam boiler only",
+        "Water turbine"
+      ],
+      "a": 0,
+      "e": "Photovoltaic cells convert light energy to electrical energy.",
+      "d": "Medium",
+      "topic": "Solar energy",
+      "slo": "P-09-B-71"
+    },
+    {
+      "id": "PHY9CH6-072",
+      "q": "For Chapter 6 revision: which technology converts sunlight directly to electricity?",
+      "o": [
+        "Water turbine",
+        "Solar photovoltaic cell",
+        "Wind turbine",
+        "Steam boiler only"
+      ],
+      "a": 1,
+      "e": "Photovoltaic cells convert light energy to electrical energy.",
+      "d": "Medium",
+      "topic": "Solar energy",
+      "slo": "P-09-B-71"
+    },
+    {
+      "id": "PHY9CH6-073",
+      "q": "What is a limitation of solar power?",
+      "o": [
+        "It requires fossil fuel combustion",
+        "It cannot produce electricity",
+        "It always runs at night",
+        "Output depends on sunlight"
+      ],
+      "a": 3,
+      "e": "Solar output varies with weather and day-night cycles.",
+      "d": "Easy",
+      "topic": "Solar energy",
+      "slo": "P-09-B-72"
+    },
+    {
+      "id": "PHY9CH6-074",
+      "q": "For Chapter 6 revision: what is a limitation of solar power?",
+      "o": [
+        "It always runs at night",
+        "It cannot produce electricity",
+        "Output depends on sunlight",
+        "It requires fossil fuel combustion"
+      ],
+      "a": 2,
+      "e": "Solar output varies with weather and day-night cycles.",
+      "d": "Hard",
+      "topic": "Solar energy",
+      "slo": "P-09-B-72"
+    },
+    {
+      "id": "PHY9CH6-075",
+      "q": "What drives a wind turbine?",
+      "o": [
+        "Kinetic energy of moving air",
+        "Nuclear decay",
+        "Gravitational energy of coal",
+        "Heat from petrol"
+      ],
+      "a": 0,
+      "e": "Wind transfers kinetic energy to turbine blades.",
+      "d": "Medium",
+      "topic": "Wind energy",
+      "slo": "P-09-B-71"
+    },
+    {
+      "id": "PHY9CH6-076",
+      "q": "For Chapter 6 revision: what drives a wind turbine?",
+      "o": [
+        "Nuclear decay",
+        "Heat from petrol",
+        "Kinetic energy of moving air",
+        "Gravitational energy of coal"
+      ],
+      "a": 2,
+      "e": "Wind transfers kinetic energy to turbine blades.",
+      "d": "Medium",
+      "topic": "Wind energy",
+      "slo": "P-09-B-71"
+    },
+    {
+      "id": "PHY9CH6-077",
+      "q": "Which factor can limit wind electricity generation?",
+      "o": [
+        "Variable wind speed",
+        "Lack of any moving parts",
+        "Need for uranium",
+        "Sunlight is required directly"
+      ],
+      "a": 0,
+      "e": "Wind is intermittent.",
+      "d": "Medium",
+      "topic": "Wind energy",
+      "slo": "P-09-B-72"
+    },
+    {
+      "id": "PHY9CH6-078",
+      "q": "For Chapter 6 revision: which factor can limit wind electricity generation?",
+      "o": [
+        "Sunlight is required directly",
+        "Need for uranium",
+        "Variable wind speed",
+        "Lack of any moving parts"
+      ],
+      "a": 2,
+      "e": "Wind is intermittent.",
+      "d": "Medium",
+      "topic": "Wind energy",
+      "slo": "P-09-B-72"
+    },
+    {
+      "id": "PHY9CH6-079",
+      "q": "What is biomass energy originally derived from?",
+      "o": [
+        "Sunlight captured by plants",
+        "Sound from plants",
+        "Energy created from nothing",
+        "Earth magnetic field"
+      ],
+      "a": 0,
+      "e": "Photosynthesis stores solar energy in chemical form.",
+      "d": "Easy",
+      "topic": "Biomass",
+      "slo": "P-09-B-71"
+    },
+    {
+      "id": "PHY9CH6-080",
+      "q": "For Chapter 6 revision: what is biomass energy originally derived from?",
+      "o": [
+        "Sound from plants",
+        "Earth magnetic field",
+        "Energy created from nothing",
+        "Sunlight captured by plants"
+      ],
+      "a": 3,
+      "e": "Photosynthesis stores solar energy in chemical form.",
+      "d": "Hard",
+      "topic": "Biomass",
+      "slo": "P-09-B-71"
+    },
+    {
+      "id": "PHY9CH6-081",
+      "q": "Which resource uses heat from inside Earth?",
+      "o": [
+        "Solar photovoltaic energy",
+        "Wind energy",
+        "Tidal energy",
+        "Geothermal energy"
+      ],
+      "a": 3,
+      "e": "Geothermal systems exploit Earth internal heat.",
+      "d": "Medium",
+      "topic": "Geothermal",
+      "slo": "P-09-B-71"
+    },
+    {
+      "id": "PHY9CH6-082",
+      "q": "For Chapter 6 revision: which resource uses heat from inside Earth?",
+      "o": [
+        "Wind energy",
+        "Solar photovoltaic energy",
+        "Tidal energy",
+        "Geothermal energy"
+      ],
+      "a": 3,
+      "e": "Geothermal systems exploit Earth internal heat.",
+      "d": "Medium",
+      "topic": "Geothermal",
+      "slo": "P-09-B-71"
+    },
+    {
+      "id": "PHY9CH6-083",
+      "q": "Which energy source is linked to the Moon gravitational influence?",
+      "o": [
+        "Tidal energy",
+        "Solar photovoltaic energy",
+        "Coal energy",
+        "Biomass energy"
+      ],
+      "a": 0,
+      "e": "Moon gravity contributes to ocean tides.",
+      "d": "Medium",
+      "topic": "Tidal energy",
+      "slo": "P-09-B-71"
+    },
+    {
+      "id": "PHY9CH6-084",
+      "q": "For Chapter 6 revision: which energy source is linked to the Moon gravitational influence?",
+      "o": [
+        "Solar photovoltaic energy",
+        "Coal energy",
+        "Biomass energy",
+        "Tidal energy"
+      ],
+      "a": 3,
+      "e": "Moon gravity contributes to ocean tides.",
+      "d": "Medium",
+      "topic": "Tidal energy",
+      "slo": "P-09-B-71"
+    },
+    {
+      "id": "PHY9CH6-085",
+      "q": "What is the main moving medium in wave energy systems?",
+      "o": [
+        "Coal seams",
+        "Ocean surface waves",
+        "Underground steam only",
+        "Radioactive nuclei"
+      ],
+      "a": 1,
+      "e": "Wave power harnesses motion of sea waves.",
+      "d": "Easy",
+      "topic": "Wave energy",
+      "slo": "P-09-B-71"
+    },
+    {
+      "id": "PHY9CH6-086",
+      "q": "For Chapter 6 revision: what is the main moving medium in wave energy systems?",
+      "o": [
+        "Underground steam only",
+        "Coal seams",
+        "Radioactive nuclei",
+        "Ocean surface waves"
+      ],
+      "a": 3,
+      "e": "Wave power harnesses motion of sea waves.",
+      "d": "Hard",
+      "topic": "Wave energy",
+      "slo": "P-09-B-71"
+    },
+    {
+      "id": "PHY9CH6-087",
+      "q": "Which energy source relies on stored water at height?",
+      "o": [
+        "Wind",
+        "Hydroelectric",
+        "Geothermal",
+        "Fossil combustion"
+      ],
+      "a": 1,
+      "e": "A reservoir stores gravitational potential energy.",
+      "d": "Medium",
+      "topic": "Hydroelectric",
+      "slo": "P-09-B-71"
+    },
+    {
+      "id": "PHY9CH6-088",
+      "q": "For Chapter 6 revision: which energy source relies on stored water at height?",
+      "o": [
+        "Fossil combustion",
+        "Hydroelectric",
+        "Geothermal",
+        "Wind"
+      ],
+      "a": 1,
+      "e": "A reservoir stores gravitational potential energy.",
+      "d": "Medium",
+      "topic": "Hydroelectric",
+      "slo": "P-09-B-71"
+    },
+    {
+      "id": "PHY9CH6-089",
+      "q": "What is a possible environmental impact of a large hydroelectric dam?",
+      "o": [
+        "Flooding of land",
+        "Direct release of coal smoke",
+        "Generation of nuclear waste",
+        "Always zero ecosystem impact"
+      ],
+      "a": 0,
+      "e": "Reservoirs can submerge land and alter habitats.",
+      "d": "Medium",
+      "topic": "Hydroelectric",
+      "slo": "P-09-B-72"
+    },
+    {
+      "id": "PHY9CH6-090",
+      "q": "For Chapter 6 revision: what is a possible environmental impact of a large hydroelectric dam?",
+      "o": [
+        "Always zero ecosystem impact",
+        "Generation of nuclear waste",
+        "Direct release of coal smoke",
+        "Flooding of land"
+      ],
+      "a": 3,
+      "e": "Reservoirs can submerge land and alter habitats.",
+      "d": "Medium",
+      "topic": "Hydroelectric",
+      "slo": "P-09-B-72"
+    },
+    {
+      "id": "PHY9CH6-091",
+      "q": "Which statement about renewable resources is most accurate?",
+      "o": [
+        "They require no equipment",
+        "They are all available continuously",
+        "They are naturally replenished on useful timescales",
+        "They never affect environments"
+      ],
+      "a": 2,
+      "e": "Renewables replenish but can still have limitations.",
+      "d": "Easy",
+      "topic": "Energy resources",
+      "slo": "P-09-B-70"
+    },
+    {
+      "id": "PHY9CH6-092",
+      "q": "For Chapter 6 revision: which statement about renewable resources is most accurate?",
+      "o": [
+        "They are naturally replenished on useful timescales",
+        "They are all available continuously",
+        "They require no equipment",
+        "They never affect environments"
+      ],
+      "a": 0,
+      "e": "Renewables replenish but can still have limitations.",
+      "d": "Hard",
+      "topic": "Energy resources",
+      "slo": "P-09-B-70"
+    },
+    {
+      "id": "PHY9CH6-093",
+      "q": "What is power?",
+      "o": [
+        "Energy stored per kilogram",
+        "Force per unit area",
+        "Work multiplied by time",
+        "Rate of doing work"
+      ],
+      "a": 3,
+      "e": "Power measures energy transfer or work per time.",
+      "d": "Medium",
+      "topic": "Power",
+      "slo": "P-09-B-73"
+    },
+    {
+      "id": "PHY9CH6-094",
+      "q": "For Chapter 6 revision: what is power?",
+      "o": [
+        "Work multiplied by time",
+        "Force per unit area",
+        "Rate of doing work",
+        "Energy stored per kilogram"
+      ],
+      "a": 2,
+      "e": "Power measures energy transfer or work per time.",
+      "d": "Medium",
+      "topic": "Power",
+      "slo": "P-09-B-73"
+    },
+    {
+      "id": "PHY9CH6-095",
+      "q": "Which expression defines average power?",
+      "o": [
+        "P = Wt",
+        "P = F/t^2",
+        "P = t/W",
+        "P = W/t"
+      ],
+      "a": 3,
+      "e": "Average power is work divided by elapsed time.",
+      "d": "Medium",
+      "topic": "Power",
+      "slo": "P-09-B-73"
+    },
+    {
+      "id": "PHY9CH6-096",
+      "q": "For Chapter 6 revision: which expression defines average power?",
+      "o": [
+        "P = t/W",
+        "P = Wt",
+        "P = F/t^2",
+        "P = W/t"
+      ],
+      "a": 3,
+      "e": "Average power is work divided by elapsed time.",
+      "d": "Medium",
+      "topic": "Power",
+      "slo": "P-09-B-73"
+    },
+    {
+      "id": "PHY9CH6-097",
+      "q": "What is the SI unit of power?",
+      "o": [
+        "watt",
+        "metre",
+        "joule",
+        "newton"
+      ],
+      "a": 0,
+      "e": "Power is measured in watts.",
+      "d": "Easy",
+      "topic": "Power",
+      "slo": "P-09-B-73"
+    },
+    {
+      "id": "PHY9CH6-098",
+      "q": "For Chapter 6 revision: what is the SI unit of power?",
+      "o": [
+        "watt",
+        "joule",
+        "newton",
+        "metre"
+      ],
+      "a": 0,
+      "e": "Power is measured in watts.",
+      "d": "Hard",
+      "topic": "Power",
+      "slo": "P-09-B-73"
+    },
+    {
+      "id": "PHY9CH6-099",
+      "q": "One watt is equal to",
+      "o": [
+        "1 joule per second",
+        "1 kilogram metre",
+        "1 joule-second",
+        "1 newton per second"
+      ],
+      "a": 0,
+      "e": "A watt is one joule transferred each second.",
+      "d": "Medium",
+      "topic": "Power",
+      "slo": "P-09-B-73"
+    },
+    {
+      "id": "PHY9CH6-100",
+      "q": "For Chapter 6 revision: one watt is equal to",
+      "o": [
+        "1 kilogram metre",
+        "1 joule-second",
+        "1 newton per second",
+        "1 joule per second"
+      ],
+      "a": 3,
+      "e": "A watt is one joule transferred each second.",
+      "d": "Medium",
+      "topic": "Power",
+      "slo": "P-09-B-73"
+    },
+    {
+      "id": "PHY9CH6-101",
+      "q": "What does kW stand for?",
+      "o": [
+        "kilowatt",
+        "kilowatt-hour",
+        "kinetic work",
+        "kilogram-weight"
+      ],
+      "a": 0,
+      "e": "A kilowatt is a unit of power.",
+      "d": "Medium",
+      "topic": "Power",
+      "slo": "P-09-B-73"
+    },
+    {
+      "id": "PHY9CH6-102",
+      "q": "For Chapter 6 revision: what does kW stand for?",
+      "o": [
+        "kinetic work",
+        "kilogram-weight",
+        "kilowatt",
+        "kilowatt-hour"
+      ],
+      "a": 2,
+      "e": "A kilowatt is a unit of power.",
+      "d": "Medium",
+      "topic": "Power",
+      "slo": "P-09-B-73"
+    },
+    {
+      "id": "PHY9CH6-103",
+      "q": "How many watts are in 1 kW?",
+      "o": [
+        "3600 W",
+        "1000 W",
+        "10 W",
+        "100 W"
+      ],
+      "a": 1,
+      "e": "The kilo prefix means 1000.",
+      "d": "Easy",
+      "topic": "Power",
+      "slo": "P-09-B-73"
+    },
+    {
+      "id": "PHY9CH6-104",
+      "q": "For Chapter 6 revision: how many watts are in 1 kW?",
+      "o": [
+        "100 W",
+        "1000 W",
+        "10 W",
+        "3600 W"
+      ],
+      "a": 1,
+      "e": "The kilo prefix means 1000.",
+      "d": "Hard",
+      "topic": "Power",
+      "slo": "P-09-B-73"
+    },
+    {
+      "id": "PHY9CH6-105",
+      "q": "Is a kilowatt-hour a unit of energy or power?",
+      "o": [
+        "Energy",
+        "Force",
+        "Power",
+        "Acceleration"
+      ],
+      "a": 0,
+      "e": "kWh is power multiplied by time, hence energy.",
+      "d": "Medium",
+      "topic": "Power",
+      "slo": "P-09-B-73"
+    },
+    {
+      "id": "PHY9CH6-106",
+      "q": "For Chapter 6 revision: is a kilowatt-hour a unit of energy or power?",
+      "o": [
+        "Force",
+        "Power",
+        "Acceleration",
+        "Energy"
+      ],
+      "a": 3,
+      "e": "kWh is power multiplied by time, hence energy.",
+      "d": "Medium",
+      "topic": "Power",
+      "slo": "P-09-B-73"
+    },
+    {
+      "id": "PHY9CH6-107",
+      "q": "How many joules are in 1 kWh?",
+      "o": [
+        "3,600,000 J",
+        "3600 J",
+        "60,000 J",
+        "1000 J"
+      ],
+      "a": 0,
+      "e": "1000 W times 3600 seconds is 3.6 million joules.",
+      "d": "Medium",
+      "topic": "Power",
+      "slo": "P-09-B-73"
+    },
+    {
+      "id": "PHY9CH6-108",
+      "q": "For Chapter 6 revision: how many joules are in 1 kWh?",
+      "o": [
+        "60,000 J",
+        "3600 J",
+        "1000 J",
+        "3,600,000 J"
+      ],
+      "a": 3,
+      "e": "1000 W times 3600 seconds is 3.6 million joules.",
+      "d": "Medium",
+      "topic": "Power",
+      "slo": "P-09-B-73"
+    },
+    {
+      "id": "PHY9CH6-109",
+      "q": "A machine does the same work in less time. Its average power is",
+      "o": [
+        "Unchanged",
+        "Greater",
+        "Smaller",
+        "Always zero"
+      ],
+      "a": 1,
+      "e": "P = W/t; less time gives higher power.",
+      "d": "Easy",
+      "topic": "Power",
+      "slo": "P-09-B-73"
+    },
+    {
+      "id": "PHY9CH6-110",
+      "q": "For Chapter 6 revision: a machine does the same work in less time. Its average power is",
+      "o": [
+        "Smaller",
+        "Always zero",
+        "Unchanged",
+        "Greater"
+      ],
+      "a": 3,
+      "e": "P = W/t; less time gives higher power.",
+      "d": "Hard",
+      "topic": "Power",
+      "slo": "P-09-B-73"
+    },
+    {
+      "id": "PHY9CH6-111",
+      "q": "What is efficiency of a machine?",
+      "o": [
+        "Input divided by useful output",
+        "Output multiplied by time",
+        "Energy lost divided by mass",
+        "Useful output divided by total input"
+      ],
+      "a": 3,
+      "e": "Efficiency compares useful output to total input.",
+      "d": "Medium",
+      "topic": "Efficiency",
+      "slo": "P-09-B-74"
+    },
+    {
+      "id": "PHY9CH6-112",
+      "q": "For Chapter 6 revision: what is efficiency of a machine?",
+      "o": [
+        "Input divided by useful output",
+        "Energy lost divided by mass",
+        "Useful output divided by total input",
+        "Output multiplied by time"
+      ],
+      "a": 2,
+      "e": "Efficiency compares useful output to total input.",
+      "d": "Medium",
+      "topic": "Efficiency",
+      "slo": "P-09-B-74"
+    },
+    {
+      "id": "PHY9CH6-113",
+      "q": "How is percentage efficiency calculated?",
+      "o": [
+        "Output - input",
+        "Input + output",
+        "Useful output / input x 100%",
+        "Input / useful output x 100%"
+      ],
+      "a": 2,
+      "e": "Percentage efficiency is the useful fraction multiplied by 100.",
+      "d": "Medium",
+      "topic": "Efficiency",
+      "slo": "P-09-B-74"
+    },
+    {
+      "id": "PHY9CH6-114",
+      "q": "For Chapter 6 revision: how is percentage efficiency calculated?",
+      "o": [
+        "Input / useful output x 100%",
+        "Output - input",
+        "Useful output / input x 100%",
+        "Input + output"
+      ],
+      "a": 2,
+      "e": "Percentage efficiency is the useful fraction multiplied by 100.",
+      "d": "Medium",
+      "topic": "Efficiency",
+      "slo": "P-09-B-74"
+    },
+    {
+      "id": "PHY9CH6-115",
+      "q": "Does efficiency have an SI unit?",
+      "o": [
+        "Watt",
+        "Newton",
+        "Joule",
+        "No; it is dimensionless"
+      ],
+      "a": 3,
+      "e": "Efficiency is a ratio of like quantities.",
+      "d": "Easy",
+      "topic": "Efficiency",
+      "slo": "P-09-B-74"
+    },
+    {
+      "id": "PHY9CH6-116",
+      "q": "For Chapter 6 revision: does efficiency have an SI unit?",
+      "o": [
+        "Newton",
+        "No; it is dimensionless",
+        "Joule",
+        "Watt"
+      ],
+      "a": 1,
+      "e": "Efficiency is a ratio of like quantities.",
+      "d": "Hard",
+      "topic": "Efficiency",
+      "slo": "P-09-B-74"
+    },
+    {
+      "id": "PHY9CH6-117",
+      "q": "What happens to non-useful energy in an inefficient device?",
+      "o": [
+        "It is destroyed",
+        "It vanishes without trace",
+        "It becomes new mass in every case",
+        "It is transferred to other forms and surroundings"
+      ],
+      "a": 3,
+      "e": "Energy is conserved even when dissipated.",
+      "d": "Medium",
+      "topic": "Efficiency",
+      "slo": "P-09-B-76"
+    },
+    {
+      "id": "PHY9CH6-118",
+      "q": "For Chapter 6 revision: what happens to non-useful energy in an inefficient device?",
+      "o": [
+        "It becomes new mass in every case",
+        "It is transferred to other forms and surroundings",
+        "It vanishes without trace",
+        "It is destroyed"
+      ],
+      "a": 1,
+      "e": "Energy is conserved even when dissipated.",
+      "d": "Medium",
+      "topic": "Efficiency",
+      "slo": "P-09-B-76"
+    },
+    {
+      "id": "PHY9CH6-119",
+      "q": "Why is an incandescent bulb inefficient as a light source?",
+      "o": [
+        "It creates energy",
+        "It makes no light",
+        "It consumes no electrical energy",
+        "Much input becomes thermal energy"
+      ],
+      "a": 3,
+      "e": "A large share of input becomes unwanted heat.",
+      "d": "Medium",
+      "topic": "Efficiency",
+      "slo": "P-09-B-76"
+    },
+    {
+      "id": "PHY9CH6-120",
+      "q": "For Chapter 6 revision: why is an incandescent bulb inefficient as a light source?",
+      "o": [
+        "It makes no light",
+        "It creates energy",
+        "Much input becomes thermal energy",
+        "It consumes no electrical energy"
+      ],
+      "a": 2,
+      "e": "A large share of input becomes unwanted heat.",
+      "d": "Medium",
+      "topic": "Efficiency",
+      "slo": "P-09-B-76"
+    },
+    {
+      "id": "PHY9CH6-121",
+      "q": "Which device typically converts a larger fraction of input into light?",
+      "o": [
+        "Fluorescent lamp compared with incandescent lamp",
+        "Incandescent lamp compared with fluorescent lamp",
+        "A petrol engine exhaust",
+        "A friction brake"
+      ],
+      "a": 0,
+      "e": "The textbook compares fluorescent lighting favourably to incandescent lighting.",
+      "d": "Easy",
+      "topic": "Efficiency",
+      "slo": "P-09-B-72"
+    },
+    {
+      "id": "PHY9CH6-122",
+      "q": "For Chapter 6 revision: which device typically converts a larger fraction of input into light?",
+      "o": [
+        "Fluorescent lamp compared with incandescent lamp",
+        "A petrol engine exhaust",
+        "Incandescent lamp compared with fluorescent lamp",
+        "A friction brake"
+      ],
+      "a": 0,
+      "e": "The textbook compares fluorescent lighting favourably to incandescent lighting.",
+      "d": "Hard",
+      "topic": "Efficiency",
+      "slo": "P-09-B-72"
+    },
+    {
+      "id": "PHY9CH6-123",
+      "q": "Can a real frictional machine have 100% useful energy efficiency?",
+      "o": [
+        "Yes, always",
+        "No",
+        "Only if it is very heavy",
+        "Only if it moves slowly"
+      ],
+      "a": 1,
+      "e": "Unavoidable losses make real devices less than 100% efficient.",
+      "d": "Medium",
+      "topic": "Efficiency",
+      "slo": "P-09-B-76"
+    },
+    {
+      "id": "PHY9CH6-124",
+      "q": "For Chapter 6 revision: can a real frictional machine have 100% useful energy efficiency?",
+      "o": [
+        "No",
+        "Only if it is very heavy",
+        "Yes, always",
+        "Only if it moves slowly"
+      ],
+      "a": 0,
+      "e": "Unavoidable losses make real devices less than 100% efficient.",
+      "d": "Medium",
+      "topic": "Efficiency",
+      "slo": "P-09-B-76"
+    },
+    {
+      "id": "PHY9CH6-125",
+      "q": "What is the maximum physically possible efficiency of a device?",
+      "o": [
+        "100%",
+        "150%",
+        "Unlimited",
+        "200%"
+      ],
+      "a": 0,
+      "e": "Useful energy cannot exceed total input energy.",
+      "d": "Medium",
+      "topic": "Efficiency",
+      "slo": "P-09-B-75"
+    },
+    {
+      "id": "PHY9CH6-126",
+      "q": "For Chapter 6 revision: what is the maximum physically possible efficiency of a device?",
+      "o": [
+        "150%",
+        "200%",
+        "100%",
+        "Unlimited"
+      ],
+      "a": 2,
+      "e": "Useful energy cannot exceed total input energy.",
+      "d": "Medium",
+      "topic": "Efficiency",
+      "slo": "P-09-B-75"
+    },
+    {
+      "id": "PHY9CH6-127",
+      "q": "If useful output power is less than input power, efficiency is",
+      "o": [
+        "Negative in every case",
+        "Exactly 100%",
+        "More than 100%",
+        "Less than 100%"
+      ],
+      "a": 3,
+      "e": "Some input power is not useful output.",
+      "d": "Easy",
+      "topic": "Efficiency",
+      "slo": "P-09-B-75"
+    },
+    {
+      "id": "PHY9CH6-128",
+      "q": "For Chapter 6 revision: if useful output power is less than input power, efficiency is",
+      "o": [
+        "More than 100%",
+        "Negative in every case",
+        "Less than 100%",
+        "Exactly 100%"
+      ],
+      "a": 2,
+      "e": "Some input power is not useful output.",
+      "d": "Hard",
+      "topic": "Efficiency",
+      "slo": "P-09-B-75"
+    },
+    {
+      "id": "PHY9CH6-129",
+      "q": "Which is the correct relationship for efficiency using powers?",
+      "o": [
+        "Useful output power / input power",
+        "Input power / useful output power",
+        "Output power x input power",
+        "Output power + input power"
+      ],
+      "a": 0,
+      "e": "Efficiency is the useful output-to-input ratio.",
+      "d": "Medium",
+      "topic": "Efficiency",
+      "slo": "P-09-B-75"
+    },
+    {
+      "id": "PHY9CH6-130",
+      "q": "For Chapter 6 revision: which is the correct relationship for efficiency using powers?",
+      "o": [
+        "Input power / useful output power",
+        "Output power + input power",
+        "Output power x input power",
+        "Useful output power / input power"
+      ],
+      "a": 3,
+      "e": "Efficiency is the useful output-to-input ratio.",
+      "d": "Medium",
+      "topic": "Efficiency",
+      "slo": "P-09-B-75"
+    },
+    {
+      "id": "PHY9CH6-131",
+      "q": "Which energy store is associated with a compressed spring?",
+      "o": [
+        "Kinetic only",
+        "Gravitational only",
+        "Elastic potential",
+        "Nuclear only"
+      ],
+      "a": 2,
+      "e": "Deformation stores elastic energy.",
+      "d": "Medium",
+      "topic": "Stored energy",
+      "slo": "P-09-B-63"
+    },
+    {
+      "id": "PHY9CH6-132",
+      "q": "For Chapter 6 revision: which energy store is associated with a compressed spring?",
+      "o": [
+        "Kinetic only",
+        "Gravitational only",
+        "Elastic potential",
+        "Nuclear only"
+      ],
+      "a": 2,
+      "e": "Deformation stores elastic energy.",
+      "d": "Medium",
+      "topic": "Stored energy",
+      "slo": "P-09-B-63"
+    },
+    {
+      "id": "PHY9CH6-133",
+      "q": "In a battery-powered torch, what store initially supplies energy?",
+      "o": [
+        "Gravitational energy of torch",
+        "Chemical energy of battery",
+        "Sound energy of switch",
+        "Nuclear energy of bulb"
+      ],
+      "a": 1,
+      "e": "A battery chemical store supplies electrical energy.",
+      "d": "Easy",
+      "topic": "Energy transfers",
+      "slo": "P-09-B-67"
+    },
+    {
+      "id": "PHY9CH6-134",
+      "q": "For Chapter 6 revision: in a battery-powered torch, what store initially supplies energy?",
+      "o": [
+        "Sound energy of switch",
+        "Nuclear energy of bulb",
+        "Gravitational energy of torch",
+        "Chemical energy of battery"
+      ],
+      "a": 3,
+      "e": "A battery chemical store supplies electrical energy.",
+      "d": "Hard",
+      "topic": "Energy transfers",
+      "slo": "P-09-B-67"
+    },
+    {
+      "id": "PHY9CH6-135",
+      "q": "What is the energy change when a moving bicycle brakes?",
+      "o": [
+        "Chemical to nuclear",
+        "Energy is destroyed",
+        "Kinetic energy to thermal energy",
+        "Thermal to gravitational only"
+      ],
+      "a": 2,
+      "e": "Braking transfers kinetic energy into heat.",
+      "d": "Medium",
+      "topic": "Energy transfers",
+      "slo": "P-09-B-67"
+    },
+    {
+      "id": "PHY9CH6-136",
+      "q": "For Chapter 6 revision: what is the energy change when a moving bicycle brakes?",
+      "o": [
+        "Chemical to nuclear",
+        "Kinetic energy to thermal energy",
+        "Thermal to gravitational only",
+        "Energy is destroyed"
+      ],
+      "a": 1,
+      "e": "Braking transfers kinetic energy into heat.",
+      "d": "Medium",
+      "topic": "Energy transfers",
+      "slo": "P-09-B-67"
+    },
+    {
+      "id": "PHY9CH6-137",
+      "q": "Which energy store increases when a cyclist climbs a hill?",
+      "o": [
+        "Sound only",
+        "Gravitational potential",
+        "Nuclear only",
+        "Magnetic only"
+      ],
+      "a": 1,
+      "e": "Climbing raises the cyclist centre of mass.",
+      "d": "Medium",
+      "topic": "Energy transfers",
+      "slo": "P-09-B-67"
+    },
+    {
+      "id": "PHY9CH6-138",
+      "q": "For Chapter 6 revision: which energy store increases when a cyclist climbs a hill?",
+      "o": [
+        "Magnetic only",
+        "Gravitational potential",
+        "Nuclear only",
+        "Sound only"
+      ],
+      "a": 1,
+      "e": "Climbing raises the cyclist centre of mass.",
+      "d": "Medium",
+      "topic": "Energy transfers",
+      "slo": "P-09-B-67"
+    },
+    {
+      "id": "PHY9CH6-139",
+      "q": "In an ideal pendulum, energy at its highest point is mainly",
+      "o": [
+        "Maximum kinetic",
+        "Nuclear",
+        "Electrical",
+        "Gravitational potential"
+      ],
+      "a": 3,
+      "e": "At a turning point the speed is momentarily zero.",
+      "d": "Easy",
+      "topic": "Conservation",
+      "slo": "P-09-B-68"
+    },
+    {
+      "id": "PHY9CH6-140",
+      "q": "For Chapter 6 revision: in an ideal pendulum, energy at its highest point is mainly",
+      "o": [
+        "Nuclear",
+        "Gravitational potential",
+        "Electrical",
+        "Maximum kinetic"
+      ],
+      "a": 1,
+      "e": "At a turning point the speed is momentarily zero.",
+      "d": "Hard",
+      "topic": "Conservation",
+      "slo": "P-09-B-68"
+    },
+    {
+      "id": "PHY9CH6-141",
+      "q": "In an ideal pendulum, energy at its lowest point is mainly",
+      "o": [
+        "Chemical",
+        "Kinetic",
+        "Nuclear",
+        "Elastic potential"
+      ],
+      "a": 1,
+      "e": "Speed is greatest at the lowest point.",
+      "d": "Medium",
+      "topic": "Conservation",
+      "slo": "P-09-B-68"
+    },
+    {
+      "id": "PHY9CH6-142",
+      "q": "For Chapter 6 revision: in an ideal pendulum, energy at its lowest point is mainly",
+      "o": [
+        "Kinetic",
+        "Elastic potential",
+        "Nuclear",
+        "Chemical"
+      ],
+      "a": 0,
+      "e": "Speed is greatest at the lowest point.",
+      "d": "Medium",
+      "topic": "Conservation",
+      "slo": "P-09-B-68"
+    },
+    {
+      "id": "PHY9CH6-143",
+      "q": "If air resistance is ignored, total mechanical energy during a fall",
+      "o": [
+        "Depends only on time",
+        "Decreases to zero",
+        "Remains constant",
+        "Increases indefinitely"
+      ],
+      "a": 2,
+      "e": "KE plus gravitational PE stays constant.",
+      "d": "Medium",
+      "topic": "Conservation",
+      "slo": "P-09-B-68"
+    },
+    {
+      "id": "PHY9CH6-144",
+      "q": "For Chapter 6 revision: if air resistance is ignored, total mechanical energy during a fall",
+      "o": [
+        "Depends only on time",
+        "Remains constant",
+        "Increases indefinitely",
+        "Decreases to zero"
+      ],
+      "a": 1,
+      "e": "KE plus gravitational PE stays constant.",
+      "d": "Medium",
+      "topic": "Conservation",
+      "slo": "P-09-B-68"
+    },
+    {
+      "id": "PHY9CH6-145",
+      "q": "What is the energy input to a wind farm?",
+      "o": [
+        "Kinetic energy of wind",
+        "Chemical energy of coal",
+        "Gravitational energy of dam water",
+        "Nuclear energy"
+      ],
+      "a": 0,
+      "e": "Wind turns the rotor and generator.",
+      "d": "Easy",
+      "topic": "Wind energy",
+      "slo": "P-09-B-71"
+    },
+    {
+      "id": "PHY9CH6-146",
+      "q": "For Chapter 6 revision: what is the energy input to a wind farm?",
+      "o": [
+        "Chemical energy of coal",
+        "Kinetic energy of wind",
+        "Nuclear energy",
+        "Gravitational energy of dam water"
+      ],
+      "a": 1,
+      "e": "Wind turns the rotor and generator.",
+      "d": "Hard",
+      "topic": "Wind energy",
+      "slo": "P-09-B-71"
+    },
+    {
+      "id": "PHY9CH6-147",
+      "q": "Which process converts nuclear energy to heat in a nuclear power station?",
+      "o": [
+        "Evaporation",
+        "Photosynthesis",
+        "Friction alone",
+        "Nuclear fission"
+      ],
+      "a": 3,
+      "e": "Controlled fission releases nuclear energy as heat.",
+      "d": "Medium",
+      "topic": "Energy resources",
+      "slo": "P-09-B-71"
+    },
+    {
+      "id": "PHY9CH6-148",
+      "q": "For Chapter 6 revision: which process converts nuclear energy to heat in a nuclear power station?",
+      "o": [
+        "Nuclear fission",
+        "Photosynthesis",
+        "Friction alone",
+        "Evaporation"
+      ],
+      "a": 0,
+      "e": "Controlled fission releases nuclear energy as heat.",
+      "d": "Medium",
+      "topic": "Energy resources",
+      "slo": "P-09-B-71"
+    },
+    {
+      "id": "PHY9CH6-149",
+      "q": "Which form of energy is carried by sound waves?",
+      "o": [
+        "Elastic energy only",
+        "Sound energy",
+        "Chemical energy",
+        "Gravitational potential energy"
+      ],
+      "a": 1,
+      "e": "Vibrations transmit sound energy through a medium.",
+      "d": "Medium",
+      "topic": "Energy forms",
+      "slo": "P-09-B-63"
+    },
+    {
+      "id": "PHY9CH6-150",
+      "q": "For Chapter 6 revision: which form of energy is carried by sound waves?",
+      "o": [
+        "Chemical energy",
+        "Gravitational potential energy",
+        "Elastic energy only",
+        "Sound energy"
+      ],
+      "a": 3,
+      "e": "Vibrations transmit sound energy through a medium.",
+      "d": "Medium",
+      "topic": "Energy forms",
+      "slo": "P-09-B-63"
+    },
+    {
+      "id": "PHY9CH6-151",
+      "q": "A force of 10 N moves a box 3 m along the force. Calculate work done.",
+      "o": [
+        "15 J",
+        "37.5 J",
+        "60 J",
+        "30 J"
+      ],
+      "a": 3,
+      "e": "W = Fd = 10 x 3 = 30 J.",
+      "d": "Hard",
+      "topic": "Work",
+      "slo": "P-09-B-61"
+    },
+    {
+      "id": "PHY9CH6-152",
+      "q": "A force of 15 N moves a box 4 m along the force. Calculate work done.",
+      "o": [
+        "120 J",
+        "30 J",
+        "60 J",
+        "75 J"
+      ],
+      "a": 2,
+      "e": "W = Fd = 15 x 4 = 60 J.",
+      "d": "Medium",
+      "topic": "Work",
+      "slo": "P-09-B-61"
+    },
+    {
+      "id": "PHY9CH6-153",
+      "q": "A force of 20 N moves a box 5 m along the force. Calculate work done.",
+      "o": [
+        "200 J",
+        "100 J",
+        "125 J",
+        "50 J"
+      ],
+      "a": 1,
+      "e": "W = Fd = 20 x 5 = 100 J.",
+      "d": "Medium",
+      "topic": "Work",
+      "slo": "P-09-B-61"
+    },
+    {
+      "id": "PHY9CH6-154",
+      "q": "A force of 25 N moves a box 6 m along the force. Calculate work done.",
+      "o": [
+        "187.5 J",
+        "150 J",
+        "75 J",
+        "300 J"
+      ],
+      "a": 1,
+      "e": "W = Fd = 25 x 6 = 150 J.",
+      "d": "Hard",
+      "topic": "Work",
+      "slo": "P-09-B-61"
+    },
+    {
+      "id": "PHY9CH6-155",
+      "q": "A force of 30 N moves a box 7 m along the force. Calculate work done.",
+      "o": [
+        "262.5 J",
+        "210 J",
+        "420 J",
+        "105 J"
+      ],
+      "a": 1,
+      "e": "W = Fd = 30 x 7 = 210 J.",
+      "d": "Medium",
+      "topic": "Work",
+      "slo": "P-09-B-61"
+    },
+    {
+      "id": "PHY9CH6-156",
+      "q": "A force of 35 N moves a box 8 m along the force. Calculate work done.",
+      "o": [
+        "350 J",
+        "560 J",
+        "140 J",
+        "280 J"
+      ],
+      "a": 3,
+      "e": "W = Fd = 35 x 8 = 280 J.",
+      "d": "Medium",
+      "topic": "Work",
+      "slo": "P-09-B-61"
+    },
+    {
+      "id": "PHY9CH6-157",
+      "q": "A force of 40 N moves a box 9 m along the force. Calculate work done.",
+      "o": [
+        "720 J",
+        "450 J",
+        "180 J",
+        "360 J"
+      ],
+      "a": 3,
+      "e": "W = Fd = 40 x 9 = 360 J.",
+      "d": "Hard",
+      "topic": "Work",
+      "slo": "P-09-B-61"
+    },
+    {
+      "id": "PHY9CH6-158",
+      "q": "A force of 45 N moves a box 10 m along the force. Calculate work done.",
+      "o": [
+        "562.5 J",
+        "900 J",
+        "450 J",
+        "225 J"
+      ],
+      "a": 2,
+      "e": "W = Fd = 45 x 10 = 450 J.",
+      "d": "Medium",
+      "topic": "Work",
+      "slo": "P-09-B-61"
+    },
+    {
+      "id": "PHY9CH6-159",
+      "q": "A force of 50 N moves a box 11 m along the force. Calculate work done.",
+      "o": [
+        "275 J",
+        "550 J",
+        "687.5 J",
+        "1100 J"
+      ],
+      "a": 1,
+      "e": "W = Fd = 50 x 11 = 550 J.",
+      "d": "Medium",
+      "topic": "Work",
+      "slo": "P-09-B-61"
+    },
+    {
+      "id": "PHY9CH6-160",
+      "q": "A force of 55 N moves a box 12 m along the force. Calculate work done.",
+      "o": [
+        "660 J",
+        "825 J",
+        "330 J",
+        "1320 J"
+      ],
+      "a": 0,
+      "e": "W = Fd = 55 x 12 = 660 J.",
+      "d": "Hard",
+      "topic": "Work",
+      "slo": "P-09-B-61"
+    },
+    {
+      "id": "PHY9CH6-161",
+      "q": "A force of 60 N moves a box 13 m along the force. Calculate work done.",
+      "o": [
+        "390 J",
+        "975 J",
+        "1560 J",
+        "780 J"
+      ],
+      "a": 3,
+      "e": "W = Fd = 60 x 13 = 780 J.",
+      "d": "Medium",
+      "topic": "Work",
+      "slo": "P-09-B-61"
+    },
+    {
+      "id": "PHY9CH6-162",
+      "q": "A force of 65 N moves a box 14 m along the force. Calculate work done.",
+      "o": [
+        "1137.5 J",
+        "455 J",
+        "1820 J",
+        "910 J"
+      ],
+      "a": 3,
+      "e": "W = Fd = 65 x 14 = 910 J.",
+      "d": "Medium",
+      "topic": "Work",
+      "slo": "P-09-B-61"
+    },
+    {
+      "id": "PHY9CH6-163",
+      "q": "A force of 70 N moves a box 15 m along the force. Calculate work done.",
+      "o": [
+        "2100 J",
+        "1312.5 J",
+        "525 J",
+        "1050 J"
+      ],
+      "a": 3,
+      "e": "W = Fd = 70 x 15 = 1050 J.",
+      "d": "Hard",
+      "topic": "Work",
+      "slo": "P-09-B-61"
+    },
+    {
+      "id": "PHY9CH6-164",
+      "q": "A force of 75 N moves a box 16 m along the force. Calculate work done.",
+      "o": [
+        "1200 J",
+        "1500 J",
+        "600 J",
+        "2400 J"
+      ],
+      "a": 0,
+      "e": "W = Fd = 75 x 16 = 1200 J.",
+      "d": "Medium",
+      "topic": "Work",
+      "slo": "P-09-B-61"
+    },
+    {
+      "id": "PHY9CH6-165",
+      "q": "A force of 80 N moves a box 17 m along the force. Calculate work done.",
+      "o": [
+        "2720 J",
+        "1360 J",
+        "1700 J",
+        "680 J"
+      ],
+      "a": 1,
+      "e": "W = Fd = 80 x 17 = 1360 J.",
+      "d": "Medium",
+      "topic": "Work",
+      "slo": "P-09-B-61"
+    },
+    {
+      "id": "PHY9CH6-166",
+      "q": "A 4 kg body moves at 3 m/s. Find its kinetic energy.",
+      "o": [
+        "18 J",
+        "9 J",
+        "22.5 J",
+        "36 J"
+      ],
+      "a": 0,
+      "e": "KE = 1/2 mv^2 = 0.5 x 4 x 3^2 = 18 J.",
+      "d": "Hard",
+      "topic": "Kinetic energy",
+      "slo": "P-09-B-64"
+    },
+    {
+      "id": "PHY9CH6-167",
+      "q": "A 6 kg body moves at 4 m/s. Find its kinetic energy.",
+      "o": [
+        "24 J",
+        "60 J",
+        "48 J",
+        "96 J"
+      ],
+      "a": 2,
+      "e": "KE = 1/2 mv^2 = 0.5 x 6 x 4^2 = 48 J.",
+      "d": "Medium",
+      "topic": "Kinetic energy",
+      "slo": "P-09-B-64"
+    },
+    {
+      "id": "PHY9CH6-168",
+      "q": "A 8 kg body moves at 5 m/s. Find its kinetic energy.",
+      "o": [
+        "100 J",
+        "50 J",
+        "200 J",
+        "125 J"
+      ],
+      "a": 0,
+      "e": "KE = 1/2 mv^2 = 0.5 x 8 x 5^2 = 100 J.",
+      "d": "Medium",
+      "topic": "Kinetic energy",
+      "slo": "P-09-B-64"
+    },
+    {
+      "id": "PHY9CH6-169",
+      "q": "A 10 kg body moves at 6 m/s. Find its kinetic energy.",
+      "o": [
+        "225 J",
+        "90 J",
+        "180 J",
+        "360 J"
+      ],
+      "a": 2,
+      "e": "KE = 1/2 mv^2 = 0.5 x 10 x 6^2 = 180 J.",
+      "d": "Hard",
+      "topic": "Kinetic energy",
+      "slo": "P-09-B-64"
+    },
+    {
+      "id": "PHY9CH6-170",
+      "q": "A 12 kg body moves at 7 m/s. Find its kinetic energy.",
+      "o": [
+        "367.5 J",
+        "147 J",
+        "588 J",
+        "294 J"
+      ],
+      "a": 3,
+      "e": "KE = 1/2 mv^2 = 0.5 x 12 x 7^2 = 294 J.",
+      "d": "Medium",
+      "topic": "Kinetic energy",
+      "slo": "P-09-B-64"
+    },
+    {
+      "id": "PHY9CH6-171",
+      "q": "A 14 kg body moves at 8 m/s. Find its kinetic energy.",
+      "o": [
+        "896 J",
+        "224 J",
+        "560 J",
+        "448 J"
+      ],
+      "a": 3,
+      "e": "KE = 1/2 mv^2 = 0.5 x 14 x 8^2 = 448 J.",
+      "d": "Medium",
+      "topic": "Kinetic energy",
+      "slo": "P-09-B-64"
+    },
+    {
+      "id": "PHY9CH6-172",
+      "q": "A 16 kg body moves at 9 m/s. Find its kinetic energy.",
+      "o": [
+        "648 J",
+        "810 J",
+        "324 J",
+        "1296 J"
+      ],
+      "a": 0,
+      "e": "KE = 1/2 mv^2 = 0.5 x 16 x 9^2 = 648 J.",
+      "d": "Hard",
+      "topic": "Kinetic energy",
+      "slo": "P-09-B-64"
+    },
+    {
+      "id": "PHY9CH6-173",
+      "q": "A 18 kg body moves at 10 m/s. Find its kinetic energy.",
+      "o": [
+        "1125 J",
+        "450 J",
+        "1800 J",
+        "900 J"
+      ],
+      "a": 3,
+      "e": "KE = 1/2 mv^2 = 0.5 x 18 x 10^2 = 900 J.",
+      "d": "Medium",
+      "topic": "Kinetic energy",
+      "slo": "P-09-B-64"
+    },
+    {
+      "id": "PHY9CH6-174",
+      "q": "A 20 kg body moves at 11 m/s. Find its kinetic energy.",
+      "o": [
+        "605 J",
+        "2420 J",
+        "1210 J",
+        "1512.5 J"
+      ],
+      "a": 2,
+      "e": "KE = 1/2 mv^2 = 0.5 x 20 x 11^2 = 1210 J.",
+      "d": "Medium",
+      "topic": "Kinetic energy",
+      "slo": "P-09-B-64"
+    },
+    {
+      "id": "PHY9CH6-175",
+      "q": "A 22 kg body moves at 12 m/s. Find its kinetic energy.",
+      "o": [
+        "1584 J",
+        "792 J",
+        "1980 J",
+        "3168 J"
+      ],
+      "a": 0,
+      "e": "KE = 1/2 mv^2 = 0.5 x 22 x 12^2 = 1584 J.",
+      "d": "Hard",
+      "topic": "Kinetic energy",
+      "slo": "P-09-B-64"
+    },
+    {
+      "id": "PHY9CH6-176",
+      "q": "A 24 kg body moves at 13 m/s. Find its kinetic energy.",
+      "o": [
+        "4056 J",
+        "2535 J",
+        "2028 J",
+        "1014 J"
+      ],
+      "a": 2,
+      "e": "KE = 1/2 mv^2 = 0.5 x 24 x 13^2 = 2028 J.",
+      "d": "Medium",
+      "topic": "Kinetic energy",
+      "slo": "P-09-B-64"
+    },
+    {
+      "id": "PHY9CH6-177",
+      "q": "A 26 kg body moves at 14 m/s. Find its kinetic energy.",
+      "o": [
+        "2548 J",
+        "1274 J",
+        "5096 J",
+        "3185 J"
+      ],
+      "a": 0,
+      "e": "KE = 1/2 mv^2 = 0.5 x 26 x 14^2 = 2548 J.",
+      "d": "Medium",
+      "topic": "Kinetic energy",
+      "slo": "P-09-B-64"
+    },
+    {
+      "id": "PHY9CH6-178",
+      "q": "A 28 kg body moves at 15 m/s. Find its kinetic energy.",
+      "o": [
+        "3937.5 J",
+        "6300 J",
+        "3150 J",
+        "1575 J"
+      ],
+      "a": 2,
+      "e": "KE = 1/2 mv^2 = 0.5 x 28 x 15^2 = 3150 J.",
+      "d": "Hard",
+      "topic": "Kinetic energy",
+      "slo": "P-09-B-64"
+    },
+    {
+      "id": "PHY9CH6-179",
+      "q": "A 30 kg body moves at 16 m/s. Find its kinetic energy.",
+      "o": [
+        "3840 J",
+        "7680 J",
+        "1920 J",
+        "4800 J"
+      ],
+      "a": 0,
+      "e": "KE = 1/2 mv^2 = 0.5 x 30 x 16^2 = 3840 J.",
+      "d": "Medium",
+      "topic": "Kinetic energy",
+      "slo": "P-09-B-64"
+    },
+    {
+      "id": "PHY9CH6-180",
+      "q": "A 32 kg body moves at 17 m/s. Find its kinetic energy.",
+      "o": [
+        "2312 J",
+        "4624 J",
+        "9248 J",
+        "5780 J"
+      ],
+      "a": 1,
+      "e": "KE = 1/2 mv^2 = 0.5 x 32 x 17^2 = 4624 J.",
+      "d": "Medium",
+      "topic": "Kinetic energy",
+      "slo": "P-09-B-64"
+    },
+    {
+      "id": "PHY9CH6-181",
+      "q": "Using g = 10 m/s^2, find the gravitational PE of a 2 kg object 4 m above a reference level.",
+      "o": [
+        "100 J",
+        "160 J",
+        "40 J",
+        "80 J"
+      ],
+      "a": 3,
+      "e": "PE = mgh = 2 x 10 x 4 = 80 J.",
+      "d": "Hard",
+      "topic": "Potential energy",
+      "slo": "P-09-B-65"
+    },
+    {
+      "id": "PHY9CH6-182",
+      "q": "Using g = 10 m/s^2, find the gravitational PE of a 4 kg object 5 m above a reference level.",
+      "o": [
+        "200 J",
+        "400 J",
+        "100 J",
+        "250 J"
+      ],
+      "a": 0,
+      "e": "PE = mgh = 4 x 10 x 5 = 200 J.",
+      "d": "Medium",
+      "topic": "Potential energy",
+      "slo": "P-09-B-65"
+    },
+    {
+      "id": "PHY9CH6-183",
+      "q": "Using g = 10 m/s^2, find the gravitational PE of a 6 kg object 6 m above a reference level.",
+      "o": [
+        "450 J",
+        "720 J",
+        "180 J",
+        "360 J"
+      ],
+      "a": 3,
+      "e": "PE = mgh = 6 x 10 x 6 = 360 J.",
+      "d": "Medium",
+      "topic": "Potential energy",
+      "slo": "P-09-B-65"
+    },
+    {
+      "id": "PHY9CH6-184",
+      "q": "Using g = 10 m/s^2, find the gravitational PE of a 8 kg object 7 m above a reference level.",
+      "o": [
+        "1120 J",
+        "560 J",
+        "280 J",
+        "700 J"
+      ],
+      "a": 1,
+      "e": "PE = mgh = 8 x 10 x 7 = 560 J.",
+      "d": "Hard",
+      "topic": "Potential energy",
+      "slo": "P-09-B-65"
+    },
+    {
+      "id": "PHY9CH6-185",
+      "q": "Using g = 10 m/s^2, find the gravitational PE of a 10 kg object 8 m above a reference level.",
+      "o": [
+        "800 J",
+        "400 J",
+        "1600 J",
+        "1000 J"
+      ],
+      "a": 0,
+      "e": "PE = mgh = 10 x 10 x 8 = 800 J.",
+      "d": "Medium",
+      "topic": "Potential energy",
+      "slo": "P-09-B-65"
+    },
+    {
+      "id": "PHY9CH6-186",
+      "q": "Using g = 10 m/s^2, find the gravitational PE of a 12 kg object 9 m above a reference level.",
+      "o": [
+        "540 J",
+        "1350 J",
+        "1080 J",
+        "2160 J"
+      ],
+      "a": 2,
+      "e": "PE = mgh = 12 x 10 x 9 = 1080 J.",
+      "d": "Medium",
+      "topic": "Potential energy",
+      "slo": "P-09-B-65"
+    },
+    {
+      "id": "PHY9CH6-187",
+      "q": "Using g = 10 m/s^2, find the gravitational PE of a 14 kg object 10 m above a reference level.",
+      "o": [
+        "1400 J",
+        "1750 J",
+        "2800 J",
+        "700 J"
+      ],
+      "a": 0,
+      "e": "PE = mgh = 14 x 10 x 10 = 1400 J.",
+      "d": "Hard",
+      "topic": "Potential energy",
+      "slo": "P-09-B-65"
+    },
+    {
+      "id": "PHY9CH6-188",
+      "q": "Using g = 10 m/s^2, find the gravitational PE of a 16 kg object 11 m above a reference level.",
+      "o": [
+        "1760 J",
+        "2200 J",
+        "880 J",
+        "3520 J"
+      ],
+      "a": 0,
+      "e": "PE = mgh = 16 x 10 x 11 = 1760 J.",
+      "d": "Medium",
+      "topic": "Potential energy",
+      "slo": "P-09-B-65"
+    },
+    {
+      "id": "PHY9CH6-189",
+      "q": "Using g = 10 m/s^2, find the gravitational PE of a 18 kg object 12 m above a reference level.",
+      "o": [
+        "2160 J",
+        "4320 J",
+        "1080 J",
+        "2700 J"
+      ],
+      "a": 0,
+      "e": "PE = mgh = 18 x 10 x 12 = 2160 J.",
+      "d": "Medium",
+      "topic": "Potential energy",
+      "slo": "P-09-B-65"
+    },
+    {
+      "id": "PHY9CH6-190",
+      "q": "Using g = 10 m/s^2, find the gravitational PE of a 20 kg object 13 m above a reference level.",
+      "o": [
+        "2600 J",
+        "1300 J",
+        "5200 J",
+        "3250 J"
+      ],
+      "a": 0,
+      "e": "PE = mgh = 20 x 10 x 13 = 2600 J.",
+      "d": "Hard",
+      "topic": "Potential energy",
+      "slo": "P-09-B-65"
+    },
+    {
+      "id": "PHY9CH6-191",
+      "q": "Using g = 10 m/s^2, find the gravitational PE of a 22 kg object 14 m above a reference level.",
+      "o": [
+        "6160 J",
+        "1540 J",
+        "3850 J",
+        "3080 J"
+      ],
+      "a": 3,
+      "e": "PE = mgh = 22 x 10 x 14 = 3080 J.",
+      "d": "Medium",
+      "topic": "Potential energy",
+      "slo": "P-09-B-65"
+    },
+    {
+      "id": "PHY9CH6-192",
+      "q": "Using g = 10 m/s^2, find the gravitational PE of a 24 kg object 15 m above a reference level.",
+      "o": [
+        "7200 J",
+        "1800 J",
+        "3600 J",
+        "4500 J"
+      ],
+      "a": 2,
+      "e": "PE = mgh = 24 x 10 x 15 = 3600 J.",
+      "d": "Medium",
+      "topic": "Potential energy",
+      "slo": "P-09-B-65"
+    },
+    {
+      "id": "PHY9CH6-193",
+      "q": "Using g = 10 m/s^2, find the gravitational PE of a 26 kg object 16 m above a reference level.",
+      "o": [
+        "4160 J",
+        "2080 J",
+        "8320 J",
+        "5200 J"
+      ],
+      "a": 0,
+      "e": "PE = mgh = 26 x 10 x 16 = 4160 J.",
+      "d": "Hard",
+      "topic": "Potential energy",
+      "slo": "P-09-B-65"
+    },
+    {
+      "id": "PHY9CH6-194",
+      "q": "Using g = 10 m/s^2, find the gravitational PE of a 28 kg object 17 m above a reference level.",
+      "o": [
+        "5950 J",
+        "2380 J",
+        "9520 J",
+        "4760 J"
+      ],
+      "a": 3,
+      "e": "PE = mgh = 28 x 10 x 17 = 4760 J.",
+      "d": "Medium",
+      "topic": "Potential energy",
+      "slo": "P-09-B-65"
+    },
+    {
+      "id": "PHY9CH6-195",
+      "q": "Using g = 10 m/s^2, find the gravitational PE of a 30 kg object 18 m above a reference level.",
+      "o": [
+        "2700 J",
+        "5400 J",
+        "10800 J",
+        "6750 J"
+      ],
+      "a": 1,
+      "e": "PE = mgh = 30 x 10 x 18 = 5400 J.",
+      "d": "Medium",
+      "topic": "Potential energy",
+      "slo": "P-09-B-65"
+    },
+    {
+      "id": "PHY9CH6-196",
+      "q": "A motor does 240 J of work in 4 s. Find average power.",
+      "o": [
+        "30 W",
+        "75 W",
+        "120 W",
+        "60 W"
+      ],
+      "a": 3,
+      "e": "P = W/t = 240/4 = 60 W.",
+      "d": "Hard",
+      "topic": "Power",
+      "slo": "P-09-B-73"
+    },
+    {
+      "id": "PHY9CH6-197",
+      "q": "A motor does 360 J of work in 6 s. Find average power.",
+      "o": [
+        "75 W",
+        "30 W",
+        "60 W",
+        "120 W"
+      ],
+      "a": 2,
+      "e": "P = W/t = 360/6 = 60 W.",
+      "d": "Medium",
+      "topic": "Power",
+      "slo": "P-09-B-73"
+    },
+    {
+      "id": "PHY9CH6-198",
+      "q": "A motor does 480 J of work in 8 s. Find average power.",
+      "o": [
+        "60 W",
+        "75 W",
+        "30 W",
+        "120 W"
+      ],
+      "a": 0,
+      "e": "P = W/t = 480/8 = 60 W.",
+      "d": "Medium",
+      "topic": "Power",
+      "slo": "P-09-B-73"
+    },
+    {
+      "id": "PHY9CH6-199",
+      "q": "A motor does 600 J of work in 10 s. Find average power.",
+      "o": [
+        "120 W",
+        "75 W",
+        "60 W",
+        "30 W"
+      ],
+      "a": 2,
+      "e": "P = W/t = 600/10 = 60 W.",
+      "d": "Hard",
+      "topic": "Power",
+      "slo": "P-09-B-73"
+    },
+    {
+      "id": "PHY9CH6-200",
+      "q": "A motor does 720 J of work in 12 s. Find average power.",
+      "o": [
+        "60 W",
+        "120 W",
+        "30 W",
+        "75 W"
+      ],
+      "a": 0,
+      "e": "P = W/t = 720/12 = 60 W.",
+      "d": "Medium",
+      "topic": "Power",
+      "slo": "P-09-B-73"
+    },
+    {
+      "id": "PHY9CH6-201",
+      "q": "A motor does 840 J of work in 14 s. Find average power.",
+      "o": [
+        "30 W",
+        "75 W",
+        "60 W",
+        "120 W"
+      ],
+      "a": 2,
+      "e": "P = W/t = 840/14 = 60 W.",
+      "d": "Medium",
+      "topic": "Power",
+      "slo": "P-09-B-73"
+    },
+    {
+      "id": "PHY9CH6-202",
+      "q": "A motor does 960 J of work in 16 s. Find average power.",
+      "o": [
+        "75 W",
+        "60 W",
+        "120 W",
+        "30 W"
+      ],
+      "a": 1,
+      "e": "P = W/t = 960/16 = 60 W.",
+      "d": "Hard",
+      "topic": "Power",
+      "slo": "P-09-B-73"
+    },
+    {
+      "id": "PHY9CH6-203",
+      "q": "A motor does 1080 J of work in 18 s. Find average power.",
+      "o": [
+        "75 W",
+        "60 W",
+        "30 W",
+        "120 W"
+      ],
+      "a": 1,
+      "e": "P = W/t = 1080/18 = 60 W.",
+      "d": "Medium",
+      "topic": "Power",
+      "slo": "P-09-B-73"
+    },
+    {
+      "id": "PHY9CH6-204",
+      "q": "A motor does 1200 J of work in 20 s. Find average power.",
+      "o": [
+        "120 W",
+        "30 W",
+        "75 W",
+        "60 W"
+      ],
+      "a": 3,
+      "e": "P = W/t = 1200/20 = 60 W.",
+      "d": "Medium",
+      "topic": "Power",
+      "slo": "P-09-B-73"
+    },
+    {
+      "id": "PHY9CH6-205",
+      "q": "A motor does 1320 J of work in 22 s. Find average power.",
+      "o": [
+        "120 W",
+        "75 W",
+        "30 W",
+        "60 W"
+      ],
+      "a": 3,
+      "e": "P = W/t = 1320/22 = 60 W.",
+      "d": "Hard",
+      "topic": "Power",
+      "slo": "P-09-B-73"
+    },
+    {
+      "id": "PHY9CH6-206",
+      "q": "A motor does 1440 J of work in 24 s. Find average power.",
+      "o": [
+        "60 W",
+        "120 W",
+        "30 W",
+        "75 W"
+      ],
+      "a": 0,
+      "e": "P = W/t = 1440/24 = 60 W.",
+      "d": "Medium",
+      "topic": "Power",
+      "slo": "P-09-B-73"
+    },
+    {
+      "id": "PHY9CH6-207",
+      "q": "A motor does 1560 J of work in 26 s. Find average power.",
+      "o": [
+        "75 W",
+        "60 W",
+        "120 W",
+        "30 W"
+      ],
+      "a": 1,
+      "e": "P = W/t = 1560/26 = 60 W.",
+      "d": "Medium",
+      "topic": "Power",
+      "slo": "P-09-B-73"
+    },
+    {
+      "id": "PHY9CH6-208",
+      "q": "A motor does 1680 J of work in 28 s. Find average power.",
+      "o": [
+        "60 W",
+        "120 W",
+        "30 W",
+        "75 W"
+      ],
+      "a": 0,
+      "e": "P = W/t = 1680/28 = 60 W.",
+      "d": "Hard",
+      "topic": "Power",
+      "slo": "P-09-B-73"
+    },
+    {
+      "id": "PHY9CH6-209",
+      "q": "A motor does 1800 J of work in 30 s. Find average power.",
+      "o": [
+        "120 W",
+        "60 W",
+        "30 W",
+        "75 W"
+      ],
+      "a": 1,
+      "e": "P = W/t = 1800/30 = 60 W.",
+      "d": "Medium",
+      "topic": "Power",
+      "slo": "P-09-B-73"
+    },
+    {
+      "id": "PHY9CH6-210",
+      "q": "A motor does 1920 J of work in 32 s. Find average power.",
+      "o": [
+        "75 W",
+        "30 W",
+        "60 W",
+        "120 W"
+      ],
+      "a": 2,
+      "e": "P = W/t = 1920/32 = 60 W.",
+      "d": "Medium",
+      "topic": "Power",
+      "slo": "P-09-B-73"
+    },
+    {
+      "id": "PHY9CH6-211",
+      "q": "A 100 W appliance operates for 9 s. How much energy does it use?",
+      "o": [
+        "1125 J",
+        "1800 J",
+        "450 J",
+        "900 J"
+      ],
+      "a": 3,
+      "e": "E = Pt = 100 x 9 = 900 J.",
+      "d": "Hard",
+      "topic": "Power",
+      "slo": "P-09-B-73"
+    },
+    {
+      "id": "PHY9CH6-212",
+      "q": "A 150 W appliance operates for 12 s. How much energy does it use?",
+      "o": [
+        "3600 J",
+        "2250 J",
+        "900 J",
+        "1800 J"
+      ],
+      "a": 3,
+      "e": "E = Pt = 150 x 12 = 1800 J.",
+      "d": "Medium",
+      "topic": "Power",
+      "slo": "P-09-B-73"
+    },
+    {
+      "id": "PHY9CH6-213",
+      "q": "A 200 W appliance operates for 15 s. How much energy does it use?",
+      "o": [
+        "6000 J",
+        "1500 J",
+        "3000 J",
+        "3750 J"
+      ],
+      "a": 2,
+      "e": "E = Pt = 200 x 15 = 3000 J.",
+      "d": "Medium",
+      "topic": "Power",
+      "slo": "P-09-B-73"
+    },
+    {
+      "id": "PHY9CH6-214",
+      "q": "A 250 W appliance operates for 18 s. How much energy does it use?",
+      "o": [
+        "5625 J",
+        "9000 J",
+        "4500 J",
+        "2250 J"
+      ],
+      "a": 2,
+      "e": "E = Pt = 250 x 18 = 4500 J.",
+      "d": "Hard",
+      "topic": "Power",
+      "slo": "P-09-B-73"
+    },
+    {
+      "id": "PHY9CH6-215",
+      "q": "A 300 W appliance operates for 21 s. How much energy does it use?",
+      "o": [
+        "3150 J",
+        "12600 J",
+        "7875 J",
+        "6300 J"
+      ],
+      "a": 3,
+      "e": "E = Pt = 300 x 21 = 6300 J.",
+      "d": "Medium",
+      "topic": "Power",
+      "slo": "P-09-B-73"
+    },
+    {
+      "id": "PHY9CH6-216",
+      "q": "A 350 W appliance operates for 24 s. How much energy does it use?",
+      "o": [
+        "4200 J",
+        "8400 J",
+        "10500 J",
+        "16800 J"
+      ],
+      "a": 1,
+      "e": "E = Pt = 350 x 24 = 8400 J.",
+      "d": "Medium",
+      "topic": "Power",
+      "slo": "P-09-B-73"
+    },
+    {
+      "id": "PHY9CH6-217",
+      "q": "A 400 W appliance operates for 27 s. How much energy does it use?",
+      "o": [
+        "10800 J",
+        "21600 J",
+        "13500 J",
+        "5400 J"
+      ],
+      "a": 0,
+      "e": "E = Pt = 400 x 27 = 10800 J.",
+      "d": "Hard",
+      "topic": "Power",
+      "slo": "P-09-B-73"
+    },
+    {
+      "id": "PHY9CH6-218",
+      "q": "A 450 W appliance operates for 30 s. How much energy does it use?",
+      "o": [
+        "13500 J",
+        "16875 J",
+        "6750 J",
+        "27000 J"
+      ],
+      "a": 0,
+      "e": "E = Pt = 450 x 30 = 13500 J.",
+      "d": "Medium",
+      "topic": "Power",
+      "slo": "P-09-B-73"
+    },
+    {
+      "id": "PHY9CH6-219",
+      "q": "A 500 W appliance operates for 33 s. How much energy does it use?",
+      "o": [
+        "16500 J",
+        "8250 J",
+        "33000 J",
+        "20625 J"
+      ],
+      "a": 0,
+      "e": "E = Pt = 500 x 33 = 16500 J.",
+      "d": "Medium",
+      "topic": "Power",
+      "slo": "P-09-B-73"
+    },
+    {
+      "id": "PHY9CH6-220",
+      "q": "A 550 W appliance operates for 36 s. How much energy does it use?",
+      "o": [
+        "39600 J",
+        "9900 J",
+        "24750 J",
+        "19800 J"
+      ],
+      "a": 3,
+      "e": "E = Pt = 550 x 36 = 19800 J.",
+      "d": "Hard",
+      "topic": "Power",
+      "slo": "P-09-B-73"
+    },
+    {
+      "id": "PHY9CH6-221",
+      "q": "A 600 W appliance operates for 39 s. How much energy does it use?",
+      "o": [
+        "29250 J",
+        "23400 J",
+        "11700 J",
+        "46800 J"
+      ],
+      "a": 1,
+      "e": "E = Pt = 600 x 39 = 23400 J.",
+      "d": "Medium",
+      "topic": "Power",
+      "slo": "P-09-B-73"
+    },
+    {
+      "id": "PHY9CH6-222",
+      "q": "A 650 W appliance operates for 42 s. How much energy does it use?",
+      "o": [
+        "13650 J",
+        "34125 J",
+        "27300 J",
+        "54600 J"
+      ],
+      "a": 2,
+      "e": "E = Pt = 650 x 42 = 27300 J.",
+      "d": "Medium",
+      "topic": "Power",
+      "slo": "P-09-B-73"
+    },
+    {
+      "id": "PHY9CH6-223",
+      "q": "A 700 W appliance operates for 45 s. How much energy does it use?",
+      "o": [
+        "15750 J",
+        "63000 J",
+        "39375 J",
+        "31500 J"
+      ],
+      "a": 3,
+      "e": "E = Pt = 700 x 45 = 31500 J.",
+      "d": "Hard",
+      "topic": "Power",
+      "slo": "P-09-B-73"
+    },
+    {
+      "id": "PHY9CH6-224",
+      "q": "A 750 W appliance operates for 48 s. How much energy does it use?",
+      "o": [
+        "72000 J",
+        "45000 J",
+        "36000 J",
+        "18000 J"
+      ],
+      "a": 2,
+      "e": "E = Pt = 750 x 48 = 36000 J.",
+      "d": "Medium",
+      "topic": "Power",
+      "slo": "P-09-B-73"
+    },
+    {
+      "id": "PHY9CH6-225",
+      "q": "A 800 W appliance operates for 51 s. How much energy does it use?",
+      "o": [
+        "40800 J",
+        "20400 J",
+        "81600 J",
+        "51000 J"
+      ],
+      "a": 0,
+      "e": "E = Pt = 800 x 51 = 40800 J.",
+      "d": "Medium",
+      "topic": "Power",
+      "slo": "P-09-B-73"
+    },
+    {
+      "id": "PHY9CH6-226",
+      "q": "A device receives 300 J and is 30% efficient. What is its useful energy output?",
+      "o": [
+        "112.5 J",
+        "45 J",
+        "180 J",
+        "90 J"
+      ],
+      "a": 3,
+      "e": "Useful output = 30/100 x 300 = 90 J.",
+      "d": "Hard",
+      "topic": "Efficiency",
+      "slo": "P-09-B-75"
+    },
+    {
+      "id": "PHY9CH6-227",
+      "q": "A device receives 400 J and is 35% efficient. What is its useful energy output?",
+      "o": [
+        "280 J",
+        "70 J",
+        "140 J",
+        "175 J"
+      ],
+      "a": 2,
+      "e": "Useful output = 35/100 x 400 = 140 J.",
+      "d": "Medium",
+      "topic": "Efficiency",
+      "slo": "P-09-B-75"
+    },
+    {
+      "id": "PHY9CH6-228",
+      "q": "A device receives 500 J and is 40% efficient. What is its useful energy output?",
+      "o": [
+        "250 J",
+        "400 J",
+        "100 J",
+        "200 J"
+      ],
+      "a": 3,
+      "e": "Useful output = 40/100 x 500 = 200 J.",
+      "d": "Medium",
+      "topic": "Efficiency",
+      "slo": "P-09-B-75"
+    },
+    {
+      "id": "PHY9CH6-229",
+      "q": "A device receives 600 J and is 45% efficient. What is its useful energy output?",
+      "o": [
+        "540 J",
+        "135 J",
+        "270 J",
+        "337.5 J"
+      ],
+      "a": 2,
+      "e": "Useful output = 45/100 x 600 = 270 J.",
+      "d": "Hard",
+      "topic": "Efficiency",
+      "slo": "P-09-B-75"
+    },
+    {
+      "id": "PHY9CH6-230",
+      "q": "A device receives 700 J and is 50% efficient. What is its useful energy output?",
+      "o": [
+        "350 J",
+        "175 J",
+        "700 J",
+        "437.5 J"
+      ],
+      "a": 0,
+      "e": "Useful output = 50/100 x 700 = 350 J.",
+      "d": "Medium",
+      "topic": "Efficiency",
+      "slo": "P-09-B-75"
+    },
+    {
+      "id": "PHY9CH6-231",
+      "q": "A device receives 800 J and is 55% efficient. What is its useful energy output?",
+      "o": [
+        "220 J",
+        "880 J",
+        "440 J",
+        "550 J"
+      ],
+      "a": 2,
+      "e": "Useful output = 55/100 x 800 = 440 J.",
+      "d": "Medium",
+      "topic": "Efficiency",
+      "slo": "P-09-B-75"
+    },
+    {
+      "id": "PHY9CH6-232",
+      "q": "A device receives 900 J and is 60% efficient. What is its useful energy output?",
+      "o": [
+        "540 J",
+        "1080 J",
+        "675 J",
+        "270 J"
+      ],
+      "a": 0,
+      "e": "Useful output = 60/100 x 900 = 540 J.",
+      "d": "Hard",
+      "topic": "Efficiency",
+      "slo": "P-09-B-75"
+    },
+    {
+      "id": "PHY9CH6-233",
+      "q": "A device receives 1000 J and is 65% efficient. What is its useful energy output?",
+      "o": [
+        "650 J",
+        "812.5 J",
+        "1300 J",
+        "325 J"
+      ],
+      "a": 0,
+      "e": "Useful output = 65/100 x 1000 = 650 J.",
+      "d": "Medium",
+      "topic": "Efficiency",
+      "slo": "P-09-B-75"
+    },
+    {
+      "id": "PHY9CH6-234",
+      "q": "A device receives 1100 J and is 70% efficient. What is its useful energy output?",
+      "o": [
+        "385 J",
+        "962.5 J",
+        "1540 J",
+        "770 J"
+      ],
+      "a": 3,
+      "e": "Useful output = 70/100 x 1100 = 770 J.",
+      "d": "Medium",
+      "topic": "Efficiency",
+      "slo": "P-09-B-75"
+    },
+    {
+      "id": "PHY9CH6-235",
+      "q": "A device receives 1200 J and is 75% efficient. What is its useful energy output?",
+      "o": [
+        "900 J",
+        "1800 J",
+        "1125 J",
+        "450 J"
+      ],
+      "a": 0,
+      "e": "Useful output = 75/100 x 1200 = 900 J.",
+      "d": "Hard",
+      "topic": "Efficiency",
+      "slo": "P-09-B-75"
+    },
+    {
+      "id": "PHY9CH6-236",
+      "q": "A device receives 1300 J and is 80% efficient. What is its useful energy output?",
+      "o": [
+        "1300 J",
+        "2080 J",
+        "1040 J",
+        "520 J"
+      ],
+      "a": 2,
+      "e": "Useful output = 80/100 x 1300 = 1040 J.",
+      "d": "Medium",
+      "topic": "Efficiency",
+      "slo": "P-09-B-75"
+    },
+    {
+      "id": "PHY9CH6-237",
+      "q": "A device receives 1400 J and is 85% efficient. What is its useful energy output?",
+      "o": [
+        "1487.5 J",
+        "2380 J",
+        "595 J",
+        "1190 J"
+      ],
+      "a": 3,
+      "e": "Useful output = 85/100 x 1400 = 1190 J.",
+      "d": "Medium",
+      "topic": "Efficiency",
+      "slo": "P-09-B-75"
+    },
+    {
+      "id": "PHY9CH6-238",
+      "q": "A device receives 1500 J and is 25% efficient. What is its useful energy output?",
+      "o": [
+        "468.75 J",
+        "750 J",
+        "187.5 J",
+        "375 J"
+      ],
+      "a": 3,
+      "e": "Useful output = 25/100 x 1500 = 375 J.",
+      "d": "Hard",
+      "topic": "Efficiency",
+      "slo": "P-09-B-75"
+    },
+    {
+      "id": "PHY9CH6-239",
+      "q": "A device receives 1600 J and is 30% efficient. What is its useful energy output?",
+      "o": [
+        "240 J",
+        "600 J",
+        "480 J",
+        "960 J"
+      ],
+      "a": 2,
+      "e": "Useful output = 30/100 x 1600 = 480 J.",
+      "d": "Medium",
+      "topic": "Efficiency",
+      "slo": "P-09-B-75"
+    },
+    {
+      "id": "PHY9CH6-240",
+      "q": "A device receives 1700 J and is 35% efficient. What is its useful energy output?",
+      "o": [
+        "297.5 J",
+        "595 J",
+        "743.75 J",
+        "1190 J"
+      ],
+      "a": 1,
+      "e": "Useful output = 35/100 x 1700 = 595 J.",
+      "d": "Medium",
+      "topic": "Efficiency",
+      "slo": "P-09-B-75"
+    },
+    {
+      "id": "PHY9CH6-241",
+      "q": "A machine receives 600 J and gives 180 J of useful energy. Calculate its efficiency.",
+      "o": [
+        "40 %",
+        "60 %",
+        "15 %",
+        "30 %"
+      ],
+      "a": 3,
+      "e": "Efficiency = 180/600 x 100 = 30%.",
+      "d": "Hard",
+      "topic": "Efficiency",
+      "slo": "P-09-B-75"
+    },
+    {
+      "id": "PHY9CH6-242",
+      "q": "A machine receives 800 J and gives 280 J of useful energy. Calculate its efficiency.",
+      "o": [
+        "45 %",
+        "35 %",
+        "17.5 %",
+        "70 %"
+      ],
+      "a": 1,
+      "e": "Efficiency = 280/800 x 100 = 35%.",
+      "d": "Medium",
+      "topic": "Efficiency",
+      "slo": "P-09-B-75"
+    },
+    {
+      "id": "PHY9CH6-243",
+      "q": "A machine receives 1000 J and gives 400 J of useful energy. Calculate its efficiency.",
+      "o": [
+        "20 %",
+        "50 %",
+        "80 %",
+        "40 %"
+      ],
+      "a": 3,
+      "e": "Efficiency = 400/1000 x 100 = 40%.",
+      "d": "Medium",
+      "topic": "Efficiency",
+      "slo": "P-09-B-75"
+    },
+    {
+      "id": "PHY9CH6-244",
+      "q": "A machine receives 1200 J and gives 540 J of useful energy. Calculate its efficiency.",
+      "o": [
+        "22.5 %",
+        "55 %",
+        "45 %",
+        "90 %"
+      ],
+      "a": 2,
+      "e": "Efficiency = 540/1200 x 100 = 45%.",
+      "d": "Hard",
+      "topic": "Efficiency",
+      "slo": "P-09-B-75"
+    },
+    {
+      "id": "PHY9CH6-245",
+      "q": "A machine receives 1400 J and gives 700 J of useful energy. Calculate its efficiency.",
+      "o": [
+        "25 %",
+        "50 %",
+        "60 %",
+        "100 %"
+      ],
+      "a": 1,
+      "e": "Efficiency = 700/1400 x 100 = 50%.",
+      "d": "Medium",
+      "topic": "Efficiency",
+      "slo": "P-09-B-75"
+    },
+    {
+      "id": "PHY9CH6-246",
+      "q": "A machine receives 1600 J and gives 880 J of useful energy. Calculate its efficiency.",
+      "o": [
+        "110 %",
+        "27.5 %",
+        "55 %",
+        "65 %"
+      ],
+      "a": 2,
+      "e": "Efficiency = 880/1600 x 100 = 55%.",
+      "d": "Medium",
+      "topic": "Efficiency",
+      "slo": "P-09-B-75"
+    },
+    {
+      "id": "PHY9CH6-247",
+      "q": "A machine receives 1800 J and gives 1080 J of useful energy. Calculate its efficiency.",
+      "o": [
+        "60 %",
+        "30 %",
+        "70 %",
+        "120 %"
+      ],
+      "a": 0,
+      "e": "Efficiency = 1080/1800 x 100 = 60%.",
+      "d": "Hard",
+      "topic": "Efficiency",
+      "slo": "P-09-B-75"
+    },
+    {
+      "id": "PHY9CH6-248",
+      "q": "A machine receives 2000 J and gives 1300 J of useful energy. Calculate its efficiency.",
+      "o": [
+        "130 %",
+        "32.5 %",
+        "65 %",
+        "75 %"
+      ],
+      "a": 2,
+      "e": "Efficiency = 1300/2000 x 100 = 65%.",
+      "d": "Medium",
+      "topic": "Efficiency",
+      "slo": "P-09-B-75"
+    },
+    {
+      "id": "PHY9CH6-249",
+      "q": "A machine receives 2200 J and gives 1540 J of useful energy. Calculate its efficiency.",
+      "o": [
+        "140 %",
+        "35 %",
+        "80 %",
+        "70 %"
+      ],
+      "a": 3,
+      "e": "Efficiency = 1540/2200 x 100 = 70%.",
+      "d": "Medium",
+      "topic": "Efficiency",
+      "slo": "P-09-B-75"
+    },
+    {
+      "id": "PHY9CH6-250",
+      "q": "A machine receives 2400 J and gives 1800 J of useful energy. Calculate its efficiency.",
+      "o": [
+        "85 %",
+        "75 %",
+        "150 %",
+        "37.5 %"
+      ],
+      "a": 1,
+      "e": "Efficiency = 1800/2400 x 100 = 75%.",
+      "d": "Hard",
+      "topic": "Efficiency",
+      "slo": "P-09-B-75"
+    },
+    {
+      "id": "PHY9CH6-251",
+      "q": "A machine receives 2600 J and gives 2080 J of useful energy. Calculate its efficiency.",
+      "o": [
+        "90 %",
+        "160 %",
+        "80 %",
+        "40 %"
+      ],
+      "a": 2,
+      "e": "Efficiency = 2080/2600 x 100 = 80%.",
+      "d": "Medium",
+      "topic": "Efficiency",
+      "slo": "P-09-B-75"
+    },
+    {
+      "id": "PHY9CH6-252",
+      "q": "A machine receives 2800 J and gives 2380 J of useful energy. Calculate its efficiency.",
+      "o": [
+        "170 %",
+        "85 %",
+        "95 %",
+        "42.5 %"
+      ],
+      "a": 1,
+      "e": "Efficiency = 2380/2800 x 100 = 85%.",
+      "d": "Medium",
+      "topic": "Efficiency",
+      "slo": "P-09-B-75"
+    },
+    {
+      "id": "PHY9CH6-253",
+      "q": "A machine receives 3000 J and gives 750 J of useful energy. Calculate its efficiency.",
+      "o": [
+        "35 %",
+        "50 %",
+        "12.5 %",
+        "25 %"
+      ],
+      "a": 3,
+      "e": "Efficiency = 750/3000 x 100 = 25%.",
+      "d": "Hard",
+      "topic": "Efficiency",
+      "slo": "P-09-B-75"
+    },
+    {
+      "id": "PHY9CH6-254",
+      "q": "A machine receives 3200 J and gives 960 J of useful energy. Calculate its efficiency.",
+      "o": [
+        "60 %",
+        "30 %",
+        "40 %",
+        "15 %"
+      ],
+      "a": 1,
+      "e": "Efficiency = 960/3200 x 100 = 30%.",
+      "d": "Medium",
+      "topic": "Efficiency",
+      "slo": "P-09-B-75"
+    },
+    {
+      "id": "PHY9CH6-255",
+      "q": "A machine receives 3400 J and gives 1190 J of useful energy. Calculate its efficiency.",
+      "o": [
+        "17.5 %",
+        "45 %",
+        "35 %",
+        "70 %"
+      ],
+      "a": 2,
+      "e": "Efficiency = 1190/3400 x 100 = 35%.",
+      "d": "Medium",
+      "topic": "Efficiency",
+      "slo": "P-09-B-75"
+    },
+    {
+      "id": "PHY9CH6-256",
+      "q": "A machine takes in 600 J and converts 30% to useful output. Find dissipated energy.",
+      "o": [
+        "525 J",
+        "420 J",
+        "840 J",
+        "210 J"
+      ],
+      "a": 1,
+      "e": "Dissipated = 600 x (100-30)/100 = 420 J.",
+      "d": "Hard",
+      "topic": "Efficiency",
+      "slo": "P-09-B-75"
+    },
+    {
+      "id": "PHY9CH6-257",
+      "q": "A machine takes in 800 J and converts 35% to useful output. Find dissipated energy.",
+      "o": [
+        "650 J",
+        "520 J",
+        "260 J",
+        "1040 J"
+      ],
+      "a": 1,
+      "e": "Dissipated = 800 x (100-35)/100 = 520 J.",
+      "d": "Medium",
+      "topic": "Efficiency",
+      "slo": "P-09-B-75"
+    },
+    {
+      "id": "PHY9CH6-258",
+      "q": "A machine takes in 1000 J and converts 40% to useful output. Find dissipated energy.",
+      "o": [
+        "750 J",
+        "300 J",
+        "1200 J",
+        "600 J"
+      ],
+      "a": 3,
+      "e": "Dissipated = 1000 x (100-40)/100 = 600 J.",
+      "d": "Medium",
+      "topic": "Efficiency",
+      "slo": "P-09-B-75"
+    },
+    {
+      "id": "PHY9CH6-259",
+      "q": "A machine takes in 1200 J and converts 45% to useful output. Find dissipated energy.",
+      "o": [
+        "1320 J",
+        "660 J",
+        "330 J",
+        "825 J"
+      ],
+      "a": 1,
+      "e": "Dissipated = 1200 x (100-45)/100 = 660 J.",
+      "d": "Hard",
+      "topic": "Efficiency",
+      "slo": "P-09-B-75"
+    },
+    {
+      "id": "PHY9CH6-260",
+      "q": "A machine takes in 1400 J and converts 50% to useful output. Find dissipated energy.",
+      "o": [
+        "700 J",
+        "875 J",
+        "350 J",
+        "1400 J"
+      ],
+      "a": 0,
+      "e": "Dissipated = 1400 x (100-50)/100 = 700 J.",
+      "d": "Medium",
+      "topic": "Efficiency",
+      "slo": "P-09-B-75"
+    },
+    {
+      "id": "PHY9CH6-261",
+      "q": "A machine takes in 1600 J and converts 55% to useful output. Find dissipated energy.",
+      "o": [
+        "720 J",
+        "900 J",
+        "360 J",
+        "1440 J"
+      ],
+      "a": 0,
+      "e": "Dissipated = 1600 x (100-55)/100 = 720 J.",
+      "d": "Medium",
+      "topic": "Efficiency",
+      "slo": "P-09-B-75"
+    },
+    {
+      "id": "PHY9CH6-262",
+      "q": "A machine takes in 1800 J and converts 60% to useful output. Find dissipated energy.",
+      "o": [
+        "900 J",
+        "1440 J",
+        "360 J",
+        "720 J"
+      ],
+      "a": 3,
+      "e": "Dissipated = 1800 x (100-60)/100 = 720 J.",
+      "d": "Hard",
+      "topic": "Efficiency",
+      "slo": "P-09-B-75"
+    },
+    {
+      "id": "PHY9CH6-263",
+      "q": "A machine takes in 2000 J and converts 65% to useful output. Find dissipated energy.",
+      "o": [
+        "350 J",
+        "875 J",
+        "700 J",
+        "1400 J"
+      ],
+      "a": 2,
+      "e": "Dissipated = 2000 x (100-65)/100 = 700 J.",
+      "d": "Medium",
+      "topic": "Efficiency",
+      "slo": "P-09-B-75"
+    },
+    {
+      "id": "PHY9CH6-264",
+      "q": "A machine takes in 2200 J and converts 70% to useful output. Find dissipated energy.",
+      "o": [
+        "330 J",
+        "1320 J",
+        "825 J",
+        "660 J"
+      ],
+      "a": 3,
+      "e": "Dissipated = 2200 x (100-70)/100 = 660 J.",
+      "d": "Medium",
+      "topic": "Efficiency",
+      "slo": "P-09-B-75"
+    },
+    {
+      "id": "PHY9CH6-265",
+      "q": "A machine takes in 2400 J and converts 75% to useful output. Find dissipated energy.",
+      "o": [
+        "300 J",
+        "750 J",
+        "1200 J",
+        "600 J"
+      ],
+      "a": 3,
+      "e": "Dissipated = 2400 x (100-75)/100 = 600 J.",
+      "d": "Hard",
+      "topic": "Efficiency",
+      "slo": "P-09-B-75"
+    },
+    {
+      "id": "PHY9CH6-266",
+      "q": "A machine takes in 2600 J and converts 80% to useful output. Find dissipated energy.",
+      "o": [
+        "1040 J",
+        "520 J",
+        "260 J",
+        "650 J"
+      ],
+      "a": 1,
+      "e": "Dissipated = 2600 x (100-80)/100 = 520 J.",
+      "d": "Medium",
+      "topic": "Efficiency",
+      "slo": "P-09-B-75"
+    },
+    {
+      "id": "PHY9CH6-267",
+      "q": "A machine takes in 2800 J and converts 85% to useful output. Find dissipated energy.",
+      "o": [
+        "525 J",
+        "210 J",
+        "420 J",
+        "840 J"
+      ],
+      "a": 2,
+      "e": "Dissipated = 2800 x (100-85)/100 = 420 J.",
+      "d": "Medium",
+      "topic": "Efficiency",
+      "slo": "P-09-B-75"
+    },
+    {
+      "id": "PHY9CH6-268",
+      "q": "A machine takes in 3000 J and converts 25% to useful output. Find dissipated energy.",
+      "o": [
+        "2812.5 J",
+        "2250 J",
+        "4500 J",
+        "1125 J"
+      ],
+      "a": 1,
+      "e": "Dissipated = 3000 x (100-25)/100 = 2250 J.",
+      "d": "Hard",
+      "topic": "Efficiency",
+      "slo": "P-09-B-75"
+    },
+    {
+      "id": "PHY9CH6-269",
+      "q": "A machine takes in 3200 J and converts 30% to useful output. Find dissipated energy.",
+      "o": [
+        "4480 J",
+        "2240 J",
+        "1120 J",
+        "2800 J"
+      ],
+      "a": 1,
+      "e": "Dissipated = 3200 x (100-30)/100 = 2240 J.",
+      "d": "Medium",
+      "topic": "Efficiency",
+      "slo": "P-09-B-75"
+    },
+    {
+      "id": "PHY9CH6-270",
+      "q": "A machine takes in 3400 J and converts 35% to useful output. Find dissipated energy.",
+      "o": [
+        "4420 J",
+        "2762.5 J",
+        "2210 J",
+        "1105 J"
+      ],
+      "a": 2,
+      "e": "Dissipated = 3400 x (100-35)/100 = 2210 J.",
+      "d": "Medium",
+      "topic": "Efficiency",
+      "slo": "P-09-B-75"
+    },
+    {
+      "id": "PHY9CH6-271",
+      "q": "Ignoring air resistance, a 2 kg object falls through 3 m (g = 10 m/s^2). How much kinetic energy does it gain?",
+      "o": [
+        "75 J",
+        "30 J",
+        "120 J",
+        "60 J"
+      ],
+      "a": 3,
+      "e": "KE gain = lost PE = mgh = 2 x 10 x 3 = 60 J.",
+      "d": "Hard",
+      "topic": "Energy conversion",
+      "slo": "P-09-B-66"
+    },
+    {
+      "id": "PHY9CH6-272",
+      "q": "Ignoring air resistance, a 4 kg object falls through 4 m (g = 10 m/s^2). How much kinetic energy does it gain?",
+      "o": [
+        "80 J",
+        "200 J",
+        "160 J",
+        "320 J"
+      ],
+      "a": 2,
+      "e": "KE gain = lost PE = mgh = 4 x 10 x 4 = 160 J.",
+      "d": "Medium",
+      "topic": "Energy conversion",
+      "slo": "P-09-B-66"
+    },
+    {
+      "id": "PHY9CH6-273",
+      "q": "Ignoring air resistance, a 6 kg object falls through 5 m (g = 10 m/s^2). How much kinetic energy does it gain?",
+      "o": [
+        "300 J",
+        "150 J",
+        "375 J",
+        "600 J"
+      ],
+      "a": 0,
+      "e": "KE gain = lost PE = mgh = 6 x 10 x 5 = 300 J.",
+      "d": "Medium",
+      "topic": "Energy conversion",
+      "slo": "P-09-B-66"
+    },
+    {
+      "id": "PHY9CH6-274",
+      "q": "Ignoring air resistance, a 8 kg object falls through 6 m (g = 10 m/s^2). How much kinetic energy does it gain?",
+      "o": [
+        "240 J",
+        "600 J",
+        "480 J",
+        "960 J"
+      ],
+      "a": 2,
+      "e": "KE gain = lost PE = mgh = 8 x 10 x 6 = 480 J.",
+      "d": "Hard",
+      "topic": "Energy conversion",
+      "slo": "P-09-B-66"
+    },
+    {
+      "id": "PHY9CH6-275",
+      "q": "Ignoring air resistance, a 10 kg object falls through 7 m (g = 10 m/s^2). How much kinetic energy does it gain?",
+      "o": [
+        "1400 J",
+        "700 J",
+        "875 J",
+        "350 J"
+      ],
+      "a": 1,
+      "e": "KE gain = lost PE = mgh = 10 x 10 x 7 = 700 J.",
+      "d": "Medium",
+      "topic": "Energy conversion",
+      "slo": "P-09-B-66"
+    },
+    {
+      "id": "PHY9CH6-276",
+      "q": "Ignoring air resistance, a 12 kg object falls through 8 m (g = 10 m/s^2). How much kinetic energy does it gain?",
+      "o": [
+        "480 J",
+        "1920 J",
+        "960 J",
+        "1200 J"
+      ],
+      "a": 2,
+      "e": "KE gain = lost PE = mgh = 12 x 10 x 8 = 960 J.",
+      "d": "Medium",
+      "topic": "Energy conversion",
+      "slo": "P-09-B-66"
+    },
+    {
+      "id": "PHY9CH6-277",
+      "q": "Ignoring air resistance, a 14 kg object falls through 9 m (g = 10 m/s^2). How much kinetic energy does it gain?",
+      "o": [
+        "630 J",
+        "2520 J",
+        "1260 J",
+        "1575 J"
+      ],
+      "a": 2,
+      "e": "KE gain = lost PE = mgh = 14 x 10 x 9 = 1260 J.",
+      "d": "Hard",
+      "topic": "Energy conversion",
+      "slo": "P-09-B-66"
+    },
+    {
+      "id": "PHY9CH6-278",
+      "q": "Ignoring air resistance, a 16 kg object falls through 10 m (g = 10 m/s^2). How much kinetic energy does it gain?",
+      "o": [
+        "3200 J",
+        "1600 J",
+        "2000 J",
+        "800 J"
+      ],
+      "a": 1,
+      "e": "KE gain = lost PE = mgh = 16 x 10 x 10 = 1600 J.",
+      "d": "Medium",
+      "topic": "Energy conversion",
+      "slo": "P-09-B-66"
+    },
+    {
+      "id": "PHY9CH6-279",
+      "q": "Ignoring air resistance, a 18 kg object falls through 11 m (g = 10 m/s^2). How much kinetic energy does it gain?",
+      "o": [
+        "3960 J",
+        "2475 J",
+        "990 J",
+        "1980 J"
+      ],
+      "a": 3,
+      "e": "KE gain = lost PE = mgh = 18 x 10 x 11 = 1980 J.",
+      "d": "Medium",
+      "topic": "Energy conversion",
+      "slo": "P-09-B-66"
+    },
+    {
+      "id": "PHY9CH6-280",
+      "q": "Ignoring air resistance, a 20 kg object falls through 12 m (g = 10 m/s^2). How much kinetic energy does it gain?",
+      "o": [
+        "1200 J",
+        "2400 J",
+        "3000 J",
+        "4800 J"
+      ],
+      "a": 1,
+      "e": "KE gain = lost PE = mgh = 20 x 10 x 12 = 2400 J.",
+      "d": "Hard",
+      "topic": "Energy conversion",
+      "slo": "P-09-B-66"
+    },
+    {
+      "id": "PHY9CH6-281",
+      "q": "Ignoring air resistance, a 22 kg object falls through 13 m (g = 10 m/s^2). How much kinetic energy does it gain?",
+      "o": [
+        "5720 J",
+        "1430 J",
+        "2860 J",
+        "3575 J"
+      ],
+      "a": 2,
+      "e": "KE gain = lost PE = mgh = 22 x 10 x 13 = 2860 J.",
+      "d": "Medium",
+      "topic": "Energy conversion",
+      "slo": "P-09-B-66"
+    },
+    {
+      "id": "PHY9CH6-282",
+      "q": "Ignoring air resistance, a 24 kg object falls through 14 m (g = 10 m/s^2). How much kinetic energy does it gain?",
+      "o": [
+        "6720 J",
+        "1680 J",
+        "4200 J",
+        "3360 J"
+      ],
+      "a": 3,
+      "e": "KE gain = lost PE = mgh = 24 x 10 x 14 = 3360 J.",
+      "d": "Medium",
+      "topic": "Energy conversion",
+      "slo": "P-09-B-66"
+    },
+    {
+      "id": "PHY9CH6-283",
+      "q": "Ignoring air resistance, a 26 kg object falls through 15 m (g = 10 m/s^2). How much kinetic energy does it gain?",
+      "o": [
+        "4875 J",
+        "3900 J",
+        "7800 J",
+        "1950 J"
+      ],
+      "a": 1,
+      "e": "KE gain = lost PE = mgh = 26 x 10 x 15 = 3900 J.",
+      "d": "Hard",
+      "topic": "Energy conversion",
+      "slo": "P-09-B-66"
+    },
+    {
+      "id": "PHY9CH6-284",
+      "q": "Ignoring air resistance, a 28 kg object falls through 16 m (g = 10 m/s^2). How much kinetic energy does it gain?",
+      "o": [
+        "5600 J",
+        "4480 J",
+        "2240 J",
+        "8960 J"
+      ],
+      "a": 1,
+      "e": "KE gain = lost PE = mgh = 28 x 10 x 16 = 4480 J.",
+      "d": "Medium",
+      "topic": "Energy conversion",
+      "slo": "P-09-B-66"
+    },
+    {
+      "id": "PHY9CH6-285",
+      "q": "Ignoring air resistance, a 30 kg object falls through 17 m (g = 10 m/s^2). How much kinetic energy does it gain?",
+      "o": [
+        "6375 J",
+        "2550 J",
+        "10200 J",
+        "5100 J"
+      ],
+      "a": 3,
+      "e": "KE gain = lost PE = mgh = 30 x 10 x 17 = 5100 J.",
+      "d": "Medium",
+      "topic": "Energy conversion",
+      "slo": "P-09-B-66"
+    },
+    {
+      "id": "PHY9CH6-286",
+      "q": "A 2 kW device runs for 3 hours. Calculate energy used in kilowatt-hours.",
+      "o": [
+        "6 kWh",
+        "7.5 kWh",
+        "12 kWh",
+        "3 kWh"
+      ],
+      "a": 0,
+      "e": "Energy = power x time = 2 x 3 = 6 kWh.",
+      "d": "Hard",
+      "topic": "Power",
+      "slo": "P-09-B-73"
+    },
+    {
+      "id": "PHY9CH6-287",
+      "q": "A 3 kW device runs for 4 hours. Calculate energy used in kilowatt-hours.",
+      "o": [
+        "24 kWh",
+        "15 kWh",
+        "6 kWh",
+        "12 kWh"
+      ],
+      "a": 3,
+      "e": "Energy = power x time = 3 x 4 = 12 kWh.",
+      "d": "Medium",
+      "topic": "Power",
+      "slo": "P-09-B-73"
+    },
+    {
+      "id": "PHY9CH6-288",
+      "q": "A 4 kW device runs for 5 hours. Calculate energy used in kilowatt-hours.",
+      "o": [
+        "25 kWh",
+        "20 kWh",
+        "10 kWh",
+        "40 kWh"
+      ],
+      "a": 1,
+      "e": "Energy = power x time = 4 x 5 = 20 kWh.",
+      "d": "Medium",
+      "topic": "Power",
+      "slo": "P-09-B-73"
+    },
+    {
+      "id": "PHY9CH6-289",
+      "q": "A 5 kW device runs for 6 hours. Calculate energy used in kilowatt-hours.",
+      "o": [
+        "30 kWh",
+        "60 kWh",
+        "37.5 kWh",
+        "15 kWh"
+      ],
+      "a": 0,
+      "e": "Energy = power x time = 5 x 6 = 30 kWh.",
+      "d": "Hard",
+      "topic": "Power",
+      "slo": "P-09-B-73"
+    },
+    {
+      "id": "PHY9CH6-290",
+      "q": "A 6 kW device runs for 7 hours. Calculate energy used in kilowatt-hours.",
+      "o": [
+        "52.5 kWh",
+        "42 kWh",
+        "84 kWh",
+        "21 kWh"
+      ],
+      "a": 1,
+      "e": "Energy = power x time = 6 x 7 = 42 kWh.",
+      "d": "Medium",
+      "topic": "Power",
+      "slo": "P-09-B-73"
+    },
+    {
+      "id": "PHY9CH6-291",
+      "q": "A 7 kW device runs for 8 hours. Calculate energy used in kilowatt-hours.",
+      "o": [
+        "28 kWh",
+        "70 kWh",
+        "56 kWh",
+        "112 kWh"
+      ],
+      "a": 2,
+      "e": "Energy = power x time = 7 x 8 = 56 kWh.",
+      "d": "Medium",
+      "topic": "Power",
+      "slo": "P-09-B-73"
+    },
+    {
+      "id": "PHY9CH6-292",
+      "q": "A 8 kW device runs for 9 hours. Calculate energy used in kilowatt-hours.",
+      "o": [
+        "90 kWh",
+        "72 kWh",
+        "36 kWh",
+        "144 kWh"
+      ],
+      "a": 1,
+      "e": "Energy = power x time = 8 x 9 = 72 kWh.",
+      "d": "Hard",
+      "topic": "Power",
+      "slo": "P-09-B-73"
+    },
+    {
+      "id": "PHY9CH6-293",
+      "q": "A 9 kW device runs for 10 hours. Calculate energy used in kilowatt-hours.",
+      "o": [
+        "180 kWh",
+        "112.5 kWh",
+        "90 kWh",
+        "45 kWh"
+      ],
+      "a": 2,
+      "e": "Energy = power x time = 9 x 10 = 90 kWh.",
+      "d": "Medium",
+      "topic": "Power",
+      "slo": "P-09-B-73"
+    },
+    {
+      "id": "PHY9CH6-294",
+      "q": "A 10 kW device runs for 11 hours. Calculate energy used in kilowatt-hours.",
+      "o": [
+        "220 kWh",
+        "110 kWh",
+        "55 kWh",
+        "137.5 kWh"
+      ],
+      "a": 1,
+      "e": "Energy = power x time = 10 x 11 = 110 kWh.",
+      "d": "Medium",
+      "topic": "Power",
+      "slo": "P-09-B-73"
+    },
+    {
+      "id": "PHY9CH6-295",
+      "q": "A 11 kW device runs for 12 hours. Calculate energy used in kilowatt-hours.",
+      "o": [
+        "165 kWh",
+        "66 kWh",
+        "264 kWh",
+        "132 kWh"
+      ],
+      "a": 3,
+      "e": "Energy = power x time = 11 x 12 = 132 kWh.",
+      "d": "Hard",
+      "topic": "Power",
+      "slo": "P-09-B-73"
+    },
+    {
+      "id": "PHY9CH6-296",
+      "q": "A 12 kW device runs for 13 hours. Calculate energy used in kilowatt-hours.",
+      "o": [
+        "312 kWh",
+        "156 kWh",
+        "195 kWh",
+        "78 kWh"
+      ],
+      "a": 1,
+      "e": "Energy = power x time = 12 x 13 = 156 kWh.",
+      "d": "Medium",
+      "topic": "Power",
+      "slo": "P-09-B-73"
+    },
+    {
+      "id": "PHY9CH6-297",
+      "q": "A 13 kW device runs for 14 hours. Calculate energy used in kilowatt-hours.",
+      "o": [
+        "182 kWh",
+        "91 kWh",
+        "227.5 kWh",
+        "364 kWh"
+      ],
+      "a": 0,
+      "e": "Energy = power x time = 13 x 14 = 182 kWh.",
+      "d": "Medium",
+      "topic": "Power",
+      "slo": "P-09-B-73"
+    },
+    {
+      "id": "PHY9CH6-298",
+      "q": "A 14 kW device runs for 15 hours. Calculate energy used in kilowatt-hours.",
+      "o": [
+        "262.5 kWh",
+        "420 kWh",
+        "105 kWh",
+        "210 kWh"
+      ],
+      "a": 3,
+      "e": "Energy = power x time = 14 x 15 = 210 kWh.",
+      "d": "Hard",
+      "topic": "Power",
+      "slo": "P-09-B-73"
+    },
+    {
+      "id": "PHY9CH6-299",
+      "q": "A 15 kW device runs for 16 hours. Calculate energy used in kilowatt-hours.",
+      "o": [
+        "300 kWh",
+        "240 kWh",
+        "120 kWh",
+        "480 kWh"
+      ],
+      "a": 1,
+      "e": "Energy = power x time = 15 x 16 = 240 kWh.",
+      "d": "Medium",
+      "topic": "Power",
+      "slo": "P-09-B-73"
+    },
+    {
+      "id": "PHY9CH6-300",
+      "q": "A 16 kW device runs for 17 hours. Calculate energy used in kilowatt-hours.",
+      "o": [
+        "272 kWh",
+        "136 kWh",
+        "340 kWh",
+        "544 kWh"
+      ],
+      "a": 0,
+      "e": "Energy = power x time = 16 x 17 = 272 kWh.",
+      "d": "Medium",
+      "topic": "Power",
+      "slo": "P-09-B-73"
+    }
+  ]
+}

@@ -1,0 +1,4504 @@
+{
+  "questions": [
+    {
+      "id": "CHEM9CH2-001",
+      "q": "Which statement best defines matter?",
+      "o": [
+        "Anything that contains living cells",
+        "Anything that produces light",
+        "Anything that has mass and occupies space",
+        "Anything visible to the eye"
+      ],
+      "a": 2,
+      "e": "Matter has mass and occupies space.",
+      "d": "Easy",
+      "topic": "Matter",
+      "slo": "Classify matter and distinguish its physical states"
+    },
+    {
+      "id": "CHEM9CH2-002",
+      "q": "Which of these is not matter?",
+      "o": [
+        "Water",
+        "Air",
+        "Iron",
+        "Sound"
+      ],
+      "a": 3,
+      "e": "Sound is energy transmitted as vibrations, not a substance with mass and volume.",
+      "d": "Easy",
+      "topic": "Matter",
+      "slo": "Classify matter and distinguish its physical states"
+    },
+    {
+      "id": "CHEM9CH2-003",
+      "q": "Which state has a fixed shape and fixed volume?",
+      "o": [
+        "Gas",
+        "Plasma",
+        "Liquid",
+        "Solid"
+      ],
+      "a": 3,
+      "e": "Particles in a solid remain close to fixed positions.",
+      "d": "Easy",
+      "topic": "States of matter",
+      "slo": "Classify matter and distinguish its physical states"
+    },
+    {
+      "id": "CHEM9CH2-004",
+      "q": "Which state has fixed volume but takes the shape of its container?",
+      "o": [
+        "Liquid",
+        "Gas",
+        "Plasma",
+        "Solid"
+      ],
+      "a": 0,
+      "e": "Liquids flow but are relatively difficult to compress.",
+      "d": "Easy",
+      "topic": "States of matter",
+      "slo": "Classify matter and distinguish its physical states"
+    },
+    {
+      "id": "CHEM9CH2-005",
+      "q": "Which state fills the entire available container?",
+      "o": [
+        "Crystalline solid",
+        "Gas",
+        "Liquid",
+        "Solid"
+      ],
+      "a": 1,
+      "e": "Gas particles move freely and spread through available space.",
+      "d": "Easy",
+      "topic": "States of matter",
+      "slo": "Classify matter and distinguish its physical states"
+    },
+    {
+      "id": "CHEM9CH2-006",
+      "q": "Why are gases much more compressible than liquids?",
+      "o": [
+        "Gas particles cannot move",
+        "Gas particles have no mass",
+        "Gas particles have much larger spaces between them",
+        "Liquids have no intermolecular attractions"
+      ],
+      "a": 2,
+      "e": "Compression reduces the relatively large empty spaces between gas particles.",
+      "d": "Medium",
+      "topic": "States of matter",
+      "slo": "Classify matter and distinguish its physical states"
+    },
+    {
+      "id": "CHEM9CH2-007",
+      "q": "Which state consists of ions and free electrons?",
+      "o": [
+        "Ordinary liquid",
+        "Plasma",
+        "Molecular solid",
+        "Neutral gas only"
+      ],
+      "a": 1,
+      "e": "Plasma is an ionized state of matter.",
+      "d": "Medium",
+      "topic": "States of matter",
+      "slo": "Classify matter and distinguish its physical states"
+    },
+    {
+      "id": "CHEM9CH2-008",
+      "q": "A gas changes into a liquid by which process?",
+      "o": [
+        "Sublimation",
+        "Deposition",
+        "Condensation",
+        "Melting"
+      ],
+      "a": 2,
+      "e": "Condensation is the gas-to-liquid transition.",
+      "d": "Easy",
+      "topic": "States of matter",
+      "slo": "Classify matter and distinguish its physical states"
+    },
+    {
+      "id": "CHEM9CH2-009",
+      "q": "What is the direct change from solid to gas called?",
+      "o": [
+        "Melting",
+        "Condensation",
+        "Freezing",
+        "Sublimation"
+      ],
+      "a": 3,
+      "e": "Sublimation bypasses the liquid state.",
+      "d": "Medium",
+      "topic": "States of matter",
+      "slo": "Classify matter and distinguish its physical states"
+    },
+    {
+      "id": "CHEM9CH2-010",
+      "q": "What is the change from liquid to solid called?",
+      "o": [
+        "Condensation",
+        "Vaporization",
+        "Sublimation",
+        "Freezing"
+      ],
+      "a": 3,
+      "e": "Freezing converts a liquid into a solid.",
+      "d": "Easy",
+      "topic": "States of matter",
+      "slo": "Classify matter and distinguish its physical states"
+    },
+    {
+      "id": "CHEM9CH2-011",
+      "q": "Which sample is an element?",
+      "o": [
+        "Water",
+        "Air",
+        "Sodium chloride",
+        "Copper"
+      ],
+      "a": 3,
+      "e": "Copper contains one type of atom.",
+      "d": "Easy",
+      "topic": "Classification of matter",
+      "slo": "Differentiate elements, compounds and mixtures"
+    },
+    {
+      "id": "CHEM9CH2-012",
+      "q": "Which sample is a compound?",
+      "o": [
+        "Air",
+        "Pure water",
+        "Copper metal",
+        "Oxygen gas"
+      ],
+      "a": 1,
+      "e": "Water contains hydrogen and oxygen chemically combined in a fixed ratio.",
+      "d": "Easy",
+      "topic": "Classification of matter",
+      "slo": "Differentiate elements, compounds and mixtures"
+    },
+    {
+      "id": "CHEM9CH2-013",
+      "q": "Which sample is a mixture?",
+      "o": [
+        "Pure carbon dioxide",
+        "Gold",
+        "Pure sodium chloride",
+        "Air"
+      ],
+      "a": 3,
+      "e": "Air contains several gases physically mixed.",
+      "d": "Easy",
+      "topic": "Classification of matter",
+      "slo": "Differentiate elements, compounds and mixtures"
+    },
+    {
+      "id": "CHEM9CH2-014",
+      "q": "What is the smallest particle of an element that retains its chemical identity?",
+      "o": [
+        "Mixture",
+        "Compound",
+        "Solution",
+        "Atom"
+      ],
+      "a": 3,
+      "e": "An atom is the fundamental unit of an element.",
+      "d": "Medium",
+      "topic": "Elements",
+      "slo": "Differentiate elements, compounds and mixtures"
+    },
+    {
+      "id": "CHEM9CH2-015",
+      "q": "Which statement about a pure compound is correct?",
+      "o": [
+        "It can always be separated by filtration",
+        "Its components retain all original properties",
+        "Its constituent elements are chemically combined in a fixed ratio",
+        "Its composition changes from sample to sample"
+      ],
+      "a": 2,
+      "e": "Chemical compounds have definite composition.",
+      "d": "Medium",
+      "topic": "Compounds",
+      "slo": "Differentiate elements, compounds and mixtures"
+    },
+    {
+      "id": "CHEM9CH2-016",
+      "q": "Which statement describes a mixture?",
+      "o": [
+        "Its components can be present in variable proportions",
+        "It always has a fixed chemical formula",
+        "Its components must be chemically bonded",
+        "It consists of only one kind of atom"
+      ],
+      "a": 0,
+      "e": "Mixtures can have varying compositions.",
+      "d": "Medium",
+      "topic": "Mixtures",
+      "slo": "Differentiate elements, compounds and mixtures"
+    },
+    {
+      "id": "CHEM9CH2-017",
+      "q": "Which method can separate iron filings from sulfur powder before reaction?",
+      "o": [
+        "Magnetic separation",
+        "Electrolysis of water",
+        "Chemical decomposition",
+        "Neutralization"
+      ],
+      "a": 0,
+      "e": "A magnet attracts iron while sulfur remains.",
+      "d": "Medium",
+      "topic": "Mixtures",
+      "slo": "Differentiate elements, compounds and mixtures"
+    },
+    {
+      "id": "CHEM9CH2-018",
+      "q": "Why is saltwater classified as a mixture?",
+      "o": [
+        "A new element is formed",
+        "Its composition must always be 1:1",
+        "Salt and water are physically combined and can be separated",
+        "Salt changes into oxygen"
+      ],
+      "a": 2,
+      "e": "Dissolved salt can be recovered by evaporation.",
+      "d": "Medium",
+      "topic": "Mixtures",
+      "slo": "Differentiate elements, compounds and mixtures"
+    },
+    {
+      "id": "CHEM9CH2-019",
+      "q": "Which sample is a homogeneous mixture?",
+      "o": [
+        "A clear salt solution",
+        "Sand in water",
+        "Oil and water in layers",
+        "Granite"
+      ],
+      "a": 0,
+      "e": "A homogeneous mixture has uniform composition throughout.",
+      "d": "Medium",
+      "topic": "Mixtures",
+      "slo": "Differentiate elements, compounds and mixtures"
+    },
+    {
+      "id": "CHEM9CH2-020",
+      "q": "Which sample is heterogeneous?",
+      "o": [
+        "Filtered salt solution",
+        "A uniform sugar solution",
+        "Pure distilled water",
+        "Sand suspended in water"
+      ],
+      "a": 3,
+      "e": "Sand and water form visibly different phases.",
+      "d": "Medium",
+      "topic": "Mixtures",
+      "slo": "Differentiate elements, compounds and mixtures"
+    },
+    {
+      "id": "CHEM9CH2-021",
+      "q": "In a sugar solution, what is the solute?",
+      "o": [
+        "Glass container",
+        "Water",
+        "Sugar",
+        "Air above the solution"
+      ],
+      "a": 2,
+      "e": "The solute is the substance dissolved in the solvent.",
+      "d": "Easy",
+      "topic": "Solutions",
+      "slo": "Describe solutions, solutes and solvents"
+    },
+    {
+      "id": "CHEM9CH2-022",
+      "q": "In an aqueous copper sulfate solution, what is the solvent?",
+      "o": [
+        "Copper sulfate",
+        "Water",
+        "Copper metal",
+        "Sulfur dioxide"
+      ],
+      "a": 1,
+      "e": "Aqueous means water is the solvent.",
+      "d": "Easy",
+      "topic": "Solutions",
+      "slo": "Describe solutions, solutes and solvents"
+    },
+    {
+      "id": "CHEM9CH2-023",
+      "q": "Which statement best defines a solution?",
+      "o": [
+        "A mixture that always settles",
+        "A suspension of visible solid particles",
+        "A pure chemical element",
+        "A homogeneous mixture of solute and solvent"
+      ],
+      "a": 3,
+      "e": "A solution is homogeneous on the particle scale.",
+      "d": "Easy",
+      "topic": "Solutions",
+      "slo": "Describe solutions, solutes and solvents"
+    },
+    {
+      "id": "CHEM9CH2-024",
+      "q": "Which mixture is most likely a true solution?",
+      "o": [
+        "Chalk powder in water",
+        "Coarse sand in water",
+        "Muddy water",
+        "Sugar completely dissolved in water"
+      ],
+      "a": 3,
+      "e": "Dissolved sugar forms a uniform mixture.",
+      "d": "Medium",
+      "topic": "Solutions",
+      "slo": "Describe solutions, solutes and solvents"
+    },
+    {
+      "id": "CHEM9CH2-025",
+      "q": "Which is an example of a gaseous solution?",
+      "o": [
+        "Muddy water",
+        "Air",
+        "Milk",
+        "Sand and iron filings"
+      ],
+      "a": 1,
+      "e": "Air is a homogeneous mixture of gases.",
+      "d": "Medium",
+      "topic": "Solutions",
+      "slo": "Describe solutions, solutes and solvents"
+    },
+    {
+      "id": "CHEM9CH2-026",
+      "q": "A solution contains 5 g salt and 95 g water. What is its mass percentage of salt?",
+      "o": [
+        "95%",
+        "19%",
+        "0.5%",
+        "5%"
+      ],
+      "a": 3,
+      "e": "Mass percentage = (5/100) x 100 = 5%.",
+      "d": "Medium",
+      "topic": "Solutions",
+      "slo": "Describe solutions, solutes and solvents"
+    },
+    {
+      "id": "CHEM9CH2-027",
+      "q": "A solution contains 12 g solute and 88 g solvent. What is the mass of solution?",
+      "o": [
+        "88 g",
+        "12 g",
+        "100 g",
+        "76 g"
+      ],
+      "a": 2,
+      "e": "Mass of solution is the sum of solute and solvent masses.",
+      "d": "Easy",
+      "topic": "Solutions",
+      "slo": "Describe solutions, solutes and solvents"
+    },
+    {
+      "id": "CHEM9CH2-028",
+      "q": "What does a saturated solution contain at a given temperature?",
+      "o": [
+        "The maximum amount of dissolved solute at equilibrium",
+        "Only undissolved particles",
+        "An unlimited amount of solute",
+        "No dissolved solute"
+      ],
+      "a": 0,
+      "e": "At saturation, dissolution and crystallization are balanced.",
+      "d": "Medium",
+      "topic": "Solubility",
+      "slo": "Explain solubility and factors affecting dissolving"
+    },
+    {
+      "id": "CHEM9CH2-029",
+      "q": "Which solution can dissolve more solute at the same temperature?",
+      "o": [
+        "A solution with excess solid at equilibrium",
+        "Saturated solution at equilibrium",
+        "A solution that has reached its solubility limit",
+        "Unsaturated solution"
+      ],
+      "a": 3,
+      "e": "An unsaturated solution is below the solubility limit.",
+      "d": "Medium",
+      "topic": "Solubility",
+      "slo": "Explain solubility and factors affecting dissolving"
+    },
+    {
+      "id": "CHEM9CH2-030",
+      "q": "What does solubility usually specify?",
+      "o": [
+        "Maximum solute that dissolves in a given amount of solvent at a stated temperature",
+        "Only the speed of stirring",
+        "Only the color of solute",
+        "The density of the beaker"
+      ],
+      "a": 0,
+      "e": "Solubility depends on the solute, solvent and conditions.",
+      "d": "Medium",
+      "topic": "Solubility",
+      "slo": "Explain solubility and factors affecting dissolving"
+    },
+    {
+      "id": "CHEM9CH2-031",
+      "q": "For many solid solutes in water, increasing temperature generally does what?",
+      "o": [
+        "Converts water into an element",
+        "Always decreases solubility to zero",
+        "Increases solubility",
+        "Makes all solids insoluble"
+      ],
+      "a": 2,
+      "e": "Many, though not all, solids become more soluble as temperature rises.",
+      "d": "Medium",
+      "topic": "Solubility",
+      "slo": "Explain solubility and factors affecting dissolving"
+    },
+    {
+      "id": "CHEM9CH2-032",
+      "q": "How does higher pressure usually affect the solubility of a gas in a liquid?",
+      "o": [
+        "It has exactly the same effect as filtration",
+        "It increases gas solubility",
+        "It makes the gas a solid",
+        "It always eliminates dissolution"
+      ],
+      "a": 1,
+      "e": "At fixed temperature, gas solubility generally increases with gas pressure.",
+      "d": "Medium",
+      "topic": "Solubility",
+      "slo": "Explain solubility and factors affecting dissolving"
+    },
+    {
+      "id": "CHEM9CH2-033",
+      "q": "Why does a fizzy drink lose bubbles when opened?",
+      "o": [
+        "Water becomes an element",
+        "Sugar decomposes into oxygen",
+        "The bottle turns into a solvent",
+        "Lower pressure reduces dissolved carbon dioxide solubility"
+      ],
+      "a": 3,
+      "e": "The released pressure allows dissolved carbon dioxide to escape.",
+      "d": "Medium",
+      "topic": "Solubility",
+      "slo": "Explain solubility and factors affecting dissolving"
+    },
+    {
+      "id": "CHEM9CH2-034",
+      "q": "What is the main effect of stirring sugar in water?",
+      "o": [
+        "It increases the rate of dissolving",
+        "It always changes equilibrium solubility",
+        "It changes sugar into a new element",
+        "It makes water chemically react with glass"
+      ],
+      "a": 0,
+      "e": "Stirring brings fresh solvent into contact with sugar.",
+      "d": "Medium",
+      "topic": "Dissolving rate",
+      "slo": "Explain solubility and factors affecting dissolving"
+    },
+    {
+      "id": "CHEM9CH2-035",
+      "q": "Why does powdered sugar dissolve faster than a sugar cube of equal mass?",
+      "o": [
+        "It is always more soluble at equilibrium",
+        "It has a larger exposed surface area",
+        "It has a different chemical formula",
+        "It contains no particles"
+      ],
+      "a": 1,
+      "e": "Greater surface area allows faster contact with solvent.",
+      "d": "Medium",
+      "topic": "Dissolving rate",
+      "slo": "Explain solubility and factors affecting dissolving"
+    },
+    {
+      "id": "CHEM9CH2-036",
+      "q": "Which is a familiar example of a colloid?",
+      "o": [
+        "Pure distilled water",
+        "A single copper crystal",
+        "Milk",
+        "Pure oxygen"
+      ],
+      "a": 2,
+      "e": "Milk is an emulsion of dispersed droplets in liquid.",
+      "d": "Medium",
+      "topic": "Colloids",
+      "slo": "Distinguish solutions, colloids and suspensions"
+    },
+    {
+      "id": "CHEM9CH2-037",
+      "q": "Which mixture is most likely to settle on standing?",
+      "o": [
+        "Sugar solution",
+        "Chalk powder in water",
+        "Filtered vinegar",
+        "Salt solution"
+      ],
+      "a": 1,
+      "e": "Suspended chalk particles can settle under gravity.",
+      "d": "Medium",
+      "topic": "Suspensions",
+      "slo": "Distinguish solutions, colloids and suspensions"
+    },
+    {
+      "id": "CHEM9CH2-038",
+      "q": "What is the Tyndall effect?",
+      "o": [
+        "Change of liquid to gas",
+        "Scattering of light by dispersed particles",
+        "Formation of an ionic bond",
+        "Attraction of iron by a magnet"
+      ],
+      "a": 1,
+      "e": "Colloidal particles can scatter a light beam.",
+      "d": "Medium",
+      "topic": "Colloids",
+      "slo": "Distinguish solutions, colloids and suspensions"
+    },
+    {
+      "id": "CHEM9CH2-039",
+      "q": "Why does a true solution normally not show a visible Tyndall beam?",
+      "o": [
+        "All solutes absorb all light",
+        "It has no particles at all",
+        "Its solvent is always opaque",
+        "Its dissolved particles are too small to scatter enough visible light"
+      ],
+      "a": 3,
+      "e": "Molecules and ions in true solutions do not produce a conspicuous Tyndall effect.",
+      "d": "Medium",
+      "topic": "Solutions",
+      "slo": "Distinguish solutions, colloids and suspensions"
+    },
+    {
+      "id": "CHEM9CH2-040",
+      "q": "Which method most readily removes coarse insoluble particles from water?",
+      "o": [
+        "Evaporation of all water only",
+        "Filtration",
+        "Adding more salt",
+        "Heating without separation"
+      ],
+      "a": 1,
+      "e": "Filter paper traps coarse suspended solids.",
+      "d": "Medium",
+      "topic": "Suspensions",
+      "slo": "Distinguish solutions, colloids and suspensions"
+    },
+    {
+      "id": "CHEM9CH2-041",
+      "q": "Which property helps distinguish a colloid from a coarse suspension?",
+      "o": [
+        "Colloidal particles generally do not settle quickly under gravity",
+        "Suspensions are always pure substances",
+        "Colloids contain no dispersed phase",
+        "Colloids always have fixed chemical formulas"
+      ],
+      "a": 0,
+      "e": "Colloidal particles remain dispersed much longer than coarse particles.",
+      "d": "Medium",
+      "topic": "Colloids",
+      "slo": "Distinguish solutions, colloids and suspensions"
+    },
+    {
+      "id": "CHEM9CH2-042",
+      "q": "Which mixture can usually be separated into oil and water layers using a separating funnel?",
+      "o": [
+        "A clear sugar solution",
+        "An oil-water mixture",
+        "Pure water",
+        "An aqueous salt solution"
+      ],
+      "a": 1,
+      "e": "Immiscible liquids form layers that can be drained separately.",
+      "d": "Medium",
+      "topic": "Mixtures",
+      "slo": "Differentiate elements, compounds and mixtures"
+    },
+    {
+      "id": "CHEM9CH2-043",
+      "q": "Which technique is suitable for recovering dissolved salt from saltwater?",
+      "o": [
+        "Evaporation",
+        "Simple filtration alone",
+        "Magnetic separation",
+        "Sieving"
+      ],
+      "a": 0,
+      "e": "Evaporating water leaves dissolved salt behind.",
+      "d": "Medium",
+      "topic": "Mixtures",
+      "slo": "Differentiate elements, compounds and mixtures"
+    },
+    {
+      "id": "CHEM9CH2-044",
+      "q": "Which statement correctly compares water with a hydrogen-oxygen mixture?",
+      "o": [
+        "Water has variable H:O atom ratio",
+        "Water is a physical mixture of gases",
+        "Water can be separated into hydrogen and oxygen by simple filtration",
+        "Water has properties different from its constituent elements"
+      ],
+      "a": 3,
+      "e": "Chemical combination produces a compound with new properties.",
+      "d": "Medium",
+      "topic": "Compounds",
+      "slo": "Differentiate elements, compounds and mixtures"
+    },
+    {
+      "id": "CHEM9CH2-045",
+      "q": "Which sample is a pure substance?",
+      "o": [
+        "Distilled water",
+        "Air",
+        "Milk",
+        "Seawater"
+      ],
+      "a": 0,
+      "e": "Pure distilled water is composed of H2O molecules.",
+      "d": "Medium",
+      "topic": "Classification of matter",
+      "slo": "Differentiate elements, compounds and mixtures"
+    },
+    {
+      "id": "CHEM9CH2-046",
+      "q": "What happens to particle motion when a substance is heated, on average?",
+      "o": [
+        "All particles stop moving",
+        "All substances instantly become plasma",
+        "Particle masses increase",
+        "Particles gain kinetic energy"
+      ],
+      "a": 3,
+      "e": "Higher temperature generally corresponds to greater average particle kinetic energy.",
+      "d": "Medium",
+      "topic": "States of matter",
+      "slo": "Classify matter and distinguish its physical states"
+    },
+    {
+      "id": "CHEM9CH2-047",
+      "q": "Why does a liquid flow while a solid keeps its shape?",
+      "o": [
+        "Liquid particles can move past one another",
+        "Solid particles have no kinetic energy",
+        "Liquid particles have no attraction",
+        "Liquid particles are always larger"
+      ],
+      "a": 0,
+      "e": "Particles in a liquid can rearrange relative to one another.",
+      "d": "Medium",
+      "topic": "States of matter",
+      "slo": "Classify matter and distinguish its physical states"
+    },
+    {
+      "id": "CHEM9CH2-048",
+      "q": "Which statement about an aqueous solution is correct?",
+      "o": [
+        "The solvent is water",
+        "It cannot contain ions",
+        "The solute must be water",
+        "It must be a suspension"
+      ],
+      "a": 0,
+      "e": "The term aqueous identifies water as the solvent.",
+      "d": "Medium",
+      "topic": "Solutions",
+      "slo": "Describe solutions, solutes and solvents"
+    },
+    {
+      "id": "CHEM9CH2-049",
+      "q": "If 20 g of a solid dissolve in 100 g water at a certain temperature and the solution is saturated, what is the solubility in g per 100 g water?",
+      "o": [
+        "5 g",
+        "20 g",
+        "120 g",
+        "80 g"
+      ],
+      "a": 1,
+      "e": "The solubility is the mass of solute in 100 g solvent at saturation.",
+      "d": "Medium",
+      "topic": "Solubility",
+      "slo": "Explain solubility and factors affecting dissolving"
+    },
+    {
+      "id": "CHEM9CH2-050",
+      "q": "Why is a hot saturated solution sometimes able to deposit crystals on cooling?",
+      "o": [
+        "All solutions become gases on cooling",
+        "Cooling destroys the solvent",
+        "The solute turns into a different element",
+        "The solubility of the dissolved solid decreases as temperature falls"
+      ],
+      "a": 3,
+      "e": "When solubility falls, excess dissolved solute may crystallize.",
+      "d": "Medium",
+      "topic": "Solubility",
+      "slo": "Explain solubility and factors affecting dissolving"
+    },
+    {
+      "id": "CHEM9CH2-051",
+      "q": "Which phase change takes matter directly from solid to liquid?",
+      "o": [
+        "Melting",
+        "Freezing",
+        "Vaporization",
+        "Condensation"
+      ],
+      "a": 0,
+      "e": "Melting is the direct solid-to-liquid change.",
+      "d": "Easy",
+      "topic": "Changes of state",
+      "slo": "Classify states of matter and explain phase transitions"
+    },
+    {
+      "id": "CHEM9CH2-052",
+      "q": "When water changes directly from solid to liquid, which process is occurring?",
+      "o": [
+        "Deposition",
+        "Freezing",
+        "Sublimation",
+        "Melting"
+      ],
+      "a": 3,
+      "e": "The solid-to-liquid transition is melting.",
+      "d": "Medium",
+      "topic": "Changes of state",
+      "slo": "Classify states of matter and explain phase transitions"
+    },
+    {
+      "id": "CHEM9CH2-053",
+      "q": "When a pure substance changes directly from solid to liquid, which process is occurring?",
+      "o": [
+        "Sublimation",
+        "Melting",
+        "Deposition",
+        "Freezing"
+      ],
+      "a": 1,
+      "e": "The solid-to-liquid transition is melting.",
+      "d": "Medium",
+      "topic": "Changes of state",
+      "slo": "Classify states of matter and explain phase transitions"
+    },
+    {
+      "id": "CHEM9CH2-054",
+      "q": "When a sample of matter changes directly from solid to liquid, which process is occurring?",
+      "o": [
+        "Vaporization",
+        "Melting",
+        "Deposition",
+        "Condensation"
+      ],
+      "a": 1,
+      "e": "The solid-to-liquid transition is melting.",
+      "d": "Medium",
+      "topic": "Changes of state",
+      "slo": "Classify states of matter and explain phase transitions"
+    },
+    {
+      "id": "CHEM9CH2-055",
+      "q": "When a laboratory sample changes directly from solid to liquid, which process is occurring?",
+      "o": [
+        "Sublimation",
+        "Vaporization",
+        "Freezing",
+        "Melting"
+      ],
+      "a": 3,
+      "e": "The solid-to-liquid transition is melting.",
+      "d": "Medium",
+      "topic": "Changes of state",
+      "slo": "Classify states of matter and explain phase transitions"
+    },
+    {
+      "id": "CHEM9CH2-056",
+      "q": "Which phase change takes matter directly from liquid to solid?",
+      "o": [
+        "Vaporization",
+        "Melting",
+        "Freezing",
+        "Condensation"
+      ],
+      "a": 2,
+      "e": "Freezing is the direct liquid-to-solid change.",
+      "d": "Easy",
+      "topic": "Changes of state",
+      "slo": "Classify states of matter and explain phase transitions"
+    },
+    {
+      "id": "CHEM9CH2-057",
+      "q": "When water changes directly from liquid to solid, which process is occurring?",
+      "o": [
+        "Melting",
+        "Deposition",
+        "Freezing",
+        "Vaporization"
+      ],
+      "a": 2,
+      "e": "The liquid-to-solid transition is freezing.",
+      "d": "Medium",
+      "topic": "Changes of state",
+      "slo": "Classify states of matter and explain phase transitions"
+    },
+    {
+      "id": "CHEM9CH2-058",
+      "q": "When a pure substance changes directly from liquid to solid, which process is occurring?",
+      "o": [
+        "Freezing",
+        "Vaporization",
+        "Sublimation",
+        "Melting"
+      ],
+      "a": 0,
+      "e": "The liquid-to-solid transition is freezing.",
+      "d": "Medium",
+      "topic": "Changes of state",
+      "slo": "Classify states of matter and explain phase transitions"
+    },
+    {
+      "id": "CHEM9CH2-059",
+      "q": "When a sample of matter changes directly from liquid to solid, which process is occurring?",
+      "o": [
+        "Deposition",
+        "Melting",
+        "Freezing",
+        "Vaporization"
+      ],
+      "a": 2,
+      "e": "The liquid-to-solid transition is freezing.",
+      "d": "Medium",
+      "topic": "Changes of state",
+      "slo": "Classify states of matter and explain phase transitions"
+    },
+    {
+      "id": "CHEM9CH2-060",
+      "q": "When a laboratory sample changes directly from liquid to solid, which process is occurring?",
+      "o": [
+        "Melting",
+        "Freezing",
+        "Condensation",
+        "Sublimation"
+      ],
+      "a": 1,
+      "e": "The liquid-to-solid transition is freezing.",
+      "d": "Medium",
+      "topic": "Changes of state",
+      "slo": "Classify states of matter and explain phase transitions"
+    },
+    {
+      "id": "CHEM9CH2-061",
+      "q": "Which phase change takes matter directly from liquid to gas?",
+      "o": [
+        "Condensation",
+        "Vaporization",
+        "Melting",
+        "Freezing"
+      ],
+      "a": 1,
+      "e": "Vaporization is the direct liquid-to-gas change.",
+      "d": "Easy",
+      "topic": "Changes of state",
+      "slo": "Classify states of matter and explain phase transitions"
+    },
+    {
+      "id": "CHEM9CH2-062",
+      "q": "When water changes directly from liquid to gas, which process is occurring?",
+      "o": [
+        "Condensation",
+        "Freezing",
+        "Vaporization",
+        "Deposition"
+      ],
+      "a": 2,
+      "e": "The liquid-to-gas transition is vaporization.",
+      "d": "Medium",
+      "topic": "Changes of state",
+      "slo": "Classify states of matter and explain phase transitions"
+    },
+    {
+      "id": "CHEM9CH2-063",
+      "q": "When a pure substance changes directly from liquid to gas, which process is occurring?",
+      "o": [
+        "Melting",
+        "Condensation",
+        "Sublimation",
+        "Vaporization"
+      ],
+      "a": 3,
+      "e": "The liquid-to-gas transition is vaporization.",
+      "d": "Medium",
+      "topic": "Changes of state",
+      "slo": "Classify states of matter and explain phase transitions"
+    },
+    {
+      "id": "CHEM9CH2-064",
+      "q": "When a sample of matter changes directly from liquid to gas, which process is occurring?",
+      "o": [
+        "Vaporization",
+        "Deposition",
+        "Melting",
+        "Sublimation"
+      ],
+      "a": 0,
+      "e": "The liquid-to-gas transition is vaporization.",
+      "d": "Medium",
+      "topic": "Changes of state",
+      "slo": "Classify states of matter and explain phase transitions"
+    },
+    {
+      "id": "CHEM9CH2-065",
+      "q": "When a laboratory sample changes directly from liquid to gas, which process is occurring?",
+      "o": [
+        "Sublimation",
+        "Melting",
+        "Deposition",
+        "Vaporization"
+      ],
+      "a": 3,
+      "e": "The liquid-to-gas transition is vaporization.",
+      "d": "Medium",
+      "topic": "Changes of state",
+      "slo": "Classify states of matter and explain phase transitions"
+    },
+    {
+      "id": "CHEM9CH2-066",
+      "q": "Which phase change takes matter directly from gas to liquid?",
+      "o": [
+        "Vaporization",
+        "Condensation",
+        "Freezing",
+        "Melting"
+      ],
+      "a": 1,
+      "e": "Condensation is the direct gas-to-liquid change.",
+      "d": "Easy",
+      "topic": "Changes of state",
+      "slo": "Classify states of matter and explain phase transitions"
+    },
+    {
+      "id": "CHEM9CH2-067",
+      "q": "When water changes directly from gas to liquid, which process is occurring?",
+      "o": [
+        "Vaporization",
+        "Freezing",
+        "Condensation",
+        "Sublimation"
+      ],
+      "a": 2,
+      "e": "The gas-to-liquid transition is condensation.",
+      "d": "Medium",
+      "topic": "Changes of state",
+      "slo": "Classify states of matter and explain phase transitions"
+    },
+    {
+      "id": "CHEM9CH2-068",
+      "q": "When a pure substance changes directly from gas to liquid, which process is occurring?",
+      "o": [
+        "Condensation",
+        "Vaporization",
+        "Deposition",
+        "Sublimation"
+      ],
+      "a": 0,
+      "e": "The gas-to-liquid transition is condensation.",
+      "d": "Medium",
+      "topic": "Changes of state",
+      "slo": "Classify states of matter and explain phase transitions"
+    },
+    {
+      "id": "CHEM9CH2-069",
+      "q": "When a sample of matter changes directly from gas to liquid, which process is occurring?",
+      "o": [
+        "Melting",
+        "Condensation",
+        "Deposition",
+        "Vaporization"
+      ],
+      "a": 1,
+      "e": "The gas-to-liquid transition is condensation.",
+      "d": "Medium",
+      "topic": "Changes of state",
+      "slo": "Classify states of matter and explain phase transitions"
+    },
+    {
+      "id": "CHEM9CH2-070",
+      "q": "When a laboratory sample changes directly from gas to liquid, which process is occurring?",
+      "o": [
+        "Melting",
+        "Deposition",
+        "Sublimation",
+        "Condensation"
+      ],
+      "a": 3,
+      "e": "The gas-to-liquid transition is condensation.",
+      "d": "Medium",
+      "topic": "Changes of state",
+      "slo": "Classify states of matter and explain phase transitions"
+    },
+    {
+      "id": "CHEM9CH2-071",
+      "q": "Which phase change takes matter directly from solid to gas?",
+      "o": [
+        "Melting",
+        "Freezing",
+        "Sublimation",
+        "Vaporization"
+      ],
+      "a": 2,
+      "e": "Sublimation is the direct solid-to-gas change.",
+      "d": "Easy",
+      "topic": "Changes of state",
+      "slo": "Classify states of matter and explain phase transitions"
+    },
+    {
+      "id": "CHEM9CH2-072",
+      "q": "When water changes directly from solid to gas, which process is occurring?",
+      "o": [
+        "Freezing",
+        "Sublimation",
+        "Deposition",
+        "Condensation"
+      ],
+      "a": 1,
+      "e": "The solid-to-gas transition is sublimation.",
+      "d": "Medium",
+      "topic": "Changes of state",
+      "slo": "Classify states of matter and explain phase transitions"
+    },
+    {
+      "id": "CHEM9CH2-073",
+      "q": "When a pure substance changes directly from solid to gas, which process is occurring?",
+      "o": [
+        "Freezing",
+        "Sublimation",
+        "Vaporization",
+        "Condensation"
+      ],
+      "a": 1,
+      "e": "The solid-to-gas transition is sublimation.",
+      "d": "Medium",
+      "topic": "Changes of state",
+      "slo": "Classify states of matter and explain phase transitions"
+    },
+    {
+      "id": "CHEM9CH2-074",
+      "q": "When a sample of matter changes directly from solid to gas, which process is occurring?",
+      "o": [
+        "Deposition",
+        "Condensation",
+        "Freezing",
+        "Sublimation"
+      ],
+      "a": 3,
+      "e": "The solid-to-gas transition is sublimation.",
+      "d": "Medium",
+      "topic": "Changes of state",
+      "slo": "Classify states of matter and explain phase transitions"
+    },
+    {
+      "id": "CHEM9CH2-075",
+      "q": "When a laboratory sample changes directly from solid to gas, which process is occurring?",
+      "o": [
+        "Deposition",
+        "Vaporization",
+        "Condensation",
+        "Sublimation"
+      ],
+      "a": 3,
+      "e": "The solid-to-gas transition is sublimation.",
+      "d": "Medium",
+      "topic": "Changes of state",
+      "slo": "Classify states of matter and explain phase transitions"
+    },
+    {
+      "id": "CHEM9CH2-076",
+      "q": "Which phase change takes matter directly from gas to solid?",
+      "o": [
+        "Deposition",
+        "Freezing",
+        "Vaporization",
+        "Melting"
+      ],
+      "a": 0,
+      "e": "Deposition is the direct gas-to-solid change.",
+      "d": "Easy",
+      "topic": "Changes of state",
+      "slo": "Classify states of matter and explain phase transitions"
+    },
+    {
+      "id": "CHEM9CH2-077",
+      "q": "When water changes directly from gas to solid, which process is occurring?",
+      "o": [
+        "Sublimation",
+        "Deposition",
+        "Condensation",
+        "Vaporization"
+      ],
+      "a": 1,
+      "e": "The gas-to-solid transition is deposition.",
+      "d": "Medium",
+      "topic": "Changes of state",
+      "slo": "Classify states of matter and explain phase transitions"
+    },
+    {
+      "id": "CHEM9CH2-078",
+      "q": "When a pure substance changes directly from gas to solid, which process is occurring?",
+      "o": [
+        "Deposition",
+        "Freezing",
+        "Vaporization",
+        "Melting"
+      ],
+      "a": 0,
+      "e": "The gas-to-solid transition is deposition.",
+      "d": "Medium",
+      "topic": "Changes of state",
+      "slo": "Classify states of matter and explain phase transitions"
+    },
+    {
+      "id": "CHEM9CH2-079",
+      "q": "When a sample of matter changes directly from gas to solid, which process is occurring?",
+      "o": [
+        "Deposition",
+        "Sublimation",
+        "Condensation",
+        "Melting"
+      ],
+      "a": 0,
+      "e": "The gas-to-solid transition is deposition.",
+      "d": "Medium",
+      "topic": "Changes of state",
+      "slo": "Classify states of matter and explain phase transitions"
+    },
+    {
+      "id": "CHEM9CH2-080",
+      "q": "When a laboratory sample changes directly from gas to solid, which process is occurring?",
+      "o": [
+        "Melting",
+        "Vaporization",
+        "Deposition",
+        "Sublimation"
+      ],
+      "a": 2,
+      "e": "The gas-to-solid transition is deposition.",
+      "d": "Medium",
+      "topic": "Changes of state",
+      "slo": "Classify states of matter and explain phase transitions"
+    },
+    {
+      "id": "CHEM9CH2-081",
+      "q": "A sample changes from solid to liquid during a heating or cooling experiment. Which pair correctly identifies its initial and final states?",
+      "o": [
+        "Solid -> liquid",
+        "Solid -> solid",
+        "Liquid -> liquid",
+        "Liquid -> solid"
+      ],
+      "a": 0,
+      "e": "The described transition starts as solid and ends as liquid; the substance does not need to change its chemical identity.",
+      "d": "Medium",
+      "topic": "Changes of state",
+      "slo": "Classify states of matter and explain phase transitions"
+    },
+    {
+      "id": "CHEM9CH2-082",
+      "q": "A sample changes from solid to liquid when the surrounding conditions are changed. Which pair correctly identifies its initial and final states?",
+      "o": [
+        "Solid -> solid",
+        "Solid -> liquid",
+        "Liquid -> solid",
+        "Liquid -> liquid"
+      ],
+      "a": 1,
+      "e": "The described transition starts as solid and ends as liquid; the substance does not need to change its chemical identity.",
+      "d": "Medium",
+      "topic": "Changes of state",
+      "slo": "Classify states of matter and explain phase transitions"
+    },
+    {
+      "id": "CHEM9CH2-083",
+      "q": "A sample changes from solid to liquid at the boundary between two phases. Which pair correctly identifies its initial and final states?",
+      "o": [
+        "Solid -> solid",
+        "Solid -> liquid",
+        "Liquid -> solid",
+        "Liquid -> liquid"
+      ],
+      "a": 1,
+      "e": "The described transition starts as solid and ends as liquid; the substance does not need to change its chemical identity.",
+      "d": "Medium",
+      "topic": "Changes of state",
+      "slo": "Classify states of matter and explain phase transitions"
+    },
+    {
+      "id": "CHEM9CH2-084",
+      "q": "A sample changes from solid to liquid without a chemical reaction. Which pair correctly identifies its initial and final states?",
+      "o": [
+        "Liquid -> solid",
+        "Solid -> liquid",
+        "Solid -> solid",
+        "Liquid -> liquid"
+      ],
+      "a": 1,
+      "e": "The described transition starts as solid and ends as liquid; the substance does not need to change its chemical identity.",
+      "d": "Medium",
+      "topic": "Changes of state",
+      "slo": "Classify states of matter and explain phase transitions"
+    },
+    {
+      "id": "CHEM9CH2-085",
+      "q": "A sample changes from liquid to solid during a heating or cooling experiment. Which pair correctly identifies its initial and final states?",
+      "o": [
+        "Solid -> solid",
+        "Solid -> liquid",
+        "Liquid -> solid",
+        "Liquid -> liquid"
+      ],
+      "a": 2,
+      "e": "The described transition starts as liquid and ends as solid; the substance does not need to change its chemical identity.",
+      "d": "Medium",
+      "topic": "Changes of state",
+      "slo": "Classify states of matter and explain phase transitions"
+    },
+    {
+      "id": "CHEM9CH2-086",
+      "q": "A sample changes from liquid to solid when the surrounding conditions are changed. Which pair correctly identifies its initial and final states?",
+      "o": [
+        "Liquid -> liquid",
+        "Solid -> liquid",
+        "Solid -> solid",
+        "Liquid -> solid"
+      ],
+      "a": 3,
+      "e": "The described transition starts as liquid and ends as solid; the substance does not need to change its chemical identity.",
+      "d": "Medium",
+      "topic": "Changes of state",
+      "slo": "Classify states of matter and explain phase transitions"
+    },
+    {
+      "id": "CHEM9CH2-087",
+      "q": "A sample changes from liquid to solid at the boundary between two phases. Which pair correctly identifies its initial and final states?",
+      "o": [
+        "Solid -> liquid",
+        "Solid -> solid",
+        "Liquid -> liquid",
+        "Liquid -> solid"
+      ],
+      "a": 3,
+      "e": "The described transition starts as liquid and ends as solid; the substance does not need to change its chemical identity.",
+      "d": "Medium",
+      "topic": "Changes of state",
+      "slo": "Classify states of matter and explain phase transitions"
+    },
+    {
+      "id": "CHEM9CH2-088",
+      "q": "A sample changes from liquid to solid without a chemical reaction. Which pair correctly identifies its initial and final states?",
+      "o": [
+        "Solid -> solid",
+        "Liquid -> liquid",
+        "Liquid -> solid",
+        "Solid -> liquid"
+      ],
+      "a": 2,
+      "e": "The described transition starts as liquid and ends as solid; the substance does not need to change its chemical identity.",
+      "d": "Medium",
+      "topic": "Changes of state",
+      "slo": "Classify states of matter and explain phase transitions"
+    },
+    {
+      "id": "CHEM9CH2-089",
+      "q": "A sample changes from liquid to gas during a heating or cooling experiment. Which pair correctly identifies its initial and final states?",
+      "o": [
+        "Gas -> liquid",
+        "Liquid -> liquid",
+        "Liquid -> gas",
+        "Gas -> gas"
+      ],
+      "a": 2,
+      "e": "The described transition starts as liquid and ends as gas; the substance does not need to change its chemical identity.",
+      "d": "Medium",
+      "topic": "Changes of state",
+      "slo": "Classify states of matter and explain phase transitions"
+    },
+    {
+      "id": "CHEM9CH2-090",
+      "q": "A sample changes from liquid to gas when the surrounding conditions are changed. Which pair correctly identifies its initial and final states?",
+      "o": [
+        "Gas -> gas",
+        "Liquid -> gas",
+        "Gas -> liquid",
+        "Liquid -> liquid"
+      ],
+      "a": 1,
+      "e": "The described transition starts as liquid and ends as gas; the substance does not need to change its chemical identity.",
+      "d": "Medium",
+      "topic": "Changes of state",
+      "slo": "Classify states of matter and explain phase transitions"
+    },
+    {
+      "id": "CHEM9CH2-091",
+      "q": "A sample changes from liquid to gas at the boundary between two phases. Which pair correctly identifies its initial and final states?",
+      "o": [
+        "Liquid -> gas",
+        "Gas -> gas",
+        "Liquid -> liquid",
+        "Gas -> liquid"
+      ],
+      "a": 0,
+      "e": "The described transition starts as liquid and ends as gas; the substance does not need to change its chemical identity.",
+      "d": "Medium",
+      "topic": "Changes of state",
+      "slo": "Classify states of matter and explain phase transitions"
+    },
+    {
+      "id": "CHEM9CH2-092",
+      "q": "A sample changes from liquid to gas without a chemical reaction. Which pair correctly identifies its initial and final states?",
+      "o": [
+        "Liquid -> liquid",
+        "Gas -> liquid",
+        "Gas -> gas",
+        "Liquid -> gas"
+      ],
+      "a": 3,
+      "e": "The described transition starts as liquid and ends as gas; the substance does not need to change its chemical identity.",
+      "d": "Medium",
+      "topic": "Changes of state",
+      "slo": "Classify states of matter and explain phase transitions"
+    },
+    {
+      "id": "CHEM9CH2-093",
+      "q": "A sample changes from gas to liquid during a heating or cooling experiment. Which pair correctly identifies its initial and final states?",
+      "o": [
+        "Liquid -> gas",
+        "Gas -> liquid",
+        "Liquid -> liquid",
+        "Gas -> gas"
+      ],
+      "a": 1,
+      "e": "The described transition starts as gas and ends as liquid; the substance does not need to change its chemical identity.",
+      "d": "Medium",
+      "topic": "Changes of state",
+      "slo": "Classify states of matter and explain phase transitions"
+    },
+    {
+      "id": "CHEM9CH2-094",
+      "q": "A sample changes from gas to liquid when the surrounding conditions are changed. Which pair correctly identifies its initial and final states?",
+      "o": [
+        "Liquid -> liquid",
+        "Gas -> liquid",
+        "Gas -> gas",
+        "Liquid -> gas"
+      ],
+      "a": 1,
+      "e": "The described transition starts as gas and ends as liquid; the substance does not need to change its chemical identity.",
+      "d": "Medium",
+      "topic": "Changes of state",
+      "slo": "Classify states of matter and explain phase transitions"
+    },
+    {
+      "id": "CHEM9CH2-095",
+      "q": "A sample changes from gas to liquid at the boundary between two phases. Which pair correctly identifies its initial and final states?",
+      "o": [
+        "Gas -> liquid",
+        "Liquid -> liquid",
+        "Liquid -> gas",
+        "Gas -> gas"
+      ],
+      "a": 0,
+      "e": "The described transition starts as gas and ends as liquid; the substance does not need to change its chemical identity.",
+      "d": "Medium",
+      "topic": "Changes of state",
+      "slo": "Classify states of matter and explain phase transitions"
+    },
+    {
+      "id": "CHEM9CH2-096",
+      "q": "A sample changes from gas to liquid without a chemical reaction. Which pair correctly identifies its initial and final states?",
+      "o": [
+        "Liquid -> gas",
+        "Gas -> gas",
+        "Liquid -> liquid",
+        "Gas -> liquid"
+      ],
+      "a": 3,
+      "e": "The described transition starts as gas and ends as liquid; the substance does not need to change its chemical identity.",
+      "d": "Medium",
+      "topic": "Changes of state",
+      "slo": "Classify states of matter and explain phase transitions"
+    },
+    {
+      "id": "CHEM9CH2-097",
+      "q": "A sample changes from solid to gas during a heating or cooling experiment. Which pair correctly identifies its initial and final states?",
+      "o": [
+        "Gas -> solid",
+        "Solid -> solid",
+        "Solid -> gas",
+        "Gas -> gas"
+      ],
+      "a": 2,
+      "e": "The described transition starts as solid and ends as gas; the substance does not need to change its chemical identity.",
+      "d": "Medium",
+      "topic": "Changes of state",
+      "slo": "Classify states of matter and explain phase transitions"
+    },
+    {
+      "id": "CHEM9CH2-098",
+      "q": "A sample changes from solid to gas when the surrounding conditions are changed. Which pair correctly identifies its initial and final states?",
+      "o": [
+        "Solid -> solid",
+        "Solid -> gas",
+        "Gas -> gas",
+        "Gas -> solid"
+      ],
+      "a": 1,
+      "e": "The described transition starts as solid and ends as gas; the substance does not need to change its chemical identity.",
+      "d": "Medium",
+      "topic": "Changes of state",
+      "slo": "Classify states of matter and explain phase transitions"
+    },
+    {
+      "id": "CHEM9CH2-099",
+      "q": "A sample changes from solid to gas at the boundary between two phases. Which pair correctly identifies its initial and final states?",
+      "o": [
+        "Solid -> gas",
+        "Gas -> gas",
+        "Solid -> solid",
+        "Gas -> solid"
+      ],
+      "a": 0,
+      "e": "The described transition starts as solid and ends as gas; the substance does not need to change its chemical identity.",
+      "d": "Medium",
+      "topic": "Changes of state",
+      "slo": "Classify states of matter and explain phase transitions"
+    },
+    {
+      "id": "CHEM9CH2-100",
+      "q": "A sample changes from solid to gas without a chemical reaction. Which pair correctly identifies its initial and final states?",
+      "o": [
+        "Gas -> solid",
+        "Gas -> gas",
+        "Solid -> solid",
+        "Solid -> gas"
+      ],
+      "a": 3,
+      "e": "The described transition starts as solid and ends as gas; the substance does not need to change its chemical identity.",
+      "d": "Medium",
+      "topic": "Changes of state",
+      "slo": "Classify states of matter and explain phase transitions"
+    },
+    {
+      "id": "CHEM9CH2-101",
+      "q": "A sample changes from gas to solid during a heating or cooling experiment. Which pair correctly identifies its initial and final states?",
+      "o": [
+        "Gas -> solid",
+        "Solid -> gas",
+        "Solid -> solid",
+        "Gas -> gas"
+      ],
+      "a": 0,
+      "e": "The described transition starts as gas and ends as solid; the substance does not need to change its chemical identity.",
+      "d": "Medium",
+      "topic": "Changes of state",
+      "slo": "Classify states of matter and explain phase transitions"
+    },
+    {
+      "id": "CHEM9CH2-102",
+      "q": "A sample changes from gas to solid when the surrounding conditions are changed. Which pair correctly identifies its initial and final states?",
+      "o": [
+        "Solid -> gas",
+        "Gas -> solid",
+        "Gas -> gas",
+        "Solid -> solid"
+      ],
+      "a": 1,
+      "e": "The described transition starts as gas and ends as solid; the substance does not need to change its chemical identity.",
+      "d": "Medium",
+      "topic": "Changes of state",
+      "slo": "Classify states of matter and explain phase transitions"
+    },
+    {
+      "id": "CHEM9CH2-103",
+      "q": "A sample changes from gas to solid at the boundary between two phases. Which pair correctly identifies its initial and final states?",
+      "o": [
+        "Gas -> solid",
+        "Gas -> gas",
+        "Solid -> gas",
+        "Solid -> solid"
+      ],
+      "a": 0,
+      "e": "The described transition starts as gas and ends as solid; the substance does not need to change its chemical identity.",
+      "d": "Medium",
+      "topic": "Changes of state",
+      "slo": "Classify states of matter and explain phase transitions"
+    },
+    {
+      "id": "CHEM9CH2-104",
+      "q": "A sample changes from gas to solid without a chemical reaction. Which pair correctly identifies its initial and final states?",
+      "o": [
+        "Solid -> solid",
+        "Gas -> solid",
+        "Gas -> gas",
+        "Solid -> gas"
+      ],
+      "a": 1,
+      "e": "The described transition starts as gas and ends as solid; the substance does not need to change its chemical identity.",
+      "d": "Medium",
+      "topic": "Changes of state",
+      "slo": "Classify states of matter and explain phase transitions"
+    },
+    {
+      "id": "CHEM9CH2-105",
+      "q": "How should a sample of oxygen gas be classified?",
+      "o": [
+        "Element",
+        "Heterogeneous mixture",
+        "Homogeneous mixture",
+        "Compound"
+      ],
+      "a": 0,
+      "e": "Oxygen gas is a element: oxygen atoms form elemental O2.",
+      "d": "Easy",
+      "topic": "Classification of matter",
+      "slo": "Differentiate elements, compounds, homogeneous and heterogeneous mixtures"
+    },
+    {
+      "id": "CHEM9CH2-106",
+      "q": "A student examines oxygen gas. Which description fits its composition?",
+      "o": [
+        "Physically combined substances distributed uniformly",
+        "Only one chemical element",
+        "Elements chemically combined in a fixed ratio",
+        "Physically combined substances in distinguishable phases"
+      ],
+      "a": 1,
+      "e": "This is a element because oxygen atoms form elemental O2.",
+      "d": "Medium",
+      "topic": "Classification of matter",
+      "slo": "Differentiate elements, compounds, homogeneous and heterogeneous mixtures"
+    },
+    {
+      "id": "CHEM9CH2-107",
+      "q": "How should a sample of nitrogen gas be classified?",
+      "o": [
+        "Compound",
+        "Element",
+        "Heterogeneous mixture",
+        "Homogeneous mixture"
+      ],
+      "a": 1,
+      "e": "Nitrogen gas is a element: nitrogen atoms form elemental N2.",
+      "d": "Easy",
+      "topic": "Classification of matter",
+      "slo": "Differentiate elements, compounds, homogeneous and heterogeneous mixtures"
+    },
+    {
+      "id": "CHEM9CH2-108",
+      "q": "A student examines nitrogen gas. Which description fits its composition?",
+      "o": [
+        "Physically combined substances in distinguishable phases",
+        "Elements chemically combined in a fixed ratio",
+        "Physically combined substances distributed uniformly",
+        "Only one chemical element"
+      ],
+      "a": 3,
+      "e": "This is a element because nitrogen atoms form elemental N2.",
+      "d": "Medium",
+      "topic": "Classification of matter",
+      "slo": "Differentiate elements, compounds, homogeneous and heterogeneous mixtures"
+    },
+    {
+      "id": "CHEM9CH2-109",
+      "q": "How should a sample of iron be classified?",
+      "o": [
+        "Heterogeneous mixture",
+        "Element",
+        "Homogeneous mixture",
+        "Compound"
+      ],
+      "a": 1,
+      "e": "Iron is a element: iron consists of Fe atoms.",
+      "d": "Easy",
+      "topic": "Classification of matter",
+      "slo": "Differentiate elements, compounds, homogeneous and heterogeneous mixtures"
+    },
+    {
+      "id": "CHEM9CH2-110",
+      "q": "A student examines iron. Which description fits its composition?",
+      "o": [
+        "Physically combined substances distributed uniformly",
+        "Only one chemical element",
+        "Elements chemically combined in a fixed ratio",
+        "Physically combined substances in distinguishable phases"
+      ],
+      "a": 1,
+      "e": "This is a element because iron consists of Fe atoms.",
+      "d": "Medium",
+      "topic": "Classification of matter",
+      "slo": "Differentiate elements, compounds, homogeneous and heterogeneous mixtures"
+    },
+    {
+      "id": "CHEM9CH2-111",
+      "q": "How should a sample of copper be classified?",
+      "o": [
+        "Element",
+        "Homogeneous mixture",
+        "Compound",
+        "Heterogeneous mixture"
+      ],
+      "a": 0,
+      "e": "Copper is a element: copper consists of Cu atoms.",
+      "d": "Easy",
+      "topic": "Classification of matter",
+      "slo": "Differentiate elements, compounds, homogeneous and heterogeneous mixtures"
+    },
+    {
+      "id": "CHEM9CH2-112",
+      "q": "A student examines copper. Which description fits its composition?",
+      "o": [
+        "Only one chemical element",
+        "Physically combined substances distributed uniformly",
+        "Physically combined substances in distinguishable phases",
+        "Elements chemically combined in a fixed ratio"
+      ],
+      "a": 0,
+      "e": "This is a element because copper consists of Cu atoms.",
+      "d": "Medium",
+      "topic": "Classification of matter",
+      "slo": "Differentiate elements, compounds, homogeneous and heterogeneous mixtures"
+    },
+    {
+      "id": "CHEM9CH2-113",
+      "q": "How should a sample of gold be classified?",
+      "o": [
+        "Homogeneous mixture",
+        "Element",
+        "Compound",
+        "Heterogeneous mixture"
+      ],
+      "a": 1,
+      "e": "Gold is a element: gold consists of Au atoms.",
+      "d": "Easy",
+      "topic": "Classification of matter",
+      "slo": "Differentiate elements, compounds, homogeneous and heterogeneous mixtures"
+    },
+    {
+      "id": "CHEM9CH2-114",
+      "q": "A student examines gold. Which description fits its composition?",
+      "o": [
+        "Elements chemically combined in a fixed ratio",
+        "Physically combined substances in distinguishable phases",
+        "Only one chemical element",
+        "Physically combined substances distributed uniformly"
+      ],
+      "a": 2,
+      "e": "This is a element because gold consists of Au atoms.",
+      "d": "Medium",
+      "topic": "Classification of matter",
+      "slo": "Differentiate elements, compounds, homogeneous and heterogeneous mixtures"
+    },
+    {
+      "id": "CHEM9CH2-115",
+      "q": "How should a sample of aluminium be classified?",
+      "o": [
+        "Element",
+        "Compound",
+        "Heterogeneous mixture",
+        "Homogeneous mixture"
+      ],
+      "a": 0,
+      "e": "Aluminium is a element: aluminium consists of Al atoms.",
+      "d": "Easy",
+      "topic": "Classification of matter",
+      "slo": "Differentiate elements, compounds, homogeneous and heterogeneous mixtures"
+    },
+    {
+      "id": "CHEM9CH2-116",
+      "q": "A student examines aluminium. Which description fits its composition?",
+      "o": [
+        "Only one chemical element",
+        "Physically combined substances distributed uniformly",
+        "Physically combined substances in distinguishable phases",
+        "Elements chemically combined in a fixed ratio"
+      ],
+      "a": 0,
+      "e": "This is a element because aluminium consists of Al atoms.",
+      "d": "Medium",
+      "topic": "Classification of matter",
+      "slo": "Differentiate elements, compounds, homogeneous and heterogeneous mixtures"
+    },
+    {
+      "id": "CHEM9CH2-117",
+      "q": "How should a sample of sulfur be classified?",
+      "o": [
+        "Compound",
+        "Heterogeneous mixture",
+        "Homogeneous mixture",
+        "Element"
+      ],
+      "a": 3,
+      "e": "Sulfur is a element: sulfur is an elemental substance.",
+      "d": "Easy",
+      "topic": "Classification of matter",
+      "slo": "Differentiate elements, compounds, homogeneous and heterogeneous mixtures"
+    },
+    {
+      "id": "CHEM9CH2-118",
+      "q": "A student examines sulfur. Which description fits its composition?",
+      "o": [
+        "Physically combined substances in distinguishable phases",
+        "Only one chemical element",
+        "Elements chemically combined in a fixed ratio",
+        "Physically combined substances distributed uniformly"
+      ],
+      "a": 1,
+      "e": "This is a element because sulfur is an elemental substance.",
+      "d": "Medium",
+      "topic": "Classification of matter",
+      "slo": "Differentiate elements, compounds, homogeneous and heterogeneous mixtures"
+    },
+    {
+      "id": "CHEM9CH2-119",
+      "q": "How should a sample of carbon (diamond) be classified?",
+      "o": [
+        "Heterogeneous mixture",
+        "Compound",
+        "Homogeneous mixture",
+        "Element"
+      ],
+      "a": 3,
+      "e": "Carbon (diamond) is a element: diamond contains only carbon atoms.",
+      "d": "Easy",
+      "topic": "Classification of matter",
+      "slo": "Differentiate elements, compounds, homogeneous and heterogeneous mixtures"
+    },
+    {
+      "id": "CHEM9CH2-120",
+      "q": "A student examines carbon (diamond). Which description fits its composition?",
+      "o": [
+        "Elements chemically combined in a fixed ratio",
+        "Physically combined substances distributed uniformly",
+        "Only one chemical element",
+        "Physically combined substances in distinguishable phases"
+      ],
+      "a": 2,
+      "e": "This is a element because diamond contains only carbon atoms.",
+      "d": "Medium",
+      "topic": "Classification of matter",
+      "slo": "Differentiate elements, compounds, homogeneous and heterogeneous mixtures"
+    },
+    {
+      "id": "CHEM9CH2-121",
+      "q": "How should a sample of pure water be classified?",
+      "o": [
+        "Heterogeneous mixture",
+        "Compound",
+        "Element",
+        "Homogeneous mixture"
+      ],
+      "a": 1,
+      "e": "Pure water is a compound: water is H2O with chemically combined elements.",
+      "d": "Easy",
+      "topic": "Classification of matter",
+      "slo": "Differentiate elements, compounds, homogeneous and heterogeneous mixtures"
+    },
+    {
+      "id": "CHEM9CH2-122",
+      "q": "A student examines pure water. Which description fits its composition?",
+      "o": [
+        "Elements chemically combined in a fixed ratio",
+        "Physically combined substances in distinguishable phases",
+        "Only one chemical element",
+        "Physically combined substances distributed uniformly"
+      ],
+      "a": 0,
+      "e": "This is a compound because water is H2O with chemically combined elements.",
+      "d": "Medium",
+      "topic": "Classification of matter",
+      "slo": "Differentiate elements, compounds, homogeneous and heterogeneous mixtures"
+    },
+    {
+      "id": "CHEM9CH2-123",
+      "q": "How should a sample of carbon dioxide be classified?",
+      "o": [
+        "Homogeneous mixture",
+        "Compound",
+        "Heterogeneous mixture",
+        "Element"
+      ],
+      "a": 1,
+      "e": "Carbon dioxide is a compound: carbon dioxide is CO2.",
+      "d": "Easy",
+      "topic": "Classification of matter",
+      "slo": "Differentiate elements, compounds, homogeneous and heterogeneous mixtures"
+    },
+    {
+      "id": "CHEM9CH2-124",
+      "q": "A student examines carbon dioxide. Which description fits its composition?",
+      "o": [
+        "Elements chemically combined in a fixed ratio",
+        "Physically combined substances distributed uniformly",
+        "Only one chemical element",
+        "Physically combined substances in distinguishable phases"
+      ],
+      "a": 0,
+      "e": "This is a compound because carbon dioxide is CO2.",
+      "d": "Medium",
+      "topic": "Classification of matter",
+      "slo": "Differentiate elements, compounds, homogeneous and heterogeneous mixtures"
+    },
+    {
+      "id": "CHEM9CH2-125",
+      "q": "How should a sample of sodium chloride be classified?",
+      "o": [
+        "Homogeneous mixture",
+        "Element",
+        "Compound",
+        "Heterogeneous mixture"
+      ],
+      "a": 2,
+      "e": "Sodium chloride is a compound: sodium chloride contains sodium and chloride ions in a fixed ratio.",
+      "d": "Easy",
+      "topic": "Classification of matter",
+      "slo": "Differentiate elements, compounds, homogeneous and heterogeneous mixtures"
+    },
+    {
+      "id": "CHEM9CH2-126",
+      "q": "A student examines sodium chloride. Which description fits its composition?",
+      "o": [
+        "Physically combined substances distributed uniformly",
+        "Physically combined substances in distinguishable phases",
+        "Only one chemical element",
+        "Elements chemically combined in a fixed ratio"
+      ],
+      "a": 3,
+      "e": "This is a compound because sodium chloride contains sodium and chloride ions in a fixed ratio.",
+      "d": "Medium",
+      "topic": "Classification of matter",
+      "slo": "Differentiate elements, compounds, homogeneous and heterogeneous mixtures"
+    },
+    {
+      "id": "CHEM9CH2-127",
+      "q": "How should a sample of ammonia be classified?",
+      "o": [
+        "Homogeneous mixture",
+        "Compound",
+        "Element",
+        "Heterogeneous mixture"
+      ],
+      "a": 1,
+      "e": "Ammonia is a compound: ammonia is NH3.",
+      "d": "Easy",
+      "topic": "Classification of matter",
+      "slo": "Differentiate elements, compounds, homogeneous and heterogeneous mixtures"
+    },
+    {
+      "id": "CHEM9CH2-128",
+      "q": "A student examines ammonia. Which description fits its composition?",
+      "o": [
+        "Only one chemical element",
+        "Physically combined substances distributed uniformly",
+        "Elements chemically combined in a fixed ratio",
+        "Physically combined substances in distinguishable phases"
+      ],
+      "a": 2,
+      "e": "This is a compound because ammonia is NH3.",
+      "d": "Medium",
+      "topic": "Classification of matter",
+      "slo": "Differentiate elements, compounds, homogeneous and heterogeneous mixtures"
+    },
+    {
+      "id": "CHEM9CH2-129",
+      "q": "How should a sample of calcium carbonate be classified?",
+      "o": [
+        "Homogeneous mixture",
+        "Element",
+        "Compound",
+        "Heterogeneous mixture"
+      ],
+      "a": 2,
+      "e": "Calcium carbonate is a compound: calcium carbonate is CaCO3.",
+      "d": "Easy",
+      "topic": "Classification of matter",
+      "slo": "Differentiate elements, compounds, homogeneous and heterogeneous mixtures"
+    },
+    {
+      "id": "CHEM9CH2-130",
+      "q": "A student examines calcium carbonate. Which description fits its composition?",
+      "o": [
+        "Elements chemically combined in a fixed ratio",
+        "Only one chemical element",
+        "Physically combined substances distributed uniformly",
+        "Physically combined substances in distinguishable phases"
+      ],
+      "a": 0,
+      "e": "This is a compound because calcium carbonate is CaCO3.",
+      "d": "Medium",
+      "topic": "Classification of matter",
+      "slo": "Differentiate elements, compounds, homogeneous and heterogeneous mixtures"
+    },
+    {
+      "id": "CHEM9CH2-131",
+      "q": "How should a sample of methane be classified?",
+      "o": [
+        "Compound",
+        "Homogeneous mixture",
+        "Heterogeneous mixture",
+        "Element"
+      ],
+      "a": 0,
+      "e": "Methane is a compound: methane is CH4.",
+      "d": "Easy",
+      "topic": "Classification of matter",
+      "slo": "Differentiate elements, compounds, homogeneous and heterogeneous mixtures"
+    },
+    {
+      "id": "CHEM9CH2-132",
+      "q": "A student examines methane. Which description fits its composition?",
+      "o": [
+        "Elements chemically combined in a fixed ratio",
+        "Physically combined substances in distinguishable phases",
+        "Only one chemical element",
+        "Physically combined substances distributed uniformly"
+      ],
+      "a": 0,
+      "e": "This is a compound because methane is CH4.",
+      "d": "Medium",
+      "topic": "Classification of matter",
+      "slo": "Differentiate elements, compounds, homogeneous and heterogeneous mixtures"
+    },
+    {
+      "id": "CHEM9CH2-133",
+      "q": "How should a sample of magnesium oxide be classified?",
+      "o": [
+        "Compound",
+        "Element",
+        "Homogeneous mixture",
+        "Heterogeneous mixture"
+      ],
+      "a": 0,
+      "e": "Magnesium oxide is a compound: magnesium oxide is MgO.",
+      "d": "Easy",
+      "topic": "Classification of matter",
+      "slo": "Differentiate elements, compounds, homogeneous and heterogeneous mixtures"
+    },
+    {
+      "id": "CHEM9CH2-134",
+      "q": "A student examines magnesium oxide. Which description fits its composition?",
+      "o": [
+        "Only one chemical element",
+        "Physically combined substances in distinguishable phases",
+        "Elements chemically combined in a fixed ratio",
+        "Physically combined substances distributed uniformly"
+      ],
+      "a": 2,
+      "e": "This is a compound because magnesium oxide is MgO.",
+      "d": "Medium",
+      "topic": "Classification of matter",
+      "slo": "Differentiate elements, compounds, homogeneous and heterogeneous mixtures"
+    },
+    {
+      "id": "CHEM9CH2-135",
+      "q": "How should a sample of sucrose be classified?",
+      "o": [
+        "Compound",
+        "Element",
+        "Homogeneous mixture",
+        "Heterogeneous mixture"
+      ],
+      "a": 0,
+      "e": "Sucrose is a compound: sucrose has a fixed molecular formula.",
+      "d": "Easy",
+      "topic": "Classification of matter",
+      "slo": "Differentiate elements, compounds, homogeneous and heterogeneous mixtures"
+    },
+    {
+      "id": "CHEM9CH2-136",
+      "q": "A student examines sucrose. Which description fits its composition?",
+      "o": [
+        "Physically combined substances in distinguishable phases",
+        "Physically combined substances distributed uniformly",
+        "Only one chemical element",
+        "Elements chemically combined in a fixed ratio"
+      ],
+      "a": 3,
+      "e": "This is a compound because sucrose has a fixed molecular formula.",
+      "d": "Medium",
+      "topic": "Classification of matter",
+      "slo": "Differentiate elements, compounds, homogeneous and heterogeneous mixtures"
+    },
+    {
+      "id": "CHEM9CH2-137",
+      "q": "How should a sample of air be classified?",
+      "o": [
+        "Element",
+        "Heterogeneous mixture",
+        "Compound",
+        "Homogeneous mixture"
+      ],
+      "a": 3,
+      "e": "Air is a homogeneous mixture: air contains gases mixed uniformly.",
+      "d": "Easy",
+      "topic": "Classification of matter",
+      "slo": "Differentiate elements, compounds, homogeneous and heterogeneous mixtures"
+    },
+    {
+      "id": "CHEM9CH2-138",
+      "q": "A student examines air. Which description fits its composition?",
+      "o": [
+        "Elements chemically combined in a fixed ratio",
+        "Only one chemical element",
+        "Physically combined substances distributed uniformly",
+        "Physically combined substances in distinguishable phases"
+      ],
+      "a": 2,
+      "e": "This is a homogeneous mixture because air contains gases mixed uniformly.",
+      "d": "Medium",
+      "topic": "Classification of matter",
+      "slo": "Differentiate elements, compounds, homogeneous and heterogeneous mixtures"
+    },
+    {
+      "id": "CHEM9CH2-139",
+      "q": "How should a sample of salt dissolved completely in water be classified?",
+      "o": [
+        "Compound",
+        "Element",
+        "Homogeneous mixture",
+        "Heterogeneous mixture"
+      ],
+      "a": 2,
+      "e": "Salt dissolved completely in water is a homogeneous mixture: the dissolved salt is uniformly distributed.",
+      "d": "Easy",
+      "topic": "Classification of matter",
+      "slo": "Differentiate elements, compounds, homogeneous and heterogeneous mixtures"
+    },
+    {
+      "id": "CHEM9CH2-140",
+      "q": "A student examines salt dissolved completely in water. Which description fits its composition?",
+      "o": [
+        "Physically combined substances in distinguishable phases",
+        "Only one chemical element",
+        "Elements chemically combined in a fixed ratio",
+        "Physically combined substances distributed uniformly"
+      ],
+      "a": 3,
+      "e": "This is a homogeneous mixture because the dissolved salt is uniformly distributed.",
+      "d": "Medium",
+      "topic": "Classification of matter",
+      "slo": "Differentiate elements, compounds, homogeneous and heterogeneous mixtures"
+    },
+    {
+      "id": "CHEM9CH2-141",
+      "q": "How should a sample of sugar dissolved completely in water be classified?",
+      "o": [
+        "Homogeneous mixture",
+        "Heterogeneous mixture",
+        "Element",
+        "Compound"
+      ],
+      "a": 0,
+      "e": "Sugar dissolved completely in water is a homogeneous mixture: the dissolved sugar is uniformly distributed.",
+      "d": "Easy",
+      "topic": "Classification of matter",
+      "slo": "Differentiate elements, compounds, homogeneous and heterogeneous mixtures"
+    },
+    {
+      "id": "CHEM9CH2-142",
+      "q": "A student examines sugar dissolved completely in water. Which description fits its composition?",
+      "o": [
+        "Physically combined substances distributed uniformly",
+        "Physically combined substances in distinguishable phases",
+        "Elements chemically combined in a fixed ratio",
+        "Only one chemical element"
+      ],
+      "a": 0,
+      "e": "This is a homogeneous mixture because the dissolved sugar is uniformly distributed.",
+      "d": "Medium",
+      "topic": "Classification of matter",
+      "slo": "Differentiate elements, compounds, homogeneous and heterogeneous mixtures"
+    },
+    {
+      "id": "CHEM9CH2-143",
+      "q": "How should a sample of brass be classified?",
+      "o": [
+        "Heterogeneous mixture",
+        "Compound",
+        "Homogeneous mixture",
+        "Element"
+      ],
+      "a": 2,
+      "e": "Brass is a homogeneous mixture: brass is a solid alloy of copper and zinc.",
+      "d": "Easy",
+      "topic": "Classification of matter",
+      "slo": "Differentiate elements, compounds, homogeneous and heterogeneous mixtures"
+    },
+    {
+      "id": "CHEM9CH2-144",
+      "q": "A student examines brass. Which description fits its composition?",
+      "o": [
+        "Elements chemically combined in a fixed ratio",
+        "Physically combined substances distributed uniformly",
+        "Physically combined substances in distinguishable phases",
+        "Only one chemical element"
+      ],
+      "a": 1,
+      "e": "This is a homogeneous mixture because brass is a solid alloy of copper and zinc.",
+      "d": "Medium",
+      "topic": "Classification of matter",
+      "slo": "Differentiate elements, compounds, homogeneous and heterogeneous mixtures"
+    },
+    {
+      "id": "CHEM9CH2-145",
+      "q": "How should a sample of vinegar be classified?",
+      "o": [
+        "Heterogeneous mixture",
+        "Compound",
+        "Homogeneous mixture",
+        "Element"
+      ],
+      "a": 2,
+      "e": "Vinegar is a homogeneous mixture: vinegar is a uniform aqueous solution of acetic acid.",
+      "d": "Easy",
+      "topic": "Classification of matter",
+      "slo": "Differentiate elements, compounds, homogeneous and heterogeneous mixtures"
+    },
+    {
+      "id": "CHEM9CH2-146",
+      "q": "A student examines vinegar. Which description fits its composition?",
+      "o": [
+        "Physically combined substances in distinguishable phases",
+        "Physically combined substances distributed uniformly",
+        "Only one chemical element",
+        "Elements chemically combined in a fixed ratio"
+      ],
+      "a": 1,
+      "e": "This is a homogeneous mixture because vinegar is a uniform aqueous solution of acetic acid.",
+      "d": "Medium",
+      "topic": "Classification of matter",
+      "slo": "Differentiate elements, compounds, homogeneous and heterogeneous mixtures"
+    },
+    {
+      "id": "CHEM9CH2-147",
+      "q": "How should a sample of clean seawater be classified?",
+      "o": [
+        "Heterogeneous mixture",
+        "Homogeneous mixture",
+        "Compound",
+        "Element"
+      ],
+      "a": 1,
+      "e": "Clean seawater is a homogeneous mixture: dissolved salts are distributed through the water.",
+      "d": "Easy",
+      "topic": "Classification of matter",
+      "slo": "Differentiate elements, compounds, homogeneous and heterogeneous mixtures"
+    },
+    {
+      "id": "CHEM9CH2-148",
+      "q": "A student examines clean seawater. Which description fits its composition?",
+      "o": [
+        "Physically combined substances distributed uniformly",
+        "Elements chemically combined in a fixed ratio",
+        "Only one chemical element",
+        "Physically combined substances in distinguishable phases"
+      ],
+      "a": 0,
+      "e": "This is a homogeneous mixture because dissolved salts are distributed through the water.",
+      "d": "Medium",
+      "topic": "Classification of matter",
+      "slo": "Differentiate elements, compounds, homogeneous and heterogeneous mixtures"
+    },
+    {
+      "id": "CHEM9CH2-149",
+      "q": "How should a sample of sand mixed with water be classified?",
+      "o": [
+        "Heterogeneous mixture",
+        "Compound",
+        "Homogeneous mixture",
+        "Element"
+      ],
+      "a": 0,
+      "e": "Sand mixed with water is a heterogeneous mixture: sand remains a separate dispersed phase.",
+      "d": "Easy",
+      "topic": "Classification of matter",
+      "slo": "Differentiate elements, compounds, homogeneous and heterogeneous mixtures"
+    },
+    {
+      "id": "CHEM9CH2-150",
+      "q": "A student examines sand mixed with water. Which description fits its composition?",
+      "o": [
+        "Only one chemical element",
+        "Physically combined substances in distinguishable phases",
+        "Physically combined substances distributed uniformly",
+        "Elements chemically combined in a fixed ratio"
+      ],
+      "a": 1,
+      "e": "This is a heterogeneous mixture because sand remains a separate dispersed phase.",
+      "d": "Medium",
+      "topic": "Classification of matter",
+      "slo": "Differentiate elements, compounds, homogeneous and heterogeneous mixtures"
+    },
+    {
+      "id": "CHEM9CH2-151",
+      "q": "How should a sample of oil and water in separate layers be classified?",
+      "o": [
+        "Heterogeneous mixture",
+        "Homogeneous mixture",
+        "Element",
+        "Compound"
+      ],
+      "a": 0,
+      "e": "Oil and water in separate layers is a heterogeneous mixture: immiscible liquids form separate phases.",
+      "d": "Easy",
+      "topic": "Classification of matter",
+      "slo": "Differentiate elements, compounds, homogeneous and heterogeneous mixtures"
+    },
+    {
+      "id": "CHEM9CH2-152",
+      "q": "A student examines oil and water in separate layers. Which description fits its composition?",
+      "o": [
+        "Elements chemically combined in a fixed ratio",
+        "Physically combined substances distributed uniformly",
+        "Physically combined substances in distinguishable phases",
+        "Only one chemical element"
+      ],
+      "a": 2,
+      "e": "This is a heterogeneous mixture because immiscible liquids form separate phases.",
+      "d": "Medium",
+      "topic": "Classification of matter",
+      "slo": "Differentiate elements, compounds, homogeneous and heterogeneous mixtures"
+    },
+    {
+      "id": "CHEM9CH2-153",
+      "q": "How should a sample of granite be classified?",
+      "o": [
+        "Element",
+        "Compound",
+        "Heterogeneous mixture",
+        "Homogeneous mixture"
+      ],
+      "a": 2,
+      "e": "Granite is a heterogeneous mixture: granite contains distinguishable minerals.",
+      "d": "Easy",
+      "topic": "Classification of matter",
+      "slo": "Differentiate elements, compounds, homogeneous and heterogeneous mixtures"
+    },
+    {
+      "id": "CHEM9CH2-154",
+      "q": "A student examines granite. Which description fits its composition?",
+      "o": [
+        "Physically combined substances in distinguishable phases",
+        "Physically combined substances distributed uniformly",
+        "Elements chemically combined in a fixed ratio",
+        "Only one chemical element"
+      ],
+      "a": 0,
+      "e": "This is a heterogeneous mixture because granite contains distinguishable minerals.",
+      "d": "Medium",
+      "topic": "Classification of matter",
+      "slo": "Differentiate elements, compounds, homogeneous and heterogeneous mixtures"
+    },
+    {
+      "id": "CHEM9CH2-155",
+      "q": "How should a sample of iron filings mixed with sulfur powder be classified?",
+      "o": [
+        "Homogeneous mixture",
+        "Element",
+        "Compound",
+        "Heterogeneous mixture"
+      ],
+      "a": 3,
+      "e": "Iron filings mixed with sulfur powder is a heterogeneous mixture: the solids remain physically distinct.",
+      "d": "Easy",
+      "topic": "Classification of matter",
+      "slo": "Differentiate elements, compounds, homogeneous and heterogeneous mixtures"
+    },
+    {
+      "id": "CHEM9CH2-156",
+      "q": "A student examines iron filings mixed with sulfur powder. Which description fits its composition?",
+      "o": [
+        "Only one chemical element",
+        "Elements chemically combined in a fixed ratio",
+        "Physically combined substances distributed uniformly",
+        "Physically combined substances in distinguishable phases"
+      ],
+      "a": 3,
+      "e": "This is a heterogeneous mixture because the solids remain physically distinct.",
+      "d": "Medium",
+      "topic": "Classification of matter",
+      "slo": "Differentiate elements, compounds, homogeneous and heterogeneous mixtures"
+    },
+    {
+      "id": "CHEM9CH2-157",
+      "q": "How should a sample of muddy water be classified?",
+      "o": [
+        "Homogeneous mixture",
+        "Heterogeneous mixture",
+        "Element",
+        "Compound"
+      ],
+      "a": 1,
+      "e": "Muddy water is a heterogeneous mixture: solid particles are suspended in water.",
+      "d": "Easy",
+      "topic": "Classification of matter",
+      "slo": "Differentiate elements, compounds, homogeneous and heterogeneous mixtures"
+    },
+    {
+      "id": "CHEM9CH2-158",
+      "q": "A student examines muddy water. Which description fits its composition?",
+      "o": [
+        "Physically combined substances in distinguishable phases",
+        "Elements chemically combined in a fixed ratio",
+        "Only one chemical element",
+        "Physically combined substances distributed uniformly"
+      ],
+      "a": 0,
+      "e": "This is a heterogeneous mixture because solid particles are suspended in water.",
+      "d": "Medium",
+      "topic": "Classification of matter",
+      "slo": "Differentiate elements, compounds, homogeneous and heterogeneous mixtures"
+    },
+    {
+      "id": "CHEM9CH2-159",
+      "q": "How should a sample of chalk powder in water be classified?",
+      "o": [
+        "Element",
+        "Homogeneous mixture",
+        "Heterogeneous mixture",
+        "Compound"
+      ],
+      "a": 2,
+      "e": "Chalk powder in water is a heterogeneous mixture: chalk remains dispersed rather than dissolved.",
+      "d": "Easy",
+      "topic": "Classification of matter",
+      "slo": "Differentiate elements, compounds, homogeneous and heterogeneous mixtures"
+    },
+    {
+      "id": "CHEM9CH2-160",
+      "q": "A student examines chalk powder in water. Which description fits its composition?",
+      "o": [
+        "Physically combined substances distributed uniformly",
+        "Physically combined substances in distinguishable phases",
+        "Only one chemical element",
+        "Elements chemically combined in a fixed ratio"
+      ],
+      "a": 1,
+      "e": "This is a heterogeneous mixture because chalk remains dispersed rather than dissolved.",
+      "d": "Medium",
+      "topic": "Classification of matter",
+      "slo": "Differentiate elements, compounds, homogeneous and heterogeneous mixtures"
+    },
+    {
+      "id": "CHEM9CH2-161",
+      "q": "How should a sample of ice cubes floating in water be classified?",
+      "o": [
+        "Compound",
+        "Heterogeneous mixture",
+        "Element",
+        "Homogeneous mixture"
+      ],
+      "a": 1,
+      "e": "Ice cubes floating in water is a heterogeneous mixture: solid and liquid phases coexist.",
+      "d": "Easy",
+      "topic": "Classification of matter",
+      "slo": "Differentiate elements, compounds, homogeneous and heterogeneous mixtures"
+    },
+    {
+      "id": "CHEM9CH2-162",
+      "q": "A student examines ice cubes floating in water. Which description fits its composition?",
+      "o": [
+        "Only one chemical element",
+        "Elements chemically combined in a fixed ratio",
+        "Physically combined substances in distinguishable phases",
+        "Physically combined substances distributed uniformly"
+      ],
+      "a": 2,
+      "e": "This is a heterogeneous mixture because solid and liquid phases coexist.",
+      "d": "Medium",
+      "topic": "Classification of matter",
+      "slo": "Differentiate elements, compounds, homogeneous and heterogeneous mixtures"
+    },
+    {
+      "id": "CHEM9CH2-163",
+      "q": "How should a sample of sand mixed with gravel be classified?",
+      "o": [
+        "Element",
+        "Heterogeneous mixture",
+        "Homogeneous mixture",
+        "Compound"
+      ],
+      "a": 1,
+      "e": "Sand mixed with gravel is a heterogeneous mixture: different solids are visibly distinct.",
+      "d": "Easy",
+      "topic": "Classification of matter",
+      "slo": "Differentiate elements, compounds, homogeneous and heterogeneous mixtures"
+    },
+    {
+      "id": "CHEM9CH2-164",
+      "q": "A student examines sand mixed with gravel. Which description fits its composition?",
+      "o": [
+        "Elements chemically combined in a fixed ratio",
+        "Only one chemical element",
+        "Physically combined substances in distinguishable phases",
+        "Physically combined substances distributed uniformly"
+      ],
+      "a": 2,
+      "e": "This is a heterogeneous mixture because different solids are visibly distinct.",
+      "d": "Medium",
+      "topic": "Classification of matter",
+      "slo": "Differentiate elements, compounds, homogeneous and heterogeneous mixtures"
+    },
+    {
+      "id": "CHEM9CH2-165",
+      "q": "A solution is made with 5 g of dissolved salt and 95 g of water. What is the mass percentage of salt?",
+      "o": [
+        "5.3%",
+        "95%",
+        "97.5%",
+        "5%"
+      ],
+      "a": 3,
+      "e": "Mass percent = 5/(5+95) x 100 = 5%.",
+      "d": "Medium",
+      "topic": "Mass percentage",
+      "slo": "Calculate composition and identify solute, solvent and solution"
+    },
+    {
+      "id": "CHEM9CH2-166",
+      "q": "A solution is made with 10 g of dissolved salt and 90 g of water. What is the mass percentage of salt?",
+      "o": [
+        "95%",
+        "90%",
+        "11.1%",
+        "10%"
+      ],
+      "a": 3,
+      "e": "Mass percent = 10/(10+90) x 100 = 10%.",
+      "d": "Medium",
+      "topic": "Mass percentage",
+      "slo": "Calculate composition and identify solute, solvent and solution"
+    },
+    {
+      "id": "CHEM9CH2-167",
+      "q": "A solution is made with 15 g of dissolved salt and 85 g of water. What is the mass percentage of salt?",
+      "o": [
+        "17.6%",
+        "85%",
+        "15%",
+        "92.5%"
+      ],
+      "a": 2,
+      "e": "Mass percent = 15/(15+85) x 100 = 15%.",
+      "d": "Medium",
+      "topic": "Mass percentage",
+      "slo": "Calculate composition and identify solute, solvent and solution"
+    },
+    {
+      "id": "CHEM9CH2-168",
+      "q": "A solution is made with 20 g of dissolved salt and 80 g of water. What is the mass percentage of salt?",
+      "o": [
+        "90%",
+        "20%",
+        "80%",
+        "25.0%"
+      ],
+      "a": 1,
+      "e": "Mass percent = 20/(20+80) x 100 = 20%.",
+      "d": "Medium",
+      "topic": "Mass percentage",
+      "slo": "Calculate composition and identify solute, solvent and solution"
+    },
+    {
+      "id": "CHEM9CH2-169",
+      "q": "A solution is made with 25 g of dissolved salt and 75 g of water. What is the mass percentage of salt?",
+      "o": [
+        "75%",
+        "25%",
+        "87.5%",
+        "33.3%"
+      ],
+      "a": 1,
+      "e": "Mass percent = 25/(25+75) x 100 = 25%.",
+      "d": "Medium",
+      "topic": "Mass percentage",
+      "slo": "Calculate composition and identify solute, solvent and solution"
+    },
+    {
+      "id": "CHEM9CH2-170",
+      "q": "A solution is made with 30 g of dissolved salt and 70 g of water. What is the mass percentage of salt?",
+      "o": [
+        "70%",
+        "85%",
+        "30%",
+        "42.9%"
+      ],
+      "a": 2,
+      "e": "Mass percent = 30/(30+70) x 100 = 30%.",
+      "d": "Medium",
+      "topic": "Mass percentage",
+      "slo": "Calculate composition and identify solute, solvent and solution"
+    },
+    {
+      "id": "CHEM9CH2-171",
+      "q": "A solution is made with 35 g of dissolved salt and 65 g of water. What is the mass percentage of salt?",
+      "o": [
+        "82.5%",
+        "53.8%",
+        "65%",
+        "35%"
+      ],
+      "a": 3,
+      "e": "Mass percent = 35/(35+65) x 100 = 35%.",
+      "d": "Medium",
+      "topic": "Mass percentage",
+      "slo": "Calculate composition and identify solute, solvent and solution"
+    },
+    {
+      "id": "CHEM9CH2-172",
+      "q": "A solution is made with 40 g of dissolved salt and 60 g of water. What is the mass percentage of salt?",
+      "o": [
+        "80%",
+        "40%",
+        "66.7%",
+        "60%"
+      ],
+      "a": 1,
+      "e": "Mass percent = 40/(40+60) x 100 = 40%.",
+      "d": "Medium",
+      "topic": "Mass percentage",
+      "slo": "Calculate composition and identify solute, solvent and solution"
+    },
+    {
+      "id": "CHEM9CH2-173",
+      "q": "A solution is made with 45 g of dissolved salt and 55 g of water. What is the mass percentage of salt?",
+      "o": [
+        "45%",
+        "55%",
+        "77.5%",
+        "81.8%"
+      ],
+      "a": 0,
+      "e": "Mass percent = 45/(45+55) x 100 = 45%.",
+      "d": "Medium",
+      "topic": "Mass percentage",
+      "slo": "Calculate composition and identify solute, solvent and solution"
+    },
+    {
+      "id": "CHEM9CH2-174",
+      "q": "A solution is made with 12 g of dissolved salt and 88 g of water. What is the mass percentage of salt?",
+      "o": [
+        "88%",
+        "12%",
+        "13.6%",
+        "94%"
+      ],
+      "a": 1,
+      "e": "Mass percent = 12/(12+88) x 100 = 12%.",
+      "d": "Medium",
+      "topic": "Mass percentage",
+      "slo": "Calculate composition and identify solute, solvent and solution"
+    },
+    {
+      "id": "CHEM9CH2-175",
+      "q": "A solution is made with 18 g of dissolved salt and 82 g of water. What is the mass percentage of salt?",
+      "o": [
+        "18%",
+        "91%",
+        "82%",
+        "22.0%"
+      ],
+      "a": 0,
+      "e": "Mass percent = 18/(18+82) x 100 = 18%.",
+      "d": "Medium",
+      "topic": "Mass percentage",
+      "slo": "Calculate composition and identify solute, solvent and solution"
+    },
+    {
+      "id": "CHEM9CH2-176",
+      "q": "A solution is made with 22 g of dissolved salt and 78 g of water. What is the mass percentage of salt?",
+      "o": [
+        "89%",
+        "22%",
+        "28.2%",
+        "78%"
+      ],
+      "a": 1,
+      "e": "Mass percent = 22/(22+78) x 100 = 22%.",
+      "d": "Medium",
+      "topic": "Mass percentage",
+      "slo": "Calculate composition and identify solute, solvent and solution"
+    },
+    {
+      "id": "CHEM9CH2-177",
+      "q": "A solution is made with 28 g of dissolved salt and 72 g of water. What is the mass percentage of salt?",
+      "o": [
+        "86%",
+        "72%",
+        "38.9%",
+        "28%"
+      ],
+      "a": 3,
+      "e": "Mass percent = 28/(28+72) x 100 = 28%.",
+      "d": "Medium",
+      "topic": "Mass percentage",
+      "slo": "Calculate composition and identify solute, solvent and solution"
+    },
+    {
+      "id": "CHEM9CH2-178",
+      "q": "A solution is made with 32 g of dissolved salt and 68 g of water. What is the mass percentage of salt?",
+      "o": [
+        "47.1%",
+        "84%",
+        "32%",
+        "68%"
+      ],
+      "a": 2,
+      "e": "Mass percent = 32/(32+68) x 100 = 32%.",
+      "d": "Medium",
+      "topic": "Mass percentage",
+      "slo": "Calculate composition and identify solute, solvent and solution"
+    },
+    {
+      "id": "CHEM9CH2-179",
+      "q": "A solution is made with 38 g of dissolved salt and 62 g of water. What is the mass percentage of salt?",
+      "o": [
+        "81%",
+        "38%",
+        "61.3%",
+        "62%"
+      ],
+      "a": 1,
+      "e": "Mass percent = 38/(38+62) x 100 = 38%.",
+      "d": "Medium",
+      "topic": "Mass percentage",
+      "slo": "Calculate composition and identify solute, solvent and solution"
+    },
+    {
+      "id": "CHEM9CH2-180",
+      "q": "A solution is made with 42 g of dissolved salt and 58 g of water. What is the mass percentage of salt?",
+      "o": [
+        "42%",
+        "72.4%",
+        "79%",
+        "58%"
+      ],
+      "a": 0,
+      "e": "Mass percent = 42/(42+58) x 100 = 42%.",
+      "d": "Medium",
+      "topic": "Mass percentage",
+      "slo": "Calculate composition and identify solute, solvent and solution"
+    },
+    {
+      "id": "CHEM9CH2-181",
+      "q": "A solution is made with 8 g of dissolved salt and 92 g of water. What is the mass percentage of salt?",
+      "o": [
+        "8%",
+        "8.7%",
+        "96%",
+        "92%"
+      ],
+      "a": 0,
+      "e": "Mass percent = 8/(8+92) x 100 = 8%.",
+      "d": "Medium",
+      "topic": "Mass percentage",
+      "slo": "Calculate composition and identify solute, solvent and solution"
+    },
+    {
+      "id": "CHEM9CH2-182",
+      "q": "A solution is made with 16 g of dissolved salt and 84 g of water. What is the mass percentage of salt?",
+      "o": [
+        "84%",
+        "16%",
+        "19.0%",
+        "92%"
+      ],
+      "a": 1,
+      "e": "Mass percent = 16/(16+84) x 100 = 16%.",
+      "d": "Medium",
+      "topic": "Mass percentage",
+      "slo": "Calculate composition and identify solute, solvent and solution"
+    },
+    {
+      "id": "CHEM9CH2-183",
+      "q": "A solution is made with 24 g of dissolved salt and 76 g of water. What is the mass percentage of salt?",
+      "o": [
+        "76%",
+        "24%",
+        "31.6%",
+        "88%"
+      ],
+      "a": 1,
+      "e": "Mass percent = 24/(24+76) x 100 = 24%.",
+      "d": "Medium",
+      "topic": "Mass percentage",
+      "slo": "Calculate composition and identify solute, solvent and solution"
+    },
+    {
+      "id": "CHEM9CH2-184",
+      "q": "A solution is made with 36 g of dissolved salt and 64 g of water. What is the mass percentage of salt?",
+      "o": [
+        "82%",
+        "64%",
+        "56.2%",
+        "36%"
+      ],
+      "a": 3,
+      "e": "Mass percent = 36/(36+64) x 100 = 36%.",
+      "d": "Medium",
+      "topic": "Mass percentage",
+      "slo": "Calculate composition and identify solute, solvent and solution"
+    },
+    {
+      "id": "CHEM9CH2-185",
+      "q": "6 g of solute is mixed with 24 g of solvent. Find the solute mass percentage of the resulting solution.",
+      "o": [
+        "20%",
+        "25%",
+        "80%",
+        "10%"
+      ],
+      "a": 0,
+      "e": "Total mass = 30 g; percentage = (6/30) x 100 = 20%.",
+      "d": "Medium",
+      "topic": "Mass percentage",
+      "slo": "Calculate composition and identify solute, solvent and solution"
+    },
+    {
+      "id": "CHEM9CH2-186",
+      "q": "8 g of solute is mixed with 32 g of solvent. Find the solute mass percentage of the resulting solution.",
+      "o": [
+        "25%",
+        "10%",
+        "80%",
+        "20%"
+      ],
+      "a": 3,
+      "e": "Total mass = 40 g; percentage = (8/40) x 100 = 20%.",
+      "d": "Medium",
+      "topic": "Mass percentage",
+      "slo": "Calculate composition and identify solute, solvent and solution"
+    },
+    {
+      "id": "CHEM9CH2-187",
+      "q": "12 g of solute is mixed with 48 g of solvent. Find the solute mass percentage of the resulting solution.",
+      "o": [
+        "20%",
+        "80%",
+        "25%",
+        "10%"
+      ],
+      "a": 0,
+      "e": "Total mass = 60 g; percentage = (12/60) x 100 = 20%.",
+      "d": "Medium",
+      "topic": "Mass percentage",
+      "slo": "Calculate composition and identify solute, solvent and solution"
+    },
+    {
+      "id": "CHEM9CH2-188",
+      "q": "15 g of solute is mixed with 35 g of solvent. Find the solute mass percentage of the resulting solution.",
+      "o": [
+        "15%",
+        "30%",
+        "42.8571%",
+        "70%"
+      ],
+      "a": 1,
+      "e": "Total mass = 50 g; percentage = (15/50) x 100 = 30%.",
+      "d": "Medium",
+      "topic": "Mass percentage",
+      "slo": "Calculate composition and identify solute, solvent and solution"
+    },
+    {
+      "id": "CHEM9CH2-189",
+      "q": "18 g of solute is mixed with 42 g of solvent. Find the solute mass percentage of the resulting solution.",
+      "o": [
+        "30%",
+        "15%",
+        "70%",
+        "42.8571%"
+      ],
+      "a": 0,
+      "e": "Total mass = 60 g; percentage = (18/60) x 100 = 30%.",
+      "d": "Medium",
+      "topic": "Mass percentage",
+      "slo": "Calculate composition and identify solute, solvent and solution"
+    },
+    {
+      "id": "CHEM9CH2-190",
+      "q": "21 g of solute is mixed with 49 g of solvent. Find the solute mass percentage of the resulting solution.",
+      "o": [
+        "30%",
+        "42.8571%",
+        "15%",
+        "70%"
+      ],
+      "a": 0,
+      "e": "Total mass = 70 g; percentage = (21/70) x 100 = 30%.",
+      "d": "Medium",
+      "topic": "Mass percentage",
+      "slo": "Calculate composition and identify solute, solvent and solution"
+    },
+    {
+      "id": "CHEM9CH2-191",
+      "q": "24 g of solute is mixed with 56 g of solvent. Find the solute mass percentage of the resulting solution.",
+      "o": [
+        "15%",
+        "42.8571%",
+        "30%",
+        "70%"
+      ],
+      "a": 2,
+      "e": "Total mass = 80 g; percentage = (24/80) x 100 = 30%.",
+      "d": "Medium",
+      "topic": "Mass percentage",
+      "slo": "Calculate composition and identify solute, solvent and solution"
+    },
+    {
+      "id": "CHEM9CH2-192",
+      "q": "27 g of solute is mixed with 63 g of solvent. Find the solute mass percentage of the resulting solution.",
+      "o": [
+        "42.8571%",
+        "15%",
+        "30%",
+        "70%"
+      ],
+      "a": 2,
+      "e": "Total mass = 90 g; percentage = (27/90) x 100 = 30%.",
+      "d": "Medium",
+      "topic": "Mass percentage",
+      "slo": "Calculate composition and identify solute, solvent and solution"
+    },
+    {
+      "id": "CHEM9CH2-193",
+      "q": "30 g of solute is mixed with 70 g of solvent. Find the solute mass percentage of the resulting solution.",
+      "o": [
+        "15%",
+        "70%",
+        "42.8571%",
+        "30%"
+      ],
+      "a": 3,
+      "e": "Total mass = 100 g; percentage = (30/100) x 100 = 30%.",
+      "d": "Medium",
+      "topic": "Mass percentage",
+      "slo": "Calculate composition and identify solute, solvent and solution"
+    },
+    {
+      "id": "CHEM9CH2-194",
+      "q": "35 g of solute is mixed with 65 g of solvent. Find the solute mass percentage of the resulting solution.",
+      "o": [
+        "53.8462%",
+        "35%",
+        "65%",
+        "17.5%"
+      ],
+      "a": 1,
+      "e": "Total mass = 100 g; percentage = (35/100) x 100 = 35%.",
+      "d": "Medium",
+      "topic": "Mass percentage",
+      "slo": "Calculate composition and identify solute, solvent and solution"
+    },
+    {
+      "id": "CHEM9CH2-195",
+      "q": "9 g of solute is mixed with 36 g of solvent. Find the solute mass percentage of the resulting solution.",
+      "o": [
+        "80%",
+        "20%",
+        "25%",
+        "10%"
+      ],
+      "a": 1,
+      "e": "Total mass = 45 g; percentage = (9/45) x 100 = 20%.",
+      "d": "Medium",
+      "topic": "Mass percentage",
+      "slo": "Calculate composition and identify solute, solvent and solution"
+    },
+    {
+      "id": "CHEM9CH2-196",
+      "q": "16 g of solute is mixed with 64 g of solvent. Find the solute mass percentage of the resulting solution.",
+      "o": [
+        "10%",
+        "80%",
+        "25%",
+        "20%"
+      ],
+      "a": 3,
+      "e": "Total mass = 80 g; percentage = (16/80) x 100 = 20%.",
+      "d": "Medium",
+      "topic": "Mass percentage",
+      "slo": "Calculate composition and identify solute, solvent and solution"
+    },
+    {
+      "id": "CHEM9CH2-197",
+      "q": "14 g of solute is mixed with 56 g of solvent. Find the solute mass percentage of the resulting solution.",
+      "o": [
+        "20%",
+        "80%",
+        "25%",
+        "10%"
+      ],
+      "a": 0,
+      "e": "Total mass = 70 g; percentage = (14/70) x 100 = 20%.",
+      "d": "Medium",
+      "topic": "Mass percentage",
+      "slo": "Calculate composition and identify solute, solvent and solution"
+    },
+    {
+      "id": "CHEM9CH2-198",
+      "q": "25 g of solute is mixed with 75 g of solvent. Find the solute mass percentage of the resulting solution.",
+      "o": [
+        "33.3333%",
+        "25%",
+        "75%",
+        "12.5%"
+      ],
+      "a": 1,
+      "e": "Total mass = 100 g; percentage = (25/100) x 100 = 25%.",
+      "d": "Medium",
+      "topic": "Mass percentage",
+      "slo": "Calculate composition and identify solute, solvent and solution"
+    },
+    {
+      "id": "CHEM9CH2-199",
+      "q": "36 g of solute is mixed with 84 g of solvent. Find the solute mass percentage of the resulting solution.",
+      "o": [
+        "42.8571%",
+        "70%",
+        "30%",
+        "15%"
+      ],
+      "a": 2,
+      "e": "Total mass = 120 g; percentage = (36/120) x 100 = 30%.",
+      "d": "Medium",
+      "topic": "Mass percentage",
+      "slo": "Calculate composition and identify solute, solvent and solution"
+    },
+    {
+      "id": "CHEM9CH2-200",
+      "q": "40 g of solute is mixed with 60 g of solvent. Find the solute mass percentage of the resulting solution.",
+      "o": [
+        "20%",
+        "66.6667%",
+        "60%",
+        "40%"
+      ],
+      "a": 3,
+      "e": "Total mass = 100 g; percentage = (40/100) x 100 = 40%.",
+      "d": "Medium",
+      "topic": "Mass percentage",
+      "slo": "Calculate composition and identify solute, solvent and solution"
+    },
+    {
+      "id": "CHEM9CH2-201",
+      "q": "45 g of solute is mixed with 105 g of solvent. Find the solute mass percentage of the resulting solution.",
+      "o": [
+        "42.8571%",
+        "15%",
+        "70%",
+        "30%"
+      ],
+      "a": 3,
+      "e": "Total mass = 150 g; percentage = (45/150) x 100 = 30%.",
+      "d": "Medium",
+      "topic": "Mass percentage",
+      "slo": "Calculate composition and identify solute, solvent and solution"
+    },
+    {
+      "id": "CHEM9CH2-202",
+      "q": "48 g of solute is mixed with 112 g of solvent. Find the solute mass percentage of the resulting solution.",
+      "o": [
+        "70%",
+        "42.8571%",
+        "15%",
+        "30%"
+      ],
+      "a": 3,
+      "e": "Total mass = 160 g; percentage = (48/160) x 100 = 30%.",
+      "d": "Medium",
+      "topic": "Mass percentage",
+      "slo": "Calculate composition and identify solute, solvent and solution"
+    },
+    {
+      "id": "CHEM9CH2-203",
+      "q": "20 g of solute is mixed with 180 g of solvent. Find the solute mass percentage of the resulting solution.",
+      "o": [
+        "90%",
+        "5%",
+        "10%",
+        "11.1111%"
+      ],
+      "a": 2,
+      "e": "Total mass = 200 g; percentage = (20/200) x 100 = 10%.",
+      "d": "Medium",
+      "topic": "Mass percentage",
+      "slo": "Calculate composition and identify solute, solvent and solution"
+    },
+    {
+      "id": "CHEM9CH2-204",
+      "q": "5 g of solute is mixed with 45 g of solvent. Find the solute mass percentage of the resulting solution.",
+      "o": [
+        "5%",
+        "90%",
+        "10%",
+        "11.1111%"
+      ],
+      "a": 2,
+      "e": "Total mass = 50 g; percentage = (5/50) x 100 = 10%.",
+      "d": "Medium",
+      "topic": "Mass percentage",
+      "slo": "Calculate composition and identify solute, solvent and solution"
+    },
+    {
+      "id": "CHEM9CH2-205",
+      "q": "A beaker contains 3 g of dissolved sugar and 27 g of water. Assuming no loss, what is the mass of solution?",
+      "o": [
+        "30 g",
+        "24 g",
+        "3 g",
+        "27 g"
+      ],
+      "a": 0,
+      "e": "Mass is conserved: 3 + 27 = 30 g.",
+      "d": "Easy",
+      "topic": "Solution mass",
+      "slo": "Calculate composition and identify solute, solvent and solution"
+    },
+    {
+      "id": "CHEM9CH2-206",
+      "q": "A beaker contains 4 g of dissolved sugar and 36 g of water. Assuming no loss, what is the mass of solution?",
+      "o": [
+        "40 g",
+        "36 g",
+        "4 g",
+        "32 g"
+      ],
+      "a": 0,
+      "e": "Mass is conserved: 4 + 36 = 40 g.",
+      "d": "Easy",
+      "topic": "Solution mass",
+      "slo": "Calculate composition and identify solute, solvent and solution"
+    },
+    {
+      "id": "CHEM9CH2-207",
+      "q": "A beaker contains 7 g of dissolved sugar and 63 g of water. Assuming no loss, what is the mass of solution?",
+      "o": [
+        "63 g",
+        "56 g",
+        "70 g",
+        "7 g"
+      ],
+      "a": 2,
+      "e": "Mass is conserved: 7 + 63 = 70 g.",
+      "d": "Easy",
+      "topic": "Solution mass",
+      "slo": "Calculate composition and identify solute, solvent and solution"
+    },
+    {
+      "id": "CHEM9CH2-208",
+      "q": "A beaker contains 9 g of dissolved sugar and 81 g of water. Assuming no loss, what is the mass of solution?",
+      "o": [
+        "9 g",
+        "90 g",
+        "81 g",
+        "72 g"
+      ],
+      "a": 1,
+      "e": "Mass is conserved: 9 + 81 = 90 g.",
+      "d": "Easy",
+      "topic": "Solution mass",
+      "slo": "Calculate composition and identify solute, solvent and solution"
+    },
+    {
+      "id": "CHEM9CH2-209",
+      "q": "A beaker contains 11 g of dissolved sugar and 99 g of water. Assuming no loss, what is the mass of solution?",
+      "o": [
+        "88 g",
+        "99 g",
+        "110 g",
+        "11 g"
+      ],
+      "a": 2,
+      "e": "Mass is conserved: 11 + 99 = 110 g.",
+      "d": "Easy",
+      "topic": "Solution mass",
+      "slo": "Calculate composition and identify solute, solvent and solution"
+    },
+    {
+      "id": "CHEM9CH2-210",
+      "q": "A beaker contains 13 g of dissolved sugar and 117 g of water. Assuming no loss, what is the mass of solution?",
+      "o": [
+        "13 g",
+        "104 g",
+        "130 g",
+        "117 g"
+      ],
+      "a": 2,
+      "e": "Mass is conserved: 13 + 117 = 130 g.",
+      "d": "Easy",
+      "topic": "Solution mass",
+      "slo": "Calculate composition and identify solute, solvent and solution"
+    },
+    {
+      "id": "CHEM9CH2-211",
+      "q": "A beaker contains 14 g of dissolved sugar and 126 g of water. Assuming no loss, what is the mass of solution?",
+      "o": [
+        "140 g",
+        "112 g",
+        "14 g",
+        "126 g"
+      ],
+      "a": 0,
+      "e": "Mass is conserved: 14 + 126 = 140 g.",
+      "d": "Easy",
+      "topic": "Solution mass",
+      "slo": "Calculate composition and identify solute, solvent and solution"
+    },
+    {
+      "id": "CHEM9CH2-212",
+      "q": "A beaker contains 17 g of dissolved sugar and 153 g of water. Assuming no loss, what is the mass of solution?",
+      "o": [
+        "153 g",
+        "136 g",
+        "170 g",
+        "17 g"
+      ],
+      "a": 2,
+      "e": "Mass is conserved: 17 + 153 = 170 g.",
+      "d": "Easy",
+      "topic": "Solution mass",
+      "slo": "Calculate composition and identify solute, solvent and solution"
+    },
+    {
+      "id": "CHEM9CH2-213",
+      "q": "A beaker contains 19 g of dissolved sugar and 171 g of water. Assuming no loss, what is the mass of solution?",
+      "o": [
+        "171 g",
+        "19 g",
+        "152 g",
+        "190 g"
+      ],
+      "a": 3,
+      "e": "Mass is conserved: 19 + 171 = 190 g.",
+      "d": "Easy",
+      "topic": "Solution mass",
+      "slo": "Calculate composition and identify solute, solvent and solution"
+    },
+    {
+      "id": "CHEM9CH2-214",
+      "q": "A beaker contains 21 g of dissolved sugar and 189 g of water. Assuming no loss, what is the mass of solution?",
+      "o": [
+        "21 g",
+        "168 g",
+        "189 g",
+        "210 g"
+      ],
+      "a": 3,
+      "e": "Mass is conserved: 21 + 189 = 210 g.",
+      "d": "Easy",
+      "topic": "Solution mass",
+      "slo": "Calculate composition and identify solute, solvent and solution"
+    },
+    {
+      "id": "CHEM9CH2-215",
+      "q": "A beaker contains 6 g of dissolved sugar and 54 g of water. Assuming no loss, what is the mass of solution?",
+      "o": [
+        "54 g",
+        "48 g",
+        "60 g",
+        "6 g"
+      ],
+      "a": 2,
+      "e": "Mass is conserved: 6 + 54 = 60 g.",
+      "d": "Easy",
+      "topic": "Solution mass",
+      "slo": "Calculate composition and identify solute, solvent and solution"
+    },
+    {
+      "id": "CHEM9CH2-216",
+      "q": "A beaker contains 8 g of dissolved sugar and 72 g of water. Assuming no loss, what is the mass of solution?",
+      "o": [
+        "80 g",
+        "64 g",
+        "72 g",
+        "8 g"
+      ],
+      "a": 0,
+      "e": "Mass is conserved: 8 + 72 = 80 g.",
+      "d": "Easy",
+      "topic": "Solution mass",
+      "slo": "Calculate composition and identify solute, solvent and solution"
+    },
+    {
+      "id": "CHEM9CH2-217",
+      "q": "A beaker contains 12 g of dissolved sugar and 108 g of water. Assuming no loss, what is the mass of solution?",
+      "o": [
+        "12 g",
+        "108 g",
+        "96 g",
+        "120 g"
+      ],
+      "a": 3,
+      "e": "Mass is conserved: 12 + 108 = 120 g.",
+      "d": "Easy",
+      "topic": "Solution mass",
+      "slo": "Calculate composition and identify solute, solvent and solution"
+    },
+    {
+      "id": "CHEM9CH2-218",
+      "q": "A beaker contains 16 g of dissolved sugar and 144 g of water. Assuming no loss, what is the mass of solution?",
+      "o": [
+        "160 g",
+        "144 g",
+        "128 g",
+        "16 g"
+      ],
+      "a": 0,
+      "e": "Mass is conserved: 16 + 144 = 160 g.",
+      "d": "Easy",
+      "topic": "Solution mass",
+      "slo": "Calculate composition and identify solute, solvent and solution"
+    },
+    {
+      "id": "CHEM9CH2-219",
+      "q": "A beaker contains 18 g of dissolved sugar and 162 g of water. Assuming no loss, what is the mass of solution?",
+      "o": [
+        "18 g",
+        "180 g",
+        "144 g",
+        "162 g"
+      ],
+      "a": 1,
+      "e": "Mass is conserved: 18 + 162 = 180 g.",
+      "d": "Easy",
+      "topic": "Solution mass",
+      "slo": "Calculate composition and identify solute, solvent and solution"
+    },
+    {
+      "id": "CHEM9CH2-220",
+      "q": "At a fixed temperature, 10 g of a solid just saturates 100 g of water. What is its solubility?",
+      "o": [
+        "90 g per 100 g water",
+        "20 g per 100 g water",
+        "110 g per 100 g water",
+        "10 g per 100 g water"
+      ],
+      "a": 3,
+      "e": "By definition, the saturation mass dissolved in 100 g water is 10 g.",
+      "d": "Medium",
+      "topic": "Solubility",
+      "slo": "Explain solubility, saturation and effects of temperature and pressure"
+    },
+    {
+      "id": "CHEM9CH2-221",
+      "q": "At a fixed temperature, 12 g of a solid just saturates 100 g of water. What is its solubility?",
+      "o": [
+        "24 g per 100 g water",
+        "112 g per 100 g water",
+        "88 g per 100 g water",
+        "12 g per 100 g water"
+      ],
+      "a": 3,
+      "e": "By definition, the saturation mass dissolved in 100 g water is 12 g.",
+      "d": "Medium",
+      "topic": "Solubility",
+      "slo": "Explain solubility, saturation and effects of temperature and pressure"
+    },
+    {
+      "id": "CHEM9CH2-222",
+      "q": "At a fixed temperature, 15 g of a solid just saturates 100 g of water. What is its solubility?",
+      "o": [
+        "85 g per 100 g water",
+        "115 g per 100 g water",
+        "15 g per 100 g water",
+        "30 g per 100 g water"
+      ],
+      "a": 2,
+      "e": "By definition, the saturation mass dissolved in 100 g water is 15 g.",
+      "d": "Medium",
+      "topic": "Solubility",
+      "slo": "Explain solubility, saturation and effects of temperature and pressure"
+    },
+    {
+      "id": "CHEM9CH2-223",
+      "q": "At a fixed temperature, 18 g of a solid just saturates 100 g of water. What is its solubility?",
+      "o": [
+        "118 g per 100 g water",
+        "82 g per 100 g water",
+        "18 g per 100 g water",
+        "36 g per 100 g water"
+      ],
+      "a": 2,
+      "e": "By definition, the saturation mass dissolved in 100 g water is 18 g.",
+      "d": "Medium",
+      "topic": "Solubility",
+      "slo": "Explain solubility, saturation and effects of temperature and pressure"
+    },
+    {
+      "id": "CHEM9CH2-224",
+      "q": "At a fixed temperature, 20 g of a solid just saturates 100 g of water. What is its solubility?",
+      "o": [
+        "80 g per 100 g water",
+        "120 g per 100 g water",
+        "20 g per 100 g water",
+        "40 g per 100 g water"
+      ],
+      "a": 2,
+      "e": "By definition, the saturation mass dissolved in 100 g water is 20 g.",
+      "d": "Medium",
+      "topic": "Solubility",
+      "slo": "Explain solubility, saturation and effects of temperature and pressure"
+    },
+    {
+      "id": "CHEM9CH2-225",
+      "q": "At a fixed temperature, 22 g of a solid just saturates 100 g of water. What is its solubility?",
+      "o": [
+        "44 g per 100 g water",
+        "22 g per 100 g water",
+        "122 g per 100 g water",
+        "78 g per 100 g water"
+      ],
+      "a": 1,
+      "e": "By definition, the saturation mass dissolved in 100 g water is 22 g.",
+      "d": "Medium",
+      "topic": "Solubility",
+      "slo": "Explain solubility, saturation and effects of temperature and pressure"
+    },
+    {
+      "id": "CHEM9CH2-226",
+      "q": "At a fixed temperature, 25 g of a solid just saturates 100 g of water. What is its solubility?",
+      "o": [
+        "125 g per 100 g water",
+        "25 g per 100 g water",
+        "75 g per 100 g water",
+        "50 g per 100 g water"
+      ],
+      "a": 1,
+      "e": "By definition, the saturation mass dissolved in 100 g water is 25 g.",
+      "d": "Medium",
+      "topic": "Solubility",
+      "slo": "Explain solubility, saturation and effects of temperature and pressure"
+    },
+    {
+      "id": "CHEM9CH2-227",
+      "q": "At a fixed temperature, 28 g of a solid just saturates 100 g of water. What is its solubility?",
+      "o": [
+        "128 g per 100 g water",
+        "72 g per 100 g water",
+        "56 g per 100 g water",
+        "28 g per 100 g water"
+      ],
+      "a": 3,
+      "e": "By definition, the saturation mass dissolved in 100 g water is 28 g.",
+      "d": "Medium",
+      "topic": "Solubility",
+      "slo": "Explain solubility, saturation and effects of temperature and pressure"
+    },
+    {
+      "id": "CHEM9CH2-228",
+      "q": "At a fixed temperature, 30 g of a solid just saturates 100 g of water. What is its solubility?",
+      "o": [
+        "130 g per 100 g water",
+        "70 g per 100 g water",
+        "30 g per 100 g water",
+        "60 g per 100 g water"
+      ],
+      "a": 2,
+      "e": "By definition, the saturation mass dissolved in 100 g water is 30 g.",
+      "d": "Medium",
+      "topic": "Solubility",
+      "slo": "Explain solubility, saturation and effects of temperature and pressure"
+    },
+    {
+      "id": "CHEM9CH2-229",
+      "q": "At a fixed temperature, 32 g of a solid just saturates 100 g of water. What is its solubility?",
+      "o": [
+        "64 g per 100 g water",
+        "32 g per 100 g water",
+        "68 g per 100 g water",
+        "132 g per 100 g water"
+      ],
+      "a": 1,
+      "e": "By definition, the saturation mass dissolved in 100 g water is 32 g.",
+      "d": "Medium",
+      "topic": "Solubility",
+      "slo": "Explain solubility, saturation and effects of temperature and pressure"
+    },
+    {
+      "id": "CHEM9CH2-230",
+      "q": "At a fixed temperature, 35 g of a solid just saturates 100 g of water. What is its solubility?",
+      "o": [
+        "35 g per 100 g water",
+        "65 g per 100 g water",
+        "70 g per 100 g water",
+        "135 g per 100 g water"
+      ],
+      "a": 0,
+      "e": "By definition, the saturation mass dissolved in 100 g water is 35 g.",
+      "d": "Medium",
+      "topic": "Solubility",
+      "slo": "Explain solubility, saturation and effects of temperature and pressure"
+    },
+    {
+      "id": "CHEM9CH2-231",
+      "q": "At a fixed temperature, 38 g of a solid just saturates 100 g of water. What is its solubility?",
+      "o": [
+        "62 g per 100 g water",
+        "38 g per 100 g water",
+        "76 g per 100 g water",
+        "138 g per 100 g water"
+      ],
+      "a": 1,
+      "e": "By definition, the saturation mass dissolved in 100 g water is 38 g.",
+      "d": "Medium",
+      "topic": "Solubility",
+      "slo": "Explain solubility, saturation and effects of temperature and pressure"
+    },
+    {
+      "id": "CHEM9CH2-232",
+      "q": "At a fixed temperature, 40 g of a solid just saturates 100 g of water. What is its solubility?",
+      "o": [
+        "40 g per 100 g water",
+        "140 g per 100 g water",
+        "60 g per 100 g water",
+        "80 g per 100 g water"
+      ],
+      "a": 0,
+      "e": "By definition, the saturation mass dissolved in 100 g water is 40 g.",
+      "d": "Medium",
+      "topic": "Solubility",
+      "slo": "Explain solubility, saturation and effects of temperature and pressure"
+    },
+    {
+      "id": "CHEM9CH2-233",
+      "q": "At a fixed temperature, 42 g of a solid just saturates 100 g of water. What is its solubility?",
+      "o": [
+        "58 g per 100 g water",
+        "42 g per 100 g water",
+        "142 g per 100 g water",
+        "84 g per 100 g water"
+      ],
+      "a": 1,
+      "e": "By definition, the saturation mass dissolved in 100 g water is 42 g.",
+      "d": "Medium",
+      "topic": "Solubility",
+      "slo": "Explain solubility, saturation and effects of temperature and pressure"
+    },
+    {
+      "id": "CHEM9CH2-234",
+      "q": "At a fixed temperature, 45 g of a solid just saturates 100 g of water. What is its solubility?",
+      "o": [
+        "55 g per 100 g water",
+        "45 g per 100 g water",
+        "90 g per 100 g water",
+        "145 g per 100 g water"
+      ],
+      "a": 1,
+      "e": "By definition, the saturation mass dissolved in 100 g water is 45 g.",
+      "d": "Medium",
+      "topic": "Solubility",
+      "slo": "Explain solubility, saturation and effects of temperature and pressure"
+    },
+    {
+      "id": "CHEM9CH2-235",
+      "q": "At a fixed temperature, 48 g of a solid just saturates 100 g of water. What is its solubility?",
+      "o": [
+        "52 g per 100 g water",
+        "96 g per 100 g water",
+        "148 g per 100 g water",
+        "48 g per 100 g water"
+      ],
+      "a": 3,
+      "e": "By definition, the saturation mass dissolved in 100 g water is 48 g.",
+      "d": "Medium",
+      "topic": "Solubility",
+      "slo": "Explain solubility, saturation and effects of temperature and pressure"
+    },
+    {
+      "id": "CHEM9CH2-236",
+      "q": "At a fixed temperature, 55 g of a solid just saturates 100 g of water. What is its solubility?",
+      "o": [
+        "110 g per 100 g water",
+        "45 g per 100 g water",
+        "55 g per 100 g water",
+        "155 g per 100 g water"
+      ],
+      "a": 2,
+      "e": "By definition, the saturation mass dissolved in 100 g water is 55 g.",
+      "d": "Medium",
+      "topic": "Solubility",
+      "slo": "Explain solubility, saturation and effects of temperature and pressure"
+    },
+    {
+      "id": "CHEM9CH2-237",
+      "q": "At a fixed temperature, 60 g of a solid just saturates 100 g of water. What is its solubility?",
+      "o": [
+        "160 g per 100 g water",
+        "60 g per 100 g water",
+        "40 g per 100 g water",
+        "120 g per 100 g water"
+      ],
+      "a": 1,
+      "e": "By definition, the saturation mass dissolved in 100 g water is 60 g.",
+      "d": "Medium",
+      "topic": "Solubility",
+      "slo": "Explain solubility, saturation and effects of temperature and pressure"
+    },
+    {
+      "id": "CHEM9CH2-238",
+      "q": "At a fixed temperature, 65 g of a solid just saturates 100 g of water. What is its solubility?",
+      "o": [
+        "35 g per 100 g water",
+        "165 g per 100 g water",
+        "65 g per 100 g water",
+        "130 g per 100 g water"
+      ],
+      "a": 2,
+      "e": "By definition, the saturation mass dissolved in 100 g water is 65 g.",
+      "d": "Medium",
+      "topic": "Solubility",
+      "slo": "Explain solubility, saturation and effects of temperature and pressure"
+    },
+    {
+      "id": "CHEM9CH2-239",
+      "q": "At a fixed temperature, 70 g of a solid just saturates 100 g of water. What is its solubility?",
+      "o": [
+        "140 g per 100 g water",
+        "170 g per 100 g water",
+        "70 g per 100 g water",
+        "30 g per 100 g water"
+      ],
+      "a": 2,
+      "e": "By definition, the saturation mass dissolved in 100 g water is 70 g.",
+      "d": "Medium",
+      "topic": "Solubility",
+      "slo": "Explain solubility, saturation and effects of temperature and pressure"
+    },
+    {
+      "id": "CHEM9CH2-240",
+      "q": "At a fixed temperature, 75 g of a solid just saturates 100 g of water. What is its solubility?",
+      "o": [
+        "175 g per 100 g water",
+        "75 g per 100 g water",
+        "25 g per 100 g water",
+        "150 g per 100 g water"
+      ],
+      "a": 1,
+      "e": "By definition, the saturation mass dissolved in 100 g water is 75 g.",
+      "d": "Medium",
+      "topic": "Solubility",
+      "slo": "Explain solubility, saturation and effects of temperature and pressure"
+    },
+    {
+      "id": "CHEM9CH2-241",
+      "q": "At a fixed temperature, 80 g of a solid just saturates 100 g of water. What is its solubility?",
+      "o": [
+        "180 g per 100 g water",
+        "80 g per 100 g water",
+        "160 g per 100 g water",
+        "20 g per 100 g water"
+      ],
+      "a": 1,
+      "e": "By definition, the saturation mass dissolved in 100 g water is 80 g.",
+      "d": "Medium",
+      "topic": "Solubility",
+      "slo": "Explain solubility, saturation and effects of temperature and pressure"
+    },
+    {
+      "id": "CHEM9CH2-242",
+      "q": "At a fixed temperature, 85 g of a solid just saturates 100 g of water. What is its solubility?",
+      "o": [
+        "185 g per 100 g water",
+        "85 g per 100 g water",
+        "15 g per 100 g water",
+        "170 g per 100 g water"
+      ],
+      "a": 1,
+      "e": "By definition, the saturation mass dissolved in 100 g water is 85 g.",
+      "d": "Medium",
+      "topic": "Solubility",
+      "slo": "Explain solubility, saturation and effects of temperature and pressure"
+    },
+    {
+      "id": "CHEM9CH2-243",
+      "q": "At a fixed temperature, 90 g of a solid just saturates 100 g of water. What is its solubility?",
+      "o": [
+        "10 g per 100 g water",
+        "180 g per 100 g water",
+        "90 g per 100 g water",
+        "190 g per 100 g water"
+      ],
+      "a": 2,
+      "e": "By definition, the saturation mass dissolved in 100 g water is 90 g.",
+      "d": "Medium",
+      "topic": "Solubility",
+      "slo": "Explain solubility, saturation and effects of temperature and pressure"
+    },
+    {
+      "id": "CHEM9CH2-244",
+      "q": "A solid has solubility 10 g per 100 g water at a given temperature. If only 5 g is dissolved in 100 g water, how is the solution described?",
+      "o": [
+        "Unsaturated",
+        "Saturated",
+        "Supersaturated",
+        "A suspension with no dissolved solute"
+      ],
+      "a": 0,
+      "e": "5 g is below the 10 g solubility limit, so more can dissolve.",
+      "d": "Easy",
+      "topic": "Saturation",
+      "slo": "Explain solubility, saturation and effects of temperature and pressure"
+    },
+    {
+      "id": "CHEM9CH2-245",
+      "q": "A solid has solubility 12 g per 100 g water at a given temperature. If only 6 g is dissolved in 100 g water, how is the solution described?",
+      "o": [
+        "Saturated",
+        "Unsaturated",
+        "Supersaturated",
+        "A suspension with no dissolved solute"
+      ],
+      "a": 1,
+      "e": "6 g is below the 12 g solubility limit, so more can dissolve.",
+      "d": "Easy",
+      "topic": "Saturation",
+      "slo": "Explain solubility, saturation and effects of temperature and pressure"
+    },
+    {
+      "id": "CHEM9CH2-246",
+      "q": "A solid has solubility 15 g per 100 g water at a given temperature. If only 7 g is dissolved in 100 g water, how is the solution described?",
+      "o": [
+        "Supersaturated",
+        "Unsaturated",
+        "Saturated",
+        "A suspension with no dissolved solute"
+      ],
+      "a": 1,
+      "e": "7 g is below the 15 g solubility limit, so more can dissolve.",
+      "d": "Easy",
+      "topic": "Saturation",
+      "slo": "Explain solubility, saturation and effects of temperature and pressure"
+    },
+    {
+      "id": "CHEM9CH2-247",
+      "q": "A solid has solubility 18 g per 100 g water at a given temperature. If only 9 g is dissolved in 100 g water, how is the solution described?",
+      "o": [
+        "Saturated",
+        "Supersaturated",
+        "Unsaturated",
+        "A suspension with no dissolved solute"
+      ],
+      "a": 2,
+      "e": "9 g is below the 18 g solubility limit, so more can dissolve.",
+      "d": "Easy",
+      "topic": "Saturation",
+      "slo": "Explain solubility, saturation and effects of temperature and pressure"
+    },
+    {
+      "id": "CHEM9CH2-248",
+      "q": "A solid has solubility 20 g per 100 g water at a given temperature. If only 10 g is dissolved in 100 g water, how is the solution described?",
+      "o": [
+        "A suspension with no dissolved solute",
+        "Unsaturated",
+        "Supersaturated",
+        "Saturated"
+      ],
+      "a": 1,
+      "e": "10 g is below the 20 g solubility limit, so more can dissolve.",
+      "d": "Easy",
+      "topic": "Saturation",
+      "slo": "Explain solubility, saturation and effects of temperature and pressure"
+    },
+    {
+      "id": "CHEM9CH2-249",
+      "q": "A solid has solubility 22 g per 100 g water at a given temperature. If only 11 g is dissolved in 100 g water, how is the solution described?",
+      "o": [
+        "Supersaturated",
+        "Saturated",
+        "Unsaturated",
+        "A suspension with no dissolved solute"
+      ],
+      "a": 2,
+      "e": "11 g is below the 22 g solubility limit, so more can dissolve.",
+      "d": "Easy",
+      "topic": "Saturation",
+      "slo": "Explain solubility, saturation and effects of temperature and pressure"
+    },
+    {
+      "id": "CHEM9CH2-250",
+      "q": "A solid has solubility 25 g per 100 g water at a given temperature. If only 12 g is dissolved in 100 g water, how is the solution described?",
+      "o": [
+        "Unsaturated",
+        "A suspension with no dissolved solute",
+        "Supersaturated",
+        "Saturated"
+      ],
+      "a": 0,
+      "e": "12 g is below the 25 g solubility limit, so more can dissolve.",
+      "d": "Easy",
+      "topic": "Saturation",
+      "slo": "Explain solubility, saturation and effects of temperature and pressure"
+    },
+    {
+      "id": "CHEM9CH2-251",
+      "q": "A solid has solubility 28 g per 100 g water at a given temperature. If only 14 g is dissolved in 100 g water, how is the solution described?",
+      "o": [
+        "A suspension with no dissolved solute",
+        "Unsaturated",
+        "Saturated",
+        "Supersaturated"
+      ],
+      "a": 1,
+      "e": "14 g is below the 28 g solubility limit, so more can dissolve.",
+      "d": "Easy",
+      "topic": "Saturation",
+      "slo": "Explain solubility, saturation and effects of temperature and pressure"
+    },
+    {
+      "id": "CHEM9CH2-252",
+      "q": "A solid has solubility 30 g per 100 g water at a given temperature. If only 15 g is dissolved in 100 g water, how is the solution described?",
+      "o": [
+        "Unsaturated",
+        "Supersaturated",
+        "A suspension with no dissolved solute",
+        "Saturated"
+      ],
+      "a": 0,
+      "e": "15 g is below the 30 g solubility limit, so more can dissolve.",
+      "d": "Easy",
+      "topic": "Saturation",
+      "slo": "Explain solubility, saturation and effects of temperature and pressure"
+    },
+    {
+      "id": "CHEM9CH2-253",
+      "q": "A solid has solubility 32 g per 100 g water at a given temperature. If only 16 g is dissolved in 100 g water, how is the solution described?",
+      "o": [
+        "Unsaturated",
+        "Saturated",
+        "A suspension with no dissolved solute",
+        "Supersaturated"
+      ],
+      "a": 0,
+      "e": "16 g is below the 32 g solubility limit, so more can dissolve.",
+      "d": "Easy",
+      "topic": "Saturation",
+      "slo": "Explain solubility, saturation and effects of temperature and pressure"
+    },
+    {
+      "id": "CHEM9CH2-254",
+      "q": "A solid has solubility 35 g per 100 g water at a given temperature. If only 17 g is dissolved in 100 g water, how is the solution described?",
+      "o": [
+        "Supersaturated",
+        "A suspension with no dissolved solute",
+        "Unsaturated",
+        "Saturated"
+      ],
+      "a": 2,
+      "e": "17 g is below the 35 g solubility limit, so more can dissolve.",
+      "d": "Easy",
+      "topic": "Saturation",
+      "slo": "Explain solubility, saturation and effects of temperature and pressure"
+    },
+    {
+      "id": "CHEM9CH2-255",
+      "q": "A solid has solubility 38 g per 100 g water at a given temperature. If only 19 g is dissolved in 100 g water, how is the solution described?",
+      "o": [
+        "A suspension with no dissolved solute",
+        "Supersaturated",
+        "Unsaturated",
+        "Saturated"
+      ],
+      "a": 2,
+      "e": "19 g is below the 38 g solubility limit, so more can dissolve.",
+      "d": "Easy",
+      "topic": "Saturation",
+      "slo": "Explain solubility, saturation and effects of temperature and pressure"
+    },
+    {
+      "id": "CHEM9CH2-256",
+      "q": "A solid has solubility 40 g per 100 g water at a given temperature. If only 20 g is dissolved in 100 g water, how is the solution described?",
+      "o": [
+        "A suspension with no dissolved solute",
+        "Saturated",
+        "Unsaturated",
+        "Supersaturated"
+      ],
+      "a": 2,
+      "e": "20 g is below the 40 g solubility limit, so more can dissolve.",
+      "d": "Easy",
+      "topic": "Saturation",
+      "slo": "Explain solubility, saturation and effects of temperature and pressure"
+    },
+    {
+      "id": "CHEM9CH2-257",
+      "q": "A solid has solubility 42 g per 100 g water at a given temperature. If only 21 g is dissolved in 100 g water, how is the solution described?",
+      "o": [
+        "A suspension with no dissolved solute",
+        "Supersaturated",
+        "Unsaturated",
+        "Saturated"
+      ],
+      "a": 2,
+      "e": "21 g is below the 42 g solubility limit, so more can dissolve.",
+      "d": "Easy",
+      "topic": "Saturation",
+      "slo": "Explain solubility, saturation and effects of temperature and pressure"
+    },
+    {
+      "id": "CHEM9CH2-258",
+      "q": "A solid has solubility 45 g per 100 g water at a given temperature. If only 22 g is dissolved in 100 g water, how is the solution described?",
+      "o": [
+        "Supersaturated",
+        "Unsaturated",
+        "Saturated",
+        "A suspension with no dissolved solute"
+      ],
+      "a": 1,
+      "e": "22 g is below the 45 g solubility limit, so more can dissolve.",
+      "d": "Easy",
+      "topic": "Saturation",
+      "slo": "Explain solubility, saturation and effects of temperature and pressure"
+    },
+    {
+      "id": "CHEM9CH2-259",
+      "q": "A solid has solubility 48 g per 100 g water at a given temperature. If only 24 g is dissolved in 100 g water, how is the solution described?",
+      "o": [
+        "Supersaturated",
+        "Saturated",
+        "Unsaturated",
+        "A suspension with no dissolved solute"
+      ],
+      "a": 2,
+      "e": "24 g is below the 48 g solubility limit, so more can dissolve.",
+      "d": "Easy",
+      "topic": "Saturation",
+      "slo": "Explain solubility, saturation and effects of temperature and pressure"
+    },
+    {
+      "id": "CHEM9CH2-260",
+      "q": "A solid has solubility 50 g per 100 g water at a given temperature. If only 25 g is dissolved in 100 g water, how is the solution described?",
+      "o": [
+        "Supersaturated",
+        "A suspension with no dissolved solute",
+        "Saturated",
+        "Unsaturated"
+      ],
+      "a": 3,
+      "e": "25 g is below the 50 g solubility limit, so more can dissolve.",
+      "d": "Easy",
+      "topic": "Saturation",
+      "slo": "Explain solubility, saturation and effects of temperature and pressure"
+    },
+    {
+      "id": "CHEM9CH2-261",
+      "q": "A solid has solubility 55 g per 100 g water at a given temperature. If only 27 g is dissolved in 100 g water, how is the solution described?",
+      "o": [
+        "Unsaturated",
+        "Supersaturated",
+        "Saturated",
+        "A suspension with no dissolved solute"
+      ],
+      "a": 0,
+      "e": "27 g is below the 55 g solubility limit, so more can dissolve.",
+      "d": "Easy",
+      "topic": "Saturation",
+      "slo": "Explain solubility, saturation and effects of temperature and pressure"
+    },
+    {
+      "id": "CHEM9CH2-262",
+      "q": "A solid has solubility 60 g per 100 g water at a given temperature. If only 30 g is dissolved in 100 g water, how is the solution described?",
+      "o": [
+        "Supersaturated",
+        "Saturated",
+        "A suspension with no dissolved solute",
+        "Unsaturated"
+      ],
+      "a": 3,
+      "e": "30 g is below the 60 g solubility limit, so more can dissolve.",
+      "d": "Easy",
+      "topic": "Saturation",
+      "slo": "Explain solubility, saturation and effects of temperature and pressure"
+    },
+    {
+      "id": "CHEM9CH2-263",
+      "q": "A solid has solubility 65 g per 100 g water at a given temperature. If only 32 g is dissolved in 100 g water, how is the solution described?",
+      "o": [
+        "Saturated",
+        "Supersaturated",
+        "Unsaturated",
+        "A suspension with no dissolved solute"
+      ],
+      "a": 2,
+      "e": "32 g is below the 65 g solubility limit, so more can dissolve.",
+      "d": "Easy",
+      "topic": "Saturation",
+      "slo": "Explain solubility, saturation and effects of temperature and pressure"
+    },
+    {
+      "id": "CHEM9CH2-264",
+      "q": "A solute dissolves to a maximum of 10 g in 100 g water. How much could dissolve in 200 g water at the same temperature?",
+      "o": [
+        "10 g",
+        "5 g",
+        "110 g",
+        "20 g"
+      ],
+      "a": 3,
+      "e": "Doubling solvent mass doubles the maximum amount: 2 x 10 = 20 g.",
+      "d": "Medium",
+      "topic": "Solubility",
+      "slo": "Explain solubility, saturation and effects of temperature and pressure"
+    },
+    {
+      "id": "CHEM9CH2-265",
+      "q": "A solute dissolves to a maximum of 15 g in 100 g water. How much could dissolve in 200 g water at the same temperature?",
+      "o": [
+        "115 g",
+        "7 g",
+        "30 g",
+        "15 g"
+      ],
+      "a": 2,
+      "e": "Doubling solvent mass doubles the maximum amount: 2 x 15 = 30 g.",
+      "d": "Medium",
+      "topic": "Solubility",
+      "slo": "Explain solubility, saturation and effects of temperature and pressure"
+    },
+    {
+      "id": "CHEM9CH2-266",
+      "q": "A solute dissolves to a maximum of 20 g in 100 g water. How much could dissolve in 200 g water at the same temperature?",
+      "o": [
+        "10 g",
+        "20 g",
+        "120 g",
+        "40 g"
+      ],
+      "a": 3,
+      "e": "Doubling solvent mass doubles the maximum amount: 2 x 20 = 40 g.",
+      "d": "Medium",
+      "topic": "Solubility",
+      "slo": "Explain solubility, saturation and effects of temperature and pressure"
+    },
+    {
+      "id": "CHEM9CH2-267",
+      "q": "A solute dissolves to a maximum of 25 g in 100 g water. How much could dissolve in 200 g water at the same temperature?",
+      "o": [
+        "25 g",
+        "125 g",
+        "12 g",
+        "50 g"
+      ],
+      "a": 3,
+      "e": "Doubling solvent mass doubles the maximum amount: 2 x 25 = 50 g.",
+      "d": "Medium",
+      "topic": "Solubility",
+      "slo": "Explain solubility, saturation and effects of temperature and pressure"
+    },
+    {
+      "id": "CHEM9CH2-268",
+      "q": "A solute dissolves to a maximum of 30 g in 100 g water. How much could dissolve in 200 g water at the same temperature?",
+      "o": [
+        "15 g",
+        "30 g",
+        "130 g",
+        "60 g"
+      ],
+      "a": 3,
+      "e": "Doubling solvent mass doubles the maximum amount: 2 x 30 = 60 g.",
+      "d": "Medium",
+      "topic": "Solubility",
+      "slo": "Explain solubility, saturation and effects of temperature and pressure"
+    },
+    {
+      "id": "CHEM9CH2-269",
+      "q": "A solute dissolves to a maximum of 35 g in 100 g water. How much could dissolve in 200 g water at the same temperature?",
+      "o": [
+        "35 g",
+        "70 g",
+        "135 g",
+        "17 g"
+      ],
+      "a": 1,
+      "e": "Doubling solvent mass doubles the maximum amount: 2 x 35 = 70 g.",
+      "d": "Medium",
+      "topic": "Solubility",
+      "slo": "Explain solubility, saturation and effects of temperature and pressure"
+    },
+    {
+      "id": "CHEM9CH2-270",
+      "q": "A solute dissolves to a maximum of 40 g in 100 g water. How much could dissolve in 200 g water at the same temperature?",
+      "o": [
+        "40 g",
+        "20 g",
+        "80 g",
+        "140 g"
+      ],
+      "a": 2,
+      "e": "Doubling solvent mass doubles the maximum amount: 2 x 40 = 80 g.",
+      "d": "Medium",
+      "topic": "Solubility",
+      "slo": "Explain solubility, saturation and effects of temperature and pressure"
+    },
+    {
+      "id": "CHEM9CH2-271",
+      "q": "A solute dissolves to a maximum of 45 g in 100 g water. How much could dissolve in 200 g water at the same temperature?",
+      "o": [
+        "90 g",
+        "145 g",
+        "45 g",
+        "22 g"
+      ],
+      "a": 0,
+      "e": "Doubling solvent mass doubles the maximum amount: 2 x 45 = 90 g.",
+      "d": "Medium",
+      "topic": "Solubility",
+      "slo": "Explain solubility, saturation and effects of temperature and pressure"
+    },
+    {
+      "id": "CHEM9CH2-272",
+      "q": "A solute dissolves to a maximum of 50 g in 100 g water. How much could dissolve in 200 g water at the same temperature?",
+      "o": [
+        "25 g",
+        "150 g",
+        "50 g",
+        "100 g"
+      ],
+      "a": 3,
+      "e": "Doubling solvent mass doubles the maximum amount: 2 x 50 = 100 g.",
+      "d": "Medium",
+      "topic": "Solubility",
+      "slo": "Explain solubility, saturation and effects of temperature and pressure"
+    },
+    {
+      "id": "CHEM9CH2-273",
+      "q": "A solute dissolves to a maximum of 55 g in 100 g water. How much could dissolve in 200 g water at the same temperature?",
+      "o": [
+        "27 g",
+        "155 g",
+        "55 g",
+        "110 g"
+      ],
+      "a": 3,
+      "e": "Doubling solvent mass doubles the maximum amount: 2 x 55 = 110 g.",
+      "d": "Medium",
+      "topic": "Solubility",
+      "slo": "Explain solubility, saturation and effects of temperature and pressure"
+    },
+    {
+      "id": "CHEM9CH2-274",
+      "q": "A solute dissolves to a maximum of 60 g in 100 g water. How much could dissolve in 200 g water at the same temperature?",
+      "o": [
+        "120 g",
+        "160 g",
+        "30 g",
+        "60 g"
+      ],
+      "a": 0,
+      "e": "Doubling solvent mass doubles the maximum amount: 2 x 60 = 120 g.",
+      "d": "Medium",
+      "topic": "Solubility",
+      "slo": "Explain solubility, saturation and effects of temperature and pressure"
+    },
+    {
+      "id": "CHEM9CH2-275",
+      "q": "A solute dissolves to a maximum of 65 g in 100 g water. How much could dissolve in 200 g water at the same temperature?",
+      "o": [
+        "165 g",
+        "130 g",
+        "65 g",
+        "32 g"
+      ],
+      "a": 1,
+      "e": "Doubling solvent mass doubles the maximum amount: 2 x 65 = 130 g.",
+      "d": "Medium",
+      "topic": "Solubility",
+      "slo": "Explain solubility, saturation and effects of temperature and pressure"
+    },
+    {
+      "id": "CHEM9CH2-276",
+      "q": "A solute dissolves to a maximum of 70 g in 100 g water. How much could dissolve in 200 g water at the same temperature?",
+      "o": [
+        "70 g",
+        "35 g",
+        "170 g",
+        "140 g"
+      ],
+      "a": 3,
+      "e": "Doubling solvent mass doubles the maximum amount: 2 x 70 = 140 g.",
+      "d": "Medium",
+      "topic": "Solubility",
+      "slo": "Explain solubility, saturation and effects of temperature and pressure"
+    },
+    {
+      "id": "CHEM9CH2-277",
+      "q": "A solute dissolves to a maximum of 75 g in 100 g water. How much could dissolve in 200 g water at the same temperature?",
+      "o": [
+        "37 g",
+        "175 g",
+        "150 g",
+        "75 g"
+      ],
+      "a": 2,
+      "e": "Doubling solvent mass doubles the maximum amount: 2 x 75 = 150 g.",
+      "d": "Medium",
+      "topic": "Solubility",
+      "slo": "Explain solubility, saturation and effects of temperature and pressure"
+    },
+    {
+      "id": "CHEM9CH2-278",
+      "q": "A solute dissolves to a maximum of 80 g in 100 g water. How much could dissolve in 200 g water at the same temperature?",
+      "o": [
+        "80 g",
+        "160 g",
+        "180 g",
+        "40 g"
+      ],
+      "a": 1,
+      "e": "Doubling solvent mass doubles the maximum amount: 2 x 80 = 160 g.",
+      "d": "Medium",
+      "topic": "Solubility",
+      "slo": "Explain solubility, saturation and effects of temperature and pressure"
+    },
+    {
+      "id": "CHEM9CH2-279",
+      "q": "Which dispersion class best describes milk under ordinary conditions?",
+      "o": [
+        "Pure element",
+        "True molecular solution",
+        "Colloid",
+        "Coarse suspension that rapidly settles"
+      ],
+      "a": 2,
+      "e": "Milk is commonly classified as a colloid (emulsion).",
+      "d": "Medium",
+      "topic": "Colloids",
+      "slo": "Distinguish true solutions, colloids and suspensions"
+    },
+    {
+      "id": "CHEM9CH2-280",
+      "q": "A light beam is scattered by a sample of milk. Which effect explains the visible beam?",
+      "o": [
+        "Neutralization",
+        "Magnetic attraction",
+        "Electrolysis",
+        "Tyndall effect"
+      ],
+      "a": 3,
+      "e": "Particles in a colloid such as milk scatter light (Tyndall effect).",
+      "d": "Medium",
+      "topic": "Colloids",
+      "slo": "Distinguish true solutions, colloids and suspensions"
+    },
+    {
+      "id": "CHEM9CH2-281",
+      "q": "Which dispersion class best describes fog under ordinary conditions?",
+      "o": [
+        "Pure element",
+        "Coarse suspension that rapidly settles",
+        "True molecular solution",
+        "Colloid"
+      ],
+      "a": 3,
+      "e": "Fog is commonly classified as a colloid (aerosol).",
+      "d": "Medium",
+      "topic": "Colloids",
+      "slo": "Distinguish true solutions, colloids and suspensions"
+    },
+    {
+      "id": "CHEM9CH2-282",
+      "q": "A light beam is scattered by a sample of fog. Which effect explains the visible beam?",
+      "o": [
+        "Neutralization",
+        "Tyndall effect",
+        "Electrolysis",
+        "Magnetic attraction"
+      ],
+      "a": 1,
+      "e": "Particles in a colloid such as fog scatter light (Tyndall effect).",
+      "d": "Medium",
+      "topic": "Colloids",
+      "slo": "Distinguish true solutions, colloids and suspensions"
+    },
+    {
+      "id": "CHEM9CH2-283",
+      "q": "Which dispersion class best describes smoke under ordinary conditions?",
+      "o": [
+        "Colloid",
+        "True molecular solution",
+        "Pure element",
+        "Coarse suspension that rapidly settles"
+      ],
+      "a": 0,
+      "e": "Smoke is commonly classified as a colloid (aerosol).",
+      "d": "Medium",
+      "topic": "Colloids",
+      "slo": "Distinguish true solutions, colloids and suspensions"
+    },
+    {
+      "id": "CHEM9CH2-284",
+      "q": "A light beam is scattered by a sample of smoke. Which effect explains the visible beam?",
+      "o": [
+        "Magnetic attraction",
+        "Neutralization",
+        "Tyndall effect",
+        "Electrolysis"
+      ],
+      "a": 2,
+      "e": "Particles in a colloid such as smoke scatter light (Tyndall effect).",
+      "d": "Medium",
+      "topic": "Colloids",
+      "slo": "Distinguish true solutions, colloids and suspensions"
+    },
+    {
+      "id": "CHEM9CH2-285",
+      "q": "Which dispersion class best describes whipped cream under ordinary conditions?",
+      "o": [
+        "True molecular solution",
+        "Coarse suspension that rapidly settles",
+        "Colloid",
+        "Pure element"
+      ],
+      "a": 2,
+      "e": "Whipped cream is commonly classified as a colloid (foam).",
+      "d": "Medium",
+      "topic": "Colloids",
+      "slo": "Distinguish true solutions, colloids and suspensions"
+    },
+    {
+      "id": "CHEM9CH2-286",
+      "q": "A light beam is scattered by a sample of whipped cream. Which effect explains the visible beam?",
+      "o": [
+        "Magnetic attraction",
+        "Electrolysis",
+        "Neutralization",
+        "Tyndall effect"
+      ],
+      "a": 3,
+      "e": "Particles in a colloid such as whipped cream scatter light (Tyndall effect).",
+      "d": "Medium",
+      "topic": "Colloids",
+      "slo": "Distinguish true solutions, colloids and suspensions"
+    },
+    {
+      "id": "CHEM9CH2-287",
+      "q": "Which dispersion class best describes butter under ordinary conditions?",
+      "o": [
+        "Colloid",
+        "Pure element",
+        "Coarse suspension that rapidly settles",
+        "True molecular solution"
+      ],
+      "a": 0,
+      "e": "Butter is commonly classified as a colloid (emulsion).",
+      "d": "Medium",
+      "topic": "Colloids",
+      "slo": "Distinguish true solutions, colloids and suspensions"
+    },
+    {
+      "id": "CHEM9CH2-288",
+      "q": "A light beam is scattered by a sample of butter. Which effect explains the visible beam?",
+      "o": [
+        "Tyndall effect",
+        "Neutralization",
+        "Magnetic attraction",
+        "Electrolysis"
+      ],
+      "a": 0,
+      "e": "Particles in a colloid such as butter scatter light (Tyndall effect).",
+      "d": "Medium",
+      "topic": "Colloids",
+      "slo": "Distinguish true solutions, colloids and suspensions"
+    },
+    {
+      "id": "CHEM9CH2-289",
+      "q": "Which dispersion class best describes jelly under ordinary conditions?",
+      "o": [
+        "Coarse suspension that rapidly settles",
+        "Colloid",
+        "Pure element",
+        "True molecular solution"
+      ],
+      "a": 1,
+      "e": "Jelly is commonly classified as a colloid (gel).",
+      "d": "Medium",
+      "topic": "Colloids",
+      "slo": "Distinguish true solutions, colloids and suspensions"
+    },
+    {
+      "id": "CHEM9CH2-290",
+      "q": "A light beam is scattered by a sample of jelly. Which effect explains the visible beam?",
+      "o": [
+        "Magnetic attraction",
+        "Tyndall effect",
+        "Electrolysis",
+        "Neutralization"
+      ],
+      "a": 1,
+      "e": "Particles in a colloid such as jelly scatter light (Tyndall effect).",
+      "d": "Medium",
+      "topic": "Colloids",
+      "slo": "Distinguish true solutions, colloids and suspensions"
+    },
+    {
+      "id": "CHEM9CH2-291",
+      "q": "Which dispersion class best describes clouds under ordinary conditions?",
+      "o": [
+        "Pure element",
+        "Coarse suspension that rapidly settles",
+        "Colloid",
+        "True molecular solution"
+      ],
+      "a": 2,
+      "e": "Clouds is commonly classified as a colloid (aerosol).",
+      "d": "Medium",
+      "topic": "Colloids",
+      "slo": "Distinguish true solutions, colloids and suspensions"
+    },
+    {
+      "id": "CHEM9CH2-292",
+      "q": "A light beam is scattered by a sample of clouds. Which effect explains the visible beam?",
+      "o": [
+        "Electrolysis",
+        "Neutralization",
+        "Magnetic attraction",
+        "Tyndall effect"
+      ],
+      "a": 3,
+      "e": "Particles in a colloid such as clouds scatter light (Tyndall effect).",
+      "d": "Medium",
+      "topic": "Colloids",
+      "slo": "Distinguish true solutions, colloids and suspensions"
+    },
+    {
+      "id": "CHEM9CH2-293",
+      "q": "Which dispersion class best describes shaving foam under ordinary conditions?",
+      "o": [
+        "Coarse suspension that rapidly settles",
+        "Colloid",
+        "Pure element",
+        "True molecular solution"
+      ],
+      "a": 1,
+      "e": "Shaving foam is commonly classified as a colloid (foam).",
+      "d": "Medium",
+      "topic": "Colloids",
+      "slo": "Distinguish true solutions, colloids and suspensions"
+    },
+    {
+      "id": "CHEM9CH2-294",
+      "q": "A light beam is scattered by a sample of shaving foam. Which effect explains the visible beam?",
+      "o": [
+        "Electrolysis",
+        "Tyndall effect",
+        "Magnetic attraction",
+        "Neutralization"
+      ],
+      "a": 1,
+      "e": "Particles in a colloid such as shaving foam scatter light (Tyndall effect).",
+      "d": "Medium",
+      "topic": "Colloids",
+      "slo": "Distinguish true solutions, colloids and suspensions"
+    },
+    {
+      "id": "CHEM9CH2-295",
+      "q": "Which dispersion class best describes mayonnaise under ordinary conditions?",
+      "o": [
+        "Coarse suspension that rapidly settles",
+        "Colloid",
+        "True molecular solution",
+        "Pure element"
+      ],
+      "a": 1,
+      "e": "Mayonnaise is commonly classified as a colloid (emulsion).",
+      "d": "Medium",
+      "topic": "Colloids",
+      "slo": "Distinguish true solutions, colloids and suspensions"
+    },
+    {
+      "id": "CHEM9CH2-296",
+      "q": "A light beam is scattered by a sample of mayonnaise. Which effect explains the visible beam?",
+      "o": [
+        "Tyndall effect",
+        "Electrolysis",
+        "Neutralization",
+        "Magnetic attraction"
+      ],
+      "a": 0,
+      "e": "Particles in a colloid such as mayonnaise scatter light (Tyndall effect).",
+      "d": "Medium",
+      "topic": "Colloids",
+      "slo": "Distinguish true solutions, colloids and suspensions"
+    },
+    {
+      "id": "CHEM9CH2-297",
+      "q": "Which dispersion class best describes paint under ordinary conditions?",
+      "o": [
+        "True molecular solution",
+        "Coarse suspension that rapidly settles",
+        "Pure element",
+        "Colloid"
+      ],
+      "a": 3,
+      "e": "Paint is commonly classified as a colloid (sol).",
+      "d": "Medium",
+      "topic": "Colloids",
+      "slo": "Distinguish true solutions, colloids and suspensions"
+    },
+    {
+      "id": "CHEM9CH2-298",
+      "q": "A light beam is scattered by a sample of paint. Which effect explains the visible beam?",
+      "o": [
+        "Neutralization",
+        "Tyndall effect",
+        "Electrolysis",
+        "Magnetic attraction"
+      ],
+      "a": 1,
+      "e": "Particles in a colloid such as paint scatter light (Tyndall effect).",
+      "d": "Medium",
+      "topic": "Colloids",
+      "slo": "Distinguish true solutions, colloids and suspensions"
+    },
+    {
+      "id": "CHEM9CH2-299",
+      "q": "Which statement best describes chalk powder in water?",
+      "o": [
+        "An element with one type of atom",
+        "A pure chemical compound",
+        "A true solution with dissolved molecules only",
+        "A suspension with particles that may settle"
+      ],
+      "a": 3,
+      "e": "Chalk powder in water contains undissolved solid particles that may settle.",
+      "d": "Medium",
+      "topic": "Suspensions",
+      "slo": "Distinguish true solutions, colloids and suspensions"
+    },
+    {
+      "id": "CHEM9CH2-300",
+      "q": "Which basic separation method would remove most coarse particles from chalk powder in water?",
+      "o": [
+        "Chemical neutralization",
+        "Condensation of a gas",
+        "Filtration",
+        "Magnetic separation of dissolved ions"
+      ],
+      "a": 2,
+      "e": "Filter paper can retain the undissolved particles in chalk powder in water.",
+      "d": "Medium",
+      "topic": "Suspensions",
+      "slo": "Distinguish true solutions, colloids and suspensions"
+    }
+  ]
+}

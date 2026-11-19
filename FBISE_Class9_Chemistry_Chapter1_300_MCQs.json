@@ -1,0 +1,4504 @@
+{
+  "questions": [
+    {
+      "id": "CHEM9CH1-001",
+      "q": "Which branch of chemistry mainly studies carbon-containing compounds?",
+      "o": [
+        "Physical chemistry",
+        "Organic chemistry",
+        "Analytical chemistry",
+        "Nuclear chemistry"
+      ],
+      "a": 1,
+      "e": "Organic chemistry focuses primarily on carbon compounds.",
+      "d": "Easy",
+      "topic": "Branches of chemistry",
+      "slo": "Distinguish major branches of chemistry and their applications"
+    },
+    {
+      "id": "CHEM9CH1-002",
+      "q": "Which branch studies compounds of elements other than the main class of carbon compounds?",
+      "o": [
+        "Environmental chemistry",
+        "Biochemistry",
+        "Organic chemistry",
+        "Inorganic chemistry"
+      ],
+      "a": 3,
+      "e": "Inorganic chemistry covers elements and many of their compounds outside organic chemistry.",
+      "d": "Easy",
+      "topic": "Branches of chemistry",
+      "slo": "Distinguish major branches of chemistry and their applications"
+    },
+    {
+      "id": "CHEM9CH1-003",
+      "q": "Which branch studies chemical processes in living organisms?",
+      "o": [
+        "Nuclear chemistry",
+        "Biochemistry",
+        "Geochemistry",
+        "Industrial chemistry"
+      ],
+      "a": 1,
+      "e": "Biochemistry examines molecules and reactions in living systems.",
+      "d": "Easy",
+      "topic": "Branches of chemistry",
+      "slo": "Distinguish major branches of chemistry and their applications"
+    },
+    {
+      "id": "CHEM9CH1-004",
+      "q": "Which branch investigates the composition of a substance?",
+      "o": [
+        "Nuclear chemistry",
+        "Polymer chemistry",
+        "Organic chemistry",
+        "Analytical chemistry"
+      ],
+      "a": 3,
+      "e": "Analytical chemistry identifies and measures the components of materials.",
+      "d": "Easy",
+      "topic": "Branches of chemistry",
+      "slo": "Distinguish major branches of chemistry and their applications"
+    },
+    {
+      "id": "CHEM9CH1-005",
+      "q": "Which branch deals with energy changes and rates of chemical reactions?",
+      "o": [
+        "Physical chemistry",
+        "Geochemistry",
+        "Organic chemistry",
+        "Biochemistry"
+      ],
+      "a": 0,
+      "e": "Physical chemistry uses physical principles to explain chemical behavior.",
+      "d": "Easy",
+      "topic": "Branches of chemistry",
+      "slo": "Distinguish major branches of chemistry and their applications"
+    },
+    {
+      "id": "CHEM9CH1-006",
+      "q": "Which branch is most closely associated with reactions occurring in atomic nuclei?",
+      "o": [
+        "Environmental chemistry",
+        "Nuclear chemistry",
+        "Organic chemistry",
+        "Analytical chemistry"
+      ],
+      "a": 1,
+      "e": "Nuclear chemistry examines nuclear processes and radioactive substances.",
+      "d": "Easy",
+      "topic": "Branches of chemistry",
+      "slo": "Distinguish major branches of chemistry and their applications"
+    },
+    {
+      "id": "CHEM9CH1-007",
+      "q": "Which branch is most relevant to the chemical composition of rocks and minerals?",
+      "o": [
+        "Medicinal chemistry",
+        "Biochemistry",
+        "Organic chemistry",
+        "Geochemistry"
+      ],
+      "a": 3,
+      "e": "Geochemistry studies chemical processes and composition of Earth materials.",
+      "d": "Easy",
+      "topic": "Branches of chemistry",
+      "slo": "Distinguish major branches of chemistry and their applications"
+    },
+    {
+      "id": "CHEM9CH1-008",
+      "q": "Which branch examines pollutants and chemical changes in air and water?",
+      "o": [
+        "Nuclear chemistry",
+        "Organic chemistry",
+        "Polymer chemistry",
+        "Environmental chemistry"
+      ],
+      "a": 3,
+      "e": "Environmental chemistry studies chemicals and reactions in the environment.",
+      "d": "Easy",
+      "topic": "Branches of chemistry",
+      "slo": "Distinguish major branches of chemistry and their applications"
+    },
+    {
+      "id": "CHEM9CH1-009",
+      "q": "Which branch focuses on making chemicals on a large commercial scale?",
+      "o": [
+        "Biochemistry",
+        "Geochemistry",
+        "Industrial chemistry",
+        "Astrochemistry"
+      ],
+      "a": 2,
+      "e": "Industrial chemistry applies chemistry to large-scale production.",
+      "d": "Easy",
+      "topic": "Branches of chemistry",
+      "slo": "Distinguish major branches of chemistry and their applications"
+    },
+    {
+      "id": "CHEM9CH1-010",
+      "q": "Which branch is especially important in developing medicines?",
+      "o": [
+        "Geochemistry",
+        "Astrochemistry",
+        "Medicinal chemistry",
+        "Nuclear chemistry"
+      ],
+      "a": 2,
+      "e": "Medicinal chemistry designs and studies substances used as drugs.",
+      "d": "Easy",
+      "topic": "Branches of chemistry",
+      "slo": "Distinguish major branches of chemistry and their applications"
+    },
+    {
+      "id": "CHEM9CH1-011",
+      "q": "Which field is most directly involved in studying chemistry beyond Earth?",
+      "o": [
+        "Industrial chemistry",
+        "Astrochemistry",
+        "Medicinal chemistry",
+        "Analytical chemistry"
+      ],
+      "a": 1,
+      "e": "Astrochemistry studies chemical substances and processes in space.",
+      "d": "Easy",
+      "topic": "Branches of chemistry",
+      "slo": "Distinguish major branches of chemistry and their applications"
+    },
+    {
+      "id": "CHEM9CH1-012",
+      "q": "Which branch is associated with the structure and behavior of large-chain molecules?",
+      "o": [
+        "Nuclear chemistry",
+        "Geochemistry",
+        "Polymer chemistry",
+        "Astrochemistry"
+      ],
+      "a": 2,
+      "e": "Polymer chemistry focuses on macromolecules and polymer materials.",
+      "d": "Easy",
+      "topic": "Branches of chemistry",
+      "slo": "Distinguish major branches of chemistry and their applications"
+    },
+    {
+      "id": "CHEM9CH1-013",
+      "q": "A scientist measuring the amount of iron in a water sample is mainly using which branch?",
+      "o": [
+        "Nuclear chemistry",
+        "Organic chemistry",
+        "Analytical chemistry",
+        "Astrochemistry"
+      ],
+      "a": 2,
+      "e": "Quantifying a component of a sample is an analytical task.",
+      "d": "Medium",
+      "topic": "Branches of chemistry",
+      "slo": "Distinguish major branches of chemistry and their applications"
+    },
+    {
+      "id": "CHEM9CH1-014",
+      "q": "A scientist studying enzyme activity in cells is mainly working in which branch?",
+      "o": [
+        "Biochemistry",
+        "Nuclear chemistry",
+        "Geochemistry",
+        "Industrial chemistry"
+      ],
+      "a": 0,
+      "e": "Enzymes participate in biochemical processes in living cells.",
+      "d": "Medium",
+      "topic": "Branches of chemistry",
+      "slo": "Distinguish major branches of chemistry and their applications"
+    },
+    {
+      "id": "CHEM9CH1-015",
+      "q": "Investigating how temperature changes the speed of a reaction is mainly an example of which branch?",
+      "o": [
+        "Medicinal chemistry",
+        "Astrochemistry",
+        "Geochemistry",
+        "Physical chemistry"
+      ],
+      "a": 3,
+      "e": "Reaction kinetics is a topic of physical chemistry.",
+      "d": "Medium",
+      "topic": "Branches of chemistry",
+      "slo": "Distinguish major branches of chemistry and their applications"
+    },
+    {
+      "id": "CHEM9CH1-016",
+      "q": "Chemistry is primarily the study of what?",
+      "o": [
+        "Matter, its composition, properties and changes",
+        "Only living organisms",
+        "Only the motion of planets",
+        "Only electricity"
+      ],
+      "a": 0,
+      "e": "Chemistry investigates substances and how they change.",
+      "d": "Easy",
+      "topic": "Nature and scope of chemistry",
+      "slo": "Explain the scope and role of chemistry in science"
+    },
+    {
+      "id": "CHEM9CH1-017",
+      "q": "Which of the following is a chemical change?",
+      "o": [
+        "Water boiling",
+        "Iron rusting in moist air",
+        "Ice melting",
+        "Glass breaking"
+      ],
+      "a": 1,
+      "e": "Rusting forms new chemical substances, unlike physical changes.",
+      "d": "Easy",
+      "topic": "Nature and scope of chemistry",
+      "slo": "Explain the scope and role of chemistry in science"
+    },
+    {
+      "id": "CHEM9CH1-018",
+      "q": "Which observation is most useful for identifying a substance?",
+      "o": [
+        "The name of its owner",
+        "Its container color",
+        "Its characteristic properties",
+        "Its location on a shelf"
+      ],
+      "a": 2,
+      "e": "Characteristic physical and chemical properties help identify substances.",
+      "d": "Easy",
+      "topic": "Nature and scope of chemistry",
+      "slo": "Explain the scope and role of chemistry in science"
+    },
+    {
+      "id": "CHEM9CH1-019",
+      "q": "Which subject is most directly linked to chemical reactions in cells?",
+      "o": [
+        "Geometry alone",
+        "Astronomy alone",
+        "History alone",
+        "Biology"
+      ],
+      "a": 3,
+      "e": "Biological processes depend on molecules and chemical reactions.",
+      "d": "Easy",
+      "topic": "Nature and scope of chemistry",
+      "slo": "Explain the scope and role of chemistry in science"
+    },
+    {
+      "id": "CHEM9CH1-020",
+      "q": "Why is chemistry called a central science?",
+      "o": [
+        "It replaces all other sciences",
+        "It connects with many other scientific fields",
+        "It avoids mathematics",
+        "It studies only the center of atoms"
+      ],
+      "a": 1,
+      "e": "Chemical ideas link physics, biology, earth science and other disciplines.",
+      "d": "Easy",
+      "topic": "Nature and scope of chemistry",
+      "slo": "Explain the scope and role of chemistry in science"
+    },
+    {
+      "id": "CHEM9CH1-021",
+      "q": "Which example shows chemistry in everyday life?",
+      "o": [
+        "Reading a map",
+        "Measuring a road length",
+        "Drawing a straight line",
+        "Cooking food changes substances"
+      ],
+      "a": 3,
+      "e": "Cooking involves chemical changes in food molecules.",
+      "d": "Easy",
+      "topic": "Nature and scope of chemistry",
+      "slo": "Explain the scope and role of chemistry in science"
+    },
+    {
+      "id": "CHEM9CH1-022",
+      "q": "Which field uses chemical knowledge to understand soil nutrients?",
+      "o": [
+        "Cartography",
+        "Agriculture",
+        "Architecture alone",
+        "Literary criticism"
+      ],
+      "a": 1,
+      "e": "Soil chemistry helps explain nutrients available to plants.",
+      "d": "Easy",
+      "topic": "Nature and scope of chemistry",
+      "slo": "Explain the scope and role of chemistry in science"
+    },
+    {
+      "id": "CHEM9CH1-023",
+      "q": "Which activity depends strongly on chemistry?",
+      "o": [
+        "Manufacturing fertilizers",
+        "Counting classroom chairs",
+        "Naming constellations",
+        "Measuring a room with a ruler"
+      ],
+      "a": 0,
+      "e": "Fertilizer production relies on chemical substances and processes.",
+      "d": "Easy",
+      "topic": "Nature and scope of chemistry",
+      "slo": "Explain the scope and role of chemistry in science"
+    },
+    {
+      "id": "CHEM9CH1-024",
+      "q": "What does the term composition of matter refer to?",
+      "o": [
+        "Its location",
+        "The substances or particles that make it up",
+        "Its age only",
+        "Its selling price"
+      ],
+      "a": 1,
+      "e": "Composition describes what matter consists of.",
+      "d": "Easy",
+      "topic": "Nature and scope of chemistry",
+      "slo": "Explain the scope and role of chemistry in science"
+    },
+    {
+      "id": "CHEM9CH1-025",
+      "q": "What is a hypothesis?",
+      "o": [
+        "An unchangeable law",
+        "A testable proposed explanation",
+        "A laboratory instrument",
+        "A random measurement unit"
+      ],
+      "a": 1,
+      "e": "A hypothesis is an explanation that can be tested against evidence.",
+      "d": "Easy",
+      "topic": "Science and scientific method",
+      "slo": "Recognize evidence-based scientific investigation"
+    },
+    {
+      "id": "CHEM9CH1-026",
+      "q": "Why do scientists repeat an experiment?",
+      "o": [
+        "To avoid recording data",
+        "To check whether results are reproducible",
+        "To replace observations with guesses",
+        "To guarantee the desired answer"
+      ],
+      "a": 1,
+      "e": "Repetition helps establish the reliability of findings.",
+      "d": "Easy",
+      "topic": "Science and scientific method",
+      "slo": "Recognize evidence-based scientific investigation"
+    },
+    {
+      "id": "CHEM9CH1-027",
+      "q": "Which of these is an observation?",
+      "o": [
+        "The experiment is certainly correct",
+        "A solution changed from blue to green",
+        "The reaction must be perfect",
+        "All solutions behave alike"
+      ],
+      "a": 1,
+      "e": "An observation reports something detected or measured.",
+      "d": "Easy",
+      "topic": "Science and scientific method",
+      "slo": "Recognize evidence-based scientific investigation"
+    },
+    {
+      "id": "CHEM9CH1-028",
+      "q": "Which statement is an inference rather than a direct observation?",
+      "o": [
+        "The liquid was colorless",
+        "A gas probably formed because bubbles appeared",
+        "Bubbles appeared in the liquid",
+        "The thermometer read 25°C"
+      ],
+      "a": 1,
+      "e": "Inferring gas formation interprets an observation.",
+      "d": "Medium",
+      "topic": "Science and scientific method",
+      "slo": "Recognize evidence-based scientific investigation"
+    },
+    {
+      "id": "CHEM9CH1-029",
+      "q": "Why is a control useful in an experiment?",
+      "o": [
+        "It provides a comparison for the tested change",
+        "It changes every variable at once",
+        "It eliminates the need for measurements",
+        "It ensures all results are identical"
+      ],
+      "a": 0,
+      "e": "A control helps isolate the effect of the tested variable.",
+      "d": "Easy",
+      "topic": "Science and scientific method",
+      "slo": "Recognize evidence-based scientific investigation"
+    },
+    {
+      "id": "CHEM9CH1-030",
+      "q": "What should a scientist do if reliable evidence contradicts a hypothesis?",
+      "o": [
+        "Stop all future investigation",
+        "Change the data to fit",
+        "Hide the observations",
+        "Revise or reject the hypothesis"
+      ],
+      "a": 3,
+      "e": "Scientific explanations must be consistent with evidence.",
+      "d": "Easy",
+      "topic": "Science and scientific method",
+      "slo": "Recognize evidence-based scientific investigation"
+    },
+    {
+      "id": "CHEM9CH1-031",
+      "q": "Which practice best supports reliable scientific conclusions?",
+      "o": [
+        "Recording measurements accurately",
+        "Changing several variables without tracking them",
+        "Using only one unverified observation",
+        "Discarding unexpected results"
+      ],
+      "a": 0,
+      "e": "Accurate data recording supports reproducibility and evaluation.",
+      "d": "Easy",
+      "topic": "Science and scientific method",
+      "slo": "Recognize evidence-based scientific investigation"
+    },
+    {
+      "id": "CHEM9CH1-032",
+      "q": "What is a scientific model?",
+      "o": [
+        "A replacement for all experiments",
+        "A list of unrelated opinions",
+        "A claim that can never change",
+        "A representation used to explain or predict phenomena"
+      ],
+      "a": 3,
+      "e": "Models simplify systems to help explain and predict behavior.",
+      "d": "Easy",
+      "topic": "Science and scientific method",
+      "slo": "Recognize evidence-based scientific investigation"
+    },
+    {
+      "id": "CHEM9CH1-033",
+      "q": "Which is an example of quantitative data?",
+      "o": [
+        "The sample smelled sharp",
+        "The sample felt rough",
+        "The sample mass was 12 g",
+        "The sample looked shiny"
+      ],
+      "a": 2,
+      "e": "Quantitative observations include numbers and units.",
+      "d": "Easy",
+      "topic": "Science and scientific method",
+      "slo": "Recognize evidence-based scientific investigation"
+    },
+    {
+      "id": "CHEM9CH1-034",
+      "q": "Which is an example of qualitative data?",
+      "o": [
+        "The solid had a mass of 8 g",
+        "The solid was pale yellow",
+        "The temperature was 40°C",
+        "The volume was 25 mL"
+      ],
+      "a": 1,
+      "e": "Qualitative observations describe characteristics without numerical measurements.",
+      "d": "Easy",
+      "topic": "Science and scientific method",
+      "slo": "Recognize evidence-based scientific investigation"
+    },
+    {
+      "id": "CHEM9CH1-035",
+      "q": "What is the purpose of an experiment in scientific investigation?",
+      "o": [
+        "To test a question or hypothesis using evidence",
+        "To prove every idea correct",
+        "To make conclusions before observing",
+        "To avoid measurements"
+      ],
+      "a": 0,
+      "e": "Experiments gather evidence to evaluate explanations.",
+      "d": "Easy",
+      "topic": "Science and scientific method",
+      "slo": "Recognize evidence-based scientific investigation"
+    },
+    {
+      "id": "CHEM9CH1-036",
+      "q": "How does chemistry contribute to healthcare?",
+      "o": [
+        "By helping develop and test medicines",
+        "By replacing all medical diagnosis",
+        "By eliminating the need for hygiene",
+        "By preventing every disease automatically"
+      ],
+      "a": 0,
+      "e": "Chemistry supports pharmaceutical research and production.",
+      "d": "Easy",
+      "topic": "Chemistry, technology and society",
+      "slo": "Relate chemistry to technology, society and environment"
+    },
+    {
+      "id": "CHEM9CH1-037",
+      "q": "Which product is closely linked to the chemical industry?",
+      "o": [
+        "A mathematical theorem",
+        "A handwritten poem",
+        "A compass direction",
+        "Synthetic fertilizer"
+      ],
+      "a": 3,
+      "e": "Industrial chemical processes produce many fertilizers.",
+      "d": "Easy",
+      "topic": "Chemistry, technology and society",
+      "slo": "Relate chemistry to technology, society and environment"
+    },
+    {
+      "id": "CHEM9CH1-038",
+      "q": "Why is water treatment important?",
+      "o": [
+        "It removes the need for testing",
+        "It makes every dissolved substance harmless",
+        "It can remove or reduce harmful contaminants",
+        "It converts water into oxygen"
+      ],
+      "a": 2,
+      "e": "Water treatment uses physical and chemical methods to improve water quality.",
+      "d": "Easy",
+      "topic": "Chemistry, technology and society",
+      "slo": "Relate chemistry to technology, society and environment"
+    },
+    {
+      "id": "CHEM9CH1-039",
+      "q": "Which chemical issue is directly relevant to air quality?",
+      "o": [
+        "Length of a classroom",
+        "Shape of a notebook",
+        "Color of a ruler",
+        "Emission of harmful gases from vehicles"
+      ],
+      "a": 3,
+      "e": "Vehicle emissions can introduce pollutants into air.",
+      "d": "Easy",
+      "topic": "Chemistry, technology and society",
+      "slo": "Relate chemistry to technology, society and environment"
+    },
+    {
+      "id": "CHEM9CH1-040",
+      "q": "Which approach is more environmentally responsible in chemical production?",
+      "o": [
+        "Ignoring energy consumption",
+        "Releasing all waste into rivers",
+        "Reducing waste and harmful emissions",
+        "Using excess reagents without reason"
+      ],
+      "a": 2,
+      "e": "Waste reduction and emission control limit environmental impact.",
+      "d": "Easy",
+      "topic": "Chemistry, technology and society",
+      "slo": "Relate chemistry to technology, society and environment"
+    },
+    {
+      "id": "CHEM9CH1-041",
+      "q": "Why are safety precautions important in a chemistry laboratory?",
+      "o": [
+        "They remove the need to understand procedures",
+        "Some substances and procedures can be hazardous",
+        "They guarantee that accidents are impossible",
+        "All chemicals are equally harmless"
+      ],
+      "a": 1,
+      "e": "Laboratory safety reduces the risk of exposure and injury.",
+      "d": "Easy",
+      "topic": "Chemistry, technology and society",
+      "slo": "Relate chemistry to technology, society and environment"
+    },
+    {
+      "id": "CHEM9CH1-042",
+      "q": "What is an example of chemistry supporting food preservation?",
+      "o": [
+        "Changing the food label only",
+        "Keeping food in an open container",
+        "Removing all packaging information",
+        "Using suitable preservatives to slow spoilage"
+      ],
+      "a": 3,
+      "e": "Appropriate preservatives can inhibit spoilage processes.",
+      "d": "Easy",
+      "topic": "Chemistry, technology and society",
+      "slo": "Relate chemistry to technology, society and environment"
+    },
+    {
+      "id": "CHEM9CH1-043",
+      "q": "How does chemistry contribute to new materials?",
+      "o": [
+        "By eliminating all manufacturing",
+        "By changing only product names",
+        "By designing substances with useful properties",
+        "By ignoring atomic structure"
+      ],
+      "a": 2,
+      "e": "Chemical understanding enables development of materials with tailored properties.",
+      "d": "Easy",
+      "topic": "Chemistry, technology and society",
+      "slo": "Relate chemistry to technology, society and environment"
+    },
+    {
+      "id": "CHEM9CH1-044",
+      "q": "What is a responsible use of chemical technology?",
+      "o": [
+        "Disposing chemicals without guidance",
+        "Evaluating benefits alongside health and environmental risks",
+        "Avoiding product testing",
+        "Assuming all products are risk-free"
+      ],
+      "a": 1,
+      "e": "Responsible application considers safety and environmental consequences.",
+      "d": "Easy",
+      "topic": "Chemistry, technology and society",
+      "slo": "Relate chemistry to technology, society and environment"
+    },
+    {
+      "id": "CHEM9CH1-045",
+      "q": "Which example best connects chemistry and agriculture?",
+      "o": [
+        "Counting vehicles on a highway",
+        "Measuring the height of a building",
+        "Testing soil pH to guide crop management",
+        "Calculating a star’s distance"
+      ],
+      "a": 2,
+      "e": "Soil pH influences nutrient availability and agricultural decisions.",
+      "d": "Easy",
+      "topic": "Chemistry, technology and society",
+      "slo": "Relate chemistry to technology, society and environment"
+    },
+    {
+      "id": "CHEM9CH1-046",
+      "q": "Which profession is most directly involved in identifying substances in a laboratory sample?",
+      "o": [
+        "Cartographer",
+        "Analytical chemist",
+        "Librarian",
+        "Surveyor"
+      ],
+      "a": 1,
+      "e": "Analytical chemists use methods to identify or quantify components of samples.",
+      "d": "Easy",
+      "topic": "Chemistry, technology and society",
+      "slo": "Relate chemistry to technology, society and environment"
+    },
+    {
+      "id": "CHEM9CH1-047",
+      "q": "Which chemistry-related role studies the impact of industrial discharge on rivers?",
+      "o": [
+        "Historian",
+        "Environmental chemist",
+        "Astronomer",
+        "Architect"
+      ],
+      "a": 1,
+      "e": "Environmental chemists investigate contaminants and their effects.",
+      "d": "Easy",
+      "topic": "Chemistry, technology and society",
+      "slo": "Relate chemistry to technology, society and environment"
+    },
+    {
+      "id": "CHEM9CH1-048",
+      "q": "Which chemistry-related specialist works on improving production processes in factories?",
+      "o": [
+        "Archaeologist",
+        "Industrial chemist",
+        "Geographer",
+        "Botanical illustrator"
+      ],
+      "a": 1,
+      "e": "Industrial chemists apply chemical knowledge to production and process improvement.",
+      "d": "Easy",
+      "topic": "Chemistry, technology and society",
+      "slo": "Relate chemistry to technology, society and environment"
+    },
+    {
+      "id": "CHEM9CH1-049",
+      "q": "Which scientist would most likely investigate how a new drug molecule interacts with a biological target?",
+      "o": [
+        "Medicinal chemist",
+        "Astrochemist",
+        "Nuclear physicist",
+        "Geochemist"
+      ],
+      "a": 0,
+      "e": "Medicinal chemistry connects molecular design with potential therapeutic action.",
+      "d": "Medium",
+      "topic": "Chemistry, technology and society",
+      "slo": "Relate chemistry to technology, society and environment"
+    },
+    {
+      "id": "CHEM9CH1-050",
+      "q": "Which scientist would most likely analyze the chemical composition of a meteorite?",
+      "o": [
+        "Industrial hygienist",
+        "Food chemist",
+        "Astrochemist",
+        "Medicinal chemist"
+      ],
+      "a": 2,
+      "e": "Chemical investigation of space materials is within astrochemistry.",
+      "d": "Medium",
+      "topic": "Chemistry, technology and society",
+      "slo": "Relate chemistry to technology, society and environment"
+    },
+    {
+      "id": "CHEM9CH1-051",
+      "q": "Which activity is the best example of science?",
+      "o": [
+        "Building a chemical reactor",
+        "Investigating why a substance reacts",
+        "Manufacturing a measuring device",
+        "Selling laboratory equipment"
+      ],
+      "a": 1,
+      "e": "Science investigates natural processes.",
+      "d": "Medium",
+      "topic": "Science, technology and engineering",
+      "slo": "Differentiate science, technology and engineering and explain their relationships"
+    },
+    {
+      "id": "CHEM9CH1-052",
+      "q": "Which activity is the best example of technology?",
+      "o": [
+        "Recording a natural phenomenon",
+        "Explaining an observed reaction",
+        "Developing an instrument to identify substances",
+        "Formulating a question about atoms"
+      ],
+      "a": 2,
+      "e": "Technology applies knowledge to create useful tools and methods.",
+      "d": "Medium",
+      "topic": "Science, technology and engineering",
+      "slo": "Differentiate science, technology and engineering and explain their relationships"
+    },
+    {
+      "id": "CHEM9CH1-053",
+      "q": "Which activity is the best example of engineering?",
+      "o": [
+        "Observing a color change",
+        "Classifying a mineral sample",
+        "Forming a hypothesis",
+        "Designing a safe industrial chemical plant"
+      ],
+      "a": 3,
+      "e": "Engineering designs and improves processes and systems.",
+      "d": "Medium",
+      "topic": "Science, technology and engineering",
+      "slo": "Differentiate science, technology and engineering and explain their relationships"
+    },
+    {
+      "id": "CHEM9CH1-054",
+      "q": "What is a major goal of science?",
+      "o": [
+        "To understand the natural world",
+        "To advertise products",
+        "To avoid evidence",
+        "To replace all machines"
+      ],
+      "a": 0,
+      "e": "Science seeks explanations of natural phenomena.",
+      "d": "Medium",
+      "topic": "Science, technology and engineering",
+      "slo": "Differentiate science, technology and engineering and explain their relationships"
+    },
+    {
+      "id": "CHEM9CH1-055",
+      "q": "What is a major goal of technology?",
+      "o": [
+        "To reject all scientific theories",
+        "To apply scientific knowledge to practical needs",
+        "To study only historical events",
+        "To avoid making tools"
+      ],
+      "a": 1,
+      "e": "Technology uses scientific understanding to solve practical problems.",
+      "d": "Medium",
+      "topic": "Science, technology and engineering",
+      "slo": "Differentiate science, technology and engineering and explain their relationships"
+    },
+    {
+      "id": "CHEM9CH1-056",
+      "q": "What is a major goal of engineering?",
+      "o": [
+        "To collect observations without purpose",
+        "To design and improve useful systems",
+        "To eliminate all calculations",
+        "To avoid manufacturing"
+      ],
+      "a": 1,
+      "e": "Engineering applies science and mathematics to practical design.",
+      "d": "Medium",
+      "topic": "Science, technology and engineering",
+      "slo": "Differentiate science, technology and engineering and explain their relationships"
+    },
+    {
+      "id": "CHEM9CH1-057",
+      "q": "A chemist studies a new material; an engineer designs its factory production. What distinguishes their work?",
+      "o": [
+        "Both activities are only advertising",
+        "Engineering avoids chemistry",
+        "Investigation versus process design",
+        "Science cannot involve materials"
+      ],
+      "a": 2,
+      "e": "Research studies properties; engineering designs scalable processes.",
+      "d": "Medium",
+      "topic": "Science, technology and engineering",
+      "slo": "Differentiate science, technology and engineering and explain their relationships"
+    },
+    {
+      "id": "CHEM9CH1-058",
+      "q": "Which example shows technology assisting chemical science?",
+      "o": [
+        "A sample is left unmeasured",
+        "A thermometer is discarded",
+        "A spectrometer identifies substances",
+        "An experiment has no controls"
+      ],
+      "a": 2,
+      "e": "Analytical instruments support chemical investigation.",
+      "d": "Medium",
+      "topic": "Science, technology and engineering",
+      "slo": "Differentiate science, technology and engineering and explain their relationships"
+    },
+    {
+      "id": "CHEM9CH1-059",
+      "q": "Which task is associated with chemical engineering?",
+      "o": [
+        "Classifying poetry",
+        "Improving detergent production efficiency",
+        "Identifying constellations",
+        "Writing a history essay"
+      ],
+      "a": 1,
+      "e": "Chemical engineers optimize industrial production processes.",
+      "d": "Medium",
+      "topic": "Science, technology and engineering",
+      "slo": "Differentiate science, technology and engineering and explain their relationships"
+    },
+    {
+      "id": "CHEM9CH1-060",
+      "q": "Why are science and technology interdependent?",
+      "o": [
+        "Discoveries enable tools and tools enable discoveries",
+        "Technology never changes",
+        "Neither uses evidence",
+        "Only science uses instruments"
+      ],
+      "a": 0,
+      "e": "Scientific discoveries inform technology, which improves research methods.",
+      "d": "Medium",
+      "topic": "Science, technology and engineering",
+      "slo": "Differentiate science, technology and engineering and explain their relationships"
+    },
+    {
+      "id": "CHEM9CH1-061",
+      "q": "Which factor should engineers consider when designing a chemical plant?",
+      "o": [
+        "Only the product name",
+        "Only the factory paint color",
+        "Ignoring waste treatment",
+        "Safety, efficiency and product quality"
+      ],
+      "a": 3,
+      "e": "Engineering design balances performance and safety.",
+      "d": "Medium",
+      "topic": "Science, technology and engineering",
+      "slo": "Differentiate science, technology and engineering and explain their relationships"
+    },
+    {
+      "id": "CHEM9CH1-062",
+      "q": "Which product is explicitly among those manufactured using chemical engineering?",
+      "o": [
+        "Topographic coordinates",
+        "Handwritten novels",
+        "Star charts",
+        "Detergents"
+      ],
+      "a": 3,
+      "e": "Chemical engineering supports detergent manufacturing.",
+      "d": "Medium",
+      "topic": "Science, technology and engineering",
+      "slo": "Differentiate science, technology and engineering and explain their relationships"
+    },
+    {
+      "id": "CHEM9CH1-063",
+      "q": "Which statement best describes technology?",
+      "o": [
+        "Only an academic subject",
+        "A fixed law of nature",
+        "Practical integration of scientific knowledge",
+        "An opinion without evidence"
+      ],
+      "a": 2,
+      "e": "Technology transforms scientific knowledge into useful systems and tools.",
+      "d": "Medium",
+      "topic": "Science, technology and engineering",
+      "slo": "Differentiate science, technology and engineering and explain their relationships"
+    },
+    {
+      "id": "CHEM9CH1-064",
+      "q": "What is a practical benefit of improved analytical instruments?",
+      "o": [
+        "Every chemical becomes harmless",
+        "More effective identification of substances",
+        "All experiments become unnecessary",
+        "Measurements no longer require units"
+      ],
+      "a": 1,
+      "e": "Analytical technology improves chemical identification.",
+      "d": "Medium",
+      "topic": "Science, technology and engineering",
+      "slo": "Differentiate science, technology and engineering and explain their relationships"
+    },
+    {
+      "id": "CHEM9CH1-065",
+      "q": "How can engineering support pharmaceutical manufacturing?",
+      "o": [
+        "Designing processes to produce medicines reliably",
+        "Removing process controls",
+        "Replacing medicine with labels",
+        "Avoiding quality testing"
+      ],
+      "a": 0,
+      "e": "Process engineering helps make medicines at scale.",
+      "d": "Medium",
+      "topic": "Science, technology and engineering",
+      "slo": "Differentiate science, technology and engineering and explain their relationships"
+    },
+    {
+      "id": "CHEM9CH1-066",
+      "q": "A research project focuses on reaction rates and energy changes. Which branch of chemistry is most relevant?",
+      "o": [
+        "Medicinal chemistry",
+        "Organic chemistry",
+        "Physical chemistry",
+        "Biochemistry"
+      ],
+      "a": 2,
+      "e": "Physical chemistry specifically deals with reaction rates and energy changes.",
+      "d": "Medium",
+      "topic": "Branches of chemistry",
+      "slo": "Identify chemistry branches using their subject matter and applications"
+    },
+    {
+      "id": "CHEM9CH1-067",
+      "q": "A research project focuses on carbon compounds and functional groups. Which branch of chemistry is most relevant?",
+      "o": [
+        "Polymer chemistry",
+        "Environmental chemistry",
+        "Organic chemistry",
+        "Inorganic chemistry"
+      ],
+      "a": 2,
+      "e": "Organic chemistry specifically deals with carbon compounds and functional groups.",
+      "d": "Medium",
+      "topic": "Branches of chemistry",
+      "slo": "Identify chemistry branches using their subject matter and applications"
+    },
+    {
+      "id": "CHEM9CH1-068",
+      "q": "A research project focuses on metals, minerals and non-organic compounds. Which branch of chemistry is most relevant?",
+      "o": [
+        "Inorganic chemistry",
+        "Analytical chemistry",
+        "Geochemistry",
+        "Industrial chemistry"
+      ],
+      "a": 0,
+      "e": "Inorganic chemistry specifically deals with metals, minerals and non-organic compounds.",
+      "d": "Medium",
+      "topic": "Branches of chemistry",
+      "slo": "Identify chemistry branches using their subject matter and applications"
+    },
+    {
+      "id": "CHEM9CH1-069",
+      "q": "A research project focuses on identifying and measuring sample components. Which branch of chemistry is most relevant?",
+      "o": [
+        "Biochemistry",
+        "Nuclear chemistry",
+        "Analytical chemistry",
+        "Medicinal chemistry"
+      ],
+      "a": 2,
+      "e": "Analytical chemistry specifically deals with identifying and measuring sample components.",
+      "d": "Medium",
+      "topic": "Branches of chemistry",
+      "slo": "Identify chemistry branches using their subject matter and applications"
+    },
+    {
+      "id": "CHEM9CH1-070",
+      "q": "A research project focuses on chemical reactions within living cells. Which branch of chemistry is most relevant?",
+      "o": [
+        "Astrochemistry",
+        "Environmental chemistry",
+        "Polymer chemistry",
+        "Biochemistry"
+      ],
+      "a": 3,
+      "e": "Biochemistry specifically deals with chemical reactions within living cells.",
+      "d": "Medium",
+      "topic": "Branches of chemistry",
+      "slo": "Identify chemistry branches using their subject matter and applications"
+    },
+    {
+      "id": "CHEM9CH1-071",
+      "q": "A research project focuses on pollutants in air and water. Which branch of chemistry is most relevant?",
+      "o": [
+        "Physical chemistry",
+        "Environmental chemistry",
+        "Geochemistry",
+        "Industrial chemistry"
+      ],
+      "a": 1,
+      "e": "Environmental chemistry specifically deals with pollutants in air and water.",
+      "d": "Medium",
+      "topic": "Branches of chemistry",
+      "slo": "Identify chemistry branches using their subject matter and applications"
+    },
+    {
+      "id": "CHEM9CH1-072",
+      "q": "A research project focuses on large-scale manufacture of chemicals. Which branch of chemistry is most relevant?",
+      "o": [
+        "Nuclear chemistry",
+        "Organic chemistry",
+        "Medicinal chemistry",
+        "Industrial chemistry"
+      ],
+      "a": 3,
+      "e": "Industrial chemistry specifically deals with large-scale manufacture of chemicals.",
+      "d": "Medium",
+      "topic": "Branches of chemistry",
+      "slo": "Identify chemistry branches using their subject matter and applications"
+    },
+    {
+      "id": "CHEM9CH1-073",
+      "q": "A research project focuses on drug interactions with biological targets. Which branch of chemistry is most relevant?",
+      "o": [
+        "Medicinal chemistry",
+        "Astrochemistry",
+        "Polymer chemistry",
+        "Inorganic chemistry"
+      ],
+      "a": 0,
+      "e": "Medicinal chemistry specifically deals with drug interactions with biological targets.",
+      "d": "Medium",
+      "topic": "Branches of chemistry",
+      "slo": "Identify chemistry branches using their subject matter and applications"
+    },
+    {
+      "id": "CHEM9CH1-074",
+      "q": "A research project focuses on polymer properties and polymerization. Which branch of chemistry is most relevant?",
+      "o": [
+        "Analytical chemistry",
+        "Geochemistry",
+        "Physical chemistry",
+        "Polymer chemistry"
+      ],
+      "a": 3,
+      "e": "Polymer chemistry specifically deals with polymer properties and polymerization.",
+      "d": "Medium",
+      "topic": "Branches of chemistry",
+      "slo": "Identify chemistry branches using their subject matter and applications"
+    },
+    {
+      "id": "CHEM9CH1-075",
+      "q": "A research project focuses on chemical composition of rocks and soils. Which branch of chemistry is most relevant?",
+      "o": [
+        "Biochemistry",
+        "Nuclear chemistry",
+        "Geochemistry",
+        "Organic chemistry"
+      ],
+      "a": 2,
+      "e": "Geochemistry specifically deals with chemical composition of rocks and soils.",
+      "d": "Medium",
+      "topic": "Branches of chemistry",
+      "slo": "Identify chemistry branches using their subject matter and applications"
+    },
+    {
+      "id": "CHEM9CH1-076",
+      "q": "A research project focuses on changes occurring in atomic nuclei. Which branch of chemistry is most relevant?",
+      "o": [
+        "Environmental chemistry",
+        "Inorganic chemistry",
+        "Astrochemistry",
+        "Nuclear chemistry"
+      ],
+      "a": 3,
+      "e": "Nuclear chemistry specifically deals with changes occurring in atomic nuclei.",
+      "d": "Medium",
+      "topic": "Branches of chemistry",
+      "slo": "Identify chemistry branches using their subject matter and applications"
+    },
+    {
+      "id": "CHEM9CH1-077",
+      "q": "A research project focuses on chemical processes in stars and comets. Which branch of chemistry is most relevant?",
+      "o": [
+        "Industrial chemistry",
+        "Physical chemistry",
+        "Astrochemistry",
+        "Analytical chemistry"
+      ],
+      "a": 2,
+      "e": "Astrochemistry specifically deals with chemical processes in stars and comets.",
+      "d": "Medium",
+      "topic": "Branches of chemistry",
+      "slo": "Identify chemistry branches using their subject matter and applications"
+    },
+    {
+      "id": "CHEM9CH1-078",
+      "q": "A laboratory tests drinking water for dissolved lead. Which activity is central?",
+      "o": [
+        "Chemical analysis",
+        "Nuclear fission",
+        "Astronomical mapping",
+        "Polymer molding"
+      ],
+      "a": 0,
+      "e": "Chemical analysis detects and quantifies contaminants.",
+      "d": "Medium",
+      "topic": "Chemistry applications",
+      "slo": "Relate chemical disciplines to everyday life and societal needs"
+    },
+    {
+      "id": "CHEM9CH1-079",
+      "q": "A researcher examines how an enzyme breaks down sugar. Which field is involved?",
+      "o": [
+        "Biochemistry",
+        "Astrochemistry",
+        "Geochemistry",
+        "Industrial metallurgy"
+      ],
+      "a": 0,
+      "e": "Enzymes and metabolism are studied in biochemistry.",
+      "d": "Medium",
+      "topic": "Chemistry applications",
+      "slo": "Relate chemical disciplines to everyday life and societal needs"
+    },
+    {
+      "id": "CHEM9CH1-080",
+      "q": "A team develops a biodegradable packaging material. Which field is especially relevant?",
+      "o": [
+        "Polymer chemistry",
+        "Geochemistry",
+        "Astrochemistry",
+        "Nuclear chemistry"
+      ],
+      "a": 0,
+      "e": "Packaging materials often rely on polymer structure and properties.",
+      "d": "Medium",
+      "topic": "Chemistry applications",
+      "slo": "Relate chemical disciplines to everyday life and societal needs"
+    },
+    {
+      "id": "CHEM9CH1-081",
+      "q": "A scientist tests how a medicine binds to a protein. Which field applies?",
+      "o": [
+        "Geochemistry",
+        "Industrial chemistry",
+        "Medicinal chemistry",
+        "Astrochemistry"
+      ],
+      "a": 2,
+      "e": "Drug-target interactions are a focus of medicinal chemistry.",
+      "d": "Medium",
+      "topic": "Chemistry applications",
+      "slo": "Relate chemical disciplines to everyday life and societal needs"
+    },
+    {
+      "id": "CHEM9CH1-082",
+      "q": "An engineer improves large-scale fertilizer production. Which branch is involved?",
+      "o": [
+        "Nuclear chemistry",
+        "Astrochemistry",
+        "Geochemistry",
+        "Industrial chemistry"
+      ],
+      "a": 3,
+      "e": "Industrial chemistry concerns commercial-scale chemical production.",
+      "d": "Medium",
+      "topic": "Chemistry applications",
+      "slo": "Relate chemical disciplines to everyday life and societal needs"
+    },
+    {
+      "id": "CHEM9CH1-083",
+      "q": "A researcher examines chemical reactions in comet ice. Which field applies?",
+      "o": [
+        "Astrochemistry",
+        "Biochemistry",
+        "Industrial chemistry",
+        "Medicinal chemistry"
+      ],
+      "a": 0,
+      "e": "Astrochemistry studies chemistry in space.",
+      "d": "Medium",
+      "topic": "Chemistry applications",
+      "slo": "Relate chemical disciplines to everyday life and societal needs"
+    },
+    {
+      "id": "CHEM9CH1-084",
+      "q": "A geologist analyzes mineral composition of a rock. Which chemistry branch helps?",
+      "o": [
+        "Biochemistry",
+        "Polymer chemistry",
+        "Geochemistry",
+        "Medicinal chemistry"
+      ],
+      "a": 2,
+      "e": "Geochemistry studies the chemical makeup of Earth materials.",
+      "d": "Medium",
+      "topic": "Chemistry applications",
+      "slo": "Relate chemical disciplines to everyday life and societal needs"
+    },
+    {
+      "id": "CHEM9CH1-085",
+      "q": "A researcher investigates radioactive decay. Which branch applies?",
+      "o": [
+        "Biochemistry",
+        "Industrial chemistry",
+        "Polymer chemistry",
+        "Nuclear chemistry"
+      ],
+      "a": 3,
+      "e": "Radioactive decay is a nuclear process.",
+      "d": "Medium",
+      "topic": "Chemistry applications",
+      "slo": "Relate chemical disciplines to everyday life and societal needs"
+    },
+    {
+      "id": "CHEM9CH1-086",
+      "q": "A laboratory compares reaction speeds at two temperatures. Which branch applies?",
+      "o": [
+        "Physical chemistry",
+        "Medicinal chemistry",
+        "Geochemistry",
+        "Astrochemistry"
+      ],
+      "a": 0,
+      "e": "Chemical kinetics is studied in physical chemistry.",
+      "d": "Medium",
+      "topic": "Chemistry applications",
+      "slo": "Relate chemical disciplines to everyday life and societal needs"
+    },
+    {
+      "id": "CHEM9CH1-087",
+      "q": "A chemist studies the structure of ethanol. Which branch applies?",
+      "o": [
+        "Organic chemistry",
+        "Geochemistry",
+        "Astrochemistry",
+        "Nuclear chemistry"
+      ],
+      "a": 0,
+      "e": "Ethanol is a carbon-containing organic compound.",
+      "d": "Medium",
+      "topic": "Chemistry applications",
+      "slo": "Relate chemical disciplines to everyday life and societal needs"
+    },
+    {
+      "id": "CHEM9CH1-088",
+      "q": "A chemist investigates properties of sodium chloride crystals. Which branch is most relevant?",
+      "o": [
+        "Medicinal chemistry",
+        "Inorganic chemistry",
+        "Polymer chemistry",
+        "Astrochemistry"
+      ],
+      "a": 1,
+      "e": "Sodium chloride is an inorganic ionic compound.",
+      "d": "Medium",
+      "topic": "Chemistry applications",
+      "slo": "Relate chemical disciplines to everyday life and societal needs"
+    },
+    {
+      "id": "CHEM9CH1-089",
+      "q": "A factory wants to reduce chemical waste. Which action is responsible?",
+      "o": [
+        "Ignore emission measurements",
+        "Release waste into rivers",
+        "Improve process efficiency and waste management",
+        "Use more raw material without reason"
+      ],
+      "a": 2,
+      "e": "Responsible chemical production seeks to minimize waste.",
+      "d": "Medium",
+      "topic": "Chemistry applications",
+      "slo": "Relate chemical disciplines to everyday life and societal needs"
+    },
+    {
+      "id": "CHEM9CH1-090",
+      "q": "Why is chemistry relevant to agriculture?",
+      "o": [
+        "It makes all soils identical",
+        "It determines every weather event",
+        "It replaces plant biology",
+        "It helps explain soil nutrients and fertilizers"
+      ],
+      "a": 3,
+      "e": "Soil chemistry and fertilizers influence crop nutrition.",
+      "d": "Medium",
+      "topic": "Chemistry applications",
+      "slo": "Relate chemical disciplines to everyday life and societal needs"
+    },
+    {
+      "id": "CHEM9CH1-091",
+      "q": "Which chemistry-related product helps protect crops from some pests?",
+      "o": [
+        "A compass",
+        "A measuring tape",
+        "A telescope",
+        "A properly regulated pesticide"
+      ],
+      "a": 3,
+      "e": "Crop-protection substances are developed using chemical knowledge.",
+      "d": "Medium",
+      "topic": "Chemistry applications",
+      "slo": "Relate chemical disciplines to everyday life and societal needs"
+    },
+    {
+      "id": "CHEM9CH1-092",
+      "q": "What is one reason to analyze industrial wastewater?",
+      "o": [
+        "To determine the factory name",
+        "To identify potentially harmful substances",
+        "To measure the length of pipes only",
+        "To avoid pollution monitoring"
+      ],
+      "a": 1,
+      "e": "Chemical analysis can detect hazardous contaminants.",
+      "d": "Medium",
+      "topic": "Chemistry applications",
+      "slo": "Relate chemical disciplines to everyday life and societal needs"
+    },
+    {
+      "id": "CHEM9CH1-093",
+      "q": "Why might a chemist study nylon?",
+      "o": [
+        "It is a natural mineral",
+        "It is an atomic nucleus",
+        "It is a distant star",
+        "It is a synthetic polymer"
+      ],
+      "a": 3,
+      "e": "Nylon is an example of a synthetic polymer.",
+      "d": "Medium",
+      "topic": "Chemistry applications",
+      "slo": "Relate chemical disciplines to everyday life and societal needs"
+    },
+    {
+      "id": "CHEM9CH1-094",
+      "q": "Which item is an example of a polymer application mentioned in the chapter?",
+      "o": [
+        "Planetary orbit",
+        "Hydrogen atom",
+        "Polyethylene cup",
+        "Iron ore deposit"
+      ],
+      "a": 2,
+      "e": "Polyethylene cups are manufactured from a polymer.",
+      "d": "Medium",
+      "topic": "Chemistry applications",
+      "slo": "Relate chemical disciplines to everyday life and societal needs"
+    },
+    {
+      "id": "CHEM9CH1-095",
+      "q": "Which item is associated with polymer chemistry?",
+      "o": [
+        "A volcanic rock sample",
+        "The nucleus of uranium",
+        "A comet orbit",
+        "Teflon-coated cookware"
+      ],
+      "a": 3,
+      "e": "Teflon is a polymer used in non-stick coatings.",
+      "d": "Medium",
+      "topic": "Chemistry applications",
+      "slo": "Relate chemical disciplines to everyday life and societal needs"
+    },
+    {
+      "id": "CHEM9CH1-096",
+      "q": "Which scientific question belongs most naturally to organic chemistry?",
+      "o": [
+        "How does a planet orbit?",
+        "How do functional groups affect molecular properties?",
+        "How do stars form galaxies?",
+        "How does a river change course?"
+      ],
+      "a": 1,
+      "e": "Organic chemistry studies functional groups in carbon compounds.",
+      "d": "Medium",
+      "topic": "Chemistry applications",
+      "slo": "Relate chemical disciplines to everyday life and societal needs"
+    },
+    {
+      "id": "CHEM9CH1-097",
+      "q": "Which scientific question belongs most naturally to inorganic chemistry?",
+      "o": [
+        "How do enzymes digest starch?",
+        "How do drugs bind receptors?",
+        "How does the periodic table organize elements?",
+        "How are polymers molded?"
+      ],
+      "a": 2,
+      "e": "The periodic table and inorganic elements are central to inorganic chemistry.",
+      "d": "Medium",
+      "topic": "Chemistry applications",
+      "slo": "Relate chemical disciplines to everyday life and societal needs"
+    },
+    {
+      "id": "CHEM9CH1-098",
+      "q": "Which scientific question belongs most naturally to physical chemistry?",
+      "o": [
+        "How does bonding influence chemical behavior?",
+        "How do clouds form mountains?",
+        "How is a novel structured?",
+        "How do animals migrate?"
+      ],
+      "a": 0,
+      "e": "Physical chemistry examines the physical principles behind bonding and behavior.",
+      "d": "Medium",
+      "topic": "Chemistry applications",
+      "slo": "Relate chemical disciplines to everyday life and societal needs"
+    },
+    {
+      "id": "CHEM9CH1-099",
+      "q": "Which research area combines chemistry and medicine?",
+      "o": [
+        "Development of new medicinal agents",
+        "Mapping mountain ranges",
+        "Measuring planet diameters",
+        "Writing computer games"
+      ],
+      "a": 0,
+      "e": "Medicinal chemistry develops substances with therapeutic potential.",
+      "d": "Medium",
+      "topic": "Chemistry applications",
+      "slo": "Relate chemical disciplines to everyday life and societal needs"
+    },
+    {
+      "id": "CHEM9CH1-100",
+      "q": "What is a key contribution of chemistry to materials science?",
+      "o": [
+        "Making every material identical",
+        "Understanding and modifying material properties",
+        "Removing the need for testing",
+        "Preventing chemical reactions entirely"
+      ],
+      "a": 1,
+      "e": "Chemical composition and structure influence material properties.",
+      "d": "Medium",
+      "topic": "Chemistry applications",
+      "slo": "Relate chemical disciplines to everyday life and societal needs"
+    },
+    {
+      "id": "CHEM9CH1-101",
+      "q": "Which concept best describes this situation: a student studies how heat changes the speed of a chemical reaction?",
+      "o": [
+        "Organic chemistry",
+        "Medicinal chemistry",
+        "Geochemistry",
+        "Physical chemistry"
+      ],
+      "a": 3,
+      "e": "Reaction rates and energy changes are central to physical chemistry.",
+      "d": "Easy",
+      "topic": "Branches of chemistry",
+      "slo": "Identify branches of chemistry from their scope and applications"
+    },
+    {
+      "id": "CHEM9CH1-102",
+      "q": "Consider this case: A student studies how heat changes the speed of a chemical reaction. What is the most appropriate interpretation?",
+      "o": [
+        "Physical chemistry",
+        "Geochemistry",
+        "Medicinal chemistry",
+        "Organic chemistry"
+      ],
+      "a": 0,
+      "e": "Reaction rates and energy changes are central to physical chemistry.",
+      "d": "Medium",
+      "topic": "Branches of chemistry",
+      "slo": "Identify branches of chemistry from their scope and applications"
+    },
+    {
+      "id": "CHEM9CH1-103",
+      "q": "Which option correctly classifies the activity in which a student studies how heat changes the speed of a chemical reaction?",
+      "o": [
+        "Physical chemistry",
+        "Geochemistry",
+        "Organic chemistry",
+        "Medicinal chemistry"
+      ],
+      "a": 0,
+      "e": "Reaction rates and energy changes are central to physical chemistry.",
+      "d": "Medium",
+      "topic": "Branches of chemistry",
+      "slo": "Identify branches of chemistry from their scope and applications"
+    },
+    {
+      "id": "CHEM9CH1-104",
+      "q": "In the situation where a student studies how heat changes the speed of a chemical reaction, which idea is being demonstrated?",
+      "o": [
+        "Organic chemistry",
+        "Medicinal chemistry",
+        "Physical chemistry",
+        "Geochemistry"
+      ],
+      "a": 2,
+      "e": "Reaction rates and energy changes are central to physical chemistry.",
+      "d": "Hard",
+      "topic": "Branches of chemistry",
+      "slo": "Identify branches of chemistry from their scope and applications"
+    },
+    {
+      "id": "CHEM9CH1-105",
+      "q": "Which concept best describes this situation: a laboratory identifies an unknown salt by testing its components?",
+      "o": [
+        "Nuclear chemistry",
+        "Analytical chemistry",
+        "Astrochemistry",
+        "Polymer chemistry"
+      ],
+      "a": 1,
+      "e": "Analytical chemistry identifies components of substances.",
+      "d": "Easy",
+      "topic": "Branches of chemistry",
+      "slo": "Identify branches of chemistry from their scope and applications"
+    },
+    {
+      "id": "CHEM9CH1-106",
+      "q": "Consider this case: A laboratory identifies an unknown salt by testing its components. What is the most appropriate interpretation?",
+      "o": [
+        "Polymer chemistry",
+        "Analytical chemistry",
+        "Nuclear chemistry",
+        "Astrochemistry"
+      ],
+      "a": 1,
+      "e": "Analytical chemistry identifies components of substances.",
+      "d": "Medium",
+      "topic": "Branches of chemistry",
+      "slo": "Identify branches of chemistry from their scope and applications"
+    },
+    {
+      "id": "CHEM9CH1-107",
+      "q": "Which option correctly classifies the activity in which a laboratory identifies an unknown salt by testing its components?",
+      "o": [
+        "Nuclear chemistry",
+        "Astrochemistry",
+        "Polymer chemistry",
+        "Analytical chemistry"
+      ],
+      "a": 3,
+      "e": "Analytical chemistry identifies components of substances.",
+      "d": "Medium",
+      "topic": "Branches of chemistry",
+      "slo": "Identify branches of chemistry from their scope and applications"
+    },
+    {
+      "id": "CHEM9CH1-108",
+      "q": "In the situation where a laboratory identifies an unknown salt by testing its components, which idea is being demonstrated?",
+      "o": [
+        "Analytical chemistry",
+        "Nuclear chemistry",
+        "Astrochemistry",
+        "Polymer chemistry"
+      ],
+      "a": 0,
+      "e": "Analytical chemistry identifies components of substances.",
+      "d": "Hard",
+      "topic": "Branches of chemistry",
+      "slo": "Identify branches of chemistry from their scope and applications"
+    },
+    {
+      "id": "CHEM9CH1-109",
+      "q": "Which concept best describes this situation: a researcher examines proteins and enzymes in cells?",
+      "o": [
+        "Biochemistry",
+        "Geochemistry",
+        "Industrial chemistry",
+        "Astrochemistry"
+      ],
+      "a": 0,
+      "e": "Biochemistry studies chemical processes in living organisms.",
+      "d": "Easy",
+      "topic": "Branches of chemistry",
+      "slo": "Identify branches of chemistry from their scope and applications"
+    },
+    {
+      "id": "CHEM9CH1-110",
+      "q": "Consider this case: A researcher examines proteins and enzymes in cells. What is the most appropriate interpretation?",
+      "o": [
+        "Industrial chemistry",
+        "Biochemistry",
+        "Astrochemistry",
+        "Geochemistry"
+      ],
+      "a": 1,
+      "e": "Biochemistry studies chemical processes in living organisms.",
+      "d": "Medium",
+      "topic": "Branches of chemistry",
+      "slo": "Identify branches of chemistry from their scope and applications"
+    },
+    {
+      "id": "CHEM9CH1-111",
+      "q": "Which option correctly classifies the activity in which a researcher examines proteins and enzymes in cells?",
+      "o": [
+        "Biochemistry",
+        "Geochemistry",
+        "Industrial chemistry",
+        "Astrochemistry"
+      ],
+      "a": 0,
+      "e": "Biochemistry studies chemical processes in living organisms.",
+      "d": "Medium",
+      "topic": "Branches of chemistry",
+      "slo": "Identify branches of chemistry from their scope and applications"
+    },
+    {
+      "id": "CHEM9CH1-112",
+      "q": "In the situation where a researcher examines proteins and enzymes in cells, which idea is being demonstrated?",
+      "o": [
+        "Industrial chemistry",
+        "Biochemistry",
+        "Astrochemistry",
+        "Geochemistry"
+      ],
+      "a": 1,
+      "e": "Biochemistry studies chemical processes in living organisms.",
+      "d": "Hard",
+      "topic": "Branches of chemistry",
+      "slo": "Identify branches of chemistry from their scope and applications"
+    },
+    {
+      "id": "CHEM9CH1-113",
+      "q": "Which concept best describes this situation: a team develops a new carbon-based pharmaceutical molecule?",
+      "o": [
+        "Industrial chemistry",
+        "Nuclear chemistry",
+        "Geochemistry",
+        "Medicinal chemistry"
+      ],
+      "a": 3,
+      "e": "Medicinal chemistry develops drugs and studies biological targets.",
+      "d": "Easy",
+      "topic": "Branches of chemistry",
+      "slo": "Identify branches of chemistry from their scope and applications"
+    },
+    {
+      "id": "CHEM9CH1-114",
+      "q": "Consider this case: A team develops a new carbon-based pharmaceutical molecule. What is the most appropriate interpretation?",
+      "o": [
+        "Industrial chemistry",
+        "Medicinal chemistry",
+        "Nuclear chemistry",
+        "Geochemistry"
+      ],
+      "a": 1,
+      "e": "Medicinal chemistry develops drugs and studies biological targets.",
+      "d": "Medium",
+      "topic": "Branches of chemistry",
+      "slo": "Identify branches of chemistry from their scope and applications"
+    },
+    {
+      "id": "CHEM9CH1-115",
+      "q": "Which option correctly classifies the activity in which a team develops a new carbon-based pharmaceutical molecule?",
+      "o": [
+        "Industrial chemistry",
+        "Geochemistry",
+        "Nuclear chemistry",
+        "Medicinal chemistry"
+      ],
+      "a": 3,
+      "e": "Medicinal chemistry develops drugs and studies biological targets.",
+      "d": "Medium",
+      "topic": "Branches of chemistry",
+      "slo": "Identify branches of chemistry from their scope and applications"
+    },
+    {
+      "id": "CHEM9CH1-116",
+      "q": "In the situation where a team develops a new carbon-based pharmaceutical molecule, which idea is being demonstrated?",
+      "o": [
+        "Medicinal chemistry",
+        "Geochemistry",
+        "Nuclear chemistry",
+        "Industrial chemistry"
+      ],
+      "a": 0,
+      "e": "Medicinal chemistry develops drugs and studies biological targets.",
+      "d": "Hard",
+      "topic": "Branches of chemistry",
+      "slo": "Identify branches of chemistry from their scope and applications"
+    },
+    {
+      "id": "CHEM9CH1-117",
+      "q": "Which concept best describes this situation: a scientist determines the chemical makeup of a meteorite?",
+      "o": [
+        "Polymer chemistry",
+        "Biochemistry",
+        "Astrochemistry",
+        "Industrial chemistry"
+      ],
+      "a": 2,
+      "e": "Astrochemistry examines chemistry in astronomical environments.",
+      "d": "Easy",
+      "topic": "Branches of chemistry",
+      "slo": "Identify branches of chemistry from their scope and applications"
+    },
+    {
+      "id": "CHEM9CH1-118",
+      "q": "Consider this case: A scientist determines the chemical makeup of a meteorite. What is the most appropriate interpretation?",
+      "o": [
+        "Polymer chemistry",
+        "Astrochemistry",
+        "Biochemistry",
+        "Industrial chemistry"
+      ],
+      "a": 1,
+      "e": "Astrochemistry examines chemistry in astronomical environments.",
+      "d": "Medium",
+      "topic": "Branches of chemistry",
+      "slo": "Identify branches of chemistry from their scope and applications"
+    },
+    {
+      "id": "CHEM9CH1-119",
+      "q": "Which option correctly classifies the activity in which a scientist determines the chemical makeup of a meteorite?",
+      "o": [
+        "Astrochemistry",
+        "Polymer chemistry",
+        "Biochemistry",
+        "Industrial chemistry"
+      ],
+      "a": 0,
+      "e": "Astrochemistry examines chemistry in astronomical environments.",
+      "d": "Medium",
+      "topic": "Branches of chemistry",
+      "slo": "Identify branches of chemistry from their scope and applications"
+    },
+    {
+      "id": "CHEM9CH1-120",
+      "q": "In the situation where a scientist determines the chemical makeup of a meteorite, which idea is being demonstrated?",
+      "o": [
+        "Polymer chemistry",
+        "Biochemistry",
+        "Industrial chemistry",
+        "Astrochemistry"
+      ],
+      "a": 3,
+      "e": "Astrochemistry examines chemistry in astronomical environments.",
+      "d": "Hard",
+      "topic": "Branches of chemistry",
+      "slo": "Identify branches of chemistry from their scope and applications"
+    },
+    {
+      "id": "CHEM9CH1-121",
+      "q": "Which concept best describes this situation: a researcher investigates transformations of minerals in earth’s crust?",
+      "o": [
+        "Geochemistry",
+        "Biochemistry",
+        "Astrochemistry",
+        "Medicinal chemistry"
+      ],
+      "a": 0,
+      "e": "Geochemistry studies chemical composition and transformations in Earth materials.",
+      "d": "Easy",
+      "topic": "Branches of chemistry",
+      "slo": "Identify branches of chemistry from their scope and applications"
+    },
+    {
+      "id": "CHEM9CH1-122",
+      "q": "Consider this case: A researcher investigates transformations of minerals in Earth’s crust. What is the most appropriate interpretation?",
+      "o": [
+        "Biochemistry",
+        "Geochemistry",
+        "Astrochemistry",
+        "Medicinal chemistry"
+      ],
+      "a": 1,
+      "e": "Geochemistry studies chemical composition and transformations in Earth materials.",
+      "d": "Medium",
+      "topic": "Branches of chemistry",
+      "slo": "Identify branches of chemistry from their scope and applications"
+    },
+    {
+      "id": "CHEM9CH1-123",
+      "q": "Which option correctly classifies the activity in which a researcher investigates transformations of minerals in Earth’s crust?",
+      "o": [
+        "Astrochemistry",
+        "Biochemistry",
+        "Medicinal chemistry",
+        "Geochemistry"
+      ],
+      "a": 3,
+      "e": "Geochemistry studies chemical composition and transformations in Earth materials.",
+      "d": "Medium",
+      "topic": "Branches of chemistry",
+      "slo": "Identify branches of chemistry from their scope and applications"
+    },
+    {
+      "id": "CHEM9CH1-124",
+      "q": "In the situation where a researcher investigates transformations of minerals in Earth’s crust, which idea is being demonstrated?",
+      "o": [
+        "Astrochemistry",
+        "Biochemistry",
+        "Medicinal chemistry",
+        "Geochemistry"
+      ],
+      "a": 3,
+      "e": "Geochemistry studies chemical composition and transformations in Earth materials.",
+      "d": "Hard",
+      "topic": "Branches of chemistry",
+      "slo": "Identify branches of chemistry from their scope and applications"
+    },
+    {
+      "id": "CHEM9CH1-125",
+      "q": "Which concept best describes this situation: a factory designs a process for manufacturing ammonia in bulk?",
+      "o": [
+        "Astrochemistry",
+        "Biochemistry",
+        "Nuclear chemistry",
+        "Industrial chemistry"
+      ],
+      "a": 3,
+      "e": "Industrial chemistry concerns large-scale production of chemicals.",
+      "d": "Easy",
+      "topic": "Branches of chemistry",
+      "slo": "Identify branches of chemistry from their scope and applications"
+    },
+    {
+      "id": "CHEM9CH1-126",
+      "q": "Consider this case: A factory designs a process for manufacturing ammonia in bulk. What is the most appropriate interpretation?",
+      "o": [
+        "Astrochemistry",
+        "Biochemistry",
+        "Nuclear chemistry",
+        "Industrial chemistry"
+      ],
+      "a": 3,
+      "e": "Industrial chemistry concerns large-scale production of chemicals.",
+      "d": "Medium",
+      "topic": "Branches of chemistry",
+      "slo": "Identify branches of chemistry from their scope and applications"
+    },
+    {
+      "id": "CHEM9CH1-127",
+      "q": "Which option correctly classifies the activity in which a factory designs a process for manufacturing ammonia in bulk?",
+      "o": [
+        "Industrial chemistry",
+        "Nuclear chemistry",
+        "Astrochemistry",
+        "Biochemistry"
+      ],
+      "a": 0,
+      "e": "Industrial chemistry concerns large-scale production of chemicals.",
+      "d": "Medium",
+      "topic": "Branches of chemistry",
+      "slo": "Identify branches of chemistry from their scope and applications"
+    },
+    {
+      "id": "CHEM9CH1-128",
+      "q": "In the situation where a factory designs a process for manufacturing ammonia in bulk, which idea is being demonstrated?",
+      "o": [
+        "Nuclear chemistry",
+        "Astrochemistry",
+        "Biochemistry",
+        "Industrial chemistry"
+      ],
+      "a": 3,
+      "e": "Industrial chemistry concerns large-scale production of chemicals.",
+      "d": "Hard",
+      "topic": "Branches of chemistry",
+      "slo": "Identify branches of chemistry from their scope and applications"
+    },
+    {
+      "id": "CHEM9CH1-129",
+      "q": "Which concept best describes this situation: a researcher examines how radioactive nuclei change?",
+      "o": [
+        "Nuclear chemistry",
+        "Polymer chemistry",
+        "Analytical chemistry",
+        "Organic chemistry"
+      ],
+      "a": 0,
+      "e": "Nuclear chemistry focuses on changes within atomic nuclei.",
+      "d": "Easy",
+      "topic": "Branches of chemistry",
+      "slo": "Identify branches of chemistry from their scope and applications"
+    },
+    {
+      "id": "CHEM9CH1-130",
+      "q": "Consider this case: A researcher examines how radioactive nuclei change. What is the most appropriate interpretation?",
+      "o": [
+        "Nuclear chemistry",
+        "Analytical chemistry",
+        "Polymer chemistry",
+        "Organic chemistry"
+      ],
+      "a": 0,
+      "e": "Nuclear chemistry focuses on changes within atomic nuclei.",
+      "d": "Medium",
+      "topic": "Branches of chemistry",
+      "slo": "Identify branches of chemistry from their scope and applications"
+    },
+    {
+      "id": "CHEM9CH1-131",
+      "q": "Which option correctly classifies the activity in which a researcher examines how radioactive nuclei change?",
+      "o": [
+        "Polymer chemistry",
+        "Nuclear chemistry",
+        "Organic chemistry",
+        "Analytical chemistry"
+      ],
+      "a": 1,
+      "e": "Nuclear chemistry focuses on changes within atomic nuclei.",
+      "d": "Medium",
+      "topic": "Branches of chemistry",
+      "slo": "Identify branches of chemistry from their scope and applications"
+    },
+    {
+      "id": "CHEM9CH1-132",
+      "q": "In the situation where a researcher examines how radioactive nuclei change, which idea is being demonstrated?",
+      "o": [
+        "Organic chemistry",
+        "Analytical chemistry",
+        "Polymer chemistry",
+        "Nuclear chemistry"
+      ],
+      "a": 3,
+      "e": "Nuclear chemistry focuses on changes within atomic nuclei.",
+      "d": "Hard",
+      "topic": "Branches of chemistry",
+      "slo": "Identify branches of chemistry from their scope and applications"
+    },
+    {
+      "id": "CHEM9CH1-133",
+      "q": "Which concept best describes this situation: a scientist studies properties of polyethylene chains?",
+      "o": [
+        "Geochemistry",
+        "Astrochemistry",
+        "Polymer chemistry",
+        "Nuclear chemistry"
+      ],
+      "a": 2,
+      "e": "Polymer chemistry investigates macromolecules and their properties.",
+      "d": "Easy",
+      "topic": "Branches of chemistry",
+      "slo": "Identify branches of chemistry from their scope and applications"
+    },
+    {
+      "id": "CHEM9CH1-134",
+      "q": "Consider this case: A scientist studies properties of polyethylene chains. What is the most appropriate interpretation?",
+      "o": [
+        "Polymer chemistry",
+        "Astrochemistry",
+        "Geochemistry",
+        "Nuclear chemistry"
+      ],
+      "a": 0,
+      "e": "Polymer chemistry investigates macromolecules and their properties.",
+      "d": "Medium",
+      "topic": "Branches of chemistry",
+      "slo": "Identify branches of chemistry from their scope and applications"
+    },
+    {
+      "id": "CHEM9CH1-135",
+      "q": "Which option correctly classifies the activity in which a scientist studies properties of polyethylene chains?",
+      "o": [
+        "Polymer chemistry",
+        "Geochemistry",
+        "Astrochemistry",
+        "Nuclear chemistry"
+      ],
+      "a": 0,
+      "e": "Polymer chemistry investigates macromolecules and their properties.",
+      "d": "Medium",
+      "topic": "Branches of chemistry",
+      "slo": "Identify branches of chemistry from their scope and applications"
+    },
+    {
+      "id": "CHEM9CH1-136",
+      "q": "In the situation where a scientist studies properties of polyethylene chains, which idea is being demonstrated?",
+      "o": [
+        "Polymer chemistry",
+        "Geochemistry",
+        "Astrochemistry",
+        "Nuclear chemistry"
+      ],
+      "a": 0,
+      "e": "Polymer chemistry investigates macromolecules and their properties.",
+      "d": "Hard",
+      "topic": "Branches of chemistry",
+      "slo": "Identify branches of chemistry from their scope and applications"
+    },
+    {
+      "id": "CHEM9CH1-137",
+      "q": "Which concept best describes this situation: a chemist examines reactions of alcohols and hydrocarbons?",
+      "o": [
+        "Geochemistry",
+        "Industrial chemistry",
+        "Organic chemistry",
+        "Nuclear chemistry"
+      ],
+      "a": 2,
+      "e": "Organic chemistry mainly studies carbon-containing compounds.",
+      "d": "Easy",
+      "topic": "Branches of chemistry",
+      "slo": "Identify branches of chemistry from their scope and applications"
+    },
+    {
+      "id": "CHEM9CH1-138",
+      "q": "Consider this case: A chemist examines reactions of alcohols and hydrocarbons. What is the most appropriate interpretation?",
+      "o": [
+        "Industrial chemistry",
+        "Organic chemistry",
+        "Geochemistry",
+        "Nuclear chemistry"
+      ],
+      "a": 1,
+      "e": "Organic chemistry mainly studies carbon-containing compounds.",
+      "d": "Medium",
+      "topic": "Branches of chemistry",
+      "slo": "Identify branches of chemistry from their scope and applications"
+    },
+    {
+      "id": "CHEM9CH1-139",
+      "q": "Which option correctly classifies the activity in which a chemist examines reactions of alcohols and hydrocarbons?",
+      "o": [
+        "Nuclear chemistry",
+        "Geochemistry",
+        "Organic chemistry",
+        "Industrial chemistry"
+      ],
+      "a": 2,
+      "e": "Organic chemistry mainly studies carbon-containing compounds.",
+      "d": "Medium",
+      "topic": "Branches of chemistry",
+      "slo": "Identify branches of chemistry from their scope and applications"
+    },
+    {
+      "id": "CHEM9CH1-140",
+      "q": "In the situation where a chemist examines reactions of alcohols and hydrocarbons, which idea is being demonstrated?",
+      "o": [
+        "Organic chemistry",
+        "Industrial chemistry",
+        "Geochemistry",
+        "Nuclear chemistry"
+      ],
+      "a": 0,
+      "e": "Organic chemistry mainly studies carbon-containing compounds.",
+      "d": "Hard",
+      "topic": "Branches of chemistry",
+      "slo": "Identify branches of chemistry from their scope and applications"
+    },
+    {
+      "id": "CHEM9CH1-141",
+      "q": "Which concept best describes this situation: a scientist studies the chemistry of metals and their salts?",
+      "o": [
+        "Inorganic chemistry",
+        "Polymer chemistry",
+        "Medicinal chemistry",
+        "Astrochemistry"
+      ],
+      "a": 0,
+      "e": "Inorganic chemistry studies metals, salts and many nonorganic compounds.",
+      "d": "Easy",
+      "topic": "Branches of chemistry",
+      "slo": "Identify branches of chemistry from their scope and applications"
+    },
+    {
+      "id": "CHEM9CH1-142",
+      "q": "Consider this case: A scientist studies the chemistry of metals and their salts. What is the most appropriate interpretation?",
+      "o": [
+        "Polymer chemistry",
+        "Astrochemistry",
+        "Medicinal chemistry",
+        "Inorganic chemistry"
+      ],
+      "a": 3,
+      "e": "Inorganic chemistry studies metals, salts and many nonorganic compounds.",
+      "d": "Medium",
+      "topic": "Branches of chemistry",
+      "slo": "Identify branches of chemistry from their scope and applications"
+    },
+    {
+      "id": "CHEM9CH1-143",
+      "q": "Which option correctly classifies the activity in which a scientist studies the chemistry of metals and their salts?",
+      "o": [
+        "Medicinal chemistry",
+        "Polymer chemistry",
+        "Inorganic chemistry",
+        "Astrochemistry"
+      ],
+      "a": 2,
+      "e": "Inorganic chemistry studies metals, salts and many nonorganic compounds.",
+      "d": "Medium",
+      "topic": "Branches of chemistry",
+      "slo": "Identify branches of chemistry from their scope and applications"
+    },
+    {
+      "id": "CHEM9CH1-144",
+      "q": "In the situation where a scientist studies the chemistry of metals and their salts, which idea is being demonstrated?",
+      "o": [
+        "Astrochemistry",
+        "Medicinal chemistry",
+        "Polymer chemistry",
+        "Inorganic chemistry"
+      ],
+      "a": 3,
+      "e": "Inorganic chemistry studies metals, salts and many nonorganic compounds.",
+      "d": "Hard",
+      "topic": "Branches of chemistry",
+      "slo": "Identify branches of chemistry from their scope and applications"
+    },
+    {
+      "id": "CHEM9CH1-145",
+      "q": "Which concept best describes this situation: a researcher measures traces of lead in drinking water?",
+      "o": [
+        "Astrochemistry",
+        "Nuclear chemistry",
+        "Analytical chemistry",
+        "Polymer chemistry"
+      ],
+      "a": 2,
+      "e": "Measuring chemical amounts in a sample is analytical chemistry.",
+      "d": "Easy",
+      "topic": "Branches of chemistry",
+      "slo": "Identify branches of chemistry from their scope and applications"
+    },
+    {
+      "id": "CHEM9CH1-146",
+      "q": "Consider this case: A researcher measures traces of lead in drinking water. What is the most appropriate interpretation?",
+      "o": [
+        "Polymer chemistry",
+        "Astrochemistry",
+        "Nuclear chemistry",
+        "Analytical chemistry"
+      ],
+      "a": 3,
+      "e": "Measuring chemical amounts in a sample is analytical chemistry.",
+      "d": "Medium",
+      "topic": "Branches of chemistry",
+      "slo": "Identify branches of chemistry from their scope and applications"
+    },
+    {
+      "id": "CHEM9CH1-147",
+      "q": "Which option correctly classifies the activity in which a researcher measures traces of lead in drinking water?",
+      "o": [
+        "Analytical chemistry",
+        "Polymer chemistry",
+        "Nuclear chemistry",
+        "Astrochemistry"
+      ],
+      "a": 0,
+      "e": "Measuring chemical amounts in a sample is analytical chemistry.",
+      "d": "Medium",
+      "topic": "Branches of chemistry",
+      "slo": "Identify branches of chemistry from their scope and applications"
+    },
+    {
+      "id": "CHEM9CH1-148",
+      "q": "In the situation where a researcher measures traces of lead in drinking water, which idea is being demonstrated?",
+      "o": [
+        "Nuclear chemistry",
+        "Polymer chemistry",
+        "Astrochemistry",
+        "Analytical chemistry"
+      ],
+      "a": 3,
+      "e": "Measuring chemical amounts in a sample is analytical chemistry.",
+      "d": "Hard",
+      "topic": "Branches of chemistry",
+      "slo": "Identify branches of chemistry from their scope and applications"
+    },
+    {
+      "id": "CHEM9CH1-149",
+      "q": "Which concept best describes this situation: a chemist investigates reactions that generate smog?",
+      "o": [
+        "Environmental chemistry",
+        "Polymer chemistry",
+        "Medicinal chemistry",
+        "Geochemistry"
+      ],
+      "a": 0,
+      "e": "Environmental chemistry studies pollutants and changes in air and water.",
+      "d": "Easy",
+      "topic": "Branches of chemistry",
+      "slo": "Identify branches of chemistry from their scope and applications"
+    },
+    {
+      "id": "CHEM9CH1-150",
+      "q": "Consider this case: A chemist investigates reactions that generate smog. What is the most appropriate interpretation?",
+      "o": [
+        "Polymer chemistry",
+        "Geochemistry",
+        "Medicinal chemistry",
+        "Environmental chemistry"
+      ],
+      "a": 3,
+      "e": "Environmental chemistry studies pollutants and changes in air and water.",
+      "d": "Medium",
+      "topic": "Branches of chemistry",
+      "slo": "Identify branches of chemistry from their scope and applications"
+    },
+    {
+      "id": "CHEM9CH1-151",
+      "q": "Which option correctly classifies the activity in which a chemist investigates reactions that generate smog?",
+      "o": [
+        "Geochemistry",
+        "Polymer chemistry",
+        "Medicinal chemistry",
+        "Environmental chemistry"
+      ],
+      "a": 3,
+      "e": "Environmental chemistry studies pollutants and changes in air and water.",
+      "d": "Medium",
+      "topic": "Branches of chemistry",
+      "slo": "Identify branches of chemistry from their scope and applications"
+    },
+    {
+      "id": "CHEM9CH1-152",
+      "q": "In the situation where a chemist investigates reactions that generate smog, which idea is being demonstrated?",
+      "o": [
+        "Polymer chemistry",
+        "Geochemistry",
+        "Environmental chemistry",
+        "Medicinal chemistry"
+      ],
+      "a": 2,
+      "e": "Environmental chemistry studies pollutants and changes in air and water.",
+      "d": "Hard",
+      "topic": "Branches of chemistry",
+      "slo": "Identify branches of chemistry from their scope and applications"
+    },
+    {
+      "id": "CHEM9CH1-153",
+      "q": "Which concept best describes this situation: a team tests how a drug binds to a receptor?",
+      "o": [
+        "Geochemistry",
+        "Industrial chemistry",
+        "Nuclear chemistry",
+        "Medicinal chemistry"
+      ],
+      "a": 3,
+      "e": "Drug interactions with biological targets are studied in medicinal chemistry.",
+      "d": "Easy",
+      "topic": "Branches of chemistry",
+      "slo": "Identify branches of chemistry from their scope and applications"
+    },
+    {
+      "id": "CHEM9CH1-154",
+      "q": "Consider this case: A team tests how a drug binds to a receptor. What is the most appropriate interpretation?",
+      "o": [
+        "Industrial chemistry",
+        "Medicinal chemistry",
+        "Nuclear chemistry",
+        "Geochemistry"
+      ],
+      "a": 1,
+      "e": "Drug interactions with biological targets are studied in medicinal chemistry.",
+      "d": "Medium",
+      "topic": "Branches of chemistry",
+      "slo": "Identify branches of chemistry from their scope and applications"
+    },
+    {
+      "id": "CHEM9CH1-155",
+      "q": "Which option correctly classifies the activity in which a team tests how a drug binds to a receptor?",
+      "o": [
+        "Industrial chemistry",
+        "Nuclear chemistry",
+        "Geochemistry",
+        "Medicinal chemistry"
+      ],
+      "a": 3,
+      "e": "Drug interactions with biological targets are studied in medicinal chemistry.",
+      "d": "Medium",
+      "topic": "Branches of chemistry",
+      "slo": "Identify branches of chemistry from their scope and applications"
+    },
+    {
+      "id": "CHEM9CH1-156",
+      "q": "In the situation where a team tests how a drug binds to a receptor, which idea is being demonstrated?",
+      "o": [
+        "Nuclear chemistry",
+        "Geochemistry",
+        "Medicinal chemistry",
+        "Industrial chemistry"
+      ],
+      "a": 2,
+      "e": "Drug interactions with biological targets are studied in medicinal chemistry.",
+      "d": "Hard",
+      "topic": "Branches of chemistry",
+      "slo": "Identify branches of chemistry from their scope and applications"
+    },
+    {
+      "id": "CHEM9CH1-157",
+      "q": "Which concept best describes this situation: a scientist examines chemical reactions in a comet’s icy surface?",
+      "o": [
+        "Astrochemistry",
+        "Geochemistry",
+        "Biochemistry",
+        "Industrial chemistry"
+      ],
+      "a": 0,
+      "e": "Comets are astronomical environments studied in astrochemistry.",
+      "d": "Easy",
+      "topic": "Branches of chemistry",
+      "slo": "Identify branches of chemistry from their scope and applications"
+    },
+    {
+      "id": "CHEM9CH1-158",
+      "q": "Consider this case: A scientist examines chemical reactions in a comet’s icy surface. What is the most appropriate interpretation?",
+      "o": [
+        "Biochemistry",
+        "Industrial chemistry",
+        "Astrochemistry",
+        "Geochemistry"
+      ],
+      "a": 2,
+      "e": "Comets are astronomical environments studied in astrochemistry.",
+      "d": "Medium",
+      "topic": "Branches of chemistry",
+      "slo": "Identify branches of chemistry from their scope and applications"
+    },
+    {
+      "id": "CHEM9CH1-159",
+      "q": "Which option correctly classifies the activity in which a scientist examines chemical reactions in a comet’s icy surface?",
+      "o": [
+        "Geochemistry",
+        "Biochemistry",
+        "Astrochemistry",
+        "Industrial chemistry"
+      ],
+      "a": 2,
+      "e": "Comets are astronomical environments studied in astrochemistry.",
+      "d": "Medium",
+      "topic": "Branches of chemistry",
+      "slo": "Identify branches of chemistry from their scope and applications"
+    },
+    {
+      "id": "CHEM9CH1-160",
+      "q": "In the situation where a scientist examines chemical reactions in a comet’s icy surface, which idea is being demonstrated?",
+      "o": [
+        "Industrial chemistry",
+        "Geochemistry",
+        "Astrochemistry",
+        "Biochemistry"
+      ],
+      "a": 2,
+      "e": "Comets are astronomical environments studied in astrochemistry.",
+      "d": "Hard",
+      "topic": "Branches of chemistry",
+      "slo": "Identify branches of chemistry from their scope and applications"
+    },
+    {
+      "id": "CHEM9CH1-161",
+      "q": "Which concept best describes this situation: a scientist measures how reaction equilibrium changes with temperature?",
+      "o": [
+        "Astrochemistry",
+        "Geochemistry",
+        "Physical chemistry",
+        "Polymer chemistry"
+      ],
+      "a": 2,
+      "e": "Physical chemistry studies energetics and chemical equilibria.",
+      "d": "Easy",
+      "topic": "Branches of chemistry",
+      "slo": "Identify branches of chemistry from their scope and applications"
+    },
+    {
+      "id": "CHEM9CH1-162",
+      "q": "Consider this case: A scientist measures how reaction equilibrium changes with temperature. What is the most appropriate interpretation?",
+      "o": [
+        "Physical chemistry",
+        "Geochemistry",
+        "Polymer chemistry",
+        "Astrochemistry"
+      ],
+      "a": 0,
+      "e": "Physical chemistry studies energetics and chemical equilibria.",
+      "d": "Medium",
+      "topic": "Branches of chemistry",
+      "slo": "Identify branches of chemistry from their scope and applications"
+    },
+    {
+      "id": "CHEM9CH1-163",
+      "q": "Which option correctly classifies the activity in which a scientist measures how reaction equilibrium changes with temperature?",
+      "o": [
+        "Polymer chemistry",
+        "Physical chemistry",
+        "Geochemistry",
+        "Astrochemistry"
+      ],
+      "a": 1,
+      "e": "Physical chemistry studies energetics and chemical equilibria.",
+      "d": "Medium",
+      "topic": "Branches of chemistry",
+      "slo": "Identify branches of chemistry from their scope and applications"
+    },
+    {
+      "id": "CHEM9CH1-164",
+      "q": "In the situation where a scientist measures how reaction equilibrium changes with temperature, which idea is being demonstrated?",
+      "o": [
+        "Astrochemistry",
+        "Polymer chemistry",
+        "Geochemistry",
+        "Physical chemistry"
+      ],
+      "a": 3,
+      "e": "Physical chemistry studies energetics and chemical equilibria.",
+      "d": "Hard",
+      "topic": "Branches of chemistry",
+      "slo": "Identify branches of chemistry from their scope and applications"
+    },
+    {
+      "id": "CHEM9CH1-165",
+      "q": "Which concept best describes this situation: a company tests a biodegradable plastic formulation?",
+      "o": [
+        "Astrochemistry",
+        "Polymer chemistry",
+        "Geochemistry",
+        "Nuclear chemistry"
+      ],
+      "a": 1,
+      "e": "Plastics are polymeric materials whose properties are studied in polymer chemistry.",
+      "d": "Easy",
+      "topic": "Branches of chemistry",
+      "slo": "Identify branches of chemistry from their scope and applications"
+    },
+    {
+      "id": "CHEM9CH1-166",
+      "q": "Consider this case: A company tests a biodegradable plastic formulation. What is the most appropriate interpretation?",
+      "o": [
+        "Geochemistry",
+        "Polymer chemistry",
+        "Astrochemistry",
+        "Nuclear chemistry"
+      ],
+      "a": 1,
+      "e": "Plastics are polymeric materials whose properties are studied in polymer chemistry.",
+      "d": "Medium",
+      "topic": "Branches of chemistry",
+      "slo": "Identify branches of chemistry from their scope and applications"
+    },
+    {
+      "id": "CHEM9CH1-167",
+      "q": "Which option correctly classifies the activity in which a company tests a biodegradable plastic formulation?",
+      "o": [
+        "Geochemistry",
+        "Astrochemistry",
+        "Polymer chemistry",
+        "Nuclear chemistry"
+      ],
+      "a": 2,
+      "e": "Plastics are polymeric materials whose properties are studied in polymer chemistry.",
+      "d": "Medium",
+      "topic": "Branches of chemistry",
+      "slo": "Identify branches of chemistry from their scope and applications"
+    },
+    {
+      "id": "CHEM9CH1-168",
+      "q": "In the situation where a company tests a biodegradable plastic formulation, which idea is being demonstrated?",
+      "o": [
+        "Astrochemistry",
+        "Nuclear chemistry",
+        "Polymer chemistry",
+        "Geochemistry"
+      ],
+      "a": 2,
+      "e": "Plastics are polymeric materials whose properties are studied in polymer chemistry.",
+      "d": "Hard",
+      "topic": "Branches of chemistry",
+      "slo": "Identify branches of chemistry from their scope and applications"
+    },
+    {
+      "id": "CHEM9CH1-169",
+      "q": "Which concept best describes this situation: a researcher studies how pollutants travel through a river?",
+      "o": [
+        "Medicinal chemistry",
+        "Nuclear chemistry",
+        "Environmental chemistry",
+        "Astrochemistry"
+      ],
+      "a": 2,
+      "e": "Environmental chemistry studies substances and their effects in natural waters.",
+      "d": "Easy",
+      "topic": "Branches of chemistry",
+      "slo": "Identify branches of chemistry from their scope and applications"
+    },
+    {
+      "id": "CHEM9CH1-170",
+      "q": "Consider this case: A researcher studies how pollutants travel through a river. What is the most appropriate interpretation?",
+      "o": [
+        "Astrochemistry",
+        "Medicinal chemistry",
+        "Environmental chemistry",
+        "Nuclear chemistry"
+      ],
+      "a": 2,
+      "e": "Environmental chemistry studies substances and their effects in natural waters.",
+      "d": "Medium",
+      "topic": "Branches of chemistry",
+      "slo": "Identify branches of chemistry from their scope and applications"
+    },
+    {
+      "id": "CHEM9CH1-171",
+      "q": "Which option correctly classifies the activity in which a researcher studies how pollutants travel through a river?",
+      "o": [
+        "Astrochemistry",
+        "Environmental chemistry",
+        "Medicinal chemistry",
+        "Nuclear chemistry"
+      ],
+      "a": 1,
+      "e": "Environmental chemistry studies substances and their effects in natural waters.",
+      "d": "Medium",
+      "topic": "Branches of chemistry",
+      "slo": "Identify branches of chemistry from their scope and applications"
+    },
+    {
+      "id": "CHEM9CH1-172",
+      "q": "In the situation where a researcher studies how pollutants travel through a river, which idea is being demonstrated?",
+      "o": [
+        "Medicinal chemistry",
+        "Environmental chemistry",
+        "Nuclear chemistry",
+        "Astrochemistry"
+      ],
+      "a": 1,
+      "e": "Environmental chemistry studies substances and their effects in natural waters.",
+      "d": "Hard",
+      "topic": "Branches of chemistry",
+      "slo": "Identify branches of chemistry from their scope and applications"
+    },
+    {
+      "id": "CHEM9CH1-173",
+      "q": "Which concept best describes this situation: a team analyzes mineral nutrients in agricultural soil?",
+      "o": [
+        "Medicinal chemistry",
+        "Nuclear chemistry",
+        "Astrochemistry",
+        "Geochemistry"
+      ],
+      "a": 3,
+      "e": "Soil and mineral composition fall within geochemistry.",
+      "d": "Easy",
+      "topic": "Branches of chemistry",
+      "slo": "Identify branches of chemistry from their scope and applications"
+    },
+    {
+      "id": "CHEM9CH1-174",
+      "q": "Consider this case: A team analyzes mineral nutrients in agricultural soil. What is the most appropriate interpretation?",
+      "o": [
+        "Medicinal chemistry",
+        "Astrochemistry",
+        "Geochemistry",
+        "Nuclear chemistry"
+      ],
+      "a": 2,
+      "e": "Soil and mineral composition fall within geochemistry.",
+      "d": "Medium",
+      "topic": "Branches of chemistry",
+      "slo": "Identify branches of chemistry from their scope and applications"
+    },
+    {
+      "id": "CHEM9CH1-175",
+      "q": "Which option correctly classifies the activity in which a team analyzes mineral nutrients in agricultural soil?",
+      "o": [
+        "Geochemistry",
+        "Nuclear chemistry",
+        "Astrochemistry",
+        "Medicinal chemistry"
+      ],
+      "a": 0,
+      "e": "Soil and mineral composition fall within geochemistry.",
+      "d": "Medium",
+      "topic": "Branches of chemistry",
+      "slo": "Identify branches of chemistry from their scope and applications"
+    },
+    {
+      "id": "CHEM9CH1-176",
+      "q": "In the situation where a team analyzes mineral nutrients in agricultural soil, which idea is being demonstrated?",
+      "o": [
+        "Geochemistry",
+        "Nuclear chemistry",
+        "Astrochemistry",
+        "Medicinal chemistry"
+      ],
+      "a": 0,
+      "e": "Soil and mineral composition fall within geochemistry.",
+      "d": "Hard",
+      "topic": "Branches of chemistry",
+      "slo": "Identify branches of chemistry from their scope and applications"
+    },
+    {
+      "id": "CHEM9CH1-177",
+      "q": "Which concept best describes this situation: a chemist investigates the role of dna in living cells?",
+      "o": [
+        "Biochemistry",
+        "Industrial chemistry",
+        "Geochemistry",
+        "Astrochemistry"
+      ],
+      "a": 0,
+      "e": "Biochemistry studies biomolecules such as DNA.",
+      "d": "Easy",
+      "topic": "Branches of chemistry",
+      "slo": "Identify branches of chemistry from their scope and applications"
+    },
+    {
+      "id": "CHEM9CH1-178",
+      "q": "Consider this case: A chemist investigates the role of DNA in living cells. What is the most appropriate interpretation?",
+      "o": [
+        "Industrial chemistry",
+        "Astrochemistry",
+        "Biochemistry",
+        "Geochemistry"
+      ],
+      "a": 2,
+      "e": "Biochemistry studies biomolecules such as DNA.",
+      "d": "Medium",
+      "topic": "Branches of chemistry",
+      "slo": "Identify branches of chemistry from their scope and applications"
+    },
+    {
+      "id": "CHEM9CH1-179",
+      "q": "Which option correctly classifies the activity in which a chemist investigates the role of DNA in living cells?",
+      "o": [
+        "Biochemistry",
+        "Industrial chemistry",
+        "Geochemistry",
+        "Astrochemistry"
+      ],
+      "a": 0,
+      "e": "Biochemistry studies biomolecules such as DNA.",
+      "d": "Medium",
+      "topic": "Branches of chemistry",
+      "slo": "Identify branches of chemistry from their scope and applications"
+    },
+    {
+      "id": "CHEM9CH1-180",
+      "q": "In the situation where a chemist investigates the role of DNA in living cells, which idea is being demonstrated?",
+      "o": [
+        "Geochemistry",
+        "Biochemistry",
+        "Astrochemistry",
+        "Industrial chemistry"
+      ],
+      "a": 1,
+      "e": "Biochemistry studies biomolecules such as DNA.",
+      "d": "Hard",
+      "topic": "Branches of chemistry",
+      "slo": "Identify branches of chemistry from their scope and applications"
+    },
+    {
+      "id": "CHEM9CH1-181",
+      "q": "Which concept best describes this situation: an experiment is repeated under identical conditions?",
+      "o": [
+        "Check reproducibility",
+        "Change the hypothesis secretly",
+        "Remove the need for measurements",
+        "Guarantee a preferred result"
+      ],
+      "a": 0,
+      "e": "Repeated experiments check whether findings are reliable.",
+      "d": "Easy",
+      "topic": "Scientific method",
+      "slo": "Apply steps and evidence-based reasoning in scientific investigations"
+    },
+    {
+      "id": "CHEM9CH1-182",
+      "q": "Consider this case: An experiment is repeated under identical conditions. What is the most appropriate interpretation?",
+      "o": [
+        "Change the hypothesis secretly",
+        "Remove the need for measurements",
+        "Guarantee a preferred result",
+        "Check reproducibility"
+      ],
+      "a": 3,
+      "e": "Repeated experiments check whether findings are reliable.",
+      "d": "Medium",
+      "topic": "Scientific method",
+      "slo": "Apply steps and evidence-based reasoning in scientific investigations"
+    },
+    {
+      "id": "CHEM9CH1-183",
+      "q": "Which option correctly classifies the activity in which an experiment is repeated under identical conditions?",
+      "o": [
+        "Check reproducibility",
+        "Guarantee a preferred result",
+        "Change the hypothesis secretly",
+        "Remove the need for measurements"
+      ],
+      "a": 0,
+      "e": "Repeated experiments check whether findings are reliable.",
+      "d": "Medium",
+      "topic": "Scientific method",
+      "slo": "Apply steps and evidence-based reasoning in scientific investigations"
+    },
+    {
+      "id": "CHEM9CH1-184",
+      "q": "In the situation where an experiment is repeated under identical conditions, which idea is being demonstrated?",
+      "o": [
+        "Remove the need for measurements",
+        "Check reproducibility",
+        "Change the hypothesis secretly",
+        "Guarantee a preferred result"
+      ],
+      "a": 1,
+      "e": "Repeated experiments check whether findings are reliable.",
+      "d": "Hard",
+      "topic": "Scientific method",
+      "slo": "Apply steps and evidence-based reasoning in scientific investigations"
+    },
+    {
+      "id": "CHEM9CH1-185",
+      "q": "Which concept best describes this situation: a claim is tested by comparing results with and without a treatment?",
+      "o": [
+        "Change all variables together",
+        "Use a control group",
+        "Ignore untreated samples",
+        "Record only favorable results"
+      ],
+      "a": 1,
+      "e": "A control gives a baseline for comparison.",
+      "d": "Easy",
+      "topic": "Scientific method",
+      "slo": "Apply steps and evidence-based reasoning in scientific investigations"
+    },
+    {
+      "id": "CHEM9CH1-186",
+      "q": "Consider this case: A claim is tested by comparing results with and without a treatment. What is the most appropriate interpretation?",
+      "o": [
+        "Use a control group",
+        "Change all variables together",
+        "Record only favorable results",
+        "Ignore untreated samples"
+      ],
+      "a": 0,
+      "e": "A control gives a baseline for comparison.",
+      "d": "Medium",
+      "topic": "Scientific method",
+      "slo": "Apply steps and evidence-based reasoning in scientific investigations"
+    },
+    {
+      "id": "CHEM9CH1-187",
+      "q": "Which option correctly classifies the activity in which a claim is tested by comparing results with and without a treatment?",
+      "o": [
+        "Change all variables together",
+        "Ignore untreated samples",
+        "Use a control group",
+        "Record only favorable results"
+      ],
+      "a": 2,
+      "e": "A control gives a baseline for comparison.",
+      "d": "Medium",
+      "topic": "Scientific method",
+      "slo": "Apply steps and evidence-based reasoning in scientific investigations"
+    },
+    {
+      "id": "CHEM9CH1-188",
+      "q": "In the situation where a claim is tested by comparing results with and without a treatment, which idea is being demonstrated?",
+      "o": [
+        "Ignore untreated samples",
+        "Record only favorable results",
+        "Change all variables together",
+        "Use a control group"
+      ],
+      "a": 3,
+      "e": "A control gives a baseline for comparison.",
+      "d": "Hard",
+      "topic": "Scientific method",
+      "slo": "Apply steps and evidence-based reasoning in scientific investigations"
+    },
+    {
+      "id": "CHEM9CH1-189",
+      "q": "Which concept best describes this situation: a student changes only the water temperature while observing dissolving time?",
+      "o": [
+        "Use different solutes in every trial",
+        "Change stirring and temperature together",
+        "Control other variables",
+        "Avoid recording times"
+      ],
+      "a": 2,
+      "e": "Controlling other variables isolates the effect of temperature.",
+      "d": "Easy",
+      "topic": "Scientific method",
+      "slo": "Apply steps and evidence-based reasoning in scientific investigations"
+    },
+    {
+      "id": "CHEM9CH1-190",
+      "q": "Consider this case: A student changes only the water temperature while observing dissolving time. What is the most appropriate interpretation?",
+      "o": [
+        "Avoid recording times",
+        "Change stirring and temperature together",
+        "Use different solutes in every trial",
+        "Control other variables"
+      ],
+      "a": 3,
+      "e": "Controlling other variables isolates the effect of temperature.",
+      "d": "Medium",
+      "topic": "Scientific method",
+      "slo": "Apply steps and evidence-based reasoning in scientific investigations"
+    },
+    {
+      "id": "CHEM9CH1-191",
+      "q": "Which option correctly classifies the activity in which a student changes only the water temperature while observing dissolving time?",
+      "o": [
+        "Avoid recording times",
+        "Control other variables",
+        "Change stirring and temperature together",
+        "Use different solutes in every trial"
+      ],
+      "a": 1,
+      "e": "Controlling other variables isolates the effect of temperature.",
+      "d": "Medium",
+      "topic": "Scientific method",
+      "slo": "Apply steps and evidence-based reasoning in scientific investigations"
+    },
+    {
+      "id": "CHEM9CH1-192",
+      "q": "In the situation where a student changes only the water temperature while observing dissolving time, which idea is being demonstrated?",
+      "o": [
+        "Change stirring and temperature together",
+        "Control other variables",
+        "Use different solutes in every trial",
+        "Avoid recording times"
+      ],
+      "a": 1,
+      "e": "Controlling other variables isolates the effect of temperature.",
+      "d": "Hard",
+      "topic": "Scientific method",
+      "slo": "Apply steps and evidence-based reasoning in scientific investigations"
+    },
+    {
+      "id": "CHEM9CH1-193",
+      "q": "Which concept best describes this situation: a scientist predicts that warmer water will dissolve a sample faster?",
+      "o": [
+        "A proven scientific law",
+        "A testable hypothesis",
+        "An instrument reading",
+        "An unchangeable fact"
+      ],
+      "a": 1,
+      "e": "A hypothesis is a testable proposed explanation or prediction.",
+      "d": "Easy",
+      "topic": "Scientific method",
+      "slo": "Apply steps and evidence-based reasoning in scientific investigations"
+    },
+    {
+      "id": "CHEM9CH1-194",
+      "q": "Consider this case: A scientist predicts that warmer water will dissolve a sample faster. What is the most appropriate interpretation?",
+      "o": [
+        "A testable hypothesis",
+        "A proven scientific law",
+        "An unchangeable fact",
+        "An instrument reading"
+      ],
+      "a": 0,
+      "e": "A hypothesis is a testable proposed explanation or prediction.",
+      "d": "Medium",
+      "topic": "Scientific method",
+      "slo": "Apply steps and evidence-based reasoning in scientific investigations"
+    },
+    {
+      "id": "CHEM9CH1-195",
+      "q": "Which option correctly classifies the activity in which a scientist predicts that warmer water will dissolve a sample faster?",
+      "o": [
+        "A testable hypothesis",
+        "An unchangeable fact",
+        "A proven scientific law",
+        "An instrument reading"
+      ],
+      "a": 0,
+      "e": "A hypothesis is a testable proposed explanation or prediction.",
+      "d": "Medium",
+      "topic": "Scientific method",
+      "slo": "Apply steps and evidence-based reasoning in scientific investigations"
+    },
+    {
+      "id": "CHEM9CH1-196",
+      "q": "In the situation where a scientist predicts that warmer water will dissolve a sample faster, which idea is being demonstrated?",
+      "o": [
+        "A proven scientific law",
+        "A testable hypothesis",
+        "An unchangeable fact",
+        "An instrument reading"
+      ],
+      "a": 1,
+      "e": "A hypothesis is a testable proposed explanation or prediction.",
+      "d": "Hard",
+      "topic": "Scientific method",
+      "slo": "Apply steps and evidence-based reasoning in scientific investigations"
+    },
+    {
+      "id": "CHEM9CH1-197",
+      "q": "Which concept best describes this situation: a student writes that a solution turned blue?",
+      "o": [
+        "Mathematical model",
+        "Quantitative observation",
+        "Qualitative observation",
+        "Scientific law"
+      ],
+      "a": 2,
+      "e": "Color is a descriptive or qualitative observation.",
+      "d": "Easy",
+      "topic": "Scientific method",
+      "slo": "Apply steps and evidence-based reasoning in scientific investigations"
+    },
+    {
+      "id": "CHEM9CH1-198",
+      "q": "Consider this case: A student writes that a solution turned blue. What is the most appropriate interpretation?",
+      "o": [
+        "Mathematical model",
+        "Qualitative observation",
+        "Quantitative observation",
+        "Scientific law"
+      ],
+      "a": 1,
+      "e": "Color is a descriptive or qualitative observation.",
+      "d": "Medium",
+      "topic": "Scientific method",
+      "slo": "Apply steps and evidence-based reasoning in scientific investigations"
+    },
+    {
+      "id": "CHEM9CH1-199",
+      "q": "Which option correctly classifies the activity in which a student writes that a solution turned blue?",
+      "o": [
+        "Mathematical model",
+        "Qualitative observation",
+        "Scientific law",
+        "Quantitative observation"
+      ],
+      "a": 1,
+      "e": "Color is a descriptive or qualitative observation.",
+      "d": "Medium",
+      "topic": "Scientific method",
+      "slo": "Apply steps and evidence-based reasoning in scientific investigations"
+    },
+    {
+      "id": "CHEM9CH1-200",
+      "q": "In the situation where a student writes that a solution turned blue, which idea is being demonstrated?",
+      "o": [
+        "Mathematical model",
+        "Qualitative observation",
+        "Quantitative observation",
+        "Scientific law"
+      ],
+      "a": 1,
+      "e": "Color is a descriptive or qualitative observation.",
+      "d": "Hard",
+      "topic": "Scientific method",
+      "slo": "Apply steps and evidence-based reasoning in scientific investigations"
+    },
+    {
+      "id": "CHEM9CH1-201",
+      "q": "Which concept best describes this situation: a student records a temperature of 35 degrees celsius?",
+      "o": [
+        "Quantitative observation",
+        "Qualitative observation",
+        "Personal opinion",
+        "Unsupported inference"
+      ],
+      "a": 0,
+      "e": "A numerical measurement is quantitative data.",
+      "d": "Easy",
+      "topic": "Scientific method",
+      "slo": "Apply steps and evidence-based reasoning in scientific investigations"
+    },
+    {
+      "id": "CHEM9CH1-202",
+      "q": "Consider this case: A student records a temperature of 35 degrees Celsius. What is the most appropriate interpretation?",
+      "o": [
+        "Personal opinion",
+        "Unsupported inference",
+        "Quantitative observation",
+        "Qualitative observation"
+      ],
+      "a": 2,
+      "e": "A numerical measurement is quantitative data.",
+      "d": "Medium",
+      "topic": "Scientific method",
+      "slo": "Apply steps and evidence-based reasoning in scientific investigations"
+    },
+    {
+      "id": "CHEM9CH1-203",
+      "q": "Which option correctly classifies the activity in which a student records a temperature of 35 degrees Celsius?",
+      "o": [
+        "Quantitative observation",
+        "Qualitative observation",
+        "Personal opinion",
+        "Unsupported inference"
+      ],
+      "a": 0,
+      "e": "A numerical measurement is quantitative data.",
+      "d": "Medium",
+      "topic": "Scientific method",
+      "slo": "Apply steps and evidence-based reasoning in scientific investigations"
+    },
+    {
+      "id": "CHEM9CH1-204",
+      "q": "In the situation where a student records a temperature of 35 degrees Celsius, which idea is being demonstrated?",
+      "o": [
+        "Personal opinion",
+        "Unsupported inference",
+        "Quantitative observation",
+        "Qualitative observation"
+      ],
+      "a": 2,
+      "e": "A numerical measurement is quantitative data.",
+      "d": "Hard",
+      "topic": "Scientific method",
+      "slo": "Apply steps and evidence-based reasoning in scientific investigations"
+    },
+    {
+      "id": "CHEM9CH1-205",
+      "q": "Which concept best describes this situation: a scientist notices bubbles during mixing and says a gas must be forming?",
+      "o": [
+        "Inference from an observation",
+        "Exact mass measurement",
+        "Proven reaction mechanism",
+        "Direct measurement of gas identity"
+      ],
+      "a": 0,
+      "e": "Bubbles are observed directly; gas formation is an inference.",
+      "d": "Easy",
+      "topic": "Scientific method",
+      "slo": "Apply steps and evidence-based reasoning in scientific investigations"
+    },
+    {
+      "id": "CHEM9CH1-206",
+      "q": "Consider this case: A scientist notices bubbles during mixing and says a gas must be forming. What is the most appropriate interpretation?",
+      "o": [
+        "Direct measurement of gas identity",
+        "Proven reaction mechanism",
+        "Exact mass measurement",
+        "Inference from an observation"
+      ],
+      "a": 3,
+      "e": "Bubbles are observed directly; gas formation is an inference.",
+      "d": "Medium",
+      "topic": "Scientific method",
+      "slo": "Apply steps and evidence-based reasoning in scientific investigations"
+    },
+    {
+      "id": "CHEM9CH1-207",
+      "q": "Which option correctly classifies the activity in which a scientist notices bubbles during mixing and says a gas must be forming?",
+      "o": [
+        "Inference from an observation",
+        "Proven reaction mechanism",
+        "Exact mass measurement",
+        "Direct measurement of gas identity"
+      ],
+      "a": 0,
+      "e": "Bubbles are observed directly; gas formation is an inference.",
+      "d": "Medium",
+      "topic": "Scientific method",
+      "slo": "Apply steps and evidence-based reasoning in scientific investigations"
+    },
+    {
+      "id": "CHEM9CH1-208",
+      "q": "In the situation where a scientist notices bubbles during mixing and says a gas must be forming, which idea is being demonstrated?",
+      "o": [
+        "Exact mass measurement",
+        "Inference from an observation",
+        "Proven reaction mechanism",
+        "Direct measurement of gas identity"
+      ],
+      "a": 1,
+      "e": "Bubbles are observed directly; gas formation is an inference.",
+      "d": "Hard",
+      "topic": "Scientific method",
+      "slo": "Apply steps and evidence-based reasoning in scientific investigations"
+    },
+    {
+      "id": "CHEM9CH1-209",
+      "q": "Which concept best describes this situation: experimental results disagree with a proposed explanation?",
+      "o": [
+        "Repeat only successful trials",
+        "Hide the conflicting data",
+        "Assume the equipment is always correct",
+        "Revise or reject the hypothesis"
+      ],
+      "a": 3,
+      "e": "Scientific explanations must respond to evidence.",
+      "d": "Easy",
+      "topic": "Scientific method",
+      "slo": "Apply steps and evidence-based reasoning in scientific investigations"
+    },
+    {
+      "id": "CHEM9CH1-210",
+      "q": "Consider this case: Experimental results disagree with a proposed explanation. What is the most appropriate interpretation?",
+      "o": [
+        "Repeat only successful trials",
+        "Revise or reject the hypothesis",
+        "Hide the conflicting data",
+        "Assume the equipment is always correct"
+      ],
+      "a": 1,
+      "e": "Scientific explanations must respond to evidence.",
+      "d": "Medium",
+      "topic": "Scientific method",
+      "slo": "Apply steps and evidence-based reasoning in scientific investigations"
+    },
+    {
+      "id": "CHEM9CH1-211",
+      "q": "Which option correctly classifies the activity in which experimental results disagree with a proposed explanation?",
+      "o": [
+        "Hide the conflicting data",
+        "Repeat only successful trials",
+        "Assume the equipment is always correct",
+        "Revise or reject the hypothesis"
+      ],
+      "a": 3,
+      "e": "Scientific explanations must respond to evidence.",
+      "d": "Medium",
+      "topic": "Scientific method",
+      "slo": "Apply steps and evidence-based reasoning in scientific investigations"
+    },
+    {
+      "id": "CHEM9CH1-212",
+      "q": "In the situation where experimental results disagree with a proposed explanation, which idea is being demonstrated?",
+      "o": [
+        "Hide the conflicting data",
+        "Assume the equipment is always correct",
+        "Revise or reject the hypothesis",
+        "Repeat only successful trials"
+      ],
+      "a": 2,
+      "e": "Scientific explanations must respond to evidence.",
+      "d": "Hard",
+      "topic": "Scientific method",
+      "slo": "Apply steps and evidence-based reasoning in scientific investigations"
+    },
+    {
+      "id": "CHEM9CH1-213",
+      "q": "Which concept best describes this situation: a lab worker records measurements immediately in a notebook?",
+      "o": [
+        "Replace repeat trials",
+        "Maintain an accurate data record",
+        "Guarantee the conclusion",
+        "Eliminate instrument error"
+      ],
+      "a": 1,
+      "e": "Careful records make experiments traceable and reviewable.",
+      "d": "Easy",
+      "topic": "Scientific method",
+      "slo": "Apply steps and evidence-based reasoning in scientific investigations"
+    },
+    {
+      "id": "CHEM9CH1-214",
+      "q": "Consider this case: A lab worker records measurements immediately in a notebook. What is the most appropriate interpretation?",
+      "o": [
+        "Eliminate instrument error",
+        "Maintain an accurate data record",
+        "Replace repeat trials",
+        "Guarantee the conclusion"
+      ],
+      "a": 1,
+      "e": "Careful records make experiments traceable and reviewable.",
+      "d": "Medium",
+      "topic": "Scientific method",
+      "slo": "Apply steps and evidence-based reasoning in scientific investigations"
+    },
+    {
+      "id": "CHEM9CH1-215",
+      "q": "Which option correctly classifies the activity in which a lab worker records measurements immediately in a notebook?",
+      "o": [
+        "Eliminate instrument error",
+        "Guarantee the conclusion",
+        "Replace repeat trials",
+        "Maintain an accurate data record"
+      ],
+      "a": 3,
+      "e": "Careful records make experiments traceable and reviewable.",
+      "d": "Medium",
+      "topic": "Scientific method",
+      "slo": "Apply steps and evidence-based reasoning in scientific investigations"
+    },
+    {
+      "id": "CHEM9CH1-216",
+      "q": "In the situation where a lab worker records measurements immediately in a notebook, which idea is being demonstrated?",
+      "o": [
+        "Eliminate instrument error",
+        "Maintain an accurate data record",
+        "Guarantee the conclusion",
+        "Replace repeat trials"
+      ],
+      "a": 1,
+      "e": "Careful records make experiments traceable and reviewable.",
+      "d": "Hard",
+      "topic": "Scientific method",
+      "slo": "Apply steps and evidence-based reasoning in scientific investigations"
+    },
+    {
+      "id": "CHEM9CH1-217",
+      "q": "Which concept best describes this situation: a model uses colored spheres to represent atoms?",
+      "o": [
+        "Replace every experiment",
+        "Prove all bond properties",
+        "Show atoms at actual scale",
+        "Represent an unseen structure simply"
+      ],
+      "a": 3,
+      "e": "Scientific models simplify systems to aid explanation.",
+      "d": "Easy",
+      "topic": "Scientific method",
+      "slo": "Apply steps and evidence-based reasoning in scientific investigations"
+    },
+    {
+      "id": "CHEM9CH1-218",
+      "q": "Consider this case: A model uses colored spheres to represent atoms. What is the most appropriate interpretation?",
+      "o": [
+        "Prove all bond properties",
+        "Represent an unseen structure simply",
+        "Show atoms at actual scale",
+        "Replace every experiment"
+      ],
+      "a": 1,
+      "e": "Scientific models simplify systems to aid explanation.",
+      "d": "Medium",
+      "topic": "Scientific method",
+      "slo": "Apply steps and evidence-based reasoning in scientific investigations"
+    },
+    {
+      "id": "CHEM9CH1-219",
+      "q": "Which option correctly classifies the activity in which a model uses colored spheres to represent atoms?",
+      "o": [
+        "Show atoms at actual scale",
+        "Replace every experiment",
+        "Prove all bond properties",
+        "Represent an unseen structure simply"
+      ],
+      "a": 3,
+      "e": "Scientific models simplify systems to aid explanation.",
+      "d": "Medium",
+      "topic": "Scientific method",
+      "slo": "Apply steps and evidence-based reasoning in scientific investigations"
+    },
+    {
+      "id": "CHEM9CH1-220",
+      "q": "In the situation where a model uses colored spheres to represent atoms, which idea is being demonstrated?",
+      "o": [
+        "Represent an unseen structure simply",
+        "Show atoms at actual scale",
+        "Prove all bond properties",
+        "Replace every experiment"
+      ],
+      "a": 0,
+      "e": "Scientific models simplify systems to aid explanation.",
+      "d": "Hard",
+      "topic": "Scientific method",
+      "slo": "Apply steps and evidence-based reasoning in scientific investigations"
+    },
+    {
+      "id": "CHEM9CH1-221",
+      "q": "Which concept best describes this situation: a chemist uses a spectrometer to identify a sample?",
+      "o": [
+        "Engineering without science",
+        "A hypothesis without testing",
+        "An unrelated artistic process",
+        "Technology supporting science"
+      ],
+      "a": 3,
+      "e": "Instruments are technologies used to collect scientific evidence.",
+      "d": "Easy",
+      "topic": "Science and technology",
+      "slo": "Differentiate science, technology and engineering in practical contexts"
+    },
+    {
+      "id": "CHEM9CH1-222",
+      "q": "Consider this case: A chemist uses a spectrometer to identify a sample. What is the most appropriate interpretation?",
+      "o": [
+        "A hypothesis without testing",
+        "Technology supporting science",
+        "An unrelated artistic process",
+        "Engineering without science"
+      ],
+      "a": 1,
+      "e": "Instruments are technologies used to collect scientific evidence.",
+      "d": "Medium",
+      "topic": "Science and technology",
+      "slo": "Differentiate science, technology and engineering in practical contexts"
+    },
+    {
+      "id": "CHEM9CH1-223",
+      "q": "Which option correctly classifies the activity in which a chemist uses a spectrometer to identify a sample?",
+      "o": [
+        "A hypothesis without testing",
+        "Engineering without science",
+        "Technology supporting science",
+        "An unrelated artistic process"
+      ],
+      "a": 2,
+      "e": "Instruments are technologies used to collect scientific evidence.",
+      "d": "Medium",
+      "topic": "Science and technology",
+      "slo": "Differentiate science, technology and engineering in practical contexts"
+    },
+    {
+      "id": "CHEM9CH1-224",
+      "q": "In the situation where a chemist uses a spectrometer to identify a sample, which idea is being demonstrated?",
+      "o": [
+        "Engineering without science",
+        "Technology supporting science",
+        "An unrelated artistic process",
+        "A hypothesis without testing"
+      ],
+      "a": 1,
+      "e": "Instruments are technologies used to collect scientific evidence.",
+      "d": "Hard",
+      "topic": "Science and technology",
+      "slo": "Differentiate science, technology and engineering in practical contexts"
+    },
+    {
+      "id": "CHEM9CH1-225",
+      "q": "Which concept best describes this situation: a team designs a safer chemical reactor for a factory?",
+      "o": [
+        "Pure observation only",
+        "Uncontrolled experimentation",
+        "Engineering",
+        "Scientific classification only"
+      ],
+      "a": 2,
+      "e": "Engineering designs practical systems using scientific knowledge.",
+      "d": "Easy",
+      "topic": "Science and technology",
+      "slo": "Differentiate science, technology and engineering in practical contexts"
+    },
+    {
+      "id": "CHEM9CH1-226",
+      "q": "Consider this case: A team designs a safer chemical reactor for a factory. What is the most appropriate interpretation?",
+      "o": [
+        "Scientific classification only",
+        "Uncontrolled experimentation",
+        "Pure observation only",
+        "Engineering"
+      ],
+      "a": 3,
+      "e": "Engineering designs practical systems using scientific knowledge.",
+      "d": "Medium",
+      "topic": "Science and technology",
+      "slo": "Differentiate science, technology and engineering in practical contexts"
+    },
+    {
+      "id": "CHEM9CH1-227",
+      "q": "Which option correctly classifies the activity in which a team designs a safer chemical reactor for a factory?",
+      "o": [
+        "Uncontrolled experimentation",
+        "Scientific classification only",
+        "Pure observation only",
+        "Engineering"
+      ],
+      "a": 3,
+      "e": "Engineering designs practical systems using scientific knowledge.",
+      "d": "Medium",
+      "topic": "Science and technology",
+      "slo": "Differentiate science, technology and engineering in practical contexts"
+    },
+    {
+      "id": "CHEM9CH1-228",
+      "q": "In the situation where a team designs a safer chemical reactor for a factory, which idea is being demonstrated?",
+      "o": [
+        "Pure observation only",
+        "Engineering",
+        "Scientific classification only",
+        "Uncontrolled experimentation"
+      ],
+      "a": 1,
+      "e": "Engineering designs practical systems using scientific knowledge.",
+      "d": "Hard",
+      "topic": "Science and technology",
+      "slo": "Differentiate science, technology and engineering in practical contexts"
+    },
+    {
+      "id": "CHEM9CH1-229",
+      "q": "Which concept best describes this situation: a scientist asks why a reaction releases heat?",
+      "o": [
+        "Scientific investigation",
+        "Product marketing",
+        "Factory scheduling",
+        "Packaging design"
+      ],
+      "a": 0,
+      "e": "Science seeks explanations of natural phenomena.",
+      "d": "Easy",
+      "topic": "Science and technology",
+      "slo": "Differentiate science, technology and engineering in practical contexts"
+    },
+    {
+      "id": "CHEM9CH1-230",
+      "q": "Consider this case: A scientist asks why a reaction releases heat. What is the most appropriate interpretation?",
+      "o": [
+        "Product marketing",
+        "Factory scheduling",
+        "Scientific investigation",
+        "Packaging design"
+      ],
+      "a": 2,
+      "e": "Science seeks explanations of natural phenomena.",
+      "d": "Medium",
+      "topic": "Science and technology",
+      "slo": "Differentiate science, technology and engineering in practical contexts"
+    },
+    {
+      "id": "CHEM9CH1-231",
+      "q": "Which option correctly classifies the activity in which a scientist asks why a reaction releases heat?",
+      "o": [
+        "Product marketing",
+        "Factory scheduling",
+        "Packaging design",
+        "Scientific investigation"
+      ],
+      "a": 3,
+      "e": "Science seeks explanations of natural phenomena.",
+      "d": "Medium",
+      "topic": "Science and technology",
+      "slo": "Differentiate science, technology and engineering in practical contexts"
+    },
+    {
+      "id": "CHEM9CH1-232",
+      "q": "In the situation where a scientist asks why a reaction releases heat, which idea is being demonstrated?",
+      "o": [
+        "Product marketing",
+        "Factory scheduling",
+        "Scientific investigation",
+        "Packaging design"
+      ],
+      "a": 2,
+      "e": "Science seeks explanations of natural phenomena.",
+      "d": "Hard",
+      "topic": "Science and technology",
+      "slo": "Differentiate science, technology and engineering in practical contexts"
+    },
+    {
+      "id": "CHEM9CH1-233",
+      "q": "Which concept best describes this situation: a company builds a low-cost water filter for homes?",
+      "o": [
+        "Technology solving a practical problem",
+        "An untested scientific law",
+        "A nuclear transformation",
+        "A geological survey"
+      ],
+      "a": 0,
+      "e": "Technology applies knowledge to meet practical needs.",
+      "d": "Easy",
+      "topic": "Science and technology",
+      "slo": "Differentiate science, technology and engineering in practical contexts"
+    },
+    {
+      "id": "CHEM9CH1-234",
+      "q": "Consider this case: A company builds a low-cost water filter for homes. What is the most appropriate interpretation?",
+      "o": [
+        "An untested scientific law",
+        "A geological survey",
+        "Technology solving a practical problem",
+        "A nuclear transformation"
+      ],
+      "a": 2,
+      "e": "Technology applies knowledge to meet practical needs.",
+      "d": "Medium",
+      "topic": "Science and technology",
+      "slo": "Differentiate science, technology and engineering in practical contexts"
+    },
+    {
+      "id": "CHEM9CH1-235",
+      "q": "Which option correctly classifies the activity in which a company builds a low-cost water filter for homes?",
+      "o": [
+        "An untested scientific law",
+        "Technology solving a practical problem",
+        "A nuclear transformation",
+        "A geological survey"
+      ],
+      "a": 1,
+      "e": "Technology applies knowledge to meet practical needs.",
+      "d": "Medium",
+      "topic": "Science and technology",
+      "slo": "Differentiate science, technology and engineering in practical contexts"
+    },
+    {
+      "id": "CHEM9CH1-236",
+      "q": "In the situation where a company builds a low-cost water filter for homes, which idea is being demonstrated?",
+      "o": [
+        "A geological survey",
+        "Technology solving a practical problem",
+        "An untested scientific law",
+        "A nuclear transformation"
+      ],
+      "a": 1,
+      "e": "Technology applies knowledge to meet practical needs.",
+      "d": "Hard",
+      "topic": "Science and technology",
+      "slo": "Differentiate science, technology and engineering in practical contexts"
+    },
+    {
+      "id": "CHEM9CH1-237",
+      "q": "Which concept best describes this situation: a factory improves its process to use less fuel?",
+      "o": [
+        "Resource-efficient engineering",
+        "Increasing avoidable waste",
+        "Ignoring energy requirements",
+        "Changing results after testing"
+      ],
+      "a": 0,
+      "e": "Engineering design considers efficiency and resource use.",
+      "d": "Easy",
+      "topic": "Science and technology",
+      "slo": "Differentiate science, technology and engineering in practical contexts"
+    },
+    {
+      "id": "CHEM9CH1-238",
+      "q": "Consider this case: A factory improves its process to use less fuel. What is the most appropriate interpretation?",
+      "o": [
+        "Increasing avoidable waste",
+        "Resource-efficient engineering",
+        "Ignoring energy requirements",
+        "Changing results after testing"
+      ],
+      "a": 1,
+      "e": "Engineering design considers efficiency and resource use.",
+      "d": "Medium",
+      "topic": "Science and technology",
+      "slo": "Differentiate science, technology and engineering in practical contexts"
+    },
+    {
+      "id": "CHEM9CH1-239",
+      "q": "Which option correctly classifies the activity in which a factory improves its process to use less fuel?",
+      "o": [
+        "Ignoring energy requirements",
+        "Increasing avoidable waste",
+        "Changing results after testing",
+        "Resource-efficient engineering"
+      ],
+      "a": 3,
+      "e": "Engineering design considers efficiency and resource use.",
+      "d": "Medium",
+      "topic": "Science and technology",
+      "slo": "Differentiate science, technology and engineering in practical contexts"
+    },
+    {
+      "id": "CHEM9CH1-240",
+      "q": "In the situation where a factory improves its process to use less fuel, which idea is being demonstrated?",
+      "o": [
+        "Changing results after testing",
+        "Ignoring energy requirements",
+        "Resource-efficient engineering",
+        "Increasing avoidable waste"
+      ],
+      "a": 2,
+      "e": "Engineering design considers efficiency and resource use.",
+      "d": "Hard",
+      "topic": "Science and technology",
+      "slo": "Differentiate science, technology and engineering in practical contexts"
+    },
+    {
+      "id": "CHEM9CH1-241",
+      "q": "Which concept best describes this situation: a research team invents a more sensitive chemical sensor?",
+      "o": [
+        "Proof without calibration",
+        "Removal of all safety requirements",
+        "Elimination of all uncertainty",
+        "Improved measurement capability"
+      ],
+      "a": 3,
+      "e": "Better instruments can detect smaller quantities.",
+      "d": "Easy",
+      "topic": "Science and technology",
+      "slo": "Differentiate science, technology and engineering in practical contexts"
+    },
+    {
+      "id": "CHEM9CH1-242",
+      "q": "Consider this case: A research team invents a more sensitive chemical sensor. What is the most appropriate interpretation?",
+      "o": [
+        "Improved measurement capability",
+        "Removal of all safety requirements",
+        "Elimination of all uncertainty",
+        "Proof without calibration"
+      ],
+      "a": 0,
+      "e": "Better instruments can detect smaller quantities.",
+      "d": "Medium",
+      "topic": "Science and technology",
+      "slo": "Differentiate science, technology and engineering in practical contexts"
+    },
+    {
+      "id": "CHEM9CH1-243",
+      "q": "Which option correctly classifies the activity in which a research team invents a more sensitive chemical sensor?",
+      "o": [
+        "Improved measurement capability",
+        "Elimination of all uncertainty",
+        "Proof without calibration",
+        "Removal of all safety requirements"
+      ],
+      "a": 0,
+      "e": "Better instruments can detect smaller quantities.",
+      "d": "Medium",
+      "topic": "Science and technology",
+      "slo": "Differentiate science, technology and engineering in practical contexts"
+    },
+    {
+      "id": "CHEM9CH1-244",
+      "q": "In the situation where a research team invents a more sensitive chemical sensor, which idea is being demonstrated?",
+      "o": [
+        "Improved measurement capability",
+        "Elimination of all uncertainty",
+        "Proof without calibration",
+        "Removal of all safety requirements"
+      ],
+      "a": 0,
+      "e": "Better instruments can detect smaller quantities.",
+      "d": "Hard",
+      "topic": "Science and technology",
+      "slo": "Differentiate science, technology and engineering in practical contexts"
+    },
+    {
+      "id": "CHEM9CH1-245",
+      "q": "Which concept best describes this situation: an engineer scales a successful bench reaction to factory size?",
+      "o": [
+        "Process scale-up",
+        "Astronomical analysis",
+        "Qualitative observation only",
+        "Unrelated taxonomy"
+      ],
+      "a": 0,
+      "e": "Engineering adapts processes for practical large-scale use.",
+      "d": "Easy",
+      "topic": "Science and technology",
+      "slo": "Differentiate science, technology and engineering in practical contexts"
+    },
+    {
+      "id": "CHEM9CH1-246",
+      "q": "Consider this case: An engineer scales a successful bench reaction to factory size. What is the most appropriate interpretation?",
+      "o": [
+        "Astronomical analysis",
+        "Unrelated taxonomy",
+        "Qualitative observation only",
+        "Process scale-up"
+      ],
+      "a": 3,
+      "e": "Engineering adapts processes for practical large-scale use.",
+      "d": "Medium",
+      "topic": "Science and technology",
+      "slo": "Differentiate science, technology and engineering in practical contexts"
+    },
+    {
+      "id": "CHEM9CH1-247",
+      "q": "Which option correctly classifies the activity in which an engineer scales a successful bench reaction to factory size?",
+      "o": [
+        "Unrelated taxonomy",
+        "Process scale-up",
+        "Qualitative observation only",
+        "Astronomical analysis"
+      ],
+      "a": 1,
+      "e": "Engineering adapts processes for practical large-scale use.",
+      "d": "Medium",
+      "topic": "Science and technology",
+      "slo": "Differentiate science, technology and engineering in practical contexts"
+    },
+    {
+      "id": "CHEM9CH1-248",
+      "q": "In the situation where an engineer scales a successful bench reaction to factory size, which idea is being demonstrated?",
+      "o": [
+        "Astronomical analysis",
+        "Qualitative observation only",
+        "Process scale-up",
+        "Unrelated taxonomy"
+      ],
+      "a": 2,
+      "e": "Engineering adapts processes for practical large-scale use.",
+      "d": "Hard",
+      "topic": "Science and technology",
+      "slo": "Differentiate science, technology and engineering in practical contexts"
+    },
+    {
+      "id": "CHEM9CH1-249",
+      "q": "Which concept best describes this situation: a team considers cost, worker safety and emissions when designing a plant?",
+      "o": [
+        "Ignoring constraints",
+        "Responsible engineering design",
+        "Only measuring color",
+        "Selecting products at random"
+      ],
+      "a": 1,
+      "e": "Engineering balances safety, environmental and economic constraints.",
+      "d": "Easy",
+      "topic": "Science and technology",
+      "slo": "Differentiate science, technology and engineering in practical contexts"
+    },
+    {
+      "id": "CHEM9CH1-250",
+      "q": "Consider this case: A team considers cost, worker safety and emissions when designing a plant. What is the most appropriate interpretation?",
+      "o": [
+        "Only measuring color",
+        "Ignoring constraints",
+        "Responsible engineering design",
+        "Selecting products at random"
+      ],
+      "a": 2,
+      "e": "Engineering balances safety, environmental and economic constraints.",
+      "d": "Medium",
+      "topic": "Science and technology",
+      "slo": "Differentiate science, technology and engineering in practical contexts"
+    },
+    {
+      "id": "CHEM9CH1-251",
+      "q": "Which option correctly classifies the activity in which a team considers cost, worker safety and emissions when designing a plant?",
+      "o": [
+        "Responsible engineering design",
+        "Selecting products at random",
+        "Ignoring constraints",
+        "Only measuring color"
+      ],
+      "a": 0,
+      "e": "Engineering balances safety, environmental and economic constraints.",
+      "d": "Medium",
+      "topic": "Science and technology",
+      "slo": "Differentiate science, technology and engineering in practical contexts"
+    },
+    {
+      "id": "CHEM9CH1-252",
+      "q": "In the situation where a team considers cost, worker safety and emissions when designing a plant, which idea is being demonstrated?",
+      "o": [
+        "Selecting products at random",
+        "Responsible engineering design",
+        "Ignoring constraints",
+        "Only measuring color"
+      ],
+      "a": 1,
+      "e": "Engineering balances safety, environmental and economic constraints.",
+      "d": "Hard",
+      "topic": "Science and technology",
+      "slo": "Differentiate science, technology and engineering in practical contexts"
+    },
+    {
+      "id": "CHEM9CH1-253",
+      "q": "Which concept best describes this situation: a student uses an electronic balance to determine sample mass?",
+      "o": [
+        "Chemical theory without data",
+        "A nuclear reaction",
+        "Measurement using technology",
+        "An industrial chemical process"
+      ],
+      "a": 2,
+      "e": "An electronic balance is a measurement technology.",
+      "d": "Easy",
+      "topic": "Science and technology",
+      "slo": "Differentiate science, technology and engineering in practical contexts"
+    },
+    {
+      "id": "CHEM9CH1-254",
+      "q": "Consider this case: A student uses an electronic balance to determine sample mass. What is the most appropriate interpretation?",
+      "o": [
+        "Measurement using technology",
+        "A nuclear reaction",
+        "An industrial chemical process",
+        "Chemical theory without data"
+      ],
+      "a": 0,
+      "e": "An electronic balance is a measurement technology.",
+      "d": "Medium",
+      "topic": "Science and technology",
+      "slo": "Differentiate science, technology and engineering in practical contexts"
+    },
+    {
+      "id": "CHEM9CH1-255",
+      "q": "Which option correctly classifies the activity in which a student uses an electronic balance to determine sample mass?",
+      "o": [
+        "A nuclear reaction",
+        "Measurement using technology",
+        "An industrial chemical process",
+        "Chemical theory without data"
+      ],
+      "a": 1,
+      "e": "An electronic balance is a measurement technology.",
+      "d": "Medium",
+      "topic": "Science and technology",
+      "slo": "Differentiate science, technology and engineering in practical contexts"
+    },
+    {
+      "id": "CHEM9CH1-256",
+      "q": "In the situation where a student uses an electronic balance to determine sample mass, which idea is being demonstrated?",
+      "o": [
+        "Measurement using technology",
+        "A nuclear reaction",
+        "Chemical theory without data",
+        "An industrial chemical process"
+      ],
+      "a": 0,
+      "e": "An electronic balance is a measurement technology.",
+      "d": "Hard",
+      "topic": "Science and technology",
+      "slo": "Differentiate science, technology and engineering in practical contexts"
+    },
+    {
+      "id": "CHEM9CH1-257",
+      "q": "Which concept best describes this situation: a researcher proposes an explanation and then designs a fair test?",
+      "o": [
+        "Unrelated speculation",
+        "Mass production",
+        "Scientific method",
+        "Commercial advertising"
+      ],
+      "a": 2,
+      "e": "Scientific inquiry tests explanations against evidence.",
+      "d": "Easy",
+      "topic": "Science and technology",
+      "slo": "Differentiate science, technology and engineering in practical contexts"
+    },
+    {
+      "id": "CHEM9CH1-258",
+      "q": "Consider this case: A researcher proposes an explanation and then designs a fair test. What is the most appropriate interpretation?",
+      "o": [
+        "Scientific method",
+        "Commercial advertising",
+        "Unrelated speculation",
+        "Mass production"
+      ],
+      "a": 0,
+      "e": "Scientific inquiry tests explanations against evidence.",
+      "d": "Medium",
+      "topic": "Science and technology",
+      "slo": "Differentiate science, technology and engineering in practical contexts"
+    },
+    {
+      "id": "CHEM9CH1-259",
+      "q": "Which option correctly classifies the activity in which a researcher proposes an explanation and then designs a fair test?",
+      "o": [
+        "Scientific method",
+        "Commercial advertising",
+        "Unrelated speculation",
+        "Mass production"
+      ],
+      "a": 0,
+      "e": "Scientific inquiry tests explanations against evidence.",
+      "d": "Medium",
+      "topic": "Science and technology",
+      "slo": "Differentiate science, technology and engineering in practical contexts"
+    },
+    {
+      "id": "CHEM9CH1-260",
+      "q": "In the situation where a researcher proposes an explanation and then designs a fair test, which idea is being demonstrated?",
+      "o": [
+        "Mass production",
+        "Scientific method",
+        "Commercial advertising",
+        "Unrelated speculation"
+      ],
+      "a": 1,
+      "e": "Scientific inquiry tests explanations against evidence.",
+      "d": "Hard",
+      "topic": "Science and technology",
+      "slo": "Differentiate science, technology and engineering in practical contexts"
+    },
+    {
+      "id": "CHEM9CH1-261",
+      "q": "Which concept best describes this situation: a chemical manufacturer installs equipment to treat wastewater?",
+      "o": [
+        "Pollution prevention",
+        "Avoiding all measurements",
+        "Increasing contamination",
+        "Replacing water tests with guesses"
+      ],
+      "a": 0,
+      "e": "Wastewater treatment reduces harmful discharge.",
+      "d": "Easy",
+      "topic": "Chemistry applications",
+      "slo": "Explain the role of chemistry in daily life, industry and the environment"
+    },
+    {
+      "id": "CHEM9CH1-262",
+      "q": "Consider this case: A chemical manufacturer installs equipment to treat wastewater. What is the most appropriate interpretation?",
+      "o": [
+        "Avoiding all measurements",
+        "Replacing water tests with guesses",
+        "Pollution prevention",
+        "Increasing contamination"
+      ],
+      "a": 2,
+      "e": "Wastewater treatment reduces harmful discharge.",
+      "d": "Medium",
+      "topic": "Chemistry applications",
+      "slo": "Explain the role of chemistry in daily life, industry and the environment"
+    },
+    {
+      "id": "CHEM9CH1-263",
+      "q": "Which option correctly classifies the activity in which a chemical manufacturer installs equipment to treat wastewater?",
+      "o": [
+        "Avoiding all measurements",
+        "Replacing water tests with guesses",
+        "Increasing contamination",
+        "Pollution prevention"
+      ],
+      "a": 3,
+      "e": "Wastewater treatment reduces harmful discharge.",
+      "d": "Medium",
+      "topic": "Chemistry applications",
+      "slo": "Explain the role of chemistry in daily life, industry and the environment"
+    },
+    {
+      "id": "CHEM9CH1-264",
+      "q": "In the situation where a chemical manufacturer installs equipment to treat wastewater, which idea is being demonstrated?",
+      "o": [
+        "Replacing water tests with guesses",
+        "Increasing contamination",
+        "Pollution prevention",
+        "Avoiding all measurements"
+      ],
+      "a": 2,
+      "e": "Wastewater treatment reduces harmful discharge.",
+      "d": "Hard",
+      "topic": "Chemistry applications",
+      "slo": "Explain the role of chemistry in daily life, industry and the environment"
+    },
+    {
+      "id": "CHEM9CH1-265",
+      "q": "Which concept best describes this situation: a farmer uses a soil test before choosing fertilizer?",
+      "o": [
+        "Random fertilizer application",
+        "Eliminating soil nutrients",
+        "Ignoring plant needs",
+        "Evidence-based nutrient management"
+      ],
+      "a": 3,
+      "e": "Soil chemistry guides appropriate nutrient selection.",
+      "d": "Easy",
+      "topic": "Chemistry applications",
+      "slo": "Explain the role of chemistry in daily life, industry and the environment"
+    },
+    {
+      "id": "CHEM9CH1-266",
+      "q": "Consider this case: A farmer uses a soil test before choosing fertilizer. What is the most appropriate interpretation?",
+      "o": [
+        "Ignoring plant needs",
+        "Eliminating soil nutrients",
+        "Random fertilizer application",
+        "Evidence-based nutrient management"
+      ],
+      "a": 3,
+      "e": "Soil chemistry guides appropriate nutrient selection.",
+      "d": "Medium",
+      "topic": "Chemistry applications",
+      "slo": "Explain the role of chemistry in daily life, industry and the environment"
+    },
+    {
+      "id": "CHEM9CH1-267",
+      "q": "Which option correctly classifies the activity in which a farmer uses a soil test before choosing fertilizer?",
+      "o": [
+        "Ignoring plant needs",
+        "Eliminating soil nutrients",
+        "Evidence-based nutrient management",
+        "Random fertilizer application"
+      ],
+      "a": 2,
+      "e": "Soil chemistry guides appropriate nutrient selection.",
+      "d": "Medium",
+      "topic": "Chemistry applications",
+      "slo": "Explain the role of chemistry in daily life, industry and the environment"
+    },
+    {
+      "id": "CHEM9CH1-268",
+      "q": "In the situation where a farmer uses a soil test before choosing fertilizer, which idea is being demonstrated?",
+      "o": [
+        "Random fertilizer application",
+        "Evidence-based nutrient management",
+        "Eliminating soil nutrients",
+        "Ignoring plant needs"
+      ],
+      "a": 1,
+      "e": "Soil chemistry guides appropriate nutrient selection.",
+      "d": "Hard",
+      "topic": "Chemistry applications",
+      "slo": "Explain the role of chemistry in daily life, industry and the environment"
+    },
+    {
+      "id": "CHEM9CH1-269",
+      "q": "Which concept best describes this situation: a hospital checks a medicine for purity?",
+      "o": [
+        "Guessing composition",
+        "Skipping laboratory tests",
+        "Quality control through analysis",
+        "Uncontrolled mixing"
+      ],
+      "a": 2,
+      "e": "Analytical chemistry helps verify medicine quality.",
+      "d": "Easy",
+      "topic": "Chemistry applications",
+      "slo": "Explain the role of chemistry in daily life, industry and the environment"
+    },
+    {
+      "id": "CHEM9CH1-270",
+      "q": "Consider this case: A hospital checks a medicine for purity. What is the most appropriate interpretation?",
+      "o": [
+        "Skipping laboratory tests",
+        "Uncontrolled mixing",
+        "Quality control through analysis",
+        "Guessing composition"
+      ],
+      "a": 2,
+      "e": "Analytical chemistry helps verify medicine quality.",
+      "d": "Medium",
+      "topic": "Chemistry applications",
+      "slo": "Explain the role of chemistry in daily life, industry and the environment"
+    },
+    {
+      "id": "CHEM9CH1-271",
+      "q": "Which option correctly classifies the activity in which a hospital checks a medicine for purity?",
+      "o": [
+        "Guessing composition",
+        "Skipping laboratory tests",
+        "Uncontrolled mixing",
+        "Quality control through analysis"
+      ],
+      "a": 3,
+      "e": "Analytical chemistry helps verify medicine quality.",
+      "d": "Medium",
+      "topic": "Chemistry applications",
+      "slo": "Explain the role of chemistry in daily life, industry and the environment"
+    },
+    {
+      "id": "CHEM9CH1-272",
+      "q": "In the situation where a hospital checks a medicine for purity, which idea is being demonstrated?",
+      "o": [
+        "Skipping laboratory tests",
+        "Guessing composition",
+        "Quality control through analysis",
+        "Uncontrolled mixing"
+      ],
+      "a": 2,
+      "e": "Analytical chemistry helps verify medicine quality.",
+      "d": "Hard",
+      "topic": "Chemistry applications",
+      "slo": "Explain the role of chemistry in daily life, industry and the environment"
+    },
+    {
+      "id": "CHEM9CH1-273",
+      "q": "Which concept best describes this situation: a packaging company selects a polymer for strength and flexibility?",
+      "o": [
+        "Materials selection",
+        "Nuclear decay",
+        "Astronomical spectroscopy",
+        "Soil mineral mapping"
+      ],
+      "a": 0,
+      "e": "Polymer properties guide packaging applications.",
+      "d": "Easy",
+      "topic": "Chemistry applications",
+      "slo": "Explain the role of chemistry in daily life, industry and the environment"
+    },
+    {
+      "id": "CHEM9CH1-274",
+      "q": "Consider this case: A packaging company selects a polymer for strength and flexibility. What is the most appropriate interpretation?",
+      "o": [
+        "Soil mineral mapping",
+        "Materials selection",
+        "Astronomical spectroscopy",
+        "Nuclear decay"
+      ],
+      "a": 1,
+      "e": "Polymer properties guide packaging applications.",
+      "d": "Medium",
+      "topic": "Chemistry applications",
+      "slo": "Explain the role of chemistry in daily life, industry and the environment"
+    },
+    {
+      "id": "CHEM9CH1-275",
+      "q": "Which option correctly classifies the activity in which a packaging company selects a polymer for strength and flexibility?",
+      "o": [
+        "Nuclear decay",
+        "Materials selection",
+        "Astronomical spectroscopy",
+        "Soil mineral mapping"
+      ],
+      "a": 1,
+      "e": "Polymer properties guide packaging applications.",
+      "d": "Medium",
+      "topic": "Chemistry applications",
+      "slo": "Explain the role of chemistry in daily life, industry and the environment"
+    },
+    {
+      "id": "CHEM9CH1-276",
+      "q": "In the situation where a packaging company selects a polymer for strength and flexibility, which idea is being demonstrated?",
+      "o": [
+        "Materials selection",
+        "Soil mineral mapping",
+        "Astronomical spectroscopy",
+        "Nuclear decay"
+      ],
+      "a": 0,
+      "e": "Polymer properties guide packaging applications.",
+      "d": "Hard",
+      "topic": "Chemistry applications",
+      "slo": "Explain the role of chemistry in daily life, industry and the environment"
+    },
+    {
+      "id": "CHEM9CH1-277",
+      "q": "Which concept best describes this situation: a city monitors particulate and gaseous pollutants?",
+      "o": [
+        "Meteorite dating",
+        "Polymerization",
+        "Air quality assessment",
+        "Drug-target interaction"
+      ],
+      "a": 2,
+      "e": "Chemical monitoring helps assess air pollution.",
+      "d": "Easy",
+      "topic": "Chemistry applications",
+      "slo": "Explain the role of chemistry in daily life, industry and the environment"
+    },
+    {
+      "id": "CHEM9CH1-278",
+      "q": "Consider this case: A city monitors particulate and gaseous pollutants. What is the most appropriate interpretation?",
+      "o": [
+        "Drug-target interaction",
+        "Polymerization",
+        "Air quality assessment",
+        "Meteorite dating"
+      ],
+      "a": 2,
+      "e": "Chemical monitoring helps assess air pollution.",
+      "d": "Medium",
+      "topic": "Chemistry applications",
+      "slo": "Explain the role of chemistry in daily life, industry and the environment"
+    },
+    {
+      "id": "CHEM9CH1-279",
+      "q": "Which option correctly classifies the activity in which a city monitors particulate and gaseous pollutants?",
+      "o": [
+        "Polymerization",
+        "Drug-target interaction",
+        "Meteorite dating",
+        "Air quality assessment"
+      ],
+      "a": 3,
+      "e": "Chemical monitoring helps assess air pollution.",
+      "d": "Medium",
+      "topic": "Chemistry applications",
+      "slo": "Explain the role of chemistry in daily life, industry and the environment"
+    },
+    {
+      "id": "CHEM9CH1-280",
+      "q": "In the situation where a city monitors particulate and gaseous pollutants, which idea is being demonstrated?",
+      "o": [
+        "Meteorite dating",
+        "Polymerization",
+        "Drug-target interaction",
+        "Air quality assessment"
+      ],
+      "a": 3,
+      "e": "Chemical monitoring helps assess air pollution.",
+      "d": "Hard",
+      "topic": "Chemistry applications",
+      "slo": "Explain the role of chemistry in daily life, industry and the environment"
+    },
+    {
+      "id": "CHEM9CH1-281",
+      "q": "Which concept best describes this situation: a food processor selects a suitable preservation method?",
+      "o": [
+        "Creating nuclear isotopes",
+        "Guaranteeing infinite shelf life",
+        "Food safety and shelf-life improvement",
+        "Ignoring contamination"
+      ],
+      "a": 2,
+      "e": "Chemistry supports preservation and food safety.",
+      "d": "Easy",
+      "topic": "Chemistry applications",
+      "slo": "Explain the role of chemistry in daily life, industry and the environment"
+    },
+    {
+      "id": "CHEM9CH1-282",
+      "q": "Consider this case: A food processor selects a suitable preservation method. What is the most appropriate interpretation?",
+      "o": [
+        "Food safety and shelf-life improvement",
+        "Guaranteeing infinite shelf life",
+        "Creating nuclear isotopes",
+        "Ignoring contamination"
+      ],
+      "a": 0,
+      "e": "Chemistry supports preservation and food safety.",
+      "d": "Medium",
+      "topic": "Chemistry applications",
+      "slo": "Explain the role of chemistry in daily life, industry and the environment"
+    },
+    {
+      "id": "CHEM9CH1-283",
+      "q": "Which option correctly classifies the activity in which a food processor selects a suitable preservation method?",
+      "o": [
+        "Guaranteeing infinite shelf life",
+        "Ignoring contamination",
+        "Creating nuclear isotopes",
+        "Food safety and shelf-life improvement"
+      ],
+      "a": 3,
+      "e": "Chemistry supports preservation and food safety.",
+      "d": "Medium",
+      "topic": "Chemistry applications",
+      "slo": "Explain the role of chemistry in daily life, industry and the environment"
+    },
+    {
+      "id": "CHEM9CH1-284",
+      "q": "In the situation where a food processor selects a suitable preservation method, which idea is being demonstrated?",
+      "o": [
+        "Guaranteeing infinite shelf life",
+        "Ignoring contamination",
+        "Creating nuclear isotopes",
+        "Food safety and shelf-life improvement"
+      ],
+      "a": 3,
+      "e": "Chemistry supports preservation and food safety.",
+      "d": "Hard",
+      "topic": "Chemistry applications",
+      "slo": "Explain the role of chemistry in daily life, industry and the environment"
+    },
+    {
+      "id": "CHEM9CH1-285",
+      "q": "Which concept best describes this situation: a water utility measures contaminants before treatment?",
+      "o": [
+        "Ignoring dissolved substances",
+        "Only checking pipe color",
+        "Random chemical dosing",
+        "Water quality analysis"
+      ],
+      "a": 3,
+      "e": "Testing identifies contaminants and guides treatment.",
+      "d": "Easy",
+      "topic": "Chemistry applications",
+      "slo": "Explain the role of chemistry in daily life, industry and the environment"
+    },
+    {
+      "id": "CHEM9CH1-286",
+      "q": "Consider this case: A water utility measures contaminants before treatment. What is the most appropriate interpretation?",
+      "o": [
+        "Ignoring dissolved substances",
+        "Only checking pipe color",
+        "Random chemical dosing",
+        "Water quality analysis"
+      ],
+      "a": 3,
+      "e": "Testing identifies contaminants and guides treatment.",
+      "d": "Medium",
+      "topic": "Chemistry applications",
+      "slo": "Explain the role of chemistry in daily life, industry and the environment"
+    },
+    {
+      "id": "CHEM9CH1-287",
+      "q": "Which option correctly classifies the activity in which a water utility measures contaminants before treatment?",
+      "o": [
+        "Only checking pipe color",
+        "Ignoring dissolved substances",
+        "Random chemical dosing",
+        "Water quality analysis"
+      ],
+      "a": 3,
+      "e": "Testing identifies contaminants and guides treatment.",
+      "d": "Medium",
+      "topic": "Chemistry applications",
+      "slo": "Explain the role of chemistry in daily life, industry and the environment"
+    },
+    {
+      "id": "CHEM9CH1-288",
+      "q": "In the situation where a water utility measures contaminants before treatment, which idea is being demonstrated?",
+      "o": [
+        "Ignoring dissolved substances",
+        "Only checking pipe color",
+        "Water quality analysis",
+        "Random chemical dosing"
+      ],
+      "a": 2,
+      "e": "Testing identifies contaminants and guides treatment.",
+      "d": "Hard",
+      "topic": "Chemistry applications",
+      "slo": "Explain the role of chemistry in daily life, industry and the environment"
+    },
+    {
+      "id": "CHEM9CH1-289",
+      "q": "Which concept best describes this situation: a manufacturer develops a more biodegradable material?",
+      "o": [
+        "Avoiding material testing",
+        "Reducing persistent waste",
+        "Preventing all chemical reactions",
+        "Increasing long-term litter"
+      ],
+      "a": 1,
+      "e": "Biodegradable materials can help reduce persistent waste.",
+      "d": "Easy",
+      "topic": "Chemistry applications",
+      "slo": "Explain the role of chemistry in daily life, industry and the environment"
+    },
+    {
+      "id": "CHEM9CH1-290",
+      "q": "Consider this case: A manufacturer develops a more biodegradable material. What is the most appropriate interpretation?",
+      "o": [
+        "Increasing long-term litter",
+        "Avoiding material testing",
+        "Reducing persistent waste",
+        "Preventing all chemical reactions"
+      ],
+      "a": 2,
+      "e": "Biodegradable materials can help reduce persistent waste.",
+      "d": "Medium",
+      "topic": "Chemistry applications",
+      "slo": "Explain the role of chemistry in daily life, industry and the environment"
+    },
+    {
+      "id": "CHEM9CH1-291",
+      "q": "Which option correctly classifies the activity in which a manufacturer develops a more biodegradable material?",
+      "o": [
+        "Reducing persistent waste",
+        "Preventing all chemical reactions",
+        "Avoiding material testing",
+        "Increasing long-term litter"
+      ],
+      "a": 0,
+      "e": "Biodegradable materials can help reduce persistent waste.",
+      "d": "Medium",
+      "topic": "Chemistry applications",
+      "slo": "Explain the role of chemistry in daily life, industry and the environment"
+    },
+    {
+      "id": "CHEM9CH1-292",
+      "q": "In the situation where a manufacturer develops a more biodegradable material, which idea is being demonstrated?",
+      "o": [
+        "Reducing persistent waste",
+        "Increasing long-term litter",
+        "Preventing all chemical reactions",
+        "Avoiding material testing"
+      ],
+      "a": 0,
+      "e": "Biodegradable materials can help reduce persistent waste.",
+      "d": "Hard",
+      "topic": "Chemistry applications",
+      "slo": "Explain the role of chemistry in daily life, industry and the environment"
+    },
+    {
+      "id": "CHEM9CH1-293",
+      "q": "Which concept best describes this situation: a chemist evaluates the environmental impact of a new product?",
+      "o": [
+        "Responsible chemical innovation",
+        "Using the most toxic ingredient by default",
+        "Avoiding risk assessment",
+        "Ignoring disposal"
+      ],
+      "a": 0,
+      "e": "Responsible chemistry considers environmental consequences.",
+      "d": "Easy",
+      "topic": "Chemistry applications",
+      "slo": "Explain the role of chemistry in daily life, industry and the environment"
+    },
+    {
+      "id": "CHEM9CH1-294",
+      "q": "Consider this case: A chemist evaluates the environmental impact of a new product. What is the most appropriate interpretation?",
+      "o": [
+        "Responsible chemical innovation",
+        "Using the most toxic ingredient by default",
+        "Ignoring disposal",
+        "Avoiding risk assessment"
+      ],
+      "a": 0,
+      "e": "Responsible chemistry considers environmental consequences.",
+      "d": "Medium",
+      "topic": "Chemistry applications",
+      "slo": "Explain the role of chemistry in daily life, industry and the environment"
+    },
+    {
+      "id": "CHEM9CH1-295",
+      "q": "Which option correctly classifies the activity in which a chemist evaluates the environmental impact of a new product?",
+      "o": [
+        "Ignoring disposal",
+        "Using the most toxic ingredient by default",
+        "Responsible chemical innovation",
+        "Avoiding risk assessment"
+      ],
+      "a": 2,
+      "e": "Responsible chemistry considers environmental consequences.",
+      "d": "Medium",
+      "topic": "Chemistry applications",
+      "slo": "Explain the role of chemistry in daily life, industry and the environment"
+    },
+    {
+      "id": "CHEM9CH1-296",
+      "q": "In the situation where a chemist evaluates the environmental impact of a new product, which idea is being demonstrated?",
+      "o": [
+        "Responsible chemical innovation",
+        "Using the most toxic ingredient by default",
+        "Avoiding risk assessment",
+        "Ignoring disposal"
+      ],
+      "a": 0,
+      "e": "Responsible chemistry considers environmental consequences.",
+      "d": "Hard",
+      "topic": "Chemistry applications",
+      "slo": "Explain the role of chemistry in daily life, industry and the environment"
+    },
+    {
+      "id": "CHEM9CH1-297",
+      "q": "Which concept best describes this situation: a laboratory checks whether a disinfectant works against microbes?",
+      "o": [
+        "Assuming every product is effective",
+        "Avoiding controls",
+        "Recording only one favorable result",
+        "Evidence-based product testing"
+      ],
+      "a": 3,
+      "e": "Testing efficacy supports safe use of chemical products.",
+      "d": "Easy",
+      "topic": "Chemistry applications",
+      "slo": "Explain the role of chemistry in daily life, industry and the environment"
+    },
+    {
+      "id": "CHEM9CH1-298",
+      "q": "Consider this case: A laboratory checks whether a disinfectant works against microbes. What is the most appropriate interpretation?",
+      "o": [
+        "Avoiding controls",
+        "Evidence-based product testing",
+        "Assuming every product is effective",
+        "Recording only one favorable result"
+      ],
+      "a": 1,
+      "e": "Testing efficacy supports safe use of chemical products.",
+      "d": "Medium",
+      "topic": "Chemistry applications",
+      "slo": "Explain the role of chemistry in daily life, industry and the environment"
+    },
+    {
+      "id": "CHEM9CH1-299",
+      "q": "Which option correctly classifies the activity in which a laboratory checks whether a disinfectant works against microbes?",
+      "o": [
+        "Avoiding controls",
+        "Assuming every product is effective",
+        "Evidence-based product testing",
+        "Recording only one favorable result"
+      ],
+      "a": 2,
+      "e": "Testing efficacy supports safe use of chemical products.",
+      "d": "Medium",
+      "topic": "Chemistry applications",
+      "slo": "Explain the role of chemistry in daily life, industry and the environment"
+    },
+    {
+      "id": "CHEM9CH1-300",
+      "q": "In the situation where a laboratory checks whether a disinfectant works against microbes, which idea is being demonstrated?",
+      "o": [
+        "Evidence-based product testing",
+        "Avoiding controls",
+        "Recording only one favorable result",
+        "Assuming every product is effective"
+      ],
+      "a": 0,
+      "e": "Testing efficacy supports safe use of chemical products.",
+      "d": "Hard",
+      "topic": "Chemistry applications",
+      "slo": "Explain the role of chemistry in daily life, industry and the environment"
+    }
+  ]
+}

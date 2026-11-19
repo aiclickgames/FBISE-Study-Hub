@@ -1,0 +1,4504 @@
+{
+  "questions": [
+    {
+      "id": "CHEM9CH3-001",
+      "q": "How many electrons are in the outermost shell of a neutral phosphorus atom?",
+      "o": [
+        "7",
+        "4",
+        "6",
+        "5"
+      ],
+      "a": 3,
+      "e": "Its shell arrangement is 2,8,5; the final shell contains 5 electron(s).",
+      "d": "Medium",
+      "topic": "Electron arrangement",
+      "slo": "Determine valence electrons from electron arrangement"
+    },
+    {
+      "id": "CHEM9CH3-002",
+      "q": "How many electrons does oxygen gain to form O²⁻?",
+      "o": [
+        "2",
+        "3",
+        "4",
+        "1"
+      ],
+      "a": 0,
+      "e": "Oxygen gains two electrons to complete its outer shell.",
+      "d": "Easy",
+      "topic": "Ion formation",
+      "slo": "Recall and explain key ideas in atomic structure"
+    },
+    {
+      "id": "CHEM9CH3-003",
+      "q": "What is the charge of a neutron?",
+      "o": [
+        "Negative",
+        "Zero",
+        "Two positive units",
+        "Positive"
+      ],
+      "a": 1,
+      "e": "A neutron is electrically neutral.",
+      "d": "Easy",
+      "topic": "Subatomic particles",
+      "slo": "Recall and explain key ideas in atomic structure"
+    },
+    {
+      "id": "CHEM9CH3-004",
+      "q": "An element has isotopes of mass 28 u (60% abundance) and 30 u (40% abundance). What is its relative atomic mass?",
+      "o": [
+        "27.8",
+        "28.8",
+        "29.8",
+        "29"
+      ],
+      "a": 1,
+      "e": "Weighted mean = (28 × 60/100) + (30 × 40/100) = 28.8.",
+      "d": "Hard",
+      "topic": "Relative atomic mass",
+      "slo": "Calculate relative atomic mass from isotope abundance"
+    },
+    {
+      "id": "CHEM9CH3-005",
+      "q": "How many electrons are in a neutral atom of oxygen-18?",
+      "o": [
+        "10",
+        "8",
+        "7",
+        "9"
+      ],
+      "a": 1,
+      "e": "A neutral atom has as many electrons as protons; oxygen has 8 protons.",
+      "d": "Medium",
+      "topic": "Atomic number",
+      "slo": "Determine electron count in a neutral atom"
+    },
+    {
+      "id": "CHEM9CH3-006",
+      "q": "How many neutrons are present in helium-3 (atomic number 2)?",
+      "o": [
+        "1",
+        "0",
+        "2",
+        "3"
+      ],
+      "a": 0,
+      "e": "Neutrons = mass number − atomic number = 3 − 2 = 1.",
+      "d": "Medium",
+      "topic": "Mass number",
+      "slo": "Calculate neutron number from mass and atomic numbers"
+    },
+    {
+      "id": "CHEM9CH3-007",
+      "q": "How many protons are in the nucleus of calcium-40?",
+      "o": [
+        "21",
+        "20",
+        "19",
+        "22"
+      ],
+      "a": 1,
+      "e": "All calcium atoms have atomic number 20, hence 20 protons.",
+      "d": "Medium",
+      "topic": "Atomic number",
+      "slo": "Determine proton number from element identity"
+    },
+    {
+      "id": "CHEM9CH3-008",
+      "q": "How many occupied electron shells does a neutral fluorine atom have?",
+      "o": [
+        "1",
+        "2",
+        "4",
+        "3"
+      ],
+      "a": 1,
+      "e": "The arrangement 2,7 contains 2 occupied shell(s).",
+      "d": "Medium",
+      "topic": "Electron arrangement",
+      "slo": "Infer occupied shells from electron configuration"
+    },
+    {
+      "id": "CHEM9CH3-009",
+      "q": "How many electrons are in the outermost shell of a neutral carbon atom?",
+      "o": [
+        "6",
+        "3",
+        "5",
+        "4"
+      ],
+      "a": 3,
+      "e": "Its shell arrangement is 2,4; the final shell contains 4 electron(s).",
+      "d": "Medium",
+      "topic": "Electron arrangement",
+      "slo": "Determine valence electrons from electron arrangement"
+    },
+    {
+      "id": "CHEM9CH3-010",
+      "q": "An element has isotopes of mass 10 u (25% abundance) and 11 u (75% abundance). What is its relative atomic mass?",
+      "o": [
+        "9.75",
+        "10.5",
+        "11.75",
+        "10.75"
+      ],
+      "a": 3,
+      "e": "Weighted mean = (10 × 25/100) + (11 × 75/100) = 10.75.",
+      "d": "Hard",
+      "topic": "Relative atomic mass",
+      "slo": "Calculate relative atomic mass from isotope abundance"
+    },
+    {
+      "id": "CHEM9CH3-011",
+      "q": "How many electrons are in a neutral atom of calcium-40?",
+      "o": [
+        "22",
+        "20",
+        "21",
+        "19"
+      ],
+      "a": 1,
+      "e": "A neutral atom has as many electrons as protons; calcium has 20 protons.",
+      "d": "Medium",
+      "topic": "Atomic number",
+      "slo": "Determine electron count in a neutral atom"
+    },
+    {
+      "id": "CHEM9CH3-012",
+      "q": "How many neutrons are present in hydrogen-3 (atomic number 1)?",
+      "o": [
+        "2",
+        "1",
+        "3",
+        "4"
+      ],
+      "a": 0,
+      "e": "Neutrons = mass number − atomic number = 3 − 1 = 2.",
+      "d": "Medium",
+      "topic": "Mass number",
+      "slo": "Calculate neutron number from mass and atomic numbers"
+    },
+    {
+      "id": "CHEM9CH3-013",
+      "q": "Which subatomic particle is not deflected by a uniform electric field?",
+      "o": [
+        "Proton",
+        "Neutron",
+        "Electron",
+        "Positron"
+      ],
+      "a": 1,
+      "e": "Neutrons have no electric charge.",
+      "d": "Easy",
+      "topic": "Electric fields",
+      "slo": "Recall and explain key ideas in atomic structure"
+    },
+    {
+      "id": "CHEM9CH3-014",
+      "q": "How many occupied electron shells does a neutral chlorine atom have?",
+      "o": [
+        "2",
+        "3",
+        "4",
+        "1"
+      ],
+      "a": 1,
+      "e": "The arrangement 2,8,7 contains 3 occupied shell(s).",
+      "d": "Medium",
+      "topic": "Electron arrangement",
+      "slo": "Infer occupied shells from electron configuration"
+    },
+    {
+      "id": "CHEM9CH3-015",
+      "q": "Which shell-wise electron arrangement belongs to a neutral phosphorus atom (Z = 15)?",
+      "o": [
+        "2",
+        "2,3",
+        "2,7",
+        "2,8,5"
+      ],
+      "a": 3,
+      "e": "A neutral phosphorus atom has 15 electrons, distributed as 2,8,5.",
+      "d": "Medium",
+      "topic": "Electron arrangement",
+      "slo": "Write shell-wise electronic configurations"
+    },
+    {
+      "id": "CHEM9CH3-016",
+      "q": "How many protons are in the nucleus of neon-20?",
+      "o": [
+        "10",
+        "9",
+        "12",
+        "11"
+      ],
+      "a": 0,
+      "e": "All neon atoms have atomic number 10, hence 10 protons.",
+      "d": "Medium",
+      "topic": "Atomic number",
+      "slo": "Determine proton number from element identity"
+    },
+    {
+      "id": "CHEM9CH3-017",
+      "q": "How many electrons are in the ion Mg2+ (atomic number 12)?",
+      "o": [
+        "9",
+        "12",
+        "10",
+        "11"
+      ],
+      "a": 2,
+      "e": "The ion has 12 protons and charge +2; electrons = 12 − (2) = 10.",
+      "d": "Medium",
+      "topic": "Ion formation",
+      "slo": "Calculate electron count in monoatomic ions"
+    },
+    {
+      "id": "CHEM9CH3-018",
+      "q": "An element has isotopes of mass 6 u (40% abundance) and 7 u (60% abundance). What is its relative atomic mass?",
+      "o": [
+        "6.5",
+        "7.6",
+        "6.6",
+        "5.6"
+      ],
+      "a": 2,
+      "e": "Weighted mean = (6 × 40/100) + (7 × 60/100) = 6.6.",
+      "d": "Hard",
+      "topic": "Relative atomic mass",
+      "slo": "Calculate relative atomic mass from isotope abundance"
+    },
+    {
+      "id": "CHEM9CH3-019",
+      "q": "An element has isotopes of mass 6 u (75% abundance) and 7 u (25% abundance). What is its relative atomic mass?",
+      "o": [
+        "6.5",
+        "6.25",
+        "5.25",
+        "7.25"
+      ],
+      "a": 1,
+      "e": "Weighted mean = (6 × 75/100) + (7 × 25/100) = 6.25.",
+      "d": "Hard",
+      "topic": "Relative atomic mass",
+      "slo": "Calculate relative atomic mass from isotope abundance"
+    },
+    {
+      "id": "CHEM9CH3-020",
+      "q": "Which shell is nearest the nucleus?",
+      "o": [
+        "N shell",
+        "K shell",
+        "M shell",
+        "L shell"
+      ],
+      "a": 1,
+      "e": "The K shell is the first shell.",
+      "d": "Easy",
+      "topic": "Electron arrangement",
+      "slo": "Recall and explain key ideas in atomic structure"
+    },
+    {
+      "id": "CHEM9CH3-021",
+      "q": "Which neutral atom has the electron arrangement 2,8,1?",
+      "o": [
+        "Sodium",
+        "Magnesium",
+        "Aluminium",
+        "Neon"
+      ],
+      "a": 0,
+      "e": "Sodium has 11 electrons arranged 2,8,1.",
+      "d": "Easy",
+      "topic": "Electron arrangement",
+      "slo": "Recall and explain key ideas in atomic structure"
+    },
+    {
+      "id": "CHEM9CH3-022",
+      "q": "How many neutrons are present in magnesium-24 (atomic number 12)?",
+      "o": [
+        "14",
+        "13",
+        "12",
+        "11"
+      ],
+      "a": 2,
+      "e": "Neutrons = mass number − atomic number = 24 − 12 = 12.",
+      "d": "Medium",
+      "topic": "Mass number",
+      "slo": "Calculate neutron number from mass and atomic numbers"
+    },
+    {
+      "id": "CHEM9CH3-023",
+      "q": "How many neutrons are present in chlorine-37 (atomic number 17)?",
+      "o": [
+        "22",
+        "20",
+        "21",
+        "19"
+      ],
+      "a": 1,
+      "e": "Neutrons = mass number − atomic number = 37 − 17 = 20.",
+      "d": "Medium",
+      "topic": "Mass number",
+      "slo": "Calculate neutron number from mass and atomic numbers"
+    },
+    {
+      "id": "CHEM9CH3-024",
+      "q": "Which scientist is credited with the discovery of the electron?",
+      "o": [
+        "J. J. Thomson",
+        "Niels Bohr",
+        "James Chadwick",
+        "John Dalton"
+      ],
+      "a": 0,
+      "e": "Thomson established the electron as a negatively charged particle.",
+      "d": "Easy",
+      "topic": "Atomic models",
+      "slo": "Recall and explain key ideas in atomic structure"
+    },
+    {
+      "id": "CHEM9CH3-025",
+      "q": "How many neutrons are present in neon-22 (atomic number 10)?",
+      "o": [
+        "13",
+        "12",
+        "11",
+        "14"
+      ],
+      "a": 1,
+      "e": "Neutrons = mass number − atomic number = 22 − 10 = 12.",
+      "d": "Medium",
+      "topic": "Mass number",
+      "slo": "Calculate neutron number from mass and atomic numbers"
+    },
+    {
+      "id": "CHEM9CH3-026",
+      "q": "How many electrons are in the outermost shell of a neutral boron atom?",
+      "o": [
+        "2",
+        "5",
+        "4",
+        "3"
+      ],
+      "a": 3,
+      "e": "Its shell arrangement is 2,3; the final shell contains 3 electron(s).",
+      "d": "Medium",
+      "topic": "Electron arrangement",
+      "slo": "Determine valence electrons from electron arrangement"
+    },
+    {
+      "id": "CHEM9CH3-027",
+      "q": "An element has isotopes of mass 63 u (25% abundance) and 65 u (75% abundance). What is its relative atomic mass?",
+      "o": [
+        "65.5",
+        "64",
+        "64.5",
+        "63.5"
+      ],
+      "a": 2,
+      "e": "Weighted mean = (63 × 25/100) + (65 × 75/100) = 64.5.",
+      "d": "Hard",
+      "topic": "Relative atomic mass",
+      "slo": "Calculate relative atomic mass from isotope abundance"
+    },
+    {
+      "id": "CHEM9CH3-028",
+      "q": "Which process changes one element into another?",
+      "o": [
+        "Changing the number of protons",
+        "Changing the number of neutrons only",
+        "Gaining one electron",
+        "Losing one electron"
+      ],
+      "a": 0,
+      "e": "An element’s identity is fixed by proton number.",
+      "d": "Easy",
+      "topic": "Atomic number",
+      "slo": "Recall and explain key ideas in atomic structure"
+    },
+    {
+      "id": "CHEM9CH3-029",
+      "q": "Which particle is deflected toward a negative plate in an electric field?",
+      "o": [
+        "Neutron",
+        "Neutral atom",
+        "Proton",
+        "Electron"
+      ],
+      "a": 2,
+      "e": "A proton is positively charged and is attracted toward a negative plate.",
+      "d": "Easy",
+      "topic": "Electric fields",
+      "slo": "Recall and explain key ideas in atomic structure"
+    },
+    {
+      "id": "CHEM9CH3-030",
+      "q": "How many neutrons are present in potassium-40 (atomic number 19)?",
+      "o": [
+        "22",
+        "23",
+        "20",
+        "21"
+      ],
+      "a": 3,
+      "e": "Neutrons = mass number − atomic number = 40 − 19 = 21.",
+      "d": "Medium",
+      "topic": "Mass number",
+      "slo": "Calculate neutron number from mass and atomic numbers"
+    },
+    {
+      "id": "CHEM9CH3-031",
+      "q": "How many neutrons are present in silicon-28 (atomic number 14)?",
+      "o": [
+        "15",
+        "13",
+        "16",
+        "14"
+      ],
+      "a": 3,
+      "e": "Neutrons = mass number − atomic number = 28 − 14 = 14.",
+      "d": "Medium",
+      "topic": "Mass number",
+      "slo": "Calculate neutron number from mass and atomic numbers"
+    },
+    {
+      "id": "CHEM9CH3-032",
+      "q": "Which operation is used to calculate relative atomic mass from isotopic abundances?",
+      "o": [
+        "Weighted average",
+        "Subtraction of abundances",
+        "Simple sum of mass numbers",
+        "Multiplication of all isotope masses"
+      ],
+      "a": 0,
+      "e": "Multiply each isotopic mass by its fractional abundance and add.",
+      "d": "Easy",
+      "topic": "Relative atomic mass",
+      "slo": "Recall and explain key ideas in atomic structure"
+    },
+    {
+      "id": "CHEM9CH3-033",
+      "q": "An element has isotopes of mass 36 u (60% abundance) and 40 u (40% abundance). What is its relative atomic mass?",
+      "o": [
+        "38",
+        "37.6",
+        "38.6",
+        "36.6"
+      ],
+      "a": 1,
+      "e": "Weighted mean = (36 × 60/100) + (40 × 40/100) = 37.6.",
+      "d": "Hard",
+      "topic": "Relative atomic mass",
+      "slo": "Calculate relative atomic mass from isotope abundance"
+    },
+    {
+      "id": "CHEM9CH3-034",
+      "q": "An element has isotopes of mass 6 u (60% abundance) and 7 u (40% abundance). What is its relative atomic mass?",
+      "o": [
+        "6.5",
+        "5.4",
+        "7.4",
+        "6.4"
+      ],
+      "a": 3,
+      "e": "Weighted mean = (6 × 60/100) + (7 × 40/100) = 6.4.",
+      "d": "Hard",
+      "topic": "Relative atomic mass",
+      "slo": "Calculate relative atomic mass from isotope abundance"
+    },
+    {
+      "id": "CHEM9CH3-035",
+      "q": "How many neutrons are present in neon-21 (atomic number 10)?",
+      "o": [
+        "11",
+        "13",
+        "12",
+        "10"
+      ],
+      "a": 0,
+      "e": "Neutrons = mass number − atomic number = 21 − 10 = 11.",
+      "d": "Medium",
+      "topic": "Mass number",
+      "slo": "Calculate neutron number from mass and atomic numbers"
+    },
+    {
+      "id": "CHEM9CH3-036",
+      "q": "How many electrons are in the outermost shell of a neutral lithium atom?",
+      "o": [
+        "2",
+        "3",
+        "0",
+        "1"
+      ],
+      "a": 3,
+      "e": "Its shell arrangement is 2,1; the final shell contains 1 electron(s).",
+      "d": "Medium",
+      "topic": "Electron arrangement",
+      "slo": "Determine valence electrons from electron arrangement"
+    },
+    {
+      "id": "CHEM9CH3-037",
+      "q": "Which shell-wise electron arrangement belongs to a neutral sodium atom (Z = 11)?",
+      "o": [
+        "2,1",
+        "2,3",
+        "2,8,7",
+        "2,8,1"
+      ],
+      "a": 3,
+      "e": "A neutral sodium atom has 11 electrons, distributed as 2,8,1.",
+      "d": "Medium",
+      "topic": "Electron arrangement",
+      "slo": "Write shell-wise electronic configurations"
+    },
+    {
+      "id": "CHEM9CH3-038",
+      "q": "How many protons are in the nucleus of argon-36?",
+      "o": [
+        "18",
+        "17",
+        "19",
+        "20"
+      ],
+      "a": 0,
+      "e": "All argon atoms have atomic number 18, hence 18 protons.",
+      "d": "Medium",
+      "topic": "Atomic number",
+      "slo": "Determine proton number from element identity"
+    },
+    {
+      "id": "CHEM9CH3-039",
+      "q": "How many neutrons are present in argon-36 (atomic number 18)?",
+      "o": [
+        "17",
+        "19",
+        "20",
+        "18"
+      ],
+      "a": 3,
+      "e": "Neutrons = mass number − atomic number = 36 − 18 = 18.",
+      "d": "Medium",
+      "topic": "Mass number",
+      "slo": "Calculate neutron number from mass and atomic numbers"
+    },
+    {
+      "id": "CHEM9CH3-040",
+      "q": "An element has isotopes of mass 16 u (60% abundance) and 18 u (40% abundance). What is its relative atomic mass?",
+      "o": [
+        "16.8",
+        "15.8",
+        "17",
+        "17.8"
+      ],
+      "a": 0,
+      "e": "Weighted mean = (16 × 60/100) + (18 × 40/100) = 16.8.",
+      "d": "Hard",
+      "topic": "Relative atomic mass",
+      "slo": "Calculate relative atomic mass from isotope abundance"
+    },
+    {
+      "id": "CHEM9CH3-041",
+      "q": "What does relative atomic mass represent?",
+      "o": [
+        "Mass of only the most abundant isotope in grams",
+        "Mass of all electrons in an atom",
+        "Weighted average mass of an element’s atoms relative to 1/12 of carbon-12",
+        "Total number of nucleons in a sample"
+      ],
+      "a": 2,
+      "e": "Relative atomic mass accounts for isotopic masses and abundances.",
+      "d": "Easy",
+      "topic": "Relative atomic mass",
+      "slo": "Recall and explain key ideas in atomic structure"
+    },
+    {
+      "id": "CHEM9CH3-042",
+      "q": "How many electrons are in a neutral atom of sulfur-33?",
+      "o": [
+        "16",
+        "18",
+        "15",
+        "17"
+      ],
+      "a": 0,
+      "e": "A neutral atom has as many electrons as protons; sulfur has 16 protons.",
+      "d": "Medium",
+      "topic": "Atomic number",
+      "slo": "Determine electron count in a neutral atom"
+    },
+    {
+      "id": "CHEM9CH3-043",
+      "q": "How many electrons are in the outermost shell of a neutral sodium atom?",
+      "o": [
+        "1",
+        "0",
+        "2",
+        "3"
+      ],
+      "a": 0,
+      "e": "Its shell arrangement is 2,8,1; the final shell contains 1 electron(s).",
+      "d": "Medium",
+      "topic": "Electron arrangement",
+      "slo": "Determine valence electrons from electron arrangement"
+    },
+    {
+      "id": "CHEM9CH3-044",
+      "q": "What is heavy water primarily composed of?",
+      "o": [
+        "D₂O",
+        "H₂O₂",
+        "H₂O",
+        "DO₂"
+      ],
+      "a": 0,
+      "e": "Heavy water contains deuterium instead of ordinary hydrogen.",
+      "d": "Easy",
+      "topic": "Hydrogen isotopes",
+      "slo": "Recall and explain key ideas in atomic structure"
+    },
+    {
+      "id": "CHEM9CH3-045",
+      "q": "How many neutrons are present in potassium-41 (atomic number 19)?",
+      "o": [
+        "24",
+        "23",
+        "21",
+        "22"
+      ],
+      "a": 3,
+      "e": "Neutrons = mass number − atomic number = 41 − 19 = 22.",
+      "d": "Medium",
+      "topic": "Mass number",
+      "slo": "Calculate neutron number from mass and atomic numbers"
+    },
+    {
+      "id": "CHEM9CH3-046",
+      "q": "Which shell-wise electron arrangement belongs to a neutral neon atom (Z = 10)?",
+      "o": [
+        "2,8",
+        "2,2",
+        "2,3",
+        "2,8,3"
+      ],
+      "a": 0,
+      "e": "A neutral neon atom has 10 electrons, distributed as 2,8.",
+      "d": "Medium",
+      "topic": "Electron arrangement",
+      "slo": "Write shell-wise electronic configurations"
+    },
+    {
+      "id": "CHEM9CH3-047",
+      "q": "Which shell-wise electron arrangement belongs to a neutral chlorine atom (Z = 17)?",
+      "o": [
+        "2,8,7",
+        "2,8,2",
+        "2,6",
+        "2,3"
+      ],
+      "a": 0,
+      "e": "A neutral chlorine atom has 17 electrons, distributed as 2,8,7.",
+      "d": "Medium",
+      "topic": "Electron arrangement",
+      "slo": "Write shell-wise electronic configurations"
+    },
+    {
+      "id": "CHEM9CH3-048",
+      "q": "What electron transfer produces Li+ from a neutral lithium atom?",
+      "o": [
+        "It loses 2 electron(s)",
+        "It loses 1 electron(s)",
+        "It gains 1 electron(s)",
+        "It changes its number of protons"
+      ],
+      "a": 1,
+      "e": "A +1 ionic charge results when a neutral atom loses 1 electron(s).",
+      "d": "Medium",
+      "topic": "Ion formation",
+      "slo": "Explain formation of cations and anions"
+    },
+    {
+      "id": "CHEM9CH3-049",
+      "q": "How many occupied electron shells does a neutral neon atom have?",
+      "o": [
+        "2",
+        "4",
+        "3",
+        "1"
+      ],
+      "a": 0,
+      "e": "The arrangement 2,8 contains 2 occupied shell(s).",
+      "d": "Medium",
+      "topic": "Electron arrangement",
+      "slo": "Infer occupied shells from electron configuration"
+    },
+    {
+      "id": "CHEM9CH3-050",
+      "q": "How many protons are in the nucleus of carbon-14?",
+      "o": [
+        "6",
+        "7",
+        "8",
+        "5"
+      ],
+      "a": 0,
+      "e": "All carbon atoms have atomic number 6, hence 6 protons.",
+      "d": "Medium",
+      "topic": "Atomic number",
+      "slo": "Determine proton number from element identity"
+    },
+    {
+      "id": "CHEM9CH3-051",
+      "q": "Which scientist introduced quantized electron energy levels in an atomic model?",
+      "o": [
+        "J. J. Thomson",
+        "Niels Bohr",
+        "John Dalton",
+        "James Chadwick"
+      ],
+      "a": 1,
+      "e": "Bohr described electrons occupying discrete permitted energy levels.",
+      "d": "Easy",
+      "topic": "Atomic models",
+      "slo": "Recall and explain key ideas in atomic structure"
+    },
+    {
+      "id": "CHEM9CH3-052",
+      "q": "How many occupied electron shells does a neutral helium atom have?",
+      "o": [
+        "4",
+        "3",
+        "1",
+        "2"
+      ],
+      "a": 2,
+      "e": "The arrangement 2 contains 1 occupied shell(s).",
+      "d": "Medium",
+      "topic": "Electron arrangement",
+      "slo": "Infer occupied shells from electron configuration"
+    },
+    {
+      "id": "CHEM9CH3-053",
+      "q": "What is the maximum electron capacity of a shell with principal quantum number n?",
+      "o": [
+        "n²",
+        "2n²",
+        "2n",
+        "n + 2"
+      ],
+      "a": 1,
+      "e": "The maximum electron count in shell n is 2n².",
+      "d": "Easy",
+      "topic": "Electron arrangement",
+      "slo": "Recall and explain key ideas in atomic structure"
+    },
+    {
+      "id": "CHEM9CH3-054",
+      "q": "How many electrons are in a neutral atom of silicon-30?",
+      "o": [
+        "14",
+        "15",
+        "16",
+        "13"
+      ],
+      "a": 0,
+      "e": "A neutral atom has as many electrons as protons; silicon has 14 protons.",
+      "d": "Medium",
+      "topic": "Atomic number",
+      "slo": "Determine electron count in a neutral atom"
+    },
+    {
+      "id": "CHEM9CH3-055",
+      "q": "How many electrons are in the outermost shell of a neutral nitrogen atom?",
+      "o": [
+        "5",
+        "6",
+        "4",
+        "7"
+      ],
+      "a": 0,
+      "e": "Its shell arrangement is 2,5; the final shell contains 5 electron(s).",
+      "d": "Medium",
+      "topic": "Electron arrangement",
+      "slo": "Determine valence electrons from electron arrangement"
+    },
+    {
+      "id": "CHEM9CH3-056",
+      "q": "How many electrons are in the outermost shell of a neutral beryllium atom?",
+      "o": [
+        "4",
+        "3",
+        "2",
+        "1"
+      ],
+      "a": 2,
+      "e": "Its shell arrangement is 2,2; the final shell contains 2 electron(s).",
+      "d": "Medium",
+      "topic": "Electron arrangement",
+      "slo": "Determine valence electrons from electron arrangement"
+    },
+    {
+      "id": "CHEM9CH3-057",
+      "q": "How many neutrons are present in calcium-40 (atomic number 20)?",
+      "o": [
+        "20",
+        "21",
+        "19",
+        "22"
+      ],
+      "a": 0,
+      "e": "Neutrons = mass number − atomic number = 40 − 20 = 20.",
+      "d": "Medium",
+      "topic": "Mass number",
+      "slo": "Calculate neutron number from mass and atomic numbers"
+    },
+    {
+      "id": "CHEM9CH3-058",
+      "q": "How many electrons are in a neutral atom of magnesium-25?",
+      "o": [
+        "14",
+        "12",
+        "11",
+        "13"
+      ],
+      "a": 1,
+      "e": "A neutral atom has as many electrons as protons; magnesium has 12 protons.",
+      "d": "Medium",
+      "topic": "Atomic number",
+      "slo": "Determine electron count in a neutral atom"
+    },
+    {
+      "id": "CHEM9CH3-059",
+      "q": "Which scientist discovered the neutron?",
+      "o": [
+        "J. J. Thomson",
+        "Niels Bohr",
+        "James Chadwick",
+        "John Dalton"
+      ],
+      "a": 2,
+      "e": "Chadwick identified the neutron in 1932.",
+      "d": "Easy",
+      "topic": "Atomic models",
+      "slo": "Recall and explain key ideas in atomic structure"
+    },
+    {
+      "id": "CHEM9CH3-060",
+      "q": "An element has isotopes of mass 36 u (40% abundance) and 40 u (60% abundance). What is its relative atomic mass?",
+      "o": [
+        "38",
+        "39.4",
+        "38.4",
+        "37.4"
+      ],
+      "a": 2,
+      "e": "Weighted mean = (36 × 40/100) + (40 × 60/100) = 38.4.",
+      "d": "Hard",
+      "topic": "Relative atomic mass",
+      "slo": "Calculate relative atomic mass from isotope abundance"
+    },
+    {
+      "id": "CHEM9CH3-061",
+      "q": "How many protons are in the nucleus of chlorine-37?",
+      "o": [
+        "19",
+        "16",
+        "18",
+        "17"
+      ],
+      "a": 3,
+      "e": "All chlorine atoms have atomic number 17, hence 17 protons.",
+      "d": "Medium",
+      "topic": "Atomic number",
+      "slo": "Determine proton number from element identity"
+    },
+    {
+      "id": "CHEM9CH3-062",
+      "q": "How many electrons are in the outermost shell of a neutral neon atom?",
+      "o": [
+        "9",
+        "8",
+        "7",
+        "10"
+      ],
+      "a": 1,
+      "e": "Its shell arrangement is 2,8; the final shell contains 8 electron(s).",
+      "d": "Medium",
+      "topic": "Electron arrangement",
+      "slo": "Determine valence electrons from electron arrangement"
+    },
+    {
+      "id": "CHEM9CH3-063",
+      "q": "An element has isotopes of mass 10 u (75% abundance) and 11 u (25% abundance). What is its relative atomic mass?",
+      "o": [
+        "10.25",
+        "11.25",
+        "9.25",
+        "10.5"
+      ],
+      "a": 0,
+      "e": "Weighted mean = (10 × 75/100) + (11 × 25/100) = 10.25.",
+      "d": "Hard",
+      "topic": "Relative atomic mass",
+      "slo": "Calculate relative atomic mass from isotope abundance"
+    },
+    {
+      "id": "CHEM9CH3-064",
+      "q": "An element has isotopes of mass 79 u (40% abundance) and 81 u (60% abundance). What is its relative atomic mass?",
+      "o": [
+        "80",
+        "80.2",
+        "79.2",
+        "81.2"
+      ],
+      "a": 1,
+      "e": "Weighted mean = (79 × 40/100) + (81 × 60/100) = 80.2.",
+      "d": "Hard",
+      "topic": "Relative atomic mass",
+      "slo": "Calculate relative atomic mass from isotope abundance"
+    },
+    {
+      "id": "CHEM9CH3-065",
+      "q": "How many occupied electron shells does a neutral oxygen atom have?",
+      "o": [
+        "4",
+        "1",
+        "2",
+        "3"
+      ],
+      "a": 2,
+      "e": "The arrangement 2,6 contains 2 occupied shell(s).",
+      "d": "Medium",
+      "topic": "Electron arrangement",
+      "slo": "Infer occupied shells from electron configuration"
+    },
+    {
+      "id": "CHEM9CH3-066",
+      "q": "How many neutrons are present in carbon-14 (atomic number 6)?",
+      "o": [
+        "10",
+        "8",
+        "9",
+        "7"
+      ],
+      "a": 1,
+      "e": "Neutrons = mass number − atomic number = 14 − 6 = 8.",
+      "d": "Medium",
+      "topic": "Mass number",
+      "slo": "Calculate neutron number from mass and atomic numbers"
+    },
+    {
+      "id": "CHEM9CH3-067",
+      "q": "How many occupied electron shells does a neutral beryllium atom have?",
+      "o": [
+        "3",
+        "2",
+        "4",
+        "1"
+      ],
+      "a": 1,
+      "e": "The arrangement 2,2 contains 2 occupied shell(s).",
+      "d": "Medium",
+      "topic": "Electron arrangement",
+      "slo": "Infer occupied shells from electron configuration"
+    },
+    {
+      "id": "CHEM9CH3-068",
+      "q": "What is an anion?",
+      "o": [
+        "An atom without a nucleus",
+        "A positively charged ion",
+        "A particle with no electrons",
+        "A negatively charged ion"
+      ],
+      "a": 3,
+      "e": "An anion forms when an atom gains electrons.",
+      "d": "Easy",
+      "topic": "Ion formation",
+      "slo": "Recall and explain key ideas in atomic structure"
+    },
+    {
+      "id": "CHEM9CH3-069",
+      "q": "An element has isotopes of mass 63 u (60% abundance) and 65 u (40% abundance). What is its relative atomic mass?",
+      "o": [
+        "63.8",
+        "62.8",
+        "64",
+        "64.8"
+      ],
+      "a": 0,
+      "e": "Weighted mean = (63 × 60/100) + (65 × 40/100) = 63.8.",
+      "d": "Hard",
+      "topic": "Relative atomic mass",
+      "slo": "Calculate relative atomic mass from isotope abundance"
+    },
+    {
+      "id": "CHEM9CH3-070",
+      "q": "How many protons are in the nucleus of sodium-23?",
+      "o": [
+        "11",
+        "10",
+        "12",
+        "13"
+      ],
+      "a": 0,
+      "e": "All sodium atoms have atomic number 11, hence 11 protons.",
+      "d": "Medium",
+      "topic": "Atomic number",
+      "slo": "Determine proton number from element identity"
+    },
+    {
+      "id": "CHEM9CH3-071",
+      "q": "An element has isotopes of mass 20 u (75% abundance) and 22 u (25% abundance). What is its relative atomic mass?",
+      "o": [
+        "21.5",
+        "20.5",
+        "19.5",
+        "21"
+      ],
+      "a": 1,
+      "e": "Weighted mean = (20 × 75/100) + (22 × 25/100) = 20.5.",
+      "d": "Hard",
+      "topic": "Relative atomic mass",
+      "slo": "Calculate relative atomic mass from isotope abundance"
+    },
+    {
+      "id": "CHEM9CH3-072",
+      "q": "An element has isotopes of mass 63 u (75% abundance) and 65 u (25% abundance). What is its relative atomic mass?",
+      "o": [
+        "62.5",
+        "64",
+        "64.5",
+        "63.5"
+      ],
+      "a": 3,
+      "e": "Weighted mean = (63 × 75/100) + (65 × 25/100) = 63.5.",
+      "d": "Hard",
+      "topic": "Relative atomic mass",
+      "slo": "Calculate relative atomic mass from isotope abundance"
+    },
+    {
+      "id": "CHEM9CH3-073",
+      "q": "How many electrons are in the outermost shell of a neutral potassium atom?",
+      "o": [
+        "0",
+        "3",
+        "1",
+        "2"
+      ],
+      "a": 2,
+      "e": "Its shell arrangement is 2,8,8,1; the final shell contains 1 electron(s).",
+      "d": "Medium",
+      "topic": "Electron arrangement",
+      "slo": "Determine valence electrons from electron arrangement"
+    },
+    {
+      "id": "CHEM9CH3-074",
+      "q": "How many neutrons are present in oxygen-16 (atomic number 8)?",
+      "o": [
+        "8",
+        "10",
+        "9",
+        "7"
+      ],
+      "a": 0,
+      "e": "Neutrons = mass number − atomic number = 16 − 8 = 8.",
+      "d": "Medium",
+      "topic": "Mass number",
+      "slo": "Calculate neutron number from mass and atomic numbers"
+    },
+    {
+      "id": "CHEM9CH3-075",
+      "q": "How many electrons are in a neutral atom of potassium-41?",
+      "o": [
+        "20",
+        "21",
+        "18",
+        "19"
+      ],
+      "a": 3,
+      "e": "A neutral atom has as many electrons as protons; potassium has 19 protons.",
+      "d": "Medium",
+      "topic": "Atomic number",
+      "slo": "Determine electron count in a neutral atom"
+    },
+    {
+      "id": "CHEM9CH3-076",
+      "q": "What did most alpha particles do in Rutherford’s gold-foil experiment?",
+      "o": [
+        "Bounced directly backward",
+        "Turned into electrons",
+        "Were absorbed by gold atoms",
+        "Passed straight through the foil"
+      ],
+      "a": 3,
+      "e": "Most particles passed through because most of the atom is empty space.",
+      "d": "Easy",
+      "topic": "Atomic models",
+      "slo": "Recall and explain key ideas in atomic structure"
+    },
+    {
+      "id": "CHEM9CH3-077",
+      "q": "How many electrons are in the ion Li+ (atomic number 3)?",
+      "o": [
+        "1",
+        "4",
+        "3",
+        "2"
+      ],
+      "a": 3,
+      "e": "The ion has 3 protons and charge +1; electrons = 3 − (1) = 2.",
+      "d": "Medium",
+      "topic": "Ion formation",
+      "slo": "Calculate electron count in monoatomic ions"
+    },
+    {
+      "id": "CHEM9CH3-078",
+      "q": "What is the maximum number of electrons in the first shell?",
+      "o": [
+        "2",
+        "32",
+        "18",
+        "8"
+      ],
+      "a": 0,
+      "e": "The first shell has a maximum capacity of two electrons.",
+      "d": "Easy",
+      "topic": "Electron arrangement",
+      "slo": "Recall and explain key ideas in atomic structure"
+    },
+    {
+      "id": "CHEM9CH3-079",
+      "q": "How many electrons are in a neutral atom of magnesium-26?",
+      "o": [
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "a": 1,
+      "e": "A neutral atom has as many electrons as protons; magnesium has 12 protons.",
+      "d": "Medium",
+      "topic": "Atomic number",
+      "slo": "Determine electron count in a neutral atom"
+    },
+    {
+      "id": "CHEM9CH3-080",
+      "q": "What is the maximum number of electrons in the second shell?",
+      "o": [
+        "32",
+        "8",
+        "18",
+        "2"
+      ],
+      "a": 1,
+      "e": "The second shell has a maximum capacity of eight electrons.",
+      "d": "Easy",
+      "topic": "Electron arrangement",
+      "slo": "Recall and explain key ideas in atomic structure"
+    },
+    {
+      "id": "CHEM9CH3-081",
+      "q": "In a neutral atom, the number of electrons equals the number of what?",
+      "o": [
+        "Protons",
+        "Neutrons",
+        "Nucleons",
+        "Electron shells"
+      ],
+      "a": 0,
+      "e": "Electrical neutrality requires equal positive and negative charges.",
+      "d": "Easy",
+      "topic": "Atomic number",
+      "slo": "Recall and explain key ideas in atomic structure"
+    },
+    {
+      "id": "CHEM9CH3-082",
+      "q": "How many electrons does aluminium lose to form Al³⁺?",
+      "o": [
+        "2",
+        "1",
+        "3",
+        "4"
+      ],
+      "a": 2,
+      "e": "Aluminium forms a +3 ion by losing three electrons.",
+      "d": "Easy",
+      "topic": "Ion formation",
+      "slo": "Recall and explain key ideas in atomic structure"
+    },
+    {
+      "id": "CHEM9CH3-083",
+      "q": "How many protons are in the nucleus of sulfur-33?",
+      "o": [
+        "18",
+        "17",
+        "16",
+        "15"
+      ],
+      "a": 2,
+      "e": "All sulfur atoms have atomic number 16, hence 16 protons.",
+      "d": "Medium",
+      "topic": "Atomic number",
+      "slo": "Determine proton number from element identity"
+    },
+    {
+      "id": "CHEM9CH3-084",
+      "q": "What happens to an atom when it loses one electron?",
+      "o": [
+        "Its proton number decreases by one",
+        "Its neutron number increases by one",
+        "It acquires a +1 charge",
+        "It acquires a −1 charge"
+      ],
+      "a": 2,
+      "e": "Losing one negative electron leaves one excess positive charge.",
+      "d": "Easy",
+      "topic": "Ion formation",
+      "slo": "Recall and explain key ideas in atomic structure"
+    },
+    {
+      "id": "CHEM9CH3-085",
+      "q": "Which shell-wise electron arrangement belongs to a neutral nitrogen atom (Z = 7)?",
+      "o": [
+        "2,5",
+        "2,8,1",
+        "2,8,5",
+        "2,8,6"
+      ],
+      "a": 0,
+      "e": "A neutral nitrogen atom has 7 electrons, distributed as 2,5.",
+      "d": "Medium",
+      "topic": "Electron arrangement",
+      "slo": "Write shell-wise electronic configurations"
+    },
+    {
+      "id": "CHEM9CH3-086",
+      "q": "What electron transfer produces K+ from a neutral potassium atom?",
+      "o": [
+        "It loses 1 electron(s)",
+        "It gains 1 electron(s)",
+        "It changes its number of protons",
+        "It loses 2 electron(s)"
+      ],
+      "a": 0,
+      "e": "A +1 ionic charge results when a neutral atom loses 1 electron(s).",
+      "d": "Medium",
+      "topic": "Ion formation",
+      "slo": "Explain formation of cations and anions"
+    },
+    {
+      "id": "CHEM9CH3-087",
+      "q": "How many protons are in the nucleus of silicon-29?",
+      "o": [
+        "14",
+        "15",
+        "13",
+        "16"
+      ],
+      "a": 0,
+      "e": "All silicon atoms have atomic number 14, hence 14 protons.",
+      "d": "Medium",
+      "topic": "Atomic number",
+      "slo": "Determine proton number from element identity"
+    },
+    {
+      "id": "CHEM9CH3-088",
+      "q": "How many protons are in the nucleus of phosphorus-31?",
+      "o": [
+        "14",
+        "17",
+        "16",
+        "15"
+      ],
+      "a": 3,
+      "e": "All phosphorus atoms have atomic number 15, hence 15 protons.",
+      "d": "Medium",
+      "topic": "Atomic number",
+      "slo": "Determine proton number from element identity"
+    },
+    {
+      "id": "CHEM9CH3-089",
+      "q": "An element has isotopes of mass 12 u (75% abundance) and 13 u (25% abundance). What is its relative atomic mass?",
+      "o": [
+        "13.25",
+        "12.25",
+        "12.5",
+        "11.25"
+      ],
+      "a": 1,
+      "e": "Weighted mean = (12 × 75/100) + (13 × 25/100) = 12.25.",
+      "d": "Hard",
+      "topic": "Relative atomic mass",
+      "slo": "Calculate relative atomic mass from isotope abundance"
+    },
+    {
+      "id": "CHEM9CH3-090",
+      "q": "An element has isotopes of mass 14 u (75% abundance) and 15 u (25% abundance). What is its relative atomic mass?",
+      "o": [
+        "13.25",
+        "15.25",
+        "14.25",
+        "14.5"
+      ],
+      "a": 2,
+      "e": "Weighted mean = (14 × 75/100) + (15 × 25/100) = 14.25.",
+      "d": "Hard",
+      "topic": "Relative atomic mass",
+      "slo": "Calculate relative atomic mass from isotope abundance"
+    },
+    {
+      "id": "CHEM9CH3-091",
+      "q": "What electron transfer produces Cl− from a neutral chlorine atom?",
+      "o": [
+        "It changes its number of protons",
+        "It gains 1 electron(s)",
+        "It gains 2 electron(s)",
+        "It loses 1 electron(s)"
+      ],
+      "a": 1,
+      "e": "A -1 ionic charge results when a neutral atom gains 1 electron(s).",
+      "d": "Medium",
+      "topic": "Ion formation",
+      "slo": "Explain formation of cations and anions"
+    },
+    {
+      "id": "CHEM9CH3-092",
+      "q": "Which particle has the smallest mass among a proton, neutron and electron?",
+      "o": [
+        "Neutron",
+        "All have equal mass",
+        "Electron",
+        "Proton"
+      ],
+      "a": 2,
+      "e": "An electron has a much smaller mass than either nucleon.",
+      "d": "Easy",
+      "topic": "Subatomic particles",
+      "slo": "Recall and explain key ideas in atomic structure"
+    },
+    {
+      "id": "CHEM9CH3-093",
+      "q": "Which shell-wise electron arrangement belongs to a neutral boron atom (Z = 5)?",
+      "o": [
+        "2,8,3",
+        "2,8,5",
+        "2,3",
+        "2,8,8,1"
+      ],
+      "a": 2,
+      "e": "A neutral boron atom has 5 electrons, distributed as 2,3.",
+      "d": "Medium",
+      "topic": "Electron arrangement",
+      "slo": "Write shell-wise electronic configurations"
+    },
+    {
+      "id": "CHEM9CH3-094",
+      "q": "Which shell-wise electron arrangement belongs to a neutral helium atom (Z = 2)?",
+      "o": [
+        "2",
+        "2,4",
+        "2,8,7",
+        "2,8,1"
+      ],
+      "a": 0,
+      "e": "A neutral helium atom has 2 electrons, distributed as 2.",
+      "d": "Medium",
+      "topic": "Electron arrangement",
+      "slo": "Write shell-wise electronic configurations"
+    },
+    {
+      "id": "CHEM9CH3-095",
+      "q": "Which relationship gives the neutron number N?",
+      "o": [
+        "N = Z − A",
+        "N = A × Z",
+        "N = A + Z",
+        "N = A − Z"
+      ],
+      "a": 3,
+      "e": "Subtract atomic number from mass number to obtain neutrons.",
+      "d": "Easy",
+      "topic": "Mass number",
+      "slo": "Recall and explain key ideas in atomic structure"
+    },
+    {
+      "id": "CHEM9CH3-096",
+      "q": "An element has isotopes of mass 10 u (60% abundance) and 11 u (40% abundance). What is its relative atomic mass?",
+      "o": [
+        "9.4",
+        "10.5",
+        "11.4",
+        "10.4"
+      ],
+      "a": 3,
+      "e": "Weighted mean = (10 × 60/100) + (11 × 40/100) = 10.4.",
+      "d": "Hard",
+      "topic": "Relative atomic mass",
+      "slo": "Calculate relative atomic mass from isotope abundance"
+    },
+    {
+      "id": "CHEM9CH3-097",
+      "q": "How many protons are in the nucleus of calcium-42?",
+      "o": [
+        "22",
+        "19",
+        "21",
+        "20"
+      ],
+      "a": 3,
+      "e": "All calcium atoms have atomic number 20, hence 20 protons.",
+      "d": "Medium",
+      "topic": "Atomic number",
+      "slo": "Determine proton number from element identity"
+    },
+    {
+      "id": "CHEM9CH3-098",
+      "q": "How many electrons are in a neutral atom of calcium-42?",
+      "o": [
+        "21",
+        "20",
+        "19",
+        "22"
+      ],
+      "a": 1,
+      "e": "A neutral atom has as many electrons as protons; calcium has 20 protons.",
+      "d": "Medium",
+      "topic": "Atomic number",
+      "slo": "Determine electron count in a neutral atom"
+    },
+    {
+      "id": "CHEM9CH3-099",
+      "q": "How many electrons are in a neutral atom of neon-20?",
+      "o": [
+        "10",
+        "11",
+        "12",
+        "9"
+      ],
+      "a": 0,
+      "e": "A neutral atom has as many electrons as protons; neon has 10 protons.",
+      "d": "Medium",
+      "topic": "Atomic number",
+      "slo": "Determine electron count in a neutral atom"
+    },
+    {
+      "id": "CHEM9CH3-100",
+      "q": "How many electrons are in a neutral atom of neon-22?",
+      "o": [
+        "11",
+        "9",
+        "10",
+        "12"
+      ],
+      "a": 2,
+      "e": "A neutral atom has as many electrons as protons; neon has 10 protons.",
+      "d": "Medium",
+      "topic": "Atomic number",
+      "slo": "Determine electron count in a neutral atom"
+    },
+    {
+      "id": "CHEM9CH3-101",
+      "q": "How many neutrons are present in lithium-7 (atomic number 3)?",
+      "o": [
+        "4",
+        "5",
+        "3",
+        "6"
+      ],
+      "a": 0,
+      "e": "Neutrons = mass number − atomic number = 7 − 3 = 4.",
+      "d": "Medium",
+      "topic": "Mass number",
+      "slo": "Calculate neutron number from mass and atomic numbers"
+    },
+    {
+      "id": "CHEM9CH3-102",
+      "q": "What are isotopes?",
+      "o": [
+        "Atoms with different proton numbers and identical neutrons",
+        "Ions with opposite charges",
+        "Atoms of different elements with the same mass number",
+        "Atoms of the same element with different numbers of neutrons"
+      ],
+      "a": 3,
+      "e": "Isotopes share a proton number but differ in neutron count.",
+      "d": "Easy",
+      "topic": "Isotopes",
+      "slo": "Recall and explain key ideas in atomic structure"
+    },
+    {
+      "id": "CHEM9CH3-103",
+      "q": "How many electrons does fluorine gain to form F⁻?",
+      "o": [
+        "2",
+        "0",
+        "1",
+        "3"
+      ],
+      "a": 2,
+      "e": "Fluorine gains one electron to complete an octet.",
+      "d": "Easy",
+      "topic": "Ion formation",
+      "slo": "Recall and explain key ideas in atomic structure"
+    },
+    {
+      "id": "CHEM9CH3-104",
+      "q": "How many electrons are in a neutral atom of sodium-23?",
+      "o": [
+        "12",
+        "13",
+        "11",
+        "10"
+      ],
+      "a": 2,
+      "e": "A neutral atom has as many electrons as protons; sodium has 11 protons.",
+      "d": "Medium",
+      "topic": "Atomic number",
+      "slo": "Determine electron count in a neutral atom"
+    },
+    {
+      "id": "CHEM9CH3-105",
+      "q": "How many protons are in the nucleus of potassium-40?",
+      "o": [
+        "21",
+        "20",
+        "18",
+        "19"
+      ],
+      "a": 3,
+      "e": "All potassium atoms have atomic number 19, hence 19 protons.",
+      "d": "Medium",
+      "topic": "Atomic number",
+      "slo": "Determine proton number from element identity"
+    },
+    {
+      "id": "CHEM9CH3-106",
+      "q": "How many occupied electron shells does a neutral hydrogen atom have?",
+      "o": [
+        "1",
+        "2",
+        "4",
+        "3"
+      ],
+      "a": 0,
+      "e": "The arrangement 1 contains 1 occupied shell(s).",
+      "d": "Medium",
+      "topic": "Electron arrangement",
+      "slo": "Infer occupied shells from electron configuration"
+    },
+    {
+      "id": "CHEM9CH3-107",
+      "q": "How many protons are in the nucleus of lithium-6?",
+      "o": [
+        "4",
+        "3",
+        "2",
+        "5"
+      ],
+      "a": 1,
+      "e": "All lithium atoms have atomic number 3, hence 3 protons.",
+      "d": "Medium",
+      "topic": "Atomic number",
+      "slo": "Determine proton number from element identity"
+    },
+    {
+      "id": "CHEM9CH3-108",
+      "q": "Which part of an atom accounts for nearly all of its mass?",
+      "o": [
+        "The valence shell",
+        "The electron cloud",
+        "The nucleus",
+        "The space between shells"
+      ],
+      "a": 2,
+      "e": "Protons and neutrons carry almost all atomic mass.",
+      "d": "Easy",
+      "topic": "Subatomic particles",
+      "slo": "Recall and explain key ideas in atomic structure"
+    },
+    {
+      "id": "CHEM9CH3-109",
+      "q": "What is the approximate boiling point of heavy water at standard pressure, as listed in the textbook?",
+      "o": [
+        "101.2 °C",
+        "100.0 °C",
+        "110.0 °C",
+        "90.0 °C"
+      ],
+      "a": 0,
+      "e": "The textbook compares heavy water at about 101.2 °C with ordinary water at 100 °C.",
+      "d": "Easy",
+      "topic": "Hydrogen isotopes",
+      "slo": "Recall and explain key ideas in atomic structure"
+    },
+    {
+      "id": "CHEM9CH3-110",
+      "q": "An element has isotopes of mass 24 u (25% abundance) and 26 u (75% abundance). What is its relative atomic mass?",
+      "o": [
+        "26.5",
+        "24.5",
+        "25",
+        "25.5"
+      ],
+      "a": 3,
+      "e": "Weighted mean = (24 × 25/100) + (26 × 75/100) = 25.5.",
+      "d": "Hard",
+      "topic": "Relative atomic mass",
+      "slo": "Calculate relative atomic mass from isotope abundance"
+    },
+    {
+      "id": "CHEM9CH3-111",
+      "q": "An element has isotopes of mass 35 u (60% abundance) and 37 u (40% abundance). What is its relative atomic mass?",
+      "o": [
+        "36.8",
+        "34.8",
+        "35.8",
+        "36"
+      ],
+      "a": 2,
+      "e": "Weighted mean = (35 × 60/100) + (37 × 40/100) = 35.8.",
+      "d": "Hard",
+      "topic": "Relative atomic mass",
+      "slo": "Calculate relative atomic mass from isotope abundance"
+    },
+    {
+      "id": "CHEM9CH3-112",
+      "q": "What is the mass number of protium?",
+      "o": [
+        "3",
+        "1",
+        "2",
+        "0"
+      ],
+      "a": 1,
+      "e": "Protium is hydrogen-1 with one proton and no neutrons.",
+      "d": "Easy",
+      "topic": "Hydrogen isotopes",
+      "slo": "Recall and explain key ideas in atomic structure"
+    },
+    {
+      "id": "CHEM9CH3-113",
+      "q": "Where are protons located in an atom?",
+      "o": [
+        "In the outermost shell",
+        "Only in orbitals outside the nucleus",
+        "Between atoms",
+        "In the nucleus"
+      ],
+      "a": 3,
+      "e": "Protons are nuclear particles.",
+      "d": "Easy",
+      "topic": "Subatomic particles",
+      "slo": "Recall and explain key ideas in atomic structure"
+    },
+    {
+      "id": "CHEM9CH3-114",
+      "q": "Which notation represents a neutral helium atom’s shell arrangement?",
+      "o": [
+        "2,1",
+        "2",
+        "1,1",
+        "2,2"
+      ],
+      "a": 1,
+      "e": "Helium has two electrons, both in the first shell.",
+      "d": "Easy",
+      "topic": "Electron arrangement",
+      "slo": "Recall and explain key ideas in atomic structure"
+    },
+    {
+      "id": "CHEM9CH3-115",
+      "q": "How many electrons are in a neutral atom of lithium-7?",
+      "o": [
+        "3",
+        "4",
+        "5",
+        "2"
+      ],
+      "a": 0,
+      "e": "A neutral atom has as many electrons as protons; lithium has 3 protons.",
+      "d": "Medium",
+      "topic": "Atomic number",
+      "slo": "Determine electron count in a neutral atom"
+    },
+    {
+      "id": "CHEM9CH3-116",
+      "q": "Which shell-wise electron arrangement belongs to a neutral calcium atom (Z = 20)?",
+      "o": [
+        "2,8,4",
+        "2,8,8,2",
+        "2,8",
+        "2"
+      ],
+      "a": 1,
+      "e": "A neutral calcium atom has 20 electrons, distributed as 2,8,8,2.",
+      "d": "Medium",
+      "topic": "Electron arrangement",
+      "slo": "Write shell-wise electronic configurations"
+    },
+    {
+      "id": "CHEM9CH3-117",
+      "q": "How many neutrons does deuterium contain?",
+      "o": [
+        "2",
+        "1",
+        "0",
+        "3"
+      ],
+      "a": 1,
+      "e": "Deuterium is hydrogen-2: one proton and one neutron.",
+      "d": "Easy",
+      "topic": "Hydrogen isotopes",
+      "slo": "Recall and explain key ideas in atomic structure"
+    },
+    {
+      "id": "CHEM9CH3-118",
+      "q": "Which experiment provided evidence for a small, dense, positively charged nucleus?",
+      "o": [
+        "Chromatography of ink",
+        "Electrolysis of water",
+        "Alpha-particle scattering by gold foil",
+        "Flame test of sodium"
+      ],
+      "a": 2,
+      "e": "Rutherford interpreted alpha-particle scattering to infer a small central nucleus.",
+      "d": "Easy",
+      "topic": "Atomic models",
+      "slo": "Recall and explain key ideas in atomic structure"
+    },
+    {
+      "id": "CHEM9CH3-119",
+      "q": "Which neutral atom has the electron arrangement 2,8,8?",
+      "o": [
+        "Potassium",
+        "Chlorine",
+        "Argon",
+        "Neon"
+      ],
+      "a": 2,
+      "e": "Argon has 18 electrons arranged 2,8,8.",
+      "d": "Easy",
+      "topic": "Electron arrangement",
+      "slo": "Recall and explain key ideas in atomic structure"
+    },
+    {
+      "id": "CHEM9CH3-120",
+      "q": "An element has isotopes of mass 12 u (40% abundance) and 13 u (60% abundance). What is its relative atomic mass?",
+      "o": [
+        "13.6",
+        "11.6",
+        "12.5",
+        "12.6"
+      ],
+      "a": 3,
+      "e": "Weighted mean = (12 × 40/100) + (13 × 60/100) = 12.6.",
+      "d": "Hard",
+      "topic": "Relative atomic mass",
+      "slo": "Calculate relative atomic mass from isotope abundance"
+    },
+    {
+      "id": "CHEM9CH3-121",
+      "q": "How many neutrons are present in calcium-42 (atomic number 20)?",
+      "o": [
+        "21",
+        "24",
+        "22",
+        "23"
+      ],
+      "a": 2,
+      "e": "Neutrons = mass number − atomic number = 42 − 20 = 22.",
+      "d": "Medium",
+      "topic": "Mass number",
+      "slo": "Calculate neutron number from mass and atomic numbers"
+    },
+    {
+      "id": "CHEM9CH3-122",
+      "q": "An element has isotopes of mass 12 u (25% abundance) and 13 u (75% abundance). What is its relative atomic mass?",
+      "o": [
+        "13.75",
+        "12.5",
+        "11.75",
+        "12.75"
+      ],
+      "a": 3,
+      "e": "Weighted mean = (12 × 25/100) + (13 × 75/100) = 12.75.",
+      "d": "Hard",
+      "topic": "Relative atomic mass",
+      "slo": "Calculate relative atomic mass from isotope abundance"
+    },
+    {
+      "id": "CHEM9CH3-123",
+      "q": "How many electrons are in a neutral atom of nitrogen-14?",
+      "o": [
+        "6",
+        "8",
+        "7",
+        "9"
+      ],
+      "a": 2,
+      "e": "A neutral atom has as many electrons as protons; nitrogen has 7 protons.",
+      "d": "Medium",
+      "topic": "Atomic number",
+      "slo": "Determine electron count in a neutral atom"
+    },
+    {
+      "id": "CHEM9CH3-124",
+      "q": "An element has isotopes of mass 24 u (40% abundance) and 26 u (60% abundance). What is its relative atomic mass?",
+      "o": [
+        "26.2",
+        "25.2",
+        "24.2",
+        "25"
+      ],
+      "a": 1,
+      "e": "Weighted mean = (24 × 40/100) + (26 × 60/100) = 25.2.",
+      "d": "Hard",
+      "topic": "Relative atomic mass",
+      "slo": "Calculate relative atomic mass from isotope abundance"
+    },
+    {
+      "id": "CHEM9CH3-125",
+      "q": "How many protons are in the nucleus of carbon-13?",
+      "o": [
+        "5",
+        "8",
+        "6",
+        "7"
+      ],
+      "a": 2,
+      "e": "All carbon atoms have atomic number 6, hence 6 protons.",
+      "d": "Medium",
+      "topic": "Atomic number",
+      "slo": "Determine proton number from element identity"
+    },
+    {
+      "id": "CHEM9CH3-126",
+      "q": "How many occupied electron shells does a neutral phosphorus atom have?",
+      "o": [
+        "2",
+        "3",
+        "4",
+        "1"
+      ],
+      "a": 1,
+      "e": "The arrangement 2,8,5 contains 3 occupied shell(s).",
+      "d": "Medium",
+      "topic": "Electron arrangement",
+      "slo": "Infer occupied shells from electron configuration"
+    },
+    {
+      "id": "CHEM9CH3-127",
+      "q": "Which shell-wise electron arrangement belongs to a neutral magnesium atom (Z = 12)?",
+      "o": [
+        "2,8,5",
+        "2,2",
+        "2,8,1",
+        "2,8,2"
+      ],
+      "a": 3,
+      "e": "A neutral magnesium atom has 12 electrons, distributed as 2,8,2.",
+      "d": "Medium",
+      "topic": "Electron arrangement",
+      "slo": "Write shell-wise electronic configurations"
+    },
+    {
+      "id": "CHEM9CH3-128",
+      "q": "How many occupied electron shells does a neutral carbon atom have?",
+      "o": [
+        "2",
+        "1",
+        "4",
+        "3"
+      ],
+      "a": 0,
+      "e": "The arrangement 2,4 contains 2 occupied shell(s).",
+      "d": "Medium",
+      "topic": "Electron arrangement",
+      "slo": "Infer occupied shells from electron configuration"
+    },
+    {
+      "id": "CHEM9CH3-129",
+      "q": "How many neutrons are present in hydrogen-1 (atomic number 1)?",
+      "o": [
+        "3",
+        "0",
+        "1",
+        "2"
+      ],
+      "a": 1,
+      "e": "Neutrons = mass number − atomic number = 1 − 1 = 0.",
+      "d": "Medium",
+      "topic": "Mass number",
+      "slo": "Calculate neutron number from mass and atomic numbers"
+    },
+    {
+      "id": "CHEM9CH3-130",
+      "q": "How many electrons are in a neutral atom of potassium-39?",
+      "o": [
+        "18",
+        "20",
+        "19",
+        "21"
+      ],
+      "a": 2,
+      "e": "A neutral atom has as many electrons as protons; potassium has 19 protons.",
+      "d": "Medium",
+      "topic": "Atomic number",
+      "slo": "Determine electron count in a neutral atom"
+    },
+    {
+      "id": "CHEM9CH3-131",
+      "q": "What is the melting point of heavy water given in the textbook?",
+      "o": [
+        "10.0 °C",
+        "3.81 °C",
+        "0.00 °C",
+        "−3.81 °C"
+      ],
+      "a": 1,
+      "e": "The textbook lists heavy water melting at 3.81 °C.",
+      "d": "Easy",
+      "topic": "Hydrogen isotopes",
+      "slo": "Recall and explain key ideas in atomic structure"
+    },
+    {
+      "id": "CHEM9CH3-132",
+      "q": "How many occupied electron shells does a neutral silicon atom have?",
+      "o": [
+        "4",
+        "3",
+        "1",
+        "2"
+      ],
+      "a": 1,
+      "e": "The arrangement 2,8,4 contains 3 occupied shell(s).",
+      "d": "Medium",
+      "topic": "Electron arrangement",
+      "slo": "Infer occupied shells from electron configuration"
+    },
+    {
+      "id": "CHEM9CH3-133",
+      "q": "An element has isotopes of mass 28 u (75% abundance) and 30 u (25% abundance). What is its relative atomic mass?",
+      "o": [
+        "27.5",
+        "29",
+        "29.5",
+        "28.5"
+      ],
+      "a": 3,
+      "e": "Weighted mean = (28 × 75/100) + (30 × 25/100) = 28.5.",
+      "d": "Hard",
+      "topic": "Relative atomic mass",
+      "slo": "Calculate relative atomic mass from isotope abundance"
+    },
+    {
+      "id": "CHEM9CH3-134",
+      "q": "How many electrons are in a neutral atom of sulfur-34?",
+      "o": [
+        "15",
+        "18",
+        "16",
+        "17"
+      ],
+      "a": 2,
+      "e": "A neutral atom has as many electrons as protons; sulfur has 16 protons.",
+      "d": "Medium",
+      "topic": "Atomic number",
+      "slo": "Determine electron count in a neutral atom"
+    },
+    {
+      "id": "CHEM9CH3-135",
+      "q": "Which isotope of carbon is commonly used in dating ancient organic remains?",
+      "o": [
+        "Carbon-14",
+        "Carbon-10",
+        "Carbon-13",
+        "Carbon-12"
+      ],
+      "a": 0,
+      "e": "Radioactive carbon-14 is used in radiocarbon dating.",
+      "d": "Easy",
+      "topic": "Carbon isotopes",
+      "slo": "Recall and explain key ideas in atomic structure"
+    },
+    {
+      "id": "CHEM9CH3-136",
+      "q": "An element has isotopes of mass 14 u (40% abundance) and 15 u (60% abundance). What is its relative atomic mass?",
+      "o": [
+        "14.5",
+        "15.6",
+        "13.6",
+        "14.6"
+      ],
+      "a": 3,
+      "e": "Weighted mean = (14 × 40/100) + (15 × 60/100) = 14.6.",
+      "d": "Hard",
+      "topic": "Relative atomic mass",
+      "slo": "Calculate relative atomic mass from isotope abundance"
+    },
+    {
+      "id": "CHEM9CH3-137",
+      "q": "How many occupied electron shells does a neutral argon atom have?",
+      "o": [
+        "1",
+        "4",
+        "2",
+        "3"
+      ],
+      "a": 3,
+      "e": "The arrangement 2,8,8 contains 3 occupied shell(s).",
+      "d": "Medium",
+      "topic": "Electron arrangement",
+      "slo": "Infer occupied shells from electron configuration"
+    },
+    {
+      "id": "CHEM9CH3-138",
+      "q": "How many electrons are in a neutral atom of hydrogen-2?",
+      "o": [
+        "2",
+        "1",
+        "0",
+        "3"
+      ],
+      "a": 1,
+      "e": "A neutral atom has as many electrons as protons; hydrogen has 1 protons.",
+      "d": "Medium",
+      "topic": "Atomic number",
+      "slo": "Determine electron count in a neutral atom"
+    },
+    {
+      "id": "CHEM9CH3-139",
+      "q": "What is the charge of an electron?",
+      "o": [
+        "Negative",
+        "Neutral",
+        "Two negative units",
+        "Positive"
+      ],
+      "a": 0,
+      "e": "An electron carries one negative elementary charge.",
+      "d": "Easy",
+      "topic": "Subatomic particles",
+      "slo": "Recall and explain key ideas in atomic structure"
+    },
+    {
+      "id": "CHEM9CH3-140",
+      "q": "Which shell-wise electron arrangement belongs to a neutral oxygen atom (Z = 8)?",
+      "o": [
+        "2,2",
+        "2,6",
+        "2,8,8,2",
+        "2,8"
+      ],
+      "a": 1,
+      "e": "A neutral oxygen atom has 8 electrons, distributed as 2,6.",
+      "d": "Medium",
+      "topic": "Electron arrangement",
+      "slo": "Write shell-wise electronic configurations"
+    },
+    {
+      "id": "CHEM9CH3-141",
+      "q": "How many protons are in the nucleus of magnesium-25?",
+      "o": [
+        "12",
+        "11",
+        "14",
+        "13"
+      ],
+      "a": 0,
+      "e": "All magnesium atoms have atomic number 12, hence 12 protons.",
+      "d": "Medium",
+      "topic": "Atomic number",
+      "slo": "Determine proton number from element identity"
+    },
+    {
+      "id": "CHEM9CH3-142",
+      "q": "How many protons are in the nucleus of lithium-7?",
+      "o": [
+        "5",
+        "4",
+        "3",
+        "2"
+      ],
+      "a": 2,
+      "e": "All lithium atoms have atomic number 3, hence 3 protons.",
+      "d": "Medium",
+      "topic": "Atomic number",
+      "slo": "Determine proton number from element identity"
+    },
+    {
+      "id": "CHEM9CH3-143",
+      "q": "An element has isotopes of mass 24 u (75% abundance) and 26 u (25% abundance). What is its relative atomic mass?",
+      "o": [
+        "25.5",
+        "25",
+        "24.5",
+        "23.5"
+      ],
+      "a": 2,
+      "e": "Weighted mean = (24 × 75/100) + (26 × 25/100) = 24.5.",
+      "d": "Hard",
+      "topic": "Relative atomic mass",
+      "slo": "Calculate relative atomic mass from isotope abundance"
+    },
+    {
+      "id": "CHEM9CH3-144",
+      "q": "How many electrons are in the ion Cl− (atomic number 17)?",
+      "o": [
+        "19",
+        "17",
+        "18",
+        "20"
+      ],
+      "a": 2,
+      "e": "The ion has 17 protons and charge -1; electrons = 17 − (-1) = 18.",
+      "d": "Medium",
+      "topic": "Ion formation",
+      "slo": "Calculate electron count in monoatomic ions"
+    },
+    {
+      "id": "CHEM9CH3-145",
+      "q": "How many electrons are in the ion Al3+ (atomic number 13)?",
+      "o": [
+        "10",
+        "9",
+        "12",
+        "11"
+      ],
+      "a": 0,
+      "e": "The ion has 13 protons and charge +3; electrons = 13 − (3) = 10.",
+      "d": "Medium",
+      "topic": "Ion formation",
+      "slo": "Calculate electron count in monoatomic ions"
+    },
+    {
+      "id": "CHEM9CH3-146",
+      "q": "How many protons are in the nucleus of silicon-28?",
+      "o": [
+        "14",
+        "13",
+        "15",
+        "16"
+      ],
+      "a": 0,
+      "e": "All silicon atoms have atomic number 14, hence 14 protons.",
+      "d": "Medium",
+      "topic": "Atomic number",
+      "slo": "Determine proton number from element identity"
+    },
+    {
+      "id": "CHEM9CH3-147",
+      "q": "How many protons are in the nucleus of aluminium-27?",
+      "o": [
+        "13",
+        "12",
+        "15",
+        "14"
+      ],
+      "a": 0,
+      "e": "All aluminium atoms have atomic number 13, hence 13 protons.",
+      "d": "Medium",
+      "topic": "Atomic number",
+      "slo": "Determine proton number from element identity"
+    },
+    {
+      "id": "CHEM9CH3-148",
+      "q": "How many electrons does magnesium lose to form Mg²⁺?",
+      "o": [
+        "4",
+        "3",
+        "2",
+        "1"
+      ],
+      "a": 2,
+      "e": "Magnesium loses two valence electrons.",
+      "d": "Easy",
+      "topic": "Ion formation",
+      "slo": "Recall and explain key ideas in atomic structure"
+    },
+    {
+      "id": "CHEM9CH3-149",
+      "q": "Why do isotopes of an element generally show similar chemical behavior?",
+      "o": [
+        "They have the same electron arrangement when neutral",
+        "Their nuclei contain no protons",
+        "They always have the same physical mass",
+        "They always have the same neutron number"
+      ],
+      "a": 0,
+      "e": "Chemical behavior is mainly controlled by electrons, which are the same in neutral isotopes.",
+      "d": "Easy",
+      "topic": "Isotopes",
+      "slo": "Recall and explain key ideas in atomic structure"
+    },
+    {
+      "id": "CHEM9CH3-150",
+      "q": "How many neutrons are present in calcium-44 (atomic number 20)?",
+      "o": [
+        "24",
+        "23",
+        "25",
+        "26"
+      ],
+      "a": 0,
+      "e": "Neutrons = mass number − atomic number = 44 − 20 = 24.",
+      "d": "Medium",
+      "topic": "Mass number",
+      "slo": "Calculate neutron number from mass and atomic numbers"
+    },
+    {
+      "id": "CHEM9CH3-151",
+      "q": "What electron transfer produces O2− from a neutral oxygen atom?",
+      "o": [
+        "It loses 2 electron(s)",
+        "It gains 2 electron(s)",
+        "It gains 3 electron(s)",
+        "It changes its number of protons"
+      ],
+      "a": 1,
+      "e": "A -2 ionic charge results when a neutral atom gains 2 electron(s).",
+      "d": "Medium",
+      "topic": "Ion formation",
+      "slo": "Explain formation of cations and anions"
+    },
+    {
+      "id": "CHEM9CH3-152",
+      "q": "How many electrons are in the outermost shell of a neutral aluminium atom?",
+      "o": [
+        "2",
+        "4",
+        "3",
+        "5"
+      ],
+      "a": 2,
+      "e": "Its shell arrangement is 2,8,3; the final shell contains 3 electron(s).",
+      "d": "Medium",
+      "topic": "Electron arrangement",
+      "slo": "Determine valence electrons from electron arrangement"
+    },
+    {
+      "id": "CHEM9CH3-153",
+      "q": "How many protons are in the nucleus of nitrogen-14?",
+      "o": [
+        "6",
+        "8",
+        "7",
+        "9"
+      ],
+      "a": 2,
+      "e": "All nitrogen atoms have atomic number 7, hence 7 protons.",
+      "d": "Medium",
+      "topic": "Atomic number",
+      "slo": "Determine proton number from element identity"
+    },
+    {
+      "id": "CHEM9CH3-154",
+      "q": "How many electrons are in the ion S2− (atomic number 16)?",
+      "o": [
+        "17",
+        "20",
+        "18",
+        "19"
+      ],
+      "a": 2,
+      "e": "The ion has 16 protons and charge -2; electrons = 16 − (-2) = 18.",
+      "d": "Medium",
+      "topic": "Ion formation",
+      "slo": "Calculate electron count in monoatomic ions"
+    },
+    {
+      "id": "CHEM9CH3-155",
+      "q": "Which particle is deflected toward a positive plate in an electric field?",
+      "o": [
+        "Proton",
+        "Alpha particle",
+        "Electron",
+        "Positive ion"
+      ],
+      "a": 2,
+      "e": "Negatively charged particles are attracted to the positive plate.",
+      "d": "Easy",
+      "topic": "Electric fields",
+      "slo": "Recall and explain key ideas in atomic structure"
+    },
+    {
+      "id": "CHEM9CH3-156",
+      "q": "An element has isotopes of mass 35 u (40% abundance) and 37 u (60% abundance). What is its relative atomic mass?",
+      "o": [
+        "36.2",
+        "36",
+        "35.2",
+        "37.2"
+      ],
+      "a": 0,
+      "e": "Weighted mean = (35 × 40/100) + (37 × 60/100) = 36.2.",
+      "d": "Hard",
+      "topic": "Relative atomic mass",
+      "slo": "Calculate relative atomic mass from isotope abundance"
+    },
+    {
+      "id": "CHEM9CH3-157",
+      "q": "How many electrons are in a neutral atom of carbon-12?",
+      "o": [
+        "6",
+        "5",
+        "8",
+        "7"
+      ],
+      "a": 0,
+      "e": "A neutral atom has as many electrons as protons; carbon has 6 protons.",
+      "d": "Medium",
+      "topic": "Atomic number",
+      "slo": "Determine electron count in a neutral atom"
+    },
+    {
+      "id": "CHEM9CH3-158",
+      "q": "How many neutrons are present in sulfur-33 (atomic number 16)?",
+      "o": [
+        "17",
+        "19",
+        "18",
+        "16"
+      ],
+      "a": 0,
+      "e": "Neutrons = mass number − atomic number = 33 − 16 = 17.",
+      "d": "Medium",
+      "topic": "Mass number",
+      "slo": "Calculate neutron number from mass and atomic numbers"
+    },
+    {
+      "id": "CHEM9CH3-159",
+      "q": "How many electrons are in a neutral atom of hydrogen-3?",
+      "o": [
+        "1",
+        "0",
+        "3",
+        "2"
+      ],
+      "a": 0,
+      "e": "A neutral atom has as many electrons as protons; hydrogen has 1 protons.",
+      "d": "Medium",
+      "topic": "Atomic number",
+      "slo": "Determine electron count in a neutral atom"
+    },
+    {
+      "id": "CHEM9CH3-160",
+      "q": "How many electrons are in a neutral atom of silicon-28?",
+      "o": [
+        "16",
+        "13",
+        "14",
+        "15"
+      ],
+      "a": 2,
+      "e": "A neutral atom has as many electrons as protons; silicon has 14 protons.",
+      "d": "Medium",
+      "topic": "Atomic number",
+      "slo": "Determine electron count in a neutral atom"
+    },
+    {
+      "id": "CHEM9CH3-161",
+      "q": "Which shell-wise electron arrangement belongs to a neutral aluminium atom (Z = 13)?",
+      "o": [
+        "2,8,8",
+        "2,6",
+        "2,8,3",
+        "2,8,8,2"
+      ],
+      "a": 2,
+      "e": "A neutral aluminium atom has 13 electrons, distributed as 2,8,3.",
+      "d": "Medium",
+      "topic": "Electron arrangement",
+      "slo": "Write shell-wise electronic configurations"
+    },
+    {
+      "id": "CHEM9CH3-162",
+      "q": "How many neutrons are present in chlorine-35 (atomic number 17)?",
+      "o": [
+        "17",
+        "20",
+        "18",
+        "19"
+      ],
+      "a": 2,
+      "e": "Neutrons = mass number − atomic number = 35 − 17 = 18.",
+      "d": "Medium",
+      "topic": "Mass number",
+      "slo": "Calculate neutron number from mass and atomic numbers"
+    },
+    {
+      "id": "CHEM9CH3-163",
+      "q": "What electron transfer produces Ca2+ from a neutral calcium atom?",
+      "o": [
+        "It gains 2 electron(s)",
+        "It loses 2 electron(s)",
+        "It loses 3 electron(s)",
+        "It changes its number of protons"
+      ],
+      "a": 1,
+      "e": "A +2 ionic charge results when a neutral atom loses 2 electron(s).",
+      "d": "Medium",
+      "topic": "Ion formation",
+      "slo": "Explain formation of cations and anions"
+    },
+    {
+      "id": "CHEM9CH3-164",
+      "q": "Which shell-wise electron arrangement belongs to a neutral hydrogen atom (Z = 1)?",
+      "o": [
+        "1",
+        "2,8,4",
+        "2,8,6",
+        "2"
+      ],
+      "a": 0,
+      "e": "A neutral hydrogen atom has 1 electrons, distributed as 1.",
+      "d": "Medium",
+      "topic": "Electron arrangement",
+      "slo": "Write shell-wise electronic configurations"
+    },
+    {
+      "id": "CHEM9CH3-165",
+      "q": "What is a cation?",
+      "o": [
+        "A negatively charged ion",
+        "A positively charged ion",
+        "An isotope with more neutrons",
+        "An uncharged atom"
+      ],
+      "a": 1,
+      "e": "A cation results when an atom loses electrons.",
+      "d": "Easy",
+      "topic": "Ion formation",
+      "slo": "Recall and explain key ideas in atomic structure"
+    },
+    {
+      "id": "CHEM9CH3-166",
+      "q": "How many occupied electron shells does a neutral calcium atom have?",
+      "o": [
+        "3",
+        "4",
+        "2",
+        "1"
+      ],
+      "a": 1,
+      "e": "The arrangement 2,8,8,2 contains 4 occupied shell(s).",
+      "d": "Medium",
+      "topic": "Electron arrangement",
+      "slo": "Infer occupied shells from electron configuration"
+    },
+    {
+      "id": "CHEM9CH3-167",
+      "q": "How many neutrons are present in sulfur-32 (atomic number 16)?",
+      "o": [
+        "17",
+        "18",
+        "15",
+        "16"
+      ],
+      "a": 3,
+      "e": "Neutrons = mass number − atomic number = 32 − 16 = 16.",
+      "d": "Medium",
+      "topic": "Mass number",
+      "slo": "Calculate neutron number from mass and atomic numbers"
+    },
+    {
+      "id": "CHEM9CH3-168",
+      "q": "How many electrons are in the outermost shell of a neutral hydrogen atom?",
+      "o": [
+        "1",
+        "0",
+        "3",
+        "2"
+      ],
+      "a": 0,
+      "e": "Its shell arrangement is 1; the final shell contains 1 electron(s).",
+      "d": "Medium",
+      "topic": "Electron arrangement",
+      "slo": "Determine valence electrons from electron arrangement"
+    },
+    {
+      "id": "CHEM9CH3-169",
+      "q": "Why did a few alpha particles undergo large deflections?",
+      "o": [
+        "They lost their positive charge",
+        "They collided with outer-shell neutrons",
+        "They approached the small, dense, positive nucleus",
+        "They were attracted by electrons"
+      ],
+      "a": 2,
+      "e": "A concentrated positive nucleus strongly repels nearby positive alpha particles.",
+      "d": "Easy",
+      "topic": "Atomic models",
+      "slo": "Recall and explain key ideas in atomic structure"
+    },
+    {
+      "id": "CHEM9CH3-170",
+      "q": "How many neutrons does carbon-13 have?",
+      "o": [
+        "7",
+        "6",
+        "13",
+        "5"
+      ],
+      "a": 0,
+      "e": "Carbon-13 has 13 − 6 = 7 neutrons.",
+      "d": "Easy",
+      "topic": "Carbon isotopes",
+      "slo": "Recall and explain key ideas in atomic structure"
+    },
+    {
+      "id": "CHEM9CH3-171",
+      "q": "Which number changes when a neutral atom becomes an ion?",
+      "o": [
+        "Number of electrons",
+        "Atomic number",
+        "Number of protons",
+        "Mass number"
+      ],
+      "a": 0,
+      "e": "Ion formation changes electron count, not the nucleus.",
+      "d": "Easy",
+      "topic": "Ion formation",
+      "slo": "Recall and explain key ideas in atomic structure"
+    },
+    {
+      "id": "CHEM9CH3-172",
+      "q": "How many neutrons are present in oxygen-17 (atomic number 8)?",
+      "o": [
+        "8",
+        "10",
+        "9",
+        "11"
+      ],
+      "a": 2,
+      "e": "Neutrons = mass number − atomic number = 17 − 8 = 9.",
+      "d": "Medium",
+      "topic": "Mass number",
+      "slo": "Calculate neutron number from mass and atomic numbers"
+    },
+    {
+      "id": "CHEM9CH3-173",
+      "q": "How many neutrons are present in boron-11 (atomic number 5)?",
+      "o": [
+        "6",
+        "8",
+        "7",
+        "5"
+      ],
+      "a": 0,
+      "e": "Neutrons = mass number − atomic number = 11 − 5 = 6.",
+      "d": "Medium",
+      "topic": "Mass number",
+      "slo": "Calculate neutron number from mass and atomic numbers"
+    },
+    {
+      "id": "CHEM9CH3-174",
+      "q": "What electron transfer produces S2− from a neutral sulfur atom?",
+      "o": [
+        "It changes its number of protons",
+        "It loses 2 electron(s)",
+        "It gains 2 electron(s)",
+        "It gains 3 electron(s)"
+      ],
+      "a": 2,
+      "e": "A -2 ionic charge results when a neutral atom gains 2 electron(s).",
+      "d": "Medium",
+      "topic": "Ion formation",
+      "slo": "Explain formation of cations and anions"
+    },
+    {
+      "id": "CHEM9CH3-175",
+      "q": "How many electrons are in the ion Na+ (atomic number 11)?",
+      "o": [
+        "11",
+        "12",
+        "9",
+        "10"
+      ],
+      "a": 3,
+      "e": "The ion has 11 protons and charge +1; electrons = 11 − (1) = 10.",
+      "d": "Medium",
+      "topic": "Ion formation",
+      "slo": "Calculate electron count in monoatomic ions"
+    },
+    {
+      "id": "CHEM9CH3-176",
+      "q": "How many neutrons are present in fluorine-19 (atomic number 9)?",
+      "o": [
+        "11",
+        "9",
+        "12",
+        "10"
+      ],
+      "a": 3,
+      "e": "Neutrons = mass number − atomic number = 19 − 9 = 10.",
+      "d": "Medium",
+      "topic": "Mass number",
+      "slo": "Calculate neutron number from mass and atomic numbers"
+    },
+    {
+      "id": "CHEM9CH3-177",
+      "q": "Which hydrogen isotope is radioactive?",
+      "o": [
+        "All three are equally radioactive",
+        "Protium",
+        "Deuterium",
+        "Tritium"
+      ],
+      "a": 3,
+      "e": "Hydrogen-3 (tritium) has an unstable nucleus.",
+      "d": "Easy",
+      "topic": "Hydrogen isotopes",
+      "slo": "Recall and explain key ideas in atomic structure"
+    },
+    {
+      "id": "CHEM9CH3-178",
+      "q": "How many electrons are in a neutral atom of boron-11?",
+      "o": [
+        "7",
+        "6",
+        "5",
+        "4"
+      ],
+      "a": 2,
+      "e": "A neutral atom has as many electrons as protons; boron has 5 protons.",
+      "d": "Medium",
+      "topic": "Atomic number",
+      "slo": "Determine electron count in a neutral atom"
+    },
+    {
+      "id": "CHEM9CH3-179",
+      "q": "How many protons are in the nucleus of sulfur-34?",
+      "o": [
+        "17",
+        "16",
+        "18",
+        "15"
+      ],
+      "a": 1,
+      "e": "All sulfur atoms have atomic number 16, hence 16 protons.",
+      "d": "Medium",
+      "topic": "Atomic number",
+      "slo": "Determine proton number from element identity"
+    },
+    {
+      "id": "CHEM9CH3-180",
+      "q": "How many neutrons are present in beryllium-9 (atomic number 4)?",
+      "o": [
+        "6",
+        "5",
+        "4",
+        "7"
+      ],
+      "a": 1,
+      "e": "Neutrons = mass number − atomic number = 9 − 4 = 5.",
+      "d": "Medium",
+      "topic": "Mass number",
+      "slo": "Calculate neutron number from mass and atomic numbers"
+    },
+    {
+      "id": "CHEM9CH3-181",
+      "q": "Who proposed the atomic theory in 1803?",
+      "o": [
+        "J. J. Thomson",
+        "John Dalton",
+        "Ernest Rutherford",
+        "Niels Bohr"
+      ],
+      "a": 1,
+      "e": "Dalton proposed his atomic theory in 1803.",
+      "d": "Easy",
+      "topic": "Atomic models",
+      "slo": "Recall and explain key ideas in atomic structure"
+    },
+    {
+      "id": "CHEM9CH3-182",
+      "q": "How many neutrons are present in argon-38 (atomic number 18)?",
+      "o": [
+        "19",
+        "22",
+        "21",
+        "20"
+      ],
+      "a": 3,
+      "e": "Neutrons = mass number − atomic number = 38 − 18 = 20.",
+      "d": "Medium",
+      "topic": "Mass number",
+      "slo": "Calculate neutron number from mass and atomic numbers"
+    },
+    {
+      "id": "CHEM9CH3-183",
+      "q": "Why is an atom usually electrically neutral?",
+      "o": [
+        "Its electrons have no charge",
+        "It has equal numbers of protons and neutrons",
+        "Its nucleus has no charge",
+        "It has equal numbers of protons and electrons"
+      ],
+      "a": 3,
+      "e": "Opposite proton and electron charges cancel in a neutral atom.",
+      "d": "Easy",
+      "topic": "Atomic number",
+      "slo": "Recall and explain key ideas in atomic structure"
+    },
+    {
+      "id": "CHEM9CH3-184",
+      "q": "An element has isotopes of mass 28 u (25% abundance) and 30 u (75% abundance). What is its relative atomic mass?",
+      "o": [
+        "28.5",
+        "29",
+        "30.5",
+        "29.5"
+      ],
+      "a": 3,
+      "e": "Weighted mean = (28 × 25/100) + (30 × 75/100) = 29.5.",
+      "d": "Hard",
+      "topic": "Relative atomic mass",
+      "slo": "Calculate relative atomic mass from isotope abundance"
+    },
+    {
+      "id": "CHEM9CH3-185",
+      "q": "Which shell-wise electron arrangement belongs to a neutral carbon atom (Z = 6)?",
+      "o": [
+        "2,8,2",
+        "2,8,7",
+        "2,4",
+        "2,5"
+      ],
+      "a": 2,
+      "e": "A neutral carbon atom has 6 electrons, distributed as 2,4.",
+      "d": "Medium",
+      "topic": "Electron arrangement",
+      "slo": "Write shell-wise electronic configurations"
+    },
+    {
+      "id": "CHEM9CH3-186",
+      "q": "Which property is identical for isotopes of one element?",
+      "o": [
+        "Mass number",
+        "Nuclear mass",
+        "Neutron number",
+        "Atomic number"
+      ],
+      "a": 3,
+      "e": "All isotopes of one element have the same number of protons.",
+      "d": "Easy",
+      "topic": "Isotopes",
+      "slo": "Recall and explain key ideas in atomic structure"
+    },
+    {
+      "id": "CHEM9CH3-187",
+      "q": "Which number changes between two isotopes of the same element?",
+      "o": [
+        "Nuclear charge",
+        "Number of protons",
+        "Atomic number",
+        "Number of neutrons"
+      ],
+      "a": 3,
+      "e": "Isotopes differ in neutron number.",
+      "d": "Easy",
+      "topic": "Isotopes",
+      "slo": "Recall and explain key ideas in atomic structure"
+    },
+    {
+      "id": "CHEM9CH3-188",
+      "q": "How many electrons are in the ion N3− (atomic number 7)?",
+      "o": [
+        "9",
+        "10",
+        "12",
+        "11"
+      ],
+      "a": 1,
+      "e": "The ion has 7 protons and charge -3; electrons = 7 − (-3) = 10.",
+      "d": "Medium",
+      "topic": "Ion formation",
+      "slo": "Calculate electron count in monoatomic ions"
+    },
+    {
+      "id": "CHEM9CH3-189",
+      "q": "Which two particles have approximately one atomic mass unit each?",
+      "o": [
+        "Electrons and photons",
+        "Electrons and neutrons",
+        "Electrons and protons",
+        "Protons and neutrons"
+      ],
+      "a": 3,
+      "e": "Protons and neutrons have masses close to 1 u each.",
+      "d": "Easy",
+      "topic": "Subatomic particles",
+      "slo": "Recall and explain key ideas in atomic structure"
+    },
+    {
+      "id": "CHEM9CH3-190",
+      "q": "How many protons are in the nucleus of neon-21?",
+      "o": [
+        "10",
+        "9",
+        "11",
+        "12"
+      ],
+      "a": 0,
+      "e": "All neon atoms have atomic number 10, hence 10 protons.",
+      "d": "Medium",
+      "topic": "Atomic number",
+      "slo": "Determine proton number from element identity"
+    },
+    {
+      "id": "CHEM9CH3-191",
+      "q": "How many occupied electron shells does a neutral sulfur atom have?",
+      "o": [
+        "3",
+        "4",
+        "1",
+        "2"
+      ],
+      "a": 0,
+      "e": "The arrangement 2,8,6 contains 3 occupied shell(s).",
+      "d": "Medium",
+      "topic": "Electron arrangement",
+      "slo": "Infer occupied shells from electron configuration"
+    },
+    {
+      "id": "CHEM9CH3-192",
+      "q": "An element has isotopes of mass 14 u (60% abundance) and 15 u (40% abundance). What is its relative atomic mass?",
+      "o": [
+        "13.4",
+        "14.4",
+        "14.5",
+        "15.4"
+      ],
+      "a": 1,
+      "e": "Weighted mean = (14 × 60/100) + (15 × 40/100) = 14.4.",
+      "d": "Hard",
+      "topic": "Relative atomic mass",
+      "slo": "Calculate relative atomic mass from isotope abundance"
+    },
+    {
+      "id": "CHEM9CH3-193",
+      "q": "How many neutrons does carbon-12 have?",
+      "o": [
+        "14",
+        "6",
+        "8",
+        "12"
+      ],
+      "a": 1,
+      "e": "Carbon has atomic number 6, so carbon-12 has 12 − 6 = 6 neutrons.",
+      "d": "Easy",
+      "topic": "Carbon isotopes",
+      "slo": "Recall and explain key ideas in atomic structure"
+    },
+    {
+      "id": "CHEM9CH3-194",
+      "q": "How many electrons are in the ion K+ (atomic number 19)?",
+      "o": [
+        "17",
+        "18",
+        "20",
+        "19"
+      ],
+      "a": 1,
+      "e": "The ion has 19 protons and charge +1; electrons = 19 − (1) = 18.",
+      "d": "Medium",
+      "topic": "Ion formation",
+      "slo": "Calculate electron count in monoatomic ions"
+    },
+    {
+      "id": "CHEM9CH3-195",
+      "q": "Which shell-wise electron arrangement belongs to a neutral sulfur atom (Z = 16)?",
+      "o": [
+        "2,8,6",
+        "2,8,3",
+        "2,8,5",
+        "2,6"
+      ],
+      "a": 0,
+      "e": "A neutral sulfur atom has 16 electrons, distributed as 2,8,6.",
+      "d": "Medium",
+      "topic": "Electron arrangement",
+      "slo": "Write shell-wise electronic configurations"
+    },
+    {
+      "id": "CHEM9CH3-196",
+      "q": "What electron transfer produces Al3+ from a neutral aluminium atom?",
+      "o": [
+        "It gains 3 electron(s)",
+        "It loses 4 electron(s)",
+        "It loses 3 electron(s)",
+        "It changes its number of protons"
+      ],
+      "a": 2,
+      "e": "A +3 ionic charge results when a neutral atom loses 3 electron(s).",
+      "d": "Medium",
+      "topic": "Ion formation",
+      "slo": "Explain formation of cations and anions"
+    },
+    {
+      "id": "CHEM9CH3-197",
+      "q": "How many neutrons are present in magnesium-25 (atomic number 12)?",
+      "o": [
+        "14",
+        "12",
+        "15",
+        "13"
+      ],
+      "a": 3,
+      "e": "Neutrons = mass number − atomic number = 25 − 12 = 13.",
+      "d": "Medium",
+      "topic": "Mass number",
+      "slo": "Calculate neutron number from mass and atomic numbers"
+    },
+    {
+      "id": "CHEM9CH3-198",
+      "q": "How many neutrons are present in phosphorus-31 (atomic number 15)?",
+      "o": [
+        "15",
+        "17",
+        "18",
+        "16"
+      ],
+      "a": 3,
+      "e": "Neutrons = mass number − atomic number = 31 − 15 = 16.",
+      "d": "Medium",
+      "topic": "Mass number",
+      "slo": "Calculate neutron number from mass and atomic numbers"
+    },
+    {
+      "id": "CHEM9CH3-199",
+      "q": "What electron transfer produces N3− from a neutral nitrogen atom?",
+      "o": [
+        "It gains 3 electron(s)",
+        "It loses 3 electron(s)",
+        "It changes its number of protons",
+        "It gains 4 electron(s)"
+      ],
+      "a": 0,
+      "e": "A -3 ionic charge results when a neutral atom gains 3 electron(s).",
+      "d": "Medium",
+      "topic": "Ion formation",
+      "slo": "Explain formation of cations and anions"
+    },
+    {
+      "id": "CHEM9CH3-200",
+      "q": "How many electrons are in a neutral atom of lithium-6?",
+      "o": [
+        "5",
+        "2",
+        "4",
+        "3"
+      ],
+      "a": 3,
+      "e": "A neutral atom has as many electrons as protons; lithium has 3 protons.",
+      "d": "Medium",
+      "topic": "Atomic number",
+      "slo": "Determine electron count in a neutral atom"
+    },
+    {
+      "id": "CHEM9CH3-201",
+      "q": "How many electrons are in a neutral atom of chlorine-35?",
+      "o": [
+        "18",
+        "16",
+        "19",
+        "17"
+      ],
+      "a": 3,
+      "e": "A neutral atom has as many electrons as protons; chlorine has 17 protons.",
+      "d": "Medium",
+      "topic": "Atomic number",
+      "slo": "Determine electron count in a neutral atom"
+    },
+    {
+      "id": "CHEM9CH3-202",
+      "q": "How many neutrons are present in carbon-13 (atomic number 6)?",
+      "o": [
+        "6",
+        "9",
+        "7",
+        "8"
+      ],
+      "a": 2,
+      "e": "Neutrons = mass number − atomic number = 13 − 6 = 7.",
+      "d": "Medium",
+      "topic": "Mass number",
+      "slo": "Calculate neutron number from mass and atomic numbers"
+    },
+    {
+      "id": "CHEM9CH3-203",
+      "q": "What electron transfer produces F− from a neutral fluorine atom?",
+      "o": [
+        "It loses 1 electron(s)",
+        "It gains 2 electron(s)",
+        "It gains 1 electron(s)",
+        "It changes its number of protons"
+      ],
+      "a": 2,
+      "e": "A -1 ionic charge results when a neutral atom gains 1 electron(s).",
+      "d": "Medium",
+      "topic": "Ion formation",
+      "slo": "Explain formation of cations and anions"
+    },
+    {
+      "id": "CHEM9CH3-204",
+      "q": "An element has isotopes of mass 6 u (25% abundance) and 7 u (75% abundance). What is its relative atomic mass?",
+      "o": [
+        "6.75",
+        "5.75",
+        "7.75",
+        "6.5"
+      ],
+      "a": 0,
+      "e": "Weighted mean = (6 × 25/100) + (7 × 75/100) = 6.75.",
+      "d": "Hard",
+      "topic": "Relative atomic mass",
+      "slo": "Calculate relative atomic mass from isotope abundance"
+    },
+    {
+      "id": "CHEM9CH3-205",
+      "q": "How many neutrons does tritium contain?",
+      "o": [
+        "1",
+        "0",
+        "2",
+        "3"
+      ],
+      "a": 2,
+      "e": "Tritium is hydrogen-3: one proton and two neutrons.",
+      "d": "Easy",
+      "topic": "Hydrogen isotopes",
+      "slo": "Recall and explain key ideas in atomic structure"
+    },
+    {
+      "id": "CHEM9CH3-206",
+      "q": "How many protons are in the nucleus of oxygen-16?",
+      "o": [
+        "9",
+        "7",
+        "8",
+        "10"
+      ],
+      "a": 2,
+      "e": "All oxygen atoms have atomic number 8, hence 8 protons.",
+      "d": "Medium",
+      "topic": "Atomic number",
+      "slo": "Determine proton number from element identity"
+    },
+    {
+      "id": "CHEM9CH3-207",
+      "q": "Which shell-wise electron arrangement belongs to a neutral silicon atom (Z = 14)?",
+      "o": [
+        "2,3",
+        "2,8",
+        "2,8,5",
+        "2,8,4"
+      ],
+      "a": 3,
+      "e": "A neutral silicon atom has 14 electrons, distributed as 2,8,4.",
+      "d": "Medium",
+      "topic": "Electron arrangement",
+      "slo": "Write shell-wise electronic configurations"
+    },
+    {
+      "id": "CHEM9CH3-208",
+      "q": "How many neutrons are present in boron-10 (atomic number 5)?",
+      "o": [
+        "7",
+        "6",
+        "4",
+        "5"
+      ],
+      "a": 3,
+      "e": "Neutrons = mass number − atomic number = 10 − 5 = 5.",
+      "d": "Medium",
+      "topic": "Mass number",
+      "slo": "Calculate neutron number from mass and atomic numbers"
+    },
+    {
+      "id": "CHEM9CH3-209",
+      "q": "How many electrons are in the outermost shell of a neutral magnesium atom?",
+      "o": [
+        "3",
+        "2",
+        "4",
+        "1"
+      ],
+      "a": 1,
+      "e": "Its shell arrangement is 2,8,2; the final shell contains 2 electron(s).",
+      "d": "Medium",
+      "topic": "Electron arrangement",
+      "slo": "Determine valence electrons from electron arrangement"
+    },
+    {
+      "id": "CHEM9CH3-210",
+      "q": "How many electrons are in a neutral atom of aluminium-27?",
+      "o": [
+        "15",
+        "13",
+        "14",
+        "12"
+      ],
+      "a": 1,
+      "e": "A neutral atom has as many electrons as protons; aluminium has 13 protons.",
+      "d": "Medium",
+      "topic": "Atomic number",
+      "slo": "Determine electron count in a neutral atom"
+    },
+    {
+      "id": "CHEM9CH3-211",
+      "q": "How many electrons are in the ion Ca2+ (atomic number 20)?",
+      "o": [
+        "20",
+        "17",
+        "18",
+        "19"
+      ],
+      "a": 2,
+      "e": "The ion has 20 protons and charge +2; electrons = 20 − (2) = 18.",
+      "d": "Medium",
+      "topic": "Ion formation",
+      "slo": "Calculate electron count in monoatomic ions"
+    },
+    {
+      "id": "CHEM9CH3-212",
+      "q": "How many electrons are in a neutral atom of hydrogen-1?",
+      "o": [
+        "2",
+        "1",
+        "0",
+        "3"
+      ],
+      "a": 1,
+      "e": "A neutral atom has as many electrons as protons; hydrogen has 1 protons.",
+      "d": "Medium",
+      "topic": "Atomic number",
+      "slo": "Determine electron count in a neutral atom"
+    },
+    {
+      "id": "CHEM9CH3-213",
+      "q": "What determines the identity of an element?",
+      "o": [
+        "Its number of protons",
+        "Its total nucleons only",
+        "Its number of electron shells only",
+        "Its number of neutrons"
+      ],
+      "a": 0,
+      "e": "An element is defined by its atomic number, the number of protons.",
+      "d": "Easy",
+      "topic": "Atomic number",
+      "slo": "Recall and explain key ideas in atomic structure"
+    },
+    {
+      "id": "CHEM9CH3-214",
+      "q": "How many protons are in the nucleus of fluorine-19?",
+      "o": [
+        "11",
+        "8",
+        "9",
+        "10"
+      ],
+      "a": 2,
+      "e": "All fluorine atoms have atomic number 9, hence 9 protons.",
+      "d": "Medium",
+      "topic": "Atomic number",
+      "slo": "Determine proton number from element identity"
+    },
+    {
+      "id": "CHEM9CH3-215",
+      "q": "An element has isotopes of mass 24 u (60% abundance) and 26 u (40% abundance). What is its relative atomic mass?",
+      "o": [
+        "24.8",
+        "23.8",
+        "25.8",
+        "25"
+      ],
+      "a": 0,
+      "e": "Weighted mean = (24 × 60/100) + (26 × 40/100) = 24.8.",
+      "d": "Hard",
+      "topic": "Relative atomic mass",
+      "slo": "Calculate relative atomic mass from isotope abundance"
+    },
+    {
+      "id": "CHEM9CH3-216",
+      "q": "Which neutral atom has the electron arrangement 2,8,7?",
+      "o": [
+        "Sulfur",
+        "Fluorine",
+        "Chlorine",
+        "Argon"
+      ],
+      "a": 2,
+      "e": "Chlorine has 17 electrons arranged 2,8,7.",
+      "d": "Easy",
+      "topic": "Electron arrangement",
+      "slo": "Recall and explain key ideas in atomic structure"
+    },
+    {
+      "id": "CHEM9CH3-217",
+      "q": "How many neutrons does carbon-14 have?",
+      "o": [
+        "8",
+        "14",
+        "6",
+        "7"
+      ],
+      "a": 0,
+      "e": "Carbon-14 has 14 − 6 = 8 neutrons.",
+      "d": "Easy",
+      "topic": "Carbon isotopes",
+      "slo": "Recall and explain key ideas in atomic structure"
+    },
+    {
+      "id": "CHEM9CH3-218",
+      "q": "What happens when a neutral atom loses electrons?",
+      "o": [
+        "Its nucleus disappears",
+        "Its mass number falls",
+        "It becomes an anion",
+        "It becomes a cation"
+      ],
+      "a": 3,
+      "e": "Losing negative charges produces a net positive ion.",
+      "d": "Easy",
+      "topic": "Ion formation",
+      "slo": "Recall and explain key ideas in atomic structure"
+    },
+    {
+      "id": "CHEM9CH3-219",
+      "q": "What electron transfer produces Mg2+ from a neutral magnesium atom?",
+      "o": [
+        "It gains 2 electron(s)",
+        "It changes its number of protons",
+        "It loses 3 electron(s)",
+        "It loses 2 electron(s)"
+      ],
+      "a": 3,
+      "e": "A +2 ionic charge results when a neutral atom loses 2 electron(s).",
+      "d": "Medium",
+      "topic": "Ion formation",
+      "slo": "Explain formation of cations and anions"
+    },
+    {
+      "id": "CHEM9CH3-220",
+      "q": "An element has isotopes of mass 79 u (25% abundance) and 81 u (75% abundance). What is its relative atomic mass?",
+      "o": [
+        "80.5",
+        "79.5",
+        "80",
+        "81.5"
+      ],
+      "a": 0,
+      "e": "Weighted mean = (79 × 25/100) + (81 × 75/100) = 80.5.",
+      "d": "Hard",
+      "topic": "Relative atomic mass",
+      "slo": "Calculate relative atomic mass from isotope abundance"
+    },
+    {
+      "id": "CHEM9CH3-221",
+      "q": "Which shell-wise electron arrangement belongs to a neutral lithium atom (Z = 3)?",
+      "o": [
+        "2,1",
+        "2,5",
+        "2,8",
+        "2,8,8,2"
+      ],
+      "a": 0,
+      "e": "A neutral lithium atom has 3 electrons, distributed as 2,1.",
+      "d": "Medium",
+      "topic": "Electron arrangement",
+      "slo": "Write shell-wise electronic configurations"
+    },
+    {
+      "id": "CHEM9CH3-222",
+      "q": "How many neutrons are present in oxygen-18 (atomic number 8)?",
+      "o": [
+        "12",
+        "11",
+        "9",
+        "10"
+      ],
+      "a": 3,
+      "e": "Neutrons = mass number − atomic number = 18 − 8 = 10.",
+      "d": "Medium",
+      "topic": "Mass number",
+      "slo": "Calculate neutron number from mass and atomic numbers"
+    },
+    {
+      "id": "CHEM9CH3-223",
+      "q": "How many occupied electron shells does a neutral sodium atom have?",
+      "o": [
+        "4",
+        "2",
+        "1",
+        "3"
+      ],
+      "a": 3,
+      "e": "The arrangement 2,8,1 contains 3 occupied shell(s).",
+      "d": "Medium",
+      "topic": "Electron arrangement",
+      "slo": "Infer occupied shells from electron configuration"
+    },
+    {
+      "id": "CHEM9CH3-224",
+      "q": "Which number is written at the lower left of an element symbol in nuclide notation?",
+      "o": [
+        "Mass number",
+        "Ionic charge",
+        "Atomic number",
+        "Neutron number"
+      ],
+      "a": 2,
+      "e": "Standard nuclide notation places atomic number Z as the left subscript.",
+      "d": "Easy",
+      "topic": "Nuclide notation",
+      "slo": "Recall and explain key ideas in atomic structure"
+    },
+    {
+      "id": "CHEM9CH3-225",
+      "q": "How many occupied electron shells does a neutral lithium atom have?",
+      "o": [
+        "2",
+        "3",
+        "4",
+        "1"
+      ],
+      "a": 0,
+      "e": "The arrangement 2,1 contains 2 occupied shell(s).",
+      "d": "Medium",
+      "topic": "Electron arrangement",
+      "slo": "Infer occupied shells from electron configuration"
+    },
+    {
+      "id": "CHEM9CH3-226",
+      "q": "How many electrons are in a neutral atom of chlorine-37?",
+      "o": [
+        "16",
+        "18",
+        "19",
+        "17"
+      ],
+      "a": 3,
+      "e": "A neutral atom has as many electrons as protons; chlorine has 17 protons.",
+      "d": "Medium",
+      "topic": "Atomic number",
+      "slo": "Determine electron count in a neutral atom"
+    },
+    {
+      "id": "CHEM9CH3-227",
+      "q": "An element has isotopes of mass 20 u (60% abundance) and 22 u (40% abundance). What is its relative atomic mass?",
+      "o": [
+        "21",
+        "20.8",
+        "19.8",
+        "21.8"
+      ],
+      "a": 1,
+      "e": "Weighted mean = (20 × 60/100) + (22 × 40/100) = 20.8.",
+      "d": "Hard",
+      "topic": "Relative atomic mass",
+      "slo": "Calculate relative atomic mass from isotope abundance"
+    },
+    {
+      "id": "CHEM9CH3-228",
+      "q": "How many neutrons are present in neon-20 (atomic number 10)?",
+      "o": [
+        "11",
+        "9",
+        "10",
+        "12"
+      ],
+      "a": 2,
+      "e": "Neutrons = mass number − atomic number = 20 − 10 = 10.",
+      "d": "Medium",
+      "topic": "Mass number",
+      "slo": "Calculate neutron number from mass and atomic numbers"
+    },
+    {
+      "id": "CHEM9CH3-229",
+      "q": "An element has isotopes of mass 14 u (25% abundance) and 15 u (75% abundance). What is its relative atomic mass?",
+      "o": [
+        "13.75",
+        "14.75",
+        "15.75",
+        "14.5"
+      ],
+      "a": 1,
+      "e": "Weighted mean = (14 × 25/100) + (15 × 75/100) = 14.75.",
+      "d": "Hard",
+      "topic": "Relative atomic mass",
+      "slo": "Calculate relative atomic mass from isotope abundance"
+    },
+    {
+      "id": "CHEM9CH3-230",
+      "q": "An element has isotopes of mass 20 u (40% abundance) and 22 u (60% abundance). What is its relative atomic mass?",
+      "o": [
+        "21.2",
+        "22.2",
+        "21",
+        "20.2"
+      ],
+      "a": 0,
+      "e": "Weighted mean = (20 × 40/100) + (22 × 60/100) = 21.2.",
+      "d": "Hard",
+      "topic": "Relative atomic mass",
+      "slo": "Calculate relative atomic mass from isotope abundance"
+    },
+    {
+      "id": "CHEM9CH3-231",
+      "q": "What is the mass number of an atom?",
+      "o": [
+        "Total protons plus electrons",
+        "Electrons plus neutrons",
+        "Total protons plus neutrons",
+        "Neutrons minus protons"
+      ],
+      "a": 2,
+      "e": "Mass number A counts nucleons: A = Z + N.",
+      "d": "Easy",
+      "topic": "Mass number",
+      "slo": "Recall and explain key ideas in atomic structure"
+    },
+    {
+      "id": "CHEM9CH3-232",
+      "q": "Which shell-wise electron arrangement belongs to a neutral argon atom (Z = 18)?",
+      "o": [
+        "2,8",
+        "2,8,3",
+        "2,1",
+        "2,8,8"
+      ],
+      "a": 3,
+      "e": "A neutral argon atom has 18 electrons, distributed as 2,8,8.",
+      "d": "Medium",
+      "topic": "Electron arrangement",
+      "slo": "Write shell-wise electronic configurations"
+    },
+    {
+      "id": "CHEM9CH3-233",
+      "q": "How many electrons are in a neutral atom of argon-36?",
+      "o": [
+        "19",
+        "20",
+        "18",
+        "17"
+      ],
+      "a": 2,
+      "e": "A neutral atom has as many electrons as protons; argon has 18 protons.",
+      "d": "Medium",
+      "topic": "Atomic number",
+      "slo": "Determine electron count in a neutral atom"
+    },
+    {
+      "id": "CHEM9CH3-234",
+      "q": "How many neutrons are present in nitrogen-14 (atomic number 7)?",
+      "o": [
+        "8",
+        "6",
+        "7",
+        "9"
+      ],
+      "a": 2,
+      "e": "Neutrons = mass number − atomic number = 14 − 7 = 7.",
+      "d": "Medium",
+      "topic": "Mass number",
+      "slo": "Calculate neutron number from mass and atomic numbers"
+    },
+    {
+      "id": "CHEM9CH3-235",
+      "q": "How many protons are in the nucleus of potassium-39?",
+      "o": [
+        "18",
+        "19",
+        "20",
+        "21"
+      ],
+      "a": 1,
+      "e": "All potassium atoms have atomic number 19, hence 19 protons.",
+      "d": "Medium",
+      "topic": "Atomic number",
+      "slo": "Determine proton number from element identity"
+    },
+    {
+      "id": "CHEM9CH3-236",
+      "q": "How many neutrons are present in helium-4 (atomic number 2)?",
+      "o": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "a": 1,
+      "e": "Neutrons = mass number − atomic number = 4 − 2 = 2.",
+      "d": "Medium",
+      "topic": "Mass number",
+      "slo": "Calculate neutron number from mass and atomic numbers"
+    },
+    {
+      "id": "CHEM9CH3-237",
+      "q": "How many electrons does sodium lose to form Na⁺?",
+      "o": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "a": 1,
+      "e": "Sodium loses its single valence electron to become Na⁺.",
+      "d": "Easy",
+      "topic": "Ion formation",
+      "slo": "Recall and explain key ideas in atomic structure"
+    },
+    {
+      "id": "CHEM9CH3-238",
+      "q": "Which model describes an atom as a positive sphere containing embedded electrons?",
+      "o": [
+        "Bohr’s shell model",
+        "Rutherford’s nuclear model",
+        "Dalton’s solid-sphere model",
+        "Thomson’s plum-pudding model"
+      ],
+      "a": 3,
+      "e": "Thomson suggested negatively charged electrons were embedded in a positively charged sphere.",
+      "d": "Easy",
+      "topic": "Atomic models",
+      "slo": "Recall and explain key ideas in atomic structure"
+    },
+    {
+      "id": "CHEM9CH3-239",
+      "q": "How many electrons are in a neutral atom of fluorine-19?",
+      "o": [
+        "11",
+        "10",
+        "9",
+        "8"
+      ],
+      "a": 2,
+      "e": "A neutral atom has as many electrons as protons; fluorine has 9 protons.",
+      "d": "Medium",
+      "topic": "Atomic number",
+      "slo": "Determine electron count in a neutral atom"
+    },
+    {
+      "id": "CHEM9CH3-240",
+      "q": "How many electrons are in a neutral atom of oxygen-16?",
+      "o": [
+        "9",
+        "7",
+        "10",
+        "8"
+      ],
+      "a": 3,
+      "e": "A neutral atom has as many electrons as protons; oxygen has 8 protons.",
+      "d": "Medium",
+      "topic": "Atomic number",
+      "slo": "Determine electron count in a neutral atom"
+    },
+    {
+      "id": "CHEM9CH3-241",
+      "q": "Why are noble gases generally chemically unreactive?",
+      "o": [
+        "Their outer electron shells are complete",
+        "All their isotopes are radioactive",
+        "They have no electrons",
+        "They contain no protons"
+      ],
+      "a": 0,
+      "e": "A filled valence shell makes noble gases comparatively stable.",
+      "d": "Easy",
+      "topic": "Electron arrangement",
+      "slo": "Recall and explain key ideas in atomic structure"
+    },
+    {
+      "id": "CHEM9CH3-242",
+      "q": "How many neutrons are present in sodium-23 (atomic number 11)?",
+      "o": [
+        "12",
+        "14",
+        "11",
+        "13"
+      ],
+      "a": 0,
+      "e": "Neutrons = mass number − atomic number = 23 − 11 = 12.",
+      "d": "Medium",
+      "topic": "Mass number",
+      "slo": "Calculate neutron number from mass and atomic numbers"
+    },
+    {
+      "id": "CHEM9CH3-243",
+      "q": "How many neutrons are present in carbon-12 (atomic number 6)?",
+      "o": [
+        "8",
+        "7",
+        "6",
+        "5"
+      ],
+      "a": 2,
+      "e": "Neutrons = mass number − atomic number = 12 − 6 = 6.",
+      "d": "Medium",
+      "topic": "Mass number",
+      "slo": "Calculate neutron number from mass and atomic numbers"
+    },
+    {
+      "id": "CHEM9CH3-244",
+      "q": "What is the charge of a proton?",
+      "o": [
+        "Negative",
+        "Neutral",
+        "Variable with isotope",
+        "Positive"
+      ],
+      "a": 3,
+      "e": "A proton carries one positive elementary charge.",
+      "d": "Easy",
+      "topic": "Subatomic particles",
+      "slo": "Recall and explain key ideas in atomic structure"
+    },
+    {
+      "id": "CHEM9CH3-245",
+      "q": "How many electrons are in a neutral atom of beryllium-9?",
+      "o": [
+        "5",
+        "4",
+        "3",
+        "6"
+      ],
+      "a": 1,
+      "e": "A neutral atom has as many electrons as protons; beryllium has 4 protons.",
+      "d": "Medium",
+      "topic": "Atomic number",
+      "slo": "Determine electron count in a neutral atom"
+    },
+    {
+      "id": "CHEM9CH3-246",
+      "q": "How many protons are in the nucleus of hydrogen-1?",
+      "o": [
+        "1",
+        "2",
+        "0",
+        "3"
+      ],
+      "a": 0,
+      "e": "All hydrogen atoms have atomic number 1, hence 1 protons.",
+      "d": "Medium",
+      "topic": "Atomic number",
+      "slo": "Determine proton number from element identity"
+    },
+    {
+      "id": "CHEM9CH3-247",
+      "q": "How many protons are in the nucleus of magnesium-24?",
+      "o": [
+        "11",
+        "14",
+        "13",
+        "12"
+      ],
+      "a": 3,
+      "e": "All magnesium atoms have atomic number 12, hence 12 protons.",
+      "d": "Medium",
+      "topic": "Atomic number",
+      "slo": "Determine proton number from element identity"
+    },
+    {
+      "id": "CHEM9CH3-248",
+      "q": "How many electrons are in the outermost shell of a neutral oxygen atom?",
+      "o": [
+        "6",
+        "5",
+        "8",
+        "7"
+      ],
+      "a": 0,
+      "e": "Its shell arrangement is 2,6; the final shell contains 6 electron(s).",
+      "d": "Medium",
+      "topic": "Electron arrangement",
+      "slo": "Determine valence electrons from electron arrangement"
+    },
+    {
+      "id": "CHEM9CH3-249",
+      "q": "How many neutrons are present in sulfur-34 (atomic number 16)?",
+      "o": [
+        "19",
+        "17",
+        "20",
+        "18"
+      ],
+      "a": 3,
+      "e": "Neutrons = mass number − atomic number = 34 − 16 = 18.",
+      "d": "Medium",
+      "topic": "Mass number",
+      "slo": "Calculate neutron number from mass and atomic numbers"
+    },
+    {
+      "id": "CHEM9CH3-250",
+      "q": "An element has isotopes of mass 16 u (75% abundance) and 18 u (25% abundance). What is its relative atomic mass?",
+      "o": [
+        "17.5",
+        "17",
+        "16.5",
+        "15.5"
+      ],
+      "a": 2,
+      "e": "Weighted mean = (16 × 75/100) + (18 × 25/100) = 16.5.",
+      "d": "Hard",
+      "topic": "Relative atomic mass",
+      "slo": "Calculate relative atomic mass from isotope abundance"
+    },
+    {
+      "id": "CHEM9CH3-251",
+      "q": "How many electrons are in the outermost shell of a neutral silicon atom?",
+      "o": [
+        "5",
+        "4",
+        "3",
+        "6"
+      ],
+      "a": 1,
+      "e": "Its shell arrangement is 2,8,4; the final shell contains 4 electron(s).",
+      "d": "Medium",
+      "topic": "Electron arrangement",
+      "slo": "Determine valence electrons from electron arrangement"
+    },
+    {
+      "id": "CHEM9CH3-252",
+      "q": "How many neutrons are present in hydrogen-2 (atomic number 1)?",
+      "o": [
+        "3",
+        "0",
+        "2",
+        "1"
+      ],
+      "a": 3,
+      "e": "Neutrons = mass number − atomic number = 2 − 1 = 1.",
+      "d": "Medium",
+      "topic": "Mass number",
+      "slo": "Calculate neutron number from mass and atomic numbers"
+    },
+    {
+      "id": "CHEM9CH3-253",
+      "q": "Which number is written at the upper left of an element symbol in nuclide notation?",
+      "o": [
+        "Electron count",
+        "Ionic charge",
+        "Atomic number",
+        "Mass number"
+      ],
+      "a": 3,
+      "e": "Standard nuclide notation places mass number A as the left superscript.",
+      "d": "Easy",
+      "topic": "Nuclide notation",
+      "slo": "Recall and explain key ideas in atomic structure"
+    },
+    {
+      "id": "CHEM9CH3-254",
+      "q": "What does the term valence electrons mean?",
+      "o": [
+        "Protons in the nucleus",
+        "Electrons in the outermost occupied shell",
+        "All electrons in an atom",
+        "Electrons in the first shell only"
+      ],
+      "a": 1,
+      "e": "Valence electrons are the electrons in the outermost occupied shell.",
+      "d": "Easy",
+      "topic": "Electron arrangement",
+      "slo": "Recall and explain key ideas in atomic structure"
+    },
+    {
+      "id": "CHEM9CH3-255",
+      "q": "An element has isotopes of mass 35 u (25% abundance) and 37 u (75% abundance). What is its relative atomic mass?",
+      "o": [
+        "37.5",
+        "36",
+        "35.5",
+        "36.5"
+      ],
+      "a": 3,
+      "e": "Weighted mean = (35 × 25/100) + (37 × 75/100) = 36.5.",
+      "d": "Hard",
+      "topic": "Relative atomic mass",
+      "slo": "Calculate relative atomic mass from isotope abundance"
+    },
+    {
+      "id": "CHEM9CH3-256",
+      "q": "An element has isotopes of mass 16 u (40% abundance) and 18 u (60% abundance). What is its relative atomic mass?",
+      "o": [
+        "17.2",
+        "18.2",
+        "16.2",
+        "17"
+      ],
+      "a": 0,
+      "e": "Weighted mean = (16 × 40/100) + (18 × 60/100) = 17.2.",
+      "d": "Hard",
+      "topic": "Relative atomic mass",
+      "slo": "Calculate relative atomic mass from isotope abundance"
+    },
+    {
+      "id": "CHEM9CH3-257",
+      "q": "How many electrons are in the outermost shell of a neutral calcium atom?",
+      "o": [
+        "3",
+        "1",
+        "2",
+        "4"
+      ],
+      "a": 2,
+      "e": "Its shell arrangement is 2,8,8,2; the final shell contains 2 electron(s).",
+      "d": "Medium",
+      "topic": "Electron arrangement",
+      "slo": "Determine valence electrons from electron arrangement"
+    },
+    {
+      "id": "CHEM9CH3-258",
+      "q": "An element has isotopes of mass 79 u (75% abundance) and 81 u (25% abundance). What is its relative atomic mass?",
+      "o": [
+        "78.5",
+        "80.5",
+        "79.5",
+        "80"
+      ],
+      "a": 2,
+      "e": "Weighted mean = (79 × 75/100) + (81 × 25/100) = 79.5.",
+      "d": "Hard",
+      "topic": "Relative atomic mass",
+      "slo": "Calculate relative atomic mass from isotope abundance"
+    },
+    {
+      "id": "CHEM9CH3-259",
+      "q": "How many occupied electron shells does a neutral nitrogen atom have?",
+      "o": [
+        "2",
+        "1",
+        "4",
+        "3"
+      ],
+      "a": 0,
+      "e": "The arrangement 2,5 contains 2 occupied shell(s).",
+      "d": "Medium",
+      "topic": "Electron arrangement",
+      "slo": "Infer occupied shells from electron configuration"
+    },
+    {
+      "id": "CHEM9CH3-260",
+      "q": "How many electrons are in a neutral atom of argon-40?",
+      "o": [
+        "18",
+        "20",
+        "17",
+        "19"
+      ],
+      "a": 0,
+      "e": "A neutral atom has as many electrons as protons; argon has 18 protons.",
+      "d": "Medium",
+      "topic": "Atomic number",
+      "slo": "Determine electron count in a neutral atom"
+    },
+    {
+      "id": "CHEM9CH3-261",
+      "q": "An element has isotopes of mass 63 u (40% abundance) and 65 u (60% abundance). What is its relative atomic mass?",
+      "o": [
+        "64.2",
+        "63.2",
+        "64",
+        "65.2"
+      ],
+      "a": 0,
+      "e": "Weighted mean = (63 × 40/100) + (65 × 60/100) = 64.2.",
+      "d": "Hard",
+      "topic": "Relative atomic mass",
+      "slo": "Calculate relative atomic mass from isotope abundance"
+    },
+    {
+      "id": "CHEM9CH3-262",
+      "q": "How many occupied electron shells does a neutral magnesium atom have?",
+      "o": [
+        "2",
+        "3",
+        "1",
+        "4"
+      ],
+      "a": 1,
+      "e": "The arrangement 2,8,2 contains 3 occupied shell(s).",
+      "d": "Medium",
+      "topic": "Electron arrangement",
+      "slo": "Infer occupied shells from electron configuration"
+    },
+    {
+      "id": "CHEM9CH3-263",
+      "q": "How many electrons are in the outermost shell of a neutral fluorine atom?",
+      "o": [
+        "9",
+        "6",
+        "7",
+        "8"
+      ],
+      "a": 2,
+      "e": "Its shell arrangement is 2,7; the final shell contains 7 electron(s).",
+      "d": "Medium",
+      "topic": "Electron arrangement",
+      "slo": "Determine valence electrons from electron arrangement"
+    },
+    {
+      "id": "CHEM9CH3-264",
+      "q": "How many electrons are in a neutral atom of calcium-44?",
+      "o": [
+        "21",
+        "19",
+        "20",
+        "22"
+      ],
+      "a": 2,
+      "e": "A neutral atom has as many electrons as protons; calcium has 20 protons.",
+      "d": "Medium",
+      "topic": "Atomic number",
+      "slo": "Determine electron count in a neutral atom"
+    },
+    {
+      "id": "CHEM9CH3-265",
+      "q": "How many electrons are in the outermost shell of a neutral helium atom?",
+      "o": [
+        "1",
+        "2",
+        "4",
+        "3"
+      ],
+      "a": 1,
+      "e": "Its shell arrangement is 2; the final shell contains 2 electron(s).",
+      "d": "Medium",
+      "topic": "Electron arrangement",
+      "slo": "Determine valence electrons from electron arrangement"
+    },
+    {
+      "id": "CHEM9CH3-266",
+      "q": "How many electrons are in a neutral atom of magnesium-24?",
+      "o": [
+        "12",
+        "11",
+        "13",
+        "14"
+      ],
+      "a": 0,
+      "e": "A neutral atom has as many electrons as protons; magnesium has 12 protons.",
+      "d": "Medium",
+      "topic": "Atomic number",
+      "slo": "Determine electron count in a neutral atom"
+    },
+    {
+      "id": "CHEM9CH3-267",
+      "q": "How many neutrons are present in argon-40 (atomic number 18)?",
+      "o": [
+        "21",
+        "24",
+        "23",
+        "22"
+      ],
+      "a": 3,
+      "e": "Neutrons = mass number − atomic number = 40 − 18 = 22.",
+      "d": "Medium",
+      "topic": "Mass number",
+      "slo": "Calculate neutron number from mass and atomic numbers"
+    },
+    {
+      "id": "CHEM9CH3-268",
+      "q": "How many protons are in the nucleus of hydrogen-2?",
+      "o": [
+        "1",
+        "3",
+        "0",
+        "2"
+      ],
+      "a": 0,
+      "e": "All hydrogen atoms have atomic number 1, hence 1 protons.",
+      "d": "Medium",
+      "topic": "Atomic number",
+      "slo": "Determine proton number from element identity"
+    },
+    {
+      "id": "CHEM9CH3-269",
+      "q": "What happens to an atom when it gains two electrons?",
+      "o": [
+        "It becomes a different element",
+        "It acquires a +2 charge",
+        "Its mass number increases by two",
+        "It acquires a −2 charge"
+      ],
+      "a": 3,
+      "e": "Two additional electrons produce a charge of −2.",
+      "d": "Easy",
+      "topic": "Ion formation",
+      "slo": "Recall and explain key ideas in atomic structure"
+    },
+    {
+      "id": "CHEM9CH3-270",
+      "q": "How many protons are in the nucleus of beryllium-9?",
+      "o": [
+        "5",
+        "3",
+        "6",
+        "4"
+      ],
+      "a": 3,
+      "e": "All beryllium atoms have atomic number 4, hence 4 protons.",
+      "d": "Medium",
+      "topic": "Atomic number",
+      "slo": "Determine proton number from element identity"
+    },
+    {
+      "id": "CHEM9CH3-271",
+      "q": "Which shell-wise electron arrangement belongs to a neutral potassium atom (Z = 19)?",
+      "o": [
+        "2",
+        "2,8,8,1",
+        "2,8,1",
+        "2,8,7"
+      ],
+      "a": 1,
+      "e": "A neutral potassium atom has 19 electrons, distributed as 2,8,8,1.",
+      "d": "Medium",
+      "topic": "Electron arrangement",
+      "slo": "Write shell-wise electronic configurations"
+    },
+    {
+      "id": "CHEM9CH3-272",
+      "q": "How many protons are in the nucleus of potassium-41?",
+      "o": [
+        "21",
+        "19",
+        "20",
+        "18"
+      ],
+      "a": 1,
+      "e": "All potassium atoms have atomic number 19, hence 19 protons.",
+      "d": "Medium",
+      "topic": "Atomic number",
+      "slo": "Determine proton number from element identity"
+    },
+    {
+      "id": "CHEM9CH3-273",
+      "q": "How many neutrons are present in nitrogen-15 (atomic number 7)?",
+      "o": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "a": 1,
+      "e": "Neutrons = mass number − atomic number = 15 − 7 = 8.",
+      "d": "Medium",
+      "topic": "Mass number",
+      "slo": "Calculate neutron number from mass and atomic numbers"
+    },
+    {
+      "id": "CHEM9CH3-274",
+      "q": "How many neutrons are present in magnesium-26 (atomic number 12)?",
+      "o": [
+        "13",
+        "16",
+        "14",
+        "15"
+      ],
+      "a": 2,
+      "e": "Neutrons = mass number − atomic number = 26 − 12 = 14.",
+      "d": "Medium",
+      "topic": "Mass number",
+      "slo": "Calculate neutron number from mass and atomic numbers"
+    },
+    {
+      "id": "CHEM9CH3-275",
+      "q": "Where are neutrons located in an atom?",
+      "o": [
+        "In the nucleus",
+        "Outside all atoms",
+        "In electron clouds only",
+        "In the valence shell"
+      ],
+      "a": 0,
+      "e": "Neutrons are nuclear particles.",
+      "d": "Easy",
+      "topic": "Subatomic particles",
+      "slo": "Recall and explain key ideas in atomic structure"
+    },
+    {
+      "id": "CHEM9CH3-276",
+      "q": "What happens when a neutral atom gains an electron?",
+      "o": [
+        "Its atomic number rises",
+        "Its mass number rises by one",
+        "It becomes a cation",
+        "It becomes an anion"
+      ],
+      "a": 3,
+      "e": "Adding an electron produces a net negative charge.",
+      "d": "Easy",
+      "topic": "Ion formation",
+      "slo": "Recall and explain key ideas in atomic structure"
+    },
+    {
+      "id": "CHEM9CH3-277",
+      "q": "How many neutrons are present in potassium-39 (atomic number 19)?",
+      "o": [
+        "20",
+        "19",
+        "22",
+        "21"
+      ],
+      "a": 0,
+      "e": "Neutrons = mass number − atomic number = 39 − 19 = 20.",
+      "d": "Medium",
+      "topic": "Mass number",
+      "slo": "Calculate neutron number from mass and atomic numbers"
+    },
+    {
+      "id": "CHEM9CH3-278",
+      "q": "How many neutrons are present in aluminium-27 (atomic number 13)?",
+      "o": [
+        "14",
+        "16",
+        "13",
+        "15"
+      ],
+      "a": 0,
+      "e": "Neutrons = mass number − atomic number = 27 − 13 = 14.",
+      "d": "Medium",
+      "topic": "Mass number",
+      "slo": "Calculate neutron number from mass and atomic numbers"
+    },
+    {
+      "id": "CHEM9CH3-279",
+      "q": "How many neutrons are present in silicon-29 (atomic number 14)?",
+      "o": [
+        "17",
+        "15",
+        "16",
+        "14"
+      ],
+      "a": 1,
+      "e": "Neutrons = mass number − atomic number = 29 − 14 = 15.",
+      "d": "Medium",
+      "topic": "Mass number",
+      "slo": "Calculate neutron number from mass and atomic numbers"
+    },
+    {
+      "id": "CHEM9CH3-280",
+      "q": "Which shell-wise electron arrangement belongs to a neutral fluorine atom (Z = 9)?",
+      "o": [
+        "2,3",
+        "2,7",
+        "2,8,3",
+        "2,6"
+      ],
+      "a": 1,
+      "e": "A neutral fluorine atom has 9 electrons, distributed as 2,7.",
+      "d": "Medium",
+      "topic": "Electron arrangement",
+      "slo": "Write shell-wise electronic configurations"
+    },
+    {
+      "id": "CHEM9CH3-281",
+      "q": "How many electrons are in a neutral atom of sulfur-32?",
+      "o": [
+        "17",
+        "16",
+        "15",
+        "18"
+      ],
+      "a": 1,
+      "e": "A neutral atom has as many electrons as protons; sulfur has 16 protons.",
+      "d": "Medium",
+      "topic": "Atomic number",
+      "slo": "Determine electron count in a neutral atom"
+    },
+    {
+      "id": "CHEM9CH3-282",
+      "q": "An element has isotopes of mass 28 u (40% abundance) and 30 u (60% abundance). What is its relative atomic mass?",
+      "o": [
+        "29",
+        "29.2",
+        "28.2",
+        "30.2"
+      ],
+      "a": 1,
+      "e": "Weighted mean = (28 × 40/100) + (30 × 60/100) = 29.2.",
+      "d": "Hard",
+      "topic": "Relative atomic mass",
+      "slo": "Calculate relative atomic mass from isotope abundance"
+    },
+    {
+      "id": "CHEM9CH3-283",
+      "q": "An element has isotopes of mass 12 u (60% abundance) and 13 u (40% abundance). What is its relative atomic mass?",
+      "o": [
+        "11.4",
+        "12.5",
+        "13.4",
+        "12.4"
+      ],
+      "a": 3,
+      "e": "Weighted mean = (12 × 60/100) + (13 × 40/100) = 12.4.",
+      "d": "Hard",
+      "topic": "Relative atomic mass",
+      "slo": "Calculate relative atomic mass from isotope abundance"
+    },
+    {
+      "id": "CHEM9CH3-284",
+      "q": "What is the reference used to define the atomic mass unit?",
+      "o": [
+        "One-twelfth the mass of a carbon-12 atom",
+        "One-half the mass of an oxygen atom",
+        "The mass of one electron",
+        "The mass of a hydrogen-1 molecule"
+      ],
+      "a": 0,
+      "e": "One atomic mass unit is 1/12 the mass of a carbon-12 atom.",
+      "d": "Easy",
+      "topic": "Relative atomic mass",
+      "slo": "Recall and explain key ideas in atomic structure"
+    },
+    {
+      "id": "CHEM9CH3-285",
+      "q": "How many protons are in the nucleus of hydrogen-3?",
+      "o": [
+        "2",
+        "0",
+        "3",
+        "1"
+      ],
+      "a": 3,
+      "e": "All hydrogen atoms have atomic number 1, hence 1 protons.",
+      "d": "Medium",
+      "topic": "Atomic number",
+      "slo": "Determine proton number from element identity"
+    },
+    {
+      "id": "CHEM9CH3-286",
+      "q": "How many protons are in the nucleus of calcium-44?",
+      "o": [
+        "20",
+        "19",
+        "22",
+        "21"
+      ],
+      "a": 0,
+      "e": "All calcium atoms have atomic number 20, hence 20 protons.",
+      "d": "Medium",
+      "topic": "Atomic number",
+      "slo": "Determine proton number from element identity"
+    },
+    {
+      "id": "CHEM9CH3-287",
+      "q": "What electron transfer produces Na+ from a neutral sodium atom?",
+      "o": [
+        "It gains 1 electron(s)",
+        "It loses 2 electron(s)",
+        "It changes its number of protons",
+        "It loses 1 electron(s)"
+      ],
+      "a": 3,
+      "e": "A +1 ionic charge results when a neutral atom loses 1 electron(s).",
+      "d": "Medium",
+      "topic": "Ion formation",
+      "slo": "Explain formation of cations and anions"
+    },
+    {
+      "id": "CHEM9CH3-288",
+      "q": "An element has isotopes of mass 79 u (60% abundance) and 81 u (40% abundance). What is its relative atomic mass?",
+      "o": [
+        "79.8",
+        "80",
+        "78.8",
+        "80.8"
+      ],
+      "a": 0,
+      "e": "Weighted mean = (79 × 60/100) + (81 × 40/100) = 79.8.",
+      "d": "Hard",
+      "topic": "Relative atomic mass",
+      "slo": "Calculate relative atomic mass from isotope abundance"
+    },
+    {
+      "id": "CHEM9CH3-289",
+      "q": "An element has isotopes of mass 35 u (75% abundance) and 37 u (25% abundance). What is its relative atomic mass?",
+      "o": [
+        "35.5",
+        "36",
+        "36.5",
+        "34.5"
+      ],
+      "a": 0,
+      "e": "Weighted mean = (35 × 75/100) + (37 × 25/100) = 35.5.",
+      "d": "Hard",
+      "topic": "Relative atomic mass",
+      "slo": "Calculate relative atomic mass from isotope abundance"
+    },
+    {
+      "id": "CHEM9CH3-290",
+      "q": "How many protons are in the nucleus of carbon-12?",
+      "o": [
+        "8",
+        "6",
+        "5",
+        "7"
+      ],
+      "a": 1,
+      "e": "All carbon atoms have atomic number 6, hence 6 protons.",
+      "d": "Medium",
+      "topic": "Atomic number",
+      "slo": "Determine proton number from element identity"
+    },
+    {
+      "id": "CHEM9CH3-291",
+      "q": "An element has isotopes of mass 20 u (25% abundance) and 22 u (75% abundance). What is its relative atomic mass?",
+      "o": [
+        "22.5",
+        "20.5",
+        "21",
+        "21.5"
+      ],
+      "a": 3,
+      "e": "Weighted mean = (20 × 25/100) + (22 × 75/100) = 21.5.",
+      "d": "Hard",
+      "topic": "Relative atomic mass",
+      "slo": "Calculate relative atomic mass from isotope abundance"
+    },
+    {
+      "id": "CHEM9CH3-292",
+      "q": "How many occupied electron shells does a neutral boron atom have?",
+      "o": [
+        "1",
+        "4",
+        "2",
+        "3"
+      ],
+      "a": 2,
+      "e": "The arrangement 2,3 contains 2 occupied shell(s).",
+      "d": "Medium",
+      "topic": "Electron arrangement",
+      "slo": "Infer occupied shells from electron configuration"
+    },
+    {
+      "id": "CHEM9CH3-293",
+      "q": "What is the atomic number of an element?",
+      "o": [
+        "The number of neutrons in its nucleus",
+        "The number of occupied shells",
+        "The sum of protons and neutrons",
+        "The number of protons in its nucleus"
+      ],
+      "a": 3,
+      "e": "Atomic number Z equals the proton count.",
+      "d": "Easy",
+      "topic": "Atomic number",
+      "slo": "Recall and explain key ideas in atomic structure"
+    },
+    {
+      "id": "CHEM9CH3-294",
+      "q": "How many protons are in the nucleus of argon-40?",
+      "o": [
+        "20",
+        "19",
+        "17",
+        "18"
+      ],
+      "a": 3,
+      "e": "All argon atoms have atomic number 18, hence 18 protons.",
+      "d": "Medium",
+      "topic": "Atomic number",
+      "slo": "Determine proton number from element identity"
+    },
+    {
+      "id": "CHEM9CH3-295",
+      "q": "Which shell-wise electron arrangement belongs to a neutral beryllium atom (Z = 4)?",
+      "o": [
+        "1",
+        "2,7",
+        "2,2",
+        "2,8,4"
+      ],
+      "a": 2,
+      "e": "A neutral beryllium atom has 4 electrons, distributed as 2,2.",
+      "d": "Medium",
+      "topic": "Electron arrangement",
+      "slo": "Write shell-wise electronic configurations"
+    },
+    {
+      "id": "CHEM9CH3-296",
+      "q": "How many neutrons are present in silicon-30 (atomic number 14)?",
+      "o": [
+        "18",
+        "17",
+        "16",
+        "15"
+      ],
+      "a": 2,
+      "e": "Neutrons = mass number − atomic number = 30 − 14 = 16.",
+      "d": "Medium",
+      "topic": "Mass number",
+      "slo": "Calculate neutron number from mass and atomic numbers"
+    },
+    {
+      "id": "CHEM9CH3-297",
+      "q": "How many electrons are in the outermost shell of a neutral argon atom?",
+      "o": [
+        "10",
+        "7",
+        "8",
+        "9"
+      ],
+      "a": 2,
+      "e": "Its shell arrangement is 2,8,8; the final shell contains 8 electron(s).",
+      "d": "Medium",
+      "topic": "Electron arrangement",
+      "slo": "Determine valence electrons from electron arrangement"
+    },
+    {
+      "id": "CHEM9CH3-298",
+      "q": "How many electrons are in the ion O2− (atomic number 8)?",
+      "o": [
+        "10",
+        "11",
+        "9",
+        "12"
+      ],
+      "a": 0,
+      "e": "The ion has 8 protons and charge -2; electrons = 8 − (-2) = 10.",
+      "d": "Medium",
+      "topic": "Ion formation",
+      "slo": "Calculate electron count in monoatomic ions"
+    },
+    {
+      "id": "CHEM9CH3-299",
+      "q": "How many neutrons are present in lithium-6 (atomic number 3)?",
+      "o": [
+        "3",
+        "5",
+        "2",
+        "4"
+      ],
+      "a": 0,
+      "e": "Neutrons = mass number − atomic number = 6 − 3 = 3.",
+      "d": "Medium",
+      "topic": "Mass number",
+      "slo": "Calculate neutron number from mass and atomic numbers"
+    },
+    {
+      "id": "CHEM9CH3-300",
+      "q": "How many electrons are in the ion F− (atomic number 9)?",
+      "o": [
+        "10",
+        "9",
+        "12",
+        "11"
+      ],
+      "a": 0,
+      "e": "The ion has 9 protons and charge -1; electrons = 9 − (-1) = 10.",
+      "d": "Medium",
+      "topic": "Ion formation",
+      "slo": "Calculate electron count in monoatomic ions"
+    }
+  ]
+}

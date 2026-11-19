@@ -1,0 +1,4504 @@
+{
+  "questions": [
+    {
+      "id": "CHEM9CH5-001",
+      "q": "Why do many atoms form chemical bonds?",
+      "o": [
+        "To attain a more stable, lower-energy arrangement",
+        "To become radioactive",
+        "To increase their atomic numbers",
+        "To create new protons"
+      ],
+      "a": 0,
+      "e": "Bond formation commonly lowers the energy of the system.",
+      "d": "Easy",
+      "topic": "Bond formation",
+      "slo": "Explain and apply bond formation in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-002",
+      "q": "Which electrons are chiefly involved in chemical bonding?",
+      "o": [
+        "Outermost-shell electrons",
+        "Inner-shell neutrons",
+        "Core protons",
+        "Nuclear protons"
+      ],
+      "a": 0,
+      "e": "Valence electrons participate in transfer or sharing.",
+      "d": "Medium",
+      "topic": "Valence electrons",
+      "slo": "Explain and apply valence electrons in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-003",
+      "q": "What does the octet rule describe?",
+      "o": [
+        "Every bond contains eight electrons",
+        "All atoms have eight protons",
+        "A tendency to achieve eight valence electrons",
+        "All ions contain eight neutrons"
+      ],
+      "a": 2,
+      "e": "Many main-group atoms gain, lose or share electrons to attain an octet.",
+      "d": "Medium",
+      "topic": "Octet rule",
+      "slo": "Explain and apply octet rule in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-004",
+      "q": "Which stable configuration is sought by hydrogen in simple covalent compounds?",
+      "o": [
+        "No electrons at all",
+        "Ten valence electrons",
+        "Two electrons in its first shell",
+        "Eight electrons in its first shell"
+      ],
+      "a": 2,
+      "e": "The first shell can accommodate two electrons.",
+      "d": "Medium",
+      "topic": "Duet rule",
+      "slo": "Explain and apply duet rule in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-005",
+      "q": "How is an ionic bond formed?",
+      "o": [
+        "Electrostatic attraction between oppositely charged ions",
+        "Fusion of atomic nuclei",
+        "Attraction between two neutrons",
+        "Sharing one proton between atoms"
+      ],
+      "a": 0,
+      "e": "Electron transfer produces cations and anions that attract.",
+      "d": "Easy",
+      "topic": "Ionic bonding",
+      "slo": "Explain and apply ionic bonding in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-006",
+      "q": "What characterizes a covalent bond?",
+      "o": [
+        "A lattice of mobile positive electrons",
+        "A shared pair of electrons between atoms",
+        "Complete transfer of protons",
+        "Attraction between free nuclei"
+      ],
+      "a": 1,
+      "e": "Covalent bonding involves shared electron pairs.",
+      "d": "Medium",
+      "topic": "Covalent bonding",
+      "slo": "Explain and apply covalent bonding in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-007",
+      "q": "Which model explains bonding in a typical metal?",
+      "o": [
+        "Only localized shared pairs",
+        "Positive metal ions attracted to delocalized electrons",
+        "Hydrogen bonds between atoms",
+        "Neutral atoms with no electrons"
+      ],
+      "a": 1,
+      "e": "Delocalized electrons hold the metallic structure together.",
+      "d": "Medium",
+      "topic": "Metallic bonding",
+      "slo": "Explain and apply metallic bonding in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-008",
+      "q": "What is a cation?",
+      "o": [
+        "A negatively charged ion",
+        "A positively charged ion",
+        "A molecule with no electrons",
+        "An atom with no protons"
+      ],
+      "a": 1,
+      "e": "An atom becomes a cation when it loses electrons.",
+      "d": "Medium",
+      "topic": "Cations",
+      "slo": "Explain and apply cations in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-009",
+      "q": "What is an anion?",
+      "o": [
+        "A positively charged ion",
+        "A free neutron",
+        "An isotope with no charge",
+        "A negatively charged ion"
+      ],
+      "a": 3,
+      "e": "An atom becomes an anion when it gains electrons.",
+      "d": "Easy",
+      "topic": "Anions",
+      "slo": "Explain and apply anions in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-010",
+      "q": "What happens when sodium forms Na+?",
+      "o": [
+        "It loses one proton",
+        "It gains one neutron",
+        "It gains one electron",
+        "It loses one electron"
+      ],
+      "a": 3,
+      "e": "Sodium loses its outer electron to form Na+.",
+      "d": "Medium",
+      "topic": "Electron transfer",
+      "slo": "Explain and apply electron transfer in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-011",
+      "q": "What happens when chlorine forms Cl-?",
+      "o": [
+        "It loses one proton",
+        "It gains one electron",
+        "It loses two neutrons",
+        "It gains one proton"
+      ],
+      "a": 1,
+      "e": "Chlorine gains an electron to complete its valence shell.",
+      "d": "Medium",
+      "topic": "Electron transfer",
+      "slo": "Explain and apply electron transfer in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-012",
+      "q": "What is the structure of solid sodium chloride?",
+      "o": [
+        "A giant three-dimensional ionic lattice",
+        "A gas of neutral atoms",
+        "Separate NaCl molecules only",
+        "A network of hydrogen bonds only"
+      ],
+      "a": 0,
+      "e": "Na+ and Cl- ions repeat throughout an extended lattice.",
+      "d": "Medium",
+      "topic": "Ionic lattice",
+      "slo": "Explain and apply ionic lattice in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-013",
+      "q": "Why do ionic solids usually have high melting points?",
+      "o": [
+        "Their ions have no charges",
+        "They contain weakly bonded free molecules",
+        "Strong electrostatic attractions require substantial energy to overcome",
+        "They lack attractive forces"
+      ],
+      "a": 2,
+      "e": "Strong lattice forces lead to relatively high melting temperatures.",
+      "d": "Easy",
+      "topic": "Ionic properties",
+      "slo": "Explain and apply ionic properties in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-014",
+      "q": "Why does molten sodium chloride conduct electricity?",
+      "o": [
+        "Its electrons become protons",
+        "Its ions can move and carry charge",
+        "Its neutrons move through the liquid",
+        "Its molecules are always neutral"
+      ],
+      "a": 1,
+      "e": "Mobile ions conduct charge in molten ionic compounds.",
+      "d": "Medium",
+      "topic": "Ionic conductivity",
+      "slo": "Explain and apply ionic conductivity in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-015",
+      "q": "Why does solid sodium chloride not conduct electricity appreciably?",
+      "o": [
+        "Its nuclei have vanished",
+        "It contains no charged particles",
+        "It is made of free electrons",
+        "Its ions are fixed in lattice positions"
+      ],
+      "a": 3,
+      "e": "Ions cannot move freely in the solid lattice.",
+      "d": "Medium",
+      "topic": "Ionic conductivity",
+      "slo": "Explain and apply ionic conductivity in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-016",
+      "q": "Why can aqueous sodium chloride conduct electricity?",
+      "o": [
+        "The salt forms neutrons",
+        "All water molecules become electrons",
+        "Water converts NaCl into metal",
+        "Dissolved Na+ and Cl- ions are mobile"
+      ],
+      "a": 3,
+      "e": "Free-moving dissolved ions transport charge.",
+      "d": "Medium",
+      "topic": "Ionic conductivity",
+      "slo": "Explain and apply ionic conductivity in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-017",
+      "q": "Why are many simple covalent substances poor electrical conductors?",
+      "o": [
+        "They always contain metal ions",
+        "They lack mobile charged particles",
+        "They have unlimited free electrons",
+        "Their nuclei have no charge"
+      ],
+      "a": 1,
+      "e": "Simple molecular substances usually have no mobile ions or electrons.",
+      "d": "Easy",
+      "topic": "Covalent substances",
+      "slo": "Explain and apply covalent substances in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-018",
+      "q": "How many electron pairs are shared in a single covalent bond?",
+      "o": [
+        "Four",
+        "Three",
+        "One",
+        "Two"
+      ],
+      "a": 2,
+      "e": "A single bond consists of one shared electron pair.",
+      "d": "Medium",
+      "topic": "Single covalent bond",
+      "slo": "Explain and apply single covalent bond in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-019",
+      "q": "How many electron pairs are shared in a double covalent bond?",
+      "o": [
+        "Two",
+        "Four",
+        "One",
+        "Three"
+      ],
+      "a": 0,
+      "e": "A double bond consists of two shared pairs.",
+      "d": "Medium",
+      "topic": "Double covalent bond",
+      "slo": "Explain and apply double covalent bond in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-020",
+      "q": "How many electron pairs are shared in a triple covalent bond?",
+      "o": [
+        "Three",
+        "Two",
+        "Four",
+        "One"
+      ],
+      "a": 0,
+      "e": "A triple bond consists of three shared pairs.",
+      "d": "Medium",
+      "topic": "Triple covalent bond",
+      "slo": "Explain and apply triple covalent bond in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-021",
+      "q": "What is the bond order of a triple covalent bond?",
+      "o": [
+        "1",
+        "4",
+        "2",
+        "3"
+      ],
+      "a": 3,
+      "e": "Three shared pairs correspond to bond order three.",
+      "d": "Easy",
+      "topic": "Bond order",
+      "slo": "Explain and apply bond order in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-022",
+      "q": "What do dots in a Lewis electron-dot symbol represent?",
+      "o": [
+        "Valence electrons",
+        "Electron shells only",
+        "Neutrons",
+        "Protons"
+      ],
+      "a": 0,
+      "e": "Lewis symbols show outer-shell electrons.",
+      "d": "Medium",
+      "topic": "Lewis structures",
+      "slo": "Explain and apply lewis structures in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-023",
+      "q": "What does a line between two atoms usually represent in a Lewis structure?",
+      "o": [
+        "One shared electron pair",
+        "One neutron",
+        "One proton",
+        "One full electron shell"
+      ],
+      "a": 0,
+      "e": "A line conventionally denotes a single covalent bond.",
+      "d": "Medium",
+      "topic": "Lewis structures",
+      "slo": "Explain and apply lewis structures in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-024",
+      "q": "What is a lone pair?",
+      "o": [
+        "A pair of valence electrons not used in bonding",
+        "A pair of bonded nuclei",
+        "Two atoms in a molecule",
+        "A pair of protons"
+      ],
+      "a": 0,
+      "e": "Lone pairs are nonbonding electron pairs on an atom.",
+      "d": "Medium",
+      "topic": "Lone pairs",
+      "slo": "Explain and apply lone pairs in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-025",
+      "q": "What is a bonding pair?",
+      "o": [
+        "A pair of neutrons",
+        "A pair of isotopes",
+        "Two uncharged ions",
+        "A shared pair of electrons joining atoms"
+      ],
+      "a": 3,
+      "e": "Bond pairs are electron pairs shared in covalent bonds.",
+      "d": "Easy",
+      "topic": "Bond pairs",
+      "slo": "Explain and apply bond pairs in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-026",
+      "q": "Which situation most directly produces a nonpolar covalent bond?",
+      "o": [
+        "Formation of two oppositely charged ions",
+        "Equal sharing of bonding electrons",
+        "Unequal proton sharing",
+        "Complete transfer of electrons"
+      ],
+      "a": 1,
+      "e": "Equal electron sharing gives no permanent bond dipole.",
+      "d": "Medium",
+      "topic": "Nonpolar covalent bonds",
+      "slo": "Explain and apply nonpolar covalent bonds in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-027",
+      "q": "What makes a covalent bond polar?",
+      "o": [
+        "Unequal sharing of bonding electrons",
+        "Equal sharing between identical atoms",
+        "Sharing of neutrons",
+        "Loss of all bonding electrons"
+      ],
+      "a": 0,
+      "e": "Different electronegativities can produce unequal sharing.",
+      "d": "Medium",
+      "topic": "Polar covalent bonds",
+      "slo": "Explain and apply polar covalent bonds in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-028",
+      "q": "What is electronegativity?",
+      "o": [
+        "The total mass of a nucleus",
+        "The tendency of a bonded atom to attract shared electrons",
+        "The number of neutrons in an atom",
+        "The number of isotopes of an element"
+      ],
+      "a": 1,
+      "e": "Electronegativity describes attraction for bonding electrons.",
+      "d": "Medium",
+      "topic": "Electronegativity",
+      "slo": "Explain and apply electronegativity in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-029",
+      "q": "Which element is the most electronegative?",
+      "o": [
+        "Fluorine",
+        "Sodium",
+        "Magnesium",
+        "Potassium"
+      ],
+      "a": 0,
+      "e": "Fluorine has the highest electronegativity.",
+      "d": "Easy",
+      "topic": "Electronegativity",
+      "slo": "Explain and apply electronegativity in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-030",
+      "q": "In an H-Cl bond, which atom is partially negative?",
+      "o": [
+        "Neither atom",
+        "Chlorine",
+        "Both atoms equally",
+        "Hydrogen"
+      ],
+      "a": 1,
+      "e": "Chlorine attracts the bonding pair more strongly than hydrogen.",
+      "d": "Medium",
+      "topic": "Bond polarity",
+      "slo": "Explain and apply bond polarity in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-031",
+      "q": "In an H-F bond, which atom carries partial negative charge?",
+      "o": [
+        "Fluorine",
+        "Both equally",
+        "Neither",
+        "Hydrogen"
+      ],
+      "a": 0,
+      "e": "Fluorine is more electronegative than hydrogen.",
+      "d": "Medium",
+      "topic": "Bond polarity",
+      "slo": "Explain and apply bond polarity in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-032",
+      "q": "What does the symbol delta-plus indicate in a polar bond?",
+      "o": [
+        "Partial positive charge",
+        "Full negative ionic charge",
+        "A double bond",
+        "A neutron"
+      ],
+      "a": 0,
+      "e": "Delta-plus marks the electron-poorer end of a polar bond.",
+      "d": "Medium",
+      "topic": "Bond polarity",
+      "slo": "Explain and apply bond polarity in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-033",
+      "q": "What distinguishes a coordinate covalent bond when it forms?",
+      "o": [
+        "Electrons are fully transferred to a metal",
+        "Both shared electrons are donated by one atom",
+        "Each atom donates two protons",
+        "No electrons are shared"
+      ],
+      "a": 1,
+      "e": "A donor atom supplies the bonding pair to an acceptor.",
+      "d": "Easy",
+      "topic": "Coordinate covalent bonding",
+      "slo": "Explain and apply coordinate covalent bonding in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-034",
+      "q": "Which species can donate a lone pair to H+ to form NH4+?",
+      "o": [
+        "Helium atom, He",
+        "Ammonia, NH3",
+        "Sodium ion, Na+",
+        "Methane, CH4"
+      ],
+      "a": 1,
+      "e": "Nitrogen in NH3 donates its lone pair to H+.",
+      "d": "Medium",
+      "topic": "Coordinate covalent bonding",
+      "slo": "Explain and apply coordinate covalent bonding in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-035",
+      "q": "Which ion forms when NH3 accepts H+?",
+      "o": [
+        "NO3-",
+        "NH4+",
+        "H3O+",
+        "NH2-"
+      ],
+      "a": 1,
+      "e": "A lone pair on NH3 bonds to H+, forming NH4+.",
+      "d": "Medium",
+      "topic": "Ammonium ion",
+      "slo": "Explain and apply ammonium ion in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-036",
+      "q": "Which ion forms when water accepts a proton?",
+      "o": [
+        "H2O2",
+        "OH-",
+        "H3O+",
+        "O2-"
+      ],
+      "a": 2,
+      "e": "H2O donates a lone pair to H+ to give H3O+.",
+      "d": "Medium",
+      "topic": "Hydronium ion",
+      "slo": "Explain and apply hydronium ion in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-037",
+      "q": "Which interaction is strongest when H is bonded to N, O, or F and attracted to a nearby lone pair?",
+      "o": [
+        "Hydrogen bonding",
+        "Nuclear bonding",
+        "Ionic lattice bonding",
+        "Metallic bonding"
+      ],
+      "a": 0,
+      "e": "Hydrogen bonds commonly involve H bonded to N, O or F.",
+      "d": "Easy",
+      "topic": "Hydrogen bonding",
+      "slo": "Explain and apply hydrogen bonding in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-038",
+      "q": "What are intermolecular forces?",
+      "o": [
+        "Only ionic bonds inside a crystal",
+        "Bonds inside a nucleus",
+        "Forces between protons and neutrons only",
+        "Attractions between separate molecules"
+      ],
+      "a": 3,
+      "e": "Intermolecular forces act between molecules.",
+      "d": "Medium",
+      "topic": "Intermolecular forces",
+      "slo": "Explain and apply intermolecular forces in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-039",
+      "q": "Which force holds H and O together within a water molecule?",
+      "o": [
+        "Metallic bonding",
+        "Hydrogen bonds between molecules",
+        "Polar covalent bonds",
+        "London forces between molecules"
+      ],
+      "a": 2,
+      "e": "The O-H bonds within water molecules are covalent.",
+      "d": "Medium",
+      "topic": "Intramolecular bonds",
+      "slo": "Explain and apply intramolecular bonds in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-040",
+      "q": "Why does water have a relatively high boiling point for its molecular size?",
+      "o": [
+        "Hydrogen bonding between water molecules",
+        "It is a metal",
+        "It contains free chloride ions",
+        "Its molecules have no polarity"
+      ],
+      "a": 0,
+      "e": "Intermolecular hydrogen bonds require energy to overcome.",
+      "d": "Medium",
+      "topic": "Water properties",
+      "slo": "Explain and apply water properties in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-041",
+      "q": "Which intermolecular attraction exists in all atoms and molecules?",
+      "o": [
+        "Only ionic bonding",
+        "Only hydrogen bonding",
+        "Only metallic bonding",
+        "London dispersion forces"
+      ],
+      "a": 3,
+      "e": "Temporary electron fluctuations produce dispersion forces.",
+      "d": "Easy",
+      "topic": "London dispersion forces",
+      "slo": "Explain and apply london dispersion forces in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-042",
+      "q": "Which molecules can exhibit permanent dipole-dipole attractions?",
+      "o": [
+        "Only identical nonpolar atoms",
+        "Only metal cations",
+        "Polar molecules",
+        "Only isolated noble-gas atoms"
+      ],
+      "a": 2,
+      "e": "Polar molecules have permanent dipoles that can attract.",
+      "d": "Medium",
+      "topic": "Dipole-dipole forces",
+      "slo": "Explain and apply dipole-dipole forces in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-043",
+      "q": "Why are metals good electrical conductors?",
+      "o": [
+        "They have no electrons",
+        "They contain immobile neutrons",
+        "They consist only of neutral molecules",
+        "They have mobile delocalized electrons"
+      ],
+      "a": 3,
+      "e": "Delocalized electrons transport charge through a metal.",
+      "d": "Medium",
+      "topic": "Metal conductivity",
+      "slo": "Explain and apply metal conductivity in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-044",
+      "q": "Why can metals be hammered into sheets without immediately shattering?",
+      "o": [
+        "Metal atoms contain no nuclei",
+        "Metallic bonding persists as layers slide",
+        "All atoms are connected by directional double bonds",
+        "Metals have no attraction between particles"
+      ],
+      "a": 1,
+      "e": "Non-directional metallic bonding allows layers to shift.",
+      "d": "Medium",
+      "topic": "Metal malleability",
+      "slo": "Explain and apply metal malleability in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-045",
+      "q": "What does ductility mean?",
+      "o": [
+        "Ability to be drawn into wires",
+        "Ability to dissolve in all liquids",
+        "Ability to emit light",
+        "Ability to form only anions"
+      ],
+      "a": 0,
+      "e": "Ductile materials can be drawn into wires.",
+      "d": "Easy",
+      "topic": "Metal ductility",
+      "slo": "Explain and apply metal ductility in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-046",
+      "q": "What does malleability mean?",
+      "o": [
+        "Ability to form gases easily",
+        "Ability to resist all heating",
+        "Ability to be hammered into thin sheets",
+        "Ability to gain protons"
+      ],
+      "a": 2,
+      "e": "Malleable materials can be shaped into sheets.",
+      "d": "Medium",
+      "topic": "Metal malleability",
+      "slo": "Explain and apply metal malleability in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-047",
+      "q": "Why is diamond extremely hard?",
+      "o": [
+        "It is composed of mobile sodium ions",
+        "Each carbon forms four strong covalent bonds in a 3D network",
+        "It contains separate weakly attracted molecules",
+        "It contains only hydrogen bonds"
+      ],
+      "a": 1,
+      "e": "Diamond is a rigid tetrahedral covalent network.",
+      "d": "Medium",
+      "topic": "Giant covalent structures",
+      "slo": "Explain and apply giant covalent structures in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-048",
+      "q": "Why is graphite soft and slippery?",
+      "o": [
+        "Weak attractions allow carbon layers to slide",
+        "It contains liquid water between all atoms",
+        "Its layers are held by ionic bonds only",
+        "Its carbon atoms have no covalent bonds"
+      ],
+      "a": 0,
+      "e": "Graphite layers can slide due to weak interlayer forces.",
+      "d": "Medium",
+      "topic": "Graphite structure",
+      "slo": "Explain and apply graphite structure in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-049",
+      "q": "Why can graphite conduct electricity?",
+      "o": [
+        "It contains sodium ions",
+        "It has delocalized electrons within its layers",
+        "Every carbon atom loses four electrons",
+        "Its neutrons are mobile"
+      ],
+      "a": 1,
+      "e": "Some electrons are delocalized across graphite sheets.",
+      "d": "Easy",
+      "topic": "Graphite conductivity",
+      "slo": "Explain and apply graphite conductivity in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-050",
+      "q": "Why does diamond not conduct electricity under ordinary conditions?",
+      "o": [
+        "Its valence electrons are localized in covalent bonds",
+        "It has no carbon atoms",
+        "It contains freely moving electrons",
+        "It contains mobile metal ions"
+      ],
+      "a": 0,
+      "e": "Diamond lacks mobile charge carriers.",
+      "d": "Medium",
+      "topic": "Diamond conductivity",
+      "slo": "Explain and apply diamond conductivity in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-051",
+      "q": "What bonding structure is found in quartz (SiO2)?",
+      "o": [
+        "Discrete Na+ and Cl- ions",
+        "Giant covalent network",
+        "Simple monatomic gas",
+        "Metallic lattice"
+      ],
+      "a": 1,
+      "e": "Silicon and oxygen form an extended covalent network.",
+      "d": "Medium",
+      "topic": "Silicon dioxide",
+      "slo": "Explain and apply silicon dioxide in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-052",
+      "q": "Why do ionic crystals shatter when strongly struck?",
+      "o": [
+        "Their ions lose all charges",
+        "Like-charged ions can become aligned and repel",
+        "They turn into metals",
+        "They have no electrostatic forces"
+      ],
+      "a": 1,
+      "e": "A shifted lattice can bring like charges close, causing repulsion.",
+      "d": "Medium",
+      "topic": "Ionic brittleness",
+      "slo": "Explain and apply ionic brittleness in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-053",
+      "q": "Why do many simple molecular substances melt at relatively low temperatures?",
+      "o": [
+        "Their nuclei dissolve",
+        "Their intermolecular forces are comparatively weak",
+        "They contain strong ionic lattices",
+        "Their covalent bonds always break at melting"
+      ],
+      "a": 1,
+      "e": "Melting molecular solids mainly overcomes intermolecular attractions.",
+      "d": "Easy",
+      "topic": "Melting molecular solids",
+      "slo": "Explain and apply melting molecular solids in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-054",
+      "q": "What type of element commonly forms a cation by losing valence electrons?",
+      "o": [
+        "A noble gas only",
+        "A nonmetal with high electron affinity",
+        "A metal",
+        "A halogen only"
+      ],
+      "a": 2,
+      "e": "Metals commonly lose electrons to form positive ions.",
+      "d": "Medium",
+      "topic": "Ionic formation",
+      "slo": "Explain and apply ionic formation in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-055",
+      "q": "What type of element commonly forms an anion by gaining electrons?",
+      "o": [
+        "A transition metal only",
+        "A noble gas always",
+        "An alkali metal",
+        "A nonmetal"
+      ],
+      "a": 3,
+      "e": "Many nonmetals gain electrons to complete their valence shells.",
+      "d": "Medium",
+      "topic": "Ionic formation",
+      "slo": "Explain and apply ionic formation in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-056",
+      "q": "What generally happens to energy when a stable chemical bond forms?",
+      "o": [
+        "Energy becomes zero",
+        "Energy is released",
+        "Mass number increases",
+        "Energy is always absorbed without exception"
+      ],
+      "a": 1,
+      "e": "Formation of a stable bond generally releases energy.",
+      "d": "Medium",
+      "topic": "Bonding and energy",
+      "slo": "Explain and apply bonding and energy in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-057",
+      "q": "What is required to break a chemical bond?",
+      "o": [
+        "Addition of neutrons",
+        "Only a change of atomic number",
+        "Removal of all protons",
+        "Energy input"
+      ],
+      "a": 3,
+      "e": "Breaking chemical bonds requires energy.",
+      "d": "Easy",
+      "topic": "Bond breaking",
+      "slo": "Explain and apply bond breaking in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-058",
+      "q": "What does the formula MgCl2 indicate?",
+      "o": [
+        "One Mg for every two Cl in the formula unit",
+        "Two Mg for every Cl",
+        "One Mg for every Cl",
+        "Two neutral magnesium atoms per molecule"
+      ],
+      "a": 0,
+      "e": "Charge balance requires one Mg2+ with two Cl- ions.",
+      "d": "Medium",
+      "topic": "Chemical formula",
+      "slo": "Explain and apply chemical formula in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-059",
+      "q": "What does CaO represent?",
+      "o": [
+        "A 1:1 ratio of calcium to oxide ions",
+        "Two calcium ions for one oxide ion",
+        "A molecule containing Ca2O3",
+        "One calcium and two oxygen ions"
+      ],
+      "a": 0,
+      "e": "Ca2+ and O2- balance in a 1:1 ratio.",
+      "d": "Medium",
+      "topic": "Chemical formula",
+      "slo": "Explain and apply chemical formula in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-060",
+      "q": "What does Al2O3 represent?",
+      "o": [
+        "One aluminium ion per three oxide ions",
+        "Two aluminium atoms per oxygen atom",
+        "Two aluminium ions per three oxide ions",
+        "Three aluminium ions per two oxide ions"
+      ],
+      "a": 2,
+      "e": "2 Al3+ balance 3 O2-.",
+      "d": "Medium",
+      "topic": "Chemical formula",
+      "slo": "Explain and apply chemical formula in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-061",
+      "q": "How many valence electrons does a neutral chlorine atom have?",
+      "o": [
+        "2",
+        "1",
+        "7",
+        "8"
+      ],
+      "a": 2,
+      "e": "Chlorine is in group 17 and has seven valence electrons.",
+      "d": "Easy",
+      "topic": "Valence shell",
+      "slo": "Explain and apply valence shell in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-062",
+      "q": "How many valence electrons does a neutral magnesium atom have?",
+      "o": [
+        "2",
+        "7",
+        "1",
+        "8"
+      ],
+      "a": 0,
+      "e": "Magnesium is in group 2 and has two outer electrons.",
+      "d": "Medium",
+      "topic": "Valence shell",
+      "slo": "Explain and apply valence shell in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-063",
+      "q": "How many valence electrons does a neutral oxygen atom have?",
+      "o": [
+        "4",
+        "8",
+        "2",
+        "6"
+      ],
+      "a": 3,
+      "e": "Oxygen belongs to group 16 and has six valence electrons.",
+      "d": "Medium",
+      "topic": "Valence shell",
+      "slo": "Explain and apply valence shell in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-064",
+      "q": "How many valence electrons does a neutral carbon atom have?",
+      "o": [
+        "4",
+        "2",
+        "8",
+        "6"
+      ],
+      "a": 0,
+      "e": "Carbon is in group 14 and has four valence electrons.",
+      "d": "Medium",
+      "topic": "Valence shell",
+      "slo": "Explain and apply valence shell in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-065",
+      "q": "What bond is present between the two atoms in H2?",
+      "o": [
+        "Metallic bond",
+        "Nonpolar covalent bond",
+        "Coordinate bond only",
+        "Ionic bond"
+      ],
+      "a": 1,
+      "e": "Identical hydrogen atoms share a pair equally.",
+      "d": "Easy",
+      "topic": "Bond type",
+      "slo": "Explain and apply bond type in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-066",
+      "q": "What bond is present between the two atoms in Cl2?",
+      "o": [
+        "Metallic bond",
+        "Nonpolar covalent bond",
+        "Hydrogen bond",
+        "Ionic bond"
+      ],
+      "a": 1,
+      "e": "Identical chlorine atoms share electrons equally.",
+      "d": "Medium",
+      "topic": "Bond type",
+      "slo": "Explain and apply bond type in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-067",
+      "q": "What bond is present between Na and Cl in solid NaCl?",
+      "o": [
+        "Nonpolar covalent bond",
+        "Hydrogen bond",
+        "Metallic bond",
+        "Ionic bond"
+      ],
+      "a": 3,
+      "e": "Na+ and Cl- are held by electrostatic attraction.",
+      "d": "Medium",
+      "topic": "Bond type",
+      "slo": "Explain and apply bond type in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-068",
+      "q": "What bond is present between Mg and O in solid MgO?",
+      "o": [
+        "Nonpolar covalent bond",
+        "Metallic bond",
+        "Ionic bond",
+        "Hydrogen bond"
+      ],
+      "a": 2,
+      "e": "Mg2+ and O2- attract in an ionic lattice.",
+      "d": "Medium",
+      "topic": "Bond type",
+      "slo": "Explain and apply bond type in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-069",
+      "q": "What kind of bonding holds atoms together in a copper wire?",
+      "o": [
+        "Ionic bonding",
+        "Coordinate bonding only",
+        "Hydrogen bonding",
+        "Metallic bonding"
+      ],
+      "a": 3,
+      "e": "Copper has positive ion cores and delocalized electrons.",
+      "d": "Easy",
+      "topic": "Bond type",
+      "slo": "Explain and apply bond type in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-070",
+      "q": "What is the principal bond between C and H in methane?",
+      "o": [
+        "Ionic bonding",
+        "Metallic bonding",
+        "Covalent bonding",
+        "Hydrogen bonding"
+      ],
+      "a": 2,
+      "e": "Carbon and hydrogen share electrons in CH4.",
+      "d": "Medium",
+      "topic": "Bond type",
+      "slo": "Explain and apply bond type in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-071",
+      "q": "What type of bonding holds O and H atoms together within H2O?",
+      "o": [
+        "Metallic bonding",
+        "Polar covalent bonding",
+        "London forces only",
+        "Ionic lattice bonding"
+      ],
+      "a": 1,
+      "e": "The O-H bonds share electrons unequally.",
+      "d": "Medium",
+      "topic": "Bond type",
+      "slo": "Explain and apply bond type in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-072",
+      "q": "How many single covalent bonds does methane (CH4) contain?",
+      "o": [
+        "3",
+        "2",
+        "4",
+        "1"
+      ],
+      "a": 2,
+      "e": "Carbon shares one electron pair with each of four H atoms.",
+      "d": "Medium",
+      "topic": "Covalent molecules",
+      "slo": "Explain and apply covalent molecules in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-073",
+      "q": "How many O-H covalent bonds are in one water molecule?",
+      "o": [
+        "4",
+        "1",
+        "2",
+        "3"
+      ],
+      "a": 2,
+      "e": "H2O contains two O-H bonds.",
+      "d": "Easy",
+      "topic": "Covalent molecules",
+      "slo": "Explain and apply covalent molecules in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-074",
+      "q": "How many N-H covalent bonds are in ammonia (NH3)?",
+      "o": [
+        "3",
+        "1",
+        "2",
+        "4"
+      ],
+      "a": 0,
+      "e": "NH3 contains three N-H bonds.",
+      "d": "Medium",
+      "topic": "Covalent molecules",
+      "slo": "Explain and apply covalent molecules in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-075",
+      "q": "What is the bond order between the oxygen atoms in O2?",
+      "o": [
+        "3",
+        "2",
+        "1",
+        "4"
+      ],
+      "a": 1,
+      "e": "O2 is commonly represented with a double bond.",
+      "d": "Medium",
+      "topic": "Covalent molecules",
+      "slo": "Explain and apply covalent molecules in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-076",
+      "q": "What is the bond order between nitrogen atoms in N2?",
+      "o": [
+        "2",
+        "3",
+        "4",
+        "1"
+      ],
+      "a": 1,
+      "e": "N2 contains a triple covalent bond.",
+      "d": "Medium",
+      "topic": "Covalent molecules",
+      "slo": "Explain and apply covalent molecules in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-077",
+      "q": "How many lone pairs are on oxygen in H2O?",
+      "o": [
+        "1",
+        "3",
+        "2",
+        "0"
+      ],
+      "a": 2,
+      "e": "Oxygen has two bonding pairs and two lone pairs in water.",
+      "d": "Easy",
+      "topic": "Covalent molecules",
+      "slo": "Explain and apply covalent molecules in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-078",
+      "q": "How many lone pairs are on nitrogen in NH3?",
+      "o": [
+        "1",
+        "3",
+        "0",
+        "2"
+      ],
+      "a": 0,
+      "e": "Nitrogen has three bonding pairs and one lone pair in ammonia.",
+      "d": "Medium",
+      "topic": "Covalent molecules",
+      "slo": "Explain and apply covalent molecules in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-079",
+      "q": "How many lone pairs are on carbon in CH4?",
+      "o": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "a": 0,
+      "e": "Carbon uses all four valence electrons in four bonds.",
+      "d": "Medium",
+      "topic": "Covalent molecules",
+      "slo": "Explain and apply covalent molecules in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-080",
+      "q": "How many lone pairs are on each chlorine atom in Cl2?",
+      "o": [
+        "2",
+        "1",
+        "3",
+        "0"
+      ],
+      "a": 2,
+      "e": "Each chlorine has one bond pair and three lone pairs.",
+      "d": "Medium",
+      "topic": "Covalent molecules",
+      "slo": "Explain and apply covalent molecules in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-081",
+      "q": "How many lone pairs are on each oxygen atom in O2?",
+      "o": [
+        "1",
+        "2",
+        "0",
+        "3"
+      ],
+      "a": 1,
+      "e": "Each oxygen has two lone pairs in the usual O=O Lewis structure.",
+      "d": "Easy",
+      "topic": "Covalent molecules",
+      "slo": "Explain and apply covalent molecules in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-082",
+      "q": "What happens to the force of attraction between opposite ions as their separation decreases?",
+      "o": [
+        "It becomes stronger",
+        "It becomes repulsive in every case",
+        "It becomes zero",
+        "It is independent of distance"
+      ],
+      "a": 0,
+      "e": "Coulombic attraction generally increases as ions approach.",
+      "d": "Medium",
+      "topic": "Electrostatic attraction",
+      "slo": "Explain and apply electrostatic attraction in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-083",
+      "q": "What charge does a group 1 metal ion commonly carry?",
+      "o": [
+        "-1",
+        "+2",
+        "-2",
+        "+1"
+      ],
+      "a": 3,
+      "e": "Group 1 metals usually lose one valence electron.",
+      "d": "Medium",
+      "topic": "Ionic charge",
+      "slo": "Explain and apply ionic charge in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-084",
+      "q": "What charge does a group 2 metal ion commonly carry?",
+      "o": [
+        "-2",
+        "-1",
+        "+1",
+        "+2"
+      ],
+      "a": 3,
+      "e": "Group 2 metals usually lose two valence electrons.",
+      "d": "Medium",
+      "topic": "Ionic charge",
+      "slo": "Explain and apply ionic charge in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-085",
+      "q": "What charge does a group 17 nonmetal ion commonly carry?",
+      "o": [
+        "+2",
+        "+1",
+        "-2",
+        "-1"
+      ],
+      "a": 3,
+      "e": "Halogens commonly gain one electron.",
+      "d": "Easy",
+      "topic": "Ionic charge",
+      "slo": "Explain and apply ionic charge in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-086",
+      "q": "What charge does a group 16 nonmetal ion commonly carry?",
+      "o": [
+        "-1",
+        "+1",
+        "-2",
+        "+2"
+      ],
+      "a": 2,
+      "e": "Group 16 nonmetals commonly gain two electrons.",
+      "d": "Medium",
+      "topic": "Ionic charge",
+      "slo": "Explain and apply ionic charge in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-087",
+      "q": "What must be overcome when liquid water boils?",
+      "o": [
+        "Every electron in water",
+        "All O-H covalent bonds in water",
+        "Intermolecular attractions between water molecules",
+        "All oxygen nuclei"
+      ],
+      "a": 2,
+      "e": "Boiling separates intact H2O molecules from one another.",
+      "d": "Medium",
+      "topic": "Intermolecular forces",
+      "slo": "Explain and apply intermolecular forces in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-088",
+      "q": "Which pure substance shows extensive hydrogen bonding?",
+      "o": [
+        "Sodium chloride (NaCl)",
+        "Carbon dioxide (CO2)",
+        "Water (H2O)",
+        "Methane (CH4)"
+      ],
+      "a": 2,
+      "e": "O-H bonds and oxygen lone pairs allow water to hydrogen bond.",
+      "d": "Medium",
+      "topic": "Hydrogen bonding",
+      "slo": "Explain and apply hydrogen bonding in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-089",
+      "q": "Which molecule can form hydrogen bonds between its own molecules?",
+      "o": [
+        "Methane (CH4)",
+        "Ammonia (NH3)",
+        "Hydrogen chloride (HCl)",
+        "Carbon dioxide (CO2)"
+      ],
+      "a": 1,
+      "e": "N-H bonds and nitrogen lone pairs permit hydrogen bonding.",
+      "d": "Easy",
+      "topic": "Hydrogen bonding",
+      "slo": "Explain and apply hydrogen bonding in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-090",
+      "q": "Which hydrogen halide can form strong hydrogen bonds between its own molecules?",
+      "o": [
+        "Methane (CH4)",
+        "Hydrogen iodide (HI)",
+        "Hydrogen fluoride (HF)",
+        "Hydrogen bromide (HBr)"
+      ],
+      "a": 2,
+      "e": "H-F bonds and fluorine lone pairs permit hydrogen bonding.",
+      "d": "Medium",
+      "topic": "Hydrogen bonding",
+      "slo": "Explain and apply hydrogen bonding in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-091",
+      "q": "Which molecule is nonpolar overall despite having polar C=O bonds?",
+      "o": [
+        "Water (H2O)",
+        "Carbon dioxide (CO2)",
+        "Hydrogen chloride (HCl)",
+        "Ammonia (NH3)"
+      ],
+      "a": 1,
+      "e": "The two C=O bond dipoles cancel in linear CO2.",
+      "d": "Medium",
+      "topic": "Molecular polarity",
+      "slo": "Explain and apply molecular polarity in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-092",
+      "q": "Which molecule has a net molecular dipole?",
+      "o": [
+        "Water (H2O)",
+        "Methane (CH4)",
+        "Carbon dioxide (CO2)",
+        "Oxygen (O2)"
+      ],
+      "a": 0,
+      "e": "Bent H2O has bond dipoles that do not cancel.",
+      "d": "Medium",
+      "topic": "Molecular polarity",
+      "slo": "Explain and apply molecular polarity in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-093",
+      "q": "Why is methane (CH4) nonpolar overall?",
+      "o": [
+        "Its symmetric shape makes bond dipoles cancel",
+        "It is an ionic compound",
+        "It contains no electrons",
+        "It has a permanent net positive charge"
+      ],
+      "a": 0,
+      "e": "Symmetric tetrahedral CH4 has no net dipole.",
+      "d": "Easy",
+      "topic": "Molecular polarity",
+      "slo": "Explain and apply molecular polarity in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-094",
+      "q": "What is the approximate shape of methane (CH4)?",
+      "o": [
+        "Tetrahedral",
+        "Trigonal planar",
+        "Bent",
+        "Linear"
+      ],
+      "a": 0,
+      "e": "Four bonding electron pairs arrange tetrahedrally.",
+      "d": "Medium",
+      "topic": "Electron pair repulsion",
+      "slo": "Explain and apply electron pair repulsion in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-095",
+      "q": "What is the approximate shape of water (H2O)?",
+      "o": [
+        "Linear",
+        "Bent",
+        "Trigonal planar",
+        "Tetrahedral with four atoms"
+      ],
+      "a": 1,
+      "e": "Two lone pairs on oxygen produce a bent molecular shape.",
+      "d": "Medium",
+      "topic": "Electron pair repulsion",
+      "slo": "Explain and apply electron pair repulsion in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-096",
+      "q": "What is the approximate shape of carbon dioxide (CO2)?",
+      "o": [
+        "Trigonal pyramidal",
+        "Tetrahedral",
+        "Bent",
+        "Linear"
+      ],
+      "a": 3,
+      "e": "Two electron regions around carbon give linear geometry.",
+      "d": "Medium",
+      "topic": "Electron pair repulsion",
+      "slo": "Explain and apply electron pair repulsion in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-097",
+      "q": "What is the approximate shape of ammonia (NH3)?",
+      "o": [
+        "Trigonal planar",
+        "Linear",
+        "Trigonal pyramidal",
+        "Square planar"
+      ],
+      "a": 2,
+      "e": "Three bonds and one lone pair give NH3 a pyramidal shape.",
+      "d": "Easy",
+      "topic": "Electron pair repulsion",
+      "slo": "Explain and apply electron pair repulsion in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-098",
+      "q": "Which is generally shorter and stronger between the same two atoms?",
+      "o": [
+        "A triple bond compared with a single bond",
+        "A single bond compared with a triple bond",
+        "A hydrogen bond compared with a covalent bond",
+        "An intermolecular force compared with a covalent bond"
+      ],
+      "a": 0,
+      "e": "Greater bond order typically means shorter, stronger bonds.",
+      "d": "Medium",
+      "topic": "Bond strength",
+      "slo": "Explain and apply bond strength in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-099",
+      "q": "Which carbon-carbon bond generally has the greatest bond order?",
+      "o": [
+        "C=C",
+        "C≡C",
+        "All have bond order one",
+        "C-C"
+      ],
+      "a": 1,
+      "e": "A carbon-carbon triple bond has bond order three.",
+      "d": "Medium",
+      "topic": "Bond strength",
+      "slo": "Explain and apply bond strength in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-100",
+      "q": "Which substance is an ionic compound?",
+      "o": [
+        "Potassium bromide (KBr)",
+        "Carbon dioxide (CO2)",
+        "Oxygen (O2)",
+        "Methane (CH4)"
+      ],
+      "a": 0,
+      "e": "K+ and Br- ions form an ionic solid.",
+      "d": "Medium",
+      "topic": "Ionic compounds",
+      "slo": "Explain and apply ionic compounds in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-101",
+      "q": "Which substance consists of discrete covalent molecules?",
+      "o": [
+        "Magnesium oxide (MgO)",
+        "Calcium fluoride (CaF2)",
+        "Carbon dioxide (CO2)",
+        "Sodium chloride (NaCl)"
+      ],
+      "a": 2,
+      "e": "CO2 contains covalently bonded molecular units.",
+      "d": "Easy",
+      "topic": "Molecular compounds",
+      "slo": "Explain and apply molecular compounds in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-102",
+      "q": "Which solid has a giant covalent structure?",
+      "o": [
+        "Solid carbon dioxide",
+        "Iodine crystals",
+        "Solid argon",
+        "Diamond"
+      ],
+      "a": 3,
+      "e": "Diamond is an extended covalent network rather than discrete molecules.",
+      "d": "Medium",
+      "topic": "Giant covalent structures",
+      "slo": "Explain and apply giant covalent structures in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-103",
+      "q": "Which sample is held together mainly by metallic bonds?",
+      "o": [
+        "Solid sodium chloride",
+        "Ice",
+        "Solid iodine",
+        "Aluminium foil"
+      ],
+      "a": 3,
+      "e": "Aluminium is a metal with delocalized electrons.",
+      "d": "Medium",
+      "topic": "Metallic solids",
+      "slo": "Explain and apply metallic solids in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-104",
+      "q": "What happens to the polarity of a bond as the electronegativity difference increases?",
+      "o": [
+        "The bond must become metallic",
+        "Bond polarity always decreases",
+        "Both atoms lose their protons",
+        "Bond polarity generally increases"
+      ],
+      "a": 3,
+      "e": "A larger electronegativity difference generally increases charge separation.",
+      "d": "Medium",
+      "topic": "Bond polarity",
+      "slo": "Explain and apply bond polarity in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-105",
+      "q": "Which pair of elements is most likely to form an ionic compound?",
+      "o": [
+        "A metal and a nonmetal",
+        "Two carbon atoms",
+        "Two identical nonmetals",
+        "Two noble gases"
+      ],
+      "a": 0,
+      "e": "Metal-nonmetal combinations commonly involve electron transfer and ionic attraction.",
+      "d": "Easy",
+      "topic": "Ionic versus covalent",
+      "slo": "Explain and apply ionic versus covalent in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-106",
+      "q": "Which pair of elements is most likely to form a covalent molecule?",
+      "o": [
+        "Two nonmetals",
+        "A metal and its cation",
+        "Two alkali metals",
+        "Two metal cations"
+      ],
+      "a": 0,
+      "e": "Nonmetals commonly share electrons.",
+      "d": "Medium",
+      "topic": "Ionic versus covalent",
+      "slo": "Explain and apply ionic versus covalent in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-107",
+      "q": "Why is an ionic compound electrically neutral overall?",
+      "o": [
+        "Total positive charge equals total negative charge",
+        "Every ion is neutral",
+        "It contains no ions",
+        "Its electrons have no charge"
+      ],
+      "a": 0,
+      "e": "The simplest formula balances cation and anion charges.",
+      "d": "Medium",
+      "topic": "Ionic charge balance",
+      "slo": "Explain and apply ionic charge balance in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-108",
+      "q": "Why is the formula of sodium chloride written NaCl rather than Na2Cl?",
+      "o": [
+        "Chloride has charge -2",
+        "Na+ and Cl- combine in a 1:1 charge-balanced ratio",
+        "Chlorine is a metal",
+        "Sodium has charge +2"
+      ],
+      "a": 1,
+      "e": "One +1 and one -1 ion give net zero charge.",
+      "d": "Medium",
+      "topic": "Ionic compounds",
+      "slo": "Explain and apply ionic compounds in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-109",
+      "q": "Why is magnesium chloride written MgCl2?",
+      "o": [
+        "Chloride has charge -2",
+        "One Mg2+ requires two Cl- ions",
+        "The compound contains two Mg atoms per Cl",
+        "Magnesium always forms Mg+"
+      ],
+      "a": 1,
+      "e": "Two chloride ions balance the +2 charge on Mg.",
+      "d": "Easy",
+      "topic": "Ionic compounds",
+      "slo": "Explain and apply ionic compounds in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-110",
+      "q": "Why is aluminium oxide written Al2O3?",
+      "o": [
+        "It is a simple diatomic molecule",
+        "Two Al3+ ions balance three O2- ions",
+        "Aluminium forms Al2+",
+        "Oxygen forms O3-"
+      ],
+      "a": 1,
+      "e": "Total charges +6 and -6 balance.",
+      "d": "Medium",
+      "topic": "Ionic compounds",
+      "slo": "Explain and apply ionic compounds in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-111",
+      "q": "What is the simplest formula of the ionic compound formed by aluminium and oxide ions?",
+      "o": [
+        "Al3O",
+        "AlO",
+        "Al2O",
+        "Al2O3"
+      ],
+      "a": 3,
+      "e": "Al has charge +3 and O has charge -2; the subscripts give the lowest whole-number charge-balanced ratio.",
+      "d": "Medium",
+      "topic": "Writing ionic formulas",
+      "slo": "Explain and apply writing ionic formulas in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-112",
+      "q": "What is the simplest formula of the ionic compound formed by aluminium and sulfide ions?",
+      "o": [
+        "Al3S2",
+        "Al2S3",
+        "AlS3",
+        "Al2S"
+      ],
+      "a": 1,
+      "e": "Al has charge +3 and S has charge -2; the subscripts give the lowest whole-number charge-balanced ratio.",
+      "d": "Medium",
+      "topic": "Writing ionic formulas",
+      "slo": "Explain and apply writing ionic formulas in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-113",
+      "q": "What is the simplest formula of the ionic compound formed by aluminium and chloride ions?",
+      "o": [
+        "AlCl3",
+        "ClAl",
+        "Al2Cl",
+        "Al3Cl2"
+      ],
+      "a": 0,
+      "e": "Al has charge +3 and Cl has charge -1; the subscripts give the lowest whole-number charge-balanced ratio.",
+      "d": "Medium",
+      "topic": "Writing ionic formulas",
+      "slo": "Explain and apply writing ionic formulas in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-114",
+      "q": "What is the simplest formula of the ionic compound formed by calcium and fluoride ions?",
+      "o": [
+        "CaF",
+        "Ca3F",
+        "Ca2F3",
+        "CaF2"
+      ],
+      "a": 3,
+      "e": "Ca has charge +2 and F has charge -1; the subscripts give the lowest whole-number charge-balanced ratio.",
+      "d": "Medium",
+      "topic": "Writing ionic formulas",
+      "slo": "Explain and apply writing ionic formulas in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-115",
+      "q": "What is the simplest formula of the ionic compound formed by barium and fluoride ions?",
+      "o": [
+        "Ba3F2",
+        "BaF2",
+        "Ba2F",
+        "Ba3F"
+      ],
+      "a": 1,
+      "e": "Ba has charge +2 and F has charge -1; the subscripts give the lowest whole-number charge-balanced ratio.",
+      "d": "Medium",
+      "topic": "Writing ionic formulas",
+      "slo": "Explain and apply writing ionic formulas in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-116",
+      "q": "What is the simplest formula of the ionic compound formed by calcium and nitride ions?",
+      "o": [
+        "CaN3",
+        "Ca3N2",
+        "CaN",
+        "CaN2"
+      ],
+      "a": 1,
+      "e": "Ca has charge +2 and N has charge -3; the subscripts give the lowest whole-number charge-balanced ratio.",
+      "d": "Medium",
+      "topic": "Writing ionic formulas",
+      "slo": "Explain and apply writing ionic formulas in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-117",
+      "q": "What is the simplest formula of the ionic compound formed by calcium and chloride ions?",
+      "o": [
+        "Ca2Cl",
+        "CaCl",
+        "ClCa",
+        "CaCl2"
+      ],
+      "a": 3,
+      "e": "Ca has charge +2 and Cl has charge -1; the subscripts give the lowest whole-number charge-balanced ratio.",
+      "d": "Medium",
+      "topic": "Writing ionic formulas",
+      "slo": "Explain and apply writing ionic formulas in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-118",
+      "q": "What is the simplest formula of the ionic compound formed by sodium and nitride ions?",
+      "o": [
+        "Na2N",
+        "Na2N3",
+        "NaN3",
+        "Na3N"
+      ],
+      "a": 3,
+      "e": "Na has charge +1 and N has charge -3; the subscripts give the lowest whole-number charge-balanced ratio.",
+      "d": "Medium",
+      "topic": "Writing ionic formulas",
+      "slo": "Explain and apply writing ionic formulas in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-119",
+      "q": "What is the simplest formula of the ionic compound formed by aluminium and fluoride ions?",
+      "o": [
+        "Al2F",
+        "AlF3",
+        "AlF2",
+        "AlF"
+      ],
+      "a": 1,
+      "e": "Al has charge +3 and F has charge -1; the subscripts give the lowest whole-number charge-balanced ratio.",
+      "d": "Medium",
+      "topic": "Writing ionic formulas",
+      "slo": "Explain and apply writing ionic formulas in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-120",
+      "q": "What is the simplest formula of the ionic compound formed by potassium and chloride ions?",
+      "o": [
+        "KCl",
+        "K3Cl",
+        "K3Cl2",
+        "KCl3"
+      ],
+      "a": 0,
+      "e": "K has charge +1 and Cl has charge -1; the subscripts give the lowest whole-number charge-balanced ratio.",
+      "d": "Medium",
+      "topic": "Writing ionic formulas",
+      "slo": "Explain and apply writing ionic formulas in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-121",
+      "q": "What is the simplest formula of the ionic compound formed by calcium and sulfide ions?",
+      "o": [
+        "Ca2S3",
+        "CaS2",
+        "CaS",
+        "SCa"
+      ],
+      "a": 2,
+      "e": "Ca has charge +2 and S has charge -2; the subscripts give the lowest whole-number charge-balanced ratio.",
+      "d": "Medium",
+      "topic": "Writing ionic formulas",
+      "slo": "Explain and apply writing ionic formulas in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-122",
+      "q": "What is the simplest formula of the ionic compound formed by lithium and bromide ions?",
+      "o": [
+        "Li2Br3",
+        "LiBr",
+        "Li2Br",
+        "Li3Br"
+      ],
+      "a": 1,
+      "e": "Li has charge +1 and Br has charge -1; the subscripts give the lowest whole-number charge-balanced ratio.",
+      "d": "Medium",
+      "topic": "Writing ionic formulas",
+      "slo": "Explain and apply writing ionic formulas in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-123",
+      "q": "What is the simplest formula of the ionic compound formed by barium and sulfide ions?",
+      "o": [
+        "Ba2S",
+        "Ba3S2",
+        "BaS2",
+        "BaS"
+      ],
+      "a": 3,
+      "e": "Ba has charge +2 and S has charge -2; the subscripts give the lowest whole-number charge-balanced ratio.",
+      "d": "Medium",
+      "topic": "Writing ionic formulas",
+      "slo": "Explain and apply writing ionic formulas in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-124",
+      "q": "What is the simplest formula of the ionic compound formed by sodium and sulfide ions?",
+      "o": [
+        "SNa",
+        "Na2S",
+        "NaS",
+        "NaS2"
+      ],
+      "a": 1,
+      "e": "Na has charge +1 and S has charge -2; the subscripts give the lowest whole-number charge-balanced ratio.",
+      "d": "Medium",
+      "topic": "Writing ionic formulas",
+      "slo": "Explain and apply writing ionic formulas in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-125",
+      "q": "What is the simplest formula of the ionic compound formed by lithium and chloride ions?",
+      "o": [
+        "Li3Cl",
+        "LiCl",
+        "LiCl3",
+        "ClLi"
+      ],
+      "a": 1,
+      "e": "Li has charge +1 and Cl has charge -1; the subscripts give the lowest whole-number charge-balanced ratio.",
+      "d": "Medium",
+      "topic": "Writing ionic formulas",
+      "slo": "Explain and apply writing ionic formulas in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-126",
+      "q": "What is the simplest formula of the ionic compound formed by aluminium and bromide ions?",
+      "o": [
+        "Al3Br2",
+        "AlBr3",
+        "Al3Br",
+        "BrAl"
+      ],
+      "a": 1,
+      "e": "Al has charge +3 and Br has charge -1; the subscripts give the lowest whole-number charge-balanced ratio.",
+      "d": "Medium",
+      "topic": "Writing ionic formulas",
+      "slo": "Explain and apply writing ionic formulas in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-127",
+      "q": "What is the simplest formula of the ionic compound formed by magnesium and oxide ions?",
+      "o": [
+        "Mg2O",
+        "Mg3O",
+        "MgO",
+        "Mg2O3"
+      ],
+      "a": 2,
+      "e": "Mg has charge +2 and O has charge -2; the subscripts give the lowest whole-number charge-balanced ratio.",
+      "d": "Medium",
+      "topic": "Writing ionic formulas",
+      "slo": "Explain and apply writing ionic formulas in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-128",
+      "q": "What is the simplest formula of the ionic compound formed by magnesium and chloride ions?",
+      "o": [
+        "Mg3Cl",
+        "ClMg",
+        "MgCl3",
+        "MgCl2"
+      ],
+      "a": 3,
+      "e": "Mg has charge +2 and Cl has charge -1; the subscripts give the lowest whole-number charge-balanced ratio.",
+      "d": "Medium",
+      "topic": "Writing ionic formulas",
+      "slo": "Explain and apply writing ionic formulas in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-129",
+      "q": "What is the simplest formula of the ionic compound formed by potassium and sulfide ions?",
+      "o": [
+        "KS",
+        "KS2",
+        "K2S",
+        "K3S"
+      ],
+      "a": 2,
+      "e": "K has charge +1 and S has charge -2; the subscripts give the lowest whole-number charge-balanced ratio.",
+      "d": "Medium",
+      "topic": "Writing ionic formulas",
+      "slo": "Explain and apply writing ionic formulas in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-130",
+      "q": "What is the simplest formula of the ionic compound formed by lithium and nitride ions?",
+      "o": [
+        "Li2N3",
+        "LiN3",
+        "Li3N",
+        "NLi"
+      ],
+      "a": 2,
+      "e": "Li has charge +1 and N has charge -3; the subscripts give the lowest whole-number charge-balanced ratio.",
+      "d": "Medium",
+      "topic": "Writing ionic formulas",
+      "slo": "Explain and apply writing ionic formulas in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-131",
+      "q": "What is the simplest formula of the ionic compound formed by potassium and bromide ions?",
+      "o": [
+        "KBr3",
+        "K2Br",
+        "K2Br3",
+        "KBr"
+      ],
+      "a": 3,
+      "e": "K has charge +1 and Br has charge -1; the subscripts give the lowest whole-number charge-balanced ratio.",
+      "d": "Medium",
+      "topic": "Writing ionic formulas",
+      "slo": "Explain and apply writing ionic formulas in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-132",
+      "q": "What is the simplest formula of the ionic compound formed by lithium and oxide ions?",
+      "o": [
+        "Li2O",
+        "Li3O",
+        "Li2O3",
+        "OLi"
+      ],
+      "a": 0,
+      "e": "Li has charge +1 and O has charge -2; the subscripts give the lowest whole-number charge-balanced ratio.",
+      "d": "Medium",
+      "topic": "Writing ionic formulas",
+      "slo": "Explain and apply writing ionic formulas in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-133",
+      "q": "What is the simplest formula of the ionic compound formed by magnesium and bromide ions?",
+      "o": [
+        "MgBr2",
+        "Mg3Br",
+        "MgBr",
+        "BrMg"
+      ],
+      "a": 0,
+      "e": "Mg has charge +2 and Br has charge -1; the subscripts give the lowest whole-number charge-balanced ratio.",
+      "d": "Medium",
+      "topic": "Writing ionic formulas",
+      "slo": "Explain and apply writing ionic formulas in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-134",
+      "q": "What is the simplest formula of the ionic compound formed by sodium and fluoride ions?",
+      "o": [
+        "Na2F3",
+        "NaF",
+        "Na3F2",
+        "NaF3"
+      ],
+      "a": 1,
+      "e": "Na has charge +1 and F has charge -1; the subscripts give the lowest whole-number charge-balanced ratio.",
+      "d": "Medium",
+      "topic": "Writing ionic formulas",
+      "slo": "Explain and apply writing ionic formulas in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-135",
+      "q": "What is the simplest formula of the ionic compound formed by barium and nitride ions?",
+      "o": [
+        "BaN2",
+        "Ba3N",
+        "Ba3N2",
+        "BaN3"
+      ],
+      "a": 2,
+      "e": "Ba has charge +2 and N has charge -3; the subscripts give the lowest whole-number charge-balanced ratio.",
+      "d": "Medium",
+      "topic": "Writing ionic formulas",
+      "slo": "Explain and apply writing ionic formulas in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-136",
+      "q": "What is the simplest formula of the ionic compound formed by calcium and bromide ions?",
+      "o": [
+        "CaBr3",
+        "CaBr2",
+        "BrCa",
+        "Ca3Br2"
+      ],
+      "a": 1,
+      "e": "Ca has charge +2 and Br has charge -1; the subscripts give the lowest whole-number charge-balanced ratio.",
+      "d": "Medium",
+      "topic": "Writing ionic formulas",
+      "slo": "Explain and apply writing ionic formulas in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-137",
+      "q": "What is the simplest formula of the ionic compound formed by magnesium and nitride ions?",
+      "o": [
+        "Mg3N2",
+        "NMg",
+        "Mg2N",
+        "Mg2N3"
+      ],
+      "a": 0,
+      "e": "Mg has charge +2 and N has charge -3; the subscripts give the lowest whole-number charge-balanced ratio.",
+      "d": "Medium",
+      "topic": "Writing ionic formulas",
+      "slo": "Explain and apply writing ionic formulas in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-138",
+      "q": "What is the simplest formula of the ionic compound formed by magnesium and sulfide ions?",
+      "o": [
+        "MgS",
+        "Mg3S",
+        "Mg2S3",
+        "Mg2S"
+      ],
+      "a": 0,
+      "e": "Mg has charge +2 and S has charge -2; the subscripts give the lowest whole-number charge-balanced ratio.",
+      "d": "Medium",
+      "topic": "Writing ionic formulas",
+      "slo": "Explain and apply writing ionic formulas in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-139",
+      "q": "What is the simplest formula of the ionic compound formed by sodium and chloride ions?",
+      "o": [
+        "NaCl2",
+        "Na3Cl2",
+        "NaCl",
+        "NaCl3"
+      ],
+      "a": 2,
+      "e": "Na has charge +1 and Cl has charge -1; the subscripts give the lowest whole-number charge-balanced ratio.",
+      "d": "Medium",
+      "topic": "Writing ionic formulas",
+      "slo": "Explain and apply writing ionic formulas in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-140",
+      "q": "What is the simplest formula of the ionic compound formed by potassium and oxide ions?",
+      "o": [
+        "K2O",
+        "K2O3",
+        "KO3",
+        "KO"
+      ],
+      "a": 0,
+      "e": "K has charge +1 and O has charge -2; the subscripts give the lowest whole-number charge-balanced ratio.",
+      "d": "Medium",
+      "topic": "Writing ionic formulas",
+      "slo": "Explain and apply writing ionic formulas in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-141",
+      "q": "What is the simplest formula of the ionic compound formed by barium and chloride ions?",
+      "o": [
+        "BaCl2",
+        "BaCl",
+        "Ba3Cl2",
+        "Ba2Cl"
+      ],
+      "a": 0,
+      "e": "Ba has charge +2 and Cl has charge -1; the subscripts give the lowest whole-number charge-balanced ratio.",
+      "d": "Medium",
+      "topic": "Writing ionic formulas",
+      "slo": "Explain and apply writing ionic formulas in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-142",
+      "q": "What is the simplest formula of the ionic compound formed by sodium and oxide ions?",
+      "o": [
+        "NaO",
+        "Na2O3",
+        "Na2O",
+        "Na3O2"
+      ],
+      "a": 2,
+      "e": "Na has charge +1 and O has charge -2; the subscripts give the lowest whole-number charge-balanced ratio.",
+      "d": "Medium",
+      "topic": "Writing ionic formulas",
+      "slo": "Explain and apply writing ionic formulas in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-143",
+      "q": "What is the simplest formula of the ionic compound formed by lithium and sulfide ions?",
+      "o": [
+        "SLi",
+        "Li2S",
+        "Li2S3",
+        "LiS3"
+      ],
+      "a": 1,
+      "e": "Li has charge +1 and S has charge -2; the subscripts give the lowest whole-number charge-balanced ratio.",
+      "d": "Medium",
+      "topic": "Writing ionic formulas",
+      "slo": "Explain and apply writing ionic formulas in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-144",
+      "q": "What is the simplest formula of the ionic compound formed by sodium and bromide ions?",
+      "o": [
+        "NaBr",
+        "Na2Br3",
+        "Na2Br",
+        "Na3Br"
+      ],
+      "a": 0,
+      "e": "Na has charge +1 and Br has charge -1; the subscripts give the lowest whole-number charge-balanced ratio.",
+      "d": "Medium",
+      "topic": "Writing ionic formulas",
+      "slo": "Explain and apply writing ionic formulas in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-145",
+      "q": "What is the simplest formula of the ionic compound formed by barium and bromide ions?",
+      "o": [
+        "BaBr",
+        "Ba3Br2",
+        "BaBr2",
+        "Ba2Br3"
+      ],
+      "a": 2,
+      "e": "Ba has charge +2 and Br has charge -1; the subscripts give the lowest whole-number charge-balanced ratio.",
+      "d": "Medium",
+      "topic": "Writing ionic formulas",
+      "slo": "Explain and apply writing ionic formulas in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-146",
+      "q": "What is the simplest formula of the ionic compound formed by aluminium and nitride ions?",
+      "o": [
+        "Al3N",
+        "AlN3",
+        "Al3N2",
+        "AlN"
+      ],
+      "a": 3,
+      "e": "Al has charge +3 and N has charge -3; the subscripts give the lowest whole-number charge-balanced ratio.",
+      "d": "Medium",
+      "topic": "Writing ionic formulas",
+      "slo": "Explain and apply writing ionic formulas in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-147",
+      "q": "What is the simplest formula of the ionic compound formed by potassium and fluoride ions?",
+      "o": [
+        "K2F3",
+        "FK",
+        "K3F2",
+        "KF"
+      ],
+      "a": 3,
+      "e": "K has charge +1 and F has charge -1; the subscripts give the lowest whole-number charge-balanced ratio.",
+      "d": "Medium",
+      "topic": "Writing ionic formulas",
+      "slo": "Explain and apply writing ionic formulas in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-148",
+      "q": "What is the simplest formula of the ionic compound formed by potassium and nitride ions?",
+      "o": [
+        "KN",
+        "KN3",
+        "KN2",
+        "K3N"
+      ],
+      "a": 3,
+      "e": "K has charge +1 and N has charge -3; the subscripts give the lowest whole-number charge-balanced ratio.",
+      "d": "Medium",
+      "topic": "Writing ionic formulas",
+      "slo": "Explain and apply writing ionic formulas in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-149",
+      "q": "What is the simplest formula of the ionic compound formed by lithium and fluoride ions?",
+      "o": [
+        "LiF",
+        "LiF2",
+        "Li2F",
+        "Li2F3"
+      ],
+      "a": 0,
+      "e": "Li has charge +1 and F has charge -1; the subscripts give the lowest whole-number charge-balanced ratio.",
+      "d": "Medium",
+      "topic": "Writing ionic formulas",
+      "slo": "Explain and apply writing ionic formulas in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-150",
+      "q": "What is the simplest formula of the ionic compound formed by barium and oxide ions?",
+      "o": [
+        "Ba2O3",
+        "OBa",
+        "BaO",
+        "BaO3"
+      ],
+      "a": 2,
+      "e": "Ba has charge +2 and O has charge -2; the subscripts give the lowest whole-number charge-balanced ratio.",
+      "d": "Medium",
+      "topic": "Writing ionic formulas",
+      "slo": "Explain and apply writing ionic formulas in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-151",
+      "q": "What is the simplest formula of the ionic compound formed by calcium and oxide ions?",
+      "o": [
+        "CaO",
+        "OCa",
+        "CaO2",
+        "Ca3O2"
+      ],
+      "a": 0,
+      "e": "Ca has charge +2 and O has charge -2; the subscripts give the lowest whole-number charge-balanced ratio.",
+      "d": "Medium",
+      "topic": "Writing ionic formulas",
+      "slo": "Explain and apply writing ionic formulas in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-152",
+      "q": "What is the simplest formula of the ionic compound formed by magnesium and fluoride ions?",
+      "o": [
+        "MgF2",
+        "Mg3F2",
+        "FMg",
+        "Mg2F"
+      ],
+      "a": 0,
+      "e": "Mg has charge +2 and F has charge -1; the subscripts give the lowest whole-number charge-balanced ratio.",
+      "d": "Medium",
+      "topic": "Writing ionic formulas",
+      "slo": "Explain and apply writing ionic formulas in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-153",
+      "q": "How many electrons are in the common Li ion with charge +1?",
+      "o": [
+        "6",
+        "4",
+        "2",
+        "0"
+      ],
+      "a": 2,
+      "e": "Electrons = atomic number - ionic charge = 3 - (+1) = 2.",
+      "d": "Medium",
+      "topic": "Electrons in ions",
+      "slo": "Explain and apply electrons in ions in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-154",
+      "q": "When a neutral lithium atom forms its common ion (Li, charge +1), what happens to its electrons?",
+      "o": [
+        "1 proton(s) gained",
+        "1 electron lost",
+        "1 electron gained",
+        "1 neutron(s) lost"
+      ],
+      "a": 1,
+      "e": "The ionic charge +1 is caused by loss of 1 electron(s).",
+      "d": "Medium",
+      "topic": "Ion formation",
+      "slo": "Explain and apply ion formation in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-155",
+      "q": "How many electrons are in the common Na ion with charge +1?",
+      "o": [
+        "14",
+        "11",
+        "12",
+        "10"
+      ],
+      "a": 3,
+      "e": "Electrons = atomic number - ionic charge = 11 - (+1) = 10.",
+      "d": "Medium",
+      "topic": "Electrons in ions",
+      "slo": "Explain and apply electrons in ions in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-156",
+      "q": "When a neutral sodium atom forms its common ion (Na, charge +1), what happens to its electrons?",
+      "o": [
+        "1 electron gained",
+        "1 proton(s) gained",
+        "1 electron lost",
+        "1 neutron(s) lost"
+      ],
+      "a": 2,
+      "e": "The ionic charge +1 is caused by loss of 1 electron(s).",
+      "d": "Medium",
+      "topic": "Ion formation",
+      "slo": "Explain and apply ion formation in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-157",
+      "q": "How many electrons are in the common K ion with charge +1?",
+      "o": [
+        "16",
+        "22",
+        "19",
+        "18"
+      ],
+      "a": 3,
+      "e": "Electrons = atomic number - ionic charge = 19 - (+1) = 18.",
+      "d": "Medium",
+      "topic": "Electrons in ions",
+      "slo": "Explain and apply electrons in ions in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-158",
+      "q": "When a neutral potassium atom forms its common ion (K, charge +1), what happens to its electrons?",
+      "o": [
+        "1 proton(s) gained",
+        "1 electron gained",
+        "1 electron lost",
+        "1 neutron(s) lost"
+      ],
+      "a": 2,
+      "e": "The ionic charge +1 is caused by loss of 1 electron(s).",
+      "d": "Medium",
+      "topic": "Ion formation",
+      "slo": "Explain and apply ion formation in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-159",
+      "q": "How many electrons are in the common Mg ion with charge +2?",
+      "o": [
+        "10",
+        "16",
+        "8",
+        "14"
+      ],
+      "a": 0,
+      "e": "Electrons = atomic number - ionic charge = 12 - (+2) = 10.",
+      "d": "Medium",
+      "topic": "Electrons in ions",
+      "slo": "Explain and apply electrons in ions in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-160",
+      "q": "When a neutral magnesium atom forms its common ion (Mg, charge +2), what happens to its electrons?",
+      "o": [
+        "2 electrons lost",
+        "2 neutron(s) lost",
+        "2 proton(s) gained",
+        "2 electrons gained"
+      ],
+      "a": 0,
+      "e": "The ionic charge +2 is caused by loss of 2 electron(s).",
+      "d": "Medium",
+      "topic": "Ion formation",
+      "slo": "Explain and apply ion formation in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-161",
+      "q": "How many electrons are in the common Ca ion with charge +2?",
+      "o": [
+        "18",
+        "16",
+        "22",
+        "24"
+      ],
+      "a": 0,
+      "e": "Electrons = atomic number - ionic charge = 20 - (+2) = 18.",
+      "d": "Medium",
+      "topic": "Electrons in ions",
+      "slo": "Explain and apply electrons in ions in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-162",
+      "q": "When a neutral calcium atom forms its common ion (Ca, charge +2), what happens to its electrons?",
+      "o": [
+        "2 electrons lost",
+        "2 neutron(s) lost",
+        "2 electrons gained",
+        "2 proton(s) gained"
+      ],
+      "a": 0,
+      "e": "The ionic charge +2 is caused by loss of 2 electron(s).",
+      "d": "Medium",
+      "topic": "Ion formation",
+      "slo": "Explain and apply ion formation in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-163",
+      "q": "How many electrons are in the common Al ion with charge +3?",
+      "o": [
+        "8",
+        "16",
+        "13",
+        "10"
+      ],
+      "a": 3,
+      "e": "Electrons = atomic number - ionic charge = 13 - (+3) = 10.",
+      "d": "Medium",
+      "topic": "Electrons in ions",
+      "slo": "Explain and apply electrons in ions in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-164",
+      "q": "When a neutral aluminium atom forms its common ion (Al, charge +3), what happens to its electrons?",
+      "o": [
+        "3 neutron(s) lost",
+        "3 electrons gained",
+        "3 electrons lost",
+        "3 proton(s) gained"
+      ],
+      "a": 2,
+      "e": "The ionic charge +3 is caused by loss of 3 electron(s).",
+      "d": "Medium",
+      "topic": "Ion formation",
+      "slo": "Explain and apply ion formation in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-165",
+      "q": "How many electrons are in the common F ion with charge -1?",
+      "o": [
+        "9",
+        "10",
+        "8",
+        "6"
+      ],
+      "a": 1,
+      "e": "Electrons = atomic number - ionic charge = 9 - (-1) = 10.",
+      "d": "Medium",
+      "topic": "Electrons in ions",
+      "slo": "Explain and apply electrons in ions in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-166",
+      "q": "When a neutral fluorine atom forms its common ion (F, charge -1), what happens to its electrons?",
+      "o": [
+        "1 neutron(s) lost",
+        "1 proton(s) gained",
+        "1 electron lost",
+        "1 electron gained"
+      ],
+      "a": 3,
+      "e": "The ionic charge -1 is caused by gain of 1 electron(s).",
+      "d": "Medium",
+      "topic": "Ion formation",
+      "slo": "Explain and apply ion formation in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-167",
+      "q": "How many electrons are in the common Cl ion with charge -1?",
+      "o": [
+        "14",
+        "17",
+        "18",
+        "16"
+      ],
+      "a": 2,
+      "e": "Electrons = atomic number - ionic charge = 17 - (-1) = 18.",
+      "d": "Medium",
+      "topic": "Electrons in ions",
+      "slo": "Explain and apply electrons in ions in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-168",
+      "q": "When a neutral chlorine atom forms its common ion (Cl, charge -1), what happens to its electrons?",
+      "o": [
+        "1 proton(s) gained",
+        "1 electron lost",
+        "1 neutron(s) lost",
+        "1 electron gained"
+      ],
+      "a": 3,
+      "e": "The ionic charge -1 is caused by gain of 1 electron(s).",
+      "d": "Medium",
+      "topic": "Ion formation",
+      "slo": "Explain and apply ion formation in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-169",
+      "q": "How many electrons are in the common Br ion with charge -1?",
+      "o": [
+        "34",
+        "38",
+        "35",
+        "36"
+      ],
+      "a": 3,
+      "e": "Electrons = atomic number - ionic charge = 35 - (-1) = 36.",
+      "d": "Medium",
+      "topic": "Electrons in ions",
+      "slo": "Explain and apply electrons in ions in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-170",
+      "q": "When a neutral bromine atom forms its common ion (Br, charge -1), what happens to its electrons?",
+      "o": [
+        "1 electron gained",
+        "1 proton(s) gained",
+        "1 electron lost",
+        "1 neutron(s) lost"
+      ],
+      "a": 0,
+      "e": "The ionic charge -1 is caused by gain of 1 electron(s).",
+      "d": "Medium",
+      "topic": "Ion formation",
+      "slo": "Explain and apply ion formation in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-171",
+      "q": "How many electrons are in the common O ion with charge -2?",
+      "o": [
+        "4",
+        "10",
+        "6",
+        "12"
+      ],
+      "a": 1,
+      "e": "Electrons = atomic number - ionic charge = 8 - (-2) = 10.",
+      "d": "Medium",
+      "topic": "Electrons in ions",
+      "slo": "Explain and apply electrons in ions in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-172",
+      "q": "When a neutral oxygen atom forms its common ion (O, charge -2), what happens to its electrons?",
+      "o": [
+        "2 electrons lost",
+        "2 proton(s) gained",
+        "2 neutron(s) lost",
+        "2 electrons gained"
+      ],
+      "a": 3,
+      "e": "The ionic charge -2 is caused by gain of 2 electron(s).",
+      "d": "Medium",
+      "topic": "Ion formation",
+      "slo": "Explain and apply ion formation in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-173",
+      "q": "How many electrons are in the common S ion with charge -2?",
+      "o": [
+        "12",
+        "20",
+        "18",
+        "16"
+      ],
+      "a": 2,
+      "e": "Electrons = atomic number - ionic charge = 16 - (-2) = 18.",
+      "d": "Medium",
+      "topic": "Electrons in ions",
+      "slo": "Explain and apply electrons in ions in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-174",
+      "q": "When a neutral sulfur atom forms its common ion (S, charge -2), what happens to its electrons?",
+      "o": [
+        "2 electrons lost",
+        "2 electrons gained",
+        "2 proton(s) gained",
+        "2 neutron(s) lost"
+      ],
+      "a": 1,
+      "e": "The ionic charge -2 is caused by gain of 2 electron(s).",
+      "d": "Medium",
+      "topic": "Ion formation",
+      "slo": "Explain and apply ion formation in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-175",
+      "q": "How many electrons are in the common N ion with charge -3?",
+      "o": [
+        "12",
+        "7",
+        "10",
+        "4"
+      ],
+      "a": 2,
+      "e": "Electrons = atomic number - ionic charge = 7 - (-3) = 10.",
+      "d": "Medium",
+      "topic": "Electrons in ions",
+      "slo": "Explain and apply electrons in ions in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-176",
+      "q": "When a neutral nitrogen atom forms its common ion (N, charge -3), what happens to its electrons?",
+      "o": [
+        "3 electrons lost",
+        "3 proton(s) gained",
+        "3 neutron(s) lost",
+        "3 electrons gained"
+      ],
+      "a": 3,
+      "e": "The ionic charge -3 is caused by gain of 3 electron(s).",
+      "d": "Medium",
+      "topic": "Ion formation",
+      "slo": "Explain and apply ion formation in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-177",
+      "q": "In the usual Lewis structure of hydrogen (H2), how many shared electron pairs (counting multiple bonds) are present in total?",
+      "o": [
+        "1",
+        "3",
+        "2",
+        "0"
+      ],
+      "a": 0,
+      "e": "The usual Lewis structure of H2 contains 1 bonding electron pair(s) in total.",
+      "d": "Medium",
+      "topic": "Lewis bonding pairs",
+      "slo": "Explain and apply lewis bonding pairs in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-178",
+      "q": "How many nonbonding electron pairs are shown in total in the usual Lewis structure of H2?",
+      "o": [
+        "2",
+        "0",
+        "3",
+        "1"
+      ],
+      "a": 1,
+      "e": "The Lewis structure of H2 contains 0 lone pair(s) in total.",
+      "d": "Medium",
+      "topic": "Lewis lone pairs",
+      "slo": "Explain and apply lewis lone pairs in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-179",
+      "q": "Is the hydrogen molecule (H2) polar or nonpolar overall?",
+      "o": [
+        "Nonpolar",
+        "Always a cation",
+        "Polar",
+        "Ionic"
+      ],
+      "a": 0,
+      "e": "H2 is nonpolar overall; both bond polarity and molecular symmetry matter.",
+      "d": "Medium",
+      "topic": "Molecular polarity",
+      "slo": "Explain and apply molecular polarity in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-180",
+      "q": "In the usual Lewis structure of chlorine (Cl2), how many shared electron pairs (counting multiple bonds) are present in total?",
+      "o": [
+        "3",
+        "4",
+        "2",
+        "1"
+      ],
+      "a": 3,
+      "e": "The usual Lewis structure of Cl2 contains 1 bonding electron pair(s) in total.",
+      "d": "Medium",
+      "topic": "Lewis bonding pairs",
+      "slo": "Explain and apply lewis bonding pairs in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-181",
+      "q": "How many nonbonding electron pairs are shown in total in the usual Lewis structure of Cl2?",
+      "o": [
+        "7",
+        "6",
+        "5",
+        "9"
+      ],
+      "a": 1,
+      "e": "The Lewis structure of Cl2 contains 6 lone pair(s) in total.",
+      "d": "Medium",
+      "topic": "Lewis lone pairs",
+      "slo": "Explain and apply lewis lone pairs in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-182",
+      "q": "Is the chlorine molecule (Cl2) polar or nonpolar overall?",
+      "o": [
+        "Metallic",
+        "Always a cation",
+        "Nonpolar",
+        "Ionic"
+      ],
+      "a": 2,
+      "e": "Cl2 is nonpolar overall; both bond polarity and molecular symmetry matter.",
+      "d": "Medium",
+      "topic": "Molecular polarity",
+      "slo": "Explain and apply molecular polarity in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-183",
+      "q": "In the usual Lewis structure of fluorine (F2), how many shared electron pairs (counting multiple bonds) are present in total?",
+      "o": [
+        "3",
+        "1",
+        "4",
+        "2"
+      ],
+      "a": 1,
+      "e": "The usual Lewis structure of F2 contains 1 bonding electron pair(s) in total.",
+      "d": "Medium",
+      "topic": "Lewis bonding pairs",
+      "slo": "Explain and apply lewis bonding pairs in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-184",
+      "q": "How many nonbonding electron pairs are shown in total in the usual Lewis structure of F2?",
+      "o": [
+        "6",
+        "5",
+        "7",
+        "8"
+      ],
+      "a": 0,
+      "e": "The Lewis structure of F2 contains 6 lone pair(s) in total.",
+      "d": "Medium",
+      "topic": "Lewis lone pairs",
+      "slo": "Explain and apply lewis lone pairs in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-185",
+      "q": "Is the fluorine molecule (F2) polar or nonpolar overall?",
+      "o": [
+        "Ionic",
+        "Metallic",
+        "Polar",
+        "Nonpolar"
+      ],
+      "a": 3,
+      "e": "F2 is nonpolar overall; both bond polarity and molecular symmetry matter.",
+      "d": "Medium",
+      "topic": "Molecular polarity",
+      "slo": "Explain and apply molecular polarity in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-186",
+      "q": "In the usual Lewis structure of bromine (Br2), how many shared electron pairs (counting multiple bonds) are present in total?",
+      "o": [
+        "2",
+        "3",
+        "4",
+        "1"
+      ],
+      "a": 3,
+      "e": "The usual Lewis structure of Br2 contains 1 bonding electron pair(s) in total.",
+      "d": "Medium",
+      "topic": "Lewis bonding pairs",
+      "slo": "Explain and apply lewis bonding pairs in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-187",
+      "q": "How many nonbonding electron pairs are shown in total in the usual Lewis structure of Br2?",
+      "o": [
+        "9",
+        "8",
+        "7",
+        "6"
+      ],
+      "a": 3,
+      "e": "The Lewis structure of Br2 contains 6 lone pair(s) in total.",
+      "d": "Medium",
+      "topic": "Lewis lone pairs",
+      "slo": "Explain and apply lewis lone pairs in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-188",
+      "q": "Is the bromine molecule (Br2) polar or nonpolar overall?",
+      "o": [
+        "Nonpolar",
+        "Always a cation",
+        "Ionic",
+        "Metallic"
+      ],
+      "a": 0,
+      "e": "Br2 is nonpolar overall; both bond polarity and molecular symmetry matter.",
+      "d": "Medium",
+      "topic": "Molecular polarity",
+      "slo": "Explain and apply molecular polarity in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-189",
+      "q": "In the usual Lewis structure of oxygen (O2), how many shared electron pairs (counting multiple bonds) are present in total?",
+      "o": [
+        "2",
+        "1",
+        "3",
+        "5"
+      ],
+      "a": 0,
+      "e": "The usual Lewis structure of O2 contains 2 bonding electron pair(s) in total.",
+      "d": "Medium",
+      "topic": "Lewis bonding pairs",
+      "slo": "Explain and apply lewis bonding pairs in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-190",
+      "q": "How many nonbonding electron pairs are shown in total in the usual Lewis structure of O2?",
+      "o": [
+        "6",
+        "7",
+        "3",
+        "4"
+      ],
+      "a": 3,
+      "e": "The Lewis structure of O2 contains 4 lone pair(s) in total.",
+      "d": "Medium",
+      "topic": "Lewis lone pairs",
+      "slo": "Explain and apply lewis lone pairs in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-191",
+      "q": "Is the oxygen molecule (O2) polar or nonpolar overall?",
+      "o": [
+        "Polar",
+        "Metallic",
+        "Nonpolar",
+        "Always a cation"
+      ],
+      "a": 2,
+      "e": "O2 is nonpolar overall; both bond polarity and molecular symmetry matter.",
+      "d": "Medium",
+      "topic": "Molecular polarity",
+      "slo": "Explain and apply molecular polarity in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-192",
+      "q": "In the usual Lewis structure of nitrogen (N2), how many shared electron pairs (counting multiple bonds) are present in total?",
+      "o": [
+        "5",
+        "4",
+        "6",
+        "3"
+      ],
+      "a": 3,
+      "e": "The usual Lewis structure of N2 contains 3 bonding electron pair(s) in total.",
+      "d": "Medium",
+      "topic": "Lewis bonding pairs",
+      "slo": "Explain and apply lewis bonding pairs in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-193",
+      "q": "How many nonbonding electron pairs are shown in total in the usual Lewis structure of N2?",
+      "o": [
+        "5",
+        "2",
+        "4",
+        "3"
+      ],
+      "a": 1,
+      "e": "The Lewis structure of N2 contains 2 lone pair(s) in total.",
+      "d": "Medium",
+      "topic": "Lewis lone pairs",
+      "slo": "Explain and apply lewis lone pairs in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-194",
+      "q": "Is the nitrogen molecule (N2) polar or nonpolar overall?",
+      "o": [
+        "Always a cation",
+        "Nonpolar",
+        "Metallic",
+        "Ionic"
+      ],
+      "a": 1,
+      "e": "N2 is nonpolar overall; both bond polarity and molecular symmetry matter.",
+      "d": "Medium",
+      "topic": "Molecular polarity",
+      "slo": "Explain and apply molecular polarity in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-195",
+      "q": "In the usual Lewis structure of hydrogen chloride (HCl), how many shared electron pairs (counting multiple bonds) are present in total?",
+      "o": [
+        "4",
+        "2",
+        "1",
+        "3"
+      ],
+      "a": 2,
+      "e": "The usual Lewis structure of HCl contains 1 bonding electron pair(s) in total.",
+      "d": "Medium",
+      "topic": "Lewis bonding pairs",
+      "slo": "Explain and apply lewis bonding pairs in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-196",
+      "q": "How many nonbonding electron pairs are shown in total in the usual Lewis structure of HCl?",
+      "o": [
+        "6",
+        "3",
+        "2",
+        "5"
+      ],
+      "a": 1,
+      "e": "The Lewis structure of HCl contains 3 lone pair(s) in total.",
+      "d": "Medium",
+      "topic": "Lewis lone pairs",
+      "slo": "Explain and apply lewis lone pairs in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-197",
+      "q": "Is the hydrogen chloride molecule (HCl) polar or nonpolar overall?",
+      "o": [
+        "Nonpolar",
+        "Always a cation",
+        "Polar",
+        "Metallic"
+      ],
+      "a": 2,
+      "e": "HCl is polar overall; both bond polarity and molecular symmetry matter.",
+      "d": "Medium",
+      "topic": "Molecular polarity",
+      "slo": "Explain and apply molecular polarity in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-198",
+      "q": "In the usual Lewis structure of hydrogen fluoride (HF), how many shared electron pairs (counting multiple bonds) are present in total?",
+      "o": [
+        "2",
+        "1",
+        "0",
+        "4"
+      ],
+      "a": 1,
+      "e": "The usual Lewis structure of HF contains 1 bonding electron pair(s) in total.",
+      "d": "Medium",
+      "topic": "Lewis bonding pairs",
+      "slo": "Explain and apply lewis bonding pairs in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-199",
+      "q": "How many nonbonding electron pairs are shown in total in the usual Lewis structure of HF?",
+      "o": [
+        "5",
+        "3",
+        "4",
+        "2"
+      ],
+      "a": 1,
+      "e": "The Lewis structure of HF contains 3 lone pair(s) in total.",
+      "d": "Medium",
+      "topic": "Lewis lone pairs",
+      "slo": "Explain and apply lewis lone pairs in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-200",
+      "q": "Is the hydrogen fluoride molecule (HF) polar or nonpolar overall?",
+      "o": [
+        "Ionic",
+        "Always a cation",
+        "Polar",
+        "Metallic"
+      ],
+      "a": 2,
+      "e": "HF is polar overall; both bond polarity and molecular symmetry matter.",
+      "d": "Medium",
+      "topic": "Molecular polarity",
+      "slo": "Explain and apply molecular polarity in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-201",
+      "q": "In the usual Lewis structure of hydrogen bromide (HBr), how many shared electron pairs (counting multiple bonds) are present in total?",
+      "o": [
+        "1",
+        "3",
+        "4",
+        "2"
+      ],
+      "a": 0,
+      "e": "The usual Lewis structure of HBr contains 1 bonding electron pair(s) in total.",
+      "d": "Medium",
+      "topic": "Lewis bonding pairs",
+      "slo": "Explain and apply lewis bonding pairs in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-202",
+      "q": "How many nonbonding electron pairs are shown in total in the usual Lewis structure of HBr?",
+      "o": [
+        "2",
+        "5",
+        "4",
+        "3"
+      ],
+      "a": 3,
+      "e": "The Lewis structure of HBr contains 3 lone pair(s) in total.",
+      "d": "Medium",
+      "topic": "Lewis lone pairs",
+      "slo": "Explain and apply lewis lone pairs in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-203",
+      "q": "Is the hydrogen bromide molecule (HBr) polar or nonpolar overall?",
+      "o": [
+        "Ionic",
+        "Always a cation",
+        "Nonpolar",
+        "Polar"
+      ],
+      "a": 3,
+      "e": "HBr is polar overall; both bond polarity and molecular symmetry matter.",
+      "d": "Medium",
+      "topic": "Molecular polarity",
+      "slo": "Explain and apply molecular polarity in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-204",
+      "q": "In the usual Lewis structure of water (H2O), how many shared electron pairs (counting multiple bonds) are present in total?",
+      "o": [
+        "4",
+        "3",
+        "2",
+        "5"
+      ],
+      "a": 2,
+      "e": "The usual Lewis structure of H2O contains 2 bonding electron pair(s) in total.",
+      "d": "Medium",
+      "topic": "Lewis bonding pairs",
+      "slo": "Explain and apply lewis bonding pairs in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-205",
+      "q": "How many nonbonding electron pairs are shown in total in the usual Lewis structure of H2O?",
+      "o": [
+        "1",
+        "5",
+        "4",
+        "2"
+      ],
+      "a": 3,
+      "e": "The Lewis structure of H2O contains 2 lone pair(s) in total.",
+      "d": "Medium",
+      "topic": "Lewis lone pairs",
+      "slo": "Explain and apply lewis lone pairs in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-206",
+      "q": "Is the water molecule (H2O) polar or nonpolar overall?",
+      "o": [
+        "Always a cation",
+        "Polar",
+        "Ionic",
+        "Metallic"
+      ],
+      "a": 1,
+      "e": "H2O is polar overall; both bond polarity and molecular symmetry matter.",
+      "d": "Medium",
+      "topic": "Molecular polarity",
+      "slo": "Explain and apply molecular polarity in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-207",
+      "q": "In the usual Lewis structure of ammonia (NH3), how many shared electron pairs (counting multiple bonds) are present in total?",
+      "o": [
+        "3",
+        "6",
+        "5",
+        "2"
+      ],
+      "a": 0,
+      "e": "The usual Lewis structure of NH3 contains 3 bonding electron pair(s) in total.",
+      "d": "Medium",
+      "topic": "Lewis bonding pairs",
+      "slo": "Explain and apply lewis bonding pairs in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-208",
+      "q": "How many nonbonding electron pairs are shown in total in the usual Lewis structure of NH3?",
+      "o": [
+        "2",
+        "4",
+        "1",
+        "3"
+      ],
+      "a": 2,
+      "e": "The Lewis structure of NH3 contains 1 lone pair(s) in total.",
+      "d": "Medium",
+      "topic": "Lewis lone pairs",
+      "slo": "Explain and apply lewis lone pairs in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-209",
+      "q": "Is the ammonia molecule (NH3) polar or nonpolar overall?",
+      "o": [
+        "Nonpolar",
+        "Polar",
+        "Ionic",
+        "Metallic"
+      ],
+      "a": 1,
+      "e": "NH3 is polar overall; both bond polarity and molecular symmetry matter.",
+      "d": "Medium",
+      "topic": "Molecular polarity",
+      "slo": "Explain and apply molecular polarity in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-210",
+      "q": "In the usual Lewis structure of methane (CH4), how many shared electron pairs (counting multiple bonds) are present in total?",
+      "o": [
+        "5",
+        "7",
+        "3",
+        "4"
+      ],
+      "a": 3,
+      "e": "The usual Lewis structure of CH4 contains 4 bonding electron pair(s) in total.",
+      "d": "Medium",
+      "topic": "Lewis bonding pairs",
+      "slo": "Explain and apply lewis bonding pairs in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-211",
+      "q": "How many nonbonding electron pairs are shown in total in the usual Lewis structure of CH4?",
+      "o": [
+        "2",
+        "1",
+        "3",
+        "0"
+      ],
+      "a": 3,
+      "e": "The Lewis structure of CH4 contains 0 lone pair(s) in total.",
+      "d": "Medium",
+      "topic": "Lewis lone pairs",
+      "slo": "Explain and apply lewis lone pairs in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-212",
+      "q": "Is the methane molecule (CH4) polar or nonpolar overall?",
+      "o": [
+        "Metallic",
+        "Always a cation",
+        "Ionic",
+        "Nonpolar"
+      ],
+      "a": 3,
+      "e": "CH4 is nonpolar overall; both bond polarity and molecular symmetry matter.",
+      "d": "Medium",
+      "topic": "Molecular polarity",
+      "slo": "Explain and apply molecular polarity in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-213",
+      "q": "In the usual Lewis structure of carbon dioxide (CO2), how many shared electron pairs (counting multiple bonds) are present in total?",
+      "o": [
+        "7",
+        "4",
+        "5",
+        "3"
+      ],
+      "a": 1,
+      "e": "The usual Lewis structure of CO2 contains 4 bonding electron pair(s) in total.",
+      "d": "Medium",
+      "topic": "Lewis bonding pairs",
+      "slo": "Explain and apply lewis bonding pairs in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-214",
+      "q": "How many nonbonding electron pairs are shown in total in the usual Lewis structure of CO2?",
+      "o": [
+        "4",
+        "6",
+        "7",
+        "5"
+      ],
+      "a": 0,
+      "e": "The Lewis structure of CO2 contains 4 lone pair(s) in total.",
+      "d": "Medium",
+      "topic": "Lewis lone pairs",
+      "slo": "Explain and apply lewis lone pairs in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-215",
+      "q": "Is the carbon dioxide molecule (CO2) polar or nonpolar overall?",
+      "o": [
+        "Always a cation",
+        "Ionic",
+        "Metallic",
+        "Nonpolar"
+      ],
+      "a": 3,
+      "e": "CO2 is nonpolar overall; both bond polarity and molecular symmetry matter.",
+      "d": "Medium",
+      "topic": "Molecular polarity",
+      "slo": "Explain and apply molecular polarity in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-216",
+      "q": "In the usual Lewis structure of ethene (C2H4), how many shared electron pairs (counting multiple bonds) are present in total?",
+      "o": [
+        "6",
+        "8",
+        "5",
+        "7"
+      ],
+      "a": 0,
+      "e": "The usual Lewis structure of C2H4 contains 6 bonding electron pair(s) in total.",
+      "d": "Medium",
+      "topic": "Lewis bonding pairs",
+      "slo": "Explain and apply lewis bonding pairs in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-217",
+      "q": "How many nonbonding electron pairs are shown in total in the usual Lewis structure of C2H4?",
+      "o": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "a": 0,
+      "e": "The Lewis structure of C2H4 contains 0 lone pair(s) in total.",
+      "d": "Medium",
+      "topic": "Lewis lone pairs",
+      "slo": "Explain and apply lewis lone pairs in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-218",
+      "q": "Is the ethene molecule (C2H4) polar or nonpolar overall?",
+      "o": [
+        "Nonpolar",
+        "Always a cation",
+        "Ionic",
+        "Metallic"
+      ],
+      "a": 0,
+      "e": "C2H4 is nonpolar overall; both bond polarity and molecular symmetry matter.",
+      "d": "Medium",
+      "topic": "Molecular polarity",
+      "slo": "Explain and apply molecular polarity in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-219",
+      "q": "In the usual Lewis structure of ethyne (C2H2), how many shared electron pairs (counting multiple bonds) are present in total?",
+      "o": [
+        "7",
+        "5",
+        "6",
+        "8"
+      ],
+      "a": 1,
+      "e": "The usual Lewis structure of C2H2 contains 5 bonding electron pair(s) in total.",
+      "d": "Medium",
+      "topic": "Lewis bonding pairs",
+      "slo": "Explain and apply lewis bonding pairs in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-220",
+      "q": "How many nonbonding electron pairs are shown in total in the usual Lewis structure of C2H2?",
+      "o": [
+        "1",
+        "3",
+        "0",
+        "2"
+      ],
+      "a": 2,
+      "e": "The Lewis structure of C2H2 contains 0 lone pair(s) in total.",
+      "d": "Medium",
+      "topic": "Lewis lone pairs",
+      "slo": "Explain and apply lewis lone pairs in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-221",
+      "q": "Is the ethyne molecule (C2H2) polar or nonpolar overall?",
+      "o": [
+        "Polar",
+        "Metallic",
+        "Nonpolar",
+        "Ionic"
+      ],
+      "a": 2,
+      "e": "C2H2 is nonpolar overall; both bond polarity and molecular symmetry matter.",
+      "d": "Medium",
+      "topic": "Molecular polarity",
+      "slo": "Explain and apply molecular polarity in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-222",
+      "q": "Which bonding/structural category best describes sodium chloride (NaCl) in its usual solid or molecular form?",
+      "o": [
+        "molecular covalent",
+        "giant covalent",
+        "metallic",
+        "ionic"
+      ],
+      "a": 3,
+      "e": "sodium chloride is classified as ionic based on its constituent particles and bonding.",
+      "d": "Easy",
+      "topic": "Classifying bonding",
+      "slo": "Explain and apply classifying bonding in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-223",
+      "q": "Which bonding/structural category best describes magnesium oxide (MgO) in its usual solid or molecular form?",
+      "o": [
+        "giant covalent",
+        "molecular covalent",
+        "metallic",
+        "ionic"
+      ],
+      "a": 3,
+      "e": "magnesium oxide is classified as ionic based on its constituent particles and bonding.",
+      "d": "Easy",
+      "topic": "Classifying bonding",
+      "slo": "Explain and apply classifying bonding in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-224",
+      "q": "Which bonding/structural category best describes calcium fluoride (CaF2) in its usual solid or molecular form?",
+      "o": [
+        "metallic",
+        "molecular covalent",
+        "giant covalent",
+        "ionic"
+      ],
+      "a": 3,
+      "e": "calcium fluoride is classified as ionic based on its constituent particles and bonding.",
+      "d": "Easy",
+      "topic": "Classifying bonding",
+      "slo": "Explain and apply classifying bonding in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-225",
+      "q": "Which bonding/structural category best describes potassium bromide (KBr) in its usual solid or molecular form?",
+      "o": [
+        "giant covalent",
+        "metallic",
+        "ionic",
+        "molecular covalent"
+      ],
+      "a": 2,
+      "e": "potassium bromide is classified as ionic based on its constituent particles and bonding.",
+      "d": "Easy",
+      "topic": "Classifying bonding",
+      "slo": "Explain and apply classifying bonding in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-226",
+      "q": "Which bonding/structural category best describes aluminium oxide (Al2O3) in its usual solid or molecular form?",
+      "o": [
+        "giant covalent",
+        "molecular covalent",
+        "metallic",
+        "ionic"
+      ],
+      "a": 3,
+      "e": "aluminium oxide is classified as ionic based on its constituent particles and bonding.",
+      "d": "Easy",
+      "topic": "Classifying bonding",
+      "slo": "Explain and apply classifying bonding in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-227",
+      "q": "Which bonding/structural category best describes lithium fluoride (LiF) in its usual solid or molecular form?",
+      "o": [
+        "metallic",
+        "giant covalent",
+        "molecular covalent",
+        "ionic"
+      ],
+      "a": 3,
+      "e": "lithium fluoride is classified as ionic based on its constituent particles and bonding.",
+      "d": "Easy",
+      "topic": "Classifying bonding",
+      "slo": "Explain and apply classifying bonding in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-228",
+      "q": "Which bonding/structural category best describes water (H2O) in its usual solid or molecular form?",
+      "o": [
+        "molecular covalent",
+        "metallic",
+        "ionic",
+        "giant covalent"
+      ],
+      "a": 0,
+      "e": "water is classified as molecular covalent based on its constituent particles and bonding.",
+      "d": "Easy",
+      "topic": "Classifying bonding",
+      "slo": "Explain and apply classifying bonding in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-229",
+      "q": "Which bonding/structural category best describes methane (CH4) in its usual solid or molecular form?",
+      "o": [
+        "ionic",
+        "giant covalent",
+        "molecular covalent",
+        "metallic"
+      ],
+      "a": 2,
+      "e": "methane is classified as molecular covalent based on its constituent particles and bonding.",
+      "d": "Easy",
+      "topic": "Classifying bonding",
+      "slo": "Explain and apply classifying bonding in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-230",
+      "q": "Which bonding/structural category best describes ammonia (NH3) in its usual solid or molecular form?",
+      "o": [
+        "ionic",
+        "molecular covalent",
+        "giant covalent",
+        "metallic"
+      ],
+      "a": 1,
+      "e": "ammonia is classified as molecular covalent based on its constituent particles and bonding.",
+      "d": "Easy",
+      "topic": "Classifying bonding",
+      "slo": "Explain and apply classifying bonding in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-231",
+      "q": "Which bonding/structural category best describes carbon dioxide (CO2) in its usual solid or molecular form?",
+      "o": [
+        "molecular covalent",
+        "ionic",
+        "giant covalent",
+        "metallic"
+      ],
+      "a": 0,
+      "e": "carbon dioxide is classified as molecular covalent based on its constituent particles and bonding.",
+      "d": "Easy",
+      "topic": "Classifying bonding",
+      "slo": "Explain and apply classifying bonding in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-232",
+      "q": "Which bonding/structural category best describes hydrogen chloride (HCl) in its usual solid or molecular form?",
+      "o": [
+        "metallic",
+        "giant covalent",
+        "ionic",
+        "molecular covalent"
+      ],
+      "a": 3,
+      "e": "hydrogen chloride is classified as molecular covalent based on its constituent particles and bonding.",
+      "d": "Easy",
+      "topic": "Classifying bonding",
+      "slo": "Explain and apply classifying bonding in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-233",
+      "q": "Which bonding/structural category best describes nitrogen (N2) in its usual solid or molecular form?",
+      "o": [
+        "giant covalent",
+        "molecular covalent",
+        "ionic",
+        "metallic"
+      ],
+      "a": 1,
+      "e": "nitrogen is classified as molecular covalent based on its constituent particles and bonding.",
+      "d": "Easy",
+      "topic": "Classifying bonding",
+      "slo": "Explain and apply classifying bonding in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-234",
+      "q": "Which bonding/structural category best describes oxygen (O2) in its usual solid or molecular form?",
+      "o": [
+        "metallic",
+        "ionic",
+        "molecular covalent",
+        "giant covalent"
+      ],
+      "a": 2,
+      "e": "oxygen is classified as molecular covalent based on its constituent particles and bonding.",
+      "d": "Easy",
+      "topic": "Classifying bonding",
+      "slo": "Explain and apply classifying bonding in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-235",
+      "q": "Which bonding/structural category best describes diamond (C) in its usual solid or molecular form?",
+      "o": [
+        "metallic",
+        "ionic",
+        "molecular covalent",
+        "giant covalent"
+      ],
+      "a": 3,
+      "e": "diamond is classified as giant covalent based on its constituent particles and bonding.",
+      "d": "Easy",
+      "topic": "Classifying bonding",
+      "slo": "Explain and apply classifying bonding in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-236",
+      "q": "Which bonding/structural category best describes graphite (C) in its usual solid or molecular form?",
+      "o": [
+        "ionic",
+        "molecular covalent",
+        "metallic",
+        "giant covalent"
+      ],
+      "a": 3,
+      "e": "graphite is classified as giant covalent based on its constituent particles and bonding.",
+      "d": "Easy",
+      "topic": "Classifying bonding",
+      "slo": "Explain and apply classifying bonding in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-237",
+      "q": "Which bonding/structural category best describes quartz (SiO2) in its usual solid or molecular form?",
+      "o": [
+        "giant covalent",
+        "metallic",
+        "ionic",
+        "molecular covalent"
+      ],
+      "a": 0,
+      "e": "quartz is classified as giant covalent based on its constituent particles and bonding.",
+      "d": "Easy",
+      "topic": "Classifying bonding",
+      "slo": "Explain and apply classifying bonding in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-238",
+      "q": "Which bonding/structural category best describes copper (Cu) in its usual solid or molecular form?",
+      "o": [
+        "molecular covalent",
+        "ionic",
+        "metallic",
+        "giant covalent"
+      ],
+      "a": 2,
+      "e": "copper is classified as metallic based on its constituent particles and bonding.",
+      "d": "Easy",
+      "topic": "Classifying bonding",
+      "slo": "Explain and apply classifying bonding in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-239",
+      "q": "Which bonding/structural category best describes iron (Fe) in its usual solid or molecular form?",
+      "o": [
+        "molecular covalent",
+        "ionic",
+        "giant covalent",
+        "metallic"
+      ],
+      "a": 3,
+      "e": "iron is classified as metallic based on its constituent particles and bonding.",
+      "d": "Easy",
+      "topic": "Classifying bonding",
+      "slo": "Explain and apply classifying bonding in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-240",
+      "q": "Which bonding/structural category best describes aluminium (Al) in its usual solid or molecular form?",
+      "o": [
+        "molecular covalent",
+        "metallic",
+        "giant covalent",
+        "ionic"
+      ],
+      "a": 1,
+      "e": "aluminium is classified as metallic based on its constituent particles and bonding.",
+      "d": "Easy",
+      "topic": "Classifying bonding",
+      "slo": "Explain and apply classifying bonding in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-241",
+      "q": "Which bonding/structural category best describes silver (Ag) in its usual solid or molecular form?",
+      "o": [
+        "ionic",
+        "metallic",
+        "giant covalent",
+        "molecular covalent"
+      ],
+      "a": 1,
+      "e": "silver is classified as metallic based on its constituent particles and bonding.",
+      "d": "Easy",
+      "topic": "Classifying bonding",
+      "slo": "Explain and apply classifying bonding in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-242",
+      "q": "Which explanation best fits this observation? A brittle crystalline solid melts at a high temperature and conducts only after melting.",
+      "o": [
+        "A polymer of neutral molecules",
+        "A pure nonmetal gas",
+        "An ionic compound",
+        "A simple molecular solid"
+      ],
+      "a": 2,
+      "e": "The combination of a high melting point and mobile ions in the melt indicates an ionic lattice.",
+      "d": "Medium",
+      "topic": "Bonding evidence",
+      "slo": "Explain and apply bonding evidence in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-243",
+      "q": "Which explanation best fits this observation? A shiny solid can be drawn into wires and conducts in the solid state.",
+      "o": [
+        "An ionic solid with fixed ions",
+        "A metallic solid",
+        "A noble-gas crystal",
+        "A simple molecular solid"
+      ],
+      "a": 1,
+      "e": "Mobile delocalized electrons and ductility are typical metallic properties.",
+      "d": "Medium",
+      "topic": "Bonding evidence",
+      "slo": "Explain and apply bonding evidence in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-244",
+      "q": "Which explanation best fits this observation? A solid is extremely hard, has a very high melting point and does not conduct.",
+      "o": [
+        "A low-melting molecular solid",
+        "A giant covalent network such as diamond",
+        "A molten salt",
+        "A metallic lattice of copper"
+      ],
+      "a": 1,
+      "e": "A three-dimensional covalent network is rigid and lacks mobile charges.",
+      "d": "Medium",
+      "topic": "Bonding evidence",
+      "slo": "Explain and apply bonding evidence in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-245",
+      "q": "Which explanation best fits this observation? A layered carbon solid is slippery and conducts electricity.",
+      "o": [
+        "Solid carbon dioxide",
+        "Sodium chloride",
+        "Graphite",
+        "Diamond"
+      ],
+      "a": 2,
+      "e": "Graphite has layers that slide and delocalized electrons that conduct.",
+      "d": "Medium",
+      "topic": "Bonding evidence",
+      "slo": "Explain and apply bonding evidence in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-246",
+      "q": "Which explanation best fits this observation? A liquid consists of small polar molecules and exhibits unexpectedly strong intermolecular attraction due to O-H bonds.",
+      "o": [
+        "Electron transfer to form an ionic lattice",
+        "Hydrogen bonding",
+        "Metallic bonding",
+        "Covalent bonding between separate nuclei"
+      ],
+      "a": 1,
+      "e": "O-H groups can participate in intermolecular hydrogen bonding.",
+      "d": "Medium",
+      "topic": "Bonding evidence",
+      "slo": "Explain and apply bonding evidence in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-247",
+      "q": "Which explanation best fits this observation? A molecular gas has identical atoms joined by a shared electron pair.",
+      "o": [
+        "Coordinate ionic bonding",
+        "Nonpolar covalent bonding",
+        "Metallic bonding",
+        "Ionic bonding"
+      ],
+      "a": 1,
+      "e": "Identical atoms attract a shared pair equally.",
+      "d": "Medium",
+      "topic": "Bonding evidence",
+      "slo": "Explain and apply bonding evidence in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-248",
+      "q": "Which explanation best fits this observation? A nitrogen atom supplies its lone pair to an incoming H+ ion.",
+      "o": [
+        "Coordinate covalent bond formation",
+        "Neutron transfer",
+        "Loss of a proton by nitrogen",
+        "Metallic bond formation"
+      ],
+      "a": 0,
+      "e": "Both electrons in the newly formed bond originate from the donor nitrogen.",
+      "d": "Medium",
+      "topic": "Bonding evidence",
+      "slo": "Explain and apply bonding evidence in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-249",
+      "q": "Which explanation best fits this observation? A solid is made of neutral molecules and melts easily.",
+      "o": [
+        "A three-dimensional network of covalent bonds",
+        "Delocalized metal electrons",
+        "An extremely strong ionic lattice",
+        "Relatively weak intermolecular forces"
+      ],
+      "a": 3,
+      "e": "Simple molecular solids are held together by weaker intermolecular attractions.",
+      "d": "Medium",
+      "topic": "Bonding evidence",
+      "slo": "Explain and apply bonding evidence in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-250",
+      "q": "Which explanation best fits this observation? Two opposite ions become closer while retaining their charges.",
+      "o": [
+        "Their nuclei become neutral",
+        "Their attraction becomes zero",
+        "Their attraction must reverse to repulsion",
+        "Their electrostatic attraction increases"
+      ],
+      "a": 3,
+      "e": "The magnitude of Coulombic attraction increases at shorter separation.",
+      "d": "Medium",
+      "topic": "Bonding evidence",
+      "slo": "Explain and apply bonding evidence in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-251",
+      "q": "Which explanation best fits this observation? Two identical halogen atoms form a diatomic molecule.",
+      "o": [
+        "A sea of free metal electrons",
+        "A shared covalent pair",
+        "A network of coordinate bonds to H+",
+        "A transfer of electrons to make two ions"
+      ],
+      "a": 1,
+      "e": "Identical nonmetal atoms generally share electrons in a covalent bond.",
+      "d": "Medium",
+      "topic": "Bonding evidence",
+      "slo": "Explain and apply bonding evidence in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-252",
+      "q": "In the simplest formula unit formed from Al+3 and O-2, what is the ratio of Al ions to O ions?",
+      "o": [
+        "1:4",
+        "4:1",
+        "4:4",
+        "2:3"
+      ],
+      "a": 3,
+      "e": "2 cation(s) contribute +6 and 3 anion(s) contribute -6, so the balanced ratio is 2:3.",
+      "d": "Medium",
+      "topic": "Ionic charge balance",
+      "slo": "Explain and apply ionic charge balance in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-253",
+      "q": "In the simplest formula unit formed from Al+3 and S-2, what is the ratio of Al ions to S ions?",
+      "o": [
+        "3:4",
+        "4:4",
+        "2:3",
+        "1:4"
+      ],
+      "a": 2,
+      "e": "2 cation(s) contribute +6 and 3 anion(s) contribute -6, so the balanced ratio is 2:3.",
+      "d": "Medium",
+      "topic": "Ionic charge balance",
+      "slo": "Explain and apply ionic charge balance in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-254",
+      "q": "In the simplest formula unit formed from Al+3 and Cl-1, what is the ratio of Al ions to Cl ions?",
+      "o": [
+        "3:2",
+        "1:3",
+        "2:4",
+        "2:3"
+      ],
+      "a": 1,
+      "e": "1 cation(s) contribute +3 and 3 anion(s) contribute -3, so the balanced ratio is 1:3.",
+      "d": "Medium",
+      "topic": "Ionic charge balance",
+      "slo": "Explain and apply ionic charge balance in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-255",
+      "q": "In the simplest formula unit formed from Ca+2 and F-1, what is the ratio of Ca ions to F ions?",
+      "o": [
+        "4:1",
+        "1:2",
+        "2:1",
+        "1:4"
+      ],
+      "a": 1,
+      "e": "1 cation(s) contribute +2 and 2 anion(s) contribute -2, so the balanced ratio is 1:2.",
+      "d": "Medium",
+      "topic": "Ionic charge balance",
+      "slo": "Explain and apply ionic charge balance in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-256",
+      "q": "In the simplest formula unit formed from Ba+2 and F-1, what is the ratio of Ba ions to F ions?",
+      "o": [
+        "1:4",
+        "2:1",
+        "1:2",
+        "4:1"
+      ],
+      "a": 2,
+      "e": "1 cation(s) contribute +2 and 2 anion(s) contribute -2, so the balanced ratio is 1:2.",
+      "d": "Medium",
+      "topic": "Ionic charge balance",
+      "slo": "Explain and apply ionic charge balance in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-257",
+      "q": "In the simplest formula unit formed from Ca+2 and N-3, what is the ratio of Ca ions to N ions?",
+      "o": [
+        "4:1",
+        "5:3",
+        "2:3",
+        "3:2"
+      ],
+      "a": 3,
+      "e": "3 cation(s) contribute +6 and 2 anion(s) contribute -6, so the balanced ratio is 3:2.",
+      "d": "Medium",
+      "topic": "Ionic charge balance",
+      "slo": "Explain and apply ionic charge balance in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-258",
+      "q": "In the simplest formula unit formed from Ca+2 and Cl-1, what is the ratio of Ca ions to Cl ions?",
+      "o": [
+        "1:2",
+        "3:2",
+        "3:3",
+        "2:1"
+      ],
+      "a": 0,
+      "e": "1 cation(s) contribute +2 and 2 anion(s) contribute -2, so the balanced ratio is 1:2.",
+      "d": "Medium",
+      "topic": "Ionic charge balance",
+      "slo": "Explain and apply ionic charge balance in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-259",
+      "q": "In the simplest formula unit formed from Na+1 and N-3, what is the ratio of Na ions to N ions?",
+      "o": [
+        "1:4",
+        "4:1",
+        "3:1",
+        "2:3"
+      ],
+      "a": 2,
+      "e": "3 cation(s) contribute +3 and 1 anion(s) contribute -3, so the balanced ratio is 3:1.",
+      "d": "Medium",
+      "topic": "Ionic charge balance",
+      "slo": "Explain and apply ionic charge balance in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-260",
+      "q": "In the simplest formula unit formed from Al+3 and F-1, what is the ratio of Al ions to F ions?",
+      "o": [
+        "2:4",
+        "4:1",
+        "1:3",
+        "3:2"
+      ],
+      "a": 2,
+      "e": "1 cation(s) contribute +3 and 3 anion(s) contribute -3, so the balanced ratio is 1:3.",
+      "d": "Medium",
+      "topic": "Ionic charge balance",
+      "slo": "Explain and apply ionic charge balance in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-261",
+      "q": "In the simplest formula unit formed from K+1 and Cl-1, what is the ratio of K ions to Cl ions?",
+      "o": [
+        "3:2",
+        "1:1",
+        "2:2",
+        "4:1"
+      ],
+      "a": 1,
+      "e": "1 cation(s) contribute +1 and 1 anion(s) contribute -1, so the balanced ratio is 1:1.",
+      "d": "Medium",
+      "topic": "Ionic charge balance",
+      "slo": "Explain and apply ionic charge balance in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-262",
+      "q": "In the simplest formula unit formed from Ca+2 and S-2, what is the ratio of Ca ions to S ions?",
+      "o": [
+        "2:3",
+        "4:1",
+        "2:2",
+        "1:1"
+      ],
+      "a": 3,
+      "e": "1 cation(s) contribute +2 and 1 anion(s) contribute -2, so the balanced ratio is 1:1.",
+      "d": "Medium",
+      "topic": "Ionic charge balance",
+      "slo": "Explain and apply ionic charge balance in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-263",
+      "q": "In the simplest formula unit formed from Li+1 and Br-1, what is the ratio of Li ions to Br ions?",
+      "o": [
+        "2:3",
+        "1:1",
+        "4:1",
+        "1:4"
+      ],
+      "a": 1,
+      "e": "1 cation(s) contribute +1 and 1 anion(s) contribute -1, so the balanced ratio is 1:1.",
+      "d": "Medium",
+      "topic": "Ionic charge balance",
+      "slo": "Explain and apply ionic charge balance in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-264",
+      "q": "In the simplest formula unit formed from Ba+2 and S-2, what is the ratio of Ba ions to S ions?",
+      "o": [
+        "4:1",
+        "2:3",
+        "1:1",
+        "2:2"
+      ],
+      "a": 2,
+      "e": "1 cation(s) contribute +2 and 1 anion(s) contribute -2, so the balanced ratio is 1:1.",
+      "d": "Medium",
+      "topic": "Ionic charge balance",
+      "slo": "Explain and apply ionic charge balance in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-265",
+      "q": "In the simplest formula unit formed from Na+1 and S-2, what is the ratio of Na ions to S ions?",
+      "o": [
+        "2:3",
+        "4:1",
+        "2:1",
+        "1:2"
+      ],
+      "a": 2,
+      "e": "2 cation(s) contribute +2 and 1 anion(s) contribute -2, so the balanced ratio is 2:1.",
+      "d": "Medium",
+      "topic": "Ionic charge balance",
+      "slo": "Explain and apply ionic charge balance in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-266",
+      "q": "In the simplest formula unit formed from Li+1 and Cl-1, what is the ratio of Li ions to Cl ions?",
+      "o": [
+        "1:4",
+        "4:1",
+        "1:1",
+        "2:2"
+      ],
+      "a": 2,
+      "e": "1 cation(s) contribute +1 and 1 anion(s) contribute -1, so the balanced ratio is 1:1.",
+      "d": "Medium",
+      "topic": "Ionic charge balance",
+      "slo": "Explain and apply ionic charge balance in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-267",
+      "q": "In the simplest formula unit formed from Al+3 and Br-1, what is the ratio of Al ions to Br ions?",
+      "o": [
+        "3:4",
+        "2:4",
+        "4:1",
+        "1:3"
+      ],
+      "a": 3,
+      "e": "1 cation(s) contribute +3 and 3 anion(s) contribute -3, so the balanced ratio is 1:3.",
+      "d": "Medium",
+      "topic": "Ionic charge balance",
+      "slo": "Explain and apply ionic charge balance in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-268",
+      "q": "In the simplest formula unit formed from Mg+2 and O-2, what is the ratio of Mg ions to O ions?",
+      "o": [
+        "1:1",
+        "3:2",
+        "1:4",
+        "2:3"
+      ],
+      "a": 0,
+      "e": "1 cation(s) contribute +2 and 1 anion(s) contribute -2, so the balanced ratio is 1:1.",
+      "d": "Medium",
+      "topic": "Ionic charge balance",
+      "slo": "Explain and apply ionic charge balance in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-269",
+      "q": "In the simplest formula unit formed from Mg+2 and Cl-1, what is the ratio of Mg ions to Cl ions?",
+      "o": [
+        "4:1",
+        "1:4",
+        "1:2",
+        "3:2"
+      ],
+      "a": 2,
+      "e": "1 cation(s) contribute +2 and 2 anion(s) contribute -2, so the balanced ratio is 1:2.",
+      "d": "Medium",
+      "topic": "Ionic charge balance",
+      "slo": "Explain and apply ionic charge balance in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-270",
+      "q": "In the simplest formula unit formed from K+1 and S-2, what is the ratio of K ions to S ions?",
+      "o": [
+        "4:1",
+        "2:1",
+        "4:2",
+        "2:3"
+      ],
+      "a": 1,
+      "e": "2 cation(s) contribute +2 and 1 anion(s) contribute -2, so the balanced ratio is 2:1.",
+      "d": "Medium",
+      "topic": "Ionic charge balance",
+      "slo": "Explain and apply ionic charge balance in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-271",
+      "q": "In the simplest formula unit formed from Li+1 and N-3, what is the ratio of Li ions to N ions?",
+      "o": [
+        "1:4",
+        "3:2",
+        "3:1",
+        "1:3"
+      ],
+      "a": 2,
+      "e": "3 cation(s) contribute +3 and 1 anion(s) contribute -3, so the balanced ratio is 3:1.",
+      "d": "Medium",
+      "topic": "Ionic charge balance",
+      "slo": "Explain and apply ionic charge balance in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-272",
+      "q": "In the simplest formula unit formed from K+1 and Br-1, what is the ratio of K ions to Br ions?",
+      "o": [
+        "2:3",
+        "1:1",
+        "4:1",
+        "3:2"
+      ],
+      "a": 1,
+      "e": "1 cation(s) contribute +1 and 1 anion(s) contribute -1, so the balanced ratio is 1:1.",
+      "d": "Medium",
+      "topic": "Ionic charge balance",
+      "slo": "Explain and apply ionic charge balance in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-273",
+      "q": "In the simplest formula unit formed from Li+1 and O-2, what is the ratio of Li ions to O ions?",
+      "o": [
+        "1:2",
+        "2:1",
+        "3:2",
+        "1:4"
+      ],
+      "a": 1,
+      "e": "2 cation(s) contribute +2 and 1 anion(s) contribute -2, so the balanced ratio is 2:1.",
+      "d": "Medium",
+      "topic": "Ionic charge balance",
+      "slo": "Explain and apply ionic charge balance in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-274",
+      "q": "In the simplest formula unit formed from Mg+2 and Br-1, what is the ratio of Mg ions to Br ions?",
+      "o": [
+        "1:2",
+        "2:1",
+        "3:2",
+        "2:3"
+      ],
+      "a": 0,
+      "e": "1 cation(s) contribute +2 and 2 anion(s) contribute -2, so the balanced ratio is 1:2.",
+      "d": "Medium",
+      "topic": "Ionic charge balance",
+      "slo": "Explain and apply ionic charge balance in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-275",
+      "q": "In the simplest formula unit formed from Na+1 and F-1, what is the ratio of Na ions to F ions?",
+      "o": [
+        "2:2",
+        "1:4",
+        "1:1",
+        "4:1"
+      ],
+      "a": 2,
+      "e": "1 cation(s) contribute +1 and 1 anion(s) contribute -1, so the balanced ratio is 1:1.",
+      "d": "Medium",
+      "topic": "Ionic charge balance",
+      "slo": "Explain and apply ionic charge balance in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-276",
+      "q": "In the simplest formula unit formed from Ba+2 and N-3, what is the ratio of Ba ions to N ions?",
+      "o": [
+        "1:4",
+        "3:2",
+        "4:3",
+        "4:1"
+      ],
+      "a": 1,
+      "e": "3 cation(s) contribute +6 and 2 anion(s) contribute -6, so the balanced ratio is 3:2.",
+      "d": "Medium",
+      "topic": "Ionic charge balance",
+      "slo": "Explain and apply ionic charge balance in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-277",
+      "q": "In the simplest formula unit formed from Ca+2 and Br-1, what is the ratio of Ca ions to Br ions?",
+      "o": [
+        "1:2",
+        "1:4",
+        "3:3",
+        "2:1"
+      ],
+      "a": 0,
+      "e": "1 cation(s) contribute +2 and 2 anion(s) contribute -2, so the balanced ratio is 1:2.",
+      "d": "Medium",
+      "topic": "Ionic charge balance",
+      "slo": "Explain and apply ionic charge balance in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-278",
+      "q": "In the simplest formula unit formed from Mg+2 and N-3, what is the ratio of Mg ions to N ions?",
+      "o": [
+        "4:3",
+        "2:3",
+        "3:2",
+        "4:1"
+      ],
+      "a": 2,
+      "e": "3 cation(s) contribute +6 and 2 anion(s) contribute -6, so the balanced ratio is 3:2.",
+      "d": "Medium",
+      "topic": "Ionic charge balance",
+      "slo": "Explain and apply ionic charge balance in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-279",
+      "q": "In the simplest formula unit formed from Mg+2 and S-2, what is the ratio of Mg ions to S ions?",
+      "o": [
+        "2:3",
+        "1:1",
+        "1:4",
+        "3:2"
+      ],
+      "a": 1,
+      "e": "1 cation(s) contribute +2 and 1 anion(s) contribute -2, so the balanced ratio is 1:1.",
+      "d": "Medium",
+      "topic": "Ionic charge balance",
+      "slo": "Explain and apply ionic charge balance in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-280",
+      "q": "In the simplest formula unit formed from Na+1 and Cl-1, what is the ratio of Na ions to Cl ions?",
+      "o": [
+        "1:4",
+        "3:2",
+        "2:3",
+        "1:1"
+      ],
+      "a": 3,
+      "e": "1 cation(s) contribute +1 and 1 anion(s) contribute -1, so the balanced ratio is 1:1.",
+      "d": "Medium",
+      "topic": "Ionic charge balance",
+      "slo": "Explain and apply ionic charge balance in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-281",
+      "q": "In the simplest formula unit formed from K+1 and O-2, what is the ratio of K ions to O ions?",
+      "o": [
+        "1:4",
+        "3:2",
+        "1:2",
+        "2:1"
+      ],
+      "a": 3,
+      "e": "2 cation(s) contribute +2 and 1 anion(s) contribute -2, so the balanced ratio is 2:1.",
+      "d": "Medium",
+      "topic": "Ionic charge balance",
+      "slo": "Explain and apply ionic charge balance in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-282",
+      "q": "In the simplest formula unit formed from Ba+2 and Cl-1, what is the ratio of Ba ions to Cl ions?",
+      "o": [
+        "1:2",
+        "3:3",
+        "2:3",
+        "4:1"
+      ],
+      "a": 0,
+      "e": "1 cation(s) contribute +2 and 2 anion(s) contribute -2, so the balanced ratio is 1:2.",
+      "d": "Medium",
+      "topic": "Ionic charge balance",
+      "slo": "Explain and apply ionic charge balance in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-283",
+      "q": "In the simplest formula unit formed from Na+1 and O-2, what is the ratio of Na ions to O ions?",
+      "o": [
+        "2:3",
+        "3:2",
+        "2:1",
+        "4:1"
+      ],
+      "a": 2,
+      "e": "2 cation(s) contribute +2 and 1 anion(s) contribute -2, so the balanced ratio is 2:1.",
+      "d": "Medium",
+      "topic": "Ionic charge balance",
+      "slo": "Explain and apply ionic charge balance in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-284",
+      "q": "In the simplest formula unit formed from Li+1 and S-2, what is the ratio of Li ions to S ions?",
+      "o": [
+        "2:3",
+        "1:4",
+        "2:1",
+        "4:2"
+      ],
+      "a": 2,
+      "e": "2 cation(s) contribute +2 and 1 anion(s) contribute -2, so the balanced ratio is 2:1.",
+      "d": "Medium",
+      "topic": "Ionic charge balance",
+      "slo": "Explain and apply ionic charge balance in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-285",
+      "q": "In the simplest formula unit formed from Na+1 and Br-1, what is the ratio of Na ions to Br ions?",
+      "o": [
+        "4:1",
+        "3:2",
+        "1:1",
+        "2:2"
+      ],
+      "a": 2,
+      "e": "1 cation(s) contribute +1 and 1 anion(s) contribute -1, so the balanced ratio is 1:1.",
+      "d": "Medium",
+      "topic": "Ionic charge balance",
+      "slo": "Explain and apply ionic charge balance in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-286",
+      "q": "In the simplest formula unit formed from Ba+2 and Br-1, what is the ratio of Ba ions to Br ions?",
+      "o": [
+        "4:1",
+        "2:3",
+        "1:2",
+        "1:4"
+      ],
+      "a": 2,
+      "e": "1 cation(s) contribute +2 and 2 anion(s) contribute -2, so the balanced ratio is 1:2.",
+      "d": "Medium",
+      "topic": "Ionic charge balance",
+      "slo": "Explain and apply ionic charge balance in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-287",
+      "q": "In the simplest formula unit formed from Al+3 and N-3, what is the ratio of Al ions to N ions?",
+      "o": [
+        "1:4",
+        "1:1",
+        "4:1",
+        "3:3"
+      ],
+      "a": 1,
+      "e": "1 cation(s) contribute +3 and 1 anion(s) contribute -3, so the balanced ratio is 1:1.",
+      "d": "Medium",
+      "topic": "Ionic charge balance",
+      "slo": "Explain and apply ionic charge balance in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-288",
+      "q": "In the simplest formula unit formed from K+1 and F-1, what is the ratio of K ions to F ions?",
+      "o": [
+        "1:1",
+        "2:3",
+        "4:1",
+        "2:2"
+      ],
+      "a": 0,
+      "e": "1 cation(s) contribute +1 and 1 anion(s) contribute -1, so the balanced ratio is 1:1.",
+      "d": "Medium",
+      "topic": "Ionic charge balance",
+      "slo": "Explain and apply ionic charge balance in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-289",
+      "q": "In the simplest formula unit formed from K+1 and N-3, what is the ratio of K ions to N ions?",
+      "o": [
+        "1:4",
+        "4:1",
+        "3:1",
+        "1:3"
+      ],
+      "a": 2,
+      "e": "3 cation(s) contribute +3 and 1 anion(s) contribute -3, so the balanced ratio is 3:1.",
+      "d": "Medium",
+      "topic": "Ionic charge balance",
+      "slo": "Explain and apply ionic charge balance in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-290",
+      "q": "In the simplest formula unit formed from Li+1 and F-1, what is the ratio of Li ions to F ions?",
+      "o": [
+        "2:2",
+        "2:3",
+        "4:1",
+        "1:1"
+      ],
+      "a": 3,
+      "e": "1 cation(s) contribute +1 and 1 anion(s) contribute -1, so the balanced ratio is 1:1.",
+      "d": "Medium",
+      "topic": "Ionic charge balance",
+      "slo": "Explain and apply ionic charge balance in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-291",
+      "q": "In the simplest formula unit formed from Ba+2 and O-2, what is the ratio of Ba ions to O ions?",
+      "o": [
+        "2:2",
+        "4:1",
+        "3:2",
+        "1:1"
+      ],
+      "a": 3,
+      "e": "1 cation(s) contribute +2 and 1 anion(s) contribute -2, so the balanced ratio is 1:1.",
+      "d": "Medium",
+      "topic": "Ionic charge balance",
+      "slo": "Explain and apply ionic charge balance in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-292",
+      "q": "In the simplest formula unit formed from Ca+2 and O-2, what is the ratio of Ca ions to O ions?",
+      "o": [
+        "3:2",
+        "2:3",
+        "1:4",
+        "1:1"
+      ],
+      "a": 3,
+      "e": "1 cation(s) contribute +2 and 1 anion(s) contribute -2, so the balanced ratio is 1:1.",
+      "d": "Medium",
+      "topic": "Ionic charge balance",
+      "slo": "Explain and apply ionic charge balance in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-293",
+      "q": "In the simplest formula unit formed from Mg+2 and F-1, what is the ratio of Mg ions to F ions?",
+      "o": [
+        "3:3",
+        "2:1",
+        "4:1",
+        "1:2"
+      ],
+      "a": 3,
+      "e": "1 cation(s) contribute +2 and 2 anion(s) contribute -2, so the balanced ratio is 1:2.",
+      "d": "Medium",
+      "topic": "Ionic charge balance",
+      "slo": "Explain and apply ionic charge balance in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-294",
+      "q": "What carries current in a copper wire?",
+      "o": [
+        "Neutrons",
+        "Positive copper ions moving through the wire",
+        "Chloride ions",
+        "Delocalized electrons"
+      ],
+      "a": 3,
+      "e": "Copper conducts by movement of delocalized electrons.",
+      "d": "Medium",
+      "topic": "Metal conductivity",
+      "slo": "Explain and apply metal conductivity in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-295",
+      "q": "What carries current through molten magnesium chloride?",
+      "o": [
+        "Mg2+ and Cl- ions",
+        "Only electrons from copper",
+        "Neutral MgCl2 molecules",
+        "Free neutrons"
+      ],
+      "a": 0,
+      "e": "Both types of mobile ions carry charge in the melt.",
+      "d": "Medium",
+      "topic": "Ionic conductivity",
+      "slo": "Explain and apply ionic conductivity in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-296",
+      "q": "Why does solid iodine have a much lower melting point than diamond?",
+      "o": [
+        "Diamond contains free ions",
+        "Iodine is molecular, while diamond is a covalent network",
+        "Iodine is a metal",
+        "Iodine has no electrons"
+      ],
+      "a": 1,
+      "e": "Iodine molecules are held by intermolecular forces; diamond is a giant covalent lattice.",
+      "d": "Medium",
+      "topic": "Structure and properties",
+      "slo": "Explain and apply structure and properties in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-297",
+      "q": "Which interaction acts between two nearby methane molecules?",
+      "o": [
+        "Ionic bonding",
+        "London dispersion forces",
+        "Metallic bonding",
+        "Covalent C-H bonds joining the molecules"
+      ],
+      "a": 1,
+      "e": "Methane is nonpolar, so its intermolecular attractions are dispersion forces.",
+      "d": "Medium",
+      "topic": "Intermolecular forces",
+      "slo": "Explain and apply intermolecular forces in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-298",
+      "q": "Which bond is formed when each of two chlorine atoms contributes one electron to a shared pair?",
+      "o": [
+        "Double covalent bond",
+        "Ionic bond",
+        "Single covalent bond",
+        "Metallic bond"
+      ],
+      "a": 2,
+      "e": "Cl2 contains one shared electron pair.",
+      "d": "Medium",
+      "topic": "Covalent bonding",
+      "slo": "Explain and apply covalent bonding in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-299",
+      "q": "What happens to the net charge when one Mg2+ ion combines with two Cl- ions?",
+      "o": [
+        "The total charge is -4",
+        "The total charge is +1",
+        "The total charge is +4",
+        "The total charge is zero"
+      ],
+      "a": 3,
+      "e": "+2 + 2(-1) = 0.",
+      "d": "Medium",
+      "topic": "Ionic charge balance",
+      "slo": "Explain and apply ionic charge balance in chemical bonding."
+    },
+    {
+      "id": "CHEM9CH5-300",
+      "q": "Which sample is expected to conduct electricity when solid?",
+      "o": [
+        "Solid sodium chloride",
+        "Solid carbon dioxide",
+        "Diamond",
+        "Graphite"
+      ],
+      "a": 3,
+      "e": "Graphite has delocalized electrons within its layers.",
+      "d": "Medium",
+      "topic": "Graphite conductivity",
+      "slo": "Explain and apply graphite conductivity in chemical bonding."
+    }
+  ]
+}

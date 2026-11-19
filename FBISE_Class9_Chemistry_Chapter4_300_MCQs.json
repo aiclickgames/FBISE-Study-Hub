@@ -1,0 +1,4504 @@
+{
+  "questions": [
+    {
+      "id": "CHEM9CH4-001",
+      "q": "Who proposed the modern periodic law?",
+      "o": [
+        "John Dalton",
+        "J. J. Thomson",
+        "Dmitri Mendeleev",
+        "Henry Moseley"
+      ],
+      "a": 3,
+      "e": "Moseley established atomic number as the basis of periodic arrangement.",
+      "d": "Easy",
+      "topic": "Development of periodic table",
+      "slo": "Identify, explain or apply development of periodic table using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-002",
+      "q": "Which property determines an element’s position in the modern periodic table?",
+      "o": [
+        "Mass number",
+        "Atomic number",
+        "Atomic mass",
+        "Number of neutrons"
+      ],
+      "a": 1,
+      "e": "Modern periodic classification uses increasing atomic number.",
+      "d": "Easy",
+      "topic": "Modern periodic law",
+      "slo": "Identify, explain or apply modern periodic law using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-003",
+      "q": "Mendeleev mainly arranged elements according to increasing what?",
+      "o": [
+        "Atomic mass",
+        "Atomic number",
+        "Neutron number",
+        "Density"
+      ],
+      "a": 0,
+      "e": "Mendeleev used atomic masses and recurring chemical properties.",
+      "d": "Easy",
+      "topic": "Development of periodic table",
+      "slo": "Identify, explain or apply development of periodic table using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-004",
+      "q": "What is a horizontal row in the periodic table called?",
+      "o": [
+        "Block",
+        "Group",
+        "Family",
+        "Period"
+      ],
+      "a": 3,
+      "e": "A horizontal row is called a period.",
+      "d": "Easy",
+      "topic": "Periodic table layout",
+      "slo": "Identify, explain or apply periodic table layout using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-005",
+      "q": "What is a vertical column in the periodic table called?",
+      "o": [
+        "Group",
+        "Period",
+        "Shell",
+        "Series"
+      ],
+      "a": 0,
+      "e": "A vertical column is called a group.",
+      "d": "Easy",
+      "topic": "Periodic table layout",
+      "slo": "Identify, explain or apply periodic table layout using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-006",
+      "q": "How many periods are in the modern periodic table?",
+      "o": [
+        "6",
+        "8",
+        "7",
+        "18"
+      ],
+      "a": 2,
+      "e": "There are seven horizontal periods.",
+      "d": "Easy",
+      "topic": "Periodic table layout",
+      "slo": "Identify, explain or apply periodic table layout using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-007",
+      "q": "How many groups are in the modern periodic table?",
+      "o": [
+        "8",
+        "7",
+        "16",
+        "18"
+      ],
+      "a": 3,
+      "e": "There are eighteen vertical groups.",
+      "d": "Easy",
+      "topic": "Periodic table layout",
+      "slo": "Identify, explain or apply periodic table layout using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-008",
+      "q": "What is the modern periodic law?",
+      "o": [
+        "Properties depend only on neutron number",
+        "All elements have identical properties",
+        "Properties are periodic functions of atomic number",
+        "Properties are periodic functions of mass number"
+      ],
+      "a": 2,
+      "e": "Element properties recur periodically when ordered by atomic number.",
+      "d": "Easy",
+      "topic": "Modern periodic law",
+      "slo": "Identify, explain or apply modern periodic law using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-009",
+      "q": "What does a period number usually indicate for a main-group atom?",
+      "o": [
+        "Number of isotopes",
+        "Number of neutrons",
+        "Number of occupied electron shells",
+        "Number of valence electrons only"
+      ],
+      "a": 2,
+      "e": "Period number corresponds to occupied shells in the ground-state atom.",
+      "d": "Easy",
+      "topic": "Electronic configuration",
+      "slo": "Identify, explain or apply electronic configuration using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-010",
+      "q": "Elements in the same main group tend to have similar chemical properties because they have the same number of what?",
+      "o": [
+        "Neutrons",
+        "Valence electrons",
+        "Isotopes",
+        "Electron shells"
+      ],
+      "a": 1,
+      "e": "Similar valence electron arrangements produce similar chemical behavior.",
+      "d": "Easy",
+      "topic": "Groups and valence electrons",
+      "slo": "Identify, explain or apply groups and valence electrons using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-011",
+      "q": "Which group contains alkali metals?",
+      "o": [
+        "Group 2",
+        "Group 17",
+        "Group 1",
+        "Group 18"
+      ],
+      "a": 2,
+      "e": "Alkali metals occupy group 1, excluding hydrogen.",
+      "d": "Easy",
+      "topic": "Element families",
+      "slo": "Identify, explain or apply element families using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-012",
+      "q": "Which group contains alkaline earth metals?",
+      "o": [
+        "Group 1",
+        "Group 16",
+        "Group 18",
+        "Group 2"
+      ],
+      "a": 3,
+      "e": "Alkaline earth metals occupy group 2.",
+      "d": "Easy",
+      "topic": "Element families",
+      "slo": "Identify, explain or apply element families using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-013",
+      "q": "Which group contains halogens?",
+      "o": [
+        "Group 17",
+        "Group 2",
+        "Group 18",
+        "Group 1"
+      ],
+      "a": 0,
+      "e": "Halogens belong to group 17.",
+      "d": "Easy",
+      "topic": "Element families",
+      "slo": "Identify, explain or apply element families using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-014",
+      "q": "Which group contains noble gases?",
+      "o": [
+        "Group 17",
+        "Group 1",
+        "Group 16",
+        "Group 18"
+      ],
+      "a": 3,
+      "e": "Noble gases are in group 18.",
+      "d": "Easy",
+      "topic": "Element families",
+      "slo": "Identify, explain or apply element families using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-015",
+      "q": "Where are transition elements mainly located?",
+      "o": [
+        "p-block",
+        "s-block",
+        "f-block",
+        "d-block"
+      ],
+      "a": 3,
+      "e": "The transition series occupies the d-block.",
+      "d": "Easy",
+      "topic": "Blocks of periodic table",
+      "slo": "Identify, explain or apply blocks of periodic table using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-016",
+      "q": "Where are lanthanoids and actinoids displayed in most periodic tables?",
+      "o": [
+        "In two rows below the main table",
+        "Between groups 1 and 2",
+        "At the far right of group 18",
+        "Above period 1"
+      ],
+      "a": 0,
+      "e": "f-block elements are usually shown below to keep the table compact.",
+      "d": "Easy",
+      "topic": "Blocks of periodic table",
+      "slo": "Identify, explain or apply blocks of periodic table using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-017",
+      "q": "Which block contains groups 1 and 2?",
+      "o": [
+        "f-block",
+        "d-block",
+        "s-block",
+        "p-block"
+      ],
+      "a": 2,
+      "e": "The outermost electron enters an s subshell for groups 1 and 2.",
+      "d": "Easy",
+      "topic": "Blocks of periodic table",
+      "slo": "Identify, explain or apply blocks of periodic table using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-018",
+      "q": "Which block contains groups 13 to 18, except helium by configuration?",
+      "o": [
+        "f-block",
+        "s-block",
+        "p-block",
+        "d-block"
+      ],
+      "a": 2,
+      "e": "The outermost electron enters a p subshell for these elements.",
+      "d": "Easy",
+      "topic": "Blocks of periodic table",
+      "slo": "Identify, explain or apply blocks of periodic table using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-019",
+      "q": "Which group generally contains the most reactive nonmetals?",
+      "o": [
+        "Group 18",
+        "Group 17",
+        "Group 13",
+        "Group 2"
+      ],
+      "a": 1,
+      "e": "Halogens readily gain an electron and are very reactive nonmetals.",
+      "d": "Easy",
+      "topic": "Reactivity trends",
+      "slo": "Identify, explain or apply reactivity trends using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-020",
+      "q": "Which group is generally least reactive under ordinary conditions?",
+      "o": [
+        "Group 1",
+        "Group 17",
+        "Group 2",
+        "Group 18"
+      ],
+      "a": 3,
+      "e": "Noble gases have stable filled outer electron shells.",
+      "d": "Easy",
+      "topic": "Noble gases",
+      "slo": "Identify, explain or apply noble gases using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-021",
+      "q": "What is atomic radius?",
+      "o": [
+        "A measure of the size of an atom",
+        "Energy released by an atom",
+        "Number of protons",
+        "Mass of the nucleus"
+      ],
+      "a": 0,
+      "e": "Atomic radius describes the approximate size of an atom.",
+      "d": "Easy",
+      "topic": "Atomic size",
+      "slo": "Identify, explain or apply atomic size using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-022",
+      "q": "What usually happens to atomic radius across a period from left to right?",
+      "o": [
+        "It stays exactly constant",
+        "It increases",
+        "It decreases",
+        "It doubles"
+      ],
+      "a": 2,
+      "e": "Increasing nuclear charge attracts electrons in the same main shell more strongly.",
+      "d": "Easy",
+      "topic": "Atomic radius trends",
+      "slo": "Identify, explain or apply atomic radius trends using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-023",
+      "q": "What usually happens to atomic radius down a group?",
+      "o": [
+        "It decreases",
+        "It increases",
+        "It stays exactly constant",
+        "It becomes zero"
+      ],
+      "a": 1,
+      "e": "Additional electron shells increase atomic size down a group.",
+      "d": "Easy",
+      "topic": "Atomic radius trends",
+      "slo": "Identify, explain or apply atomic radius trends using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-024",
+      "q": "What is ionization energy?",
+      "o": [
+        "Energy released when an electron is removed",
+        "Heat released by freezing",
+        "Energy needed to remove an electron from a gaseous atom",
+        "Energy needed to add a neutron"
+      ],
+      "a": 2,
+      "e": "First ionization energy removes one electron from an isolated gaseous atom.",
+      "d": "Easy",
+      "topic": "Ionization energy",
+      "slo": "Identify, explain or apply ionization energy using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-025",
+      "q": "What is the general first-ionization-energy trend across a period?",
+      "o": [
+        "It increases",
+        "It remains identical",
+        "It is always zero",
+        "It decreases"
+      ],
+      "a": 0,
+      "e": "Effective nuclear attraction generally increases across a period.",
+      "d": "Easy",
+      "topic": "Ionization energy",
+      "slo": "Identify, explain or apply ionization energy using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-026",
+      "q": "What is the general first-ionization-energy trend down a group?",
+      "o": [
+        "It becomes infinite",
+        "It increases",
+        "It stays identical",
+        "It decreases"
+      ],
+      "a": 3,
+      "e": "Greater shielding and atomic size ease removal of outer electrons.",
+      "d": "Easy",
+      "topic": "Ionization energy",
+      "slo": "Identify, explain or apply ionization energy using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-027",
+      "q": "What is electronegativity?",
+      "o": [
+        "Number of electrons in the nucleus",
+        "Ability of an atom to attract shared electrons in a bond",
+        "Energy required to melt an atom",
+        "Tendency to emit neutrons"
+      ],
+      "a": 1,
+      "e": "Electronegativity measures attraction for bonding electrons.",
+      "d": "Easy",
+      "topic": "Electronegativity",
+      "slo": "Identify, explain or apply electronegativity using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-028",
+      "q": "Which element has the highest electronegativity?",
+      "o": [
+        "Sodium",
+        "Oxygen",
+        "Fluorine",
+        "Chlorine"
+      ],
+      "a": 2,
+      "e": "Fluorine is the most electronegative element.",
+      "d": "Easy",
+      "topic": "Electronegativity",
+      "slo": "Identify, explain or apply electronegativity using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-029",
+      "q": "How does electronegativity generally change across a period?",
+      "o": [
+        "It decreases",
+        "It stays constant",
+        "It becomes negative",
+        "It increases"
+      ],
+      "a": 3,
+      "e": "Attraction for bonding electrons generally rises across a period.",
+      "d": "Easy",
+      "topic": "Electronegativity",
+      "slo": "Identify, explain or apply electronegativity using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-030",
+      "q": "How does electronegativity generally change down a group?",
+      "o": [
+        "It becomes infinite",
+        "It increases",
+        "It decreases",
+        "It stays constant"
+      ],
+      "a": 2,
+      "e": "Larger size and shielding reduce attraction for bonding electrons.",
+      "d": "Easy",
+      "topic": "Electronegativity",
+      "slo": "Identify, explain or apply electronegativity using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-031",
+      "q": "What is shielding effect?",
+      "o": [
+        "Reduction of nuclear attraction on outer electrons by inner electrons",
+        "Creation of neutrons",
+        "Increase in proton mass",
+        "Loss of all electrons"
+      ],
+      "a": 0,
+      "e": "Inner-shell electrons screen outer electrons from the full nuclear charge.",
+      "d": "Easy",
+      "topic": "Shielding effect",
+      "slo": "Identify, explain or apply shielding effect using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-032",
+      "q": "What happens to metallic character down group 1?",
+      "o": [
+        "It stays exactly constant",
+        "It increases",
+        "It decreases",
+        "It becomes zero"
+      ],
+      "a": 1,
+      "e": "Larger atoms lose outer electrons more readily down a group.",
+      "d": "Easy",
+      "topic": "Metallic character",
+      "slo": "Identify, explain or apply metallic character using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-033",
+      "q": "What happens to metallic character across a period from left to right?",
+      "o": [
+        "It increases",
+        "It stays identical",
+        "It always doubles",
+        "It decreases"
+      ],
+      "a": 3,
+      "e": "Elements generally become less metallic toward the right of a period.",
+      "d": "Easy",
+      "topic": "Metallic character",
+      "slo": "Identify, explain or apply metallic character using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-034",
+      "q": "What is an ionic radius?",
+      "o": [
+        "Number of valence protons",
+        "Mass of a neutral atom",
+        "Size of an ion",
+        "Diameter of a nucleus only"
+      ],
+      "a": 2,
+      "e": "Ionic radius measures the size of a charged atom or group.",
+      "d": "Easy",
+      "topic": "Ionic radius",
+      "slo": "Identify, explain or apply ionic radius using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-035",
+      "q": "Compared with its neutral atom, a cation is usually what?",
+      "o": [
+        "Smaller",
+        "Larger",
+        "Always twice as large",
+        "Exactly equal in size"
+      ],
+      "a": 0,
+      "e": "Electron loss reduces electron-electron repulsion and may remove a shell.",
+      "d": "Easy",
+      "topic": "Ionic radius",
+      "slo": "Identify, explain or apply ionic radius using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-036",
+      "q": "Compared with its neutral atom, an anion is usually what?",
+      "o": [
+        "Larger",
+        "Always half as large",
+        "Smaller",
+        "Exactly equal in size"
+      ],
+      "a": 0,
+      "e": "Extra electrons increase electron-electron repulsion.",
+      "d": "Easy",
+      "topic": "Ionic radius",
+      "slo": "Identify, explain or apply ionic radius using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-037",
+      "q": "What happens to reactivity of alkali metals down group 1?",
+      "o": [
+        "It generally decreases",
+        "It becomes zero",
+        "It remains identical",
+        "It generally increases"
+      ],
+      "a": 3,
+      "e": "The outer electron becomes easier to remove down the group.",
+      "d": "Easy",
+      "topic": "Reactivity trends",
+      "slo": "Identify, explain or apply reactivity trends using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-038",
+      "q": "What happens to reactivity of halogens down group 17?",
+      "o": [
+        "It remains identical",
+        "It generally decreases",
+        "It becomes zero",
+        "It generally increases"
+      ],
+      "a": 1,
+      "e": "Attraction for an added electron generally weakens down the group.",
+      "d": "Easy",
+      "topic": "Reactivity trends",
+      "slo": "Identify, explain or apply reactivity trends using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-039",
+      "q": "What is the valence-shell configuration of most noble gases?",
+      "o": [
+        "Two unpaired p electrons only",
+        "A filled outer shell",
+        "No electrons at all",
+        "One electron in the outer shell"
+      ],
+      "a": 1,
+      "e": "Noble gases have complete outer shells (helium has a filled first shell).",
+      "d": "Easy",
+      "topic": "Noble gases",
+      "slo": "Identify, explain or apply noble gases using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-040",
+      "q": "Which period contains only two elements?",
+      "o": [
+        "Period 2",
+        "Period 4",
+        "Period 1",
+        "Period 3"
+      ],
+      "a": 2,
+      "e": "Hydrogen and helium are the only elements in period 1.",
+      "d": "Easy",
+      "topic": "Periodic table layout",
+      "slo": "Identify, explain or apply periodic table layout using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-041",
+      "q": "Which pair belongs to the same group?",
+      "o": [
+        "Carbon and nitrogen",
+        "Lithium and sodium",
+        "Sodium and magnesium",
+        "Neon and fluorine"
+      ],
+      "a": 1,
+      "e": "Lithium and sodium are both group 1 elements.",
+      "d": "Easy",
+      "topic": "Groups and valence electrons",
+      "slo": "Identify, explain or apply groups and valence electrons using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-042",
+      "q": "Which pair belongs to the same period?",
+      "o": [
+        "Fluorine and chlorine",
+        "Neon and argon",
+        "Lithium and sodium",
+        "Sodium and chlorine"
+      ],
+      "a": 3,
+      "e": "Sodium and chlorine are both in period 3.",
+      "d": "Easy",
+      "topic": "Periodic table layout",
+      "slo": "Identify, explain or apply periodic table layout using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-043",
+      "q": "Which is a metalloid?",
+      "o": [
+        "Sodium",
+        "Neon",
+        "Chlorine",
+        "Silicon"
+      ],
+      "a": 3,
+      "e": "Silicon has properties intermediate between metals and nonmetals.",
+      "d": "Easy",
+      "topic": "Classification of elements",
+      "slo": "Identify, explain or apply classification of elements using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-044",
+      "q": "Which is a noble gas?",
+      "o": [
+        "Potassium",
+        "Chlorine",
+        "Sulfur",
+        "Argon"
+      ],
+      "a": 3,
+      "e": "Argon belongs to group 18.",
+      "d": "Easy",
+      "topic": "Element families",
+      "slo": "Identify, explain or apply element families using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-045",
+      "q": "Which is a halogen?",
+      "o": [
+        "Neon",
+        "Calcium",
+        "Bromine",
+        "Magnesium"
+      ],
+      "a": 2,
+      "e": "Bromine belongs to group 17.",
+      "d": "Easy",
+      "topic": "Element families",
+      "slo": "Identify, explain or apply element families using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-046",
+      "q": "Which is an alkali metal?",
+      "o": [
+        "Aluminium",
+        "Potassium",
+        "Calcium",
+        "Helium"
+      ],
+      "a": 1,
+      "e": "Potassium is a group 1 alkali metal.",
+      "d": "Easy",
+      "topic": "Element families",
+      "slo": "Identify, explain or apply element families using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-047",
+      "q": "Which is an alkaline earth metal?",
+      "o": [
+        "Argon",
+        "Chlorine",
+        "Calcium",
+        "Sodium"
+      ],
+      "a": 2,
+      "e": "Calcium is in group 2.",
+      "d": "Easy",
+      "topic": "Element families",
+      "slo": "Identify, explain or apply element families using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-048",
+      "q": "What do elements in the same period have in common?",
+      "o": [
+        "Same atomic mass",
+        "Same number of neutrons",
+        "Same number of occupied electron shells",
+        "Same number of valence electrons"
+      ],
+      "a": 2,
+      "e": "Period members have the same number of occupied shells.",
+      "d": "Easy",
+      "topic": "Periods",
+      "slo": "Identify, explain or apply periods using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-049",
+      "q": "Why did Mendeleev leave gaps in his periodic table?",
+      "o": [
+        "For elements not yet discovered",
+        "Because atomic numbers were missing",
+        "To exclude nonmetals",
+        "To separate all gases"
+      ],
+      "a": 0,
+      "e": "He predicted the existence and properties of undiscovered elements.",
+      "d": "Easy",
+      "topic": "Development of periodic table",
+      "slo": "Identify, explain or apply development of periodic table using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-050",
+      "q": "Why is atomic number a better basis than atomic mass for the periodic table?",
+      "o": [
+        "It always equals atomic mass",
+        "It measures neutron count only",
+        "It is identical for all isotopes and elements",
+        "It follows nuclear charge and resolves mass-order anomalies"
+      ],
+      "a": 3,
+      "e": "Atomic number determines element identity and electronic structure.",
+      "d": "Easy",
+      "topic": "Modern periodic law",
+      "slo": "Identify, explain or apply modern periodic law using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-051",
+      "q": "What is the chemical symbol of Hydrogen?",
+      "o": [
+        "V",
+        "H",
+        "Fe",
+        "F"
+      ],
+      "a": 1,
+      "e": "The chemical symbol for Hydrogen is H.",
+      "d": "Easy",
+      "topic": "Element symbols",
+      "slo": "Identify, explain or apply element symbols using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-052",
+      "q": "What is the atomic number of Hydrogen?",
+      "o": [
+        "17",
+        "11",
+        "1",
+        "36"
+      ],
+      "a": 2,
+      "e": "Hydrogen has 1 protons, so its atomic number is 1.",
+      "d": "Easy",
+      "topic": "Atomic numbers",
+      "slo": "Identify, explain or apply atomic numbers using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-053",
+      "q": "In which period is Hydrogen located?",
+      "o": [
+        "2",
+        "1",
+        "5",
+        "4"
+      ],
+      "a": 1,
+      "e": "Hydrogen occupies period 1 of the modern periodic table.",
+      "d": "Medium",
+      "topic": "Periods",
+      "slo": "Identify, explain or apply periods using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-054",
+      "q": "Which modern periodic-table group contains Hydrogen?",
+      "o": [
+        "17",
+        "4",
+        "1",
+        "12"
+      ],
+      "a": 2,
+      "e": "Hydrogen is located in group 1.",
+      "d": "Medium",
+      "topic": "Groups",
+      "slo": "Identify, explain or apply groups using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-055",
+      "q": "What is the chemical symbol of Helium?",
+      "o": [
+        "He",
+        "P",
+        "Na",
+        "Ge"
+      ],
+      "a": 0,
+      "e": "The chemical symbol for Helium is He.",
+      "d": "Easy",
+      "topic": "Element symbols",
+      "slo": "Identify, explain or apply element symbols using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-056",
+      "q": "What is the atomic number of Helium?",
+      "o": [
+        "2",
+        "21",
+        "30",
+        "32"
+      ],
+      "a": 0,
+      "e": "Helium has 2 protons, so its atomic number is 2.",
+      "d": "Easy",
+      "topic": "Atomic numbers",
+      "slo": "Identify, explain or apply atomic numbers using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-057",
+      "q": "In which period is Helium located?",
+      "o": [
+        "6",
+        "1",
+        "7",
+        "5"
+      ],
+      "a": 1,
+      "e": "Helium occupies period 1 of the modern periodic table.",
+      "d": "Medium",
+      "topic": "Periods",
+      "slo": "Identify, explain or apply periods using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-058",
+      "q": "Which modern periodic-table group contains Helium?",
+      "o": [
+        "7",
+        "10",
+        "5",
+        "18"
+      ],
+      "a": 3,
+      "e": "Helium is located in group 18.",
+      "d": "Medium",
+      "topic": "Groups",
+      "slo": "Identify, explain or apply groups using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-059",
+      "q": "What is the chemical symbol of Lithium?",
+      "o": [
+        "Si",
+        "Li",
+        "S",
+        "N"
+      ],
+      "a": 1,
+      "e": "The chemical symbol for Lithium is Li.",
+      "d": "Easy",
+      "topic": "Element symbols",
+      "slo": "Identify, explain or apply element symbols using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-060",
+      "q": "What is the atomic number of Lithium?",
+      "o": [
+        "3",
+        "12",
+        "18",
+        "33"
+      ],
+      "a": 0,
+      "e": "Lithium has 3 protons, so its atomic number is 3.",
+      "d": "Easy",
+      "topic": "Atomic numbers",
+      "slo": "Identify, explain or apply atomic numbers using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-061",
+      "q": "In which period is Lithium located?",
+      "o": [
+        "2",
+        "1",
+        "4",
+        "5"
+      ],
+      "a": 0,
+      "e": "Lithium occupies period 2 of the modern periodic table.",
+      "d": "Medium",
+      "topic": "Periods",
+      "slo": "Identify, explain or apply periods using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-062",
+      "q": "Which modern periodic-table group contains Lithium?",
+      "o": [
+        "1",
+        "3",
+        "17",
+        "6"
+      ],
+      "a": 0,
+      "e": "Lithium is located in group 1.",
+      "d": "Medium",
+      "topic": "Groups",
+      "slo": "Identify, explain or apply groups using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-063",
+      "q": "What is the chemical symbol of Beryllium?",
+      "o": [
+        "Be",
+        "O",
+        "Mn",
+        "Fe"
+      ],
+      "a": 0,
+      "e": "The chemical symbol for Beryllium is Be.",
+      "d": "Easy",
+      "topic": "Element symbols",
+      "slo": "Identify, explain or apply element symbols using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-064",
+      "q": "What is the atomic number of Beryllium?",
+      "o": [
+        "4",
+        "17",
+        "31",
+        "15"
+      ],
+      "a": 0,
+      "e": "Beryllium has 4 protons, so its atomic number is 4.",
+      "d": "Easy",
+      "topic": "Atomic numbers",
+      "slo": "Identify, explain or apply atomic numbers using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-065",
+      "q": "In which period is Beryllium located?",
+      "o": [
+        "3",
+        "5",
+        "4",
+        "2"
+      ],
+      "a": 3,
+      "e": "Beryllium occupies period 2 of the modern periodic table.",
+      "d": "Medium",
+      "topic": "Periods",
+      "slo": "Identify, explain or apply periods using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-066",
+      "q": "Which modern periodic-table group contains Beryllium?",
+      "o": [
+        "5",
+        "18",
+        "2",
+        "6"
+      ],
+      "a": 2,
+      "e": "Beryllium is located in group 2.",
+      "d": "Medium",
+      "topic": "Groups",
+      "slo": "Identify, explain or apply groups using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-067",
+      "q": "What is the chemical symbol of Boron?",
+      "o": [
+        "As",
+        "B",
+        "Fe",
+        "Ar"
+      ],
+      "a": 1,
+      "e": "The chemical symbol for Boron is B.",
+      "d": "Easy",
+      "topic": "Element symbols",
+      "slo": "Identify, explain or apply element symbols using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-068",
+      "q": "What is the atomic number of Boron?",
+      "o": [
+        "10",
+        "25",
+        "34",
+        "5"
+      ],
+      "a": 3,
+      "e": "Boron has 5 protons, so its atomic number is 5.",
+      "d": "Easy",
+      "topic": "Atomic numbers",
+      "slo": "Identify, explain or apply atomic numbers using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-069",
+      "q": "In which period is Boron located?",
+      "o": [
+        "2",
+        "1",
+        "4",
+        "6"
+      ],
+      "a": 0,
+      "e": "Boron occupies period 2 of the modern periodic table.",
+      "d": "Medium",
+      "topic": "Periods",
+      "slo": "Identify, explain or apply periods using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-070",
+      "q": "Which modern periodic-table group contains Boron?",
+      "o": [
+        "13",
+        "2",
+        "14",
+        "10"
+      ],
+      "a": 0,
+      "e": "Boron is located in group 13.",
+      "d": "Medium",
+      "topic": "Groups",
+      "slo": "Identify, explain or apply groups using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-071",
+      "q": "What is the chemical symbol of Carbon?",
+      "o": [
+        "O",
+        "Ge",
+        "Kr",
+        "C"
+      ],
+      "a": 3,
+      "e": "The chemical symbol for Carbon is C.",
+      "d": "Easy",
+      "topic": "Element symbols",
+      "slo": "Identify, explain or apply element symbols using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-072",
+      "q": "What is the atomic number of Carbon?",
+      "o": [
+        "32",
+        "20",
+        "5",
+        "6"
+      ],
+      "a": 3,
+      "e": "Carbon has 6 protons, so its atomic number is 6.",
+      "d": "Easy",
+      "topic": "Atomic numbers",
+      "slo": "Identify, explain or apply atomic numbers using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-073",
+      "q": "In which period is Carbon located?",
+      "o": [
+        "5",
+        "1",
+        "2",
+        "7"
+      ],
+      "a": 2,
+      "e": "Carbon occupies period 2 of the modern periodic table.",
+      "d": "Medium",
+      "topic": "Periods",
+      "slo": "Identify, explain or apply periods using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-074",
+      "q": "Which modern periodic-table group contains Carbon?",
+      "o": [
+        "2",
+        "14",
+        "12",
+        "1"
+      ],
+      "a": 1,
+      "e": "Carbon is located in group 14.",
+      "d": "Medium",
+      "topic": "Groups",
+      "slo": "Identify, explain or apply groups using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-075",
+      "q": "What is the chemical symbol of Nitrogen?",
+      "o": [
+        "Al",
+        "C",
+        "Ti",
+        "N"
+      ],
+      "a": 3,
+      "e": "The chemical symbol for Nitrogen is N.",
+      "d": "Easy",
+      "topic": "Element symbols",
+      "slo": "Identify, explain or apply element symbols using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-076",
+      "q": "What is the atomic number of Nitrogen?",
+      "o": [
+        "22",
+        "7",
+        "15",
+        "9"
+      ],
+      "a": 1,
+      "e": "Nitrogen has 7 protons, so its atomic number is 7.",
+      "d": "Easy",
+      "topic": "Atomic numbers",
+      "slo": "Identify, explain or apply atomic numbers using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-077",
+      "q": "In which period is Nitrogen located?",
+      "o": [
+        "1",
+        "7",
+        "3",
+        "2"
+      ],
+      "a": 3,
+      "e": "Nitrogen occupies period 2 of the modern periodic table.",
+      "d": "Medium",
+      "topic": "Periods",
+      "slo": "Identify, explain or apply periods using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-078",
+      "q": "Which modern periodic-table group contains Nitrogen?",
+      "o": [
+        "8",
+        "2",
+        "15",
+        "13"
+      ],
+      "a": 2,
+      "e": "Nitrogen is located in group 15.",
+      "d": "Medium",
+      "topic": "Groups",
+      "slo": "Identify, explain or apply groups using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-079",
+      "q": "What is the chemical symbol of Oxygen?",
+      "o": [
+        "N",
+        "He",
+        "Sc",
+        "O"
+      ],
+      "a": 3,
+      "e": "The chemical symbol for Oxygen is O.",
+      "d": "Easy",
+      "topic": "Element symbols",
+      "slo": "Identify, explain or apply element symbols using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-080",
+      "q": "What is the atomic number of Oxygen?",
+      "o": [
+        "19",
+        "27",
+        "8",
+        "18"
+      ],
+      "a": 2,
+      "e": "Oxygen has 8 protons, so its atomic number is 8.",
+      "d": "Easy",
+      "topic": "Atomic numbers",
+      "slo": "Identify, explain or apply atomic numbers using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-081",
+      "q": "In which period is Oxygen located?",
+      "o": [
+        "2",
+        "5",
+        "6",
+        "7"
+      ],
+      "a": 0,
+      "e": "Oxygen occupies period 2 of the modern periodic table.",
+      "d": "Medium",
+      "topic": "Periods",
+      "slo": "Identify, explain or apply periods using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-082",
+      "q": "Which modern periodic-table group contains Oxygen?",
+      "o": [
+        "16",
+        "12",
+        "10",
+        "15"
+      ],
+      "a": 0,
+      "e": "Oxygen is located in group 16.",
+      "d": "Medium",
+      "topic": "Groups",
+      "slo": "Identify, explain or apply groups using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-083",
+      "q": "What is the chemical symbol of Fluorine?",
+      "o": [
+        "He",
+        "F",
+        "Br",
+        "As"
+      ],
+      "a": 1,
+      "e": "The chemical symbol for Fluorine is F.",
+      "d": "Easy",
+      "topic": "Element symbols",
+      "slo": "Identify, explain or apply element symbols using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-084",
+      "q": "What is the atomic number of Fluorine?",
+      "o": [
+        "8",
+        "13",
+        "9",
+        "5"
+      ],
+      "a": 2,
+      "e": "Fluorine has 9 protons, so its atomic number is 9.",
+      "d": "Easy",
+      "topic": "Atomic numbers",
+      "slo": "Identify, explain or apply atomic numbers using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-085",
+      "q": "In which period is Fluorine located?",
+      "o": [
+        "2",
+        "1",
+        "6",
+        "7"
+      ],
+      "a": 0,
+      "e": "Fluorine occupies period 2 of the modern periodic table.",
+      "d": "Medium",
+      "topic": "Periods",
+      "slo": "Identify, explain or apply periods using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-086",
+      "q": "Which modern periodic-table group contains Fluorine?",
+      "o": [
+        "16",
+        "8",
+        "13",
+        "17"
+      ],
+      "a": 3,
+      "e": "Fluorine is located in group 17.",
+      "d": "Medium",
+      "topic": "Groups",
+      "slo": "Identify, explain or apply groups using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-087",
+      "q": "What is the chemical symbol of Neon?",
+      "o": [
+        "Mn",
+        "N",
+        "Co",
+        "Ne"
+      ],
+      "a": 3,
+      "e": "The chemical symbol for Neon is Ne.",
+      "d": "Easy",
+      "topic": "Element symbols",
+      "slo": "Identify, explain or apply element symbols using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-088",
+      "q": "What is the atomic number of Neon?",
+      "o": [
+        "35",
+        "5",
+        "10",
+        "8"
+      ],
+      "a": 2,
+      "e": "Neon has 10 protons, so its atomic number is 10.",
+      "d": "Easy",
+      "topic": "Atomic numbers",
+      "slo": "Identify, explain or apply atomic numbers using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-089",
+      "q": "In which period is Neon located?",
+      "o": [
+        "5",
+        "1",
+        "3",
+        "2"
+      ],
+      "a": 3,
+      "e": "Neon occupies period 2 of the modern periodic table.",
+      "d": "Medium",
+      "topic": "Periods",
+      "slo": "Identify, explain or apply periods using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-090",
+      "q": "Which modern periodic-table group contains Neon?",
+      "o": [
+        "12",
+        "18",
+        "10",
+        "11"
+      ],
+      "a": 1,
+      "e": "Neon is located in group 18.",
+      "d": "Medium",
+      "topic": "Groups",
+      "slo": "Identify, explain or apply groups using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-091",
+      "q": "What is the chemical symbol of Sodium?",
+      "o": [
+        "Zn",
+        "C",
+        "He",
+        "Na"
+      ],
+      "a": 3,
+      "e": "The chemical symbol for Sodium is Na.",
+      "d": "Easy",
+      "topic": "Element symbols",
+      "slo": "Identify, explain or apply element symbols using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-092",
+      "q": "What is the atomic number of Sodium?",
+      "o": [
+        "18",
+        "29",
+        "11",
+        "19"
+      ],
+      "a": 2,
+      "e": "Sodium has 11 protons, so its atomic number is 11.",
+      "d": "Easy",
+      "topic": "Atomic numbers",
+      "slo": "Identify, explain or apply atomic numbers using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-093",
+      "q": "In which period is Sodium located?",
+      "o": [
+        "1",
+        "5",
+        "4",
+        "3"
+      ],
+      "a": 3,
+      "e": "Sodium occupies period 3 of the modern periodic table.",
+      "d": "Medium",
+      "topic": "Periods",
+      "slo": "Identify, explain or apply periods using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-094",
+      "q": "Which modern periodic-table group contains Sodium?",
+      "o": [
+        "14",
+        "11",
+        "1",
+        "10"
+      ],
+      "a": 2,
+      "e": "Sodium is located in group 1.",
+      "d": "Medium",
+      "topic": "Groups",
+      "slo": "Identify, explain or apply groups using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-095",
+      "q": "What is the chemical symbol of Magnesium?",
+      "o": [
+        "Kr",
+        "P",
+        "Li",
+        "Mg"
+      ],
+      "a": 3,
+      "e": "The chemical symbol for Magnesium is Mg.",
+      "d": "Easy",
+      "topic": "Element symbols",
+      "slo": "Identify, explain or apply element symbols using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-096",
+      "q": "What is the atomic number of Magnesium?",
+      "o": [
+        "20",
+        "30",
+        "25",
+        "12"
+      ],
+      "a": 3,
+      "e": "Magnesium has 12 protons, so its atomic number is 12.",
+      "d": "Easy",
+      "topic": "Atomic numbers",
+      "slo": "Identify, explain or apply atomic numbers using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-097",
+      "q": "In which period is Magnesium located?",
+      "o": [
+        "3",
+        "2",
+        "6",
+        "1"
+      ],
+      "a": 0,
+      "e": "Magnesium occupies period 3 of the modern periodic table.",
+      "d": "Medium",
+      "topic": "Periods",
+      "slo": "Identify, explain or apply periods using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-098",
+      "q": "Which modern periodic-table group contains Magnesium?",
+      "o": [
+        "2",
+        "5",
+        "17",
+        "7"
+      ],
+      "a": 0,
+      "e": "Magnesium is located in group 2.",
+      "d": "Medium",
+      "topic": "Groups",
+      "slo": "Identify, explain or apply groups using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-099",
+      "q": "What is the chemical symbol of Aluminium?",
+      "o": [
+        "Ti",
+        "Al",
+        "Ni",
+        "N"
+      ],
+      "a": 1,
+      "e": "The chemical symbol for Aluminium is Al.",
+      "d": "Easy",
+      "topic": "Element symbols",
+      "slo": "Identify, explain or apply element symbols using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-100",
+      "q": "What is the atomic number of Aluminium?",
+      "o": [
+        "13",
+        "34",
+        "32",
+        "30"
+      ],
+      "a": 0,
+      "e": "Aluminium has 13 protons, so its atomic number is 13.",
+      "d": "Easy",
+      "topic": "Atomic numbers",
+      "slo": "Identify, explain or apply atomic numbers using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-101",
+      "q": "In which period is Aluminium located?",
+      "o": [
+        "1",
+        "5",
+        "6",
+        "3"
+      ],
+      "a": 3,
+      "e": "Aluminium occupies period 3 of the modern periodic table.",
+      "d": "Medium",
+      "topic": "Periods",
+      "slo": "Identify, explain or apply periods using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-102",
+      "q": "Which modern periodic-table group contains Aluminium?",
+      "o": [
+        "15",
+        "7",
+        "13",
+        "12"
+      ],
+      "a": 2,
+      "e": "Aluminium is located in group 13.",
+      "d": "Medium",
+      "topic": "Groups",
+      "slo": "Identify, explain or apply groups using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-103",
+      "q": "What is the chemical symbol of Silicon?",
+      "o": [
+        "Si",
+        "K",
+        "H",
+        "Ni"
+      ],
+      "a": 0,
+      "e": "The chemical symbol for Silicon is Si.",
+      "d": "Easy",
+      "topic": "Element symbols",
+      "slo": "Identify, explain or apply element symbols using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-104",
+      "q": "What is the atomic number of Silicon?",
+      "o": [
+        "1",
+        "34",
+        "14",
+        "21"
+      ],
+      "a": 2,
+      "e": "Silicon has 14 protons, so its atomic number is 14.",
+      "d": "Easy",
+      "topic": "Atomic numbers",
+      "slo": "Identify, explain or apply atomic numbers using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-105",
+      "q": "In which period is Silicon located?",
+      "o": [
+        "3",
+        "7",
+        "2",
+        "1"
+      ],
+      "a": 0,
+      "e": "Silicon occupies period 3 of the modern periodic table.",
+      "d": "Medium",
+      "topic": "Periods",
+      "slo": "Identify, explain or apply periods using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-106",
+      "q": "Which modern periodic-table group contains Silicon?",
+      "o": [
+        "11",
+        "5",
+        "14",
+        "9"
+      ],
+      "a": 2,
+      "e": "Silicon is located in group 14.",
+      "d": "Medium",
+      "topic": "Groups",
+      "slo": "Identify, explain or apply groups using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-107",
+      "q": "What is the chemical symbol of Phosphorus?",
+      "o": [
+        "K",
+        "P",
+        "Ar",
+        "Mg"
+      ],
+      "a": 1,
+      "e": "The chemical symbol for Phosphorus is P.",
+      "d": "Easy",
+      "topic": "Element symbols",
+      "slo": "Identify, explain or apply element symbols using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-108",
+      "q": "What is the atomic number of Phosphorus?",
+      "o": [
+        "11",
+        "15",
+        "26",
+        "6"
+      ],
+      "a": 1,
+      "e": "Phosphorus has 15 protons, so its atomic number is 15.",
+      "d": "Easy",
+      "topic": "Atomic numbers",
+      "slo": "Identify, explain or apply atomic numbers using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-109",
+      "q": "In which period is Phosphorus located?",
+      "o": [
+        "3",
+        "6",
+        "1",
+        "4"
+      ],
+      "a": 0,
+      "e": "Phosphorus occupies period 3 of the modern periodic table.",
+      "d": "Medium",
+      "topic": "Periods",
+      "slo": "Identify, explain or apply periods using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-110",
+      "q": "Which modern periodic-table group contains Phosphorus?",
+      "o": [
+        "12",
+        "15",
+        "3",
+        "11"
+      ],
+      "a": 1,
+      "e": "Phosphorus is located in group 15.",
+      "d": "Medium",
+      "topic": "Groups",
+      "slo": "Identify, explain or apply groups using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-111",
+      "q": "What is the chemical symbol of Sulfur?",
+      "o": [
+        "S",
+        "Ne",
+        "O",
+        "F"
+      ],
+      "a": 0,
+      "e": "The chemical symbol for Sulfur is S.",
+      "d": "Easy",
+      "topic": "Element symbols",
+      "slo": "Identify, explain or apply element symbols using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-112",
+      "q": "What is the atomic number of Sulfur?",
+      "o": [
+        "19",
+        "24",
+        "16",
+        "4"
+      ],
+      "a": 2,
+      "e": "Sulfur has 16 protons, so its atomic number is 16.",
+      "d": "Easy",
+      "topic": "Atomic numbers",
+      "slo": "Identify, explain or apply atomic numbers using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-113",
+      "q": "In which period is Sulfur located?",
+      "o": [
+        "6",
+        "3",
+        "4",
+        "7"
+      ],
+      "a": 1,
+      "e": "Sulfur occupies period 3 of the modern periodic table.",
+      "d": "Medium",
+      "topic": "Periods",
+      "slo": "Identify, explain or apply periods using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-114",
+      "q": "Which modern periodic-table group contains Sulfur?",
+      "o": [
+        "16",
+        "15",
+        "8",
+        "5"
+      ],
+      "a": 0,
+      "e": "Sulfur is located in group 16.",
+      "d": "Medium",
+      "topic": "Groups",
+      "slo": "Identify, explain or apply groups using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-115",
+      "q": "What is the chemical symbol of Chlorine?",
+      "o": [
+        "Zn",
+        "Kr",
+        "C",
+        "Cl"
+      ],
+      "a": 3,
+      "e": "The chemical symbol for Chlorine is Cl.",
+      "d": "Easy",
+      "topic": "Element symbols",
+      "slo": "Identify, explain or apply element symbols using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-116",
+      "q": "What is the atomic number of Chlorine?",
+      "o": [
+        "35",
+        "11",
+        "17",
+        "20"
+      ],
+      "a": 2,
+      "e": "Chlorine has 17 protons, so its atomic number is 17.",
+      "d": "Easy",
+      "topic": "Atomic numbers",
+      "slo": "Identify, explain or apply atomic numbers using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-117",
+      "q": "In which period is Chlorine located?",
+      "o": [
+        "6",
+        "5",
+        "3",
+        "7"
+      ],
+      "a": 2,
+      "e": "Chlorine occupies period 3 of the modern periodic table.",
+      "d": "Medium",
+      "topic": "Periods",
+      "slo": "Identify, explain or apply periods using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-118",
+      "q": "Which modern periodic-table group contains Chlorine?",
+      "o": [
+        "16",
+        "8",
+        "11",
+        "17"
+      ],
+      "a": 3,
+      "e": "Chlorine is located in group 17.",
+      "d": "Medium",
+      "topic": "Groups",
+      "slo": "Identify, explain or apply groups using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-119",
+      "q": "What is the chemical symbol of Argon?",
+      "o": [
+        "Ge",
+        "Ti",
+        "O",
+        "Ar"
+      ],
+      "a": 3,
+      "e": "The chemical symbol for Argon is Ar.",
+      "d": "Easy",
+      "topic": "Element symbols",
+      "slo": "Identify, explain or apply element symbols using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-120",
+      "q": "What is the atomic number of Argon?",
+      "o": [
+        "20",
+        "18",
+        "22",
+        "2"
+      ],
+      "a": 1,
+      "e": "Argon has 18 protons, so its atomic number is 18.",
+      "d": "Easy",
+      "topic": "Atomic numbers",
+      "slo": "Identify, explain or apply atomic numbers using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-121",
+      "q": "In which period is Argon located?",
+      "o": [
+        "5",
+        "1",
+        "3",
+        "6"
+      ],
+      "a": 2,
+      "e": "Argon occupies period 3 of the modern periodic table.",
+      "d": "Medium",
+      "topic": "Periods",
+      "slo": "Identify, explain or apply periods using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-122",
+      "q": "Which modern periodic-table group contains Argon?",
+      "o": [
+        "16",
+        "13",
+        "14",
+        "18"
+      ],
+      "a": 3,
+      "e": "Argon is located in group 18.",
+      "d": "Medium",
+      "topic": "Groups",
+      "slo": "Identify, explain or apply groups using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-123",
+      "q": "What is the chemical symbol of Potassium?",
+      "o": [
+        "Be",
+        "Cr",
+        "Cu",
+        "K"
+      ],
+      "a": 3,
+      "e": "The chemical symbol for Potassium is K.",
+      "d": "Easy",
+      "topic": "Element symbols",
+      "slo": "Identify, explain or apply element symbols using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-124",
+      "q": "What is the atomic number of Potassium?",
+      "o": [
+        "8",
+        "18",
+        "19",
+        "2"
+      ],
+      "a": 2,
+      "e": "Potassium has 19 protons, so its atomic number is 19.",
+      "d": "Easy",
+      "topic": "Atomic numbers",
+      "slo": "Identify, explain or apply atomic numbers using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-125",
+      "q": "In which period is Potassium located?",
+      "o": [
+        "4",
+        "3",
+        "6",
+        "5"
+      ],
+      "a": 0,
+      "e": "Potassium occupies period 4 of the modern periodic table.",
+      "d": "Medium",
+      "topic": "Periods",
+      "slo": "Identify, explain or apply periods using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-126",
+      "q": "Which modern periodic-table group contains Potassium?",
+      "o": [
+        "1",
+        "15",
+        "6",
+        "4"
+      ],
+      "a": 0,
+      "e": "Potassium is located in group 1.",
+      "d": "Medium",
+      "topic": "Groups",
+      "slo": "Identify, explain or apply groups using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-127",
+      "q": "What is the chemical symbol of Calcium?",
+      "o": [
+        "C",
+        "Be",
+        "Ca",
+        "Ge"
+      ],
+      "a": 2,
+      "e": "The chemical symbol for Calcium is Ca.",
+      "d": "Easy",
+      "topic": "Element symbols",
+      "slo": "Identify, explain or apply element symbols using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-128",
+      "q": "What is the atomic number of Calcium?",
+      "o": [
+        "19",
+        "13",
+        "20",
+        "29"
+      ],
+      "a": 2,
+      "e": "Calcium has 20 protons, so its atomic number is 20.",
+      "d": "Easy",
+      "topic": "Atomic numbers",
+      "slo": "Identify, explain or apply atomic numbers using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-129",
+      "q": "In which period is Calcium located?",
+      "o": [
+        "3",
+        "2",
+        "4",
+        "1"
+      ],
+      "a": 2,
+      "e": "Calcium occupies period 4 of the modern periodic table.",
+      "d": "Medium",
+      "topic": "Periods",
+      "slo": "Identify, explain or apply periods using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-130",
+      "q": "Which modern periodic-table group contains Calcium?",
+      "o": [
+        "2",
+        "14",
+        "7",
+        "12"
+      ],
+      "a": 0,
+      "e": "Calcium is located in group 2.",
+      "d": "Medium",
+      "topic": "Groups",
+      "slo": "Identify, explain or apply groups using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-131",
+      "q": "What is the chemical symbol of Scandium?",
+      "o": [
+        "Ga",
+        "Mg",
+        "Kr",
+        "Sc"
+      ],
+      "a": 3,
+      "e": "The chemical symbol for Scandium is Sc.",
+      "d": "Easy",
+      "topic": "Element symbols",
+      "slo": "Identify, explain or apply element symbols using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-132",
+      "q": "What is the atomic number of Scandium?",
+      "o": [
+        "21",
+        "3",
+        "1",
+        "28"
+      ],
+      "a": 0,
+      "e": "Scandium has 21 protons, so its atomic number is 21.",
+      "d": "Easy",
+      "topic": "Atomic numbers",
+      "slo": "Identify, explain or apply atomic numbers using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-133",
+      "q": "In which period is Scandium located?",
+      "o": [
+        "4",
+        "2",
+        "7",
+        "3"
+      ],
+      "a": 0,
+      "e": "Scandium occupies period 4 of the modern periodic table.",
+      "d": "Medium",
+      "topic": "Periods",
+      "slo": "Identify, explain or apply periods using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-134",
+      "q": "Which modern periodic-table group contains Scandium?",
+      "o": [
+        "3",
+        "2",
+        "13",
+        "14"
+      ],
+      "a": 0,
+      "e": "Scandium is located in group 3.",
+      "d": "Medium",
+      "topic": "Groups",
+      "slo": "Identify, explain or apply groups using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-135",
+      "q": "What is the chemical symbol of Titanium?",
+      "o": [
+        "Mn",
+        "Ti",
+        "F",
+        "Kr"
+      ],
+      "a": 1,
+      "e": "The chemical symbol for Titanium is Ti.",
+      "d": "Easy",
+      "topic": "Element symbols",
+      "slo": "Identify, explain or apply element symbols using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-136",
+      "q": "What is the atomic number of Titanium?",
+      "o": [
+        "2",
+        "11",
+        "29",
+        "22"
+      ],
+      "a": 3,
+      "e": "Titanium has 22 protons, so its atomic number is 22.",
+      "d": "Easy",
+      "topic": "Atomic numbers",
+      "slo": "Identify, explain or apply atomic numbers using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-137",
+      "q": "In which period is Titanium located?",
+      "o": [
+        "2",
+        "1",
+        "4",
+        "7"
+      ],
+      "a": 2,
+      "e": "Titanium occupies period 4 of the modern periodic table.",
+      "d": "Medium",
+      "topic": "Periods",
+      "slo": "Identify, explain or apply periods using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-138",
+      "q": "Which modern periodic-table group contains Titanium?",
+      "o": [
+        "16",
+        "4",
+        "6",
+        "3"
+      ],
+      "a": 1,
+      "e": "Titanium is located in group 4.",
+      "d": "Medium",
+      "topic": "Groups",
+      "slo": "Identify, explain or apply groups using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-139",
+      "q": "What is the chemical symbol of Vanadium?",
+      "o": [
+        "C",
+        "S",
+        "V",
+        "Mg"
+      ],
+      "a": 2,
+      "e": "The chemical symbol for Vanadium is V.",
+      "d": "Easy",
+      "topic": "Element symbols",
+      "slo": "Identify, explain or apply element symbols using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-140",
+      "q": "What is the atomic number of Vanadium?",
+      "o": [
+        "20",
+        "23",
+        "12",
+        "17"
+      ],
+      "a": 1,
+      "e": "Vanadium has 23 protons, so its atomic number is 23.",
+      "d": "Easy",
+      "topic": "Atomic numbers",
+      "slo": "Identify, explain or apply atomic numbers using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-141",
+      "q": "In which period is Vanadium located?",
+      "o": [
+        "5",
+        "1",
+        "4",
+        "3"
+      ],
+      "a": 2,
+      "e": "Vanadium occupies period 4 of the modern periodic table.",
+      "d": "Medium",
+      "topic": "Periods",
+      "slo": "Identify, explain or apply periods using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-142",
+      "q": "Which modern periodic-table group contains Vanadium?",
+      "o": [
+        "1",
+        "13",
+        "11",
+        "5"
+      ],
+      "a": 3,
+      "e": "Vanadium is located in group 5.",
+      "d": "Medium",
+      "topic": "Groups",
+      "slo": "Identify, explain or apply groups using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-143",
+      "q": "What is the chemical symbol of Chromium?",
+      "o": [
+        "Cl",
+        "He",
+        "Cr",
+        "Ar"
+      ],
+      "a": 2,
+      "e": "The chemical symbol for Chromium is Cr.",
+      "d": "Easy",
+      "topic": "Element symbols",
+      "slo": "Identify, explain or apply element symbols using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-144",
+      "q": "What is the atomic number of Chromium?",
+      "o": [
+        "14",
+        "8",
+        "24",
+        "22"
+      ],
+      "a": 2,
+      "e": "Chromium has 24 protons, so its atomic number is 24.",
+      "d": "Easy",
+      "topic": "Atomic numbers",
+      "slo": "Identify, explain or apply atomic numbers using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-145",
+      "q": "In which period is Chromium located?",
+      "o": [
+        "1",
+        "7",
+        "3",
+        "4"
+      ],
+      "a": 3,
+      "e": "Chromium occupies period 4 of the modern periodic table.",
+      "d": "Medium",
+      "topic": "Periods",
+      "slo": "Identify, explain or apply periods using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-146",
+      "q": "Which modern periodic-table group contains Chromium?",
+      "o": [
+        "6",
+        "12",
+        "11",
+        "9"
+      ],
+      "a": 0,
+      "e": "Chromium is located in group 6.",
+      "d": "Medium",
+      "topic": "Groups",
+      "slo": "Identify, explain or apply groups using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-147",
+      "q": "What is the chemical symbol of Manganese?",
+      "o": [
+        "Mn",
+        "Li",
+        "Fe",
+        "Ni"
+      ],
+      "a": 0,
+      "e": "The chemical symbol for Manganese is Mn.",
+      "d": "Easy",
+      "topic": "Element symbols",
+      "slo": "Identify, explain or apply element symbols using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-148",
+      "q": "What is the atomic number of Manganese?",
+      "o": [
+        "7",
+        "8",
+        "29",
+        "25"
+      ],
+      "a": 3,
+      "e": "Manganese has 25 protons, so its atomic number is 25.",
+      "d": "Easy",
+      "topic": "Atomic numbers",
+      "slo": "Identify, explain or apply atomic numbers using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-149",
+      "q": "In which period is Manganese located?",
+      "o": [
+        "2",
+        "4",
+        "3",
+        "6"
+      ],
+      "a": 1,
+      "e": "Manganese occupies period 4 of the modern periodic table.",
+      "d": "Medium",
+      "topic": "Periods",
+      "slo": "Identify, explain or apply periods using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-150",
+      "q": "Which modern periodic-table group contains Manganese?",
+      "o": [
+        "8",
+        "13",
+        "7",
+        "5"
+      ],
+      "a": 2,
+      "e": "Manganese is located in group 7.",
+      "d": "Medium",
+      "topic": "Groups",
+      "slo": "Identify, explain or apply groups using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-151",
+      "q": "What is the chemical symbol of Iron?",
+      "o": [
+        "P",
+        "Fe",
+        "B",
+        "O"
+      ],
+      "a": 1,
+      "e": "The chemical symbol for Iron is Fe.",
+      "d": "Easy",
+      "topic": "Element symbols",
+      "slo": "Identify, explain or apply element symbols using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-152",
+      "q": "What is the atomic number of Iron?",
+      "o": [
+        "24",
+        "26",
+        "31",
+        "1"
+      ],
+      "a": 1,
+      "e": "Iron has 26 protons, so its atomic number is 26.",
+      "d": "Easy",
+      "topic": "Atomic numbers",
+      "slo": "Identify, explain or apply atomic numbers using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-153",
+      "q": "In which period is Iron located?",
+      "o": [
+        "1",
+        "3",
+        "5",
+        "4"
+      ],
+      "a": 3,
+      "e": "Iron occupies period 4 of the modern periodic table.",
+      "d": "Medium",
+      "topic": "Periods",
+      "slo": "Identify, explain or apply periods using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-154",
+      "q": "Which modern periodic-table group contains Iron?",
+      "o": [
+        "8",
+        "4",
+        "13",
+        "14"
+      ],
+      "a": 0,
+      "e": "Iron is located in group 8.",
+      "d": "Medium",
+      "topic": "Groups",
+      "slo": "Identify, explain or apply groups using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-155",
+      "q": "What is the chemical symbol of Cobalt?",
+      "o": [
+        "Li",
+        "Ga",
+        "S",
+        "Co"
+      ],
+      "a": 3,
+      "e": "The chemical symbol for Cobalt is Co.",
+      "d": "Easy",
+      "topic": "Element symbols",
+      "slo": "Identify, explain or apply element symbols using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-156",
+      "q": "What is the atomic number of Cobalt?",
+      "o": [
+        "22",
+        "27",
+        "1",
+        "8"
+      ],
+      "a": 1,
+      "e": "Cobalt has 27 protons, so its atomic number is 27.",
+      "d": "Easy",
+      "topic": "Atomic numbers",
+      "slo": "Identify, explain or apply atomic numbers using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-157",
+      "q": "In which period is Cobalt located?",
+      "o": [
+        "2",
+        "5",
+        "3",
+        "4"
+      ],
+      "a": 3,
+      "e": "Cobalt occupies period 4 of the modern periodic table.",
+      "d": "Medium",
+      "topic": "Periods",
+      "slo": "Identify, explain or apply periods using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-158",
+      "q": "Which modern periodic-table group contains Cobalt?",
+      "o": [
+        "9",
+        "18",
+        "4",
+        "10"
+      ],
+      "a": 0,
+      "e": "Cobalt is located in group 9.",
+      "d": "Medium",
+      "topic": "Groups",
+      "slo": "Identify, explain or apply groups using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-159",
+      "q": "What is the chemical symbol of Nickel?",
+      "o": [
+        "Ni",
+        "B",
+        "F",
+        "Ca"
+      ],
+      "a": 0,
+      "e": "The chemical symbol for Nickel is Ni.",
+      "d": "Easy",
+      "topic": "Element symbols",
+      "slo": "Identify, explain or apply element symbols using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-160",
+      "q": "What is the atomic number of Nickel?",
+      "o": [
+        "8",
+        "32",
+        "29",
+        "28"
+      ],
+      "a": 3,
+      "e": "Nickel has 28 protons, so its atomic number is 28.",
+      "d": "Easy",
+      "topic": "Atomic numbers",
+      "slo": "Identify, explain or apply atomic numbers using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-161",
+      "q": "In which period is Nickel located?",
+      "o": [
+        "4",
+        "2",
+        "1",
+        "5"
+      ],
+      "a": 0,
+      "e": "Nickel occupies period 4 of the modern periodic table.",
+      "d": "Medium",
+      "topic": "Periods",
+      "slo": "Identify, explain or apply periods using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-162",
+      "q": "Which modern periodic-table group contains Nickel?",
+      "o": [
+        "15",
+        "10",
+        "14",
+        "12"
+      ],
+      "a": 1,
+      "e": "Nickel is located in group 10.",
+      "d": "Medium",
+      "topic": "Groups",
+      "slo": "Identify, explain or apply groups using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-163",
+      "q": "What is the chemical symbol of Copper?",
+      "o": [
+        "Se",
+        "Cu",
+        "As",
+        "He"
+      ],
+      "a": 1,
+      "e": "The chemical symbol for Copper is Cu.",
+      "d": "Easy",
+      "topic": "Element symbols",
+      "slo": "Identify, explain or apply element symbols using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-164",
+      "q": "What is the atomic number of Copper?",
+      "o": [
+        "29",
+        "12",
+        "7",
+        "1"
+      ],
+      "a": 0,
+      "e": "Copper has 29 protons, so its atomic number is 29.",
+      "d": "Easy",
+      "topic": "Atomic numbers",
+      "slo": "Identify, explain or apply atomic numbers using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-165",
+      "q": "In which period is Copper located?",
+      "o": [
+        "6",
+        "2",
+        "4",
+        "7"
+      ],
+      "a": 2,
+      "e": "Copper occupies period 4 of the modern periodic table.",
+      "d": "Medium",
+      "topic": "Periods",
+      "slo": "Identify, explain or apply periods using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-166",
+      "q": "Which modern periodic-table group contains Copper?",
+      "o": [
+        "12",
+        "18",
+        "3",
+        "11"
+      ],
+      "a": 3,
+      "e": "Copper is located in group 11.",
+      "d": "Medium",
+      "topic": "Groups",
+      "slo": "Identify, explain or apply groups using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-167",
+      "q": "What is the chemical symbol of Zinc?",
+      "o": [
+        "Na",
+        "As",
+        "Zn",
+        "V"
+      ],
+      "a": 2,
+      "e": "The chemical symbol for Zinc is Zn.",
+      "d": "Easy",
+      "topic": "Element symbols",
+      "slo": "Identify, explain or apply element symbols using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-168",
+      "q": "What is the atomic number of Zinc?",
+      "o": [
+        "21",
+        "2",
+        "4",
+        "30"
+      ],
+      "a": 3,
+      "e": "Zinc has 30 protons, so its atomic number is 30.",
+      "d": "Easy",
+      "topic": "Atomic numbers",
+      "slo": "Identify, explain or apply atomic numbers using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-169",
+      "q": "In which period is Zinc located?",
+      "o": [
+        "3",
+        "1",
+        "7",
+        "4"
+      ],
+      "a": 3,
+      "e": "Zinc occupies period 4 of the modern periodic table.",
+      "d": "Medium",
+      "topic": "Periods",
+      "slo": "Identify, explain or apply periods using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-170",
+      "q": "Which modern periodic-table group contains Zinc?",
+      "o": [
+        "6",
+        "18",
+        "11",
+        "12"
+      ],
+      "a": 3,
+      "e": "Zinc is located in group 12.",
+      "d": "Medium",
+      "topic": "Groups",
+      "slo": "Identify, explain or apply groups using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-171",
+      "q": "What is the chemical symbol of Gallium?",
+      "o": [
+        "Ga",
+        "Al",
+        "Be",
+        "K"
+      ],
+      "a": 0,
+      "e": "The chemical symbol for Gallium is Ga.",
+      "d": "Easy",
+      "topic": "Element symbols",
+      "slo": "Identify, explain or apply element symbols using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-172",
+      "q": "What is the atomic number of Gallium?",
+      "o": [
+        "34",
+        "5",
+        "31",
+        "28"
+      ],
+      "a": 2,
+      "e": "Gallium has 31 protons, so its atomic number is 31.",
+      "d": "Easy",
+      "topic": "Atomic numbers",
+      "slo": "Identify, explain or apply atomic numbers using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-173",
+      "q": "In which period is Gallium located?",
+      "o": [
+        "1",
+        "6",
+        "4",
+        "7"
+      ],
+      "a": 2,
+      "e": "Gallium occupies period 4 of the modern periodic table.",
+      "d": "Medium",
+      "topic": "Periods",
+      "slo": "Identify, explain or apply periods using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-174",
+      "q": "Which modern periodic-table group contains Gallium?",
+      "o": [
+        "3",
+        "8",
+        "2",
+        "13"
+      ],
+      "a": 3,
+      "e": "Gallium is located in group 13.",
+      "d": "Medium",
+      "topic": "Groups",
+      "slo": "Identify, explain or apply groups using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-175",
+      "q": "What is the chemical symbol of Germanium?",
+      "o": [
+        "O",
+        "He",
+        "Ge",
+        "Li"
+      ],
+      "a": 2,
+      "e": "The chemical symbol for Germanium is Ge.",
+      "d": "Easy",
+      "topic": "Element symbols",
+      "slo": "Identify, explain or apply element symbols using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-176",
+      "q": "What is the atomic number of Germanium?",
+      "o": [
+        "19",
+        "20",
+        "32",
+        "12"
+      ],
+      "a": 2,
+      "e": "Germanium has 32 protons, so its atomic number is 32.",
+      "d": "Easy",
+      "topic": "Atomic numbers",
+      "slo": "Identify, explain or apply atomic numbers using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-177",
+      "q": "In which period is Germanium located?",
+      "o": [
+        "3",
+        "4",
+        "2",
+        "5"
+      ],
+      "a": 1,
+      "e": "Germanium occupies period 4 of the modern periodic table.",
+      "d": "Medium",
+      "topic": "Periods",
+      "slo": "Identify, explain or apply periods using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-178",
+      "q": "Which modern periodic-table group contains Germanium?",
+      "o": [
+        "14",
+        "2",
+        "13",
+        "18"
+      ],
+      "a": 0,
+      "e": "Germanium is located in group 14.",
+      "d": "Medium",
+      "topic": "Groups",
+      "slo": "Identify, explain or apply groups using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-179",
+      "q": "What is the chemical symbol of Arsenic?",
+      "o": [
+        "As",
+        "P",
+        "Fe",
+        "Ar"
+      ],
+      "a": 0,
+      "e": "The chemical symbol for Arsenic is As.",
+      "d": "Easy",
+      "topic": "Element symbols",
+      "slo": "Identify, explain or apply element symbols using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-180",
+      "q": "What is the atomic number of Arsenic?",
+      "o": [
+        "20",
+        "18",
+        "7",
+        "33"
+      ],
+      "a": 3,
+      "e": "Arsenic has 33 protons, so its atomic number is 33.",
+      "d": "Easy",
+      "topic": "Atomic numbers",
+      "slo": "Identify, explain or apply atomic numbers using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-181",
+      "q": "In which period is Arsenic located?",
+      "o": [
+        "4",
+        "1",
+        "3",
+        "6"
+      ],
+      "a": 0,
+      "e": "Arsenic occupies period 4 of the modern periodic table.",
+      "d": "Medium",
+      "topic": "Periods",
+      "slo": "Identify, explain or apply periods using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-182",
+      "q": "Which modern periodic-table group contains Arsenic?",
+      "o": [
+        "10",
+        "2",
+        "16",
+        "15"
+      ],
+      "a": 3,
+      "e": "Arsenic is located in group 15.",
+      "d": "Medium",
+      "topic": "Groups",
+      "slo": "Identify, explain or apply groups using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-183",
+      "q": "What is the chemical symbol of Selenium?",
+      "o": [
+        "Ti",
+        "Cr",
+        "Se",
+        "Li"
+      ],
+      "a": 2,
+      "e": "The chemical symbol for Selenium is Se.",
+      "d": "Easy",
+      "topic": "Element symbols",
+      "slo": "Identify, explain or apply element symbols using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-184",
+      "q": "What is the atomic number of Selenium?",
+      "o": [
+        "19",
+        "35",
+        "11",
+        "34"
+      ],
+      "a": 3,
+      "e": "Selenium has 34 protons, so its atomic number is 34.",
+      "d": "Easy",
+      "topic": "Atomic numbers",
+      "slo": "Identify, explain or apply atomic numbers using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-185",
+      "q": "In which period is Selenium located?",
+      "o": [
+        "1",
+        "4",
+        "3",
+        "7"
+      ],
+      "a": 1,
+      "e": "Selenium occupies period 4 of the modern periodic table.",
+      "d": "Medium",
+      "topic": "Periods",
+      "slo": "Identify, explain or apply periods using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-186",
+      "q": "Which modern periodic-table group contains Selenium?",
+      "o": [
+        "1",
+        "16",
+        "14",
+        "6"
+      ],
+      "a": 1,
+      "e": "Selenium is located in group 16.",
+      "d": "Medium",
+      "topic": "Groups",
+      "slo": "Identify, explain or apply groups using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-187",
+      "q": "What is the chemical symbol of Bromine?",
+      "o": [
+        "Mn",
+        "C",
+        "Si",
+        "Br"
+      ],
+      "a": 3,
+      "e": "The chemical symbol for Bromine is Br.",
+      "d": "Easy",
+      "topic": "Element symbols",
+      "slo": "Identify, explain or apply element symbols using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-188",
+      "q": "What is the atomic number of Bromine?",
+      "o": [
+        "29",
+        "11",
+        "4",
+        "35"
+      ],
+      "a": 3,
+      "e": "Bromine has 35 protons, so its atomic number is 35.",
+      "d": "Easy",
+      "topic": "Atomic numbers",
+      "slo": "Identify, explain or apply atomic numbers using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-189",
+      "q": "In which period is Bromine located?",
+      "o": [
+        "3",
+        "1",
+        "2",
+        "4"
+      ],
+      "a": 3,
+      "e": "Bromine occupies period 4 of the modern periodic table.",
+      "d": "Medium",
+      "topic": "Periods",
+      "slo": "Identify, explain or apply periods using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-190",
+      "q": "Which modern periodic-table group contains Bromine?",
+      "o": [
+        "7",
+        "17",
+        "3",
+        "1"
+      ],
+      "a": 1,
+      "e": "Bromine is located in group 17.",
+      "d": "Medium",
+      "topic": "Groups",
+      "slo": "Identify, explain or apply groups using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-191",
+      "q": "What is the chemical symbol of Krypton?",
+      "o": [
+        "Kr",
+        "Ni",
+        "K",
+        "C"
+      ],
+      "a": 0,
+      "e": "The chemical symbol for Krypton is Kr.",
+      "d": "Easy",
+      "topic": "Element symbols",
+      "slo": "Identify, explain or apply element symbols using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-192",
+      "q": "What is the atomic number of Krypton?",
+      "o": [
+        "36",
+        "28",
+        "10",
+        "32"
+      ],
+      "a": 0,
+      "e": "Krypton has 36 protons, so its atomic number is 36.",
+      "d": "Easy",
+      "topic": "Atomic numbers",
+      "slo": "Identify, explain or apply atomic numbers using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-193",
+      "q": "In which period is Krypton located?",
+      "o": [
+        "1",
+        "3",
+        "4",
+        "5"
+      ],
+      "a": 2,
+      "e": "Krypton occupies period 4 of the modern periodic table.",
+      "d": "Medium",
+      "topic": "Periods",
+      "slo": "Identify, explain or apply periods using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-194",
+      "q": "Which modern periodic-table group contains Krypton?",
+      "o": [
+        "9",
+        "10",
+        "18",
+        "1"
+      ],
+      "a": 2,
+      "e": "Krypton is located in group 18.",
+      "d": "Medium",
+      "topic": "Groups",
+      "slo": "Identify, explain or apply groups using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-195",
+      "q": "Which shell-wise electron arrangement belongs to neutral Hydrogen (Z = 1)?",
+      "o": [
+        "1",
+        "2,4",
+        "2,8,16,2",
+        "2"
+      ],
+      "a": 0,
+      "e": "Neutral Hydrogen has 1 electrons distributed as 1.",
+      "d": "Medium",
+      "topic": "Electronic configuration",
+      "slo": "Identify, explain or apply electronic configuration using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-196",
+      "q": "Which shell-wise electron arrangement belongs to neutral Helium (Z = 2)?",
+      "o": [
+        "2,8,6",
+        "2,8,18,4",
+        "2,8",
+        "2"
+      ],
+      "a": 3,
+      "e": "Neutral Helium has 2 electrons distributed as 2.",
+      "d": "Medium",
+      "topic": "Electronic configuration",
+      "slo": "Identify, explain or apply electronic configuration using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-197",
+      "q": "Which shell-wise electron arrangement belongs to neutral Lithium (Z = 3)?",
+      "o": [
+        "2,8,1",
+        "2,8,10,2",
+        "2,2",
+        "2,1"
+      ],
+      "a": 3,
+      "e": "Neutral Lithium has 3 electrons distributed as 2,1.",
+      "d": "Medium",
+      "topic": "Electronic configuration",
+      "slo": "Identify, explain or apply electronic configuration using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-198",
+      "q": "Which shell-wise electron arrangement belongs to neutral Beryllium (Z = 4)?",
+      "o": [
+        "2,8,6",
+        "2,2",
+        "2,8,1",
+        "2,8,18,2"
+      ],
+      "a": 1,
+      "e": "Neutral Beryllium has 4 electrons distributed as 2,2.",
+      "d": "Medium",
+      "topic": "Electronic configuration",
+      "slo": "Identify, explain or apply electronic configuration using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-199",
+      "q": "Which shell-wise electron arrangement belongs to neutral Boron (Z = 5)?",
+      "o": [
+        "1",
+        "2,3",
+        "2,8,6",
+        "2,5"
+      ],
+      "a": 1,
+      "e": "Neutral Boron has 5 electrons distributed as 2,3.",
+      "d": "Medium",
+      "topic": "Electronic configuration",
+      "slo": "Identify, explain or apply electronic configuration using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-200",
+      "q": "Which shell-wise electron arrangement belongs to neutral Carbon (Z = 6)?",
+      "o": [
+        "2,4",
+        "1",
+        "2,6",
+        "2,8,18,1"
+      ],
+      "a": 0,
+      "e": "Neutral Carbon has 6 electrons distributed as 2,4.",
+      "d": "Medium",
+      "topic": "Electronic configuration",
+      "slo": "Identify, explain or apply electronic configuration using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-201",
+      "q": "Which shell-wise electron arrangement belongs to neutral Nitrogen (Z = 7)?",
+      "o": [
+        "2,5",
+        "2,8,5",
+        "2,8,2",
+        "2,8,18,5"
+      ],
+      "a": 0,
+      "e": "Neutral Nitrogen has 7 electrons distributed as 2,5.",
+      "d": "Medium",
+      "topic": "Electronic configuration",
+      "slo": "Identify, explain or apply electronic configuration using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-202",
+      "q": "Which shell-wise electron arrangement belongs to neutral Oxygen (Z = 8)?",
+      "o": [
+        "2,8,18,2",
+        "2,8,18,5",
+        "2,6",
+        "2,1"
+      ],
+      "a": 2,
+      "e": "Neutral Oxygen has 8 electrons distributed as 2,6.",
+      "d": "Medium",
+      "topic": "Electronic configuration",
+      "slo": "Identify, explain or apply electronic configuration using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-203",
+      "q": "Which shell-wise electron arrangement belongs to neutral Fluorine (Z = 9)?",
+      "o": [
+        "1",
+        "2,8,16,2",
+        "2,8,18,4",
+        "2,7"
+      ],
+      "a": 3,
+      "e": "Neutral Fluorine has 9 electrons distributed as 2,7.",
+      "d": "Medium",
+      "topic": "Electronic configuration",
+      "slo": "Identify, explain or apply electronic configuration using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-204",
+      "q": "Which shell-wise electron arrangement belongs to neutral Neon (Z = 10)?",
+      "o": [
+        "2,8",
+        "2,8,11,2",
+        "2,8,14,2",
+        "2,8,1"
+      ],
+      "a": 0,
+      "e": "Neutral Neon has 10 electrons distributed as 2,8.",
+      "d": "Medium",
+      "topic": "Electronic configuration",
+      "slo": "Identify, explain or apply electronic configuration using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-205",
+      "q": "Which shell-wise electron arrangement belongs to neutral Sodium (Z = 11)?",
+      "o": [
+        "2,8,10,2",
+        "2,8,4",
+        "2,8,1",
+        "2,8,8"
+      ],
+      "a": 2,
+      "e": "Neutral Sodium has 11 electrons distributed as 2,8,1.",
+      "d": "Medium",
+      "topic": "Electronic configuration",
+      "slo": "Identify, explain or apply electronic configuration using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-206",
+      "q": "Which shell-wise electron arrangement belongs to neutral Magnesium (Z = 12)?",
+      "o": [
+        "2,8,18,5",
+        "2,8,10,2",
+        "2,8,2",
+        "2,8,6"
+      ],
+      "a": 2,
+      "e": "Neutral Magnesium has 12 electrons distributed as 2,8,2.",
+      "d": "Medium",
+      "topic": "Electronic configuration",
+      "slo": "Identify, explain or apply electronic configuration using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-207",
+      "q": "Which shell-wise electron arrangement belongs to neutral Aluminium (Z = 13)?",
+      "o": [
+        "2,8,15,2",
+        "2,8,3",
+        "2,8,2",
+        "2,1"
+      ],
+      "a": 1,
+      "e": "Neutral Aluminium has 13 electrons distributed as 2,8,3.",
+      "d": "Medium",
+      "topic": "Electronic configuration",
+      "slo": "Identify, explain or apply electronic configuration using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-208",
+      "q": "Which shell-wise electron arrangement belongs to neutral Silicon (Z = 14)?",
+      "o": [
+        "2,8,18,1",
+        "2,8",
+        "2,8,8",
+        "2,8,4"
+      ],
+      "a": 3,
+      "e": "Neutral Silicon has 14 electrons distributed as 2,8,4.",
+      "d": "Medium",
+      "topic": "Electronic configuration",
+      "slo": "Identify, explain or apply electronic configuration using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-209",
+      "q": "Which shell-wise electron arrangement belongs to neutral Phosphorus (Z = 15)?",
+      "o": [
+        "2,8,5",
+        "2,4",
+        "2,8,1",
+        "2,8,14,2"
+      ],
+      "a": 0,
+      "e": "Neutral Phosphorus has 15 electrons distributed as 2,8,5.",
+      "d": "Medium",
+      "topic": "Electronic configuration",
+      "slo": "Identify, explain or apply electronic configuration using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-210",
+      "q": "Which shell-wise electron arrangement belongs to neutral Sulfur (Z = 16)?",
+      "o": [
+        "2,8,6",
+        "2,8,13,2",
+        "2,8,1",
+        "2,6"
+      ],
+      "a": 0,
+      "e": "Neutral Sulfur has 16 electrons distributed as 2,8,6.",
+      "d": "Medium",
+      "topic": "Electronic configuration",
+      "slo": "Identify, explain or apply electronic configuration using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-211",
+      "q": "Which shell-wise electron arrangement belongs to neutral Chlorine (Z = 17)?",
+      "o": [
+        "2,4",
+        "2,8,7",
+        "2,2",
+        "2,8,13,1"
+      ],
+      "a": 1,
+      "e": "Neutral Chlorine has 17 electrons distributed as 2,8,7.",
+      "d": "Medium",
+      "topic": "Electronic configuration",
+      "slo": "Identify, explain or apply electronic configuration using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-212",
+      "q": "Which shell-wise electron arrangement belongs to neutral Argon (Z = 18)?",
+      "o": [
+        "2,8,18,5",
+        "2,8,18,3",
+        "2,8,4",
+        "2,8,8"
+      ],
+      "a": 3,
+      "e": "Neutral Argon has 18 electrons distributed as 2,8,8.",
+      "d": "Medium",
+      "topic": "Electronic configuration",
+      "slo": "Identify, explain or apply electronic configuration using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-213",
+      "q": "Which shell-wise electron arrangement belongs to neutral Potassium (Z = 19)?",
+      "o": [
+        "2,8,18,5",
+        "1",
+        "2,8,8,1",
+        "2,8,18,4"
+      ],
+      "a": 2,
+      "e": "Neutral Potassium has 19 electrons distributed as 2,8,8,1.",
+      "d": "Medium",
+      "topic": "Electronic configuration",
+      "slo": "Identify, explain or apply electronic configuration using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-214",
+      "q": "Which shell-wise electron arrangement belongs to neutral Calcium (Z = 20)?",
+      "o": [
+        "2,8,8,2",
+        "2,8,14,2",
+        "2,8,3",
+        "2,3"
+      ],
+      "a": 0,
+      "e": "Neutral Calcium has 20 electrons distributed as 2,8,8,2.",
+      "d": "Medium",
+      "topic": "Electronic configuration",
+      "slo": "Identify, explain or apply electronic configuration using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-215",
+      "q": "Which shell-wise electron arrangement belongs to neutral Scandium (Z = 21)?",
+      "o": [
+        "2,8,13,2",
+        "2,8,9,2",
+        "2,4",
+        "2,8,5"
+      ],
+      "a": 1,
+      "e": "Neutral Scandium has 21 electrons distributed as 2,8,9,2.",
+      "d": "Medium",
+      "topic": "Electronic configuration",
+      "slo": "Identify, explain or apply electronic configuration using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-216",
+      "q": "Which shell-wise electron arrangement belongs to neutral Titanium (Z = 22)?",
+      "o": [
+        "2,8,4",
+        "2,8,18,5",
+        "2,8,8",
+        "2,8,10,2"
+      ],
+      "a": 3,
+      "e": "Neutral Titanium has 22 electrons distributed as 2,8,10,2.",
+      "d": "Medium",
+      "topic": "Electronic configuration",
+      "slo": "Identify, explain or apply electronic configuration using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-217",
+      "q": "Which shell-wise electron arrangement belongs to neutral Vanadium (Z = 23)?",
+      "o": [
+        "2,8,11,2",
+        "2,8,16,2",
+        "2,8,10,2",
+        "2,8,8,1"
+      ],
+      "a": 0,
+      "e": "Neutral Vanadium has 23 electrons distributed as 2,8,11,2.",
+      "d": "Medium",
+      "topic": "Electronic configuration",
+      "slo": "Identify, explain or apply electronic configuration using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-218",
+      "q": "Which shell-wise electron arrangement belongs to neutral Chromium (Z = 24)?",
+      "o": [
+        "2,8,7",
+        "2,8,13,1",
+        "2,8,16,2",
+        "2,8,18,5"
+      ],
+      "a": 1,
+      "e": "Neutral Chromium has 24 electrons distributed as 2,8,13,1.",
+      "d": "Medium",
+      "topic": "Electronic configuration",
+      "slo": "Identify, explain or apply electronic configuration using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-219",
+      "q": "Which shell-wise electron arrangement belongs to neutral Manganese (Z = 25)?",
+      "o": [
+        "2,8,8",
+        "2,8,18,4",
+        "1",
+        "2,8,13,2"
+      ],
+      "a": 3,
+      "e": "Neutral Manganese has 25 electrons distributed as 2,8,13,2.",
+      "d": "Medium",
+      "topic": "Electronic configuration",
+      "slo": "Identify, explain or apply electronic configuration using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-220",
+      "q": "Which shell-wise electron arrangement belongs to neutral Iron (Z = 26)?",
+      "o": [
+        "2,8,1",
+        "2,8",
+        "2,8,14,2",
+        "2,8,13,2"
+      ],
+      "a": 2,
+      "e": "Neutral Iron has 26 electrons distributed as 2,8,14,2.",
+      "d": "Medium",
+      "topic": "Electronic configuration",
+      "slo": "Identify, explain or apply electronic configuration using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-221",
+      "q": "Which shell-wise electron arrangement belongs to neutral Cobalt (Z = 27)?",
+      "o": [
+        "2,8,15,2",
+        "2,5",
+        "2,8,14,2",
+        "2,2"
+      ],
+      "a": 0,
+      "e": "Neutral Cobalt has 27 electrons distributed as 2,8,15,2.",
+      "d": "Medium",
+      "topic": "Electronic configuration",
+      "slo": "Identify, explain or apply electronic configuration using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-222",
+      "q": "Which shell-wise electron arrangement belongs to neutral Nickel (Z = 28)?",
+      "o": [
+        "2,8,16,2",
+        "2",
+        "2,8,3",
+        "2,5"
+      ],
+      "a": 0,
+      "e": "Neutral Nickel has 28 electrons distributed as 2,8,16,2.",
+      "d": "Medium",
+      "topic": "Electronic configuration",
+      "slo": "Identify, explain or apply electronic configuration using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-223",
+      "q": "Which shell-wise electron arrangement belongs to neutral Copper (Z = 29)?",
+      "o": [
+        "2,8",
+        "2,5",
+        "2,8,9,2",
+        "2,8,18,1"
+      ],
+      "a": 3,
+      "e": "Neutral Copper has 29 electrons distributed as 2,8,18,1.",
+      "d": "Medium",
+      "topic": "Electronic configuration",
+      "slo": "Identify, explain or apply electronic configuration using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-224",
+      "q": "Which shell-wise electron arrangement belongs to neutral Zinc (Z = 30)?",
+      "o": [
+        "2,8,18,4",
+        "2,8,2",
+        "2,6",
+        "2,8,18,2"
+      ],
+      "a": 3,
+      "e": "Neutral Zinc has 30 electrons distributed as 2,8,18,2.",
+      "d": "Medium",
+      "topic": "Electronic configuration",
+      "slo": "Identify, explain or apply electronic configuration using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-225",
+      "q": "Which shell-wise electron arrangement belongs to neutral Gallium (Z = 31)?",
+      "o": [
+        "2,8,18,1",
+        "2,8,1",
+        "2,8,18,3",
+        "2,8,8,1"
+      ],
+      "a": 2,
+      "e": "Neutral Gallium has 31 electrons distributed as 2,8,18,3.",
+      "d": "Medium",
+      "topic": "Electronic configuration",
+      "slo": "Identify, explain or apply electronic configuration using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-226",
+      "q": "Which shell-wise electron arrangement belongs to neutral Germanium (Z = 32)?",
+      "o": [
+        "2,8,18,4",
+        "2,8,10,2",
+        "2,8,18,1",
+        "2,8,18,7"
+      ],
+      "a": 0,
+      "e": "Neutral Germanium has 32 electrons distributed as 2,8,18,4.",
+      "d": "Medium",
+      "topic": "Electronic configuration",
+      "slo": "Identify, explain or apply electronic configuration using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-227",
+      "q": "Which shell-wise electron arrangement belongs to neutral Arsenic (Z = 33)?",
+      "o": [
+        "2,8,15,2",
+        "2,8,4",
+        "2,8,18,5",
+        "2,8,13,1"
+      ],
+      "a": 2,
+      "e": "Neutral Arsenic has 33 electrons distributed as 2,8,18,5.",
+      "d": "Medium",
+      "topic": "Electronic configuration",
+      "slo": "Identify, explain or apply electronic configuration using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-228",
+      "q": "Which shell-wise electron arrangement belongs to neutral Selenium (Z = 34)?",
+      "o": [
+        "2,5",
+        "2,8,18,6",
+        "2,8,15,2",
+        "2,8,2"
+      ],
+      "a": 1,
+      "e": "Neutral Selenium has 34 electrons distributed as 2,8,18,6.",
+      "d": "Medium",
+      "topic": "Electronic configuration",
+      "slo": "Identify, explain or apply electronic configuration using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-229",
+      "q": "Which shell-wise electron arrangement belongs to neutral Bromine (Z = 35)?",
+      "o": [
+        "2,8,16,2",
+        "2,8,13,1",
+        "2,8,18,7",
+        "2,5"
+      ],
+      "a": 2,
+      "e": "Neutral Bromine has 35 electrons distributed as 2,8,18,7.",
+      "d": "Medium",
+      "topic": "Electronic configuration",
+      "slo": "Identify, explain or apply electronic configuration using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-230",
+      "q": "Which shell-wise electron arrangement belongs to neutral Krypton (Z = 36)?",
+      "o": [
+        "2,3",
+        "2,8,7",
+        "2,8,3",
+        "2,8,18,8"
+      ],
+      "a": 3,
+      "e": "Neutral Krypton has 36 electrons distributed as 2,8,18,8.",
+      "d": "Medium",
+      "topic": "Electronic configuration",
+      "slo": "Identify, explain or apply electronic configuration using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-231",
+      "q": "How many occupied electron shells are present in a ground-state Hydrogen atom?",
+      "o": [
+        "7",
+        "1",
+        "2",
+        "4"
+      ],
+      "a": 1,
+      "e": "The arrangement 1 contains 1 occupied shells.",
+      "d": "Medium",
+      "topic": "Electronic configuration",
+      "slo": "Identify, explain or apply electronic configuration using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-232",
+      "q": "How many occupied electron shells are present in a ground-state Helium atom?",
+      "o": [
+        "4",
+        "5",
+        "1",
+        "6"
+      ],
+      "a": 2,
+      "e": "The arrangement 2 contains 1 occupied shells.",
+      "d": "Medium",
+      "topic": "Electronic configuration",
+      "slo": "Identify, explain or apply electronic configuration using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-233",
+      "q": "How many occupied electron shells are present in a ground-state Lithium atom?",
+      "o": [
+        "6",
+        "5",
+        "4",
+        "2"
+      ],
+      "a": 3,
+      "e": "The arrangement 2,1 contains 2 occupied shells.",
+      "d": "Medium",
+      "topic": "Electronic configuration",
+      "slo": "Identify, explain or apply electronic configuration using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-234",
+      "q": "How many occupied electron shells are present in a ground-state Beryllium atom?",
+      "o": [
+        "7",
+        "6",
+        "3",
+        "2"
+      ],
+      "a": 3,
+      "e": "The arrangement 2,2 contains 2 occupied shells.",
+      "d": "Medium",
+      "topic": "Electronic configuration",
+      "slo": "Identify, explain or apply electronic configuration using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-235",
+      "q": "How many occupied electron shells are present in a ground-state Boron atom?",
+      "o": [
+        "7",
+        "2",
+        "6",
+        "3"
+      ],
+      "a": 1,
+      "e": "The arrangement 2,3 contains 2 occupied shells.",
+      "d": "Medium",
+      "topic": "Electronic configuration",
+      "slo": "Identify, explain or apply electronic configuration using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-236",
+      "q": "How many occupied electron shells are present in a ground-state Carbon atom?",
+      "o": [
+        "1",
+        "3",
+        "2",
+        "5"
+      ],
+      "a": 2,
+      "e": "The arrangement 2,4 contains 2 occupied shells.",
+      "d": "Medium",
+      "topic": "Electronic configuration",
+      "slo": "Identify, explain or apply electronic configuration using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-237",
+      "q": "How many occupied electron shells are present in a ground-state Nitrogen atom?",
+      "o": [
+        "2",
+        "7",
+        "1",
+        "5"
+      ],
+      "a": 0,
+      "e": "The arrangement 2,5 contains 2 occupied shells.",
+      "d": "Medium",
+      "topic": "Electronic configuration",
+      "slo": "Identify, explain or apply electronic configuration using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-238",
+      "q": "How many occupied electron shells are present in a ground-state Oxygen atom?",
+      "o": [
+        "4",
+        "2",
+        "5",
+        "6"
+      ],
+      "a": 1,
+      "e": "The arrangement 2,6 contains 2 occupied shells.",
+      "d": "Medium",
+      "topic": "Electronic configuration",
+      "slo": "Identify, explain or apply electronic configuration using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-239",
+      "q": "How many occupied electron shells are present in a ground-state Fluorine atom?",
+      "o": [
+        "5",
+        "2",
+        "1",
+        "3"
+      ],
+      "a": 1,
+      "e": "The arrangement 2,7 contains 2 occupied shells.",
+      "d": "Medium",
+      "topic": "Electronic configuration",
+      "slo": "Identify, explain or apply electronic configuration using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-240",
+      "q": "How many occupied electron shells are present in a ground-state Neon atom?",
+      "o": [
+        "2",
+        "5",
+        "7",
+        "3"
+      ],
+      "a": 0,
+      "e": "The arrangement 2,8 contains 2 occupied shells.",
+      "d": "Medium",
+      "topic": "Electronic configuration",
+      "slo": "Identify, explain or apply electronic configuration using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-241",
+      "q": "How many occupied electron shells are present in a ground-state Sodium atom?",
+      "o": [
+        "7",
+        "1",
+        "2",
+        "3"
+      ],
+      "a": 3,
+      "e": "The arrangement 2,8,1 contains 3 occupied shells.",
+      "d": "Medium",
+      "topic": "Electronic configuration",
+      "slo": "Identify, explain or apply electronic configuration using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-242",
+      "q": "How many occupied electron shells are present in a ground-state Magnesium atom?",
+      "o": [
+        "5",
+        "6",
+        "3",
+        "1"
+      ],
+      "a": 2,
+      "e": "The arrangement 2,8,2 contains 3 occupied shells.",
+      "d": "Medium",
+      "topic": "Electronic configuration",
+      "slo": "Identify, explain or apply electronic configuration using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-243",
+      "q": "How many occupied electron shells are present in a ground-state Aluminium atom?",
+      "o": [
+        "7",
+        "1",
+        "2",
+        "3"
+      ],
+      "a": 3,
+      "e": "The arrangement 2,8,3 contains 3 occupied shells.",
+      "d": "Medium",
+      "topic": "Electronic configuration",
+      "slo": "Identify, explain or apply electronic configuration using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-244",
+      "q": "How many occupied electron shells are present in a ground-state Silicon atom?",
+      "o": [
+        "3",
+        "7",
+        "1",
+        "2"
+      ],
+      "a": 0,
+      "e": "The arrangement 2,8,4 contains 3 occupied shells.",
+      "d": "Medium",
+      "topic": "Electronic configuration",
+      "slo": "Identify, explain or apply electronic configuration using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-245",
+      "q": "How many occupied electron shells are present in a ground-state Phosphorus atom?",
+      "o": [
+        "5",
+        "7",
+        "3",
+        "4"
+      ],
+      "a": 2,
+      "e": "The arrangement 2,8,5 contains 3 occupied shells.",
+      "d": "Medium",
+      "topic": "Electronic configuration",
+      "slo": "Identify, explain or apply electronic configuration using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-246",
+      "q": "How many occupied electron shells are present in a ground-state Sulfur atom?",
+      "o": [
+        "5",
+        "2",
+        "4",
+        "3"
+      ],
+      "a": 3,
+      "e": "The arrangement 2,8,6 contains 3 occupied shells.",
+      "d": "Medium",
+      "topic": "Electronic configuration",
+      "slo": "Identify, explain or apply electronic configuration using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-247",
+      "q": "How many occupied electron shells are present in a ground-state Chlorine atom?",
+      "o": [
+        "7",
+        "3",
+        "5",
+        "2"
+      ],
+      "a": 1,
+      "e": "The arrangement 2,8,7 contains 3 occupied shells.",
+      "d": "Medium",
+      "topic": "Electronic configuration",
+      "slo": "Identify, explain or apply electronic configuration using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-248",
+      "q": "How many occupied electron shells are present in a ground-state Argon atom?",
+      "o": [
+        "3",
+        "7",
+        "5",
+        "4"
+      ],
+      "a": 0,
+      "e": "The arrangement 2,8,8 contains 3 occupied shells.",
+      "d": "Medium",
+      "topic": "Electronic configuration",
+      "slo": "Identify, explain or apply electronic configuration using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-249",
+      "q": "How many occupied electron shells are present in a ground-state Potassium atom?",
+      "o": [
+        "4",
+        "7",
+        "6",
+        "1"
+      ],
+      "a": 0,
+      "e": "The arrangement 2,8,8,1 contains 4 occupied shells.",
+      "d": "Medium",
+      "topic": "Electronic configuration",
+      "slo": "Identify, explain or apply electronic configuration using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-250",
+      "q": "How many occupied electron shells are present in a ground-state Calcium atom?",
+      "o": [
+        "4",
+        "7",
+        "6",
+        "2"
+      ],
+      "a": 0,
+      "e": "The arrangement 2,8,8,2 contains 4 occupied shells.",
+      "d": "Medium",
+      "topic": "Electronic configuration",
+      "slo": "Identify, explain or apply electronic configuration using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-251",
+      "q": "How many occupied electron shells are present in a ground-state Scandium atom?",
+      "o": [
+        "5",
+        "7",
+        "4",
+        "6"
+      ],
+      "a": 2,
+      "e": "The arrangement 2,8,9,2 contains 4 occupied shells.",
+      "d": "Medium",
+      "topic": "Electronic configuration",
+      "slo": "Identify, explain or apply electronic configuration using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-252",
+      "q": "How many occupied electron shells are present in a ground-state Titanium atom?",
+      "o": [
+        "3",
+        "4",
+        "1",
+        "5"
+      ],
+      "a": 1,
+      "e": "The arrangement 2,8,10,2 contains 4 occupied shells.",
+      "d": "Medium",
+      "topic": "Electronic configuration",
+      "slo": "Identify, explain or apply electronic configuration using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-253",
+      "q": "How many occupied electron shells are present in a ground-state Vanadium atom?",
+      "o": [
+        "4",
+        "6",
+        "3",
+        "5"
+      ],
+      "a": 0,
+      "e": "The arrangement 2,8,11,2 contains 4 occupied shells.",
+      "d": "Medium",
+      "topic": "Electronic configuration",
+      "slo": "Identify, explain or apply electronic configuration using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-254",
+      "q": "How many occupied electron shells are present in a ground-state Chromium atom?",
+      "o": [
+        "4",
+        "1",
+        "5",
+        "3"
+      ],
+      "a": 0,
+      "e": "The arrangement 2,8,13,1 contains 4 occupied shells.",
+      "d": "Medium",
+      "topic": "Electronic configuration",
+      "slo": "Identify, explain or apply electronic configuration using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-255",
+      "q": "How many occupied electron shells are present in a ground-state Manganese atom?",
+      "o": [
+        "2",
+        "4",
+        "3",
+        "6"
+      ],
+      "a": 1,
+      "e": "The arrangement 2,8,13,2 contains 4 occupied shells.",
+      "d": "Medium",
+      "topic": "Electronic configuration",
+      "slo": "Identify, explain or apply electronic configuration using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-256",
+      "q": "How many occupied electron shells are present in a ground-state Iron atom?",
+      "o": [
+        "1",
+        "2",
+        "4",
+        "6"
+      ],
+      "a": 2,
+      "e": "The arrangement 2,8,14,2 contains 4 occupied shells.",
+      "d": "Medium",
+      "topic": "Electronic configuration",
+      "slo": "Identify, explain or apply electronic configuration using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-257",
+      "q": "How many occupied electron shells are present in a ground-state Cobalt atom?",
+      "o": [
+        "7",
+        "4",
+        "2",
+        "5"
+      ],
+      "a": 1,
+      "e": "The arrangement 2,8,15,2 contains 4 occupied shells.",
+      "d": "Medium",
+      "topic": "Electronic configuration",
+      "slo": "Identify, explain or apply electronic configuration using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-258",
+      "q": "How many occupied electron shells are present in a ground-state Nickel atom?",
+      "o": [
+        "1",
+        "5",
+        "4",
+        "3"
+      ],
+      "a": 2,
+      "e": "The arrangement 2,8,16,2 contains 4 occupied shells.",
+      "d": "Medium",
+      "topic": "Electronic configuration",
+      "slo": "Identify, explain or apply electronic configuration using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-259",
+      "q": "How many occupied electron shells are present in a ground-state Copper atom?",
+      "o": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "a": 1,
+      "e": "The arrangement 2,8,18,1 contains 4 occupied shells.",
+      "d": "Medium",
+      "topic": "Electronic configuration",
+      "slo": "Identify, explain or apply electronic configuration using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-260",
+      "q": "How many occupied electron shells are present in a ground-state Zinc atom?",
+      "o": [
+        "3",
+        "5",
+        "6",
+        "4"
+      ],
+      "a": 3,
+      "e": "The arrangement 2,8,18,2 contains 4 occupied shells.",
+      "d": "Medium",
+      "topic": "Electronic configuration",
+      "slo": "Identify, explain or apply electronic configuration using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-261",
+      "q": "How many occupied electron shells are present in a ground-state Gallium atom?",
+      "o": [
+        "5",
+        "7",
+        "4",
+        "3"
+      ],
+      "a": 2,
+      "e": "The arrangement 2,8,18,3 contains 4 occupied shells.",
+      "d": "Medium",
+      "topic": "Electronic configuration",
+      "slo": "Identify, explain or apply electronic configuration using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-262",
+      "q": "How many occupied electron shells are present in a ground-state Germanium atom?",
+      "o": [
+        "4",
+        "3",
+        "2",
+        "6"
+      ],
+      "a": 0,
+      "e": "The arrangement 2,8,18,4 contains 4 occupied shells.",
+      "d": "Medium",
+      "topic": "Electronic configuration",
+      "slo": "Identify, explain or apply electronic configuration using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-263",
+      "q": "How many occupied electron shells are present in a ground-state Arsenic atom?",
+      "o": [
+        "3",
+        "4",
+        "1",
+        "5"
+      ],
+      "a": 1,
+      "e": "The arrangement 2,8,18,5 contains 4 occupied shells.",
+      "d": "Medium",
+      "topic": "Electronic configuration",
+      "slo": "Identify, explain or apply electronic configuration using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-264",
+      "q": "How many occupied electron shells are present in a ground-state Selenium atom?",
+      "o": [
+        "4",
+        "5",
+        "6",
+        "2"
+      ],
+      "a": 0,
+      "e": "The arrangement 2,8,18,6 contains 4 occupied shells.",
+      "d": "Medium",
+      "topic": "Electronic configuration",
+      "slo": "Identify, explain or apply electronic configuration using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-265",
+      "q": "How many occupied electron shells are present in a ground-state Bromine atom?",
+      "o": [
+        "4",
+        "7",
+        "5",
+        "6"
+      ],
+      "a": 0,
+      "e": "The arrangement 2,8,18,7 contains 4 occupied shells.",
+      "d": "Medium",
+      "topic": "Electronic configuration",
+      "slo": "Identify, explain or apply electronic configuration using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-266",
+      "q": "How many occupied electron shells are present in a ground-state Krypton atom?",
+      "o": [
+        "2",
+        "5",
+        "6",
+        "4"
+      ],
+      "a": 3,
+      "e": "The arrangement 2,8,18,8 contains 4 occupied shells.",
+      "d": "Medium",
+      "topic": "Electronic configuration",
+      "slo": "Identify, explain or apply electronic configuration using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-267",
+      "q": "How many valence electrons does a neutral Hydrogen atom have?",
+      "o": [
+        "1",
+        "3",
+        "8",
+        "5"
+      ],
+      "a": 0,
+      "e": "Hydrogen has shell arrangement 1, so its outermost shell contains 1 electrons.",
+      "d": "Medium",
+      "topic": "Valence electrons",
+      "slo": "Identify, explain or apply valence electrons using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-268",
+      "q": "How many valence electrons does a neutral Helium atom have?",
+      "o": [
+        "5",
+        "8",
+        "2",
+        "4"
+      ],
+      "a": 2,
+      "e": "Helium has shell arrangement 2, so its outermost shell contains 2 electrons.",
+      "d": "Medium",
+      "topic": "Valence electrons",
+      "slo": "Identify, explain or apply valence electrons using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-269",
+      "q": "How many valence electrons does a neutral Lithium atom have?",
+      "o": [
+        "3",
+        "4",
+        "8",
+        "1"
+      ],
+      "a": 3,
+      "e": "Lithium has shell arrangement 2,1, so its outermost shell contains 1 electrons.",
+      "d": "Medium",
+      "topic": "Valence electrons",
+      "slo": "Identify, explain or apply valence electrons using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-270",
+      "q": "How many valence electrons does a neutral Beryllium atom have?",
+      "o": [
+        "7",
+        "1",
+        "3",
+        "2"
+      ],
+      "a": 3,
+      "e": "Beryllium has shell arrangement 2,2, so its outermost shell contains 2 electrons.",
+      "d": "Medium",
+      "topic": "Valence electrons",
+      "slo": "Identify, explain or apply valence electrons using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-271",
+      "q": "How many valence electrons does a neutral Boron atom have?",
+      "o": [
+        "5",
+        "3",
+        "7",
+        "2"
+      ],
+      "a": 1,
+      "e": "Boron has shell arrangement 2,3, so its outermost shell contains 3 electrons.",
+      "d": "Medium",
+      "topic": "Valence electrons",
+      "slo": "Identify, explain or apply valence electrons using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-272",
+      "q": "How many valence electrons does a neutral Carbon atom have?",
+      "o": [
+        "7",
+        "4",
+        "1",
+        "5"
+      ],
+      "a": 1,
+      "e": "Carbon has shell arrangement 2,4, so its outermost shell contains 4 electrons.",
+      "d": "Medium",
+      "topic": "Valence electrons",
+      "slo": "Identify, explain or apply valence electrons using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-273",
+      "q": "How many valence electrons does a neutral Nitrogen atom have?",
+      "o": [
+        "7",
+        "6",
+        "1",
+        "5"
+      ],
+      "a": 3,
+      "e": "Nitrogen has shell arrangement 2,5, so its outermost shell contains 5 electrons.",
+      "d": "Medium",
+      "topic": "Valence electrons",
+      "slo": "Identify, explain or apply valence electrons using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-274",
+      "q": "How many valence electrons does a neutral Oxygen atom have?",
+      "o": [
+        "2",
+        "3",
+        "7",
+        "6"
+      ],
+      "a": 3,
+      "e": "Oxygen has shell arrangement 2,6, so its outermost shell contains 6 electrons.",
+      "d": "Medium",
+      "topic": "Valence electrons",
+      "slo": "Identify, explain or apply valence electrons using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-275",
+      "q": "How many valence electrons does a neutral Fluorine atom have?",
+      "o": [
+        "7",
+        "6",
+        "1",
+        "8"
+      ],
+      "a": 0,
+      "e": "Fluorine has shell arrangement 2,7, so its outermost shell contains 7 electrons.",
+      "d": "Medium",
+      "topic": "Valence electrons",
+      "slo": "Identify, explain or apply valence electrons using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-276",
+      "q": "How many valence electrons does a neutral Neon atom have?",
+      "o": [
+        "4",
+        "8",
+        "7",
+        "3"
+      ],
+      "a": 1,
+      "e": "Neon has shell arrangement 2,8, so its outermost shell contains 8 electrons.",
+      "d": "Medium",
+      "topic": "Valence electrons",
+      "slo": "Identify, explain or apply valence electrons using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-277",
+      "q": "How many valence electrons does a neutral Sodium atom have?",
+      "o": [
+        "4",
+        "2",
+        "1",
+        "8"
+      ],
+      "a": 2,
+      "e": "Sodium has shell arrangement 2,8,1, so its outermost shell contains 1 electrons.",
+      "d": "Medium",
+      "topic": "Valence electrons",
+      "slo": "Identify, explain or apply valence electrons using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-278",
+      "q": "How many valence electrons does a neutral Magnesium atom have?",
+      "o": [
+        "5",
+        "2",
+        "4",
+        "6"
+      ],
+      "a": 1,
+      "e": "Magnesium has shell arrangement 2,8,2, so its outermost shell contains 2 electrons.",
+      "d": "Medium",
+      "topic": "Valence electrons",
+      "slo": "Identify, explain or apply valence electrons using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-279",
+      "q": "How many valence electrons does a neutral Aluminium atom have?",
+      "o": [
+        "6",
+        "5",
+        "3",
+        "4"
+      ],
+      "a": 2,
+      "e": "Aluminium has shell arrangement 2,8,3, so its outermost shell contains 3 electrons.",
+      "d": "Medium",
+      "topic": "Valence electrons",
+      "slo": "Identify, explain or apply valence electrons using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-280",
+      "q": "How many valence electrons does a neutral Silicon atom have?",
+      "o": [
+        "4",
+        "6",
+        "7",
+        "8"
+      ],
+      "a": 0,
+      "e": "Silicon has shell arrangement 2,8,4, so its outermost shell contains 4 electrons.",
+      "d": "Medium",
+      "topic": "Valence electrons",
+      "slo": "Identify, explain or apply valence electrons using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-281",
+      "q": "How many valence electrons does a neutral Phosphorus atom have?",
+      "o": [
+        "4",
+        "8",
+        "7",
+        "5"
+      ],
+      "a": 3,
+      "e": "Phosphorus has shell arrangement 2,8,5, so its outermost shell contains 5 electrons.",
+      "d": "Medium",
+      "topic": "Valence electrons",
+      "slo": "Identify, explain or apply valence electrons using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-282",
+      "q": "How many valence electrons does a neutral Sulfur atom have?",
+      "o": [
+        "5",
+        "4",
+        "8",
+        "6"
+      ],
+      "a": 3,
+      "e": "Sulfur has shell arrangement 2,8,6, so its outermost shell contains 6 electrons.",
+      "d": "Medium",
+      "topic": "Valence electrons",
+      "slo": "Identify, explain or apply valence electrons using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-283",
+      "q": "How many valence electrons does a neutral Chlorine atom have?",
+      "o": [
+        "1",
+        "7",
+        "8",
+        "5"
+      ],
+      "a": 1,
+      "e": "Chlorine has shell arrangement 2,8,7, so its outermost shell contains 7 electrons.",
+      "d": "Medium",
+      "topic": "Valence electrons",
+      "slo": "Identify, explain or apply valence electrons using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-284",
+      "q": "How many valence electrons does a neutral Argon atom have?",
+      "o": [
+        "2",
+        "8",
+        "6",
+        "4"
+      ],
+      "a": 1,
+      "e": "Argon has shell arrangement 2,8,8, so its outermost shell contains 8 electrons.",
+      "d": "Medium",
+      "topic": "Valence electrons",
+      "slo": "Identify, explain or apply valence electrons using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-285",
+      "q": "How many valence electrons does a neutral Potassium atom have?",
+      "o": [
+        "1",
+        "4",
+        "7",
+        "5"
+      ],
+      "a": 0,
+      "e": "Potassium has shell arrangement 2,8,8,1, so its outermost shell contains 1 electrons.",
+      "d": "Medium",
+      "topic": "Valence electrons",
+      "slo": "Identify, explain or apply valence electrons using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-286",
+      "q": "How many valence electrons does a neutral Calcium atom have?",
+      "o": [
+        "5",
+        "2",
+        "3",
+        "8"
+      ],
+      "a": 1,
+      "e": "Calcium has shell arrangement 2,8,8,2, so its outermost shell contains 2 electrons.",
+      "d": "Medium",
+      "topic": "Valence electrons",
+      "slo": "Identify, explain or apply valence electrons using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-287",
+      "q": "How many outer-shell electrons does neutral Gallium have?",
+      "o": [
+        "3",
+        "7",
+        "1",
+        "8"
+      ],
+      "a": 0,
+      "e": "The outermost shell of Gallium in 2,8,18,3 contains 3 electrons.",
+      "d": "Medium",
+      "topic": "Valence electrons",
+      "slo": "Identify, explain or apply valence electrons using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-288",
+      "q": "How many outer-shell electrons does neutral Germanium have?",
+      "o": [
+        "3",
+        "7",
+        "6",
+        "4"
+      ],
+      "a": 3,
+      "e": "The outermost shell of Germanium in 2,8,18,4 contains 4 electrons.",
+      "d": "Medium",
+      "topic": "Valence electrons",
+      "slo": "Identify, explain or apply valence electrons using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-289",
+      "q": "How many outer-shell electrons does neutral Arsenic have?",
+      "o": [
+        "6",
+        "2",
+        "4",
+        "5"
+      ],
+      "a": 3,
+      "e": "The outermost shell of Arsenic in 2,8,18,5 contains 5 electrons.",
+      "d": "Medium",
+      "topic": "Valence electrons",
+      "slo": "Identify, explain or apply valence electrons using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-290",
+      "q": "How many outer-shell electrons does neutral Selenium have?",
+      "o": [
+        "5",
+        "6",
+        "7",
+        "1"
+      ],
+      "a": 1,
+      "e": "The outermost shell of Selenium in 2,8,18,6 contains 6 electrons.",
+      "d": "Medium",
+      "topic": "Valence electrons",
+      "slo": "Identify, explain or apply valence electrons using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-291",
+      "q": "How many outer-shell electrons does neutral Bromine have?",
+      "o": [
+        "4",
+        "7",
+        "6",
+        "3"
+      ],
+      "a": 1,
+      "e": "The outermost shell of Bromine in 2,8,18,7 contains 7 electrons.",
+      "d": "Medium",
+      "topic": "Valence electrons",
+      "slo": "Identify, explain or apply valence electrons using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-292",
+      "q": "How many outer-shell electrons does neutral Krypton have?",
+      "o": [
+        "6",
+        "3",
+        "8",
+        "2"
+      ],
+      "a": 2,
+      "e": "The outermost shell of Krypton in 2,8,18,8 contains 8 electrons.",
+      "d": "Medium",
+      "topic": "Valence electrons",
+      "slo": "Identify, explain or apply valence electrons using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-293",
+      "q": "To which electron block does Hydrogen belong?",
+      "o": [
+        "d-block",
+        "s-block",
+        "f-block",
+        "p-block"
+      ],
+      "a": 1,
+      "e": "Hydrogen belongs to the s-block according to its differentiating electron.",
+      "d": "Medium",
+      "topic": "Blocks of periodic table",
+      "slo": "Identify, explain or apply blocks of periodic table using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-294",
+      "q": "To which electron block does Helium belong?",
+      "o": [
+        "f-block",
+        "s-block",
+        "p-block",
+        "d-block"
+      ],
+      "a": 1,
+      "e": "Helium belongs to the s-block according to its differentiating electron.",
+      "d": "Medium",
+      "topic": "Blocks of periodic table",
+      "slo": "Identify, explain or apply blocks of periodic table using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-295",
+      "q": "To which electron block does Lithium belong?",
+      "o": [
+        "p-block",
+        "f-block",
+        "d-block",
+        "s-block"
+      ],
+      "a": 3,
+      "e": "Lithium belongs to the s-block according to its differentiating electron.",
+      "d": "Medium",
+      "topic": "Blocks of periodic table",
+      "slo": "Identify, explain or apply blocks of periodic table using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-296",
+      "q": "To which electron block does Beryllium belong?",
+      "o": [
+        "f-block",
+        "s-block",
+        "d-block",
+        "p-block"
+      ],
+      "a": 1,
+      "e": "Beryllium belongs to the s-block according to its differentiating electron.",
+      "d": "Medium",
+      "topic": "Blocks of periodic table",
+      "slo": "Identify, explain or apply blocks of periodic table using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-297",
+      "q": "To which electron block does Boron belong?",
+      "o": [
+        "d-block",
+        "p-block",
+        "f-block",
+        "s-block"
+      ],
+      "a": 1,
+      "e": "Boron belongs to the p-block according to its differentiating electron.",
+      "d": "Medium",
+      "topic": "Blocks of periodic table",
+      "slo": "Identify, explain or apply blocks of periodic table using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-298",
+      "q": "To which electron block does Carbon belong?",
+      "o": [
+        "f-block",
+        "p-block",
+        "d-block",
+        "s-block"
+      ],
+      "a": 1,
+      "e": "Carbon belongs to the p-block according to its differentiating electron.",
+      "d": "Medium",
+      "topic": "Blocks of periodic table",
+      "slo": "Identify, explain or apply blocks of periodic table using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-299",
+      "q": "To which electron block does Nitrogen belong?",
+      "o": [
+        "s-block",
+        "f-block",
+        "p-block",
+        "d-block"
+      ],
+      "a": 2,
+      "e": "Nitrogen belongs to the p-block according to its differentiating electron.",
+      "d": "Medium",
+      "topic": "Blocks of periodic table",
+      "slo": "Identify, explain or apply blocks of periodic table using periodic-table concepts."
+    },
+    {
+      "id": "CHEM9CH4-300",
+      "q": "To which electron block does Oxygen belong?",
+      "o": [
+        "f-block",
+        "p-block",
+        "s-block",
+        "d-block"
+      ],
+      "a": 1,
+      "e": "Oxygen belongs to the p-block according to its differentiating electron.",
+      "d": "Medium",
+      "topic": "Blocks of periodic table",
+      "slo": "Identify, explain or apply blocks of periodic table using periodic-table concepts."
+    }
+  ]
+}

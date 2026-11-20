@@ -1,0 +1,4504 @@
+{
+  "questions": [
+    {
+      "id": "CHEM9CH8-001",
+      "q": "Which is a correct description of anaerobic respiration?",
+      "o": [
+        "It always releases more energy than aerobic respiration",
+        "It is identical to photosynthesis",
+        "Glucose always combines with oxygen",
+        "Glucose is broken down without oxygen to release some energy"
+      ],
+      "a": 3,
+      "e": "Anaerobic pathways release energy without oxygen.",
+      "d": "Medium",
+      "topic": "Anaerobic respiration",
+      "slo": "Explain or apply anaerobic respiration in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-002",
+      "q": "The reaction as written has ΔH = +65 kJ. What is the enthalpy change for 5 times this reaction?",
+      "o": [
+        "+325 kJ",
+        "+65 kJ",
+        "-325 kJ",
+        "+390 kJ"
+      ],
+      "a": 0,
+      "e": "Enthalpy is extensive: multiply +65 kJ by 5 to obtain +325 kJ.",
+      "d": "Medium",
+      "topic": "Thermochemical equations",
+      "slo": "Explain or apply thermochemical equations in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-003",
+      "q": "The reaction as written has ΔH = +90 kJ. What is the enthalpy change for 2 times this reaction?",
+      "o": [
+        "+90 kJ",
+        "+180 kJ",
+        "+270 kJ",
+        "-180 kJ"
+      ],
+      "a": 1,
+      "e": "Enthalpy is extensive: multiply +90 kJ by 2 to obtain +180 kJ.",
+      "d": "Medium",
+      "topic": "Thermochemical equations",
+      "slo": "Explain or apply thermochemical equations in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-004",
+      "q": "The reaction as written has ΔH = -25 kJ. What is the enthalpy change for 5 times this reaction?",
+      "o": [
+        "-100 kJ",
+        "-125 kJ",
+        "-25 kJ",
+        "+125 kJ"
+      ],
+      "a": 1,
+      "e": "Enthalpy is extensive: multiply -25 kJ by 5 to obtain -125 kJ.",
+      "d": "Medium",
+      "topic": "Thermochemical equations",
+      "slo": "Explain or apply thermochemical equations in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-005",
+      "q": "Breaking reactant bonds requires 729 kJ, while forming product bonds releases 911 kJ. Estimate the reaction ΔH.",
+      "o": [
+        "-182 kJ",
+        "+182 kJ",
+        "1640 kJ",
+        "729 kJ"
+      ],
+      "a": 0,
+      "e": "ΔH = energy absorbed in bond breaking − energy released in bond forming = 729 − 911 = -182 kJ.",
+      "d": "Medium",
+      "topic": "Bond energy calculations",
+      "slo": "Explain or apply bond energy calculations in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-006",
+      "q": "The reaction as written has ΔH = +20 kJ. What is the enthalpy change for 2 times this reaction?",
+      "o": [
+        "+60 kJ",
+        "-40 kJ",
+        "+20 kJ",
+        "+40 kJ"
+      ],
+      "a": 3,
+      "e": "Enthalpy is extensive: multiply +20 kJ by 2 to obtain +40 kJ.",
+      "d": "Medium",
+      "topic": "Thermochemical equations",
+      "slo": "Explain or apply thermochemical equations in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-007",
+      "q": "For A → B, ΔH = -83 kJ. What is ΔH for the reverse reaction B → A?",
+      "o": [
+        "+166 kJ",
+        "+83 kJ",
+        "-83 kJ",
+        "0 kJ"
+      ],
+      "a": 1,
+      "e": "Reversing a thermochemical equation reverses the sign: ΔH = +83 kJ.",
+      "d": "Medium",
+      "topic": "Thermochemical equations",
+      "slo": "Explain or apply thermochemical equations in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-008",
+      "q": "The reaction as written has ΔH = -75 kJ. What is the enthalpy change for 6 times this reaction?",
+      "o": [
+        "+450 kJ",
+        "-75 kJ",
+        "-450 kJ",
+        "-375 kJ"
+      ],
+      "a": 2,
+      "e": "Enthalpy is extensive: multiply -75 kJ by 6 to obtain -450 kJ.",
+      "d": "Medium",
+      "topic": "Thermochemical equations",
+      "slo": "Explain or apply thermochemical equations in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-009",
+      "q": "Breaking reactant bonds requires 586 kJ, while forming product bonds releases 458 kJ. Estimate the reaction ΔH.",
+      "o": [
+        "+128 kJ",
+        "1044 kJ",
+        "586 kJ",
+        "-128 kJ"
+      ],
+      "a": 0,
+      "e": "ΔH = energy absorbed in bond breaking − energy released in bond forming = 586 − 458 = +128 kJ.",
+      "d": "Medium",
+      "topic": "Bond energy calculations",
+      "slo": "Explain or apply bond energy calculations in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-010",
+      "q": "Breaking reactant bonds requires 534 kJ, while forming product bonds releases 422 kJ. Estimate the reaction ΔH.",
+      "o": [
+        "-112 kJ",
+        "956 kJ",
+        "534 kJ",
+        "+112 kJ"
+      ],
+      "a": 3,
+      "e": "ΔH = energy absorbed in bond breaking − energy released in bond forming = 534 − 422 = +112 kJ.",
+      "d": "Medium",
+      "topic": "Bond energy calculations",
+      "slo": "Explain or apply bond energy calculations in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-011",
+      "q": "What does the symbol ΔH represent?",
+      "o": [
+        "Activation energy",
+        "Bond length",
+        "Enthalpy change",
+        "Reaction rate"
+      ],
+      "a": 2,
+      "e": "ΔH represents the enthalpy change of a reaction.",
+      "d": "Medium",
+      "topic": "Enthalpy of reaction",
+      "slo": "Explain or apply enthalpy of reaction in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-012",
+      "q": "The reaction as written has ΔH = -90 kJ. What is the enthalpy change for 3 times this reaction?",
+      "o": [
+        "-180 kJ",
+        "+270 kJ",
+        "-270 kJ",
+        "-90 kJ"
+      ],
+      "a": 2,
+      "e": "Enthalpy is extensive: multiply -90 kJ by 3 to obtain -270 kJ.",
+      "d": "Medium",
+      "topic": "Thermochemical equations",
+      "slo": "Explain or apply thermochemical equations in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-013",
+      "q": "An exothermic reaction releases 34 kJ for each mole of reaction. How much heat is released when it occurs 3 mol times?",
+      "o": [
+        "68 kJ",
+        "136 kJ",
+        "34 kJ",
+        "102 kJ"
+      ],
+      "a": 3,
+      "e": "Heat released = 34 kJ/mol × 3 mol = 102 kJ.",
+      "d": "Medium",
+      "topic": "Heat of reaction",
+      "slo": "Explain or apply heat of reaction in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-014",
+      "q": "An exothermic reaction releases 70 kJ for each mole of reaction. How much heat is released when it occurs 7 mol times?",
+      "o": [
+        "490 kJ",
+        "420 kJ",
+        "70 kJ",
+        "560 kJ"
+      ],
+      "a": 0,
+      "e": "Heat released = 70 kJ/mol × 7 mol = 490 kJ.",
+      "d": "Medium",
+      "topic": "Heat of reaction",
+      "slo": "Explain or apply heat of reaction in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-015",
+      "q": "Breaking reactant bonds requires 638 kJ, while forming product bonds releases 494 kJ. Estimate the reaction ΔH.",
+      "o": [
+        "-144 kJ",
+        "638 kJ",
+        "+144 kJ",
+        "1132 kJ"
+      ],
+      "a": 2,
+      "e": "ΔH = energy absorbed in bond breaking − energy released in bond forming = 638 − 494 = +144 kJ.",
+      "d": "Medium",
+      "topic": "Bond energy calculations",
+      "slo": "Explain or apply bond energy calculations in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-016",
+      "q": "The reaction as written has ΔH = -70 kJ. What is the enthalpy change for 6 times this reaction?",
+      "o": [
+        "-420 kJ",
+        "-70 kJ",
+        "-350 kJ",
+        "+420 kJ"
+      ],
+      "a": 0,
+      "e": "Enthalpy is extensive: multiply -70 kJ by 6 to obtain -420 kJ.",
+      "d": "Medium",
+      "topic": "Thermochemical equations",
+      "slo": "Explain or apply thermochemical equations in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-017",
+      "q": "In an exothermic reaction, what is the sign of H(products) − H(reactants)?",
+      "o": [
+        "Negative",
+        "Positive",
+        "Undefined for all reactions",
+        "Always zero"
+      ],
+      "a": 0,
+      "e": "Products are at lower enthalpy than reactants.",
+      "d": "Medium",
+      "topic": "Enthalpy of reaction",
+      "slo": "Explain or apply enthalpy of reaction in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-018",
+      "q": "The reaction as written has ΔH = +35 kJ. What is the enthalpy change for 6 times this reaction?",
+      "o": [
+        "+210 kJ",
+        "-210 kJ",
+        "+245 kJ",
+        "+35 kJ"
+      ],
+      "a": 0,
+      "e": "Enthalpy is extensive: multiply +35 kJ by 6 to obtain +210 kJ.",
+      "d": "Medium",
+      "topic": "Thermochemical equations",
+      "slo": "Explain or apply thermochemical equations in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-019",
+      "q": "For A → B, ΔH = -237 kJ. What is ΔH for the reverse reaction B → A?",
+      "o": [
+        "+237 kJ",
+        "+474 kJ",
+        "0 kJ",
+        "-237 kJ"
+      ],
+      "a": 0,
+      "e": "Reversing a thermochemical equation reverses the sign: ΔH = +237 kJ.",
+      "d": "Medium",
+      "topic": "Thermochemical equations",
+      "slo": "Explain or apply thermochemical equations in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-020",
+      "q": "For an energy profile, products have energy 259 kJ and the transition-state peak has energy 346 kJ. What is the reverse activation energy?",
+      "o": [
+        "605 kJ",
+        "35 kJ",
+        "122 kJ",
+        "87 kJ"
+      ],
+      "a": 3,
+      "e": "Reverse activation energy = peak − products = 346 − 259 = 87 kJ.",
+      "d": "Medium",
+      "topic": "Reaction pathway diagrams",
+      "slo": "Explain or apply reaction pathway diagrams in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-021",
+      "q": "What does a catalyst usually do to activation energy?",
+      "o": [
+        "Lowers it",
+        "Makes it infinite",
+        "Raises it",
+        "Converts it to mass"
+      ],
+      "a": 0,
+      "e": "A catalyst provides an alternative reaction pathway with a lower activation energy.",
+      "d": "Medium",
+      "topic": "Catalysts",
+      "slo": "Explain or apply catalysts in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-022",
+      "q": "The reaction as written has ΔH = +80 kJ. What is the enthalpy change for 7 times this reaction?",
+      "o": [
+        "+560 kJ",
+        "+640 kJ",
+        "+80 kJ",
+        "-560 kJ"
+      ],
+      "a": 0,
+      "e": "Enthalpy is extensive: multiply +80 kJ by 7 to obtain +560 kJ.",
+      "d": "Medium",
+      "topic": "Thermochemical equations",
+      "slo": "Explain or apply thermochemical equations in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-023",
+      "q": "What does a catalyst change in a reaction energy diagram?",
+      "o": [
+        "The chemical formula of the products",
+        "The energies of the initial and final states",
+        "The overall enthalpy change",
+        "The activation energy barrier"
+      ],
+      "a": 3,
+      "e": "A catalyst lowers activation energy but does not change ΔH.",
+      "d": "Medium",
+      "topic": "Reaction pathways",
+      "slo": "Explain or apply reaction pathways in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-024",
+      "q": "If the bond dissociation energy of C−H is 413 kJ/mol, how much energy is required to break 4 mol of these bonds?",
+      "o": [
+        "413 kJ",
+        "2065 kJ",
+        "1239 kJ",
+        "1652 kJ"
+      ],
+      "a": 3,
+      "e": "Breaking 4 mol of C−H bonds requires 4 × 413 = 1652 kJ.",
+      "d": "Medium",
+      "topic": "Bond dissociation energy",
+      "slo": "Explain or apply bond dissociation energy in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-025",
+      "q": "What happens to energy in an endothermic reaction?",
+      "o": [
+        "Energy is destroyed",
+        "Energy is created",
+        "Energy is absorbed from the surroundings",
+        "Energy is always released"
+      ],
+      "a": 2,
+      "e": "Endothermic reactions take in energy from their surroundings.",
+      "d": "Medium",
+      "topic": "Endothermic reactions",
+      "slo": "Explain or apply endothermic reactions in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-026",
+      "q": "An uncatalyzed reaction has activation energy 142 kJ/mol. A catalyst lowers it by 27 kJ/mol. What is the catalyzed activation energy?",
+      "o": [
+        "169 kJ/mol",
+        "27 kJ/mol",
+        "142 kJ/mol",
+        "115 kJ/mol"
+      ],
+      "a": 3,
+      "e": "Catalyzed activation energy = 142 − 27 = 115 kJ/mol.",
+      "d": "Medium",
+      "topic": "Activation energy",
+      "slo": "Explain or apply activation energy in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-027",
+      "q": "An uncatalyzed reaction has activation energy 100 kJ/mol. A catalyst lowers it by 15 kJ/mol. What is the catalyzed activation energy?",
+      "o": [
+        "85 kJ/mol",
+        "15 kJ/mol",
+        "115 kJ/mol",
+        "100 kJ/mol"
+      ],
+      "a": 0,
+      "e": "Catalyzed activation energy = 100 − 15 = 85 kJ/mol.",
+      "d": "Medium",
+      "topic": "Activation energy",
+      "slo": "Explain or apply activation energy in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-028",
+      "q": "A reaction has reactant enthalpy 100 kJ and product enthalpy 88 kJ. What is ΔH for the reaction as written?",
+      "o": [
+        "+12 kJ",
+        "188 kJ",
+        "0 kJ",
+        "-12 kJ"
+      ],
+      "a": 3,
+      "e": "ΔH = H(products) − H(reactants) = 88 − 100 = -12 kJ.",
+      "d": "Medium",
+      "topic": "Enthalpy calculations",
+      "slo": "Explain or apply enthalpy calculations in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-029",
+      "q": "A chemical reaction releases 106 kJ of heat. How should this reaction be classified?",
+      "o": [
+        "Endothermic",
+        "Exothermic",
+        "Nuclear decay",
+        "Thermoneutral"
+      ],
+      "a": 1,
+      "e": "The reaction releases heat, so it is exothermic.",
+      "d": "Medium",
+      "topic": "Exothermic and endothermic reactions",
+      "slo": "Explain or apply exothermic and endothermic reactions in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-030",
+      "q": "Breaking reactant bonds requires 495 kJ, while forming product bonds releases 605 kJ. Estimate the reaction ΔH.",
+      "o": [
+        "495 kJ",
+        "1100 kJ",
+        "-110 kJ",
+        "+110 kJ"
+      ],
+      "a": 2,
+      "e": "ΔH = energy absorbed in bond breaking − energy released in bond forming = 495 − 605 = -110 kJ.",
+      "d": "Medium",
+      "topic": "Bond energy calculations",
+      "slo": "Explain or apply bond energy calculations in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-031",
+      "q": "Breaking reactant bonds requires 625 kJ, while forming product bonds releases 775 kJ. Estimate the reaction ΔH.",
+      "o": [
+        "1400 kJ",
+        "-150 kJ",
+        "+150 kJ",
+        "625 kJ"
+      ],
+      "a": 1,
+      "e": "ΔH = energy absorbed in bond breaking − energy released in bond forming = 625 − 775 = -150 kJ.",
+      "d": "Medium",
+      "topic": "Bond energy calculations",
+      "slo": "Explain or apply bond energy calculations in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-032",
+      "q": "For an energy profile, products have energy 151 kJ and the transition-state peak has energy 214 kJ. What is the reverse activation energy?",
+      "o": [
+        "365 kJ",
+        "98 kJ",
+        "63 kJ",
+        "35 kJ"
+      ],
+      "a": 2,
+      "e": "Reverse activation energy = peak − products = 214 − 151 = 63 kJ.",
+      "d": "Medium",
+      "topic": "Reaction pathway diagrams",
+      "slo": "Explain or apply reaction pathway diagrams in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-033",
+      "q": "Breaking reactant bonds requires 508 kJ, while forming product bonds releases 404 kJ. Estimate the reaction ΔH.",
+      "o": [
+        "-104 kJ",
+        "912 kJ",
+        "+104 kJ",
+        "508 kJ"
+      ],
+      "a": 2,
+      "e": "ΔH = energy absorbed in bond breaking − energy released in bond forming = 508 − 404 = +104 kJ.",
+      "d": "Medium",
+      "topic": "Bond energy calculations",
+      "slo": "Explain or apply bond energy calculations in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-034",
+      "q": "The reaction as written has ΔH = +60 kJ. What is the enthalpy change for 3 times this reaction?",
+      "o": [
+        "+60 kJ",
+        "-180 kJ",
+        "+180 kJ",
+        "+240 kJ"
+      ],
+      "a": 2,
+      "e": "Enthalpy is extensive: multiply +60 kJ by 3 to obtain +180 kJ.",
+      "d": "Medium",
+      "topic": "Thermochemical equations",
+      "slo": "Explain or apply thermochemical equations in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-035",
+      "q": "Which process is endothermic?",
+      "o": [
+        "Melting ice",
+        "Burning coal",
+        "Freezing water",
+        "Condensing steam"
+      ],
+      "a": 0,
+      "e": "Melting requires absorption of energy to overcome intermolecular attractions.",
+      "d": "Medium",
+      "topic": "Endothermic reactions",
+      "slo": "Explain or apply endothermic reactions in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-036",
+      "q": "What does a positive ΔH of +53.8 kJ indicate for a reaction as written?",
+      "o": [
+        "The products must be gases",
+        "53.8 kJ is released",
+        "The catalyst is consumed",
+        "53.8 kJ of heat is absorbed"
+      ],
+      "a": 3,
+      "e": "A positive enthalpy change indicates absorption of heat.",
+      "d": "Medium",
+      "topic": "Enthalpy interpretation",
+      "slo": "Explain or apply enthalpy interpretation in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-037",
+      "q": "An uncatalyzed reaction has activation energy 226 kJ/mol. A catalyst lowers it by 15 kJ/mol. What is the catalyzed activation energy?",
+      "o": [
+        "15 kJ/mol",
+        "226 kJ/mol",
+        "241 kJ/mol",
+        "211 kJ/mol"
+      ],
+      "a": 3,
+      "e": "Catalyzed activation energy = 226 − 15 = 211 kJ/mol.",
+      "d": "Medium",
+      "topic": "Activation energy",
+      "slo": "Explain or apply activation energy in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-038",
+      "q": "An energy profile shows reactants at 234 kJ, a peak at 363 kJ, and products at 259 kJ. What is the forward activation energy?",
+      "o": [
+        "25 kJ",
+        "104 kJ",
+        "363 kJ",
+        "129 kJ"
+      ],
+      "a": 3,
+      "e": "Forward activation energy = peak − reactant energy = 363 − 234 = 129 kJ.",
+      "d": "Medium",
+      "topic": "Reaction pathway diagrams",
+      "slo": "Explain or apply reaction pathway diagrams in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-039",
+      "q": "An uncatalyzed reaction has activation energy 149 kJ/mol. A catalyst lowers it by 29 kJ/mol. What is the catalyzed activation energy?",
+      "o": [
+        "29 kJ/mol",
+        "178 kJ/mol",
+        "149 kJ/mol",
+        "120 kJ/mol"
+      ],
+      "a": 3,
+      "e": "Catalyzed activation energy = 149 − 29 = 120 kJ/mol.",
+      "d": "Medium",
+      "topic": "Activation energy",
+      "slo": "Explain or apply activation energy in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-040",
+      "q": "A reaction has reactant enthalpy 576 kJ and product enthalpy 522 kJ. What is ΔH for the reaction as written?",
+      "o": [
+        "0 kJ",
+        "+54 kJ",
+        "-54 kJ",
+        "1098 kJ"
+      ],
+      "a": 2,
+      "e": "ΔH = H(products) − H(reactants) = 522 − 576 = -54 kJ.",
+      "d": "Medium",
+      "topic": "Enthalpy calculations",
+      "slo": "Explain or apply enthalpy calculations in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-041",
+      "q": "Which energy change is associated with separating H₂ into two H atoms?",
+      "o": [
+        "Energy is released",
+        "Energy is absorbed",
+        "The temperature must be zero",
+        "No energy changes"
+      ],
+      "a": 1,
+      "e": "Breaking the H−H bond requires energy.",
+      "d": "Medium",
+      "topic": "Bond dissociation energy",
+      "slo": "Explain or apply bond dissociation energy in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-042",
+      "q": "A reaction releases more energy on bond formation than it absorbs in bond breaking. What is its net effect?",
+      "o": [
+        "It violates conservation of energy",
+        "Exothermic",
+        "Endothermic",
+        "Always thermoneutral"
+      ],
+      "a": 1,
+      "e": "Greater energy release from bond formation produces a negative ΔH.",
+      "d": "Medium",
+      "topic": "Bond energy calculations",
+      "slo": "Explain or apply bond energy calculations in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-043",
+      "q": "An energy profile shows reactants at 210 kJ, a peak at 330 kJ, and products at 180 kJ. What is the forward activation energy?",
+      "o": [
+        "150 kJ",
+        "30 kJ",
+        "330 kJ",
+        "120 kJ"
+      ],
+      "a": 3,
+      "e": "Forward activation energy = peak − reactant energy = 330 − 210 = 120 kJ.",
+      "d": "Medium",
+      "topic": "Reaction pathway diagrams",
+      "slo": "Explain or apply reaction pathway diagrams in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-044",
+      "q": "For an energy profile, products have energy 169 kJ and the transition-state peak has energy 236 kJ. What is the reverse activation energy?",
+      "o": [
+        "102 kJ",
+        "67 kJ",
+        "35 kJ",
+        "405 kJ"
+      ],
+      "a": 1,
+      "e": "Reverse activation energy = peak − products = 236 − 169 = 67 kJ.",
+      "d": "Medium",
+      "topic": "Reaction pathway diagrams",
+      "slo": "Explain or apply reaction pathway diagrams in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-045",
+      "q": "For an energy profile, products have energy 223 kJ and the transition-state peak has energy 302 kJ. What is the reverse activation energy?",
+      "o": [
+        "525 kJ",
+        "114 kJ",
+        "35 kJ",
+        "79 kJ"
+      ],
+      "a": 3,
+      "e": "Reverse activation energy = peak − products = 302 − 223 = 79 kJ.",
+      "d": "Medium",
+      "topic": "Reaction pathway diagrams",
+      "slo": "Explain or apply reaction pathway diagrams in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-046",
+      "q": "For an energy profile, products have energy 64 kJ and the transition-state peak has energy 181 kJ. What is the reverse activation energy?",
+      "o": [
+        "25 kJ",
+        "245 kJ",
+        "92 kJ",
+        "117 kJ"
+      ],
+      "a": 3,
+      "e": "Reverse activation energy = peak − products = 181 − 64 = 117 kJ.",
+      "d": "Medium",
+      "topic": "Reaction pathway diagrams",
+      "slo": "Explain or apply reaction pathway diagrams in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-047",
+      "q": "What is the effect of a catalyst on reaction rate?",
+      "o": [
+        "It usually increases reaction rate",
+        "It always lowers temperature",
+        "It always stops the reaction",
+        "It changes atoms into new elements"
+      ],
+      "a": 0,
+      "e": "Lower activation energy allows a greater fraction of collisions to produce reaction.",
+      "d": "Easy",
+      "topic": "Catalysts",
+      "slo": "Explain or apply catalysts in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-048",
+      "q": "The reaction as written has ΔH = -35 kJ. What is the enthalpy change for 5 times this reaction?",
+      "o": [
+        "-175 kJ",
+        "-140 kJ",
+        "-35 kJ",
+        "+175 kJ"
+      ],
+      "a": 0,
+      "e": "Enthalpy is extensive: multiply -35 kJ by 5 to obtain -175 kJ.",
+      "d": "Medium",
+      "topic": "Thermochemical equations",
+      "slo": "Explain or apply thermochemical equations in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-049",
+      "q": "An exothermic reaction releases 115 kJ for each mole of reaction. How much heat is released when it occurs 6 mol times?",
+      "o": [
+        "690 kJ",
+        "805 kJ",
+        "575 kJ",
+        "115 kJ"
+      ],
+      "a": 0,
+      "e": "Heat released = 115 kJ/mol × 6 mol = 690 kJ.",
+      "d": "Medium",
+      "topic": "Heat of reaction",
+      "slo": "Explain or apply heat of reaction in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-050",
+      "q": "What happens to energy in an exothermic reaction?",
+      "o": [
+        "Energy is always absorbed",
+        "No energy is transferred",
+        "Energy is released to the surroundings",
+        "Only light is absorbed"
+      ],
+      "a": 2,
+      "e": "Exothermic reactions transfer energy from the reacting system to the surroundings.",
+      "d": "Medium",
+      "topic": "Exothermic reactions",
+      "slo": "Explain or apply exothermic reactions in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-051",
+      "q": "A reaction has reactant enthalpy 542 kJ and product enthalpy 502 kJ. What is ΔH for the reaction as written?",
+      "o": [
+        "+40 kJ",
+        "0 kJ",
+        "1044 kJ",
+        "-40 kJ"
+      ],
+      "a": 3,
+      "e": "ΔH = H(products) − H(reactants) = 502 − 542 = -40 kJ.",
+      "d": "Medium",
+      "topic": "Enthalpy calculations",
+      "slo": "Explain or apply enthalpy calculations in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-052",
+      "q": "An energy profile shows reactants at 146 kJ, a peak at 242 kJ, and products at 116 kJ. What is the forward activation energy?",
+      "o": [
+        "126 kJ",
+        "96 kJ",
+        "242 kJ",
+        "30 kJ"
+      ],
+      "a": 1,
+      "e": "Forward activation energy = peak − reactant energy = 242 − 146 = 96 kJ.",
+      "d": "Medium",
+      "topic": "Reaction pathway diagrams",
+      "slo": "Explain or apply reaction pathway diagrams in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-053",
+      "q": "For A → B, ΔH = -193 kJ. What is ΔH for the reverse reaction B → A?",
+      "o": [
+        "0 kJ",
+        "+193 kJ",
+        "-193 kJ",
+        "+386 kJ"
+      ],
+      "a": 1,
+      "e": "Reversing a thermochemical equation reverses the sign: ΔH = +193 kJ.",
+      "d": "Medium",
+      "topic": "Thermochemical equations",
+      "slo": "Explain or apply thermochemical equations in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-054",
+      "q": "For an energy profile, products have energy 244 kJ and the transition-state peak has energy 401 kJ. What is the reverse activation energy?",
+      "o": [
+        "645 kJ",
+        "132 kJ",
+        "25 kJ",
+        "157 kJ"
+      ],
+      "a": 3,
+      "e": "Reverse activation energy = peak − products = 401 − 244 = 157 kJ.",
+      "d": "Medium",
+      "topic": "Reaction pathway diagrams",
+      "slo": "Explain or apply reaction pathway diagrams in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-055",
+      "q": "A chemical reaction releases 176 kJ of heat. How should this reaction be classified?",
+      "o": [
+        "Exothermic",
+        "Thermoneutral",
+        "Nuclear decay",
+        "Endothermic"
+      ],
+      "a": 0,
+      "e": "The reaction releases heat, so it is exothermic.",
+      "d": "Medium",
+      "topic": "Exothermic and endothermic reactions",
+      "slo": "Explain or apply exothermic and endothermic reactions in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-056",
+      "q": "An exothermic reaction releases 205 kJ for each mole of reaction. How much heat is released when it occurs 4 mol times?",
+      "o": [
+        "820 kJ",
+        "1025 kJ",
+        "615 kJ",
+        "205 kJ"
+      ],
+      "a": 0,
+      "e": "Heat released = 205 kJ/mol × 4 mol = 820 kJ.",
+      "d": "Medium",
+      "topic": "Heat of reaction",
+      "slo": "Explain or apply heat of reaction in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-057",
+      "q": "For A → B, ΔH = +204 kJ. What is ΔH for the reverse reaction B → A?",
+      "o": [
+        "+204 kJ",
+        "-204 kJ",
+        "-408 kJ",
+        "0 kJ"
+      ],
+      "a": 1,
+      "e": "Reversing a thermochemical equation reverses the sign: ΔH = -204 kJ.",
+      "d": "Medium",
+      "topic": "Thermochemical equations",
+      "slo": "Explain or apply thermochemical equations in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-058",
+      "q": "For A → B, ΔH = +226 kJ. What is ΔH for the reverse reaction B → A?",
+      "o": [
+        "-226 kJ",
+        "0 kJ",
+        "+226 kJ",
+        "-452 kJ"
+      ],
+      "a": 0,
+      "e": "Reversing a thermochemical equation reverses the sign: ΔH = -226 kJ.",
+      "d": "Medium",
+      "topic": "Thermochemical equations",
+      "slo": "Explain or apply thermochemical equations in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-059",
+      "q": "An exothermic reaction releases 106 kJ for each mole of reaction. How much heat is released when it occurs 5 mol times?",
+      "o": [
+        "106 kJ",
+        "530 kJ",
+        "424 kJ",
+        "636 kJ"
+      ],
+      "a": 1,
+      "e": "Heat released = 106 kJ/mol × 5 mol = 530 kJ.",
+      "d": "Medium",
+      "topic": "Heat of reaction",
+      "slo": "Explain or apply heat of reaction in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-060",
+      "q": "A reaction has reactant enthalpy 457 kJ and product enthalpy 539 kJ. What is ΔH for the reaction as written?",
+      "o": [
+        "-82 kJ",
+        "+82 kJ",
+        "996 kJ",
+        "0 kJ"
+      ],
+      "a": 1,
+      "e": "ΔH = H(products) − H(reactants) = 539 − 457 = +82 kJ.",
+      "d": "Medium",
+      "topic": "Enthalpy calculations",
+      "slo": "Explain or apply enthalpy calculations in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-061",
+      "q": "An exothermic reaction releases 223 kJ for each mole of reaction. How much heat is released when it occurs 6 mol times?",
+      "o": [
+        "1561 kJ",
+        "1338 kJ",
+        "223 kJ",
+        "1115 kJ"
+      ],
+      "a": 1,
+      "e": "Heat released = 223 kJ/mol × 6 mol = 1338 kJ.",
+      "d": "Medium",
+      "topic": "Heat of reaction",
+      "slo": "Explain or apply heat of reaction in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-062",
+      "q": "A chemical reaction releases 162 kJ of heat. How should this reaction be classified?",
+      "o": [
+        "Endothermic",
+        "Nuclear decay",
+        "Thermoneutral",
+        "Exothermic"
+      ],
+      "a": 3,
+      "e": "The reaction releases heat, so it is exothermic.",
+      "d": "Medium",
+      "topic": "Exothermic and endothermic reactions",
+      "slo": "Explain or apply exothermic and endothermic reactions in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-063",
+      "q": "An energy profile shows reactants at 114 kJ, a peak at 198 kJ, and products at 84 kJ. What is the forward activation energy?",
+      "o": [
+        "30 kJ",
+        "84 kJ",
+        "198 kJ",
+        "114 kJ"
+      ],
+      "a": 1,
+      "e": "Forward activation energy = peak − reactant energy = 198 − 114 = 84 kJ.",
+      "d": "Medium",
+      "topic": "Reaction pathway diagrams",
+      "slo": "Explain or apply reaction pathway diagrams in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-064",
+      "q": "A chemical reaction releases 64 kJ of heat. How should this reaction be classified?",
+      "o": [
+        "Endothermic",
+        "Thermoneutral",
+        "Nuclear decay",
+        "Exothermic"
+      ],
+      "a": 3,
+      "e": "The reaction releases heat, so it is exothermic.",
+      "d": "Medium",
+      "topic": "Exothermic and endothermic reactions",
+      "slo": "Explain or apply exothermic and endothermic reactions in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-065",
+      "q": "For A → B, ΔH = +50 kJ. What is ΔH for the reverse reaction B → A?",
+      "o": [
+        "-50 kJ",
+        "-100 kJ",
+        "+50 kJ",
+        "0 kJ"
+      ],
+      "a": 0,
+      "e": "Reversing a thermochemical equation reverses the sign: ΔH = -50 kJ.",
+      "d": "Medium",
+      "topic": "Thermochemical equations",
+      "slo": "Explain or apply thermochemical equations in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-066",
+      "q": "An uncatalyzed reaction has activation energy 191 kJ/mol. A catalyst lowers it by 23 kJ/mol. What is the catalyzed activation energy?",
+      "o": [
+        "191 kJ/mol",
+        "168 kJ/mol",
+        "214 kJ/mol",
+        "23 kJ/mol"
+      ],
+      "a": 1,
+      "e": "Catalyzed activation energy = 191 − 23 = 168 kJ/mol.",
+      "d": "Medium",
+      "topic": "Activation energy",
+      "slo": "Explain or apply activation energy in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-067",
+      "q": "Breaking reactant bonds requires 768 kJ, while forming product bonds releases 584 kJ. Estimate the reaction ΔH.",
+      "o": [
+        "1352 kJ",
+        "+184 kJ",
+        "-184 kJ",
+        "768 kJ"
+      ],
+      "a": 1,
+      "e": "ΔH = energy absorbed in bond breaking − energy released in bond forming = 768 − 584 = +184 kJ.",
+      "d": "Medium",
+      "topic": "Bond energy calculations",
+      "slo": "Explain or apply bond energy calculations in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-068",
+      "q": "The reaction as written has ΔH = -40 kJ. What is the enthalpy change for 7 times this reaction?",
+      "o": [
+        "-240 kJ",
+        "-40 kJ",
+        "+280 kJ",
+        "-280 kJ"
+      ],
+      "a": 3,
+      "e": "Enthalpy is extensive: multiply -40 kJ by 7 to obtain -280 kJ.",
+      "d": "Medium",
+      "topic": "Thermochemical equations",
+      "slo": "Explain or apply thermochemical equations in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-069",
+      "q": "Breaking reactant bonds requires 742 kJ, while forming product bonds releases 566 kJ. Estimate the reaction ΔH.",
+      "o": [
+        "-176 kJ",
+        "742 kJ",
+        "+176 kJ",
+        "1308 kJ"
+      ],
+      "a": 2,
+      "e": "ΔH = energy absorbed in bond breaking − energy released in bond forming = 742 − 566 = +176 kJ.",
+      "d": "Medium",
+      "topic": "Bond energy calculations",
+      "slo": "Explain or apply bond energy calculations in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-070",
+      "q": "What is generally shown on the horizontal axis of a reaction pathway diagram?",
+      "o": [
+        "Mass number",
+        "Temperature in kelvin",
+        "Reaction progress",
+        "Atomic radius"
+      ],
+      "a": 2,
+      "e": "The horizontal axis represents progress along the reaction pathway.",
+      "d": "Easy",
+      "topic": "Reaction pathway diagrams",
+      "slo": "Explain or apply reaction pathway diagrams in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-071",
+      "q": "A reaction has reactant enthalpy 253 kJ and product enthalpy 328 kJ. What is ΔH for the reaction as written?",
+      "o": [
+        "581 kJ",
+        "0 kJ",
+        "-75 kJ",
+        "+75 kJ"
+      ],
+      "a": 3,
+      "e": "ΔH = H(products) − H(reactants) = 328 − 253 = +75 kJ.",
+      "d": "Medium",
+      "topic": "Enthalpy calculations",
+      "slo": "Explain or apply enthalpy calculations in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-072",
+      "q": "Which process releases energy from glucose in living cells?",
+      "o": [
+        "Photosynthesis",
+        "Evaporation",
+        "Respiration",
+        "Melting"
+      ],
+      "a": 2,
+      "e": "Cellular respiration releases energy from glucose.",
+      "d": "Easy",
+      "topic": "Respiration",
+      "slo": "Explain or apply respiration in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-073",
+      "q": "If the bond dissociation energy of N−H is 391 kJ/mol, how much energy is required to break 4 mol of these bonds?",
+      "o": [
+        "1173 kJ",
+        "1564 kJ",
+        "1955 kJ",
+        "391 kJ"
+      ],
+      "a": 1,
+      "e": "Breaking 4 mol of N−H bonds requires 4 × 391 = 1564 kJ.",
+      "d": "Medium",
+      "topic": "Bond dissociation energy",
+      "slo": "Explain or apply bond dissociation energy in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-074",
+      "q": "For A → B, ΔH = -171 kJ. What is ΔH for the reverse reaction B → A?",
+      "o": [
+        "-171 kJ",
+        "0 kJ",
+        "+171 kJ",
+        "+342 kJ"
+      ],
+      "a": 2,
+      "e": "Reversing a thermochemical equation reverses the sign: ΔH = +171 kJ.",
+      "d": "Medium",
+      "topic": "Thermochemical equations",
+      "slo": "Explain or apply thermochemical equations in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-075",
+      "q": "A reaction has reactant enthalpy 559 kJ and product enthalpy 606 kJ. What is ΔH for the reaction as written?",
+      "o": [
+        "0 kJ",
+        "+47 kJ",
+        "-47 kJ",
+        "1165 kJ"
+      ],
+      "a": 1,
+      "e": "ΔH = H(products) − H(reactants) = 606 − 559 = +47 kJ.",
+      "d": "Medium",
+      "topic": "Enthalpy calculations",
+      "slo": "Explain or apply enthalpy calculations in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-076",
+      "q": "A reaction has reactant enthalpy 508 kJ and product enthalpy 482 kJ. What is ΔH for the reaction as written?",
+      "o": [
+        "990 kJ",
+        "0 kJ",
+        "+26 kJ",
+        "-26 kJ"
+      ],
+      "a": 3,
+      "e": "ΔH = H(products) − H(reactants) = 482 − 508 = -26 kJ.",
+      "d": "Medium",
+      "topic": "Enthalpy calculations",
+      "slo": "Explain or apply enthalpy calculations in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-077",
+      "q": "If the bond dissociation energy of N−H is 391 kJ/mol, how much energy is required to break 3 mol of these bonds?",
+      "o": [
+        "391 kJ",
+        "1564 kJ",
+        "1173 kJ",
+        "782 kJ"
+      ],
+      "a": 2,
+      "e": "Breaking 3 mol of N−H bonds requires 3 × 391 = 1173 kJ.",
+      "d": "Medium",
+      "topic": "Bond dissociation energy",
+      "slo": "Explain or apply bond dissociation energy in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-078",
+      "q": "Which expression estimates reaction enthalpy from bond energies?",
+      "o": [
+        "Energy to break reactant bonds minus energy released forming product bonds",
+        "Sum of all atomic masses",
+        "Reactant moles divided by product moles",
+        "Product bond energies minus reactant bond energies"
+      ],
+      "a": 0,
+      "e": "ΔH = Σ(bonds broken) − Σ(bonds formed).",
+      "d": "Medium",
+      "topic": "Bond energy calculations",
+      "slo": "Explain or apply bond energy calculations in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-079",
+      "q": "Why do exothermic reactions not necessarily occur instantly?",
+      "o": [
+        "They cannot have an energy barrier",
+        "They never need collisions",
+        "They may still require activation energy",
+        "They have no bonds to break"
+      ],
+      "a": 2,
+      "e": "Even energy-releasing reactions may need an initial energy input to overcome the barrier.",
+      "d": "Medium",
+      "topic": "Activation energy",
+      "slo": "Explain or apply activation energy in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-080",
+      "q": "Why can increasing temperature speed up a chemical reaction?",
+      "o": [
+        "Every collision has identical energy",
+        "Activation energy becomes the atomic mass",
+        "Chemical bonds cease to exist",
+        "More particles have enough energy to cross the activation barrier"
+      ],
+      "a": 3,
+      "e": "A greater fraction of particles exceed the activation-energy threshold at higher temperature.",
+      "d": "Medium",
+      "topic": "Collision theory",
+      "slo": "Explain or apply collision theory in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-081",
+      "q": "An energy profile shows reactants at 130 kJ, a peak at 220 kJ, and products at 100 kJ. What is the forward activation energy?",
+      "o": [
+        "120 kJ",
+        "220 kJ",
+        "30 kJ",
+        "90 kJ"
+      ],
+      "a": 3,
+      "e": "Forward activation energy = peak − reactant energy = 220 − 130 = 90 kJ.",
+      "d": "Medium",
+      "topic": "Reaction pathway diagrams",
+      "slo": "Explain or apply reaction pathway diagrams in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-082",
+      "q": "An exothermic reaction releases 142 kJ for each mole of reaction. How much heat is released when it occurs 3 mol times?",
+      "o": [
+        "568 kJ",
+        "284 kJ",
+        "142 kJ",
+        "426 kJ"
+      ],
+      "a": 3,
+      "e": "Heat released = 142 kJ/mol × 3 mol = 426 kJ.",
+      "d": "Medium",
+      "topic": "Heat of reaction",
+      "slo": "Explain or apply heat of reaction in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-083",
+      "q": "For an energy profile, products have energy 313 kJ and the transition-state peak has energy 412 kJ. What is the reverse activation energy?",
+      "o": [
+        "725 kJ",
+        "99 kJ",
+        "35 kJ",
+        "134 kJ"
+      ],
+      "a": 1,
+      "e": "Reverse activation energy = peak − products = 412 − 313 = 99 kJ.",
+      "d": "Medium",
+      "topic": "Reaction pathway diagrams",
+      "slo": "Explain or apply reaction pathway diagrams in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-084",
+      "q": "In an exothermic energy diagram, where are the products relative to reactants?",
+      "o": [
+        "Above the activation-energy peak",
+        "At a higher energy level",
+        "At a lower energy level",
+        "Always at the same energy"
+      ],
+      "a": 2,
+      "e": "Products have lower enthalpy than reactants when ΔH is negative.",
+      "d": "Medium",
+      "topic": "Reaction pathway diagrams",
+      "slo": "Explain or apply reaction pathway diagrams in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-085",
+      "q": "An uncatalyzed reaction has activation energy 240 kJ/mol. A catalyst lowers it by 19 kJ/mol. What is the catalyzed activation energy?",
+      "o": [
+        "240 kJ/mol",
+        "259 kJ/mol",
+        "221 kJ/mol",
+        "19 kJ/mol"
+      ],
+      "a": 2,
+      "e": "Catalyzed activation energy = 240 − 19 = 221 kJ/mol.",
+      "d": "Medium",
+      "topic": "Activation energy",
+      "slo": "Explain or apply activation energy in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-086",
+      "q": "For an energy profile, products have energy 277 kJ and the transition-state peak has energy 368 kJ. What is the reverse activation energy?",
+      "o": [
+        "126 kJ",
+        "35 kJ",
+        "91 kJ",
+        "645 kJ"
+      ],
+      "a": 2,
+      "e": "Reverse activation energy = peak − products = 368 − 277 = 91 kJ.",
+      "d": "Medium",
+      "topic": "Reaction pathway diagrams",
+      "slo": "Explain or apply reaction pathway diagrams in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-087",
+      "q": "Which reaction is usually exothermic?",
+      "o": [
+        "Thermal decomposition of calcium carbonate",
+        "Combustion of methane",
+        "Melting ice",
+        "Evaporation of water"
+      ],
+      "a": 1,
+      "e": "Combustion transfers chemical energy as heat to the surroundings.",
+      "d": "Easy",
+      "topic": "Exothermic reactions",
+      "slo": "Explain or apply exothermic reactions in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-088",
+      "q": "For A → B, ΔH = +248 kJ. What is ΔH for the reverse reaction B → A?",
+      "o": [
+        "0 kJ",
+        "-496 kJ",
+        "+248 kJ",
+        "-248 kJ"
+      ],
+      "a": 3,
+      "e": "Reversing a thermochemical equation reverses the sign: ΔH = -248 kJ.",
+      "d": "Medium",
+      "topic": "Thermochemical equations",
+      "slo": "Explain or apply thermochemical equations in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-089",
+      "q": "A reaction has reactant enthalpy 117 kJ and product enthalpy 136 kJ. What is ΔH for the reaction as written?",
+      "o": [
+        "-19 kJ",
+        "+19 kJ",
+        "0 kJ",
+        "253 kJ"
+      ],
+      "a": 1,
+      "e": "ΔH = H(products) − H(reactants) = 136 − 117 = +19 kJ.",
+      "d": "Medium",
+      "topic": "Enthalpy calculations",
+      "slo": "Explain or apply enthalpy calculations in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-090",
+      "q": "An energy profile shows reactants at 58 kJ, a peak at 121 kJ, and products at 83 kJ. What is the forward activation energy?",
+      "o": [
+        "25 kJ",
+        "38 kJ",
+        "121 kJ",
+        "63 kJ"
+      ],
+      "a": 3,
+      "e": "Forward activation energy = peak − reactant energy = 121 − 58 = 63 kJ.",
+      "d": "Medium",
+      "topic": "Reaction pathway diagrams",
+      "slo": "Explain or apply reaction pathway diagrams in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-091",
+      "q": "What is the function of lipids in the body highlighted in this unit?",
+      "o": [
+        "Act as mineral acids",
+        "Long-term energy storage",
+        "Produce oxygen by electrolysis",
+        "Catalyze every reaction"
+      ],
+      "a": 1,
+      "e": "Lipids store considerable chemical energy for later use.",
+      "d": "Medium",
+      "topic": "Energy in organisms",
+      "slo": "Explain or apply energy in organisms in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-092",
+      "q": "A reaction has reactant enthalpy 355 kJ and product enthalpy 395 kJ. What is ΔH for the reaction as written?",
+      "o": [
+        "0 kJ",
+        "750 kJ",
+        "+40 kJ",
+        "-40 kJ"
+      ],
+      "a": 2,
+      "e": "ΔH = H(products) − H(reactants) = 395 − 355 = +40 kJ.",
+      "d": "Medium",
+      "topic": "Enthalpy calculations",
+      "slo": "Explain or apply enthalpy calculations in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-093",
+      "q": "A reaction has reactant enthalpy 151 kJ and product enthalpy 184 kJ. What is ΔH for the reaction as written?",
+      "o": [
+        "+33 kJ",
+        "-33 kJ",
+        "335 kJ",
+        "0 kJ"
+      ],
+      "a": 0,
+      "e": "ΔH = H(products) − H(reactants) = 184 − 151 = +33 kJ.",
+      "d": "Medium",
+      "topic": "Enthalpy calculations",
+      "slo": "Explain or apply enthalpy calculations in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-094",
+      "q": "An uncatalyzed reaction has activation energy 233 kJ/mol. A catalyst lowers it by 17 kJ/mol. What is the catalyzed activation energy?",
+      "o": [
+        "250 kJ/mol",
+        "233 kJ/mol",
+        "216 kJ/mol",
+        "17 kJ/mol"
+      ],
+      "a": 2,
+      "e": "Catalyzed activation energy = 233 − 17 = 216 kJ/mol.",
+      "d": "Medium",
+      "topic": "Activation energy",
+      "slo": "Explain or apply activation energy in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-095",
+      "q": "An energy profile shows reactants at 162 kJ, a peak at 264 kJ, and products at 132 kJ. What is the forward activation energy?",
+      "o": [
+        "132 kJ",
+        "102 kJ",
+        "30 kJ",
+        "264 kJ"
+      ],
+      "a": 1,
+      "e": "Forward activation energy = peak − reactant energy = 264 − 162 = 102 kJ.",
+      "d": "Medium",
+      "topic": "Reaction pathway diagrams",
+      "slo": "Explain or apply reaction pathway diagrams in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-096",
+      "q": "Breaking reactant bonds requires 599 kJ, while forming product bonds releases 741 kJ. Estimate the reaction ΔH.",
+      "o": [
+        "+142 kJ",
+        "-142 kJ",
+        "599 kJ",
+        "1340 kJ"
+      ],
+      "a": 1,
+      "e": "ΔH = energy absorbed in bond breaking − energy released in bond forming = 599 − 741 = -142 kJ.",
+      "d": "Medium",
+      "topic": "Bond energy calculations",
+      "slo": "Explain or apply bond energy calculations in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-097",
+      "q": "An uncatalyzed reaction has activation energy 135 kJ/mol. A catalyst lowers it by 25 kJ/mol. What is the catalyzed activation energy?",
+      "o": [
+        "135 kJ/mol",
+        "110 kJ/mol",
+        "160 kJ/mol",
+        "25 kJ/mol"
+      ],
+      "a": 1,
+      "e": "Catalyzed activation energy = 135 − 25 = 110 kJ/mol.",
+      "d": "Medium",
+      "topic": "Activation energy",
+      "slo": "Explain or apply activation energy in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-098",
+      "q": "A reaction has reactant enthalpy 270 kJ and product enthalpy 188 kJ. What is ΔH for the reaction as written?",
+      "o": [
+        "0 kJ",
+        "-82 kJ",
+        "458 kJ",
+        "+82 kJ"
+      ],
+      "a": 1,
+      "e": "ΔH = H(products) − H(reactants) = 188 − 270 = -82 kJ.",
+      "d": "Medium",
+      "topic": "Enthalpy calculations",
+      "slo": "Explain or apply enthalpy calculations in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-099",
+      "q": "An exothermic reaction releases 196 kJ for each mole of reaction. How much heat is released when it occurs 3 mol times?",
+      "o": [
+        "588 kJ",
+        "392 kJ",
+        "196 kJ",
+        "784 kJ"
+      ],
+      "a": 0,
+      "e": "Heat released = 196 kJ/mol × 3 mol = 588 kJ.",
+      "d": "Medium",
+      "topic": "Heat of reaction",
+      "slo": "Explain or apply heat of reaction in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-100",
+      "q": "What is activation energy?",
+      "o": [
+        "Energy of light only",
+        "Minimum energy needed for an effective reaction-producing collision",
+        "Total energy stored in a nucleus",
+        "Energy released by every product"
+      ],
+      "a": 1,
+      "e": "Activation energy is the minimum energy barrier that reacting particles must overcome.",
+      "d": "Medium",
+      "topic": "Activation energy",
+      "slo": "Explain or apply activation energy in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-101",
+      "q": "A reaction requires more energy to break bonds than is released when new bonds form. What is the net effect?",
+      "o": [
+        "Exothermic",
+        "No reaction can occur",
+        "Endothermic",
+        "Zero enthalpy change"
+      ],
+      "a": 2,
+      "e": "If absorbed bond-breaking energy exceeds released bond-forming energy, ΔH is positive.",
+      "d": "Medium",
+      "topic": "Bond energy calculations",
+      "slo": "Explain or apply bond energy calculations in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-102",
+      "q": "What substance may form in human muscles during anaerobic respiration?",
+      "o": [
+        "Lactic acid",
+        "Sulfuric acid",
+        "Hydrochloric acid",
+        "Nitric acid"
+      ],
+      "a": 0,
+      "e": "Anaerobic respiration in muscles can produce lactic acid.",
+      "d": "Medium",
+      "topic": "Anaerobic respiration",
+      "slo": "Explain or apply anaerobic respiration in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-103",
+      "q": "What energy is required to break a chemical bond?",
+      "o": [
+        "Electrical resistance",
+        "Ionization current",
+        "Atomic radius",
+        "Bond dissociation energy"
+      ],
+      "a": 3,
+      "e": "Breaking chemical bonds requires an input of energy.",
+      "d": "Medium",
+      "topic": "Bond dissociation energy",
+      "slo": "Explain or apply bond dissociation energy in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-104",
+      "q": "A chemical reaction releases 148 kJ of heat. How should this reaction be classified?",
+      "o": [
+        "Exothermic",
+        "Nuclear decay",
+        "Thermoneutral",
+        "Endothermic"
+      ],
+      "a": 0,
+      "e": "The reaction releases heat, so it is exothermic.",
+      "d": "Medium",
+      "topic": "Exothermic and endothermic reactions",
+      "slo": "Explain or apply exothermic and endothermic reactions in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-105",
+      "q": "Breaking reactant bonds requires 651 kJ, while forming product bonds releases 809 kJ. Estimate the reaction ΔH.",
+      "o": [
+        "651 kJ",
+        "1460 kJ",
+        "-158 kJ",
+        "+158 kJ"
+      ],
+      "a": 2,
+      "e": "ΔH = energy absorbed in bond breaking − energy released in bond forming = 651 − 809 = -158 kJ.",
+      "d": "Medium",
+      "topic": "Bond energy calculations",
+      "slo": "Explain or apply bond energy calculations in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-106",
+      "q": "For A → B, ΔH = -149 kJ. What is ΔH for the reverse reaction B → A?",
+      "o": [
+        "0 kJ",
+        "-149 kJ",
+        "+298 kJ",
+        "+149 kJ"
+      ],
+      "a": 3,
+      "e": "Reversing a thermochemical equation reverses the sign: ΔH = +149 kJ.",
+      "d": "Medium",
+      "topic": "Thermochemical equations",
+      "slo": "Explain or apply thermochemical equations in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-107",
+      "q": "Breaking reactant bonds requires 846 kJ, while forming product bonds releases 638 kJ. Estimate the reaction ΔH.",
+      "o": [
+        "1484 kJ",
+        "+208 kJ",
+        "846 kJ",
+        "-208 kJ"
+      ],
+      "a": 1,
+      "e": "ΔH = energy absorbed in bond breaking − energy released in bond forming = 846 − 638 = +208 kJ.",
+      "d": "Medium",
+      "topic": "Bond energy calculations",
+      "slo": "Explain or apply bond energy calculations in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-108",
+      "q": "If the bond dissociation energy of N≡N is 945 kJ/mol, how much energy is required to break 4 mol of these bonds?",
+      "o": [
+        "945 kJ",
+        "2835 kJ",
+        "3780 kJ",
+        "4725 kJ"
+      ],
+      "a": 2,
+      "e": "Breaking 4 mol of N≡N bonds requires 4 × 945 = 3780 kJ.",
+      "d": "Medium",
+      "topic": "Bond dissociation energy",
+      "slo": "Explain or apply bond dissociation energy in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-109",
+      "q": "Breaking reactant bonds requires 859 kJ, while forming product bonds releases 1081 kJ. Estimate the reaction ΔH.",
+      "o": [
+        "-222 kJ",
+        "1940 kJ",
+        "+222 kJ",
+        "859 kJ"
+      ],
+      "a": 0,
+      "e": "ΔH = energy absorbed in bond breaking − energy released in bond forming = 859 − 1081 = -222 kJ.",
+      "d": "Medium",
+      "topic": "Bond energy calculations",
+      "slo": "Explain or apply bond energy calculations in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-110",
+      "q": "In an endothermic reaction, what is the sign of H(products) − H(reactants)?",
+      "o": [
+        "Positive",
+        "Always zero",
+        "Negative",
+        "Always equal to activation energy"
+      ],
+      "a": 0,
+      "e": "Products are at higher enthalpy than reactants.",
+      "d": "Easy",
+      "topic": "Enthalpy of reaction",
+      "slo": "Explain or apply enthalpy of reaction in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-111",
+      "q": "For A → B, ΔH = -39 kJ. What is ΔH for the reverse reaction B → A?",
+      "o": [
+        "0 kJ",
+        "-39 kJ",
+        "+39 kJ",
+        "+78 kJ"
+      ],
+      "a": 2,
+      "e": "Reversing a thermochemical equation reverses the sign: ΔH = +39 kJ.",
+      "d": "Medium",
+      "topic": "Thermochemical equations",
+      "slo": "Explain or apply thermochemical equations in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-112",
+      "q": "In an exothermic process, how does the surrounding temperature often change?",
+      "o": [
+        "It increases",
+        "It always decreases",
+        "It cannot change",
+        "It becomes exactly 0°C"
+      ],
+      "a": 0,
+      "e": "Heat released by the system can warm its surroundings.",
+      "d": "Medium",
+      "topic": "Heat transfer",
+      "slo": "Explain or apply heat transfer in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-113",
+      "q": "An uncatalyzed reaction has activation energy 198 kJ/mol. A catalyst lowers it by 25 kJ/mol. What is the catalyzed activation energy?",
+      "o": [
+        "198 kJ/mol",
+        "223 kJ/mol",
+        "173 kJ/mol",
+        "25 kJ/mol"
+      ],
+      "a": 2,
+      "e": "Catalyzed activation energy = 198 − 25 = 173 kJ/mol.",
+      "d": "Medium",
+      "topic": "Activation energy",
+      "slo": "Explain or apply activation energy in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-114",
+      "q": "Breaking reactant bonds requires 456 kJ, while forming product bonds releases 368 kJ. Estimate the reaction ΔH.",
+      "o": [
+        "824 kJ",
+        "-88 kJ",
+        "456 kJ",
+        "+88 kJ"
+      ],
+      "a": 3,
+      "e": "ΔH = energy absorbed in bond breaking − energy released in bond forming = 456 − 368 = +88 kJ.",
+      "d": "Medium",
+      "topic": "Bond energy calculations",
+      "slo": "Explain or apply bond energy calculations in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-115",
+      "q": "An uncatalyzed reaction has activation energy 268 kJ/mol. A catalyst lowers it by 27 kJ/mol. What is the catalyzed activation energy?",
+      "o": [
+        "27 kJ/mol",
+        "295 kJ/mol",
+        "241 kJ/mol",
+        "268 kJ/mol"
+      ],
+      "a": 2,
+      "e": "Catalyzed activation energy = 268 − 27 = 241 kJ/mol.",
+      "d": "Medium",
+      "topic": "Activation energy",
+      "slo": "Explain or apply activation energy in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-116",
+      "q": "Which process releases energy without oxygen?",
+      "o": [
+        "Aerobic respiration",
+        "Combustion in air",
+        "Oxygen reduction",
+        "Anaerobic respiration"
+      ],
+      "a": 3,
+      "e": "Anaerobic respiration occurs without oxygen.",
+      "d": "Medium",
+      "topic": "Anaerobic respiration",
+      "slo": "Explain or apply anaerobic respiration in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-117",
+      "q": "A chemical reaction absorbs 113 kJ of heat. How should this reaction be classified?",
+      "o": [
+        "Thermoneutral",
+        "Endothermic",
+        "Nuclear decay",
+        "Exothermic"
+      ],
+      "a": 1,
+      "e": "The reaction absorbs heat, so it is endothermic.",
+      "d": "Medium",
+      "topic": "Exothermic and endothermic reactions",
+      "slo": "Explain or apply exothermic and endothermic reactions in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-118",
+      "q": "A chemical reaction releases 120 kJ of heat. How should this reaction be classified?",
+      "o": [
+        "Nuclear decay",
+        "Endothermic",
+        "Thermoneutral",
+        "Exothermic"
+      ],
+      "a": 3,
+      "e": "The reaction releases heat, so it is exothermic.",
+      "d": "Medium",
+      "topic": "Exothermic and endothermic reactions",
+      "slo": "Explain or apply exothermic and endothermic reactions in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-119",
+      "q": "Breaking reactant bonds requires 690 kJ, while forming product bonds releases 530 kJ. Estimate the reaction ΔH.",
+      "o": [
+        "690 kJ",
+        "-160 kJ",
+        "1220 kJ",
+        "+160 kJ"
+      ],
+      "a": 3,
+      "e": "ΔH = energy absorbed in bond breaking − energy released in bond forming = 690 − 530 = +160 kJ.",
+      "d": "Medium",
+      "topic": "Bond energy calculations",
+      "slo": "Explain or apply bond energy calculations in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-120",
+      "q": "A chemical reaction absorbs 85 kJ of heat. How should this reaction be classified?",
+      "o": [
+        "Thermoneutral",
+        "Exothermic",
+        "Endothermic",
+        "Nuclear decay"
+      ],
+      "a": 2,
+      "e": "The reaction absorbs heat, so it is endothermic.",
+      "d": "Medium",
+      "topic": "Exothermic and endothermic reactions",
+      "slo": "Explain or apply exothermic and endothermic reactions in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-121",
+      "q": "What is the energy effect of thermal decomposition requiring continuous heating?",
+      "o": [
+        "Energy is absorbed",
+        "Only nuclear energy is involved",
+        "Energy is always released",
+        "No energy is involved"
+      ],
+      "a": 0,
+      "e": "Such decomposition reactions require heat input and are endothermic.",
+      "d": "Medium",
+      "topic": "Thermal decomposition",
+      "slo": "Explain or apply thermal decomposition in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-122",
+      "q": "For an energy profile, products have energy 82 kJ and the transition-state peak has energy 203 kJ. What is the reverse activation energy?",
+      "o": [
+        "25 kJ",
+        "121 kJ",
+        "96 kJ",
+        "285 kJ"
+      ],
+      "a": 1,
+      "e": "Reverse activation energy = peak − products = 203 − 82 = 121 kJ.",
+      "d": "Medium",
+      "topic": "Reaction pathway diagrams",
+      "slo": "Explain or apply reaction pathway diagrams in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-123",
+      "q": "Which sign of enthalpy change identifies an endothermic reaction?",
+      "o": [
+        "Negative",
+        "Always zero",
+        "Cannot be measured",
+        "Positive"
+      ],
+      "a": 3,
+      "e": "An endothermic reaction has ΔH > 0 because the system absorbs heat.",
+      "d": "Medium",
+      "topic": "Enthalpy of reaction",
+      "slo": "Explain or apply enthalpy of reaction in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-124",
+      "q": "A reaction has reactant enthalpy 423 kJ and product enthalpy 491 kJ. What is ΔH for the reaction as written?",
+      "o": [
+        "-68 kJ",
+        "+68 kJ",
+        "0 kJ",
+        "914 kJ"
+      ],
+      "a": 1,
+      "e": "ΔH = H(products) − H(reactants) = 491 − 423 = +68 kJ.",
+      "d": "Medium",
+      "topic": "Enthalpy calculations",
+      "slo": "Explain or apply enthalpy calculations in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-125",
+      "q": "For an energy profile, products have energy 100 kJ and the transition-state peak has energy 225 kJ. What is the reverse activation energy?",
+      "o": [
+        "325 kJ",
+        "100 kJ",
+        "125 kJ",
+        "25 kJ"
+      ],
+      "a": 2,
+      "e": "Reverse activation energy = peak − products = 225 − 100 = 125 kJ.",
+      "d": "Medium",
+      "topic": "Reaction pathway diagrams",
+      "slo": "Explain or apply reaction pathway diagrams in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-126",
+      "q": "An exothermic reaction releases 160 kJ for each mole of reaction. How much heat is released when it occurs 5 mol times?",
+      "o": [
+        "960 kJ",
+        "640 kJ",
+        "160 kJ",
+        "800 kJ"
+      ],
+      "a": 3,
+      "e": "Heat released = 160 kJ/mol × 5 mol = 800 kJ.",
+      "d": "Medium",
+      "topic": "Heat of reaction",
+      "slo": "Explain or apply heat of reaction in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-127",
+      "q": "Breaking reactant bonds requires 573 kJ, while forming product bonds releases 707 kJ. Estimate the reaction ΔH.",
+      "o": [
+        "573 kJ",
+        "-134 kJ",
+        "+134 kJ",
+        "1280 kJ"
+      ],
+      "a": 1,
+      "e": "ΔH = energy absorbed in bond breaking − energy released in bond forming = 573 − 707 = -134 kJ.",
+      "d": "Medium",
+      "topic": "Bond energy calculations",
+      "slo": "Explain or apply bond energy calculations in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-128",
+      "q": "An uncatalyzed reaction has activation energy 121 kJ/mol. A catalyst lowers it by 21 kJ/mol. What is the catalyzed activation energy?",
+      "o": [
+        "21 kJ/mol",
+        "121 kJ/mol",
+        "100 kJ/mol",
+        "142 kJ/mol"
+      ],
+      "a": 2,
+      "e": "Catalyzed activation energy = 121 − 21 = 100 kJ/mol.",
+      "d": "Medium",
+      "topic": "Activation energy",
+      "slo": "Explain or apply activation energy in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-129",
+      "q": "For an energy profile, products have energy 205 kJ and the transition-state peak has energy 280 kJ. What is the reverse activation energy?",
+      "o": [
+        "485 kJ",
+        "110 kJ",
+        "35 kJ",
+        "75 kJ"
+      ],
+      "a": 3,
+      "e": "Reverse activation energy = peak − products = 280 − 205 = 75 kJ.",
+      "d": "Medium",
+      "topic": "Reaction pathway diagrams",
+      "slo": "Explain or apply reaction pathway diagrams in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-130",
+      "q": "The reaction as written has ΔH = +75 kJ. What is the enthalpy change for 7 times this reaction?",
+      "o": [
+        "-525 kJ",
+        "+525 kJ",
+        "+600 kJ",
+        "+75 kJ"
+      ],
+      "a": 1,
+      "e": "Enthalpy is extensive: multiply +75 kJ by 7 to obtain +525 kJ.",
+      "d": "Medium",
+      "topic": "Thermochemical equations",
+      "slo": "Explain or apply thermochemical equations in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-131",
+      "q": "If the bond dissociation energy of Cl−Cl is 243 kJ/mol, how much energy is required to break 3 mol of these bonds?",
+      "o": [
+        "972 kJ",
+        "243 kJ",
+        "729 kJ",
+        "486 kJ"
+      ],
+      "a": 2,
+      "e": "Breaking 3 mol of Cl−Cl bonds requires 3 × 243 = 729 kJ.",
+      "d": "Medium",
+      "topic": "Bond dissociation energy",
+      "slo": "Explain or apply bond dissociation energy in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-132",
+      "q": "Breaking reactant bonds requires 547 kJ, while forming product bonds releases 673 kJ. Estimate the reaction ΔH.",
+      "o": [
+        "547 kJ",
+        "+126 kJ",
+        "1220 kJ",
+        "-126 kJ"
+      ],
+      "a": 3,
+      "e": "ΔH = energy absorbed in bond breaking − energy released in bond forming = 547 − 673 = -126 kJ.",
+      "d": "Medium",
+      "topic": "Bond energy calculations",
+      "slo": "Explain or apply bond energy calculations in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-133",
+      "q": "What happens to a catalyst at the end of a catalyzed reaction?",
+      "o": [
+        "It remains chemically unchanged overall",
+        "It turns into the limiting reactant",
+        "It is completely used up",
+        "It becomes a product in every equation"
+      ],
+      "a": 0,
+      "e": "Catalysts participate in a pathway but are regenerated overall.",
+      "d": "Medium",
+      "topic": "Catalysts",
+      "slo": "Explain or apply catalysts in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-134",
+      "q": "A reaction has reactant enthalpy 202 kJ and product enthalpy 148 kJ. What is ΔH for the reaction as written?",
+      "o": [
+        "0 kJ",
+        "-54 kJ",
+        "350 kJ",
+        "+54 kJ"
+      ],
+      "a": 1,
+      "e": "ΔH = H(products) − H(reactants) = 148 − 202 = -54 kJ.",
+      "d": "Medium",
+      "topic": "Enthalpy calculations",
+      "slo": "Explain or apply enthalpy calculations in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-135",
+      "q": "A reaction has reactant enthalpy 168 kJ and product enthalpy 128 kJ. What is ΔH for the reaction as written?",
+      "o": [
+        "0 kJ",
+        "296 kJ",
+        "+40 kJ",
+        "-40 kJ"
+      ],
+      "a": 3,
+      "e": "ΔH = H(products) − H(reactants) = 128 − 168 = -40 kJ.",
+      "d": "Medium",
+      "topic": "Enthalpy calculations",
+      "slo": "Explain or apply enthalpy calculations in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-136",
+      "q": "Why are some particle collisions ineffective?",
+      "o": [
+        "All collisions form products",
+        "Atoms have no kinetic energy",
+        "All collisions release the same energy",
+        "They lack enough energy or suitable orientation"
+      ],
+      "a": 3,
+      "e": "Successful collisions require sufficient energy and a suitable arrangement.",
+      "d": "Medium",
+      "topic": "Collision theory",
+      "slo": "Explain or apply collision theory in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-137",
+      "q": "For A → B, ΔH = +138 kJ. What is ΔH for the reverse reaction B → A?",
+      "o": [
+        "+138 kJ",
+        "-138 kJ",
+        "-276 kJ",
+        "0 kJ"
+      ],
+      "a": 1,
+      "e": "Reversing a thermochemical equation reverses the sign: ΔH = -138 kJ.",
+      "d": "Medium",
+      "topic": "Thermochemical equations",
+      "slo": "Explain or apply thermochemical equations in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-138",
+      "q": "What happens to ΔH when every coefficient in a balanced equation is doubled?",
+      "o": [
+        "It halves",
+        "It becomes positive regardless of its original sign",
+        "It doubles",
+        "It becomes zero"
+      ],
+      "a": 2,
+      "e": "Reaction enthalpy scales with the amount of reaction as written.",
+      "d": "Medium",
+      "topic": "Thermochemical equations",
+      "slo": "Explain or apply thermochemical equations in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-139",
+      "q": "What must reacting particles have for an effective collision?",
+      "o": [
+        "Identical masses",
+        "No contact",
+        "Zero kinetic energy",
+        "Sufficient energy and suitable orientation"
+      ],
+      "a": 3,
+      "e": "Effective collisions overcome activation energy and have favorable orientation.",
+      "d": "Medium",
+      "topic": "Collision theory",
+      "slo": "Explain or apply collision theory in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-140",
+      "q": "An uncatalyzed reaction has activation energy 107 kJ/mol. A catalyst lowers it by 17 kJ/mol. What is the catalyzed activation energy?",
+      "o": [
+        "124 kJ/mol",
+        "90 kJ/mol",
+        "107 kJ/mol",
+        "17 kJ/mol"
+      ],
+      "a": 1,
+      "e": "Catalyzed activation energy = 107 − 17 = 90 kJ/mol.",
+      "d": "Medium",
+      "topic": "Activation energy",
+      "slo": "Explain or apply activation energy in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-141",
+      "q": "An energy profile shows reactants at 90 kJ, a peak at 165 kJ, and products at 115 kJ. What is the forward activation energy?",
+      "o": [
+        "75 kJ",
+        "50 kJ",
+        "25 kJ",
+        "165 kJ"
+      ],
+      "a": 0,
+      "e": "Forward activation energy = peak − reactant energy = 165 − 90 = 75 kJ.",
+      "d": "Medium",
+      "topic": "Reaction pathway diagrams",
+      "slo": "Explain or apply reaction pathway diagrams in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-142",
+      "q": "A chemical reaction absorbs 29 kJ of heat. How should this reaction be classified?",
+      "o": [
+        "Thermoneutral",
+        "Exothermic",
+        "Endothermic",
+        "Nuclear decay"
+      ],
+      "a": 2,
+      "e": "The reaction absorbs heat, so it is endothermic.",
+      "d": "Medium",
+      "topic": "Exothermic and endothermic reactions",
+      "slo": "Explain or apply exothermic and endothermic reactions in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-143",
+      "q": "A reaction has reactant enthalpy 304 kJ and product enthalpy 285 kJ. What is ΔH for the reaction as written?",
+      "o": [
+        "0 kJ",
+        "589 kJ",
+        "-19 kJ",
+        "+19 kJ"
+      ],
+      "a": 2,
+      "e": "ΔH = H(products) − H(reactants) = 285 − 304 = -19 kJ.",
+      "d": "Medium",
+      "topic": "Enthalpy calculations",
+      "slo": "Explain or apply enthalpy calculations in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-144",
+      "q": "Breaking reactant bonds requires 872 kJ, while forming product bonds releases 656 kJ. Estimate the reaction ΔH.",
+      "o": [
+        "872 kJ",
+        "1528 kJ",
+        "+216 kJ",
+        "-216 kJ"
+      ],
+      "a": 2,
+      "e": "ΔH = energy absorbed in bond breaking − energy released in bond forming = 872 − 656 = +216 kJ.",
+      "d": "Medium",
+      "topic": "Bond energy calculations",
+      "slo": "Explain or apply bond energy calculations in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-145",
+      "q": "If the bond dissociation energy of C−C is 347 kJ/mol, how much energy is required to break 3 mol of these bonds?",
+      "o": [
+        "1388 kJ",
+        "347 kJ",
+        "694 kJ",
+        "1041 kJ"
+      ],
+      "a": 3,
+      "e": "Breaking 3 mol of C−C bonds requires 3 × 347 = 1041 kJ.",
+      "d": "Medium",
+      "topic": "Bond dissociation energy",
+      "slo": "Explain or apply bond dissociation energy in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-146",
+      "q": "Breaking reactant bonds requires 755 kJ, while forming product bonds releases 945 kJ. Estimate the reaction ΔH.",
+      "o": [
+        "-190 kJ",
+        "1700 kJ",
+        "+190 kJ",
+        "755 kJ"
+      ],
+      "a": 0,
+      "e": "ΔH = energy absorbed in bond breaking − energy released in bond forming = 755 − 945 = -190 kJ.",
+      "d": "Medium",
+      "topic": "Bond energy calculations",
+      "slo": "Explain or apply bond energy calculations in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-147",
+      "q": "The reaction as written has ΔH = +45 kJ. What is the enthalpy change for 8 times this reaction?",
+      "o": [
+        "-360 kJ",
+        "+360 kJ",
+        "+405 kJ",
+        "+45 kJ"
+      ],
+      "a": 1,
+      "e": "Enthalpy is extensive: multiply +45 kJ by 8 to obtain +360 kJ.",
+      "d": "Medium",
+      "topic": "Thermochemical equations",
+      "slo": "Explain or apply thermochemical equations in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-148",
+      "q": "For A → B, ΔH = +72 kJ. What is ΔH for the reverse reaction B → A?",
+      "o": [
+        "+72 kJ",
+        "-72 kJ",
+        "-144 kJ",
+        "0 kJ"
+      ],
+      "a": 1,
+      "e": "Reversing a thermochemical equation reverses the sign: ΔH = -72 kJ.",
+      "d": "Medium",
+      "topic": "Thermochemical equations",
+      "slo": "Explain or apply thermochemical equations in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-149",
+      "q": "An uncatalyzed reaction has activation energy 156 kJ/mol. A catalyst lowers it by 31 kJ/mol. What is the catalyzed activation energy?",
+      "o": [
+        "31 kJ/mol",
+        "187 kJ/mol",
+        "156 kJ/mol",
+        "125 kJ/mol"
+      ],
+      "a": 3,
+      "e": "Catalyzed activation energy = 156 − 31 = 125 kJ/mol.",
+      "d": "Medium",
+      "topic": "Activation energy",
+      "slo": "Explain or apply activation energy in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-150",
+      "q": "An exothermic reaction releases 214 kJ for each mole of reaction. How much heat is released when it occurs 5 mol times?",
+      "o": [
+        "1070 kJ",
+        "856 kJ",
+        "1284 kJ",
+        "214 kJ"
+      ],
+      "a": 0,
+      "e": "Heat released = 214 kJ/mol × 5 mol = 1070 kJ.",
+      "d": "Medium",
+      "topic": "Heat of reaction",
+      "slo": "Explain or apply heat of reaction in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-151",
+      "q": "An energy profile shows reactants at 106 kJ, a peak at 187 kJ, and products at 131 kJ. What is the forward activation energy?",
+      "o": [
+        "25 kJ",
+        "81 kJ",
+        "187 kJ",
+        "56 kJ"
+      ],
+      "a": 1,
+      "e": "Forward activation energy = peak − reactant energy = 187 − 106 = 81 kJ.",
+      "d": "Medium",
+      "topic": "Reaction pathway diagrams",
+      "slo": "Explain or apply reaction pathway diagrams in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-152",
+      "q": "An energy profile shows reactants at 226 kJ, a peak at 352 kJ, and products at 196 kJ. What is the forward activation energy?",
+      "o": [
+        "126 kJ",
+        "156 kJ",
+        "352 kJ",
+        "30 kJ"
+      ],
+      "a": 0,
+      "e": "Forward activation energy = peak − reactant energy = 352 − 226 = 126 kJ.",
+      "d": "Medium",
+      "topic": "Reaction pathway diagrams",
+      "slo": "Explain or apply reaction pathway diagrams in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-153",
+      "q": "A chemical reaction absorbs 155 kJ of heat. How should this reaction be classified?",
+      "o": [
+        "Nuclear decay",
+        "Exothermic",
+        "Endothermic",
+        "Thermoneutral"
+      ],
+      "a": 2,
+      "e": "The reaction absorbs heat, so it is endothermic.",
+      "d": "Medium",
+      "topic": "Exothermic and endothermic reactions",
+      "slo": "Explain or apply exothermic and endothermic reactions in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-154",
+      "q": "Which factor can increase the fraction of collisions that overcome activation energy?",
+      "o": [
+        "Removing all particles",
+        "Increasing temperature",
+        "Making collisions impossible",
+        "Lowering kinetic energy to zero"
+      ],
+      "a": 1,
+      "e": "At higher temperatures, a larger fraction of particles have sufficient energy.",
+      "d": "Easy",
+      "topic": "Collision theory",
+      "slo": "Explain or apply collision theory in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-155",
+      "q": "What is the purpose of a catalyst in an industrial reaction?",
+      "o": [
+        "To speed up the reaction through a lower-energy pathway",
+        "To increase the product enthalpy",
+        "To create energy from nothing",
+        "To make every reaction exothermic"
+      ],
+      "a": 0,
+      "e": "Catalysts help reactions proceed faster under suitable conditions.",
+      "d": "Easy",
+      "topic": "Industrial catalysts",
+      "slo": "Explain or apply industrial catalysts in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-156",
+      "q": "Which is an example of a biological catalyst?",
+      "o": [
+        "Enzyme",
+        "Reactant molecule",
+        "Noble gas atom",
+        "Product molecule"
+      ],
+      "a": 0,
+      "e": "Enzymes are biological catalysts.",
+      "d": "Medium",
+      "topic": "Enzymes",
+      "slo": "Explain or apply enzymes in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-157",
+      "q": "A chemical reaction absorbs 15 kJ of heat. How should this reaction be classified?",
+      "o": [
+        "Thermoneutral",
+        "Exothermic",
+        "Endothermic",
+        "Nuclear decay"
+      ],
+      "a": 2,
+      "e": "The reaction absorbs heat, so it is endothermic.",
+      "d": "Medium",
+      "topic": "Exothermic and endothermic reactions",
+      "slo": "Explain or apply exothermic and endothermic reactions in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-158",
+      "q": "A chemical reaction releases 78 kJ of heat. How should this reaction be classified?",
+      "o": [
+        "Exothermic",
+        "Nuclear decay",
+        "Endothermic",
+        "Thermoneutral"
+      ],
+      "a": 0,
+      "e": "The reaction releases heat, so it is exothermic.",
+      "d": "Medium",
+      "topic": "Exothermic and endothermic reactions",
+      "slo": "Explain or apply exothermic and endothermic reactions in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-159",
+      "q": "A chemical reaction releases 134 kJ of heat. How should this reaction be classified?",
+      "o": [
+        "Thermoneutral",
+        "Nuclear decay",
+        "Endothermic",
+        "Exothermic"
+      ],
+      "a": 3,
+      "e": "The reaction releases heat, so it is exothermic.",
+      "d": "Medium",
+      "topic": "Exothermic and endothermic reactions",
+      "slo": "Explain or apply exothermic and endothermic reactions in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-160",
+      "q": "Which energy change is associated with the formation of H₂ from separated hydrogen atoms?",
+      "o": [
+        "No energy changes",
+        "Energy is released",
+        "Only gravitational energy changes",
+        "Energy must always be absorbed"
+      ],
+      "a": 1,
+      "e": "Forming an H−H bond releases energy.",
+      "d": "Easy",
+      "topic": "Bond formation",
+      "slo": "Explain or apply bond formation in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-161",
+      "q": "A reaction has reactant enthalpy 627 kJ and product enthalpy 702 kJ. What is ΔH for the reaction as written?",
+      "o": [
+        "-75 kJ",
+        "+75 kJ",
+        "1329 kJ",
+        "0 kJ"
+      ],
+      "a": 1,
+      "e": "ΔH = H(products) − H(reactants) = 702 − 627 = +75 kJ.",
+      "d": "Medium",
+      "topic": "Enthalpy calculations",
+      "slo": "Explain or apply enthalpy calculations in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-162",
+      "q": "Which statement about enzymes is correct?",
+      "o": [
+        "They catalyze chemical reactions in living organisms",
+        "They increase activation energy",
+        "They always require oxygen",
+        "They are consumed completely after one reaction"
+      ],
+      "a": 0,
+      "e": "Enzymes speed up biological reactions without being consumed overall.",
+      "d": "Medium",
+      "topic": "Enzymes",
+      "slo": "Explain or apply enzymes in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-163",
+      "q": "In an endothermic process, how does the surrounding temperature often change?",
+      "o": [
+        "It becomes 100°C",
+        "It is fixed by definition",
+        "It always increases",
+        "It decreases"
+      ],
+      "a": 3,
+      "e": "An endothermic system absorbs heat from its surroundings.",
+      "d": "Easy",
+      "topic": "Heat transfer",
+      "slo": "Explain or apply heat transfer in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-164",
+      "q": "An uncatalyzed reaction has activation energy 128 kJ/mol. A catalyst lowers it by 23 kJ/mol. What is the catalyzed activation energy?",
+      "o": [
+        "128 kJ/mol",
+        "151 kJ/mol",
+        "105 kJ/mol",
+        "23 kJ/mol"
+      ],
+      "a": 2,
+      "e": "Catalyzed activation energy = 128 − 23 = 105 kJ/mol.",
+      "d": "Medium",
+      "topic": "Activation energy",
+      "slo": "Explain or apply activation energy in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-165",
+      "q": "Which change absorbs heat?",
+      "o": [
+        "Freezing water",
+        "Sublimation of solid ice",
+        "Condensation of steam",
+        "Deposition of water vapour"
+      ],
+      "a": 1,
+      "e": "Sublimation requires energy to convert solid directly to gas.",
+      "d": "Easy",
+      "topic": "Endothermic processes",
+      "slo": "Explain or apply endothermic processes in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-166",
+      "q": "Breaking reactant bonds requires 807 kJ, while forming product bonds releases 1013 kJ. Estimate the reaction ΔH.",
+      "o": [
+        "+206 kJ",
+        "807 kJ",
+        "-206 kJ",
+        "1820 kJ"
+      ],
+      "a": 2,
+      "e": "ΔH = energy absorbed in bond breaking − energy released in bond forming = 807 − 1013 = -206 kJ.",
+      "d": "Medium",
+      "topic": "Bond energy calculations",
+      "slo": "Explain or apply bond energy calculations in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-167",
+      "q": "For an energy profile, products have energy 226 kJ and the transition-state peak has energy 379 kJ. What is the reverse activation energy?",
+      "o": [
+        "605 kJ",
+        "128 kJ",
+        "153 kJ",
+        "25 kJ"
+      ],
+      "a": 2,
+      "e": "Reverse activation energy = peak − products = 379 − 226 = 153 kJ.",
+      "d": "Medium",
+      "topic": "Reaction pathway diagrams",
+      "slo": "Explain or apply reaction pathway diagrams in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-168",
+      "q": "What is the energy effect of the reaction C + O₂ → CO₂?",
+      "o": [
+        "Endothermic",
+        "Always depends on a catalyst",
+        "Exothermic",
+        "No energy change"
+      ],
+      "a": 2,
+      "e": "Formation of carbon dioxide by carbon combustion releases heat.",
+      "d": "Easy",
+      "topic": "Exothermic reactions",
+      "slo": "Explain or apply exothermic reactions in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-169",
+      "q": "For an energy profile, products have energy 241 kJ and the transition-state peak has energy 324 kJ. What is the reverse activation energy?",
+      "o": [
+        "565 kJ",
+        "83 kJ",
+        "35 kJ",
+        "118 kJ"
+      ],
+      "a": 1,
+      "e": "Reverse activation energy = peak − products = 324 − 241 = 83 kJ.",
+      "d": "Medium",
+      "topic": "Reaction pathway diagrams",
+      "slo": "Explain or apply reaction pathway diagrams in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-170",
+      "q": "Breaking reactant bonds requires 326 kJ, while forming product bonds releases 278 kJ. Estimate the reaction ΔH.",
+      "o": [
+        "+48 kJ",
+        "326 kJ",
+        "-48 kJ",
+        "604 kJ"
+      ],
+      "a": 0,
+      "e": "ΔH = energy absorbed in bond breaking − energy released in bond forming = 326 − 278 = +48 kJ.",
+      "d": "Medium",
+      "topic": "Bond energy calculations",
+      "slo": "Explain or apply bond energy calculations in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-171",
+      "q": "What does a reaction pathway diagram plot on its vertical axis?",
+      "o": [
+        "Atomic number",
+        "Volume of the container",
+        "Time of day",
+        "Energy"
+      ],
+      "a": 3,
+      "e": "Reaction pathway diagrams show energy against reaction progress.",
+      "d": "Medium",
+      "topic": "Reaction pathway diagrams",
+      "slo": "Explain or apply reaction pathway diagrams in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-172",
+      "q": "The reaction as written has ΔH = -25 kJ. What is the enthalpy change for 3 times this reaction?",
+      "o": [
+        "-25 kJ",
+        "+75 kJ",
+        "-50 kJ",
+        "-75 kJ"
+      ],
+      "a": 3,
+      "e": "Enthalpy is extensive: multiply -25 kJ by 3 to obtain -75 kJ.",
+      "d": "Medium",
+      "topic": "Thermochemical equations",
+      "slo": "Explain or apply thermochemical equations in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-173",
+      "q": "A chemical reaction absorbs 141 kJ of heat. How should this reaction be classified?",
+      "o": [
+        "Endothermic",
+        "Thermoneutral",
+        "Exothermic",
+        "Nuclear decay"
+      ],
+      "a": 0,
+      "e": "The reaction absorbs heat, so it is endothermic.",
+      "d": "Medium",
+      "topic": "Exothermic and endothermic reactions",
+      "slo": "Explain or apply exothermic and endothermic reactions in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-174",
+      "q": "Breaking reactant bonds requires 560 kJ, while forming product bonds releases 440 kJ. Estimate the reaction ΔH.",
+      "o": [
+        "1000 kJ",
+        "+120 kJ",
+        "-120 kJ",
+        "560 kJ"
+      ],
+      "a": 1,
+      "e": "ΔH = energy absorbed in bond breaking − energy released in bond forming = 560 − 440 = +120 kJ.",
+      "d": "Medium",
+      "topic": "Bond energy calculations",
+      "slo": "Explain or apply bond energy calculations in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-175",
+      "q": "What happens to the enthalpy change when a chemical equation is reversed?",
+      "o": [
+        "It becomes zero",
+        "Its sign reverses",
+        "Its sign remains unchanged",
+        "Its magnitude always doubles"
+      ],
+      "a": 1,
+      "e": "Reversing a reaction changes ΔH to −ΔH.",
+      "d": "Easy",
+      "topic": "Thermochemical equations",
+      "slo": "Explain or apply thermochemical equations in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-176",
+      "q": "The reaction as written has ΔH = +50 kJ. What is the enthalpy change for 8 times this reaction?",
+      "o": [
+        "+50 kJ",
+        "-400 kJ",
+        "+450 kJ",
+        "+400 kJ"
+      ],
+      "a": 3,
+      "e": "Enthalpy is extensive: multiply +50 kJ by 8 to obtain +400 kJ.",
+      "d": "Medium",
+      "topic": "Thermochemical equations",
+      "slo": "Explain or apply thermochemical equations in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-177",
+      "q": "For A → B, ΔH = -127 kJ. What is ΔH for the reverse reaction B → A?",
+      "o": [
+        "0 kJ",
+        "+254 kJ",
+        "+127 kJ",
+        "-127 kJ"
+      ],
+      "a": 2,
+      "e": "Reversing a thermochemical equation reverses the sign: ΔH = +127 kJ.",
+      "d": "Medium",
+      "topic": "Thermochemical equations",
+      "slo": "Explain or apply thermochemical equations in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-178",
+      "q": "Breaking reactant bonds requires 300 kJ, while forming product bonds releases 260 kJ. Estimate the reaction ΔH.",
+      "o": [
+        "+40 kJ",
+        "300 kJ",
+        "560 kJ",
+        "-40 kJ"
+      ],
+      "a": 0,
+      "e": "ΔH = energy absorbed in bond breaking − energy released in bond forming = 300 − 260 = +40 kJ.",
+      "d": "Medium",
+      "topic": "Bond energy calculations",
+      "slo": "Explain or apply bond energy calculations in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-179",
+      "q": "Breaking reactant bonds requires 677 kJ, while forming product bonds releases 843 kJ. Estimate the reaction ΔH.",
+      "o": [
+        "677 kJ",
+        "1520 kJ",
+        "-166 kJ",
+        "+166 kJ"
+      ],
+      "a": 2,
+      "e": "ΔH = energy absorbed in bond breaking − energy released in bond forming = 677 − 843 = -166 kJ.",
+      "d": "Medium",
+      "topic": "Bond energy calculations",
+      "slo": "Explain or apply bond energy calculations in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-180",
+      "q": "For A → B, ΔH = -215 kJ. What is ΔH for the reverse reaction B → A?",
+      "o": [
+        "-215 kJ",
+        "+215 kJ",
+        "+430 kJ",
+        "0 kJ"
+      ],
+      "a": 1,
+      "e": "Reversing a thermochemical equation reverses the sign: ΔH = +215 kJ.",
+      "d": "Medium",
+      "topic": "Thermochemical equations",
+      "slo": "Explain or apply thermochemical equations in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-181",
+      "q": "Breaking reactant bonds requires 716 kJ, while forming product bonds releases 548 kJ. Estimate the reaction ΔH.",
+      "o": [
+        "716 kJ",
+        "1264 kJ",
+        "+168 kJ",
+        "-168 kJ"
+      ],
+      "a": 2,
+      "e": "ΔH = energy absorbed in bond breaking − energy released in bond forming = 716 − 548 = +168 kJ.",
+      "d": "Medium",
+      "topic": "Bond energy calculations",
+      "slo": "Explain or apply bond energy calculations in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-182",
+      "q": "Breaking reactant bonds requires 612 kJ, while forming product bonds releases 476 kJ. Estimate the reaction ΔH.",
+      "o": [
+        "+136 kJ",
+        "-136 kJ",
+        "1088 kJ",
+        "612 kJ"
+      ],
+      "a": 0,
+      "e": "ΔH = energy absorbed in bond breaking − energy released in bond forming = 612 − 476 = +136 kJ.",
+      "d": "Medium",
+      "topic": "Bond energy calculations",
+      "slo": "Explain or apply bond energy calculations in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-183",
+      "q": "What is the peak on a reaction energy profile associated with?",
+      "o": [
+        "Stable product only",
+        "Activated complex / transition state",
+        "A catalyst molecule at rest",
+        "Starting reactant only"
+      ],
+      "a": 1,
+      "e": "The top of the energy barrier represents the transition state.",
+      "d": "Easy",
+      "topic": "Activation energy",
+      "slo": "Explain or apply activation energy in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-184",
+      "q": "Is breaking chemical bonds endothermic or exothermic?",
+      "o": [
+        "Always thermoneutral",
+        "Endothermic",
+        "Exothermic",
+        "Neither energy-absorbing nor energy-releasing"
+      ],
+      "a": 1,
+      "e": "Energy must be absorbed to separate bonded atoms.",
+      "d": "Easy",
+      "topic": "Bond energy",
+      "slo": "Explain or apply bond energy in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-185",
+      "q": "If the bond dissociation energy of H−H is 436 kJ/mol, how much energy is required to break 3 mol of these bonds?",
+      "o": [
+        "872 kJ",
+        "1308 kJ",
+        "1744 kJ",
+        "436 kJ"
+      ],
+      "a": 1,
+      "e": "Breaking 3 mol of H−H bonds requires 3 × 436 = 1308 kJ.",
+      "d": "Medium",
+      "topic": "Bond dissociation energy",
+      "slo": "Explain or apply bond dissociation energy in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-186",
+      "q": "Which energy barrier is smaller for the same reaction: catalyzed or uncatalyzed?",
+      "o": [
+        "Catalyzed",
+        "Uncatalyzed",
+        "Neither has an energy barrier",
+        "Both must be infinite"
+      ],
+      "a": 0,
+      "e": "Catalysts lower the activation-energy barrier.",
+      "d": "Medium",
+      "topic": "Catalysts",
+      "slo": "Explain or apply catalysts in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-187",
+      "q": "If the bond dissociation energy of O=O is 498 kJ/mol, how much energy is required to break 3 mol of these bonds?",
+      "o": [
+        "1494 kJ",
+        "996 kJ",
+        "498 kJ",
+        "1992 kJ"
+      ],
+      "a": 0,
+      "e": "Breaking 3 mol of O=O bonds requires 3 × 498 = 1494 kJ.",
+      "d": "Medium",
+      "topic": "Bond dissociation energy",
+      "slo": "Explain or apply bond dissociation energy in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-188",
+      "q": "An exothermic reaction releases 178 kJ for each mole of reaction. How much heat is released when it occurs 7 mol times?",
+      "o": [
+        "178 kJ",
+        "1424 kJ",
+        "1246 kJ",
+        "1068 kJ"
+      ],
+      "a": 2,
+      "e": "Heat released = 178 kJ/mol × 7 mol = 1246 kJ.",
+      "d": "Medium",
+      "topic": "Heat of reaction",
+      "slo": "Explain or apply heat of reaction in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-189",
+      "q": "Breaking reactant bonds requires 521 kJ, while forming product bonds releases 639 kJ. Estimate the reaction ΔH.",
+      "o": [
+        "521 kJ",
+        "-118 kJ",
+        "+118 kJ",
+        "1160 kJ"
+      ],
+      "a": 1,
+      "e": "ΔH = energy absorbed in bond breaking − energy released in bond forming = 521 − 639 = -118 kJ.",
+      "d": "Medium",
+      "topic": "Bond energy calculations",
+      "slo": "Explain or apply bond energy calculations in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-190",
+      "q": "An exothermic reaction releases 88 kJ for each mole of reaction. How much heat is released when it occurs 3 mol times?",
+      "o": [
+        "264 kJ",
+        "88 kJ",
+        "352 kJ",
+        "176 kJ"
+      ],
+      "a": 0,
+      "e": "Heat released = 88 kJ/mol × 3 mol = 264 kJ.",
+      "d": "Medium",
+      "topic": "Heat of reaction",
+      "slo": "Explain or apply heat of reaction in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-191",
+      "q": "For an energy profile, products have energy 115 kJ and the transition-state peak has energy 170 kJ. What is the reverse activation energy?",
+      "o": [
+        "55 kJ",
+        "285 kJ",
+        "35 kJ",
+        "90 kJ"
+      ],
+      "a": 0,
+      "e": "Reverse activation energy = peak − products = 170 − 115 = 55 kJ.",
+      "d": "Medium",
+      "topic": "Reaction pathway diagrams",
+      "slo": "Explain or apply reaction pathway diagrams in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-192",
+      "q": "Breaking reactant bonds requires 417 kJ, while forming product bonds releases 503 kJ. Estimate the reaction ΔH.",
+      "o": [
+        "+86 kJ",
+        "920 kJ",
+        "417 kJ",
+        "-86 kJ"
+      ],
+      "a": 3,
+      "e": "ΔH = energy absorbed in bond breaking − energy released in bond forming = 417 − 503 = -86 kJ.",
+      "d": "Medium",
+      "topic": "Bond energy calculations",
+      "slo": "Explain or apply bond energy calculations in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-193",
+      "q": "Breaking reactant bonds requires 443 kJ, while forming product bonds releases 537 kJ. Estimate the reaction ΔH.",
+      "o": [
+        "-94 kJ",
+        "980 kJ",
+        "443 kJ",
+        "+94 kJ"
+      ],
+      "a": 0,
+      "e": "ΔH = energy absorbed in bond breaking − energy released in bond forming = 443 − 537 = -94 kJ.",
+      "d": "Medium",
+      "topic": "Bond energy calculations",
+      "slo": "Explain or apply bond energy calculations in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-194",
+      "q": "The reaction as written has ΔH = -85 kJ. What is the enthalpy change for 8 times this reaction?",
+      "o": [
+        "+680 kJ",
+        "-680 kJ",
+        "-595 kJ",
+        "-85 kJ"
+      ],
+      "a": 1,
+      "e": "Enthalpy is extensive: multiply -85 kJ by 8 to obtain -680 kJ.",
+      "d": "Medium",
+      "topic": "Thermochemical equations",
+      "slo": "Explain or apply thermochemical equations in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-195",
+      "q": "Is forming chemical bonds endothermic or exothermic?",
+      "o": [
+        "Endothermic",
+        "Impossible without sunlight",
+        "Exothermic",
+        "Always thermoneutral"
+      ],
+      "a": 2,
+      "e": "Energy is released when a new chemical bond forms.",
+      "d": "Medium",
+      "topic": "Bond energy",
+      "slo": "Explain or apply bond energy in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-196",
+      "q": "A reaction has reactant enthalpy 593 kJ and product enthalpy 654 kJ. What is ΔH for the reaction as written?",
+      "o": [
+        "0 kJ",
+        "+61 kJ",
+        "1247 kJ",
+        "-61 kJ"
+      ],
+      "a": 1,
+      "e": "ΔH = H(products) − H(reactants) = 654 − 593 = +61 kJ.",
+      "d": "Medium",
+      "topic": "Enthalpy calculations",
+      "slo": "Explain or apply enthalpy calculations in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-197",
+      "q": "A chemical reaction absorbs 57 kJ of heat. How should this reaction be classified?",
+      "o": [
+        "Endothermic",
+        "Nuclear decay",
+        "Exothermic",
+        "Thermoneutral"
+      ],
+      "a": 0,
+      "e": "The reaction absorbs heat, so it is endothermic.",
+      "d": "Medium",
+      "topic": "Exothermic and endothermic reactions",
+      "slo": "Explain or apply exothermic and endothermic reactions in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-198",
+      "q": "Which feature of a collision is essential besides adequate energy?",
+      "o": [
+        "Identical electron counts",
+        "Same atomic number",
+        "Suitable orientation",
+        "Zero relative speed"
+      ],
+      "a": 2,
+      "e": "The particles must meet in a geometry that allows bonds to rearrange.",
+      "d": "Medium",
+      "topic": "Collision theory",
+      "slo": "Explain or apply collision theory in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-199",
+      "q": "A student notices a beaker becomes warmer during a reaction. What is the best initial inference?",
+      "o": [
+        "The reaction is absorbing heat",
+        "The beaker is producing matter",
+        "The reaction has no enthalpy change",
+        "The reaction is releasing heat"
+      ],
+      "a": 3,
+      "e": "Warming surroundings suggests heat is released by the system.",
+      "d": "Medium",
+      "topic": "Heat transfer",
+      "slo": "Explain or apply heat transfer in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-200",
+      "q": "Which energy unit is commonly used for reaction enthalpy?",
+      "o": [
+        "Kilogram (kg)",
+        "Metre (m)",
+        "Mole per litre (mol/L)",
+        "Kilojoule (kJ)"
+      ],
+      "a": 3,
+      "e": "Reaction enthalpy is an energy quantity commonly expressed in kJ.",
+      "d": "Medium",
+      "topic": "Enthalpy units",
+      "slo": "Explain or apply enthalpy units in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-201",
+      "q": "An uncatalyzed reaction has activation energy 219 kJ/mol. A catalyst lowers it by 31 kJ/mol. What is the catalyzed activation energy?",
+      "o": [
+        "219 kJ/mol",
+        "188 kJ/mol",
+        "31 kJ/mol",
+        "250 kJ/mol"
+      ],
+      "a": 1,
+      "e": "Catalyzed activation energy = 219 − 31 = 188 kJ/mol.",
+      "d": "Medium",
+      "topic": "Activation energy",
+      "slo": "Explain or apply activation energy in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-202",
+      "q": "Breaking reactant bonds requires 339 kJ, while forming product bonds releases 401 kJ. Estimate the reaction ΔH.",
+      "o": [
+        "-62 kJ",
+        "740 kJ",
+        "+62 kJ",
+        "339 kJ"
+      ],
+      "a": 0,
+      "e": "ΔH = energy absorbed in bond breaking − energy released in bond forming = 339 − 401 = -62 kJ.",
+      "d": "Medium",
+      "topic": "Bond energy calculations",
+      "slo": "Explain or apply bond energy calculations in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-203",
+      "q": "A reaction has reactant enthalpy 406 kJ and product enthalpy 345 kJ. What is ΔH for the reaction as written?",
+      "o": [
+        "-61 kJ",
+        "+61 kJ",
+        "751 kJ",
+        "0 kJ"
+      ],
+      "a": 0,
+      "e": "ΔH = H(products) − H(reactants) = 345 − 406 = -61 kJ.",
+      "d": "Medium",
+      "topic": "Enthalpy calculations",
+      "slo": "Explain or apply enthalpy calculations in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-204",
+      "q": "Breaking reactant bonds requires 820 kJ, while forming product bonds releases 620 kJ. Estimate the reaction ΔH.",
+      "o": [
+        "1440 kJ",
+        "-200 kJ",
+        "+200 kJ",
+        "820 kJ"
+      ],
+      "a": 2,
+      "e": "ΔH = energy absorbed in bond breaking − energy released in bond forming = 820 − 620 = +200 kJ.",
+      "d": "Medium",
+      "topic": "Bond energy calculations",
+      "slo": "Explain or apply bond energy calculations in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-205",
+      "q": "For A → B, ΔH = +94 kJ. What is ΔH for the reverse reaction B → A?",
+      "o": [
+        "+94 kJ",
+        "-94 kJ",
+        "-188 kJ",
+        "0 kJ"
+      ],
+      "a": 1,
+      "e": "Reversing a thermochemical equation reverses the sign: ΔH = -94 kJ.",
+      "d": "Medium",
+      "topic": "Thermochemical equations",
+      "slo": "Explain or apply thermochemical equations in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-206",
+      "q": "If the bond dissociation energy of C−C is 347 kJ/mol, how much energy is required to break 4 mol of these bonds?",
+      "o": [
+        "347 kJ",
+        "1041 kJ",
+        "1388 kJ",
+        "1735 kJ"
+      ],
+      "a": 2,
+      "e": "Breaking 4 mol of C−C bonds requires 4 × 347 = 1388 kJ.",
+      "d": "Medium",
+      "topic": "Bond dissociation energy",
+      "slo": "Explain or apply bond dissociation energy in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-207",
+      "q": "Which statement about the energy of a chemical reaction is correct?",
+      "o": [
+        "Energy disappears in exothermic reactions",
+        "Energy is created from nothing",
+        "Only endothermic reactions obey conservation",
+        "Energy is conserved but transferred between system and surroundings"
+      ],
+      "a": 3,
+      "e": "Energy changes form or location but is conserved.",
+      "d": "Medium",
+      "topic": "Conservation of energy",
+      "slo": "Explain or apply conservation of energy in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-208",
+      "q": "The reaction as written has ΔH = -45 kJ. What is the enthalpy change for 7 times this reaction?",
+      "o": [
+        "-315 kJ",
+        "-45 kJ",
+        "-270 kJ",
+        "+315 kJ"
+      ],
+      "a": 0,
+      "e": "Enthalpy is extensive: multiply -45 kJ by 7 to obtain -315 kJ.",
+      "d": "Medium",
+      "topic": "Thermochemical equations",
+      "slo": "Explain or apply thermochemical equations in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-209",
+      "q": "For A → B, ΔH = +28 kJ. What is ΔH for the reverse reaction B → A?",
+      "o": [
+        "0 kJ",
+        "-28 kJ",
+        "-56 kJ",
+        "+28 kJ"
+      ],
+      "a": 1,
+      "e": "Reversing a thermochemical equation reverses the sign: ΔH = -28 kJ.",
+      "d": "Medium",
+      "topic": "Thermochemical equations",
+      "slo": "Explain or apply thermochemical equations in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-210",
+      "q": "A cold pack becomes cold after chemicals mix. Which energy transfer best explains it?",
+      "o": [
+        "The reaction absorbs heat from its surroundings",
+        "The chemicals create cold energy",
+        "The reaction releases heat to its surroundings",
+        "No energy is exchanged"
+      ],
+      "a": 0,
+      "e": "An endothermic process absorbs heat, cooling its surroundings.",
+      "d": "Medium",
+      "topic": "Endothermic reactions",
+      "slo": "Explain or apply endothermic reactions in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-211",
+      "q": "An uncatalyzed reaction has activation energy 247 kJ/mol. A catalyst lowers it by 21 kJ/mol. What is the catalyzed activation energy?",
+      "o": [
+        "247 kJ/mol",
+        "21 kJ/mol",
+        "268 kJ/mol",
+        "226 kJ/mol"
+      ],
+      "a": 3,
+      "e": "Catalyzed activation energy = 247 − 21 = 226 kJ/mol.",
+      "d": "Medium",
+      "topic": "Activation energy",
+      "slo": "Explain or apply activation energy in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-212",
+      "q": "Which is an example of energy released during a biological process?",
+      "o": [
+        "Evaporating water",
+        "Heating calcium carbonate to decompose it",
+        "Aerobic respiration of glucose",
+        "Melting ice"
+      ],
+      "a": 2,
+      "e": "Respiration releases chemical energy from glucose.",
+      "d": "Medium",
+      "topic": "Respiration",
+      "slo": "Explain or apply respiration in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-213",
+      "q": "An uncatalyzed reaction has activation energy 170 kJ/mol. A catalyst lowers it by 17 kJ/mol. What is the catalyzed activation energy?",
+      "o": [
+        "187 kJ/mol",
+        "17 kJ/mol",
+        "170 kJ/mol",
+        "153 kJ/mol"
+      ],
+      "a": 3,
+      "e": "Catalyzed activation energy = 170 − 17 = 153 kJ/mol.",
+      "d": "Medium",
+      "topic": "Activation energy",
+      "slo": "Explain or apply activation energy in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-214",
+      "q": "A fuel burns and warms a room. Which part is the system if the fuel reaction is being studied?",
+      "o": [
+        "The reacting fuel and oxygen",
+        "The entire solar system",
+        "Only the thermometer",
+        "Only the walls of the room"
+      ],
+      "a": 0,
+      "e": "The system is the chemical reaction under investigation.",
+      "d": "Medium",
+      "topic": "System and surroundings",
+      "slo": "Explain or apply system and surroundings in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-215",
+      "q": "A chemical reaction releases 36 kJ of heat. How should this reaction be classified?",
+      "o": [
+        "Endothermic",
+        "Thermoneutral",
+        "Exothermic",
+        "Nuclear decay"
+      ],
+      "a": 2,
+      "e": "The reaction releases heat, so it is exothermic.",
+      "d": "Medium",
+      "topic": "Exothermic and endothermic reactions",
+      "slo": "Explain or apply exothermic and endothermic reactions in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-216",
+      "q": "An energy profile shows reactants at 202 kJ, a peak at 319 kJ, and products at 227 kJ. What is the forward activation energy?",
+      "o": [
+        "319 kJ",
+        "92 kJ",
+        "117 kJ",
+        "25 kJ"
+      ],
+      "a": 2,
+      "e": "Forward activation energy = peak − reactant energy = 319 − 202 = 117 kJ.",
+      "d": "Medium",
+      "topic": "Reaction pathway diagrams",
+      "slo": "Explain or apply reaction pathway diagrams in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-217",
+      "q": "Breaking reactant bonds requires 703 kJ, while forming product bonds releases 877 kJ. Estimate the reaction ΔH.",
+      "o": [
+        "+174 kJ",
+        "703 kJ",
+        "1580 kJ",
+        "-174 kJ"
+      ],
+      "a": 3,
+      "e": "ΔH = energy absorbed in bond breaking − energy released in bond forming = 703 − 877 = -174 kJ.",
+      "d": "Medium",
+      "topic": "Bond energy calculations",
+      "slo": "Explain or apply bond energy calculations in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-218",
+      "q": "For A → B, ΔH = +116 kJ. What is ΔH for the reverse reaction B → A?",
+      "o": [
+        "-116 kJ",
+        "+116 kJ",
+        "0 kJ",
+        "-232 kJ"
+      ],
+      "a": 0,
+      "e": "Reversing a thermochemical equation reverses the sign: ΔH = -116 kJ.",
+      "d": "Medium",
+      "topic": "Thermochemical equations",
+      "slo": "Explain or apply thermochemical equations in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-219",
+      "q": "An uncatalyzed reaction has activation energy 184 kJ/mol. A catalyst lowers it by 21 kJ/mol. What is the catalyzed activation energy?",
+      "o": [
+        "184 kJ/mol",
+        "163 kJ/mol",
+        "205 kJ/mol",
+        "21 kJ/mol"
+      ],
+      "a": 1,
+      "e": "Catalyzed activation energy = 184 − 21 = 163 kJ/mol.",
+      "d": "Medium",
+      "topic": "Activation energy",
+      "slo": "Explain or apply activation energy in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-220",
+      "q": "For an energy profile, products have energy 262 kJ and the transition-state peak has energy 423 kJ. What is the reverse activation energy?",
+      "o": [
+        "136 kJ",
+        "25 kJ",
+        "685 kJ",
+        "161 kJ"
+      ],
+      "a": 3,
+      "e": "Reverse activation energy = peak − products = 423 − 262 = 161 kJ.",
+      "d": "Medium",
+      "topic": "Reaction pathway diagrams",
+      "slo": "Explain or apply reaction pathway diagrams in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-221",
+      "q": "Breaking reactant bonds requires 781 kJ, while forming product bonds releases 979 kJ. Estimate the reaction ΔH.",
+      "o": [
+        "781 kJ",
+        "-198 kJ",
+        "+198 kJ",
+        "1760 kJ"
+      ],
+      "a": 1,
+      "e": "ΔH = energy absorbed in bond breaking − energy released in bond forming = 781 − 979 = -198 kJ.",
+      "d": "Medium",
+      "topic": "Bond energy calculations",
+      "slo": "Explain or apply bond energy calculations in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-222",
+      "q": "An energy profile shows reactants at 170 kJ, a peak at 275 kJ, and products at 195 kJ. What is the forward activation energy?",
+      "o": [
+        "80 kJ",
+        "25 kJ",
+        "105 kJ",
+        "275 kJ"
+      ],
+      "a": 2,
+      "e": "Forward activation energy = peak − reactant energy = 275 − 170 = 105 kJ.",
+      "d": "Medium",
+      "topic": "Reaction pathway diagrams",
+      "slo": "Explain or apply reaction pathway diagrams in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-223",
+      "q": "Which change releases heat to the surroundings?",
+      "o": [
+        "Sublimation of iodine",
+        "Vaporization of water",
+        "Condensation of steam",
+        "Melting of ice"
+      ],
+      "a": 2,
+      "e": "Gas particles release energy when they condense to liquid.",
+      "d": "Medium",
+      "topic": "Exothermic processes",
+      "slo": "Explain or apply exothermic processes in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-224",
+      "q": "A reaction has reactant enthalpy 525 kJ and product enthalpy 558 kJ. What is ΔH for the reaction as written?",
+      "o": [
+        "-33 kJ",
+        "+33 kJ",
+        "0 kJ",
+        "1083 kJ"
+      ],
+      "a": 1,
+      "e": "ΔH = H(products) − H(reactants) = 558 − 525 = +33 kJ.",
+      "d": "Medium",
+      "topic": "Enthalpy calculations",
+      "slo": "Explain or apply enthalpy calculations in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-225",
+      "q": "Breaking reactant bonds requires 313 kJ, while forming product bonds releases 367 kJ. Estimate the reaction ΔH.",
+      "o": [
+        "+54 kJ",
+        "313 kJ",
+        "-54 kJ",
+        "680 kJ"
+      ],
+      "a": 2,
+      "e": "ΔH = energy absorbed in bond breaking − energy released in bond forming = 313 − 367 = -54 kJ.",
+      "d": "Medium",
+      "topic": "Bond energy calculations",
+      "slo": "Explain or apply bond energy calculations in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-226",
+      "q": "An energy profile shows reactants at 194 kJ, a peak at 308 kJ, and products at 164 kJ. What is the forward activation energy?",
+      "o": [
+        "144 kJ",
+        "30 kJ",
+        "308 kJ",
+        "114 kJ"
+      ],
+      "a": 3,
+      "e": "Forward activation energy = peak − reactant energy = 308 − 194 = 114 kJ.",
+      "d": "Medium",
+      "topic": "Reaction pathway diagrams",
+      "slo": "Explain or apply reaction pathway diagrams in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-227",
+      "q": "If the bond dissociation energy of O−H is 463 kJ/mol, how much energy is required to break 4 mol of these bonds?",
+      "o": [
+        "1852 kJ",
+        "1389 kJ",
+        "463 kJ",
+        "2315 kJ"
+      ],
+      "a": 0,
+      "e": "Breaking 4 mol of O−H bonds requires 4 × 463 = 1852 kJ.",
+      "d": "Medium",
+      "topic": "Bond dissociation energy",
+      "slo": "Explain or apply bond dissociation energy in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-228",
+      "q": "For an energy profile, products have energy 136 kJ and the transition-state peak has energy 269 kJ. What is the reverse activation energy?",
+      "o": [
+        "405 kJ",
+        "108 kJ",
+        "25 kJ",
+        "133 kJ"
+      ],
+      "a": 3,
+      "e": "Reverse activation energy = peak − products = 269 − 136 = 133 kJ.",
+      "d": "Medium",
+      "topic": "Reaction pathway diagrams",
+      "slo": "Explain or apply reaction pathway diagrams in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-229",
+      "q": "Breaking reactant bonds requires 365 kJ, while forming product bonds releases 435 kJ. Estimate the reaction ΔH.",
+      "o": [
+        "+70 kJ",
+        "-70 kJ",
+        "800 kJ",
+        "365 kJ"
+      ],
+      "a": 1,
+      "e": "ΔH = energy absorbed in bond breaking − energy released in bond forming = 365 − 435 = -70 kJ.",
+      "d": "Medium",
+      "topic": "Bond energy calculations",
+      "slo": "Explain or apply bond energy calculations in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-230",
+      "q": "If the bond dissociation energy of Cl−Cl is 243 kJ/mol, how much energy is required to break 4 mol of these bonds?",
+      "o": [
+        "1215 kJ",
+        "972 kJ",
+        "243 kJ",
+        "729 kJ"
+      ],
+      "a": 1,
+      "e": "Breaking 4 mol of Cl−Cl bonds requires 4 × 243 = 972 kJ.",
+      "d": "Medium",
+      "topic": "Bond dissociation energy",
+      "slo": "Explain or apply bond dissociation energy in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-231",
+      "q": "What does a negative ΔH of −110.5 kJ indicate for a reaction as written?",
+      "o": [
+        "The reaction is impossible",
+        "The reaction has zero activation energy",
+        "110.5 kJ of heat is released",
+        "110.5 kJ is absorbed"
+      ],
+      "a": 2,
+      "e": "A negative enthalpy change indicates release of the stated amount of heat.",
+      "d": "Medium",
+      "topic": "Enthalpy interpretation",
+      "slo": "Explain or apply enthalpy interpretation in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-232",
+      "q": "What is meant by the system in thermochemistry?",
+      "o": [
+        "The part of the universe being studied",
+        "Only the laboratory wall",
+        "Everything except the reacting substances",
+        "Only the atmosphere"
+      ],
+      "a": 0,
+      "e": "The system is the specific reacting part under study.",
+      "d": "Easy",
+      "topic": "System and surroundings",
+      "slo": "Explain or apply system and surroundings in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-233",
+      "q": "Breaking reactant bonds requires 794 kJ, while forming product bonds releases 602 kJ. Estimate the reaction ΔH.",
+      "o": [
+        "-192 kJ",
+        "794 kJ",
+        "+192 kJ",
+        "1396 kJ"
+      ],
+      "a": 2,
+      "e": "ΔH = energy absorbed in bond breaking − energy released in bond forming = 794 − 602 = +192 kJ.",
+      "d": "Medium",
+      "topic": "Bond energy calculations",
+      "slo": "Explain or apply bond energy calculations in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-234",
+      "q": "Breaking reactant bonds requires 404 kJ, while forming product bonds releases 332 kJ. Estimate the reaction ΔH.",
+      "o": [
+        "+72 kJ",
+        "736 kJ",
+        "404 kJ",
+        "-72 kJ"
+      ],
+      "a": 0,
+      "e": "ΔH = energy absorbed in bond breaking − energy released in bond forming = 404 − 332 = +72 kJ.",
+      "d": "Medium",
+      "topic": "Bond energy calculations",
+      "slo": "Explain or apply bond energy calculations in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-235",
+      "q": "An uncatalyzed reaction has activation energy 261 kJ/mol. A catalyst lowers it by 25 kJ/mol. What is the catalyzed activation energy?",
+      "o": [
+        "286 kJ/mol",
+        "261 kJ/mol",
+        "236 kJ/mol",
+        "25 kJ/mol"
+      ],
+      "a": 2,
+      "e": "Catalyzed activation energy = 261 − 25 = 236 kJ/mol.",
+      "d": "Medium",
+      "topic": "Activation energy",
+      "slo": "Explain or apply activation energy in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-236",
+      "q": "If the bond dissociation energy of C=C is 614 kJ/mol, how much energy is required to break 3 mol of these bonds?",
+      "o": [
+        "1228 kJ",
+        "614 kJ",
+        "1842 kJ",
+        "2456 kJ"
+      ],
+      "a": 2,
+      "e": "Breaking 3 mol of C=C bonds requires 3 × 614 = 1842 kJ.",
+      "d": "Medium",
+      "topic": "Bond dissociation energy",
+      "slo": "Explain or apply bond dissociation energy in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-237",
+      "q": "If the bond dissociation energy of N≡N is 945 kJ/mol, how much energy is required to break 3 mol of these bonds?",
+      "o": [
+        "1890 kJ",
+        "945 kJ",
+        "3780 kJ",
+        "2835 kJ"
+      ],
+      "a": 3,
+      "e": "Breaking 3 mol of N≡N bonds requires 3 × 945 = 2835 kJ.",
+      "d": "Medium",
+      "topic": "Bond dissociation energy",
+      "slo": "Explain or apply bond dissociation energy in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-238",
+      "q": "An energy profile shows reactants at 50 kJ, a peak at 110 kJ, and products at 20 kJ. What is the forward activation energy?",
+      "o": [
+        "90 kJ",
+        "60 kJ",
+        "110 kJ",
+        "30 kJ"
+      ],
+      "a": 1,
+      "e": "Forward activation energy = peak − reactant energy = 110 − 50 = 60 kJ.",
+      "d": "Medium",
+      "topic": "Reaction pathway diagrams",
+      "slo": "Explain or apply reaction pathway diagrams in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-239",
+      "q": "An energy profile shows reactants at 186 kJ, a peak at 297 kJ, and products at 211 kJ. What is the forward activation energy?",
+      "o": [
+        "297 kJ",
+        "25 kJ",
+        "111 kJ",
+        "86 kJ"
+      ],
+      "a": 2,
+      "e": "Forward activation energy = peak − reactant energy = 297 − 186 = 111 kJ.",
+      "d": "Medium",
+      "topic": "Reaction pathway diagrams",
+      "slo": "Explain or apply reaction pathway diagrams in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-240",
+      "q": "What is the energy effect of H₂ + Cl₂ → 2HCl after initiation?",
+      "o": [
+        "Endothermic",
+        "Cannot be a chemical reaction",
+        "Exothermic",
+        "Thermoneutral"
+      ],
+      "a": 2,
+      "e": "Formation of H−Cl bonds releases more energy than breaking H−H and Cl−Cl absorbs.",
+      "d": "Medium",
+      "topic": "Exothermic reactions",
+      "slo": "Explain or apply exothermic reactions in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-241",
+      "q": "Which sign of enthalpy change identifies an exothermic reaction?",
+      "o": [
+        "Undefined",
+        "Negative",
+        "Always zero",
+        "Positive"
+      ],
+      "a": 1,
+      "e": "An exothermic reaction has ΔH < 0 because the system releases heat.",
+      "d": "Easy",
+      "topic": "Enthalpy of reaction",
+      "slo": "Explain or apply enthalpy of reaction in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-242",
+      "q": "A chemical reaction absorbs 169 kJ of heat. How should this reaction be classified?",
+      "o": [
+        "Nuclear decay",
+        "Exothermic",
+        "Endothermic",
+        "Thermoneutral"
+      ],
+      "a": 2,
+      "e": "The reaction absorbs heat, so it is endothermic.",
+      "d": "Medium",
+      "topic": "Exothermic and endothermic reactions",
+      "slo": "Explain or apply exothermic and endothermic reactions in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-243",
+      "q": "An exothermic reaction releases 61 kJ for each mole of reaction. How much heat is released when it occurs 6 mol times?",
+      "o": [
+        "427 kJ",
+        "305 kJ",
+        "366 kJ",
+        "61 kJ"
+      ],
+      "a": 2,
+      "e": "Heat released = 61 kJ/mol × 6 mol = 366 kJ.",
+      "d": "Medium",
+      "topic": "Heat of reaction",
+      "slo": "Explain or apply heat of reaction in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-244",
+      "q": "A chemical reaction absorbs 43 kJ of heat. How should this reaction be classified?",
+      "o": [
+        "Endothermic",
+        "Nuclear decay",
+        "Thermoneutral",
+        "Exothermic"
+      ],
+      "a": 0,
+      "e": "The reaction absorbs heat, so it is endothermic.",
+      "d": "Medium",
+      "topic": "Exothermic and endothermic reactions",
+      "slo": "Explain or apply exothermic and endothermic reactions in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-245",
+      "q": "A reaction has reactant enthalpy 287 kJ and product enthalpy 299 kJ. What is ΔH for the reaction as written?",
+      "o": [
+        "-12 kJ",
+        "586 kJ",
+        "+12 kJ",
+        "0 kJ"
+      ],
+      "a": 2,
+      "e": "ΔH = H(products) − H(reactants) = 299 − 287 = +12 kJ.",
+      "d": "Medium",
+      "topic": "Enthalpy calculations",
+      "slo": "Explain or apply enthalpy calculations in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-246",
+      "q": "Which change releases heat?",
+      "o": [
+        "Boiling water",
+        "Freezing liquid water",
+        "Melting ice",
+        "Sublimation of ice"
+      ],
+      "a": 1,
+      "e": "Freezing releases energy to the surroundings.",
+      "d": "Medium",
+      "topic": "Exothermic processes",
+      "slo": "Explain or apply exothermic processes in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-247",
+      "q": "A student adds an enzyme to a reaction mixture. What is its main effect?",
+      "o": [
+        "Increase product enthalpy",
+        "Provide a lower-activation-energy pathway",
+        "Prevent all effective collisions",
+        "Change the balanced equation"
+      ],
+      "a": 1,
+      "e": "Enzymes are catalysts that lower activation-energy barriers.",
+      "d": "Medium",
+      "topic": "Enzymes",
+      "slo": "Explain or apply enzymes in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-248",
+      "q": "A chemical reaction releases 92 kJ of heat. How should this reaction be classified?",
+      "o": [
+        "Thermoneutral",
+        "Nuclear decay",
+        "Endothermic",
+        "Exothermic"
+      ],
+      "a": 3,
+      "e": "The reaction releases heat, so it is exothermic.",
+      "d": "Medium",
+      "topic": "Exothermic and endothermic reactions",
+      "slo": "Explain or apply exothermic and endothermic reactions in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-249",
+      "q": "Which process requires oxygen to break down glucose completely?",
+      "o": [
+        "Aerobic respiration",
+        "Condensation",
+        "Freezing",
+        "Anaerobic respiration"
+      ],
+      "a": 0,
+      "e": "Aerobic respiration uses oxygen and produces carbon dioxide and water.",
+      "d": "Medium",
+      "topic": "Aerobic respiration",
+      "slo": "Explain or apply aerobic respiration in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-250",
+      "q": "Which statement correctly distinguishes heat from temperature?",
+      "o": [
+        "Temperature is measured in joules",
+        "Heat is measured in degrees Celsius",
+        "Heat is energy transferred; temperature indicates thermal state",
+        "Heat and temperature are identical units"
+      ],
+      "a": 2,
+      "e": "Heat is energy in transit; temperature characterizes how hot or cold a body is.",
+      "d": "Easy",
+      "topic": "Heat and temperature",
+      "slo": "Explain or apply heat and temperature in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-251",
+      "q": "For an energy profile, products have energy 154 kJ and the transition-state peak has energy 291 kJ. What is the reverse activation energy?",
+      "o": [
+        "25 kJ",
+        "112 kJ",
+        "137 kJ",
+        "445 kJ"
+      ],
+      "a": 2,
+      "e": "Reverse activation energy = peak − products = 291 − 154 = 137 kJ.",
+      "d": "Medium",
+      "topic": "Reaction pathway diagrams",
+      "slo": "Explain or apply reaction pathway diagrams in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-252",
+      "q": "An uncatalyzed reaction has activation energy 177 kJ/mol. A catalyst lowers it by 19 kJ/mol. What is the catalyzed activation energy?",
+      "o": [
+        "19 kJ/mol",
+        "158 kJ/mol",
+        "196 kJ/mol",
+        "177 kJ/mol"
+      ],
+      "a": 1,
+      "e": "Catalyzed activation energy = 177 − 19 = 158 kJ/mol.",
+      "d": "Medium",
+      "topic": "Activation energy",
+      "slo": "Explain or apply activation energy in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-253",
+      "q": "Which process releases less energy per glucose molecule?",
+      "o": [
+        "Aerobic respiration",
+        "Combustion of glucose",
+        "Anaerobic respiration",
+        "Complete oxidation of glucose"
+      ],
+      "a": 2,
+      "e": "Anaerobic respiration releases less energy than complete aerobic oxidation.",
+      "d": "Medium",
+      "topic": "Respiration",
+      "slo": "Explain or apply respiration in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-254",
+      "q": "The reaction as written has ΔH = +85 kJ. What is the enthalpy change for 2 times this reaction?",
+      "o": [
+        "+85 kJ",
+        "+255 kJ",
+        "+170 kJ",
+        "-170 kJ"
+      ],
+      "a": 2,
+      "e": "Enthalpy is extensive: multiply +85 kJ by 2 to obtain +170 kJ.",
+      "d": "Medium",
+      "topic": "Thermochemical equations",
+      "slo": "Explain or apply thermochemical equations in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-255",
+      "q": "For an energy profile, products have energy 208 kJ and the transition-state peak has energy 357 kJ. What is the reverse activation energy?",
+      "o": [
+        "25 kJ",
+        "565 kJ",
+        "149 kJ",
+        "124 kJ"
+      ],
+      "a": 2,
+      "e": "Reverse activation energy = peak − products = 357 − 208 = 149 kJ.",
+      "d": "Medium",
+      "topic": "Reaction pathway diagrams",
+      "slo": "Explain or apply reaction pathway diagrams in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-256",
+      "q": "Breaking reactant bonds requires 885 kJ, while forming product bonds releases 1115 kJ. Estimate the reaction ΔH.",
+      "o": [
+        "2000 kJ",
+        "+230 kJ",
+        "885 kJ",
+        "-230 kJ"
+      ],
+      "a": 3,
+      "e": "ΔH = energy absorbed in bond breaking − energy released in bond forming = 885 − 1115 = -230 kJ.",
+      "d": "Medium",
+      "topic": "Bond energy calculations",
+      "slo": "Explain or apply bond energy calculations in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-257",
+      "q": "What is the study of energy changes during chemical reactions called?",
+      "o": [
+        "Stoichiometry",
+        "Electrochemistry",
+        "Chromatography",
+        "Chemical energetics"
+      ],
+      "a": 3,
+      "e": "Chemical energetics deals with energy changes accompanying chemical reactions.",
+      "d": "Easy",
+      "topic": "Chemical energetics",
+      "slo": "Explain or apply chemical energetics in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-258",
+      "q": "Which unit is suitable for molar enthalpy change?",
+      "o": [
+        "m/s",
+        "kg/m",
+        "kJ/mol",
+        "mol/L"
+      ],
+      "a": 2,
+      "e": "Molar enthalpy changes are expressed as energy per mole.",
+      "d": "Medium",
+      "topic": "Enthalpy units",
+      "slo": "Explain or apply enthalpy units in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-259",
+      "q": "If the bond dissociation energy of O=O is 498 kJ/mol, how much energy is required to break 4 mol of these bonds?",
+      "o": [
+        "2490 kJ",
+        "1494 kJ",
+        "1992 kJ",
+        "498 kJ"
+      ],
+      "a": 2,
+      "e": "Breaking 4 mol of O=O bonds requires 4 × 498 = 1992 kJ.",
+      "d": "Medium",
+      "topic": "Bond dissociation energy",
+      "slo": "Explain or apply bond dissociation energy in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-260",
+      "q": "The reaction as written has ΔH = -30 kJ. What is the enthalpy change for 5 times this reaction?",
+      "o": [
+        "-120 kJ",
+        "-30 kJ",
+        "+150 kJ",
+        "-150 kJ"
+      ],
+      "a": 3,
+      "e": "Enthalpy is extensive: multiply -30 kJ by 5 to obtain -150 kJ.",
+      "d": "Medium",
+      "topic": "Thermochemical equations",
+      "slo": "Explain or apply thermochemical equations in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-261",
+      "q": "In an endothermic energy diagram, where are products relative to reactants?",
+      "o": [
+        "At a lower energy level",
+        "At a higher energy level",
+        "Below absolute zero",
+        "Always at the same energy"
+      ],
+      "a": 1,
+      "e": "Products have higher enthalpy than reactants when ΔH is positive.",
+      "d": "Medium",
+      "topic": "Reaction pathway diagrams",
+      "slo": "Explain or apply reaction pathway diagrams in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-262",
+      "q": "The reaction as written has ΔH = +20 kJ. What is the enthalpy change for 4 times this reaction?",
+      "o": [
+        "+20 kJ",
+        "+80 kJ",
+        "+100 kJ",
+        "-80 kJ"
+      ],
+      "a": 1,
+      "e": "Enthalpy is extensive: multiply +20 kJ by 4 to obtain +80 kJ.",
+      "d": "Medium",
+      "topic": "Thermochemical equations",
+      "slo": "Explain or apply thermochemical equations in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-263",
+      "q": "Two pathways have the same reactants and products, but one uses a catalyst. Which value remains the same?",
+      "o": [
+        "Overall ΔH",
+        "Forward activation energy",
+        "Number of effective collisions per second",
+        "Rate constant"
+      ],
+      "a": 0,
+      "e": "A catalyst changes the pathway, not the overall enthalpy difference.",
+      "d": "Medium",
+      "topic": "Catalysts",
+      "slo": "Explain or apply catalysts in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-264",
+      "q": "The reaction as written has ΔH = -65 kJ. What is the enthalpy change for 4 times this reaction?",
+      "o": [
+        "+260 kJ",
+        "-65 kJ",
+        "-260 kJ",
+        "-195 kJ"
+      ],
+      "a": 2,
+      "e": "Enthalpy is extensive: multiply -65 kJ by 4 to obtain -260 kJ.",
+      "d": "Medium",
+      "topic": "Thermochemical equations",
+      "slo": "Explain or apply thermochemical equations in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-265",
+      "q": "The reaction as written has ΔH = -80 kJ. What is the enthalpy change for 8 times this reaction?",
+      "o": [
+        "+640 kJ",
+        "-640 kJ",
+        "-560 kJ",
+        "-80 kJ"
+      ],
+      "a": 1,
+      "e": "Enthalpy is extensive: multiply -80 kJ by 8 to obtain -640 kJ.",
+      "d": "Medium",
+      "topic": "Thermochemical equations",
+      "slo": "Explain or apply thermochemical equations in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-266",
+      "q": "For an energy profile, products have energy 118 kJ and the transition-state peak has energy 247 kJ. What is the reverse activation energy?",
+      "o": [
+        "129 kJ",
+        "365 kJ",
+        "25 kJ",
+        "104 kJ"
+      ],
+      "a": 0,
+      "e": "Reverse activation energy = peak − products = 247 − 118 = 129 kJ.",
+      "d": "Medium",
+      "topic": "Reaction pathway diagrams",
+      "slo": "Explain or apply reaction pathway diagrams in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-267",
+      "q": "What are the main products of aerobic respiration of glucose?",
+      "o": [
+        "Hydrogen and oxygen",
+        "Carbon monoxide and chlorine",
+        "Nitrogen and water",
+        "Carbon dioxide and water"
+      ],
+      "a": 3,
+      "e": "Aerobic respiration oxidizes glucose to CO₂ and H₂O while releasing energy.",
+      "d": "Easy",
+      "topic": "Aerobic respiration",
+      "slo": "Explain or apply aerobic respiration in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-268",
+      "q": "A reaction has reactant enthalpy 610 kJ and product enthalpy 542 kJ. What is ΔH for the reaction as written?",
+      "o": [
+        "1152 kJ",
+        "0 kJ",
+        "-68 kJ",
+        "+68 kJ"
+      ],
+      "a": 2,
+      "e": "ΔH = H(products) − H(reactants) = 542 − 610 = -68 kJ.",
+      "d": "Medium",
+      "topic": "Enthalpy calculations",
+      "slo": "Explain or apply enthalpy calculations in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-269",
+      "q": "An exothermic reaction releases 97 kJ for each mole of reaction. How much heat is released when it occurs 4 mol times?",
+      "o": [
+        "291 kJ",
+        "97 kJ",
+        "485 kJ",
+        "388 kJ"
+      ],
+      "a": 3,
+      "e": "Heat released = 97 kJ/mol × 4 mol = 388 kJ.",
+      "d": "Medium",
+      "topic": "Heat of reaction",
+      "slo": "Explain or apply heat of reaction in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-270",
+      "q": "Breaking reactant bonds requires 664 kJ, while forming product bonds releases 512 kJ. Estimate the reaction ΔH.",
+      "o": [
+        "1176 kJ",
+        "664 kJ",
+        "+152 kJ",
+        "-152 kJ"
+      ],
+      "a": 2,
+      "e": "ΔH = energy absorbed in bond breaking − energy released in bond forming = 664 − 512 = +152 kJ.",
+      "d": "Medium",
+      "topic": "Bond energy calculations",
+      "slo": "Explain or apply bond energy calculations in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-271",
+      "q": "An uncatalyzed reaction has activation energy 212 kJ/mol. A catalyst lowers it by 29 kJ/mol. What is the catalyzed activation energy?",
+      "o": [
+        "212 kJ/mol",
+        "241 kJ/mol",
+        "183 kJ/mol",
+        "29 kJ/mol"
+      ],
+      "a": 2,
+      "e": "Catalyzed activation energy = 212 − 29 = 183 kJ/mol.",
+      "d": "Medium",
+      "topic": "Activation energy",
+      "slo": "Explain or apply activation energy in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-272",
+      "q": "Breaking reactant bonds requires 833 kJ, while forming product bonds releases 1047 kJ. Estimate the reaction ΔH.",
+      "o": [
+        "1880 kJ",
+        "833 kJ",
+        "-214 kJ",
+        "+214 kJ"
+      ],
+      "a": 2,
+      "e": "ΔH = energy absorbed in bond breaking − energy released in bond forming = 833 − 1047 = -214 kJ.",
+      "d": "Medium",
+      "topic": "Bond energy calculations",
+      "slo": "Explain or apply bond energy calculations in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-273",
+      "q": "A reaction has reactant enthalpy 338 kJ and product enthalpy 305 kJ. What is ΔH for the reaction as written?",
+      "o": [
+        "643 kJ",
+        "0 kJ",
+        "+33 kJ",
+        "-33 kJ"
+      ],
+      "a": 3,
+      "e": "ΔH = H(products) − H(reactants) = 305 − 338 = -33 kJ.",
+      "d": "Medium",
+      "topic": "Enthalpy calculations",
+      "slo": "Explain or apply enthalpy calculations in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-274",
+      "q": "Which is a correct description of aerobic respiration?",
+      "o": [
+        "Glucose is oxidized using oxygen to release energy",
+        "Energy must be absorbed overall",
+        "Glucose is produced from carbon dioxide using sunlight",
+        "Oxygen is never involved"
+      ],
+      "a": 0,
+      "e": "Aerobic respiration uses oxygen to break down glucose and release energy.",
+      "d": "Medium",
+      "topic": "Aerobic respiration",
+      "slo": "Explain or apply aerobic respiration in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-275",
+      "q": "An energy profile shows reactants at 178 kJ, a peak at 286 kJ, and products at 148 kJ. What is the forward activation energy?",
+      "o": [
+        "30 kJ",
+        "108 kJ",
+        "286 kJ",
+        "138 kJ"
+      ],
+      "a": 1,
+      "e": "Forward activation energy = peak − reactant energy = 286 − 178 = 108 kJ.",
+      "d": "Medium",
+      "topic": "Reaction pathway diagrams",
+      "slo": "Explain or apply reaction pathway diagrams in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-276",
+      "q": "A reaction has reactant enthalpy 372 kJ and product enthalpy 325 kJ. What is ΔH for the reaction as written?",
+      "o": [
+        "-47 kJ",
+        "+47 kJ",
+        "697 kJ",
+        "0 kJ"
+      ],
+      "a": 0,
+      "e": "ΔH = H(products) − H(reactants) = 325 − 372 = -47 kJ.",
+      "d": "Medium",
+      "topic": "Enthalpy calculations",
+      "slo": "Explain or apply enthalpy calculations in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-277",
+      "q": "A spark is needed to ignite methane, but combustion then releases heat. What does the spark supply?",
+      "o": [
+        "The products",
+        "Activation energy",
+        "A catalyst that is consumed",
+        "All the heat released by combustion"
+      ],
+      "a": 1,
+      "e": "The spark supplies the initial energy needed to overcome the reaction barrier.",
+      "d": "Medium",
+      "topic": "Activation energy",
+      "slo": "Explain or apply activation energy in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-278",
+      "q": "Breaking reactant bonds requires 352 kJ, while forming product bonds releases 296 kJ. Estimate the reaction ΔH.",
+      "o": [
+        "648 kJ",
+        "+56 kJ",
+        "352 kJ",
+        "-56 kJ"
+      ],
+      "a": 1,
+      "e": "ΔH = energy absorbed in bond breaking − energy released in bond forming = 352 − 296 = +56 kJ.",
+      "d": "Medium",
+      "topic": "Bond energy calculations",
+      "slo": "Explain or apply bond energy calculations in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-279",
+      "q": "The reaction as written has ΔH = +30 kJ. What is the enthalpy change for 4 times this reaction?",
+      "o": [
+        "+150 kJ",
+        "-120 kJ",
+        "+30 kJ",
+        "+120 kJ"
+      ],
+      "a": 3,
+      "e": "Enthalpy is extensive: multiply +30 kJ by 4 to obtain +120 kJ.",
+      "d": "Medium",
+      "topic": "Thermochemical equations",
+      "slo": "Explain or apply thermochemical equations in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-280",
+      "q": "What are the surroundings in thermochemistry?",
+      "o": [
+        "Only the reactants",
+        "Only the products",
+        "Only the catalyst",
+        "Everything outside the system that can exchange energy with it"
+      ],
+      "a": 3,
+      "e": "Surroundings are external to the system and may exchange energy with it.",
+      "d": "Medium",
+      "topic": "System and surroundings",
+      "slo": "Explain or apply system and surroundings in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-281",
+      "q": "What type of substances store energy for use by organisms?",
+      "o": [
+        "Only metallic elements",
+        "Only noble gases",
+        "Carbohydrates and lipids",
+        "Only salts"
+      ],
+      "a": 2,
+      "e": "Carbohydrates and lipids serve as energy sources and stores.",
+      "d": "Easy",
+      "topic": "Energy in organisms",
+      "slo": "Explain or apply energy in organisms in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-282",
+      "q": "In a pathway diagram, a lower peak with unchanged starting and ending levels indicates what?",
+      "o": [
+        "A new element has formed",
+        "An increased reaction enthalpy",
+        "A different final product enthalpy",
+        "Catalysis"
+      ],
+      "a": 3,
+      "e": "Lower peak but unchanged endpoint levels indicates lower activation energy without ΔH change.",
+      "d": "Medium",
+      "topic": "Reaction pathway diagrams",
+      "slo": "Explain or apply reaction pathway diagrams in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-283",
+      "q": "An energy profile shows reactants at 98 kJ, a peak at 176 kJ, and products at 68 kJ. What is the forward activation energy?",
+      "o": [
+        "78 kJ",
+        "108 kJ",
+        "176 kJ",
+        "30 kJ"
+      ],
+      "a": 0,
+      "e": "Forward activation energy = peak − reactant energy = 176 − 98 = 78 kJ.",
+      "d": "Medium",
+      "topic": "Reaction pathway diagrams",
+      "slo": "Explain or apply reaction pathway diagrams in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-284",
+      "q": "If the bond dissociation energy of H−H is 436 kJ/mol, how much energy is required to break 4 mol of these bonds?",
+      "o": [
+        "436 kJ",
+        "1308 kJ",
+        "2180 kJ",
+        "1744 kJ"
+      ],
+      "a": 3,
+      "e": "Breaking 4 mol of H−H bonds requires 4 × 436 = 1744 kJ.",
+      "d": "Medium",
+      "topic": "Bond dissociation energy",
+      "slo": "Explain or apply bond dissociation energy in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-285",
+      "q": "For A → B, ΔH = -259 kJ. What is ΔH for the reverse reaction B → A?",
+      "o": [
+        "0 kJ",
+        "-259 kJ",
+        "+259 kJ",
+        "+518 kJ"
+      ],
+      "a": 2,
+      "e": "Reversing a thermochemical equation reverses the sign: ΔH = +259 kJ.",
+      "d": "Medium",
+      "topic": "Thermochemical equations",
+      "slo": "Explain or apply thermochemical equations in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-286",
+      "q": "What does a catalyst NOT change?",
+      "o": [
+        "Activation energy",
+        "Reaction pathway",
+        "Rate of reaction",
+        "Overall reaction enthalpy change"
+      ],
+      "a": 3,
+      "e": "ΔH depends on reactant and product states, not on the pathway.",
+      "d": "Easy",
+      "topic": "Catalysts",
+      "slo": "Explain or apply catalysts in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-287",
+      "q": "An exothermic reaction releases 124 kJ for each mole of reaction. How much heat is released when it occurs 7 mol times?",
+      "o": [
+        "868 kJ",
+        "744 kJ",
+        "992 kJ",
+        "124 kJ"
+      ],
+      "a": 0,
+      "e": "Heat released = 124 kJ/mol × 7 mol = 868 kJ.",
+      "d": "Medium",
+      "topic": "Heat of reaction",
+      "slo": "Explain or apply heat of reaction in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-288",
+      "q": "A reaction has reactant enthalpy 134 kJ and product enthalpy 108 kJ. What is ΔH for the reaction as written?",
+      "o": [
+        "-26 kJ",
+        "0 kJ",
+        "242 kJ",
+        "+26 kJ"
+      ],
+      "a": 0,
+      "e": "ΔH = H(products) − H(reactants) = 108 − 134 = -26 kJ.",
+      "d": "Medium",
+      "topic": "Enthalpy calculations",
+      "slo": "Explain or apply enthalpy calculations in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-289",
+      "q": "An exothermic reaction releases 151 kJ for each mole of reaction. How much heat is released when it occurs 4 mol times?",
+      "o": [
+        "453 kJ",
+        "604 kJ",
+        "151 kJ",
+        "755 kJ"
+      ],
+      "a": 1,
+      "e": "Heat released = 151 kJ/mol × 4 mol = 604 kJ.",
+      "d": "Medium",
+      "topic": "Heat of reaction",
+      "slo": "Explain or apply heat of reaction in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-290",
+      "q": "A chemical reaction absorbs 71 kJ of heat. How should this reaction be classified?",
+      "o": [
+        "Thermoneutral",
+        "Nuclear decay",
+        "Endothermic",
+        "Exothermic"
+      ],
+      "a": 2,
+      "e": "The reaction absorbs heat, so it is endothermic.",
+      "d": "Medium",
+      "topic": "Exothermic and endothermic reactions",
+      "slo": "Explain or apply exothermic and endothermic reactions in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-291",
+      "q": "For A → B, ΔH = +160 kJ. What is ΔH for the reverse reaction B → A?",
+      "o": [
+        "-320 kJ",
+        "0 kJ",
+        "+160 kJ",
+        "-160 kJ"
+      ],
+      "a": 3,
+      "e": "Reversing a thermochemical equation reverses the sign: ΔH = -160 kJ.",
+      "d": "Medium",
+      "topic": "Thermochemical equations",
+      "slo": "Explain or apply thermochemical equations in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-292",
+      "q": "The reaction as written has ΔH = +25 kJ. What is the enthalpy change for 4 times this reaction?",
+      "o": [
+        "+25 kJ",
+        "-100 kJ",
+        "+100 kJ",
+        "+125 kJ"
+      ],
+      "a": 2,
+      "e": "Enthalpy is extensive: multiply +25 kJ by 4 to obtain +100 kJ.",
+      "d": "Medium",
+      "topic": "Thermochemical equations",
+      "slo": "Explain or apply thermochemical equations in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-293",
+      "q": "When is a reaction exothermic in terms of bond energies?",
+      "o": [
+        "No new bonds are formed",
+        "Bond formation releases more energy than bond breaking absorbs",
+        "Bond breaking absorbs more than formation releases",
+        "Both processes consume no energy"
+      ],
+      "a": 1,
+      "e": "If the energy released by product bond formation exceeds the energy absorbed in breaking reactant bonds, ΔH is negative.",
+      "d": "Easy",
+      "topic": "Bond energy calculations",
+      "slo": "Explain or apply bond energy calculations in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-294",
+      "q": "A reaction has reactant enthalpy 440 kJ and product enthalpy 365 kJ. What is ΔH for the reaction as written?",
+      "o": [
+        "-75 kJ",
+        "0 kJ",
+        "805 kJ",
+        "+75 kJ"
+      ],
+      "a": 0,
+      "e": "ΔH = H(products) − H(reactants) = 365 − 440 = -75 kJ.",
+      "d": "Medium",
+      "topic": "Enthalpy calculations",
+      "slo": "Explain or apply enthalpy calculations in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-295",
+      "q": "An exothermic reaction releases 232 kJ for each mole of reaction. How much heat is released when it occurs 7 mol times?",
+      "o": [
+        "1856 kJ",
+        "232 kJ",
+        "1624 kJ",
+        "1392 kJ"
+      ],
+      "a": 2,
+      "e": "Heat released = 232 kJ/mol × 7 mol = 1624 kJ.",
+      "d": "Medium",
+      "topic": "Heat of reaction",
+      "slo": "Explain or apply heat of reaction in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-296",
+      "q": "What is the energy effect of combustion of fuels?",
+      "o": [
+        "Heat is always absorbed",
+        "Heat is released",
+        "Chemical energy is destroyed",
+        "No energy change occurs"
+      ],
+      "a": 1,
+      "e": "Combustion is generally exothermic.",
+      "d": "Medium",
+      "topic": "Combustion",
+      "slo": "Explain or apply combustion in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-297",
+      "q": "If the bond dissociation energy of O−H is 463 kJ/mol, how much energy is required to break 3 mol of these bonds?",
+      "o": [
+        "1852 kJ",
+        "926 kJ",
+        "463 kJ",
+        "1389 kJ"
+      ],
+      "a": 3,
+      "e": "Breaking 3 mol of O−H bonds requires 3 × 463 = 1389 kJ.",
+      "d": "Medium",
+      "topic": "Bond dissociation energy",
+      "slo": "Explain or apply bond dissociation energy in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-298",
+      "q": "If the bond dissociation energy of C=C is 614 kJ/mol, how much energy is required to break 4 mol of these bonds?",
+      "o": [
+        "3070 kJ",
+        "2456 kJ",
+        "1842 kJ",
+        "614 kJ"
+      ],
+      "a": 1,
+      "e": "Breaking 4 mol of C=C bonds requires 4 × 614 = 2456 kJ.",
+      "d": "Medium",
+      "topic": "Bond dissociation energy",
+      "slo": "Explain or apply bond dissociation energy in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-299",
+      "q": "An uncatalyzed reaction has activation energy 275 kJ/mol. A catalyst lowers it by 29 kJ/mol. What is the catalyzed activation energy?",
+      "o": [
+        "304 kJ/mol",
+        "29 kJ/mol",
+        "275 kJ/mol",
+        "246 kJ/mol"
+      ],
+      "a": 3,
+      "e": "Catalyzed activation energy = 275 − 29 = 246 kJ/mol.",
+      "d": "Medium",
+      "topic": "Activation energy",
+      "slo": "Explain or apply activation energy in chemical energetics."
+    },
+    {
+      "id": "CHEM9CH8-300",
+      "q": "The reaction as written has ΔH = -20 kJ. What is the enthalpy change for 3 times this reaction?",
+      "o": [
+        "-20 kJ",
+        "+60 kJ",
+        "-40 kJ",
+        "-60 kJ"
+      ],
+      "a": 3,
+      "e": "Enthalpy is extensive: multiply -20 kJ by 3 to obtain -60 kJ.",
+      "d": "Medium",
+      "topic": "Thermochemical equations",
+      "slo": "Explain or apply thermochemical equations in chemical energetics."
+    }
+  ]
+}

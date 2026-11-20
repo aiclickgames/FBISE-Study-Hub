@@ -1,0 +1,4504 @@
+{
+  "questions": [
+    {
+      "id": "CHEM9CH12-001",
+      "q": "For a Class 9 water-chemistry revision test, why is chlorine sometimes added to drinking water?",
+      "o": [
+        "To make it salty",
+        "To remove oxygen completely",
+        "To disinfect it",
+        "To add sand"
+      ],
+      "a": 2,
+      "e": "Controlled chlorination inactivates many pathogens.",
+      "d": "Medium",
+      "topic": "Water treatment",
+      "slo": "Identify, explain or apply the concept of water treatment."
+    },
+    {
+      "id": "CHEM9CH12-002",
+      "q": "For a Class 9 water-chemistry revision test, what is precipitation in the water cycle?",
+      "o": [
+        "Water dissolving table salt",
+        "Water falling from clouds as rain, snow or hail",
+        "Water forming soap scum",
+        "Water passing through filter paper"
+      ],
+      "a": 1,
+      "e": "Precipitation transfers water from the atmosphere to the surface.",
+      "d": "Medium",
+      "topic": "Water cycle",
+      "slo": "Identify, explain or apply the concept of water cycle."
+    },
+    {
+      "id": "CHEM9CH12-003",
+      "q": "Why can scale form in kettles and boilers?",
+      "o": [
+        "Precipitation of hardness-related minerals",
+        "Formation of pure hydrogen gas",
+        "Removal of all dissolved solids",
+        "Condensation of nitrogen"
+      ],
+      "a": 0,
+      "e": "Heating hard water can produce mineral deposits on surfaces.",
+      "d": "Easy",
+      "topic": "Water hardness",
+      "slo": "Identify, explain or apply the concept of water hardness."
+    },
+    {
+      "id": "CHEM9CH12-004",
+      "q": "What is a key reason to treat drinking water?",
+      "o": [
+        "To increase pathogens",
+        "To reduce disease-causing microorganisms",
+        "To increase toxic metals",
+        "To add suspended sewage"
+      ],
+      "a": 1,
+      "e": "Treatment aims to make water microbiologically and chemically safer.",
+      "d": "Easy",
+      "topic": "Drinking water",
+      "slo": "Identify, explain or apply the concept of drinking water."
+    },
+    {
+      "id": "CHEM9CH12-005",
+      "q": "What is a simple method to reduce soil erosion into rivers?",
+      "o": [
+        "Dump soil into drains",
+        "Remove all plants from slopes",
+        "Increase bare ground",
+        "Maintain vegetation cover"
+      ],
+      "a": 3,
+      "e": "Plant roots and cover reduce erosion and sediment transport.",
+      "d": "Easy",
+      "topic": "Pollution prevention",
+      "slo": "Identify, explain or apply the concept of pollution prevention."
+    },
+    {
+      "id": "CHEM9CH12-006",
+      "q": "For a Class 9 water-chemistry revision test, which state of water has a fixed shape?",
+      "o": [
+        "Liquid water",
+        "Ice",
+        "Steam",
+        "Water vapour"
+      ],
+      "a": 1,
+      "e": "Ice is solid and has a definite shape.",
+      "d": "Medium",
+      "topic": "Properties of water",
+      "slo": "Identify, explain or apply the concept of properties of water."
+    },
+    {
+      "id": "CHEM9CH12-007",
+      "q": "For a Class 9 water-chemistry revision test, which treatment can remove much temporary hardness?",
+      "o": [
+        "Cooling to room temperature only",
+        "Adding oil",
+        "Boiling",
+        "Adding more calcium salts"
+      ],
+      "a": 2,
+      "e": "Heating decomposes hydrogencarbonates and can precipitate hardness-forming solids.",
+      "d": "Medium",
+      "topic": "Water hardness",
+      "slo": "Identify, explain or apply the concept of water hardness."
+    },
+    {
+      "id": "CHEM9CH12-008",
+      "q": "Which property makes pure water suitable for many laboratory uses?",
+      "o": [
+        "It is always acidic",
+        "It contains seawater salts",
+        "It contains suspended clay",
+        "It contains few dissolved impurities"
+      ],
+      "a": 3,
+      "e": "Pure water minimizes interference from contaminants.",
+      "d": "Easy",
+      "topic": "Properties of water",
+      "slo": "Identify, explain or apply the concept of properties of water."
+    },
+    {
+      "id": "CHEM9CH12-009",
+      "q": "For a Class 9 water-chemistry revision test, which pH indicates an acidic water sample?",
+      "o": [
+        "4",
+        "9",
+        "7",
+        "12"
+      ],
+      "a": 0,
+      "e": "A pH below 7 indicates acidity at about 25 °C.",
+      "d": "Medium",
+      "topic": "Water quality",
+      "slo": "Identify, explain or apply the concept of water quality."
+    },
+    {
+      "id": "CHEM9CH12-010",
+      "q": "What is a practical way to reduce waterborne disease?",
+      "o": [
+        "Drink untreated sewage",
+        "Store water in dirty open containers",
+        "Use safely treated drinking water",
+        "Ignore sanitation"
+      ],
+      "a": 2,
+      "e": "Safe drinking water and sanitation reduce infection risk.",
+      "d": "Easy",
+      "topic": "Waterborne diseases",
+      "slo": "Identify, explain or apply the concept of waterborne diseases."
+    },
+    {
+      "id": "CHEM9CH12-011",
+      "q": "For a Class 9 water-chemistry revision test, which heavy metal is especially associated with neurological harm?",
+      "o": [
+        "Sodium in normal food amounts",
+        "Lead",
+        "Magnesium in vegetables",
+        "Calcium in milk"
+      ],
+      "a": 1,
+      "e": "Lead exposure can harm the nervous system.",
+      "d": "Medium",
+      "topic": "Water pollution",
+      "slo": "Identify, explain or apply the concept of water pollution."
+    },
+    {
+      "id": "CHEM9CH12-012",
+      "q": "For a Class 9 water-chemistry revision test, why can scale form in kettles and boilers?",
+      "o": [
+        "Condensation of nitrogen",
+        "Precipitation of hardness-related minerals",
+        "Removal of all dissolved solids",
+        "Formation of pure hydrogen gas"
+      ],
+      "a": 1,
+      "e": "Heating hard water can produce mineral deposits on surfaces.",
+      "d": "Medium",
+      "topic": "Water hardness",
+      "slo": "Identify, explain or apply the concept of water hardness."
+    },
+    {
+      "id": "CHEM9CH12-013",
+      "q": "What remains behind during simple distillation of salty water?",
+      "o": [
+        "Only pure water vapour",
+        "All condensed water",
+        "All dissolved gases",
+        "Most dissolved salts"
+      ],
+      "a": 3,
+      "e": "Nonvolatile salts generally stay in the boiling vessel.",
+      "d": "Easy",
+      "topic": "Distilled water",
+      "slo": "Identify, explain or apply the concept of distilled water."
+    },
+    {
+      "id": "CHEM9CH12-014",
+      "q": "For a Class 9 water-chemistry revision test, why are detergents sometimes a concern in water pollution?",
+      "o": [
+        "They always remove all pollutants",
+        "They convert sewage to drinking water instantly",
+        "They are all harmless at any concentration",
+        "Some formulations contribute surfactants or phosphates"
+      ],
+      "a": 3,
+      "e": "Detergent components can affect aquatic environments and nutrient loading.",
+      "d": "Medium",
+      "topic": "Water pollution",
+      "slo": "Identify, explain or apply the concept of water pollution."
+    },
+    {
+      "id": "CHEM9CH12-015",
+      "q": "For a Class 9 water-chemistry revision test, which bond joins hydrogen to oxygen within a water molecule?",
+      "o": [
+        "Metallic bond",
+        "Polar covalent bond",
+        "Hydrogen bond only",
+        "Purely ionic bond"
+      ],
+      "a": 1,
+      "e": "O–H bonds are polar covalent.",
+      "d": "Medium",
+      "topic": "Properties of water",
+      "slo": "Identify, explain or apply the concept of properties of water."
+    },
+    {
+      "id": "CHEM9CH12-016",
+      "q": "Which is an example of household wastewater?",
+      "o": [
+        "Freshly distilled laboratory water",
+        "Pure rain forming in clouds",
+        "Water from sinks and washing",
+        "Glacial ice before melting"
+      ],
+      "a": 2,
+      "e": "Domestic wastewater includes used water from homes.",
+      "d": "Easy",
+      "topic": "Water pollution",
+      "slo": "Identify, explain or apply the concept of water pollution."
+    },
+    {
+      "id": "CHEM9CH12-017",
+      "q": "For a Class 9 water-chemistry revision test, why may dissolved oxygen decrease after a large algal bloom dies?",
+      "o": [
+        "Oxygen becomes a metal",
+        "Decomposers consume oxygen",
+        "Sunlight turns into salt",
+        "All water becomes ice"
+      ],
+      "a": 1,
+      "e": "Microbial decomposition uses dissolved oxygen.",
+      "d": "Medium",
+      "topic": "Eutrophication",
+      "slo": "Identify, explain or apply the concept of eutrophication."
+    },
+    {
+      "id": "CHEM9CH12-018",
+      "q": "At standard atmospheric pressure, what is the freezing point of pure water?",
+      "o": [
+        "100 °C",
+        "0 °C",
+        "25 °C",
+        "50 °C"
+      ],
+      "a": 1,
+      "e": "Pure water freezes at approximately 0 °C at 1 atm.",
+      "d": "Easy",
+      "topic": "Properties of water",
+      "slo": "Identify, explain or apply the concept of properties of water."
+    },
+    {
+      "id": "CHEM9CH12-019",
+      "q": "For a Class 9 water-chemistry revision test, what role does water play in human temperature regulation?",
+      "o": [
+        "It eliminates metabolism",
+        "It prevents all heat transfer",
+        "Sweat evaporation removes heat",
+        "It turns blood into ice"
+      ],
+      "a": 2,
+      "e": "Evaporation of sweat cools the body.",
+      "d": "Medium",
+      "topic": "Water in life",
+      "slo": "Identify, explain or apply the concept of water in life."
+    },
+    {
+      "id": "CHEM9CH12-020",
+      "q": "Which state of water has a fixed shape?",
+      "o": [
+        "Steam",
+        "Water vapour",
+        "Ice",
+        "Liquid water"
+      ],
+      "a": 2,
+      "e": "Ice is solid and has a definite shape.",
+      "d": "Easy",
+      "topic": "Properties of water",
+      "slo": "Identify, explain or apply the concept of properties of water."
+    },
+    {
+      "id": "CHEM9CH12-021",
+      "q": "Which is a point source of water pollution?",
+      "o": [
+        "Diffuse runoff from many fields",
+        "An identifiable factory discharge pipe",
+        "Rainfall across a whole region",
+        "Wind over the ocean"
+      ],
+      "a": 1,
+      "e": "A point source has a specific identifiable discharge location.",
+      "d": "Easy",
+      "topic": "Water pollution",
+      "slo": "Identify, explain or apply the concept of water pollution."
+    },
+    {
+      "id": "CHEM9CH12-022",
+      "q": "What is a disadvantage of excessive groundwater extraction?",
+      "o": [
+        "Permanent elimination of drought",
+        "Guaranteed aquifer recharge",
+        "Falling groundwater levels",
+        "Instantly purified water"
+      ],
+      "a": 2,
+      "e": "Pumping faster than recharge can lower groundwater tables.",
+      "d": "Easy",
+      "topic": "Water resources",
+      "slo": "Identify, explain or apply the concept of water resources."
+    },
+    {
+      "id": "CHEM9CH12-023",
+      "q": "What does potable water mean?",
+      "o": [
+        "Water suitable for drinking",
+        "Water that must be salty",
+        "Water that cannot be treated",
+        "Water containing any amount of poison"
+      ],
+      "a": 0,
+      "e": "Potable water meets drinking-water safety requirements.",
+      "d": "Easy",
+      "topic": "Drinking water",
+      "slo": "Identify, explain or apply the concept of drinking water."
+    },
+    {
+      "id": "CHEM9CH12-024",
+      "q": "Which term describes dissolved calcium and magnesium ions in water?",
+      "o": [
+        "Hardness",
+        "Turbidity",
+        "Volatility",
+        "Colourlessness"
+      ],
+      "a": 0,
+      "e": "Calcium and magnesium ions are the principal causes of water hardness.",
+      "d": "Easy",
+      "topic": "Water hardness",
+      "slo": "Identify, explain or apply the concept of water hardness."
+    },
+    {
+      "id": "CHEM9CH12-025",
+      "q": "For a Class 9 water-chemistry revision test, which activity commonly increases nutrient runoff into lakes?",
+      "o": [
+        "Filtering pure water",
+        "Excessive fertilizer use",
+        "Using a clean glass bottle",
+        "Distilling water"
+      ],
+      "a": 1,
+      "e": "Fertilizer nutrients can wash into water bodies.",
+      "d": "Medium",
+      "topic": "Water pollution",
+      "slo": "Identify, explain or apply the concept of water pollution."
+    },
+    {
+      "id": "CHEM9CH12-026",
+      "q": "For a Class 9 water-chemistry revision test, how is distilled water obtained?",
+      "o": [
+        "By freezing seawater without separation",
+        "By evaporation followed by condensation",
+        "By mixing soil into water",
+        "By adding table salt"
+      ],
+      "a": 1,
+      "e": "Water vapour is condensed to separate water from nonvolatile impurities.",
+      "d": "Medium",
+      "topic": "Distilled water",
+      "slo": "Identify, explain or apply the concept of distilled water."
+    },
+    {
+      "id": "CHEM9CH12-027",
+      "q": "What is groundwater?",
+      "o": [
+        "Only water in clouds",
+        "Water stored beneath Earth's surface in pores and fractures",
+        "Water found only in glaciers",
+        "Only ocean surface water"
+      ],
+      "a": 1,
+      "e": "Groundwater occupies pore spaces and fractures below ground.",
+      "d": "Easy",
+      "topic": "Water resources",
+      "slo": "Identify, explain or apply the concept of water resources."
+    },
+    {
+      "id": "CHEM9CH12-028",
+      "q": "For a Class 9 water-chemistry revision test, what does potable water mean?",
+      "o": [
+        "Water suitable for drinking",
+        "Water containing any amount of poison",
+        "Water that cannot be treated",
+        "Water that must be salty"
+      ],
+      "a": 0,
+      "e": "Potable water meets drinking-water safety requirements.",
+      "d": "Medium",
+      "topic": "Drinking water",
+      "slo": "Identify, explain or apply the concept of drinking water."
+    },
+    {
+      "id": "CHEM9CH12-029",
+      "q": "What is a common effect of industrial wastewater?",
+      "o": [
+        "Introduction of harmful chemicals or metals",
+        "Conversion of all water to ice",
+        "Automatic sterilization of rivers",
+        "Elimination of dissolved substances"
+      ],
+      "a": 0,
+      "e": "Industrial effluents can carry toxic chemicals and heavy metals.",
+      "d": "Easy",
+      "topic": "Water pollution",
+      "slo": "Identify, explain or apply the concept of water pollution."
+    },
+    {
+      "id": "CHEM9CH12-030",
+      "q": "For a Class 9 water-chemistry revision test, does boiling remove dissolved heavy metals from water?",
+      "o": [
+        "Yes, metals turn into oxygen",
+        "Yes, boiling always makes polluted water chemically pure",
+        "Yes, all metals evaporate instantly",
+        "No, boiling does not reliably remove dissolved heavy metals"
+      ],
+      "a": 3,
+      "e": "Boiling addresses many microbes but not dissolved toxic metals.",
+      "d": "Medium",
+      "topic": "Water treatment",
+      "slo": "Identify, explain or apply the concept of water treatment."
+    },
+    {
+      "id": "CHEM9CH12-031",
+      "q": "For a Class 9 water-chemistry revision test, what change converts ice to liquid water?",
+      "o": [
+        "Condensation",
+        "Melting",
+        "Deposition",
+        "Boiling"
+      ],
+      "a": 1,
+      "e": "Melting changes solid ice into liquid water.",
+      "d": "Medium",
+      "topic": "Properties of water",
+      "slo": "Identify, explain or apply the concept of properties of water."
+    },
+    {
+      "id": "CHEM9CH12-032",
+      "q": "What is a risk when water supply pipes leak near sewage lines?",
+      "o": [
+        "Contaminants may enter the drinking-water system",
+        "Water becomes distilled automatically",
+        "Hardness disappears permanently",
+        "All pathogens die instantly"
+      ],
+      "a": 0,
+      "e": "Leaks and pressure loss can allow contaminated water to enter pipes.",
+      "d": "Easy",
+      "topic": "Drinking water",
+      "slo": "Identify, explain or apply the concept of drinking water."
+    },
+    {
+      "id": "CHEM9CH12-033",
+      "q": "For a Class 9 water-chemistry revision test, what does a high BOD usually suggest?",
+      "o": [
+        "Perfectly sterile water",
+        "A high load of biodegradable organic pollution",
+        "No organic material",
+        "Zero microbial activity in all cases"
+      ],
+      "a": 1,
+      "e": "Organic waste raises oxygen demand during decomposition.",
+      "d": "Medium",
+      "topic": "Water quality",
+      "slo": "Identify, explain or apply the concept of water quality."
+    },
+    {
+      "id": "CHEM9CH12-034",
+      "q": "What is the best general strategy for protecting a drinking-water source?",
+      "o": [
+        "Allow unrestricted dumping",
+        "Prevent pollution, monitor quality and treat when necessary",
+        "Rely on taste alone",
+        "Avoid sanitation"
+      ],
+      "a": 1,
+      "e": "Source protection, testing and treatment work together to reduce risks.",
+      "d": "Easy",
+      "topic": "Drinking water",
+      "slo": "Identify, explain or apply the concept of drinking water."
+    },
+    {
+      "id": "CHEM9CH12-035",
+      "q": "For a Class 9 water-chemistry revision test, what is an advantage of soft water for washing?",
+      "o": [
+        "It always contains more calcium",
+        "Soap lathers more easily",
+        "It contains no molecules",
+        "It always forms scale faster"
+      ],
+      "a": 1,
+      "e": "Less soap is consumed when hardness ions are absent or reduced.",
+      "d": "Medium",
+      "topic": "Water hardness",
+      "slo": "Identify, explain or apply the concept of water hardness."
+    },
+    {
+      "id": "CHEM9CH12-036",
+      "q": "For a Class 9 water-chemistry revision test, which function of water helps transport nutrients in the body?",
+      "o": [
+        "It blocks circulation",
+        "It replaces red blood cells with sand",
+        "It serves as a major component of blood plasma",
+        "It destroys dissolved ions"
+      ],
+      "a": 2,
+      "e": "Water in plasma carries dissolved nutrients and waste products.",
+      "d": "Medium",
+      "topic": "Water in life",
+      "slo": "Identify, explain or apply the concept of water in life."
+    },
+    {
+      "id": "CHEM9CH12-037",
+      "q": "Which water pollutant can enter rivers from mining operations?",
+      "o": [
+        "Only clean ice",
+        "Heavy metals",
+        "Only distilled water",
+        "Only pure oxygen"
+      ],
+      "a": 1,
+      "e": "Mining runoff may carry metals and acidic drainage.",
+      "d": "Easy",
+      "topic": "Water pollution",
+      "slo": "Identify, explain or apply the concept of water pollution."
+    },
+    {
+      "id": "CHEM9CH12-038",
+      "q": "What is eutrophication?",
+      "o": [
+        "Nutrient enrichment that can cause excessive algal growth",
+        "Evaporation of pure water",
+        "Removal of all dissolved nutrients",
+        "Freezing of rivers"
+      ],
+      "a": 0,
+      "e": "Excess nutrients may cause algal blooms and oxygen depletion.",
+      "d": "Easy",
+      "topic": "Eutrophication",
+      "slo": "Identify, explain or apply the concept of eutrophication."
+    },
+    {
+      "id": "CHEM9CH12-039",
+      "q": "Which method can make seawater suitable for drinking by removing salts?",
+      "o": [
+        "Adding fertilizer",
+        "Ordinary sedimentation alone",
+        "Simple cloth straining",
+        "Desalination"
+      ],
+      "a": 3,
+      "e": "Desalination removes dissolved salts from saline water.",
+      "d": "Easy",
+      "topic": "Water resources",
+      "slo": "Identify, explain or apply the concept of water resources."
+    },
+    {
+      "id": "CHEM9CH12-040",
+      "q": "For a Class 9 water-chemistry revision test, what does colourless mean when describing pure water?",
+      "o": [
+        "It is always blue in a glass",
+        "It emits white light",
+        "It has no intrinsic visible colour in small quantities",
+        "It contains dye"
+      ],
+      "a": 2,
+      "e": "A small sample of pure water appears colourless.",
+      "d": "Medium",
+      "topic": "Properties of water",
+      "slo": "Identify, explain or apply the concept of properties of water."
+    },
+    {
+      "id": "CHEM9CH12-041",
+      "q": "What does water pollution control aim to protect?",
+      "o": [
+        "Only the colour of containers",
+        "Human health and aquatic ecosystems",
+        "Only water's chemical formula",
+        "Only industrial production"
+      ],
+      "a": 1,
+      "e": "Pollution control reduces risks to people and aquatic environments.",
+      "d": "Easy",
+      "topic": "Pollution prevention",
+      "slo": "Identify, explain or apply the concept of pollution prevention."
+    },
+    {
+      "id": "CHEM9CH12-042",
+      "q": "What does water turbidity indicate?",
+      "o": [
+        "Cloudiness caused by suspended particles",
+        "Amount of oxygen atoms in H2O",
+        "Number of neutrons",
+        "Water's exact boiling point"
+      ],
+      "a": 0,
+      "e": "Turbidity describes the cloudiness of water.",
+      "d": "Easy",
+      "topic": "Water quality",
+      "slo": "Identify, explain or apply the concept of water quality."
+    },
+    {
+      "id": "CHEM9CH12-043",
+      "q": "What is meant by drinking water?",
+      "o": [
+        "Any coloured water",
+        "Any saline solution",
+        "Water containing sewage",
+        "Water safe for human consumption"
+      ],
+      "a": 3,
+      "e": "Drinking water should meet safety standards for human consumption.",
+      "d": "Easy",
+      "topic": "Drinking water",
+      "slo": "Identify, explain or apply the concept of drinking water."
+    },
+    {
+      "id": "CHEM9CH12-044",
+      "q": "For a Class 9 water-chemistry revision test, why are fertilizers valuable when applied correctly?",
+      "o": [
+        "They replace irrigation",
+        "They remove all soil organisms",
+        "They supply nutrients needed for plant growth",
+        "They always sterilize drinking water"
+      ],
+      "a": 2,
+      "e": "Fertilizers provide essential plant nutrients.",
+      "d": "Medium",
+      "topic": "Fertilizers",
+      "slo": "Identify, explain or apply the concept of fertilizers."
+    },
+    {
+      "id": "CHEM9CH12-045",
+      "q": "Which activity commonly increases nutrient runoff into lakes?",
+      "o": [
+        "Excessive fertilizer use",
+        "Using a clean glass bottle",
+        "Filtering pure water",
+        "Distilling water"
+      ],
+      "a": 0,
+      "e": "Fertilizer nutrients can wash into water bodies.",
+      "d": "Easy",
+      "topic": "Water pollution",
+      "slo": "Identify, explain or apply the concept of water pollution."
+    },
+    {
+      "id": "CHEM9CH12-046",
+      "q": "For a Class 9 water-chemistry revision test, why is screening used early in water treatment?",
+      "o": [
+        "To sterilize all viruses",
+        "To remove large debris",
+        "To destroy all dissolved salts",
+        "To raise pH to 14"
+      ],
+      "a": 1,
+      "e": "Screens intercept large objects before later treatment steps.",
+      "d": "Medium",
+      "topic": "Water treatment",
+      "slo": "Identify, explain or apply the concept of water treatment."
+    },
+    {
+      "id": "CHEM9CH12-047",
+      "q": "Why may dissolved oxygen decrease after a large algal bloom dies?",
+      "o": [
+        "Decomposers consume oxygen",
+        "All water becomes ice",
+        "Oxygen becomes a metal",
+        "Sunlight turns into salt"
+      ],
+      "a": 0,
+      "e": "Microbial decomposition uses dissolved oxygen.",
+      "d": "Easy",
+      "topic": "Eutrophication",
+      "slo": "Identify, explain or apply the concept of eutrophication."
+    },
+    {
+      "id": "CHEM9CH12-048",
+      "q": "Which function of water helps transport nutrients in the body?",
+      "o": [
+        "It replaces red blood cells with sand",
+        "It serves as a major component of blood plasma",
+        "It destroys dissolved ions",
+        "It blocks circulation"
+      ],
+      "a": 1,
+      "e": "Water in plasma carries dissolved nutrients and waste products.",
+      "d": "Easy",
+      "topic": "Water in life",
+      "slo": "Identify, explain or apply the concept of water in life."
+    },
+    {
+      "id": "CHEM9CH12-049",
+      "q": "For a Class 9 water-chemistry revision test, what change converts liquid water to water vapour?",
+      "o": [
+        "Evaporation",
+        "Deposition",
+        "Condensation",
+        "Freezing"
+      ],
+      "a": 0,
+      "e": "Evaporation changes liquid water into gas.",
+      "d": "Medium",
+      "topic": "Properties of water",
+      "slo": "Identify, explain or apply the concept of properties of water."
+    },
+    {
+      "id": "CHEM9CH12-050",
+      "q": "Which practice conserves freshwater at home?",
+      "o": [
+        "Ignore pipe leaks",
+        "Leave taps running continuously",
+        "Wash pavements with constant flow",
+        "Repair leaking taps"
+      ],
+      "a": 3,
+      "e": "Fixing leaks reduces unnecessary freshwater use.",
+      "d": "Easy",
+      "topic": "Water conservation",
+      "slo": "Identify, explain or apply the concept of water conservation."
+    },
+    {
+      "id": "CHEM9CH12-051",
+      "q": "How can farms reduce nutrient runoff?",
+      "o": [
+        "Remove all vegetation near rivers",
+        "Apply fertilizers at appropriate rates and times",
+        "Direct manure into streams",
+        "Apply unlimited fertilizer before heavy rain"
+      ],
+      "a": 1,
+      "e": "Good nutrient management reduces excess nitrogen and phosphorus runoff.",
+      "d": "Easy",
+      "topic": "Pollution prevention",
+      "slo": "Identify, explain or apply the concept of pollution prevention."
+    },
+    {
+      "id": "CHEM9CH12-052",
+      "q": "For a Class 9 water-chemistry revision test, what change converts water vapour into liquid water?",
+      "o": [
+        "Sublimation",
+        "Melting",
+        "Condensation",
+        "Freezing"
+      ],
+      "a": 2,
+      "e": "Condensation is the gas-to-liquid change.",
+      "d": "Medium",
+      "topic": "Properties of water",
+      "slo": "Identify, explain or apply the concept of properties of water."
+    },
+    {
+      "id": "CHEM9CH12-053",
+      "q": "Which action best reduces household water pollution?",
+      "o": [
+        "Discard medicines into rivers",
+        "Release raw sewage",
+        "Dispose of oils and chemicals responsibly",
+        "Pour motor oil into drains"
+      ],
+      "a": 2,
+      "e": "Responsible waste disposal prevents harmful substances entering drains and waterways.",
+      "d": "Easy",
+      "topic": "Pollution prevention",
+      "slo": "Identify, explain or apply the concept of pollution prevention."
+    },
+    {
+      "id": "CHEM9CH12-054",
+      "q": "For a Class 9 water-chemistry revision test, which laboratory apparatus collects the condensed liquid during distillation?",
+      "o": [
+        "Bunsen burner",
+        "Evaporating dish only",
+        "Filter paper",
+        "Receiving flask"
+      ],
+      "a": 3,
+      "e": "The receiver collects the distillate.",
+      "d": "Medium",
+      "topic": "Distilled water",
+      "slo": "Identify, explain or apply the concept of distilled water."
+    },
+    {
+      "id": "CHEM9CH12-055",
+      "q": "For a Class 9 water-chemistry revision test, why does ice float on liquid water?",
+      "o": [
+        "Ice is more dense than liquid water",
+        "Ice is always warmer",
+        "Ice is less dense than liquid water",
+        "Ice contains no oxygen"
+      ],
+      "a": 2,
+      "e": "The open structure of ice lowers its density.",
+      "d": "Medium",
+      "topic": "Properties of water",
+      "slo": "Identify, explain or apply the concept of properties of water."
+    },
+    {
+      "id": "CHEM9CH12-056",
+      "q": "Which water is more likely to support healthy fish populations?",
+      "o": [
+        "Water with no dissolved oxygen",
+        "Water with adequate dissolved oxygen",
+        "Water with severe oil pollution",
+        "Water saturated with untreated sewage"
+      ],
+      "a": 1,
+      "e": "Aquatic animals need sufficient dissolved oxygen.",
+      "d": "Easy",
+      "topic": "Water quality",
+      "slo": "Identify, explain or apply the concept of water quality."
+    },
+    {
+      "id": "CHEM9CH12-057",
+      "q": "Which source is usually saline rather than freshwater?",
+      "o": [
+        "Melted snow",
+        "Seawater",
+        "Rainwater",
+        "Most mountain springs"
+      ],
+      "a": 1,
+      "e": "Seawater contains a high concentration of dissolved salts.",
+      "d": "Easy",
+      "topic": "Water resources",
+      "slo": "Identify, explain or apply the concept of water resources."
+    },
+    {
+      "id": "CHEM9CH12-058",
+      "q": "Which action most directly prevents plastic waste entering waterways?",
+      "o": [
+        "Proper collection and disposal of plastic waste",
+        "Dumping plastics into drains",
+        "Burning plastics beside streams",
+        "Leaving litter near storm drains"
+      ],
+      "a": 0,
+      "e": "Good waste management reduces plastic leakage into waterways.",
+      "d": "Easy",
+      "topic": "Pollution prevention",
+      "slo": "Identify, explain or apply the concept of pollution prevention."
+    },
+    {
+      "id": "CHEM9CH12-059",
+      "q": "Which treatment step kills or inactivates many microorganisms?",
+      "o": [
+        "Sieving only",
+        "Decantation only",
+        "Sedimentation alone",
+        "Disinfection"
+      ],
+      "a": 3,
+      "e": "Disinfection reduces microbial hazards.",
+      "d": "Easy",
+      "topic": "Water treatment",
+      "slo": "Identify, explain or apply the concept of water treatment."
+    },
+    {
+      "id": "CHEM9CH12-060",
+      "q": "For a Class 9 water-chemistry revision test, why is untreated river water not automatically safe for drinking?",
+      "o": [
+        "It cannot contain suspended matter",
+        "It always has pH 7",
+        "It may contain microbes and chemical contaminants",
+        "Rivers contain no dissolved substances"
+      ],
+      "a": 2,
+      "e": "Natural water may carry biological and chemical hazards.",
+      "d": "Medium",
+      "topic": "Drinking water",
+      "slo": "Identify, explain or apply the concept of drinking water."
+    },
+    {
+      "id": "CHEM9CH12-061",
+      "q": "For a Class 9 water-chemistry revision test, what is an aquifer?",
+      "o": [
+        "A cloud containing rain",
+        "A chemical disinfectant",
+        "A geological layer that stores and transmits groundwater",
+        "A type of wastewater pipe"
+      ],
+      "a": 2,
+      "e": "Aquifers contain permeable material through which groundwater can move.",
+      "d": "Medium",
+      "topic": "Water resources",
+      "slo": "Identify, explain or apply the concept of water resources."
+    },
+    {
+      "id": "CHEM9CH12-062",
+      "q": "For a Class 9 water-chemistry revision test, what is groundwater?",
+      "o": [
+        "Water stored beneath Earth's surface in pores and fractures",
+        "Only ocean surface water",
+        "Water found only in glaciers",
+        "Only water in clouds"
+      ],
+      "a": 0,
+      "e": "Groundwater occupies pore spaces and fractures below ground.",
+      "d": "Medium",
+      "topic": "Water resources",
+      "slo": "Identify, explain or apply the concept of water resources."
+    },
+    {
+      "id": "CHEM9CH12-063",
+      "q": "Which treatment can remove much temporary hardness?",
+      "o": [
+        "Adding oil",
+        "Boiling",
+        "Adding more calcium salts",
+        "Cooling to room temperature only"
+      ],
+      "a": 1,
+      "e": "Heating decomposes hydrogencarbonates and can precipitate hardness-forming solids.",
+      "d": "Easy",
+      "topic": "Water hardness",
+      "slo": "Identify, explain or apply the concept of water hardness."
+    },
+    {
+      "id": "CHEM9CH12-064",
+      "q": "For a Class 9 water-chemistry revision test, what is the solute in a saltwater solution?",
+      "o": [
+        "Dissolved salt",
+        "Water vapour",
+        "The beaker",
+        "Water"
+      ],
+      "a": 0,
+      "e": "The solute is the substance dissolved in the solvent.",
+      "d": "Medium",
+      "topic": "Properties of water",
+      "slo": "Identify, explain or apply the concept of properties of water."
+    },
+    {
+      "id": "CHEM9CH12-065",
+      "q": "Which industrial practice helps protect water bodies?",
+      "o": [
+        "Hide spills",
+        "Discharge untreated chemicals directly",
+        "Treat effluent before discharge",
+        "Mix toxic waste with drinking water"
+      ],
+      "a": 2,
+      "e": "Effluent treatment reduces harmful contaminants before release.",
+      "d": "Easy",
+      "topic": "Pollution prevention",
+      "slo": "Identify, explain or apply the concept of pollution prevention."
+    },
+    {
+      "id": "CHEM9CH12-066",
+      "q": "For a Class 9 water-chemistry revision test, which disease can spread through fecally contaminated water?",
+      "o": [
+        "Asthma",
+        "Typhoid fever",
+        "Scurvy",
+        "Rickets"
+      ],
+      "a": 1,
+      "e": "Typhoid can spread by contaminated food and water.",
+      "d": "Medium",
+      "topic": "Waterborne diseases",
+      "slo": "Identify, explain or apply the concept of waterborne diseases."
+    },
+    {
+      "id": "CHEM9CH12-067",
+      "q": "What is the purpose of testing water hardness?",
+      "o": [
+        "Measure sunlight intensity",
+        "Count dissolved oxygen molecules exactly",
+        "Identify all viruses",
+        "Estimate calcium and magnesium content"
+      ],
+      "a": 3,
+      "e": "Hardness tests assess calcium and magnesium ions in water.",
+      "d": "Easy",
+      "topic": "Water hardness",
+      "slo": "Identify, explain or apply the concept of water hardness."
+    },
+    {
+      "id": "CHEM9CH12-068",
+      "q": "For a Class 9 water-chemistry revision test, which form of water is most suitable for making solutions requiring minimal impurities?",
+      "o": [
+        "Untreated wastewater",
+        "Seawater",
+        "Muddy water",
+        "Distilled water"
+      ],
+      "a": 3,
+      "e": "Distillation removes many nonvolatile dissolved substances.",
+      "d": "Medium",
+      "topic": "Distilled water",
+      "slo": "Identify, explain or apply the concept of distilled water."
+    },
+    {
+      "id": "CHEM9CH12-069",
+      "q": "For a Class 9 water-chemistry revision test, what does evaporation contribute to the water cycle?",
+      "o": [
+        "Production of metallic hydrogen",
+        "Transfer of liquid water to atmospheric vapour",
+        "Removal of the atmosphere",
+        "Permanent destruction of water molecules"
+      ],
+      "a": 1,
+      "e": "Solar energy drives evaporation from water surfaces.",
+      "d": "Medium",
+      "topic": "Water cycle",
+      "slo": "Identify, explain or apply the concept of water cycle."
+    },
+    {
+      "id": "CHEM9CH12-070",
+      "q": "For a Class 9 water-chemistry revision test, which water is more likely to support healthy fish populations?",
+      "o": [
+        "Water with no dissolved oxygen",
+        "Water with severe oil pollution",
+        "Water with adequate dissolved oxygen",
+        "Water saturated with untreated sewage"
+      ],
+      "a": 2,
+      "e": "Aquatic animals need sufficient dissolved oxygen.",
+      "d": "Medium",
+      "topic": "Water quality",
+      "slo": "Identify, explain or apply the concept of water quality."
+    },
+    {
+      "id": "CHEM9CH12-071",
+      "q": "What commonly causes permanent hardness?",
+      "o": [
+        "Calcium and magnesium sulfates or chlorides",
+        "Dissolved oxygen only",
+        "Water vapour",
+        "Pure ice"
+      ],
+      "a": 0,
+      "e": "Sulfates and chlorides of calcium and magnesium produce permanent hardness.",
+      "d": "Easy",
+      "topic": "Water hardness",
+      "slo": "Identify, explain or apply the concept of water hardness."
+    },
+    {
+      "id": "CHEM9CH12-072",
+      "q": "What is the purpose of a clean-water distribution network?",
+      "o": [
+        "Increase leaks intentionally",
+        "Add sediment after treatment",
+        "Transport raw sewage into homes",
+        "Deliver treated water to users while limiting contamination"
+      ],
+      "a": 3,
+      "e": "Distribution systems convey treated water and should protect its quality.",
+      "d": "Easy",
+      "topic": "Drinking water",
+      "slo": "Identify, explain or apply the concept of drinking water."
+    },
+    {
+      "id": "CHEM9CH12-073",
+      "q": "What is the main purpose of a water reservoir?",
+      "o": [
+        "Increase untreated runoff",
+        "Generate sewage intentionally",
+        "Store water for later supply or use",
+        "Prevent all evaporation permanently"
+      ],
+      "a": 2,
+      "e": "Reservoirs store surface water for domestic, agricultural or industrial use.",
+      "d": "Easy",
+      "topic": "Water resources",
+      "slo": "Identify, explain or apply the concept of water resources."
+    },
+    {
+      "id": "CHEM9CH12-074",
+      "q": "Which water treatment stage commonly follows coagulation and flocculation?",
+      "o": [
+        "Electroplating",
+        "Combustion",
+        "Freezing",
+        "Sedimentation"
+      ],
+      "a": 3,
+      "e": "Formed flocs settle in a sedimentation basin.",
+      "d": "Easy",
+      "topic": "Water treatment",
+      "slo": "Identify, explain or apply the concept of water treatment."
+    },
+    {
+      "id": "CHEM9CH12-075",
+      "q": "What is an algal bloom?",
+      "o": [
+        "Rapid excessive growth of algae",
+        "Formation of metallic crystals",
+        "A cloud of water vapour",
+        "The freezing of a lake"
+      ],
+      "a": 0,
+      "e": "Nutrient-rich water can support rapid algal proliferation.",
+      "d": "Easy",
+      "topic": "Eutrophication",
+      "slo": "Identify, explain or apply the concept of eutrophication."
+    },
+    {
+      "id": "CHEM9CH12-076",
+      "q": "For a Class 9 water-chemistry revision test, which toxic element may contaminate groundwater and cause chronic health problems?",
+      "o": [
+        "Argon",
+        "Neon",
+        "Helium",
+        "Arsenic"
+      ],
+      "a": 3,
+      "e": "Long-term arsenic exposure through drinking water can cause serious illness.",
+      "d": "Medium",
+      "topic": "Water pollution",
+      "slo": "Identify, explain or apply the concept of water pollution."
+    },
+    {
+      "id": "CHEM9CH12-077",
+      "q": "For a Class 9 water-chemistry revision test, which is an example of household wastewater?",
+      "o": [
+        "Freshly distilled laboratory water",
+        "Glacial ice before melting",
+        "Pure rain forming in clouds",
+        "Water from sinks and washing"
+      ],
+      "a": 3,
+      "e": "Domestic wastewater includes used water from homes.",
+      "d": "Medium",
+      "topic": "Water pollution",
+      "slo": "Identify, explain or apply the concept of water pollution."
+    },
+    {
+      "id": "CHEM9CH12-078",
+      "q": "What is an advantage of soft water for washing?",
+      "o": [
+        "It contains no molecules",
+        "Soap lathers more easily",
+        "It always contains more calcium",
+        "It always forms scale faster"
+      ],
+      "a": 1,
+      "e": "Less soap is consumed when hardness ions are absent or reduced.",
+      "d": "Easy",
+      "topic": "Water hardness",
+      "slo": "Identify, explain or apply the concept of water hardness."
+    },
+    {
+      "id": "CHEM9CH12-079",
+      "q": "What is a major cause of water scarcity in some regions?",
+      "o": [
+        "Normal condensation in clouds",
+        "The presence of water molecules",
+        "The existence of oceans alone",
+        "Drought combined with high demand"
+      ],
+      "a": 3,
+      "e": "Low rainfall and excessive demand can reduce accessible water supplies.",
+      "d": "Easy",
+      "topic": "Water resources",
+      "slo": "Identify, explain or apply the concept of water resources."
+    },
+    {
+      "id": "CHEM9CH12-080",
+      "q": "For a Class 9 water-chemistry revision test, which property makes pure water suitable for many laboratory uses?",
+      "o": [
+        "It contains suspended clay",
+        "It contains seawater salts",
+        "It is always acidic",
+        "It contains few dissolved impurities"
+      ],
+      "a": 3,
+      "e": "Pure water minimizes interference from contaminants.",
+      "d": "Medium",
+      "topic": "Properties of water",
+      "slo": "Identify, explain or apply the concept of properties of water."
+    },
+    {
+      "id": "CHEM9CH12-081",
+      "q": "For a Class 9 water-chemistry revision test, how can an oil spill harm aquatic ecosystems?",
+      "o": [
+        "By increasing photosynthesis everywhere",
+        "By making seawater potable",
+        "By coating organisms and limiting gas exchange or light penetration",
+        "By converting oil into oxygen"
+      ],
+      "a": 2,
+      "e": "Oil can coat wildlife and disrupt oxygen transfer and light availability.",
+      "d": "Medium",
+      "topic": "Water pollution",
+      "slo": "Identify, explain or apply the concept of water pollution."
+    },
+    {
+      "id": "CHEM9CH12-082",
+      "q": "For a Class 9 water-chemistry revision test, which term describes dissolved calcium and magnesium ions in water?",
+      "o": [
+        "Volatility",
+        "Colourlessness",
+        "Hardness",
+        "Turbidity"
+      ],
+      "a": 2,
+      "e": "Calcium and magnesium ions are the principal causes of water hardness.",
+      "d": "Medium",
+      "topic": "Water hardness",
+      "slo": "Identify, explain or apply the concept of water hardness."
+    },
+    {
+      "id": "CHEM9CH12-083",
+      "q": "What is precipitation in the water cycle?",
+      "o": [
+        "Water forming soap scum",
+        "Water falling from clouds as rain, snow or hail",
+        "Water dissolving table salt",
+        "Water passing through filter paper"
+      ],
+      "a": 1,
+      "e": "Precipitation transfers water from the atmosphere to the surface.",
+      "d": "Easy",
+      "topic": "Water cycle",
+      "slo": "Identify, explain or apply the concept of water cycle."
+    },
+    {
+      "id": "CHEM9CH12-084",
+      "q": "Which is an example of non-point-source pollution?",
+      "o": [
+        "Agricultural runoff across many fields",
+        "One factory drain",
+        "One broken tanker outlet",
+        "One sewage outlet pipe"
+      ],
+      "a": 0,
+      "e": "Diffuse runoff comes from widespread land areas.",
+      "d": "Easy",
+      "topic": "Water pollution",
+      "slo": "Identify, explain or apply the concept of water pollution."
+    },
+    {
+      "id": "CHEM9CH12-085",
+      "q": "What is the difference between freshwater and seawater?",
+      "o": [
+        "Seawater generally has much higher dissolved salt content",
+        "Freshwater is always sterile",
+        "Freshwater contains no H2O",
+        "Seawater contains no oxygen atoms"
+      ],
+      "a": 0,
+      "e": "Salinity is substantially higher in seawater than in most freshwater.",
+      "d": "Easy",
+      "topic": "Water resources",
+      "slo": "Identify, explain or apply the concept of water resources."
+    },
+    {
+      "id": "CHEM9CH12-086",
+      "q": "What causes temporary hardness of water?",
+      "o": [
+        "Calcium and magnesium hydrogencarbonates",
+        "Pure water molecules",
+        "Dissolved nitrogen alone",
+        "Sodium chloride alone"
+      ],
+      "a": 0,
+      "e": "Temporary hardness is associated with soluble hydrogencarbonates.",
+      "d": "Easy",
+      "topic": "Water hardness",
+      "slo": "Identify, explain or apply the concept of water hardness."
+    },
+    {
+      "id": "CHEM9CH12-087",
+      "q": "What does conservation of water in farming often involve?",
+      "o": [
+        "Efficient irrigation methods",
+        "Flooding every field continuously",
+        "Ignoring soil moisture",
+        "Irrigating only during heavy rain"
+      ],
+      "a": 0,
+      "e": "Efficient irrigation can reduce losses while supporting crops.",
+      "d": "Easy",
+      "topic": "Water conservation",
+      "slo": "Identify, explain or apply the concept of water conservation."
+    },
+    {
+      "id": "CHEM9CH12-088",
+      "q": "For a Class 9 water-chemistry revision test, what is the main risk of pesticide runoff into water bodies?",
+      "o": [
+        "Complete removal of nutrients",
+        "Guaranteed improvement of drinking water",
+        "Toxic effects on aquatic organisms",
+        "Formation of distilled water"
+      ],
+      "a": 2,
+      "e": "Some pesticides are toxic to aquatic life and may persist in the environment.",
+      "d": "Medium",
+      "topic": "Water pollution",
+      "slo": "Identify, explain or apply the concept of water pollution."
+    },
+    {
+      "id": "CHEM9CH12-089",
+      "q": "What is the purpose of a control sample in a water-quality experiment?",
+      "o": [
+        "Make results impossible to interpret",
+        "Provide a reference for comparison",
+        "Replace all measurements",
+        "Introduce unknown contamination"
+      ],
+      "a": 1,
+      "e": "A control supports meaningful comparison with test samples.",
+      "d": "Easy",
+      "topic": "Water quality",
+      "slo": "Identify, explain or apply the concept of water quality."
+    },
+    {
+      "id": "CHEM9CH12-090",
+      "q": "Why should drinking water be stored in covered clean containers?",
+      "o": [
+        "To encourage dust entry",
+        "To reduce recontamination",
+        "To increase mosquito breeding",
+        "To increase suspended solids"
+      ],
+      "a": 1,
+      "e": "Clean covered storage helps protect treated water.",
+      "d": "Easy",
+      "topic": "Waterborne diseases",
+      "slo": "Identify, explain or apply the concept of waterborne diseases."
+    },
+    {
+      "id": "CHEM9CH12-091",
+      "q": "What does biochemical oxygen demand (BOD) measure?",
+      "o": [
+        "Amount of hydrogen in H2O",
+        "Oxygen used by microorganisms to break down organic matter",
+        "Water's colour intensity only",
+        "Number of calcium atoms"
+      ],
+      "a": 1,
+      "e": "BOD reflects oxygen consumption during microbial breakdown of biodegradable material.",
+      "d": "Easy",
+      "topic": "Water quality",
+      "slo": "Identify, explain or apply the concept of water quality."
+    },
+    {
+      "id": "CHEM9CH12-092",
+      "q": "For a Class 9 water-chemistry revision test, which pH indicates a basic water sample?",
+      "o": [
+        "4",
+        "10",
+        "2",
+        "6"
+      ],
+      "a": 1,
+      "e": "A pH above 7 indicates alkalinity at about 25 °C.",
+      "d": "Medium",
+      "topic": "Water quality",
+      "slo": "Identify, explain or apply the concept of water quality."
+    },
+    {
+      "id": "CHEM9CH12-093",
+      "q": "What is a key reason to label water samples accurately?",
+      "o": [
+        "Replace laboratory analysis",
+        "Make all samples identical",
+        "Prevent sample mix-ups and preserve traceability",
+        "Increase the concentration of contaminants"
+      ],
+      "a": 2,
+      "e": "Labelling identifies the source and collection details of each sample.",
+      "d": "Easy",
+      "topic": "Water quality",
+      "slo": "Identify, explain or apply the concept of water quality."
+    },
+    {
+      "id": "CHEM9CH12-094",
+      "q": "For a Class 9 water-chemistry revision test, which source is usually saline rather than freshwater?",
+      "o": [
+        "Most mountain springs",
+        "Seawater",
+        "Melted snow",
+        "Rainwater"
+      ],
+      "a": 1,
+      "e": "Seawater contains a high concentration of dissolved salts.",
+      "d": "Medium",
+      "topic": "Water resources",
+      "slo": "Identify, explain or apply the concept of water resources."
+    },
+    {
+      "id": "CHEM9CH12-095",
+      "q": "What does evaporation contribute to the water cycle?",
+      "o": [
+        "Permanent destruction of water molecules",
+        "Production of metallic hydrogen",
+        "Removal of the atmosphere",
+        "Transfer of liquid water to atmospheric vapour"
+      ],
+      "a": 3,
+      "e": "Solar energy drives evaporation from water surfaces.",
+      "d": "Easy",
+      "topic": "Water cycle",
+      "slo": "Identify, explain or apply the concept of water cycle."
+    },
+    {
+      "id": "CHEM9CH12-096",
+      "q": "What is surface water?",
+      "o": [
+        "Water bound inside mineral crystals",
+        "Water in rivers, lakes and reservoirs",
+        "Water only inside rocks",
+        "Only water vapour"
+      ],
+      "a": 1,
+      "e": "Surface water is found on Earth's surface.",
+      "d": "Easy",
+      "topic": "Water resources",
+      "slo": "Identify, explain or apply the concept of water resources."
+    },
+    {
+      "id": "CHEM9CH12-097",
+      "q": "For a Class 9 water-chemistry revision test, what is a safe response when drinking water may be microbiologically unsafe?",
+      "o": [
+        "Boil it appropriately or use validated disinfection",
+        "Mix with untreated wastewater",
+        "Leave it uncovered for days",
+        "Add soil to it"
+      ],
+      "a": 0,
+      "e": "Appropriate boiling or disinfection can reduce microbial hazards.",
+      "d": "Medium",
+      "topic": "Waterborne diseases",
+      "slo": "Identify, explain or apply the concept of waterborne diseases."
+    },
+    {
+      "id": "CHEM9CH12-098",
+      "q": "For a Class 9 water-chemistry revision test, what is flocculation?",
+      "o": [
+        "Clumping of fine particles into larger aggregates",
+        "Adding oil to drinking water",
+        "Breaking water into hydrogen and oxygen",
+        "Boiling away all water"
+      ],
+      "a": 0,
+      "e": "Flocculation makes fine suspended material easier to remove.",
+      "d": "Medium",
+      "topic": "Water treatment",
+      "slo": "Identify, explain or apply the concept of water treatment."
+    },
+    {
+      "id": "CHEM9CH12-099",
+      "q": "For a Class 9 water-chemistry revision test, what causes temporary hardness of water?",
+      "o": [
+        "Calcium and magnesium hydrogencarbonates",
+        "Dissolved nitrogen alone",
+        "Sodium chloride alone",
+        "Pure water molecules"
+      ],
+      "a": 0,
+      "e": "Temporary hardness is associated with soluble hydrogencarbonates.",
+      "d": "Medium",
+      "topic": "Water hardness",
+      "slo": "Identify, explain or apply the concept of water hardness."
+    },
+    {
+      "id": "CHEM9CH12-100",
+      "q": "What change converts ice to liquid water?",
+      "o": [
+        "Melting",
+        "Boiling",
+        "Condensation",
+        "Deposition"
+      ],
+      "a": 0,
+      "e": "Melting changes solid ice into liquid water.",
+      "d": "Easy",
+      "topic": "Properties of water",
+      "slo": "Identify, explain or apply the concept of properties of water."
+    },
+    {
+      "id": "CHEM9CH12-101",
+      "q": "Which water property helps moderate temperatures in lakes?",
+      "o": [
+        "Zero boiling point",
+        "High specific heat capacity",
+        "No ability to absorb energy",
+        "Complete absence of intermolecular forces"
+      ],
+      "a": 1,
+      "e": "Water absorbs considerable heat with relatively small temperature changes.",
+      "d": "Easy",
+      "topic": "Properties of water",
+      "slo": "Identify, explain or apply the concept of properties of water."
+    },
+    {
+      "id": "CHEM9CH12-102",
+      "q": "Why is aeration used in many biological treatment systems?",
+      "o": [
+        "To remove all hydrogen atoms",
+        "To increase untreated sewage",
+        "To supply oxygen to aerobic microorganisms",
+        "To create metallic water"
+      ],
+      "a": 2,
+      "e": "Aeration supports aerobic microbial breakdown of organic pollutants.",
+      "d": "Easy",
+      "topic": "Wastewater treatment",
+      "slo": "Identify, explain or apply the concept of wastewater treatment."
+    },
+    {
+      "id": "CHEM9CH12-103",
+      "q": "What is the main reason wetlands can improve water quality?",
+      "o": [
+        "They can trap sediments and process some nutrients",
+        "They always remove every toxic chemical",
+        "They eliminate all pathogens instantly",
+        "They convert all saltwater to freshwater"
+      ],
+      "a": 0,
+      "e": "Wetlands can retain sediments and transform nutrients through biological processes.",
+      "d": "Easy",
+      "topic": "Water resources",
+      "slo": "Identify, explain or apply the concept of water resources."
+    },
+    {
+      "id": "CHEM9CH12-104",
+      "q": "Why can overuse of fertilizers harm water bodies?",
+      "o": [
+        "Fertilizers always remove algae",
+        "It makes all groundwater distilled",
+        "It permanently eliminates dissolved nitrogen",
+        "Runoff can cause nutrient pollution"
+      ],
+      "a": 3,
+      "e": "Excess nutrients can reach waterways and trigger eutrophication.",
+      "d": "Easy",
+      "topic": "Fertilizers",
+      "slo": "Identify, explain or apply the concept of fertilizers."
+    },
+    {
+      "id": "CHEM9CH12-105",
+      "q": "What is soap scum?",
+      "o": [
+        "Pure water vapour",
+        "Insoluble salts formed when soap reacts with hardness ions",
+        "A dissolved oxygen molecule",
+        "A chlorine disinfectant"
+      ],
+      "a": 1,
+      "e": "Hardness ions form insoluble compounds with soap.",
+      "d": "Easy",
+      "topic": "Water hardness",
+      "slo": "Identify, explain or apply the concept of water hardness."
+    },
+    {
+      "id": "CHEM9CH12-106",
+      "q": "For a Class 9 water-chemistry revision test, which practice reduces fecal contamination of water sources?",
+      "o": [
+        "Leaking septic systems",
+        "Open defecation near wells",
+        "Proper sewage disposal",
+        "Dumping waste into streams"
+      ],
+      "a": 2,
+      "e": "Sanitation prevents pathogens from reaching water supplies.",
+      "d": "Medium",
+      "topic": "Waterborne diseases",
+      "slo": "Identify, explain or apply the concept of waterborne diseases."
+    },
+    {
+      "id": "CHEM9CH12-107",
+      "q": "For a Class 9 water-chemistry revision test, which symptom is common in waterborne diarrhoeal illness?",
+      "o": [
+        "Stronger bones immediately",
+        "Frequent loose stools",
+        "Improved night vision",
+        "Loss of all thirst"
+      ],
+      "a": 1,
+      "e": "Diarrhoeal infections cause loose stools and can lead to dehydration.",
+      "d": "Medium",
+      "topic": "Waterborne diseases",
+      "slo": "Identify, explain or apply the concept of waterborne diseases."
+    },
+    {
+      "id": "CHEM9CH12-108",
+      "q": "What is the effect of a persistent pollutant in aquatic ecosystems?",
+      "o": [
+        "It always vanishes immediately",
+        "It always increases dissolved oxygen",
+        "It may remain for long periods and accumulate",
+        "It cannot enter food chains"
+      ],
+      "a": 2,
+      "e": "Persistent contaminants may resist degradation and build up in organisms.",
+      "d": "Easy",
+      "topic": "Water pollution",
+      "slo": "Identify, explain or apply the concept of water pollution."
+    },
+    {
+      "id": "CHEM9CH12-109",
+      "q": "For a Class 9 water-chemistry revision test, why should drinking water be stored in covered clean containers?",
+      "o": [
+        "To encourage dust entry",
+        "To reduce recontamination",
+        "To increase suspended solids",
+        "To increase mosquito breeding"
+      ],
+      "a": 1,
+      "e": "Clean covered storage helps protect treated water.",
+      "d": "Medium",
+      "topic": "Waterborne diseases",
+      "slo": "Identify, explain or apply the concept of waterborne diseases."
+    },
+    {
+      "id": "CHEM9CH12-110",
+      "q": "For a Class 9 water-chemistry revision test, which action most directly prevents plastic waste entering waterways?",
+      "o": [
+        "Dumping plastics into drains",
+        "Leaving litter near storm drains",
+        "Proper collection and disposal of plastic waste",
+        "Burning plastics beside streams"
+      ],
+      "a": 2,
+      "e": "Good waste management reduces plastic leakage into waterways.",
+      "d": "Medium",
+      "topic": "Pollution prevention",
+      "slo": "Identify, explain or apply the concept of pollution prevention."
+    },
+    {
+      "id": "CHEM9CH12-111",
+      "q": "For a Class 9 water-chemistry revision test, what is rainwater harvesting?",
+      "o": [
+        "Converting rain into plastic",
+        "Dumping stored water immediately",
+        "Collecting and storing rainwater for later use",
+        "Adding sewage to rain"
+      ],
+      "a": 2,
+      "e": "Rainwater harvesting captures runoff for useful purposes.",
+      "d": "Medium",
+      "topic": "Water conservation",
+      "slo": "Identify, explain or apply the concept of water conservation."
+    },
+    {
+      "id": "CHEM9CH12-112",
+      "q": "Which interaction helps explain water's relatively high boiling point?",
+      "o": [
+        "Ionic lattice bonding",
+        "Nuclear fusion",
+        "Metallic bonding",
+        "Hydrogen bonding"
+      ],
+      "a": 3,
+      "e": "Hydrogen bonds between water molecules require energy to overcome.",
+      "d": "Easy",
+      "topic": "Properties of water",
+      "slo": "Identify, explain or apply the concept of properties of water."
+    },
+    {
+      "id": "CHEM9CH12-113",
+      "q": "For a Class 9 water-chemistry revision test, what is the main role of microorganisms in biological wastewater treatment?",
+      "o": [
+        "Remove gravity",
+        "Break down biodegradable organic matter",
+        "Create toxic metals from nothing",
+        "Make water permanently solid"
+      ],
+      "a": 1,
+      "e": "Microorganisms metabolize organic waste in secondary treatment.",
+      "d": "Medium",
+      "topic": "Wastewater treatment",
+      "slo": "Identify, explain or apply the concept of wastewater treatment."
+    },
+    {
+      "id": "CHEM9CH12-114",
+      "q": "For a Class 9 water-chemistry revision test, what is sludge in wastewater treatment?",
+      "o": [
+        "A type of sunlight",
+        "Only distilled water",
+        "Separated concentrated solids",
+        "Pure oxygen gas"
+      ],
+      "a": 2,
+      "e": "Sludge consists of solids collected during wastewater treatment.",
+      "d": "Medium",
+      "topic": "Wastewater treatment",
+      "slo": "Identify, explain or apply the concept of wastewater treatment."
+    },
+    {
+      "id": "CHEM9CH12-115",
+      "q": "What is an important use of water in thermal power plants?",
+      "o": [
+        "Producing steam to drive turbines",
+        "Providing oxygen atoms for coal combustion only",
+        "Converting turbines into salts",
+        "Replacing generators with filters"
+      ],
+      "a": 0,
+      "e": "Steam transfers thermal energy to turbines in many power stations.",
+      "d": "Easy",
+      "topic": "Uses of water",
+      "slo": "Identify, explain or apply the concept of uses of water."
+    },
+    {
+      "id": "CHEM9CH12-116",
+      "q": "For a Class 9 water-chemistry revision test, which desalination method uses a semipermeable membrane under pressure?",
+      "o": [
+        "Reverse osmosis",
+        "Sedimentation",
+        "Simple sieving",
+        "Flocculation alone"
+      ],
+      "a": 0,
+      "e": "Reverse osmosis uses pressure to drive water through a salt-rejecting membrane.",
+      "d": "Medium",
+      "topic": "Water resources",
+      "slo": "Identify, explain or apply the concept of water resources."
+    },
+    {
+      "id": "CHEM9CH12-117",
+      "q": "What change converts liquid water to water vapour?",
+      "o": [
+        "Deposition",
+        "Evaporation",
+        "Condensation",
+        "Freezing"
+      ],
+      "a": 1,
+      "e": "Evaporation changes liquid water into gas.",
+      "d": "Easy",
+      "topic": "Properties of water",
+      "slo": "Identify, explain or apply the concept of properties of water."
+    },
+    {
+      "id": "CHEM9CH12-118",
+      "q": "For a Class 9 water-chemistry revision test, which nutrients commonly contribute to eutrophication?",
+      "o": [
+        "Helium and neon",
+        "Nitrates and phosphates",
+        "Gold and silver",
+        "Hydrogen and nitrogen gas only"
+      ],
+      "a": 1,
+      "e": "Excess nitrogen and phosphorus nutrients stimulate algal growth.",
+      "d": "Medium",
+      "topic": "Eutrophication",
+      "slo": "Identify, explain or apply the concept of eutrophication."
+    },
+    {
+      "id": "CHEM9CH12-119",
+      "q": "Which pH indicates an acidic water sample?",
+      "o": [
+        "9",
+        "7",
+        "4",
+        "12"
+      ],
+      "a": 2,
+      "e": "A pH below 7 indicates acidity at about 25 °C.",
+      "d": "Easy",
+      "topic": "Water quality",
+      "slo": "Identify, explain or apply the concept of water quality."
+    },
+    {
+      "id": "CHEM9CH12-120",
+      "q": "What is a safe response when drinking water may be microbiologically unsafe?",
+      "o": [
+        "Mix with untreated wastewater",
+        "Add soil to it",
+        "Boil it appropriately or use validated disinfection",
+        "Leave it uncovered for days"
+      ],
+      "a": 2,
+      "e": "Appropriate boiling or disinfection can reduce microbial hazards.",
+      "d": "Easy",
+      "topic": "Waterborne diseases",
+      "slo": "Identify, explain or apply the concept of waterborne diseases."
+    },
+    {
+      "id": "CHEM9CH12-121",
+      "q": "Which process replenishes groundwater naturally?",
+      "o": [
+        "Metal corrosion only",
+        "Combustion of petrol",
+        "Boiling ocean water in a kettle",
+        "Infiltration of water through soil"
+      ],
+      "a": 3,
+      "e": "Infiltrating water can percolate down and recharge aquifers.",
+      "d": "Easy",
+      "topic": "Water resources",
+      "slo": "Identify, explain or apply the concept of water resources."
+    },
+    {
+      "id": "CHEM9CH12-122",
+      "q": "For a Class 9 water-chemistry revision test, which process removes suspended particles by allowing them to settle?",
+      "o": [
+        "Evaporation",
+        "Oxidation of metals",
+        "Chlorination",
+        "Sedimentation"
+      ],
+      "a": 3,
+      "e": "Sedimentation allows denser suspended particles to settle by gravity.",
+      "d": "Medium",
+      "topic": "Water treatment",
+      "slo": "Identify, explain or apply the concept of water treatment."
+    },
+    {
+      "id": "CHEM9CH12-123",
+      "q": "For a Class 9 water-chemistry revision test, which water treatment stage commonly follows coagulation and flocculation?",
+      "o": [
+        "Combustion",
+        "Sedimentation",
+        "Electroplating",
+        "Freezing"
+      ],
+      "a": 1,
+      "e": "Formed flocs settle in a sedimentation basin.",
+      "d": "Medium",
+      "topic": "Water treatment",
+      "slo": "Identify, explain or apply the concept of water treatment."
+    },
+    {
+      "id": "CHEM9CH12-124",
+      "q": "For a Class 9 water-chemistry revision test, what is a likely cause of high turbidity in river water?",
+      "o": [
+        "Pure dissolved oxygen alone",
+        "Complete absence of particles",
+        "Suspended silt and clay",
+        "Distillation"
+      ],
+      "a": 2,
+      "e": "Fine suspended solids scatter light and increase turbidity.",
+      "d": "Medium",
+      "topic": "Water quality",
+      "slo": "Identify, explain or apply the concept of water quality."
+    },
+    {
+      "id": "CHEM9CH12-125",
+      "q": "What is bioaccumulation?",
+      "o": [
+        "Build-up of a substance in an organism over time",
+        "Evaporation of all metals",
+        "Instant conversion of pollutants into oxygen",
+        "Filtration of pure water"
+      ],
+      "a": 0,
+      "e": "Bioaccumulation occurs when uptake exceeds elimination.",
+      "d": "Easy",
+      "topic": "Water pollution",
+      "slo": "Identify, explain or apply the concept of water pollution."
+    },
+    {
+      "id": "CHEM9CH12-126",
+      "q": "For a Class 9 water-chemistry revision test, what is a common sign of poor water sanitation?",
+      "o": [
+        "Effective sewage treatment",
+        "Protected wells",
+        "Verified safe drinking water",
+        "Frequent waterborne disease outbreaks"
+      ],
+      "a": 3,
+      "e": "Poor sanitation increases exposure to disease-causing microorganisms.",
+      "d": "Medium",
+      "topic": "Waterborne diseases",
+      "slo": "Identify, explain or apply the concept of waterborne diseases."
+    },
+    {
+      "id": "CHEM9CH12-127",
+      "q": "For a Class 9 water-chemistry revision test, which disease is commonly transmitted through contaminated drinking water?",
+      "o": [
+        "Measles through air",
+        "Tetanus from soil wounds",
+        "Malaria by mosquito bite",
+        "Cholera"
+      ],
+      "a": 3,
+      "e": "Cholera can spread through ingestion of water contaminated with Vibrio cholerae.",
+      "d": "Medium",
+      "topic": "Waterborne diseases",
+      "slo": "Identify, explain or apply the concept of waterborne diseases."
+    },
+    {
+      "id": "CHEM9CH12-128",
+      "q": "For a Class 9 water-chemistry revision test, what does biochemical oxygen demand (BOD) measure?",
+      "o": [
+        "Water's colour intensity only",
+        "Number of calcium atoms",
+        "Amount of hydrogen in H2O",
+        "Oxygen used by microorganisms to break down organic matter"
+      ],
+      "a": 3,
+      "e": "BOD reflects oxygen consumption during microbial breakdown of biodegradable material.",
+      "d": "Medium",
+      "topic": "Water quality",
+      "slo": "Identify, explain or apply the concept of water quality."
+    },
+    {
+      "id": "CHEM9CH12-129",
+      "q": "For a Class 9 water-chemistry revision test, what is an important use of water in agriculture?",
+      "o": [
+        "Producing pure nitrogen gas",
+        "Replacing sunlight",
+        "Irrigation of crops",
+        "Preventing all soil chemistry"
+      ],
+      "a": 2,
+      "e": "Irrigation supplies water needed for plant growth.",
+      "d": "Medium",
+      "topic": "Uses of water",
+      "slo": "Identify, explain or apply the concept of uses of water."
+    },
+    {
+      "id": "CHEM9CH12-130",
+      "q": "For a Class 9 water-chemistry revision test, which stage of wastewater treatment removes large solids?",
+      "o": [
+        "Aeration alone",
+        "Reverse osmosis only",
+        "Screening",
+        "Chlorination only"
+      ],
+      "a": 2,
+      "e": "Screens trap large objects before subsequent treatment.",
+      "d": "Medium",
+      "topic": "Wastewater treatment",
+      "slo": "Identify, explain or apply the concept of wastewater treatment."
+    },
+    {
+      "id": "CHEM9CH12-131",
+      "q": "What is the main purpose of testing water for coliform bacteria?",
+      "o": [
+        "To count dissolved sodium ions directly",
+        "To measure boiling point",
+        "To indicate possible fecal contamination",
+        "To determine ice density"
+      ],
+      "a": 2,
+      "e": "Indicator bacteria can suggest contamination by fecal material.",
+      "d": "Easy",
+      "topic": "Water quality",
+      "slo": "Identify, explain or apply the concept of water quality."
+    },
+    {
+      "id": "CHEM9CH12-132",
+      "q": "What is a reason to repeat a water-quality measurement?",
+      "o": [
+        "Ensure every result is different",
+        "Guarantee zero error in every instrument",
+        "Improve confidence and identify inconsistent readings",
+        "Avoid recording data"
+      ],
+      "a": 2,
+      "e": "Repeated measurements help assess consistency and reliability.",
+      "d": "Easy",
+      "topic": "Water quality",
+      "slo": "Identify, explain or apply the concept of water quality."
+    },
+    {
+      "id": "CHEM9CH12-133",
+      "q": "What do the letters NPK on a fertilizer label represent?",
+      "o": [
+        "Nitrogen, platinum and potassium",
+        "Nitrogen, phosphorus and potassium",
+        "Neon, phosphorus and krypton",
+        "Nickel, phosphorus and krypton"
+      ],
+      "a": 1,
+      "e": "NPK denotes the three major fertilizer nutrients.",
+      "d": "Easy",
+      "topic": "Fertilizers",
+      "slo": "Identify, explain or apply the concept of fertilizers."
+    },
+    {
+      "id": "CHEM9CH12-134",
+      "q": "Which disease can spread through fecally contaminated water?",
+      "o": [
+        "Scurvy",
+        "Typhoid fever",
+        "Rickets",
+        "Asthma"
+      ],
+      "a": 1,
+      "e": "Typhoid can spread by contaminated food and water.",
+      "d": "Easy",
+      "topic": "Waterborne diseases",
+      "slo": "Identify, explain or apply the concept of waterborne diseases."
+    },
+    {
+      "id": "CHEM9CH12-135",
+      "q": "For a Class 9 water-chemistry revision test, what is a solution?",
+      "o": [
+        "A mixture with visible large particles",
+        "A pure element",
+        "A homogeneous mixture",
+        "An insoluble solid"
+      ],
+      "a": 2,
+      "e": "A solution has a uniform composition throughout.",
+      "d": "Medium",
+      "topic": "Properties of water",
+      "slo": "Identify, explain or apply the concept of properties of water."
+    },
+    {
+      "id": "CHEM9CH12-136",
+      "q": "Which type of pollutant can increase salinity of freshwater?",
+      "o": [
+        "Clean oxygen gas",
+        "Pure nitrogen gas",
+        "Sunlight",
+        "Dissolved salts"
+      ],
+      "a": 3,
+      "e": "Excess dissolved salts raise salinity and can impair freshwater uses.",
+      "d": "Easy",
+      "topic": "Water pollution",
+      "slo": "Identify, explain or apply the concept of water pollution."
+    },
+    {
+      "id": "CHEM9CH12-137",
+      "q": "For a Class 9 water-chemistry revision test, which disease may be caused by water contaminated with Shigella?",
+      "o": [
+        "Anaemia from iron deficiency",
+        "Asthma",
+        "Bacillary dysentery",
+        "Diabetes"
+      ],
+      "a": 2,
+      "e": "Shigella causes bacillary dysentery and spreads by the fecal-oral route.",
+      "d": "Medium",
+      "topic": "Waterborne diseases",
+      "slo": "Identify, explain or apply the concept of waterborne diseases."
+    },
+    {
+      "id": "CHEM9CH12-138",
+      "q": "Which heavy metal is especially associated with neurological harm?",
+      "o": [
+        "Calcium in milk",
+        "Sodium in normal food amounts",
+        "Lead",
+        "Magnesium in vegetables"
+      ],
+      "a": 2,
+      "e": "Lead exposure can harm the nervous system.",
+      "d": "Easy",
+      "topic": "Water pollution",
+      "slo": "Identify, explain or apply the concept of water pollution."
+    },
+    {
+      "id": "CHEM9CH12-139",
+      "q": "Which disease may be caused by water contaminated with Shigella?",
+      "o": [
+        "Asthma",
+        "Bacillary dysentery",
+        "Anaemia from iron deficiency",
+        "Diabetes"
+      ],
+      "a": 1,
+      "e": "Shigella causes bacillary dysentery and spreads by the fecal-oral route.",
+      "d": "Easy",
+      "topic": "Waterborne diseases",
+      "slo": "Identify, explain or apply the concept of waterborne diseases."
+    },
+    {
+      "id": "CHEM9CH12-140",
+      "q": "Which stage of wastewater treatment removes large solids?",
+      "o": [
+        "Reverse osmosis only",
+        "Chlorination only",
+        "Aeration alone",
+        "Screening"
+      ],
+      "a": 3,
+      "e": "Screens trap large objects before subsequent treatment.",
+      "d": "Easy",
+      "topic": "Wastewater treatment",
+      "slo": "Identify, explain or apply the concept of wastewater treatment."
+    },
+    {
+      "id": "CHEM9CH12-141",
+      "q": "What is an aquifer?",
+      "o": [
+        "A geological layer that stores and transmits groundwater",
+        "A chemical disinfectant",
+        "A type of wastewater pipe",
+        "A cloud containing rain"
+      ],
+      "a": 0,
+      "e": "Aquifers contain permeable material through which groundwater can move.",
+      "d": "Easy",
+      "topic": "Water resources",
+      "slo": "Identify, explain or apply the concept of water resources."
+    },
+    {
+      "id": "CHEM9CH12-142",
+      "q": "For a Class 9 water-chemistry revision test, what is a common route of transmission of cholera?",
+      "o": [
+        "Sunlight exposure alone",
+        "Drinking fecally contaminated water",
+        "Touching dry iron",
+        "Inhaling clean oxygen"
+      ],
+      "a": 1,
+      "e": "Cholera is transmitted through contaminated water or food.",
+      "d": "Medium",
+      "topic": "Waterborne diseases",
+      "slo": "Identify, explain or apply the concept of waterborne diseases."
+    },
+    {
+      "id": "CHEM9CH12-143",
+      "q": "What is a likely cause of high turbidity in river water?",
+      "o": [
+        "Complete absence of particles",
+        "Distillation",
+        "Suspended silt and clay",
+        "Pure dissolved oxygen alone"
+      ],
+      "a": 2,
+      "e": "Fine suspended solids scatter light and increase turbidity.",
+      "d": "Easy",
+      "topic": "Water quality",
+      "slo": "Identify, explain or apply the concept of water quality."
+    },
+    {
+      "id": "CHEM9CH12-144",
+      "q": "For a Class 9 water-chemistry revision test, at standard atmospheric pressure, what is the boiling point of pure water?",
+      "o": [
+        "100 °C",
+        "25 °C",
+        "0 °C",
+        "50 °C"
+      ],
+      "a": 0,
+      "e": "Pure water boils at approximately 100 °C at 1 atm.",
+      "d": "Medium",
+      "topic": "Properties of water",
+      "slo": "Identify, explain or apply the concept of properties of water."
+    },
+    {
+      "id": "CHEM9CH12-145",
+      "q": "What is a common problem caused by hard water?",
+      "o": [
+        "Removal of all ions",
+        "Instant formation of distilled water",
+        "Elimination of scale",
+        "Poor lather formation with soap"
+      ],
+      "a": 3,
+      "e": "Calcium and magnesium ions react with soap to form scum.",
+      "d": "Easy",
+      "topic": "Water hardness",
+      "slo": "Identify, explain or apply the concept of water hardness."
+    },
+    {
+      "id": "CHEM9CH12-146",
+      "q": "For a Class 9 water-chemistry revision test, what is a key reason to treat drinking water?",
+      "o": [
+        "To reduce disease-causing microorganisms",
+        "To increase pathogens",
+        "To add suspended sewage",
+        "To increase toxic metals"
+      ],
+      "a": 0,
+      "e": "Treatment aims to make water microbiologically and chemically safer.",
+      "d": "Medium",
+      "topic": "Drinking water",
+      "slo": "Identify, explain or apply the concept of drinking water."
+    },
+    {
+      "id": "CHEM9CH12-147",
+      "q": "Why should untreated sewage not be released directly into rivers?",
+      "o": [
+        "It eliminates all nutrients",
+        "It guarantees clean drinking water",
+        "It always raises oxygen levels",
+        "It can introduce pathogens and deplete dissolved oxygen"
+      ],
+      "a": 3,
+      "e": "Sewage can contaminate water and increase biological oxygen demand.",
+      "d": "Easy",
+      "topic": "Water pollution",
+      "slo": "Identify, explain or apply the concept of water pollution."
+    },
+    {
+      "id": "CHEM9CH12-148",
+      "q": "Why is water called a polar molecule?",
+      "o": [
+        "It has a net positive charge",
+        "It has no electrons",
+        "It is an element",
+        "Its charge distribution is uneven"
+      ],
+      "a": 3,
+      "e": "Oxygen attracts shared electrons more strongly, creating partial charges.",
+      "d": "Easy",
+      "topic": "Properties of water",
+      "slo": "Identify, explain or apply the concept of properties of water."
+    },
+    {
+      "id": "CHEM9CH12-149",
+      "q": "What is a watershed?",
+      "o": [
+        "A vessel used for distillation",
+        "Land area draining into a common water body",
+        "A type of fertilizer",
+        "A chemical added to sewage"
+      ],
+      "a": 1,
+      "e": "A watershed collects runoff that drains to a shared outlet.",
+      "d": "Easy",
+      "topic": "Water resources",
+      "slo": "Identify, explain or apply the concept of water resources."
+    },
+    {
+      "id": "CHEM9CH12-150",
+      "q": "For a Class 9 water-chemistry revision test, which interaction helps explain water's relatively high boiling point?",
+      "o": [
+        "Ionic lattice bonding",
+        "Hydrogen bonding",
+        "Metallic bonding",
+        "Nuclear fusion"
+      ],
+      "a": 1,
+      "e": "Hydrogen bonds between water molecules require energy to overcome.",
+      "d": "Medium",
+      "topic": "Properties of water",
+      "slo": "Identify, explain or apply the concept of properties of water."
+    },
+    {
+      "id": "CHEM9CH12-151",
+      "q": "What is the most direct benefit of educating communities about clean water?",
+      "o": [
+        "Replacing all water tests",
+        "Increasing sewage discharge",
+        "Encouraging safer hygiene and pollution-prevention practices",
+        "Eliminating all natural hazards"
+      ],
+      "a": 2,
+      "e": "Awareness supports safe water handling and sanitation practices.",
+      "d": "Easy",
+      "topic": "Waterborne diseases",
+      "slo": "Identify, explain or apply the concept of waterborne diseases."
+    },
+    {
+      "id": "CHEM9CH12-152",
+      "q": "For a Class 9 water-chemistry revision test, what is meant by water pollution?",
+      "o": [
+        "The formation of ice from water",
+        "Introduction of harmful substances or changes into water",
+        "The natural evaporation of clean water",
+        "Condensation in clouds"
+      ],
+      "a": 1,
+      "e": "Water pollution degrades water quality and may harm living things.",
+      "d": "Medium",
+      "topic": "Water pollution",
+      "slo": "Identify, explain or apply the concept of water pollution."
+    },
+    {
+      "id": "CHEM9CH12-153",
+      "q": "Which toxic element may contaminate groundwater and cause chronic health problems?",
+      "o": [
+        "Helium",
+        "Neon",
+        "Argon",
+        "Arsenic"
+      ],
+      "a": 3,
+      "e": "Long-term arsenic exposure through drinking water can cause serious illness.",
+      "d": "Easy",
+      "topic": "Water pollution",
+      "slo": "Identify, explain or apply the concept of water pollution."
+    },
+    {
+      "id": "CHEM9CH12-154",
+      "q": "What is a solution?",
+      "o": [
+        "A homogeneous mixture",
+        "An insoluble solid",
+        "A pure element",
+        "A mixture with visible large particles"
+      ],
+      "a": 0,
+      "e": "A solution has a uniform composition throughout.",
+      "d": "Easy",
+      "topic": "Properties of water",
+      "slo": "Identify, explain or apply the concept of properties of water."
+    },
+    {
+      "id": "CHEM9CH12-155",
+      "q": "Which process removes suspended particles by allowing them to settle?",
+      "o": [
+        "Oxidation of metals",
+        "Sedimentation",
+        "Chlorination",
+        "Evaporation"
+      ],
+      "a": 1,
+      "e": "Sedimentation allows denser suspended particles to settle by gravity.",
+      "d": "Easy",
+      "topic": "Water treatment",
+      "slo": "Identify, explain or apply the concept of water treatment."
+    },
+    {
+      "id": "CHEM9CH12-156",
+      "q": "For a Class 9 water-chemistry revision test, what is the solvent in an aqueous sodium chloride solution?",
+      "o": [
+        "Sodium chloride",
+        "Water",
+        "Chlorine gas",
+        "Sodium metal"
+      ],
+      "a": 1,
+      "e": "Aqueous means that water is the solvent.",
+      "d": "Medium",
+      "topic": "Properties of water",
+      "slo": "Identify, explain or apply the concept of properties of water."
+    },
+    {
+      "id": "CHEM9CH12-157",
+      "q": "For a Class 9 water-chemistry revision test, what is the role of alum in conventional water treatment?",
+      "o": [
+        "Providing oxygen for respiration",
+        "Coagulation of fine suspended particles",
+        "Increasing radioactive waste",
+        "Producing table salt"
+      ],
+      "a": 1,
+      "e": "Alum promotes floc formation so fine particles can settle.",
+      "d": "Medium",
+      "topic": "Water treatment",
+      "slo": "Identify, explain or apply the concept of water treatment."
+    },
+    {
+      "id": "CHEM9CH12-158",
+      "q": "For a Class 9 water-chemistry revision test, what is soap scum?",
+      "o": [
+        "A dissolved oxygen molecule",
+        "Insoluble salts formed when soap reacts with hardness ions",
+        "A chlorine disinfectant",
+        "Pure water vapour"
+      ],
+      "a": 1,
+      "e": "Hardness ions form insoluble compounds with soap.",
+      "d": "Medium",
+      "topic": "Water hardness",
+      "slo": "Identify, explain or apply the concept of water hardness."
+    },
+    {
+      "id": "CHEM9CH12-159",
+      "q": "For a Class 9 water-chemistry revision test, what is an important use of water in thermal power plants?",
+      "o": [
+        "Converting turbines into salts",
+        "Producing steam to drive turbines",
+        "Providing oxygen atoms for coal combustion only",
+        "Replacing generators with filters"
+      ],
+      "a": 1,
+      "e": "Steam transfers thermal energy to turbines in many power stations.",
+      "d": "Medium",
+      "topic": "Uses of water",
+      "slo": "Identify, explain or apply the concept of uses of water."
+    },
+    {
+      "id": "CHEM9CH12-160",
+      "q": "Which test is directly related to acidity or alkalinity of water?",
+      "o": [
+        "Mass number determination",
+        "pH measurement",
+        "Flame colour alone",
+        "Magnetic susceptibility"
+      ],
+      "a": 1,
+      "e": "pH measures the acidity or basicity of an aqueous sample.",
+      "d": "Easy",
+      "topic": "Water quality",
+      "slo": "Identify, explain or apply the concept of water quality."
+    },
+    {
+      "id": "CHEM9CH12-161",
+      "q": "For a Class 9 water-chemistry revision test, what remains behind during simple distillation of salty water?",
+      "o": [
+        "Most dissolved salts",
+        "All condensed water",
+        "Only pure water vapour",
+        "All dissolved gases"
+      ],
+      "a": 0,
+      "e": "Nonvolatile salts generally stay in the boiling vessel.",
+      "d": "Medium",
+      "topic": "Distilled water",
+      "slo": "Identify, explain or apply the concept of distilled water."
+    },
+    {
+      "id": "CHEM9CH12-162",
+      "q": "Which physical state of water is found in clouds as droplets?",
+      "o": [
+        "Metal",
+        "Liquid",
+        "Plasma",
+        "Solid only"
+      ],
+      "a": 1,
+      "e": "Cloud droplets are liquid water, although clouds can also contain ice crystals.",
+      "d": "Easy",
+      "topic": "Properties of water",
+      "slo": "Identify, explain or apply the concept of properties of water."
+    },
+    {
+      "id": "CHEM9CH12-163",
+      "q": "For a Class 9 water-chemistry revision test, which characteristic alone does NOT prove that water is safe to drink?",
+      "o": [
+        "Clear appearance",
+        "Compliance with standards",
+        "Verified microbial safety",
+        "Acceptable chemical quality"
+      ],
+      "a": 0,
+      "e": "Clear water can still contain harmful microbes or dissolved contaminants.",
+      "d": "Medium",
+      "topic": "Drinking water",
+      "slo": "Identify, explain or apply the concept of drinking water."
+    },
+    {
+      "id": "CHEM9CH12-164",
+      "q": "For a Class 9 water-chemistry revision test, which practice conserves freshwater at home?",
+      "o": [
+        "Leave taps running continuously",
+        "Repair leaking taps",
+        "Ignore pipe leaks",
+        "Wash pavements with constant flow"
+      ],
+      "a": 1,
+      "e": "Fixing leaks reduces unnecessary freshwater use.",
+      "d": "Medium",
+      "topic": "Water conservation",
+      "slo": "Identify, explain or apply the concept of water conservation."
+    },
+    {
+      "id": "CHEM9CH12-165",
+      "q": "What is an important industrial use of water?",
+      "o": [
+        "Preventing any chemical reaction",
+        "Turning metals into wood",
+        "Replacing all fuels",
+        "Cooling equipment"
+      ],
+      "a": 3,
+      "e": "Water is widely used as a coolant in industrial processes.",
+      "d": "Easy",
+      "topic": "Uses of water",
+      "slo": "Identify, explain or apply the concept of uses of water."
+    },
+    {
+      "id": "CHEM9CH12-166",
+      "q": "For a Class 9 water-chemistry revision test, what is the main purpose of testing water for coliform bacteria?",
+      "o": [
+        "To determine ice density",
+        "To count dissolved sodium ions directly",
+        "To indicate possible fecal contamination",
+        "To measure boiling point"
+      ],
+      "a": 2,
+      "e": "Indicator bacteria can suggest contamination by fecal material.",
+      "d": "Medium",
+      "topic": "Water quality",
+      "slo": "Identify, explain or apply the concept of water quality."
+    },
+    {
+      "id": "CHEM9CH12-167",
+      "q": "What is the primary goal of wastewater treatment?",
+      "o": [
+        "Increase untreated sludge in rivers",
+        "Remove all oxygen from rivers",
+        "Reduce contaminants before discharge or reuse",
+        "Add more pathogens"
+      ],
+      "a": 2,
+      "e": "Treatment reduces physical, chemical, and biological pollution.",
+      "d": "Easy",
+      "topic": "Wastewater treatment",
+      "slo": "Identify, explain or apply the concept of wastewater treatment."
+    },
+    {
+      "id": "CHEM9CH12-168",
+      "q": "For a Class 9 water-chemistry revision test, which process replenishes groundwater naturally?",
+      "o": [
+        "Boiling ocean water in a kettle",
+        "Infiltration of water through soil",
+        "Combustion of petrol",
+        "Metal corrosion only"
+      ],
+      "a": 1,
+      "e": "Infiltrating water can percolate down and recharge aquifers.",
+      "d": "Medium",
+      "topic": "Water resources",
+      "slo": "Identify, explain or apply the concept of water resources."
+    },
+    {
+      "id": "CHEM9CH12-169",
+      "q": "What does the term effluent mean?",
+      "o": [
+        "Water vapour in a cloud",
+        "Only groundwater in an aquifer",
+        "Liquid waste discharged from a facility or treatment process",
+        "Pure ice from glaciers"
+      ],
+      "a": 2,
+      "e": "Effluent is a liquid discharge, often from industrial or wastewater facilities.",
+      "d": "Easy",
+      "topic": "Water pollution",
+      "slo": "Identify, explain or apply the concept of water pollution."
+    },
+    {
+      "id": "CHEM9CH12-170",
+      "q": "For a Class 9 water-chemistry revision test, what is a practical way to reduce waterborne disease?",
+      "o": [
+        "Use safely treated drinking water",
+        "Store water in dirty open containers",
+        "Drink untreated sewage",
+        "Ignore sanitation"
+      ],
+      "a": 0,
+      "e": "Safe drinking water and sanitation reduce infection risk.",
+      "d": "Medium",
+      "topic": "Waterborne diseases",
+      "slo": "Identify, explain or apply the concept of waterborne diseases."
+    },
+    {
+      "id": "CHEM9CH12-171",
+      "q": "What change converts water vapour into liquid water?",
+      "o": [
+        "Sublimation",
+        "Freezing",
+        "Melting",
+        "Condensation"
+      ],
+      "a": 3,
+      "e": "Condensation is the gas-to-liquid change.",
+      "d": "Easy",
+      "topic": "Properties of water",
+      "slo": "Identify, explain or apply the concept of properties of water."
+    },
+    {
+      "id": "CHEM9CH12-172",
+      "q": "For a Class 9 water-chemistry revision test, what is the main purpose of sand filtration in a treatment plant?",
+      "o": [
+        "Increasing turbidity",
+        "Adding arsenic",
+        "Making water radioactive",
+        "Removing remaining suspended solids"
+      ],
+      "a": 3,
+      "e": "Filter beds retain fine particles after settling.",
+      "d": "Medium",
+      "topic": "Water treatment",
+      "slo": "Identify, explain or apply the concept of water treatment."
+    },
+    {
+      "id": "CHEM9CH12-173",
+      "q": "What is primary wastewater treatment mainly designed to remove?",
+      "o": [
+        "Every dissolved chemical",
+        "All viruses with certainty",
+        "Settleable solids and floating material",
+        "All dissolved salts completely"
+      ],
+      "a": 2,
+      "e": "Primary settling separates much suspended and floating matter.",
+      "d": "Easy",
+      "topic": "Wastewater treatment",
+      "slo": "Identify, explain or apply the concept of wastewater treatment."
+    },
+    {
+      "id": "CHEM9CH12-174",
+      "q": "What is the main benefit of reusing treated wastewater where appropriate?",
+      "o": [
+        "Making rivers permanently dry",
+        "Reducing demand for freshwater",
+        "Increasing raw sewage discharge",
+        "Guaranteeing all uses need no safety checks"
+      ],
+      "a": 1,
+      "e": "Safe reuse can conserve freshwater for other needs.",
+      "d": "Easy",
+      "topic": "Water conservation",
+      "slo": "Identify, explain or apply the concept of water conservation."
+    },
+    {
+      "id": "CHEM9CH12-175",
+      "q": "What is rainwater harvesting?",
+      "o": [
+        "Adding sewage to rain",
+        "Collecting and storing rainwater for later use",
+        "Converting rain into plastic",
+        "Dumping stored water immediately"
+      ],
+      "a": 1,
+      "e": "Rainwater harvesting captures runoff for useful purposes.",
+      "d": "Easy",
+      "topic": "Water conservation",
+      "slo": "Identify, explain or apply the concept of water conservation."
+    },
+    {
+      "id": "CHEM9CH12-176",
+      "q": "For a Class 9 water-chemistry revision test, which ions are primarily removed by a domestic water softener?",
+      "o": [
+        "N2 and O2",
+        "Ca2+ and Mg2+",
+        "Cl2 gas",
+        "H+ and OH- exclusively"
+      ],
+      "a": 1,
+      "e": "Softening targets dissolved calcium and magnesium ions.",
+      "d": "Medium",
+      "topic": "Water hardness",
+      "slo": "Identify, explain or apply the concept of water hardness."
+    },
+    {
+      "id": "CHEM9CH12-177",
+      "q": "For a Class 9 water-chemistry revision test, why is dehydration a serious risk during severe diarrhoea?",
+      "o": [
+        "The body produces extra calcium",
+        "Water and electrolytes are lost",
+        "The lungs stop using oxygen entirely",
+        "Blood turns into pure water"
+      ],
+      "a": 1,
+      "e": "Diarrhoea can cause dangerous fluid and electrolyte losses.",
+      "d": "Medium",
+      "topic": "Waterborne diseases",
+      "slo": "Identify, explain or apply the concept of waterborne diseases."
+    },
+    {
+      "id": "CHEM9CH12-178",
+      "q": "For a Class 9 water-chemistry revision test, what is the chemical formula of water?",
+      "o": [
+        "H2O2",
+        "HO2",
+        "H2O",
+        "OH"
+      ],
+      "a": 2,
+      "e": "A water molecule contains two hydrogen atoms and one oxygen atom.",
+      "d": "Medium",
+      "topic": "Properties of water",
+      "slo": "Identify, explain or apply the concept of properties of water."
+    },
+    {
+      "id": "CHEM9CH12-179",
+      "q": "Why is chlorine sometimes added to drinking water?",
+      "o": [
+        "To disinfect it",
+        "To remove oxygen completely",
+        "To make it salty",
+        "To add sand"
+      ],
+      "a": 0,
+      "e": "Controlled chlorination inactivates many pathogens.",
+      "d": "Easy",
+      "topic": "Water treatment",
+      "slo": "Identify, explain or apply the concept of water treatment."
+    },
+    {
+      "id": "CHEM9CH12-180",
+      "q": "For a Class 9 water-chemistry revision test, why is water described as a solvent?",
+      "o": [
+        "It is always a gas",
+        "It cannot mix with salts",
+        "It always forms a precipitate",
+        "It dissolves many substances"
+      ],
+      "a": 3,
+      "e": "Water can dissolve many ionic and polar substances.",
+      "d": "Medium",
+      "topic": "Properties of water",
+      "slo": "Identify, explain or apply the concept of properties of water."
+    },
+    {
+      "id": "CHEM9CH12-181",
+      "q": "How can an oil spill harm aquatic ecosystems?",
+      "o": [
+        "By coating organisms and limiting gas exchange or light penetration",
+        "By converting oil into oxygen",
+        "By increasing photosynthesis everywhere",
+        "By making seawater potable"
+      ],
+      "a": 0,
+      "e": "Oil can coat wildlife and disrupt oxygen transfer and light availability.",
+      "d": "Easy",
+      "topic": "Water pollution",
+      "slo": "Identify, explain or apply the concept of water pollution."
+    },
+    {
+      "id": "CHEM9CH12-182",
+      "q": "Why is water described as a solvent?",
+      "o": [
+        "It cannot mix with salts",
+        "It dissolves many substances",
+        "It is always a gas",
+        "It always forms a precipitate"
+      ],
+      "a": 1,
+      "e": "Water can dissolve many ionic and polar substances.",
+      "d": "Easy",
+      "topic": "Properties of water",
+      "slo": "Identify, explain or apply the concept of properties of water."
+    },
+    {
+      "id": "CHEM9CH12-183",
+      "q": "What is the main environmental problem associated with phosphate-rich wastewater?",
+      "o": [
+        "Permanent prevention of eutrophication",
+        "Formation of clean glaciers",
+        "Removal of all nutrients",
+        "Stimulation of algal blooms"
+      ],
+      "a": 3,
+      "e": "Excess phosphates can contribute to nutrient enrichment.",
+      "d": "Easy",
+      "topic": "Eutrophication",
+      "slo": "Identify, explain or apply the concept of eutrophication."
+    },
+    {
+      "id": "CHEM9CH12-184",
+      "q": "Why is screening used early in water treatment?",
+      "o": [
+        "To sterilize all viruses",
+        "To remove large debris",
+        "To raise pH to 14",
+        "To destroy all dissolved salts"
+      ],
+      "a": 1,
+      "e": "Screens intercept large objects before later treatment steps.",
+      "d": "Easy",
+      "topic": "Water treatment",
+      "slo": "Identify, explain or apply the concept of water treatment."
+    },
+    {
+      "id": "CHEM9CH12-185",
+      "q": "At standard atmospheric pressure, what is the boiling point of pure water?",
+      "o": [
+        "25 °C",
+        "0 °C",
+        "100 °C",
+        "50 °C"
+      ],
+      "a": 2,
+      "e": "Pure water boils at approximately 100 °C at 1 atm.",
+      "d": "Easy",
+      "topic": "Properties of water",
+      "slo": "Identify, explain or apply the concept of properties of water."
+    },
+    {
+      "id": "CHEM9CH12-186",
+      "q": "For a Class 9 water-chemistry revision test, what pH value is neutral at about 25 °C?",
+      "o": [
+        "1",
+        "7",
+        "12",
+        "3"
+      ],
+      "a": 1,
+      "e": "Pure neutral water has pH approximately 7 at 25 °C.",
+      "d": "Medium",
+      "topic": "Water quality",
+      "slo": "Identify, explain or apply the concept of water quality."
+    },
+    {
+      "id": "CHEM9CH12-187",
+      "q": "Which method can remove both temporary and permanent hardness?",
+      "o": [
+        "Adding sand",
+        "Simple settling alone",
+        "Ion-exchange treatment",
+        "Ordinary boiling alone"
+      ],
+      "a": 2,
+      "e": "Ion exchange replaces hardness ions with other ions.",
+      "d": "Easy",
+      "topic": "Water hardness",
+      "slo": "Identify, explain or apply the concept of water hardness."
+    },
+    {
+      "id": "CHEM9CH12-188",
+      "q": "What is an important use of water in agriculture?",
+      "o": [
+        "Preventing all soil chemistry",
+        "Producing pure nitrogen gas",
+        "Replacing sunlight",
+        "Irrigation of crops"
+      ],
+      "a": 3,
+      "e": "Irrigation supplies water needed for plant growth.",
+      "d": "Easy",
+      "topic": "Uses of water",
+      "slo": "Identify, explain or apply the concept of uses of water."
+    },
+    {
+      "id": "CHEM9CH12-189",
+      "q": "What pH value is neutral at about 25 °C?",
+      "o": [
+        "1",
+        "7",
+        "12",
+        "3"
+      ],
+      "a": 1,
+      "e": "Pure neutral water has pH approximately 7 at 25 °C.",
+      "d": "Easy",
+      "topic": "Water quality",
+      "slo": "Identify, explain or apply the concept of water quality."
+    },
+    {
+      "id": "CHEM9CH12-190",
+      "q": "Which fertilizer nutrient is important for enzyme regulation and water balance in plants?",
+      "o": [
+        "Potassium",
+        "Chlorine gas",
+        "Lead",
+        "Arsenic"
+      ],
+      "a": 0,
+      "e": "Potassium is an essential macronutrient involved in osmotic and enzyme regulation.",
+      "d": "Easy",
+      "topic": "Fertilizers",
+      "slo": "Identify, explain or apply the concept of fertilizers."
+    },
+    {
+      "id": "CHEM9CH12-191",
+      "q": "What is flocculation?",
+      "o": [
+        "Breaking water into hydrogen and oxygen",
+        "Boiling away all water",
+        "Clumping of fine particles into larger aggregates",
+        "Adding oil to drinking water"
+      ],
+      "a": 2,
+      "e": "Flocculation makes fine suspended material easier to remove.",
+      "d": "Easy",
+      "topic": "Water treatment",
+      "slo": "Identify, explain or apply the concept of water treatment."
+    },
+    {
+      "id": "CHEM9CH12-192",
+      "q": "Which practice reduces fecal contamination of water sources?",
+      "o": [
+        "Proper sewage disposal",
+        "Leaking septic systems",
+        "Open defecation near wells",
+        "Dumping waste into streams"
+      ],
+      "a": 0,
+      "e": "Sanitation prevents pathogens from reaching water supplies.",
+      "d": "Easy",
+      "topic": "Waterborne diseases",
+      "slo": "Identify, explain or apply the concept of waterborne diseases."
+    },
+    {
+      "id": "CHEM9CH12-193",
+      "q": "For a Class 9 water-chemistry revision test, why should untreated sewage not be released directly into rivers?",
+      "o": [
+        "It guarantees clean drinking water",
+        "It eliminates all nutrients",
+        "It always raises oxygen levels",
+        "It can introduce pathogens and deplete dissolved oxygen"
+      ],
+      "a": 3,
+      "e": "Sewage can contaminate water and increase biological oxygen demand.",
+      "d": "Medium",
+      "topic": "Water pollution",
+      "slo": "Identify, explain or apply the concept of water pollution."
+    },
+    {
+      "id": "CHEM9CH12-194",
+      "q": "Which fertilizer nutrient supports root development and energy transfer?",
+      "o": [
+        "Lead",
+        "Phosphorus",
+        "Mercury",
+        "Cadmium"
+      ],
+      "a": 1,
+      "e": "Phosphorus is part of ATP and nucleic acids and supports plant growth.",
+      "d": "Easy",
+      "topic": "Fertilizers",
+      "slo": "Identify, explain or apply the concept of fertilizers."
+    },
+    {
+      "id": "CHEM9CH12-195",
+      "q": "For a Class 9 water-chemistry revision test, what is the main function of water in photosynthesis?",
+      "o": [
+        "It supplies electrons and hydrogen in the process",
+        "It replaces sunlight",
+        "It acts as chlorophyll",
+        "It is the only source of carbon in glucose"
+      ],
+      "a": 0,
+      "e": "Water participates in photosynthesis and is split in light-dependent reactions.",
+      "d": "Medium",
+      "topic": "Water in life",
+      "slo": "Identify, explain or apply the concept of water in life."
+    },
+    {
+      "id": "CHEM9CH12-196",
+      "q": "For a Class 9 water-chemistry revision test, what is eutrophication?",
+      "o": [
+        "Evaporation of pure water",
+        "Freezing of rivers",
+        "Nutrient enrichment that can cause excessive algal growth",
+        "Removal of all dissolved nutrients"
+      ],
+      "a": 2,
+      "e": "Excess nutrients may cause algal blooms and oxygen depletion.",
+      "d": "Medium",
+      "topic": "Eutrophication",
+      "slo": "Identify, explain or apply the concept of eutrophication."
+    },
+    {
+      "id": "CHEM9CH12-197",
+      "q": "For a Class 9 water-chemistry revision test, what is the primary goal of wastewater treatment?",
+      "o": [
+        "Reduce contaminants before discharge or reuse",
+        "Remove all oxygen from rivers",
+        "Increase untreated sludge in rivers",
+        "Add more pathogens"
+      ],
+      "a": 0,
+      "e": "Treatment reduces physical, chemical, and biological pollution.",
+      "d": "Medium",
+      "topic": "Wastewater treatment",
+      "slo": "Identify, explain or apply the concept of wastewater treatment."
+    },
+    {
+      "id": "CHEM9CH12-198",
+      "q": "For a Class 9 water-chemistry revision test, what commonly causes permanent hardness?",
+      "o": [
+        "Pure ice",
+        "Calcium and magnesium sulfates or chlorides",
+        "Dissolved oxygen only",
+        "Water vapour"
+      ],
+      "a": 1,
+      "e": "Sulfates and chlorides of calcium and magnesium produce permanent hardness.",
+      "d": "Medium",
+      "topic": "Water hardness",
+      "slo": "Identify, explain or apply the concept of water hardness."
+    },
+    {
+      "id": "CHEM9CH12-199",
+      "q": "What is runoff?",
+      "o": [
+        "Only evaporation from leaves",
+        "Only water deep underground",
+        "Water flowing over land into water bodies",
+        "Only condensation in clouds"
+      ],
+      "a": 2,
+      "e": "Runoff moves water across the land surface.",
+      "d": "Easy",
+      "topic": "Water cycle",
+      "slo": "Identify, explain or apply the concept of water cycle."
+    },
+    {
+      "id": "CHEM9CH12-200",
+      "q": "For a Class 9 water-chemistry revision test, which type of pollutant can increase salinity of freshwater?",
+      "o": [
+        "Dissolved salts",
+        "Sunlight",
+        "Pure nitrogen gas",
+        "Clean oxygen gas"
+      ],
+      "a": 0,
+      "e": "Excess dissolved salts raise salinity and can impair freshwater uses.",
+      "d": "Medium",
+      "topic": "Water pollution",
+      "slo": "Identify, explain or apply the concept of water pollution."
+    },
+    {
+      "id": "CHEM9CH12-201",
+      "q": "Which symptom is common in waterborne diarrhoeal illness?",
+      "o": [
+        "Stronger bones immediately",
+        "Frequent loose stools",
+        "Improved night vision",
+        "Loss of all thirst"
+      ],
+      "a": 1,
+      "e": "Diarrhoeal infections cause loose stools and can lead to dehydration.",
+      "d": "Easy",
+      "topic": "Waterborne diseases",
+      "slo": "Identify, explain or apply the concept of waterborne diseases."
+    },
+    {
+      "id": "CHEM9CH12-202",
+      "q": "For a Class 9 water-chemistry revision test, what is a common problem caused by hard water?",
+      "o": [
+        "Elimination of scale",
+        "Poor lather formation with soap",
+        "Instant formation of distilled water",
+        "Removal of all ions"
+      ],
+      "a": 1,
+      "e": "Calcium and magnesium ions react with soap to form scum.",
+      "d": "Medium",
+      "topic": "Water hardness",
+      "slo": "Identify, explain or apply the concept of water hardness."
+    },
+    {
+      "id": "CHEM9CH12-203",
+      "q": "For a Class 9 water-chemistry revision test, which pollutant is commonly introduced by untreated sewage?",
+      "o": [
+        "Only oxygen gas",
+        "Disease-causing microorganisms",
+        "Pure nitrogen gas",
+        "Pure distilled water"
+      ],
+      "a": 1,
+      "e": "Untreated sewage can carry pathogens and organic waste.",
+      "d": "Medium",
+      "topic": "Water pollution",
+      "slo": "Identify, explain or apply the concept of water pollution."
+    },
+    {
+      "id": "CHEM9CH12-204",
+      "q": "What is sludge in wastewater treatment?",
+      "o": [
+        "Separated concentrated solids",
+        "Only distilled water",
+        "Pure oxygen gas",
+        "A type of sunlight"
+      ],
+      "a": 0,
+      "e": "Sludge consists of solids collected during wastewater treatment.",
+      "d": "Easy",
+      "topic": "Wastewater treatment",
+      "slo": "Identify, explain or apply the concept of wastewater treatment."
+    },
+    {
+      "id": "CHEM9CH12-205",
+      "q": "What happens to water vapour in a condenser?",
+      "o": [
+        "It cools and becomes liquid",
+        "It turns into salt",
+        "It forms sand",
+        "It becomes oxygen gas"
+      ],
+      "a": 0,
+      "e": "Cooling condenses vapour into liquid distillate.",
+      "d": "Easy",
+      "topic": "Distilled water",
+      "slo": "Identify, explain or apply the concept of distilled water."
+    },
+    {
+      "id": "CHEM9CH12-206",
+      "q": "What is the chemical formula of water?",
+      "o": [
+        "H2O",
+        "OH",
+        "H2O2",
+        "HO2"
+      ],
+      "a": 0,
+      "e": "A water molecule contains two hydrogen atoms and one oxygen atom.",
+      "d": "Easy",
+      "topic": "Properties of water",
+      "slo": "Identify, explain or apply the concept of properties of water."
+    },
+    {
+      "id": "CHEM9CH12-207",
+      "q": "What role does water play in human temperature regulation?",
+      "o": [
+        "Sweat evaporation removes heat",
+        "It turns blood into ice",
+        "It eliminates metabolism",
+        "It prevents all heat transfer"
+      ],
+      "a": 0,
+      "e": "Evaporation of sweat cools the body.",
+      "d": "Easy",
+      "topic": "Water in life",
+      "slo": "Identify, explain or apply the concept of water in life."
+    },
+    {
+      "id": "CHEM9CH12-208",
+      "q": "For a Class 9 water-chemistry revision test, why is freshwater conservation important?",
+      "o": [
+        "All seawater is naturally drinkable",
+        "Water is never needed for agriculture",
+        "Freshwater cannot be polluted",
+        "Accessible clean freshwater is limited"
+      ],
+      "a": 3,
+      "e": "Usable freshwater is a limited resource and needs protection.",
+      "d": "Medium",
+      "topic": "Water conservation",
+      "slo": "Identify, explain or apply the concept of water conservation."
+    },
+    {
+      "id": "CHEM9CH12-209",
+      "q": "For a Class 9 water-chemistry revision test, what is surface water?",
+      "o": [
+        "Only water vapour",
+        "Water only inside rocks",
+        "Water in rivers, lakes and reservoirs",
+        "Water bound inside mineral crystals"
+      ],
+      "a": 2,
+      "e": "Surface water is found on Earth's surface.",
+      "d": "Medium",
+      "topic": "Water resources",
+      "slo": "Identify, explain or apply the concept of water resources."
+    },
+    {
+      "id": "CHEM9CH12-210",
+      "q": "What is the safest approach to chemical contaminants in drinking water?",
+      "o": [
+        "Assume boiling removes every chemical",
+        "Add perfume to hide odours",
+        "Use testing and treatment appropriate to the specific contaminant",
+        "Rely on colour alone"
+      ],
+      "a": 2,
+      "e": "Different dissolved contaminants require different treatment methods.",
+      "d": "Easy",
+      "topic": "Drinking water",
+      "slo": "Identify, explain or apply the concept of drinking water."
+    },
+    {
+      "id": "CHEM9CH12-211",
+      "q": "For a Class 9 water-chemistry revision test, which water pollutant can enter rivers from mining operations?",
+      "o": [
+        "Only distilled water",
+        "Heavy metals",
+        "Only clean ice",
+        "Only pure oxygen"
+      ],
+      "a": 1,
+      "e": "Mining runoff may carry metals and acidic drainage.",
+      "d": "Medium",
+      "topic": "Water pollution",
+      "slo": "Identify, explain or apply the concept of water pollution."
+    },
+    {
+      "id": "CHEM9CH12-212",
+      "q": "For a Class 9 water-chemistry revision test, what is runoff?",
+      "o": [
+        "Only condensation in clouds",
+        "Only evaporation from leaves",
+        "Water flowing over land into water bodies",
+        "Only water deep underground"
+      ],
+      "a": 2,
+      "e": "Runoff moves water across the land surface.",
+      "d": "Medium",
+      "topic": "Water cycle",
+      "slo": "Identify, explain or apply the concept of water cycle."
+    },
+    {
+      "id": "CHEM9CH12-213",
+      "q": "What is infiltration?",
+      "o": [
+        "Water entering the soil from the surface",
+        "Water leaving plants as vapour",
+        "Water flowing only in clouds",
+        "Ice melting inside a freezer"
+      ],
+      "a": 0,
+      "e": "Infiltration is the entry of surface water into soil.",
+      "d": "Easy",
+      "topic": "Water cycle",
+      "slo": "Identify, explain or apply the concept of water cycle."
+    },
+    {
+      "id": "CHEM9CH12-214",
+      "q": "What does an indicator's colour change during a water test usually show?",
+      "o": [
+        "A change related to a chemical condition being measured",
+        "That water is necessarily sterile",
+        "That all contaminants are absent",
+        "That every dissolved salt has vanished"
+      ],
+      "a": 0,
+      "e": "Indicators respond to particular chemical conditions such as pH.",
+      "d": "Easy",
+      "topic": "Water quality",
+      "slo": "Identify, explain or apply the concept of water quality."
+    },
+    {
+      "id": "CHEM9CH12-215",
+      "q": "What is an important reason to manage stormwater runoff?",
+      "o": [
+        "It always consists of distilled water",
+        "It cannot cause erosion",
+        "It can carry litter, oil and sediments into waterways",
+        "It destroys all pollutants naturally"
+      ],
+      "a": 2,
+      "e": "Stormwater picks up contaminants from land surfaces.",
+      "d": "Easy",
+      "topic": "Water pollution",
+      "slo": "Identify, explain or apply the concept of water pollution."
+    },
+    {
+      "id": "CHEM9CH12-216",
+      "q": "For a Class 9 water-chemistry revision test, which treatment step kills or inactivates many microorganisms?",
+      "o": [
+        "Decantation only",
+        "Disinfection",
+        "Sedimentation alone",
+        "Sieving only"
+      ],
+      "a": 1,
+      "e": "Disinfection reduces microbial hazards.",
+      "d": "Medium",
+      "topic": "Water treatment",
+      "slo": "Identify, explain or apply the concept of water treatment."
+    },
+    {
+      "id": "CHEM9CH12-217",
+      "q": "Which fertilizer nutrient is essential for making plant proteins?",
+      "o": [
+        "Helium",
+        "Nitrogen",
+        "Argon",
+        "Neon"
+      ],
+      "a": 1,
+      "e": "Nitrogen is needed to synthesize amino acids and proteins.",
+      "d": "Easy",
+      "topic": "Fertilizers",
+      "slo": "Identify, explain or apply the concept of fertilizers."
+    },
+    {
+      "id": "CHEM9CH12-218",
+      "q": "What is the main reason to avoid overusing groundwater in coastal areas?",
+      "o": [
+        "It may promote seawater intrusion",
+        "It eliminates saltwater completely",
+        "It guarantees sweeter groundwater",
+        "It makes all wells sterile"
+      ],
+      "a": 0,
+      "e": "Excessive pumping can draw saline water into coastal aquifers.",
+      "d": "Easy",
+      "topic": "Water resources",
+      "slo": "Identify, explain or apply the concept of water resources."
+    },
+    {
+      "id": "CHEM9CH12-219",
+      "q": "For a Class 9 water-chemistry revision test, which is an example of non-point-source pollution?",
+      "o": [
+        "One broken tanker outlet",
+        "One sewage outlet pipe",
+        "Agricultural runoff across many fields",
+        "One factory drain"
+      ],
+      "a": 2,
+      "e": "Diffuse runoff comes from widespread land areas.",
+      "d": "Medium",
+      "topic": "Water pollution",
+      "slo": "Identify, explain or apply the concept of water pollution."
+    },
+    {
+      "id": "CHEM9CH12-220",
+      "q": "Why are detergents sometimes a concern in water pollution?",
+      "o": [
+        "They always remove all pollutants",
+        "They convert sewage to drinking water instantly",
+        "Some formulations contribute surfactants or phosphates",
+        "They are all harmless at any concentration"
+      ],
+      "a": 2,
+      "e": "Detergent components can affect aquatic environments and nutrient loading.",
+      "d": "Easy",
+      "topic": "Water pollution",
+      "slo": "Identify, explain or apply the concept of water pollution."
+    },
+    {
+      "id": "CHEM9CH12-221",
+      "q": "For a Class 9 water-chemistry revision test, why is water called a polar molecule?",
+      "o": [
+        "It has a net positive charge",
+        "It is an element",
+        "It has no electrons",
+        "Its charge distribution is uneven"
+      ],
+      "a": 3,
+      "e": "Oxygen attracts shared electrons more strongly, creating partial charges.",
+      "d": "Medium",
+      "topic": "Properties of water",
+      "slo": "Identify, explain or apply the concept of properties of water."
+    },
+    {
+      "id": "CHEM9CH12-222",
+      "q": "For a Class 9 water-chemistry revision test, what happens to water vapour in a condenser?",
+      "o": [
+        "It forms sand",
+        "It becomes oxygen gas",
+        "It cools and becomes liquid",
+        "It turns into salt"
+      ],
+      "a": 2,
+      "e": "Cooling condenses vapour into liquid distillate.",
+      "d": "Medium",
+      "topic": "Distilled water",
+      "slo": "Identify, explain or apply the concept of distilled water."
+    },
+    {
+      "id": "CHEM9CH12-223",
+      "q": "Why does ice float on liquid water?",
+      "o": [
+        "Ice is more dense than liquid water",
+        "Ice contains no oxygen",
+        "Ice is always warmer",
+        "Ice is less dense than liquid water"
+      ],
+      "a": 3,
+      "e": "The open structure of ice lowers its density.",
+      "d": "Easy",
+      "topic": "Properties of water",
+      "slo": "Identify, explain or apply the concept of properties of water."
+    },
+    {
+      "id": "CHEM9CH12-224",
+      "q": "For a Class 9 water-chemistry revision test, which method can make seawater suitable for drinking by removing salts?",
+      "o": [
+        "Ordinary sedimentation alone",
+        "Desalination",
+        "Adding fertilizer",
+        "Simple cloth straining"
+      ],
+      "a": 1,
+      "e": "Desalination removes dissolved salts from saline water.",
+      "d": "Medium",
+      "topic": "Water resources",
+      "slo": "Identify, explain or apply the concept of water resources."
+    },
+    {
+      "id": "CHEM9CH12-225",
+      "q": "What does a high BOD usually suggest?",
+      "o": [
+        "Zero microbial activity in all cases",
+        "No organic material",
+        "A high load of biodegradable organic pollution",
+        "Perfectly sterile water"
+      ],
+      "a": 2,
+      "e": "Organic waste raises oxygen demand during decomposition.",
+      "d": "Easy",
+      "topic": "Water quality",
+      "slo": "Identify, explain or apply the concept of water quality."
+    },
+    {
+      "id": "CHEM9CH12-226",
+      "q": "For a Class 9 water-chemistry revision test, why is aeration used in many biological treatment systems?",
+      "o": [
+        "To increase untreated sewage",
+        "To create metallic water",
+        "To supply oxygen to aerobic microorganisms",
+        "To remove all hydrogen atoms"
+      ],
+      "a": 2,
+      "e": "Aeration supports aerobic microbial breakdown of organic pollutants.",
+      "d": "Medium",
+      "topic": "Wastewater treatment",
+      "slo": "Identify, explain or apply the concept of wastewater treatment."
+    },
+    {
+      "id": "CHEM9CH12-227",
+      "q": "For a Class 9 water-chemistry revision test, what is dissolved oxygen (DO)?",
+      "o": [
+        "Oxygen gas present in water",
+        "Solid oxygen crystals",
+        "Chlorine dissolved in water",
+        "Oxygen chemically bound in H2O only"
+      ],
+      "a": 0,
+      "e": "DO is molecular oxygen dissolved in water and available to aquatic life.",
+      "d": "Medium",
+      "topic": "Water quality",
+      "slo": "Identify, explain or apply the concept of water quality."
+    },
+    {
+      "id": "CHEM9CH12-228",
+      "q": "For a Class 9 water-chemistry revision test, what does water turbidity indicate?",
+      "o": [
+        "Number of neutrons",
+        "Cloudiness caused by suspended particles",
+        "Water's exact boiling point",
+        "Amount of oxygen atoms in H2O"
+      ],
+      "a": 1,
+      "e": "Turbidity describes the cloudiness of water.",
+      "d": "Medium",
+      "topic": "Water quality",
+      "slo": "Identify, explain or apply the concept of water quality."
+    },
+    {
+      "id": "CHEM9CH12-229",
+      "q": "What is the main role of microorganisms in biological wastewater treatment?",
+      "o": [
+        "Create toxic metals from nothing",
+        "Remove gravity",
+        "Break down biodegradable organic matter",
+        "Make water permanently solid"
+      ],
+      "a": 2,
+      "e": "Microorganisms metabolize organic waste in secondary treatment.",
+      "d": "Easy",
+      "topic": "Wastewater treatment",
+      "slo": "Identify, explain or apply the concept of wastewater treatment."
+    },
+    {
+      "id": "CHEM9CH12-230",
+      "q": "What is the solute in a saltwater solution?",
+      "o": [
+        "Water vapour",
+        "Water",
+        "The beaker",
+        "Dissolved salt"
+      ],
+      "a": 3,
+      "e": "The solute is the substance dissolved in the solvent.",
+      "d": "Easy",
+      "topic": "Properties of water",
+      "slo": "Identify, explain or apply the concept of properties of water."
+    },
+    {
+      "id": "CHEM9CH12-231",
+      "q": "What is the role of alum in conventional water treatment?",
+      "o": [
+        "Providing oxygen for respiration",
+        "Producing table salt",
+        "Coagulation of fine suspended particles",
+        "Increasing radioactive waste"
+      ],
+      "a": 2,
+      "e": "Alum promotes floc formation so fine particles can settle.",
+      "d": "Easy",
+      "topic": "Water treatment",
+      "slo": "Identify, explain or apply the concept of water treatment."
+    },
+    {
+      "id": "CHEM9CH12-232",
+      "q": "For a Class 9 water-chemistry revision test, what is a benefit of water-quality monitoring?",
+      "o": [
+        "Making pollutants invisible",
+        "Guaranteeing all water is safe without tests",
+        "Detecting contamination and guiding corrective action",
+        "Replacing treatment plants with signs"
+      ],
+      "a": 2,
+      "e": "Monitoring identifies changes and supports public-health protection.",
+      "d": "Medium",
+      "topic": "Water quality",
+      "slo": "Identify, explain or apply the concept of water quality."
+    },
+    {
+      "id": "CHEM9CH12-233",
+      "q": "What is the solvent in an aqueous sodium chloride solution?",
+      "o": [
+        "Sodium chloride",
+        "Water",
+        "Sodium metal",
+        "Chlorine gas"
+      ],
+      "a": 1,
+      "e": "Aqueous means that water is the solvent.",
+      "d": "Easy",
+      "topic": "Properties of water",
+      "slo": "Identify, explain or apply the concept of properties of water."
+    },
+    {
+      "id": "CHEM9CH12-234",
+      "q": "Which form of water is most suitable for making solutions requiring minimal impurities?",
+      "o": [
+        "Muddy water",
+        "Distilled water",
+        "Seawater",
+        "Untreated wastewater"
+      ],
+      "a": 1,
+      "e": "Distillation removes many nonvolatile dissolved substances.",
+      "d": "Easy",
+      "topic": "Distilled water",
+      "slo": "Identify, explain or apply the concept of distilled water."
+    },
+    {
+      "id": "CHEM9CH12-235",
+      "q": "What is a major advantage of preventing industrial spills?",
+      "o": [
+        "Making waste disposal unnecessary",
+        "Guaranteeing zero rainfall",
+        "Increasing untreated effluent",
+        "Reducing sudden toxic contamination of waterways"
+      ],
+      "a": 3,
+      "e": "Spill prevention limits hazardous releases into the environment.",
+      "d": "Easy",
+      "topic": "Pollution prevention",
+      "slo": "Identify, explain or apply the concept of pollution prevention."
+    },
+    {
+      "id": "CHEM9CH12-236",
+      "q": "What can happen when untreated hot industrial water enters a river?",
+      "o": [
+        "Dissolved oxygen availability may fall",
+        "No ecosystem change is possible",
+        "Water always freezes instantly",
+        "All fish gain oxygen"
+      ],
+      "a": 0,
+      "e": "Warmer water holds less dissolved oxygen and may stress aquatic organisms.",
+      "d": "Easy",
+      "topic": "Thermal pollution",
+      "slo": "Identify, explain or apply the concept of thermal pollution."
+    },
+    {
+      "id": "CHEM9CH12-237",
+      "q": "For a Class 9 water-chemistry revision test, what is primary wastewater treatment mainly designed to remove?",
+      "o": [
+        "Settleable solids and floating material",
+        "All viruses with certainty",
+        "Every dissolved chemical",
+        "All dissolved salts completely"
+      ],
+      "a": 0,
+      "e": "Primary settling separates much suspended and floating matter.",
+      "d": "Medium",
+      "topic": "Wastewater treatment",
+      "slo": "Identify, explain or apply the concept of wastewater treatment."
+    },
+    {
+      "id": "CHEM9CH12-238",
+      "q": "What is the purpose of environmental water standards?",
+      "o": [
+        "Replace all scientific measurements",
+        "Make testing illegal",
+        "Set acceptable limits or criteria for water quality",
+        "Allow unlimited toxic discharge"
+      ],
+      "a": 2,
+      "e": "Standards guide monitoring, treatment and protection of water uses.",
+      "d": "Easy",
+      "topic": "Water quality",
+      "slo": "Identify, explain or apply the concept of water quality."
+    },
+    {
+      "id": "CHEM9CH12-239",
+      "q": "For a Class 9 water-chemistry revision test, what is meant by drinking water?",
+      "o": [
+        "Water safe for human consumption",
+        "Any coloured water",
+        "Any saline solution",
+        "Water containing sewage"
+      ],
+      "a": 0,
+      "e": "Drinking water should meet safety standards for human consumption.",
+      "d": "Medium",
+      "topic": "Drinking water",
+      "slo": "Identify, explain or apply the concept of drinking water."
+    },
+    {
+      "id": "CHEM9CH12-240",
+      "q": "Which bond joins hydrogen to oxygen within a water molecule?",
+      "o": [
+        "Hydrogen bond only",
+        "Metallic bond",
+        "Polar covalent bond",
+        "Purely ionic bond"
+      ],
+      "a": 2,
+      "e": "O–H bonds are polar covalent.",
+      "d": "Easy",
+      "topic": "Properties of water",
+      "slo": "Identify, explain or apply the concept of properties of water."
+    },
+    {
+      "id": "CHEM9CH12-241",
+      "q": "What is a potential consequence of dumping garbage into streams?",
+      "o": [
+        "Removal of plastic pollution",
+        "Blocked flow and contamination",
+        "Guaranteed improvement in oxygen",
+        "Immediate distillation"
+      ],
+      "a": 1,
+      "e": "Solid waste can obstruct waterways and release pollutants.",
+      "d": "Easy",
+      "topic": "Water pollution",
+      "slo": "Identify, explain or apply the concept of water pollution."
+    },
+    {
+      "id": "CHEM9CH12-242",
+      "q": "What is a simple way to reduce water waste during brushing teeth?",
+      "o": [
+        "Leave water running throughout",
+        "Keep the faucet fully open afterward",
+        "Turn off the tap when not rinsing",
+        "Use a leaking tap"
+      ],
+      "a": 2,
+      "e": "Turning off unnecessary flow saves clean water.",
+      "d": "Easy",
+      "topic": "Water conservation",
+      "slo": "Identify, explain or apply the concept of water conservation."
+    },
+    {
+      "id": "CHEM9CH12-243",
+      "q": "What is the water cycle process in which plants release water vapour?",
+      "o": [
+        "Freezing",
+        "Precipitation",
+        "Sedimentation",
+        "Transpiration"
+      ],
+      "a": 3,
+      "e": "Transpiration releases water vapour from plants.",
+      "d": "Easy",
+      "topic": "Water cycle",
+      "slo": "Identify, explain or apply the concept of water cycle."
+    },
+    {
+      "id": "CHEM9CH12-244",
+      "q": "For a Class 9 water-chemistry revision test, what is a common laboratory use of distilled water?",
+      "o": [
+        "Providing dissolved minerals to fish",
+        "Producing sewage",
+        "Preparing chemical solutions",
+        "Adding hardness to boilers"
+      ],
+      "a": 2,
+      "e": "Distilled water helps avoid unwanted reactions from impurities.",
+      "d": "Medium",
+      "topic": "Distilled water",
+      "slo": "Identify, explain or apply the concept of distilled water."
+    },
+    {
+      "id": "CHEM9CH12-245",
+      "q": "Which nutrients commonly contribute to eutrophication?",
+      "o": [
+        "Gold and silver",
+        "Helium and neon",
+        "Nitrates and phosphates",
+        "Hydrogen and nitrogen gas only"
+      ],
+      "a": 2,
+      "e": "Excess nitrogen and phosphorus nutrients stimulate algal growth.",
+      "d": "Easy",
+      "topic": "Eutrophication",
+      "slo": "Identify, explain or apply the concept of eutrophication."
+    },
+    {
+      "id": "CHEM9CH12-246",
+      "q": "For a Class 9 water-chemistry revision test, which physical state of water is found in clouds as droplets?",
+      "o": [
+        "Solid only",
+        "Liquid",
+        "Metal",
+        "Plasma"
+      ],
+      "a": 1,
+      "e": "Cloud droplets are liquid water, although clouds can also contain ice crystals.",
+      "d": "Medium",
+      "topic": "Properties of water",
+      "slo": "Identify, explain or apply the concept of properties of water."
+    },
+    {
+      "id": "CHEM9CH12-247",
+      "q": "Which aquatic organisms are especially threatened by low dissolved oxygen?",
+      "o": [
+        "Dry seeds",
+        "Only airborne birds",
+        "Only desert plants",
+        "Fish and other aerobic aquatic animals"
+      ],
+      "a": 3,
+      "e": "Aquatic animals require dissolved oxygen for respiration.",
+      "d": "Easy",
+      "topic": "Water pollution",
+      "slo": "Identify, explain or apply the concept of water pollution."
+    },
+    {
+      "id": "CHEM9CH12-248",
+      "q": "What is biomagnification?",
+      "o": [
+        "Increase in pollutant concentration at higher food-chain levels",
+        "Removal of all contaminants by algae",
+        "Formation of ice crystals",
+        "Decrease in water temperature during boiling"
+      ],
+      "a": 0,
+      "e": "Some persistent pollutants become more concentrated along food chains.",
+      "d": "Easy",
+      "topic": "Water pollution",
+      "slo": "Identify, explain or apply the concept of water pollution."
+    },
+    {
+      "id": "CHEM9CH12-249",
+      "q": "Which ions are primarily removed by a domestic water softener?",
+      "o": [
+        "Cl2 gas",
+        "N2 and O2",
+        "Ca2+ and Mg2+",
+        "H+ and OH- exclusively"
+      ],
+      "a": 2,
+      "e": "Softening targets dissolved calcium and magnesium ions.",
+      "d": "Easy",
+      "topic": "Water hardness",
+      "slo": "Identify, explain or apply the concept of water hardness."
+    },
+    {
+      "id": "CHEM9CH12-250",
+      "q": "How is distilled water obtained?",
+      "o": [
+        "By freezing seawater without separation",
+        "By adding table salt",
+        "By evaporation followed by condensation",
+        "By mixing soil into water"
+      ],
+      "a": 2,
+      "e": "Water vapour is condensed to separate water from nonvolatile impurities.",
+      "d": "Easy",
+      "topic": "Distilled water",
+      "slo": "Identify, explain or apply the concept of distilled water."
+    },
+    {
+      "id": "CHEM9CH12-251",
+      "q": "For a Class 9 water-chemistry revision test, which method can remove both temporary and permanent hardness?",
+      "o": [
+        "Simple settling alone",
+        "Adding sand",
+        "Ion-exchange treatment",
+        "Ordinary boiling alone"
+      ],
+      "a": 2,
+      "e": "Ion exchange replaces hardness ions with other ions.",
+      "d": "Medium",
+      "topic": "Water hardness",
+      "slo": "Identify, explain or apply the concept of water hardness."
+    },
+    {
+      "id": "CHEM9CH12-252",
+      "q": "Why are fertilizers valuable when applied correctly?",
+      "o": [
+        "They remove all soil organisms",
+        "They supply nutrients needed for plant growth",
+        "They always sterilize drinking water",
+        "They replace irrigation"
+      ],
+      "a": 1,
+      "e": "Fertilizers provide essential plant nutrients.",
+      "d": "Easy",
+      "topic": "Fertilizers",
+      "slo": "Identify, explain or apply the concept of fertilizers."
+    },
+    {
+      "id": "CHEM9CH12-253",
+      "q": "What is the main function of water in photosynthesis?",
+      "o": [
+        "It acts as chlorophyll",
+        "It supplies electrons and hydrogen in the process",
+        "It is the only source of carbon in glucose",
+        "It replaces sunlight"
+      ],
+      "a": 1,
+      "e": "Water participates in photosynthesis and is split in light-dependent reactions.",
+      "d": "Easy",
+      "topic": "Water in life",
+      "slo": "Identify, explain or apply the concept of water in life."
+    },
+    {
+      "id": "CHEM9CH12-254",
+      "q": "Which disease is commonly transmitted through contaminated drinking water?",
+      "o": [
+        "Cholera",
+        "Measles through air",
+        "Tetanus from soil wounds",
+        "Malaria by mosquito bite"
+      ],
+      "a": 0,
+      "e": "Cholera can spread through ingestion of water contaminated with Vibrio cholerae.",
+      "d": "Easy",
+      "topic": "Waterborne diseases",
+      "slo": "Identify, explain or apply the concept of waterborne diseases."
+    },
+    {
+      "id": "CHEM9CH12-255",
+      "q": "For a Class 9 water-chemistry revision test, what is the purpose of vegetated buffer strips beside streams?",
+      "o": [
+        "Trap sediments and some nutrients from runoff",
+        "Increase direct fertilizer discharge",
+        "Convert water into petroleum",
+        "Stop all rainfall"
+      ],
+      "a": 0,
+      "e": "Vegetation slows runoff and helps retain sediments and nutrients.",
+      "d": "Medium",
+      "topic": "Pollution prevention",
+      "slo": "Identify, explain or apply the concept of pollution prevention."
+    },
+    {
+      "id": "CHEM9CH12-256",
+      "q": "What is a benefit of water-quality monitoring?",
+      "o": [
+        "Detecting contamination and guiding corrective action",
+        "Replacing treatment plants with signs",
+        "Guaranteeing all water is safe without tests",
+        "Making pollutants invisible"
+      ],
+      "a": 0,
+      "e": "Monitoring identifies changes and supports public-health protection.",
+      "d": "Easy",
+      "topic": "Water quality",
+      "slo": "Identify, explain or apply the concept of water quality."
+    },
+    {
+      "id": "CHEM9CH12-257",
+      "q": "Does boiling remove dissolved heavy metals from water?",
+      "o": [
+        "Yes, boiling always makes polluted water chemically pure",
+        "Yes, metals turn into oxygen",
+        "No, boiling does not reliably remove dissolved heavy metals",
+        "Yes, all metals evaporate instantly"
+      ],
+      "a": 2,
+      "e": "Boiling addresses many microbes but not dissolved toxic metals.",
+      "d": "Easy",
+      "topic": "Water treatment",
+      "slo": "Identify, explain or apply the concept of water treatment."
+    },
+    {
+      "id": "CHEM9CH12-258",
+      "q": "Why is dehydration a serious risk during severe diarrhoea?",
+      "o": [
+        "The lungs stop using oxygen entirely",
+        "Water and electrolytes are lost",
+        "Blood turns into pure water",
+        "The body produces extra calcium"
+      ],
+      "a": 1,
+      "e": "Diarrhoea can cause dangerous fluid and electrolyte losses.",
+      "d": "Easy",
+      "topic": "Waterborne diseases",
+      "slo": "Identify, explain or apply the concept of waterborne diseases."
+    },
+    {
+      "id": "CHEM9CH12-259",
+      "q": "For a Class 9 water-chemistry revision test, what is an algal bloom?",
+      "o": [
+        "The freezing of a lake",
+        "Formation of metallic crystals",
+        "Rapid excessive growth of algae",
+        "A cloud of water vapour"
+      ],
+      "a": 2,
+      "e": "Nutrient-rich water can support rapid algal proliferation.",
+      "d": "Medium",
+      "topic": "Eutrophication",
+      "slo": "Identify, explain or apply the concept of eutrophication."
+    },
+    {
+      "id": "CHEM9CH12-260",
+      "q": "Which desalination method uses a semipermeable membrane under pressure?",
+      "o": [
+        "Reverse osmosis",
+        "Simple sieving",
+        "Sedimentation",
+        "Flocculation alone"
+      ],
+      "a": 0,
+      "e": "Reverse osmosis uses pressure to drive water through a salt-rejecting membrane.",
+      "d": "Easy",
+      "topic": "Water resources",
+      "slo": "Identify, explain or apply the concept of water resources."
+    },
+    {
+      "id": "CHEM9CH12-261",
+      "q": "What is a common sign of poor water sanitation?",
+      "o": [
+        "Effective sewage treatment",
+        "Verified safe drinking water",
+        "Protected wells",
+        "Frequent waterborne disease outbreaks"
+      ],
+      "a": 3,
+      "e": "Poor sanitation increases exposure to disease-causing microorganisms.",
+      "d": "Easy",
+      "topic": "Waterborne diseases",
+      "slo": "Identify, explain or apply the concept of waterborne diseases."
+    },
+    {
+      "id": "CHEM9CH12-262",
+      "q": "What is the main advantage of source-water protection?",
+      "o": [
+        "Making pollution impossible everywhere",
+        "Turning saltwater into freshwater instantly",
+        "Eliminating all need for safe storage",
+        "Preventing contamination before treatment is needed"
+      ],
+      "a": 3,
+      "e": "Preventing pollution at the source reduces treatment burden and risks.",
+      "d": "Easy",
+      "topic": "Pollution prevention",
+      "slo": "Identify, explain or apply the concept of pollution prevention."
+    },
+    {
+      "id": "CHEM9CH12-263",
+      "q": "What is a potential effect of excessive nitrates in drinking water for infants?",
+      "o": [
+        "Instant immunity to cholera",
+        "Improved oxygen transport in every case",
+        "Elimination of all microbes",
+        "Methemoglobinemia"
+      ],
+      "a": 3,
+      "e": "High nitrate exposure can impair oxygen transport in infants.",
+      "d": "Easy",
+      "topic": "Water pollution",
+      "slo": "Identify, explain or apply the concept of water pollution."
+    },
+    {
+      "id": "CHEM9CH12-264",
+      "q": "For a Class 9 water-chemistry revision test, what is a potential effect of excessive nitrates in drinking water for infants?",
+      "o": [
+        "Instant immunity to cholera",
+        "Methemoglobinemia",
+        "Elimination of all microbes",
+        "Improved oxygen transport in every case"
+      ],
+      "a": 1,
+      "e": "High nitrate exposure can impair oxygen transport in infants.",
+      "d": "Medium",
+      "topic": "Water pollution",
+      "slo": "Identify, explain or apply the concept of water pollution."
+    },
+    {
+      "id": "CHEM9CH12-265",
+      "q": "For a Class 9 water-chemistry revision test, which is a point source of water pollution?",
+      "o": [
+        "Diffuse runoff from many fields",
+        "Rainfall across a whole region",
+        "Wind over the ocean",
+        "An identifiable factory discharge pipe"
+      ],
+      "a": 3,
+      "e": "A point source has a specific identifiable discharge location.",
+      "d": "Medium",
+      "topic": "Water pollution",
+      "slo": "Identify, explain or apply the concept of water pollution."
+    },
+    {
+      "id": "CHEM9CH12-266",
+      "q": "What is a likely effect of deforestation on a watershed?",
+      "o": [
+        "Guaranteed zero soil loss",
+        "Automatic purification of all rivers",
+        "Increased erosion and sediment runoff",
+        "Complete elimination of flooding"
+      ],
+      "a": 2,
+      "e": "Loss of vegetation can increase runoff and soil erosion.",
+      "d": "Easy",
+      "topic": "Water resources",
+      "slo": "Identify, explain or apply the concept of water resources."
+    },
+    {
+      "id": "CHEM9CH12-267",
+      "q": "What is a common laboratory use of distilled water?",
+      "o": [
+        "Producing sewage",
+        "Preparing chemical solutions",
+        "Adding hardness to boilers",
+        "Providing dissolved minerals to fish"
+      ],
+      "a": 1,
+      "e": "Distilled water helps avoid unwanted reactions from impurities.",
+      "d": "Easy",
+      "topic": "Distilled water",
+      "slo": "Identify, explain or apply the concept of distilled water."
+    },
+    {
+      "id": "CHEM9CH12-268",
+      "q": "For a Class 9 water-chemistry revision test, how can farms reduce nutrient runoff?",
+      "o": [
+        "Remove all vegetation near rivers",
+        "Direct manure into streams",
+        "Apply unlimited fertilizer before heavy rain",
+        "Apply fertilizers at appropriate rates and times"
+      ],
+      "a": 3,
+      "e": "Good nutrient management reduces excess nitrogen and phosphorus runoff.",
+      "d": "Medium",
+      "topic": "Pollution prevention",
+      "slo": "Identify, explain or apply the concept of pollution prevention."
+    },
+    {
+      "id": "CHEM9CH12-269",
+      "q": "Why is freshwater conservation important?",
+      "o": [
+        "All seawater is naturally drinkable",
+        "Water is never needed for agriculture",
+        "Accessible clean freshwater is limited",
+        "Freshwater cannot be polluted"
+      ],
+      "a": 2,
+      "e": "Usable freshwater is a limited resource and needs protection.",
+      "d": "Easy",
+      "topic": "Water conservation",
+      "slo": "Identify, explain or apply the concept of water conservation."
+    },
+    {
+      "id": "CHEM9CH12-270",
+      "q": "What is meant by water pollution?",
+      "o": [
+        "Introduction of harmful substances or changes into water",
+        "The formation of ice from water",
+        "Condensation in clouds",
+        "The natural evaporation of clean water"
+      ],
+      "a": 0,
+      "e": "Water pollution degrades water quality and may harm living things.",
+      "d": "Easy",
+      "topic": "Water pollution",
+      "slo": "Identify, explain or apply the concept of water pollution."
+    },
+    {
+      "id": "CHEM9CH12-271",
+      "q": "What is a benefit of testing water before and after treatment?",
+      "o": [
+        "Prove treatment is unnecessary without data",
+        "Determine how effectively contaminants are reduced",
+        "Guarantee all pollutants are visible",
+        "Measure only container size"
+      ],
+      "a": 1,
+      "e": "Before-and-after measurements evaluate treatment performance.",
+      "d": "Easy",
+      "topic": "Water treatment",
+      "slo": "Identify, explain or apply the concept of water treatment."
+    },
+    {
+      "id": "CHEM9CH12-272",
+      "q": "For a Class 9 water-chemistry revision test, at standard atmospheric pressure, what is the freezing point of pure water?",
+      "o": [
+        "0 °C",
+        "25 °C",
+        "50 °C",
+        "100 °C"
+      ],
+      "a": 0,
+      "e": "Pure water freezes at approximately 0 °C at 1 atm.",
+      "d": "Medium",
+      "topic": "Properties of water",
+      "slo": "Identify, explain or apply the concept of properties of water."
+    },
+    {
+      "id": "CHEM9CH12-273",
+      "q": "For a Class 9 water-chemistry revision test, which industrial practice helps protect water bodies?",
+      "o": [
+        "Treat effluent before discharge",
+        "Mix toxic waste with drinking water",
+        "Hide spills",
+        "Discharge untreated chemicals directly"
+      ],
+      "a": 0,
+      "e": "Effluent treatment reduces harmful contaminants before release.",
+      "d": "Medium",
+      "topic": "Pollution prevention",
+      "slo": "Identify, explain or apply the concept of pollution prevention."
+    },
+    {
+      "id": "CHEM9CH12-274",
+      "q": "Which characteristic alone does NOT prove that water is safe to drink?",
+      "o": [
+        "Clear appearance",
+        "Compliance with standards",
+        "Verified microbial safety",
+        "Acceptable chemical quality"
+      ],
+      "a": 0,
+      "e": "Clear water can still contain harmful microbes or dissolved contaminants.",
+      "d": "Easy",
+      "topic": "Drinking water",
+      "slo": "Identify, explain or apply the concept of drinking water."
+    },
+    {
+      "id": "CHEM9CH12-275",
+      "q": "For a Class 9 water-chemistry revision test, what is the main benefit of reusing treated wastewater where appropriate?",
+      "o": [
+        "Reducing demand for freshwater",
+        "Increasing raw sewage discharge",
+        "Guaranteeing all uses need no safety checks",
+        "Making rivers permanently dry"
+      ],
+      "a": 0,
+      "e": "Safe reuse can conserve freshwater for other needs.",
+      "d": "Medium",
+      "topic": "Water conservation",
+      "slo": "Identify, explain or apply the concept of water conservation."
+    },
+    {
+      "id": "CHEM9CH12-276",
+      "q": "For a Class 9 water-chemistry revision test, what is the water cycle process in which plants release water vapour?",
+      "o": [
+        "Transpiration",
+        "Precipitation",
+        "Sedimentation",
+        "Freezing"
+      ],
+      "a": 0,
+      "e": "Transpiration releases water vapour from plants.",
+      "d": "Medium",
+      "topic": "Water cycle",
+      "slo": "Identify, explain or apply the concept of water cycle."
+    },
+    {
+      "id": "CHEM9CH12-277",
+      "q": "What is the main risk of pesticide runoff into water bodies?",
+      "o": [
+        "Guaranteed improvement of drinking water",
+        "Toxic effects on aquatic organisms",
+        "Complete removal of nutrients",
+        "Formation of distilled water"
+      ],
+      "a": 1,
+      "e": "Some pesticides are toxic to aquatic life and may persist in the environment.",
+      "d": "Easy",
+      "topic": "Water pollution",
+      "slo": "Identify, explain or apply the concept of water pollution."
+    },
+    {
+      "id": "CHEM9CH12-278",
+      "q": "Which pollutant is commonly introduced by untreated sewage?",
+      "o": [
+        "Pure nitrogen gas",
+        "Only oxygen gas",
+        "Disease-causing microorganisms",
+        "Pure distilled water"
+      ],
+      "a": 2,
+      "e": "Untreated sewage can carry pathogens and organic waste.",
+      "d": "Easy",
+      "topic": "Water pollution",
+      "slo": "Identify, explain or apply the concept of water pollution."
+    },
+    {
+      "id": "CHEM9CH12-279",
+      "q": "What is the best immediate laboratory precaution when testing unknown polluted water?",
+      "o": [
+        "Pipette by mouth",
+        "Taste the sample",
+        "Wear appropriate protective equipment and avoid ingestion",
+        "Smell deeply from the container"
+      ],
+      "a": 2,
+      "e": "Unknown water may contain chemical and biological hazards.",
+      "d": "Easy",
+      "topic": "Water quality",
+      "slo": "Identify, explain or apply the concept of water quality."
+    },
+    {
+      "id": "CHEM9CH12-280",
+      "q": "For a Class 9 water-chemistry revision test, which aquatic organisms are especially threatened by low dissolved oxygen?",
+      "o": [
+        "Fish and other aerobic aquatic animals",
+        "Only airborne birds",
+        "Dry seeds",
+        "Only desert plants"
+      ],
+      "a": 0,
+      "e": "Aquatic animals require dissolved oxygen for respiration.",
+      "d": "Medium",
+      "topic": "Water pollution",
+      "slo": "Identify, explain or apply the concept of water pollution."
+    },
+    {
+      "id": "CHEM9CH12-281",
+      "q": "What does colourless mean when describing pure water?",
+      "o": [
+        "It has no intrinsic visible colour in small quantities",
+        "It contains dye",
+        "It is always blue in a glass",
+        "It emits white light"
+      ],
+      "a": 0,
+      "e": "A small sample of pure water appears colourless.",
+      "d": "Easy",
+      "topic": "Properties of water",
+      "slo": "Identify, explain or apply the concept of properties of water."
+    },
+    {
+      "id": "CHEM9CH12-282",
+      "q": "What is the main purpose of sand filtration in a treatment plant?",
+      "o": [
+        "Adding arsenic",
+        "Increasing turbidity",
+        "Making water radioactive",
+        "Removing remaining suspended solids"
+      ],
+      "a": 3,
+      "e": "Filter beds retain fine particles after settling.",
+      "d": "Easy",
+      "topic": "Water treatment",
+      "slo": "Identify, explain or apply the concept of water treatment."
+    },
+    {
+      "id": "CHEM9CH12-283",
+      "q": "For a Class 9 water-chemistry revision test, what is infiltration?",
+      "o": [
+        "Water flowing only in clouds",
+        "Water leaving plants as vapour",
+        "Ice melting inside a freezer",
+        "Water entering the soil from the surface"
+      ],
+      "a": 3,
+      "e": "Infiltration is the entry of surface water into soil.",
+      "d": "Medium",
+      "topic": "Water cycle",
+      "slo": "Identify, explain or apply the concept of water cycle."
+    },
+    {
+      "id": "CHEM9CH12-284",
+      "q": "Why is untreated river water not automatically safe for drinking?",
+      "o": [
+        "It may contain microbes and chemical contaminants",
+        "Rivers contain no dissolved substances",
+        "It cannot contain suspended matter",
+        "It always has pH 7"
+      ],
+      "a": 0,
+      "e": "Natural water may carry biological and chemical hazards.",
+      "d": "Easy",
+      "topic": "Drinking water",
+      "slo": "Identify, explain or apply the concept of drinking water."
+    },
+    {
+      "id": "CHEM9CH12-285",
+      "q": "For a Class 9 water-chemistry revision test, which test is directly related to acidity or alkalinity of water?",
+      "o": [
+        "pH measurement",
+        "Magnetic susceptibility",
+        "Flame colour alone",
+        "Mass number determination"
+      ],
+      "a": 0,
+      "e": "pH measures the acidity or basicity of an aqueous sample.",
+      "d": "Medium",
+      "topic": "Water quality",
+      "slo": "Identify, explain or apply the concept of water quality."
+    },
+    {
+      "id": "CHEM9CH12-286",
+      "q": "For a Class 9 water-chemistry revision test, what is an important industrial use of water?",
+      "o": [
+        "Turning metals into wood",
+        "Preventing any chemical reaction",
+        "Cooling equipment",
+        "Replacing all fuels"
+      ],
+      "a": 2,
+      "e": "Water is widely used as a coolant in industrial processes.",
+      "d": "Medium",
+      "topic": "Uses of water",
+      "slo": "Identify, explain or apply the concept of uses of water."
+    },
+    {
+      "id": "CHEM9CH12-287",
+      "q": "What is dissolved oxygen (DO)?",
+      "o": [
+        "Oxygen chemically bound in H2O only",
+        "Chlorine dissolved in water",
+        "Solid oxygen crystals",
+        "Oxygen gas present in water"
+      ],
+      "a": 3,
+      "e": "DO is molecular oxygen dissolved in water and available to aquatic life.",
+      "d": "Easy",
+      "topic": "Water quality",
+      "slo": "Identify, explain or apply the concept of water quality."
+    },
+    {
+      "id": "CHEM9CH12-288",
+      "q": "Which pH indicates a basic water sample?",
+      "o": [
+        "2",
+        "10",
+        "6",
+        "4"
+      ],
+      "a": 1,
+      "e": "A pH above 7 indicates alkalinity at about 25 °C.",
+      "d": "Easy",
+      "topic": "Water quality",
+      "slo": "Identify, explain or apply the concept of water quality."
+    },
+    {
+      "id": "CHEM9CH12-289",
+      "q": "What does sustainable water use mean?",
+      "o": [
+        "Using all groundwater immediately",
+        "Meeting current needs without undermining future water availability",
+        "Discharging untreated sewage for convenience",
+        "Ignoring ecosystem needs"
+      ],
+      "a": 1,
+      "e": "Sustainable use balances human demand with long-term resource protection.",
+      "d": "Easy",
+      "topic": "Water conservation",
+      "slo": "Identify, explain or apply the concept of water conservation."
+    },
+    {
+      "id": "CHEM9CH12-290",
+      "q": "For a Class 9 water-chemistry revision test, which action best reduces household water pollution?",
+      "o": [
+        "Pour motor oil into drains",
+        "Discard medicines into rivers",
+        "Release raw sewage",
+        "Dispose of oils and chemicals responsibly"
+      ],
+      "a": 3,
+      "e": "Responsible waste disposal prevents harmful substances entering drains and waterways.",
+      "d": "Medium",
+      "topic": "Pollution prevention",
+      "slo": "Identify, explain or apply the concept of pollution prevention."
+    },
+    {
+      "id": "CHEM9CH12-291",
+      "q": "What is drip irrigation?",
+      "o": [
+        "Using seawater without considering salinity",
+        "Delivering water slowly near plant roots",
+        "Releasing untreated sewage onto fields",
+        "Spraying all water into the air"
+      ],
+      "a": 1,
+      "e": "Drip systems deliver water near roots and can reduce evaporation and runoff.",
+      "d": "Easy",
+      "topic": "Water conservation",
+      "slo": "Identify, explain or apply the concept of water conservation."
+    },
+    {
+      "id": "CHEM9CH12-292",
+      "q": "What is the purpose of vegetated buffer strips beside streams?",
+      "o": [
+        "Increase direct fertilizer discharge",
+        "Trap sediments and some nutrients from runoff",
+        "Convert water into petroleum",
+        "Stop all rainfall"
+      ],
+      "a": 1,
+      "e": "Vegetation slows runoff and helps retain sediments and nutrients.",
+      "d": "Easy",
+      "topic": "Pollution prevention",
+      "slo": "Identify, explain or apply the concept of pollution prevention."
+    },
+    {
+      "id": "CHEM9CH12-293",
+      "q": "What does a low dissolved-oxygen reading in a polluted stream suggest?",
+      "o": [
+        "Possible stress for aquatic animals",
+        "No decomposition activity",
+        "No need for further investigation",
+        "Guaranteed ideal fish habitat"
+      ],
+      "a": 0,
+      "e": "Low DO can indicate pollution or other conditions stressful to aquatic organisms.",
+      "d": "Easy",
+      "topic": "Water quality",
+      "slo": "Identify, explain or apply the concept of water quality."
+    },
+    {
+      "id": "CHEM9CH12-294",
+      "q": "For a Class 9 water-chemistry revision test, what is a common effect of industrial wastewater?",
+      "o": [
+        "Conversion of all water to ice",
+        "Elimination of dissolved substances",
+        "Introduction of harmful chemicals or metals",
+        "Automatic sterilization of rivers"
+      ],
+      "a": 2,
+      "e": "Industrial effluents can carry toxic chemicals and heavy metals.",
+      "d": "Medium",
+      "topic": "Water pollution",
+      "slo": "Identify, explain or apply the concept of water pollution."
+    },
+    {
+      "id": "CHEM9CH12-295",
+      "q": "What is a major public-health advantage of protecting wells from sewage?",
+      "o": [
+        "Higher levels of pathogenic bacteria",
+        "More direct wastewater entry",
+        "Lower risk of fecal contamination",
+        "Guaranteed elimination of all metals"
+      ],
+      "a": 2,
+      "e": "Protecting wells reduces microbial contamination risks.",
+      "d": "Easy",
+      "topic": "Waterborne diseases",
+      "slo": "Identify, explain or apply the concept of waterborne diseases."
+    },
+    {
+      "id": "CHEM9CH12-296",
+      "q": "For a Class 9 water-chemistry revision test, what can happen when untreated hot industrial water enters a river?",
+      "o": [
+        "Water always freezes instantly",
+        "Dissolved oxygen availability may fall",
+        "All fish gain oxygen",
+        "No ecosystem change is possible"
+      ],
+      "a": 1,
+      "e": "Warmer water holds less dissolved oxygen and may stress aquatic organisms.",
+      "d": "Medium",
+      "topic": "Thermal pollution",
+      "slo": "Identify, explain or apply the concept of thermal pollution."
+    },
+    {
+      "id": "CHEM9CH12-297",
+      "q": "Which laboratory apparatus collects the condensed liquid during distillation?",
+      "o": [
+        "Filter paper",
+        "Evaporating dish only",
+        "Bunsen burner",
+        "Receiving flask"
+      ],
+      "a": 3,
+      "e": "The receiver collects the distillate.",
+      "d": "Easy",
+      "topic": "Distilled water",
+      "slo": "Identify, explain or apply the concept of distilled water."
+    },
+    {
+      "id": "CHEM9CH12-298",
+      "q": "What is a common route of transmission of cholera?",
+      "o": [
+        "Drinking fecally contaminated water",
+        "Inhaling clean oxygen",
+        "Sunlight exposure alone",
+        "Touching dry iron"
+      ],
+      "a": 0,
+      "e": "Cholera is transmitted through contaminated water or food.",
+      "d": "Easy",
+      "topic": "Waterborne diseases",
+      "slo": "Identify, explain or apply the concept of waterborne diseases."
+    },
+    {
+      "id": "CHEM9CH12-299",
+      "q": "For a Class 9 water-chemistry revision test, which process passes water through a porous medium to remove particles?",
+      "o": [
+        "Freezing",
+        "Filtration",
+        "Neutralization only",
+        "Distillation only"
+      ],
+      "a": 1,
+      "e": "Filtration traps suspended particles.",
+      "d": "Medium",
+      "topic": "Water treatment",
+      "slo": "Identify, explain or apply the concept of water treatment."
+    },
+    {
+      "id": "CHEM9CH12-300",
+      "q": "Which process passes water through a porous medium to remove particles?",
+      "o": [
+        "Freezing",
+        "Neutralization only",
+        "Distillation only",
+        "Filtration"
+      ],
+      "a": 3,
+      "e": "Filtration traps suspended particles.",
+      "d": "Easy",
+      "topic": "Water treatment",
+      "slo": "Identify, explain or apply the concept of water treatment."
+    }
+  ]
+}

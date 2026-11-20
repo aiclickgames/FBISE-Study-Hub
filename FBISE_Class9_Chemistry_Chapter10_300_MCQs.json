@@ -1,0 +1,4504 @@
+{
+  "questions": [
+    {
+      "id": "CHEM9CH10-001",
+      "q": "According to Arrhenius, an acid produces which ion in water?",
+      "o": [
+        "Na+",
+        "H+",
+        "Cl-",
+        "OH-"
+      ],
+      "a": 1,
+      "e": "Arrhenius acids increase hydrogen-ion concentration in water.",
+      "d": "Easy",
+      "topic": "Acid-base concepts",
+      "slo": "Explain and apply acid-base concepts in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-002",
+      "q": "In a Class 9 chemistry exercise, according to Arrhenius, an acid produces which ion in water?",
+      "o": [
+        "H+",
+        "Cl-",
+        "OH-",
+        "Na+"
+      ],
+      "a": 0,
+      "e": "Arrhenius acids increase hydrogen-ion concentration in water.",
+      "d": "Medium",
+      "topic": "Acid-base concepts",
+      "slo": "Explain and apply acid-base concepts in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-003",
+      "q": "Select the scientifically correct answer: According to Arrhenius, an acid produces which ion in water?",
+      "o": [
+        "Cl-",
+        "Na+",
+        "H+",
+        "OH-"
+      ],
+      "a": 2,
+      "e": "Arrhenius acids increase hydrogen-ion concentration in water.",
+      "d": "Hard",
+      "topic": "Acid-base concepts",
+      "slo": "Explain and apply acid-base concepts in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-004",
+      "q": "According to Arrhenius, a base produces which ion in water?",
+      "o": [
+        "Cl-",
+        "SO4^2-",
+        "OH-",
+        "H+"
+      ],
+      "a": 2,
+      "e": "Arrhenius bases increase hydroxide-ion concentration in water.",
+      "d": "Easy",
+      "topic": "Acid-base concepts",
+      "slo": "Explain and apply acid-base concepts in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-005",
+      "q": "In a Class 9 chemistry exercise, according to Arrhenius, a base produces which ion in water?",
+      "o": [
+        "H+",
+        "OH-",
+        "SO4^2-",
+        "Cl-"
+      ],
+      "a": 1,
+      "e": "Arrhenius bases increase hydroxide-ion concentration in water.",
+      "d": "Medium",
+      "topic": "Acid-base concepts",
+      "slo": "Explain and apply acid-base concepts in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-006",
+      "q": "Select the scientifically correct answer: According to Arrhenius, a base produces which ion in water?",
+      "o": [
+        "OH-",
+        "Cl-",
+        "H+",
+        "SO4^2-"
+      ],
+      "a": 0,
+      "e": "Arrhenius bases increase hydroxide-ion concentration in water.",
+      "d": "Hard",
+      "topic": "Acid-base concepts",
+      "slo": "Explain and apply acid-base concepts in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-007",
+      "q": "Which definition describes a Brønsted–Lowry acid?",
+      "o": [
+        "Electron-pair donor",
+        "Proton acceptor",
+        "Hydroxide producer only",
+        "Proton donor"
+      ],
+      "a": 3,
+      "e": "A Brønsted–Lowry acid donates a proton.",
+      "d": "Easy",
+      "topic": "Acid-base concepts",
+      "slo": "Explain and apply acid-base concepts in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-008",
+      "q": "In a Class 9 chemistry exercise, which definition describes a Brønsted–Lowry acid?",
+      "o": [
+        "Hydroxide producer only",
+        "Electron-pair donor",
+        "Proton donor",
+        "Proton acceptor"
+      ],
+      "a": 2,
+      "e": "A Brønsted–Lowry acid donates a proton.",
+      "d": "Medium",
+      "topic": "Acid-base concepts",
+      "slo": "Explain and apply acid-base concepts in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-009",
+      "q": "Select the scientifically correct answer: Which definition describes a Brønsted–Lowry acid?",
+      "o": [
+        "Electron-pair donor",
+        "Proton acceptor",
+        "Hydroxide producer only",
+        "Proton donor"
+      ],
+      "a": 3,
+      "e": "A Brønsted–Lowry acid donates a proton.",
+      "d": "Hard",
+      "topic": "Acid-base concepts",
+      "slo": "Explain and apply acid-base concepts in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-010",
+      "q": "Which definition describes a Brønsted–Lowry base?",
+      "o": [
+        "Proton donor",
+        "Hydrogen-ion producer only",
+        "Electron-pair acceptor",
+        "Proton acceptor"
+      ],
+      "a": 3,
+      "e": "A Brønsted–Lowry base accepts a proton.",
+      "d": "Easy",
+      "topic": "Acid-base concepts",
+      "slo": "Explain and apply acid-base concepts in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-011",
+      "q": "In a Class 9 chemistry exercise, which definition describes a Brønsted–Lowry base?",
+      "o": [
+        "Proton donor",
+        "Electron-pair acceptor",
+        "Hydrogen-ion producer only",
+        "Proton acceptor"
+      ],
+      "a": 3,
+      "e": "A Brønsted–Lowry base accepts a proton.",
+      "d": "Medium",
+      "topic": "Acid-base concepts",
+      "slo": "Explain and apply acid-base concepts in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-012",
+      "q": "Select the scientifically correct answer: Which definition describes a Brønsted–Lowry base?",
+      "o": [
+        "Electron-pair acceptor",
+        "Hydrogen-ion producer only",
+        "Proton donor",
+        "Proton acceptor"
+      ],
+      "a": 3,
+      "e": "A Brønsted–Lowry base accepts a proton.",
+      "d": "Hard",
+      "topic": "Acid-base concepts",
+      "slo": "Explain and apply acid-base concepts in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-013",
+      "q": "Why does the Brønsted–Lowry theory explain NH3 acting as a base?",
+      "o": [
+        "NH3 is a metal oxide",
+        "NH3 donates a proton to water",
+        "NH3 accepts a proton",
+        "NH3 contains an OH group"
+      ],
+      "a": 2,
+      "e": "Ammonia accepts H+ from water to form NH4+.",
+      "d": "Easy",
+      "topic": "Acid-base concepts",
+      "slo": "Explain and apply acid-base concepts in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-014",
+      "q": "In a Class 9 chemistry exercise, why does the Brønsted–Lowry theory explain NH3 acting as a base?",
+      "o": [
+        "NH3 accepts a proton",
+        "NH3 contains an OH group",
+        "NH3 is a metal oxide",
+        "NH3 donates a proton to water"
+      ],
+      "a": 0,
+      "e": "Ammonia accepts H+ from water to form NH4+.",
+      "d": "Medium",
+      "topic": "Acid-base concepts",
+      "slo": "Explain and apply acid-base concepts in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-015",
+      "q": "Select the scientifically correct answer: Why does the Brønsted–Lowry theory explain NH3 acting as a base?",
+      "o": [
+        "NH3 is a metal oxide",
+        "NH3 accepts a proton",
+        "NH3 donates a proton to water",
+        "NH3 contains an OH group"
+      ],
+      "a": 1,
+      "e": "Ammonia accepts H+ from water to form NH4+.",
+      "d": "Hard",
+      "topic": "Acid-base concepts",
+      "slo": "Explain and apply acid-base concepts in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-016",
+      "q": "Which ion forms when ammonia accepts a proton?",
+      "o": [
+        "N2+",
+        "NH2-",
+        "NH4+",
+        "NO3-"
+      ],
+      "a": 2,
+      "e": "NH3 + H+ forms ammonium, NH4+.",
+      "d": "Easy",
+      "topic": "Acid-base concepts",
+      "slo": "Explain and apply acid-base concepts in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-017",
+      "q": "In a Class 9 chemistry exercise, which ion forms when ammonia accepts a proton?",
+      "o": [
+        "N2+",
+        "NH2-",
+        "NO3-",
+        "NH4+"
+      ],
+      "a": 3,
+      "e": "NH3 + H+ forms ammonium, NH4+.",
+      "d": "Medium",
+      "topic": "Acid-base concepts",
+      "slo": "Explain and apply acid-base concepts in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-018",
+      "q": "Select the scientifically correct answer: Which ion forms when ammonia accepts a proton?",
+      "o": [
+        "NO3-",
+        "NH4+",
+        "NH2-",
+        "N2+"
+      ],
+      "a": 1,
+      "e": "NH3 + H+ forms ammonium, NH4+.",
+      "d": "Hard",
+      "topic": "Acid-base concepts",
+      "slo": "Explain and apply acid-base concepts in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-019",
+      "q": "What is formed when HCl donates a proton?",
+      "o": [
+        "Cl+",
+        "OH-",
+        "Cl-",
+        "H2Cl+"
+      ],
+      "a": 2,
+      "e": "Loss of H+ from HCl leaves chloride, Cl-.",
+      "d": "Easy",
+      "topic": "Acid-base concepts",
+      "slo": "Explain and apply acid-base concepts in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-020",
+      "q": "In a Class 9 chemistry exercise, what is formed when HCl donates a proton?",
+      "o": [
+        "Cl-",
+        "OH-",
+        "H2Cl+",
+        "Cl+"
+      ],
+      "a": 0,
+      "e": "Loss of H+ from HCl leaves chloride, Cl-.",
+      "d": "Medium",
+      "topic": "Acid-base concepts",
+      "slo": "Explain and apply acid-base concepts in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-021",
+      "q": "Select the scientifically correct answer: What is formed when HCl donates a proton?",
+      "o": [
+        "Cl+",
+        "OH-",
+        "Cl-",
+        "H2Cl+"
+      ],
+      "a": 2,
+      "e": "Loss of H+ from HCl leaves chloride, Cl-.",
+      "d": "Hard",
+      "topic": "Acid-base concepts",
+      "slo": "Explain and apply acid-base concepts in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-022",
+      "q": "Which substance is a proton donor in HCl + H2O → H3O+ + Cl-?",
+      "o": [
+        "H3O+",
+        "Cl-",
+        "H2O",
+        "HCl"
+      ],
+      "a": 3,
+      "e": "HCl transfers H+ to water.",
+      "d": "Easy",
+      "topic": "Acid-base concepts",
+      "slo": "Explain and apply acid-base concepts in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-023",
+      "q": "In a Class 9 chemistry exercise, which substance is a proton donor in HCl + H2O → H3O+ + Cl-?",
+      "o": [
+        "H2O",
+        "Cl-",
+        "HCl",
+        "H3O+"
+      ],
+      "a": 2,
+      "e": "HCl transfers H+ to water.",
+      "d": "Medium",
+      "topic": "Acid-base concepts",
+      "slo": "Explain and apply acid-base concepts in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-024",
+      "q": "Select the scientifically correct answer: Which substance is a proton donor in HCl + H2O → H3O+ + Cl-?",
+      "o": [
+        "H3O+",
+        "H2O",
+        "Cl-",
+        "HCl"
+      ],
+      "a": 3,
+      "e": "HCl transfers H+ to water.",
+      "d": "Hard",
+      "topic": "Acid-base concepts",
+      "slo": "Explain and apply acid-base concepts in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-025",
+      "q": "Which substance acts as a proton acceptor in HCl + H2O → H3O+ + Cl-?",
+      "o": [
+        "Cl-",
+        "H2O",
+        "HCl",
+        "H3O+"
+      ],
+      "a": 1,
+      "e": "Water accepts the proton and becomes H3O+.",
+      "d": "Easy",
+      "topic": "Acid-base concepts",
+      "slo": "Explain and apply acid-base concepts in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-026",
+      "q": "In a Class 9 chemistry exercise, which substance acts as a proton acceptor in HCl + H2O → H3O+ + Cl-?",
+      "o": [
+        "HCl",
+        "H2O",
+        "H3O+",
+        "Cl-"
+      ],
+      "a": 1,
+      "e": "Water accepts the proton and becomes H3O+.",
+      "d": "Medium",
+      "topic": "Acid-base concepts",
+      "slo": "Explain and apply acid-base concepts in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-027",
+      "q": "Select the scientifically correct answer: Which substance acts as a proton acceptor in HCl + H2O → H3O+ + Cl-?",
+      "o": [
+        "HCl",
+        "Cl-",
+        "H3O+",
+        "H2O"
+      ],
+      "a": 3,
+      "e": "Water accepts the proton and becomes H3O+.",
+      "d": "Hard",
+      "topic": "Acid-base concepts",
+      "slo": "Explain and apply acid-base concepts in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-028",
+      "q": "What is the formula of the hydronium ion?",
+      "o": [
+        "H3O-",
+        "OH-",
+        "H2O2",
+        "H3O+"
+      ],
+      "a": 3,
+      "e": "A proton attaches to water to form H3O+.",
+      "d": "Easy",
+      "topic": "Acid-base concepts",
+      "slo": "Explain and apply acid-base concepts in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-029",
+      "q": "In a Class 9 chemistry exercise, what is the formula of the hydronium ion?",
+      "o": [
+        "H3O-",
+        "H2O2",
+        "H3O+",
+        "OH-"
+      ],
+      "a": 2,
+      "e": "A proton attaches to water to form H3O+.",
+      "d": "Medium",
+      "topic": "Acid-base concepts",
+      "slo": "Explain and apply acid-base concepts in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-030",
+      "q": "Select the scientifically correct answer: What is the formula of the hydronium ion?",
+      "o": [
+        "H2O2",
+        "H3O-",
+        "H3O+",
+        "OH-"
+      ],
+      "a": 2,
+      "e": "A proton attaches to water to form H3O+.",
+      "d": "Hard",
+      "topic": "Acid-base concepts",
+      "slo": "Explain and apply acid-base concepts in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-031",
+      "q": "What is the formula of the hydroxide ion?",
+      "o": [
+        "O2-",
+        "OH-",
+        "H3O+",
+        "HO2-"
+      ],
+      "a": 1,
+      "e": "Hydroxide is OH-.",
+      "d": "Easy",
+      "topic": "Acid-base concepts",
+      "slo": "Explain and apply acid-base concepts in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-032",
+      "q": "In a Class 9 chemistry exercise, what is the formula of the hydroxide ion?",
+      "o": [
+        "OH-",
+        "HO2-",
+        "H3O+",
+        "O2-"
+      ],
+      "a": 0,
+      "e": "Hydroxide is OH-.",
+      "d": "Medium",
+      "topic": "Acid-base concepts",
+      "slo": "Explain and apply acid-base concepts in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-033",
+      "q": "Why is water amphoteric?",
+      "o": [
+        "It cannot undergo proton transfer",
+        "It always acts as a base",
+        "It can donate or accept a proton",
+        "It always acts as an acid"
+      ],
+      "a": 2,
+      "e": "Water acts as an acid or base depending on the reaction.",
+      "d": "Easy",
+      "topic": "Acid-base concepts",
+      "slo": "Explain and apply acid-base concepts in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-034",
+      "q": "In a Class 9 chemistry exercise, why is water amphoteric?",
+      "o": [
+        "It always acts as a base",
+        "It always acts as an acid",
+        "It can donate or accept a proton",
+        "It cannot undergo proton transfer"
+      ],
+      "a": 2,
+      "e": "Water acts as an acid or base depending on the reaction.",
+      "d": "Medium",
+      "topic": "Acid-base concepts",
+      "slo": "Explain and apply acid-base concepts in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-035",
+      "q": "Which pair is a conjugate acid–base pair?",
+      "o": [
+        "NaCl and H2O",
+        "NH4+ and NH3",
+        "H2SO4 and NaCl",
+        "HCl and NaOH"
+      ],
+      "a": 1,
+      "e": "Conjugate partners differ by one proton.",
+      "d": "Easy",
+      "topic": "Acid-base concepts",
+      "slo": "Explain and apply acid-base concepts in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-036",
+      "q": "In a Class 9 chemistry exercise, which pair is a conjugate acid–base pair?",
+      "o": [
+        "NaCl and H2O",
+        "HCl and NaOH",
+        "H2SO4 and NaCl",
+        "NH4+ and NH3"
+      ],
+      "a": 3,
+      "e": "Conjugate partners differ by one proton.",
+      "d": "Medium",
+      "topic": "Acid-base concepts",
+      "slo": "Explain and apply acid-base concepts in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-037",
+      "q": "What is the conjugate base of H2O?",
+      "o": [
+        "O2",
+        "OH-",
+        "H2O2",
+        "H3O+"
+      ],
+      "a": 1,
+      "e": "Removing H+ from water produces OH-.",
+      "d": "Easy",
+      "topic": "Acid-base concepts",
+      "slo": "Explain and apply acid-base concepts in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-038",
+      "q": "In a Class 9 chemistry exercise, what is the conjugate base of H2O?",
+      "o": [
+        "O2",
+        "OH-",
+        "H2O2",
+        "H3O+"
+      ],
+      "a": 1,
+      "e": "Removing H+ from water produces OH-.",
+      "d": "Medium",
+      "topic": "Acid-base concepts",
+      "slo": "Explain and apply acid-base concepts in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-039",
+      "q": "What is the conjugate acid of H2O?",
+      "o": [
+        "H2",
+        "OH-",
+        "O2",
+        "H3O+"
+      ],
+      "a": 3,
+      "e": "Adding H+ to water produces hydronium.",
+      "d": "Easy",
+      "topic": "Acid-base concepts",
+      "slo": "Explain and apply acid-base concepts in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-040",
+      "q": "In a Class 9 chemistry exercise, what is the conjugate acid of H2O?",
+      "o": [
+        "H3O+",
+        "OH-",
+        "O2",
+        "H2"
+      ],
+      "a": 0,
+      "e": "Adding H+ to water produces hydronium.",
+      "d": "Medium",
+      "topic": "Acid-base concepts",
+      "slo": "Explain and apply acid-base concepts in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-041",
+      "q": "What is the conjugate acid of NH3?",
+      "o": [
+        "NO3-",
+        "NH4+",
+        "NH2-",
+        "N2"
+      ],
+      "a": 1,
+      "e": "Ammonia accepts a proton to form NH4+.",
+      "d": "Easy",
+      "topic": "Acid-base concepts",
+      "slo": "Explain and apply acid-base concepts in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-042",
+      "q": "In a Class 9 chemistry exercise, what is the conjugate acid of NH3?",
+      "o": [
+        "NH4+",
+        "NH2-",
+        "NO3-",
+        "N2"
+      ],
+      "a": 0,
+      "e": "Ammonia accepts a proton to form NH4+.",
+      "d": "Medium",
+      "topic": "Acid-base concepts",
+      "slo": "Explain and apply acid-base concepts in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-043",
+      "q": "What is the conjugate base of H2SO4 after donating one proton?",
+      "o": [
+        "H3SO4+",
+        "SO4^2-",
+        "HSO4-",
+        "HS-"
+      ],
+      "a": 2,
+      "e": "Loss of one H+ from H2SO4 gives HSO4-.",
+      "d": "Easy",
+      "topic": "Acid-base concepts",
+      "slo": "Explain and apply acid-base concepts in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-044",
+      "q": "In a Class 9 chemistry exercise, what is the conjugate base of H2SO4 after donating one proton?",
+      "o": [
+        "HSO4-",
+        "SO4^2-",
+        "H3SO4+",
+        "HS-"
+      ],
+      "a": 0,
+      "e": "Loss of one H+ from H2SO4 gives HSO4-.",
+      "d": "Medium",
+      "topic": "Acid-base concepts",
+      "slo": "Explain and apply acid-base concepts in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-045",
+      "q": "What is the conjugate base of HSO4-?",
+      "o": [
+        "H2S",
+        "H2SO4",
+        "SO3^2-",
+        "SO4^2-"
+      ],
+      "a": 3,
+      "e": "HSO4- loses H+ to give sulfate.",
+      "d": "Easy",
+      "topic": "Acid-base concepts",
+      "slo": "Explain and apply acid-base concepts in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-046",
+      "q": "In a Class 9 chemistry exercise, what is the conjugate base of HSO4-?",
+      "o": [
+        "SO3^2-",
+        "H2S",
+        "H2SO4",
+        "SO4^2-"
+      ],
+      "a": 3,
+      "e": "HSO4- loses H+ to give sulfate.",
+      "d": "Medium",
+      "topic": "Acid-base concepts",
+      "slo": "Explain and apply acid-base concepts in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-047",
+      "q": "Which is an Arrhenius base?",
+      "o": [
+        "NaOH",
+        "HCl",
+        "H2SO4",
+        "HNO3"
+      ],
+      "a": 0,
+      "e": "Sodium hydroxide releases OH- in water.",
+      "d": "Easy",
+      "topic": "Acid-base concepts",
+      "slo": "Explain and apply acid-base concepts in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-048",
+      "q": "In a Class 9 chemistry exercise, which is an Arrhenius base?",
+      "o": [
+        "HNO3",
+        "HCl",
+        "H2SO4",
+        "NaOH"
+      ],
+      "a": 3,
+      "e": "Sodium hydroxide releases OH- in water.",
+      "d": "Medium",
+      "topic": "Acid-base concepts",
+      "slo": "Explain and apply acid-base concepts in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-049",
+      "q": "Which is an Arrhenius acid?",
+      "o": [
+        "NaOH",
+        "HNO3",
+        "KOH",
+        "Ca(OH)2"
+      ],
+      "a": 1,
+      "e": "Nitric acid releases H+ in aqueous solution.",
+      "d": "Easy",
+      "topic": "Acid-base concepts",
+      "slo": "Explain and apply acid-base concepts in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-050",
+      "q": "In a Class 9 chemistry exercise, which is an Arrhenius acid?",
+      "o": [
+        "HNO3",
+        "NaOH",
+        "Ca(OH)2",
+        "KOH"
+      ],
+      "a": 0,
+      "e": "Nitric acid releases H+ in aqueous solution.",
+      "d": "Medium",
+      "topic": "Acid-base concepts",
+      "slo": "Explain and apply acid-base concepts in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-051",
+      "q": "What is the usual taste associated with acids?",
+      "o": [
+        "Sour",
+        "Sweet only",
+        "Bitter",
+        "Salty only"
+      ],
+      "a": 0,
+      "e": "Acids are typically sour; tasting chemicals is unsafe.",
+      "d": "Easy",
+      "topic": "Properties of acids",
+      "slo": "Explain and apply properties of acids in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-052",
+      "q": "In a Class 9 chemistry exercise, what is the usual taste associated with acids?",
+      "o": [
+        "Bitter",
+        "Sour",
+        "Salty only",
+        "Sweet only"
+      ],
+      "a": 1,
+      "e": "Acids are typically sour; tasting chemicals is unsafe.",
+      "d": "Medium",
+      "topic": "Properties of acids",
+      "slo": "Explain and apply properties of acids in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-053",
+      "q": "What is the usual taste associated with bases?",
+      "o": [
+        "Metallic",
+        "Sour",
+        "Bitter",
+        "Sweet"
+      ],
+      "a": 2,
+      "e": "Bases are typically bitter; tasting laboratory chemicals is unsafe.",
+      "d": "Easy",
+      "topic": "Properties of bases",
+      "slo": "Explain and apply properties of bases in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-054",
+      "q": "In a Class 9 chemistry exercise, what is the usual taste associated with bases?",
+      "o": [
+        "Metallic",
+        "Bitter",
+        "Sweet",
+        "Sour"
+      ],
+      "a": 1,
+      "e": "Bases are typically bitter; tasting laboratory chemicals is unsafe.",
+      "d": "Medium",
+      "topic": "Properties of bases",
+      "slo": "Explain and apply properties of bases in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-055",
+      "q": "What sensation is associated with many aqueous bases?",
+      "o": [
+        "Gritty",
+        "Slippery",
+        "Sticky like sugar",
+        "Dry and powdery in all cases"
+      ],
+      "a": 1,
+      "e": "Many basic solutions feel slippery, though they must not be touched.",
+      "d": "Easy",
+      "topic": "Properties of bases",
+      "slo": "Explain and apply properties of bases in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-056",
+      "q": "In a Class 9 chemistry exercise, what sensation is associated with many aqueous bases?",
+      "o": [
+        "Slippery",
+        "Gritty",
+        "Sticky like sugar",
+        "Dry and powdery in all cases"
+      ],
+      "a": 0,
+      "e": "Many basic solutions feel slippery, though they must not be touched.",
+      "d": "Medium",
+      "topic": "Properties of bases",
+      "slo": "Explain and apply properties of bases in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-057",
+      "q": "What colour does blue litmus turn in an acidic solution?",
+      "o": [
+        "Red",
+        "Yellow",
+        "Blue",
+        "Green"
+      ],
+      "a": 0,
+      "e": "Acids turn blue litmus red.",
+      "d": "Easy",
+      "topic": "Indicators",
+      "slo": "Explain and apply indicators in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-058",
+      "q": "In a Class 9 chemistry exercise, what colour does blue litmus turn in an acidic solution?",
+      "o": [
+        "Blue",
+        "Green",
+        "Yellow",
+        "Red"
+      ],
+      "a": 3,
+      "e": "Acids turn blue litmus red.",
+      "d": "Medium",
+      "topic": "Indicators",
+      "slo": "Explain and apply indicators in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-059",
+      "q": "What colour does red litmus turn in a basic solution?",
+      "o": [
+        "Red",
+        "Blue",
+        "Colourless",
+        "Orange"
+      ],
+      "a": 1,
+      "e": "Bases turn red litmus blue.",
+      "d": "Easy",
+      "topic": "Indicators",
+      "slo": "Explain and apply indicators in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-060",
+      "q": "In a Class 9 chemistry exercise, what colour does red litmus turn in a basic solution?",
+      "o": [
+        "Blue",
+        "Orange",
+        "Red",
+        "Colourless"
+      ],
+      "a": 0,
+      "e": "Bases turn red litmus blue.",
+      "d": "Medium",
+      "topic": "Indicators",
+      "slo": "Explain and apply indicators in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-061",
+      "q": "What happens to red litmus in an acidic solution?",
+      "o": [
+        "It becomes colourless",
+        "It remains red",
+        "It turns green",
+        "It turns blue"
+      ],
+      "a": 1,
+      "e": "Acid does not change red litmus.",
+      "d": "Easy",
+      "topic": "Indicators",
+      "slo": "Explain and apply indicators in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-062",
+      "q": "In a Class 9 chemistry exercise, what happens to red litmus in an acidic solution?",
+      "o": [
+        "It remains red",
+        "It turns blue",
+        "It becomes colourless",
+        "It turns green"
+      ],
+      "a": 0,
+      "e": "Acid does not change red litmus.",
+      "d": "Medium",
+      "topic": "Indicators",
+      "slo": "Explain and apply indicators in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-063",
+      "q": "What happens to blue litmus in a basic solution?",
+      "o": [
+        "It becomes colourless",
+        "It turns red",
+        "It remains blue",
+        "It turns yellow"
+      ],
+      "a": 2,
+      "e": "Base does not change blue litmus.",
+      "d": "Easy",
+      "topic": "Indicators",
+      "slo": "Explain and apply indicators in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-064",
+      "q": "In a Class 9 chemistry exercise, what happens to blue litmus in a basic solution?",
+      "o": [
+        "It becomes colourless",
+        "It turns yellow",
+        "It remains blue",
+        "It turns red"
+      ],
+      "a": 2,
+      "e": "Base does not change blue litmus.",
+      "d": "Medium",
+      "topic": "Indicators",
+      "slo": "Explain and apply indicators in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-065",
+      "q": "Which gas is usually produced when zinc reacts with dilute hydrochloric acid?",
+      "o": [
+        "Hydrogen",
+        "Carbon dioxide",
+        "Nitrogen",
+        "Oxygen"
+      ],
+      "a": 0,
+      "e": "Zn + 2HCl → ZnCl2 + H2.",
+      "d": "Easy",
+      "topic": "Properties of acids",
+      "slo": "Explain and apply properties of acids in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-066",
+      "q": "In a Class 9 chemistry exercise, which gas is usually produced when zinc reacts with dilute hydrochloric acid?",
+      "o": [
+        "Hydrogen",
+        "Oxygen",
+        "Nitrogen",
+        "Carbon dioxide"
+      ],
+      "a": 0,
+      "e": "Zn + 2HCl → ZnCl2 + H2.",
+      "d": "Medium",
+      "topic": "Properties of acids",
+      "slo": "Explain and apply properties of acids in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-067",
+      "q": "Which gas is produced when calcium carbonate reacts with hydrochloric acid?",
+      "o": [
+        "Hydrogen",
+        "Oxygen",
+        "Chlorine",
+        "Carbon dioxide"
+      ],
+      "a": 3,
+      "e": "Carbonates react with acids to release CO2.",
+      "d": "Easy",
+      "topic": "Properties of acids",
+      "slo": "Explain and apply properties of acids in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-068",
+      "q": "In a Class 9 chemistry exercise, which gas is produced when calcium carbonate reacts with hydrochloric acid?",
+      "o": [
+        "Carbon dioxide",
+        "Hydrogen",
+        "Chlorine",
+        "Oxygen"
+      ],
+      "a": 0,
+      "e": "Carbonates react with acids to release CO2.",
+      "d": "Medium",
+      "topic": "Properties of acids",
+      "slo": "Explain and apply properties of acids in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-069",
+      "q": "Which gas is released when sodium hydrogen carbonate reacts with an acid?",
+      "o": [
+        "Nitrogen",
+        "Sulfur dioxide",
+        "Carbon dioxide",
+        "Hydrogen"
+      ],
+      "a": 2,
+      "e": "Hydrogen carbonates release CO2 when treated with acid.",
+      "d": "Easy",
+      "topic": "Properties of acids",
+      "slo": "Explain and apply properties of acids in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-070",
+      "q": "In a Class 9 chemistry exercise, which gas is released when sodium hydrogen carbonate reacts with an acid?",
+      "o": [
+        "Hydrogen",
+        "Sulfur dioxide",
+        "Nitrogen",
+        "Carbon dioxide"
+      ],
+      "a": 3,
+      "e": "Hydrogen carbonates release CO2 when treated with acid.",
+      "d": "Medium",
+      "topic": "Properties of acids",
+      "slo": "Explain and apply properties of acids in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-071",
+      "q": "Which products form when an acid reacts with a metal oxide?",
+      "o": [
+        "Salt and hydrogen",
+        "Salt and water",
+        "Base and oxygen",
+        "Carbon dioxide and water only"
+      ],
+      "a": 1,
+      "e": "Metal oxides are generally basic and neutralize acids.",
+      "d": "Easy",
+      "topic": "Properties of acids",
+      "slo": "Explain and apply properties of acids in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-072",
+      "q": "In a Class 9 chemistry exercise, which products form when an acid reacts with a metal oxide?",
+      "o": [
+        "Base and oxygen",
+        "Carbon dioxide and water only",
+        "Salt and water",
+        "Salt and hydrogen"
+      ],
+      "a": 2,
+      "e": "Metal oxides are generally basic and neutralize acids.",
+      "d": "Medium",
+      "topic": "Properties of acids",
+      "slo": "Explain and apply properties of acids in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-073",
+      "q": "Which products form when an acid reacts with a metal carbonate?",
+      "o": [
+        "Salt, water and carbon dioxide",
+        "Salt and nitrogen",
+        "Base and oxygen",
+        "Salt and hydrogen only"
+      ],
+      "a": 0,
+      "e": "Acid–carbonate reactions give a salt, CO2 and water.",
+      "d": "Easy",
+      "topic": "Properties of acids",
+      "slo": "Explain and apply properties of acids in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-074",
+      "q": "In a Class 9 chemistry exercise, which products form when an acid reacts with a metal carbonate?",
+      "o": [
+        "Salt and hydrogen only",
+        "Salt, water and carbon dioxide",
+        "Base and oxygen",
+        "Salt and nitrogen"
+      ],
+      "a": 1,
+      "e": "Acid–carbonate reactions give a salt, CO2 and water.",
+      "d": "Medium",
+      "topic": "Properties of acids",
+      "slo": "Explain and apply properties of acids in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-075",
+      "q": "Which products form when dilute acid reacts with a reactive metal?",
+      "o": [
+        "Metal oxide and water",
+        "Salt and hydrogen",
+        "Hydroxide and oxygen",
+        "Salt and carbon dioxide"
+      ],
+      "a": 1,
+      "e": "Many reactive metals displace hydrogen from dilute acids.",
+      "d": "Easy",
+      "topic": "Properties of acids",
+      "slo": "Explain and apply properties of acids in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-076",
+      "q": "In a Class 9 chemistry exercise, which products form when dilute acid reacts with a reactive metal?",
+      "o": [
+        "Salt and carbon dioxide",
+        "Metal oxide and water",
+        "Hydroxide and oxygen",
+        "Salt and hydrogen"
+      ],
+      "a": 3,
+      "e": "Many reactive metals displace hydrogen from dilute acids.",
+      "d": "Medium",
+      "topic": "Properties of acids",
+      "slo": "Explain and apply properties of acids in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-077",
+      "q": "Why do aqueous acids conduct electricity?",
+      "o": [
+        "They contain mobile ions",
+        "They contain free electrons like metals",
+        "They contain only neutral molecules",
+        "They have no dissolved particles"
+      ],
+      "a": 0,
+      "e": "Mobile ions carry charge through the solution.",
+      "d": "Easy",
+      "topic": "Properties of acids",
+      "slo": "Explain and apply properties of acids in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-078",
+      "q": "In a Class 9 chemistry exercise, why do aqueous acids conduct electricity?",
+      "o": [
+        "They contain mobile ions",
+        "They have no dissolved particles",
+        "They contain free electrons like metals",
+        "They contain only neutral molecules"
+      ],
+      "a": 0,
+      "e": "Mobile ions carry charge through the solution.",
+      "d": "Medium",
+      "topic": "Properties of acids",
+      "slo": "Explain and apply properties of acids in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-079",
+      "q": "Why do aqueous alkalis conduct electricity?",
+      "o": [
+        "They contain no charged particles",
+        "They contain mobile ions",
+        "They contain only electrons",
+        "They are always metallic solids"
+      ],
+      "a": 1,
+      "e": "Dissolved ions move and carry electrical charge.",
+      "d": "Easy",
+      "topic": "Properties of bases",
+      "slo": "Explain and apply properties of bases in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-080",
+      "q": "In a Class 9 chemistry exercise, why do aqueous alkalis conduct electricity?",
+      "o": [
+        "They contain mobile ions",
+        "They contain no charged particles",
+        "They are always metallic solids",
+        "They contain only electrons"
+      ],
+      "a": 0,
+      "e": "Dissolved ions move and carry electrical charge.",
+      "d": "Medium",
+      "topic": "Properties of bases",
+      "slo": "Explain and apply properties of bases in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-081",
+      "q": "What does hydrochloric acid form with sodium hydroxide?",
+      "o": [
+        "Sodium nitrate and carbon dioxide",
+        "Sodium chloride and water",
+        "Sodium carbonate and hydrogen",
+        "Sodium sulfate and oxygen"
+      ],
+      "a": 1,
+      "e": "HCl + NaOH → NaCl + H2O.",
+      "d": "Easy",
+      "topic": "Properties of acids",
+      "slo": "Explain and apply properties of acids in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-082",
+      "q": "In a Class 9 chemistry exercise, what does hydrochloric acid form with sodium hydroxide?",
+      "o": [
+        "Sodium nitrate and carbon dioxide",
+        "Sodium carbonate and hydrogen",
+        "Sodium chloride and water",
+        "Sodium sulfate and oxygen"
+      ],
+      "a": 2,
+      "e": "HCl + NaOH → NaCl + H2O.",
+      "d": "Medium",
+      "topic": "Properties of acids",
+      "slo": "Explain and apply properties of acids in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-083",
+      "q": "What are the products when potassium hydroxide neutralizes nitric acid?",
+      "o": [
+        "Potassium chloride and oxygen",
+        "Potassium nitrate and water",
+        "Potassium sulfate and hydrogen",
+        "Potassium carbonate and water"
+      ],
+      "a": 1,
+      "e": "KOH + HNO3 → KNO3 + H2O.",
+      "d": "Easy",
+      "topic": "Properties of bases",
+      "slo": "Explain and apply properties of bases in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-084",
+      "q": "In a Class 9 chemistry exercise, what are the products when potassium hydroxide neutralizes nitric acid?",
+      "o": [
+        "Potassium nitrate and water",
+        "Potassium carbonate and water",
+        "Potassium chloride and oxygen",
+        "Potassium sulfate and hydrogen"
+      ],
+      "a": 0,
+      "e": "KOH + HNO3 → KNO3 + H2O.",
+      "d": "Medium",
+      "topic": "Properties of bases",
+      "slo": "Explain and apply properties of bases in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-085",
+      "q": "Which gas is released when an ammonium salt is heated with a strong alkali?",
+      "o": [
+        "Oxygen",
+        "Carbon dioxide",
+        "Ammonia",
+        "Hydrogen"
+      ],
+      "a": 2,
+      "e": "Ammonium salts react with strong bases to release NH3.",
+      "d": "Easy",
+      "topic": "Properties of bases",
+      "slo": "Explain and apply properties of bases in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-086",
+      "q": "In a Class 9 chemistry exercise, which gas is released when an ammonium salt is heated with a strong alkali?",
+      "o": [
+        "Ammonia",
+        "Carbon dioxide",
+        "Hydrogen",
+        "Oxygen"
+      ],
+      "a": 0,
+      "e": "Ammonium salts react with strong bases to release NH3.",
+      "d": "Medium",
+      "topic": "Properties of bases",
+      "slo": "Explain and apply properties of bases in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-087",
+      "q": "What is the formula of ammonia?",
+      "o": [
+        "N2H4",
+        "NO2",
+        "NH4+",
+        "NH3"
+      ],
+      "a": 3,
+      "e": "Ammonia is NH3; ammonium is NH4+.",
+      "d": "Easy",
+      "topic": "Properties of bases",
+      "slo": "Explain and apply properties of bases in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-088",
+      "q": "In a Class 9 chemistry exercise, what is the formula of ammonia?",
+      "o": [
+        "NH4+",
+        "N2H4",
+        "NH3",
+        "NO2"
+      ],
+      "a": 2,
+      "e": "Ammonia is NH3; ammonium is NH4+.",
+      "d": "Medium",
+      "topic": "Properties of bases",
+      "slo": "Explain and apply properties of bases in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-089",
+      "q": "Which substance is an alkali?",
+      "o": [
+        "CuO(s)",
+        "MgO(s)",
+        "HCl(aq)",
+        "KOH(aq)"
+      ],
+      "a": 3,
+      "e": "An alkali is a water-soluble base; aqueous KOH is alkaline.",
+      "d": "Easy",
+      "topic": "Properties of bases",
+      "slo": "Explain and apply properties of bases in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-090",
+      "q": "In a Class 9 chemistry exercise, which substance is an alkali?",
+      "o": [
+        "HCl(aq)",
+        "CuO(s)",
+        "MgO(s)",
+        "KOH(aq)"
+      ],
+      "a": 3,
+      "e": "An alkali is a water-soluble base; aqueous KOH is alkaline.",
+      "d": "Medium",
+      "topic": "Properties of bases",
+      "slo": "Explain and apply properties of bases in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-091",
+      "q": "Which statement about alkalis is correct?",
+      "o": [
+        "All bases dissolve readily in water",
+        "All acids are alkalis",
+        "All metal oxides are alkalis",
+        "All alkalis are bases, but not all bases are alkalis"
+      ],
+      "a": 3,
+      "e": "Alkalis are the water-soluble subset of bases.",
+      "d": "Easy",
+      "topic": "Properties of bases",
+      "slo": "Explain and apply properties of bases in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-092",
+      "q": "In a Class 9 chemistry exercise, which statement about alkalis is correct?",
+      "o": [
+        "All alkalis are bases, but not all bases are alkalis",
+        "All bases dissolve readily in water",
+        "All acids are alkalis",
+        "All metal oxides are alkalis"
+      ],
+      "a": 0,
+      "e": "Alkalis are the water-soluble subset of bases.",
+      "d": "Medium",
+      "topic": "Properties of bases",
+      "slo": "Explain and apply properties of bases in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-093",
+      "q": "Which oxide is generally basic?",
+      "o": [
+        "CO2",
+        "SO2",
+        "MgO",
+        "P4O10"
+      ],
+      "a": 2,
+      "e": "Magnesium oxide is a basic metal oxide.",
+      "d": "Easy",
+      "topic": "Properties of bases",
+      "slo": "Explain and apply properties of bases in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-094",
+      "q": "In a Class 9 chemistry exercise, which oxide is generally basic?",
+      "o": [
+        "SO2",
+        "CO2",
+        "P4O10",
+        "MgO"
+      ],
+      "a": 3,
+      "e": "Magnesium oxide is a basic metal oxide.",
+      "d": "Medium",
+      "topic": "Properties of bases",
+      "slo": "Explain and apply properties of bases in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-095",
+      "q": "Which oxide is generally acidic?",
+      "o": [
+        "CaO",
+        "Na2O",
+        "CO2",
+        "MgO"
+      ],
+      "a": 2,
+      "e": "Carbon dioxide is an acidic nonmetal oxide.",
+      "d": "Easy",
+      "topic": "Properties of bases",
+      "slo": "Explain and apply properties of bases in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-096",
+      "q": "In a Class 9 chemistry exercise, which oxide is generally acidic?",
+      "o": [
+        "Na2O",
+        "CO2",
+        "CaO",
+        "MgO"
+      ],
+      "a": 1,
+      "e": "Carbon dioxide is an acidic nonmetal oxide.",
+      "d": "Medium",
+      "topic": "Properties of bases",
+      "slo": "Explain and apply properties of bases in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-097",
+      "q": "What is the formula of sodium hydroxide?",
+      "o": [
+        "NaCl",
+        "NaH",
+        "Na2O",
+        "NaOH"
+      ],
+      "a": 3,
+      "e": "Sodium hydroxide is NaOH.",
+      "d": "Easy",
+      "topic": "Properties of bases",
+      "slo": "Explain and apply properties of bases in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-098",
+      "q": "In a Class 9 chemistry exercise, what is the formula of sodium hydroxide?",
+      "o": [
+        "NaH",
+        "NaCl",
+        "Na2O",
+        "NaOH"
+      ],
+      "a": 3,
+      "e": "Sodium hydroxide is NaOH.",
+      "d": "Medium",
+      "topic": "Properties of bases",
+      "slo": "Explain and apply properties of bases in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-099",
+      "q": "What is the formula of potassium hydroxide?",
+      "o": [
+        "K2O",
+        "KH",
+        "KOH",
+        "KCl"
+      ],
+      "a": 2,
+      "e": "Potassium hydroxide is KOH.",
+      "d": "Easy",
+      "topic": "Properties of bases",
+      "slo": "Explain and apply properties of bases in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-100",
+      "q": "In a Class 9 chemistry exercise, what is the formula of potassium hydroxide?",
+      "o": [
+        "KOH",
+        "KCl",
+        "KH",
+        "K2O"
+      ],
+      "a": 0,
+      "e": "Potassium hydroxide is KOH.",
+      "d": "Medium",
+      "topic": "Properties of bases",
+      "slo": "Explain and apply properties of bases in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-101",
+      "q": "What is the formula of calcium hydroxide?",
+      "o": [
+        "CaO2H",
+        "CaOH",
+        "Ca(OH)2",
+        "CaH2"
+      ],
+      "a": 2,
+      "e": "Calcium ion has +2 charge, so two OH- ions are needed.",
+      "d": "Easy",
+      "topic": "Properties of bases",
+      "slo": "Explain and apply properties of bases in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-102",
+      "q": "In a Class 9 chemistry exercise, what is the formula of calcium hydroxide?",
+      "o": [
+        "CaO2H",
+        "CaOH",
+        "Ca(OH)2",
+        "CaH2"
+      ],
+      "a": 2,
+      "e": "Calcium ion has +2 charge, so two OH- ions are needed.",
+      "d": "Medium",
+      "topic": "Properties of bases",
+      "slo": "Explain and apply properties of bases in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-103",
+      "q": "What is the formula of magnesium hydroxide?",
+      "o": [
+        "MgH2",
+        "Mg(OH)2",
+        "Mg2OH",
+        "MgOH"
+      ],
+      "a": 1,
+      "e": "Mg2+ combines with two OH- ions.",
+      "d": "Easy",
+      "topic": "Properties of bases",
+      "slo": "Explain and apply properties of bases in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-104",
+      "q": "In a Class 9 chemistry exercise, what is the formula of magnesium hydroxide?",
+      "o": [
+        "Mg2OH",
+        "MgOH",
+        "MgH2",
+        "Mg(OH)2"
+      ],
+      "a": 3,
+      "e": "Mg2+ combines with two OH- ions.",
+      "d": "Medium",
+      "topic": "Properties of bases",
+      "slo": "Explain and apply properties of bases in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-105",
+      "q": "What is the formula of aluminium hydroxide?",
+      "o": [
+        "Al(OH)2",
+        "AlO3",
+        "AlOH",
+        "Al(OH)3"
+      ],
+      "a": 3,
+      "e": "Al3+ combines with three hydroxide ions.",
+      "d": "Easy",
+      "topic": "Properties of bases",
+      "slo": "Explain and apply properties of bases in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-106",
+      "q": "In a Class 9 chemistry exercise, what is the formula of aluminium hydroxide?",
+      "o": [
+        "Al(OH)3",
+        "Al(OH)2",
+        "AlO3",
+        "AlOH"
+      ],
+      "a": 0,
+      "e": "Al3+ combines with three hydroxide ions.",
+      "d": "Medium",
+      "topic": "Properties of bases",
+      "slo": "Explain and apply properties of bases in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-107",
+      "q": "Which base is commonly used in soap manufacture?",
+      "o": [
+        "Sulfur dioxide",
+        "Nitric acid",
+        "Sodium hydroxide",
+        "Hydrochloric acid"
+      ],
+      "a": 2,
+      "e": "Sodium hydroxide is used in soap making.",
+      "d": "Easy",
+      "topic": "Properties of bases",
+      "slo": "Explain and apply properties of bases in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-108",
+      "q": "In a Class 9 chemistry exercise, which base is commonly used in soap manufacture?",
+      "o": [
+        "Sulfur dioxide",
+        "Hydrochloric acid",
+        "Nitric acid",
+        "Sodium hydroxide"
+      ],
+      "a": 3,
+      "e": "Sodium hydroxide is used in soap making.",
+      "d": "Medium",
+      "topic": "Properties of bases",
+      "slo": "Explain and apply properties of bases in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-109",
+      "q": "Which base is commonly called caustic potash?",
+      "o": [
+        "Sodium chloride",
+        "Hydrochloric acid",
+        "Potassium hydroxide",
+        "Calcium carbonate"
+      ],
+      "a": 2,
+      "e": "Caustic potash is KOH.",
+      "d": "Easy",
+      "topic": "Properties of bases",
+      "slo": "Explain and apply properties of bases in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-110",
+      "q": "In a Class 9 chemistry exercise, which base is commonly called caustic potash?",
+      "o": [
+        "Hydrochloric acid",
+        "Sodium chloride",
+        "Potassium hydroxide",
+        "Calcium carbonate"
+      ],
+      "a": 2,
+      "e": "Caustic potash is KOH.",
+      "d": "Medium",
+      "topic": "Properties of bases",
+      "slo": "Explain and apply properties of bases in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-111",
+      "q": "Which statement describes a strong acid in water?",
+      "o": [
+        "It is always concentrated",
+        "It contains no hydrogen",
+        "It ionizes almost completely",
+        "It has a high molar mass"
+      ],
+      "a": 2,
+      "e": "Strength depends on degree of ionization, not concentration.",
+      "d": "Easy",
+      "topic": "Strength of acids",
+      "slo": "Explain and apply strength of acids in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-112",
+      "q": "In a Class 9 chemistry exercise, which statement describes a strong acid in water?",
+      "o": [
+        "It has a high molar mass",
+        "It ionizes almost completely",
+        "It contains no hydrogen",
+        "It is always concentrated"
+      ],
+      "a": 1,
+      "e": "Strength depends on degree of ionization, not concentration.",
+      "d": "Medium",
+      "topic": "Strength of acids",
+      "slo": "Explain and apply strength of acids in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-113",
+      "q": "Which statement describes a weak acid in water?",
+      "o": [
+        "It ionizes only partially",
+        "It always has a high concentration",
+        "It always reacts faster than strong acids",
+        "It does not contain hydrogen"
+      ],
+      "a": 0,
+      "e": "Weak acids establish partial ionization in water.",
+      "d": "Easy",
+      "topic": "Strength of acids",
+      "slo": "Explain and apply strength of acids in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-114",
+      "q": "In a Class 9 chemistry exercise, which statement describes a weak acid in water?",
+      "o": [
+        "It always reacts faster than strong acids",
+        "It does not contain hydrogen",
+        "It always has a high concentration",
+        "It ionizes only partially"
+      ],
+      "a": 3,
+      "e": "Weak acids establish partial ionization in water.",
+      "d": "Medium",
+      "topic": "Strength of acids",
+      "slo": "Explain and apply strength of acids in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-115",
+      "q": "What defines a strong base in aqueous solution?",
+      "o": [
+        "Nearly complete ionization to produce OH-",
+        "A bitter taste alone",
+        "A low melting point",
+        "A very dilute solution"
+      ],
+      "a": 0,
+      "e": "Strong bases dissociate almost completely in water.",
+      "d": "Easy",
+      "topic": "Strength of bases",
+      "slo": "Explain and apply strength of bases in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-116",
+      "q": "In a Class 9 chemistry exercise, what defines a strong base in aqueous solution?",
+      "o": [
+        "A very dilute solution",
+        "Nearly complete ionization to produce OH-",
+        "A low melting point",
+        "A bitter taste alone"
+      ],
+      "a": 1,
+      "e": "Strong bases dissociate almost completely in water.",
+      "d": "Medium",
+      "topic": "Strength of bases",
+      "slo": "Explain and apply strength of bases in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-117",
+      "q": "What defines a weak base in aqueous solution?",
+      "o": [
+        "Only partial ionization",
+        "Complete dissociation in every solvent",
+        "Always a concentrated solution",
+        "Inability to accept protons"
+      ],
+      "a": 0,
+      "e": "Weak bases ionize only partially in water.",
+      "d": "Easy",
+      "topic": "Strength of bases",
+      "slo": "Explain and apply strength of bases in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-118",
+      "q": "In a Class 9 chemistry exercise, what defines a weak base in aqueous solution?",
+      "o": [
+        "Inability to accept protons",
+        "Always a concentrated solution",
+        "Only partial ionization",
+        "Complete dissociation in every solvent"
+      ],
+      "a": 2,
+      "e": "Weak bases ionize only partially in water.",
+      "d": "Medium",
+      "topic": "Strength of bases",
+      "slo": "Explain and apply strength of bases in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-119",
+      "q": "Which acid is strong in aqueous solution?",
+      "o": [
+        "H2CO3",
+        "CH3COOH",
+        "HCOOH",
+        "HCl"
+      ],
+      "a": 3,
+      "e": "Hydrochloric acid ionizes essentially completely in water.",
+      "d": "Easy",
+      "topic": "Strength of acids",
+      "slo": "Explain and apply strength of acids in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-120",
+      "q": "In a Class 9 chemistry exercise, which acid is strong in aqueous solution?",
+      "o": [
+        "HCOOH",
+        "HCl",
+        "H2CO3",
+        "CH3COOH"
+      ],
+      "a": 1,
+      "e": "Hydrochloric acid ionizes essentially completely in water.",
+      "d": "Medium",
+      "topic": "Strength of acids",
+      "slo": "Explain and apply strength of acids in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-121",
+      "q": "Which acid is weak in aqueous solution?",
+      "o": [
+        "CH3COOH",
+        "HCl",
+        "H2SO4",
+        "HNO3"
+      ],
+      "a": 0,
+      "e": "Ethanoic acid ionizes only partially.",
+      "d": "Easy",
+      "topic": "Strength of acids",
+      "slo": "Explain and apply strength of acids in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-122",
+      "q": "In a Class 9 chemistry exercise, which acid is weak in aqueous solution?",
+      "o": [
+        "H2SO4",
+        "CH3COOH",
+        "HNO3",
+        "HCl"
+      ],
+      "a": 1,
+      "e": "Ethanoic acid ionizes only partially.",
+      "d": "Medium",
+      "topic": "Strength of acids",
+      "slo": "Explain and apply strength of acids in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-123",
+      "q": "Which acid is commonly found in vinegar?",
+      "o": [
+        "Ethanoic acid",
+        "Sulfuric acid",
+        "Nitric acid",
+        "Hydrochloric acid"
+      ],
+      "a": 0,
+      "e": "Vinegar contains dilute ethanoic (acetic) acid.",
+      "d": "Easy",
+      "topic": "Strength of acids",
+      "slo": "Explain and apply strength of acids in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-124",
+      "q": "In a Class 9 chemistry exercise, which acid is commonly found in vinegar?",
+      "o": [
+        "Ethanoic acid",
+        "Nitric acid",
+        "Hydrochloric acid",
+        "Sulfuric acid"
+      ],
+      "a": 0,
+      "e": "Vinegar contains dilute ethanoic (acetic) acid.",
+      "d": "Medium",
+      "topic": "Strength of acids",
+      "slo": "Explain and apply strength of acids in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-125",
+      "q": "Which is a strong mineral acid?",
+      "o": [
+        "Carbonic acid",
+        "Ethanoic acid",
+        "Nitric acid",
+        "Citric acid"
+      ],
+      "a": 2,
+      "e": "HNO3 is a strong acid in water.",
+      "d": "Easy",
+      "topic": "Strength of acids",
+      "slo": "Explain and apply strength of acids in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-126",
+      "q": "In a Class 9 chemistry exercise, which is a strong mineral acid?",
+      "o": [
+        "Carbonic acid",
+        "Nitric acid",
+        "Citric acid",
+        "Ethanoic acid"
+      ],
+      "a": 1,
+      "e": "HNO3 is a strong acid in water.",
+      "d": "Medium",
+      "topic": "Strength of acids",
+      "slo": "Explain and apply strength of acids in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-127",
+      "q": "Which is a strong base?",
+      "o": [
+        "CH3COOH",
+        "H2CO3",
+        "NaOH",
+        "NH3(aq)"
+      ],
+      "a": 2,
+      "e": "NaOH dissociates nearly completely into Na+ and OH-.",
+      "d": "Easy",
+      "topic": "Strength of bases",
+      "slo": "Explain and apply strength of bases in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-128",
+      "q": "In a Class 9 chemistry exercise, which is a strong base?",
+      "o": [
+        "H2CO3",
+        "CH3COOH",
+        "NH3(aq)",
+        "NaOH"
+      ],
+      "a": 3,
+      "e": "NaOH dissociates nearly completely into Na+ and OH-.",
+      "d": "Medium",
+      "topic": "Strength of bases",
+      "slo": "Explain and apply strength of bases in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-129",
+      "q": "Which substance behaves as a weak base in water?",
+      "o": [
+        "NH3",
+        "KOH",
+        "NaOH",
+        "HCl"
+      ],
+      "a": 0,
+      "e": "Ammonia reacts only partially with water to generate OH-.",
+      "d": "Easy",
+      "topic": "Strength of bases",
+      "slo": "Explain and apply strength of bases in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-130",
+      "q": "In a Class 9 chemistry exercise, which substance behaves as a weak base in water?",
+      "o": [
+        "NaOH",
+        "KOH",
+        "NH3",
+        "HCl"
+      ],
+      "a": 2,
+      "e": "Ammonia reacts only partially with water to generate OH-.",
+      "d": "Medium",
+      "topic": "Strength of bases",
+      "slo": "Explain and apply strength of bases in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-131",
+      "q": "Which equation best represents partial ionization of ethanoic acid?",
+      "o": [
+        "CH3COOH → H2 + O2",
+        "CH3COOH → CH4 + CO2",
+        "CH3COOH → Na+ + OH-",
+        "CH3COOH ⇌ CH3COO- + H+"
+      ],
+      "a": 3,
+      "e": "A reversible arrow represents partial dissociation of weak ethanoic acid.",
+      "d": "Easy",
+      "topic": "Strength of acids",
+      "slo": "Explain and apply strength of acids in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-132",
+      "q": "In a Class 9 chemistry exercise, which equation best represents partial ionization of ethanoic acid?",
+      "o": [
+        "CH3COOH → Na+ + OH-",
+        "CH3COOH → H2 + O2",
+        "CH3COOH → CH4 + CO2",
+        "CH3COOH ⇌ CH3COO- + H+"
+      ],
+      "a": 3,
+      "e": "A reversible arrow represents partial dissociation of weak ethanoic acid.",
+      "d": "Medium",
+      "topic": "Strength of acids",
+      "slo": "Explain and apply strength of acids in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-133",
+      "q": "What is the difference between acid strength and acid concentration?",
+      "o": [
+        "Strength is colour; concentration is taste",
+        "Strength depends only on container size",
+        "Both mean amount of solute per volume",
+        "Strength is ionization extent; concentration is amount per volume"
+      ],
+      "a": 3,
+      "e": "Strength and concentration describe different properties.",
+      "d": "Easy",
+      "topic": "Strength of acids",
+      "slo": "Explain and apply strength of acids in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-134",
+      "q": "In a Class 9 chemistry exercise, what is the difference between acid strength and acid concentration?",
+      "o": [
+        "Strength is colour; concentration is taste",
+        "Strength is ionization extent; concentration is amount per volume",
+        "Strength depends only on container size",
+        "Both mean amount of solute per volume"
+      ],
+      "a": 1,
+      "e": "Strength and concentration describe different properties.",
+      "d": "Medium",
+      "topic": "Strength of acids",
+      "slo": "Explain and apply strength of acids in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-135",
+      "q": "Can a dilute solution contain a strong base?",
+      "o": [
+        "Only if it contains acid",
+        "Yes, strength and concentration are different",
+        "No, strong bases are always concentrated",
+        "Only if it contains no water"
+      ],
+      "a": 1,
+      "e": "A dilute NaOH solution still contains a strong base.",
+      "d": "Easy",
+      "topic": "Strength of bases",
+      "slo": "Explain and apply strength of bases in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-136",
+      "q": "In a Class 9 chemistry exercise, can a dilute solution contain a strong base?",
+      "o": [
+        "Yes, strength and concentration are different",
+        "No, strong bases are always concentrated",
+        "Only if it contains acid",
+        "Only if it contains no water"
+      ],
+      "a": 0,
+      "e": "A dilute NaOH solution still contains a strong base.",
+      "d": "Medium",
+      "topic": "Strength of bases",
+      "slo": "Explain and apply strength of bases in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-137",
+      "q": "Can a concentrated solution contain a weak acid?",
+      "o": [
+        "Yes, a weak acid may be concentrated",
+        "Only if it has no water",
+        "Only if all molecules ionize",
+        "No, weak acids are always dilute"
+      ],
+      "a": 0,
+      "e": "Weak refers to partial ionization, not low concentration.",
+      "d": "Easy",
+      "topic": "Strength of acids",
+      "slo": "Explain and apply strength of acids in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-138",
+      "q": "In a Class 9 chemistry exercise, can a concentrated solution contain a weak acid?",
+      "o": [
+        "No, weak acids are always dilute",
+        "Only if all molecules ionize",
+        "Only if it has no water",
+        "Yes, a weak acid may be concentrated"
+      ],
+      "a": 3,
+      "e": "Weak refers to partial ionization, not low concentration.",
+      "d": "Medium",
+      "topic": "Strength of acids",
+      "slo": "Explain and apply strength of acids in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-139",
+      "q": "Which equation describes ammonia reacting with water?",
+      "o": [
+        "NH3 → N2 + H2O",
+        "NH3 + H2O ⇌ NH4+ + OH-",
+        "NH3 + H2O → HCl + O2",
+        "NH3 + H2O → NH4Cl"
+      ],
+      "a": 1,
+      "e": "Ammonia accepts a proton from water and forms NH4+ and OH-.",
+      "d": "Easy",
+      "topic": "Strength of bases",
+      "slo": "Explain and apply strength of bases in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-140",
+      "q": "In a Class 9 chemistry exercise, which equation describes ammonia reacting with water?",
+      "o": [
+        "NH3 → N2 + H2O",
+        "NH3 + H2O → NH4Cl",
+        "NH3 + H2O ⇌ NH4+ + OH-",
+        "NH3 + H2O → HCl + O2"
+      ],
+      "a": 2,
+      "e": "Ammonia accepts a proton from water and forms NH4+ and OH-.",
+      "d": "Medium",
+      "topic": "Strength of bases",
+      "slo": "Explain and apply strength of bases in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-141",
+      "q": "What is the general word equation for neutralization?",
+      "o": [
+        "Acid + base → salt + water",
+        "Base + carbonate → hydrogen",
+        "Acid + metal → salt + oxygen",
+        "Acid + acid → salt"
+      ],
+      "a": 0,
+      "e": "Neutralization commonly produces a salt and water.",
+      "d": "Easy",
+      "topic": "Neutralization",
+      "slo": "Explain and apply neutralization in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-142",
+      "q": "In a Class 9 chemistry exercise, what is the general word equation for neutralization?",
+      "o": [
+        "Acid + base → salt + water",
+        "Acid + acid → salt",
+        "Acid + metal → salt + oxygen",
+        "Base + carbonate → hydrogen"
+      ],
+      "a": 0,
+      "e": "Neutralization commonly produces a salt and water.",
+      "d": "Medium",
+      "topic": "Neutralization",
+      "slo": "Explain and apply neutralization in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-143",
+      "q": "Which ions combine to form water in a neutralization reaction?",
+      "o": [
+        "K+ and NO3-",
+        "Ca2+ and Cl-",
+        "H+ and OH-",
+        "Na+ and Cl-"
+      ],
+      "a": 2,
+      "e": "H+ + OH- → H2O.",
+      "d": "Easy",
+      "topic": "Neutralization",
+      "slo": "Explain and apply neutralization in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-144",
+      "q": "In a Class 9 chemistry exercise, which ions combine to form water in a neutralization reaction?",
+      "o": [
+        "Ca2+ and Cl-",
+        "H+ and OH-",
+        "Na+ and Cl-",
+        "K+ and NO3-"
+      ],
+      "a": 1,
+      "e": "H+ + OH- → H2O.",
+      "d": "Medium",
+      "topic": "Neutralization",
+      "slo": "Explain and apply neutralization in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-145",
+      "q": "What salt forms when HCl neutralizes KOH?",
+      "o": [
+        "K2SO4",
+        "K2CO3",
+        "KNO3",
+        "KCl"
+      ],
+      "a": 3,
+      "e": "HCl + KOH → KCl + H2O.",
+      "d": "Easy",
+      "topic": "Neutralization",
+      "slo": "Explain and apply neutralization in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-146",
+      "q": "In a Class 9 chemistry exercise, what salt forms when HCl neutralizes KOH?",
+      "o": [
+        "KNO3",
+        "KCl",
+        "K2SO4",
+        "K2CO3"
+      ],
+      "a": 1,
+      "e": "HCl + KOH → KCl + H2O.",
+      "d": "Medium",
+      "topic": "Neutralization",
+      "slo": "Explain and apply neutralization in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-147",
+      "q": "What salt forms when HNO3 neutralizes NaOH?",
+      "o": [
+        "NaNO3",
+        "NaCl",
+        "Na2CO3",
+        "Na2SO4"
+      ],
+      "a": 0,
+      "e": "Nitric acid gives nitrate salts: NaNO3.",
+      "d": "Easy",
+      "topic": "Neutralization",
+      "slo": "Explain and apply neutralization in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-148",
+      "q": "In a Class 9 chemistry exercise, what salt forms when HNO3 neutralizes NaOH?",
+      "o": [
+        "NaNO3",
+        "Na2SO4",
+        "Na2CO3",
+        "NaCl"
+      ],
+      "a": 0,
+      "e": "Nitric acid gives nitrate salts: NaNO3.",
+      "d": "Medium",
+      "topic": "Neutralization",
+      "slo": "Explain and apply neutralization in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-149",
+      "q": "What salt forms when H2SO4 fully neutralizes NaOH?",
+      "o": [
+        "Na2SO4",
+        "NaNO3",
+        "Na2CO3",
+        "NaCl"
+      ],
+      "a": 0,
+      "e": "H2SO4 + 2NaOH → Na2SO4 + 2H2O.",
+      "d": "Easy",
+      "topic": "Neutralization",
+      "slo": "Explain and apply neutralization in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-150",
+      "q": "In a Class 9 chemistry exercise, what salt forms when H2SO4 fully neutralizes NaOH?",
+      "o": [
+        "NaCl",
+        "Na2CO3",
+        "Na2SO4",
+        "NaNO3"
+      ],
+      "a": 2,
+      "e": "H2SO4 + 2NaOH → Na2SO4 + 2H2O.",
+      "d": "Medium",
+      "topic": "Neutralization",
+      "slo": "Explain and apply neutralization in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-151",
+      "q": "What salt forms when H2SO4 fully neutralizes KOH?",
+      "o": [
+        "KHCO3",
+        "K2SO4",
+        "KNO3",
+        "KCl"
+      ],
+      "a": 1,
+      "e": "H2SO4 + 2KOH → K2SO4 + 2H2O.",
+      "d": "Easy",
+      "topic": "Neutralization",
+      "slo": "Explain and apply neutralization in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-152",
+      "q": "In a Class 9 chemistry exercise, what salt forms when H2SO4 fully neutralizes KOH?",
+      "o": [
+        "KNO3",
+        "KCl",
+        "K2SO4",
+        "KHCO3"
+      ],
+      "a": 2,
+      "e": "H2SO4 + 2KOH → K2SO4 + 2H2O.",
+      "d": "Medium",
+      "topic": "Neutralization",
+      "slo": "Explain and apply neutralization in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-153",
+      "q": "What salt forms when HCl neutralizes Ca(OH)2?",
+      "o": [
+        "CaSO4",
+        "CaCl2",
+        "CaCO3",
+        "Ca(NO3)2"
+      ],
+      "a": 1,
+      "e": "2HCl + Ca(OH)2 → CaCl2 + 2H2O.",
+      "d": "Easy",
+      "topic": "Neutralization",
+      "slo": "Explain and apply neutralization in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-154",
+      "q": "In a Class 9 chemistry exercise, what salt forms when HCl neutralizes Ca(OH)2?",
+      "o": [
+        "CaCl2",
+        "CaCO3",
+        "CaSO4",
+        "Ca(NO3)2"
+      ],
+      "a": 0,
+      "e": "2HCl + Ca(OH)2 → CaCl2 + 2H2O.",
+      "d": "Medium",
+      "topic": "Neutralization",
+      "slo": "Explain and apply neutralization in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-155",
+      "q": "What salt forms when HNO3 neutralizes Mg(OH)2?",
+      "o": [
+        "Mg(NO3)2",
+        "MgSO4",
+        "MgCl2",
+        "MgCO3"
+      ],
+      "a": 0,
+      "e": "2HNO3 + Mg(OH)2 → Mg(NO3)2 + 2H2O.",
+      "d": "Easy",
+      "topic": "Neutralization",
+      "slo": "Explain and apply neutralization in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-156",
+      "q": "In a Class 9 chemistry exercise, what salt forms when HNO3 neutralizes Mg(OH)2?",
+      "o": [
+        "MgCl2",
+        "Mg(NO3)2",
+        "MgCO3",
+        "MgSO4"
+      ],
+      "a": 1,
+      "e": "2HNO3 + Mg(OH)2 → Mg(NO3)2 + 2H2O.",
+      "d": "Medium",
+      "topic": "Neutralization",
+      "slo": "Explain and apply neutralization in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-157",
+      "q": "What salt forms when H2SO4 neutralizes MgO?",
+      "o": [
+        "MgCO3",
+        "MgSO4",
+        "MgCl2",
+        "Mg(NO3)2"
+      ],
+      "a": 1,
+      "e": "MgO + H2SO4 → MgSO4 + H2O.",
+      "d": "Easy",
+      "topic": "Neutralization",
+      "slo": "Explain and apply neutralization in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-158",
+      "q": "In a Class 9 chemistry exercise, what salt forms when H2SO4 neutralizes MgO?",
+      "o": [
+        "MgCO3",
+        "MgCl2",
+        "MgSO4",
+        "Mg(NO3)2"
+      ],
+      "a": 2,
+      "e": "MgO + H2SO4 → MgSO4 + H2O.",
+      "d": "Medium",
+      "topic": "Neutralization",
+      "slo": "Explain and apply neutralization in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-159",
+      "q": "What salt forms when HCl reacts with copper(II) oxide?",
+      "o": [
+        "CuCO3",
+        "CuCl2",
+        "CuSO4",
+        "Cu(NO3)2"
+      ],
+      "a": 1,
+      "e": "CuO + 2HCl → CuCl2 + H2O.",
+      "d": "Easy",
+      "topic": "Neutralization",
+      "slo": "Explain and apply neutralization in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-160",
+      "q": "In a Class 9 chemistry exercise, what salt forms when HCl reacts with copper(II) oxide?",
+      "o": [
+        "CuCO3",
+        "Cu(NO3)2",
+        "CuSO4",
+        "CuCl2"
+      ],
+      "a": 3,
+      "e": "CuO + 2HCl → CuCl2 + H2O.",
+      "d": "Medium",
+      "topic": "Neutralization",
+      "slo": "Explain and apply neutralization in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-161",
+      "q": "What is the coefficient of HCl in HCl + Ca(OH)2 → CaCl2 + H2O when balanced?",
+      "o": [
+        "3",
+        "4",
+        "2",
+        "1"
+      ],
+      "a": 2,
+      "e": "Two HCl molecules supply two Cl- ions and neutralize two OH- ions.",
+      "d": "Easy",
+      "topic": "Neutralization",
+      "slo": "Explain and apply neutralization in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-162",
+      "q": "In a Class 9 chemistry exercise, what is the coefficient of HCl in HCl + Ca(OH)2 → CaCl2 + H2O when balanced?",
+      "o": [
+        "4",
+        "3",
+        "1",
+        "2"
+      ],
+      "a": 3,
+      "e": "Two HCl molecules supply two Cl- ions and neutralize two OH- ions.",
+      "d": "Medium",
+      "topic": "Neutralization",
+      "slo": "Explain and apply neutralization in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-163",
+      "q": "What is the coefficient of NaOH in H2SO4 + NaOH → Na2SO4 + H2O when balanced?",
+      "o": [
+        "1",
+        "4",
+        "2",
+        "3"
+      ],
+      "a": 2,
+      "e": "Two NaOH molecules are required per H2SO4 molecule.",
+      "d": "Easy",
+      "topic": "Neutralization",
+      "slo": "Explain and apply neutralization in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-164",
+      "q": "In a Class 9 chemistry exercise, what is the coefficient of NaOH in H2SO4 + NaOH → Na2SO4 + H2O when balanced?",
+      "o": [
+        "2",
+        "3",
+        "4",
+        "1"
+      ],
+      "a": 0,
+      "e": "Two NaOH molecules are required per H2SO4 molecule.",
+      "d": "Medium",
+      "topic": "Neutralization",
+      "slo": "Explain and apply neutralization in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-165",
+      "q": "How many moles of water form when 1 mol of H2SO4 fully reacts with NaOH?",
+      "o": [
+        "3 mol",
+        "4 mol",
+        "2 mol",
+        "1 mol"
+      ],
+      "a": 2,
+      "e": "H2SO4 + 2NaOH → Na2SO4 + 2H2O.",
+      "d": "Easy",
+      "topic": "Neutralization",
+      "slo": "Explain and apply neutralization in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-166",
+      "q": "In a Class 9 chemistry exercise, how many moles of water form when 1 mol of H2SO4 fully reacts with NaOH?",
+      "o": [
+        "3 mol",
+        "4 mol",
+        "2 mol",
+        "1 mol"
+      ],
+      "a": 2,
+      "e": "H2SO4 + 2NaOH → Na2SO4 + 2H2O.",
+      "d": "Medium",
+      "topic": "Neutralization",
+      "slo": "Explain and apply neutralization in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-167",
+      "q": "How many moles of HCl neutralize 1 mol of Mg(OH)2?",
+      "o": [
+        "1 mol",
+        "3 mol",
+        "4 mol",
+        "2 mol"
+      ],
+      "a": 3,
+      "e": "Mg(OH)2 has two OH groups and needs two HCl molecules.",
+      "d": "Easy",
+      "topic": "Neutralization",
+      "slo": "Explain and apply neutralization in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-168",
+      "q": "In a Class 9 chemistry exercise, how many moles of HCl neutralize 1 mol of Mg(OH)2?",
+      "o": [
+        "4 mol",
+        "3 mol",
+        "2 mol",
+        "1 mol"
+      ],
+      "a": 2,
+      "e": "Mg(OH)2 has two OH groups and needs two HCl molecules.",
+      "d": "Medium",
+      "topic": "Neutralization",
+      "slo": "Explain and apply neutralization in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-169",
+      "q": "Which type of salt is formed by HCl?",
+      "o": [
+        "Sulfate",
+        "Nitrate",
+        "Chloride",
+        "Phosphate"
+      ],
+      "a": 2,
+      "e": "Hydrochloric acid produces chloride salts.",
+      "d": "Easy",
+      "topic": "Neutralization",
+      "slo": "Explain and apply neutralization in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-170",
+      "q": "In a Class 9 chemistry exercise, which type of salt is formed by HCl?",
+      "o": [
+        "Phosphate",
+        "Nitrate",
+        "Chloride",
+        "Sulfate"
+      ],
+      "a": 2,
+      "e": "Hydrochloric acid produces chloride salts.",
+      "d": "Medium",
+      "topic": "Neutralization",
+      "slo": "Explain and apply neutralization in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-171",
+      "q": "Which type of salt is formed by HNO3?",
+      "o": [
+        "Carbonate",
+        "Chloride",
+        "Sulfate",
+        "Nitrate"
+      ],
+      "a": 3,
+      "e": "Nitric acid produces nitrate salts.",
+      "d": "Easy",
+      "topic": "Neutralization",
+      "slo": "Explain and apply neutralization in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-172",
+      "q": "In a Class 9 chemistry exercise, which type of salt is formed by HNO3?",
+      "o": [
+        "Carbonate",
+        "Chloride",
+        "Nitrate",
+        "Sulfate"
+      ],
+      "a": 2,
+      "e": "Nitric acid produces nitrate salts.",
+      "d": "Medium",
+      "topic": "Neutralization",
+      "slo": "Explain and apply neutralization in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-173",
+      "q": "Which type of salt is formed by H2SO4?",
+      "o": [
+        "Carbonate",
+        "Chloride",
+        "Nitrate",
+        "Sulfate"
+      ],
+      "a": 3,
+      "e": "Sulfuric acid produces sulfate salts.",
+      "d": "Easy",
+      "topic": "Neutralization",
+      "slo": "Explain and apply neutralization in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-174",
+      "q": "In a Class 9 chemistry exercise, which type of salt is formed by H2SO4?",
+      "o": [
+        "Nitrate",
+        "Chloride",
+        "Carbonate",
+        "Sulfate"
+      ],
+      "a": 3,
+      "e": "Sulfuric acid produces sulfate salts.",
+      "d": "Medium",
+      "topic": "Neutralization",
+      "slo": "Explain and apply neutralization in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-175",
+      "q": "Which type of salt is formed by H3PO4?",
+      "o": [
+        "Phosphate",
+        "Sulfide",
+        "Chloride",
+        "Nitrate"
+      ],
+      "a": 0,
+      "e": "Phosphoric acid produces phosphate salts.",
+      "d": "Easy",
+      "topic": "Neutralization",
+      "slo": "Explain and apply neutralization in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-176",
+      "q": "In a Class 9 chemistry exercise, which type of salt is formed by H3PO4?",
+      "o": [
+        "Nitrate",
+        "Chloride",
+        "Sulfide",
+        "Phosphate"
+      ],
+      "a": 3,
+      "e": "Phosphoric acid produces phosphate salts.",
+      "d": "Medium",
+      "topic": "Neutralization",
+      "slo": "Explain and apply neutralization in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-177",
+      "q": "What forms when sodium oxide reacts with water?",
+      "o": [
+        "Sodium hydroxide",
+        "Sodium chloride",
+        "Sodium nitrate",
+        "Sodium carbonate"
+      ],
+      "a": 0,
+      "e": "Na2O + H2O → 2NaOH.",
+      "d": "Easy",
+      "topic": "Oxides and hydroxides",
+      "slo": "Explain and apply oxides and hydroxides in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-178",
+      "q": "In a Class 9 chemistry exercise, what forms when sodium oxide reacts with water?",
+      "o": [
+        "Sodium chloride",
+        "Sodium carbonate",
+        "Sodium nitrate",
+        "Sodium hydroxide"
+      ],
+      "a": 3,
+      "e": "Na2O + H2O → 2NaOH.",
+      "d": "Medium",
+      "topic": "Oxides and hydroxides",
+      "slo": "Explain and apply oxides and hydroxides in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-179",
+      "q": "What forms when calcium oxide reacts with water?",
+      "o": [
+        "Calcium carbonate",
+        "Calcium sulfate",
+        "Calcium hydroxide",
+        "Calcium chloride"
+      ],
+      "a": 2,
+      "e": "CaO + H2O → Ca(OH)2.",
+      "d": "Easy",
+      "topic": "Oxides and hydroxides",
+      "slo": "Explain and apply oxides and hydroxides in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-180",
+      "q": "In a Class 9 chemistry exercise, what forms when calcium oxide reacts with water?",
+      "o": [
+        "Calcium chloride",
+        "Calcium carbonate",
+        "Calcium hydroxide",
+        "Calcium sulfate"
+      ],
+      "a": 2,
+      "e": "CaO + H2O → Ca(OH)2.",
+      "d": "Medium",
+      "topic": "Oxides and hydroxides",
+      "slo": "Explain and apply oxides and hydroxides in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-181",
+      "q": "Which equation correctly shows magnesium oxide reacting with water?",
+      "o": [
+        "MgO + H2O → MgCO3",
+        "MgO + H2O → Mg(OH)2",
+        "MgO + H2O → MgCl2",
+        "MgO + H2O → MgSO4"
+      ],
+      "a": 1,
+      "e": "Magnesium oxide combines with water to form magnesium hydroxide.",
+      "d": "Easy",
+      "topic": "Oxides and hydroxides",
+      "slo": "Explain and apply oxides and hydroxides in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-182",
+      "q": "In a Class 9 chemistry exercise, which equation correctly shows magnesium oxide reacting with water?",
+      "o": [
+        "MgO + H2O → MgCO3",
+        "MgO + H2O → MgSO4",
+        "MgO + H2O → Mg(OH)2",
+        "MgO + H2O → MgCl2"
+      ],
+      "a": 2,
+      "e": "Magnesium oxide combines with water to form magnesium hydroxide.",
+      "d": "Medium",
+      "topic": "Oxides and hydroxides",
+      "slo": "Explain and apply oxides and hydroxides in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-183",
+      "q": "Which oxide is amphoteric?",
+      "o": [
+        "Na2O",
+        "CO2",
+        "SO2",
+        "Al2O3"
+      ],
+      "a": 3,
+      "e": "Aluminium oxide can react with acids and strong bases.",
+      "d": "Easy",
+      "topic": "Oxides and hydroxides",
+      "slo": "Explain and apply oxides and hydroxides in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-184",
+      "q": "In a Class 9 chemistry exercise, which oxide is amphoteric?",
+      "o": [
+        "Al2O3",
+        "Na2O",
+        "SO2",
+        "CO2"
+      ],
+      "a": 0,
+      "e": "Aluminium oxide can react with acids and strong bases.",
+      "d": "Medium",
+      "topic": "Oxides and hydroxides",
+      "slo": "Explain and apply oxides and hydroxides in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-185",
+      "q": "Which hydroxide is amphoteric?",
+      "o": [
+        "Al(OH)3",
+        "Ca(OH)2",
+        "KOH",
+        "NaOH"
+      ],
+      "a": 0,
+      "e": "Aluminium hydroxide reacts with acids and strong bases.",
+      "d": "Easy",
+      "topic": "Oxides and hydroxides",
+      "slo": "Explain and apply oxides and hydroxides in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-186",
+      "q": "In a Class 9 chemistry exercise, which hydroxide is amphoteric?",
+      "o": [
+        "Ca(OH)2",
+        "NaOH",
+        "Al(OH)3",
+        "KOH"
+      ],
+      "a": 2,
+      "e": "Aluminium hydroxide reacts with acids and strong bases.",
+      "d": "Medium",
+      "topic": "Oxides and hydroxides",
+      "slo": "Explain and apply oxides and hydroxides in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-187",
+      "q": "What is the chemical name of quicklime?",
+      "o": [
+        "Calcium hydroxide",
+        "Calcium chloride",
+        "Calcium carbonate",
+        "Calcium oxide"
+      ],
+      "a": 3,
+      "e": "Quicklime is CaO.",
+      "d": "Easy",
+      "topic": "Oxides and hydroxides",
+      "slo": "Explain and apply oxides and hydroxides in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-188",
+      "q": "In a Class 9 chemistry exercise, what is the chemical name of quicklime?",
+      "o": [
+        "Calcium hydroxide",
+        "Calcium oxide",
+        "Calcium carbonate",
+        "Calcium chloride"
+      ],
+      "a": 1,
+      "e": "Quicklime is CaO.",
+      "d": "Medium",
+      "topic": "Oxides and hydroxides",
+      "slo": "Explain and apply oxides and hydroxides in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-189",
+      "q": "What is the chemical name of slaked lime?",
+      "o": [
+        "Calcium sulfate",
+        "Calcium oxide",
+        "Calcium hydroxide",
+        "Calcium chloride"
+      ],
+      "a": 2,
+      "e": "Slaked lime is Ca(OH)2.",
+      "d": "Easy",
+      "topic": "Oxides and hydroxides",
+      "slo": "Explain and apply oxides and hydroxides in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-190",
+      "q": "In a Class 9 chemistry exercise, what is the chemical name of slaked lime?",
+      "o": [
+        "Calcium hydroxide",
+        "Calcium oxide",
+        "Calcium sulfate",
+        "Calcium chloride"
+      ],
+      "a": 0,
+      "e": "Slaked lime is Ca(OH)2.",
+      "d": "Medium",
+      "topic": "Oxides and hydroxides",
+      "slo": "Explain and apply oxides and hydroxides in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-191",
+      "q": "Which compound is known as milk of magnesia?",
+      "o": [
+        "Potassium chloride",
+        "Magnesium hydroxide",
+        "Calcium oxide",
+        "Sodium hydroxide"
+      ],
+      "a": 1,
+      "e": "Milk of magnesia contains Mg(OH)2.",
+      "d": "Easy",
+      "topic": "Oxides and hydroxides",
+      "slo": "Explain and apply oxides and hydroxides in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-192",
+      "q": "In a Class 9 chemistry exercise, which compound is known as milk of magnesia?",
+      "o": [
+        "Calcium oxide",
+        "Potassium chloride",
+        "Magnesium hydroxide",
+        "Sodium hydroxide"
+      ],
+      "a": 2,
+      "e": "Milk of magnesia contains Mg(OH)2.",
+      "d": "Medium",
+      "topic": "Oxides and hydroxides",
+      "slo": "Explain and apply oxides and hydroxides in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-193",
+      "q": "Which compound is a metal hydroxide?",
+      "o": [
+        "Fe(OH)3",
+        "HNO3",
+        "NaCl",
+        "CO2"
+      ],
+      "a": 0,
+      "e": "Fe(OH)3 contains iron and hydroxide ions.",
+      "d": "Easy",
+      "topic": "Oxides and hydroxides",
+      "slo": "Explain and apply oxides and hydroxides in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-194",
+      "q": "In a Class 9 chemistry exercise, which compound is a metal hydroxide?",
+      "o": [
+        "Fe(OH)3",
+        "HNO3",
+        "NaCl",
+        "CO2"
+      ],
+      "a": 0,
+      "e": "Fe(OH)3 contains iron and hydroxide ions.",
+      "d": "Medium",
+      "topic": "Oxides and hydroxides",
+      "slo": "Explain and apply oxides and hydroxides in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-195",
+      "q": "Which compound is a metal oxide?",
+      "o": [
+        "HCl",
+        "NaOH",
+        "CaO",
+        "H2SO4"
+      ],
+      "a": 2,
+      "e": "CaO consists of calcium and oxygen.",
+      "d": "Easy",
+      "topic": "Oxides and hydroxides",
+      "slo": "Explain and apply oxides and hydroxides in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-196",
+      "q": "In a Class 9 chemistry exercise, which compound is a metal oxide?",
+      "o": [
+        "HCl",
+        "CaO",
+        "NaOH",
+        "H2SO4"
+      ],
+      "a": 1,
+      "e": "CaO consists of calcium and oxygen.",
+      "d": "Medium",
+      "topic": "Oxides and hydroxides",
+      "slo": "Explain and apply oxides and hydroxides in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-197",
+      "q": "What is the balanced equation for zinc with hydrochloric acid?",
+      "o": [
+        "Zn + 2HCl → ZnCl2 + H2",
+        "Zn + HCl → ZnOH + H2",
+        "Zn + HCl → ZnCl + O2",
+        "Zn + 2HCl → ZnO + Cl2"
+      ],
+      "a": 0,
+      "e": "Zinc displaces hydrogen, forming zinc chloride.",
+      "d": "Easy",
+      "topic": "Acid reactions",
+      "slo": "Explain and apply acid reactions in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-198",
+      "q": "In a Class 9 chemistry exercise, what is the balanced equation for zinc with hydrochloric acid?",
+      "o": [
+        "Zn + 2HCl → ZnO + Cl2",
+        "Zn + 2HCl → ZnCl2 + H2",
+        "Zn + HCl → ZnCl + O2",
+        "Zn + HCl → ZnOH + H2"
+      ],
+      "a": 1,
+      "e": "Zinc displaces hydrogen, forming zinc chloride.",
+      "d": "Medium",
+      "topic": "Acid reactions",
+      "slo": "Explain and apply acid reactions in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-199",
+      "q": "What is the balanced equation for magnesium with hydrochloric acid?",
+      "o": [
+        "Mg + HCl → MgO + Cl2",
+        "Mg + HCl → MgCO3 + H2",
+        "Mg + HCl → MgCl + H2O",
+        "Mg + 2HCl → MgCl2 + H2"
+      ],
+      "a": 3,
+      "e": "Magnesium reacts with dilute HCl to form magnesium chloride and hydrogen.",
+      "d": "Easy",
+      "topic": "Acid reactions",
+      "slo": "Explain and apply acid reactions in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-200",
+      "q": "In a Class 9 chemistry exercise, what is the balanced equation for magnesium with hydrochloric acid?",
+      "o": [
+        "Mg + HCl → MgO + Cl2",
+        "Mg + 2HCl → MgCl2 + H2",
+        "Mg + HCl → MgCO3 + H2",
+        "Mg + HCl → MgCl + H2O"
+      ],
+      "a": 1,
+      "e": "Magnesium reacts with dilute HCl to form magnesium chloride and hydrogen.",
+      "d": "Medium",
+      "topic": "Acid reactions",
+      "slo": "Explain and apply acid reactions in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-201",
+      "q": "What salt forms when zinc reacts with dilute sulfuric acid?",
+      "o": [
+        "Zinc carbonate",
+        "Zinc chloride",
+        "Zinc sulfate",
+        "Zinc nitrate"
+      ],
+      "a": 2,
+      "e": "Zn + H2SO4 → ZnSO4 + H2.",
+      "d": "Easy",
+      "topic": "Acid reactions",
+      "slo": "Explain and apply acid reactions in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-202",
+      "q": "In a Class 9 chemistry exercise, what salt forms when zinc reacts with dilute sulfuric acid?",
+      "o": [
+        "Zinc carbonate",
+        "Zinc nitrate",
+        "Zinc sulfate",
+        "Zinc chloride"
+      ],
+      "a": 2,
+      "e": "Zn + H2SO4 → ZnSO4 + H2.",
+      "d": "Medium",
+      "topic": "Acid reactions",
+      "slo": "Explain and apply acid reactions in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-203",
+      "q": "What salt forms when magnesium reacts with dilute sulfuric acid?",
+      "o": [
+        "Magnesium nitrate",
+        "Magnesium chloride",
+        "Magnesium carbonate",
+        "Magnesium sulfate"
+      ],
+      "a": 3,
+      "e": "Mg + H2SO4 → MgSO4 + H2.",
+      "d": "Easy",
+      "topic": "Acid reactions",
+      "slo": "Explain and apply acid reactions in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-204",
+      "q": "In a Class 9 chemistry exercise, what salt forms when magnesium reacts with dilute sulfuric acid?",
+      "o": [
+        "Magnesium chloride",
+        "Magnesium sulfate",
+        "Magnesium nitrate",
+        "Magnesium carbonate"
+      ],
+      "a": 1,
+      "e": "Mg + H2SO4 → MgSO4 + H2.",
+      "d": "Medium",
+      "topic": "Acid reactions",
+      "slo": "Explain and apply acid reactions in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-205",
+      "q": "What is the formula of the salt formed by calcium carbonate and HCl?",
+      "o": [
+        "CaCl2",
+        "CaO",
+        "Ca(NO3)2",
+        "CaSO4"
+      ],
+      "a": 0,
+      "e": "CaCO3 + 2HCl → CaCl2 + H2O + CO2.",
+      "d": "Easy",
+      "topic": "Acid reactions",
+      "slo": "Explain and apply acid reactions in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-206",
+      "q": "In a Class 9 chemistry exercise, what is the formula of the salt formed by calcium carbonate and HCl?",
+      "o": [
+        "CaSO4",
+        "Ca(NO3)2",
+        "CaCl2",
+        "CaO"
+      ],
+      "a": 2,
+      "e": "CaCO3 + 2HCl → CaCl2 + H2O + CO2.",
+      "d": "Medium",
+      "topic": "Acid reactions",
+      "slo": "Explain and apply acid reactions in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-207",
+      "q": "What is the formula of the salt formed by sodium carbonate and HCl?",
+      "o": [
+        "NaOH",
+        "NaNO3",
+        "Na2SO4",
+        "NaCl"
+      ],
+      "a": 3,
+      "e": "Na2CO3 + 2HCl → 2NaCl + H2O + CO2.",
+      "d": "Easy",
+      "topic": "Acid reactions",
+      "slo": "Explain and apply acid reactions in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-208",
+      "q": "In a Class 9 chemistry exercise, what is the formula of the salt formed by sodium carbonate and HCl?",
+      "o": [
+        "Na2SO4",
+        "NaOH",
+        "NaCl",
+        "NaNO3"
+      ],
+      "a": 2,
+      "e": "Na2CO3 + 2HCl → 2NaCl + H2O + CO2.",
+      "d": "Medium",
+      "topic": "Acid reactions",
+      "slo": "Explain and apply acid reactions in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-209",
+      "q": "Which gas turns limewater milky after an acid–carbonate reaction?",
+      "o": [
+        "H2",
+        "NH3",
+        "CO2",
+        "O2"
+      ],
+      "a": 2,
+      "e": "CO2 forms a CaCO3 precipitate in limewater.",
+      "d": "Easy",
+      "topic": "Acid reactions",
+      "slo": "Explain and apply acid reactions in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-210",
+      "q": "In a Class 9 chemistry exercise, which gas turns limewater milky after an acid–carbonate reaction?",
+      "o": [
+        "O2",
+        "H2",
+        "NH3",
+        "CO2"
+      ],
+      "a": 3,
+      "e": "CO2 forms a CaCO3 precipitate in limewater.",
+      "d": "Medium",
+      "topic": "Acid reactions",
+      "slo": "Explain and apply acid reactions in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-211",
+      "q": "Which test identifies hydrogen from an acid–metal reaction?",
+      "o": [
+        "Blue litmus turns red",
+        "A lighted splint gives a squeaky pop",
+        "A glowing splint relights",
+        "Limewater turns milky"
+      ],
+      "a": 1,
+      "e": "Hydrogen burns with a characteristic squeaky pop.",
+      "d": "Easy",
+      "topic": "Acid reactions",
+      "slo": "Explain and apply acid reactions in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-212",
+      "q": "In a Class 9 chemistry exercise, which test identifies hydrogen from an acid–metal reaction?",
+      "o": [
+        "Limewater turns milky",
+        "Blue litmus turns red",
+        "A glowing splint relights",
+        "A lighted splint gives a squeaky pop"
+      ],
+      "a": 3,
+      "e": "Hydrogen burns with a characteristic squeaky pop.",
+      "d": "Medium",
+      "topic": "Acid reactions",
+      "slo": "Explain and apply acid reactions in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-213",
+      "q": "What is the formula of hydrochloric acid?",
+      "o": [
+        "H3PO4",
+        "H2SO4",
+        "HCl",
+        "HNO3"
+      ],
+      "a": 2,
+      "e": "Hydrochloric acid is aqueous hydrogen chloride, HCl.",
+      "d": "Easy",
+      "topic": "Acid reactions",
+      "slo": "Explain and apply acid reactions in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-214",
+      "q": "In a Class 9 chemistry exercise, what is the formula of hydrochloric acid?",
+      "o": [
+        "H3PO4",
+        "HNO3",
+        "H2SO4",
+        "HCl"
+      ],
+      "a": 3,
+      "e": "Hydrochloric acid is aqueous hydrogen chloride, HCl.",
+      "d": "Medium",
+      "topic": "Acid reactions",
+      "slo": "Explain and apply acid reactions in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-215",
+      "q": "What is the formula of nitric acid?",
+      "o": [
+        "H2CO3",
+        "HNO3",
+        "H2SO4",
+        "HCl"
+      ],
+      "a": 1,
+      "e": "Nitric acid has formula HNO3.",
+      "d": "Easy",
+      "topic": "Acid reactions",
+      "slo": "Explain and apply acid reactions in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-216",
+      "q": "In a Class 9 chemistry exercise, what is the formula of nitric acid?",
+      "o": [
+        "HNO3",
+        "H2CO3",
+        "HCl",
+        "H2SO4"
+      ],
+      "a": 0,
+      "e": "Nitric acid has formula HNO3.",
+      "d": "Medium",
+      "topic": "Acid reactions",
+      "slo": "Explain and apply acid reactions in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-217",
+      "q": "What is the formula of sulfuric acid?",
+      "o": [
+        "H2SO4",
+        "H2SO3",
+        "H2S",
+        "HNO3"
+      ],
+      "a": 0,
+      "e": "Sulfuric acid has formula H2SO4.",
+      "d": "Easy",
+      "topic": "Acid reactions",
+      "slo": "Explain and apply acid reactions in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-218",
+      "q": "In a Class 9 chemistry exercise, what is the formula of sulfuric acid?",
+      "o": [
+        "HNO3",
+        "H2SO3",
+        "H2S",
+        "H2SO4"
+      ],
+      "a": 3,
+      "e": "Sulfuric acid has formula H2SO4.",
+      "d": "Medium",
+      "topic": "Acid reactions",
+      "slo": "Explain and apply acid reactions in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-219",
+      "q": "What is the formula of phosphoric acid?",
+      "o": [
+        "H3PO4",
+        "HNO3",
+        "H2SO4",
+        "H3PO3"
+      ],
+      "a": 0,
+      "e": "Phosphoric acid has formula H3PO4.",
+      "d": "Easy",
+      "topic": "Acid reactions",
+      "slo": "Explain and apply acid reactions in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-220",
+      "q": "In a Class 9 chemistry exercise, what is the formula of phosphoric acid?",
+      "o": [
+        "HNO3",
+        "H3PO4",
+        "H2SO4",
+        "H3PO3"
+      ],
+      "a": 1,
+      "e": "Phosphoric acid has formula H3PO4.",
+      "d": "Medium",
+      "topic": "Acid reactions",
+      "slo": "Explain and apply acid reactions in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-221",
+      "q": "Which acid is used to clean metal surfaces and remove scale?",
+      "o": [
+        "Carbonic acid",
+        "Ethanoic acid",
+        "Hydrochloric acid",
+        "Citric acid only"
+      ],
+      "a": 2,
+      "e": "Hydrochloric acid is used in metal cleaning and descaling.",
+      "d": "Easy",
+      "topic": "Acid reactions",
+      "slo": "Explain and apply acid reactions in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-222",
+      "q": "In a Class 9 chemistry exercise, which acid is used to clean metal surfaces and remove scale?",
+      "o": [
+        "Carbonic acid",
+        "Citric acid only",
+        "Ethanoic acid",
+        "Hydrochloric acid"
+      ],
+      "a": 3,
+      "e": "Hydrochloric acid is used in metal cleaning and descaling.",
+      "d": "Medium",
+      "topic": "Acid reactions",
+      "slo": "Explain and apply acid reactions in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-223",
+      "q": "Which acid is important in fertilizer manufacture?",
+      "o": [
+        "Hypochlorous acid",
+        "Sulfuric acid",
+        "Carbonic acid",
+        "Hydrocyanic acid"
+      ],
+      "a": 1,
+      "e": "Sulfuric acid is a major industrial acid used in fertilizer production.",
+      "d": "Easy",
+      "topic": "Acid reactions",
+      "slo": "Explain and apply acid reactions in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-224",
+      "q": "In a Class 9 chemistry exercise, which acid is important in fertilizer manufacture?",
+      "o": [
+        "Carbonic acid",
+        "Hydrocyanic acid",
+        "Sulfuric acid",
+        "Hypochlorous acid"
+      ],
+      "a": 2,
+      "e": "Sulfuric acid is a major industrial acid used in fertilizer production.",
+      "d": "Medium",
+      "topic": "Acid reactions",
+      "slo": "Explain and apply acid reactions in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-225",
+      "q": "Which acid is used in manufacture of fertilizers and explosives?",
+      "o": [
+        "Carbonic acid",
+        "Lactic acid",
+        "Ethanoic acid",
+        "Nitric acid"
+      ],
+      "a": 3,
+      "e": "Nitric acid is used for nitrates, fertilizers and explosives.",
+      "d": "Easy",
+      "topic": "Acid reactions",
+      "slo": "Explain and apply acid reactions in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-226",
+      "q": "In a Class 9 chemistry exercise, which acid is used in manufacture of fertilizers and explosives?",
+      "o": [
+        "Carbonic acid",
+        "Ethanoic acid",
+        "Lactic acid",
+        "Nitric acid"
+      ],
+      "a": 3,
+      "e": "Nitric acid is used for nitrates, fertilizers and explosives.",
+      "d": "Medium",
+      "topic": "Acid reactions",
+      "slo": "Explain and apply acid reactions in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-227",
+      "q": "Which acid is associated with carbonated drinks?",
+      "o": [
+        "Carbonic acid",
+        "Sulfuric acid",
+        "Hydrochloric acid",
+        "Nitric acid"
+      ],
+      "a": 0,
+      "e": "Dissolved CO2 forms some carbonic acid in water.",
+      "d": "Easy",
+      "topic": "Acid reactions",
+      "slo": "Explain and apply acid reactions in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-228",
+      "q": "In a Class 9 chemistry exercise, which acid is associated with carbonated drinks?",
+      "o": [
+        "Sulfuric acid",
+        "Carbonic acid",
+        "Hydrochloric acid",
+        "Nitric acid"
+      ],
+      "a": 1,
+      "e": "Dissolved CO2 forms some carbonic acid in water.",
+      "d": "Medium",
+      "topic": "Acid reactions",
+      "slo": "Explain and apply acid reactions in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-229",
+      "q": "Which acid is found naturally in citrus fruits?",
+      "o": [
+        "Sulfuric acid",
+        "Nitric acid",
+        "Citric acid",
+        "Hydrochloric acid"
+      ],
+      "a": 2,
+      "e": "Citrus fruits contain citric acid.",
+      "d": "Easy",
+      "topic": "Acid reactions",
+      "slo": "Explain and apply acid reactions in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-230",
+      "q": "In a Class 9 chemistry exercise, which acid is found naturally in citrus fruits?",
+      "o": [
+        "Nitric acid",
+        "Hydrochloric acid",
+        "Sulfuric acid",
+        "Citric acid"
+      ],
+      "a": 3,
+      "e": "Citrus fruits contain citric acid.",
+      "d": "Medium",
+      "topic": "Acid reactions",
+      "slo": "Explain and apply acid reactions in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-231",
+      "q": "Which acid is associated with ant stings?",
+      "o": [
+        "Sulfuric acid",
+        "Formic acid",
+        "Phosphoric acid",
+        "Nitric acid"
+      ],
+      "a": 1,
+      "e": "Formic acid is present in ant venom.",
+      "d": "Easy",
+      "topic": "Acid reactions",
+      "slo": "Explain and apply acid reactions in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-232",
+      "q": "In a Class 9 chemistry exercise, which acid is associated with ant stings?",
+      "o": [
+        "Formic acid",
+        "Sulfuric acid",
+        "Phosphoric acid",
+        "Nitric acid"
+      ],
+      "a": 0,
+      "e": "Formic acid is present in ant venom.",
+      "d": "Medium",
+      "topic": "Acid reactions",
+      "slo": "Explain and apply acid reactions in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-233",
+      "q": "Which acid is found in the stomach?",
+      "o": [
+        "Carbonic acid",
+        "Hydrochloric acid",
+        "Sulfuric acid",
+        "Nitric acid"
+      ],
+      "a": 1,
+      "e": "Gastric juice contains hydrochloric acid.",
+      "d": "Easy",
+      "topic": "Acid reactions",
+      "slo": "Explain and apply acid reactions in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-234",
+      "q": "In a Class 9 chemistry exercise, which acid is found in the stomach?",
+      "o": [
+        "Nitric acid",
+        "Hydrochloric acid",
+        "Carbonic acid",
+        "Sulfuric acid"
+      ],
+      "a": 1,
+      "e": "Gastric juice contains hydrochloric acid.",
+      "d": "Medium",
+      "topic": "Acid reactions",
+      "slo": "Explain and apply acid reactions in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-235",
+      "q": "What is the chemical name of acetic acid?",
+      "o": [
+        "Nitric acid",
+        "Ethanoic acid",
+        "Methanoic acid",
+        "Sulfuric acid"
+      ],
+      "a": 1,
+      "e": "Acetic acid is the common name of ethanoic acid.",
+      "d": "Easy",
+      "topic": "Acid reactions",
+      "slo": "Explain and apply acid reactions in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-236",
+      "q": "In a Class 9 chemistry exercise, what is the chemical name of acetic acid?",
+      "o": [
+        "Nitric acid",
+        "Sulfuric acid",
+        "Ethanoic acid",
+        "Methanoic acid"
+      ],
+      "a": 2,
+      "e": "Acetic acid is the common name of ethanoic acid.",
+      "d": "Medium",
+      "topic": "Acid reactions",
+      "slo": "Explain and apply acid reactions in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-237",
+      "q": "Which ion is responsible for the acidic character of aqueous solutions?",
+      "o": [
+        "Sodium ions",
+        "Hydronium ions",
+        "Nitrate ions",
+        "Chloride ions"
+      ],
+      "a": 1,
+      "e": "In water, hydrogen ions are represented as H3O+.",
+      "d": "Easy",
+      "topic": "Acid reactions",
+      "slo": "Explain and apply acid reactions in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-238",
+      "q": "In a Class 9 chemistry exercise, which ion is responsible for the acidic character of aqueous solutions?",
+      "o": [
+        "Sodium ions",
+        "Chloride ions",
+        "Nitrate ions",
+        "Hydronium ions"
+      ],
+      "a": 3,
+      "e": "In water, hydrogen ions are represented as H3O+.",
+      "d": "Medium",
+      "topic": "Acid reactions",
+      "slo": "Explain and apply acid reactions in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-239",
+      "q": "Which ions are formed when NaOH dissolves in water?",
+      "o": [
+        "Na+ and OH-",
+        "Na+ and Cl-",
+        "Na2+ and O2-",
+        "Na- and H+"
+      ],
+      "a": 0,
+      "e": "NaOH dissociates into sodium and hydroxide ions.",
+      "d": "Easy",
+      "topic": "Oxides and hydroxides",
+      "slo": "Explain and apply oxides and hydroxides in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-240",
+      "q": "In a Class 9 chemistry exercise, which ions are formed when NaOH dissolves in water?",
+      "o": [
+        "Na2+ and O2-",
+        "Na- and H+",
+        "Na+ and Cl-",
+        "Na+ and OH-"
+      ],
+      "a": 3,
+      "e": "NaOH dissociates into sodium and hydroxide ions.",
+      "d": "Medium",
+      "topic": "Oxides and hydroxides",
+      "slo": "Explain and apply oxides and hydroxides in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-241",
+      "q": "Which ions are formed when KOH dissolves in water?",
+      "o": [
+        "K+ and OH-",
+        "K- and H+",
+        "K+ and Cl-",
+        "K2+ and O2-"
+      ],
+      "a": 0,
+      "e": "KOH dissociates into potassium and hydroxide ions.",
+      "d": "Easy",
+      "topic": "Oxides and hydroxides",
+      "slo": "Explain and apply oxides and hydroxides in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-242",
+      "q": "In a Class 9 chemistry exercise, which ions are formed when KOH dissolves in water?",
+      "o": [
+        "K+ and OH-",
+        "K+ and Cl-",
+        "K- and H+",
+        "K2+ and O2-"
+      ],
+      "a": 0,
+      "e": "KOH dissociates into potassium and hydroxide ions.",
+      "d": "Medium",
+      "topic": "Oxides and hydroxides",
+      "slo": "Explain and apply oxides and hydroxides in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-243",
+      "q": "How many OH- ions are released per formula unit of Ca(OH)2?",
+      "o": [
+        "2",
+        "4",
+        "1",
+        "3"
+      ],
+      "a": 0,
+      "e": "Ca(OH)2 contains two hydroxide groups.",
+      "d": "Easy",
+      "topic": "Oxides and hydroxides",
+      "slo": "Explain and apply oxides and hydroxides in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-244",
+      "q": "In a Class 9 chemistry exercise, how many OH- ions are released per formula unit of Ca(OH)2?",
+      "o": [
+        "2",
+        "1",
+        "4",
+        "3"
+      ],
+      "a": 0,
+      "e": "Ca(OH)2 contains two hydroxide groups.",
+      "d": "Medium",
+      "topic": "Oxides and hydroxides",
+      "slo": "Explain and apply oxides and hydroxides in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-245",
+      "q": "How many OH- ions are released per formula unit of Al(OH)3 if fully dissociated?",
+      "o": [
+        "4",
+        "1",
+        "3",
+        "2"
+      ],
+      "a": 2,
+      "e": "Al(OH)3 contains three hydroxide groups.",
+      "d": "Easy",
+      "topic": "Oxides and hydroxides",
+      "slo": "Explain and apply oxides and hydroxides in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-246",
+      "q": "In a Class 9 chemistry exercise, how many OH- ions are released per formula unit of Al(OH)3 if fully dissociated?",
+      "o": [
+        "3",
+        "4",
+        "2",
+        "1"
+      ],
+      "a": 0,
+      "e": "Al(OH)3 contains three hydroxide groups.",
+      "d": "Medium",
+      "topic": "Oxides and hydroxides",
+      "slo": "Explain and apply oxides and hydroxides in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-247",
+      "q": "Which reaction best represents the ionic neutralization equation?",
+      "o": [
+        "H+ + OH- → H2O",
+        "H+ + Cl- → HCl",
+        "H2O → H2 + O2",
+        "Na+ + Cl- → NaCl"
+      ],
+      "a": 0,
+      "e": "The net ionic reaction is proton plus hydroxide to form water.",
+      "d": "Easy",
+      "topic": "Neutralization",
+      "slo": "Explain and apply neutralization in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-248",
+      "q": "In a Class 9 chemistry exercise, which reaction best represents the ionic neutralization equation?",
+      "o": [
+        "H2O → H2 + O2",
+        "Na+ + Cl- → NaCl",
+        "H+ + Cl- → HCl",
+        "H+ + OH- → H2O"
+      ],
+      "a": 3,
+      "e": "The net ionic reaction is proton plus hydroxide to form water.",
+      "d": "Medium",
+      "topic": "Neutralization",
+      "slo": "Explain and apply neutralization in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-249",
+      "q": "What type of reaction occurs when HCl reacts with NaOH?",
+      "o": [
+        "Neutralization",
+        "Decomposition",
+        "Combustion",
+        "Photolysis"
+      ],
+      "a": 0,
+      "e": "An acid reacts with a base to form salt and water.",
+      "d": "Easy",
+      "topic": "Neutralization",
+      "slo": "Explain and apply neutralization in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-250",
+      "q": "In a Class 9 chemistry exercise, what type of reaction occurs when HCl reacts with NaOH?",
+      "o": [
+        "Combustion",
+        "Decomposition",
+        "Neutralization",
+        "Photolysis"
+      ],
+      "a": 2,
+      "e": "An acid reacts with a base to form salt and water.",
+      "d": "Medium",
+      "topic": "Neutralization",
+      "slo": "Explain and apply neutralization in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-251",
+      "q": "Which acid is diprotic?",
+      "o": [
+        "CH3COOH",
+        "HCl",
+        "H2SO4",
+        "HNO3"
+      ],
+      "a": 2,
+      "e": "Sulfuric acid can donate two protons.",
+      "d": "Easy",
+      "topic": "Properties of acids",
+      "slo": "Explain and apply properties of acids in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-252",
+      "q": "In a Class 9 chemistry exercise, which acid is diprotic?",
+      "o": [
+        "HCl",
+        "CH3COOH",
+        "HNO3",
+        "H2SO4"
+      ],
+      "a": 3,
+      "e": "Sulfuric acid can donate two protons.",
+      "d": "Medium",
+      "topic": "Properties of acids",
+      "slo": "Explain and apply properties of acids in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-253",
+      "q": "Which acid is monoprotic?",
+      "o": [
+        "H2CO3",
+        "H2SO4",
+        "H3PO4",
+        "HCl"
+      ],
+      "a": 3,
+      "e": "HCl donates one proton per molecule.",
+      "d": "Easy",
+      "topic": "Properties of acids",
+      "slo": "Explain and apply properties of acids in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-254",
+      "q": "In a Class 9 chemistry exercise, which acid is monoprotic?",
+      "o": [
+        "H2CO3",
+        "H2SO4",
+        "HCl",
+        "H3PO4"
+      ],
+      "a": 2,
+      "e": "HCl donates one proton per molecule.",
+      "d": "Medium",
+      "topic": "Properties of acids",
+      "slo": "Explain and apply properties of acids in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-255",
+      "q": "Which acid is triprotic?",
+      "o": [
+        "CH3COOH",
+        "HNO3",
+        "H3PO4",
+        "HCl"
+      ],
+      "a": 2,
+      "e": "Phosphoric acid can donate three protons.",
+      "d": "Easy",
+      "topic": "Properties of acids",
+      "slo": "Explain and apply properties of acids in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-256",
+      "q": "In a Class 9 chemistry exercise, which acid is triprotic?",
+      "o": [
+        "CH3COOH",
+        "H3PO4",
+        "HCl",
+        "HNO3"
+      ],
+      "a": 1,
+      "e": "Phosphoric acid can donate three protons.",
+      "d": "Medium",
+      "topic": "Properties of acids",
+      "slo": "Explain and apply properties of acids in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-257",
+      "q": "How many ionizable protons does H3PO4 have?",
+      "o": [
+        "4",
+        "3",
+        "2",
+        "1"
+      ],
+      "a": 1,
+      "e": "Phosphoric acid is triprotic.",
+      "d": "Easy",
+      "topic": "Properties of acids",
+      "slo": "Explain and apply properties of acids in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-258",
+      "q": "In a Class 9 chemistry exercise, how many ionizable protons does H3PO4 have?",
+      "o": [
+        "4",
+        "1",
+        "2",
+        "3"
+      ],
+      "a": 3,
+      "e": "Phosphoric acid is triprotic.",
+      "d": "Medium",
+      "topic": "Properties of acids",
+      "slo": "Explain and apply properties of acids in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-259",
+      "q": "How many ionizable protons does H2SO4 have?",
+      "o": [
+        "3",
+        "2",
+        "4",
+        "1"
+      ],
+      "a": 1,
+      "e": "Sulfuric acid is diprotic.",
+      "d": "Easy",
+      "topic": "Properties of acids",
+      "slo": "Explain and apply properties of acids in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-260",
+      "q": "In a Class 9 chemistry exercise, how many ionizable protons does H2SO4 have?",
+      "o": [
+        "4",
+        "2",
+        "1",
+        "3"
+      ],
+      "a": 1,
+      "e": "Sulfuric acid is diprotic.",
+      "d": "Medium",
+      "topic": "Properties of acids",
+      "slo": "Explain and apply properties of acids in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-261",
+      "q": "What is the key limitation of Arrhenius theory?",
+      "o": [
+        "It focuses on acids and bases in aqueous solutions",
+        "It treats every electron-pair donor as an acid",
+        "It explains all nonaqueous proton transfers",
+        "It applies only to metals"
+      ],
+      "a": 0,
+      "e": "Arrhenius theory defines acids and bases through ions in water.",
+      "d": "Easy",
+      "topic": "Acid-base concepts",
+      "slo": "Explain and apply acid-base concepts in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-262",
+      "q": "In a Class 9 chemistry exercise, what is the key limitation of Arrhenius theory?",
+      "o": [
+        "It applies only to metals",
+        "It focuses on acids and bases in aqueous solutions",
+        "It explains all nonaqueous proton transfers",
+        "It treats every electron-pair donor as an acid"
+      ],
+      "a": 1,
+      "e": "Arrhenius theory defines acids and bases through ions in water.",
+      "d": "Medium",
+      "topic": "Acid-base concepts",
+      "slo": "Explain and apply acid-base concepts in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-263",
+      "q": "Which theory describes acid–base reactions as proton transfer?",
+      "o": [
+        "Collision theory",
+        "Brønsted–Lowry theory",
+        "Atomic theory",
+        "Kinetic gas theory"
+      ],
+      "a": 1,
+      "e": "Brønsted–Lowry theory defines acids as donors and bases as acceptors of H+.",
+      "d": "Easy",
+      "topic": "Acid-base concepts",
+      "slo": "Explain and apply acid-base concepts in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-264",
+      "q": "In a Class 9 chemistry exercise, which theory describes acid–base reactions as proton transfer?",
+      "o": [
+        "Brønsted–Lowry theory",
+        "Kinetic gas theory",
+        "Collision theory",
+        "Atomic theory"
+      ],
+      "a": 0,
+      "e": "Brønsted–Lowry theory defines acids as donors and bases as acceptors of H+.",
+      "d": "Medium",
+      "topic": "Acid-base concepts",
+      "slo": "Explain and apply acid-base concepts in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-265",
+      "q": "What is the conjugate acid of OH-?",
+      "o": [
+        "O2-",
+        "H2O",
+        "H2O2",
+        "H3O+"
+      ],
+      "a": 1,
+      "e": "OH- accepts H+ to become water.",
+      "d": "Easy",
+      "topic": "Acid-base concepts",
+      "slo": "Explain and apply acid-base concepts in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-266",
+      "q": "In a Class 9 chemistry exercise, what is the conjugate acid of OH-?",
+      "o": [
+        "H2O2",
+        "H3O+",
+        "H2O",
+        "O2-"
+      ],
+      "a": 2,
+      "e": "OH- accepts H+ to become water.",
+      "d": "Medium",
+      "topic": "Acid-base concepts",
+      "slo": "Explain and apply acid-base concepts in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-267",
+      "q": "What is the conjugate base of H3O+?",
+      "o": [
+        "H2",
+        "H2O2",
+        "OH-",
+        "H2O"
+      ],
+      "a": 3,
+      "e": "Hydronium loses a proton to form water.",
+      "d": "Easy",
+      "topic": "Acid-base concepts",
+      "slo": "Explain and apply acid-base concepts in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-268",
+      "q": "In a Class 9 chemistry exercise, what is the conjugate base of H3O+?",
+      "o": [
+        "OH-",
+        "H2",
+        "H2O2",
+        "H2O"
+      ],
+      "a": 3,
+      "e": "Hydronium loses a proton to form water.",
+      "d": "Medium",
+      "topic": "Acid-base concepts",
+      "slo": "Explain and apply acid-base concepts in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-269",
+      "q": "What is the conjugate base of CH3COOH?",
+      "o": [
+        "CH3OH",
+        "CH3COO-",
+        "CO3^2-",
+        "CH4"
+      ],
+      "a": 1,
+      "e": "Ethanoic acid loses H+ to become ethanoate.",
+      "d": "Easy",
+      "topic": "Acid-base concepts",
+      "slo": "Explain and apply acid-base concepts in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-270",
+      "q": "In a Class 9 chemistry exercise, what is the conjugate base of CH3COOH?",
+      "o": [
+        "CO3^2-",
+        "CH3OH",
+        "CH4",
+        "CH3COO-"
+      ],
+      "a": 3,
+      "e": "Ethanoic acid loses H+ to become ethanoate.",
+      "d": "Medium",
+      "topic": "Acid-base concepts",
+      "slo": "Explain and apply acid-base concepts in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-271",
+      "q": "What is the conjugate acid of CO3^2-?",
+      "o": [
+        "CO2",
+        "H2CO3",
+        "HCO3-",
+        "CO3-"
+      ],
+      "a": 2,
+      "e": "Carbonate accepts one proton to form hydrogen carbonate.",
+      "d": "Easy",
+      "topic": "Acid-base concepts",
+      "slo": "Explain and apply acid-base concepts in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-272",
+      "q": "In a Class 9 chemistry exercise, what is the conjugate acid of CO3^2-?",
+      "o": [
+        "HCO3-",
+        "CO2",
+        "CO3-",
+        "H2CO3"
+      ],
+      "a": 0,
+      "e": "Carbonate accepts one proton to form hydrogen carbonate.",
+      "d": "Medium",
+      "topic": "Acid-base concepts",
+      "slo": "Explain and apply acid-base concepts in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-273",
+      "q": "What is the conjugate base of HCO3-?",
+      "o": [
+        "H3CO3+",
+        "H2CO3",
+        "CO2",
+        "CO3^2-"
+      ],
+      "a": 3,
+      "e": "Hydrogen carbonate loses H+ to form carbonate.",
+      "d": "Easy",
+      "topic": "Acid-base concepts",
+      "slo": "Explain and apply acid-base concepts in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-274",
+      "q": "In a Class 9 chemistry exercise, what is the conjugate base of HCO3-?",
+      "o": [
+        "CO3^2-",
+        "H3CO3+",
+        "H2CO3",
+        "CO2"
+      ],
+      "a": 0,
+      "e": "Hydrogen carbonate loses H+ to form carbonate.",
+      "d": "Medium",
+      "topic": "Acid-base concepts",
+      "slo": "Explain and apply acid-base concepts in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-275",
+      "q": "What is the conjugate acid of HCO3-?",
+      "o": [
+        "CO2",
+        "H2CO3",
+        "OH-",
+        "CO3^2-"
+      ],
+      "a": 1,
+      "e": "Hydrogen carbonate gains H+ to form carbonic acid.",
+      "d": "Easy",
+      "topic": "Acid-base concepts",
+      "slo": "Explain and apply acid-base concepts in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-276",
+      "q": "In a Class 9 chemistry exercise, what is the conjugate acid of HCO3-?",
+      "o": [
+        "CO2",
+        "OH-",
+        "H2CO3",
+        "CO3^2-"
+      ],
+      "a": 2,
+      "e": "Hydrogen carbonate gains H+ to form carbonic acid.",
+      "d": "Medium",
+      "topic": "Acid-base concepts",
+      "slo": "Explain and apply acid-base concepts in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-277",
+      "q": "What happens to acidic and basic properties when exactly equivalent amounts neutralize?",
+      "o": [
+        "The base produces carbon dioxide",
+        "The acid turns into hydrogen gas",
+        "Both become stronger",
+        "They are consumed by the reaction"
+      ],
+      "a": 3,
+      "e": "Neutralization consumes acid and base equivalents.",
+      "d": "Easy",
+      "topic": "Neutralization",
+      "slo": "Explain and apply neutralization in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-278",
+      "q": "In a Class 9 chemistry exercise, what happens to acidic and basic properties when exactly equivalent amounts neutralize?",
+      "o": [
+        "They are consumed by the reaction",
+        "Both become stronger",
+        "The acid turns into hydrogen gas",
+        "The base produces carbon dioxide"
+      ],
+      "a": 0,
+      "e": "Neutralization consumes acid and base equivalents.",
+      "d": "Medium",
+      "topic": "Neutralization",
+      "slo": "Explain and apply neutralization in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-279",
+      "q": "What type of oxide is sodium oxide?",
+      "o": [
+        "Neutral oxide",
+        "Basic oxide",
+        "Peroxide",
+        "Acidic oxide"
+      ],
+      "a": 1,
+      "e": "Na2O is a basic metal oxide.",
+      "d": "Easy",
+      "topic": "Oxides and hydroxides",
+      "slo": "Explain and apply oxides and hydroxides in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-280",
+      "q": "In a Class 9 chemistry exercise, what type of oxide is sodium oxide?",
+      "o": [
+        "Acidic oxide",
+        "Neutral oxide",
+        "Peroxide",
+        "Basic oxide"
+      ],
+      "a": 3,
+      "e": "Na2O is a basic metal oxide.",
+      "d": "Medium",
+      "topic": "Oxides and hydroxides",
+      "slo": "Explain and apply oxides and hydroxides in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-281",
+      "q": "What type of oxide is sulfur dioxide?",
+      "o": [
+        "Basic oxide",
+        "Acidic oxide",
+        "Metallic oxide",
+        "Amphoteric hydroxide"
+      ],
+      "a": 1,
+      "e": "SO2 is an acidic nonmetal oxide.",
+      "d": "Easy",
+      "topic": "Oxides and hydroxides",
+      "slo": "Explain and apply oxides and hydroxides in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-282",
+      "q": "In a Class 9 chemistry exercise, what type of oxide is sulfur dioxide?",
+      "o": [
+        "Basic oxide",
+        "Acidic oxide",
+        "Metallic oxide",
+        "Amphoteric hydroxide"
+      ],
+      "a": 1,
+      "e": "SO2 is an acidic nonmetal oxide.",
+      "d": "Medium",
+      "topic": "Oxides and hydroxides",
+      "slo": "Explain and apply oxides and hydroxides in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-283",
+      "q": "What type of oxide is calcium oxide?",
+      "o": [
+        "Acidic oxide",
+        "Neutral oxide",
+        "Hydroxide",
+        "Basic oxide"
+      ],
+      "a": 3,
+      "e": "CaO is a basic metal oxide.",
+      "d": "Easy",
+      "topic": "Oxides and hydroxides",
+      "slo": "Explain and apply oxides and hydroxides in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-284",
+      "q": "In a Class 9 chemistry exercise, what type of oxide is calcium oxide?",
+      "o": [
+        "Acidic oxide",
+        "Basic oxide",
+        "Hydroxide",
+        "Neutral oxide"
+      ],
+      "a": 1,
+      "e": "CaO is a basic metal oxide.",
+      "d": "Medium",
+      "topic": "Oxides and hydroxides",
+      "slo": "Explain and apply oxides and hydroxides in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-285",
+      "q": "Which base is commonly used to manufacture mortar and plaster?",
+      "o": [
+        "Hydrochloric acid",
+        "Ethanoic acid",
+        "Nitric acid",
+        "Calcium hydroxide"
+      ],
+      "a": 3,
+      "e": "Calcium hydroxide is used in mortar and plaster.",
+      "d": "Easy",
+      "topic": "Oxides and hydroxides",
+      "slo": "Explain and apply oxides and hydroxides in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-286",
+      "q": "In a Class 9 chemistry exercise, which base is commonly used to manufacture mortar and plaster?",
+      "o": [
+        "Hydrochloric acid",
+        "Calcium hydroxide",
+        "Nitric acid",
+        "Ethanoic acid"
+      ],
+      "a": 1,
+      "e": "Calcium hydroxide is used in mortar and plaster.",
+      "d": "Medium",
+      "topic": "Oxides and hydroxides",
+      "slo": "Explain and apply oxides and hydroxides in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-287",
+      "q": "Which metal oxide forms a hydroxide when it reacts with water?",
+      "o": [
+        "CaO",
+        "SO2",
+        "CO2",
+        "NO2"
+      ],
+      "a": 0,
+      "e": "CaO + H2O → Ca(OH)2.",
+      "d": "Easy",
+      "topic": "Oxides and hydroxides",
+      "slo": "Explain and apply oxides and hydroxides in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-288",
+      "q": "In a Class 9 chemistry exercise, which metal oxide forms a hydroxide when it reacts with water?",
+      "o": [
+        "CO2",
+        "CaO",
+        "NO2",
+        "SO2"
+      ],
+      "a": 1,
+      "e": "CaO + H2O → Ca(OH)2.",
+      "d": "Medium",
+      "topic": "Oxides and hydroxides",
+      "slo": "Explain and apply oxides and hydroxides in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-289",
+      "q": "Which property is shared by aqueous acids and aqueous alkalis?",
+      "o": [
+        "Both are always colourless",
+        "Both can conduct electricity",
+        "Both turn blue litmus red",
+        "Both have a sour taste"
+      ],
+      "a": 1,
+      "e": "Both can contain mobile ions that conduct electricity.",
+      "d": "Easy",
+      "topic": "Properties of acids",
+      "slo": "Explain and apply properties of acids in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-290",
+      "q": "In a Class 9 chemistry exercise, which property is shared by aqueous acids and aqueous alkalis?",
+      "o": [
+        "Both can conduct electricity",
+        "Both turn blue litmus red",
+        "Both have a sour taste",
+        "Both are always colourless"
+      ],
+      "a": 0,
+      "e": "Both can contain mobile ions that conduct electricity.",
+      "d": "Medium",
+      "topic": "Properties of acids",
+      "slo": "Explain and apply properties of acids in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-291",
+      "q": "Which of these bases is only sparingly soluble in water?",
+      "o": [
+        "NaOH",
+        "Mg(OH)2",
+        "KOH",
+        "None of these"
+      ],
+      "a": 1,
+      "e": "Magnesium hydroxide has low solubility in water.",
+      "d": "Easy",
+      "topic": "Properties of bases",
+      "slo": "Explain and apply properties of bases in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-292",
+      "q": "In a Class 9 chemistry exercise, which of these bases is only sparingly soluble in water?",
+      "o": [
+        "KOH",
+        "Mg(OH)2",
+        "None of these",
+        "NaOH"
+      ],
+      "a": 1,
+      "e": "Magnesium hydroxide has low solubility in water.",
+      "d": "Medium",
+      "topic": "Properties of bases",
+      "slo": "Explain and apply properties of bases in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-293",
+      "q": "Which hydroxide is used as an antacid?",
+      "o": [
+        "Mg(OH)2",
+        "NaOH",
+        "KOH",
+        "Fe(OH)3"
+      ],
+      "a": 0,
+      "e": "Magnesium hydroxide neutralizes excess stomach acid.",
+      "d": "Easy",
+      "topic": "Properties of bases",
+      "slo": "Explain and apply properties of bases in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-294",
+      "q": "In a Class 9 chemistry exercise, which hydroxide is used as an antacid?",
+      "o": [
+        "NaOH",
+        "KOH",
+        "Mg(OH)2",
+        "Fe(OH)3"
+      ],
+      "a": 2,
+      "e": "Magnesium hydroxide neutralizes excess stomach acid.",
+      "d": "Medium",
+      "topic": "Properties of bases",
+      "slo": "Explain and apply properties of bases in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-295",
+      "q": "Which gas evolves when an acid reacts with a metal hydrogen carbonate?",
+      "o": [
+        "Hydrogen",
+        "Carbon dioxide",
+        "Oxygen",
+        "Ammonia"
+      ],
+      "a": 1,
+      "e": "Hydrogen carbonates react with acids to release CO2.",
+      "d": "Easy",
+      "topic": "Properties of acids",
+      "slo": "Explain and apply properties of acids in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-296",
+      "q": "In a Class 9 chemistry exercise, which gas evolves when an acid reacts with a metal hydrogen carbonate?",
+      "o": [
+        "Ammonia",
+        "Hydrogen",
+        "Carbon dioxide",
+        "Oxygen"
+      ],
+      "a": 2,
+      "e": "Hydrogen carbonates react with acids to release CO2.",
+      "d": "Medium",
+      "topic": "Properties of acids",
+      "slo": "Explain and apply properties of acids in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-297",
+      "q": "Which reaction produces ammonia gas?",
+      "o": [
+        "HCl + NaOH → NaCl + H2O",
+        "Mg + HCl → MgCl2 + H2",
+        "Na2CO3 + HCl → NaCl + CO2 + H2O",
+        "NH4Cl + NaOH → NH3 + NaCl + H2O"
+      ],
+      "a": 3,
+      "e": "Strong alkali liberates ammonia from ammonium salts.",
+      "d": "Easy",
+      "topic": "Properties of bases",
+      "slo": "Explain and apply properties of bases in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-298",
+      "q": "In a Class 9 chemistry exercise, which reaction produces ammonia gas?",
+      "o": [
+        "NH4Cl + NaOH → NH3 + NaCl + H2O",
+        "Na2CO3 + HCl → NaCl + CO2 + H2O",
+        "HCl + NaOH → NaCl + H2O",
+        "Mg + HCl → MgCl2 + H2"
+      ],
+      "a": 0,
+      "e": "Strong alkali liberates ammonia from ammonium salts.",
+      "d": "Medium",
+      "topic": "Properties of bases",
+      "slo": "Explain and apply properties of bases in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-299",
+      "q": "Which reaction gives a salt and water from an acidic oxide and a base?",
+      "o": [
+        "CO2 + H2O → NaOH",
+        "Na2O + H2O → NaCl",
+        "CO2 + 2NaOH → Na2CO3 + H2O",
+        "NaOH + HCl → NaCl + H2"
+      ],
+      "a": 2,
+      "e": "Acidic CO2 reacts with sodium hydroxide to form carbonate and water.",
+      "d": "Easy",
+      "topic": "Properties of bases",
+      "slo": "Explain and apply properties of bases in acids, bases and salts."
+    },
+    {
+      "id": "CHEM9CH10-300",
+      "q": "In a Class 9 chemistry exercise, which reaction gives a salt and water from an acidic oxide and a base?",
+      "o": [
+        "CO2 + H2O → NaOH",
+        "Na2O + H2O → NaCl",
+        "NaOH + HCl → NaCl + H2",
+        "CO2 + 2NaOH → Na2CO3 + H2O"
+      ],
+      "a": 3,
+      "e": "Acidic CO2 reacts with sodium hydroxide to form carbonate and water.",
+      "d": "Medium",
+      "topic": "Properties of bases",
+      "slo": "Explain and apply properties of bases in acids, bases and salts."
+    }
+  ]
+}

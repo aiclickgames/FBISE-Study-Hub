@@ -1,0 +1,4504 @@
+{
+  "questions": [
+    {
+      "id": "CHEM9CH9-001",
+      "q": "A reaction that can proceed in both forward and backward directions is called a:",
+      "o": [
+        "Reversible reaction",
+        "Complete reaction",
+        "Irreversible reaction",
+        "Nuclear decay"
+      ],
+      "a": 0,
+      "e": "Products can reform reactants under the same conditions.",
+      "d": "Easy",
+      "topic": "Reversible reactions",
+      "slo": "Explain or apply reversible reactions in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-002",
+      "q": "Which symbol represents a reversible chemical reaction?",
+      "o": [
+        "↑",
+        "←",
+        "→",
+        "⇌"
+      ],
+      "a": 3,
+      "e": "A double arrow indicates the forward and reverse reactions.",
+      "d": "Medium",
+      "topic": "Reaction symbols",
+      "slo": "Explain or apply reaction symbols in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-003",
+      "q": "What does the forward reaction do in a reversible system?",
+      "o": [
+        "Stops all collisions",
+        "Eliminates the reverse reaction",
+        "Converts products into reactants",
+        "Converts reactants into products"
+      ],
+      "a": 3,
+      "e": "The forward direction forms products from reactants.",
+      "d": "Medium",
+      "topic": "Forward and reverse reactions",
+      "slo": "Explain or apply forward and reverse reactions in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-004",
+      "q": "Which statement best defines dynamic equilibrium?",
+      "o": [
+        "Forward and reverse rates are equal",
+        "Only products remain",
+        "Both reaction rates are zero",
+        "All molecules stop moving"
+      ],
+      "a": 0,
+      "e": "At dynamic equilibrium, both processes continue at equal nonzero rates.",
+      "d": "Easy",
+      "topic": "Dynamic equilibrium",
+      "slo": "Explain or apply dynamic equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-005",
+      "q": "At equilibrium, what happens to the concentrations of reactants and products?",
+      "o": [
+        "They remain constant with time",
+        "They always become zero",
+        "They must be equal to each other",
+        "They increase without limit"
+      ],
+      "a": 0,
+      "e": "Equal opposing rates keep concentrations constant, though not necessarily equal.",
+      "d": "Medium",
+      "topic": "Equilibrium concentrations",
+      "slo": "Explain or apply equilibrium concentrations in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-006",
+      "q": "Which condition is essential for maintaining equilibrium in the textbook examples?",
+      "o": [
+        "A continuously open vessel",
+        "Constant removal of products",
+        "Complete evaporation of reactants",
+        "A closed system"
+      ],
+      "a": 3,
+      "e": "A closed system prevents loss of reacting substances.",
+      "d": "Medium",
+      "topic": "Conditions for equilibrium",
+      "slo": "Explain or apply conditions for equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-007",
+      "q": "At equilibrium, how do forward and reverse reaction rates compare?",
+      "o": [
+        "Forward rate is always larger",
+        "Both must be zero",
+        "Reverse rate is always larger",
+        "They are equal"
+      ],
+      "a": 3,
+      "e": "Equality of rates defines chemical dynamic equilibrium.",
+      "d": "Easy",
+      "topic": "Equilibrium rates",
+      "slo": "Explain or apply equilibrium rates in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-008",
+      "q": "A closed container has a liquid and its vapour at equilibrium. Which rates are equal?",
+      "o": [
+        "Combustion and oxidation",
+        "Dissolving and burning",
+        "Melting and freezing only",
+        "Evaporation and condensation"
+      ],
+      "a": 3,
+      "e": "The vapour-liquid equilibrium balances evaporation with condensation.",
+      "d": "Medium",
+      "topic": "Physical equilibrium",
+      "slo": "Explain or apply physical equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-009",
+      "q": "What is a complete reaction according to the chapter introduction?",
+      "o": [
+        "A reaction that cannot begin",
+        "A reaction with equal forward and reverse rates",
+        "A reaction in which all reactants are converted into products",
+        "A reaction that only changes colour"
+      ],
+      "a": 2,
+      "e": "The introduction defines a complete reaction by full conversion of reactants.",
+      "d": "Medium",
+      "topic": "Complete and reversible reactions",
+      "slo": "Explain or apply complete and reversible reactions in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-010",
+      "q": "Which industry is specifically cited as involving equilibrium reactions?",
+      "o": [
+        "Glass cutting",
+        "Ammonia manufacture",
+        "Paper folding",
+        "Mechanical drilling"
+      ],
+      "a": 1,
+      "e": "The textbook notes equilibrium in the commercial production of ammonia.",
+      "d": "Easy",
+      "topic": "Industrial equilibrium",
+      "slo": "Explain or apply industrial equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-011",
+      "q": "In N₂ + 3H₂ ⇌ 2NH₃, which substances are reactants in the forward direction?",
+      "o": [
+        "Nitrogen and hydrogen",
+        "Ammonia alone",
+        "Hydrogen and ammonia",
+        "Nitrogen and ammonia"
+      ],
+      "a": 0,
+      "e": "The species on the left form ammonia in the forward reaction.",
+      "d": "Medium",
+      "topic": "Ammonia synthesis",
+      "slo": "Explain or apply ammonia synthesis in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-012",
+      "q": "What is the coefficient of hydrogen in N₂ + 3H₂ ⇌ 2NH₃?",
+      "o": [
+        "3",
+        "1",
+        "4",
+        "2"
+      ],
+      "a": 0,
+      "e": "The balanced equation contains three H₂ molecules per N₂ molecule.",
+      "d": "Medium",
+      "topic": "Balanced reversible equations",
+      "slo": "Explain or apply balanced reversible equations in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-013",
+      "q": "In 2SO₂ + O₂ ⇌ 2SO₃, which product forms in the forward direction?",
+      "o": [
+        "Sulfur trioxide",
+        "Sulfur dioxide",
+        "Sulfuric acid directly",
+        "Hydrogen sulfide"
+      ],
+      "a": 0,
+      "e": "The forward reaction produces SO₃ from SO₂ and O₂.",
+      "d": "Medium",
+      "topic": "Sulfur trioxide equilibrium",
+      "slo": "Explain or apply sulfur trioxide equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-014",
+      "q": "In N₂ + 2O₂ ⇌ 2NO₂, which product forms in the forward direction?",
+      "o": [
+        "Nitrogen monoxide only",
+        "Ammonia",
+        "Sulfur dioxide",
+        "Nitrogen dioxide"
+      ],
+      "a": 3,
+      "e": "The textbook illustrates formation of NO₂ from nitrogen and oxygen.",
+      "d": "Medium",
+      "topic": "Nitrogen dioxide equilibrium",
+      "slo": "Explain or apply nitrogen dioxide equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-015",
+      "q": "When hydrated copper(II) sulfate is heated, what colour change is observed?",
+      "o": [
+        "White to blue",
+        "Blue to white",
+        "Green to red",
+        "Pink to blue"
+      ],
+      "a": 1,
+      "e": "Heating removes water of crystallization, producing white anhydrous CuSO₄.",
+      "d": "Medium",
+      "topic": "Hydrated copper sulfate",
+      "slo": "Explain or apply hydrated copper sulfate in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-016",
+      "q": "Which safety precaution does the copper sulfate activity emphasize?",
+      "o": [
+        "Taste the sample",
+        "Wear safety glasses and gloves",
+        "Heat without supervision",
+        "Touch the hot tube immediately"
+      ],
+      "a": 1,
+      "e": "The chapter warns that copper sulfate is harmful and should be handled with care.",
+      "d": "Medium",
+      "topic": "Laboratory safety",
+      "slo": "Explain or apply laboratory safety in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-017",
+      "q": "What is the colour of hydrated cobalt(II) chloride?",
+      "o": [
+        "Pink",
+        "Yellow",
+        "White",
+        "Blue"
+      ],
+      "a": 0,
+      "e": "CoCl₂·6H₂O is described as pink.",
+      "d": "Medium",
+      "topic": "Hydrated cobalt chloride",
+      "slo": "Explain or apply hydrated cobalt chloride in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-018",
+      "q": "In the cobalt chloride example, heating shifts the dehydration equilibrium in which direction?",
+      "o": [
+        "Toward the hydrated salt",
+        "Toward hydrogen gas",
+        "Toward the anhydrous salt and water",
+        "Toward elemental cobalt"
+      ],
+      "a": 2,
+      "e": "Heating favours the dehydration direction shown on the right.",
+      "d": "Medium",
+      "topic": "Temperature effects",
+      "slo": "Explain or apply temperature effects in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-019",
+      "q": "At equilibrium, can both reactants and products be present?",
+      "o": [
+        "No substances remain",
+        "Yes",
+        "No, only products",
+        "No, only reactants"
+      ],
+      "a": 1,
+      "e": "A reversible reaction typically contains both sides at equilibrium.",
+      "d": "Medium",
+      "topic": "Equilibrium mixtures",
+      "slo": "Explain or apply equilibrium mixtures in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-020",
+      "q": "For the reversible equation N₂ + 3H₂ ⇌ 2NH₃, what is formed in the forward direction?",
+      "o": [
+        "nitrogen and hydrogen",
+        "No substance",
+        "Only the catalyst",
+        "ammonia"
+      ],
+      "a": 3,
+      "e": "The right-hand side (NH₃) is formed from the left-hand side (N₂ and H₂).",
+      "d": "Medium",
+      "topic": "Forward reaction",
+      "slo": "Explain or apply forward reaction in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-021",
+      "q": "For the reversible equation N₂ + 3H₂ ⇌ 2NH₃, which materials are regenerated in the reverse direction?",
+      "o": [
+        "Only heat",
+        "ammonia",
+        "nitrogen and hydrogen",
+        "Only the catalyst"
+      ],
+      "a": 2,
+      "e": "The reverse reaction converts NH₃ back to N₂ and H₂.",
+      "d": "Medium",
+      "topic": "Reverse reaction",
+      "slo": "Explain or apply reverse reaction in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-022",
+      "q": "For the reversible equation N₂ + 3H₂ ⇌ 2NH₃, if forward reaction initially exceeds reverse reaction, which side increases overall?",
+      "o": [
+        "Only the catalyst",
+        "The reactants",
+        "Neither side under any conditions",
+        "The products"
+      ],
+      "a": 3,
+      "e": "Net formation is toward ammonia when the forward rate is greater.",
+      "d": "Medium",
+      "topic": "Rate comparison",
+      "slo": "Explain or apply rate comparison in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-023",
+      "q": "In a closed flask containing N₂, H₂ and NH₃, the forward and reverse reaction rates are both 1 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "0",
+        "1",
+        "3",
+        "2"
+      ],
+      "a": 0,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Ammonia equilibrium",
+      "slo": "Explain or apply ammonia equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-024",
+      "q": "In a closed flask containing H₂, I₂ and HI, the forward and reverse reaction rates are both 1 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "3",
+        "0",
+        "2",
+        "1"
+      ],
+      "a": 1,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Hydrogen iodide equilibrium",
+      "slo": "Explain or apply hydrogen iodide equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-025",
+      "q": "In a reversible system, the forward rate is 3 units/s and the reverse rate is 2 units/s. What is the net rate toward products?",
+      "o": [
+        "3 units/s",
+        "5 units/s",
+        "2 units/s",
+        "1 units/s"
+      ],
+      "a": 3,
+      "e": "Net forward rate = 3 − 2 = 1 units/s.",
+      "d": "Hard",
+      "topic": "Net reaction rates",
+      "slo": "Explain or apply net reaction rates in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-026",
+      "q": "Why can a reversible reaction reach equilibrium without consuming every reactant?",
+      "o": [
+        "Products also react to reform reactants",
+        "Atoms are destroyed",
+        "The forward reaction is impossible",
+        "Only a catalyst stops it"
+      ],
+      "a": 0,
+      "e": "The reverse reaction replenishes reactants.",
+      "d": "Medium",
+      "topic": "Reversible reactions",
+      "slo": "Explain or apply reversible reactions in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-027",
+      "q": "For the reversible equation N₂ + 3H₂ ⇌ 2NH₃, what does the double arrow indicate?",
+      "o": [
+        "The reaction must stop immediately",
+        "The products cannot react",
+        "Both directions can occur",
+        "Only the forward direction occurs"
+      ],
+      "a": 2,
+      "e": "The double arrow denotes a reversible process for N₂ + 3H₂ ⇌ 2NH₃.",
+      "d": "Medium",
+      "topic": "Reaction symbols",
+      "slo": "Explain or apply reaction symbols in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-028",
+      "q": "What does the reverse reaction do in a reversible system?",
+      "o": [
+        "Destroys all matter",
+        "Converts reactants into products",
+        "Converts products into reactants",
+        "Prevents equilibrium"
+      ],
+      "a": 2,
+      "e": "The reverse direction reforms the original reactants.",
+      "d": "Medium",
+      "topic": "Forward and reverse reactions",
+      "slo": "Explain or apply forward and reverse reactions in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-029",
+      "q": "Why is chemical equilibrium called dynamic?",
+      "o": [
+        "Both opposing reactions continue",
+        "The container must rotate",
+        "The reaction has permanently ended",
+        "All particles are stationary"
+      ],
+      "a": 0,
+      "e": "Dynamic refers to ongoing forward and reverse reactions.",
+      "d": "Medium",
+      "topic": "Dynamic equilibrium",
+      "slo": "Explain or apply dynamic equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-030",
+      "q": "Does chemical equilibrium require equal reactant and product concentrations?",
+      "o": [
+        "Yes, concentrations are always identical",
+        "Yes, all substances disappear",
+        "No, only products may remain",
+        "No, only their rates of change must balance"
+      ],
+      "a": 3,
+      "e": "Concentrations can differ while both reaction rates are equal.",
+      "d": "Medium",
+      "topic": "Equilibrium concentrations",
+      "slo": "Explain or apply equilibrium concentrations in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-031",
+      "q": "Which statement about a closed equilibrium system is correct?",
+      "o": [
+        "Products must be continually removed",
+        "Substances can react without escaping the vessel",
+        "The system has no molecules",
+        "Temperature must continually rise"
+      ],
+      "a": 1,
+      "e": "A closed vessel retains reactants and products.",
+      "d": "Medium",
+      "topic": "Conditions for equilibrium",
+      "slo": "Explain or apply conditions for equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-032",
+      "q": "If the forward and reverse rates are both 5 mol per minute, what is the net change due to reaction?",
+      "o": [
+        "25 mol per minute",
+        "5 mol per minute",
+        "10 mol per minute",
+        "0 mol per minute"
+      ],
+      "a": 3,
+      "e": "Equal forward and reverse changes cancel in the net balance.",
+      "d": "Medium",
+      "topic": "Equilibrium rates",
+      "slo": "Explain or apply equilibrium rates in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-033",
+      "q": "Which process changes liquid into vapour?",
+      "o": [
+        "Deposition",
+        "Condensation",
+        "Freezing",
+        "Evaporation"
+      ],
+      "a": 3,
+      "e": "Evaporation transfers molecules from liquid to gas.",
+      "d": "Medium",
+      "topic": "Physical equilibrium",
+      "slo": "Explain or apply physical equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-034",
+      "q": "Which other industrial chemical is cited as an equilibrium-related product?",
+      "o": [
+        "Sodium chloride from seawater",
+        "Sulfuric acid",
+        "Sand",
+        "Distilled water"
+      ],
+      "a": 1,
+      "e": "The textbook cites sulfuric acid production as an equilibrium application.",
+      "d": "Medium",
+      "topic": "Industrial equilibrium",
+      "slo": "Explain or apply industrial equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-035",
+      "q": "In N₂ + 3H₂ ⇌ 2NH₃, which substance is formed by the forward reaction?",
+      "o": [
+        "Sulfur trioxide",
+        "Ammonia",
+        "Hydrogen chloride",
+        "Oxygen"
+      ],
+      "a": 1,
+      "e": "Nitrogen and hydrogen combine to form NH₃.",
+      "d": "Medium",
+      "topic": "Ammonia synthesis",
+      "slo": "Explain or apply ammonia synthesis in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-036",
+      "q": "What is the coefficient of ammonia in N₂ + 3H₂ ⇌ 2NH₃?",
+      "o": [
+        "3",
+        "1",
+        "4",
+        "2"
+      ],
+      "a": 3,
+      "e": "Two NH₃ molecules balance the nitrogen and hydrogen atoms.",
+      "d": "Medium",
+      "topic": "Balanced reversible equations",
+      "slo": "Explain or apply balanced reversible equations in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-037",
+      "q": "What is the formula of sulfur dioxide?",
+      "o": [
+        "SO₂",
+        "S₂O",
+        "SO₃",
+        "H₂SO₄"
+      ],
+      "a": 0,
+      "e": "Sulfur dioxide contains one sulfur atom and two oxygen atoms.",
+      "d": "Medium",
+      "topic": "Sulfur trioxide equilibrium",
+      "slo": "Explain or apply sulfur trioxide equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-038",
+      "q": "What is shown above the arrow in the nitrogen dioxide formation example?",
+      "o": [
+        "Sunlight only",
+        "Iron catalyst",
+        "Electric spark",
+        "Water"
+      ],
+      "a": 2,
+      "e": "The example labels an electric spark.",
+      "d": "Medium",
+      "topic": "Nitrogen dioxide equilibrium",
+      "slo": "Explain or apply nitrogen dioxide equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-039",
+      "q": "What is the colour of hydrated copper(II) sulfate?",
+      "o": [
+        "Black",
+        "Pink",
+        "Blue",
+        "White"
+      ],
+      "a": 2,
+      "e": "CuSO₄·5H₂O is blue.",
+      "d": "Medium",
+      "topic": "Hydrated copper sulfate",
+      "slo": "Explain or apply hydrated copper sulfate in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-040",
+      "q": "What is the colour of anhydrous cobalt(II) chloride?",
+      "o": [
+        "Blue",
+        "Pink",
+        "White",
+        "Green"
+      ],
+      "a": 0,
+      "e": "Anhydrous CoCl₂ is described as blue.",
+      "d": "Easy",
+      "topic": "Hydrated cobalt chloride",
+      "slo": "Explain or apply hydrated cobalt chloride in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-041",
+      "q": "Which change is reversible in the copper sulfate demonstration?",
+      "o": [
+        "Nuclear fission",
+        "Burning copper completely",
+        "Hydration and dehydration",
+        "Dissolving glass"
+      ],
+      "a": 2,
+      "e": "Water can be removed by heating and restored by adding water.",
+      "d": "Medium",
+      "topic": "Temperature effects",
+      "slo": "Explain or apply temperature effects in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-042",
+      "q": "For the reversible equation N₂ + 3H₂ ⇌ 2NH₃, which side is consumed by the forward reaction?",
+      "o": [
+        "ammonia",
+        "Only the catalyst",
+        "nitrogen and hydrogen",
+        "Neither side"
+      ],
+      "a": 2,
+      "e": "The forward reaction uses N₂ and H₂ as reactants.",
+      "d": "Medium",
+      "topic": "Forward reaction",
+      "slo": "Explain or apply forward reaction in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-043",
+      "q": "For the reversible equation N₂ + 3H₂ ⇌ 2NH₃, which side is consumed by the reverse reaction?",
+      "o": [
+        "ammonia",
+        "Only the catalyst",
+        "nitrogen and hydrogen",
+        "Neither side"
+      ],
+      "a": 0,
+      "e": "The reverse reaction uses NH₃ to reform the reactants.",
+      "d": "Medium",
+      "topic": "Reverse reaction",
+      "slo": "Explain or apply reverse reaction in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-044",
+      "q": "For the reversible equation N₂ + 3H₂ ⇌ 2NH₃, if the reverse reaction initially exceeds the forward reaction, which side increases overall?",
+      "o": [
+        "The products",
+        "Only the catalyst",
+        "Neither side under any conditions",
+        "The reactants"
+      ],
+      "a": 3,
+      "e": "Net change is toward nitrogen and hydrogen when the reverse rate is greater.",
+      "d": "Medium",
+      "topic": "Rate comparison",
+      "slo": "Explain or apply rate comparison in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-045",
+      "q": "In a closed flask containing N₂, H₂ and NH₃, the forward and reverse reaction rates are both 2 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "0",
+        "2",
+        "4",
+        "6"
+      ],
+      "a": 0,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Ammonia equilibrium",
+      "slo": "Explain or apply ammonia equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-046",
+      "q": "In a closed flask containing H₂, I₂ and HI, the forward and reverse reaction rates are both 2 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "0",
+        "4",
+        "6",
+        "2"
+      ],
+      "a": 0,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Hydrogen iodide equilibrium",
+      "slo": "Explain or apply hydrogen iodide equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-047",
+      "q": "In a reversible system, the forward rate is 3 units/s and the reverse rate is 1 units/s. What is the net rate toward products?",
+      "o": [
+        "2 units/s",
+        "4 units/s",
+        "3 units/s",
+        "1 units/s"
+      ],
+      "a": 0,
+      "e": "Net forward rate = 3 − 1 = 2 units/s.",
+      "d": "Hard",
+      "topic": "Net reaction rates",
+      "slo": "Explain or apply net reaction rates in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-048",
+      "q": "For the reversible equation 2SO₂ + O₂ ⇌ 2SO₃, what does the double arrow indicate?",
+      "o": [
+        "Only the forward direction occurs",
+        "Both directions can occur",
+        "The reaction must stop immediately",
+        "The products cannot react"
+      ],
+      "a": 1,
+      "e": "The double arrow denotes a reversible process for 2SO₂ + O₂ ⇌ 2SO₃.",
+      "d": "Medium",
+      "topic": "Reaction symbols",
+      "slo": "Explain or apply reaction symbols in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-049",
+      "q": "Which observation alone cannot prove reactions have stopped at equilibrium?",
+      "o": [
+        "Concentrations remain constant",
+        "A vessel is open",
+        "The system is irreversibly changed",
+        "Reactants are exhausted"
+      ],
+      "a": 0,
+      "e": "Steady concentrations can result from two ongoing equal reactions.",
+      "d": "Easy",
+      "topic": "Dynamic equilibrium",
+      "slo": "Explain or apply dynamic equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-050",
+      "q": "Which condition is NOT required for dynamic equilibrium?",
+      "o": [
+        "A reversible process",
+        "Conditions maintained over time",
+        "Equal concentrations of all species",
+        "Equal forward and reverse rates"
+      ],
+      "a": 2,
+      "e": "The concentrations need not be numerically equal.",
+      "d": "Easy",
+      "topic": "Equilibrium concentrations",
+      "slo": "Explain or apply equilibrium concentrations in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-051",
+      "q": "Which condition is listed for an established equilibrium to remain unchanged?",
+      "o": [
+        "Increasing temperature",
+        "Constant temperature",
+        "Opening the vessel",
+        "Continual product removal"
+      ],
+      "a": 1,
+      "e": "The chapter lists constant temperature as an equilibrium condition.",
+      "d": "Easy",
+      "topic": "Conditions for equilibrium",
+      "slo": "Explain or apply conditions for equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-052",
+      "q": "If forward reaction is faster than reverse reaction, what happens initially?",
+      "o": [
+        "Reactants accumulate due to net reverse change",
+        "Both concentrations must remain constant",
+        "All reactions stop",
+        "Products accumulate"
+      ],
+      "a": 3,
+      "e": "The net change is toward products when the forward rate is larger.",
+      "d": "Medium",
+      "topic": "Equilibrium rates",
+      "slo": "Explain or apply equilibrium rates in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-053",
+      "q": "Which process changes vapour back into liquid?",
+      "o": [
+        "Combustion",
+        "Condensation",
+        "Evaporation",
+        "Sublimation"
+      ],
+      "a": 1,
+      "e": "Condensation returns vapour molecules to the liquid.",
+      "d": "Easy",
+      "topic": "Physical equilibrium",
+      "slo": "Explain or apply physical equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-054",
+      "q": "For N₂ + 3H₂ ⇌ 2NH₃, what does the reverse reaction produce?",
+      "o": [
+        "Only ammonia",
+        "Sulfur and oxygen",
+        "Water and oxygen",
+        "Nitrogen and hydrogen"
+      ],
+      "a": 3,
+      "e": "NH₃ can decompose back to N₂ and H₂ in the reverse direction.",
+      "d": "Easy",
+      "topic": "Ammonia synthesis",
+      "slo": "Explain or apply ammonia synthesis in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-055",
+      "q": "In 2SO₂ + O₂ ⇌ 2SO₃, how many oxygen molecules appear on the reactant side?",
+      "o": [
+        "4",
+        "3",
+        "1",
+        "2"
+      ],
+      "a": 2,
+      "e": "The balanced forward equation contains one O₂ molecule.",
+      "d": "Medium",
+      "topic": "Balanced reversible equations",
+      "slo": "Explain or apply balanced reversible equations in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-056",
+      "q": "What is the formula of sulfur trioxide?",
+      "o": [
+        "S₃O",
+        "SO₃",
+        "SO₂",
+        "H₂SO₃"
+      ],
+      "a": 1,
+      "e": "Sulfur trioxide contains one sulfur and three oxygen atoms.",
+      "d": "Easy",
+      "topic": "Sulfur trioxide equilibrium",
+      "slo": "Explain or apply sulfur trioxide equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-057",
+      "q": "What is the colour of anhydrous copper(II) sulfate?",
+      "o": [
+        "White",
+        "Blue",
+        "Orange",
+        "Pink"
+      ],
+      "a": 0,
+      "e": "Anhydrous CuSO₄ is white.",
+      "d": "Easy",
+      "topic": "Hydrated copper sulfate",
+      "slo": "Explain or apply hydrated copper sulfate in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-058",
+      "q": "Which formula represents hydrated cobalt(II) chloride in the chapter?",
+      "o": [
+        "CuSO₄·5H₂O",
+        "CoCl₂·6H₂O",
+        "CoCl₂·5H₂O",
+        "CoCl₃·6H₂O"
+      ],
+      "a": 1,
+      "e": "The chapter identifies cobalt(II) chloride hexahydrate.",
+      "d": "Medium",
+      "topic": "Hydrated cobalt chloride",
+      "slo": "Explain or apply hydrated cobalt chloride in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-059",
+      "q": "For the reversible equation 2SO₂ + O₂ ⇌ 2SO₃, what is formed in the forward direction?",
+      "o": [
+        "sulfur trioxide",
+        "No substance",
+        "sulfur dioxide and oxygen",
+        "Only the catalyst"
+      ],
+      "a": 0,
+      "e": "The right-hand side (SO₃) is formed from the left-hand side (SO₂ and O₂).",
+      "d": "Medium",
+      "topic": "Forward reaction",
+      "slo": "Explain or apply forward reaction in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-060",
+      "q": "For the reversible equation 2SO₂ + O₂ ⇌ 2SO₃, which materials are regenerated in the reverse direction?",
+      "o": [
+        "sulfur dioxide and oxygen",
+        "Only heat",
+        "sulfur trioxide",
+        "Only the catalyst"
+      ],
+      "a": 0,
+      "e": "The reverse reaction converts SO₃ back to SO₂ and O₂.",
+      "d": "Medium",
+      "topic": "Reverse reaction",
+      "slo": "Explain or apply reverse reaction in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-061",
+      "q": "For the reversible equation 2SO₂ + O₂ ⇌ 2SO₃, if forward reaction initially exceeds reverse reaction, which side increases overall?",
+      "o": [
+        "Neither side under any conditions",
+        "The reactants",
+        "Only the catalyst",
+        "The products"
+      ],
+      "a": 3,
+      "e": "Net formation is toward sulfur trioxide when the forward rate is greater.",
+      "d": "Medium",
+      "topic": "Rate comparison",
+      "slo": "Explain or apply rate comparison in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-062",
+      "q": "In a closed flask containing N₂, H₂ and NH₃, the forward and reverse reaction rates are both 3 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "6",
+        "9",
+        "0",
+        "3"
+      ],
+      "a": 2,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Ammonia equilibrium",
+      "slo": "Explain or apply ammonia equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-063",
+      "q": "In a closed flask containing H₂, I₂ and HI, the forward and reverse reaction rates are both 3 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "0",
+        "9",
+        "6",
+        "3"
+      ],
+      "a": 0,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Hydrogen iodide equilibrium",
+      "slo": "Explain or apply hydrogen iodide equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-064",
+      "q": "In a reversible system, the forward rate is 4 units/s and the reverse rate is 3 units/s. What is the net rate toward products?",
+      "o": [
+        "1 units/s",
+        "3 units/s",
+        "7 units/s",
+        "4 units/s"
+      ],
+      "a": 0,
+      "e": "Net forward rate = 4 − 3 = 1 units/s.",
+      "d": "Hard",
+      "topic": "Net reaction rates",
+      "slo": "Explain or apply net reaction rates in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-065",
+      "q": "For the reversible equation H₂ + I₂ ⇌ 2HI, what does the double arrow indicate?",
+      "o": [
+        "Both directions can occur",
+        "The products cannot react",
+        "The reaction must stop immediately",
+        "Only the forward direction occurs"
+      ],
+      "a": 0,
+      "e": "The double arrow denotes a reversible process for H₂ + I₂ ⇌ 2HI.",
+      "d": "Medium",
+      "topic": "Reaction symbols",
+      "slo": "Explain or apply reaction symbols in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-066",
+      "q": "For the reversible equation N₂ + 3H₂ ⇌ 2NH₃, which statement describes equilibrium?",
+      "o": [
+        "Forward and reverse rates are equal",
+        "Both directions must stop",
+        "Reactants and products must have equal masses",
+        "Only the forward reaction operates"
+      ],
+      "a": 0,
+      "e": "For N₂ + 3H₂ ⇌ 2NH₃, dynamic equilibrium requires equal opposing reaction rates.",
+      "d": "Medium",
+      "topic": "Dynamic equilibrium",
+      "slo": "Explain or apply dynamic equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-067",
+      "q": "For the reversible equation N₂ + 3H₂ ⇌ 2NH₃, what is true of the amounts in a closed vessel at steady equilibrium?",
+      "o": [
+        "Every product disappears",
+        "All molecules stop moving",
+        "All reactants are exhausted",
+        "They remain constant while both reactions continue"
+      ],
+      "a": 3,
+      "e": "Equal opposing rates keep amounts stable for N₂ + 3H₂ ⇌ 2NH₃.",
+      "d": "Medium",
+      "topic": "Equilibrium concentrations",
+      "slo": "Explain or apply equilibrium concentrations in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-068",
+      "q": "Which pressure-related condition is listed for maintaining equilibrium?",
+      "o": [
+        "Increasing pressure every minute",
+        "Zero pressure",
+        "Alternating pressure without limit",
+        "Constant pressure or volume"
+      ],
+      "a": 3,
+      "e": "The chapter lists unchanged pressure or volume.",
+      "d": "Medium",
+      "topic": "Conditions for equilibrium",
+      "slo": "Explain or apply conditions for equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-069",
+      "q": "If reverse reaction is faster than forward reaction, what happens initially?",
+      "o": [
+        "Both rates become zero",
+        "Products accumulate",
+        "The vessel opens",
+        "Reactants accumulate"
+      ],
+      "a": 3,
+      "e": "The net change is toward reactants when the reverse rate is larger.",
+      "d": "Medium",
+      "topic": "Equilibrium rates",
+      "slo": "Explain or apply equilibrium rates in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-070",
+      "q": "In a closed liquid-vapour system at equilibrium, what is observed macroscopically?",
+      "o": [
+        "No molecules change phase",
+        "The liquid boils away completely",
+        "All vapour vanishes",
+        "Liquid and vapour amounts remain steady"
+      ],
+      "a": 3,
+      "e": "Equal evaporation and condensation rates produce stable amounts.",
+      "d": "Medium",
+      "topic": "Physical equilibrium",
+      "slo": "Explain or apply physical equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-071",
+      "q": "Which catalyst is shown for ammonia synthesis in the textbook?",
+      "o": [
+        "Water",
+        "Copper sulfate",
+        "Sodium chloride",
+        "Iron (Fe)"
+      ],
+      "a": 3,
+      "e": "The ammonia equilibrium example labels Fe as catalyst.",
+      "d": "Medium",
+      "topic": "Ammonia synthesis",
+      "slo": "Explain or apply ammonia synthesis in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-072",
+      "q": "What is the balanced reverse reaction of 2SO₂ + O₂ ⇌ 2SO₃?",
+      "o": [
+        "SO₃ → SO₂ + O₂",
+        "2SO₃ → 2SO₂ + O₂",
+        "2SO₂ + O₂ → 2SO₃",
+        "2SO₃ → SO₂ + O₂"
+      ],
+      "a": 1,
+      "e": "The reverse reaction consumes two SO₃ to form two SO₂ and one O₂.",
+      "d": "Easy",
+      "topic": "Balanced reversible equations",
+      "slo": "Explain or apply balanced reversible equations in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-073",
+      "q": "Which catalyst is shown for the SO₂-to-SO₃ equilibrium example?",
+      "o": [
+        "Fe",
+        "CuSO₄",
+        "V₂O₅",
+        "NaCl"
+      ],
+      "a": 2,
+      "e": "The textbook labels vanadium(V) oxide, V₂O₅, over the reaction arrow.",
+      "d": "Medium",
+      "topic": "Sulfur trioxide equilibrium",
+      "slo": "Explain or apply sulfur trioxide equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-074",
+      "q": "Which formula represents hydrated copper(II) sulfate used in the chapter activity?",
+      "o": [
+        "CuSO₄·6H₂O",
+        "CuSO₄·5H₂O",
+        "CoCl₂·6H₂O",
+        "CuCl₂·2H₂O"
+      ],
+      "a": 1,
+      "e": "Copper(II) sulfate pentahydrate has five waters of crystallization.",
+      "d": "Medium",
+      "topic": "Hydrated copper sulfate",
+      "slo": "Explain or apply hydrated copper sulfate in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-075",
+      "q": "How many waters of crystallization occur in CoCl₂·6H₂O?",
+      "o": [
+        "5",
+        "6",
+        "8",
+        "2"
+      ],
+      "a": 1,
+      "e": "The formula contains six H₂O units.",
+      "d": "Medium",
+      "topic": "Hydrated cobalt chloride",
+      "slo": "Explain or apply hydrated cobalt chloride in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-076",
+      "q": "For the reversible equation 2SO₂ + O₂ ⇌ 2SO₃, which side is consumed by the forward reaction?",
+      "o": [
+        "sulfur dioxide and oxygen",
+        "Neither side",
+        "sulfur trioxide",
+        "Only the catalyst"
+      ],
+      "a": 0,
+      "e": "The forward reaction uses SO₂ and O₂ as reactants.",
+      "d": "Medium",
+      "topic": "Forward reaction",
+      "slo": "Explain or apply forward reaction in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-077",
+      "q": "For the reversible equation 2SO₂ + O₂ ⇌ 2SO₃, which side is consumed by the reverse reaction?",
+      "o": [
+        "sulfur dioxide and oxygen",
+        "Only the catalyst",
+        "Neither side",
+        "sulfur trioxide"
+      ],
+      "a": 3,
+      "e": "The reverse reaction uses SO₃ to reform the reactants.",
+      "d": "Medium",
+      "topic": "Reverse reaction",
+      "slo": "Explain or apply reverse reaction in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-078",
+      "q": "For the reversible equation 2SO₂ + O₂ ⇌ 2SO₃, if the reverse reaction initially exceeds the forward reaction, which side increases overall?",
+      "o": [
+        "Neither side under any conditions",
+        "The reactants",
+        "Only the catalyst",
+        "The products"
+      ],
+      "a": 1,
+      "e": "Net change is toward sulfur dioxide and oxygen when the reverse rate is greater.",
+      "d": "Medium",
+      "topic": "Rate comparison",
+      "slo": "Explain or apply rate comparison in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-079",
+      "q": "In a closed flask containing N₂, H₂ and NH₃, the forward and reverse reaction rates are both 4 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "12",
+        "0",
+        "4",
+        "8"
+      ],
+      "a": 1,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Ammonia equilibrium",
+      "slo": "Explain or apply ammonia equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-080",
+      "q": "In a closed flask containing H₂, I₂ and HI, the forward and reverse reaction rates are both 4 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "12",
+        "8",
+        "4",
+        "0"
+      ],
+      "a": 3,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Hydrogen iodide equilibrium",
+      "slo": "Explain or apply hydrogen iodide equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-081",
+      "q": "In a reversible system, the forward rate is 5 units/s and the reverse rate is 4 units/s. What is the net rate toward products?",
+      "o": [
+        "9 units/s",
+        "5 units/s",
+        "4 units/s",
+        "1 units/s"
+      ],
+      "a": 3,
+      "e": "Net forward rate = 5 − 4 = 1 units/s.",
+      "d": "Hard",
+      "topic": "Net reaction rates",
+      "slo": "Explain or apply net reaction rates in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-082",
+      "q": "For the reversible equation N₂ + 2O₂ ⇌ 2NO₂, what does the double arrow indicate?",
+      "o": [
+        "The products cannot react",
+        "Only the forward direction occurs",
+        "The reaction must stop immediately",
+        "Both directions can occur"
+      ],
+      "a": 3,
+      "e": "The double arrow denotes a reversible process for N₂ + 2O₂ ⇌ 2NO₂.",
+      "d": "Medium",
+      "topic": "Reaction symbols",
+      "slo": "Explain or apply reaction symbols in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-083",
+      "q": "For the reversible equation 2SO₂ + O₂ ⇌ 2SO₃, which statement describes equilibrium?",
+      "o": [
+        "Both directions must stop",
+        "Forward and reverse rates are equal",
+        "Only the forward reaction operates",
+        "Reactants and products must have equal masses"
+      ],
+      "a": 1,
+      "e": "For 2SO₂ + O₂ ⇌ 2SO₃, dynamic equilibrium requires equal opposing reaction rates.",
+      "d": "Medium",
+      "topic": "Dynamic equilibrium",
+      "slo": "Explain or apply dynamic equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-084",
+      "q": "For the reversible equation 2SO₂ + O₂ ⇌ 2SO₃, what is true of the amounts in a closed vessel at steady equilibrium?",
+      "o": [
+        "All molecules stop moving",
+        "All reactants are exhausted",
+        "They remain constant while both reactions continue",
+        "Every product disappears"
+      ],
+      "a": 2,
+      "e": "Equal opposing rates keep amounts stable for 2SO₂ + O₂ ⇌ 2SO₃.",
+      "d": "Medium",
+      "topic": "Equilibrium concentrations",
+      "slo": "Explain or apply equilibrium concentrations in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-085",
+      "q": "For the reversible equation N₂ + 3H₂ ⇌ 2NH₃, what is needed to keep the established composition unchanged?",
+      "o": [
+        "Continuously remove products",
+        "Open the vessel to air",
+        "Maintain the equilibrium conditions",
+        "Raise temperature continuously"
+      ],
+      "a": 2,
+      "e": "Keeping conditions stable helps maintain the established equilibrium for N₂ + 3H₂ ⇌ 2NH₃.",
+      "d": "Medium",
+      "topic": "Conditions for equilibrium",
+      "slo": "Explain or apply conditions for equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-086",
+      "q": "In a sealed liquid-vapour container, the evaporation and condensation rates are both 1 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "2",
+        "1",
+        "3",
+        "0"
+      ],
+      "a": 3,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Physical equilibrium",
+      "slo": "Explain or apply physical equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-087",
+      "q": "Which temperature is shown for the ammonia synthesis example?",
+      "o": [
+        "25°C",
+        "1000°C",
+        "400°C",
+        "100°C"
+      ],
+      "a": 2,
+      "e": "The printed example specifies 400°C for this reaction.",
+      "d": "Easy",
+      "topic": "Ammonia synthesis",
+      "slo": "Explain or apply ammonia synthesis in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-088",
+      "q": "Which temperature is shown for the sulfur trioxide equilibrium example?",
+      "o": [
+        "100°C",
+        "25°C",
+        "450°C",
+        "800°C"
+      ],
+      "a": 2,
+      "e": "The printed example gives 450°C.",
+      "d": "Medium",
+      "topic": "Sulfur trioxide equilibrium",
+      "slo": "Explain or apply sulfur trioxide equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-089",
+      "q": "What happens when water is added to white anhydrous copper(II) sulfate?",
+      "o": [
+        "It forms black carbon",
+        "It turns blue",
+        "It becomes nitrogen gas",
+        "It turns pink"
+      ],
+      "a": 1,
+      "e": "Water restores the blue hydrated copper sulfate.",
+      "d": "Medium",
+      "topic": "Hydrated copper sulfate",
+      "slo": "Explain or apply hydrated copper sulfate in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-090",
+      "q": "What happens when pink hydrated cobalt(II) chloride is heated?",
+      "o": [
+        "It becomes blue as water is lost",
+        "It becomes colourless gas",
+        "It becomes green as chlorine is gained",
+        "It becomes white as oxygen is lost"
+      ],
+      "a": 0,
+      "e": "Dehydration produces blue anhydrous cobalt(II) chloride.",
+      "d": "Medium",
+      "topic": "Hydrated cobalt chloride",
+      "slo": "Explain or apply hydrated cobalt chloride in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-091",
+      "q": "For the reversible equation H₂ + I₂ ⇌ 2HI, what is formed in the forward direction?",
+      "o": [
+        "Only the catalyst",
+        "hydrogen and iodine",
+        "hydrogen iodide",
+        "No substance"
+      ],
+      "a": 2,
+      "e": "The right-hand side (HI) is formed from the left-hand side (H₂ and I₂).",
+      "d": "Medium",
+      "topic": "Forward reaction",
+      "slo": "Explain or apply forward reaction in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-092",
+      "q": "For the reversible equation H₂ + I₂ ⇌ 2HI, which materials are regenerated in the reverse direction?",
+      "o": [
+        "Only the catalyst",
+        "hydrogen and iodine",
+        "hydrogen iodide",
+        "Only heat"
+      ],
+      "a": 1,
+      "e": "The reverse reaction converts HI back to H₂ and I₂.",
+      "d": "Medium",
+      "topic": "Reverse reaction",
+      "slo": "Explain or apply reverse reaction in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-093",
+      "q": "For the reversible equation H₂ + I₂ ⇌ 2HI, if forward reaction initially exceeds reverse reaction, which side increases overall?",
+      "o": [
+        "Only the catalyst",
+        "Neither side under any conditions",
+        "The products",
+        "The reactants"
+      ],
+      "a": 2,
+      "e": "Net formation is toward hydrogen iodide when the forward rate is greater.",
+      "d": "Medium",
+      "topic": "Rate comparison",
+      "slo": "Explain or apply rate comparison in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-094",
+      "q": "In a closed flask containing N₂, H₂ and NH₃, the forward and reverse reaction rates are both 5 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "15",
+        "5",
+        "10",
+        "0"
+      ],
+      "a": 3,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Ammonia equilibrium",
+      "slo": "Explain or apply ammonia equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-095",
+      "q": "In a closed flask containing H₂, I₂ and HI, the forward and reverse reaction rates are both 5 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "15",
+        "5",
+        "0",
+        "10"
+      ],
+      "a": 2,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Hydrogen iodide equilibrium",
+      "slo": "Explain or apply hydrogen iodide equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-096",
+      "q": "In a reversible system, the forward rate is 5 units/s and the reverse rate is 3 units/s. What is the net rate toward products?",
+      "o": [
+        "2 units/s",
+        "3 units/s",
+        "8 units/s",
+        "5 units/s"
+      ],
+      "a": 0,
+      "e": "Net forward rate = 5 − 3 = 2 units/s.",
+      "d": "Hard",
+      "topic": "Net reaction rates",
+      "slo": "Explain or apply net reaction rates in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-097",
+      "q": "For the reversible equation CuSO₄·5H₂O ⇌ CuSO₄ + 5H₂O, what does the double arrow indicate?",
+      "o": [
+        "The reaction must stop immediately",
+        "Only the forward direction occurs",
+        "Both directions can occur",
+        "The products cannot react"
+      ],
+      "a": 2,
+      "e": "The double arrow denotes a reversible process for CuSO₄·5H₂O ⇌ CuSO₄ + 5H₂O.",
+      "d": "Medium",
+      "topic": "Reaction symbols",
+      "slo": "Explain or apply reaction symbols in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-098",
+      "q": "For the reversible equation H₂ + I₂ ⇌ 2HI, which statement describes equilibrium?",
+      "o": [
+        "Only the forward reaction operates",
+        "Forward and reverse rates are equal",
+        "Reactants and products must have equal masses",
+        "Both directions must stop"
+      ],
+      "a": 1,
+      "e": "For H₂ + I₂ ⇌ 2HI, dynamic equilibrium requires equal opposing reaction rates.",
+      "d": "Medium",
+      "topic": "Dynamic equilibrium",
+      "slo": "Explain or apply dynamic equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-099",
+      "q": "For the reversible equation H₂ + I₂ ⇌ 2HI, what is true of the amounts in a closed vessel at steady equilibrium?",
+      "o": [
+        "All reactants are exhausted",
+        "Every product disappears",
+        "They remain constant while both reactions continue",
+        "All molecules stop moving"
+      ],
+      "a": 2,
+      "e": "Equal opposing rates keep amounts stable for H₂ + I₂ ⇌ 2HI.",
+      "d": "Medium",
+      "topic": "Equilibrium concentrations",
+      "slo": "Explain or apply equilibrium concentrations in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-100",
+      "q": "For the reversible equation 2SO₂ + O₂ ⇌ 2SO₃, what is needed to keep the established composition unchanged?",
+      "o": [
+        "Continuously remove products",
+        "Maintain the equilibrium conditions",
+        "Raise temperature continuously",
+        "Open the vessel to air"
+      ],
+      "a": 1,
+      "e": "Keeping conditions stable helps maintain the established equilibrium for 2SO₂ + O₂ ⇌ 2SO₃.",
+      "d": "Medium",
+      "topic": "Conditions for equilibrium",
+      "slo": "Explain or apply conditions for equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-101",
+      "q": "In a sealed liquid-vapour container, the evaporation and condensation rates are both 2 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "6",
+        "4",
+        "2",
+        "0"
+      ],
+      "a": 3,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Physical equilibrium",
+      "slo": "Explain or apply physical equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-102",
+      "q": "Which pressure is shown for the ammonia synthesis example?",
+      "o": [
+        "2000 atm",
+        "10 atm",
+        "200 atm",
+        "1 atm"
+      ],
+      "a": 2,
+      "e": "The textbook labels the ammonia example at 200 atm.",
+      "d": "Medium",
+      "topic": "Ammonia synthesis",
+      "slo": "Explain or apply ammonia synthesis in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-103",
+      "q": "In a sealed vessel containing SO₂, O₂ and SO₃, the forward and reverse reaction rates are both 1 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "1",
+        "2",
+        "0",
+        "3"
+      ],
+      "a": 2,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Sulfur trioxide equilibrium",
+      "slo": "Explain or apply sulfur trioxide equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-104",
+      "q": "How many water molecules are associated with CuSO₄·5H₂O per formula unit?",
+      "o": [
+        "1",
+        "5",
+        "6",
+        "2"
+      ],
+      "a": 1,
+      "e": "The dot-five-water notation represents five waters of crystallization.",
+      "d": "Medium",
+      "topic": "Hydrated copper sulfate",
+      "slo": "Explain or apply hydrated copper sulfate in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-105",
+      "q": "What happens when water is added to blue anhydrous cobalt(II) chloride?",
+      "o": [
+        "It turns pink",
+        "It turns white",
+        "It turns yellow",
+        "It produces oxygen"
+      ],
+      "a": 0,
+      "e": "Rehydration restores pink CoCl₂·6H₂O.",
+      "d": "Easy",
+      "topic": "Hydrated cobalt chloride",
+      "slo": "Explain or apply hydrated cobalt chloride in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-106",
+      "q": "For the reversible equation H₂ + I₂ ⇌ 2HI, which side is consumed by the forward reaction?",
+      "o": [
+        "Neither side",
+        "hydrogen and iodine",
+        "hydrogen iodide",
+        "Only the catalyst"
+      ],
+      "a": 1,
+      "e": "The forward reaction uses H₂ and I₂ as reactants.",
+      "d": "Medium",
+      "topic": "Forward reaction",
+      "slo": "Explain or apply forward reaction in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-107",
+      "q": "For the reversible equation H₂ + I₂ ⇌ 2HI, which side is consumed by the reverse reaction?",
+      "o": [
+        "hydrogen iodide",
+        "Only the catalyst",
+        "Neither side",
+        "hydrogen and iodine"
+      ],
+      "a": 0,
+      "e": "The reverse reaction uses HI to reform the reactants.",
+      "d": "Medium",
+      "topic": "Reverse reaction",
+      "slo": "Explain or apply reverse reaction in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-108",
+      "q": "For the reversible equation H₂ + I₂ ⇌ 2HI, if the reverse reaction initially exceeds the forward reaction, which side increases overall?",
+      "o": [
+        "Only the catalyst",
+        "The products",
+        "Neither side under any conditions",
+        "The reactants"
+      ],
+      "a": 3,
+      "e": "Net change is toward hydrogen and iodine when the reverse rate is greater.",
+      "d": "Medium",
+      "topic": "Rate comparison",
+      "slo": "Explain or apply rate comparison in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-109",
+      "q": "In a closed flask containing N₂, H₂ and NH₃, the forward and reverse reaction rates are both 6 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "0",
+        "12",
+        "18",
+        "6"
+      ],
+      "a": 0,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Ammonia equilibrium",
+      "slo": "Explain or apply ammonia equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-110",
+      "q": "In a closed flask containing H₂, I₂ and HI, the forward and reverse reaction rates are both 6 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "6",
+        "18",
+        "12",
+        "0"
+      ],
+      "a": 3,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Hydrogen iodide equilibrium",
+      "slo": "Explain or apply hydrogen iodide equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-111",
+      "q": "In a reversible system, the forward rate is 6 units/s and the reverse rate is 5 units/s. What is the net rate toward products?",
+      "o": [
+        "11 units/s",
+        "6 units/s",
+        "5 units/s",
+        "1 units/s"
+      ],
+      "a": 3,
+      "e": "Net forward rate = 6 − 5 = 1 units/s.",
+      "d": "Hard",
+      "topic": "Net reaction rates",
+      "slo": "Explain or apply net reaction rates in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-112",
+      "q": "For the reversible equation CoCl₂·6H₂O ⇌ CoCl₂ + 6H₂O, what does the double arrow indicate?",
+      "o": [
+        "Both directions can occur",
+        "Only the forward direction occurs",
+        "The reaction must stop immediately",
+        "The products cannot react"
+      ],
+      "a": 0,
+      "e": "The double arrow denotes a reversible process for CoCl₂·6H₂O ⇌ CoCl₂ + 6H₂O.",
+      "d": "Medium",
+      "topic": "Reaction symbols",
+      "slo": "Explain or apply reaction symbols in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-113",
+      "q": "For the reversible equation N₂ + 2O₂ ⇌ 2NO₂, which statement describes equilibrium?",
+      "o": [
+        "Reactants and products must have equal masses",
+        "Forward and reverse rates are equal",
+        "Both directions must stop",
+        "Only the forward reaction operates"
+      ],
+      "a": 1,
+      "e": "For N₂ + 2O₂ ⇌ 2NO₂, dynamic equilibrium requires equal opposing reaction rates.",
+      "d": "Medium",
+      "topic": "Dynamic equilibrium",
+      "slo": "Explain or apply dynamic equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-114",
+      "q": "For the reversible equation N₂ + 2O₂ ⇌ 2NO₂, what is true of the amounts in a closed vessel at steady equilibrium?",
+      "o": [
+        "All molecules stop moving",
+        "All reactants are exhausted",
+        "Every product disappears",
+        "They remain constant while both reactions continue"
+      ],
+      "a": 3,
+      "e": "Equal opposing rates keep amounts stable for N₂ + 2O₂ ⇌ 2NO₂.",
+      "d": "Medium",
+      "topic": "Equilibrium concentrations",
+      "slo": "Explain or apply equilibrium concentrations in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-115",
+      "q": "For the reversible equation H₂ + I₂ ⇌ 2HI, what is needed to keep the established composition unchanged?",
+      "o": [
+        "Continuously remove products",
+        "Raise temperature continuously",
+        "Open the vessel to air",
+        "Maintain the equilibrium conditions"
+      ],
+      "a": 3,
+      "e": "Keeping conditions stable helps maintain the established equilibrium for H₂ + I₂ ⇌ 2HI.",
+      "d": "Medium",
+      "topic": "Conditions for equilibrium",
+      "slo": "Explain or apply conditions for equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-116",
+      "q": "In a sealed liquid-vapour container, the evaporation and condensation rates are both 3 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "3",
+        "9",
+        "6",
+        "0"
+      ],
+      "a": 3,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Physical equilibrium",
+      "slo": "Explain or apply physical equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-117",
+      "q": "In a sealed vessel containing SO₂, O₂ and SO₃, the forward and reverse reaction rates are both 2 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "4",
+        "6",
+        "2",
+        "0"
+      ],
+      "a": 3,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Sulfur trioxide equilibrium",
+      "slo": "Explain or apply sulfur trioxide equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-118",
+      "q": "Which material is heated in the chapter equilibrium activity?",
+      "o": [
+        "Calcium carbonate",
+        "Pure iron",
+        "Sodium chloride",
+        "Hydrated copper(II) sulfate"
+      ],
+      "a": 3,
+      "e": "The activity heats blue hydrated copper sulfate crystals.",
+      "d": "Easy",
+      "topic": "Hydrated copper sulfate",
+      "slo": "Explain or apply hydrated copper sulfate in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-119",
+      "q": "A learner heats a fresh 1-g portion of pink hydrated cobalt chloride and observes the dehydrated solid. What colour is the dehydrated salt?",
+      "o": [
+        "Blue",
+        "Pink",
+        "White",
+        "Yellow"
+      ],
+      "a": 0,
+      "e": "Anhydrous cobalt(II) chloride is blue.",
+      "d": "Easy",
+      "topic": "Hydrated cobalt chloride",
+      "slo": "Explain or apply hydrated cobalt chloride in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-120",
+      "q": "For the reversible equation N₂ + 2O₂ ⇌ 2NO₂, what is formed in the forward direction?",
+      "o": [
+        "nitrogen and oxygen",
+        "Only the catalyst",
+        "nitrogen dioxide",
+        "No substance"
+      ],
+      "a": 2,
+      "e": "The right-hand side (NO₂) is formed from the left-hand side (N₂ and O₂).",
+      "d": "Medium",
+      "topic": "Forward reaction",
+      "slo": "Explain or apply forward reaction in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-121",
+      "q": "For the reversible equation N₂ + 2O₂ ⇌ 2NO₂, which materials are regenerated in the reverse direction?",
+      "o": [
+        "Only heat",
+        "Only the catalyst",
+        "nitrogen dioxide",
+        "nitrogen and oxygen"
+      ],
+      "a": 3,
+      "e": "The reverse reaction converts NO₂ back to N₂ and O₂.",
+      "d": "Medium",
+      "topic": "Reverse reaction",
+      "slo": "Explain or apply reverse reaction in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-122",
+      "q": "For the reversible equation N₂ + 2O₂ ⇌ 2NO₂, if forward reaction initially exceeds reverse reaction, which side increases overall?",
+      "o": [
+        "Neither side under any conditions",
+        "The reactants",
+        "Only the catalyst",
+        "The products"
+      ],
+      "a": 3,
+      "e": "Net formation is toward nitrogen dioxide when the forward rate is greater.",
+      "d": "Medium",
+      "topic": "Rate comparison",
+      "slo": "Explain or apply rate comparison in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-123",
+      "q": "In a closed flask containing N₂, H₂ and NH₃, the forward and reverse reaction rates are both 7 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "7",
+        "14",
+        "21",
+        "0"
+      ],
+      "a": 3,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Ammonia equilibrium",
+      "slo": "Explain or apply ammonia equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-124",
+      "q": "In a closed flask containing H₂, I₂ and HI, the forward and reverse reaction rates are both 7 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "0",
+        "7",
+        "14",
+        "21"
+      ],
+      "a": 0,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Hydrogen iodide equilibrium",
+      "slo": "Explain or apply hydrogen iodide equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-125",
+      "q": "In a reversible system, the forward rate is 6 units/s and the reverse rate is 4 units/s. What is the net rate toward products?",
+      "o": [
+        "4 units/s",
+        "6 units/s",
+        "10 units/s",
+        "2 units/s"
+      ],
+      "a": 3,
+      "e": "Net forward rate = 6 − 4 = 2 units/s.",
+      "d": "Hard",
+      "topic": "Net reaction rates",
+      "slo": "Explain or apply net reaction rates in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-126",
+      "q": "For the reversible equation CuSO₄·5H₂O ⇌ CuSO₄ + 5H₂O, which statement describes equilibrium?",
+      "o": [
+        "Forward and reverse rates are equal",
+        "Reactants and products must have equal masses",
+        "Only the forward reaction operates",
+        "Both directions must stop"
+      ],
+      "a": 0,
+      "e": "For CuSO₄·5H₂O ⇌ CuSO₄ + 5H₂O, dynamic equilibrium requires equal opposing reaction rates.",
+      "d": "Medium",
+      "topic": "Dynamic equilibrium",
+      "slo": "Explain or apply dynamic equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-127",
+      "q": "For the reversible equation CuSO₄·5H₂O ⇌ CuSO₄ + 5H₂O, what is true of the amounts in a closed vessel at steady equilibrium?",
+      "o": [
+        "All molecules stop moving",
+        "Every product disappears",
+        "They remain constant while both reactions continue",
+        "All reactants are exhausted"
+      ],
+      "a": 2,
+      "e": "Equal opposing rates keep amounts stable for CuSO₄·5H₂O ⇌ CuSO₄ + 5H₂O.",
+      "d": "Medium",
+      "topic": "Equilibrium concentrations",
+      "slo": "Explain or apply equilibrium concentrations in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-128",
+      "q": "For the reversible equation N₂ + 2O₂ ⇌ 2NO₂, what is needed to keep the established composition unchanged?",
+      "o": [
+        "Continuously remove products",
+        "Raise temperature continuously",
+        "Maintain the equilibrium conditions",
+        "Open the vessel to air"
+      ],
+      "a": 2,
+      "e": "Keeping conditions stable helps maintain the established equilibrium for N₂ + 2O₂ ⇌ 2NO₂.",
+      "d": "Medium",
+      "topic": "Conditions for equilibrium",
+      "slo": "Explain or apply conditions for equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-129",
+      "q": "In a sealed liquid-vapour container, the evaporation and condensation rates are both 4 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "12",
+        "4",
+        "0",
+        "8"
+      ],
+      "a": 2,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Physical equilibrium",
+      "slo": "Explain or apply physical equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-130",
+      "q": "In a sealed vessel containing SO₂, O₂ and SO₃, the forward and reverse reaction rates are both 3 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "3",
+        "9",
+        "6",
+        "0"
+      ],
+      "a": 3,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Sulfur trioxide equilibrium",
+      "slo": "Explain or apply sulfur trioxide equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-131",
+      "q": "What mass of hydrated copper(II) sulfate is specified for the activity?",
+      "o": [
+        "50 g",
+        "500 g",
+        "5 g",
+        "0.5 g"
+      ],
+      "a": 2,
+      "e": "The printed procedure specifies 5 g.",
+      "d": "Medium",
+      "topic": "Hydrated copper sulfate",
+      "slo": "Explain or apply hydrated copper sulfate in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-132",
+      "q": "A learner heats a fresh 6-g portion of pink hydrated cobalt chloride and observes the dehydrated solid. What colour is the dehydrated salt?",
+      "o": [
+        "Pink",
+        "Blue",
+        "White",
+        "Yellow"
+      ],
+      "a": 1,
+      "e": "Anhydrous cobalt(II) chloride is blue.",
+      "d": "Easy",
+      "topic": "Hydrated cobalt chloride",
+      "slo": "Explain or apply hydrated cobalt chloride in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-133",
+      "q": "For the reversible equation N₂ + 2O₂ ⇌ 2NO₂, which side is consumed by the forward reaction?",
+      "o": [
+        "Only the catalyst",
+        "Neither side",
+        "nitrogen and oxygen",
+        "nitrogen dioxide"
+      ],
+      "a": 2,
+      "e": "The forward reaction uses N₂ and O₂ as reactants.",
+      "d": "Medium",
+      "topic": "Forward reaction",
+      "slo": "Explain or apply forward reaction in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-134",
+      "q": "For the reversible equation N₂ + 2O₂ ⇌ 2NO₂, which side is consumed by the reverse reaction?",
+      "o": [
+        "Only the catalyst",
+        "nitrogen and oxygen",
+        "Neither side",
+        "nitrogen dioxide"
+      ],
+      "a": 3,
+      "e": "The reverse reaction uses NO₂ to reform the reactants.",
+      "d": "Medium",
+      "topic": "Reverse reaction",
+      "slo": "Explain or apply reverse reaction in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-135",
+      "q": "For the reversible equation N₂ + 2O₂ ⇌ 2NO₂, if the reverse reaction initially exceeds the forward reaction, which side increases overall?",
+      "o": [
+        "Only the catalyst",
+        "Neither side under any conditions",
+        "The reactants",
+        "The products"
+      ],
+      "a": 2,
+      "e": "Net change is toward nitrogen and oxygen when the reverse rate is greater.",
+      "d": "Medium",
+      "topic": "Rate comparison",
+      "slo": "Explain or apply rate comparison in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-136",
+      "q": "In a closed flask containing N₂, H₂ and NH₃, the forward and reverse reaction rates are both 8 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "8",
+        "0",
+        "16",
+        "24"
+      ],
+      "a": 1,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Ammonia equilibrium",
+      "slo": "Explain or apply ammonia equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-137",
+      "q": "In a closed flask containing H₂, I₂ and HI, the forward and reverse reaction rates are both 8 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "24",
+        "0",
+        "16",
+        "8"
+      ],
+      "a": 1,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Hydrogen iodide equilibrium",
+      "slo": "Explain or apply hydrogen iodide equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-138",
+      "q": "In a reversible system, the forward rate is 7 units/s and the reverse rate is 6 units/s. What is the net rate toward products?",
+      "o": [
+        "13 units/s",
+        "1 units/s",
+        "6 units/s",
+        "7 units/s"
+      ],
+      "a": 1,
+      "e": "Net forward rate = 7 − 6 = 1 units/s.",
+      "d": "Hard",
+      "topic": "Net reaction rates",
+      "slo": "Explain or apply net reaction rates in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-139",
+      "q": "For the reversible equation CoCl₂·6H₂O ⇌ CoCl₂ + 6H₂O, which statement describes equilibrium?",
+      "o": [
+        "Reactants and products must have equal masses",
+        "Only the forward reaction operates",
+        "Forward and reverse rates are equal",
+        "Both directions must stop"
+      ],
+      "a": 2,
+      "e": "For CoCl₂·6H₂O ⇌ CoCl₂ + 6H₂O, dynamic equilibrium requires equal opposing reaction rates.",
+      "d": "Medium",
+      "topic": "Dynamic equilibrium",
+      "slo": "Explain or apply dynamic equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-140",
+      "q": "For the reversible equation CoCl₂·6H₂O ⇌ CoCl₂ + 6H₂O, what is true of the amounts in a closed vessel at steady equilibrium?",
+      "o": [
+        "Every product disappears",
+        "All reactants are exhausted",
+        "They remain constant while both reactions continue",
+        "All molecules stop moving"
+      ],
+      "a": 2,
+      "e": "Equal opposing rates keep amounts stable for CoCl₂·6H₂O ⇌ CoCl₂ + 6H₂O.",
+      "d": "Medium",
+      "topic": "Equilibrium concentrations",
+      "slo": "Explain or apply equilibrium concentrations in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-141",
+      "q": "For the reversible equation CuSO₄·5H₂O ⇌ CuSO₄ + 5H₂O, what is needed to keep the established composition unchanged?",
+      "o": [
+        "Continuously remove products",
+        "Raise temperature continuously",
+        "Maintain the equilibrium conditions",
+        "Open the vessel to air"
+      ],
+      "a": 2,
+      "e": "Keeping conditions stable helps maintain the established equilibrium for CuSO₄·5H₂O ⇌ CuSO₄ + 5H₂O.",
+      "d": "Medium",
+      "topic": "Conditions for equilibrium",
+      "slo": "Explain or apply conditions for equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-142",
+      "q": "In a sealed liquid-vapour container, the evaporation and condensation rates are both 5 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "10",
+        "15",
+        "5",
+        "0"
+      ],
+      "a": 3,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Physical equilibrium",
+      "slo": "Explain or apply physical equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-143",
+      "q": "In a sealed vessel containing SO₂, O₂ and SO₃, the forward and reverse reaction rates are both 4 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "4",
+        "12",
+        "0",
+        "8"
+      ],
+      "a": 2,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Sulfur trioxide equilibrium",
+      "slo": "Explain or apply sulfur trioxide equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-144",
+      "q": "A learner heats a fresh 5-g portion of blue hydrated copper sulfate and then adds water to the dry sample. What final colour should be expected after rehydration?",
+      "o": [
+        "White",
+        "Pink",
+        "Black",
+        "Blue"
+      ],
+      "a": 3,
+      "e": "Water restores the blue hydrated copper(II) sulfate.",
+      "d": "Easy",
+      "topic": "Hydrated copper sulfate",
+      "slo": "Explain or apply hydrated copper sulfate in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-145",
+      "q": "A learner heats a fresh 11-g portion of pink hydrated cobalt chloride and observes the dehydrated solid. What colour is the dehydrated salt?",
+      "o": [
+        "Pink",
+        "Blue",
+        "White",
+        "Yellow"
+      ],
+      "a": 1,
+      "e": "Anhydrous cobalt(II) chloride is blue.",
+      "d": "Easy",
+      "topic": "Hydrated cobalt chloride",
+      "slo": "Explain or apply hydrated cobalt chloride in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-146",
+      "q": "For the reversible equation CuSO₄·5H₂O ⇌ CuSO₄ + 5H₂O, what is formed in the forward direction?",
+      "o": [
+        "No substance",
+        "hydrated copper(II) sulfate",
+        "anhydrous copper(II) sulfate and water",
+        "Only the catalyst"
+      ],
+      "a": 2,
+      "e": "The right-hand side (CuSO₄ and H₂O) is formed from the left-hand side (CuSO₄·5H₂O).",
+      "d": "Medium",
+      "topic": "Forward reaction",
+      "slo": "Explain or apply forward reaction in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-147",
+      "q": "For the reversible equation CuSO₄·5H₂O ⇌ CuSO₄ + 5H₂O, which materials are regenerated in the reverse direction?",
+      "o": [
+        "Only heat",
+        "anhydrous copper(II) sulfate and water",
+        "hydrated copper(II) sulfate",
+        "Only the catalyst"
+      ],
+      "a": 2,
+      "e": "The reverse reaction converts CuSO₄ and H₂O back to CuSO₄·5H₂O.",
+      "d": "Medium",
+      "topic": "Reverse reaction",
+      "slo": "Explain or apply reverse reaction in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-148",
+      "q": "For the reversible equation CuSO₄·5H₂O ⇌ CuSO₄ + 5H₂O, if forward reaction initially exceeds reverse reaction, which side increases overall?",
+      "o": [
+        "The products",
+        "Neither side under any conditions",
+        "The reactants",
+        "Only the catalyst"
+      ],
+      "a": 0,
+      "e": "Net formation is toward anhydrous copper(II) sulfate and water when the forward rate is greater.",
+      "d": "Medium",
+      "topic": "Rate comparison",
+      "slo": "Explain or apply rate comparison in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-149",
+      "q": "In a closed flask containing N₂, H₂ and NH₃, the forward and reverse reaction rates are both 9 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "27",
+        "0",
+        "18",
+        "9"
+      ],
+      "a": 1,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Ammonia equilibrium",
+      "slo": "Explain or apply ammonia equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-150",
+      "q": "In a closed flask containing H₂, I₂ and HI, the forward and reverse reaction rates are both 9 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "27",
+        "9",
+        "18",
+        "0"
+      ],
+      "a": 3,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Hydrogen iodide equilibrium",
+      "slo": "Explain or apply hydrogen iodide equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-151",
+      "q": "In a reversible system, the forward rate is 7 units/s and the reverse rate is 5 units/s. What is the net rate toward products?",
+      "o": [
+        "2 units/s",
+        "12 units/s",
+        "5 units/s",
+        "7 units/s"
+      ],
+      "a": 0,
+      "e": "Net forward rate = 7 − 5 = 2 units/s.",
+      "d": "Hard",
+      "topic": "Net reaction rates",
+      "slo": "Explain or apply net reaction rates in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-152",
+      "q": "For the reversible equation CoCl₂·6H₂O ⇌ CoCl₂ + 6H₂O, what is needed to keep the established composition unchanged?",
+      "o": [
+        "Open the vessel to air",
+        "Continuously remove products",
+        "Raise temperature continuously",
+        "Maintain the equilibrium conditions"
+      ],
+      "a": 3,
+      "e": "Keeping conditions stable helps maintain the established equilibrium for CoCl₂·6H₂O ⇌ CoCl₂ + 6H₂O.",
+      "d": "Medium",
+      "topic": "Conditions for equilibrium",
+      "slo": "Explain or apply conditions for equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-153",
+      "q": "In a sealed liquid-vapour container, the evaporation and condensation rates are both 6 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "6",
+        "18",
+        "12",
+        "0"
+      ],
+      "a": 3,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Physical equilibrium",
+      "slo": "Explain or apply physical equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-154",
+      "q": "In a sealed vessel containing SO₂, O₂ and SO₃, the forward and reverse reaction rates are both 5 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "10",
+        "0",
+        "5",
+        "15"
+      ],
+      "a": 1,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Sulfur trioxide equilibrium",
+      "slo": "Explain or apply sulfur trioxide equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-155",
+      "q": "A learner heats a fresh 10-g portion of blue hydrated copper sulfate and then adds water to the dry sample. What final colour should be expected after rehydration?",
+      "o": [
+        "Black",
+        "Pink",
+        "White",
+        "Blue"
+      ],
+      "a": 3,
+      "e": "Water restores the blue hydrated copper(II) sulfate.",
+      "d": "Easy",
+      "topic": "Hydrated copper sulfate",
+      "slo": "Explain or apply hydrated copper sulfate in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-156",
+      "q": "A learner heats a fresh 16-g portion of pink hydrated cobalt chloride and observes the dehydrated solid. What colour is the dehydrated salt?",
+      "o": [
+        "Yellow",
+        "Blue",
+        "Pink",
+        "White"
+      ],
+      "a": 1,
+      "e": "Anhydrous cobalt(II) chloride is blue.",
+      "d": "Easy",
+      "topic": "Hydrated cobalt chloride",
+      "slo": "Explain or apply hydrated cobalt chloride in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-157",
+      "q": "For the reversible equation CuSO₄·5H₂O ⇌ CuSO₄ + 5H₂O, which side is consumed by the forward reaction?",
+      "o": [
+        "Neither side",
+        "Only the catalyst",
+        "hydrated copper(II) sulfate",
+        "anhydrous copper(II) sulfate and water"
+      ],
+      "a": 2,
+      "e": "The forward reaction uses CuSO₄·5H₂O as reactants.",
+      "d": "Medium",
+      "topic": "Forward reaction",
+      "slo": "Explain or apply forward reaction in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-158",
+      "q": "For the reversible equation CuSO₄·5H₂O ⇌ CuSO₄ + 5H₂O, which side is consumed by the reverse reaction?",
+      "o": [
+        "hydrated copper(II) sulfate",
+        "anhydrous copper(II) sulfate and water",
+        "Only the catalyst",
+        "Neither side"
+      ],
+      "a": 1,
+      "e": "The reverse reaction uses CuSO₄ and H₂O to reform the reactants.",
+      "d": "Medium",
+      "topic": "Reverse reaction",
+      "slo": "Explain or apply reverse reaction in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-159",
+      "q": "For the reversible equation CuSO₄·5H₂O ⇌ CuSO₄ + 5H₂O, if the reverse reaction initially exceeds the forward reaction, which side increases overall?",
+      "o": [
+        "The products",
+        "Only the catalyst",
+        "Neither side under any conditions",
+        "The reactants"
+      ],
+      "a": 3,
+      "e": "Net change is toward hydrated copper(II) sulfate when the reverse rate is greater.",
+      "d": "Medium",
+      "topic": "Rate comparison",
+      "slo": "Explain or apply rate comparison in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-160",
+      "q": "In a closed flask containing N₂, H₂ and NH₃, the forward and reverse reaction rates are both 10 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "20",
+        "10",
+        "0",
+        "30"
+      ],
+      "a": 2,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Ammonia equilibrium",
+      "slo": "Explain or apply ammonia equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-161",
+      "q": "In a closed flask containing H₂, I₂ and HI, the forward and reverse reaction rates are both 10 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "0",
+        "30",
+        "10",
+        "20"
+      ],
+      "a": 0,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Hydrogen iodide equilibrium",
+      "slo": "Explain or apply hydrogen iodide equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-162",
+      "q": "In a reversible system, the forward rate is 8 units/s and the reverse rate is 7 units/s. What is the net rate toward products?",
+      "o": [
+        "1 units/s",
+        "7 units/s",
+        "8 units/s",
+        "15 units/s"
+      ],
+      "a": 0,
+      "e": "Net forward rate = 8 − 7 = 1 units/s.",
+      "d": "Hard",
+      "topic": "Net reaction rates",
+      "slo": "Explain or apply net reaction rates in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-163",
+      "q": "In a sealed liquid-vapour container, the evaporation and condensation rates are both 7 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "21",
+        "14",
+        "0",
+        "7"
+      ],
+      "a": 2,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Physical equilibrium",
+      "slo": "Explain or apply physical equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-164",
+      "q": "In a sealed vessel containing SO₂, O₂ and SO₃, the forward and reverse reaction rates are both 6 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "0",
+        "12",
+        "18",
+        "6"
+      ],
+      "a": 0,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Sulfur trioxide equilibrium",
+      "slo": "Explain or apply sulfur trioxide equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-165",
+      "q": "A learner heats a fresh 15-g portion of blue hydrated copper sulfate and then adds water to the dry sample. What final colour should be expected after rehydration?",
+      "o": [
+        "Blue",
+        "White",
+        "Pink",
+        "Black"
+      ],
+      "a": 0,
+      "e": "Water restores the blue hydrated copper(II) sulfate.",
+      "d": "Easy",
+      "topic": "Hydrated copper sulfate",
+      "slo": "Explain or apply hydrated copper sulfate in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-166",
+      "q": "A learner heats a fresh 21-g portion of pink hydrated cobalt chloride and observes the dehydrated solid. What colour is the dehydrated salt?",
+      "o": [
+        "Yellow",
+        "White",
+        "Blue",
+        "Pink"
+      ],
+      "a": 2,
+      "e": "Anhydrous cobalt(II) chloride is blue.",
+      "d": "Easy",
+      "topic": "Hydrated cobalt chloride",
+      "slo": "Explain or apply hydrated cobalt chloride in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-167",
+      "q": "For the reversible equation CoCl₂·6H₂O ⇌ CoCl₂ + 6H₂O, what is formed in the forward direction?",
+      "o": [
+        "anhydrous cobalt(II) chloride and water",
+        "No substance",
+        "hydrated cobalt(II) chloride",
+        "Only the catalyst"
+      ],
+      "a": 0,
+      "e": "The right-hand side (CoCl₂ and H₂O) is formed from the left-hand side (CoCl₂·6H₂O).",
+      "d": "Medium",
+      "topic": "Forward reaction",
+      "slo": "Explain or apply forward reaction in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-168",
+      "q": "For the reversible equation CoCl₂·6H₂O ⇌ CoCl₂ + 6H₂O, which materials are regenerated in the reverse direction?",
+      "o": [
+        "Only the catalyst",
+        "Only heat",
+        "anhydrous cobalt(II) chloride and water",
+        "hydrated cobalt(II) chloride"
+      ],
+      "a": 3,
+      "e": "The reverse reaction converts CoCl₂ and H₂O back to CoCl₂·6H₂O.",
+      "d": "Medium",
+      "topic": "Reverse reaction",
+      "slo": "Explain or apply reverse reaction in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-169",
+      "q": "For the reversible equation CoCl₂·6H₂O ⇌ CoCl₂ + 6H₂O, if forward reaction initially exceeds reverse reaction, which side increases overall?",
+      "o": [
+        "The reactants",
+        "Only the catalyst",
+        "The products",
+        "Neither side under any conditions"
+      ],
+      "a": 2,
+      "e": "Net formation is toward anhydrous cobalt(II) chloride and water when the forward rate is greater.",
+      "d": "Medium",
+      "topic": "Rate comparison",
+      "slo": "Explain or apply rate comparison in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-170",
+      "q": "In a closed flask containing N₂, H₂ and NH₃, the forward and reverse reaction rates are both 11 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "33",
+        "22",
+        "11",
+        "0"
+      ],
+      "a": 3,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Ammonia equilibrium",
+      "slo": "Explain or apply ammonia equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-171",
+      "q": "In a closed flask containing H₂, I₂ and HI, the forward and reverse reaction rates are both 11 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "33",
+        "22",
+        "0",
+        "11"
+      ],
+      "a": 2,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Hydrogen iodide equilibrium",
+      "slo": "Explain or apply hydrogen iodide equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-172",
+      "q": "In a reversible system, the forward rate is 8 units/s and the reverse rate is 6 units/s. What is the net rate toward products?",
+      "o": [
+        "8 units/s",
+        "2 units/s",
+        "14 units/s",
+        "6 units/s"
+      ],
+      "a": 1,
+      "e": "Net forward rate = 8 − 6 = 2 units/s.",
+      "d": "Hard",
+      "topic": "Net reaction rates",
+      "slo": "Explain or apply net reaction rates in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-173",
+      "q": "In a sealed liquid-vapour container, the evaporation and condensation rates are both 8 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "16",
+        "24",
+        "0",
+        "8"
+      ],
+      "a": 2,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Physical equilibrium",
+      "slo": "Explain or apply physical equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-174",
+      "q": "In a sealed vessel containing SO₂, O₂ and SO₃, the forward and reverse reaction rates are both 7 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "0",
+        "7",
+        "21",
+        "14"
+      ],
+      "a": 0,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Sulfur trioxide equilibrium",
+      "slo": "Explain or apply sulfur trioxide equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-175",
+      "q": "A learner heats a fresh 20-g portion of blue hydrated copper sulfate and then adds water to the dry sample. What final colour should be expected after rehydration?",
+      "o": [
+        "Black",
+        "White",
+        "Blue",
+        "Pink"
+      ],
+      "a": 2,
+      "e": "Water restores the blue hydrated copper(II) sulfate.",
+      "d": "Easy",
+      "topic": "Hydrated copper sulfate",
+      "slo": "Explain or apply hydrated copper sulfate in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-176",
+      "q": "A learner heats a fresh 26-g portion of pink hydrated cobalt chloride and observes the dehydrated solid. What colour is the dehydrated salt?",
+      "o": [
+        "Blue",
+        "Pink",
+        "White",
+        "Yellow"
+      ],
+      "a": 0,
+      "e": "Anhydrous cobalt(II) chloride is blue.",
+      "d": "Easy",
+      "topic": "Hydrated cobalt chloride",
+      "slo": "Explain or apply hydrated cobalt chloride in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-177",
+      "q": "For the reversible equation CoCl₂·6H₂O ⇌ CoCl₂ + 6H₂O, which side is consumed by the forward reaction?",
+      "o": [
+        "Neither side",
+        "Only the catalyst",
+        "hydrated cobalt(II) chloride",
+        "anhydrous cobalt(II) chloride and water"
+      ],
+      "a": 2,
+      "e": "The forward reaction uses CoCl₂·6H₂O as reactants.",
+      "d": "Medium",
+      "topic": "Forward reaction",
+      "slo": "Explain or apply forward reaction in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-178",
+      "q": "For the reversible equation CoCl₂·6H₂O ⇌ CoCl₂ + 6H₂O, which side is consumed by the reverse reaction?",
+      "o": [
+        "Only the catalyst",
+        "hydrated cobalt(II) chloride",
+        "Neither side",
+        "anhydrous cobalt(II) chloride and water"
+      ],
+      "a": 3,
+      "e": "The reverse reaction uses CoCl₂ and H₂O to reform the reactants.",
+      "d": "Medium",
+      "topic": "Reverse reaction",
+      "slo": "Explain or apply reverse reaction in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-179",
+      "q": "For the reversible equation CoCl₂·6H₂O ⇌ CoCl₂ + 6H₂O, if the reverse reaction initially exceeds the forward reaction, which side increases overall?",
+      "o": [
+        "Only the catalyst",
+        "The reactants",
+        "Neither side under any conditions",
+        "The products"
+      ],
+      "a": 1,
+      "e": "Net change is toward hydrated cobalt(II) chloride when the reverse rate is greater.",
+      "d": "Medium",
+      "topic": "Rate comparison",
+      "slo": "Explain or apply rate comparison in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-180",
+      "q": "In a closed flask containing N₂, H₂ and NH₃, the forward and reverse reaction rates are both 12 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "24",
+        "0",
+        "12",
+        "36"
+      ],
+      "a": 1,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Ammonia equilibrium",
+      "slo": "Explain or apply ammonia equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-181",
+      "q": "In a closed flask containing H₂, I₂ and HI, the forward and reverse reaction rates are both 12 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "36",
+        "12",
+        "24",
+        "0"
+      ],
+      "a": 3,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Hydrogen iodide equilibrium",
+      "slo": "Explain or apply hydrogen iodide equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-182",
+      "q": "In a reversible system, the forward rate is 9 units/s and the reverse rate is 8 units/s. What is the net rate toward products?",
+      "o": [
+        "17 units/s",
+        "8 units/s",
+        "9 units/s",
+        "1 units/s"
+      ],
+      "a": 3,
+      "e": "Net forward rate = 9 − 8 = 1 units/s.",
+      "d": "Hard",
+      "topic": "Net reaction rates",
+      "slo": "Explain or apply net reaction rates in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-183",
+      "q": "In a sealed liquid-vapour container, the evaporation and condensation rates are both 9 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "9",
+        "18",
+        "0",
+        "27"
+      ],
+      "a": 2,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Physical equilibrium",
+      "slo": "Explain or apply physical equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-184",
+      "q": "In a sealed vessel containing SO₂, O₂ and SO₃, the forward and reverse reaction rates are both 8 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "24",
+        "8",
+        "16",
+        "0"
+      ],
+      "a": 3,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Sulfur trioxide equilibrium",
+      "slo": "Explain or apply sulfur trioxide equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-185",
+      "q": "A learner heats a fresh 25-g portion of blue hydrated copper sulfate and then adds water to the dry sample. What final colour should be expected after rehydration?",
+      "o": [
+        "White",
+        "Blue",
+        "Black",
+        "Pink"
+      ],
+      "a": 1,
+      "e": "Water restores the blue hydrated copper(II) sulfate.",
+      "d": "Easy",
+      "topic": "Hydrated copper sulfate",
+      "slo": "Explain or apply hydrated copper sulfate in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-186",
+      "q": "A learner heats a fresh 31-g portion of pink hydrated cobalt chloride and observes the dehydrated solid. What colour is the dehydrated salt?",
+      "o": [
+        "Blue",
+        "Pink",
+        "Yellow",
+        "White"
+      ],
+      "a": 0,
+      "e": "Anhydrous cobalt(II) chloride is blue.",
+      "d": "Easy",
+      "topic": "Hydrated cobalt chloride",
+      "slo": "Explain or apply hydrated cobalt chloride in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-187",
+      "q": "In a closed flask containing N₂, H₂ and NH₃, the forward and reverse reaction rates are both 13 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "39",
+        "0",
+        "13",
+        "26"
+      ],
+      "a": 1,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Ammonia equilibrium",
+      "slo": "Explain or apply ammonia equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-188",
+      "q": "In a closed flask containing H₂, I₂ and HI, the forward and reverse reaction rates are both 13 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "0",
+        "26",
+        "13",
+        "39"
+      ],
+      "a": 0,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Hydrogen iodide equilibrium",
+      "slo": "Explain or apply hydrogen iodide equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-189",
+      "q": "In a reversible system, the forward rate is 9 units/s and the reverse rate is 7 units/s. What is the net rate toward products?",
+      "o": [
+        "7 units/s",
+        "16 units/s",
+        "2 units/s",
+        "9 units/s"
+      ],
+      "a": 2,
+      "e": "Net forward rate = 9 − 7 = 2 units/s.",
+      "d": "Hard",
+      "topic": "Net reaction rates",
+      "slo": "Explain or apply net reaction rates in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-190",
+      "q": "In a sealed liquid-vapour container, the evaporation and condensation rates are both 10 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "10",
+        "0",
+        "30",
+        "20"
+      ],
+      "a": 1,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Physical equilibrium",
+      "slo": "Explain or apply physical equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-191",
+      "q": "In a sealed vessel containing SO₂, O₂ and SO₃, the forward and reverse reaction rates are both 9 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "0",
+        "27",
+        "9",
+        "18"
+      ],
+      "a": 0,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Sulfur trioxide equilibrium",
+      "slo": "Explain or apply sulfur trioxide equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-192",
+      "q": "A learner heats a fresh 30-g portion of blue hydrated copper sulfate and then adds water to the dry sample. What final colour should be expected after rehydration?",
+      "o": [
+        "Pink",
+        "Blue",
+        "Black",
+        "White"
+      ],
+      "a": 1,
+      "e": "Water restores the blue hydrated copper(II) sulfate.",
+      "d": "Easy",
+      "topic": "Hydrated copper sulfate",
+      "slo": "Explain or apply hydrated copper sulfate in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-193",
+      "q": "A learner heats a fresh 36-g portion of pink hydrated cobalt chloride and observes the dehydrated solid. What colour is the dehydrated salt?",
+      "o": [
+        "White",
+        "Blue",
+        "Yellow",
+        "Pink"
+      ],
+      "a": 1,
+      "e": "Anhydrous cobalt(II) chloride is blue.",
+      "d": "Easy",
+      "topic": "Hydrated cobalt chloride",
+      "slo": "Explain or apply hydrated cobalt chloride in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-194",
+      "q": "In a closed flask containing N₂, H₂ and NH₃, the forward and reverse reaction rates are both 14 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "0",
+        "14",
+        "42",
+        "28"
+      ],
+      "a": 0,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Ammonia equilibrium",
+      "slo": "Explain or apply ammonia equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-195",
+      "q": "In a closed flask containing H₂, I₂ and HI, the forward and reverse reaction rates are both 14 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "42",
+        "0",
+        "14",
+        "28"
+      ],
+      "a": 1,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Hydrogen iodide equilibrium",
+      "slo": "Explain or apply hydrogen iodide equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-196",
+      "q": "In a reversible system, the forward rate is 10 units/s and the reverse rate is 9 units/s. What is the net rate toward products?",
+      "o": [
+        "10 units/s",
+        "9 units/s",
+        "19 units/s",
+        "1 units/s"
+      ],
+      "a": 3,
+      "e": "Net forward rate = 10 − 9 = 1 units/s.",
+      "d": "Hard",
+      "topic": "Net reaction rates",
+      "slo": "Explain or apply net reaction rates in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-197",
+      "q": "In a sealed liquid-vapour container, the evaporation and condensation rates are both 11 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "0",
+        "22",
+        "33",
+        "11"
+      ],
+      "a": 0,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Physical equilibrium",
+      "slo": "Explain or apply physical equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-198",
+      "q": "In a sealed vessel containing SO₂, O₂ and SO₃, the forward and reverse reaction rates are both 10 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "0",
+        "20",
+        "30",
+        "10"
+      ],
+      "a": 0,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Sulfur trioxide equilibrium",
+      "slo": "Explain or apply sulfur trioxide equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-199",
+      "q": "A learner heats a fresh 35-g portion of blue hydrated copper sulfate and then adds water to the dry sample. What final colour should be expected after rehydration?",
+      "o": [
+        "Pink",
+        "Black",
+        "Blue",
+        "White"
+      ],
+      "a": 2,
+      "e": "Water restores the blue hydrated copper(II) sulfate.",
+      "d": "Easy",
+      "topic": "Hydrated copper sulfate",
+      "slo": "Explain or apply hydrated copper sulfate in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-200",
+      "q": "A learner heats a fresh 41-g portion of pink hydrated cobalt chloride and observes the dehydrated solid. What colour is the dehydrated salt?",
+      "o": [
+        "White",
+        "Blue",
+        "Pink",
+        "Yellow"
+      ],
+      "a": 1,
+      "e": "Anhydrous cobalt(II) chloride is blue.",
+      "d": "Easy",
+      "topic": "Hydrated cobalt chloride",
+      "slo": "Explain or apply hydrated cobalt chloride in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-201",
+      "q": "In a closed flask containing N₂, H₂ and NH₃, the forward and reverse reaction rates are both 15 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "0",
+        "45",
+        "15",
+        "30"
+      ],
+      "a": 0,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Ammonia equilibrium",
+      "slo": "Explain or apply ammonia equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-202",
+      "q": "In a closed flask containing H₂, I₂ and HI, the forward and reverse reaction rates are both 15 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "30",
+        "0",
+        "45",
+        "15"
+      ],
+      "a": 1,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Hydrogen iodide equilibrium",
+      "slo": "Explain or apply hydrogen iodide equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-203",
+      "q": "In a reversible system, the forward rate is 10 units/s and the reverse rate is 8 units/s. What is the net rate toward products?",
+      "o": [
+        "18 units/s",
+        "10 units/s",
+        "2 units/s",
+        "8 units/s"
+      ],
+      "a": 2,
+      "e": "Net forward rate = 10 − 8 = 2 units/s.",
+      "d": "Hard",
+      "topic": "Net reaction rates",
+      "slo": "Explain or apply net reaction rates in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-204",
+      "q": "In a sealed liquid-vapour container, the evaporation and condensation rates are both 12 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "36",
+        "24",
+        "12",
+        "0"
+      ],
+      "a": 3,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Physical equilibrium",
+      "slo": "Explain or apply physical equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-205",
+      "q": "In a sealed vessel containing SO₂, O₂ and SO₃, the forward and reverse reaction rates are both 11 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "11",
+        "0",
+        "22",
+        "33"
+      ],
+      "a": 1,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Sulfur trioxide equilibrium",
+      "slo": "Explain or apply sulfur trioxide equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-206",
+      "q": "A learner heats a fresh 40-g portion of blue hydrated copper sulfate and then adds water to the dry sample. What final colour should be expected after rehydration?",
+      "o": [
+        "White",
+        "Black",
+        "Blue",
+        "Pink"
+      ],
+      "a": 2,
+      "e": "Water restores the blue hydrated copper(II) sulfate.",
+      "d": "Easy",
+      "topic": "Hydrated copper sulfate",
+      "slo": "Explain or apply hydrated copper sulfate in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-207",
+      "q": "A learner heats a fresh 46-g portion of pink hydrated cobalt chloride and observes the dehydrated solid. What colour is the dehydrated salt?",
+      "o": [
+        "White",
+        "Yellow",
+        "Pink",
+        "Blue"
+      ],
+      "a": 3,
+      "e": "Anhydrous cobalt(II) chloride is blue.",
+      "d": "Easy",
+      "topic": "Hydrated cobalt chloride",
+      "slo": "Explain or apply hydrated cobalt chloride in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-208",
+      "q": "In a closed flask containing N₂, H₂ and NH₃, the forward and reverse reaction rates are both 16 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "0",
+        "16",
+        "32",
+        "48"
+      ],
+      "a": 0,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Ammonia equilibrium",
+      "slo": "Explain or apply ammonia equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-209",
+      "q": "In a closed flask containing H₂, I₂ and HI, the forward and reverse reaction rates are both 16 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "48",
+        "0",
+        "32",
+        "16"
+      ],
+      "a": 1,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Hydrogen iodide equilibrium",
+      "slo": "Explain or apply hydrogen iodide equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-210",
+      "q": "In a reversible system, the forward rate is 11 units/s and the reverse rate is 10 units/s. What is the net rate toward products?",
+      "o": [
+        "11 units/s",
+        "21 units/s",
+        "1 units/s",
+        "10 units/s"
+      ],
+      "a": 2,
+      "e": "Net forward rate = 11 − 10 = 1 units/s.",
+      "d": "Hard",
+      "topic": "Net reaction rates",
+      "slo": "Explain or apply net reaction rates in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-211",
+      "q": "In a sealed liquid-vapour container, the evaporation and condensation rates are both 13 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "39",
+        "26",
+        "0",
+        "13"
+      ],
+      "a": 2,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Physical equilibrium",
+      "slo": "Explain or apply physical equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-212",
+      "q": "In a sealed vessel containing SO₂, O₂ and SO₃, the forward and reverse reaction rates are both 12 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "24",
+        "12",
+        "36",
+        "0"
+      ],
+      "a": 3,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Sulfur trioxide equilibrium",
+      "slo": "Explain or apply sulfur trioxide equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-213",
+      "q": "A learner heats a fresh 45-g portion of blue hydrated copper sulfate and then adds water to the dry sample. What final colour should be expected after rehydration?",
+      "o": [
+        "Blue",
+        "Black",
+        "Pink",
+        "White"
+      ],
+      "a": 0,
+      "e": "Water restores the blue hydrated copper(II) sulfate.",
+      "d": "Easy",
+      "topic": "Hydrated copper sulfate",
+      "slo": "Explain or apply hydrated copper sulfate in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-214",
+      "q": "In a closed flask containing N₂, H₂ and NH₃, the forward and reverse reaction rates are both 17 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "17",
+        "51",
+        "0",
+        "34"
+      ],
+      "a": 2,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Ammonia equilibrium",
+      "slo": "Explain or apply ammonia equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-215",
+      "q": "In a closed flask containing H₂, I₂ and HI, the forward and reverse reaction rates are both 17 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "17",
+        "34",
+        "51",
+        "0"
+      ],
+      "a": 3,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Hydrogen iodide equilibrium",
+      "slo": "Explain or apply hydrogen iodide equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-216",
+      "q": "In a reversible system, the forward rate is 11 units/s and the reverse rate is 9 units/s. What is the net rate toward products?",
+      "o": [
+        "9 units/s",
+        "20 units/s",
+        "2 units/s",
+        "11 units/s"
+      ],
+      "a": 2,
+      "e": "Net forward rate = 11 − 9 = 2 units/s.",
+      "d": "Hard",
+      "topic": "Net reaction rates",
+      "slo": "Explain or apply net reaction rates in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-217",
+      "q": "In a sealed liquid-vapour container, the evaporation and condensation rates are both 14 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "14",
+        "28",
+        "0",
+        "42"
+      ],
+      "a": 2,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Physical equilibrium",
+      "slo": "Explain or apply physical equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-218",
+      "q": "In a sealed vessel containing SO₂, O₂ and SO₃, the forward and reverse reaction rates are both 13 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "26",
+        "13",
+        "39",
+        "0"
+      ],
+      "a": 3,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Sulfur trioxide equilibrium",
+      "slo": "Explain or apply sulfur trioxide equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-219",
+      "q": "A learner heats a fresh 50-g portion of blue hydrated copper sulfate and then adds water to the dry sample. What final colour should be expected after rehydration?",
+      "o": [
+        "White",
+        "Black",
+        "Pink",
+        "Blue"
+      ],
+      "a": 3,
+      "e": "Water restores the blue hydrated copper(II) sulfate.",
+      "d": "Easy",
+      "topic": "Hydrated copper sulfate",
+      "slo": "Explain or apply hydrated copper sulfate in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-220",
+      "q": "In a closed flask containing N₂, H₂ and NH₃, the forward and reverse reaction rates are both 18 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "36",
+        "0",
+        "18",
+        "54"
+      ],
+      "a": 1,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Ammonia equilibrium",
+      "slo": "Explain or apply ammonia equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-221",
+      "q": "In a closed flask containing H₂, I₂ and HI, the forward and reverse reaction rates are both 18 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "36",
+        "0",
+        "18",
+        "54"
+      ],
+      "a": 1,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Hydrogen iodide equilibrium",
+      "slo": "Explain or apply hydrogen iodide equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-222",
+      "q": "In a reversible system, the forward rate is 12 units/s and the reverse rate is 11 units/s. What is the net rate toward products?",
+      "o": [
+        "1 units/s",
+        "23 units/s",
+        "12 units/s",
+        "11 units/s"
+      ],
+      "a": 0,
+      "e": "Net forward rate = 12 − 11 = 1 units/s.",
+      "d": "Hard",
+      "topic": "Net reaction rates",
+      "slo": "Explain or apply net reaction rates in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-223",
+      "q": "In a sealed liquid-vapour container, the evaporation and condensation rates are both 15 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "0",
+        "15",
+        "30",
+        "45"
+      ],
+      "a": 0,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Physical equilibrium",
+      "slo": "Explain or apply physical equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-224",
+      "q": "In a sealed vessel containing SO₂, O₂ and SO₃, the forward and reverse reaction rates are both 14 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "28",
+        "14",
+        "0",
+        "42"
+      ],
+      "a": 2,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Sulfur trioxide equilibrium",
+      "slo": "Explain or apply sulfur trioxide equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-225",
+      "q": "In a closed flask containing N₂, H₂ and NH₃, the forward and reverse reaction rates are both 19 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "38",
+        "57",
+        "19",
+        "0"
+      ],
+      "a": 3,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Ammonia equilibrium",
+      "slo": "Explain or apply ammonia equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-226",
+      "q": "In a closed flask containing H₂, I₂ and HI, the forward and reverse reaction rates are both 19 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "38",
+        "19",
+        "0",
+        "57"
+      ],
+      "a": 2,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Hydrogen iodide equilibrium",
+      "slo": "Explain or apply hydrogen iodide equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-227",
+      "q": "In a reversible system, the forward rate is 12 units/s and the reverse rate is 10 units/s. What is the net rate toward products?",
+      "o": [
+        "10 units/s",
+        "12 units/s",
+        "2 units/s",
+        "22 units/s"
+      ],
+      "a": 2,
+      "e": "Net forward rate = 12 − 10 = 2 units/s.",
+      "d": "Hard",
+      "topic": "Net reaction rates",
+      "slo": "Explain or apply net reaction rates in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-228",
+      "q": "In a sealed liquid-vapour container, the evaporation and condensation rates are both 16 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "16",
+        "32",
+        "0",
+        "48"
+      ],
+      "a": 2,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Physical equilibrium",
+      "slo": "Explain or apply physical equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-229",
+      "q": "In a sealed vessel containing SO₂, O₂ and SO₃, the forward and reverse reaction rates are both 15 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "30",
+        "15",
+        "0",
+        "45"
+      ],
+      "a": 2,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Sulfur trioxide equilibrium",
+      "slo": "Explain or apply sulfur trioxide equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-230",
+      "q": "In a closed flask containing N₂, H₂ and NH₃, the forward and reverse reaction rates are both 20 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "20",
+        "60",
+        "40",
+        "0"
+      ],
+      "a": 3,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Ammonia equilibrium",
+      "slo": "Explain or apply ammonia equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-231",
+      "q": "In a closed flask containing H₂, I₂ and HI, the forward and reverse reaction rates are both 20 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "60",
+        "20",
+        "0",
+        "40"
+      ],
+      "a": 2,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Hydrogen iodide equilibrium",
+      "slo": "Explain or apply hydrogen iodide equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-232",
+      "q": "In a reversible system, the forward rate is 13 units/s and the reverse rate is 12 units/s. What is the net rate toward products?",
+      "o": [
+        "12 units/s",
+        "1 units/s",
+        "25 units/s",
+        "13 units/s"
+      ],
+      "a": 1,
+      "e": "Net forward rate = 13 − 12 = 1 units/s.",
+      "d": "Hard",
+      "topic": "Net reaction rates",
+      "slo": "Explain or apply net reaction rates in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-233",
+      "q": "In a sealed liquid-vapour container, the evaporation and condensation rates are both 17 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "17",
+        "0",
+        "34",
+        "51"
+      ],
+      "a": 1,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Physical equilibrium",
+      "slo": "Explain or apply physical equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-234",
+      "q": "In a sealed vessel containing SO₂, O₂ and SO₃, the forward and reverse reaction rates are both 16 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "32",
+        "48",
+        "16",
+        "0"
+      ],
+      "a": 3,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Sulfur trioxide equilibrium",
+      "slo": "Explain or apply sulfur trioxide equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-235",
+      "q": "In a closed flask containing N₂, H₂ and NH₃, the forward and reverse reaction rates are both 21 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "63",
+        "42",
+        "0",
+        "21"
+      ],
+      "a": 2,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Ammonia equilibrium",
+      "slo": "Explain or apply ammonia equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-236",
+      "q": "In a closed flask containing H₂, I₂ and HI, the forward and reverse reaction rates are both 21 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "0",
+        "42",
+        "21",
+        "63"
+      ],
+      "a": 0,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Hydrogen iodide equilibrium",
+      "slo": "Explain or apply hydrogen iodide equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-237",
+      "q": "In a reversible system, the forward rate is 13 units/s and the reverse rate is 11 units/s. What is the net rate toward products?",
+      "o": [
+        "2 units/s",
+        "13 units/s",
+        "11 units/s",
+        "24 units/s"
+      ],
+      "a": 0,
+      "e": "Net forward rate = 13 − 11 = 2 units/s.",
+      "d": "Hard",
+      "topic": "Net reaction rates",
+      "slo": "Explain or apply net reaction rates in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-238",
+      "q": "In a sealed liquid-vapour container, the evaporation and condensation rates are both 18 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "54",
+        "18",
+        "36",
+        "0"
+      ],
+      "a": 3,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Physical equilibrium",
+      "slo": "Explain or apply physical equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-239",
+      "q": "In a sealed vessel containing SO₂, O₂ and SO₃, the forward and reverse reaction rates are both 17 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "51",
+        "0",
+        "17",
+        "34"
+      ],
+      "a": 1,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Sulfur trioxide equilibrium",
+      "slo": "Explain or apply sulfur trioxide equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-240",
+      "q": "In a closed flask containing N₂, H₂ and NH₃, the forward and reverse reaction rates are both 22 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "44",
+        "22",
+        "0",
+        "66"
+      ],
+      "a": 2,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Ammonia equilibrium",
+      "slo": "Explain or apply ammonia equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-241",
+      "q": "In a closed flask containing H₂, I₂ and HI, the forward and reverse reaction rates are both 22 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "44",
+        "66",
+        "22",
+        "0"
+      ],
+      "a": 3,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Hydrogen iodide equilibrium",
+      "slo": "Explain or apply hydrogen iodide equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-242",
+      "q": "In a reversible system, the forward rate is 14 units/s and the reverse rate is 13 units/s. What is the net rate toward products?",
+      "o": [
+        "14 units/s",
+        "27 units/s",
+        "1 units/s",
+        "13 units/s"
+      ],
+      "a": 2,
+      "e": "Net forward rate = 14 − 13 = 1 units/s.",
+      "d": "Hard",
+      "topic": "Net reaction rates",
+      "slo": "Explain or apply net reaction rates in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-243",
+      "q": "In a sealed liquid-vapour container, the evaporation and condensation rates are both 19 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "0",
+        "38",
+        "57",
+        "19"
+      ],
+      "a": 0,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Physical equilibrium",
+      "slo": "Explain or apply physical equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-244",
+      "q": "In a sealed vessel containing SO₂, O₂ and SO₃, the forward and reverse reaction rates are both 18 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "36",
+        "18",
+        "0",
+        "54"
+      ],
+      "a": 2,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Sulfur trioxide equilibrium",
+      "slo": "Explain or apply sulfur trioxide equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-245",
+      "q": "In a closed flask containing N₂, H₂ and NH₃, the forward and reverse reaction rates are both 23 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "23",
+        "69",
+        "46",
+        "0"
+      ],
+      "a": 3,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Ammonia equilibrium",
+      "slo": "Explain or apply ammonia equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-246",
+      "q": "In a closed flask containing H₂, I₂ and HI, the forward and reverse reaction rates are both 23 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "69",
+        "46",
+        "23",
+        "0"
+      ],
+      "a": 3,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Hydrogen iodide equilibrium",
+      "slo": "Explain or apply hydrogen iodide equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-247",
+      "q": "In a reversible system, the forward rate is 14 units/s and the reverse rate is 12 units/s. What is the net rate toward products?",
+      "o": [
+        "26 units/s",
+        "12 units/s",
+        "14 units/s",
+        "2 units/s"
+      ],
+      "a": 3,
+      "e": "Net forward rate = 14 − 12 = 2 units/s.",
+      "d": "Hard",
+      "topic": "Net reaction rates",
+      "slo": "Explain or apply net reaction rates in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-248",
+      "q": "In a sealed liquid-vapour container, the evaporation and condensation rates are both 20 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "0",
+        "40",
+        "60",
+        "20"
+      ],
+      "a": 0,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Physical equilibrium",
+      "slo": "Explain or apply physical equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-249",
+      "q": "In a sealed vessel containing SO₂, O₂ and SO₃, the forward and reverse reaction rates are both 19 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "38",
+        "57",
+        "0",
+        "19"
+      ],
+      "a": 2,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Sulfur trioxide equilibrium",
+      "slo": "Explain or apply sulfur trioxide equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-250",
+      "q": "In a closed flask containing N₂, H₂ and NH₃, the forward and reverse reaction rates are both 24 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "24",
+        "0",
+        "48",
+        "72"
+      ],
+      "a": 1,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Ammonia equilibrium",
+      "slo": "Explain or apply ammonia equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-251",
+      "q": "In a closed flask containing H₂, I₂ and HI, the forward and reverse reaction rates are both 24 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "24",
+        "48",
+        "72",
+        "0"
+      ],
+      "a": 3,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Hydrogen iodide equilibrium",
+      "slo": "Explain or apply hydrogen iodide equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-252",
+      "q": "In a reversible system, the forward rate is 15 units/s and the reverse rate is 14 units/s. What is the net rate toward products?",
+      "o": [
+        "15 units/s",
+        "1 units/s",
+        "14 units/s",
+        "29 units/s"
+      ],
+      "a": 1,
+      "e": "Net forward rate = 15 − 14 = 1 units/s.",
+      "d": "Hard",
+      "topic": "Net reaction rates",
+      "slo": "Explain or apply net reaction rates in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-253",
+      "q": "In a sealed liquid-vapour container, the evaporation and condensation rates are both 21 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "63",
+        "42",
+        "21",
+        "0"
+      ],
+      "a": 3,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Physical equilibrium",
+      "slo": "Explain or apply physical equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-254",
+      "q": "In a sealed vessel containing SO₂, O₂ and SO₃, the forward and reverse reaction rates are both 20 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "60",
+        "40",
+        "20",
+        "0"
+      ],
+      "a": 3,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Sulfur trioxide equilibrium",
+      "slo": "Explain or apply sulfur trioxide equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-255",
+      "q": "In a closed flask containing N₂, H₂ and NH₃, the forward and reverse reaction rates are both 25 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "50",
+        "75",
+        "0",
+        "25"
+      ],
+      "a": 2,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Ammonia equilibrium",
+      "slo": "Explain or apply ammonia equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-256",
+      "q": "In a closed flask containing H₂, I₂ and HI, the forward and reverse reaction rates are both 25 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "50",
+        "75",
+        "0",
+        "25"
+      ],
+      "a": 2,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Hydrogen iodide equilibrium",
+      "slo": "Explain or apply hydrogen iodide equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-257",
+      "q": "In a reversible system, the forward rate is 15 units/s and the reverse rate is 13 units/s. What is the net rate toward products?",
+      "o": [
+        "28 units/s",
+        "13 units/s",
+        "15 units/s",
+        "2 units/s"
+      ],
+      "a": 3,
+      "e": "Net forward rate = 15 − 13 = 2 units/s.",
+      "d": "Hard",
+      "topic": "Net reaction rates",
+      "slo": "Explain or apply net reaction rates in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-258",
+      "q": "In a sealed liquid-vapour container, the evaporation and condensation rates are both 22 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "0",
+        "66",
+        "44",
+        "22"
+      ],
+      "a": 0,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Physical equilibrium",
+      "slo": "Explain or apply physical equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-259",
+      "q": "In a sealed vessel containing SO₂, O₂ and SO₃, the forward and reverse reaction rates are both 21 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "42",
+        "63",
+        "0",
+        "21"
+      ],
+      "a": 2,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Sulfur trioxide equilibrium",
+      "slo": "Explain or apply sulfur trioxide equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-260",
+      "q": "In a closed flask containing N₂, H₂ and NH₃, the forward and reverse reaction rates are both 26 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "0",
+        "78",
+        "52",
+        "26"
+      ],
+      "a": 0,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Ammonia equilibrium",
+      "slo": "Explain or apply ammonia equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-261",
+      "q": "In a closed flask containing H₂, I₂ and HI, the forward and reverse reaction rates are both 26 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "78",
+        "0",
+        "52",
+        "26"
+      ],
+      "a": 1,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Hydrogen iodide equilibrium",
+      "slo": "Explain or apply hydrogen iodide equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-262",
+      "q": "In a reversible system, the forward rate is 16 units/s and the reverse rate is 15 units/s. What is the net rate toward products?",
+      "o": [
+        "15 units/s",
+        "16 units/s",
+        "1 units/s",
+        "31 units/s"
+      ],
+      "a": 2,
+      "e": "Net forward rate = 16 − 15 = 1 units/s.",
+      "d": "Hard",
+      "topic": "Net reaction rates",
+      "slo": "Explain or apply net reaction rates in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-263",
+      "q": "In a sealed liquid-vapour container, the evaporation and condensation rates are both 23 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "23",
+        "46",
+        "0",
+        "69"
+      ],
+      "a": 2,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Physical equilibrium",
+      "slo": "Explain or apply physical equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-264",
+      "q": "In a sealed vessel containing SO₂, O₂ and SO₃, the forward and reverse reaction rates are both 22 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "22",
+        "44",
+        "0",
+        "66"
+      ],
+      "a": 2,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Sulfur trioxide equilibrium",
+      "slo": "Explain or apply sulfur trioxide equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-265",
+      "q": "In a closed flask containing N₂, H₂ and NH₃, the forward and reverse reaction rates are both 27 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "81",
+        "0",
+        "27",
+        "54"
+      ],
+      "a": 1,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Ammonia equilibrium",
+      "slo": "Explain or apply ammonia equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-266",
+      "q": "In a closed flask containing H₂, I₂ and HI, the forward and reverse reaction rates are both 27 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "81",
+        "27",
+        "54",
+        "0"
+      ],
+      "a": 3,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Hydrogen iodide equilibrium",
+      "slo": "Explain or apply hydrogen iodide equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-267",
+      "q": "In a reversible system, the forward rate is 16 units/s and the reverse rate is 14 units/s. What is the net rate toward products?",
+      "o": [
+        "30 units/s",
+        "16 units/s",
+        "2 units/s",
+        "14 units/s"
+      ],
+      "a": 2,
+      "e": "Net forward rate = 16 − 14 = 2 units/s.",
+      "d": "Hard",
+      "topic": "Net reaction rates",
+      "slo": "Explain or apply net reaction rates in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-268",
+      "q": "In a sealed liquid-vapour container, the evaporation and condensation rates are both 24 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "24",
+        "48",
+        "72",
+        "0"
+      ],
+      "a": 3,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Physical equilibrium",
+      "slo": "Explain or apply physical equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-269",
+      "q": "In a sealed vessel containing SO₂, O₂ and SO₃, the forward and reverse reaction rates are both 23 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "0",
+        "69",
+        "46",
+        "23"
+      ],
+      "a": 0,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Sulfur trioxide equilibrium",
+      "slo": "Explain or apply sulfur trioxide equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-270",
+      "q": "In a closed flask containing N₂, H₂ and NH₃, the forward and reverse reaction rates are both 28 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "56",
+        "84",
+        "0",
+        "28"
+      ],
+      "a": 2,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Ammonia equilibrium",
+      "slo": "Explain or apply ammonia equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-271",
+      "q": "In a closed flask containing H₂, I₂ and HI, the forward and reverse reaction rates are both 28 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "56",
+        "28",
+        "84",
+        "0"
+      ],
+      "a": 3,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Hydrogen iodide equilibrium",
+      "slo": "Explain or apply hydrogen iodide equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-272",
+      "q": "In a reversible system, the forward rate is 17 units/s and the reverse rate is 16 units/s. What is the net rate toward products?",
+      "o": [
+        "16 units/s",
+        "1 units/s",
+        "17 units/s",
+        "33 units/s"
+      ],
+      "a": 1,
+      "e": "Net forward rate = 17 − 16 = 1 units/s.",
+      "d": "Hard",
+      "topic": "Net reaction rates",
+      "slo": "Explain or apply net reaction rates in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-273",
+      "q": "In a sealed liquid-vapour container, the evaporation and condensation rates are both 25 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "50",
+        "75",
+        "25",
+        "0"
+      ],
+      "a": 3,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Physical equilibrium",
+      "slo": "Explain or apply physical equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-274",
+      "q": "In a sealed vessel containing SO₂, O₂ and SO₃, the forward and reverse reaction rates are both 24 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "0",
+        "72",
+        "48",
+        "24"
+      ],
+      "a": 0,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Sulfur trioxide equilibrium",
+      "slo": "Explain or apply sulfur trioxide equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-275",
+      "q": "In a closed flask containing N₂, H₂ and NH₃, the forward and reverse reaction rates are both 29 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "29",
+        "87",
+        "58",
+        "0"
+      ],
+      "a": 3,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Ammonia equilibrium",
+      "slo": "Explain or apply ammonia equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-276",
+      "q": "In a closed flask containing H₂, I₂ and HI, the forward and reverse reaction rates are both 29 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "0",
+        "29",
+        "58",
+        "87"
+      ],
+      "a": 0,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Hydrogen iodide equilibrium",
+      "slo": "Explain or apply hydrogen iodide equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-277",
+      "q": "In a reversible system, the forward rate is 17 units/s and the reverse rate is 15 units/s. What is the net rate toward products?",
+      "o": [
+        "15 units/s",
+        "2 units/s",
+        "17 units/s",
+        "32 units/s"
+      ],
+      "a": 1,
+      "e": "Net forward rate = 17 − 15 = 2 units/s.",
+      "d": "Hard",
+      "topic": "Net reaction rates",
+      "slo": "Explain or apply net reaction rates in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-278",
+      "q": "In a sealed liquid-vapour container, the evaporation and condensation rates are both 26 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "78",
+        "0",
+        "26",
+        "52"
+      ],
+      "a": 1,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Physical equilibrium",
+      "slo": "Explain or apply physical equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-279",
+      "q": "In a sealed vessel containing SO₂, O₂ and SO₃, the forward and reverse reaction rates are both 25 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "0",
+        "50",
+        "75",
+        "25"
+      ],
+      "a": 0,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Sulfur trioxide equilibrium",
+      "slo": "Explain or apply sulfur trioxide equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-280",
+      "q": "In a closed flask containing N₂, H₂ and NH₃, the forward and reverse reaction rates are both 30 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "30",
+        "60",
+        "90",
+        "0"
+      ],
+      "a": 3,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Ammonia equilibrium",
+      "slo": "Explain or apply ammonia equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-281",
+      "q": "In a closed flask containing H₂, I₂ and HI, the forward and reverse reaction rates are both 30 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "30",
+        "90",
+        "60",
+        "0"
+      ],
+      "a": 3,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Hydrogen iodide equilibrium",
+      "slo": "Explain or apply hydrogen iodide equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-282",
+      "q": "In a reversible system, the forward rate is 18 units/s and the reverse rate is 17 units/s. What is the net rate toward products?",
+      "o": [
+        "1 units/s",
+        "18 units/s",
+        "17 units/s",
+        "35 units/s"
+      ],
+      "a": 0,
+      "e": "Net forward rate = 18 − 17 = 1 units/s.",
+      "d": "Hard",
+      "topic": "Net reaction rates",
+      "slo": "Explain or apply net reaction rates in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-283",
+      "q": "In a sealed liquid-vapour container, the evaporation and condensation rates are both 27 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "0",
+        "81",
+        "27",
+        "54"
+      ],
+      "a": 0,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Physical equilibrium",
+      "slo": "Explain or apply physical equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-284",
+      "q": "In a sealed vessel containing SO₂, O₂ and SO₃, the forward and reverse reaction rates are both 26 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "0",
+        "26",
+        "52",
+        "78"
+      ],
+      "a": 0,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Sulfur trioxide equilibrium",
+      "slo": "Explain or apply sulfur trioxide equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-285",
+      "q": "In a sealed ammonia synthesis vessel observed after 3 minutes at established equilibrium, what can be said about the forward and reverse rates?",
+      "o": [
+        "Both must be zero",
+        "Forward is necessarily greater",
+        "They are equal",
+        "Reverse is necessarily greater"
+      ],
+      "a": 2,
+      "e": "Chemical equilibrium means equal rates of synthesis and decomposition.",
+      "d": "Easy",
+      "topic": "Ammonia equilibrium",
+      "slo": "Explain or apply ammonia equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-286",
+      "q": "In a reversible system, the forward rate is 18 units/s and the reverse rate is 16 units/s. What is the net rate toward products?",
+      "o": [
+        "34 units/s",
+        "2 units/s",
+        "16 units/s",
+        "18 units/s"
+      ],
+      "a": 1,
+      "e": "Net forward rate = 18 − 16 = 2 units/s.",
+      "d": "Hard",
+      "topic": "Net reaction rates",
+      "slo": "Explain or apply net reaction rates in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-287",
+      "q": "In a sealed liquid-vapour container, the evaporation and condensation rates are both 28 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "0",
+        "28",
+        "84",
+        "56"
+      ],
+      "a": 0,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Physical equilibrium",
+      "slo": "Explain or apply physical equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-288",
+      "q": "In a sealed vessel containing SO₂, O₂ and SO₃, the forward and reverse reaction rates are both 27 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "54",
+        "0",
+        "81",
+        "27"
+      ],
+      "a": 1,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Sulfur trioxide equilibrium",
+      "slo": "Explain or apply sulfur trioxide equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-289",
+      "q": "In a sealed ammonia synthesis vessel observed after 8 minutes at established equilibrium, what can be said about the forward and reverse rates?",
+      "o": [
+        "Both must be zero",
+        "Reverse is necessarily greater",
+        "Forward is necessarily greater",
+        "They are equal"
+      ],
+      "a": 3,
+      "e": "Chemical equilibrium means equal rates of synthesis and decomposition.",
+      "d": "Easy",
+      "topic": "Ammonia equilibrium",
+      "slo": "Explain or apply ammonia equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-290",
+      "q": "In a reversible system, the forward rate is 19 units/s and the reverse rate is 18 units/s. What is the net rate toward products?",
+      "o": [
+        "19 units/s",
+        "1 units/s",
+        "37 units/s",
+        "18 units/s"
+      ],
+      "a": 1,
+      "e": "Net forward rate = 19 − 18 = 1 units/s.",
+      "d": "Hard",
+      "topic": "Net reaction rates",
+      "slo": "Explain or apply net reaction rates in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-291",
+      "q": "In a sealed liquid-vapour container, the evaporation and condensation rates are both 29 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "29",
+        "58",
+        "0",
+        "87"
+      ],
+      "a": 2,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Physical equilibrium",
+      "slo": "Explain or apply physical equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-292",
+      "q": "In a sealed vessel containing SO₂, O₂ and SO₃, the forward and reverse reaction rates are both 28 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "28",
+        "56",
+        "0",
+        "84"
+      ],
+      "a": 2,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Sulfur trioxide equilibrium",
+      "slo": "Explain or apply sulfur trioxide equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-293",
+      "q": "In a sealed ammonia synthesis vessel observed after 13 minutes at established equilibrium, what can be said about the forward and reverse rates?",
+      "o": [
+        "Both must be zero",
+        "They are equal",
+        "Forward is necessarily greater",
+        "Reverse is necessarily greater"
+      ],
+      "a": 1,
+      "e": "Chemical equilibrium means equal rates of synthesis and decomposition.",
+      "d": "Easy",
+      "topic": "Ammonia equilibrium",
+      "slo": "Explain or apply ammonia equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-294",
+      "q": "In a reversible system, the forward rate is 19 units/s and the reverse rate is 17 units/s. What is the net rate toward products?",
+      "o": [
+        "19 units/s",
+        "17 units/s",
+        "2 units/s",
+        "36 units/s"
+      ],
+      "a": 2,
+      "e": "Net forward rate = 19 − 17 = 2 units/s.",
+      "d": "Hard",
+      "topic": "Net reaction rates",
+      "slo": "Explain or apply net reaction rates in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-295",
+      "q": "In a sealed liquid-vapour container, the evaporation and condensation rates are both 30 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "30",
+        "60",
+        "0",
+        "90"
+      ],
+      "a": 2,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Physical equilibrium",
+      "slo": "Explain or apply physical equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-296",
+      "q": "In a sealed vessel containing SO₂, O₂ and SO₃, the forward and reverse reaction rates are both 29 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "58",
+        "87",
+        "29",
+        "0"
+      ],
+      "a": 3,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Sulfur trioxide equilibrium",
+      "slo": "Explain or apply sulfur trioxide equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-297",
+      "q": "In a sealed ammonia synthesis vessel observed after 18 minutes at established equilibrium, what can be said about the forward and reverse rates?",
+      "o": [
+        "Reverse is necessarily greater",
+        "Both must be zero",
+        "Forward is necessarily greater",
+        "They are equal"
+      ],
+      "a": 3,
+      "e": "Chemical equilibrium means equal rates of synthesis and decomposition.",
+      "d": "Easy",
+      "topic": "Ammonia equilibrium",
+      "slo": "Explain or apply ammonia equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-298",
+      "q": "In a reversible system, the forward rate is 20 units/s and the reverse rate is 19 units/s. What is the net rate toward products?",
+      "o": [
+        "19 units/s",
+        "39 units/s",
+        "20 units/s",
+        "1 units/s"
+      ],
+      "a": 3,
+      "e": "Net forward rate = 20 − 19 = 1 units/s.",
+      "d": "Hard",
+      "topic": "Net reaction rates",
+      "slo": "Explain or apply net reaction rates in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-299",
+      "q": "A closed container of water is observed after 2 minutes at stable liquid-vapour equilibrium. Which processes must still be occurring?",
+      "o": [
+        "Neither evaporation nor condensation",
+        "Only condensation",
+        "Only evaporation",
+        "Evaporation and condensation"
+      ],
+      "a": 3,
+      "e": "At dynamic equilibrium, both changes continue at equal rates.",
+      "d": "Easy",
+      "topic": "Physical equilibrium",
+      "slo": "Explain or apply physical equilibrium in reversible systems."
+    },
+    {
+      "id": "CHEM9CH9-300",
+      "q": "In a sealed vessel containing SO₂, O₂ and SO₃, the forward and reverse reaction rates are both 30 particles per second. What is the net number of particles converted in one direction per second?",
+      "o": [
+        "30",
+        "60",
+        "90",
+        "0"
+      ],
+      "a": 3,
+      "e": "Equal opposing rates cancel, giving zero net conversion at equilibrium.",
+      "d": "Medium",
+      "topic": "Sulfur trioxide equilibrium",
+      "slo": "Explain or apply sulfur trioxide equilibrium in reversible systems."
+    }
+  ]
+}

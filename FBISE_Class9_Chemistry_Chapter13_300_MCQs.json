@@ -1,0 +1,4504 @@
+{
+  "questions": [
+    {
+      "q": "Which element is the central element in organic chemistry?",
+      "o": [
+        "Neon",
+        "Sodium",
+        "Carbon",
+        "Chlorine"
+      ],
+      "a": 2,
+      "e": "Organic chemistry chiefly studies carbon compounds.",
+      "d": "Easy",
+      "topic": "Organic chemistry",
+      "slo": "Identify, describe or apply the concept of organic chemistry in organic chemistry.",
+      "id": "CHEM9CH13-001"
+    },
+    {
+      "q": "Which pair of elements occurs in all hydrocarbons?",
+      "o": [
+        "Carbon and hydrogen",
+        "Carbon and oxygen",
+        "Carbon and chlorine",
+        "Hydrogen and nitrogen"
+      ],
+      "a": 0,
+      "e": "Hydrocarbons contain only carbon and hydrogen.",
+      "d": "Hard",
+      "topic": "Organic chemistry",
+      "slo": "Identify, describe or apply the concept of organic chemistry in organic chemistry.",
+      "id": "CHEM9CH13-002"
+    },
+    {
+      "q": "Which property enables carbon to form long chains?",
+      "o": [
+        "Sublimation",
+        "Electrolysis",
+        "Catenation",
+        "Ionization"
+      ],
+      "a": 2,
+      "e": "Catenation is carbon bonding to other carbon atoms.",
+      "d": "Easy",
+      "topic": "Organic chemistry",
+      "slo": "Identify, describe or apply the concept of organic chemistry in organic chemistry.",
+      "id": "CHEM9CH13-003"
+    },
+    {
+      "q": "How many covalent bonds can a neutral carbon atom normally form?",
+      "o": [
+        "Six",
+        "One",
+        "Two",
+        "Four"
+      ],
+      "a": 3,
+      "e": "Carbon is tetravalent and typically makes four covalent bonds.",
+      "d": "Easy",
+      "topic": "Organic chemistry",
+      "slo": "Identify, describe or apply the concept of organic chemistry in organic chemistry.",
+      "id": "CHEM9CH13-004"
+    },
+    {
+      "q": "What is meant by tetravalency of carbon?",
+      "o": [
+        "Carbon can form four covalent bonds",
+        "Carbon has four occupied shells",
+        "Carbon forms four positive ions",
+        "Carbon forms only four compounds"
+      ],
+      "a": 0,
+      "e": "Tetravalency refers to four bonding valences.",
+      "d": "Medium",
+      "topic": "Organic chemistry",
+      "slo": "Identify, describe or apply the concept of organic chemistry in organic chemistry.",
+      "id": "CHEM9CH13-005"
+    },
+    {
+      "q": "Which bond primarily holds atoms together in most organic molecules?",
+      "o": [
+        "Hydrogen bond only",
+        "Covalent bond",
+        "Ionic lattice bond",
+        "Metallic bond"
+      ],
+      "a": 1,
+      "e": "Most organic molecules are covalently bonded.",
+      "d": "Medium",
+      "topic": "Organic chemistry",
+      "slo": "Identify, describe or apply the concept of organic chemistry in organic chemistry.",
+      "id": "CHEM9CH13-006"
+    },
+    {
+      "q": "Which feature contributes greatly to the enormous variety of organic compounds?",
+      "o": [
+        "Carbon forms chains, branches and rings",
+        "Carbon has eight valence electrons",
+        "Carbon forms only ionic bonds",
+        "Carbon cannot bond to itself"
+      ],
+      "a": 0,
+      "e": "Carbon catenation allows diverse molecular skeletons.",
+      "d": "Medium",
+      "topic": "Organic chemistry",
+      "slo": "Identify, describe or apply the concept of organic chemistry in organic chemistry.",
+      "id": "CHEM9CH13-007"
+    },
+    {
+      "q": "What is a homologous series?",
+      "o": [
+        "Compounds having identical molecular masses",
+        "All compounds containing oxygen",
+        "A list of isotopes of carbon",
+        "A family with the same functional group and general formula"
+      ],
+      "a": 3,
+      "e": "Homologues share structural features and show gradation in properties.",
+      "d": "Medium",
+      "topic": "Organic chemistry",
+      "slo": "Identify, describe or apply the concept of organic chemistry in organic chemistry.",
+      "id": "CHEM9CH13-008"
+    },
+    {
+      "q": "How do adjacent members of a homologous series differ?",
+      "o": [
+        "By a CH2 unit",
+        "By an O2 unit",
+        "By an H2O unit",
+        "By a CO2 unit"
+      ],
+      "a": 0,
+      "e": "Consecutive homologues differ by one methylene group, CH2.",
+      "d": "Medium",
+      "topic": "Homologous series",
+      "slo": "Identify, describe or apply the concept of homologous series in organic chemistry.",
+      "id": "CHEM9CH13-009"
+    },
+    {
+      "q": "What is the difference in molar mass between consecutive homologues?",
+      "o": [
+        "16 g/mol",
+        "14 g/mol",
+        "12 g/mol",
+        "2 g/mol"
+      ],
+      "a": 1,
+      "e": "The CH2 increment has a mass of about 14 g/mol.",
+      "d": "Medium",
+      "topic": "Homologous series",
+      "slo": "Identify, describe or apply the concept of homologous series in organic chemistry.",
+      "id": "CHEM9CH13-010"
+    },
+    {
+      "q": "Which property is generally similar among members of the same homologous series?",
+      "o": [
+        "Chemical properties",
+        "Molecular mass",
+        "Boiling point",
+        "Physical state at room temperature"
+      ],
+      "a": 0,
+      "e": "The same functional group produces similar chemical behavior.",
+      "d": "Easy",
+      "topic": "Homologous series",
+      "slo": "Identify, describe or apply the concept of homologous series in organic chemistry.",
+      "id": "CHEM9CH13-011"
+    },
+    {
+      "q": "What generally happens to boiling points of alkanes as chain length increases?",
+      "o": [
+        "They increase",
+        "They become zero",
+        "They always decrease",
+        "They remain exactly equal"
+      ],
+      "a": 0,
+      "e": "Larger molecules generally experience stronger London dispersion forces.",
+      "d": "Medium",
+      "topic": "Homologous series",
+      "slo": "Identify, describe or apply the concept of homologous series in organic chemistry.",
+      "id": "CHEM9CH13-012"
+    },
+    {
+      "q": "What determines the characteristic chemical reactions of a homologous series?",
+      "o": [
+        "Its functional group",
+        "Its melting point alone",
+        "Its molecular mass alone",
+        "Its colour alone"
+      ],
+      "a": 0,
+      "e": "The functional group largely determines chemical reactivity.",
+      "d": "Easy",
+      "topic": "Homologous series",
+      "slo": "Identify, describe or apply the concept of homologous series in organic chemistry.",
+      "id": "CHEM9CH13-013"
+    },
+    {
+      "q": "What information does a molecular formula provide?",
+      "o": [
+        "Actual numbers of each type of atom in one molecule",
+        "Only the arrangement of bonds",
+        "Only the empirical ratio",
+        "Only the molecular shape"
+      ],
+      "a": 0,
+      "e": "A molecular formula counts each element in a molecule.",
+      "d": "Medium",
+      "topic": "Molecular formulas",
+      "slo": "Identify, describe or apply the concept of molecular formulas in organic chemistry.",
+      "id": "CHEM9CH13-014"
+    },
+    {
+      "q": "What does a structural formula show?",
+      "o": [
+        "Only the colour of the compound",
+        "Only the percentage composition",
+        "How atoms are connected in a molecule",
+        "Only the relative atomic masses"
+      ],
+      "a": 2,
+      "e": "Structural formulas indicate connectivity and bonds.",
+      "d": "Medium",
+      "topic": "Structural formulas",
+      "slo": "Identify, describe or apply the concept of structural formulas in organic chemistry.",
+      "id": "CHEM9CH13-015"
+    },
+    {
+      "q": "What does a displayed structural formula explicitly represent?",
+      "o": [
+        "Individual bonds between atoms",
+        "Only the molecular formula",
+        "Only the molar mass",
+        "Only the physical state"
+      ],
+      "a": 0,
+      "e": "Displayed structures show bonds as lines.",
+      "d": "Medium",
+      "topic": "Structural formulas",
+      "slo": "Identify, describe or apply the concept of structural formulas in organic chemistry.",
+      "id": "CHEM9CH13-016"
+    },
+    {
+      "q": "What is a condensed structural formula?",
+      "o": [
+        "A formula showing only electrons",
+        "A compact representation of atom groupings",
+        "A formula without carbon symbols",
+        "A formula showing only isotopes"
+      ],
+      "a": 1,
+      "e": "Condensed formulas group bonded atoms without drawing every bond.",
+      "d": "Medium",
+      "topic": "Structural formulas",
+      "slo": "Identify, describe or apply the concept of structural formulas in organic chemistry.",
+      "id": "CHEM9CH13-017"
+    },
+    {
+      "q": "What does a straight line in a skeletal structural formula usually represent?",
+      "o": [
+        "An oxygen atom",
+        "A proton path",
+        "A bond between carbon positions",
+        "An ionic charge"
+      ],
+      "a": 2,
+      "e": "Skeletal line ends and vertices usually represent carbon atoms.",
+      "d": "Medium",
+      "topic": "Structural formulas",
+      "slo": "Identify, describe or apply the concept of structural formulas in organic chemistry.",
+      "id": "CHEM9CH13-018"
+    },
+    {
+      "q": "In a skeletal formula, where are carbon atoms normally implied?",
+      "o": [
+        "Only beside oxygen atoms",
+        "Only where H is written",
+        "At line ends and corners",
+        "Only at double bonds"
+      ],
+      "a": 2,
+      "e": "Line ends and vertices stand for carbon atoms unless otherwise labeled.",
+      "d": "Hard",
+      "topic": "Structural formulas",
+      "slo": "Identify, describe or apply the concept of structural formulas in organic chemistry.",
+      "id": "CHEM9CH13-019"
+    },
+    {
+      "q": "How are most hydrogens bonded to carbon shown in skeletal formulas?",
+      "o": [
+        "They are replaced by oxygen",
+        "They are omitted and inferred from valency",
+        "They are all drawn as dots",
+        "They are shown as free ions"
+      ],
+      "a": 1,
+      "e": "Hydrogens on carbon are usually implicit.",
+      "d": "Hard",
+      "topic": "Structural formulas",
+      "slo": "Identify, describe or apply the concept of structural formulas in organic chemistry.",
+      "id": "CHEM9CH13-020"
+    },
+    {
+      "q": "Which formula most clearly distinguishes constitutional isomers?",
+      "o": [
+        "Percentage composition",
+        "Empirical formula",
+        "Structural formula",
+        "Molecular formula alone"
+      ],
+      "a": 2,
+      "e": "Different connectivities are apparent in structural representations.",
+      "d": "Medium",
+      "topic": "Structural formulas",
+      "slo": "Identify, describe or apply the concept of structural formulas in organic chemistry.",
+      "id": "CHEM9CH13-021"
+    },
+    {
+      "q": "What is a saturated hydrocarbon?",
+      "o": [
+        "A hydrocarbon with no hydrogen",
+        "A hydrocarbon containing oxygen",
+        "A hydrocarbon with only triple bonds",
+        "A hydrocarbon with only carbon-carbon single bonds"
+      ],
+      "a": 3,
+      "e": "Saturated hydrocarbons contain no C=C or C≡C bonds.",
+      "d": "Hard",
+      "topic": "Hydrocarbon classification",
+      "slo": "Identify, describe or apply the concept of hydrocarbon classification in organic chemistry.",
+      "id": "CHEM9CH13-022"
+    },
+    {
+      "q": "What is an unsaturated hydrocarbon?",
+      "o": [
+        "A hydrocarbon with only ionic bonds",
+        "A compound containing no carbon",
+        "A hydrocarbon containing at least one C=C or C≡C bond",
+        "A hydrocarbon containing only single bonds"
+      ],
+      "a": 2,
+      "e": "Double or triple carbon bonds make a hydrocarbon unsaturated.",
+      "d": "Easy",
+      "topic": "Hydrocarbon classification",
+      "slo": "Identify, describe or apply the concept of hydrocarbon classification in organic chemistry.",
+      "id": "CHEM9CH13-023"
+    },
+    {
+      "q": "Which family contains only C-C single bonds?",
+      "o": [
+        "Alkenynes",
+        "Alkenes",
+        "Alkynes",
+        "Alkanes"
+      ],
+      "a": 3,
+      "e": "Alkanes are saturated hydrocarbons.",
+      "d": "Medium",
+      "topic": "Hydrocarbon classification",
+      "slo": "Identify, describe or apply the concept of hydrocarbon classification in organic chemistry.",
+      "id": "CHEM9CH13-024"
+    },
+    {
+      "q": "Which family contains a carbon-carbon double bond?",
+      "o": [
+        "Alkenes",
+        "Alkanes",
+        "Alcohols",
+        "Alkynes"
+      ],
+      "a": 0,
+      "e": "Alkenes contain at least one C=C bond.",
+      "d": "Hard",
+      "topic": "Hydrocarbon classification",
+      "slo": "Identify, describe or apply the concept of hydrocarbon classification in organic chemistry.",
+      "id": "CHEM9CH13-025"
+    },
+    {
+      "q": "Which family contains a carbon-carbon triple bond?",
+      "o": [
+        "Aldehydes",
+        "Alkynes",
+        "Alkenes",
+        "Alkanes"
+      ],
+      "a": 1,
+      "e": "Alkynes contain at least one C≡C bond.",
+      "d": "Medium",
+      "topic": "Hydrocarbon classification",
+      "slo": "Identify, describe or apply the concept of hydrocarbon classification in organic chemistry.",
+      "id": "CHEM9CH13-026"
+    },
+    {
+      "q": "Which bond is present in ethene but not ethane?",
+      "o": [
+        "Oxygen-hydrogen bond",
+        "Carbon-carbon double bond",
+        "Ionic bond",
+        "Carbon-carbon triple bond"
+      ],
+      "a": 1,
+      "e": "Ethene contains C=C; ethane has only C-C single bonds.",
+      "d": "Medium",
+      "topic": "Hydrocarbon classification",
+      "slo": "Identify, describe or apply the concept of hydrocarbon classification in organic chemistry.",
+      "id": "CHEM9CH13-027"
+    },
+    {
+      "q": "Which bond is characteristic of ethyne?",
+      "o": [
+        "Nitrogen-hydrogen bond",
+        "Carbon-carbon single bond only",
+        "Carbon-carbon triple bond",
+        "Carbon-oxygen double bond"
+      ],
+      "a": 2,
+      "e": "Ethyne is the simplest alkyne.",
+      "d": "Easy",
+      "topic": "Hydrocarbon classification",
+      "slo": "Identify, describe or apply the concept of hydrocarbon classification in organic chemistry.",
+      "id": "CHEM9CH13-028"
+    },
+    {
+      "q": "Which class of organic compounds contains a ring of carbon atoms?",
+      "o": [
+        "Only acyclic compounds",
+        "Only noble gases",
+        "Cyclic compounds",
+        "Only ionic compounds"
+      ],
+      "a": 2,
+      "e": "Cyclic compounds have closed-chain carbon frameworks.",
+      "d": "Easy",
+      "topic": "Hydrocarbon classification",
+      "slo": "Identify, describe or apply the concept of hydrocarbon classification in organic chemistry.",
+      "id": "CHEM9CH13-029"
+    },
+    {
+      "q": "Which description applies to an open-chain compound?",
+      "o": [
+        "Its carbon skeleton is always a benzene ring",
+        "It must contain oxygen",
+        "Its carbon skeleton does not form a closed ring",
+        "It has no covalent bonds"
+      ],
+      "a": 2,
+      "e": "Open-chain compounds may be straight or branched.",
+      "d": "Easy",
+      "topic": "Hydrocarbon classification",
+      "slo": "Identify, describe or apply the concept of hydrocarbon classification in organic chemistry.",
+      "id": "CHEM9CH13-030"
+    },
+    {
+      "q": "Which compound is an aromatic hydrocarbon?",
+      "o": [
+        "Benzene",
+        "Propane",
+        "Ethane",
+        "Ethyne"
+      ],
+      "a": 0,
+      "e": "Benzene is the standard example of an aromatic hydrocarbon.",
+      "d": "Hard",
+      "topic": "Hydrocarbon classification",
+      "slo": "Identify, describe or apply the concept of hydrocarbon classification in organic chemistry.",
+      "id": "CHEM9CH13-031"
+    },
+    {
+      "q": "What is the molecular formula of benzene?",
+      "o": [
+        "C6H12",
+        "C6H6",
+        "C2H6",
+        "C6H14"
+      ],
+      "a": 1,
+      "e": "Benzene has six carbons and six hydrogens.",
+      "d": "Medium",
+      "topic": "Hydrocarbon classification",
+      "slo": "Identify, describe or apply the concept of hydrocarbon classification in organic chemistry.",
+      "id": "CHEM9CH13-032"
+    },
+    {
+      "q": "How many carbon atoms are in a benzene ring?",
+      "o": [
+        "Three",
+        "Six",
+        "Eight",
+        "Four"
+      ],
+      "a": 1,
+      "e": "The benzene ring contains six carbon atoms.",
+      "d": "Hard",
+      "topic": "Hydrocarbon classification",
+      "slo": "Identify, describe or apply the concept of hydrocarbon classification in organic chemistry.",
+      "id": "CHEM9CH13-033"
+    },
+    {
+      "q": "Which is a branched-chain hydrocarbon?",
+      "o": [
+        "n-butane",
+        "Ethene",
+        "Cyclohexane",
+        "2-methylpropane"
+      ],
+      "a": 3,
+      "e": "2-methylpropane has a branched carbon skeleton.",
+      "d": "Hard",
+      "topic": "Hydrocarbon classification",
+      "slo": "Identify, describe or apply the concept of hydrocarbon classification in organic chemistry.",
+      "id": "CHEM9CH13-034"
+    },
+    {
+      "q": "Which is a straight-chain hydrocarbon?",
+      "o": [
+        "n-pentane",
+        "Cyclopentane",
+        "2,2-dimethylpropane",
+        "2-methylbutane"
+      ],
+      "a": 0,
+      "e": "n-pentane has an unbranched five-carbon chain.",
+      "d": "Easy",
+      "topic": "Hydrocarbon classification",
+      "slo": "Identify, describe or apply the concept of hydrocarbon classification in organic chemistry.",
+      "id": "CHEM9CH13-035"
+    },
+    {
+      "q": "What does the prefix cyclo- indicate in a hydrocarbon name?",
+      "o": [
+        "An ionic compound",
+        "A triple bond",
+        "An oxygen group",
+        "A ring structure"
+      ],
+      "a": 3,
+      "e": "Cyclo- denotes a closed carbon chain.",
+      "d": "Medium",
+      "topic": "Hydrocarbon classification",
+      "slo": "Identify, describe or apply the concept of hydrocarbon classification in organic chemistry.",
+      "id": "CHEM9CH13-036"
+    },
+    {
+      "q": "Which compound is cyclic but not aromatic?",
+      "o": [
+        "Toluene",
+        "Naphthalene",
+        "Benzene",
+        "Cyclohexane"
+      ],
+      "a": 3,
+      "e": "Cyclohexane is an alicyclic saturated hydrocarbon.",
+      "d": "Hard",
+      "topic": "Hydrocarbon classification",
+      "slo": "Identify, describe or apply the concept of hydrocarbon classification in organic chemistry.",
+      "id": "CHEM9CH13-037"
+    },
+    {
+      "q": "What is the simplest aromatic hydrocarbon?",
+      "o": [
+        "Propane",
+        "Ethane",
+        "Benzene",
+        "Methane"
+      ],
+      "a": 2,
+      "e": "Benzene is the parent aromatic hydrocarbon.",
+      "d": "Easy",
+      "topic": "Hydrocarbon classification",
+      "slo": "Identify, describe or apply the concept of hydrocarbon classification in organic chemistry.",
+      "id": "CHEM9CH13-038"
+    },
+    {
+      "q": "Which description fits an aliphatic hydrocarbon?",
+      "o": [
+        "Any compound containing nitrogen",
+        "A non-aromatic hydrocarbon",
+        "Only a benzene derivative",
+        "Any salt of carbon"
+      ],
+      "a": 1,
+      "e": "Aliphatic hydrocarbons are non-aromatic and may be open-chain or alicyclic.",
+      "d": "Easy",
+      "topic": "Hydrocarbon classification",
+      "slo": "Identify, describe or apply the concept of hydrocarbon classification in organic chemistry.",
+      "id": "CHEM9CH13-039"
+    },
+    {
+      "q": "What is the molecular formula of methane?",
+      "o": [
+        "CH2",
+        "CH",
+        "CH4",
+        "CH6"
+      ],
+      "a": 2,
+      "e": "Methane is an alkane; acyclic alkanes follow CnH2n+2.",
+      "d": "Easy",
+      "topic": "Alkane formulas",
+      "slo": "Identify, describe or apply the concept of alkane formulas in organic chemistry.",
+      "id": "CHEM9CH13-040"
+    },
+    {
+      "q": "How many hydrogen atoms are present in one molecule of methane?",
+      "o": [
+        "4",
+        "6",
+        "2",
+        "0"
+      ],
+      "a": 0,
+      "e": "For an alkane with 1 carbon atoms, H = 2(1) + 2 = 4.",
+      "d": "Medium",
+      "topic": "Alkane formulas",
+      "slo": "Identify, describe or apply the concept of alkane formulas in organic chemistry.",
+      "id": "CHEM9CH13-041"
+    },
+    {
+      "q": "What is the molecular formula of ethane?",
+      "o": [
+        "C2H8",
+        "C2H4",
+        "C2H2",
+        "C2H6"
+      ],
+      "a": 3,
+      "e": "Ethane is an alkane; acyclic alkanes follow CnH2n+2.",
+      "d": "Medium",
+      "topic": "Alkane formulas",
+      "slo": "Identify, describe or apply the concept of alkane formulas in organic chemistry.",
+      "id": "CHEM9CH13-042"
+    },
+    {
+      "q": "How many hydrogen atoms are present in one molecule of ethane?",
+      "o": [
+        "4",
+        "2",
+        "8",
+        "6"
+      ],
+      "a": 3,
+      "e": "For an alkane with 2 carbon atoms, H = 2(2) + 2 = 6.",
+      "d": "Medium",
+      "topic": "Alkane formulas",
+      "slo": "Identify, describe or apply the concept of alkane formulas in organic chemistry.",
+      "id": "CHEM9CH13-043"
+    },
+    {
+      "q": "What is the molecular formula of propane?",
+      "o": [
+        "C3H6",
+        "C3H10",
+        "C3H4",
+        "C3H8"
+      ],
+      "a": 3,
+      "e": "Propane is an alkane; acyclic alkanes follow CnH2n+2.",
+      "d": "Easy",
+      "topic": "Alkane formulas",
+      "slo": "Identify, describe or apply the concept of alkane formulas in organic chemistry.",
+      "id": "CHEM9CH13-044"
+    },
+    {
+      "q": "How many hydrogen atoms are present in one molecule of propane?",
+      "o": [
+        "4",
+        "10",
+        "6",
+        "8"
+      ],
+      "a": 3,
+      "e": "For an alkane with 3 carbon atoms, H = 2(3) + 2 = 8.",
+      "d": "Hard",
+      "topic": "Alkane formulas",
+      "slo": "Identify, describe or apply the concept of alkane formulas in organic chemistry.",
+      "id": "CHEM9CH13-045"
+    },
+    {
+      "q": "What is the molecular formula of butane?",
+      "o": [
+        "C4H12",
+        "C4H8",
+        "C4H6",
+        "C4H10"
+      ],
+      "a": 3,
+      "e": "Butane is an alkane; acyclic alkanes follow CnH2n+2.",
+      "d": "Easy",
+      "topic": "Alkane formulas",
+      "slo": "Identify, describe or apply the concept of alkane formulas in organic chemistry.",
+      "id": "CHEM9CH13-046"
+    },
+    {
+      "q": "How many hydrogen atoms are present in one molecule of butane?",
+      "o": [
+        "8",
+        "10",
+        "12",
+        "6"
+      ],
+      "a": 1,
+      "e": "For an alkane with 4 carbon atoms, H = 2(4) + 2 = 10.",
+      "d": "Medium",
+      "topic": "Alkane formulas",
+      "slo": "Identify, describe or apply the concept of alkane formulas in organic chemistry.",
+      "id": "CHEM9CH13-047"
+    },
+    {
+      "q": "What is the molecular formula of pentane?",
+      "o": [
+        "C5H10",
+        "C5H14",
+        "C5H8",
+        "C5H12"
+      ],
+      "a": 3,
+      "e": "Pentane is an alkane; acyclic alkanes follow CnH2n+2.",
+      "d": "Hard",
+      "topic": "Alkane formulas",
+      "slo": "Identify, describe or apply the concept of alkane formulas in organic chemistry.",
+      "id": "CHEM9CH13-048"
+    },
+    {
+      "q": "How many hydrogen atoms are present in one molecule of pentane?",
+      "o": [
+        "10",
+        "8",
+        "14",
+        "12"
+      ],
+      "a": 3,
+      "e": "For an alkane with 5 carbon atoms, H = 2(5) + 2 = 12.",
+      "d": "Medium",
+      "topic": "Alkane formulas",
+      "slo": "Identify, describe or apply the concept of alkane formulas in organic chemistry.",
+      "id": "CHEM9CH13-049"
+    },
+    {
+      "q": "What is the molecular formula of hexane?",
+      "o": [
+        "C6H14",
+        "C6H12",
+        "C6H10",
+        "C6H16"
+      ],
+      "a": 0,
+      "e": "Hexane is an alkane; acyclic alkanes follow CnH2n+2.",
+      "d": "Medium",
+      "topic": "Alkane formulas",
+      "slo": "Identify, describe or apply the concept of alkane formulas in organic chemistry.",
+      "id": "CHEM9CH13-050"
+    },
+    {
+      "q": "How many hydrogen atoms are present in one molecule of hexane?",
+      "o": [
+        "12",
+        "10",
+        "14",
+        "16"
+      ],
+      "a": 2,
+      "e": "For an alkane with 6 carbon atoms, H = 2(6) + 2 = 14.",
+      "d": "Hard",
+      "topic": "Alkane formulas",
+      "slo": "Identify, describe or apply the concept of alkane formulas in organic chemistry.",
+      "id": "CHEM9CH13-051"
+    },
+    {
+      "q": "What is the molecular formula of heptane?",
+      "o": [
+        "C7H18",
+        "C7H14",
+        "C7H12",
+        "C7H16"
+      ],
+      "a": 3,
+      "e": "Heptane is an alkane; acyclic alkanes follow CnH2n+2.",
+      "d": "Medium",
+      "topic": "Alkane formulas",
+      "slo": "Identify, describe or apply the concept of alkane formulas in organic chemistry.",
+      "id": "CHEM9CH13-052"
+    },
+    {
+      "q": "How many hydrogen atoms are present in one molecule of heptane?",
+      "o": [
+        "16",
+        "12",
+        "14",
+        "18"
+      ],
+      "a": 0,
+      "e": "For an alkane with 7 carbon atoms, H = 2(7) + 2 = 16.",
+      "d": "Easy",
+      "topic": "Alkane formulas",
+      "slo": "Identify, describe or apply the concept of alkane formulas in organic chemistry.",
+      "id": "CHEM9CH13-053"
+    },
+    {
+      "q": "What is the molecular formula of octane?",
+      "o": [
+        "C8H14",
+        "C8H20",
+        "C8H16",
+        "C8H18"
+      ],
+      "a": 3,
+      "e": "Octane is an alkane; acyclic alkanes follow CnH2n+2.",
+      "d": "Medium",
+      "topic": "Alkane formulas",
+      "slo": "Identify, describe or apply the concept of alkane formulas in organic chemistry.",
+      "id": "CHEM9CH13-054"
+    },
+    {
+      "q": "How many hydrogen atoms are present in one molecule of octane?",
+      "o": [
+        "18",
+        "14",
+        "20",
+        "16"
+      ],
+      "a": 0,
+      "e": "For an alkane with 8 carbon atoms, H = 2(8) + 2 = 18.",
+      "d": "Medium",
+      "topic": "Alkane formulas",
+      "slo": "Identify, describe or apply the concept of alkane formulas in organic chemistry.",
+      "id": "CHEM9CH13-055"
+    },
+    {
+      "q": "What is the molecular formula of nonane?",
+      "o": [
+        "C9H16",
+        "C9H22",
+        "C9H20",
+        "C9H18"
+      ],
+      "a": 2,
+      "e": "Nonane is an alkane; acyclic alkanes follow CnH2n+2.",
+      "d": "Hard",
+      "topic": "Alkane formulas",
+      "slo": "Identify, describe or apply the concept of alkane formulas in organic chemistry.",
+      "id": "CHEM9CH13-056"
+    },
+    {
+      "q": "How many hydrogen atoms are present in one molecule of nonane?",
+      "o": [
+        "16",
+        "22",
+        "20",
+        "18"
+      ],
+      "a": 2,
+      "e": "For an alkane with 9 carbon atoms, H = 2(9) + 2 = 20.",
+      "d": "Hard",
+      "topic": "Alkane formulas",
+      "slo": "Identify, describe or apply the concept of alkane formulas in organic chemistry.",
+      "id": "CHEM9CH13-057"
+    },
+    {
+      "q": "What is the molecular formula of decane?",
+      "o": [
+        "C10H18",
+        "C10H24",
+        "C10H20",
+        "C10H22"
+      ],
+      "a": 3,
+      "e": "Decane is an alkane; acyclic alkanes follow CnH2n+2.",
+      "d": "Medium",
+      "topic": "Alkane formulas",
+      "slo": "Identify, describe or apply the concept of alkane formulas in organic chemistry.",
+      "id": "CHEM9CH13-058"
+    },
+    {
+      "q": "How many hydrogen atoms are present in one molecule of decane?",
+      "o": [
+        "20",
+        "22",
+        "18",
+        "24"
+      ],
+      "a": 1,
+      "e": "For an alkane with 10 carbon atoms, H = 2(10) + 2 = 22.",
+      "d": "Easy",
+      "topic": "Alkane formulas",
+      "slo": "Identify, describe or apply the concept of alkane formulas in organic chemistry.",
+      "id": "CHEM9CH13-059"
+    },
+    {
+      "q": "What is the formula of an acyclic monoalkene named ethene?",
+      "o": [
+        "C2H6",
+        "C2H8",
+        "C2H4",
+        "C2H2"
+      ],
+      "a": 2,
+      "e": "Acyclic monoalkenes follow CnH2n; ethene has 2 carbons.",
+      "d": "Medium",
+      "topic": "Alkene formulas",
+      "slo": "Identify, describe or apply the concept of alkene formulas in organic chemistry.",
+      "id": "CHEM9CH13-060"
+    },
+    {
+      "q": "What is the formula of an acyclic monoalkene named propene?",
+      "o": [
+        "C3H6",
+        "C3H8",
+        "C3H4",
+        "C3H10"
+      ],
+      "a": 0,
+      "e": "Acyclic monoalkenes follow CnH2n; propene has 3 carbons.",
+      "d": "Medium",
+      "topic": "Alkene formulas",
+      "slo": "Identify, describe or apply the concept of alkene formulas in organic chemistry.",
+      "id": "CHEM9CH13-061"
+    },
+    {
+      "q": "What is the formula of an acyclic monoalkene named butene?",
+      "o": [
+        "C4H10",
+        "C4H6",
+        "C4H12",
+        "C4H8"
+      ],
+      "a": 3,
+      "e": "Acyclic monoalkenes follow CnH2n; butene has 4 carbons.",
+      "d": "Medium",
+      "topic": "Alkene formulas",
+      "slo": "Identify, describe or apply the concept of alkene formulas in organic chemistry.",
+      "id": "CHEM9CH13-062"
+    },
+    {
+      "q": "What is the formula of an acyclic monoalkene named pentene?",
+      "o": [
+        "C5H12",
+        "C5H8",
+        "C5H10",
+        "C5H14"
+      ],
+      "a": 2,
+      "e": "Acyclic monoalkenes follow CnH2n; pentene has 5 carbons.",
+      "d": "Hard",
+      "topic": "Alkene formulas",
+      "slo": "Identify, describe or apply the concept of alkene formulas in organic chemistry.",
+      "id": "CHEM9CH13-063"
+    },
+    {
+      "q": "What is the formula of an acyclic monoalkene named hexene?",
+      "o": [
+        "C6H12",
+        "C6H16",
+        "C6H14",
+        "C6H10"
+      ],
+      "a": 0,
+      "e": "Acyclic monoalkenes follow CnH2n; hexene has 6 carbons.",
+      "d": "Medium",
+      "topic": "Alkene formulas",
+      "slo": "Identify, describe or apply the concept of alkene formulas in organic chemistry.",
+      "id": "CHEM9CH13-064"
+    },
+    {
+      "q": "What is the formula of an acyclic monoalkene named heptene?",
+      "o": [
+        "C7H14",
+        "C7H12",
+        "C7H16",
+        "C7H18"
+      ],
+      "a": 0,
+      "e": "Acyclic monoalkenes follow CnH2n; heptene has 7 carbons.",
+      "d": "Medium",
+      "topic": "Alkene formulas",
+      "slo": "Identify, describe or apply the concept of alkene formulas in organic chemistry.",
+      "id": "CHEM9CH13-065"
+    },
+    {
+      "q": "What is the formula of an acyclic monoalkene named octene?",
+      "o": [
+        "C8H16",
+        "C8H20",
+        "C8H18",
+        "C8H14"
+      ],
+      "a": 0,
+      "e": "Acyclic monoalkenes follow CnH2n; octene has 8 carbons.",
+      "d": "Hard",
+      "topic": "Alkene formulas",
+      "slo": "Identify, describe or apply the concept of alkene formulas in organic chemistry.",
+      "id": "CHEM9CH13-066"
+    },
+    {
+      "q": "What is the formula of an acyclic monoalkyne named ethyne?",
+      "o": [
+        "C2H8",
+        "C2H6",
+        "C2H2",
+        "C2H4"
+      ],
+      "a": 2,
+      "e": "Acyclic monoalkynes follow CnH2n-2; ethyne has 2 carbons.",
+      "d": "Medium",
+      "topic": "Alkyne formulas",
+      "slo": "Identify, describe or apply the concept of alkyne formulas in organic chemistry.",
+      "id": "CHEM9CH13-067"
+    },
+    {
+      "q": "What is the formula of an acyclic monoalkyne named propyne?",
+      "o": [
+        "C3H10",
+        "C3H8",
+        "C3H6",
+        "C3H4"
+      ],
+      "a": 3,
+      "e": "Acyclic monoalkynes follow CnH2n-2; propyne has 3 carbons.",
+      "d": "Medium",
+      "topic": "Alkyne formulas",
+      "slo": "Identify, describe or apply the concept of alkyne formulas in organic chemistry.",
+      "id": "CHEM9CH13-068"
+    },
+    {
+      "q": "What is the formula of an acyclic monoalkyne named butyne?",
+      "o": [
+        "C4H8",
+        "C4H12",
+        "C4H10",
+        "C4H6"
+      ],
+      "a": 3,
+      "e": "Acyclic monoalkynes follow CnH2n-2; butyne has 4 carbons.",
+      "d": "Medium",
+      "topic": "Alkyne formulas",
+      "slo": "Identify, describe or apply the concept of alkyne formulas in organic chemistry.",
+      "id": "CHEM9CH13-069"
+    },
+    {
+      "q": "What is the formula of an acyclic monoalkyne named pentyne?",
+      "o": [
+        "C5H14",
+        "C5H12",
+        "C5H10",
+        "C5H8"
+      ],
+      "a": 3,
+      "e": "Acyclic monoalkynes follow CnH2n-2; pentyne has 5 carbons.",
+      "d": "Medium",
+      "topic": "Alkyne formulas",
+      "slo": "Identify, describe or apply the concept of alkyne formulas in organic chemistry.",
+      "id": "CHEM9CH13-070"
+    },
+    {
+      "q": "What is the formula of an acyclic monoalkyne named hexyne?",
+      "o": [
+        "C6H10",
+        "C6H14",
+        "C6H12",
+        "C6H16"
+      ],
+      "a": 0,
+      "e": "Acyclic monoalkynes follow CnH2n-2; hexyne has 6 carbons.",
+      "d": "Medium",
+      "topic": "Alkyne formulas",
+      "slo": "Identify, describe or apply the concept of alkyne formulas in organic chemistry.",
+      "id": "CHEM9CH13-071"
+    },
+    {
+      "q": "Which general formula describes acyclic alkanes?",
+      "o": [
+        "CnH2n",
+        "CnH2n-2",
+        "CnH2n+4",
+        "CnH2n+2"
+      ],
+      "a": 3,
+      "e": "Acyclic saturated alkanes have formula CnH2n+2.",
+      "d": "Easy",
+      "topic": "Homologous series",
+      "slo": "Identify, describe or apply the concept of homologous series in organic chemistry.",
+      "id": "CHEM9CH13-072"
+    },
+    {
+      "q": "Which general formula describes acyclic alkenes with one double bond?",
+      "o": [
+        "CnH2n+4",
+        "CnH2n+2",
+        "CnH2n",
+        "CnH2n-2"
+      ],
+      "a": 2,
+      "e": "Acyclic monoalkenes have formula CnH2n.",
+      "d": "Easy",
+      "topic": "Homologous series",
+      "slo": "Identify, describe or apply the concept of homologous series in organic chemistry.",
+      "id": "CHEM9CH13-073"
+    },
+    {
+      "q": "Which general formula describes acyclic alkynes with one triple bond?",
+      "o": [
+        "CnH2n-2",
+        "CnH2n+4",
+        "CnH2n",
+        "CnH2n+2"
+      ],
+      "a": 0,
+      "e": "Acyclic monoalkynes have formula CnH2n-2.",
+      "d": "Easy",
+      "topic": "Homologous series",
+      "slo": "Identify, describe or apply the concept of homologous series in organic chemistry.",
+      "id": "CHEM9CH13-074"
+    },
+    {
+      "q": "Which formula can represent an acyclic alkene with one double bond?",
+      "o": [
+        "C4H10",
+        "C4H12",
+        "C4H8",
+        "C4H6"
+      ],
+      "a": 2,
+      "e": "Acyclic monoalkenes follow CnH2n.",
+      "d": "Medium",
+      "topic": "Hydrocarbon classification",
+      "slo": "Identify, describe or apply the concept of hydrocarbon classification in organic chemistry.",
+      "id": "CHEM9CH13-075"
+    },
+    {
+      "q": "Which formula can represent an acyclic alkyne with one triple bond?",
+      "o": [
+        "C4H12",
+        "C4H6",
+        "C4H10",
+        "C4H8"
+      ],
+      "a": 1,
+      "e": "Acyclic monoalkynes follow CnH2n-2.",
+      "d": "Medium",
+      "topic": "Hydrocarbon classification",
+      "slo": "Identify, describe or apply the concept of hydrocarbon classification in organic chemistry.",
+      "id": "CHEM9CH13-076"
+    },
+    {
+      "q": "Which formula represents a saturated acyclic hydrocarbon?",
+      "o": [
+        "C5H8",
+        "C5H12",
+        "C5H10",
+        "C5H6"
+      ],
+      "a": 1,
+      "e": "Acyclic alkanes follow CnH2n+2.",
+      "d": "Medium",
+      "topic": "Hydrocarbon classification",
+      "slo": "Identify, describe or apply the concept of hydrocarbon classification in organic chemistry.",
+      "id": "CHEM9CH13-077"
+    },
+    {
+      "q": "Which is the first member of the alkane series?",
+      "o": [
+        "Ethane",
+        "Ethyne",
+        "Ethene",
+        "Methane"
+      ],
+      "a": 3,
+      "e": "Methane, CH4, is the smallest alkane.",
+      "d": "Hard",
+      "topic": "Hydrocarbon classification",
+      "slo": "Identify, describe or apply the concept of hydrocarbon classification in organic chemistry.",
+      "id": "CHEM9CH13-078"
+    },
+    {
+      "q": "Which is the first member of the alkene series?",
+      "o": [
+        "Methane",
+        "Ethane",
+        "Propane",
+        "Ethene"
+      ],
+      "a": 3,
+      "e": "At least two carbons are needed to form a C=C bond.",
+      "d": "Medium",
+      "topic": "Hydrocarbon classification",
+      "slo": "Identify, describe or apply the concept of hydrocarbon classification in organic chemistry.",
+      "id": "CHEM9CH13-079"
+    },
+    {
+      "q": "Which is the first member of the alkyne series?",
+      "o": [
+        "Propane",
+        "Ethene",
+        "Ethyne",
+        "Methane"
+      ],
+      "a": 2,
+      "e": "At least two carbons are needed for a C≡C bond.",
+      "d": "Medium",
+      "topic": "Hydrocarbon classification",
+      "slo": "Identify, describe or apply the concept of hydrocarbon classification in organic chemistry.",
+      "id": "CHEM9CH13-080"
+    },
+    {
+      "q": "What is the molecular formula of cyclohexane?",
+      "o": [
+        "C6H6",
+        "C6H14",
+        "C6H10",
+        "C6H12"
+      ],
+      "a": 3,
+      "e": "A saturated monocyclic hydrocarbon has formula CnH2n.",
+      "d": "Easy",
+      "topic": "Hydrocarbon classification",
+      "slo": "Identify, describe or apply the concept of hydrocarbon classification in organic chemistry.",
+      "id": "CHEM9CH13-081"
+    },
+    {
+      "q": "What is the molecular formula of cyclopropane?",
+      "o": [
+        "C3H4",
+        "C3H8",
+        "C3H2",
+        "C3H6"
+      ],
+      "a": 3,
+      "e": "Cyclopropane has a three-membered saturated carbon ring.",
+      "d": "Medium",
+      "topic": "Hydrocarbon classification",
+      "slo": "Identify, describe or apply the concept of hydrocarbon classification in organic chemistry.",
+      "id": "CHEM9CH13-082"
+    },
+    {
+      "q": "What is the molecular formula of cyclobutane?",
+      "o": [
+        "C4H10",
+        "C4H12",
+        "C4H6",
+        "C4H8"
+      ],
+      "a": 3,
+      "e": "A saturated monocyclic hydrocarbon has formula CnH2n.",
+      "d": "Easy",
+      "topic": "Hydrocarbon classification",
+      "slo": "Identify, describe or apply the concept of hydrocarbon classification in organic chemistry.",
+      "id": "CHEM9CH13-083"
+    },
+    {
+      "q": "Which functional group is characteristic of alcohols?",
+      "o": [
+        "-CHO",
+        "-OH",
+        "-COOH",
+        "-NH2"
+      ],
+      "a": 1,
+      "e": "Alcohols contain the hydroxyl group.",
+      "d": "Medium",
+      "topic": "Functional groups",
+      "slo": "Identify, describe or apply the concept of functional groups in organic chemistry.",
+      "id": "CHEM9CH13-084"
+    },
+    {
+      "q": "Which class is identified by the group -OH?",
+      "o": [
+        "Carboxylic acids",
+        "Aldehydes",
+        "Amines",
+        "Alcohols"
+      ],
+      "a": 3,
+      "e": "The group -OH is characteristic of alcohols.",
+      "d": "Medium",
+      "topic": "Functional groups",
+      "slo": "Identify, describe or apply the concept of functional groups in organic chemistry.",
+      "id": "CHEM9CH13-085"
+    },
+    {
+      "q": "Which functional group is characteristic of aldehydes?",
+      "o": [
+        "-CHO",
+        "-OH",
+        "-COOH",
+        "-NH2"
+      ],
+      "a": 0,
+      "e": "Aldehydes contain the aldehyde group.",
+      "d": "Medium",
+      "topic": "Functional groups",
+      "slo": "Identify, describe or apply the concept of functional groups in organic chemistry.",
+      "id": "CHEM9CH13-086"
+    },
+    {
+      "q": "Which class is identified by the group -CHO?",
+      "o": [
+        "Amines",
+        "Carboxylic acids",
+        "Aldehydes",
+        "Alcohols"
+      ],
+      "a": 2,
+      "e": "The group -CHO is characteristic of aldehydes.",
+      "d": "Medium",
+      "topic": "Functional groups",
+      "slo": "Identify, describe or apply the concept of functional groups in organic chemistry.",
+      "id": "CHEM9CH13-087"
+    },
+    {
+      "q": "Which functional group is characteristic of carboxylic acids?",
+      "o": [
+        "-CHO",
+        "-COOH",
+        "-OH",
+        "-NH2"
+      ],
+      "a": 1,
+      "e": "Carboxylic acids contain the carboxyl group.",
+      "d": "Medium",
+      "topic": "Functional groups",
+      "slo": "Identify, describe or apply the concept of functional groups in organic chemistry.",
+      "id": "CHEM9CH13-088"
+    },
+    {
+      "q": "Which class is identified by the group -COOH?",
+      "o": [
+        "Amines",
+        "Aldehydes",
+        "Carboxylic acids",
+        "Alcohols"
+      ],
+      "a": 2,
+      "e": "The group -COOH is characteristic of carboxylic acids.",
+      "d": "Medium",
+      "topic": "Functional groups",
+      "slo": "Identify, describe or apply the concept of functional groups in organic chemistry.",
+      "id": "CHEM9CH13-089"
+    },
+    {
+      "q": "Which functional group is characteristic of amines?",
+      "o": [
+        "-CHO",
+        "-OH",
+        "-NH2",
+        "-COOH"
+      ],
+      "a": 2,
+      "e": "Amines contain the amino group.",
+      "d": "Medium",
+      "topic": "Functional groups",
+      "slo": "Identify, describe or apply the concept of functional groups in organic chemistry.",
+      "id": "CHEM9CH13-090"
+    },
+    {
+      "q": "Which class is identified by the group -NH2?",
+      "o": [
+        "Amines",
+        "Alcohols",
+        "Carboxylic acids",
+        "Aldehydes"
+      ],
+      "a": 0,
+      "e": "The group -NH2 is characteristic of amines.",
+      "d": "Hard",
+      "topic": "Functional groups",
+      "slo": "Identify, describe or apply the concept of functional groups in organic chemistry.",
+      "id": "CHEM9CH13-091"
+    },
+    {
+      "q": "Which functional group is characteristic of ketones?",
+      "o": [
+        "-NH2",
+        "-O-",
+        "-CO-",
+        "-COOH"
+      ],
+      "a": 2,
+      "e": "Ketones contain the carbonyl group between two carbon groups.",
+      "d": "Easy",
+      "topic": "Functional groups",
+      "slo": "Identify, describe or apply the concept of functional groups in organic chemistry.",
+      "id": "CHEM9CH13-092"
+    },
+    {
+      "q": "Which class is identified by the group -CO-?",
+      "o": [
+        "Aldehydes",
+        "Carboxylic acids",
+        "Ketones",
+        "Alcohols"
+      ],
+      "a": 2,
+      "e": "The group -CO- is characteristic of ketones.",
+      "d": "Medium",
+      "topic": "Functional groups",
+      "slo": "Identify, describe or apply the concept of functional groups in organic chemistry.",
+      "id": "CHEM9CH13-093"
+    },
+    {
+      "q": "Which functional group is characteristic of ethers?",
+      "o": [
+        "-OH",
+        "-O-",
+        "-COOH",
+        "-NH2"
+      ],
+      "a": 1,
+      "e": "Ethers contain the ether linkage.",
+      "d": "Medium",
+      "topic": "Functional groups",
+      "slo": "Identify, describe or apply the concept of functional groups in organic chemistry.",
+      "id": "CHEM9CH13-094"
+    },
+    {
+      "q": "Which class is identified by the group -O-?",
+      "o": [
+        "Ethers",
+        "Aldehydes",
+        "Alcohols",
+        "Carboxylic acids"
+      ],
+      "a": 0,
+      "e": "The group -O- is characteristic of ethers.",
+      "d": "Medium",
+      "topic": "Functional groups",
+      "slo": "Identify, describe or apply the concept of functional groups in organic chemistry.",
+      "id": "CHEM9CH13-095"
+    },
+    {
+      "q": "Which functional group is characteristic of esters?",
+      "o": [
+        "-COO-",
+        "-NH2",
+        "-OH",
+        "-CHO"
+      ],
+      "a": 0,
+      "e": "Esters contain the ester linkage.",
+      "d": "Medium",
+      "topic": "Functional groups",
+      "slo": "Identify, describe or apply the concept of functional groups in organic chemistry.",
+      "id": "CHEM9CH13-096"
+    },
+    {
+      "q": "Which class is identified by the group -COO-?",
+      "o": [
+        "Aldehydes",
+        "Carboxylic acids",
+        "Alcohols",
+        "Esters"
+      ],
+      "a": 3,
+      "e": "The group -COO- is characteristic of esters.",
+      "d": "Medium",
+      "topic": "Functional groups",
+      "slo": "Identify, describe or apply the concept of functional groups in organic chemistry.",
+      "id": "CHEM9CH13-097"
+    },
+    {
+      "q": "Which functional group is characteristic of haloalkanes?",
+      "o": [
+        "-OH",
+        "-X (X = F, Cl, Br or I)",
+        "-COOH",
+        "-CHO"
+      ],
+      "a": 1,
+      "e": "Haloalkanes contain the halogen substituent.",
+      "d": "Medium",
+      "topic": "Functional groups",
+      "slo": "Identify, describe or apply the concept of functional groups in organic chemistry.",
+      "id": "CHEM9CH13-098"
+    },
+    {
+      "q": "Which class is identified by the group -X (X = F, Cl, Br or I)?",
+      "o": [
+        "Carboxylic acids",
+        "Haloalkanes",
+        "Alcohols",
+        "Aldehydes"
+      ],
+      "a": 1,
+      "e": "The group -X (X = F, Cl, Br or I) is characteristic of haloalkanes.",
+      "d": "Easy",
+      "topic": "Functional groups",
+      "slo": "Identify, describe or apply the concept of functional groups in organic chemistry.",
+      "id": "CHEM9CH13-099"
+    },
+    {
+      "q": "Which functional group contains both carbonyl and hydroxyl bonded to the same carbon?",
+      "o": [
+        "Amino (-NH2)",
+        "Halogen (-Cl)",
+        "Ether (-O-)",
+        "Carboxyl (-COOH)"
+      ],
+      "a": 3,
+      "e": "The carboxyl group is -C(=O)OH.",
+      "d": "Hard",
+      "topic": "Functional groups",
+      "slo": "Identify, describe or apply the concept of functional groups in organic chemistry.",
+      "id": "CHEM9CH13-100"
+    },
+    {
+      "q": "What is a functional group in organic chemistry?",
+      "o": [
+        "Only the longest carbon chain",
+        "A group of neutrons",
+        "An atom or group that determines characteristic reactions",
+        "The mass of the compound"
+      ],
+      "a": 2,
+      "e": "Functional groups largely govern organic chemical properties.",
+      "d": "Medium",
+      "topic": "Functional groups",
+      "slo": "Identify, describe or apply the concept of functional groups in organic chemistry.",
+      "id": "CHEM9CH13-101"
+    },
+    {
+      "q": "Which organic compound contains a carbonyl group at the end of a chain?",
+      "o": [
+        "Aldehyde",
+        "Ether",
+        "Ketone",
+        "Alkane"
+      ],
+      "a": 0,
+      "e": "An aldehyde has a terminal -CHO group.",
+      "d": "Easy",
+      "topic": "Functional groups",
+      "slo": "Identify, describe or apply the concept of functional groups in organic chemistry.",
+      "id": "CHEM9CH13-102"
+    },
+    {
+      "q": "Which organic compound has a carbonyl carbon bonded to two carbon groups?",
+      "o": [
+        "Aldehyde",
+        "Ketone",
+        "Amine",
+        "Alcohol"
+      ],
+      "a": 1,
+      "e": "A ketone contains an internal >C=O group.",
+      "d": "Medium",
+      "topic": "Functional groups",
+      "slo": "Identify, describe or apply the concept of functional groups in organic chemistry.",
+      "id": "CHEM9CH13-103"
+    },
+    {
+      "q": "Which class has an oxygen atom linking two carbon groups?",
+      "o": [
+        "Ether",
+        "Amine",
+        "Alcohol",
+        "Carboxylic acid"
+      ],
+      "a": 0,
+      "e": "Ethers have R-O-R′ connectivity.",
+      "d": "Easy",
+      "topic": "Functional groups",
+      "slo": "Identify, describe or apply the concept of functional groups in organic chemistry.",
+      "id": "CHEM9CH13-104"
+    },
+    {
+      "q": "Which class contains the linkage R-COO-R′?",
+      "o": [
+        "Ester",
+        "Ether",
+        "Alkane",
+        "Aldehyde"
+      ],
+      "a": 0,
+      "e": "Esters contain the -COO- linkage.",
+      "d": "Medium",
+      "topic": "Functional groups",
+      "slo": "Identify, describe or apply the concept of functional groups in organic chemistry.",
+      "id": "CHEM9CH13-105"
+    },
+    {
+      "q": "Which organic class commonly contains the -NH2 group?",
+      "o": [
+        "Ether",
+        "Alkene",
+        "Amine",
+        "Ketone"
+      ],
+      "a": 2,
+      "e": "Primary amines contain the amino group.",
+      "d": "Hard",
+      "topic": "Functional groups",
+      "slo": "Identify, describe or apply the concept of functional groups in organic chemistry.",
+      "id": "CHEM9CH13-106"
+    },
+    {
+      "q": "Which group is responsible for the acidity of ethanoic acid?",
+      "o": [
+        "-CHO",
+        "-NH2",
+        "-COOH",
+        "-O-"
+      ],
+      "a": 2,
+      "e": "The carboxyl group can donate a proton.",
+      "d": "Medium",
+      "topic": "Functional groups",
+      "slo": "Identify, describe or apply the concept of functional groups in organic chemistry.",
+      "id": "CHEM9CH13-107"
+    },
+    {
+      "q": "Which group is found in ethanol?",
+      "o": [
+        "-CHO",
+        "-NH2",
+        "-COOH",
+        "-OH"
+      ],
+      "a": 3,
+      "e": "Ethanol is an alcohol containing a hydroxyl group.",
+      "d": "Easy",
+      "topic": "Functional groups",
+      "slo": "Identify, describe or apply the concept of functional groups in organic chemistry.",
+      "id": "CHEM9CH13-108"
+    },
+    {
+      "q": "Which group is found in ethanal?",
+      "o": [
+        "-CHO",
+        "-OH",
+        "-O-",
+        "-COOH"
+      ],
+      "a": 0,
+      "e": "Ethanal is an aldehyde.",
+      "d": "Medium",
+      "topic": "Functional groups",
+      "slo": "Identify, describe or apply the concept of functional groups in organic chemistry.",
+      "id": "CHEM9CH13-109"
+    },
+    {
+      "q": "Which group is found in propanone?",
+      "o": [
+        "-NH2",
+        "-CO-",
+        "-COOH",
+        "-CHO"
+      ],
+      "a": 1,
+      "e": "Propanone is a ketone with an internal carbonyl group.",
+      "d": "Medium",
+      "topic": "Functional groups",
+      "slo": "Identify, describe or apply the concept of functional groups in organic chemistry.",
+      "id": "CHEM9CH13-110"
+    },
+    {
+      "q": "Which group is found in methanoic acid?",
+      "o": [
+        "-COOH",
+        "-O-",
+        "-CHO",
+        "-OH"
+      ],
+      "a": 0,
+      "e": "Methanoic acid is a carboxylic acid.",
+      "d": "Hard",
+      "topic": "Functional groups",
+      "slo": "Identify, describe or apply the concept of functional groups in organic chemistry.",
+      "id": "CHEM9CH13-111"
+    },
+    {
+      "q": "Which group is found in methylamine?",
+      "o": [
+        "-OH",
+        "-COOH",
+        "-NH2",
+        "-CHO"
+      ],
+      "a": 2,
+      "e": "Methylamine contains an amino group.",
+      "d": "Medium",
+      "topic": "Functional groups",
+      "slo": "Identify, describe or apply the concept of functional groups in organic chemistry.",
+      "id": "CHEM9CH13-112"
+    },
+    {
+      "q": "Which group is found in ethoxyethane?",
+      "o": [
+        "-CHO",
+        "-COOH",
+        "-O-",
+        "-NH2"
+      ],
+      "a": 2,
+      "e": "Ethoxyethane is an ether with a C-O-C linkage.",
+      "d": "Medium",
+      "topic": "Functional groups",
+      "slo": "Identify, describe or apply the concept of functional groups in organic chemistry.",
+      "id": "CHEM9CH13-113"
+    },
+    {
+      "q": "Which group is found in ethyl ethanoate?",
+      "o": [
+        "-NH2",
+        "-CHO",
+        "-OH",
+        "-COO-"
+      ],
+      "a": 3,
+      "e": "Ethyl ethanoate is an ester.",
+      "d": "Easy",
+      "topic": "Functional groups",
+      "slo": "Identify, describe or apply the concept of functional groups in organic chemistry.",
+      "id": "CHEM9CH13-114"
+    },
+    {
+      "q": "Which group is found in chloroethane?",
+      "o": [
+        "-OH",
+        "-COOH",
+        "-NH2",
+        "-Cl"
+      ],
+      "a": 3,
+      "e": "Chloroethane is a haloalkane.",
+      "d": "Easy",
+      "topic": "Functional groups",
+      "slo": "Identify, describe or apply the concept of functional groups in organic chemistry.",
+      "id": "CHEM9CH13-115"
+    },
+    {
+      "q": "To which functional class does methanol belong?",
+      "o": [
+        "Alcohol",
+        "Carboxylic acid",
+        "Ketone",
+        "Aldehyde"
+      ],
+      "a": 0,
+      "e": "Methanol (CH3OH) belongs to the alcohol class.",
+      "d": "Medium",
+      "topic": "Identifying organic compounds",
+      "slo": "Identify, describe or apply the concept of identifying organic compounds in organic chemistry.",
+      "id": "CHEM9CH13-116"
+    },
+    {
+      "q": "Which formula corresponds to methanol?",
+      "o": [
+        "CH3OH",
+        "C2H5OH",
+        "C3H7OH",
+        "CH3CHO"
+      ],
+      "a": 0,
+      "e": "Methanol has the formula CH3OH.",
+      "d": "Easy",
+      "topic": "Identifying organic compounds",
+      "slo": "Identify, describe or apply the concept of identifying organic compounds in organic chemistry.",
+      "id": "CHEM9CH13-117"
+    },
+    {
+      "q": "To which functional class does ethanol belong?",
+      "o": [
+        "Carboxylic acid",
+        "Alcohol",
+        "Aldehyde",
+        "Ketone"
+      ],
+      "a": 1,
+      "e": "Ethanol (C2H5OH) belongs to the alcohol class.",
+      "d": "Easy",
+      "topic": "Identifying organic compounds",
+      "slo": "Identify, describe or apply the concept of identifying organic compounds in organic chemistry.",
+      "id": "CHEM9CH13-118"
+    },
+    {
+      "q": "Which formula corresponds to ethanol?",
+      "o": [
+        "CH3OH",
+        "C2H5OH",
+        "CH3CHO",
+        "C3H7OH"
+      ],
+      "a": 1,
+      "e": "Ethanol has the formula C2H5OH.",
+      "d": "Easy",
+      "topic": "Identifying organic compounds",
+      "slo": "Identify, describe or apply the concept of identifying organic compounds in organic chemistry.",
+      "id": "CHEM9CH13-119"
+    },
+    {
+      "q": "To which functional class does propan-1-ol belong?",
+      "o": [
+        "Ketone",
+        "Carboxylic acid",
+        "Alcohol",
+        "Aldehyde"
+      ],
+      "a": 2,
+      "e": "Propan-1-ol (C3H7OH) belongs to the alcohol class.",
+      "d": "Medium",
+      "topic": "Identifying organic compounds",
+      "slo": "Identify, describe or apply the concept of identifying organic compounds in organic chemistry.",
+      "id": "CHEM9CH13-120"
+    },
+    {
+      "q": "Which formula corresponds to propan-1-ol?",
+      "o": [
+        "CH3CHO",
+        "C3H7OH",
+        "C2H5OH",
+        "CH3OH"
+      ],
+      "a": 1,
+      "e": "Propan-1-ol has the formula C3H7OH.",
+      "d": "Hard",
+      "topic": "Identifying organic compounds",
+      "slo": "Identify, describe or apply the concept of identifying organic compounds in organic chemistry.",
+      "id": "CHEM9CH13-121"
+    },
+    {
+      "q": "To which functional class does ethanal belong?",
+      "o": [
+        "Aldehyde",
+        "Carboxylic acid",
+        "Ketone",
+        "Alcohol"
+      ],
+      "a": 0,
+      "e": "Ethanal (CH3CHO) belongs to the aldehyde class.",
+      "d": "Medium",
+      "topic": "Identifying organic compounds",
+      "slo": "Identify, describe or apply the concept of identifying organic compounds in organic chemistry.",
+      "id": "CHEM9CH13-122"
+    },
+    {
+      "q": "Which formula corresponds to ethanal?",
+      "o": [
+        "C2H5OH",
+        "CH3CHO",
+        "C3H7OH",
+        "CH3OH"
+      ],
+      "a": 1,
+      "e": "Ethanal has the formula CH3CHO.",
+      "d": "Medium",
+      "topic": "Identifying organic compounds",
+      "slo": "Identify, describe or apply the concept of identifying organic compounds in organic chemistry.",
+      "id": "CHEM9CH13-123"
+    },
+    {
+      "q": "To which functional class does methanal belong?",
+      "o": [
+        "Carboxylic acid",
+        "Ketone",
+        "Alcohol",
+        "Aldehyde"
+      ],
+      "a": 3,
+      "e": "Methanal (HCHO) belongs to the aldehyde class.",
+      "d": "Medium",
+      "topic": "Identifying organic compounds",
+      "slo": "Identify, describe or apply the concept of identifying organic compounds in organic chemistry.",
+      "id": "CHEM9CH13-124"
+    },
+    {
+      "q": "Which formula corresponds to methanal?",
+      "o": [
+        "C2H5OH",
+        "CH3OH",
+        "HCHO",
+        "C3H7OH"
+      ],
+      "a": 2,
+      "e": "Methanal has the formula HCHO.",
+      "d": "Easy",
+      "topic": "Identifying organic compounds",
+      "slo": "Identify, describe or apply the concept of identifying organic compounds in organic chemistry.",
+      "id": "CHEM9CH13-125"
+    },
+    {
+      "q": "To which functional class does propanal belong?",
+      "o": [
+        "Carboxylic acid",
+        "Aldehyde",
+        "Ketone",
+        "Alcohol"
+      ],
+      "a": 1,
+      "e": "Propanal (C2H5CHO) belongs to the aldehyde class.",
+      "d": "Hard",
+      "topic": "Identifying organic compounds",
+      "slo": "Identify, describe or apply the concept of identifying organic compounds in organic chemistry.",
+      "id": "CHEM9CH13-126"
+    },
+    {
+      "q": "Which formula corresponds to propanal?",
+      "o": [
+        "C3H7OH",
+        "CH3OH",
+        "C2H5CHO",
+        "C2H5OH"
+      ],
+      "a": 2,
+      "e": "Propanal has the formula C2H5CHO.",
+      "d": "Medium",
+      "topic": "Identifying organic compounds",
+      "slo": "Identify, describe or apply the concept of identifying organic compounds in organic chemistry.",
+      "id": "CHEM9CH13-127"
+    },
+    {
+      "q": "To which functional class does propanone belong?",
+      "o": [
+        "Alcohol",
+        "Aldehyde",
+        "Carboxylic acid",
+        "Ketone"
+      ],
+      "a": 3,
+      "e": "Propanone (CH3COCH3) belongs to the ketone class.",
+      "d": "Medium",
+      "topic": "Identifying organic compounds",
+      "slo": "Identify, describe or apply the concept of identifying organic compounds in organic chemistry.",
+      "id": "CHEM9CH13-128"
+    },
+    {
+      "q": "Which formula corresponds to propanone?",
+      "o": [
+        "C3H7OH",
+        "CH3COCH3",
+        "C2H5OH",
+        "CH3OH"
+      ],
+      "a": 1,
+      "e": "Propanone has the formula CH3COCH3.",
+      "d": "Hard",
+      "topic": "Identifying organic compounds",
+      "slo": "Identify, describe or apply the concept of identifying organic compounds in organic chemistry.",
+      "id": "CHEM9CH13-129"
+    },
+    {
+      "q": "To which functional class does butanone belong?",
+      "o": [
+        "Alcohol",
+        "Ketone",
+        "Carboxylic acid",
+        "Aldehyde"
+      ],
+      "a": 1,
+      "e": "Butanone (CH3COC2H5) belongs to the ketone class.",
+      "d": "Easy",
+      "topic": "Identifying organic compounds",
+      "slo": "Identify, describe or apply the concept of identifying organic compounds in organic chemistry.",
+      "id": "CHEM9CH13-130"
+    },
+    {
+      "q": "Which formula corresponds to butanone?",
+      "o": [
+        "C2H5OH",
+        "CH3COC2H5",
+        "C3H7OH",
+        "CH3OH"
+      ],
+      "a": 1,
+      "e": "Butanone has the formula CH3COC2H5.",
+      "d": "Medium",
+      "topic": "Identifying organic compounds",
+      "slo": "Identify, describe or apply the concept of identifying organic compounds in organic chemistry.",
+      "id": "CHEM9CH13-131"
+    },
+    {
+      "q": "To which functional class does methanoic acid belong?",
+      "o": [
+        "Ketone",
+        "Carboxylic acid",
+        "Aldehyde",
+        "Alcohol"
+      ],
+      "a": 1,
+      "e": "Methanoic acid (HCOOH) belongs to the carboxylic acid class.",
+      "d": "Medium",
+      "topic": "Identifying organic compounds",
+      "slo": "Identify, describe or apply the concept of identifying organic compounds in organic chemistry.",
+      "id": "CHEM9CH13-132"
+    },
+    {
+      "q": "Which formula corresponds to methanoic acid?",
+      "o": [
+        "C2H5OH",
+        "CH3OH",
+        "HCOOH",
+        "C3H7OH"
+      ],
+      "a": 2,
+      "e": "Methanoic acid has the formula HCOOH.",
+      "d": "Medium",
+      "topic": "Identifying organic compounds",
+      "slo": "Identify, describe or apply the concept of identifying organic compounds in organic chemistry.",
+      "id": "CHEM9CH13-133"
+    },
+    {
+      "q": "To which functional class does ethanoic acid belong?",
+      "o": [
+        "Carboxylic acid",
+        "Aldehyde",
+        "Ketone",
+        "Alcohol"
+      ],
+      "a": 0,
+      "e": "Ethanoic acid (CH3COOH) belongs to the carboxylic acid class.",
+      "d": "Medium",
+      "topic": "Identifying organic compounds",
+      "slo": "Identify, describe or apply the concept of identifying organic compounds in organic chemistry.",
+      "id": "CHEM9CH13-134"
+    },
+    {
+      "q": "Which formula corresponds to ethanoic acid?",
+      "o": [
+        "C3H7OH",
+        "CH3COOH",
+        "C2H5OH",
+        "CH3OH"
+      ],
+      "a": 1,
+      "e": "Ethanoic acid has the formula CH3COOH.",
+      "d": "Medium",
+      "topic": "Identifying organic compounds",
+      "slo": "Identify, describe or apply the concept of identifying organic compounds in organic chemistry.",
+      "id": "CHEM9CH13-135"
+    },
+    {
+      "q": "To which functional class does propanoic acid belong?",
+      "o": [
+        "Alcohol",
+        "Aldehyde",
+        "Carboxylic acid",
+        "Ketone"
+      ],
+      "a": 2,
+      "e": "Propanoic acid (C2H5COOH) belongs to the carboxylic acid class.",
+      "d": "Medium",
+      "topic": "Identifying organic compounds",
+      "slo": "Identify, describe or apply the concept of identifying organic compounds in organic chemistry.",
+      "id": "CHEM9CH13-136"
+    },
+    {
+      "q": "Which formula corresponds to propanoic acid?",
+      "o": [
+        "C2H5OH",
+        "C2H5COOH",
+        "C3H7OH",
+        "CH3OH"
+      ],
+      "a": 1,
+      "e": "Propanoic acid has the formula C2H5COOH.",
+      "d": "Medium",
+      "topic": "Identifying organic compounds",
+      "slo": "Identify, describe or apply the concept of identifying organic compounds in organic chemistry.",
+      "id": "CHEM9CH13-137"
+    },
+    {
+      "q": "To which functional class does methylamine belong?",
+      "o": [
+        "Aldehyde",
+        "Alcohol",
+        "Amine",
+        "Ketone"
+      ],
+      "a": 2,
+      "e": "Methylamine (CH3NH2) belongs to the amine class.",
+      "d": "Medium",
+      "topic": "Identifying organic compounds",
+      "slo": "Identify, describe or apply the concept of identifying organic compounds in organic chemistry.",
+      "id": "CHEM9CH13-138"
+    },
+    {
+      "q": "Which formula corresponds to methylamine?",
+      "o": [
+        "CH3OH",
+        "C2H5OH",
+        "CH3NH2",
+        "C3H7OH"
+      ],
+      "a": 2,
+      "e": "Methylamine has the formula CH3NH2.",
+      "d": "Medium",
+      "topic": "Identifying organic compounds",
+      "slo": "Identify, describe or apply the concept of identifying organic compounds in organic chemistry.",
+      "id": "CHEM9CH13-139"
+    },
+    {
+      "q": "To which functional class does ethylamine belong?",
+      "o": [
+        "Aldehyde",
+        "Ketone",
+        "Alcohol",
+        "Amine"
+      ],
+      "a": 3,
+      "e": "Ethylamine (C2H5NH2) belongs to the amine class.",
+      "d": "Medium",
+      "topic": "Identifying organic compounds",
+      "slo": "Identify, describe or apply the concept of identifying organic compounds in organic chemistry.",
+      "id": "CHEM9CH13-140"
+    },
+    {
+      "q": "Which formula corresponds to ethylamine?",
+      "o": [
+        "C3H7OH",
+        "C2H5NH2",
+        "CH3OH",
+        "C2H5OH"
+      ],
+      "a": 1,
+      "e": "Ethylamine has the formula C2H5NH2.",
+      "d": "Medium",
+      "topic": "Identifying organic compounds",
+      "slo": "Identify, describe or apply the concept of identifying organic compounds in organic chemistry.",
+      "id": "CHEM9CH13-141"
+    },
+    {
+      "q": "To which functional class does dimethyl ether belong?",
+      "o": [
+        "Ketone",
+        "Alcohol",
+        "Aldehyde",
+        "Ether"
+      ],
+      "a": 3,
+      "e": "Dimethyl ether (CH3OCH3) belongs to the ether class.",
+      "d": "Medium",
+      "topic": "Identifying organic compounds",
+      "slo": "Identify, describe or apply the concept of identifying organic compounds in organic chemistry.",
+      "id": "CHEM9CH13-142"
+    },
+    {
+      "q": "Which formula corresponds to dimethyl ether?",
+      "o": [
+        "C3H7OH",
+        "CH3OCH3",
+        "CH3OH",
+        "C2H5OH"
+      ],
+      "a": 1,
+      "e": "Dimethyl ether has the formula CH3OCH3.",
+      "d": "Medium",
+      "topic": "Identifying organic compounds",
+      "slo": "Identify, describe or apply the concept of identifying organic compounds in organic chemistry.",
+      "id": "CHEM9CH13-143"
+    },
+    {
+      "q": "To which functional class does diethyl ether belong?",
+      "o": [
+        "Ether",
+        "Ketone",
+        "Aldehyde",
+        "Alcohol"
+      ],
+      "a": 0,
+      "e": "Diethyl ether (C2H5OC2H5) belongs to the ether class.",
+      "d": "Hard",
+      "topic": "Identifying organic compounds",
+      "slo": "Identify, describe or apply the concept of identifying organic compounds in organic chemistry.",
+      "id": "CHEM9CH13-144"
+    },
+    {
+      "q": "Which formula corresponds to diethyl ether?",
+      "o": [
+        "C2H5OC2H5",
+        "CH3OH",
+        "C3H7OH",
+        "C2H5OH"
+      ],
+      "a": 0,
+      "e": "Diethyl ether has the formula C2H5OC2H5.",
+      "d": "Medium",
+      "topic": "Identifying organic compounds",
+      "slo": "Identify, describe or apply the concept of identifying organic compounds in organic chemistry.",
+      "id": "CHEM9CH13-145"
+    },
+    {
+      "q": "To which functional class does methyl ethanoate belong?",
+      "o": [
+        "Ester",
+        "Alcohol",
+        "Ketone",
+        "Aldehyde"
+      ],
+      "a": 0,
+      "e": "Methyl ethanoate (CH3COOCH3) belongs to the ester class.",
+      "d": "Easy",
+      "topic": "Identifying organic compounds",
+      "slo": "Identify, describe or apply the concept of identifying organic compounds in organic chemistry.",
+      "id": "CHEM9CH13-146"
+    },
+    {
+      "q": "Which formula corresponds to methyl ethanoate?",
+      "o": [
+        "CH3COOCH3",
+        "C2H5OH",
+        "C3H7OH",
+        "CH3OH"
+      ],
+      "a": 0,
+      "e": "Methyl ethanoate has the formula CH3COOCH3.",
+      "d": "Easy",
+      "topic": "Identifying organic compounds",
+      "slo": "Identify, describe or apply the concept of identifying organic compounds in organic chemistry.",
+      "id": "CHEM9CH13-147"
+    },
+    {
+      "q": "To which functional class does ethyl ethanoate belong?",
+      "o": [
+        "Alcohol",
+        "Aldehyde",
+        "Ester",
+        "Ketone"
+      ],
+      "a": 2,
+      "e": "Ethyl ethanoate (CH3COOC2H5) belongs to the ester class.",
+      "d": "Easy",
+      "topic": "Identifying organic compounds",
+      "slo": "Identify, describe or apply the concept of identifying organic compounds in organic chemistry.",
+      "id": "CHEM9CH13-148"
+    },
+    {
+      "q": "Which formula corresponds to ethyl ethanoate?",
+      "o": [
+        "C3H7OH",
+        "C2H5OH",
+        "CH3COOC2H5",
+        "CH3OH"
+      ],
+      "a": 2,
+      "e": "Ethyl ethanoate has the formula CH3COOC2H5.",
+      "d": "Easy",
+      "topic": "Identifying organic compounds",
+      "slo": "Identify, describe or apply the concept of identifying organic compounds in organic chemistry.",
+      "id": "CHEM9CH13-149"
+    },
+    {
+      "q": "To which functional class does chloromethane belong?",
+      "o": [
+        "Alcohol",
+        "Ketone",
+        "Haloalkane",
+        "Aldehyde"
+      ],
+      "a": 2,
+      "e": "Chloromethane (CH3Cl) belongs to the haloalkane class.",
+      "d": "Hard",
+      "topic": "Identifying organic compounds",
+      "slo": "Identify, describe or apply the concept of identifying organic compounds in organic chemistry.",
+      "id": "CHEM9CH13-150"
+    },
+    {
+      "q": "Which formula corresponds to chloromethane?",
+      "o": [
+        "CH3Cl",
+        "C3H7OH",
+        "C2H5OH",
+        "CH3OH"
+      ],
+      "a": 0,
+      "e": "Chloromethane has the formula CH3Cl.",
+      "d": "Medium",
+      "topic": "Identifying organic compounds",
+      "slo": "Identify, describe or apply the concept of identifying organic compounds in organic chemistry.",
+      "id": "CHEM9CH13-151"
+    },
+    {
+      "q": "To which functional class does bromoethane belong?",
+      "o": [
+        "Aldehyde",
+        "Ketone",
+        "Haloalkane",
+        "Alcohol"
+      ],
+      "a": 2,
+      "e": "Bromoethane (C2H5Br) belongs to the haloalkane class.",
+      "d": "Medium",
+      "topic": "Identifying organic compounds",
+      "slo": "Identify, describe or apply the concept of identifying organic compounds in organic chemistry.",
+      "id": "CHEM9CH13-152"
+    },
+    {
+      "q": "Which formula corresponds to bromoethane?",
+      "o": [
+        "CH3OH",
+        "C3H7OH",
+        "C2H5Br",
+        "C2H5OH"
+      ],
+      "a": 2,
+      "e": "Bromoethane has the formula C2H5Br.",
+      "d": "Easy",
+      "topic": "Identifying organic compounds",
+      "slo": "Identify, describe or apply the concept of identifying organic compounds in organic chemistry.",
+      "id": "CHEM9CH13-153"
+    },
+    {
+      "q": "What are structural isomers?",
+      "o": [
+        "Atoms with different neutron counts",
+        "Compounds with the same molecular formula but different connectivity",
+        "Compounds with identical structures",
+        "Compounds with different molecular formulas only"
+      ],
+      "a": 1,
+      "e": "Structural isomers differ in atom-to-atom connections.",
+      "d": "Hard",
+      "topic": "Isomerism",
+      "slo": "Identify, describe or apply the concept of isomerism in organic chemistry.",
+      "id": "CHEM9CH13-154"
+    },
+    {
+      "q": "Which pair are structural isomers?",
+      "o": [
+        "Butane and 2-methylpropane",
+        "Methane and ethane",
+        "Ethanol and methanol",
+        "Ethene and ethyne"
+      ],
+      "a": 0,
+      "e": "Both butane and 2-methylpropane have molecular formula C4H10.",
+      "d": "Medium",
+      "topic": "Isomerism",
+      "slo": "Identify, describe or apply the concept of isomerism in organic chemistry.",
+      "id": "CHEM9CH13-155"
+    },
+    {
+      "q": "Which pair are structural isomers with formula C2H6O?",
+      "o": [
+        "Ethanol and ethane",
+        "Methane and methanol",
+        "Ethene and ethyne",
+        "Ethanol and dimethyl ether"
+      ],
+      "a": 3,
+      "e": "Ethanol and dimethyl ether have the same molecular formula but different bonds.",
+      "d": "Easy",
+      "topic": "Isomerism",
+      "slo": "Identify, describe or apply the concept of isomerism in organic chemistry.",
+      "id": "CHEM9CH13-156"
+    },
+    {
+      "q": "Which feature is identical for structural isomers?",
+      "o": [
+        "Functional group in all cases",
+        "Molecular formula",
+        "Structural formula",
+        "Boiling point in all cases"
+      ],
+      "a": 1,
+      "e": "Structural isomers share a molecular formula.",
+      "d": "Easy",
+      "topic": "Isomerism",
+      "slo": "Identify, describe or apply the concept of isomerism in organic chemistry.",
+      "id": "CHEM9CH13-157"
+    },
+    {
+      "q": "Why do structural isomers often have different physical properties?",
+      "o": [
+        "They always have different formulas",
+        "They have identical intermolecular forces",
+        "Their atoms are connected differently",
+        "They have different proton counts for the same element"
+      ],
+      "a": 2,
+      "e": "Connectivity affects molecular shape and intermolecular interactions.",
+      "d": "Medium",
+      "topic": "Isomerism",
+      "slo": "Identify, describe or apply the concept of isomerism in organic chemistry.",
+      "id": "CHEM9CH13-158"
+    },
+    {
+      "q": "What is chain isomerism?",
+      "o": [
+        "Different isotope ratios",
+        "Different arrangements of the carbon skeleton",
+        "Different oxidation states of metals",
+        "Different amounts of solvent"
+      ],
+      "a": 1,
+      "e": "Chain isomers have different carbon skeleton branching.",
+      "d": "Medium",
+      "topic": "Isomerism",
+      "slo": "Identify, describe or apply the concept of isomerism in organic chemistry.",
+      "id": "CHEM9CH13-159"
+    },
+    {
+      "q": "What is position isomerism?",
+      "o": [
+        "Same skeleton and group type but different group positions",
+        "Different molecular formulas",
+        "Different numbers of carbon atoms",
+        "Different elements"
+      ],
+      "a": 0,
+      "e": "A functional group or multiple bond occurs at different positions.",
+      "d": "Medium",
+      "topic": "Isomerism",
+      "slo": "Identify, describe or apply the concept of isomerism in organic chemistry.",
+      "id": "CHEM9CH13-160"
+    },
+    {
+      "q": "Which pair illustrates position isomerism?",
+      "o": [
+        "Propan-1-ol and propan-2-ol",
+        "Methane and ethane",
+        "Benzene and cyclohexane",
+        "Ethane and ethene"
+      ],
+      "a": 0,
+      "e": "The -OH group is on different carbon positions.",
+      "d": "Medium",
+      "topic": "Isomerism",
+      "slo": "Identify, describe or apply the concept of isomerism in organic chemistry.",
+      "id": "CHEM9CH13-161"
+    },
+    {
+      "q": "Which pair illustrates different functional groups with formula C3H6O?",
+      "o": [
+        "Ethanol and ethanoic acid",
+        "Propanal and propanone",
+        "Methane and methanol",
+        "Propane and propene"
+      ],
+      "a": 1,
+      "e": "Propanal is an aldehyde while propanone is a ketone.",
+      "d": "Easy",
+      "topic": "Isomerism",
+      "slo": "Identify, describe or apply the concept of isomerism in organic chemistry.",
+      "id": "CHEM9CH13-162"
+    },
+    {
+      "q": "How many carbon atoms are represented by the prefix eth-?",
+      "o": [
+        "3",
+        "4",
+        "5",
+        "2"
+      ],
+      "a": 3,
+      "e": "The prefix indicates 2 carbon atoms.",
+      "d": "Medium",
+      "topic": "Formula interpretation",
+      "slo": "Identify, describe or apply the concept of formula interpretation in organic chemistry.",
+      "id": "CHEM9CH13-163"
+    },
+    {
+      "q": "How many carbon atoms are represented by the prefix prop-?",
+      "o": [
+        "5",
+        "3",
+        "2",
+        "4"
+      ],
+      "a": 1,
+      "e": "The prefix indicates 3 carbon atoms.",
+      "d": "Medium",
+      "topic": "Formula interpretation",
+      "slo": "Identify, describe or apply the concept of formula interpretation in organic chemistry.",
+      "id": "CHEM9CH13-164"
+    },
+    {
+      "q": "How many carbon atoms are represented by the prefix but-?",
+      "o": [
+        "3",
+        "4",
+        "5",
+        "2"
+      ],
+      "a": 1,
+      "e": "The prefix indicates 4 carbon atoms.",
+      "d": "Medium",
+      "topic": "Formula interpretation",
+      "slo": "Identify, describe or apply the concept of formula interpretation in organic chemistry.",
+      "id": "CHEM9CH13-165"
+    },
+    {
+      "q": "How many carbon atoms are represented by the prefix pent-?",
+      "o": [
+        "5",
+        "2",
+        "4",
+        "3"
+      ],
+      "a": 0,
+      "e": "The prefix indicates 5 carbon atoms.",
+      "d": "Medium",
+      "topic": "Formula interpretation",
+      "slo": "Identify, describe or apply the concept of formula interpretation in organic chemistry.",
+      "id": "CHEM9CH13-166"
+    },
+    {
+      "q": "How many carbon atoms are represented by the prefix hex-?",
+      "o": [
+        "3",
+        "2",
+        "4",
+        "6"
+      ],
+      "a": 3,
+      "e": "The prefix indicates 6 carbon atoms.",
+      "d": "Medium",
+      "topic": "Formula interpretation",
+      "slo": "Identify, describe or apply the concept of formula interpretation in organic chemistry.",
+      "id": "CHEM9CH13-167"
+    },
+    {
+      "q": "How many carbon atoms are represented by the prefix hept-?",
+      "o": [
+        "7",
+        "4",
+        "3",
+        "2"
+      ],
+      "a": 0,
+      "e": "The prefix indicates 7 carbon atoms.",
+      "d": "Medium",
+      "topic": "Formula interpretation",
+      "slo": "Identify, describe or apply the concept of formula interpretation in organic chemistry.",
+      "id": "CHEM9CH13-168"
+    },
+    {
+      "q": "How many carbon atoms are represented by the prefix oct-?",
+      "o": [
+        "3",
+        "4",
+        "8",
+        "2"
+      ],
+      "a": 2,
+      "e": "The prefix indicates 8 carbon atoms.",
+      "d": "Easy",
+      "topic": "Formula interpretation",
+      "slo": "Identify, describe or apply the concept of formula interpretation in organic chemistry.",
+      "id": "CHEM9CH13-169"
+    },
+    {
+      "q": "How many carbon atoms are represented by the prefix non-?",
+      "o": [
+        "2",
+        "9",
+        "3",
+        "4"
+      ],
+      "a": 1,
+      "e": "The prefix indicates 9 carbon atoms.",
+      "d": "Medium",
+      "topic": "Formula interpretation",
+      "slo": "Identify, describe or apply the concept of formula interpretation in organic chemistry.",
+      "id": "CHEM9CH13-170"
+    },
+    {
+      "q": "How many carbon atoms are represented by the prefix dec-?",
+      "o": [
+        "4",
+        "10",
+        "2",
+        "3"
+      ],
+      "a": 1,
+      "e": "The prefix indicates 10 carbon atoms.",
+      "d": "Medium",
+      "topic": "Formula interpretation",
+      "slo": "Identify, describe or apply the concept of formula interpretation in organic chemistry.",
+      "id": "CHEM9CH13-171"
+    },
+    {
+      "q": "Which molecule is unsaturated?",
+      "o": [
+        "Ethene",
+        "Propane",
+        "Methane",
+        "Ethane"
+      ],
+      "a": 0,
+      "e": "Ethene contains a carbon-carbon double bond.",
+      "d": "Medium",
+      "topic": "Saturated and unsaturated",
+      "slo": "Identify, describe or apply the concept of saturated and unsaturated in organic chemistry.",
+      "id": "CHEM9CH13-172"
+    },
+    {
+      "q": "Which molecule is saturated?",
+      "o": [
+        "Propyne",
+        "Propane",
+        "Ethene",
+        "Propene"
+      ],
+      "a": 1,
+      "e": "Propane has only carbon-carbon single bonds.",
+      "d": "Medium",
+      "topic": "Saturated and unsaturated",
+      "slo": "Identify, describe or apply the concept of saturated and unsaturated in organic chemistry.",
+      "id": "CHEM9CH13-173"
+    },
+    {
+      "q": "Which feature makes an alkene chemically distinct from an alkane?",
+      "o": [
+        "A hydroxyl group",
+        "A metallic bond",
+        "An ionic lattice",
+        "A carbon-carbon double bond"
+      ],
+      "a": 3,
+      "e": "The C=C bond is the functional group of alkenes.",
+      "d": "Medium",
+      "topic": "Saturated and unsaturated",
+      "slo": "Identify, describe or apply the concept of saturated and unsaturated in organic chemistry.",
+      "id": "CHEM9CH13-174"
+    },
+    {
+      "q": "Which feature makes an alkyne chemically distinct from an alkene?",
+      "o": [
+        "A benzene ring in every molecule",
+        "A carbon-carbon triple bond",
+        "An amino group",
+        "A carboxyl group"
+      ],
+      "a": 1,
+      "e": "Alkynes contain C≡C bonds.",
+      "d": "Easy",
+      "topic": "Saturated and unsaturated",
+      "slo": "Identify, describe or apply the concept of saturated and unsaturated in organic chemistry.",
+      "id": "CHEM9CH13-175"
+    },
+    {
+      "q": "What is the condensed structural formula of ethane?",
+      "o": [
+        "CH3OH",
+        "CH3CHO",
+        "CH3CH3",
+        "CH2CH2"
+      ],
+      "a": 2,
+      "e": "Ethane contains two methyl groups joined by a single bond.",
+      "d": "Easy",
+      "topic": "Structural formulas",
+      "slo": "Identify, describe or apply the concept of structural formulas in organic chemistry.",
+      "id": "CHEM9CH13-176"
+    },
+    {
+      "q": "What is the condensed structural formula of ethene?",
+      "o": [
+        "CH≡CH",
+        "CH3OH",
+        "CH3CH3",
+        "CH2=CH2"
+      ],
+      "a": 3,
+      "e": "Ethene has a C=C double bond.",
+      "d": "Medium",
+      "topic": "Structural formulas",
+      "slo": "Identify, describe or apply the concept of structural formulas in organic chemistry.",
+      "id": "CHEM9CH13-177"
+    },
+    {
+      "q": "What is the condensed structural formula of ethyne?",
+      "o": [
+        "CH3CH3",
+        "CH2=CH2",
+        "HC≡CH",
+        "CH3CH2OH"
+      ],
+      "a": 2,
+      "e": "Ethyne has a C≡C triple bond.",
+      "d": "Medium",
+      "topic": "Structural formulas",
+      "slo": "Identify, describe or apply the concept of structural formulas in organic chemistry.",
+      "id": "CHEM9CH13-178"
+    },
+    {
+      "q": "What is the condensed structural formula of propane?",
+      "o": [
+        "CH3CH2CH3",
+        "CH3COOH",
+        "CH2=CH2",
+        "CH3CH3"
+      ],
+      "a": 0,
+      "e": "Propane is a three-carbon alkane.",
+      "d": "Easy",
+      "topic": "Structural formulas",
+      "slo": "Identify, describe or apply the concept of structural formulas in organic chemistry.",
+      "id": "CHEM9CH13-179"
+    },
+    {
+      "q": "What is the condensed structural formula of propene?",
+      "o": [
+        "CH3CH=CH2",
+        "CH3CHO",
+        "CH3CH2CH3",
+        "CH3CH2OH"
+      ],
+      "a": 0,
+      "e": "Propene is a three-carbon alkene.",
+      "d": "Easy",
+      "topic": "Structural formulas",
+      "slo": "Identify, describe or apply the concept of structural formulas in organic chemistry.",
+      "id": "CHEM9CH13-180"
+    },
+    {
+      "q": "What is the condensed structural formula of propan-1-ol?",
+      "o": [
+        "CH3CH=CH2",
+        "CH3COCH3",
+        "CH3CH2COOH",
+        "CH3CH2CH2OH"
+      ],
+      "a": 3,
+      "e": "Propan-1-ol has a terminal hydroxyl group.",
+      "d": "Medium",
+      "topic": "Structural formulas",
+      "slo": "Identify, describe or apply the concept of structural formulas in organic chemistry.",
+      "id": "CHEM9CH13-181"
+    },
+    {
+      "q": "What is the condensed structural formula of propan-2-ol?",
+      "o": [
+        "CH3CH2CH2OH",
+        "CH3CHOHCH3",
+        "CH3COOH",
+        "CH3CHO"
+      ],
+      "a": 1,
+      "e": "Propan-2-ol has -OH on the middle carbon.",
+      "d": "Medium",
+      "topic": "Structural formulas",
+      "slo": "Identify, describe or apply the concept of structural formulas in organic chemistry.",
+      "id": "CHEM9CH13-182"
+    },
+    {
+      "q": "What is the condensed structural formula of ethanoic acid?",
+      "o": [
+        "CH3CHO",
+        "CH3COOH",
+        "CH3OH",
+        "CH3OCH3"
+      ],
+      "a": 1,
+      "e": "Ethanoic acid contains the carboxyl group.",
+      "d": "Hard",
+      "topic": "Structural formulas",
+      "slo": "Identify, describe or apply the concept of structural formulas in organic chemistry.",
+      "id": "CHEM9CH13-183"
+    },
+    {
+      "q": "What is the condensed structural formula of methanal?",
+      "o": [
+        "CH3OH",
+        "HCHO",
+        "HCOOH",
+        "CH4"
+      ],
+      "a": 1,
+      "e": "Methanal is the simplest aldehyde.",
+      "d": "Easy",
+      "topic": "Structural formulas",
+      "slo": "Identify, describe or apply the concept of structural formulas in organic chemistry.",
+      "id": "CHEM9CH13-184"
+    },
+    {
+      "q": "What is the condensed structural formula of propanone?",
+      "o": [
+        "CH3COCH3",
+        "CH3CH2CHO",
+        "CH3COOH",
+        "CH3CH2OH"
+      ],
+      "a": 0,
+      "e": "Propanone is a three-carbon ketone.",
+      "d": "Medium",
+      "topic": "Structural formulas",
+      "slo": "Identify, describe or apply the concept of structural formulas in organic chemistry.",
+      "id": "CHEM9CH13-185"
+    },
+    {
+      "q": "Choose the correct answer: which element is the central element in organic chemistry?",
+      "o": [
+        "Neon",
+        "Carbon",
+        "Sodium",
+        "Chlorine"
+      ],
+      "a": 1,
+      "e": "Organic chemistry chiefly studies carbon compounds.",
+      "d": "Medium",
+      "topic": "Organic chemistry",
+      "slo": "Identify, describe or apply the concept of organic chemistry in organic chemistry.",
+      "id": "CHEM9CH13-186"
+    },
+    {
+      "q": "Choose the correct answer: which pair of elements occurs in all hydrocarbons?",
+      "o": [
+        "Hydrogen and nitrogen",
+        "Carbon and oxygen",
+        "Carbon and chlorine",
+        "Carbon and hydrogen"
+      ],
+      "a": 3,
+      "e": "Hydrocarbons contain only carbon and hydrogen.",
+      "d": "Medium",
+      "topic": "Organic chemistry",
+      "slo": "Identify, describe or apply the concept of organic chemistry in organic chemistry.",
+      "id": "CHEM9CH13-187"
+    },
+    {
+      "q": "Choose the correct answer: which property enables carbon to form long chains?",
+      "o": [
+        "Sublimation",
+        "Ionization",
+        "Electrolysis",
+        "Catenation"
+      ],
+      "a": 3,
+      "e": "Catenation is carbon bonding to other carbon atoms.",
+      "d": "Medium",
+      "topic": "Organic chemistry",
+      "slo": "Identify, describe or apply the concept of organic chemistry in organic chemistry.",
+      "id": "CHEM9CH13-188"
+    },
+    {
+      "q": "Choose the correct answer: how many covalent bonds can a neutral carbon atom normally form?",
+      "o": [
+        "Two",
+        "Four",
+        "Six",
+        "One"
+      ],
+      "a": 1,
+      "e": "Carbon is tetravalent and typically makes four covalent bonds.",
+      "d": "Medium",
+      "topic": "Organic chemistry",
+      "slo": "Identify, describe or apply the concept of organic chemistry in organic chemistry.",
+      "id": "CHEM9CH13-189"
+    },
+    {
+      "q": "Choose the correct answer: what is meant by tetravalency of carbon?",
+      "o": [
+        "Carbon can form four covalent bonds",
+        "Carbon forms only four compounds",
+        "Carbon has four occupied shells",
+        "Carbon forms four positive ions"
+      ],
+      "a": 0,
+      "e": "Tetravalency refers to four bonding valences.",
+      "d": "Easy",
+      "topic": "Organic chemistry",
+      "slo": "Identify, describe or apply the concept of organic chemistry in organic chemistry.",
+      "id": "CHEM9CH13-190"
+    },
+    {
+      "q": "Choose the correct answer: which bond primarily holds atoms together in most organic molecules?",
+      "o": [
+        "Ionic lattice bond",
+        "Covalent bond",
+        "Hydrogen bond only",
+        "Metallic bond"
+      ],
+      "a": 1,
+      "e": "Most organic molecules are covalently bonded.",
+      "d": "Medium",
+      "topic": "Organic chemistry",
+      "slo": "Identify, describe or apply the concept of organic chemistry in organic chemistry.",
+      "id": "CHEM9CH13-191"
+    },
+    {
+      "q": "Choose the correct answer: which feature contributes greatly to the enormous variety of organic compounds?",
+      "o": [
+        "Carbon forms chains, branches and rings",
+        "Carbon forms only ionic bonds",
+        "Carbon cannot bond to itself",
+        "Carbon has eight valence electrons"
+      ],
+      "a": 0,
+      "e": "Carbon catenation allows diverse molecular skeletons.",
+      "d": "Easy",
+      "topic": "Organic chemistry",
+      "slo": "Identify, describe or apply the concept of organic chemistry in organic chemistry.",
+      "id": "CHEM9CH13-192"
+    },
+    {
+      "q": "Choose the correct answer: what is a homologous series?",
+      "o": [
+        "A family with the same functional group and general formula",
+        "Compounds having identical molecular masses",
+        "A list of isotopes of carbon",
+        "All compounds containing oxygen"
+      ],
+      "a": 0,
+      "e": "Homologues share structural features and show gradation in properties.",
+      "d": "Hard",
+      "topic": "Organic chemistry",
+      "slo": "Identify, describe or apply the concept of organic chemistry in organic chemistry.",
+      "id": "CHEM9CH13-193"
+    },
+    {
+      "q": "Choose the correct answer: how do adjacent members of a homologous series differ?",
+      "o": [
+        "By a CO2 unit",
+        "By a CH2 unit",
+        "By an H2O unit",
+        "By an O2 unit"
+      ],
+      "a": 1,
+      "e": "Consecutive homologues differ by one methylene group, CH2.",
+      "d": "Medium",
+      "topic": "Homologous series",
+      "slo": "Identify, describe or apply the concept of homologous series in organic chemistry.",
+      "id": "CHEM9CH13-194"
+    },
+    {
+      "q": "Choose the correct answer: what is the difference in molar mass between consecutive homologues?",
+      "o": [
+        "14 g/mol",
+        "2 g/mol",
+        "12 g/mol",
+        "16 g/mol"
+      ],
+      "a": 0,
+      "e": "The CH2 increment has a mass of about 14 g/mol.",
+      "d": "Easy",
+      "topic": "Homologous series",
+      "slo": "Identify, describe or apply the concept of homologous series in organic chemistry.",
+      "id": "CHEM9CH13-195"
+    },
+    {
+      "q": "Choose the correct answer: which property is generally similar among members of the same homologous series?",
+      "o": [
+        "Boiling point",
+        "Physical state at room temperature",
+        "Chemical properties",
+        "Molecular mass"
+      ],
+      "a": 2,
+      "e": "The same functional group produces similar chemical behavior.",
+      "d": "Medium",
+      "topic": "Homologous series",
+      "slo": "Identify, describe or apply the concept of homologous series in organic chemistry.",
+      "id": "CHEM9CH13-196"
+    },
+    {
+      "q": "Choose the correct answer: what generally happens to boiling points of alkanes as chain length increases?",
+      "o": [
+        "They become zero",
+        "They always decrease",
+        "They remain exactly equal",
+        "They increase"
+      ],
+      "a": 3,
+      "e": "Larger molecules generally experience stronger London dispersion forces.",
+      "d": "Medium",
+      "topic": "Homologous series",
+      "slo": "Identify, describe or apply the concept of homologous series in organic chemistry.",
+      "id": "CHEM9CH13-197"
+    },
+    {
+      "q": "Choose the correct answer: what determines the characteristic chemical reactions of a homologous series?",
+      "o": [
+        "Its functional group",
+        "Its molecular mass alone",
+        "Its colour alone",
+        "Its melting point alone"
+      ],
+      "a": 0,
+      "e": "The functional group largely determines chemical reactivity.",
+      "d": "Easy",
+      "topic": "Homologous series",
+      "slo": "Identify, describe or apply the concept of homologous series in organic chemistry.",
+      "id": "CHEM9CH13-198"
+    },
+    {
+      "q": "Choose the correct answer: what information does a molecular formula provide?",
+      "o": [
+        "Actual numbers of each type of atom in one molecule",
+        "Only the arrangement of bonds",
+        "Only the molecular shape",
+        "Only the empirical ratio"
+      ],
+      "a": 0,
+      "e": "A molecular formula counts each element in a molecule.",
+      "d": "Hard",
+      "topic": "Molecular formulas",
+      "slo": "Identify, describe or apply the concept of molecular formulas in organic chemistry.",
+      "id": "CHEM9CH13-199"
+    },
+    {
+      "q": "Choose the correct answer: what does a structural formula show?",
+      "o": [
+        "Only the relative atomic masses",
+        "How atoms are connected in a molecule",
+        "Only the colour of the compound",
+        "Only the percentage composition"
+      ],
+      "a": 1,
+      "e": "Structural formulas indicate connectivity and bonds.",
+      "d": "Medium",
+      "topic": "Structural formulas",
+      "slo": "Identify, describe or apply the concept of structural formulas in organic chemistry.",
+      "id": "CHEM9CH13-200"
+    },
+    {
+      "q": "Choose the correct answer: what does a displayed structural formula explicitly represent?",
+      "o": [
+        "Only the physical state",
+        "Only the molecular formula",
+        "Individual bonds between atoms",
+        "Only the molar mass"
+      ],
+      "a": 2,
+      "e": "Displayed structures show bonds as lines.",
+      "d": "Medium",
+      "topic": "Structural formulas",
+      "slo": "Identify, describe or apply the concept of structural formulas in organic chemistry.",
+      "id": "CHEM9CH13-201"
+    },
+    {
+      "q": "Choose the correct answer: what is a condensed structural formula?",
+      "o": [
+        "A compact representation of atom groupings",
+        "A formula showing only isotopes",
+        "A formula showing only electrons",
+        "A formula without carbon symbols"
+      ],
+      "a": 0,
+      "e": "Condensed formulas group bonded atoms without drawing every bond.",
+      "d": "Medium",
+      "topic": "Structural formulas",
+      "slo": "Identify, describe or apply the concept of structural formulas in organic chemistry.",
+      "id": "CHEM9CH13-202"
+    },
+    {
+      "q": "Choose the correct answer: what does a straight line in a skeletal structural formula usually represent?",
+      "o": [
+        "A bond between carbon positions",
+        "An oxygen atom",
+        "A proton path",
+        "An ionic charge"
+      ],
+      "a": 0,
+      "e": "Skeletal line ends and vertices usually represent carbon atoms.",
+      "d": "Medium",
+      "topic": "Structural formulas",
+      "slo": "Identify, describe or apply the concept of structural formulas in organic chemistry.",
+      "id": "CHEM9CH13-203"
+    },
+    {
+      "q": "Choose the correct answer: in a skeletal formula, where are carbon atoms normally implied?",
+      "o": [
+        "At line ends and corners",
+        "Only where H is written",
+        "Only beside oxygen atoms",
+        "Only at double bonds"
+      ],
+      "a": 0,
+      "e": "Line ends and vertices stand for carbon atoms unless otherwise labeled.",
+      "d": "Easy",
+      "topic": "Structural formulas",
+      "slo": "Identify, describe or apply the concept of structural formulas in organic chemistry.",
+      "id": "CHEM9CH13-204"
+    },
+    {
+      "q": "Choose the correct answer: how are most hydrogens bonded to carbon shown in skeletal formulas?",
+      "o": [
+        "They are all drawn as dots",
+        "They are shown as free ions",
+        "They are replaced by oxygen",
+        "They are omitted and inferred from valency"
+      ],
+      "a": 3,
+      "e": "Hydrogens on carbon are usually implicit.",
+      "d": "Easy",
+      "topic": "Structural formulas",
+      "slo": "Identify, describe or apply the concept of structural formulas in organic chemistry.",
+      "id": "CHEM9CH13-205"
+    },
+    {
+      "q": "Choose the correct answer: which formula most clearly distinguishes constitutional isomers?",
+      "o": [
+        "Percentage composition",
+        "Structural formula",
+        "Molecular formula alone",
+        "Empirical formula"
+      ],
+      "a": 1,
+      "e": "Different connectivities are apparent in structural representations.",
+      "d": "Medium",
+      "topic": "Structural formulas",
+      "slo": "Identify, describe or apply the concept of structural formulas in organic chemistry.",
+      "id": "CHEM9CH13-206"
+    },
+    {
+      "q": "Choose the correct answer: what is a saturated hydrocarbon?",
+      "o": [
+        "A hydrocarbon with no hydrogen",
+        "A hydrocarbon with only triple bonds",
+        "A hydrocarbon with only carbon-carbon single bonds",
+        "A hydrocarbon containing oxygen"
+      ],
+      "a": 2,
+      "e": "Saturated hydrocarbons contain no C=C or C≡C bonds.",
+      "d": "Medium",
+      "topic": "Hydrocarbon classification",
+      "slo": "Identify, describe or apply the concept of hydrocarbon classification in organic chemistry.",
+      "id": "CHEM9CH13-207"
+    },
+    {
+      "q": "Choose the correct answer: what is an unsaturated hydrocarbon?",
+      "o": [
+        "A hydrocarbon containing only single bonds",
+        "A hydrocarbon containing at least one C=C or C≡C bond",
+        "A hydrocarbon with only ionic bonds",
+        "A compound containing no carbon"
+      ],
+      "a": 1,
+      "e": "Double or triple carbon bonds make a hydrocarbon unsaturated.",
+      "d": "Hard",
+      "topic": "Hydrocarbon classification",
+      "slo": "Identify, describe or apply the concept of hydrocarbon classification in organic chemistry.",
+      "id": "CHEM9CH13-208"
+    },
+    {
+      "q": "Choose the correct answer: which family contains only C-C single bonds?",
+      "o": [
+        "Alkanes",
+        "Alkynes",
+        "Alkenynes",
+        "Alkenes"
+      ],
+      "a": 0,
+      "e": "Alkanes are saturated hydrocarbons.",
+      "d": "Medium",
+      "topic": "Hydrocarbon classification",
+      "slo": "Identify, describe or apply the concept of hydrocarbon classification in organic chemistry.",
+      "id": "CHEM9CH13-209"
+    },
+    {
+      "q": "Choose the correct answer: which family contains a carbon-carbon double bond?",
+      "o": [
+        "Alkynes",
+        "Alcohols",
+        "Alkenes",
+        "Alkanes"
+      ],
+      "a": 2,
+      "e": "Alkenes contain at least one C=C bond.",
+      "d": "Medium",
+      "topic": "Hydrocarbon classification",
+      "slo": "Identify, describe or apply the concept of hydrocarbon classification in organic chemistry.",
+      "id": "CHEM9CH13-210"
+    },
+    {
+      "q": "Choose the correct answer: which family contains a carbon-carbon triple bond?",
+      "o": [
+        "Alkynes",
+        "Alkenes",
+        "Aldehydes",
+        "Alkanes"
+      ],
+      "a": 0,
+      "e": "Alkynes contain at least one C≡C bond.",
+      "d": "Medium",
+      "topic": "Hydrocarbon classification",
+      "slo": "Identify, describe or apply the concept of hydrocarbon classification in organic chemistry.",
+      "id": "CHEM9CH13-211"
+    },
+    {
+      "q": "Choose the correct answer: which bond is present in ethene but not ethane?",
+      "o": [
+        "Carbon-carbon triple bond",
+        "Ionic bond",
+        "Oxygen-hydrogen bond",
+        "Carbon-carbon double bond"
+      ],
+      "a": 3,
+      "e": "Ethene contains C=C; ethane has only C-C single bonds.",
+      "d": "Easy",
+      "topic": "Hydrocarbon classification",
+      "slo": "Identify, describe or apply the concept of hydrocarbon classification in organic chemistry.",
+      "id": "CHEM9CH13-212"
+    },
+    {
+      "q": "Choose the correct answer: which bond is characteristic of ethyne?",
+      "o": [
+        "Carbon-carbon single bond only",
+        "Nitrogen-hydrogen bond",
+        "Carbon-oxygen double bond",
+        "Carbon-carbon triple bond"
+      ],
+      "a": 3,
+      "e": "Ethyne is the simplest alkyne.",
+      "d": "Medium",
+      "topic": "Hydrocarbon classification",
+      "slo": "Identify, describe or apply the concept of hydrocarbon classification in organic chemistry.",
+      "id": "CHEM9CH13-213"
+    },
+    {
+      "q": "Choose the correct answer: which class of organic compounds contains a ring of carbon atoms?",
+      "o": [
+        "Only noble gases",
+        "Only acyclic compounds",
+        "Only ionic compounds",
+        "Cyclic compounds"
+      ],
+      "a": 3,
+      "e": "Cyclic compounds have closed-chain carbon frameworks.",
+      "d": "Medium",
+      "topic": "Hydrocarbon classification",
+      "slo": "Identify, describe or apply the concept of hydrocarbon classification in organic chemistry.",
+      "id": "CHEM9CH13-214"
+    },
+    {
+      "q": "Choose the correct answer: which description applies to an open-chain compound?",
+      "o": [
+        "It has no covalent bonds",
+        "It must contain oxygen",
+        "Its carbon skeleton does not form a closed ring",
+        "Its carbon skeleton is always a benzene ring"
+      ],
+      "a": 2,
+      "e": "Open-chain compounds may be straight or branched.",
+      "d": "Hard",
+      "topic": "Hydrocarbon classification",
+      "slo": "Identify, describe or apply the concept of hydrocarbon classification in organic chemistry.",
+      "id": "CHEM9CH13-215"
+    },
+    {
+      "q": "Choose the correct answer: which compound is an aromatic hydrocarbon?",
+      "o": [
+        "Ethane",
+        "Ethyne",
+        "Benzene",
+        "Propane"
+      ],
+      "a": 2,
+      "e": "Benzene is the standard example of an aromatic hydrocarbon.",
+      "d": "Medium",
+      "topic": "Hydrocarbon classification",
+      "slo": "Identify, describe or apply the concept of hydrocarbon classification in organic chemistry.",
+      "id": "CHEM9CH13-216"
+    },
+    {
+      "q": "Choose the correct answer: what is the molecular formula of benzene?",
+      "o": [
+        "C6H6",
+        "C2H6",
+        "C6H12",
+        "C6H14"
+      ],
+      "a": 0,
+      "e": "Benzene has six carbons and six hydrogens.",
+      "d": "Easy",
+      "topic": "Hydrocarbon classification",
+      "slo": "Identify, describe or apply the concept of hydrocarbon classification in organic chemistry.",
+      "id": "CHEM9CH13-217"
+    },
+    {
+      "q": "Choose the correct answer: how many carbon atoms are in a benzene ring?",
+      "o": [
+        "Four",
+        "Six",
+        "Three",
+        "Eight"
+      ],
+      "a": 1,
+      "e": "The benzene ring contains six carbon atoms.",
+      "d": "Medium",
+      "topic": "Hydrocarbon classification",
+      "slo": "Identify, describe or apply the concept of hydrocarbon classification in organic chemistry.",
+      "id": "CHEM9CH13-218"
+    },
+    {
+      "q": "Choose the correct answer: which is a branched-chain hydrocarbon?",
+      "o": [
+        "2-methylpropane",
+        "Cyclohexane",
+        "Ethene",
+        "n-butane"
+      ],
+      "a": 0,
+      "e": "2-methylpropane has a branched carbon skeleton.",
+      "d": "Medium",
+      "topic": "Hydrocarbon classification",
+      "slo": "Identify, describe or apply the concept of hydrocarbon classification in organic chemistry.",
+      "id": "CHEM9CH13-219"
+    },
+    {
+      "q": "Choose the correct answer: which is a straight-chain hydrocarbon?",
+      "o": [
+        "2,2-dimethylpropane",
+        "Cyclopentane",
+        "n-pentane",
+        "2-methylbutane"
+      ],
+      "a": 2,
+      "e": "n-pentane has an unbranched five-carbon chain.",
+      "d": "Easy",
+      "topic": "Hydrocarbon classification",
+      "slo": "Identify, describe or apply the concept of hydrocarbon classification in organic chemistry.",
+      "id": "CHEM9CH13-220"
+    },
+    {
+      "q": "Choose the correct answer: what does the prefix cyclo- indicate in a hydrocarbon name?",
+      "o": [
+        "An ionic compound",
+        "A triple bond",
+        "An oxygen group",
+        "A ring structure"
+      ],
+      "a": 3,
+      "e": "Cyclo- denotes a closed carbon chain.",
+      "d": "Hard",
+      "topic": "Hydrocarbon classification",
+      "slo": "Identify, describe or apply the concept of hydrocarbon classification in organic chemistry.",
+      "id": "CHEM9CH13-221"
+    },
+    {
+      "q": "Choose the correct answer: which compound is cyclic but not aromatic?",
+      "o": [
+        "Toluene",
+        "Benzene",
+        "Naphthalene",
+        "Cyclohexane"
+      ],
+      "a": 3,
+      "e": "Cyclohexane is an alicyclic saturated hydrocarbon.",
+      "d": "Hard",
+      "topic": "Hydrocarbon classification",
+      "slo": "Identify, describe or apply the concept of hydrocarbon classification in organic chemistry.",
+      "id": "CHEM9CH13-222"
+    },
+    {
+      "q": "Choose the correct answer: what is the simplest aromatic hydrocarbon?",
+      "o": [
+        "Ethane",
+        "Benzene",
+        "Methane",
+        "Propane"
+      ],
+      "a": 1,
+      "e": "Benzene is the parent aromatic hydrocarbon.",
+      "d": "Medium",
+      "topic": "Hydrocarbon classification",
+      "slo": "Identify, describe or apply the concept of hydrocarbon classification in organic chemistry.",
+      "id": "CHEM9CH13-223"
+    },
+    {
+      "q": "Choose the correct answer: which description fits an aliphatic hydrocarbon?",
+      "o": [
+        "Any compound containing nitrogen",
+        "Only a benzene derivative",
+        "A non-aromatic hydrocarbon",
+        "Any salt of carbon"
+      ],
+      "a": 2,
+      "e": "Aliphatic hydrocarbons are non-aromatic and may be open-chain or alicyclic.",
+      "d": "Easy",
+      "topic": "Hydrocarbon classification",
+      "slo": "Identify, describe or apply the concept of hydrocarbon classification in organic chemistry.",
+      "id": "CHEM9CH13-224"
+    },
+    {
+      "q": "Choose the correct answer: what is the molecular formula of methane?",
+      "o": [
+        "CH2",
+        "CH",
+        "CH4",
+        "CH6"
+      ],
+      "a": 2,
+      "e": "Methane is an alkane; acyclic alkanes follow CnH2n+2.",
+      "d": "Medium",
+      "topic": "Alkane formulas",
+      "slo": "Identify, describe or apply the concept of alkane formulas in organic chemistry.",
+      "id": "CHEM9CH13-225"
+    },
+    {
+      "q": "Choose the correct answer: how many hydrogen atoms are present in one molecule of methane?",
+      "o": [
+        "6",
+        "0",
+        "4",
+        "2"
+      ],
+      "a": 2,
+      "e": "For an alkane with 1 carbon atoms, H = 2(1) + 2 = 4.",
+      "d": "Medium",
+      "topic": "Alkane formulas",
+      "slo": "Identify, describe or apply the concept of alkane formulas in organic chemistry.",
+      "id": "CHEM9CH13-226"
+    },
+    {
+      "q": "Choose the correct answer: what is the molecular formula of ethane?",
+      "o": [
+        "C2H8",
+        "C2H2",
+        "C2H4",
+        "C2H6"
+      ],
+      "a": 3,
+      "e": "Ethane is an alkane; acyclic alkanes follow CnH2n+2.",
+      "d": "Easy",
+      "topic": "Alkane formulas",
+      "slo": "Identify, describe or apply the concept of alkane formulas in organic chemistry.",
+      "id": "CHEM9CH13-227"
+    },
+    {
+      "q": "Choose the correct answer: how many hydrogen atoms are present in one molecule of ethane?",
+      "o": [
+        "2",
+        "6",
+        "8",
+        "4"
+      ],
+      "a": 1,
+      "e": "For an alkane with 2 carbon atoms, H = 2(2) + 2 = 6.",
+      "d": "Easy",
+      "topic": "Alkane formulas",
+      "slo": "Identify, describe or apply the concept of alkane formulas in organic chemistry.",
+      "id": "CHEM9CH13-228"
+    },
+    {
+      "q": "Choose the correct answer: what is the molecular formula of propane?",
+      "o": [
+        "C3H8",
+        "C3H4",
+        "C3H6",
+        "C3H10"
+      ],
+      "a": 0,
+      "e": "Propane is an alkane; acyclic alkanes follow CnH2n+2.",
+      "d": "Medium",
+      "topic": "Alkane formulas",
+      "slo": "Identify, describe or apply the concept of alkane formulas in organic chemistry.",
+      "id": "CHEM9CH13-229"
+    },
+    {
+      "q": "Choose the correct answer: how many hydrogen atoms are present in one molecule of propane?",
+      "o": [
+        "10",
+        "6",
+        "4",
+        "8"
+      ],
+      "a": 3,
+      "e": "For an alkane with 3 carbon atoms, H = 2(3) + 2 = 8.",
+      "d": "Medium",
+      "topic": "Alkane formulas",
+      "slo": "Identify, describe or apply the concept of alkane formulas in organic chemistry.",
+      "id": "CHEM9CH13-230"
+    },
+    {
+      "q": "Choose the correct answer: what is the molecular formula of butane?",
+      "o": [
+        "C4H6",
+        "C4H10",
+        "C4H8",
+        "C4H12"
+      ],
+      "a": 1,
+      "e": "Butane is an alkane; acyclic alkanes follow CnH2n+2.",
+      "d": "Medium",
+      "topic": "Alkane formulas",
+      "slo": "Identify, describe or apply the concept of alkane formulas in organic chemistry.",
+      "id": "CHEM9CH13-231"
+    },
+    {
+      "q": "Choose the correct answer: how many hydrogen atoms are present in one molecule of butane?",
+      "o": [
+        "12",
+        "8",
+        "6",
+        "10"
+      ],
+      "a": 3,
+      "e": "For an alkane with 4 carbon atoms, H = 2(4) + 2 = 10.",
+      "d": "Medium",
+      "topic": "Alkane formulas",
+      "slo": "Identify, describe or apply the concept of alkane formulas in organic chemistry.",
+      "id": "CHEM9CH13-232"
+    },
+    {
+      "q": "Choose the correct answer: what is the molecular formula of pentane?",
+      "o": [
+        "C5H12",
+        "C5H14",
+        "C5H8",
+        "C5H10"
+      ],
+      "a": 0,
+      "e": "Pentane is an alkane; acyclic alkanes follow CnH2n+2.",
+      "d": "Hard",
+      "topic": "Alkane formulas",
+      "slo": "Identify, describe or apply the concept of alkane formulas in organic chemistry.",
+      "id": "CHEM9CH13-233"
+    },
+    {
+      "q": "Choose the correct answer: how many hydrogen atoms are present in one molecule of pentane?",
+      "o": [
+        "12",
+        "14",
+        "8",
+        "10"
+      ],
+      "a": 0,
+      "e": "For an alkane with 5 carbon atoms, H = 2(5) + 2 = 12.",
+      "d": "Easy",
+      "topic": "Alkane formulas",
+      "slo": "Identify, describe or apply the concept of alkane formulas in organic chemistry.",
+      "id": "CHEM9CH13-234"
+    },
+    {
+      "q": "Choose the correct answer: what is the molecular formula of hexane?",
+      "o": [
+        "C6H12",
+        "C6H10",
+        "C6H16",
+        "C6H14"
+      ],
+      "a": 3,
+      "e": "Hexane is an alkane; acyclic alkanes follow CnH2n+2.",
+      "d": "Hard",
+      "topic": "Alkane formulas",
+      "slo": "Identify, describe or apply the concept of alkane formulas in organic chemistry.",
+      "id": "CHEM9CH13-235"
+    },
+    {
+      "q": "Choose the correct answer: how many hydrogen atoms are present in one molecule of hexane?",
+      "o": [
+        "12",
+        "10",
+        "14",
+        "16"
+      ],
+      "a": 2,
+      "e": "For an alkane with 6 carbon atoms, H = 2(6) + 2 = 14.",
+      "d": "Easy",
+      "topic": "Alkane formulas",
+      "slo": "Identify, describe or apply the concept of alkane formulas in organic chemistry.",
+      "id": "CHEM9CH13-236"
+    },
+    {
+      "q": "Choose the correct answer: what is the molecular formula of heptane?",
+      "o": [
+        "C7H12",
+        "C7H14",
+        "C7H18",
+        "C7H16"
+      ],
+      "a": 3,
+      "e": "Heptane is an alkane; acyclic alkanes follow CnH2n+2.",
+      "d": "Easy",
+      "topic": "Alkane formulas",
+      "slo": "Identify, describe or apply the concept of alkane formulas in organic chemistry.",
+      "id": "CHEM9CH13-237"
+    },
+    {
+      "q": "Choose the correct answer: how many hydrogen atoms are present in one molecule of heptane?",
+      "o": [
+        "14",
+        "18",
+        "16",
+        "12"
+      ],
+      "a": 2,
+      "e": "For an alkane with 7 carbon atoms, H = 2(7) + 2 = 16.",
+      "d": "Medium",
+      "topic": "Alkane formulas",
+      "slo": "Identify, describe or apply the concept of alkane formulas in organic chemistry.",
+      "id": "CHEM9CH13-238"
+    },
+    {
+      "q": "Choose the correct answer: what is the molecular formula of octane?",
+      "o": [
+        "C8H16",
+        "C8H18",
+        "C8H14",
+        "C8H20"
+      ],
+      "a": 1,
+      "e": "Octane is an alkane; acyclic alkanes follow CnH2n+2.",
+      "d": "Easy",
+      "topic": "Alkane formulas",
+      "slo": "Identify, describe or apply the concept of alkane formulas in organic chemistry.",
+      "id": "CHEM9CH13-239"
+    },
+    {
+      "q": "Choose the correct answer: how many hydrogen atoms are present in one molecule of octane?",
+      "o": [
+        "16",
+        "14",
+        "18",
+        "20"
+      ],
+      "a": 2,
+      "e": "For an alkane with 8 carbon atoms, H = 2(8) + 2 = 18.",
+      "d": "Medium",
+      "topic": "Alkane formulas",
+      "slo": "Identify, describe or apply the concept of alkane formulas in organic chemistry.",
+      "id": "CHEM9CH13-240"
+    },
+    {
+      "q": "Choose the correct answer: what is the molecular formula of nonane?",
+      "o": [
+        "C9H16",
+        "C9H18",
+        "C9H20",
+        "C9H22"
+      ],
+      "a": 2,
+      "e": "Nonane is an alkane; acyclic alkanes follow CnH2n+2.",
+      "d": "Medium",
+      "topic": "Alkane formulas",
+      "slo": "Identify, describe or apply the concept of alkane formulas in organic chemistry.",
+      "id": "CHEM9CH13-241"
+    },
+    {
+      "q": "Choose the correct answer: how many hydrogen atoms are present in one molecule of nonane?",
+      "o": [
+        "20",
+        "22",
+        "18",
+        "16"
+      ],
+      "a": 0,
+      "e": "For an alkane with 9 carbon atoms, H = 2(9) + 2 = 20.",
+      "d": "Easy",
+      "topic": "Alkane formulas",
+      "slo": "Identify, describe or apply the concept of alkane formulas in organic chemistry.",
+      "id": "CHEM9CH13-242"
+    },
+    {
+      "q": "Choose the correct answer: what is the molecular formula of decane?",
+      "o": [
+        "C10H18",
+        "C10H20",
+        "C10H24",
+        "C10H22"
+      ],
+      "a": 3,
+      "e": "Decane is an alkane; acyclic alkanes follow CnH2n+2.",
+      "d": "Hard",
+      "topic": "Alkane formulas",
+      "slo": "Identify, describe or apply the concept of alkane formulas in organic chemistry.",
+      "id": "CHEM9CH13-243"
+    },
+    {
+      "q": "Choose the correct answer: how many hydrogen atoms are present in one molecule of decane?",
+      "o": [
+        "20",
+        "22",
+        "18",
+        "24"
+      ],
+      "a": 1,
+      "e": "For an alkane with 10 carbon atoms, H = 2(10) + 2 = 22.",
+      "d": "Medium",
+      "topic": "Alkane formulas",
+      "slo": "Identify, describe or apply the concept of alkane formulas in organic chemistry.",
+      "id": "CHEM9CH13-244"
+    },
+    {
+      "q": "Choose the correct answer: what is the formula of an acyclic monoalkene named ethene?",
+      "o": [
+        "C2H8",
+        "C2H2",
+        "C2H6",
+        "C2H4"
+      ],
+      "a": 3,
+      "e": "Acyclic monoalkenes follow CnH2n; ethene has 2 carbons.",
+      "d": "Easy",
+      "topic": "Alkene formulas",
+      "slo": "Identify, describe or apply the concept of alkene formulas in organic chemistry.",
+      "id": "CHEM9CH13-245"
+    },
+    {
+      "q": "Choose the correct answer: what is the formula of an acyclic monoalkene named propene?",
+      "o": [
+        "C3H8",
+        "C3H6",
+        "C3H4",
+        "C3H10"
+      ],
+      "a": 1,
+      "e": "Acyclic monoalkenes follow CnH2n; propene has 3 carbons.",
+      "d": "Easy",
+      "topic": "Alkene formulas",
+      "slo": "Identify, describe or apply the concept of alkene formulas in organic chemistry.",
+      "id": "CHEM9CH13-246"
+    },
+    {
+      "q": "Choose the correct answer: what is the formula of an acyclic monoalkene named butene?",
+      "o": [
+        "C4H8",
+        "C4H6",
+        "C4H12",
+        "C4H10"
+      ],
+      "a": 0,
+      "e": "Acyclic monoalkenes follow CnH2n; butene has 4 carbons.",
+      "d": "Medium",
+      "topic": "Alkene formulas",
+      "slo": "Identify, describe or apply the concept of alkene formulas in organic chemistry.",
+      "id": "CHEM9CH13-247"
+    },
+    {
+      "q": "Choose the correct answer: what is the formula of an acyclic monoalkene named pentene?",
+      "o": [
+        "C5H12",
+        "C5H10",
+        "C5H14",
+        "C5H8"
+      ],
+      "a": 1,
+      "e": "Acyclic monoalkenes follow CnH2n; pentene has 5 carbons.",
+      "d": "Medium",
+      "topic": "Alkene formulas",
+      "slo": "Identify, describe or apply the concept of alkene formulas in organic chemistry.",
+      "id": "CHEM9CH13-248"
+    },
+    {
+      "q": "Choose the correct answer: what is the formula of an acyclic monoalkene named hexene?",
+      "o": [
+        "C6H14",
+        "C6H10",
+        "C6H12",
+        "C6H16"
+      ],
+      "a": 2,
+      "e": "Acyclic monoalkenes follow CnH2n; hexene has 6 carbons.",
+      "d": "Medium",
+      "topic": "Alkene formulas",
+      "slo": "Identify, describe or apply the concept of alkene formulas in organic chemistry.",
+      "id": "CHEM9CH13-249"
+    },
+    {
+      "q": "Choose the correct answer: what is the formula of an acyclic monoalkene named heptene?",
+      "o": [
+        "C7H14",
+        "C7H18",
+        "C7H16",
+        "C7H12"
+      ],
+      "a": 0,
+      "e": "Acyclic monoalkenes follow CnH2n; heptene has 7 carbons.",
+      "d": "Easy",
+      "topic": "Alkene formulas",
+      "slo": "Identify, describe or apply the concept of alkene formulas in organic chemistry.",
+      "id": "CHEM9CH13-250"
+    },
+    {
+      "q": "Choose the correct answer: what is the formula of an acyclic monoalkene named octene?",
+      "o": [
+        "C8H14",
+        "C8H18",
+        "C8H16",
+        "C8H20"
+      ],
+      "a": 2,
+      "e": "Acyclic monoalkenes follow CnH2n; octene has 8 carbons.",
+      "d": "Easy",
+      "topic": "Alkene formulas",
+      "slo": "Identify, describe or apply the concept of alkene formulas in organic chemistry.",
+      "id": "CHEM9CH13-251"
+    },
+    {
+      "q": "Choose the correct answer: what is the formula of an acyclic monoalkyne named ethyne?",
+      "o": [
+        "C2H4",
+        "C2H2",
+        "C2H6",
+        "C2H8"
+      ],
+      "a": 1,
+      "e": "Acyclic monoalkynes follow CnH2n-2; ethyne has 2 carbons.",
+      "d": "Easy",
+      "topic": "Alkyne formulas",
+      "slo": "Identify, describe or apply the concept of alkyne formulas in organic chemistry.",
+      "id": "CHEM9CH13-252"
+    },
+    {
+      "q": "Choose the correct answer: what is the formula of an acyclic monoalkyne named propyne?",
+      "o": [
+        "C3H4",
+        "C3H8",
+        "C3H6",
+        "C3H10"
+      ],
+      "a": 0,
+      "e": "Acyclic monoalkynes follow CnH2n-2; propyne has 3 carbons.",
+      "d": "Easy",
+      "topic": "Alkyne formulas",
+      "slo": "Identify, describe or apply the concept of alkyne formulas in organic chemistry.",
+      "id": "CHEM9CH13-253"
+    },
+    {
+      "q": "Choose the correct answer: what is the formula of an acyclic monoalkyne named butyne?",
+      "o": [
+        "C4H8",
+        "C4H10",
+        "C4H6",
+        "C4H12"
+      ],
+      "a": 2,
+      "e": "Acyclic monoalkynes follow CnH2n-2; butyne has 4 carbons.",
+      "d": "Hard",
+      "topic": "Alkyne formulas",
+      "slo": "Identify, describe or apply the concept of alkyne formulas in organic chemistry.",
+      "id": "CHEM9CH13-254"
+    },
+    {
+      "q": "Choose the correct answer: what is the formula of an acyclic monoalkyne named pentyne?",
+      "o": [
+        "C5H12",
+        "C5H14",
+        "C5H8",
+        "C5H10"
+      ],
+      "a": 2,
+      "e": "Acyclic monoalkynes follow CnH2n-2; pentyne has 5 carbons.",
+      "d": "Hard",
+      "topic": "Alkyne formulas",
+      "slo": "Identify, describe or apply the concept of alkyne formulas in organic chemistry.",
+      "id": "CHEM9CH13-255"
+    },
+    {
+      "q": "Choose the correct answer: what is the formula of an acyclic monoalkyne named hexyne?",
+      "o": [
+        "C6H12",
+        "C6H14",
+        "C6H10",
+        "C6H16"
+      ],
+      "a": 2,
+      "e": "Acyclic monoalkynes follow CnH2n-2; hexyne has 6 carbons.",
+      "d": "Easy",
+      "topic": "Alkyne formulas",
+      "slo": "Identify, describe or apply the concept of alkyne formulas in organic chemistry.",
+      "id": "CHEM9CH13-256"
+    },
+    {
+      "q": "Choose the correct answer: which general formula describes acyclic alkanes?",
+      "o": [
+        "CnH2n+4",
+        "CnH2n",
+        "CnH2n+2",
+        "CnH2n-2"
+      ],
+      "a": 2,
+      "e": "Acyclic saturated alkanes have formula CnH2n+2.",
+      "d": "Medium",
+      "topic": "Homologous series",
+      "slo": "Identify, describe or apply the concept of homologous series in organic chemistry.",
+      "id": "CHEM9CH13-257"
+    },
+    {
+      "q": "Choose the correct answer: which general formula describes acyclic alkenes with one double bond?",
+      "o": [
+        "CnH2n+4",
+        "CnH2n",
+        "CnH2n-2",
+        "CnH2n+2"
+      ],
+      "a": 1,
+      "e": "Acyclic monoalkenes have formula CnH2n.",
+      "d": "Medium",
+      "topic": "Homologous series",
+      "slo": "Identify, describe or apply the concept of homologous series in organic chemistry.",
+      "id": "CHEM9CH13-258"
+    },
+    {
+      "q": "Choose the correct answer: which general formula describes acyclic alkynes with one triple bond?",
+      "o": [
+        "CnH2n",
+        "CnH2n-2",
+        "CnH2n+4",
+        "CnH2n+2"
+      ],
+      "a": 1,
+      "e": "Acyclic monoalkynes have formula CnH2n-2.",
+      "d": "Hard",
+      "topic": "Homologous series",
+      "slo": "Identify, describe or apply the concept of homologous series in organic chemistry.",
+      "id": "CHEM9CH13-259"
+    },
+    {
+      "q": "Choose the correct answer: which formula can represent an acyclic alkene with one double bond?",
+      "o": [
+        "C4H12",
+        "C4H6",
+        "C4H8",
+        "C4H10"
+      ],
+      "a": 2,
+      "e": "Acyclic monoalkenes follow CnH2n.",
+      "d": "Medium",
+      "topic": "Hydrocarbon classification",
+      "slo": "Identify, describe or apply the concept of hydrocarbon classification in organic chemistry.",
+      "id": "CHEM9CH13-260"
+    },
+    {
+      "q": "Choose the correct answer: which formula can represent an acyclic alkyne with one triple bond?",
+      "o": [
+        "C4H12",
+        "C4H8",
+        "C4H10",
+        "C4H6"
+      ],
+      "a": 3,
+      "e": "Acyclic monoalkynes follow CnH2n-2.",
+      "d": "Medium",
+      "topic": "Hydrocarbon classification",
+      "slo": "Identify, describe or apply the concept of hydrocarbon classification in organic chemistry.",
+      "id": "CHEM9CH13-261"
+    },
+    {
+      "q": "Choose the correct answer: which formula represents a saturated acyclic hydrocarbon?",
+      "o": [
+        "C5H6",
+        "C5H8",
+        "C5H12",
+        "C5H10"
+      ],
+      "a": 2,
+      "e": "Acyclic alkanes follow CnH2n+2.",
+      "d": "Easy",
+      "topic": "Hydrocarbon classification",
+      "slo": "Identify, describe or apply the concept of hydrocarbon classification in organic chemistry.",
+      "id": "CHEM9CH13-262"
+    },
+    {
+      "q": "Choose the correct answer: which is the first member of the alkane series?",
+      "o": [
+        "Ethene",
+        "Ethyne",
+        "Ethane",
+        "Methane"
+      ],
+      "a": 3,
+      "e": "Methane, CH4, is the smallest alkane.",
+      "d": "Easy",
+      "topic": "Hydrocarbon classification",
+      "slo": "Identify, describe or apply the concept of hydrocarbon classification in organic chemistry.",
+      "id": "CHEM9CH13-263"
+    },
+    {
+      "q": "Choose the correct answer: which is the first member of the alkene series?",
+      "o": [
+        "Ethane",
+        "Propane",
+        "Methane",
+        "Ethene"
+      ],
+      "a": 3,
+      "e": "At least two carbons are needed to form a C=C bond.",
+      "d": "Medium",
+      "topic": "Hydrocarbon classification",
+      "slo": "Identify, describe or apply the concept of hydrocarbon classification in organic chemistry.",
+      "id": "CHEM9CH13-264"
+    },
+    {
+      "q": "Choose the correct answer: which is the first member of the alkyne series?",
+      "o": [
+        "Ethene",
+        "Propane",
+        "Ethyne",
+        "Methane"
+      ],
+      "a": 2,
+      "e": "At least two carbons are needed for a C≡C bond.",
+      "d": "Medium",
+      "topic": "Hydrocarbon classification",
+      "slo": "Identify, describe or apply the concept of hydrocarbon classification in organic chemistry.",
+      "id": "CHEM9CH13-265"
+    },
+    {
+      "q": "Choose the correct answer: what is the molecular formula of cyclohexane?",
+      "o": [
+        "C6H10",
+        "C6H6",
+        "C6H12",
+        "C6H14"
+      ],
+      "a": 2,
+      "e": "A saturated monocyclic hydrocarbon has formula CnH2n.",
+      "d": "Easy",
+      "topic": "Hydrocarbon classification",
+      "slo": "Identify, describe or apply the concept of hydrocarbon classification in organic chemistry.",
+      "id": "CHEM9CH13-266"
+    },
+    {
+      "q": "Choose the correct answer: what is the molecular formula of cyclopropane?",
+      "o": [
+        "C3H8",
+        "C3H2",
+        "C3H4",
+        "C3H6"
+      ],
+      "a": 3,
+      "e": "Cyclopropane has a three-membered saturated carbon ring.",
+      "d": "Hard",
+      "topic": "Hydrocarbon classification",
+      "slo": "Identify, describe or apply the concept of hydrocarbon classification in organic chemistry.",
+      "id": "CHEM9CH13-267"
+    },
+    {
+      "q": "Choose the correct answer: what is the molecular formula of cyclobutane?",
+      "o": [
+        "C4H8",
+        "C4H12",
+        "C4H6",
+        "C4H10"
+      ],
+      "a": 0,
+      "e": "A saturated monocyclic hydrocarbon has formula CnH2n.",
+      "d": "Medium",
+      "topic": "Hydrocarbon classification",
+      "slo": "Identify, describe or apply the concept of hydrocarbon classification in organic chemistry.",
+      "id": "CHEM9CH13-268"
+    },
+    {
+      "q": "Choose the correct answer: which functional group is characteristic of alcohols?",
+      "o": [
+        "-NH2",
+        "-OH",
+        "-COOH",
+        "-CHO"
+      ],
+      "a": 1,
+      "e": "Alcohols contain the hydroxyl group.",
+      "d": "Medium",
+      "topic": "Functional groups",
+      "slo": "Identify, describe or apply the concept of functional groups in organic chemistry.",
+      "id": "CHEM9CH13-269"
+    },
+    {
+      "q": "Choose the correct answer: which class is identified by the group -OH?",
+      "o": [
+        "Alcohols",
+        "Amines",
+        "Aldehydes",
+        "Carboxylic acids"
+      ],
+      "a": 0,
+      "e": "The group -OH is characteristic of alcohols.",
+      "d": "Medium",
+      "topic": "Functional groups",
+      "slo": "Identify, describe or apply the concept of functional groups in organic chemistry.",
+      "id": "CHEM9CH13-270"
+    },
+    {
+      "q": "Choose the correct answer: which functional group is characteristic of aldehydes?",
+      "o": [
+        "-OH",
+        "-COOH",
+        "-NH2",
+        "-CHO"
+      ],
+      "a": 3,
+      "e": "Aldehydes contain the aldehyde group.",
+      "d": "Hard",
+      "topic": "Functional groups",
+      "slo": "Identify, describe or apply the concept of functional groups in organic chemistry.",
+      "id": "CHEM9CH13-271"
+    },
+    {
+      "q": "Choose the correct answer: which class is identified by the group -CHO?",
+      "o": [
+        "Aldehydes",
+        "Amines",
+        "Carboxylic acids",
+        "Alcohols"
+      ],
+      "a": 0,
+      "e": "The group -CHO is characteristic of aldehydes.",
+      "d": "Medium",
+      "topic": "Functional groups",
+      "slo": "Identify, describe or apply the concept of functional groups in organic chemistry.",
+      "id": "CHEM9CH13-272"
+    },
+    {
+      "q": "Choose the correct answer: which functional group is characteristic of carboxylic acids?",
+      "o": [
+        "-OH",
+        "-CHO",
+        "-COOH",
+        "-NH2"
+      ],
+      "a": 2,
+      "e": "Carboxylic acids contain the carboxyl group.",
+      "d": "Medium",
+      "topic": "Functional groups",
+      "slo": "Identify, describe or apply the concept of functional groups in organic chemistry.",
+      "id": "CHEM9CH13-273"
+    },
+    {
+      "q": "Choose the correct answer: which class is identified by the group -COOH?",
+      "o": [
+        "Amines",
+        "Alcohols",
+        "Carboxylic acids",
+        "Aldehydes"
+      ],
+      "a": 2,
+      "e": "The group -COOH is characteristic of carboxylic acids.",
+      "d": "Easy",
+      "topic": "Functional groups",
+      "slo": "Identify, describe or apply the concept of functional groups in organic chemistry.",
+      "id": "CHEM9CH13-274"
+    },
+    {
+      "q": "Choose the correct answer: which functional group is characteristic of amines?",
+      "o": [
+        "-NH2",
+        "-COOH",
+        "-CHO",
+        "-OH"
+      ],
+      "a": 0,
+      "e": "Amines contain the amino group.",
+      "d": "Medium",
+      "topic": "Functional groups",
+      "slo": "Identify, describe or apply the concept of functional groups in organic chemistry.",
+      "id": "CHEM9CH13-275"
+    },
+    {
+      "q": "Choose the correct answer: which class is identified by the group -NH2?",
+      "o": [
+        "Alcohols",
+        "Carboxylic acids",
+        "Amines",
+        "Aldehydes"
+      ],
+      "a": 2,
+      "e": "The group -NH2 is characteristic of amines.",
+      "d": "Easy",
+      "topic": "Functional groups",
+      "slo": "Identify, describe or apply the concept of functional groups in organic chemistry.",
+      "id": "CHEM9CH13-276"
+    },
+    {
+      "q": "Choose the correct answer: which functional group is characteristic of ketones?",
+      "o": [
+        "-CO-",
+        "-O-",
+        "-COOH",
+        "-NH2"
+      ],
+      "a": 0,
+      "e": "Ketones contain the carbonyl group between two carbon groups.",
+      "d": "Hard",
+      "topic": "Functional groups",
+      "slo": "Identify, describe or apply the concept of functional groups in organic chemistry.",
+      "id": "CHEM9CH13-277"
+    },
+    {
+      "q": "Choose the correct answer: which class is identified by the group -CO-?",
+      "o": [
+        "Alcohols",
+        "Carboxylic acids",
+        "Aldehydes",
+        "Ketones"
+      ],
+      "a": 3,
+      "e": "The group -CO- is characteristic of ketones.",
+      "d": "Easy",
+      "topic": "Functional groups",
+      "slo": "Identify, describe or apply the concept of functional groups in organic chemistry.",
+      "id": "CHEM9CH13-278"
+    },
+    {
+      "q": "Choose the correct answer: which functional group is characteristic of ethers?",
+      "o": [
+        "-O-",
+        "-OH",
+        "-NH2",
+        "-COOH"
+      ],
+      "a": 0,
+      "e": "Ethers contain the ether linkage.",
+      "d": "Medium",
+      "topic": "Functional groups",
+      "slo": "Identify, describe or apply the concept of functional groups in organic chemistry.",
+      "id": "CHEM9CH13-279"
+    },
+    {
+      "q": "Choose the correct answer: which class is identified by the group -O-?",
+      "o": [
+        "Aldehydes",
+        "Ethers",
+        "Carboxylic acids",
+        "Alcohols"
+      ],
+      "a": 1,
+      "e": "The group -O- is characteristic of ethers.",
+      "d": "Easy",
+      "topic": "Functional groups",
+      "slo": "Identify, describe or apply the concept of functional groups in organic chemistry.",
+      "id": "CHEM9CH13-280"
+    },
+    {
+      "q": "Choose the correct answer: which functional group is characteristic of esters?",
+      "o": [
+        "-NH2",
+        "-COO-",
+        "-CHO",
+        "-OH"
+      ],
+      "a": 1,
+      "e": "Esters contain the ester linkage.",
+      "d": "Easy",
+      "topic": "Functional groups",
+      "slo": "Identify, describe or apply the concept of functional groups in organic chemistry.",
+      "id": "CHEM9CH13-281"
+    },
+    {
+      "q": "Choose the correct answer: which class is identified by the group -COO-?",
+      "o": [
+        "Aldehydes",
+        "Alcohols",
+        "Carboxylic acids",
+        "Esters"
+      ],
+      "a": 3,
+      "e": "The group -COO- is characteristic of esters.",
+      "d": "Hard",
+      "topic": "Functional groups",
+      "slo": "Identify, describe or apply the concept of functional groups in organic chemistry.",
+      "id": "CHEM9CH13-282"
+    },
+    {
+      "q": "Choose the correct answer: which functional group is characteristic of haloalkanes?",
+      "o": [
+        "-COOH",
+        "-X (X = F, Cl, Br or I)",
+        "-OH",
+        "-CHO"
+      ],
+      "a": 1,
+      "e": "Haloalkanes contain the halogen substituent.",
+      "d": "Easy",
+      "topic": "Functional groups",
+      "slo": "Identify, describe or apply the concept of functional groups in organic chemistry.",
+      "id": "CHEM9CH13-283"
+    },
+    {
+      "q": "Choose the correct answer: which class is identified by the group -X (X = F, Cl, Br or I)?",
+      "o": [
+        "Alcohols",
+        "Aldehydes",
+        "Carboxylic acids",
+        "Haloalkanes"
+      ],
+      "a": 3,
+      "e": "The group -X (X = F, Cl, Br or I) is characteristic of haloalkanes.",
+      "d": "Medium",
+      "topic": "Functional groups",
+      "slo": "Identify, describe or apply the concept of functional groups in organic chemistry.",
+      "id": "CHEM9CH13-284"
+    },
+    {
+      "q": "Choose the correct answer: which functional group contains both carbonyl and hydroxyl bonded to the same carbon?",
+      "o": [
+        "Halogen (-Cl)",
+        "Amino (-NH2)",
+        "Carboxyl (-COOH)",
+        "Ether (-O-)"
+      ],
+      "a": 2,
+      "e": "The carboxyl group is -C(=O)OH.",
+      "d": "Hard",
+      "topic": "Functional groups",
+      "slo": "Identify, describe or apply the concept of functional groups in organic chemistry.",
+      "id": "CHEM9CH13-285"
+    },
+    {
+      "q": "Choose the correct answer: what is a functional group in organic chemistry?",
+      "o": [
+        "A group of neutrons",
+        "The mass of the compound",
+        "An atom or group that determines characteristic reactions",
+        "Only the longest carbon chain"
+      ],
+      "a": 2,
+      "e": "Functional groups largely govern organic chemical properties.",
+      "d": "Easy",
+      "topic": "Functional groups",
+      "slo": "Identify, describe or apply the concept of functional groups in organic chemistry.",
+      "id": "CHEM9CH13-286"
+    },
+    {
+      "q": "Choose the correct answer: which organic compound contains a carbonyl group at the end of a chain?",
+      "o": [
+        "Ether",
+        "Ketone",
+        "Aldehyde",
+        "Alkane"
+      ],
+      "a": 2,
+      "e": "An aldehyde has a terminal -CHO group.",
+      "d": "Medium",
+      "topic": "Functional groups",
+      "slo": "Identify, describe or apply the concept of functional groups in organic chemistry.",
+      "id": "CHEM9CH13-287"
+    },
+    {
+      "q": "Choose the correct answer: which organic compound has a carbonyl carbon bonded to two carbon groups?",
+      "o": [
+        "Aldehyde",
+        "Ketone",
+        "Amine",
+        "Alcohol"
+      ],
+      "a": 1,
+      "e": "A ketone contains an internal >C=O group.",
+      "d": "Medium",
+      "topic": "Functional groups",
+      "slo": "Identify, describe or apply the concept of functional groups in organic chemistry.",
+      "id": "CHEM9CH13-288"
+    },
+    {
+      "q": "Choose the correct answer: which class has an oxygen atom linking two carbon groups?",
+      "o": [
+        "Carboxylic acid",
+        "Alcohol",
+        "Amine",
+        "Ether"
+      ],
+      "a": 3,
+      "e": "Ethers have R-O-R′ connectivity.",
+      "d": "Medium",
+      "topic": "Functional groups",
+      "slo": "Identify, describe or apply the concept of functional groups in organic chemistry.",
+      "id": "CHEM9CH13-289"
+    },
+    {
+      "q": "Choose the correct answer: which class contains the linkage R-COO-R′?",
+      "o": [
+        "Aldehyde",
+        "Ester",
+        "Ether",
+        "Alkane"
+      ],
+      "a": 1,
+      "e": "Esters contain the -COO- linkage.",
+      "d": "Medium",
+      "topic": "Functional groups",
+      "slo": "Identify, describe or apply the concept of functional groups in organic chemistry.",
+      "id": "CHEM9CH13-290"
+    },
+    {
+      "q": "Choose the correct answer: which organic class commonly contains the -NH2 group?",
+      "o": [
+        "Alkene",
+        "Ether",
+        "Amine",
+        "Ketone"
+      ],
+      "a": 2,
+      "e": "Primary amines contain the amino group.",
+      "d": "Hard",
+      "topic": "Functional groups",
+      "slo": "Identify, describe or apply the concept of functional groups in organic chemistry.",
+      "id": "CHEM9CH13-291"
+    },
+    {
+      "q": "Choose the correct answer: which group is responsible for the acidity of ethanoic acid?",
+      "o": [
+        "-CHO",
+        "-COOH",
+        "-NH2",
+        "-O-"
+      ],
+      "a": 1,
+      "e": "The carboxyl group can donate a proton.",
+      "d": "Medium",
+      "topic": "Functional groups",
+      "slo": "Identify, describe or apply the concept of functional groups in organic chemistry.",
+      "id": "CHEM9CH13-292"
+    },
+    {
+      "q": "Choose the correct answer: which group is found in ethanol?",
+      "o": [
+        "-COOH",
+        "-NH2",
+        "-CHO",
+        "-OH"
+      ],
+      "a": 3,
+      "e": "Ethanol is an alcohol containing a hydroxyl group.",
+      "d": "Medium",
+      "topic": "Functional groups",
+      "slo": "Identify, describe or apply the concept of functional groups in organic chemistry.",
+      "id": "CHEM9CH13-293"
+    },
+    {
+      "q": "Choose the correct answer: which group is found in ethanal?",
+      "o": [
+        "-COOH",
+        "-O-",
+        "-CHO",
+        "-OH"
+      ],
+      "a": 2,
+      "e": "Ethanal is an aldehyde.",
+      "d": "Easy",
+      "topic": "Functional groups",
+      "slo": "Identify, describe or apply the concept of functional groups in organic chemistry.",
+      "id": "CHEM9CH13-294"
+    },
+    {
+      "q": "Choose the correct answer: which group is found in propanone?",
+      "o": [
+        "-CHO",
+        "-NH2",
+        "-COOH",
+        "-CO-"
+      ],
+      "a": 3,
+      "e": "Propanone is a ketone with an internal carbonyl group.",
+      "d": "Medium",
+      "topic": "Functional groups",
+      "slo": "Identify, describe or apply the concept of functional groups in organic chemistry.",
+      "id": "CHEM9CH13-295"
+    },
+    {
+      "q": "Choose the correct answer: which group is found in methanoic acid?",
+      "o": [
+        "-OH",
+        "-O-",
+        "-CHO",
+        "-COOH"
+      ],
+      "a": 3,
+      "e": "Methanoic acid is a carboxylic acid.",
+      "d": "Easy",
+      "topic": "Functional groups",
+      "slo": "Identify, describe or apply the concept of functional groups in organic chemistry.",
+      "id": "CHEM9CH13-296"
+    },
+    {
+      "q": "Choose the correct answer: which group is found in methylamine?",
+      "o": [
+        "-CHO",
+        "-COOH",
+        "-NH2",
+        "-OH"
+      ],
+      "a": 2,
+      "e": "Methylamine contains an amino group.",
+      "d": "Medium",
+      "topic": "Functional groups",
+      "slo": "Identify, describe or apply the concept of functional groups in organic chemistry.",
+      "id": "CHEM9CH13-297"
+    },
+    {
+      "q": "Choose the correct answer: which group is found in ethoxyethane?",
+      "o": [
+        "-O-",
+        "-COOH",
+        "-CHO",
+        "-NH2"
+      ],
+      "a": 0,
+      "e": "Ethoxyethane is an ether with a C-O-C linkage.",
+      "d": "Easy",
+      "topic": "Functional groups",
+      "slo": "Identify, describe or apply the concept of functional groups in organic chemistry.",
+      "id": "CHEM9CH13-298"
+    },
+    {
+      "q": "Choose the correct answer: which group is found in ethyl ethanoate?",
+      "o": [
+        "-OH",
+        "-CHO",
+        "-NH2",
+        "-COO-"
+      ],
+      "a": 3,
+      "e": "Ethyl ethanoate is an ester.",
+      "d": "Medium",
+      "topic": "Functional groups",
+      "slo": "Identify, describe or apply the concept of functional groups in organic chemistry.",
+      "id": "CHEM9CH13-299"
+    },
+    {
+      "q": "Choose the correct answer: which group is found in chloroethane?",
+      "o": [
+        "-OH",
+        "-COOH",
+        "-NH2",
+        "-Cl"
+      ],
+      "a": 3,
+      "e": "Chloroethane is a haloalkane.",
+      "d": "Medium",
+      "topic": "Functional groups",
+      "slo": "Identify, describe or apply the concept of functional groups in organic chemistry.",
+      "id": "CHEM9CH13-300"
+    }
+  ]
+}

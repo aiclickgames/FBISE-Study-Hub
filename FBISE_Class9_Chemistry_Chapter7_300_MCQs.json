@@ -1,0 +1,4504 @@
+{
+  "questions": [
+    {
+      "id": "CHEM9CH7-001",
+      "q": "What is oxidation in terms of electrons?",
+      "o": [
+        "Formation of neutrons",
+        "Gain of electrons",
+        "Sharing of electrons",
+        "Loss of electrons"
+      ],
+      "a": 3,
+      "e": "Oxidation involves losing electrons.",
+      "d": "Easy",
+      "topic": "Oxidation and reduction",
+      "slo": "Explain and apply oxidation and reduction in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-002",
+      "q": "What is reduction in terms of electrons?",
+      "o": [
+        "Loss of electrons",
+        "Gain of electrons",
+        "Gain of protons",
+        "Loss of neutrons"
+      ],
+      "a": 1,
+      "e": "Reduction involves gaining electrons.",
+      "d": "Easy",
+      "topic": "Oxidation and reduction",
+      "slo": "Explain and apply oxidation and reduction in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-003",
+      "q": "What is oxidation in terms of oxygen?",
+      "o": [
+        "Loss of electrons only",
+        "Loss of oxygen",
+        "Gain of oxygen",
+        "Gain of hydrogen"
+      ],
+      "a": 2,
+      "e": "Adding oxygen is a classical description of oxidation.",
+      "d": "Easy",
+      "topic": "Oxidation and reduction",
+      "slo": "Explain and apply oxidation and reduction in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-004",
+      "q": "What is reduction in terms of oxygen?",
+      "o": [
+        "Gain of oxygen",
+        "Loss of hydrogen",
+        "Loss of oxygen",
+        "Gain of protons"
+      ],
+      "a": 2,
+      "e": "Removing oxygen is a classical description of reduction.",
+      "d": "Easy",
+      "topic": "Oxidation and reduction",
+      "slo": "Explain and apply oxidation and reduction in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-005",
+      "q": "What is oxidation in terms of hydrogen?",
+      "o": [
+        "Gain of neutrons",
+        "Loss of hydrogen",
+        "Gain of hydrogen",
+        "Gain of electrons"
+      ],
+      "a": 1,
+      "e": "Removal of hydrogen can represent oxidation.",
+      "d": "Easy",
+      "topic": "Oxidation and reduction",
+      "slo": "Explain and apply oxidation and reduction in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-006",
+      "q": "What is reduction in terms of hydrogen?",
+      "o": [
+        "Gain of hydrogen",
+        "Loss of hydrogen",
+        "Loss of electrons",
+        "Gain of oxygen"
+      ],
+      "a": 0,
+      "e": "Addition of hydrogen can represent reduction.",
+      "d": "Easy",
+      "topic": "Oxidation and reduction",
+      "slo": "Explain and apply oxidation and reduction in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-007",
+      "q": "Which process increases oxidation number?",
+      "o": [
+        "Oxidation",
+        "Reduction",
+        "Dissolution",
+        "Neutralization"
+      ],
+      "a": 0,
+      "e": "Oxidation corresponds to an increase in oxidation number.",
+      "d": "Easy",
+      "topic": "Oxidation number",
+      "slo": "Explain and apply oxidation number in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-008",
+      "q": "Which process decreases oxidation number?",
+      "o": [
+        "Sublimation",
+        "Oxidation",
+        "Reduction",
+        "Evaporation"
+      ],
+      "a": 2,
+      "e": "Reduction corresponds to a decrease in oxidation number.",
+      "d": "Easy",
+      "topic": "Oxidation number",
+      "slo": "Explain and apply oxidation number in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-009",
+      "q": "What happens to electrons in a redox reaction?",
+      "o": [
+        "They are transferred between species",
+        "They are created from nothing",
+        "They are always shared equally",
+        "They are converted into neutrons"
+      ],
+      "a": 0,
+      "e": "Redox reactions involve electron transfer or a change in oxidation states.",
+      "d": "Easy",
+      "topic": "Redox reactions",
+      "slo": "Explain and apply redox reactions in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-010",
+      "q": "Can oxidation occur without reduction in a complete redox reaction?",
+      "o": [
+        "Only in acidic solution",
+        "No, both occur together",
+        "Yes, always",
+        "Only when oxygen is present"
+      ],
+      "a": 1,
+      "e": "Electrons lost by one species are gained by another.",
+      "d": "Easy",
+      "topic": "Redox reactions",
+      "slo": "Explain and apply redox reactions in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-011",
+      "q": "What does an oxidizing agent do to another substance?",
+      "o": [
+        "Causes it to lose electrons",
+        "Causes it to gain electrons",
+        "Removes all its protons",
+        "Prevents any chemical reaction"
+      ],
+      "a": 0,
+      "e": "An oxidizing agent accepts electrons from the substance it oxidizes.",
+      "d": "Easy",
+      "topic": "Oxidizing and reducing agents",
+      "slo": "Explain and apply oxidizing and reducing agents in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-012",
+      "q": "What happens to an oxidizing agent during a reaction?",
+      "o": [
+        "It becomes a catalyst",
+        "It remains unchanged in every case",
+        "It is oxidized",
+        "It is reduced"
+      ],
+      "a": 3,
+      "e": "An oxidizing agent gains electrons and is reduced.",
+      "d": "Easy",
+      "topic": "Oxidizing and reducing agents",
+      "slo": "Explain and apply oxidizing and reducing agents in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-013",
+      "q": "What does a reducing agent do to another substance?",
+      "o": [
+        "Causes it to lose electrons",
+        "Causes it to gain electrons",
+        "Always supplies oxygen",
+        "Always removes water"
+      ],
+      "a": 1,
+      "e": "A reducing agent donates electrons and causes reduction.",
+      "d": "Easy",
+      "topic": "Oxidizing and reducing agents",
+      "slo": "Explain and apply oxidizing and reducing agents in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-014",
+      "q": "What happens to a reducing agent during a reaction?",
+      "o": [
+        "It never changes",
+        "It always precipitates",
+        "It is reduced",
+        "It is oxidized"
+      ],
+      "a": 3,
+      "e": "A reducing agent loses electrons and is oxidized.",
+      "d": "Easy",
+      "topic": "Oxidizing and reducing agents",
+      "slo": "Explain and apply oxidizing and reducing agents in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-015",
+      "q": "Which mnemonic summarizes electron transfer in redox?",
+      "o": [
+        "OIL RIG",
+        "RIG OIL means reverse reactions",
+        "LEO means reduction",
+        "MOLAR GAS"
+      ],
+      "a": 0,
+      "e": "OIL RIG means Oxidation Is Loss, Reduction Is Gain.",
+      "d": "Easy",
+      "topic": "Oxidation and reduction",
+      "slo": "Explain and apply oxidation and reduction in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-016",
+      "q": "What is the oxidation number of an element in its free, uncombined form?",
+      "o": [
+        "+2",
+        "-1",
+        "+1",
+        "0"
+      ],
+      "a": 3,
+      "e": "An uncombined element has oxidation number zero.",
+      "d": "Easy",
+      "topic": "Oxidation states",
+      "slo": "Explain and apply oxidation states in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-017",
+      "q": "What is the oxidation number of a monatomic ion?",
+      "o": [
+        "Always +1",
+        "Its ionic charge",
+        "Always zero",
+        "Always -1"
+      ],
+      "a": 1,
+      "e": "The oxidation number of a monatomic ion equals its charge.",
+      "d": "Easy",
+      "topic": "Oxidation states",
+      "slo": "Explain and apply oxidation states in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-018",
+      "q": "What is the sum of oxidation numbers in a neutral compound?",
+      "o": [
+        "-1",
+        "0",
+        "+1",
+        "The number of atoms"
+      ],
+      "a": 1,
+      "e": "The total of oxidation numbers equals the overall charge, zero for a neutral compound.",
+      "d": "Easy",
+      "topic": "Oxidation states",
+      "slo": "Explain and apply oxidation states in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-019",
+      "q": "What is the sum of oxidation numbers in a polyatomic ion?",
+      "o": [
+        "The atomic number",
+        "The net charge of the ion",
+        "The total mass",
+        "Always zero"
+      ],
+      "a": 1,
+      "e": "Oxidation numbers sum to the overall charge of the ion.",
+      "d": "Easy",
+      "topic": "Oxidation states",
+      "slo": "Explain and apply oxidation states in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-020",
+      "q": "What oxidation number does oxygen usually have in compounds?",
+      "o": [
+        "-2",
+        "0",
+        "-1",
+        "+2"
+      ],
+      "a": 0,
+      "e": "Oxygen is usually assigned -2 except in special compounds such as peroxides.",
+      "d": "Easy",
+      "topic": "Oxidation states",
+      "slo": "Explain and apply oxidation states in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-021",
+      "q": "What oxidation number does hydrogen usually have with nonmetals?",
+      "o": [
+        "-1",
+        "+1",
+        "0",
+        "+2"
+      ],
+      "a": 1,
+      "e": "Hydrogen is usually +1 when bonded to nonmetals.",
+      "d": "Easy",
+      "topic": "Oxidation states",
+      "slo": "Explain and apply oxidation states in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-022",
+      "q": "What oxidation number does hydrogen have in metal hydrides such as NaH?",
+      "o": [
+        "0",
+        "+1",
+        "-2",
+        "-1"
+      ],
+      "a": 3,
+      "e": "Hydrogen is -1 in metal hydrides.",
+      "d": "Easy",
+      "topic": "Oxidation states",
+      "slo": "Explain and apply oxidation states in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-023",
+      "q": "What oxidation number does fluorine have in its compounds?",
+      "o": [
+        "+1",
+        "-2",
+        "-1",
+        "0"
+      ],
+      "a": 2,
+      "e": "Fluorine is assigned -1 in compounds.",
+      "d": "Easy",
+      "topic": "Oxidation states",
+      "slo": "Explain and apply oxidation states in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-024",
+      "q": "What is the usual oxidation number of Group 1 metals in compounds?",
+      "o": [
+        "0",
+        "+2",
+        "-1",
+        "+1"
+      ],
+      "a": 3,
+      "e": "Alkali metals typically form +1 ions.",
+      "d": "Easy",
+      "topic": "Oxidation states",
+      "slo": "Explain and apply oxidation states in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-025",
+      "q": "What is the usual oxidation number of Group 2 metals in compounds?",
+      "o": [
+        "0",
+        "-2",
+        "+1",
+        "+2"
+      ],
+      "a": 3,
+      "e": "Alkaline earth metals typically form +2 ions.",
+      "d": "Easy",
+      "topic": "Oxidation states",
+      "slo": "Explain and apply oxidation states in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-026",
+      "q": "What is the oxidation number of oxygen in hydrogen peroxide, H2O2?",
+      "o": [
+        "0",
+        "+1",
+        "-1",
+        "-2"
+      ],
+      "a": 2,
+      "e": "In peroxides, each oxygen has oxidation number -1.",
+      "d": "Easy",
+      "topic": "Oxidation states",
+      "slo": "Explain and apply oxidation states in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-027",
+      "q": "What is the oxidation number of oxygen in O2?",
+      "o": [
+        "0",
+        "+2",
+        "-1",
+        "-2"
+      ],
+      "a": 0,
+      "e": "Oxygen gas is an uncombined element, so its oxidation number is zero.",
+      "d": "Easy",
+      "topic": "Oxidation states",
+      "slo": "Explain and apply oxidation states in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-028",
+      "q": "Which process describes corrosion?",
+      "o": [
+        "Gradual deterioration of a metal by chemical or electrochemical reaction",
+        "Breaking a metal by mechanical force alone",
+        "Rapid melting of a metal",
+        "Purification of a metal by filtration"
+      ],
+      "a": 0,
+      "e": "Corrosion is the gradual chemical/electrochemical attack on metals.",
+      "d": "Easy",
+      "topic": "Corrosion",
+      "slo": "Explain and apply corrosion in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-029",
+      "q": "What is rust primarily associated with?",
+      "o": [
+        "Dissolution of sugar",
+        "Melting of copper",
+        "Corrosion of iron",
+        "Corrosion of glass"
+      ],
+      "a": 2,
+      "e": "Rusting is a common form of iron corrosion.",
+      "d": "Easy",
+      "topic": "Corrosion",
+      "slo": "Explain and apply corrosion in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-030",
+      "q": "What conditions are generally needed for iron to rust?",
+      "o": [
+        "Oxygen and water",
+        "Sunlight without moisture",
+        "Nitrogen and dry air only",
+        "Carbon dioxide alone"
+      ],
+      "a": 0,
+      "e": "Both oxygen and moisture are normally needed for rusting.",
+      "d": "Easy",
+      "topic": "Corrosion",
+      "slo": "Explain and apply corrosion in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-031",
+      "q": "Which substance is the main component of rust?",
+      "o": [
+        "Sodium chloride",
+        "Calcium carbonate",
+        "Pure iron",
+        "Hydrated iron(III) oxide"
+      ],
+      "a": 3,
+      "e": "Rust consists mainly of hydrated iron(III) oxides.",
+      "d": "Easy",
+      "topic": "Corrosion",
+      "slo": "Explain and apply corrosion in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-032",
+      "q": "Why does salty water often speed up rusting?",
+      "o": [
+        "Salt removes all oxygen",
+        "Salt converts iron into gold",
+        "Salt makes iron chemically inert",
+        "Dissolved ions improve electrical conductivity"
+      ],
+      "a": 3,
+      "e": "Saltwater conducts ions and can accelerate electrochemical corrosion.",
+      "d": "Easy",
+      "topic": "Corrosion",
+      "slo": "Explain and apply corrosion in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-033",
+      "q": "How does painting protect iron?",
+      "o": [
+        "It turns iron into a noble metal",
+        "It increases iron oxidation",
+        "It adds electrons directly to rust",
+        "It creates a barrier to water and oxygen"
+      ],
+      "a": 3,
+      "e": "Paint limits contact of the metal with air and moisture.",
+      "d": "Easy",
+      "topic": "Corrosion prevention",
+      "slo": "Explain and apply corrosion prevention in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-034",
+      "q": "How does oiling a metal surface help prevent corrosion?",
+      "o": [
+        "It dissolves the metal",
+        "It supplies extra oxygen",
+        "It converts iron into copper",
+        "It blocks contact with moisture and air"
+      ],
+      "a": 3,
+      "e": "Oil forms a protective barrier.",
+      "d": "Easy",
+      "topic": "Corrosion prevention",
+      "slo": "Explain and apply corrosion prevention in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-035",
+      "q": "What is galvanization?",
+      "o": [
+        "Removing zinc from iron",
+        "Coating iron with sodium",
+        "Coating iron or steel with zinc",
+        "Heating iron until it melts"
+      ],
+      "a": 2,
+      "e": "Zinc coating protects iron from corrosion.",
+      "d": "Easy",
+      "topic": "Corrosion prevention",
+      "slo": "Explain and apply corrosion prevention in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-036",
+      "q": "Why can zinc protect scratched galvanized iron?",
+      "o": [
+        "Zinc removes all water",
+        "Zinc has no electrons",
+        "Zinc is more readily oxidized than iron",
+        "Iron becomes nonmetallic"
+      ],
+      "a": 2,
+      "e": "Zinc can act as a sacrificial metal and oxidize preferentially.",
+      "d": "Easy",
+      "topic": "Corrosion prevention",
+      "slo": "Explain and apply corrosion prevention in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-037",
+      "q": "Which metal is commonly used as a sacrificial anode to protect steel structures?",
+      "o": [
+        "Gold",
+        "Silver",
+        "Platinum",
+        "Magnesium"
+      ],
+      "a": 3,
+      "e": "Magnesium oxidizes more readily than iron and can protect it cathodically.",
+      "d": "Easy",
+      "topic": "Corrosion prevention",
+      "slo": "Explain and apply corrosion prevention in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-038",
+      "q": "What is cathodic protection?",
+      "o": [
+        "Coating a metal only with paper",
+        "Making the protected metal act as a cathode",
+        "Making the metal a stronger oxidizing agent",
+        "Removing all electrons from the metal"
+      ],
+      "a": 1,
+      "e": "Cathodic protection suppresses oxidation of the protected metal.",
+      "d": "Easy",
+      "topic": "Corrosion prevention",
+      "slo": "Explain and apply corrosion prevention in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-039",
+      "q": "Why is chromium plating used on some metal objects?",
+      "o": [
+        "It removes all metal atoms",
+        "It causes rapid rusting",
+        "It turns metals into gases",
+        "It provides a protective surface layer"
+      ],
+      "a": 3,
+      "e": "A suitable plated layer can reduce contact with corrosive surroundings.",
+      "d": "Easy",
+      "topic": "Corrosion prevention",
+      "slo": "Explain and apply corrosion prevention in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-040",
+      "q": "What is a redox reaction?",
+      "o": [
+        "A reaction involving oxidation and reduction",
+        "A reaction involving only dissolving",
+        "A reaction in which no oxidation state changes",
+        "A reaction involving only evaporation"
+      ],
+      "a": 0,
+      "e": "Oxidation and reduction happen together in redox processes.",
+      "d": "Easy",
+      "topic": "Redox reactions",
+      "slo": "Explain and apply redox reactions in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-041",
+      "q": "What is an electrolyte?",
+      "o": [
+        "A substance that cannot dissolve",
+        "A substance that always contains free electrons only",
+        "A substance that conducts electricity through mobile ions",
+        "An electrical insulator in every condition"
+      ],
+      "a": 2,
+      "e": "Electrolytes conduct by moving ions in solution or molten state.",
+      "d": "Easy",
+      "topic": "Electrochemistry basics",
+      "slo": "Explain and apply electrochemistry basics in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-042",
+      "q": "Why does solid sodium chloride conduct poorly?",
+      "o": [
+        "It contains only neutral atoms",
+        "Its ions cannot move freely in the solid lattice",
+        "Its ions disappear on solidification",
+        "It has no charged particles"
+      ],
+      "a": 1,
+      "e": "Ions in solid NaCl are fixed in the lattice.",
+      "d": "Easy",
+      "topic": "Electrochemistry basics",
+      "slo": "Explain and apply electrochemistry basics in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-043",
+      "q": "Why can molten sodium chloride conduct electricity?",
+      "o": [
+        "Its ions are mobile",
+        "Its molecules become neutral gases",
+        "Its electrons become protons",
+        "It contains no ions"
+      ],
+      "a": 0,
+      "e": "Molten ionic compounds contain mobile ions.",
+      "d": "Easy",
+      "topic": "Electrochemistry basics",
+      "slo": "Explain and apply electrochemistry basics in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-044",
+      "q": "At which electrode does oxidation occur?",
+      "o": [
+        "Cathode",
+        "Salt bridge",
+        "Anode",
+        "Insulating wall"
+      ],
+      "a": 2,
+      "e": "Oxidation occurs at the anode.",
+      "d": "Easy",
+      "topic": "Electrochemistry basics",
+      "slo": "Explain and apply electrochemistry basics in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-045",
+      "q": "At which electrode does reduction occur?",
+      "o": [
+        "Anode",
+        "Wire insulation",
+        "Electrolyte surface only",
+        "Cathode"
+      ],
+      "a": 3,
+      "e": "Reduction occurs at the cathode.",
+      "d": "Easy",
+      "topic": "Electrochemistry basics",
+      "slo": "Explain and apply electrochemistry basics in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-046",
+      "q": "What does a half-equation show in redox chemistry?",
+      "o": [
+        "Only the reaction temperature",
+        "Electron loss or gain for one reacting species",
+        "Only the color of a product",
+        "Only the mass of a beaker"
+      ],
+      "a": 1,
+      "e": "Half-equations explicitly show electrons gained or lost.",
+      "d": "Easy",
+      "topic": "Half-reactions",
+      "slo": "Explain and apply half-reactions in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-047",
+      "q": "In the half-equation Fe2+ → Fe3+ + e-, what happens to iron?",
+      "o": [
+        "It is unchanged",
+        "It is oxidized",
+        "It is neutralized",
+        "It is reduced"
+      ],
+      "a": 1,
+      "e": "Fe2+ loses an electron and becomes Fe3+.",
+      "d": "Easy",
+      "topic": "Half-reactions",
+      "slo": "Explain and apply half-reactions in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-048",
+      "q": "In the half-equation Cu2+ + 2e- → Cu, what happens to copper?",
+      "o": [
+        "It is oxidized",
+        "It is reduced",
+        "It is unchanged",
+        "It is sublimed"
+      ],
+      "a": 1,
+      "e": "Cu2+ gains two electrons and forms Cu.",
+      "d": "Easy",
+      "topic": "Half-reactions",
+      "slo": "Explain and apply half-reactions in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-049",
+      "q": "What is the oxidation number of sulfur in elemental sulfur, S8?",
+      "o": [
+        "0",
+        "+4",
+        "-2",
+        "+6"
+      ],
+      "a": 0,
+      "e": "Elemental sulfur is in its free state.",
+      "d": "Easy",
+      "topic": "Oxidation states",
+      "slo": "Explain and apply oxidation states in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-050",
+      "q": "What is the oxidation number of chlorine in Cl2?",
+      "o": [
+        "0",
+        "+1",
+        "+7",
+        "-1"
+      ],
+      "a": 0,
+      "e": "Elemental chlorine has oxidation number zero.",
+      "d": "Easy",
+      "topic": "Oxidation states",
+      "slo": "Explain and apply oxidation states in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-051",
+      "q": "What is the oxidation number of sodium in Na+?",
+      "o": [
+        "+1",
+        "0",
+        "-1",
+        "+2"
+      ],
+      "a": 0,
+      "e": "The oxidation number of a monatomic ion is its charge.",
+      "d": "Easy",
+      "topic": "Oxidation states",
+      "slo": "Explain and apply oxidation states in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-052",
+      "q": "What is the oxidation number of sulfide in S2-?",
+      "o": [
+        "-1",
+        "0",
+        "-2",
+        "+2"
+      ],
+      "a": 2,
+      "e": "The oxidation number of S2- equals its -2 charge.",
+      "d": "Easy",
+      "topic": "Oxidation states",
+      "slo": "Explain and apply oxidation states in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-053",
+      "q": "Which metal is oxidized in Zn + CuSO4 → ZnSO4 + Cu?",
+      "o": [
+        "Oxygen",
+        "Zinc",
+        "Copper",
+        "Sulfur"
+      ],
+      "a": 1,
+      "e": "Zinc changes from oxidation number 0 to +2.",
+      "d": "Easy",
+      "topic": "Redox reactions",
+      "slo": "Explain and apply redox reactions in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-054",
+      "q": "Which ion is reduced in Zn + CuSO4 → ZnSO4 + Cu?",
+      "o": [
+        "O2-",
+        "Zn2+",
+        "Cu2+",
+        "SO4 2-"
+      ],
+      "a": 2,
+      "e": "Cu2+ gains electrons to form copper metal.",
+      "d": "Easy",
+      "topic": "Redox reactions",
+      "slo": "Explain and apply redox reactions in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-055",
+      "q": "What is the reducing agent in Zn + Cu2+ → Zn2+ + Cu?",
+      "o": [
+        "Zn2+",
+        "Cu2+",
+        "Cu",
+        "Zn"
+      ],
+      "a": 3,
+      "e": "Zinc donates electrons and is oxidized.",
+      "d": "Easy",
+      "topic": "Oxidizing and reducing agents",
+      "slo": "Explain and apply oxidizing and reducing agents in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-056",
+      "q": "What is the oxidizing agent in Zn + Cu2+ → Zn2+ + Cu?",
+      "o": [
+        "Zn",
+        "Cu",
+        "Cu2+",
+        "Zn2+"
+      ],
+      "a": 2,
+      "e": "Copper(II) ions accept electrons and are reduced.",
+      "d": "Easy",
+      "topic": "Oxidizing and reducing agents",
+      "slo": "Explain and apply oxidizing and reducing agents in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-057",
+      "q": "In 2Mg + O2 → 2MgO, which reactant is oxidized?",
+      "o": [
+        "Neither reactant",
+        "Both reactants are reduced",
+        "Oxygen",
+        "Magnesium"
+      ],
+      "a": 3,
+      "e": "Magnesium changes from 0 to +2.",
+      "d": "Easy",
+      "topic": "Redox reactions",
+      "slo": "Explain and apply redox reactions in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-058",
+      "q": "In 2Mg + O2 → 2MgO, which reactant is reduced?",
+      "o": [
+        "Neither reactant",
+        "Magnesium",
+        "Both reactants are oxidized",
+        "Oxygen"
+      ],
+      "a": 3,
+      "e": "Oxygen changes from 0 to -2.",
+      "d": "Easy",
+      "topic": "Redox reactions",
+      "slo": "Explain and apply redox reactions in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-059",
+      "q": "Why is 2Mg + O2 → 2MgO a redox reaction?",
+      "o": [
+        "No oxidation numbers change",
+        "Both elements gain electrons",
+        "Mg loses electrons while oxygen gains electrons",
+        "Only a physical change occurs"
+      ],
+      "a": 2,
+      "e": "Magnesium is oxidized and oxygen is reduced.",
+      "d": "Easy",
+      "topic": "Redox reactions",
+      "slo": "Explain and apply redox reactions in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-060",
+      "q": "In CuO + H2 → Cu + H2O, which substance is reduced?",
+      "o": [
+        "H2",
+        "H2O",
+        "CuO",
+        "Both reactants"
+      ],
+      "a": 2,
+      "e": "Copper in CuO changes from +2 to 0.",
+      "d": "Easy",
+      "topic": "Redox reactions",
+      "slo": "Explain and apply redox reactions in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-061",
+      "q": "In CuO + H2 → Cu + H2O, which substance is oxidized?",
+      "o": [
+        "CuO",
+        "Cu",
+        "H2",
+        "Neither reactant"
+      ],
+      "a": 2,
+      "e": "Hydrogen changes from 0 to +1 in water.",
+      "d": "Easy",
+      "topic": "Redox reactions",
+      "slo": "Explain and apply redox reactions in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-062",
+      "q": "Which observation indicates rust formation on iron?",
+      "o": [
+        "A blue gas",
+        "A shiny silver coating",
+        "A reddish-brown flaky coating",
+        "A transparent crystalline salt only"
+      ],
+      "a": 2,
+      "e": "Rust commonly forms a reddish-brown, porous layer.",
+      "d": "Easy",
+      "topic": "Corrosion",
+      "slo": "Explain and apply corrosion in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-063",
+      "q": "Why is rust on iron not a good protective layer?",
+      "o": [
+        "It is porous and can flake off",
+        "It is perfectly airtight",
+        "It permanently stops all oxygen",
+        "It is pure iron"
+      ],
+      "a": 0,
+      "e": "Porous rust allows further contact with oxygen and moisture.",
+      "d": "Easy",
+      "topic": "Corrosion",
+      "slo": "Explain and apply corrosion in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-064",
+      "q": "Which of these best prevents rusting of an iron gate?",
+      "o": [
+        "Spraying with saltwater",
+        "Keeping it constantly wet",
+        "Applying and maintaining protective paint",
+        "Scratching the surface daily"
+      ],
+      "a": 2,
+      "e": "Protective paint blocks moisture and oxygen.",
+      "d": "Easy",
+      "topic": "Corrosion prevention",
+      "slo": "Explain and apply corrosion prevention in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-065",
+      "q": "What happens at an anodic site during iron corrosion?",
+      "o": [
+        "Iron atoms lose electrons to form ions",
+        "Water changes into nitrogen",
+        "Iron ions gain electrons to become iron",
+        "Salt ions become electrons"
+      ],
+      "a": 0,
+      "e": "Iron oxidation can be written Fe → Fe2+ + 2e-.",
+      "d": "Easy",
+      "topic": "Corrosion",
+      "slo": "Explain and apply corrosion in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-066",
+      "q": "Which is an example of a chemical change involving redox?",
+      "o": [
+        "Breaking glass",
+        "Dissolving sugar without reaction",
+        "Melting ice",
+        "Rusting of iron"
+      ],
+      "a": 3,
+      "e": "Iron is oxidized during rust formation.",
+      "d": "Easy",
+      "topic": "Redox reactions",
+      "slo": "Explain and apply redox reactions in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-067",
+      "q": "Which is not by itself a redox process?",
+      "o": [
+        "Melting pure ice",
+        "Burning magnesium",
+        "Reducing copper oxide with hydrogen",
+        "Rusting iron"
+      ],
+      "a": 0,
+      "e": "Melting is a physical change with no oxidation-number change.",
+      "d": "Easy",
+      "topic": "Redox reactions",
+      "slo": "Explain and apply redox reactions in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-068",
+      "q": "What is the usual oxidation state of aluminium in Al2O3?",
+      "o": [
+        "+2",
+        "-3",
+        "+3",
+        "0"
+      ],
+      "a": 2,
+      "e": "Three oxygen atoms contribute -6, so two aluminium atoms total +6.",
+      "d": "Easy",
+      "topic": "Oxidation states",
+      "slo": "Explain and apply oxidation states in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-069",
+      "q": "What is the usual oxidation state of calcium in CaCl2?",
+      "o": [
+        "+2",
+        "+1",
+        "-2",
+        "0"
+      ],
+      "a": 0,
+      "e": "Two chloride ions contribute -2, requiring calcium to be +2.",
+      "d": "Easy",
+      "topic": "Oxidation states",
+      "slo": "Explain and apply oxidation states in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-070",
+      "q": "Why does stainless steel resist corrosion better than ordinary iron?",
+      "o": [
+        "Chromium helps form a protective oxide film",
+        "It cannot react with oxygen under any condition",
+        "It contains no electrons",
+        "It contains no iron atoms"
+      ],
+      "a": 0,
+      "e": "Chromium contributes a protective passive oxide layer.",
+      "d": "Easy",
+      "topic": "Corrosion prevention",
+      "slo": "Explain and apply corrosion prevention in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-071",
+      "q": "Why should a metal surface be cleaned before painting?",
+      "o": [
+        "To remove all metal atoms",
+        "To increase the amount of rust",
+        "To supply more chloride ions",
+        "To help the protective coating adhere properly"
+      ],
+      "a": 3,
+      "e": "Removing dirt and rust helps a coating remain effective.",
+      "d": "Easy",
+      "topic": "Corrosion prevention",
+      "slo": "Explain and apply corrosion prevention in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-072",
+      "q": "Which statement about oxidation numbers is correct?",
+      "o": [
+        "They must be positive",
+        "They always equal the number of neutrons",
+        "They are identical to atomic mass",
+        "They are bookkeeping values used to track electron transfer"
+      ],
+      "a": 3,
+      "e": "Oxidation numbers are assigned to track oxidation and reduction.",
+      "d": "Easy",
+      "topic": "Oxidation states",
+      "slo": "Explain and apply oxidation states in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-073",
+      "q": "Which statement about an oxidizing agent is true?",
+      "o": [
+        "It always contains oxygen",
+        "It donates electrons",
+        "It gains electrons in the redox process",
+        "It must be a metal"
+      ],
+      "a": 2,
+      "e": "An oxidizing agent is reduced by accepting electrons.",
+      "d": "Easy",
+      "topic": "Oxidizing and reducing agents",
+      "slo": "Explain and apply oxidizing and reducing agents in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-074",
+      "q": "Which statement about a reducing agent is true?",
+      "o": [
+        "It must contain hydrogen",
+        "It gains electrons",
+        "It always becomes neutral",
+        "It loses electrons in the redox process"
+      ],
+      "a": 3,
+      "e": "A reducing agent is oxidized by donating electrons.",
+      "d": "Easy",
+      "topic": "Oxidizing and reducing agents",
+      "slo": "Explain and apply oxidizing and reducing agents in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-075",
+      "q": "What is the oxidation number of Na in NaCl?",
+      "o": [
+        "+3",
+        "+1",
+        "-2",
+        "+4"
+      ],
+      "a": 1,
+      "e": "The oxidation number is +1 because Na is an alkali metal.",
+      "d": "Medium",
+      "topic": "Assigning oxidation numbers",
+      "slo": "Explain and apply assigning oxidation numbers in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-076",
+      "q": "What is the oxidation number of K in KBr?",
+      "o": [
+        "-3",
+        "+7",
+        "+1",
+        "+3"
+      ],
+      "a": 2,
+      "e": "The oxidation number is +1 because K is an alkali metal.",
+      "d": "Medium",
+      "topic": "Assigning oxidation numbers",
+      "slo": "Explain and apply assigning oxidation numbers in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-077",
+      "q": "What is the oxidation number of Li in LiF?",
+      "o": [
+        "+7",
+        "+1",
+        "-3",
+        "-2"
+      ],
+      "a": 1,
+      "e": "The oxidation number is +1 because Li is an alkali metal.",
+      "d": "Medium",
+      "topic": "Assigning oxidation numbers",
+      "slo": "Explain and apply assigning oxidation numbers in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-078",
+      "q": "What is the oxidation number of Mg in MgO?",
+      "o": [
+        "+2",
+        "+4",
+        "+3",
+        "-2"
+      ],
+      "a": 0,
+      "e": "The oxidation number is +2 because oxygen is -2.",
+      "d": "Medium",
+      "topic": "Assigning oxidation numbers",
+      "slo": "Explain and apply assigning oxidation numbers in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-079",
+      "q": "What is the oxidation number of Ca in CaO?",
+      "o": [
+        "-1",
+        "-3",
+        "+2",
+        "+4"
+      ],
+      "a": 2,
+      "e": "The oxidation number is +2 because oxygen is -2.",
+      "d": "Medium",
+      "topic": "Assigning oxidation numbers",
+      "slo": "Explain and apply assigning oxidation numbers in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-080",
+      "q": "What is the oxidation number of Ba in BaCl2?",
+      "o": [
+        "+4",
+        "-2",
+        "-1",
+        "+2"
+      ],
+      "a": 3,
+      "e": "The oxidation number is +2 because two chlorides contribute -2.",
+      "d": "Medium",
+      "topic": "Assigning oxidation numbers",
+      "slo": "Explain and apply assigning oxidation numbers in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-081",
+      "q": "What is the oxidation number of Al in AlCl3?",
+      "o": [
+        "+3",
+        "+2",
+        "0",
+        "+7"
+      ],
+      "a": 0,
+      "e": "The oxidation number is +3 because three chlorides contribute -3.",
+      "d": "Medium",
+      "topic": "Assigning oxidation numbers",
+      "slo": "Explain and apply assigning oxidation numbers in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-082",
+      "q": "What is the oxidation number of Al in Al2O3?",
+      "o": [
+        "+6",
+        "0",
+        "+1",
+        "+3"
+      ],
+      "a": 3,
+      "e": "The oxidation number is +3 because three oxygens contribute -6.",
+      "d": "Medium",
+      "topic": "Assigning oxidation numbers",
+      "slo": "Explain and apply assigning oxidation numbers in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-083",
+      "q": "What is the oxidation number of Zn in ZnO?",
+      "o": [
+        "+2",
+        "-1",
+        "+3",
+        "+6"
+      ],
+      "a": 0,
+      "e": "The oxidation number is +2 because oxygen is -2.",
+      "d": "Medium",
+      "topic": "Assigning oxidation numbers",
+      "slo": "Explain and apply assigning oxidation numbers in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-084",
+      "q": "What is the oxidation number of Zn in ZnCl2?",
+      "o": [
+        "+3",
+        "+2",
+        "+7",
+        "-3"
+      ],
+      "a": 1,
+      "e": "The oxidation number is +2 because two chlorides contribute -2.",
+      "d": "Medium",
+      "topic": "Assigning oxidation numbers",
+      "slo": "Explain and apply assigning oxidation numbers in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-085",
+      "q": "What is the oxidation number of Ag in AgCl?",
+      "o": [
+        "+3",
+        "+4",
+        "-3",
+        "+1"
+      ],
+      "a": 3,
+      "e": "The oxidation number is +1 because chlorine is -1.",
+      "d": "Medium",
+      "topic": "Assigning oxidation numbers",
+      "slo": "Explain and apply assigning oxidation numbers in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-086",
+      "q": "What is the oxidation number of Cu in CuO?",
+      "o": [
+        "+6",
+        "+4",
+        "+2",
+        "-2"
+      ],
+      "a": 2,
+      "e": "The oxidation number is +2 because oxygen is -2.",
+      "d": "Medium",
+      "topic": "Assigning oxidation numbers",
+      "slo": "Explain and apply assigning oxidation numbers in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-087",
+      "q": "What is the oxidation number of Cu in Cu2O?",
+      "o": [
+        "0",
+        "+1",
+        "-2",
+        "+2"
+      ],
+      "a": 1,
+      "e": "The oxidation number is +1 because oxygen contributes -2 for two copper atoms.",
+      "d": "Medium",
+      "topic": "Assigning oxidation numbers",
+      "slo": "Explain and apply assigning oxidation numbers in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-088",
+      "q": "What is the oxidation number of Fe in FeO?",
+      "o": [
+        "+5",
+        "+2",
+        "+7",
+        "+6"
+      ],
+      "a": 1,
+      "e": "The oxidation number is +2 because oxygen is -2.",
+      "d": "Medium",
+      "topic": "Assigning oxidation numbers",
+      "slo": "Explain and apply assigning oxidation numbers in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-089",
+      "q": "What is the oxidation number of Fe in Fe2O3?",
+      "o": [
+        "+3",
+        "+6",
+        "-1",
+        "-3"
+      ],
+      "a": 0,
+      "e": "The oxidation number is +3 because three oxygens total -6.",
+      "d": "Medium",
+      "topic": "Assigning oxidation numbers",
+      "slo": "Explain and apply assigning oxidation numbers in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-090",
+      "q": "What is the oxidation number of Fe in FeCl2?",
+      "o": [
+        "+5",
+        "-2",
+        "-1",
+        "+2"
+      ],
+      "a": 3,
+      "e": "The oxidation number is +2 because two chlorides total -2.",
+      "d": "Medium",
+      "topic": "Assigning oxidation numbers",
+      "slo": "Explain and apply assigning oxidation numbers in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-091",
+      "q": "What is the oxidation number of Fe in FeCl3?",
+      "o": [
+        "0",
+        "+4",
+        "+3",
+        "-2"
+      ],
+      "a": 2,
+      "e": "The oxidation number is +3 because three chlorides total -3.",
+      "d": "Medium",
+      "topic": "Assigning oxidation numbers",
+      "slo": "Explain and apply assigning oxidation numbers in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-092",
+      "q": "What is the oxidation number of Sn in SnCl2?",
+      "o": [
+        "-1",
+        "+4",
+        "+2",
+        "0"
+      ],
+      "a": 2,
+      "e": "The oxidation number is +2 because two chlorides total -2.",
+      "d": "Medium",
+      "topic": "Assigning oxidation numbers",
+      "slo": "Explain and apply assigning oxidation numbers in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-093",
+      "q": "What is the oxidation number of Sn in SnCl4?",
+      "o": [
+        "-2",
+        "-1",
+        "+4",
+        "+5"
+      ],
+      "a": 2,
+      "e": "The oxidation number is +4 because four chlorides total -4.",
+      "d": "Medium",
+      "topic": "Assigning oxidation numbers",
+      "slo": "Explain and apply assigning oxidation numbers in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-094",
+      "q": "What is the oxidation number of Pb in PbO?",
+      "o": [
+        "+1",
+        "+5",
+        "+2",
+        "0"
+      ],
+      "a": 2,
+      "e": "The oxidation number is +2 because oxygen is -2.",
+      "d": "Medium",
+      "topic": "Assigning oxidation numbers",
+      "slo": "Explain and apply assigning oxidation numbers in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-095",
+      "q": "What is the oxidation number of Pb in PbO2?",
+      "o": [
+        "+5",
+        "+2",
+        "+3",
+        "+4"
+      ],
+      "a": 3,
+      "e": "The oxidation number is +4 because two oxygens total -4.",
+      "d": "Medium",
+      "topic": "Assigning oxidation numbers",
+      "slo": "Explain and apply assigning oxidation numbers in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-096",
+      "q": "What is the oxidation number of Mn in MnO2?",
+      "o": [
+        "-3",
+        "+1",
+        "-2",
+        "+4"
+      ],
+      "a": 3,
+      "e": "The oxidation number is +4 because two oxygens total -4.",
+      "d": "Medium",
+      "topic": "Assigning oxidation numbers",
+      "slo": "Explain and apply assigning oxidation numbers in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-097",
+      "q": "What is the oxidation number of C in CO2?",
+      "o": [
+        "+3",
+        "+4",
+        "+6",
+        "-2"
+      ],
+      "a": 1,
+      "e": "The oxidation number is +4 because two oxygens total -4.",
+      "d": "Medium",
+      "topic": "Assigning oxidation numbers",
+      "slo": "Explain and apply assigning oxidation numbers in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-098",
+      "q": "What is the oxidation number of C in CO?",
+      "o": [
+        "0",
+        "+3",
+        "+4",
+        "+2"
+      ],
+      "a": 3,
+      "e": "The oxidation number is +2 because oxygen is -2.",
+      "d": "Medium",
+      "topic": "Assigning oxidation numbers",
+      "slo": "Explain and apply assigning oxidation numbers in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-099",
+      "q": "What is the oxidation number of C in CH4?",
+      "o": [
+        "+7",
+        "+5",
+        "-4",
+        "-3"
+      ],
+      "a": 2,
+      "e": "The oxidation number is -4 because four hydrogens total +4.",
+      "d": "Medium",
+      "topic": "Assigning oxidation numbers",
+      "slo": "Explain and apply assigning oxidation numbers in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-100",
+      "q": "What is the oxidation number of C in CCl4?",
+      "o": [
+        "+4",
+        "+7",
+        "+3",
+        "+2"
+      ],
+      "a": 0,
+      "e": "The oxidation number is +4 because four chlorines total -4.",
+      "d": "Medium",
+      "topic": "Assigning oxidation numbers",
+      "slo": "Explain and apply assigning oxidation numbers in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-101",
+      "q": "What is the oxidation number of C in CS2?",
+      "o": [
+        "+4",
+        "-1",
+        "+7",
+        "+3"
+      ],
+      "a": 0,
+      "e": "The oxidation number is +4 because each sulfur is -2.",
+      "d": "Medium",
+      "topic": "Assigning oxidation numbers",
+      "slo": "Explain and apply assigning oxidation numbers in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-102",
+      "q": "What is the oxidation number of C in H2CO3?",
+      "o": [
+        "+3",
+        "+4",
+        "+7",
+        "+1"
+      ],
+      "a": 1,
+      "e": "The oxidation number is +4 because two hydrogens total +2 and three oxygens total -6.",
+      "d": "Medium",
+      "topic": "Assigning oxidation numbers",
+      "slo": "Explain and apply assigning oxidation numbers in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-103",
+      "q": "What is the oxidation number of C in Na2CO3?",
+      "o": [
+        "+4",
+        "+5",
+        "+6",
+        "+2"
+      ],
+      "a": 0,
+      "e": "The oxidation number is +4 because two sodiums total +2 and three oxygens total -6.",
+      "d": "Medium",
+      "topic": "Assigning oxidation numbers",
+      "slo": "Explain and apply assigning oxidation numbers in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-104",
+      "q": "What is the oxidation number of C in CaCO3?",
+      "o": [
+        "-1",
+        "+4",
+        "+6",
+        "-2"
+      ],
+      "a": 1,
+      "e": "The oxidation number is +4 because calcium is +2 and three oxygens total -6.",
+      "d": "Medium",
+      "topic": "Assigning oxidation numbers",
+      "slo": "Explain and apply assigning oxidation numbers in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-105",
+      "q": "What is the oxidation number of C in HCO3-?",
+      "o": [
+        "+6",
+        "-1",
+        "+5",
+        "+4"
+      ],
+      "a": 3,
+      "e": "The oxidation number is +4 because H is +1, oxygen totals -6, and the ion charge is -1.",
+      "d": "Medium",
+      "topic": "Assigning oxidation numbers",
+      "slo": "Explain and apply assigning oxidation numbers in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-106",
+      "q": "What is the oxidation number of C in CO3 2-?",
+      "o": [
+        "+5",
+        "+2",
+        "+1",
+        "+4"
+      ],
+      "a": 3,
+      "e": "The oxidation number is +4 because three oxygens total -6 and the ion charge is -2.",
+      "d": "Medium",
+      "topic": "Assigning oxidation numbers",
+      "slo": "Explain and apply assigning oxidation numbers in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-107",
+      "q": "What is the oxidation number of S in H2SO4?",
+      "o": [
+        "+4",
+        "+6",
+        "0",
+        "-3"
+      ],
+      "a": 1,
+      "e": "The oxidation number is +6 because two hydrogens total +2 and four oxygens total -8.",
+      "d": "Medium",
+      "topic": "Assigning oxidation numbers",
+      "slo": "Explain and apply assigning oxidation numbers in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-108",
+      "q": "What is the oxidation number of S in SO2?",
+      "o": [
+        "-3",
+        "+4",
+        "+6",
+        "-2"
+      ],
+      "a": 1,
+      "e": "The oxidation number is +4 because two oxygens total -4.",
+      "d": "Medium",
+      "topic": "Assigning oxidation numbers",
+      "slo": "Explain and apply assigning oxidation numbers in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-109",
+      "q": "What is the oxidation number of S in SO3?",
+      "o": [
+        "+6",
+        "+2",
+        "+3",
+        "-1"
+      ],
+      "a": 0,
+      "e": "The oxidation number is +6 because three oxygens total -6.",
+      "d": "Medium",
+      "topic": "Assigning oxidation numbers",
+      "slo": "Explain and apply assigning oxidation numbers in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-110",
+      "q": "What is the oxidation number of S in H2S?",
+      "o": [
+        "-2",
+        "+6",
+        "-3",
+        "+3"
+      ],
+      "a": 0,
+      "e": "The oxidation number is -2 because two hydrogens total +2.",
+      "d": "Medium",
+      "topic": "Assigning oxidation numbers",
+      "slo": "Explain and apply assigning oxidation numbers in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-111",
+      "q": "What is the oxidation number of S in Na2S?",
+      "o": [
+        "+6",
+        "+4",
+        "-2",
+        "0"
+      ],
+      "a": 2,
+      "e": "The oxidation number is -2 because two sodiums total +2.",
+      "d": "Medium",
+      "topic": "Assigning oxidation numbers",
+      "slo": "Explain and apply assigning oxidation numbers in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-112",
+      "q": "What is the oxidation number of S in SO4 2-?",
+      "o": [
+        "+5",
+        "+6",
+        "+7",
+        "+1"
+      ],
+      "a": 1,
+      "e": "The oxidation number is +6 because four oxygens total -8 and ion charge is -2.",
+      "d": "Medium",
+      "topic": "Assigning oxidation numbers",
+      "slo": "Explain and apply assigning oxidation numbers in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-113",
+      "q": "What is the oxidation number of S in SO3 2-?",
+      "o": [
+        "-3",
+        "-2",
+        "+3",
+        "+4"
+      ],
+      "a": 3,
+      "e": "The oxidation number is +4 because three oxygens total -6 and ion charge is -2.",
+      "d": "Medium",
+      "topic": "Assigning oxidation numbers",
+      "slo": "Explain and apply assigning oxidation numbers in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-114",
+      "q": "What is the oxidation number of S in Na2SO4?",
+      "o": [
+        "+6",
+        "0",
+        "+4",
+        "+1"
+      ],
+      "a": 0,
+      "e": "The oxidation number is +6 because two sodiums total +2 and four oxygens total -8.",
+      "d": "Medium",
+      "topic": "Assigning oxidation numbers",
+      "slo": "Explain and apply assigning oxidation numbers in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-115",
+      "q": "What is the oxidation number of S in Na2SO3?",
+      "o": [
+        "+5",
+        "-2",
+        "+6",
+        "+4"
+      ],
+      "a": 3,
+      "e": "The oxidation number is +4 because two sodiums total +2 and three oxygens total -6.",
+      "d": "Medium",
+      "topic": "Assigning oxidation numbers",
+      "slo": "Explain and apply assigning oxidation numbers in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-116",
+      "q": "What is the oxidation number of S in H2SO3?",
+      "o": [
+        "+6",
+        "+4",
+        "+3",
+        "-3"
+      ],
+      "a": 1,
+      "e": "The oxidation number is +4 because two hydrogens total +2 and three oxygens total -6.",
+      "d": "Medium",
+      "topic": "Assigning oxidation numbers",
+      "slo": "Explain and apply assigning oxidation numbers in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-117",
+      "q": "What is the oxidation number of N in HNO3?",
+      "o": [
+        "+7",
+        "-3",
+        "+5",
+        "+6"
+      ],
+      "a": 2,
+      "e": "The oxidation number is +5 because hydrogen is +1 and three oxygens total -6.",
+      "d": "Medium",
+      "topic": "Assigning oxidation numbers",
+      "slo": "Explain and apply assigning oxidation numbers in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-118",
+      "q": "What is the oxidation number of N in HNO2?",
+      "o": [
+        "+1",
+        "+6",
+        "+3",
+        "-2"
+      ],
+      "a": 2,
+      "e": "The oxidation number is +3 because hydrogen is +1 and two oxygens total -4.",
+      "d": "Medium",
+      "topic": "Assigning oxidation numbers",
+      "slo": "Explain and apply assigning oxidation numbers in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-119",
+      "q": "What is the oxidation number of N in NO?",
+      "o": [
+        "+3",
+        "+1",
+        "+4",
+        "+2"
+      ],
+      "a": 3,
+      "e": "The oxidation number is +2 because oxygen is -2.",
+      "d": "Medium",
+      "topic": "Assigning oxidation numbers",
+      "slo": "Explain and apply assigning oxidation numbers in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-120",
+      "q": "What is the oxidation number of N in NO2?",
+      "o": [
+        "+5",
+        "+4",
+        "+3",
+        "+7"
+      ],
+      "a": 1,
+      "e": "The oxidation number is +4 because two oxygens total -4.",
+      "d": "Medium",
+      "topic": "Assigning oxidation numbers",
+      "slo": "Explain and apply assigning oxidation numbers in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-121",
+      "q": "What is the oxidation number of N in N2O?",
+      "o": [
+        "+6",
+        "+1",
+        "-1",
+        "0"
+      ],
+      "a": 1,
+      "e": "The oxidation number is +1 because oxygen is -2 shared across two nitrogen atoms (average).",
+      "d": "Medium",
+      "topic": "Assigning oxidation numbers",
+      "slo": "Explain and apply assigning oxidation numbers in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-122",
+      "q": "What is the oxidation number of N in NH3?",
+      "o": [
+        "+2",
+        "-3",
+        "+6",
+        "+3"
+      ],
+      "a": 1,
+      "e": "The oxidation number is -3 because three hydrogens total +3.",
+      "d": "Medium",
+      "topic": "Assigning oxidation numbers",
+      "slo": "Explain and apply assigning oxidation numbers in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-123",
+      "q": "What is the oxidation number of N in NH4+?",
+      "o": [
+        "-3",
+        "+2",
+        "+6",
+        "+4"
+      ],
+      "a": 0,
+      "e": "The oxidation number is -3 because four hydrogens total +4 and ion charge is +1.",
+      "d": "Medium",
+      "topic": "Assigning oxidation numbers",
+      "slo": "Explain and apply assigning oxidation numbers in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-124",
+      "q": "What is the oxidation number of N in NO3-?",
+      "o": [
+        "-1",
+        "+5",
+        "-3",
+        "+6"
+      ],
+      "a": 1,
+      "e": "The oxidation number is +5 because three oxygens total -6 and ion charge is -1.",
+      "d": "Medium",
+      "topic": "Assigning oxidation numbers",
+      "slo": "Explain and apply assigning oxidation numbers in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-125",
+      "q": "What is the oxidation number of N in NO2-?",
+      "o": [
+        "+3",
+        "-3",
+        "+7",
+        "0"
+      ],
+      "a": 0,
+      "e": "The oxidation number is +3 because two oxygens total -4 and ion charge is -1.",
+      "d": "Medium",
+      "topic": "Assigning oxidation numbers",
+      "slo": "Explain and apply assigning oxidation numbers in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-126",
+      "q": "What is the oxidation number of N in NaNO3?",
+      "o": [
+        "-3",
+        "+2",
+        "+7",
+        "+5"
+      ],
+      "a": 3,
+      "e": "The oxidation number is +5 because sodium is +1 and three oxygens total -6.",
+      "d": "Medium",
+      "topic": "Assigning oxidation numbers",
+      "slo": "Explain and apply assigning oxidation numbers in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-127",
+      "q": "What is the oxidation number of N in NaNO2?",
+      "o": [
+        "+7",
+        "+3",
+        "+2",
+        "-1"
+      ],
+      "a": 1,
+      "e": "The oxidation number is +3 because sodium is +1 and two oxygens total -4.",
+      "d": "Medium",
+      "topic": "Assigning oxidation numbers",
+      "slo": "Explain and apply assigning oxidation numbers in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-128",
+      "q": "What is the oxidation number of N in KNO3?",
+      "o": [
+        "-2",
+        "+1",
+        "+2",
+        "+5"
+      ],
+      "a": 3,
+      "e": "The oxidation number is +5 because potassium is +1 and three oxygens total -6.",
+      "d": "Medium",
+      "topic": "Assigning oxidation numbers",
+      "slo": "Explain and apply assigning oxidation numbers in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-129",
+      "q": "What is the oxidation number of N in N2O5?",
+      "o": [
+        "-1",
+        "-2",
+        "+5",
+        "+1"
+      ],
+      "a": 2,
+      "e": "The oxidation number is +5 because five oxygens total -10 for two nitrogen atoms.",
+      "d": "Medium",
+      "topic": "Assigning oxidation numbers",
+      "slo": "Explain and apply assigning oxidation numbers in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-130",
+      "q": "What is the oxidation number of N in N2O3?",
+      "o": [
+        "+3",
+        "+1",
+        "-3",
+        "0"
+      ],
+      "a": 0,
+      "e": "The oxidation number is +3 because three oxygens total -6 for two nitrogen atoms.",
+      "d": "Medium",
+      "topic": "Assigning oxidation numbers",
+      "slo": "Explain and apply assigning oxidation numbers in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-131",
+      "q": "What is the oxidation number of Cl in HCl?",
+      "o": [
+        "-2",
+        "+3",
+        "-1",
+        "+5"
+      ],
+      "a": 2,
+      "e": "The oxidation number is -1 because hydrogen is +1.",
+      "d": "Medium",
+      "topic": "Assigning oxidation numbers",
+      "slo": "Explain and apply assigning oxidation numbers in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-132",
+      "q": "What is the oxidation number of Cl in NaClO?",
+      "o": [
+        "-3",
+        "+7",
+        "+6",
+        "+1"
+      ],
+      "a": 3,
+      "e": "The oxidation number is +1 because sodium is +1 and oxygen -2.",
+      "d": "Medium",
+      "topic": "Assigning oxidation numbers",
+      "slo": "Explain and apply assigning oxidation numbers in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-133",
+      "q": "What is the oxidation number of Cl in NaClO2?",
+      "o": [
+        "-3",
+        "+4",
+        "+1",
+        "+3"
+      ],
+      "a": 3,
+      "e": "The oxidation number is +3 because sodium is +1 and two oxygens total -4.",
+      "d": "Medium",
+      "topic": "Assigning oxidation numbers",
+      "slo": "Explain and apply assigning oxidation numbers in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-134",
+      "q": "What is the oxidation number of Cl in NaClO3?",
+      "o": [
+        "+2",
+        "+5",
+        "+3",
+        "+7"
+      ],
+      "a": 1,
+      "e": "The oxidation number is +5 because sodium is +1 and three oxygens total -6.",
+      "d": "Medium",
+      "topic": "Assigning oxidation numbers",
+      "slo": "Explain and apply assigning oxidation numbers in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-135",
+      "q": "What is the oxidation number of Cl in NaClO4?",
+      "o": [
+        "+3",
+        "-2",
+        "+7",
+        "+1"
+      ],
+      "a": 2,
+      "e": "The oxidation number is +7 because sodium is +1 and four oxygens total -8.",
+      "d": "Medium",
+      "topic": "Assigning oxidation numbers",
+      "slo": "Explain and apply assigning oxidation numbers in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-136",
+      "q": "What is the oxidation number of Cl in HClO?",
+      "o": [
+        "0",
+        "+3",
+        "+4",
+        "+1"
+      ],
+      "a": 3,
+      "e": "The oxidation number is +1 because hydrogen is +1 and oxygen -2.",
+      "d": "Medium",
+      "topic": "Assigning oxidation numbers",
+      "slo": "Explain and apply assigning oxidation numbers in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-137",
+      "q": "What is the oxidation number of Cl in HClO2?",
+      "o": [
+        "+1",
+        "+7",
+        "+3",
+        "-1"
+      ],
+      "a": 2,
+      "e": "The oxidation number is +3 because hydrogen is +1 and two oxygens total -4.",
+      "d": "Medium",
+      "topic": "Assigning oxidation numbers",
+      "slo": "Explain and apply assigning oxidation numbers in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-138",
+      "q": "What is the oxidation number of Cl in HClO3?",
+      "o": [
+        "-1",
+        "+3",
+        "-3",
+        "+5"
+      ],
+      "a": 3,
+      "e": "The oxidation number is +5 because hydrogen is +1 and three oxygens total -6.",
+      "d": "Medium",
+      "topic": "Assigning oxidation numbers",
+      "slo": "Explain and apply assigning oxidation numbers in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-139",
+      "q": "What is the oxidation number of Cl in HClO4?",
+      "o": [
+        "-2",
+        "+2",
+        "+7",
+        "+5"
+      ],
+      "a": 2,
+      "e": "The oxidation number is +7 because hydrogen is +1 and four oxygens total -8.",
+      "d": "Medium",
+      "topic": "Assigning oxidation numbers",
+      "slo": "Explain and apply assigning oxidation numbers in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-140",
+      "q": "What is the oxidation number of Cl in ClO-?",
+      "o": [
+        "0",
+        "-2",
+        "+1",
+        "+6"
+      ],
+      "a": 2,
+      "e": "The oxidation number is +1 because oxygen is -2 and ion charge is -1.",
+      "d": "Medium",
+      "topic": "Assigning oxidation numbers",
+      "slo": "Explain and apply assigning oxidation numbers in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-141",
+      "q": "What is the oxidation number of Cl in ClO2-?",
+      "o": [
+        "-2",
+        "+3",
+        "+2",
+        "+1"
+      ],
+      "a": 1,
+      "e": "The oxidation number is +3 because two oxygens total -4 and ion charge is -1.",
+      "d": "Medium",
+      "topic": "Assigning oxidation numbers",
+      "slo": "Explain and apply assigning oxidation numbers in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-142",
+      "q": "What is the oxidation number of Cl in ClO3-?",
+      "o": [
+        "+5",
+        "-3",
+        "0",
+        "-1"
+      ],
+      "a": 0,
+      "e": "The oxidation number is +5 because three oxygens total -6 and ion charge is -1.",
+      "d": "Medium",
+      "topic": "Assigning oxidation numbers",
+      "slo": "Explain and apply assigning oxidation numbers in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-143",
+      "q": "What is the oxidation number of Cl in ClO4-?",
+      "o": [
+        "0",
+        "+1",
+        "+7",
+        "+6"
+      ],
+      "a": 2,
+      "e": "The oxidation number is +7 because four oxygens total -8 and ion charge is -1.",
+      "d": "Medium",
+      "topic": "Assigning oxidation numbers",
+      "slo": "Explain and apply assigning oxidation numbers in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-144",
+      "q": "What is the oxidation number of Mn in KMnO4?",
+      "o": [
+        "+5",
+        "+4",
+        "+1",
+        "+7"
+      ],
+      "a": 3,
+      "e": "The oxidation number is +7 because potassium is +1 and four oxygens total -8.",
+      "d": "Medium",
+      "topic": "Assigning oxidation numbers",
+      "slo": "Explain and apply assigning oxidation numbers in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-145",
+      "q": "What is the oxidation number of Mn in MnO4-?",
+      "o": [
+        "0",
+        "+2",
+        "+7",
+        "+1"
+      ],
+      "a": 2,
+      "e": "The oxidation number is +7 because four oxygens total -8 and ion charge is -1.",
+      "d": "Medium",
+      "topic": "Assigning oxidation numbers",
+      "slo": "Explain and apply assigning oxidation numbers in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-146",
+      "q": "What is the oxidation number of Mn in K2MnO4?",
+      "o": [
+        "+6",
+        "-2",
+        "+1",
+        "0"
+      ],
+      "a": 0,
+      "e": "The oxidation number is +6 because two potassiums total +2 and four oxygens total -8.",
+      "d": "Medium",
+      "topic": "Assigning oxidation numbers",
+      "slo": "Explain and apply assigning oxidation numbers in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-147",
+      "q": "What is the oxidation number of Cr in CrO4 2-?",
+      "o": [
+        "-1",
+        "-3",
+        "+6",
+        "+7"
+      ],
+      "a": 2,
+      "e": "The oxidation number is +6 because four oxygens total -8 and ion charge is -2.",
+      "d": "Medium",
+      "topic": "Assigning oxidation numbers",
+      "slo": "Explain and apply assigning oxidation numbers in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-148",
+      "q": "What is the oxidation number of Cr in Cr2O7 2-?",
+      "o": [
+        "+6",
+        "0",
+        "+7",
+        "-2"
+      ],
+      "a": 0,
+      "e": "The oxidation number is +6 because seven oxygens total -14, two chromiums total +12, and ion charge -2.",
+      "d": "Medium",
+      "topic": "Assigning oxidation numbers",
+      "slo": "Explain and apply assigning oxidation numbers in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-149",
+      "q": "What is the oxidation number of Cr in K2CrO4?",
+      "o": [
+        "+6",
+        "+1",
+        "-3",
+        "+2"
+      ],
+      "a": 0,
+      "e": "The oxidation number is +6 because two potassiums total +2 and four oxygens total -8.",
+      "d": "Medium",
+      "topic": "Assigning oxidation numbers",
+      "slo": "Explain and apply assigning oxidation numbers in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-150",
+      "q": "What is the oxidation number of Cr in K2Cr2O7?",
+      "o": [
+        "+2",
+        "+7",
+        "+1",
+        "+6"
+      ],
+      "a": 3,
+      "e": "The oxidation number is +6 because two potassiums total +2 and seven oxygens total -14 for two chromium atoms.",
+      "d": "Medium",
+      "topic": "Assigning oxidation numbers",
+      "slo": "Explain and apply assigning oxidation numbers in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-151",
+      "q": "What is the oxidation number of P in H3PO4?",
+      "o": [
+        "+6",
+        "+7",
+        "+5",
+        "+3"
+      ],
+      "a": 2,
+      "e": "The oxidation number is +5 because three hydrogens total +3 and four oxygens total -8.",
+      "d": "Medium",
+      "topic": "Assigning oxidation numbers",
+      "slo": "Explain and apply assigning oxidation numbers in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-152",
+      "q": "What is the oxidation number of P in H3PO3?",
+      "o": [
+        "+3",
+        "0",
+        "+4",
+        "+7"
+      ],
+      "a": 0,
+      "e": "The oxidation number is +3 because three hydrogens total +3 and three oxygens total -6.",
+      "d": "Medium",
+      "topic": "Assigning oxidation numbers",
+      "slo": "Explain and apply assigning oxidation numbers in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-153",
+      "q": "What is the oxidation number of P in PO4 3-?",
+      "o": [
+        "-2",
+        "+5",
+        "+7",
+        "+2"
+      ],
+      "a": 1,
+      "e": "The oxidation number is +5 because four oxygens total -8 and ion charge is -3.",
+      "d": "Medium",
+      "topic": "Assigning oxidation numbers",
+      "slo": "Explain and apply assigning oxidation numbers in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-154",
+      "q": "What is the oxidation number of P in Na3PO4?",
+      "o": [
+        "0",
+        "+6",
+        "+5",
+        "-1"
+      ],
+      "a": 2,
+      "e": "The oxidation number is +5 because three sodiums total +3 and four oxygens total -8.",
+      "d": "Medium",
+      "topic": "Assigning oxidation numbers",
+      "slo": "Explain and apply assigning oxidation numbers in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-155",
+      "q": "What is the oxidation number of P in PCl3?",
+      "o": [
+        "+2",
+        "-2",
+        "+5",
+        "+3"
+      ],
+      "a": 3,
+      "e": "The oxidation number is +3 because three chlorines total -3.",
+      "d": "Medium",
+      "topic": "Assigning oxidation numbers",
+      "slo": "Explain and apply assigning oxidation numbers in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-156",
+      "q": "What is the oxidation number of P in PCl5?",
+      "o": [
+        "+5",
+        "-2",
+        "+1",
+        "+3"
+      ],
+      "a": 0,
+      "e": "The oxidation number is +5 because five chlorines total -5.",
+      "d": "Medium",
+      "topic": "Assigning oxidation numbers",
+      "slo": "Explain and apply assigning oxidation numbers in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-157",
+      "q": "What is the oxidation number of P in PH3?",
+      "o": [
+        "+4",
+        "-3",
+        "+2",
+        "+3"
+      ],
+      "a": 1,
+      "e": "The oxidation number is -3 because three hydrogens total +3.",
+      "d": "Medium",
+      "topic": "Assigning oxidation numbers",
+      "slo": "Explain and apply assigning oxidation numbers in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-158",
+      "q": "What is the oxidation number of O in H2O?",
+      "o": [
+        "+6",
+        "+7",
+        "-2",
+        "+2"
+      ],
+      "a": 2,
+      "e": "The oxidation number is -2 because two hydrogens total +2.",
+      "d": "Medium",
+      "topic": "Assigning oxidation numbers",
+      "slo": "Explain and apply assigning oxidation numbers in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-159",
+      "q": "What is the oxidation number of O in H2O2?",
+      "o": [
+        "+4",
+        "+1",
+        "-1",
+        "+3"
+      ],
+      "a": 2,
+      "e": "The oxidation number is -1 because this is a peroxide.",
+      "d": "Medium",
+      "topic": "Assigning oxidation numbers",
+      "slo": "Explain and apply assigning oxidation numbers in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-160",
+      "q": "What is the oxidation number of O in Na2O2?",
+      "o": [
+        "+4",
+        "-2",
+        "-3",
+        "-1"
+      ],
+      "a": 3,
+      "e": "The oxidation number is -1 because this is a peroxide.",
+      "d": "Medium",
+      "topic": "Assigning oxidation numbers",
+      "slo": "Explain and apply assigning oxidation numbers in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-161",
+      "q": "What is the oxidation number of H in NaH?",
+      "o": [
+        "0",
+        "+7",
+        "-1",
+        "+1"
+      ],
+      "a": 2,
+      "e": "The oxidation number is -1 because this is a metal hydride.",
+      "d": "Medium",
+      "topic": "Assigning oxidation numbers",
+      "slo": "Explain and apply assigning oxidation numbers in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-162",
+      "q": "What is the oxidation number of H in CaH2?",
+      "o": [
+        "+1",
+        "0",
+        "-1",
+        "+3"
+      ],
+      "a": 2,
+      "e": "The oxidation number is -1 because this is a metal hydride.",
+      "d": "Medium",
+      "topic": "Assigning oxidation numbers",
+      "slo": "Explain and apply assigning oxidation numbers in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-163",
+      "q": "What is the oxidation number of H in H2O?",
+      "o": [
+        "-2",
+        "+7",
+        "+1",
+        "+2"
+      ],
+      "a": 2,
+      "e": "The oxidation number is +1 because hydrogen is +1 with a nonmetal.",
+      "d": "Medium",
+      "topic": "Assigning oxidation numbers",
+      "slo": "Explain and apply assigning oxidation numbers in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-164",
+      "q": "What is the oxidation number of H in HCl?",
+      "o": [
+        "-1",
+        "+4",
+        "+1",
+        "+2"
+      ],
+      "a": 2,
+      "e": "The oxidation number is +1 because hydrogen is +1 with a nonmetal.",
+      "d": "Medium",
+      "topic": "Assigning oxidation numbers",
+      "slo": "Explain and apply assigning oxidation numbers in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-165",
+      "q": "What is the oxidation number of H in NH3?",
+      "o": [
+        "-2",
+        "+1",
+        "+4",
+        "+5"
+      ],
+      "a": 1,
+      "e": "The oxidation number is +1 because hydrogen is +1 with a nonmetal.",
+      "d": "Medium",
+      "topic": "Assigning oxidation numbers",
+      "slo": "Explain and apply assigning oxidation numbers in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-166",
+      "q": "A student assigns oxidation states in NaCl. Which value should be written for Na?",
+      "o": [
+        "+1",
+        "+5",
+        "+2",
+        "0"
+      ],
+      "a": 0,
+      "e": "For NaCl, Na is +1: Na is an alkali metal.",
+      "d": "Medium",
+      "topic": "Oxidation state practice",
+      "slo": "Explain and apply oxidation state practice in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-167",
+      "q": "A student assigns oxidation states in KBr. Which value should be written for K?",
+      "o": [
+        "+1",
+        "-3",
+        "-2",
+        "+7"
+      ],
+      "a": 0,
+      "e": "For KBr, K is +1: K is an alkali metal.",
+      "d": "Medium",
+      "topic": "Oxidation state practice",
+      "slo": "Explain and apply oxidation state practice in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-168",
+      "q": "A student assigns oxidation states in LiF. Which value should be written for Li?",
+      "o": [
+        "+2",
+        "+1",
+        "+3",
+        "-2"
+      ],
+      "a": 1,
+      "e": "For LiF, Li is +1: Li is an alkali metal.",
+      "d": "Medium",
+      "topic": "Oxidation state practice",
+      "slo": "Explain and apply oxidation state practice in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-169",
+      "q": "A student assigns oxidation states in MgO. Which value should be written for Mg?",
+      "o": [
+        "+1",
+        "+2",
+        "+5",
+        "+4"
+      ],
+      "a": 1,
+      "e": "For MgO, Mg is +2: oxygen is -2.",
+      "d": "Medium",
+      "topic": "Oxidation state practice",
+      "slo": "Explain and apply oxidation state practice in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-170",
+      "q": "A student assigns oxidation states in CaO. Which value should be written for Ca?",
+      "o": [
+        "+2",
+        "+5",
+        "+6",
+        "+4"
+      ],
+      "a": 0,
+      "e": "For CaO, Ca is +2: oxygen is -2.",
+      "d": "Medium",
+      "topic": "Oxidation state practice",
+      "slo": "Explain and apply oxidation state practice in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-171",
+      "q": "A student assigns oxidation states in BaCl2. Which value should be written for Ba?",
+      "o": [
+        "+3",
+        "+2",
+        "+1",
+        "-2"
+      ],
+      "a": 1,
+      "e": "For BaCl2, Ba is +2: two chlorides contribute -2.",
+      "d": "Medium",
+      "topic": "Oxidation state practice",
+      "slo": "Explain and apply oxidation state practice in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-172",
+      "q": "A student assigns oxidation states in AlCl3. Which value should be written for Al?",
+      "o": [
+        "+2",
+        "+3",
+        "-1",
+        "+7"
+      ],
+      "a": 1,
+      "e": "For AlCl3, Al is +3: three chlorides contribute -3.",
+      "d": "Medium",
+      "topic": "Oxidation state practice",
+      "slo": "Explain and apply oxidation state practice in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-173",
+      "q": "A student assigns oxidation states in Al2O3. Which value should be written for Al?",
+      "o": [
+        "-3",
+        "0",
+        "+3",
+        "+4"
+      ],
+      "a": 2,
+      "e": "For Al2O3, Al is +3: three oxygens contribute -6.",
+      "d": "Medium",
+      "topic": "Oxidation state practice",
+      "slo": "Explain and apply oxidation state practice in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-174",
+      "q": "A student assigns oxidation states in ZnO. Which value should be written for Zn?",
+      "o": [
+        "-1",
+        "+4",
+        "+2",
+        "-2"
+      ],
+      "a": 2,
+      "e": "For ZnO, Zn is +2: oxygen is -2.",
+      "d": "Medium",
+      "topic": "Oxidation state practice",
+      "slo": "Explain and apply oxidation state practice in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-175",
+      "q": "A student assigns oxidation states in ZnCl2. Which value should be written for Zn?",
+      "o": [
+        "-3",
+        "+2",
+        "+6",
+        "+7"
+      ],
+      "a": 1,
+      "e": "For ZnCl2, Zn is +2: two chlorides contribute -2.",
+      "d": "Medium",
+      "topic": "Oxidation state practice",
+      "slo": "Explain and apply oxidation state practice in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-176",
+      "q": "A student assigns oxidation states in AgCl. Which value should be written for Ag?",
+      "o": [
+        "+1",
+        "-1",
+        "+6",
+        "-2"
+      ],
+      "a": 0,
+      "e": "For AgCl, Ag is +1: chlorine is -1.",
+      "d": "Medium",
+      "topic": "Oxidation state practice",
+      "slo": "Explain and apply oxidation state practice in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-177",
+      "q": "A student assigns oxidation states in CuO. Which value should be written for Cu?",
+      "o": [
+        "+6",
+        "+2",
+        "+5",
+        "+1"
+      ],
+      "a": 1,
+      "e": "For CuO, Cu is +2: oxygen is -2.",
+      "d": "Medium",
+      "topic": "Oxidation state practice",
+      "slo": "Explain and apply oxidation state practice in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-178",
+      "q": "A student assigns oxidation states in Cu2O. Which value should be written for Cu?",
+      "o": [
+        "+5",
+        "+2",
+        "+3",
+        "+1"
+      ],
+      "a": 3,
+      "e": "For Cu2O, Cu is +1: oxygen contributes -2 for two copper atoms.",
+      "d": "Medium",
+      "topic": "Oxidation state practice",
+      "slo": "Explain and apply oxidation state practice in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-179",
+      "q": "A student assigns oxidation states in FeO. Which value should be written for Fe?",
+      "o": [
+        "+5",
+        "+2",
+        "-3",
+        "+1"
+      ],
+      "a": 1,
+      "e": "For FeO, Fe is +2: oxygen is -2.",
+      "d": "Medium",
+      "topic": "Oxidation state practice",
+      "slo": "Explain and apply oxidation state practice in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-180",
+      "q": "A student assigns oxidation states in Fe2O3. Which value should be written for Fe?",
+      "o": [
+        "+3",
+        "+1",
+        "-2",
+        "+5"
+      ],
+      "a": 0,
+      "e": "For Fe2O3, Fe is +3: three oxygens total -6.",
+      "d": "Medium",
+      "topic": "Oxidation state practice",
+      "slo": "Explain and apply oxidation state practice in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-181",
+      "q": "A student assigns oxidation states in FeCl2. Which value should be written for Fe?",
+      "o": [
+        "+3",
+        "0",
+        "+2",
+        "-2"
+      ],
+      "a": 2,
+      "e": "For FeCl2, Fe is +2: two chlorides total -2.",
+      "d": "Medium",
+      "topic": "Oxidation state practice",
+      "slo": "Explain and apply oxidation state practice in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-182",
+      "q": "A student assigns oxidation states in FeCl3. Which value should be written for Fe?",
+      "o": [
+        "0",
+        "+2",
+        "+7",
+        "+3"
+      ],
+      "a": 3,
+      "e": "For FeCl3, Fe is +3: three chlorides total -3.",
+      "d": "Medium",
+      "topic": "Oxidation state practice",
+      "slo": "Explain and apply oxidation state practice in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-183",
+      "q": "A student assigns oxidation states in SnCl2. Which value should be written for Sn?",
+      "o": [
+        "+3",
+        "+7",
+        "+6",
+        "+2"
+      ],
+      "a": 3,
+      "e": "For SnCl2, Sn is +2: two chlorides total -2.",
+      "d": "Medium",
+      "topic": "Oxidation state practice",
+      "slo": "Explain and apply oxidation state practice in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-184",
+      "q": "A student assigns oxidation states in SnCl4. Which value should be written for Sn?",
+      "o": [
+        "+4",
+        "-3",
+        "0",
+        "+1"
+      ],
+      "a": 0,
+      "e": "For SnCl4, Sn is +4: four chlorides total -4.",
+      "d": "Medium",
+      "topic": "Oxidation state practice",
+      "slo": "Explain and apply oxidation state practice in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-185",
+      "q": "A student assigns oxidation states in PbO. Which value should be written for Pb?",
+      "o": [
+        "+2",
+        "-2",
+        "+1",
+        "-1"
+      ],
+      "a": 0,
+      "e": "For PbO, Pb is +2: oxygen is -2.",
+      "d": "Medium",
+      "topic": "Oxidation state practice",
+      "slo": "Explain and apply oxidation state practice in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-186",
+      "q": "A student assigns oxidation states in PbO2. Which value should be written for Pb?",
+      "o": [
+        "+4",
+        "-3",
+        "+2",
+        "+5"
+      ],
+      "a": 0,
+      "e": "For PbO2, Pb is +4: two oxygens total -4.",
+      "d": "Medium",
+      "topic": "Oxidation state practice",
+      "slo": "Explain and apply oxidation state practice in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-187",
+      "q": "A student assigns oxidation states in MnO2. Which value should be written for Mn?",
+      "o": [
+        "+1",
+        "+7",
+        "+4",
+        "-1"
+      ],
+      "a": 2,
+      "e": "For MnO2, Mn is +4: two oxygens total -4.",
+      "d": "Medium",
+      "topic": "Oxidation state practice",
+      "slo": "Explain and apply oxidation state practice in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-188",
+      "q": "A student assigns oxidation states in CO2. Which value should be written for C?",
+      "o": [
+        "-2",
+        "+6",
+        "+3",
+        "+4"
+      ],
+      "a": 3,
+      "e": "For CO2, C is +4: two oxygens total -4.",
+      "d": "Medium",
+      "topic": "Oxidation state practice",
+      "slo": "Explain and apply oxidation state practice in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-189",
+      "q": "A student assigns oxidation states in CO. Which value should be written for C?",
+      "o": [
+        "+7",
+        "+2",
+        "+4",
+        "+5"
+      ],
+      "a": 1,
+      "e": "For CO, C is +2: oxygen is -2.",
+      "d": "Medium",
+      "topic": "Oxidation state practice",
+      "slo": "Explain and apply oxidation state practice in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-190",
+      "q": "A student assigns oxidation states in CH4. Which value should be written for C?",
+      "o": [
+        "0",
+        "-3",
+        "+7",
+        "-4"
+      ],
+      "a": 3,
+      "e": "For CH4, C is -4: four hydrogens total +4.",
+      "d": "Medium",
+      "topic": "Oxidation state practice",
+      "slo": "Explain and apply oxidation state practice in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-191",
+      "q": "A student assigns oxidation states in CCl4. Which value should be written for C?",
+      "o": [
+        "+4",
+        "+1",
+        "-1",
+        "-3"
+      ],
+      "a": 0,
+      "e": "For CCl4, C is +4: four chlorines total -4.",
+      "d": "Medium",
+      "topic": "Oxidation state practice",
+      "slo": "Explain and apply oxidation state practice in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-192",
+      "q": "A student assigns oxidation states in CS2. Which value should be written for C?",
+      "o": [
+        "+6",
+        "-2",
+        "0",
+        "+4"
+      ],
+      "a": 3,
+      "e": "For CS2, C is +4: each sulfur is -2.",
+      "d": "Medium",
+      "topic": "Oxidation state practice",
+      "slo": "Explain and apply oxidation state practice in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-193",
+      "q": "A student assigns oxidation states in H2CO3. Which value should be written for C?",
+      "o": [
+        "+2",
+        "+6",
+        "+1",
+        "+4"
+      ],
+      "a": 3,
+      "e": "For H2CO3, C is +4: two hydrogens total +2 and three oxygens total -6.",
+      "d": "Medium",
+      "topic": "Oxidation state practice",
+      "slo": "Explain and apply oxidation state practice in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-194",
+      "q": "A student assigns oxidation states in Na2CO3. Which value should be written for C?",
+      "o": [
+        "+7",
+        "+1",
+        "+4",
+        "+6"
+      ],
+      "a": 2,
+      "e": "For Na2CO3, C is +4: two sodiums total +2 and three oxygens total -6.",
+      "d": "Medium",
+      "topic": "Oxidation state practice",
+      "slo": "Explain and apply oxidation state practice in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-195",
+      "q": "A student assigns oxidation states in CaCO3. Which value should be written for C?",
+      "o": [
+        "+6",
+        "-1",
+        "+4",
+        "+5"
+      ],
+      "a": 2,
+      "e": "For CaCO3, C is +4: calcium is +2 and three oxygens total -6.",
+      "d": "Medium",
+      "topic": "Oxidation state practice",
+      "slo": "Explain and apply oxidation state practice in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-196",
+      "q": "A student assigns oxidation states in HCO3-. Which value should be written for C?",
+      "o": [
+        "-1",
+        "+6",
+        "+7",
+        "+4"
+      ],
+      "a": 3,
+      "e": "For HCO3-, C is +4: H is +1, oxygen totals -6, and the ion charge is -1.",
+      "d": "Medium",
+      "topic": "Oxidation state practice",
+      "slo": "Explain and apply oxidation state practice in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-197",
+      "q": "A student assigns oxidation states in CO3 2-. Which value should be written for C?",
+      "o": [
+        "+7",
+        "+4",
+        "+6",
+        "+1"
+      ],
+      "a": 1,
+      "e": "For CO3 2-, C is +4: three oxygens total -6 and the ion charge is -2.",
+      "d": "Medium",
+      "topic": "Oxidation state practice",
+      "slo": "Explain and apply oxidation state practice in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-198",
+      "q": "A student assigns oxidation states in H2SO4. Which value should be written for S?",
+      "o": [
+        "+7",
+        "+6",
+        "-2",
+        "0"
+      ],
+      "a": 1,
+      "e": "For H2SO4, S is +6: two hydrogens total +2 and four oxygens total -8.",
+      "d": "Medium",
+      "topic": "Oxidation state practice",
+      "slo": "Explain and apply oxidation state practice in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-199",
+      "q": "A student assigns oxidation states in SO2. Which value should be written for S?",
+      "o": [
+        "+2",
+        "+4",
+        "-2",
+        "-1"
+      ],
+      "a": 1,
+      "e": "For SO2, S is +4: two oxygens total -4.",
+      "d": "Medium",
+      "topic": "Oxidation state practice",
+      "slo": "Explain and apply oxidation state practice in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-200",
+      "q": "A student assigns oxidation states in SO3. Which value should be written for S?",
+      "o": [
+        "+5",
+        "-1",
+        "+6",
+        "-2"
+      ],
+      "a": 2,
+      "e": "For SO3, S is +6: three oxygens total -6.",
+      "d": "Medium",
+      "topic": "Oxidation state practice",
+      "slo": "Explain and apply oxidation state practice in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-201",
+      "q": "A student assigns oxidation states in H2S. Which value should be written for S?",
+      "o": [
+        "-1",
+        "0",
+        "-2",
+        "+1"
+      ],
+      "a": 2,
+      "e": "For H2S, S is -2: two hydrogens total +2.",
+      "d": "Medium",
+      "topic": "Oxidation state practice",
+      "slo": "Explain and apply oxidation state practice in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-202",
+      "q": "A student assigns oxidation states in Na2S. Which value should be written for S?",
+      "o": [
+        "+1",
+        "-2",
+        "+2",
+        "-1"
+      ],
+      "a": 1,
+      "e": "For Na2S, S is -2: two sodiums total +2.",
+      "d": "Medium",
+      "topic": "Oxidation state practice",
+      "slo": "Explain and apply oxidation state practice in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-203",
+      "q": "A student assigns oxidation states in SO4 2-. Which value should be written for S?",
+      "o": [
+        "+1",
+        "+6",
+        "0",
+        "+5"
+      ],
+      "a": 1,
+      "e": "For SO4 2-, S is +6: four oxygens total -8 and ion charge is -2.",
+      "d": "Medium",
+      "topic": "Oxidation state practice",
+      "slo": "Explain and apply oxidation state practice in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-204",
+      "q": "A student assigns oxidation states in SO3 2-. Which value should be written for S?",
+      "o": [
+        "+2",
+        "+7",
+        "+4",
+        "-1"
+      ],
+      "a": 2,
+      "e": "For SO3 2-, S is +4: three oxygens total -6 and ion charge is -2.",
+      "d": "Medium",
+      "topic": "Oxidation state practice",
+      "slo": "Explain and apply oxidation state practice in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-205",
+      "q": "A student assigns oxidation states in Na2SO4. Which value should be written for S?",
+      "o": [
+        "-2",
+        "-1",
+        "+6",
+        "+2"
+      ],
+      "a": 2,
+      "e": "For Na2SO4, S is +6: two sodiums total +2 and four oxygens total -8.",
+      "d": "Medium",
+      "topic": "Oxidation state practice",
+      "slo": "Explain and apply oxidation state practice in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-206",
+      "q": "A student assigns oxidation states in Na2SO3. Which value should be written for S?",
+      "o": [
+        "+5",
+        "+4",
+        "-3",
+        "0"
+      ],
+      "a": 1,
+      "e": "For Na2SO3, S is +4: two sodiums total +2 and three oxygens total -6.",
+      "d": "Medium",
+      "topic": "Oxidation state practice",
+      "slo": "Explain and apply oxidation state practice in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-207",
+      "q": "A student assigns oxidation states in H2SO3. Which value should be written for S?",
+      "o": [
+        "+4",
+        "0",
+        "+7",
+        "+5"
+      ],
+      "a": 0,
+      "e": "For H2SO3, S is +4: two hydrogens total +2 and three oxygens total -6.",
+      "d": "Medium",
+      "topic": "Oxidation state practice",
+      "slo": "Explain and apply oxidation state practice in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-208",
+      "q": "A student assigns oxidation states in HNO3. Which value should be written for N?",
+      "o": [
+        "+5",
+        "+1",
+        "-3",
+        "0"
+      ],
+      "a": 0,
+      "e": "For HNO3, N is +5: hydrogen is +1 and three oxygens total -6.",
+      "d": "Medium",
+      "topic": "Oxidation state practice",
+      "slo": "Explain and apply oxidation state practice in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-209",
+      "q": "A student assigns oxidation states in HNO2. Which value should be written for N?",
+      "o": [
+        "+3",
+        "+6",
+        "0",
+        "+2"
+      ],
+      "a": 0,
+      "e": "For HNO2, N is +3: hydrogen is +1 and two oxygens total -4.",
+      "d": "Medium",
+      "topic": "Oxidation state practice",
+      "slo": "Explain and apply oxidation state practice in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-210",
+      "q": "A student assigns oxidation states in NO. Which value should be written for N?",
+      "o": [
+        "+2",
+        "+5",
+        "0",
+        "+4"
+      ],
+      "a": 0,
+      "e": "For NO, N is +2: oxygen is -2.",
+      "d": "Medium",
+      "topic": "Oxidation state practice",
+      "slo": "Explain and apply oxidation state practice in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-211",
+      "q": "A student assigns oxidation states in NO2. Which value should be written for N?",
+      "o": [
+        "+4",
+        "-1",
+        "0",
+        "+1"
+      ],
+      "a": 0,
+      "e": "For NO2, N is +4: two oxygens total -4.",
+      "d": "Medium",
+      "topic": "Oxidation state practice",
+      "slo": "Explain and apply oxidation state practice in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-212",
+      "q": "A student assigns oxidation states in N2O. Which value should be written for N?",
+      "o": [
+        "+5",
+        "+1",
+        "+6",
+        "+4"
+      ],
+      "a": 1,
+      "e": "For N2O, N is +1: oxygen is -2 shared across two nitrogen atoms (average).",
+      "d": "Medium",
+      "topic": "Oxidation state practice",
+      "slo": "Explain and apply oxidation state practice in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-213",
+      "q": "A student assigns oxidation states in NH3. Which value should be written for N?",
+      "o": [
+        "-3",
+        "-1",
+        "+4",
+        "+2"
+      ],
+      "a": 0,
+      "e": "For NH3, N is -3: three hydrogens total +3.",
+      "d": "Medium",
+      "topic": "Oxidation state practice",
+      "slo": "Explain and apply oxidation state practice in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-214",
+      "q": "A student assigns oxidation states in NH4+. Which value should be written for N?",
+      "o": [
+        "-2",
+        "0",
+        "-3",
+        "+6"
+      ],
+      "a": 2,
+      "e": "For NH4+, N is -3: four hydrogens total +4 and ion charge is +1.",
+      "d": "Medium",
+      "topic": "Oxidation state practice",
+      "slo": "Explain and apply oxidation state practice in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-215",
+      "q": "A student assigns oxidation states in NO3-. Which value should be written for N?",
+      "o": [
+        "+5",
+        "+7",
+        "+6",
+        "-1"
+      ],
+      "a": 0,
+      "e": "For NO3-, N is +5: three oxygens total -6 and ion charge is -1.",
+      "d": "Medium",
+      "topic": "Oxidation state practice",
+      "slo": "Explain and apply oxidation state practice in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-216",
+      "q": "A student assigns oxidation states in NO2-. Which value should be written for N?",
+      "o": [
+        "0",
+        "+1",
+        "+3",
+        "-3"
+      ],
+      "a": 2,
+      "e": "For NO2-, N is +3: two oxygens total -4 and ion charge is -1.",
+      "d": "Medium",
+      "topic": "Oxidation state practice",
+      "slo": "Explain and apply oxidation state practice in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-217",
+      "q": "A student assigns oxidation states in NaNO3. Which value should be written for N?",
+      "o": [
+        "+4",
+        "-2",
+        "+5",
+        "0"
+      ],
+      "a": 2,
+      "e": "For NaNO3, N is +5: sodium is +1 and three oxygens total -6.",
+      "d": "Medium",
+      "topic": "Oxidation state practice",
+      "slo": "Explain and apply oxidation state practice in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-218",
+      "q": "A student assigns oxidation states in NaNO2. Which value should be written for N?",
+      "o": [
+        "+1",
+        "-1",
+        "+3",
+        "0"
+      ],
+      "a": 2,
+      "e": "For NaNO2, N is +3: sodium is +1 and two oxygens total -4.",
+      "d": "Medium",
+      "topic": "Oxidation state practice",
+      "slo": "Explain and apply oxidation state practice in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-219",
+      "q": "A student assigns oxidation states in KNO3. Which value should be written for N?",
+      "o": [
+        "+4",
+        "+6",
+        "+3",
+        "+5"
+      ],
+      "a": 3,
+      "e": "For KNO3, N is +5: potassium is +1 and three oxygens total -6.",
+      "d": "Medium",
+      "topic": "Oxidation state practice",
+      "slo": "Explain and apply oxidation state practice in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-220",
+      "q": "A student assigns oxidation states in N2O5. Which value should be written for N?",
+      "o": [
+        "-1",
+        "+4",
+        "+5",
+        "-3"
+      ],
+      "a": 2,
+      "e": "For N2O5, N is +5: five oxygens total -10 for two nitrogen atoms.",
+      "d": "Medium",
+      "topic": "Oxidation state practice",
+      "slo": "Explain and apply oxidation state practice in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-221",
+      "q": "A student assigns oxidation states in N2O3. Which value should be written for N?",
+      "o": [
+        "+3",
+        "-2",
+        "-3",
+        "+7"
+      ],
+      "a": 0,
+      "e": "For N2O3, N is +3: three oxygens total -6 for two nitrogen atoms.",
+      "d": "Medium",
+      "topic": "Oxidation state practice",
+      "slo": "Explain and apply oxidation state practice in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-222",
+      "q": "A student assigns oxidation states in HCl. Which value should be written for Cl?",
+      "o": [
+        "+5",
+        "-1",
+        "+3",
+        "+6"
+      ],
+      "a": 1,
+      "e": "For HCl, Cl is -1: hydrogen is +1.",
+      "d": "Medium",
+      "topic": "Oxidation state practice",
+      "slo": "Explain and apply oxidation state practice in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-223",
+      "q": "A student assigns oxidation states in NaClO. Which value should be written for Cl?",
+      "o": [
+        "-2",
+        "+7",
+        "-3",
+        "+1"
+      ],
+      "a": 3,
+      "e": "For NaClO, Cl is +1: sodium is +1 and oxygen -2.",
+      "d": "Medium",
+      "topic": "Oxidation state practice",
+      "slo": "Explain and apply oxidation state practice in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-224",
+      "q": "A student assigns oxidation states in NaClO2. Which value should be written for Cl?",
+      "o": [
+        "+7",
+        "+1",
+        "-1",
+        "+3"
+      ],
+      "a": 3,
+      "e": "For NaClO2, Cl is +3: sodium is +1 and two oxygens total -4.",
+      "d": "Medium",
+      "topic": "Oxidation state practice",
+      "slo": "Explain and apply oxidation state practice in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-225",
+      "q": "A student assigns oxidation states in NaClO3. Which value should be written for Cl?",
+      "o": [
+        "+1",
+        "+2",
+        "+7",
+        "+5"
+      ],
+      "a": 3,
+      "e": "For NaClO3, Cl is +5: sodium is +1 and three oxygens total -6.",
+      "d": "Medium",
+      "topic": "Oxidation state practice",
+      "slo": "Explain and apply oxidation state practice in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-226",
+      "q": "A student assigns oxidation states in NaClO4. Which value should be written for Cl?",
+      "o": [
+        "-3",
+        "+7",
+        "-1",
+        "-2"
+      ],
+      "a": 1,
+      "e": "For NaClO4, Cl is +7: sodium is +1 and four oxygens total -8.",
+      "d": "Medium",
+      "topic": "Oxidation state practice",
+      "slo": "Explain and apply oxidation state practice in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-227",
+      "q": "A student assigns oxidation states in HClO. Which value should be written for Cl?",
+      "o": [
+        "+4",
+        "+6",
+        "+1",
+        "+5"
+      ],
+      "a": 2,
+      "e": "For HClO, Cl is +1: hydrogen is +1 and oxygen -2.",
+      "d": "Medium",
+      "topic": "Oxidation state practice",
+      "slo": "Explain and apply oxidation state practice in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-228",
+      "q": "In the change Fe2+ → Fe3+, which process takes place?",
+      "o": [
+        "Reduction",
+        "Only a physical change",
+        "Oxidation",
+        "Neither oxidation nor reduction"
+      ],
+      "a": 2,
+      "e": "Fe2+ → Fe3+ involves loss of electrons, so it is oxidation.",
+      "d": "Medium",
+      "topic": "Identifying oxidation and reduction",
+      "slo": "Explain and apply identifying oxidation and reduction in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-229",
+      "q": "How many electrons are lost in Fe2+ → Fe3+?",
+      "o": [
+        "4",
+        "1",
+        "2",
+        "3"
+      ],
+      "a": 1,
+      "e": "The balanced electron transfer for Fe2+ → Fe3+ involves 1 electron(s).",
+      "d": "Hard",
+      "topic": "Electron transfer",
+      "slo": "Explain and apply electron transfer in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-230",
+      "q": "In the change Fe3+ → Fe2+, which process takes place?",
+      "o": [
+        "Only a physical change",
+        "Oxidation",
+        "Neither oxidation nor reduction",
+        "Reduction"
+      ],
+      "a": 3,
+      "e": "Fe3+ → Fe2+ involves gain of electrons, so it is reduction.",
+      "d": "Medium",
+      "topic": "Identifying oxidation and reduction",
+      "slo": "Explain and apply identifying oxidation and reduction in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-231",
+      "q": "How many electrons are gained in Fe3+ → Fe2+?",
+      "o": [
+        "2",
+        "3",
+        "1",
+        "4"
+      ],
+      "a": 2,
+      "e": "The balanced electron transfer for Fe3+ → Fe2+ involves 1 electron(s).",
+      "d": "Hard",
+      "topic": "Electron transfer",
+      "slo": "Explain and apply electron transfer in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-232",
+      "q": "In the change Cu+ → Cu2+, which process takes place?",
+      "o": [
+        "Only a physical change",
+        "Reduction",
+        "Oxidation",
+        "Neither oxidation nor reduction"
+      ],
+      "a": 2,
+      "e": "Cu+ → Cu2+ involves loss of electrons, so it is oxidation.",
+      "d": "Medium",
+      "topic": "Identifying oxidation and reduction",
+      "slo": "Explain and apply identifying oxidation and reduction in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-233",
+      "q": "How many electrons are lost in Cu+ → Cu2+?",
+      "o": [
+        "2",
+        "1",
+        "3",
+        "4"
+      ],
+      "a": 1,
+      "e": "The balanced electron transfer for Cu+ → Cu2+ involves 1 electron(s).",
+      "d": "Hard",
+      "topic": "Electron transfer",
+      "slo": "Explain and apply electron transfer in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-234",
+      "q": "In the change Cu2+ → Cu+, which process takes place?",
+      "o": [
+        "Reduction",
+        "Oxidation",
+        "Neither oxidation nor reduction",
+        "Only a physical change"
+      ],
+      "a": 0,
+      "e": "Cu2+ → Cu+ involves gain of electrons, so it is reduction.",
+      "d": "Medium",
+      "topic": "Identifying oxidation and reduction",
+      "slo": "Explain and apply identifying oxidation and reduction in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-235",
+      "q": "How many electrons are gained in Cu2+ → Cu+?",
+      "o": [
+        "4",
+        "2",
+        "3",
+        "1"
+      ],
+      "a": 3,
+      "e": "The balanced electron transfer for Cu2+ → Cu+ involves 1 electron(s).",
+      "d": "Hard",
+      "topic": "Electron transfer",
+      "slo": "Explain and apply electron transfer in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-236",
+      "q": "In the change Sn2+ → Sn4+, which process takes place?",
+      "o": [
+        "Only a physical change",
+        "Reduction",
+        "Neither oxidation nor reduction",
+        "Oxidation"
+      ],
+      "a": 3,
+      "e": "Sn2+ → Sn4+ involves loss of electrons, so it is oxidation.",
+      "d": "Medium",
+      "topic": "Identifying oxidation and reduction",
+      "slo": "Explain and apply identifying oxidation and reduction in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-237",
+      "q": "How many electrons are lost in Sn2+ → Sn4+?",
+      "o": [
+        "2",
+        "3",
+        "4",
+        "1"
+      ],
+      "a": 0,
+      "e": "The balanced electron transfer for Sn2+ → Sn4+ involves 2 electron(s).",
+      "d": "Hard",
+      "topic": "Electron transfer",
+      "slo": "Explain and apply electron transfer in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-238",
+      "q": "In the change Sn4+ → Sn2+, which process takes place?",
+      "o": [
+        "Neither oxidation nor reduction",
+        "Only a physical change",
+        "Reduction",
+        "Oxidation"
+      ],
+      "a": 2,
+      "e": "Sn4+ → Sn2+ involves gain of electrons, so it is reduction.",
+      "d": "Medium",
+      "topic": "Identifying oxidation and reduction",
+      "slo": "Explain and apply identifying oxidation and reduction in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-239",
+      "q": "How many electrons are gained in Sn4+ → Sn2+?",
+      "o": [
+        "2",
+        "1",
+        "3",
+        "4"
+      ],
+      "a": 0,
+      "e": "The balanced electron transfer for Sn4+ → Sn2+ involves 2 electron(s).",
+      "d": "Hard",
+      "topic": "Electron transfer",
+      "slo": "Explain and apply electron transfer in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-240",
+      "q": "In the change Fe → Fe2+, which process takes place?",
+      "o": [
+        "Reduction",
+        "Oxidation",
+        "Neither oxidation nor reduction",
+        "Only a physical change"
+      ],
+      "a": 1,
+      "e": "Fe → Fe2+ involves loss of electrons, so it is oxidation.",
+      "d": "Medium",
+      "topic": "Identifying oxidation and reduction",
+      "slo": "Explain and apply identifying oxidation and reduction in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-241",
+      "q": "How many electrons are lost in Fe → Fe2+?",
+      "o": [
+        "3",
+        "4",
+        "1",
+        "2"
+      ],
+      "a": 3,
+      "e": "The balanced electron transfer for Fe → Fe2+ involves 2 electron(s).",
+      "d": "Hard",
+      "topic": "Electron transfer",
+      "slo": "Explain and apply electron transfer in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-242",
+      "q": "In the change Fe → Fe3+, which process takes place?",
+      "o": [
+        "Neither oxidation nor reduction",
+        "Only a physical change",
+        "Oxidation",
+        "Reduction"
+      ],
+      "a": 2,
+      "e": "Fe → Fe3+ involves loss of electrons, so it is oxidation.",
+      "d": "Medium",
+      "topic": "Identifying oxidation and reduction",
+      "slo": "Explain and apply identifying oxidation and reduction in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-243",
+      "q": "How many electrons are lost in Fe → Fe3+?",
+      "o": [
+        "2",
+        "4",
+        "3",
+        "1"
+      ],
+      "a": 2,
+      "e": "The balanced electron transfer for Fe → Fe3+ involves 3 electron(s).",
+      "d": "Hard",
+      "topic": "Electron transfer",
+      "slo": "Explain and apply electron transfer in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-244",
+      "q": "In the change Zn → Zn2+, which process takes place?",
+      "o": [
+        "Oxidation",
+        "Neither oxidation nor reduction",
+        "Only a physical change",
+        "Reduction"
+      ],
+      "a": 0,
+      "e": "Zn → Zn2+ involves loss of electrons, so it is oxidation.",
+      "d": "Medium",
+      "topic": "Identifying oxidation and reduction",
+      "slo": "Explain and apply identifying oxidation and reduction in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-245",
+      "q": "How many electrons are lost in Zn → Zn2+?",
+      "o": [
+        "1",
+        "4",
+        "3",
+        "2"
+      ],
+      "a": 3,
+      "e": "The balanced electron transfer for Zn → Zn2+ involves 2 electron(s).",
+      "d": "Hard",
+      "topic": "Electron transfer",
+      "slo": "Explain and apply electron transfer in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-246",
+      "q": "In the change Mg → Mg2+, which process takes place?",
+      "o": [
+        "Neither oxidation nor reduction",
+        "Reduction",
+        "Oxidation",
+        "Only a physical change"
+      ],
+      "a": 2,
+      "e": "Mg → Mg2+ involves loss of electrons, so it is oxidation.",
+      "d": "Medium",
+      "topic": "Identifying oxidation and reduction",
+      "slo": "Explain and apply identifying oxidation and reduction in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-247",
+      "q": "How many electrons are lost in Mg → Mg2+?",
+      "o": [
+        "1",
+        "2",
+        "4",
+        "3"
+      ],
+      "a": 1,
+      "e": "The balanced electron transfer for Mg → Mg2+ involves 2 electron(s).",
+      "d": "Hard",
+      "topic": "Electron transfer",
+      "slo": "Explain and apply electron transfer in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-248",
+      "q": "In the change Al → Al3+, which process takes place?",
+      "o": [
+        "Only a physical change",
+        "Reduction",
+        "Neither oxidation nor reduction",
+        "Oxidation"
+      ],
+      "a": 3,
+      "e": "Al → Al3+ involves loss of electrons, so it is oxidation.",
+      "d": "Medium",
+      "topic": "Identifying oxidation and reduction",
+      "slo": "Explain and apply identifying oxidation and reduction in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-249",
+      "q": "How many electrons are lost in Al → Al3+?",
+      "o": [
+        "2",
+        "1",
+        "4",
+        "3"
+      ],
+      "a": 3,
+      "e": "The balanced electron transfer for Al → Al3+ involves 3 electron(s).",
+      "d": "Hard",
+      "topic": "Electron transfer",
+      "slo": "Explain and apply electron transfer in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-250",
+      "q": "In the change Na → Na+, which process takes place?",
+      "o": [
+        "Oxidation",
+        "Neither oxidation nor reduction",
+        "Only a physical change",
+        "Reduction"
+      ],
+      "a": 0,
+      "e": "Na → Na+ involves loss of electrons, so it is oxidation.",
+      "d": "Medium",
+      "topic": "Identifying oxidation and reduction",
+      "slo": "Explain and apply identifying oxidation and reduction in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-251",
+      "q": "How many electrons are lost in Na → Na+?",
+      "o": [
+        "2",
+        "3",
+        "1",
+        "4"
+      ],
+      "a": 2,
+      "e": "The balanced electron transfer for Na → Na+ involves 1 electron(s).",
+      "d": "Hard",
+      "topic": "Electron transfer",
+      "slo": "Explain and apply electron transfer in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-252",
+      "q": "In the change Cl2 → 2Cl-, which process takes place?",
+      "o": [
+        "Reduction",
+        "Only a physical change",
+        "Oxidation",
+        "Neither oxidation nor reduction"
+      ],
+      "a": 0,
+      "e": "Cl2 → 2Cl- involves gain of electrons, so it is reduction.",
+      "d": "Medium",
+      "topic": "Identifying oxidation and reduction",
+      "slo": "Explain and apply identifying oxidation and reduction in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-253",
+      "q": "How many electrons are gained in Cl2 → 2Cl-?",
+      "o": [
+        "4",
+        "3",
+        "2",
+        "1"
+      ],
+      "a": 2,
+      "e": "The balanced electron transfer for Cl2 → 2Cl- involves 2 electron(s).",
+      "d": "Hard",
+      "topic": "Electron transfer",
+      "slo": "Explain and apply electron transfer in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-254",
+      "q": "In the change Br2 → 2Br-, which process takes place?",
+      "o": [
+        "Oxidation",
+        "Neither oxidation nor reduction",
+        "Only a physical change",
+        "Reduction"
+      ],
+      "a": 3,
+      "e": "Br2 → 2Br- involves gain of electrons, so it is reduction.",
+      "d": "Medium",
+      "topic": "Identifying oxidation and reduction",
+      "slo": "Explain and apply identifying oxidation and reduction in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-255",
+      "q": "How many electrons are gained in Br2 → 2Br-?",
+      "o": [
+        "1",
+        "3",
+        "4",
+        "2"
+      ],
+      "a": 3,
+      "e": "The balanced electron transfer for Br2 → 2Br- involves 2 electron(s).",
+      "d": "Hard",
+      "topic": "Electron transfer",
+      "slo": "Explain and apply electron transfer in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-256",
+      "q": "In the change I2 → 2I-, which process takes place?",
+      "o": [
+        "Reduction",
+        "Oxidation",
+        "Neither oxidation nor reduction",
+        "Only a physical change"
+      ],
+      "a": 0,
+      "e": "I2 → 2I- involves gain of electrons, so it is reduction.",
+      "d": "Medium",
+      "topic": "Identifying oxidation and reduction",
+      "slo": "Explain and apply identifying oxidation and reduction in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-257",
+      "q": "How many electrons are gained in I2 → 2I-?",
+      "o": [
+        "2",
+        "4",
+        "3",
+        "1"
+      ],
+      "a": 0,
+      "e": "The balanced electron transfer for I2 → 2I- involves 2 electron(s).",
+      "d": "Hard",
+      "topic": "Electron transfer",
+      "slo": "Explain and apply electron transfer in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-258",
+      "q": "In the change 2Cl- → Cl2, which process takes place?",
+      "o": [
+        "Reduction",
+        "Only a physical change",
+        "Oxidation",
+        "Neither oxidation nor reduction"
+      ],
+      "a": 2,
+      "e": "2Cl- → Cl2 involves loss of electrons, so it is oxidation.",
+      "d": "Medium",
+      "topic": "Identifying oxidation and reduction",
+      "slo": "Explain and apply identifying oxidation and reduction in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-259",
+      "q": "How many electrons are lost in 2Cl- → Cl2?",
+      "o": [
+        "1",
+        "2",
+        "4",
+        "3"
+      ],
+      "a": 1,
+      "e": "The balanced electron transfer for 2Cl- → Cl2 involves 2 electron(s).",
+      "d": "Hard",
+      "topic": "Electron transfer",
+      "slo": "Explain and apply electron transfer in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-260",
+      "q": "In the change 2Br- → Br2, which process takes place?",
+      "o": [
+        "Oxidation",
+        "Reduction",
+        "Neither oxidation nor reduction",
+        "Only a physical change"
+      ],
+      "a": 0,
+      "e": "2Br- → Br2 involves loss of electrons, so it is oxidation.",
+      "d": "Medium",
+      "topic": "Identifying oxidation and reduction",
+      "slo": "Explain and apply identifying oxidation and reduction in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-261",
+      "q": "How many electrons are lost in 2Br- → Br2?",
+      "o": [
+        "2",
+        "4",
+        "1",
+        "3"
+      ],
+      "a": 0,
+      "e": "The balanced electron transfer for 2Br- → Br2 involves 2 electron(s).",
+      "d": "Hard",
+      "topic": "Electron transfer",
+      "slo": "Explain and apply electron transfer in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-262",
+      "q": "In the change 2I- → I2, which process takes place?",
+      "o": [
+        "Reduction",
+        "Only a physical change",
+        "Neither oxidation nor reduction",
+        "Oxidation"
+      ],
+      "a": 3,
+      "e": "2I- → I2 involves loss of electrons, so it is oxidation.",
+      "d": "Medium",
+      "topic": "Identifying oxidation and reduction",
+      "slo": "Explain and apply identifying oxidation and reduction in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-263",
+      "q": "How many electrons are lost in 2I- → I2?",
+      "o": [
+        "1",
+        "4",
+        "3",
+        "2"
+      ],
+      "a": 3,
+      "e": "The balanced electron transfer for 2I- → I2 involves 2 electron(s).",
+      "d": "Hard",
+      "topic": "Electron transfer",
+      "slo": "Explain and apply electron transfer in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-264",
+      "q": "In the change Cu2+ → Cu, which process takes place?",
+      "o": [
+        "Neither oxidation nor reduction",
+        "Reduction",
+        "Only a physical change",
+        "Oxidation"
+      ],
+      "a": 1,
+      "e": "Cu2+ → Cu involves gain of electrons, so it is reduction.",
+      "d": "Medium",
+      "topic": "Identifying oxidation and reduction",
+      "slo": "Explain and apply identifying oxidation and reduction in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-265",
+      "q": "How many electrons are gained in Cu2+ → Cu?",
+      "o": [
+        "3",
+        "4",
+        "2",
+        "1"
+      ],
+      "a": 2,
+      "e": "The balanced electron transfer for Cu2+ → Cu involves 2 electron(s).",
+      "d": "Hard",
+      "topic": "Electron transfer",
+      "slo": "Explain and apply electron transfer in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-266",
+      "q": "In the change Ag+ → Ag, which process takes place?",
+      "o": [
+        "Reduction",
+        "Only a physical change",
+        "Neither oxidation nor reduction",
+        "Oxidation"
+      ],
+      "a": 0,
+      "e": "Ag+ → Ag involves gain of electrons, so it is reduction.",
+      "d": "Medium",
+      "topic": "Identifying oxidation and reduction",
+      "slo": "Explain and apply identifying oxidation and reduction in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-267",
+      "q": "How many electrons are gained in Ag+ → Ag?",
+      "o": [
+        "1",
+        "4",
+        "2",
+        "3"
+      ],
+      "a": 0,
+      "e": "The balanced electron transfer for Ag+ → Ag involves 1 electron(s).",
+      "d": "Hard",
+      "topic": "Electron transfer",
+      "slo": "Explain and apply electron transfer in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-268",
+      "q": "In the change Pb2+ → Pb, which process takes place?",
+      "o": [
+        "Oxidation",
+        "Only a physical change",
+        "Reduction",
+        "Neither oxidation nor reduction"
+      ],
+      "a": 2,
+      "e": "Pb2+ → Pb involves gain of electrons, so it is reduction.",
+      "d": "Medium",
+      "topic": "Identifying oxidation and reduction",
+      "slo": "Explain and apply identifying oxidation and reduction in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-269",
+      "q": "How many electrons are gained in Pb2+ → Pb?",
+      "o": [
+        "4",
+        "1",
+        "2",
+        "3"
+      ],
+      "a": 2,
+      "e": "The balanced electron transfer for Pb2+ → Pb involves 2 electron(s).",
+      "d": "Hard",
+      "topic": "Electron transfer",
+      "slo": "Explain and apply electron transfer in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-270",
+      "q": "In the change O2 → 2O2-, which process takes place?",
+      "o": [
+        "Neither oxidation nor reduction",
+        "Reduction",
+        "Only a physical change",
+        "Oxidation"
+      ],
+      "a": 1,
+      "e": "O2 → 2O2- involves gain of electrons, so it is reduction.",
+      "d": "Medium",
+      "topic": "Identifying oxidation and reduction",
+      "slo": "Explain and apply identifying oxidation and reduction in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-271",
+      "q": "How many electrons are gained in O2 → 2O2-?",
+      "o": [
+        "1",
+        "4",
+        "3",
+        "2"
+      ],
+      "a": 1,
+      "e": "The balanced electron transfer for O2 → 2O2- involves 4 electron(s).",
+      "d": "Hard",
+      "topic": "Electron transfer",
+      "slo": "Explain and apply electron transfer in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-272",
+      "q": "In the change 2H+ → H2, which process takes place?",
+      "o": [
+        "Only a physical change",
+        "Reduction",
+        "Oxidation",
+        "Neither oxidation nor reduction"
+      ],
+      "a": 1,
+      "e": "2H+ → H2 involves gain of electrons, so it is reduction.",
+      "d": "Medium",
+      "topic": "Identifying oxidation and reduction",
+      "slo": "Explain and apply identifying oxidation and reduction in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-273",
+      "q": "How many electrons are gained in 2H+ → H2?",
+      "o": [
+        "2",
+        "3",
+        "1",
+        "4"
+      ],
+      "a": 0,
+      "e": "The balanced electron transfer for 2H+ → H2 involves 2 electron(s).",
+      "d": "Hard",
+      "topic": "Electron transfer",
+      "slo": "Explain and apply electron transfer in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-274",
+      "q": "In the change H2 → 2H+, which process takes place?",
+      "o": [
+        "Only a physical change",
+        "Oxidation",
+        "Neither oxidation nor reduction",
+        "Reduction"
+      ],
+      "a": 1,
+      "e": "H2 → 2H+ involves loss of electrons, so it is oxidation.",
+      "d": "Medium",
+      "topic": "Identifying oxidation and reduction",
+      "slo": "Explain and apply identifying oxidation and reduction in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-275",
+      "q": "How many electrons are lost in H2 → 2H+?",
+      "o": [
+        "1",
+        "2",
+        "4",
+        "3"
+      ],
+      "a": 1,
+      "e": "The balanced electron transfer for H2 → 2H+ involves 2 electron(s).",
+      "d": "Hard",
+      "topic": "Electron transfer",
+      "slo": "Explain and apply electron transfer in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-276",
+      "q": "An iron nail is kept in a sealed dry jar. Why is rusting very slow?",
+      "o": [
+        "Iron cannot oxidize at any temperature",
+        "Nitrogen rapidly removes rust",
+        "Dry air contains no oxygen",
+        "Little or no water is available"
+      ],
+      "a": 3,
+      "e": "Water is required for normal rusting.",
+      "d": "Medium",
+      "topic": "Corrosion",
+      "slo": "Explain and apply corrosion in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-277",
+      "q": "An iron nail is immersed in boiled water covered with oil. What mainly limits rusting?",
+      "o": [
+        "The iron becomes a nonmetal",
+        "Little dissolved oxygen reaches the nail",
+        "The oil turns iron into zinc",
+        "Water permanently loses all ions"
+      ],
+      "a": 1,
+      "e": "Boiling expels dissolved oxygen and oil limits its re-entry.",
+      "d": "Medium",
+      "topic": "Corrosion",
+      "slo": "Explain and apply corrosion in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-278",
+      "q": "A scratched zinc-coated steel sheet still resists rust. What explains this?",
+      "o": [
+        "Zinc oxidizes preferentially",
+        "Air contains no oxygen",
+        "Zinc changes into plastic",
+        "Steel loses its iron atoms"
+      ],
+      "a": 0,
+      "e": "Zinc can act sacrificially to protect iron.",
+      "d": "Medium",
+      "topic": "Corrosion prevention",
+      "slo": "Explain and apply corrosion prevention in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-279",
+      "q": "A scratched tin-coated steel can may rust at the scratch. Why?",
+      "o": [
+        "Tin always becomes zinc",
+        "Exposed iron can corrode when its barrier is broken",
+        "Iron is immune to oxygen",
+        "Scratches remove water from air"
+      ],
+      "a": 1,
+      "e": "Tin coating mainly provides a barrier, which is lost at scratches.",
+      "d": "Medium",
+      "topic": "Corrosion prevention",
+      "slo": "Explain and apply corrosion prevention in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-280",
+      "q": "Why are bridge components painted periodically?",
+      "o": [
+        "Paint creates iron atoms",
+        "Paint changes steel into plastic",
+        "Coating defects can expose steel to corrosive conditions",
+        "Rust requires sunlight only"
+      ],
+      "a": 2,
+      "e": "Maintaining a barrier prevents oxygen and water from reaching steel.",
+      "d": "Medium",
+      "topic": "Corrosion prevention",
+      "slo": "Explain and apply corrosion prevention in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-281",
+      "q": "A ship hull uses attached magnesium blocks. What is their purpose?",
+      "o": [
+        "Making seawater nonconductive",
+        "Sacrificial protection of the steel",
+        "Removing all chloride ions",
+        "Increasing the steel oxidation rate"
+      ],
+      "a": 1,
+      "e": "Magnesium is oxidized preferentially.",
+      "d": "Medium",
+      "topic": "Corrosion prevention",
+      "slo": "Explain and apply corrosion prevention in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-282",
+      "q": "Why do coastal steel structures often corrode quickly?",
+      "o": [
+        "Salt is an electrical insulator",
+        "Moisture and dissolved salts support corrosion",
+        "Sea air contains no oxygen",
+        "Water always prevents oxidation"
+      ],
+      "a": 1,
+      "e": "Salt and moisture can speed electrochemical corrosion.",
+      "d": "Medium",
+      "topic": "Corrosion",
+      "slo": "Explain and apply corrosion in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-283",
+      "q": "Which statement best describes the oxidizing agent in a redox process?",
+      "o": [
+        "It releases electrons",
+        "It accepts electrons",
+        "It always loses oxygen",
+        "It must be an acid"
+      ],
+      "a": 1,
+      "e": "Electron acceptance defines an oxidizing agent.",
+      "d": "Medium",
+      "topic": "Oxidizing and reducing agents",
+      "slo": "Explain and apply oxidizing and reducing agents in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-284",
+      "q": "Which statement best describes the reducing agent in a redox process?",
+      "o": [
+        "It accepts electrons",
+        "It always gains oxygen",
+        "It donates electrons",
+        "It must be a base"
+      ],
+      "a": 2,
+      "e": "Electron donation defines a reducing agent.",
+      "d": "Medium",
+      "topic": "Oxidizing and reducing agents",
+      "slo": "Explain and apply oxidizing and reducing agents in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-285",
+      "q": "In the reaction CuO + H2 → Cu + H2O, which substance acts as reducing agent?",
+      "o": [
+        "Cu",
+        "CuO",
+        "H2O",
+        "H2"
+      ],
+      "a": 3,
+      "e": "Hydrogen reduces CuO to Cu while hydrogen itself is oxidized.",
+      "d": "Medium",
+      "topic": "Oxidizing and reducing agents",
+      "slo": "Explain and apply oxidizing and reducing agents in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-286",
+      "q": "In the reaction CuO + H2 → Cu + H2O, which substance acts as oxidizing agent?",
+      "o": [
+        "CuO",
+        "H2",
+        "Cu",
+        "H2O"
+      ],
+      "a": 0,
+      "e": "CuO is reduced to copper and oxidizes hydrogen.",
+      "d": "Medium",
+      "topic": "Oxidizing and reducing agents",
+      "slo": "Explain and apply oxidizing and reducing agents in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-287",
+      "q": "When a metal loses electrons, what happens to its oxidation state?",
+      "o": [
+        "It must become zero",
+        "It increases",
+        "It decreases",
+        "It becomes negative in every case"
+      ],
+      "a": 1,
+      "e": "Electron loss corresponds to an increase in oxidation state.",
+      "d": "Medium",
+      "topic": "Oxidation states",
+      "slo": "Explain and apply oxidation states in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-288",
+      "q": "When an ion gains electrons, what happens to its oxidation state?",
+      "o": [
+        "It decreases",
+        "It increases",
+        "It must become +7",
+        "It cannot change"
+      ],
+      "a": 0,
+      "e": "Electron gain corresponds to a decrease in oxidation state.",
+      "d": "Medium",
+      "topic": "Oxidation states",
+      "slo": "Explain and apply oxidation states in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-289",
+      "q": "Why is an ionic solution often an electrical conductor?",
+      "o": [
+        "Its molecules are all metallic",
+        "It has no charged particles",
+        "Its atoms turn into light",
+        "Its ions can migrate"
+      ],
+      "a": 3,
+      "e": "Mobile ions carry electric charge.",
+      "d": "Medium",
+      "topic": "Electrochemistry basics",
+      "slo": "Explain and apply electrochemistry basics in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-290",
+      "q": "A student sees Fe → Fe2+ + 2e-. Which species supplies electrons?",
+      "o": [
+        "Water only",
+        "Oxygen gas",
+        "Fe",
+        "Fe2+"
+      ],
+      "a": 2,
+      "e": "Iron atoms release two electrons as they form Fe2+.",
+      "d": "Medium",
+      "topic": "Half-reactions",
+      "slo": "Explain and apply half-reactions in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-291",
+      "q": "A student sees Ag+ + e- → Ag. Which species accepts an electron?",
+      "o": [
+        "A neutral silver atom before reaction",
+        "An electron itself",
+        "Ag",
+        "Ag+"
+      ],
+      "a": 3,
+      "e": "Silver ions accept electrons to form silver metal.",
+      "d": "Medium",
+      "topic": "Half-reactions",
+      "slo": "Explain and apply half-reactions in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-292",
+      "q": "In 2Na + Cl2 → 2NaCl, which element undergoes oxidation?",
+      "o": [
+        "Chlorine",
+        "Sodium",
+        "Neither element",
+        "Both elements"
+      ],
+      "a": 1,
+      "e": "Sodium changes from 0 to +1.",
+      "d": "Medium",
+      "topic": "Redox reactions",
+      "slo": "Explain and apply redox reactions in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-293",
+      "q": "In 2Na + Cl2 → 2NaCl, which element undergoes reduction?",
+      "o": [
+        "Chlorine",
+        "Sodium",
+        "Neither element",
+        "Both elements"
+      ],
+      "a": 0,
+      "e": "Chlorine changes from 0 to -1.",
+      "d": "Medium",
+      "topic": "Redox reactions",
+      "slo": "Explain and apply redox reactions in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-294",
+      "q": "What is the oxidizing agent in 2Na + Cl2 → 2NaCl?",
+      "o": [
+        "Cl2",
+        "Cl-",
+        "Na",
+        "Na+"
+      ],
+      "a": 0,
+      "e": "Chlorine gains electrons and is reduced.",
+      "d": "Medium",
+      "topic": "Oxidizing and reducing agents",
+      "slo": "Explain and apply oxidizing and reducing agents in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-295",
+      "q": "What is the reducing agent in 2Na + Cl2 → 2NaCl?",
+      "o": [
+        "Na",
+        "Na+",
+        "Cl-",
+        "Cl2"
+      ],
+      "a": 0,
+      "e": "Sodium loses electrons and is oxidized.",
+      "d": "Medium",
+      "topic": "Oxidizing and reducing agents",
+      "slo": "Explain and apply oxidizing and reducing agents in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-296",
+      "q": "Why is a decrease in oxidation number evidence of reduction?",
+      "o": [
+        "It indicates loss of electrons",
+        "It indicates gain of electrons in oxidation-number bookkeeping",
+        "It indicates a rise in proton number",
+        "It always indicates melting"
+      ],
+      "a": 1,
+      "e": "Reduction corresponds to gain of electrons and lower oxidation number.",
+      "d": "Medium",
+      "topic": "Oxidation states",
+      "slo": "Explain and apply oxidation states in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-297",
+      "q": "What is the oxidation number of Fe in Fe metal before rusting?",
+      "o": [
+        "0",
+        "+3",
+        "-2",
+        "+2"
+      ],
+      "a": 0,
+      "e": "Uncombined metallic iron has oxidation number zero.",
+      "d": "Medium",
+      "topic": "Oxidation states",
+      "slo": "Explain and apply oxidation states in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-298",
+      "q": "What is the oxidation number of iron in Fe2O3?",
+      "o": [
+        "0",
+        "+3",
+        "-3",
+        "+2"
+      ],
+      "a": 1,
+      "e": "Three oxygens total -6, so each iron is +3.",
+      "d": "Medium",
+      "topic": "Oxidation states",
+      "slo": "Explain and apply oxidation states in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-299",
+      "q": "Why is Fe → Fe3+ + 3e- an oxidation half-reaction?",
+      "o": [
+        "Electrons appear on the product side",
+        "Iron gains electrons",
+        "Electrons appear on the reactant side",
+        "Iron remains uncharged"
+      ],
+      "a": 0,
+      "e": "Loss of electrons is indicated by electrons among products.",
+      "d": "Medium",
+      "topic": "Half-reactions",
+      "slo": "Explain and apply half-reactions in electrochemistry."
+    },
+    {
+      "id": "CHEM9CH7-300",
+      "q": "Why is Fe3+ + 3e- → Fe a reduction half-reaction?",
+      "o": [
+        "No charge changes",
+        "Electrons appear on the product side",
+        "Electrons appear on the reactant side",
+        "Iron loses electrons"
+      ],
+      "a": 2,
+      "e": "Electrons are gained by Fe3+.",
+      "d": "Medium",
+      "topic": "Half-reactions",
+      "slo": "Explain and apply half-reactions in electrochemistry."
+    }
+  ]
+}

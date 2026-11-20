@@ -1,0 +1,4504 @@
+{
+  "questions": [
+    {
+      "q": "What is the molecular formula of pentadecane?",
+      "o": [
+        "C15H30",
+        "C15H28",
+        "C16H34",
+        "C15H32"
+      ],
+      "a": 3,
+      "e": "For an acyclic alkane with 15 carbon atoms, H=2n+2=32.",
+      "d": "Easy",
+      "topic": "Alkane formula",
+      "slo": "Explain and apply alkane formula in hydrocarbons.",
+      "id": "CHEM9CH14-001"
+    },
+    {
+      "q": "Are alkanes generally soluble in water?",
+      "o": [
+        "Yes, completely",
+        "No, they are largely insoluble",
+        "They react with water instantly",
+        "Only when ionized"
+      ],
+      "a": 1,
+      "e": "Nonpolar alkanes are not appreciably soluble in polar water.",
+      "d": "Medium",
+      "topic": "Physical properties",
+      "slo": "Explain and apply physical properties in hydrocarbons.",
+      "id": "CHEM9CH14-002"
+    },
+    {
+      "q": "Which process converts an alkene into an alkane?",
+      "o": [
+        "Dehydration",
+        "Cracking",
+        "Combustion",
+        "Hydrogenation"
+      ],
+      "a": 3,
+      "e": "Hydrogenation adds H2 across the C=C bond.",
+      "d": "Medium",
+      "topic": "Hydrogenation",
+      "slo": "Explain and apply hydrogenation in hydrocarbons.",
+      "id": "CHEM9CH14-003"
+    },
+    {
+      "q": "How many HCl molecules form when one molecule of C11H24 undergoes a single chlorination substitution?",
+      "o": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "a": 1,
+      "e": "One hydrogen is replaced by chlorine, and the removed hydrogen combines with chlorine to give one HCl.",
+      "d": "Easy",
+      "topic": "Halogenation",
+      "slo": "Explain and apply halogenation in hydrocarbons.",
+      "id": "CHEM9CH14-004"
+    },
+    {
+      "q": "What is the molar mass of methane (C=12, H=1)?",
+      "o": [
+        "18 g/mol",
+        "16 g/mol",
+        "14 g/mol",
+        "28 g/mol"
+      ],
+      "a": 1,
+      "e": "Molar mass = 1×12 + 4×1 = 16 g/mol.",
+      "d": "Medium",
+      "topic": "Molar mass",
+      "slo": "Explain and apply molar mass in hydrocarbons.",
+      "id": "CHEM9CH14-005"
+    },
+    {
+      "q": "What type of hydrocarbon is ethene?",
+      "o": [
+        "Alkane",
+        "Alkene",
+        "Alcohol",
+        "Carboxylic acid"
+      ],
+      "a": 1,
+      "e": "Ethene has a C=C double bond.",
+      "d": "Medium",
+      "topic": "Hydrocarbon classification",
+      "slo": "Explain and apply hydrocarbon classification in hydrocarbons.",
+      "id": "CHEM9CH14-006"
+    },
+    {
+      "q": "How many hydrogen atoms are in one molecule of hexane?",
+      "o": [
+        "12",
+        "18",
+        "14",
+        "16"
+      ],
+      "a": 2,
+      "e": "Hexane is C6H14; hydrogen count is 2(6)+2=14.",
+      "d": "Medium",
+      "topic": "Alkane formula",
+      "slo": "Explain and apply alkane formula in hydrocarbons.",
+      "id": "CHEM9CH14-007"
+    },
+    {
+      "q": "How many HCl molecules form when one molecule of C8H18 undergoes a single chlorination substitution?",
+      "o": [
+        "1",
+        "0",
+        "3",
+        "2"
+      ],
+      "a": 0,
+      "e": "One hydrogen is replaced by chlorine, and the removed hydrogen combines with chlorine to give one HCl.",
+      "d": "Easy",
+      "topic": "Halogenation",
+      "slo": "Explain and apply halogenation in hydrocarbons.",
+      "id": "CHEM9CH14-008"
+    },
+    {
+      "q": "What is a key difference between addition and substitution reactions?",
+      "o": [
+        "Substitution creates double bonds",
+        "Both only produce water",
+        "Addition always requires oxygen",
+        "Addition joins atoms across a multiple bond; substitution replaces an atom"
+      ],
+      "a": 3,
+      "e": "Alkenes commonly undergo addition; alkanes commonly undergo substitution.",
+      "d": "Easy",
+      "topic": "Reaction types",
+      "slo": "Explain and apply reaction types in hydrocarbons.",
+      "id": "CHEM9CH14-009"
+    },
+    {
+      "q": "What is the molecular formula of nonadecane?",
+      "o": [
+        "C19H38",
+        "C19H36",
+        "C20H42",
+        "C19H40"
+      ],
+      "a": 3,
+      "e": "For an acyclic alkane with 19 carbon atoms, H=2n+2=40.",
+      "d": "Easy",
+      "topic": "Alkane formula",
+      "slo": "Explain and apply alkane formula in hydrocarbons.",
+      "id": "CHEM9CH14-010"
+    },
+    {
+      "q": "After complete hydrogenation of a monoalkene with 16 carbon atoms, how many H atoms are in the product?",
+      "o": [
+        "34",
+        "36",
+        "32",
+        "30"
+      ],
+      "a": 0,
+      "e": "Hydrogenation converts C16H32 to C16H34.",
+      "d": "Medium",
+      "topic": "Hydrogenation",
+      "slo": "Explain and apply hydrogenation in hydrocarbons.",
+      "id": "CHEM9CH14-011"
+    },
+    {
+      "q": "How many carbon-hydrogen bonds are present in a molecule of tetradecane?",
+      "o": [
+        "14",
+        "32",
+        "30",
+        "28"
+      ],
+      "a": 2,
+      "e": "The 30 hydrogen atoms in C14H30 each form one C-H bond.",
+      "d": "Medium",
+      "topic": "Alkane bonding",
+      "slo": "Explain and apply alkane bonding in hydrocarbons.",
+      "id": "CHEM9CH14-012"
+    },
+    {
+      "q": "When one mole of nonadecane burns completely, how many moles of carbon dioxide form?",
+      "o": [
+        "22 mol",
+        "20 mol",
+        "19 mol",
+        "21 mol"
+      ],
+      "a": 2,
+      "e": "Each of the 19 carbon atoms forms one CO2, so 1 mol nonadecane yields 19 mol CO2.",
+      "d": "Medium",
+      "topic": "Combustion stoichiometry",
+      "slo": "Explain and apply combustion stoichiometry in hydrocarbons.",
+      "id": "CHEM9CH14-013"
+    },
+    {
+      "q": "How many carbon-hydrogen bonds are present in a molecule of butane?",
+      "o": [
+        "8",
+        "12",
+        "4",
+        "10"
+      ],
+      "a": 3,
+      "e": "The 10 hydrogen atoms in C4H10 each form one C-H bond.",
+      "d": "Medium",
+      "topic": "Alkane bonding",
+      "slo": "Explain and apply alkane bonding in hydrocarbons.",
+      "id": "CHEM9CH14-014"
+    },
+    {
+      "q": "When one mole of undecane burns completely, how many moles of water form?",
+      "o": [
+        "14 mol",
+        "13 mol",
+        "12 mol",
+        "11 mol"
+      ],
+      "a": 2,
+      "e": "C11H24 contains 24 H atoms, giving 12 H2O per molecule.",
+      "d": "Medium",
+      "topic": "Combustion stoichiometry",
+      "slo": "Explain and apply combustion stoichiometry in hydrocarbons.",
+      "id": "CHEM9CH14-015"
+    },
+    {
+      "q": "After complete hydrogenation of a monoalkene with 14 carbon atoms, how many H atoms are in the product?",
+      "o": [
+        "26",
+        "32",
+        "28",
+        "30"
+      ],
+      "a": 3,
+      "e": "Hydrogenation converts C14H28 to C14H30.",
+      "d": "Medium",
+      "topic": "Hydrogenation",
+      "slo": "Explain and apply hydrogenation in hydrocarbons.",
+      "id": "CHEM9CH14-016"
+    },
+    {
+      "q": "If C7H16 is cracked to C2H4 and one other hydrocarbon, what is the other product formula?",
+      "o": [
+        "C5H12",
+        "C7H14",
+        "C5H10",
+        "C6H12"
+      ],
+      "a": 0,
+      "e": "Atom balance: subtract C2H4 from C7H16, leaving C5H12.",
+      "d": "Hard",
+      "topic": "Cracking",
+      "slo": "Explain and apply cracking in hydrocarbons.",
+      "id": "CHEM9CH14-017"
+    },
+    {
+      "q": "If C3H8 is cracked to C2H4 and one other hydrocarbon, what is the other product formula?",
+      "o": [
+        "C2H4",
+        "C1H4",
+        "C1H2",
+        "C3H6"
+      ],
+      "a": 1,
+      "e": "Atom balance: subtract C2H4 from C3H8, leaving C1H4.",
+      "d": "Hard",
+      "topic": "Cracking",
+      "slo": "Explain and apply cracking in hydrocarbons.",
+      "id": "CHEM9CH14-018"
+    },
+    {
+      "q": "How many carbon-hydrogen bonds are present in a molecule of heptane?",
+      "o": [
+        "7",
+        "18",
+        "14",
+        "16"
+      ],
+      "a": 3,
+      "e": "The 16 hydrogen atoms in C7H16 each form one C-H bond.",
+      "d": "Medium",
+      "topic": "Alkane bonding",
+      "slo": "Explain and apply alkane bonding in hydrocarbons.",
+      "id": "CHEM9CH14-019"
+    },
+    {
+      "q": "How many carbon-carbon single bonds occur in straight-chain dodecane?",
+      "o": [
+        "13",
+        "14",
+        "12",
+        "11"
+      ],
+      "a": 3,
+      "e": "A chain of 12 carbons has 12-1 = 11 carbon-carbon bonds.",
+      "d": "Medium",
+      "topic": "Alkane bonding",
+      "slo": "Explain and apply alkane bonding in hydrocarbons.",
+      "id": "CHEM9CH14-020"
+    },
+    {
+      "q": "Which reaction converts a large alkane into smaller hydrocarbon molecules?",
+      "o": [
+        "Esterification",
+        "Neutralization",
+        "Cracking",
+        "Hydration"
+      ],
+      "a": 2,
+      "e": "Cracking breaks large molecules into smaller ones.",
+      "d": "Medium",
+      "topic": "Cracking",
+      "slo": "Explain and apply cracking in hydrocarbons.",
+      "id": "CHEM9CH14-021"
+    },
+    {
+      "q": "What is the molecular formula of heptane?",
+      "o": [
+        "C7H16",
+        "C7H14",
+        "C6H14",
+        "C7H12"
+      ],
+      "a": 0,
+      "e": "Heptane is the seven-carbon alkane.",
+      "d": "Easy",
+      "topic": "Alkane formula",
+      "slo": "Explain and apply alkane formula in hydrocarbons.",
+      "id": "CHEM9CH14-022"
+    },
+    {
+      "q": "After complete hydrogenation of a monoalkene with 3 carbon atoms, how many H atoms are in the product?",
+      "o": [
+        "8",
+        "4",
+        "6",
+        "10"
+      ],
+      "a": 0,
+      "e": "Hydrogenation converts C3H6 to C3H8.",
+      "d": "Medium",
+      "topic": "Hydrogenation",
+      "slo": "Explain and apply hydrogenation in hydrocarbons.",
+      "id": "CHEM9CH14-023"
+    },
+    {
+      "q": "How many moles of oxygen are needed for complete combustion of 1 mole of undecane?",
+      "o": [
+        "17 mol",
+        "16 mol",
+        "11 mol",
+        "18 mol"
+      ],
+      "a": 0,
+      "e": "C11H24 + 17O2 -> 11CO2 + 12H2O.",
+      "d": "Hard",
+      "topic": "Combustion stoichiometry",
+      "slo": "Explain and apply combustion stoichiometry in hydrocarbons.",
+      "id": "CHEM9CH14-024"
+    },
+    {
+      "q": "What is the molecular formula of pentane?",
+      "o": [
+        "C5H10",
+        "C5H12",
+        "C4H10",
+        "C5H8"
+      ],
+      "a": 1,
+      "e": "Pentane is the five-carbon alkane.",
+      "d": "Medium",
+      "topic": "Alkane formula",
+      "slo": "Explain and apply alkane formula in hydrocarbons.",
+      "id": "CHEM9CH14-025"
+    },
+    {
+      "q": "What is added to an alkene during hydrogenation?",
+      "o": [
+        "Hydrogen",
+        "Chlorine",
+        "Oxygen",
+        "Water"
+      ],
+      "a": 0,
+      "e": "An alkene adds hydrogen across its double bond.",
+      "d": "Easy",
+      "topic": "Hydrogenation",
+      "slo": "Explain and apply hydrogenation in hydrocarbons.",
+      "id": "CHEM9CH14-026"
+    },
+    {
+      "q": "An open-chain alkene contains 13 carbon atoms and one double bond. How many hydrogen atoms does it contain?",
+      "o": [
+        "28",
+        "30",
+        "24",
+        "26"
+      ],
+      "a": 3,
+      "e": "A monoalkene has formula CnH2n, so H=26.",
+      "d": "Medium",
+      "topic": "Hydrogenation",
+      "slo": "Explain and apply hydrogenation in hydrocarbons.",
+      "id": "CHEM9CH14-027"
+    },
+    {
+      "q": "How many carbon-hydrogen bonds are present in a molecule of methane?",
+      "o": [
+        "1",
+        "2",
+        "6",
+        "4"
+      ],
+      "a": 3,
+      "e": "The 4 hydrogen atoms in C1H4 each form one C-H bond.",
+      "d": "Medium",
+      "topic": "Alkane bonding",
+      "slo": "Explain and apply alkane bonding in hydrocarbons.",
+      "id": "CHEM9CH14-028"
+    },
+    {
+      "q": "How many hydrogen atoms are in one molecule of octane?",
+      "o": [
+        "22",
+        "18",
+        "16",
+        "20"
+      ],
+      "a": 1,
+      "e": "Octane is C8H18; hydrogen count is 2(8)+2=18.",
+      "d": "Medium",
+      "topic": "Alkane formula",
+      "slo": "Explain and apply alkane formula in hydrocarbons.",
+      "id": "CHEM9CH14-029"
+    },
+    {
+      "q": "What is the simplest alkane?",
+      "o": [
+        "Ethene",
+        "Methane",
+        "Ethyne",
+        "Benzene"
+      ],
+      "a": 1,
+      "e": "Methane, CH4, is the first member of the alkane series.",
+      "d": "Medium",
+      "topic": "Alkane names",
+      "slo": "Explain and apply alkane names in hydrocarbons.",
+      "id": "CHEM9CH14-030"
+    },
+    {
+      "q": "How many carbon-hydrogen bonds are present in a molecule of pentane?",
+      "o": [
+        "14",
+        "10",
+        "12",
+        "5"
+      ],
+      "a": 2,
+      "e": "The 12 hydrogen atoms in C5H12 each form one C-H bond.",
+      "d": "Medium",
+      "topic": "Alkane bonding",
+      "slo": "Explain and apply alkane bonding in hydrocarbons.",
+      "id": "CHEM9CH14-031"
+    },
+    {
+      "q": "What is the main organic product of the first substitution of methane with chlorine?",
+      "o": [
+        "Ethanoic acid",
+        "Methanol",
+        "Chloromethane",
+        "Ethene"
+      ],
+      "a": 2,
+      "e": "CH4 + Cl2 gives CH3Cl + HCl under suitable light.",
+      "d": "Easy",
+      "topic": "Halogenation",
+      "slo": "Explain and apply halogenation in hydrocarbons.",
+      "id": "CHEM9CH14-032"
+    },
+    {
+      "q": "What is the molar mass of tetradecane (C=12, H=1)?",
+      "o": [
+        "198 g/mol",
+        "196 g/mol",
+        "200 g/mol",
+        "210 g/mol"
+      ],
+      "a": 0,
+      "e": "Molar mass = 14×12 + 30×1 = 198 g/mol.",
+      "d": "Medium",
+      "topic": "Molar mass",
+      "slo": "Explain and apply molar mass in hydrocarbons.",
+      "id": "CHEM9CH14-033"
+    },
+    {
+      "q": "When one mole of nonadecane burns completely, how many moles of water form?",
+      "o": [
+        "22 mol",
+        "21 mol",
+        "20 mol",
+        "19 mol"
+      ],
+      "a": 2,
+      "e": "C19H40 contains 40 H atoms, giving 20 H2O per molecule.",
+      "d": "Medium",
+      "topic": "Combustion stoichiometry",
+      "slo": "Explain and apply combustion stoichiometry in hydrocarbons.",
+      "id": "CHEM9CH14-034"
+    },
+    {
+      "q": "What condition is generally used in thermal cracking?",
+      "o": [
+        "Low temperature only",
+        "Darkness",
+        "Freezing",
+        "High temperature"
+      ],
+      "a": 3,
+      "e": "Heating at high temperature breaks carbon-carbon bonds.",
+      "d": "Medium",
+      "topic": "Cracking",
+      "slo": "Explain and apply cracking in hydrocarbons.",
+      "id": "CHEM9CH14-035"
+    },
+    {
+      "q": "How many moles of oxygen are needed for complete combustion of 1 mole of tetradecane?",
+      "o": [
+        "20.5 mol",
+        "21.5 mol",
+        "14 mol",
+        "22.5 mol"
+      ],
+      "a": 1,
+      "e": "C14H30 + 21.5O2 -> 14CO2 + 15H2O.",
+      "d": "Hard",
+      "topic": "Combustion stoichiometry",
+      "slo": "Explain and apply combustion stoichiometry in hydrocarbons.",
+      "id": "CHEM9CH14-036"
+    },
+    {
+      "q": "When one mole of tetradecane burns completely, how many moles of water form?",
+      "o": [
+        "16 mol",
+        "14 mol",
+        "17 mol",
+        "15 mol"
+      ],
+      "a": 3,
+      "e": "C14H30 contains 30 H atoms, giving 15 H2O per molecule.",
+      "d": "Medium",
+      "topic": "Combustion stoichiometry",
+      "slo": "Explain and apply combustion stoichiometry in hydrocarbons.",
+      "id": "CHEM9CH14-037"
+    },
+    {
+      "q": "What is the molecular formula of a monochloroalkane obtained by replacing one H in C4H10?",
+      "o": [
+        "C4H8Cl2",
+        "C4H8Cl",
+        "C4H10Cl",
+        "C4H9Cl"
+      ],
+      "a": 3,
+      "e": "Substitution removes one H and adds one Cl, giving C4H9Cl.",
+      "d": "Medium",
+      "topic": "Halogenation",
+      "slo": "Explain and apply halogenation in hydrocarbons.",
+      "id": "CHEM9CH14-038"
+    },
+    {
+      "q": "How many hydrogen atoms are in one molecule of heptadecane?",
+      "o": [
+        "40",
+        "34",
+        "38",
+        "36"
+      ],
+      "a": 3,
+      "e": "Heptadecane is C17H36; hydrogen count is 2(17)+2=36.",
+      "d": "Medium",
+      "topic": "Alkane formula",
+      "slo": "Explain and apply alkane formula in hydrocarbons.",
+      "id": "CHEM9CH14-039"
+    },
+    {
+      "q": "When one mole of tridecane burns completely, how many moles of carbon dioxide form?",
+      "o": [
+        "15 mol",
+        "16 mol",
+        "14 mol",
+        "13 mol"
+      ],
+      "a": 3,
+      "e": "Each of the 13 carbon atoms forms one CO2, so 1 mol tridecane yields 13 mol CO2.",
+      "d": "Medium",
+      "topic": "Combustion stoichiometry",
+      "slo": "Explain and apply combustion stoichiometry in hydrocarbons.",
+      "id": "CHEM9CH14-040"
+    },
+    {
+      "q": "How many hydrogen atoms are in one molecule of nonadecane?",
+      "o": [
+        "40",
+        "44",
+        "42",
+        "38"
+      ],
+      "a": 0,
+      "e": "Nonadecane is C19H40; hydrogen count is 2(19)+2=40.",
+      "d": "Medium",
+      "topic": "Alkane formula",
+      "slo": "Explain and apply alkane formula in hydrocarbons.",
+      "id": "CHEM9CH14-041"
+    },
+    {
+      "q": "How many hydrogen atoms are in one molecule of propane?",
+      "o": [
+        "6",
+        "12",
+        "10",
+        "8"
+      ],
+      "a": 3,
+      "e": "Propane is C3H8; hydrogen count is 2(3)+2=8.",
+      "d": "Medium",
+      "topic": "Alkane formula",
+      "slo": "Explain and apply alkane formula in hydrocarbons.",
+      "id": "CHEM9CH14-042"
+    },
+    {
+      "q": "What is the molar mass of nonadecane (C=12, H=1)?",
+      "o": [
+        "270 g/mol",
+        "266 g/mol",
+        "268 g/mol",
+        "280 g/mol"
+      ],
+      "a": 2,
+      "e": "Molar mass = 19×12 + 40×1 = 268 g/mol.",
+      "d": "Medium",
+      "topic": "Molar mass",
+      "slo": "Explain and apply molar mass in hydrocarbons.",
+      "id": "CHEM9CH14-043"
+    },
+    {
+      "q": "If C11H24 is cracked to C2H4 and one other hydrocarbon, what is the other product formula?",
+      "o": [
+        "C9H18",
+        "C9H20",
+        "C11H22",
+        "C10H20"
+      ],
+      "a": 1,
+      "e": "Atom balance: subtract C2H4 from C11H24, leaving C9H20.",
+      "d": "Hard",
+      "topic": "Cracking",
+      "slo": "Explain and apply cracking in hydrocarbons.",
+      "id": "CHEM9CH14-044"
+    },
+    {
+      "q": "What is the molar mass of ethane (C=12, H=1)?",
+      "o": [
+        "28 g/mol",
+        "30 g/mol",
+        "42 g/mol",
+        "32 g/mol"
+      ],
+      "a": 1,
+      "e": "Molar mass = 2×12 + 6×1 = 30 g/mol.",
+      "d": "Medium",
+      "topic": "Molar mass",
+      "slo": "Explain and apply molar mass in hydrocarbons.",
+      "id": "CHEM9CH14-045"
+    },
+    {
+      "q": "When one mole of eicosane burns completely, how many moles of carbon dioxide form?",
+      "o": [
+        "20 mol",
+        "21 mol",
+        "23 mol",
+        "22 mol"
+      ],
+      "a": 0,
+      "e": "Each of the 20 carbon atoms forms one CO2, so 1 mol eicosane yields 20 mol CO2.",
+      "d": "Medium",
+      "topic": "Combustion stoichiometry",
+      "slo": "Explain and apply combustion stoichiometry in hydrocarbons.",
+      "id": "CHEM9CH14-046"
+    },
+    {
+      "q": "Why does alkane chlorination require initiation?",
+      "o": [
+        "Chlorine must become an acid first",
+        "Carbon must be ionized",
+        "The Cl-Cl bond must split to form reactive radicals",
+        "Methane must dissolve in water"
+      ],
+      "a": 2,
+      "e": "UV light can split chlorine into radicals that initiate substitution.",
+      "d": "Medium",
+      "topic": "Halogenation",
+      "slo": "Explain and apply halogenation in hydrocarbons.",
+      "id": "CHEM9CH14-047"
+    },
+    {
+      "q": "Which alkane is commonly used as a domestic fuel in LPG?",
+      "o": [
+        "Ethyne",
+        "Benzene",
+        "Propane",
+        "Ethene"
+      ],
+      "a": 2,
+      "e": "LPG commonly contains propane and butane.",
+      "d": "Medium",
+      "topic": "Alkane uses",
+      "slo": "Explain and apply alkane uses in hydrocarbons.",
+      "id": "CHEM9CH14-048"
+    },
+    {
+      "q": "How many carbon-hydrogen bonds are present in a molecule of nonadecane?",
+      "o": [
+        "42",
+        "40",
+        "19",
+        "38"
+      ],
+      "a": 1,
+      "e": "The 40 hydrogen atoms in C19H40 each form one C-H bond.",
+      "d": "Medium",
+      "topic": "Alkane bonding",
+      "slo": "Explain and apply alkane bonding in hydrocarbons.",
+      "id": "CHEM9CH14-049"
+    },
+    {
+      "q": "How many HCl molecules form when one molecule of C1H4 undergoes a single chlorination substitution?",
+      "o": [
+        "3",
+        "0",
+        "1",
+        "2"
+      ],
+      "a": 2,
+      "e": "One hydrogen is replaced by chlorine, and the removed hydrogen combines with chlorine to give one HCl.",
+      "d": "Easy",
+      "topic": "Halogenation",
+      "slo": "Explain and apply halogenation in hydrocarbons.",
+      "id": "CHEM9CH14-050"
+    },
+    {
+      "q": "What is the approximate bond angle around carbon in methane?",
+      "o": [
+        "90 degrees",
+        "180 degrees",
+        "109.5 degrees",
+        "120 degrees"
+      ],
+      "a": 2,
+      "e": "Methane has tetrahedral geometry with bond angles near 109.5 degrees.",
+      "d": "Easy",
+      "topic": "Molecular geometry",
+      "slo": "Explain and apply molecular geometry in hydrocarbons.",
+      "id": "CHEM9CH14-051"
+    },
+    {
+      "q": "What is the typical state of methane at room temperature?",
+      "o": [
+        "Solid",
+        "Gas",
+        "Plasma",
+        "Liquid metal"
+      ],
+      "a": 1,
+      "e": "Methane has a very low boiling point and is gaseous at room temperature.",
+      "d": "Medium",
+      "topic": "Physical properties",
+      "slo": "Explain and apply physical properties in hydrocarbons.",
+      "id": "CHEM9CH14-052"
+    },
+    {
+      "q": "An open-chain alkene contains 7 carbon atoms and one double bond. How many hydrogen atoms does it contain?",
+      "o": [
+        "14",
+        "18",
+        "16",
+        "12"
+      ],
+      "a": 0,
+      "e": "A monoalkene has formula CnH2n, so H=14.",
+      "d": "Medium",
+      "topic": "Hydrogenation",
+      "slo": "Explain and apply hydrogenation in hydrocarbons.",
+      "id": "CHEM9CH14-053"
+    },
+    {
+      "q": "What is the molecular formula of tetradecane?",
+      "o": [
+        "C14H26",
+        "C15H32",
+        "C14H30",
+        "C14H28"
+      ],
+      "a": 2,
+      "e": "For an acyclic alkane with 14 carbon atoms, H=2n+2=30.",
+      "d": "Easy",
+      "topic": "Alkane formula",
+      "slo": "Explain and apply alkane formula in hydrocarbons.",
+      "id": "CHEM9CH14-054"
+    },
+    {
+      "q": "How do consecutive members of the alkane homologous series differ?",
+      "o": [
+        "By CH2",
+        "By H2O",
+        "By O2",
+        "By CO2"
+      ],
+      "a": 0,
+      "e": "Successive alkane formulas differ by one CH2 unit.",
+      "d": "Easy",
+      "topic": "Homologous series",
+      "slo": "Explain and apply homologous series in hydrocarbons.",
+      "id": "CHEM9CH14-055"
+    },
+    {
+      "q": "When one mole of tetradecane burns completely, how many moles of carbon dioxide form?",
+      "o": [
+        "14 mol",
+        "17 mol",
+        "16 mol",
+        "15 mol"
+      ],
+      "a": 0,
+      "e": "Each of the 14 carbon atoms forms one CO2, so 1 mol tetradecane yields 14 mol CO2.",
+      "d": "Medium",
+      "topic": "Combustion stoichiometry",
+      "slo": "Explain and apply combustion stoichiometry in hydrocarbons.",
+      "id": "CHEM9CH14-056"
+    },
+    {
+      "q": "Which molecule is not an alkane?",
+      "o": [
+        "C4H10",
+        "C3H6",
+        "C3H8",
+        "C5H12"
+      ],
+      "a": 1,
+      "e": "C3H6 does not satisfy the acyclic alkane formula CnH2n+2.",
+      "d": "Easy",
+      "topic": "Alkane classification",
+      "slo": "Explain and apply alkane classification in hydrocarbons.",
+      "id": "CHEM9CH14-057"
+    },
+    {
+      "q": "What is the molar mass of butane (C=12, H=1)?",
+      "o": [
+        "56 g/mol",
+        "70 g/mol",
+        "60 g/mol",
+        "58 g/mol"
+      ],
+      "a": 3,
+      "e": "Molar mass = 4×12 + 10×1 = 58 g/mol.",
+      "d": "Medium",
+      "topic": "Molar mass",
+      "slo": "Explain and apply molar mass in hydrocarbons.",
+      "id": "CHEM9CH14-058"
+    },
+    {
+      "q": "When one mole of methane burns completely, how many moles of water form?",
+      "o": [
+        "2 mol",
+        "4 mol",
+        "1 mol",
+        "3 mol"
+      ],
+      "a": 0,
+      "e": "C1H4 contains 4 H atoms, giving 2 H2O per molecule.",
+      "d": "Medium",
+      "topic": "Combustion stoichiometry",
+      "slo": "Explain and apply combustion stoichiometry in hydrocarbons.",
+      "id": "CHEM9CH14-059"
+    },
+    {
+      "q": "Which hydrocarbon is saturated?",
+      "o": [
+        "Ethane",
+        "Ethyne",
+        "Propene",
+        "Ethene"
+      ],
+      "a": 0,
+      "e": "Ethane has only single bonds.",
+      "d": "Medium",
+      "topic": "Saturation",
+      "slo": "Explain and apply saturation in hydrocarbons.",
+      "id": "CHEM9CH14-060"
+    },
+    {
+      "q": "Which mixture is commonly obtained from cracking larger alkanes?",
+      "o": [
+        "Only oxygen",
+        "Smaller alkanes and alkenes",
+        "Only salts",
+        "Only water"
+      ],
+      "a": 1,
+      "e": "Cracking often produces an alkane and an alkene.",
+      "d": "Medium",
+      "topic": "Cracking",
+      "slo": "Explain and apply cracking in hydrocarbons.",
+      "id": "CHEM9CH14-061"
+    },
+    {
+      "q": "If C13H28 is cracked to C2H4 and one other hydrocarbon, what is the other product formula?",
+      "o": [
+        "C11H22",
+        "C11H24",
+        "C13H26",
+        "C12H24"
+      ],
+      "a": 1,
+      "e": "Atom balance: subtract C2H4 from C13H28, leaving C11H24.",
+      "d": "Hard",
+      "topic": "Cracking",
+      "slo": "Explain and apply cracking in hydrocarbons.",
+      "id": "CHEM9CH14-062"
+    },
+    {
+      "q": "When one mole of undecane burns completely, how many moles of carbon dioxide form?",
+      "o": [
+        "14 mol",
+        "11 mol",
+        "13 mol",
+        "12 mol"
+      ],
+      "a": 1,
+      "e": "Each of the 11 carbon atoms forms one CO2, so 1 mol undecane yields 11 mol CO2.",
+      "d": "Medium",
+      "topic": "Combustion stoichiometry",
+      "slo": "Explain and apply combustion stoichiometry in hydrocarbons.",
+      "id": "CHEM9CH14-063"
+    },
+    {
+      "q": "When one mole of heptane burns completely, how many moles of water form?",
+      "o": [
+        "9 mol",
+        "7 mol",
+        "8 mol",
+        "10 mol"
+      ],
+      "a": 2,
+      "e": "C7H16 contains 16 H atoms, giving 8 H2O per molecule.",
+      "d": "Medium",
+      "topic": "Combustion stoichiometry",
+      "slo": "Explain and apply combustion stoichiometry in hydrocarbons.",
+      "id": "CHEM9CH14-064"
+    },
+    {
+      "q": "Why is cracking useful in petroleum processing?",
+      "o": [
+        "It converts heavy fractions into more useful lighter hydrocarbons",
+        "It removes all carbon",
+        "It creates water from oil",
+        "It stops combustion"
+      ],
+      "a": 0,
+      "e": "Cracking upgrades large hydrocarbons into smaller useful molecules.",
+      "d": "Easy",
+      "topic": "Cracking",
+      "slo": "Explain and apply cracking in hydrocarbons.",
+      "id": "CHEM9CH14-065"
+    },
+    {
+      "q": "If C12H26 is cracked to C2H4 and one other hydrocarbon, what is the other product formula?",
+      "o": [
+        "C11H22",
+        "C10H20",
+        "C12H24",
+        "C10H22"
+      ],
+      "a": 3,
+      "e": "Atom balance: subtract C2H4 from C12H26, leaving C10H22.",
+      "d": "Hard",
+      "topic": "Cracking",
+      "slo": "Explain and apply cracking in hydrocarbons.",
+      "id": "CHEM9CH14-066"
+    },
+    {
+      "q": "How many moles of oxygen are needed for complete combustion of 1 mole of butane?",
+      "o": [
+        "7.5 mol",
+        "4 mol",
+        "5.5 mol",
+        "6.5 mol"
+      ],
+      "a": 3,
+      "e": "C4H10 + 6.5O2 -> 4CO2 + 5H2O.",
+      "d": "Hard",
+      "topic": "Combustion stoichiometry",
+      "slo": "Explain and apply combustion stoichiometry in hydrocarbons.",
+      "id": "CHEM9CH14-067"
+    },
+    {
+      "q": "After complete hydrogenation of a monoalkene with 6 carbon atoms, how many H atoms are in the product?",
+      "o": [
+        "16",
+        "10",
+        "14",
+        "12"
+      ],
+      "a": 2,
+      "e": "Hydrogenation converts C6H12 to C6H14.",
+      "d": "Medium",
+      "topic": "Hydrogenation",
+      "slo": "Explain and apply hydrogenation in hydrocarbons.",
+      "id": "CHEM9CH14-068"
+    },
+    {
+      "q": "What is the principal component of natural gas?",
+      "o": [
+        "Methane",
+        "Ethyne",
+        "Octane",
+        "Ethene"
+      ],
+      "a": 0,
+      "e": "Natural gas consists mainly of methane.",
+      "d": "Medium",
+      "topic": "Alkane uses",
+      "slo": "Explain and apply alkane uses in hydrocarbons.",
+      "id": "CHEM9CH14-069"
+    },
+    {
+      "q": "What is cracking?",
+      "o": [
+        "Replacing H with chlorine",
+        "Breaking large hydrocarbons into smaller molecules",
+        "Dissolving hydrocarbons in water",
+        "Adding hydrogen to alkenes"
+      ],
+      "a": 1,
+      "e": "Cracking breaks long-chain hydrocarbons into smaller compounds.",
+      "d": "Easy",
+      "topic": "Cracking",
+      "slo": "Explain and apply cracking in hydrocarbons.",
+      "id": "CHEM9CH14-070"
+    },
+    {
+      "q": "Which general formula describes open-chain alkanes?",
+      "o": [
+        "CnH2n+2",
+        "CnH2n-2",
+        "CnH2n",
+        "CnHn"
+      ],
+      "a": 0,
+      "e": "Acyclic saturated alkanes have formula CnH2n+2.",
+      "d": "Medium",
+      "topic": "Alkane formula",
+      "slo": "Explain and apply alkane formula in hydrocarbons.",
+      "id": "CHEM9CH14-071"
+    },
+    {
+      "q": "An open-chain alkene contains 16 carbon atoms and one double bond. How many hydrogen atoms does it contain?",
+      "o": [
+        "30",
+        "36",
+        "34",
+        "32"
+      ],
+      "a": 3,
+      "e": "A monoalkene has formula CnH2n, so H=32.",
+      "d": "Medium",
+      "topic": "Hydrogenation",
+      "slo": "Explain and apply hydrogenation in hydrocarbons.",
+      "id": "CHEM9CH14-072"
+    },
+    {
+      "q": "If C6H14 is cracked to C2H4 and one other hydrocarbon, what is the other product formula?",
+      "o": [
+        "C6H12",
+        "C4H10",
+        "C4H8",
+        "C5H10"
+      ],
+      "a": 1,
+      "e": "Atom balance: subtract C2H4 from C6H14, leaving C4H10.",
+      "d": "Hard",
+      "topic": "Cracking",
+      "slo": "Explain and apply cracking in hydrocarbons.",
+      "id": "CHEM9CH14-073"
+    },
+    {
+      "q": "What is the name of C2H5Cl?",
+      "o": [
+        "Chloroethane",
+        "Chloromethane",
+        "Ethane",
+        "Ethene"
+      ],
+      "a": 0,
+      "e": "Chloroethane is ethane with one hydrogen replaced by chlorine.",
+      "d": "Medium",
+      "topic": "Halogenation",
+      "slo": "Explain and apply halogenation in hydrocarbons.",
+      "id": "CHEM9CH14-074"
+    },
+    {
+      "q": "How many HCl molecules form when one molecule of C4H10 undergoes a single chlorination substitution?",
+      "o": [
+        "1",
+        "2",
+        "3",
+        "0"
+      ],
+      "a": 0,
+      "e": "One hydrogen is replaced by chlorine, and the removed hydrogen combines with chlorine to give one HCl.",
+      "d": "Easy",
+      "topic": "Halogenation",
+      "slo": "Explain and apply halogenation in hydrocarbons.",
+      "id": "CHEM9CH14-075"
+    },
+    {
+      "q": "What does a smoky yellow flame often indicate when burning a hydrocarbon?",
+      "o": [
+        "Hydrogenation",
+        "No carbon present",
+        "Complete combustion only",
+        "Incomplete combustion"
+      ],
+      "a": 3,
+      "e": "A yellow sooty flame indicates incomplete oxidation and incandescent carbon particles.",
+      "d": "Medium",
+      "topic": "Combustion",
+      "slo": "Explain and apply combustion in hydrocarbons.",
+      "id": "CHEM9CH14-076"
+    },
+    {
+      "q": "How many carbon-carbon single bonds occur in straight-chain heptane?",
+      "o": [
+        "6",
+        "8",
+        "9",
+        "7"
+      ],
+      "a": 0,
+      "e": "A chain of 7 carbons has 7-1 = 6 carbon-carbon bonds.",
+      "d": "Medium",
+      "topic": "Alkane bonding",
+      "slo": "Explain and apply alkane bonding in hydrocarbons.",
+      "id": "CHEM9CH14-077"
+    },
+    {
+      "q": "How many moles of oxygen are needed for complete combustion of 1 mole of nonane?",
+      "o": [
+        "14 mol",
+        "13 mol",
+        "9 mol",
+        "15 mol"
+      ],
+      "a": 0,
+      "e": "C9H20 + 14O2 -> 9CO2 + 10H2O.",
+      "d": "Hard",
+      "topic": "Combustion stoichiometry",
+      "slo": "Explain and apply combustion stoichiometry in hydrocarbons.",
+      "id": "CHEM9CH14-078"
+    },
+    {
+      "q": "When one mole of butane burns completely, how many moles of water form?",
+      "o": [
+        "5 mol",
+        "7 mol",
+        "4 mol",
+        "6 mol"
+      ],
+      "a": 0,
+      "e": "C4H10 contains 10 H atoms, giving 5 H2O per molecule.",
+      "d": "Medium",
+      "topic": "Combustion stoichiometry",
+      "slo": "Explain and apply combustion stoichiometry in hydrocarbons.",
+      "id": "CHEM9CH14-079"
+    },
+    {
+      "q": "How many carbon-hydrogen bonds are present in a molecule of octadecane?",
+      "o": [
+        "18",
+        "36",
+        "38",
+        "40"
+      ],
+      "a": 2,
+      "e": "The 38 hydrogen atoms in C18H38 each form one C-H bond.",
+      "d": "Medium",
+      "topic": "Alkane bonding",
+      "slo": "Explain and apply alkane bonding in hydrocarbons.",
+      "id": "CHEM9CH14-080"
+    },
+    {
+      "q": "How many HCl molecules form when one molecule of C3H8 undergoes a single chlorination substitution?",
+      "o": [
+        "0",
+        "3",
+        "2",
+        "1"
+      ],
+      "a": 3,
+      "e": "One hydrogen is replaced by chlorine, and the removed hydrogen combines with chlorine to give one HCl.",
+      "d": "Easy",
+      "topic": "Halogenation",
+      "slo": "Explain and apply halogenation in hydrocarbons.",
+      "id": "CHEM9CH14-081"
+    },
+    {
+      "q": "How many moles of oxygen are needed for complete combustion of 1 mole of octadecane?",
+      "o": [
+        "18 mol",
+        "28.5 mol",
+        "26.5 mol",
+        "27.5 mol"
+      ],
+      "a": 3,
+      "e": "C18H38 + 27.5O2 -> 18CO2 + 19H2O.",
+      "d": "Hard",
+      "topic": "Combustion stoichiometry",
+      "slo": "Explain and apply combustion stoichiometry in hydrocarbons.",
+      "id": "CHEM9CH14-082"
+    },
+    {
+      "q": "How many carbon-hydrogen bonds are present in a molecule of tridecane?",
+      "o": [
+        "26",
+        "30",
+        "28",
+        "13"
+      ],
+      "a": 2,
+      "e": "The 28 hydrogen atoms in C13H28 each form one C-H bond.",
+      "d": "Medium",
+      "topic": "Alkane bonding",
+      "slo": "Explain and apply alkane bonding in hydrocarbons.",
+      "id": "CHEM9CH14-083"
+    },
+    {
+      "q": "How many bonds does a carbon atom normally form in an alkane?",
+      "o": [
+        "One",
+        "Two",
+        "Three",
+        "Four"
+      ],
+      "a": 3,
+      "e": "Carbon has valency four and forms four covalent bonds.",
+      "d": "Medium",
+      "topic": "Carbon valency",
+      "slo": "Explain and apply carbon valency in hydrocarbons.",
+      "id": "CHEM9CH14-084"
+    },
+    {
+      "q": "Which product is formed by complete combustion of alkanes besides water?",
+      "o": [
+        "Carbon dioxide",
+        "Hydrogen chloride",
+        "Methane",
+        "Carbon monoxide only"
+      ],
+      "a": 0,
+      "e": "Complete combustion yields carbon dioxide and water.",
+      "d": "Medium",
+      "topic": "Combustion",
+      "slo": "Explain and apply combustion in hydrocarbons.",
+      "id": "CHEM9CH14-085"
+    },
+    {
+      "q": "What is the molecular formula of a monochloroalkane obtained by replacing one H in C7H16?",
+      "o": [
+        "C7H15Cl",
+        "C7H16Cl",
+        "C7H14Cl",
+        "C7H14Cl2"
+      ],
+      "a": 0,
+      "e": "Substitution removes one H and adds one Cl, giving C7H15Cl.",
+      "d": "Medium",
+      "topic": "Halogenation",
+      "slo": "Explain and apply halogenation in hydrocarbons.",
+      "id": "CHEM9CH14-086"
+    },
+    {
+      "q": "After complete hydrogenation of a monoalkene with 4 carbon atoms, how many H atoms are in the product?",
+      "o": [
+        "8",
+        "10",
+        "12",
+        "6"
+      ],
+      "a": 1,
+      "e": "Hydrogenation converts C4H8 to C4H10.",
+      "d": "Medium",
+      "topic": "Hydrogenation",
+      "slo": "Explain and apply hydrogenation in hydrocarbons.",
+      "id": "CHEM9CH14-087"
+    },
+    {
+      "q": "After complete hydrogenation of a monoalkene with 7 carbon atoms, how many H atoms are in the product?",
+      "o": [
+        "14",
+        "18",
+        "16",
+        "12"
+      ],
+      "a": 2,
+      "e": "Hydrogenation converts C7H14 to C7H16.",
+      "d": "Medium",
+      "topic": "Hydrogenation",
+      "slo": "Explain and apply hydrogenation in hydrocarbons.",
+      "id": "CHEM9CH14-088"
+    },
+    {
+      "q": "After complete hydrogenation of a monoalkene with 15 carbon atoms, how many H atoms are in the product?",
+      "o": [
+        "34",
+        "30",
+        "28",
+        "32"
+      ],
+      "a": 3,
+      "e": "Hydrogenation converts C15H30 to C15H32.",
+      "d": "Medium",
+      "topic": "Hydrogenation",
+      "slo": "Explain and apply hydrogenation in hydrocarbons.",
+      "id": "CHEM9CH14-089"
+    },
+    {
+      "q": "When one mole of decane burns completely, how many moles of carbon dioxide form?",
+      "o": [
+        "10 mol",
+        "11 mol",
+        "12 mol",
+        "13 mol"
+      ],
+      "a": 0,
+      "e": "Each of the 10 carbon atoms forms one CO2, so 1 mol decane yields 10 mol CO2.",
+      "d": "Medium",
+      "topic": "Combustion stoichiometry",
+      "slo": "Explain and apply combustion stoichiometry in hydrocarbons.",
+      "id": "CHEM9CH14-090"
+    },
+    {
+      "q": "How many HCl molecules form when one molecule of C12H26 undergoes a single chlorination substitution?",
+      "o": [
+        "1",
+        "3",
+        "2",
+        "0"
+      ],
+      "a": 0,
+      "e": "One hydrogen is replaced by chlorine, and the removed hydrogen combines with chlorine to give one HCl.",
+      "d": "Easy",
+      "topic": "Halogenation",
+      "slo": "Explain and apply halogenation in hydrocarbons.",
+      "id": "CHEM9CH14-091"
+    },
+    {
+      "q": "Which reaction is an example of hydrogenation?",
+      "o": [
+        "CH4 + 2O2 -> CO2 + 2H2O",
+        "C2H6 -> C2H4 + H2",
+        "CH4 + Cl2 -> CH3Cl + HCl",
+        "C2H4 + H2 -> C2H6"
+      ],
+      "a": 3,
+      "e": "Hydrogen adds across the ethene double bond.",
+      "d": "Medium",
+      "topic": "Hydrogenation",
+      "slo": "Explain and apply hydrogenation in hydrocarbons.",
+      "id": "CHEM9CH14-092"
+    },
+    {
+      "q": "If C9H20 is cracked to C2H4 and one other hydrocarbon, what is the other product formula?",
+      "o": [
+        "C9H18",
+        "C8H16",
+        "C7H16",
+        "C7H14"
+      ],
+      "a": 2,
+      "e": "Atom balance: subtract C2H4 from C9H20, leaving C7H16.",
+      "d": "Hard",
+      "topic": "Cracking",
+      "slo": "Explain and apply cracking in hydrocarbons.",
+      "id": "CHEM9CH14-093"
+    },
+    {
+      "q": "What is the name of C3H7Cl?",
+      "o": [
+        "Propene",
+        "Chloromethane",
+        "Chloropropane",
+        "Chlorobutane"
+      ],
+      "a": 2,
+      "e": "C3H7Cl represents a monochlorinated propane.",
+      "d": "Medium",
+      "topic": "Halogenation",
+      "slo": "Explain and apply halogenation in hydrocarbons.",
+      "id": "CHEM9CH14-094"
+    },
+    {
+      "q": "How many hydrogen atoms are in one molecule of heptane?",
+      "o": [
+        "20",
+        "14",
+        "16",
+        "18"
+      ],
+      "a": 2,
+      "e": "Heptane is C7H16; hydrogen count is 2(7)+2=16.",
+      "d": "Medium",
+      "topic": "Alkane formula",
+      "slo": "Explain and apply alkane formula in hydrocarbons.",
+      "id": "CHEM9CH14-095"
+    },
+    {
+      "q": "How many carbon-hydrogen bonds are present in a molecule of dodecane?",
+      "o": [
+        "24",
+        "12",
+        "26",
+        "28"
+      ],
+      "a": 2,
+      "e": "The 26 hydrogen atoms in C12H26 each form one C-H bond.",
+      "d": "Medium",
+      "topic": "Alkane bonding",
+      "slo": "Explain and apply alkane bonding in hydrocarbons.",
+      "id": "CHEM9CH14-096"
+    },
+    {
+      "q": "When one mole of ethane burns completely, how many moles of carbon dioxide form?",
+      "o": [
+        "3 mol",
+        "5 mol",
+        "2 mol",
+        "4 mol"
+      ],
+      "a": 2,
+      "e": "Each of the 2 carbon atoms forms one CO2, so 1 mol ethane yields 2 mol CO2.",
+      "d": "Medium",
+      "topic": "Combustion stoichiometry",
+      "slo": "Explain and apply combustion stoichiometry in hydrocarbons.",
+      "id": "CHEM9CH14-097"
+    },
+    {
+      "q": "When one mole of octane burns completely, how many moles of carbon dioxide form?",
+      "o": [
+        "11 mol",
+        "8 mol",
+        "10 mol",
+        "9 mol"
+      ],
+      "a": 1,
+      "e": "Each of the 8 carbon atoms forms one CO2, so 1 mol octane yields 8 mol CO2.",
+      "d": "Medium",
+      "topic": "Combustion stoichiometry",
+      "slo": "Explain and apply combustion stoichiometry in hydrocarbons.",
+      "id": "CHEM9CH14-098"
+    },
+    {
+      "q": "What is the molar mass of pentadecane (C=12, H=1)?",
+      "o": [
+        "224 g/mol",
+        "212 g/mol",
+        "214 g/mol",
+        "210 g/mol"
+      ],
+      "a": 1,
+      "e": "Molar mass = 15×12 + 32×1 = 212 g/mol.",
+      "d": "Medium",
+      "topic": "Molar mass",
+      "slo": "Explain and apply molar mass in hydrocarbons.",
+      "id": "CHEM9CH14-099"
+    },
+    {
+      "q": "How many carbon-carbon single bonds occur in straight-chain ethane?",
+      "o": [
+        "3",
+        "2",
+        "1",
+        "4"
+      ],
+      "a": 2,
+      "e": "A chain of 2 carbons has 2-1 = 1 carbon-carbon bonds.",
+      "d": "Medium",
+      "topic": "Alkane bonding",
+      "slo": "Explain and apply alkane bonding in hydrocarbons.",
+      "id": "CHEM9CH14-100"
+    },
+    {
+      "q": "How many hydrogen atoms are in one molecule of pentadecane?",
+      "o": [
+        "34",
+        "36",
+        "30",
+        "32"
+      ],
+      "a": 3,
+      "e": "Pentadecane is C15H32; hydrogen count is 2(15)+2=32.",
+      "d": "Medium",
+      "topic": "Alkane formula",
+      "slo": "Explain and apply alkane formula in hydrocarbons.",
+      "id": "CHEM9CH14-101"
+    },
+    {
+      "q": "How many hydrogen atoms are in one molecule of nonane?",
+      "o": [
+        "20",
+        "24",
+        "22",
+        "18"
+      ],
+      "a": 0,
+      "e": "Nonane is C9H20; hydrogen count is 2(9)+2=20.",
+      "d": "Medium",
+      "topic": "Alkane formula",
+      "slo": "Explain and apply alkane formula in hydrocarbons.",
+      "id": "CHEM9CH14-102"
+    },
+    {
+      "q": "What two elements make up a hydrocarbon?",
+      "o": [
+        "Carbon and oxygen",
+        "Carbon and nitrogen",
+        "Hydrogen and oxygen",
+        "Carbon and hydrogen"
+      ],
+      "a": 3,
+      "e": "Hydrocarbons contain only carbon and hydrogen.",
+      "d": "Easy",
+      "topic": "Hydrocarbon definition",
+      "slo": "Explain and apply hydrocarbon definition in hydrocarbons.",
+      "id": "CHEM9CH14-103"
+    },
+    {
+      "q": "How many HCl molecules form when one molecule of C7H16 undergoes a single chlorination substitution?",
+      "o": [
+        "1",
+        "2",
+        "0",
+        "3"
+      ],
+      "a": 0,
+      "e": "One hydrogen is replaced by chlorine, and the removed hydrogen combines with chlorine to give one HCl.",
+      "d": "Easy",
+      "topic": "Halogenation",
+      "slo": "Explain and apply halogenation in hydrocarbons.",
+      "id": "CHEM9CH14-104"
+    },
+    {
+      "q": "How many HCl molecules form when one molecule of C14H30 undergoes a single chlorination substitution?",
+      "o": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "a": 1,
+      "e": "One hydrogen is replaced by chlorine, and the removed hydrogen combines with chlorine to give one HCl.",
+      "d": "Easy",
+      "topic": "Halogenation",
+      "slo": "Explain and apply halogenation in hydrocarbons.",
+      "id": "CHEM9CH14-105"
+    },
+    {
+      "q": "What is the product of hydrogenating butene?",
+      "o": [
+        "Propane",
+        "Butyne",
+        "Pentane",
+        "Butane"
+      ],
+      "a": 3,
+      "e": "C4H8 + H2 gives C4H10.",
+      "d": "Medium",
+      "topic": "Hydrogenation",
+      "slo": "Explain and apply hydrogenation in hydrocarbons.",
+      "id": "CHEM9CH14-106"
+    },
+    {
+      "q": "What is the molar mass of heptadecane (C=12, H=1)?",
+      "o": [
+        "238 g/mol",
+        "242 g/mol",
+        "252 g/mol",
+        "240 g/mol"
+      ],
+      "a": 3,
+      "e": "Molar mass = 17×12 + 36×1 = 240 g/mol.",
+      "d": "Medium",
+      "topic": "Molar mass",
+      "slo": "Explain and apply molar mass in hydrocarbons.",
+      "id": "CHEM9CH14-107"
+    },
+    {
+      "q": "How many carbon-hydrogen bonds are present in a molecule of decane?",
+      "o": [
+        "10",
+        "22",
+        "20",
+        "24"
+      ],
+      "a": 1,
+      "e": "The 22 hydrogen atoms in C10H22 each form one C-H bond.",
+      "d": "Medium",
+      "topic": "Alkane bonding",
+      "slo": "Explain and apply alkane bonding in hydrocarbons.",
+      "id": "CHEM9CH14-108"
+    },
+    {
+      "q": "After complete hydrogenation of a monoalkene with 10 carbon atoms, how many H atoms are in the product?",
+      "o": [
+        "24",
+        "18",
+        "20",
+        "22"
+      ],
+      "a": 3,
+      "e": "Hydrogenation converts C10H20 to C10H22.",
+      "d": "Medium",
+      "topic": "Hydrogenation",
+      "slo": "Explain and apply hydrogenation in hydrocarbons.",
+      "id": "CHEM9CH14-109"
+    },
+    {
+      "q": "How many moles of oxygen are needed for complete combustion of 1 mole of nonadecane?",
+      "o": [
+        "19 mol",
+        "30 mol",
+        "28 mol",
+        "29 mol"
+      ],
+      "a": 3,
+      "e": "C19H40 + 29O2 -> 19CO2 + 20H2O.",
+      "d": "Hard",
+      "topic": "Combustion stoichiometry",
+      "slo": "Explain and apply combustion stoichiometry in hydrocarbons.",
+      "id": "CHEM9CH14-110"
+    },
+    {
+      "q": "When one mole of propane burns completely, how many moles of carbon dioxide form?",
+      "o": [
+        "3 mol",
+        "5 mol",
+        "6 mol",
+        "4 mol"
+      ],
+      "a": 0,
+      "e": "Each of the 3 carbon atoms forms one CO2, so 1 mol propane yields 3 mol CO2.",
+      "d": "Medium",
+      "topic": "Combustion stoichiometry",
+      "slo": "Explain and apply combustion stoichiometry in hydrocarbons.",
+      "id": "CHEM9CH14-111"
+    },
+    {
+      "q": "What is the molecular formula of hexadecane?",
+      "o": [
+        "C16H34",
+        "C16H32",
+        "C16H30",
+        "C17H36"
+      ],
+      "a": 0,
+      "e": "For an acyclic alkane with 16 carbon atoms, H=2n+2=34.",
+      "d": "Easy",
+      "topic": "Alkane formula",
+      "slo": "Explain and apply alkane formula in hydrocarbons.",
+      "id": "CHEM9CH14-112"
+    },
+    {
+      "q": "What is the molecular formula of propane?",
+      "o": [
+        "C3H8",
+        "C2H6",
+        "C3H6",
+        "C3H4"
+      ],
+      "a": 0,
+      "e": "Propane is the three-carbon alkane.",
+      "d": "Medium",
+      "topic": "Alkane formula",
+      "slo": "Explain and apply alkane formula in hydrocarbons.",
+      "id": "CHEM9CH14-113"
+    },
+    {
+      "q": "What is the molecular formula of a monochloroalkane obtained by replacing one H in C6H14?",
+      "o": [
+        "C6H12Cl2",
+        "C6H13Cl",
+        "C6H14Cl",
+        "C6H12Cl"
+      ],
+      "a": 1,
+      "e": "Substitution removes one H and adds one Cl, giving C6H13Cl.",
+      "d": "Medium",
+      "topic": "Halogenation",
+      "slo": "Explain and apply halogenation in hydrocarbons.",
+      "id": "CHEM9CH14-114"
+    },
+    {
+      "q": "If C14H30 is cracked to C2H4 and one other hydrocarbon, what is the other product formula?",
+      "o": [
+        "C12H26",
+        "C14H28",
+        "C13H26",
+        "C12H24"
+      ],
+      "a": 0,
+      "e": "Atom balance: subtract C2H4 from C14H30, leaving C12H26.",
+      "d": "Hard",
+      "topic": "Cracking",
+      "slo": "Explain and apply cracking in hydrocarbons.",
+      "id": "CHEM9CH14-115"
+    },
+    {
+      "q": "When one mole of octadecane burns completely, how many moles of water form?",
+      "o": [
+        "21 mol",
+        "19 mol",
+        "18 mol",
+        "20 mol"
+      ],
+      "a": 1,
+      "e": "C18H38 contains 38 H atoms, giving 19 H2O per molecule.",
+      "d": "Medium",
+      "topic": "Combustion stoichiometry",
+      "slo": "Explain and apply combustion stoichiometry in hydrocarbons.",
+      "id": "CHEM9CH14-116"
+    },
+    {
+      "q": "If C4H10 is cracked to C2H4 and one other hydrocarbon, what is the other product formula?",
+      "o": [
+        "C2H4",
+        "C3H6",
+        "C4H8",
+        "C2H6"
+      ],
+      "a": 3,
+      "e": "Atom balance: subtract C2H4 from C4H10, leaving C2H6.",
+      "d": "Hard",
+      "topic": "Cracking",
+      "slo": "Explain and apply cracking in hydrocarbons.",
+      "id": "CHEM9CH14-117"
+    },
+    {
+      "q": "How many moles of oxygen are needed for complete combustion of 1 mole of hexane?",
+      "o": [
+        "6 mol",
+        "9.5 mol",
+        "8.5 mol",
+        "10.5 mol"
+      ],
+      "a": 1,
+      "e": "C6H14 + 9.5O2 -> 6CO2 + 7H2O.",
+      "d": "Hard",
+      "topic": "Combustion stoichiometry",
+      "slo": "Explain and apply combustion stoichiometry in hydrocarbons.",
+      "id": "CHEM9CH14-118"
+    },
+    {
+      "q": "After complete hydrogenation of a monoalkene with 8 carbon atoms, how many H atoms are in the product?",
+      "o": [
+        "18",
+        "14",
+        "20",
+        "16"
+      ],
+      "a": 0,
+      "e": "Hydrogenation converts C8H16 to C8H18.",
+      "d": "Medium",
+      "topic": "Hydrogenation",
+      "slo": "Explain and apply hydrogenation in hydrocarbons.",
+      "id": "CHEM9CH14-119"
+    },
+    {
+      "q": "What condition promotes chlorination of methane?",
+      "o": [
+        "Freezing temperatures",
+        "Complete darkness",
+        "Water only",
+        "Sunlight or ultraviolet light"
+      ],
+      "a": 3,
+      "e": "Light helps initiate free-radical substitution.",
+      "d": "Medium",
+      "topic": "Halogenation",
+      "slo": "Explain and apply halogenation in hydrocarbons.",
+      "id": "CHEM9CH14-120"
+    },
+    {
+      "q": "When one mole of ethane burns completely, how many moles of water form?",
+      "o": [
+        "3 mol",
+        "2 mol",
+        "5 mol",
+        "4 mol"
+      ],
+      "a": 0,
+      "e": "C2H6 contains 6 H atoms, giving 3 H2O per molecule.",
+      "d": "Medium",
+      "topic": "Combustion stoichiometry",
+      "slo": "Explain and apply combustion stoichiometry in hydrocarbons.",
+      "id": "CHEM9CH14-121"
+    },
+    {
+      "q": "How many moles of oxygen are needed for complete combustion of 1 mole of propane?",
+      "o": [
+        "3 mol",
+        "6 mol",
+        "5 mol",
+        "4 mol"
+      ],
+      "a": 2,
+      "e": "C3H8 + 5O2 -> 3CO2 + 4H2O.",
+      "d": "Hard",
+      "topic": "Combustion stoichiometry",
+      "slo": "Explain and apply combustion stoichiometry in hydrocarbons.",
+      "id": "CHEM9CH14-122"
+    },
+    {
+      "q": "What is the molar mass of pentane (C=12, H=1)?",
+      "o": [
+        "72 g/mol",
+        "70 g/mol",
+        "84 g/mol",
+        "74 g/mol"
+      ],
+      "a": 0,
+      "e": "Molar mass = 5×12 + 12×1 = 72 g/mol.",
+      "d": "Medium",
+      "topic": "Molar mass",
+      "slo": "Explain and apply molar mass in hydrocarbons.",
+      "id": "CHEM9CH14-123"
+    },
+    {
+      "q": "How many HCl molecules form when one molecule of C15H32 undergoes a single chlorination substitution?",
+      "o": [
+        "1",
+        "0",
+        "3",
+        "2"
+      ],
+      "a": 0,
+      "e": "One hydrogen is replaced by chlorine, and the removed hydrogen combines with chlorine to give one HCl.",
+      "d": "Easy",
+      "topic": "Halogenation",
+      "slo": "Explain and apply halogenation in hydrocarbons.",
+      "id": "CHEM9CH14-124"
+    },
+    {
+      "q": "What is the molecular formula of a monochloroalkane obtained by replacing one H in C1H4?",
+      "o": [
+        "C1H3Cl",
+        "C1H2Cl",
+        "C1H4Cl",
+        "C1H2Cl2"
+      ],
+      "a": 0,
+      "e": "Substitution removes one H and adds one Cl, giving C1H3Cl.",
+      "d": "Medium",
+      "topic": "Halogenation",
+      "slo": "Explain and apply halogenation in hydrocarbons.",
+      "id": "CHEM9CH14-125"
+    },
+    {
+      "q": "What is the molar mass of hexadecane (C=12, H=1)?",
+      "o": [
+        "238 g/mol",
+        "224 g/mol",
+        "228 g/mol",
+        "226 g/mol"
+      ],
+      "a": 3,
+      "e": "Molar mass = 16×12 + 34×1 = 226 g/mol.",
+      "d": "Medium",
+      "topic": "Molar mass",
+      "slo": "Explain and apply molar mass in hydrocarbons.",
+      "id": "CHEM9CH14-126"
+    },
+    {
+      "q": "What is the molecular formula of decane?",
+      "o": [
+        "C10H22",
+        "C10H18",
+        "C10H20",
+        "C9H20"
+      ],
+      "a": 0,
+      "e": "Decane is the ten-carbon alkane.",
+      "d": "Easy",
+      "topic": "Alkane formula",
+      "slo": "Explain and apply alkane formula in hydrocarbons.",
+      "id": "CHEM9CH14-127"
+    },
+    {
+      "q": "Which type of bond joins carbon atoms in an alkane?",
+      "o": [
+        "Single covalent bond",
+        "Ionic bond",
+        "Double covalent bond",
+        "Triple covalent bond"
+      ],
+      "a": 0,
+      "e": "Alkanes are saturated and have only single carbon-carbon bonds.",
+      "d": "Medium",
+      "topic": "Alkane bonding",
+      "slo": "Explain and apply alkane bonding in hydrocarbons.",
+      "id": "CHEM9CH14-128"
+    },
+    {
+      "q": "What happens to the degree of unsaturation when an alkene is hydrogenated?",
+      "o": [
+        "It remains infinite",
+        "It increases",
+        "It decreases",
+        "It doubles"
+      ],
+      "a": 2,
+      "e": "Adding hydrogen removes the double bond.",
+      "d": "Easy",
+      "topic": "Hydrogenation",
+      "slo": "Explain and apply hydrogenation in hydrocarbons.",
+      "id": "CHEM9CH14-129"
+    },
+    {
+      "q": "What is the molar mass of decane (C=12, H=1)?",
+      "o": [
+        "142 g/mol",
+        "144 g/mol",
+        "140 g/mol",
+        "154 g/mol"
+      ],
+      "a": 0,
+      "e": "Molar mass = 10×12 + 22×1 = 142 g/mol.",
+      "d": "Medium",
+      "topic": "Molar mass",
+      "slo": "Explain and apply molar mass in hydrocarbons.",
+      "id": "CHEM9CH14-130"
+    },
+    {
+      "q": "What happens to the carbon-carbon double bond during hydrogenation?",
+      "o": [
+        "It becomes a triple bond",
+        "It becomes a single bond",
+        "It breaks the carbon chain",
+        "It becomes ionic"
+      ],
+      "a": 1,
+      "e": "Hydrogenation adds H atoms across C=C to make C-C.",
+      "d": "Medium",
+      "topic": "Hydrogenation",
+      "slo": "Explain and apply hydrogenation in hydrocarbons.",
+      "id": "CHEM9CH14-131"
+    },
+    {
+      "q": "How many carbon-carbon single bonds occur in straight-chain hexane?",
+      "o": [
+        "6",
+        "5",
+        "7",
+        "8"
+      ],
+      "a": 1,
+      "e": "A chain of 6 carbons has 6-1 = 5 carbon-carbon bonds.",
+      "d": "Medium",
+      "topic": "Alkane bonding",
+      "slo": "Explain and apply alkane bonding in hydrocarbons.",
+      "id": "CHEM9CH14-132"
+    },
+    {
+      "q": "How many hydrogen atoms are in one molecule of octadecane?",
+      "o": [
+        "38",
+        "42",
+        "36",
+        "40"
+      ],
+      "a": 0,
+      "e": "Octadecane is C18H38; hydrogen count is 2(18)+2=38.",
+      "d": "Medium",
+      "topic": "Alkane formula",
+      "slo": "Explain and apply alkane formula in hydrocarbons.",
+      "id": "CHEM9CH14-133"
+    },
+    {
+      "q": "Why is carbon monoxide dangerous?",
+      "o": [
+        "It reduces oxygen transport by binding to hemoglobin",
+        "It forms oxygen in blood",
+        "It is highly nutritious",
+        "It is completely harmless"
+      ],
+      "a": 0,
+      "e": "CO binds strongly to hemoglobin, limiting oxygen transport.",
+      "d": "Easy",
+      "topic": "Combustion",
+      "slo": "Explain and apply combustion in hydrocarbons.",
+      "id": "CHEM9CH14-134"
+    },
+    {
+      "q": "How many carbon-carbon single bonds occur in straight-chain pentane?",
+      "o": [
+        "5",
+        "6",
+        "4",
+        "7"
+      ],
+      "a": 2,
+      "e": "A chain of 5 carbons has 5-1 = 4 carbon-carbon bonds.",
+      "d": "Medium",
+      "topic": "Alkane bonding",
+      "slo": "Explain and apply alkane bonding in hydrocarbons.",
+      "id": "CHEM9CH14-135"
+    },
+    {
+      "q": "How many carbon-carbon single bonds occur in straight-chain decane?",
+      "o": [
+        "11",
+        "9",
+        "10",
+        "12"
+      ],
+      "a": 1,
+      "e": "A chain of 10 carbons has 10-1 = 9 carbon-carbon bonds.",
+      "d": "Medium",
+      "topic": "Alkane bonding",
+      "slo": "Explain and apply alkane bonding in hydrocarbons.",
+      "id": "CHEM9CH14-136"
+    },
+    {
+      "q": "When one mole of eicosane burns completely, how many moles of water form?",
+      "o": [
+        "22 mol",
+        "21 mol",
+        "20 mol",
+        "23 mol"
+      ],
+      "a": 1,
+      "e": "C20H42 contains 42 H atoms, giving 21 H2O per molecule.",
+      "d": "Medium",
+      "topic": "Combustion stoichiometry",
+      "slo": "Explain and apply combustion stoichiometry in hydrocarbons.",
+      "id": "CHEM9CH14-137"
+    },
+    {
+      "q": "What type of hydrocarbon is octane?",
+      "o": [
+        "Alkane",
+        "Alcohol",
+        "Alkene",
+        "Alkyne"
+      ],
+      "a": 0,
+      "e": "Octane has formula C8H18 and only single bonds.",
+      "d": "Medium",
+      "topic": "Alkane classification",
+      "slo": "Explain and apply alkane classification in hydrocarbons.",
+      "id": "CHEM9CH14-138"
+    },
+    {
+      "q": "What is the molecular formula of ethane?",
+      "o": [
+        "C2H2",
+        "CH4",
+        "C2H4",
+        "C2H6"
+      ],
+      "a": 3,
+      "e": "Ethane is the two-carbon alkane.",
+      "d": "Medium",
+      "topic": "Alkane formula",
+      "slo": "Explain and apply alkane formula in hydrocarbons.",
+      "id": "CHEM9CH14-139"
+    },
+    {
+      "q": "What is the characteristic reaction of alkanes with halogens?",
+      "o": [
+        "Neutralization",
+        "Addition",
+        "Substitution",
+        "Polymerization"
+      ],
+      "a": 2,
+      "e": "A halogen replaces a hydrogen atom in an alkane.",
+      "d": "Easy",
+      "topic": "Halogenation",
+      "slo": "Explain and apply halogenation in hydrocarbons.",
+      "id": "CHEM9CH14-140"
+    },
+    {
+      "q": "Which gas is formed alongside chloromethane in methane chlorination?",
+      "o": [
+        "Ammonia",
+        "Hydrogen chloride",
+        "Carbon dioxide",
+        "Hydrogen sulfide"
+      ],
+      "a": 1,
+      "e": "CH4 + Cl2 gives CH3Cl + HCl.",
+      "d": "Medium",
+      "topic": "Halogenation",
+      "slo": "Explain and apply halogenation in hydrocarbons.",
+      "id": "CHEM9CH14-141"
+    },
+    {
+      "q": "An open-chain alkene contains 5 carbon atoms and one double bond. How many hydrogen atoms does it contain?",
+      "o": [
+        "14",
+        "12",
+        "10",
+        "8"
+      ],
+      "a": 2,
+      "e": "A monoalkene has formula CnH2n, so H=10.",
+      "d": "Medium",
+      "topic": "Hydrogenation",
+      "slo": "Explain and apply hydrogenation in hydrocarbons.",
+      "id": "CHEM9CH14-142"
+    },
+    {
+      "q": "How many carbon-hydrogen bonds are present in a molecule of undecane?",
+      "o": [
+        "11",
+        "24",
+        "26",
+        "22"
+      ],
+      "a": 1,
+      "e": "The 24 hydrogen atoms in C11H24 each form one C-H bond.",
+      "d": "Medium",
+      "topic": "Alkane bonding",
+      "slo": "Explain and apply alkane bonding in hydrocarbons.",
+      "id": "CHEM9CH14-143"
+    },
+    {
+      "q": "How many carbon-hydrogen bonds are present in a molecule of octane?",
+      "o": [
+        "16",
+        "20",
+        "18",
+        "8"
+      ],
+      "a": 2,
+      "e": "The 18 hydrogen atoms in C8H18 each form one C-H bond.",
+      "d": "Medium",
+      "topic": "Alkane bonding",
+      "slo": "Explain and apply alkane bonding in hydrocarbons.",
+      "id": "CHEM9CH14-144"
+    },
+    {
+      "q": "What is the product of hydrogenating propene?",
+      "o": [
+        "Butane",
+        "Propyne",
+        "Ethane",
+        "Propane"
+      ],
+      "a": 3,
+      "e": "C3H6 + H2 gives C3H8.",
+      "d": "Easy",
+      "topic": "Hydrogenation",
+      "slo": "Explain and apply hydrogenation in hydrocarbons.",
+      "id": "CHEM9CH14-145"
+    },
+    {
+      "q": "After complete hydrogenation of a monoalkene with 13 carbon atoms, how many H atoms are in the product?",
+      "o": [
+        "26",
+        "24",
+        "30",
+        "28"
+      ],
+      "a": 3,
+      "e": "Hydrogenation converts C13H26 to C13H28.",
+      "d": "Medium",
+      "topic": "Hydrogenation",
+      "slo": "Explain and apply hydrogenation in hydrocarbons.",
+      "id": "CHEM9CH14-146"
+    },
+    {
+      "q": "Which hydrocarbon is unsaturated?",
+      "o": [
+        "Ethane",
+        "Propane",
+        "Ethene",
+        "Methane"
+      ],
+      "a": 2,
+      "e": "Ethene contains a double bond.",
+      "d": "Medium",
+      "topic": "Saturation",
+      "slo": "Explain and apply saturation in hydrocarbons.",
+      "id": "CHEM9CH14-147"
+    },
+    {
+      "q": "How many carbon-hydrogen bonds are present in a molecule of hexane?",
+      "o": [
+        "6",
+        "12",
+        "14",
+        "16"
+      ],
+      "a": 2,
+      "e": "The 14 hydrogen atoms in C6H14 each form one C-H bond.",
+      "d": "Medium",
+      "topic": "Alkane bonding",
+      "slo": "Explain and apply alkane bonding in hydrocarbons.",
+      "id": "CHEM9CH14-148"
+    },
+    {
+      "q": "What is the molecular formula of a monochloroalkane obtained by replacing one H in C11H24?",
+      "o": [
+        "C11H22Cl2",
+        "C11H23Cl",
+        "C11H22Cl",
+        "C11H24Cl"
+      ],
+      "a": 1,
+      "e": "Substitution removes one H and adds one Cl, giving C11H23Cl.",
+      "d": "Medium",
+      "topic": "Halogenation",
+      "slo": "Explain and apply halogenation in hydrocarbons.",
+      "id": "CHEM9CH14-149"
+    },
+    {
+      "q": "An open-chain alkene contains 12 carbon atoms and one double bond. How many hydrogen atoms does it contain?",
+      "o": [
+        "22",
+        "24",
+        "28",
+        "26"
+      ],
+      "a": 1,
+      "e": "A monoalkene has formula CnH2n, so H=24.",
+      "d": "Medium",
+      "topic": "Hydrogenation",
+      "slo": "Explain and apply hydrogenation in hydrocarbons.",
+      "id": "CHEM9CH14-150"
+    },
+    {
+      "q": "When one mole of dodecane burns completely, how many moles of water form?",
+      "o": [
+        "13 mol",
+        "14 mol",
+        "15 mol",
+        "12 mol"
+      ],
+      "a": 0,
+      "e": "C12H26 contains 26 H atoms, giving 13 H2O per molecule.",
+      "d": "Medium",
+      "topic": "Combustion stoichiometry",
+      "slo": "Explain and apply combustion stoichiometry in hydrocarbons.",
+      "id": "CHEM9CH14-151"
+    },
+    {
+      "q": "What is the molar mass of octadecane (C=12, H=1)?",
+      "o": [
+        "252 g/mol",
+        "266 g/mol",
+        "256 g/mol",
+        "254 g/mol"
+      ],
+      "a": 3,
+      "e": "Molar mass = 18×12 + 38×1 = 254 g/mol.",
+      "d": "Medium",
+      "topic": "Molar mass",
+      "slo": "Explain and apply molar mass in hydrocarbons.",
+      "id": "CHEM9CH14-152"
+    },
+    {
+      "q": "How many carbon-carbon single bonds occur in straight-chain undecane?",
+      "o": [
+        "13",
+        "10",
+        "12",
+        "11"
+      ],
+      "a": 1,
+      "e": "A chain of 11 carbons has 11-1 = 10 carbon-carbon bonds.",
+      "d": "Medium",
+      "topic": "Alkane bonding",
+      "slo": "Explain and apply alkane bonding in hydrocarbons.",
+      "id": "CHEM9CH14-153"
+    },
+    {
+      "q": "How many carbon-hydrogen bonds are present in a molecule of hexadecane?",
+      "o": [
+        "16",
+        "36",
+        "34",
+        "32"
+      ],
+      "a": 2,
+      "e": "The 34 hydrogen atoms in C16H34 each form one C-H bond.",
+      "d": "Medium",
+      "topic": "Alkane bonding",
+      "slo": "Explain and apply alkane bonding in hydrocarbons.",
+      "id": "CHEM9CH14-154"
+    },
+    {
+      "q": "Which catalyst is commonly used for hydrogenation in the textbook?",
+      "o": [
+        "Nickel",
+        "Sodium chloride",
+        "Sulfuric acid",
+        "Calcium carbonate"
+      ],
+      "a": 0,
+      "e": "Nickel is a common catalyst for alkene hydrogenation.",
+      "d": "Medium",
+      "topic": "Hydrogenation",
+      "slo": "Explain and apply hydrogenation in hydrocarbons.",
+      "id": "CHEM9CH14-155"
+    },
+    {
+      "q": "An open-chain alkene contains 9 carbon atoms and one double bond. How many hydrogen atoms does it contain?",
+      "o": [
+        "20",
+        "22",
+        "18",
+        "16"
+      ],
+      "a": 2,
+      "e": "A monoalkene has formula CnH2n, so H=18.",
+      "d": "Medium",
+      "topic": "Hydrogenation",
+      "slo": "Explain and apply hydrogenation in hydrocarbons.",
+      "id": "CHEM9CH14-156"
+    },
+    {
+      "q": "Which poisonous gas may form during incomplete combustion?",
+      "o": [
+        "Oxygen",
+        "Hydrogen",
+        "Carbon monoxide",
+        "Nitrogen"
+      ],
+      "a": 2,
+      "e": "Incomplete combustion can form toxic CO.",
+      "d": "Medium",
+      "topic": "Combustion",
+      "slo": "Explain and apply combustion in hydrocarbons.",
+      "id": "CHEM9CH14-157"
+    },
+    {
+      "q": "How many moles of oxygen are needed for complete combustion of 1 mole of ethane?",
+      "o": [
+        "2 mol",
+        "3.5 mol",
+        "4.5 mol",
+        "2.5 mol"
+      ],
+      "a": 1,
+      "e": "C2H6 + 3.5O2 -> 2CO2 + 3H2O.",
+      "d": "Hard",
+      "topic": "Combustion stoichiometry",
+      "slo": "Explain and apply combustion stoichiometry in hydrocarbons.",
+      "id": "CHEM9CH14-158"
+    },
+    {
+      "q": "After complete hydrogenation of a monoalkene with 2 carbon atoms, how many H atoms are in the product?",
+      "o": [
+        "6",
+        "4",
+        "8",
+        "2"
+      ],
+      "a": 0,
+      "e": "Hydrogenation converts C2H4 to C2H6.",
+      "d": "Medium",
+      "topic": "Hydrogenation",
+      "slo": "Explain and apply hydrogenation in hydrocarbons.",
+      "id": "CHEM9CH14-159"
+    },
+    {
+      "q": "How many hydrogen atoms are in one molecule of butane?",
+      "o": [
+        "14",
+        "10",
+        "12",
+        "8"
+      ],
+      "a": 1,
+      "e": "Butane is C4H10; hydrogen count is 2(4)+2=10.",
+      "d": "Medium",
+      "topic": "Alkane formula",
+      "slo": "Explain and apply alkane formula in hydrocarbons.",
+      "id": "CHEM9CH14-160"
+    },
+    {
+      "q": "What is the molecular formula of a monochloroalkane obtained by replacing one H in C5H12?",
+      "o": [
+        "C5H10Cl",
+        "C5H12Cl",
+        "C5H10Cl2",
+        "C5H11Cl"
+      ],
+      "a": 3,
+      "e": "Substitution removes one H and adds one Cl, giving C5H11Cl.",
+      "d": "Medium",
+      "topic": "Halogenation",
+      "slo": "Explain and apply halogenation in hydrocarbons.",
+      "id": "CHEM9CH14-161"
+    },
+    {
+      "q": "What is the balanced equation for chlorination of methane to chloromethane?",
+      "o": [
+        "CH4 + Cl2 -> CH2Cl2 + H2",
+        "CH4 + O2 -> CO2 + H2O",
+        "CH4 + H2 -> C2H6",
+        "CH4 + Cl2 -> CH3Cl + HCl"
+      ],
+      "a": 3,
+      "e": "One chlorine replaces one methane hydrogen.",
+      "d": "Easy",
+      "topic": "Halogenation",
+      "slo": "Explain and apply halogenation in hydrocarbons.",
+      "id": "CHEM9CH14-162"
+    },
+    {
+      "q": "Are alkanes usually more or less dense than water?",
+      "o": [
+        "Less dense",
+        "More dense",
+        "Always twice as dense",
+        "Exactly equal"
+      ],
+      "a": 0,
+      "e": "Liquid alkanes are typically less dense than water.",
+      "d": "Easy",
+      "topic": "Physical properties",
+      "slo": "Explain and apply physical properties in hydrocarbons.",
+      "id": "CHEM9CH14-163"
+    },
+    {
+      "q": "When one mole of pentadecane burns completely, how many moles of carbon dioxide form?",
+      "o": [
+        "15 mol",
+        "17 mol",
+        "18 mol",
+        "16 mol"
+      ],
+      "a": 0,
+      "e": "Each of the 15 carbon atoms forms one CO2, so 1 mol pentadecane yields 15 mol CO2.",
+      "d": "Medium",
+      "topic": "Combustion stoichiometry",
+      "slo": "Explain and apply combustion stoichiometry in hydrocarbons.",
+      "id": "CHEM9CH14-164"
+    },
+    {
+      "q": "What is the molecular formula of a monochloroalkane obtained by replacing one H in C10H22?",
+      "o": [
+        "C10H20Cl",
+        "C10H21Cl",
+        "C10H20Cl2",
+        "C10H22Cl"
+      ],
+      "a": 1,
+      "e": "Substitution removes one H and adds one Cl, giving C10H21Cl.",
+      "d": "Medium",
+      "topic": "Halogenation",
+      "slo": "Explain and apply halogenation in hydrocarbons.",
+      "id": "CHEM9CH14-165"
+    },
+    {
+      "q": "An open-chain alkene contains 4 carbon atoms and one double bond. How many hydrogen atoms does it contain?",
+      "o": [
+        "12",
+        "8",
+        "6",
+        "10"
+      ],
+      "a": 1,
+      "e": "A monoalkene has formula CnH2n, so H=8.",
+      "d": "Medium",
+      "topic": "Hydrogenation",
+      "slo": "Explain and apply hydrogenation in hydrocarbons.",
+      "id": "CHEM9CH14-166"
+    },
+    {
+      "q": "Why are alkanes called saturated hydrocarbons?",
+      "o": [
+        "Their carbon atoms carry the maximum possible hydrogen atoms",
+        "They contain C=C bonds",
+        "They dissolve in water",
+        "They contain oxygen"
+      ],
+      "a": 0,
+      "e": "With only single bonds, an acyclic alkane holds the maximum possible hydrogen atoms.",
+      "d": "Easy",
+      "topic": "Saturation",
+      "slo": "Explain and apply saturation in hydrocarbons.",
+      "id": "CHEM9CH14-167"
+    },
+    {
+      "q": "An open-chain alkene contains 10 carbon atoms and one double bond. How many hydrogen atoms does it contain?",
+      "o": [
+        "24",
+        "18",
+        "22",
+        "20"
+      ],
+      "a": 3,
+      "e": "A monoalkene has formula CnH2n, so H=20.",
+      "d": "Medium",
+      "topic": "Hydrogenation",
+      "slo": "Explain and apply hydrogenation in hydrocarbons.",
+      "id": "CHEM9CH14-168"
+    },
+    {
+      "q": "When one mole of octadecane burns completely, how many moles of carbon dioxide form?",
+      "o": [
+        "21 mol",
+        "18 mol",
+        "20 mol",
+        "19 mol"
+      ],
+      "a": 1,
+      "e": "Each of the 18 carbon atoms forms one CO2, so 1 mol octadecane yields 18 mol CO2.",
+      "d": "Medium",
+      "topic": "Combustion stoichiometry",
+      "slo": "Explain and apply combustion stoichiometry in hydrocarbons.",
+      "id": "CHEM9CH14-169"
+    },
+    {
+      "q": "When one mole of nonane burns completely, how many moles of water form?",
+      "o": [
+        "11 mol",
+        "12 mol",
+        "10 mol",
+        "9 mol"
+      ],
+      "a": 2,
+      "e": "C9H20 contains 20 H atoms, giving 10 H2O per molecule.",
+      "d": "Medium",
+      "topic": "Combustion stoichiometry",
+      "slo": "Explain and apply combustion stoichiometry in hydrocarbons.",
+      "id": "CHEM9CH14-170"
+    },
+    {
+      "q": "What is the molar mass of octane (C=12, H=1)?",
+      "o": [
+        "112 g/mol",
+        "114 g/mol",
+        "116 g/mol",
+        "126 g/mol"
+      ],
+      "a": 1,
+      "e": "Molar mass = 8×12 + 18×1 = 114 g/mol.",
+      "d": "Medium",
+      "topic": "Molar mass",
+      "slo": "Explain and apply molar mass in hydrocarbons.",
+      "id": "CHEM9CH14-171"
+    },
+    {
+      "q": "How many HCl molecules form when one molecule of C2H6 undergoes a single chlorination substitution?",
+      "o": [
+        "1",
+        "0",
+        "3",
+        "2"
+      ],
+      "a": 0,
+      "e": "One hydrogen is replaced by chlorine, and the removed hydrogen combines with chlorine to give one HCl.",
+      "d": "Easy",
+      "topic": "Halogenation",
+      "slo": "Explain and apply halogenation in hydrocarbons.",
+      "id": "CHEM9CH14-172"
+    },
+    {
+      "q": "What solid may appear in incomplete combustion of hydrocarbons?",
+      "o": [
+        "Soot (carbon)",
+        "Sodium chloride",
+        "Sulfur",
+        "Copper"
+      ],
+      "a": 0,
+      "e": "Very limited oxygen may lead to carbon soot.",
+      "d": "Easy",
+      "topic": "Combustion",
+      "slo": "Explain and apply combustion in hydrocarbons.",
+      "id": "CHEM9CH14-173"
+    },
+    {
+      "q": "An open-chain alkene contains 11 carbon atoms and one double bond. How many hydrogen atoms does it contain?",
+      "o": [
+        "22",
+        "26",
+        "24",
+        "20"
+      ],
+      "a": 0,
+      "e": "A monoalkene has formula CnH2n, so H=22.",
+      "d": "Medium",
+      "topic": "Hydrogenation",
+      "slo": "Explain and apply hydrogenation in hydrocarbons.",
+      "id": "CHEM9CH14-174"
+    },
+    {
+      "q": "Why are alkanes used as fuels?",
+      "o": [
+        "They release heat when burned",
+        "They contain ionic bonds",
+        "They are always soluble in water",
+        "They absorb heat on burning"
+      ],
+      "a": 0,
+      "e": "Combustion of alkanes is strongly exothermic.",
+      "d": "Medium",
+      "topic": "Alkane uses",
+      "slo": "Explain and apply alkane uses in hydrocarbons.",
+      "id": "CHEM9CH14-175"
+    },
+    {
+      "q": "How many hydrogen atoms are in one molecule of undecane?",
+      "o": [
+        "24",
+        "26",
+        "28",
+        "22"
+      ],
+      "a": 0,
+      "e": "Undecane is C11H24; hydrogen count is 2(11)+2=24.",
+      "d": "Medium",
+      "topic": "Alkane formula",
+      "slo": "Explain and apply alkane formula in hydrocarbons.",
+      "id": "CHEM9CH14-176"
+    },
+    {
+      "q": "After complete hydrogenation of a monoalkene with 9 carbon atoms, how many H atoms are in the product?",
+      "o": [
+        "22",
+        "16",
+        "18",
+        "20"
+      ],
+      "a": 3,
+      "e": "Hydrogenation converts C9H18 to C9H20.",
+      "d": "Medium",
+      "topic": "Hydrogenation",
+      "slo": "Explain and apply hydrogenation in hydrocarbons.",
+      "id": "CHEM9CH14-177"
+    },
+    {
+      "q": "How many carbon-hydrogen bonds are present in a molecule of nonane?",
+      "o": [
+        "9",
+        "18",
+        "20",
+        "22"
+      ],
+      "a": 2,
+      "e": "The 20 hydrogen atoms in C9H20 each form one C-H bond.",
+      "d": "Medium",
+      "topic": "Alkane bonding",
+      "slo": "Explain and apply alkane bonding in hydrocarbons.",
+      "id": "CHEM9CH14-178"
+    },
+    {
+      "q": "If C15H32 is cracked to C2H4 and one other hydrocarbon, what is the other product formula?",
+      "o": [
+        "C15H30",
+        "C13H28",
+        "C14H28",
+        "C13H26"
+      ],
+      "a": 1,
+      "e": "Atom balance: subtract C2H4 from C15H32, leaving C13H28.",
+      "d": "Hard",
+      "topic": "Cracking",
+      "slo": "Explain and apply cracking in hydrocarbons.",
+      "id": "CHEM9CH14-179"
+    },
+    {
+      "q": "What is the molecular formula of a monochloroalkane obtained by replacing one H in C15H32?",
+      "o": [
+        "C15H32Cl",
+        "C15H30Cl",
+        "C15H30Cl2",
+        "C15H31Cl"
+      ],
+      "a": 3,
+      "e": "Substitution removes one H and adds one Cl, giving C15H31Cl.",
+      "d": "Medium",
+      "topic": "Halogenation",
+      "slo": "Explain and apply halogenation in hydrocarbons.",
+      "id": "CHEM9CH14-180"
+    },
+    {
+      "q": "What is the molecular formula of nonane?",
+      "o": [
+        "C9H20",
+        "C8H18",
+        "C9H18",
+        "C9H16"
+      ],
+      "a": 0,
+      "e": "Nonane is the nine-carbon alkane.",
+      "d": "Medium",
+      "topic": "Alkane formula",
+      "slo": "Explain and apply alkane formula in hydrocarbons.",
+      "id": "CHEM9CH14-181"
+    },
+    {
+      "q": "What gas is required for combustion of alkanes?",
+      "o": [
+        "Nitrogen",
+        "Chlorine",
+        "Helium",
+        "Oxygen"
+      ],
+      "a": 3,
+      "e": "Oxygen is the oxidant for combustion.",
+      "d": "Easy",
+      "topic": "Combustion",
+      "slo": "Explain and apply combustion in hydrocarbons.",
+      "id": "CHEM9CH14-182"
+    },
+    {
+      "q": "What is the molecular formula of eicosane?",
+      "o": [
+        "C20H42",
+        "C20H38",
+        "C20H40",
+        "C21H44"
+      ],
+      "a": 0,
+      "e": "For an acyclic alkane with 20 carbon atoms, H=2n+2=42.",
+      "d": "Easy",
+      "topic": "Alkane formula",
+      "slo": "Explain and apply alkane formula in hydrocarbons.",
+      "id": "CHEM9CH14-183"
+    },
+    {
+      "q": "How many HCl molecules form when one molecule of C13H28 undergoes a single chlorination substitution?",
+      "o": [
+        "3",
+        "0",
+        "2",
+        "1"
+      ],
+      "a": 3,
+      "e": "One hydrogen is replaced by chlorine, and the removed hydrogen combines with chlorine to give one HCl.",
+      "d": "Easy",
+      "topic": "Halogenation",
+      "slo": "Explain and apply halogenation in hydrocarbons.",
+      "id": "CHEM9CH14-184"
+    },
+    {
+      "q": "What is the molecular formula of undecane?",
+      "o": [
+        "C11H24",
+        "C11H22",
+        "C11H20",
+        "C12H26"
+      ],
+      "a": 0,
+      "e": "For an acyclic alkane with 11 carbon atoms, H=2n+2=24.",
+      "d": "Easy",
+      "topic": "Alkane formula",
+      "slo": "Explain and apply alkane formula in hydrocarbons.",
+      "id": "CHEM9CH14-185"
+    },
+    {
+      "q": "When one mole of heptadecane burns completely, how many moles of water form?",
+      "o": [
+        "18 mol",
+        "20 mol",
+        "19 mol",
+        "17 mol"
+      ],
+      "a": 0,
+      "e": "C17H36 contains 36 H atoms, giving 18 H2O per molecule.",
+      "d": "Medium",
+      "topic": "Combustion stoichiometry",
+      "slo": "Explain and apply combustion stoichiometry in hydrocarbons.",
+      "id": "CHEM9CH14-186"
+    },
+    {
+      "q": "What happens to the boiling point of straight-chain alkanes as chain length increases?",
+      "o": [
+        "It becomes zero",
+        "It stays exactly constant",
+        "It generally increases",
+        "It always decreases"
+      ],
+      "a": 2,
+      "e": "Larger alkanes generally have stronger dispersion forces and higher boiling points.",
+      "d": "Medium",
+      "topic": "Physical properties",
+      "slo": "Explain and apply physical properties in hydrocarbons.",
+      "id": "CHEM9CH14-187"
+    },
+    {
+      "q": "How many hydrogen atoms are in one molecule of tridecane?",
+      "o": [
+        "26",
+        "28",
+        "32",
+        "30"
+      ],
+      "a": 1,
+      "e": "Tridecane is C13H28; hydrogen count is 2(13)+2=28.",
+      "d": "Medium",
+      "topic": "Alkane formula",
+      "slo": "Explain and apply alkane formula in hydrocarbons.",
+      "id": "CHEM9CH14-188"
+    },
+    {
+      "q": "How many hydrogen atoms are in one molecule of ethane?",
+      "o": [
+        "10",
+        "4",
+        "6",
+        "8"
+      ],
+      "a": 2,
+      "e": "Ethane is C2H6; hydrogen count is 2(2)+2=6.",
+      "d": "Medium",
+      "topic": "Alkane formula",
+      "slo": "Explain and apply alkane formula in hydrocarbons.",
+      "id": "CHEM9CH14-189"
+    },
+    {
+      "q": "An open-chain alkene contains 6 carbon atoms and one double bond. How many hydrogen atoms does it contain?",
+      "o": [
+        "16",
+        "14",
+        "10",
+        "12"
+      ],
+      "a": 3,
+      "e": "A monoalkene has formula CnH2n, so H=12.",
+      "d": "Medium",
+      "topic": "Hydrogenation",
+      "slo": "Explain and apply hydrogenation in hydrocarbons.",
+      "id": "CHEM9CH14-190"
+    },
+    {
+      "q": "How many HCl molecules form when one molecule of C9H20 undergoes a single chlorination substitution?",
+      "o": [
+        "0",
+        "2",
+        "3",
+        "1"
+      ],
+      "a": 3,
+      "e": "One hydrogen is replaced by chlorine, and the removed hydrogen combines with chlorine to give one HCl.",
+      "d": "Easy",
+      "topic": "Halogenation",
+      "slo": "Explain and apply halogenation in hydrocarbons.",
+      "id": "CHEM9CH14-191"
+    },
+    {
+      "q": "What is produced when hydrogen reacts with ethene in the presence of nickel?",
+      "o": [
+        "Ethane",
+        "Methane",
+        "Ethyne",
+        "Carbon dioxide"
+      ],
+      "a": 0,
+      "e": "C2H4 + H2 -> C2H6.",
+      "d": "Medium",
+      "topic": "Hydrogenation",
+      "slo": "Explain and apply hydrogenation in hydrocarbons.",
+      "id": "CHEM9CH14-192"
+    },
+    {
+      "q": "What is the molecular formula of a monochloroalkane obtained by replacing one H in C13H28?",
+      "o": [
+        "C13H26Cl2",
+        "C13H26Cl",
+        "C13H27Cl",
+        "C13H28Cl"
+      ],
+      "a": 2,
+      "e": "Substitution removes one H and adds one Cl, giving C13H27Cl.",
+      "d": "Medium",
+      "topic": "Halogenation",
+      "slo": "Explain and apply halogenation in hydrocarbons.",
+      "id": "CHEM9CH14-193"
+    },
+    {
+      "q": "What is the product of hydrogenating ethene?",
+      "o": [
+        "Propane",
+        "Methane",
+        "Ethyne",
+        "Ethane"
+      ],
+      "a": 3,
+      "e": "C2H4 + H2 gives C2H6.",
+      "d": "Medium",
+      "topic": "Hydrogenation",
+      "slo": "Explain and apply hydrogenation in hydrocarbons.",
+      "id": "CHEM9CH14-194"
+    },
+    {
+      "q": "When one mole of heptadecane burns completely, how many moles of carbon dioxide form?",
+      "o": [
+        "17 mol",
+        "18 mol",
+        "19 mol",
+        "20 mol"
+      ],
+      "a": 0,
+      "e": "Each of the 17 carbon atoms forms one CO2, so 1 mol heptadecane yields 17 mol CO2.",
+      "d": "Medium",
+      "topic": "Combustion stoichiometry",
+      "slo": "Explain and apply combustion stoichiometry in hydrocarbons.",
+      "id": "CHEM9CH14-195"
+    },
+    {
+      "q": "What does the term homologous series mean?",
+      "o": [
+        "A family with a common general formula and similar chemical properties",
+        "Only aromatic compounds",
+        "All compounds with equal mass",
+        "Compounds containing different elements only"
+      ],
+      "a": 0,
+      "e": "Members share a general formula and successive members differ by CH2.",
+      "d": "Medium",
+      "topic": "Homologous series",
+      "slo": "Explain and apply homologous series in hydrocarbons.",
+      "id": "CHEM9CH14-196"
+    },
+    {
+      "q": "If C10H22 is cracked to C2H4 and one other hydrocarbon, what is the other product formula?",
+      "o": [
+        "C10H20",
+        "C9H18",
+        "C8H18",
+        "C8H16"
+      ],
+      "a": 2,
+      "e": "Atom balance: subtract C2H4 from C10H22, leaving C8H18.",
+      "d": "Hard",
+      "topic": "Cracking",
+      "slo": "Explain and apply cracking in hydrocarbons.",
+      "id": "CHEM9CH14-197"
+    },
+    {
+      "q": "When one mole of hexadecane burns completely, how many moles of water form?",
+      "o": [
+        "17 mol",
+        "16 mol",
+        "18 mol",
+        "19 mol"
+      ],
+      "a": 0,
+      "e": "C16H34 contains 34 H atoms, giving 17 H2O per molecule.",
+      "d": "Medium",
+      "topic": "Combustion stoichiometry",
+      "slo": "Explain and apply combustion stoichiometry in hydrocarbons.",
+      "id": "CHEM9CH14-198"
+    },
+    {
+      "q": "When one mole of methane burns completely, how many moles of carbon dioxide form?",
+      "o": [
+        "2 mol",
+        "3 mol",
+        "1 mol",
+        "4 mol"
+      ],
+      "a": 2,
+      "e": "Each of the 1 carbon atoms forms one CO2, so 1 mol methane yields 1 mol CO2.",
+      "d": "Medium",
+      "topic": "Combustion stoichiometry",
+      "slo": "Explain and apply combustion stoichiometry in hydrocarbons.",
+      "id": "CHEM9CH14-199"
+    },
+    {
+      "q": "Which product is formed by complete combustion of methane?",
+      "o": [
+        "Carbon and hydrogen",
+        "Carbon dioxide and water",
+        "Methanol and oxygen",
+        "Carbon monoxide only"
+      ],
+      "a": 1,
+      "e": "CH4 + 2O2 -> CO2 + 2H2O.",
+      "d": "Medium",
+      "topic": "Combustion",
+      "slo": "Explain and apply combustion in hydrocarbons.",
+      "id": "CHEM9CH14-200"
+    },
+    {
+      "q": "Which alkane has four carbon atoms?",
+      "o": [
+        "Pentane",
+        "Propane",
+        "Hexane",
+        "Butane"
+      ],
+      "a": 3,
+      "e": "Butane has formula C4H10.",
+      "d": "Medium",
+      "topic": "Alkane names",
+      "slo": "Explain and apply alkane names in hydrocarbons.",
+      "id": "CHEM9CH14-201"
+    },
+    {
+      "q": "What is the molecular formula of octadecane?",
+      "o": [
+        "C18H38",
+        "C19H40",
+        "C18H34",
+        "C18H36"
+      ],
+      "a": 0,
+      "e": "For an acyclic alkane with 18 carbon atoms, H=2n+2=38.",
+      "d": "Easy",
+      "topic": "Alkane formula",
+      "slo": "Explain and apply alkane formula in hydrocarbons.",
+      "id": "CHEM9CH14-202"
+    },
+    {
+      "q": "How many moles of oxygen are needed for complete combustion of 1 mole of heptane?",
+      "o": [
+        "12 mol",
+        "10 mol",
+        "11 mol",
+        "7 mol"
+      ],
+      "a": 2,
+      "e": "C7H16 + 11O2 -> 7CO2 + 8H2O.",
+      "d": "Hard",
+      "topic": "Combustion stoichiometry",
+      "slo": "Explain and apply combustion stoichiometry in hydrocarbons.",
+      "id": "CHEM9CH14-203"
+    },
+    {
+      "q": "If C5H12 is cracked to C2H4 and one other hydrocarbon, what is the other product formula?",
+      "o": [
+        "C3H6",
+        "C5H10",
+        "C3H8",
+        "C4H8"
+      ],
+      "a": 2,
+      "e": "Atom balance: subtract C2H4 from C5H12, leaving C3H8.",
+      "d": "Hard",
+      "topic": "Cracking",
+      "slo": "Explain and apply cracking in hydrocarbons.",
+      "id": "CHEM9CH14-204"
+    },
+    {
+      "q": "Which combustion product contributes to the greenhouse effect?",
+      "o": [
+        "Helium",
+        "Carbon dioxide",
+        "Argon",
+        "Nitrogen"
+      ],
+      "a": 1,
+      "e": "CO2 is a greenhouse gas released by hydrocarbon combustion.",
+      "d": "Medium",
+      "topic": "Combustion",
+      "slo": "Explain and apply combustion in hydrocarbons.",
+      "id": "CHEM9CH14-205"
+    },
+    {
+      "q": "What is the molecular formula of a monochloroalkane obtained by replacing one H in C9H20?",
+      "o": [
+        "C9H18Cl",
+        "C9H19Cl",
+        "C9H20Cl",
+        "C9H18Cl2"
+      ],
+      "a": 1,
+      "e": "Substitution removes one H and adds one Cl, giving C9H19Cl.",
+      "d": "Medium",
+      "topic": "Halogenation",
+      "slo": "Explain and apply halogenation in hydrocarbons.",
+      "id": "CHEM9CH14-206"
+    },
+    {
+      "q": "How many moles of oxygen are needed for complete combustion of 1 mole of tridecane?",
+      "o": [
+        "13 mol",
+        "19 mol",
+        "20 mol",
+        "21 mol"
+      ],
+      "a": 2,
+      "e": "C13H28 + 20O2 -> 13CO2 + 14H2O.",
+      "d": "Hard",
+      "topic": "Combustion stoichiometry",
+      "slo": "Explain and apply combustion stoichiometry in hydrocarbons.",
+      "id": "CHEM9CH14-207"
+    },
+    {
+      "q": "How many carbon-carbon single bonds occur in straight-chain pentadecane?",
+      "o": [
+        "16",
+        "14",
+        "15",
+        "17"
+      ],
+      "a": 1,
+      "e": "A chain of 15 carbons has 15-1 = 14 carbon-carbon bonds.",
+      "d": "Medium",
+      "topic": "Alkane bonding",
+      "slo": "Explain and apply alkane bonding in hydrocarbons.",
+      "id": "CHEM9CH14-208"
+    },
+    {
+      "q": "After complete hydrogenation of a monoalkene with 12 carbon atoms, how many H atoms are in the product?",
+      "o": [
+        "22",
+        "28",
+        "24",
+        "26"
+      ],
+      "a": 3,
+      "e": "Hydrogenation converts C12H24 to C12H26.",
+      "d": "Medium",
+      "topic": "Hydrogenation",
+      "slo": "Explain and apply hydrogenation in hydrocarbons.",
+      "id": "CHEM9CH14-209"
+    },
+    {
+      "q": "How many carbon-hydrogen bonds are present in a molecule of pentadecane?",
+      "o": [
+        "15",
+        "32",
+        "30",
+        "34"
+      ],
+      "a": 1,
+      "e": "The 32 hydrogen atoms in C15H32 each form one C-H bond.",
+      "d": "Medium",
+      "topic": "Alkane bonding",
+      "slo": "Explain and apply alkane bonding in hydrocarbons.",
+      "id": "CHEM9CH14-210"
+    },
+    {
+      "q": "What is the molecular formula of a monochloroalkane obtained by replacing one H in C2H6?",
+      "o": [
+        "C2H5Cl",
+        "C2H6Cl",
+        "C2H4Cl2",
+        "C2H4Cl"
+      ],
+      "a": 0,
+      "e": "Substitution removes one H and adds one Cl, giving C2H5Cl.",
+      "d": "Medium",
+      "topic": "Halogenation",
+      "slo": "Explain and apply halogenation in hydrocarbons.",
+      "id": "CHEM9CH14-211"
+    },
+    {
+      "q": "What is the molecular formula of hexane?",
+      "o": [
+        "C6H10",
+        "C5H12",
+        "C6H12",
+        "C6H14"
+      ],
+      "a": 3,
+      "e": "Hexane is the six-carbon alkane.",
+      "d": "Medium",
+      "topic": "Alkane formula",
+      "slo": "Explain and apply alkane formula in hydrocarbons.",
+      "id": "CHEM9CH14-212"
+    },
+    {
+      "q": "How many hydrogen atoms are in one molecule of pentane?",
+      "o": [
+        "14",
+        "10",
+        "12",
+        "16"
+      ],
+      "a": 2,
+      "e": "Pentane is C5H12; hydrogen count is 2(5)+2=12.",
+      "d": "Medium",
+      "topic": "Alkane formula",
+      "slo": "Explain and apply alkane formula in hydrocarbons.",
+      "id": "CHEM9CH14-213"
+    },
+    {
+      "q": "How many hydrogen atoms are in one molecule of methane?",
+      "o": [
+        "4",
+        "2",
+        "6",
+        "8"
+      ],
+      "a": 0,
+      "e": "Methane is C1H4; hydrogen count is 2(1)+2=4.",
+      "d": "Medium",
+      "topic": "Alkane formula",
+      "slo": "Explain and apply alkane formula in hydrocarbons.",
+      "id": "CHEM9CH14-214"
+    },
+    {
+      "q": "How many moles of oxygen are needed for complete combustion of 1 mole of hexadecane?",
+      "o": [
+        "25.5 mol",
+        "23.5 mol",
+        "24.5 mol",
+        "16 mol"
+      ],
+      "a": 2,
+      "e": "C16H34 + 24.5O2 -> 16CO2 + 17H2O.",
+      "d": "Hard",
+      "topic": "Combustion stoichiometry",
+      "slo": "Explain and apply combustion stoichiometry in hydrocarbons.",
+      "id": "CHEM9CH14-215"
+    },
+    {
+      "q": "When one mole of propane burns completely, how many moles of water form?",
+      "o": [
+        "4 mol",
+        "5 mol",
+        "3 mol",
+        "6 mol"
+      ],
+      "a": 0,
+      "e": "C3H8 contains 8 H atoms, giving 4 H2O per molecule.",
+      "d": "Medium",
+      "topic": "Combustion stoichiometry",
+      "slo": "Explain and apply combustion stoichiometry in hydrocarbons.",
+      "id": "CHEM9CH14-216"
+    },
+    {
+      "q": "What is the molar mass of propane (C=12, H=1)?",
+      "o": [
+        "42 g/mol",
+        "56 g/mol",
+        "46 g/mol",
+        "44 g/mol"
+      ],
+      "a": 3,
+      "e": "Molar mass = 3×12 + 8×1 = 44 g/mol.",
+      "d": "Medium",
+      "topic": "Molar mass",
+      "slo": "Explain and apply molar mass in hydrocarbons.",
+      "id": "CHEM9CH14-217"
+    },
+    {
+      "q": "What is the molecular formula of heptadecane?",
+      "o": [
+        "C17H36",
+        "C18H38",
+        "C17H34",
+        "C17H32"
+      ],
+      "a": 0,
+      "e": "For an acyclic alkane with 17 carbon atoms, H=2n+2=36.",
+      "d": "Easy",
+      "topic": "Alkane formula",
+      "slo": "Explain and apply alkane formula in hydrocarbons.",
+      "id": "CHEM9CH14-218"
+    },
+    {
+      "q": "What is the name of CH3Cl?",
+      "o": [
+        "Methane",
+        "Chloromethane",
+        "Methanol",
+        "Chloroethane"
+      ],
+      "a": 1,
+      "e": "CH3Cl is chloromethane.",
+      "d": "Easy",
+      "topic": "Halogenation",
+      "slo": "Explain and apply halogenation in hydrocarbons.",
+      "id": "CHEM9CH14-219"
+    },
+    {
+      "q": "How many carbon-carbon single bonds occur in straight-chain butane?",
+      "o": [
+        "5",
+        "3",
+        "4",
+        "6"
+      ],
+      "a": 1,
+      "e": "A chain of 4 carbons has 4-1 = 3 carbon-carbon bonds.",
+      "d": "Medium",
+      "topic": "Alkane bonding",
+      "slo": "Explain and apply alkane bonding in hydrocarbons.",
+      "id": "CHEM9CH14-220"
+    },
+    {
+      "q": "What is the balanced equation for complete combustion of methane?",
+      "o": [
+        "CH4 + Cl2 -> CH3Cl + HCl",
+        "CH4 + O2 -> CH3OH",
+        "CH4 + O2 -> CO + H2",
+        "CH4 + 2O2 -> CO2 + 2H2O"
+      ],
+      "a": 3,
+      "e": "Complete combustion gives CO2 and H2O.",
+      "d": "Medium",
+      "topic": "Combustion",
+      "slo": "Explain and apply combustion in hydrocarbons.",
+      "id": "CHEM9CH14-221"
+    },
+    {
+      "q": "When one mole of nonane burns completely, how many moles of carbon dioxide form?",
+      "o": [
+        "11 mol",
+        "9 mol",
+        "10 mol",
+        "12 mol"
+      ],
+      "a": 1,
+      "e": "Each of the 9 carbon atoms forms one CO2, so 1 mol nonane yields 9 mol CO2.",
+      "d": "Medium",
+      "topic": "Combustion stoichiometry",
+      "slo": "Explain and apply combustion stoichiometry in hydrocarbons.",
+      "id": "CHEM9CH14-222"
+    },
+    {
+      "q": "What is the molecular formula of octane?",
+      "o": [
+        "C8H16",
+        "C7H16",
+        "C8H18",
+        "C8H14"
+      ],
+      "a": 2,
+      "e": "Octane is the eight-carbon alkane.",
+      "d": "Medium",
+      "topic": "Alkane formula",
+      "slo": "Explain and apply alkane formula in hydrocarbons.",
+      "id": "CHEM9CH14-223"
+    },
+    {
+      "q": "If C8H18 is cracked to C2H4 and one other hydrocarbon, what is the other product formula?",
+      "o": [
+        "C7H14",
+        "C8H16",
+        "C6H14",
+        "C6H12"
+      ],
+      "a": 2,
+      "e": "Atom balance: subtract C2H4 from C8H18, leaving C6H14.",
+      "d": "Hard",
+      "topic": "Cracking",
+      "slo": "Explain and apply cracking in hydrocarbons.",
+      "id": "CHEM9CH14-224"
+    },
+    {
+      "q": "What is the molecular formula of methane?",
+      "o": [
+        "CH4",
+        "CH3",
+        "CH2",
+        "C2H6"
+      ],
+      "a": 0,
+      "e": "Methane has one carbon atom bonded to four hydrogens.",
+      "d": "Easy",
+      "topic": "Alkane formula",
+      "slo": "Explain and apply alkane formula in hydrocarbons.",
+      "id": "CHEM9CH14-225"
+    },
+    {
+      "q": "An open-chain alkene contains 8 carbon atoms and one double bond. How many hydrogen atoms does it contain?",
+      "o": [
+        "16",
+        "14",
+        "18",
+        "20"
+      ],
+      "a": 0,
+      "e": "A monoalkene has formula CnH2n, so H=16.",
+      "d": "Medium",
+      "topic": "Hydrogenation",
+      "slo": "Explain and apply hydrogenation in hydrocarbons.",
+      "id": "CHEM9CH14-226"
+    },
+    {
+      "q": "What is the molecular formula of butane?",
+      "o": [
+        "C3H8",
+        "C4H10",
+        "C4H8",
+        "C4H6"
+      ],
+      "a": 1,
+      "e": "Butane is the four-carbon alkane.",
+      "d": "Easy",
+      "topic": "Alkane formula",
+      "slo": "Explain and apply alkane formula in hydrocarbons.",
+      "id": "CHEM9CH14-227"
+    },
+    {
+      "q": "How many moles of oxygen are needed for complete combustion of 1 mole of octane?",
+      "o": [
+        "13.5 mol",
+        "11.5 mol",
+        "12.5 mol",
+        "8 mol"
+      ],
+      "a": 2,
+      "e": "C8H18 + 12.5O2 -> 8CO2 + 9H2O.",
+      "d": "Hard",
+      "topic": "Combustion stoichiometry",
+      "slo": "Explain and apply combustion stoichiometry in hydrocarbons.",
+      "id": "CHEM9CH14-228"
+    },
+    {
+      "q": "How many HCl molecules form when one molecule of C6H14 undergoes a single chlorination substitution?",
+      "o": [
+        "1",
+        "3",
+        "0",
+        "2"
+      ],
+      "a": 0,
+      "e": "One hydrogen is replaced by chlorine, and the removed hydrogen combines with chlorine to give one HCl.",
+      "d": "Easy",
+      "topic": "Halogenation",
+      "slo": "Explain and apply halogenation in hydrocarbons.",
+      "id": "CHEM9CH14-229"
+    },
+    {
+      "q": "What is the molecular formula of a monochloroalkane obtained by replacing one H in C12H26?",
+      "o": [
+        "C12H24Cl",
+        "C12H24Cl2",
+        "C12H26Cl",
+        "C12H25Cl"
+      ],
+      "a": 3,
+      "e": "Substitution removes one H and adds one Cl, giving C12H25Cl.",
+      "d": "Medium",
+      "topic": "Halogenation",
+      "slo": "Explain and apply halogenation in hydrocarbons.",
+      "id": "CHEM9CH14-230"
+    },
+    {
+      "q": "What is the molecular formula of dodecane?",
+      "o": [
+        "C13H28",
+        "C12H22",
+        "C12H24",
+        "C12H26"
+      ],
+      "a": 3,
+      "e": "For an acyclic alkane with 12 carbon atoms, H=2n+2=26.",
+      "d": "Easy",
+      "topic": "Alkane formula",
+      "slo": "Explain and apply alkane formula in hydrocarbons.",
+      "id": "CHEM9CH14-231"
+    },
+    {
+      "q": "What is the molecular formula of a monochloroalkane obtained by replacing one H in C8H18?",
+      "o": [
+        "C8H17Cl",
+        "C8H16Cl2",
+        "C8H16Cl",
+        "C8H18Cl"
+      ],
+      "a": 0,
+      "e": "Substitution removes one H and adds one Cl, giving C8H17Cl.",
+      "d": "Medium",
+      "topic": "Halogenation",
+      "slo": "Explain and apply halogenation in hydrocarbons.",
+      "id": "CHEM9CH14-232"
+    },
+    {
+      "q": "When one mole of tridecane burns completely, how many moles of water form?",
+      "o": [
+        "13 mol",
+        "14 mol",
+        "15 mol",
+        "16 mol"
+      ],
+      "a": 1,
+      "e": "C13H28 contains 28 H atoms, giving 14 H2O per molecule.",
+      "d": "Medium",
+      "topic": "Combustion stoichiometry",
+      "slo": "Explain and apply combustion stoichiometry in hydrocarbons.",
+      "id": "CHEM9CH14-233"
+    },
+    {
+      "q": "What type of reaction is methane reacting with chlorine in sunlight?",
+      "o": [
+        "Hydrogenation",
+        "Free-radical substitution",
+        "Hydrolysis",
+        "Ionic neutralization"
+      ],
+      "a": 1,
+      "e": "Chlorination of methane proceeds by radical substitution.",
+      "d": "Medium",
+      "topic": "Halogenation",
+      "slo": "Explain and apply halogenation in hydrocarbons.",
+      "id": "CHEM9CH14-234"
+    },
+    {
+      "q": "How many moles of oxygen are needed for complete combustion of 1 mole of eicosane?",
+      "o": [
+        "30.5 mol",
+        "29.5 mol",
+        "20 mol",
+        "31.5 mol"
+      ],
+      "a": 0,
+      "e": "C20H42 + 30.5O2 -> 20CO2 + 21H2O.",
+      "d": "Hard",
+      "topic": "Combustion stoichiometry",
+      "slo": "Explain and apply combustion stoichiometry in hydrocarbons.",
+      "id": "CHEM9CH14-235"
+    },
+    {
+      "q": "How many carbon-carbon single bonds occur in straight-chain octane?",
+      "o": [
+        "8",
+        "10",
+        "9",
+        "7"
+      ],
+      "a": 3,
+      "e": "A chain of 8 carbons has 8-1 = 7 carbon-carbon bonds.",
+      "d": "Medium",
+      "topic": "Alkane bonding",
+      "slo": "Explain and apply alkane bonding in hydrocarbons.",
+      "id": "CHEM9CH14-236"
+    },
+    {
+      "q": "When one mole of hexane burns completely, how many moles of water form?",
+      "o": [
+        "8 mol",
+        "9 mol",
+        "6 mol",
+        "7 mol"
+      ],
+      "a": 3,
+      "e": "C6H14 contains 14 H atoms, giving 7 H2O per molecule.",
+      "d": "Medium",
+      "topic": "Combustion stoichiometry",
+      "slo": "Explain and apply combustion stoichiometry in hydrocarbons.",
+      "id": "CHEM9CH14-237"
+    },
+    {
+      "q": "When one mole of decane burns completely, how many moles of water form?",
+      "o": [
+        "10 mol",
+        "11 mol",
+        "13 mol",
+        "12 mol"
+      ],
+      "a": 1,
+      "e": "C10H22 contains 22 H atoms, giving 11 H2O per molecule.",
+      "d": "Medium",
+      "topic": "Combustion stoichiometry",
+      "slo": "Explain and apply combustion stoichiometry in hydrocarbons.",
+      "id": "CHEM9CH14-238"
+    },
+    {
+      "q": "How many carbon-hydrogen bonds are present in a molecule of heptadecane?",
+      "o": [
+        "38",
+        "36",
+        "34",
+        "17"
+      ],
+      "a": 1,
+      "e": "The 36 hydrogen atoms in C17H36 each form one C-H bond.",
+      "d": "Medium",
+      "topic": "Alkane bonding",
+      "slo": "Explain and apply alkane bonding in hydrocarbons.",
+      "id": "CHEM9CH14-239"
+    },
+    {
+      "q": "How many moles of oxygen are needed for complete combustion of 1 mole of pentadecane?",
+      "o": [
+        "22 mol",
+        "15 mol",
+        "24 mol",
+        "23 mol"
+      ],
+      "a": 3,
+      "e": "C15H32 + 23O2 -> 15CO2 + 16H2O.",
+      "d": "Hard",
+      "topic": "Combustion stoichiometry",
+      "slo": "Explain and apply combustion stoichiometry in hydrocarbons.",
+      "id": "CHEM9CH14-240"
+    },
+    {
+      "q": "When one mole of heptane burns completely, how many moles of carbon dioxide form?",
+      "o": [
+        "9 mol",
+        "10 mol",
+        "8 mol",
+        "7 mol"
+      ],
+      "a": 3,
+      "e": "Each of the 7 carbon atoms forms one CO2, so 1 mol heptane yields 7 mol CO2.",
+      "d": "Medium",
+      "topic": "Combustion stoichiometry",
+      "slo": "Explain and apply combustion stoichiometry in hydrocarbons.",
+      "id": "CHEM9CH14-241"
+    },
+    {
+      "q": "How many carbon-hydrogen bonds are present in a molecule of eicosane?",
+      "o": [
+        "40",
+        "44",
+        "20",
+        "42"
+      ],
+      "a": 3,
+      "e": "The 42 hydrogen atoms in C20H42 each form one C-H bond.",
+      "d": "Medium",
+      "topic": "Alkane bonding",
+      "slo": "Explain and apply alkane bonding in hydrocarbons.",
+      "id": "CHEM9CH14-242"
+    },
+    {
+      "q": "How many moles of oxygen are needed for complete combustion of 1 mole of heptadecane?",
+      "o": [
+        "25 mol",
+        "17 mol",
+        "26 mol",
+        "27 mol"
+      ],
+      "a": 2,
+      "e": "C17H36 + 26O2 -> 17CO2 + 18H2O.",
+      "d": "Hard",
+      "topic": "Combustion stoichiometry",
+      "slo": "Explain and apply combustion stoichiometry in hydrocarbons.",
+      "id": "CHEM9CH14-243"
+    },
+    {
+      "q": "How many carbon-hydrogen bonds are present in a molecule of propane?",
+      "o": [
+        "10",
+        "8",
+        "6",
+        "3"
+      ],
+      "a": 1,
+      "e": "The 8 hydrogen atoms in C3H8 each form one C-H bond.",
+      "d": "Medium",
+      "topic": "Alkane bonding",
+      "slo": "Explain and apply alkane bonding in hydrocarbons.",
+      "id": "CHEM9CH14-244"
+    },
+    {
+      "q": "How many carbon-carbon single bonds occur in straight-chain nonadecane?",
+      "o": [
+        "19",
+        "18",
+        "21",
+        "20"
+      ],
+      "a": 1,
+      "e": "A chain of 19 carbons has 19-1 = 18 carbon-carbon bonds.",
+      "d": "Medium",
+      "topic": "Alkane bonding",
+      "slo": "Explain and apply alkane bonding in hydrocarbons.",
+      "id": "CHEM9CH14-245"
+    },
+    {
+      "q": "What is the molecular formula of tridecane?",
+      "o": [
+        "C13H24",
+        "C13H28",
+        "C13H26",
+        "C14H30"
+      ],
+      "a": 1,
+      "e": "For an acyclic alkane with 13 carbon atoms, H=2n+2=28.",
+      "d": "Easy",
+      "topic": "Alkane formula",
+      "slo": "Explain and apply alkane formula in hydrocarbons.",
+      "id": "CHEM9CH14-246"
+    },
+    {
+      "q": "When one mole of octane burns completely, how many moles of water form?",
+      "o": [
+        "11 mol",
+        "9 mol",
+        "8 mol",
+        "10 mol"
+      ],
+      "a": 1,
+      "e": "C8H18 contains 18 H atoms, giving 9 H2O per molecule.",
+      "d": "Medium",
+      "topic": "Combustion stoichiometry",
+      "slo": "Explain and apply combustion stoichiometry in hydrocarbons.",
+      "id": "CHEM9CH14-247"
+    },
+    {
+      "q": "What is the molar mass of undecane (C=12, H=1)?",
+      "o": [
+        "158 g/mol",
+        "156 g/mol",
+        "168 g/mol",
+        "154 g/mol"
+      ],
+      "a": 1,
+      "e": "Molar mass = 11×12 + 24×1 = 156 g/mol.",
+      "d": "Medium",
+      "topic": "Molar mass",
+      "slo": "Explain and apply molar mass in hydrocarbons.",
+      "id": "CHEM9CH14-248"
+    },
+    {
+      "q": "How many hydrogen atoms are in one molecule of eicosane?",
+      "o": [
+        "40",
+        "42",
+        "46",
+        "44"
+      ],
+      "a": 1,
+      "e": "Eicosane is C20H42; hydrogen count is 2(20)+2=42.",
+      "d": "Medium",
+      "topic": "Alkane formula",
+      "slo": "Explain and apply alkane formula in hydrocarbons.",
+      "id": "CHEM9CH14-249"
+    },
+    {
+      "q": "How many carbon-carbon single bonds occur in straight-chain propane?",
+      "o": [
+        "5",
+        "3",
+        "4",
+        "2"
+      ],
+      "a": 3,
+      "e": "A chain of 3 carbons has 3-1 = 2 carbon-carbon bonds.",
+      "d": "Medium",
+      "topic": "Alkane bonding",
+      "slo": "Explain and apply alkane bonding in hydrocarbons.",
+      "id": "CHEM9CH14-250"
+    },
+    {
+      "q": "How many carbon-carbon single bonds occur in straight-chain octadecane?",
+      "o": [
+        "19",
+        "20",
+        "17",
+        "18"
+      ],
+      "a": 2,
+      "e": "A chain of 18 carbons has 18-1 = 17 carbon-carbon bonds.",
+      "d": "Medium",
+      "topic": "Alkane bonding",
+      "slo": "Explain and apply alkane bonding in hydrocarbons.",
+      "id": "CHEM9CH14-251"
+    },
+    {
+      "q": "How many carbon-carbon single bonds occur in straight-chain tridecane?",
+      "o": [
+        "12",
+        "13",
+        "14",
+        "15"
+      ],
+      "a": 0,
+      "e": "A chain of 13 carbons has 13-1 = 12 carbon-carbon bonds.",
+      "d": "Medium",
+      "topic": "Alkane bonding",
+      "slo": "Explain and apply alkane bonding in hydrocarbons.",
+      "id": "CHEM9CH14-252"
+    },
+    {
+      "q": "An open-chain alkene contains 14 carbon atoms and one double bond. How many hydrogen atoms does it contain?",
+      "o": [
+        "30",
+        "28",
+        "32",
+        "26"
+      ],
+      "a": 1,
+      "e": "A monoalkene has formula CnH2n, so H=28.",
+      "d": "Medium",
+      "topic": "Hydrogenation",
+      "slo": "Explain and apply hydrogenation in hydrocarbons.",
+      "id": "CHEM9CH14-253"
+    },
+    {
+      "q": "After complete hydrogenation of a monoalkene with 5 carbon atoms, how many H atoms are in the product?",
+      "o": [
+        "12",
+        "8",
+        "10",
+        "14"
+      ],
+      "a": 0,
+      "e": "Hydrogenation converts C5H10 to C5H12.",
+      "d": "Medium",
+      "topic": "Hydrogenation",
+      "slo": "Explain and apply hydrogenation in hydrocarbons.",
+      "id": "CHEM9CH14-254"
+    },
+    {
+      "q": "How many moles of oxygen are needed for complete combustion of 1 mole of pentane?",
+      "o": [
+        "9 mol",
+        "5 mol",
+        "8 mol",
+        "7 mol"
+      ],
+      "a": 2,
+      "e": "C5H12 + 8O2 -> 5CO2 + 6H2O.",
+      "d": "Hard",
+      "topic": "Combustion stoichiometry",
+      "slo": "Explain and apply combustion stoichiometry in hydrocarbons.",
+      "id": "CHEM9CH14-255"
+    },
+    {
+      "q": "How many carbon-carbon single bonds occur in straight-chain eicosane?",
+      "o": [
+        "21",
+        "22",
+        "20",
+        "19"
+      ],
+      "a": 3,
+      "e": "A chain of 20 carbons has 20-1 = 19 carbon-carbon bonds.",
+      "d": "Medium",
+      "topic": "Alkane bonding",
+      "slo": "Explain and apply alkane bonding in hydrocarbons.",
+      "id": "CHEM9CH14-256"
+    },
+    {
+      "q": "What is the carbon-carbon bond in ethane?",
+      "o": [
+        "A single bond",
+        "An ionic bond",
+        "A double bond",
+        "A triple bond"
+      ],
+      "a": 0,
+      "e": "Ethane is saturated and contains a C-C single bond.",
+      "d": "Medium",
+      "topic": "Alkane bonding",
+      "slo": "Explain and apply alkane bonding in hydrocarbons.",
+      "id": "CHEM9CH14-257"
+    },
+    {
+      "q": "How many hydrogen atoms are in one molecule of tetradecane?",
+      "o": [
+        "34",
+        "30",
+        "32",
+        "28"
+      ],
+      "a": 1,
+      "e": "Tetradecane is C14H30; hydrogen count is 2(14)+2=30.",
+      "d": "Medium",
+      "topic": "Alkane formula",
+      "slo": "Explain and apply alkane formula in hydrocarbons.",
+      "id": "CHEM9CH14-258"
+    },
+    {
+      "q": "How many moles of oxygen are needed for complete combustion of 1 mole of decane?",
+      "o": [
+        "15.5 mol",
+        "16.5 mol",
+        "10 mol",
+        "14.5 mol"
+      ],
+      "a": 0,
+      "e": "C10H22 + 15.5O2 -> 10CO2 + 11H2O.",
+      "d": "Hard",
+      "topic": "Combustion stoichiometry",
+      "slo": "Explain and apply combustion stoichiometry in hydrocarbons.",
+      "id": "CHEM9CH14-259"
+    },
+    {
+      "q": "Which condition favors incomplete combustion of an alkane?",
+      "o": [
+        "High air circulation",
+        "Pure oxygen",
+        "Excess oxygen",
+        "Limited oxygen supply"
+      ],
+      "a": 3,
+      "e": "Insufficient oxygen causes incomplete combustion.",
+      "d": "Medium",
+      "topic": "Combustion",
+      "slo": "Explain and apply combustion in hydrocarbons.",
+      "id": "CHEM9CH14-260"
+    },
+    {
+      "q": "What is the typical state of octane at room temperature?",
+      "o": [
+        "Solid salt",
+        "Gas",
+        "Plasma",
+        "Liquid"
+      ],
+      "a": 3,
+      "e": "Octane is a liquid near room temperature.",
+      "d": "Easy",
+      "topic": "Physical properties",
+      "slo": "Explain and apply physical properties in hydrocarbons.",
+      "id": "CHEM9CH14-261"
+    },
+    {
+      "q": "When one mole of pentane burns completely, how many moles of water form?",
+      "o": [
+        "6 mol",
+        "8 mol",
+        "7 mol",
+        "5 mol"
+      ],
+      "a": 0,
+      "e": "C5H12 contains 12 H atoms, giving 6 H2O per molecule.",
+      "d": "Medium",
+      "topic": "Combustion stoichiometry",
+      "slo": "Explain and apply combustion stoichiometry in hydrocarbons.",
+      "id": "CHEM9CH14-262"
+    },
+    {
+      "q": "When one mole of butane burns completely, how many moles of carbon dioxide form?",
+      "o": [
+        "4 mol",
+        "6 mol",
+        "5 mol",
+        "7 mol"
+      ],
+      "a": 0,
+      "e": "Each of the 4 carbon atoms forms one CO2, so 1 mol butane yields 4 mol CO2.",
+      "d": "Medium",
+      "topic": "Combustion stoichiometry",
+      "slo": "Explain and apply combustion stoichiometry in hydrocarbons.",
+      "id": "CHEM9CH14-263"
+    },
+    {
+      "q": "What is the molar mass of tridecane (C=12, H=1)?",
+      "o": [
+        "182 g/mol",
+        "186 g/mol",
+        "184 g/mol",
+        "196 g/mol"
+      ],
+      "a": 2,
+      "e": "Molar mass = 13×12 + 28×1 = 184 g/mol.",
+      "d": "Medium",
+      "topic": "Molar mass",
+      "slo": "Explain and apply molar mass in hydrocarbons.",
+      "id": "CHEM9CH14-264"
+    },
+    {
+      "q": "What is the molar mass of dodecane (C=12, H=1)?",
+      "o": [
+        "168 g/mol",
+        "182 g/mol",
+        "172 g/mol",
+        "170 g/mol"
+      ],
+      "a": 3,
+      "e": "Molar mass = 12×12 + 26×1 = 170 g/mol.",
+      "d": "Medium",
+      "topic": "Molar mass",
+      "slo": "Explain and apply molar mass in hydrocarbons.",
+      "id": "CHEM9CH14-265"
+    },
+    {
+      "q": "What happens to bromine water when mixed with an alkene under suitable conditions?",
+      "o": [
+        "It is decolorized",
+        "It always turns black",
+        "It becomes deep blue",
+        "It forms salt crystals"
+      ],
+      "a": 0,
+      "e": "Bromine adds across an alkene double bond, removing its color.",
+      "d": "Medium",
+      "topic": "Unsaturation test",
+      "slo": "Explain and apply unsaturation test in hydrocarbons.",
+      "id": "CHEM9CH14-266"
+    },
+    {
+      "q": "What type of bond does an alkene contain that an alkane does not?",
+      "o": [
+        "Carbon-hydrogen single bond",
+        "Hydrogen-hydrogen bond",
+        "Carbon-carbon double bond",
+        "Carbon-carbon single bond"
+      ],
+      "a": 2,
+      "e": "The C=C bond distinguishes alkenes from alkanes.",
+      "d": "Medium",
+      "topic": "Hydrocarbon classification",
+      "slo": "Explain and apply hydrocarbon classification in hydrocarbons.",
+      "id": "CHEM9CH14-267"
+    },
+    {
+      "q": "An open-chain alkene contains 2 carbon atoms and one double bond. How many hydrogen atoms does it contain?",
+      "o": [
+        "8",
+        "2",
+        "6",
+        "4"
+      ],
+      "a": 3,
+      "e": "A monoalkene has formula CnH2n, so H=4.",
+      "d": "Medium",
+      "topic": "Hydrogenation",
+      "slo": "Explain and apply hydrogenation in hydrocarbons.",
+      "id": "CHEM9CH14-268"
+    },
+    {
+      "q": "An open-chain alkene contains 15 carbon atoms and one double bond. How many hydrogen atoms does it contain?",
+      "o": [
+        "30",
+        "28",
+        "32",
+        "34"
+      ],
+      "a": 0,
+      "e": "A monoalkene has formula CnH2n, so H=30.",
+      "d": "Medium",
+      "topic": "Hydrogenation",
+      "slo": "Explain and apply hydrogenation in hydrocarbons.",
+      "id": "CHEM9CH14-269"
+    },
+    {
+      "q": "How many carbon-carbon single bonds occur in straight-chain tetradecane?",
+      "o": [
+        "14",
+        "15",
+        "13",
+        "16"
+      ],
+      "a": 2,
+      "e": "A chain of 14 carbons has 14-1 = 13 carbon-carbon bonds.",
+      "d": "Medium",
+      "topic": "Alkane bonding",
+      "slo": "Explain and apply alkane bonding in hydrocarbons.",
+      "id": "CHEM9CH14-270"
+    },
+    {
+      "q": "An open-chain alkene contains 3 carbon atoms and one double bond. How many hydrogen atoms does it contain?",
+      "o": [
+        "6",
+        "10",
+        "8",
+        "4"
+      ],
+      "a": 0,
+      "e": "A monoalkene has formula CnH2n, so H=6.",
+      "d": "Medium",
+      "topic": "Hydrogenation",
+      "slo": "Explain and apply hydrogenation in hydrocarbons.",
+      "id": "CHEM9CH14-271"
+    },
+    {
+      "q": "How many hydrogen atoms are in one molecule of dodecane?",
+      "o": [
+        "24",
+        "26",
+        "30",
+        "28"
+      ],
+      "a": 1,
+      "e": "Dodecane is C12H26; hydrogen count is 2(12)+2=26.",
+      "d": "Medium",
+      "topic": "Alkane formula",
+      "slo": "Explain and apply alkane formula in hydrocarbons.",
+      "id": "CHEM9CH14-272"
+    },
+    {
+      "q": "How many HCl molecules form when one molecule of C5H12 undergoes a single chlorination substitution?",
+      "o": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "a": 1,
+      "e": "One hydrogen is replaced by chlorine, and the removed hydrogen combines with chlorine to give one HCl.",
+      "d": "Easy",
+      "topic": "Halogenation",
+      "slo": "Explain and apply halogenation in hydrocarbons.",
+      "id": "CHEM9CH14-273"
+    },
+    {
+      "q": "Is combustion of alkanes exothermic or endothermic?",
+      "o": [
+        "Endothermic",
+        "Always reversible",
+        "Neither",
+        "Exothermic"
+      ],
+      "a": 3,
+      "e": "Burning alkanes releases heat energy.",
+      "d": "Medium",
+      "topic": "Combustion",
+      "slo": "Explain and apply combustion in hydrocarbons.",
+      "id": "CHEM9CH14-274"
+    },
+    {
+      "q": "How many moles of oxygen are needed for complete combustion of 1 mole of dodecane?",
+      "o": [
+        "17.5 mol",
+        "18.5 mol",
+        "19.5 mol",
+        "12 mol"
+      ],
+      "a": 1,
+      "e": "C12H26 + 18.5O2 -> 12CO2 + 13H2O.",
+      "d": "Hard",
+      "topic": "Combustion stoichiometry",
+      "slo": "Explain and apply combustion stoichiometry in hydrocarbons.",
+      "id": "CHEM9CH14-275"
+    },
+    {
+      "q": "How many hydrogen atoms are in one molecule of hexadecane?",
+      "o": [
+        "38",
+        "36",
+        "34",
+        "32"
+      ],
+      "a": 2,
+      "e": "Hexadecane is C16H34; hydrogen count is 2(16)+2=34.",
+      "d": "Medium",
+      "topic": "Alkane formula",
+      "slo": "Explain and apply alkane formula in hydrocarbons.",
+      "id": "CHEM9CH14-276"
+    },
+    {
+      "q": "Which is the second alkane in the homologous series?",
+      "o": [
+        "Butane",
+        "Propane",
+        "Methane",
+        "Ethane"
+      ],
+      "a": 3,
+      "e": "Ethane, C2H6, follows methane.",
+      "d": "Medium",
+      "topic": "Alkane names",
+      "slo": "Explain and apply alkane names in hydrocarbons.",
+      "id": "CHEM9CH14-277"
+    },
+    {
+      "q": "What is the molar mass of heptane (C=12, H=1)?",
+      "o": [
+        "98 g/mol",
+        "112 g/mol",
+        "100 g/mol",
+        "102 g/mol"
+      ],
+      "a": 2,
+      "e": "Molar mass = 7×12 + 16×1 = 100 g/mol.",
+      "d": "Medium",
+      "topic": "Molar mass",
+      "slo": "Explain and apply molar mass in hydrocarbons.",
+      "id": "CHEM9CH14-278"
+    },
+    {
+      "q": "Which is the main constituent of LPG along with propane?",
+      "o": [
+        "Butane",
+        "Ethene",
+        "Methane only",
+        "Ethyne"
+      ],
+      "a": 0,
+      "e": "Commercial LPG commonly contains propane and butane.",
+      "d": "Easy",
+      "topic": "Alkane uses",
+      "slo": "Explain and apply alkane uses in hydrocarbons.",
+      "id": "CHEM9CH14-279"
+    },
+    {
+      "q": "When one mole of hexadecane burns completely, how many moles of carbon dioxide form?",
+      "o": [
+        "18 mol",
+        "17 mol",
+        "19 mol",
+        "16 mol"
+      ],
+      "a": 3,
+      "e": "Each of the 16 carbon atoms forms one CO2, so 1 mol hexadecane yields 16 mol CO2.",
+      "d": "Medium",
+      "topic": "Combustion stoichiometry",
+      "slo": "Explain and apply combustion stoichiometry in hydrocarbons.",
+      "id": "CHEM9CH14-280"
+    },
+    {
+      "q": "After complete hydrogenation of a monoalkene with 11 carbon atoms, how many H atoms are in the product?",
+      "o": [
+        "20",
+        "22",
+        "26",
+        "24"
+      ],
+      "a": 3,
+      "e": "Hydrogenation converts C11H22 to C11H24.",
+      "d": "Medium",
+      "topic": "Hydrogenation",
+      "slo": "Explain and apply hydrogenation in hydrocarbons.",
+      "id": "CHEM9CH14-281"
+    },
+    {
+      "q": "Which shape best describes a methane molecule?",
+      "o": [
+        "Linear",
+        "Trigonal planar",
+        "Tetrahedral",
+        "Square planar"
+      ],
+      "a": 2,
+      "e": "Four electron pairs around methane carbon give a tetrahedral shape.",
+      "d": "Medium",
+      "topic": "Molecular geometry",
+      "slo": "Explain and apply molecular geometry in hydrocarbons.",
+      "id": "CHEM9CH14-282"
+    },
+    {
+      "q": "What is the molar mass of hexane (C=12, H=1)?",
+      "o": [
+        "98 g/mol",
+        "88 g/mol",
+        "86 g/mol",
+        "84 g/mol"
+      ],
+      "a": 2,
+      "e": "Molar mass = 6×12 + 14×1 = 86 g/mol.",
+      "d": "Medium",
+      "topic": "Molar mass",
+      "slo": "Explain and apply molar mass in hydrocarbons.",
+      "id": "CHEM9CH14-283"
+    },
+    {
+      "q": "What replaces a hydrogen atom in alkane chlorination?",
+      "o": [
+        "A nitrogen atom",
+        "An oxygen atom",
+        "A carbon atom",
+        "A chlorine atom"
+      ],
+      "a": 3,
+      "e": "Chlorine substitutes for hydrogen in a halogenation reaction.",
+      "d": "Medium",
+      "topic": "Halogenation",
+      "slo": "Explain and apply halogenation in hydrocarbons.",
+      "id": "CHEM9CH14-284"
+    },
+    {
+      "q": "What is the molar mass of nonane (C=12, H=1)?",
+      "o": [
+        "140 g/mol",
+        "130 g/mol",
+        "126 g/mol",
+        "128 g/mol"
+      ],
+      "a": 3,
+      "e": "Molar mass = 9×12 + 20×1 = 128 g/mol.",
+      "d": "Medium",
+      "topic": "Molar mass",
+      "slo": "Explain and apply molar mass in hydrocarbons.",
+      "id": "CHEM9CH14-285"
+    },
+    {
+      "q": "How many carbon-carbon single bonds occur in straight-chain heptadecane?",
+      "o": [
+        "19",
+        "17",
+        "18",
+        "16"
+      ],
+      "a": 3,
+      "e": "A chain of 17 carbons has 17-1 = 16 carbon-carbon bonds.",
+      "d": "Medium",
+      "topic": "Alkane bonding",
+      "slo": "Explain and apply alkane bonding in hydrocarbons.",
+      "id": "CHEM9CH14-286"
+    },
+    {
+      "q": "When one mole of dodecane burns completely, how many moles of carbon dioxide form?",
+      "o": [
+        "13 mol",
+        "12 mol",
+        "14 mol",
+        "15 mol"
+      ],
+      "a": 1,
+      "e": "Each of the 12 carbon atoms forms one CO2, so 1 mol dodecane yields 12 mol CO2.",
+      "d": "Medium",
+      "topic": "Combustion stoichiometry",
+      "slo": "Explain and apply combustion stoichiometry in hydrocarbons.",
+      "id": "CHEM9CH14-287"
+    },
+    {
+      "q": "Which alkane has three carbon atoms?",
+      "o": [
+        "Propane",
+        "Methane",
+        "Pentane",
+        "Ethane"
+      ],
+      "a": 0,
+      "e": "Propane is C3H8.",
+      "d": "Easy",
+      "topic": "Alkane names",
+      "slo": "Explain and apply alkane names in hydrocarbons.",
+      "id": "CHEM9CH14-288"
+    },
+    {
+      "q": "What is the molecular formula of a monochloroalkane obtained by replacing one H in C3H8?",
+      "o": [
+        "C3H6Cl",
+        "C3H8Cl",
+        "C3H6Cl2",
+        "C3H7Cl"
+      ],
+      "a": 3,
+      "e": "Substitution removes one H and adds one Cl, giving C3H7Cl.",
+      "d": "Medium",
+      "topic": "Halogenation",
+      "slo": "Explain and apply halogenation in hydrocarbons.",
+      "id": "CHEM9CH14-289"
+    },
+    {
+      "q": "How many hydrogen atoms are in one molecule of decane?",
+      "o": [
+        "22",
+        "20",
+        "24",
+        "26"
+      ],
+      "a": 0,
+      "e": "Decane is C10H22; hydrogen count is 2(10)+2=22.",
+      "d": "Medium",
+      "topic": "Alkane formula",
+      "slo": "Explain and apply alkane formula in hydrocarbons.",
+      "id": "CHEM9CH14-290"
+    },
+    {
+      "q": "When one mole of hexane burns completely, how many moles of carbon dioxide form?",
+      "o": [
+        "7 mol",
+        "6 mol",
+        "8 mol",
+        "9 mol"
+      ],
+      "a": 1,
+      "e": "Each of the 6 carbon atoms forms one CO2, so 1 mol hexane yields 6 mol CO2.",
+      "d": "Medium",
+      "topic": "Combustion stoichiometry",
+      "slo": "Explain and apply combustion stoichiometry in hydrocarbons.",
+      "id": "CHEM9CH14-291"
+    },
+    {
+      "q": "What type of hydrocarbon is ethyne?",
+      "o": [
+        "Alkene",
+        "Alkane",
+        "Alkyne",
+        "Ketone"
+      ],
+      "a": 2,
+      "e": "Ethyne has a carbon-carbon triple bond.",
+      "d": "Easy",
+      "topic": "Hydrocarbon classification",
+      "slo": "Explain and apply hydrocarbon classification in hydrocarbons.",
+      "id": "CHEM9CH14-292"
+    },
+    {
+      "q": "How many HCl molecules form when one molecule of C10H22 undergoes a single chlorination substitution?",
+      "o": [
+        "0",
+        "1",
+        "3",
+        "2"
+      ],
+      "a": 1,
+      "e": "One hydrogen is replaced by chlorine, and the removed hydrogen combines with chlorine to give one HCl.",
+      "d": "Easy",
+      "topic": "Halogenation",
+      "slo": "Explain and apply halogenation in hydrocarbons.",
+      "id": "CHEM9CH14-293"
+    },
+    {
+      "q": "When one mole of pentane burns completely, how many moles of carbon dioxide form?",
+      "o": [
+        "8 mol",
+        "7 mol",
+        "6 mol",
+        "5 mol"
+      ],
+      "a": 3,
+      "e": "Each of the 5 carbon atoms forms one CO2, so 1 mol pentane yields 5 mol CO2.",
+      "d": "Medium",
+      "topic": "Combustion stoichiometry",
+      "slo": "Explain and apply combustion stoichiometry in hydrocarbons.",
+      "id": "CHEM9CH14-294"
+    },
+    {
+      "q": "When one mole of pentadecane burns completely, how many moles of water form?",
+      "o": [
+        "15 mol",
+        "18 mol",
+        "16 mol",
+        "17 mol"
+      ],
+      "a": 2,
+      "e": "C15H32 contains 32 H atoms, giving 16 H2O per molecule.",
+      "d": "Medium",
+      "topic": "Combustion stoichiometry",
+      "slo": "Explain and apply combustion stoichiometry in hydrocarbons.",
+      "id": "CHEM9CH14-295"
+    },
+    {
+      "q": "How many carbon-carbon single bonds occur in straight-chain nonane?",
+      "o": [
+        "11",
+        "8",
+        "10",
+        "9"
+      ],
+      "a": 1,
+      "e": "A chain of 9 carbons has 9-1 = 8 carbon-carbon bonds.",
+      "d": "Medium",
+      "topic": "Alkane bonding",
+      "slo": "Explain and apply alkane bonding in hydrocarbons.",
+      "id": "CHEM9CH14-296"
+    },
+    {
+      "q": "What is the molar mass of eicosane (C=12, H=1)?",
+      "o": [
+        "284 g/mol",
+        "294 g/mol",
+        "280 g/mol",
+        "282 g/mol"
+      ],
+      "a": 3,
+      "e": "Molar mass = 20×12 + 42×1 = 282 g/mol.",
+      "d": "Medium",
+      "topic": "Molar mass",
+      "slo": "Explain and apply molar mass in hydrocarbons.",
+      "id": "CHEM9CH14-297"
+    },
+    {
+      "q": "How many carbon-carbon single bonds occur in straight-chain hexadecane?",
+      "o": [
+        "16",
+        "15",
+        "18",
+        "17"
+      ],
+      "a": 1,
+      "e": "A chain of 16 carbons has 16-1 = 15 carbon-carbon bonds.",
+      "d": "Medium",
+      "topic": "Alkane bonding",
+      "slo": "Explain and apply alkane bonding in hydrocarbons.",
+      "id": "CHEM9CH14-298"
+    },
+    {
+      "q": "What is the molecular formula of a monochloroalkane obtained by replacing one H in C14H30?",
+      "o": [
+        "C14H28Cl2",
+        "C14H29Cl",
+        "C14H28Cl",
+        "C14H30Cl"
+      ],
+      "a": 1,
+      "e": "Substitution removes one H and adds one Cl, giving C14H29Cl.",
+      "d": "Medium",
+      "topic": "Halogenation",
+      "slo": "Explain and apply halogenation in hydrocarbons.",
+      "id": "CHEM9CH14-299"
+    },
+    {
+      "q": "How many carbon-hydrogen bonds are present in a molecule of ethane?",
+      "o": [
+        "6",
+        "8",
+        "4",
+        "2"
+      ],
+      "a": 0,
+      "e": "The 6 hydrogen atoms in C2H6 each form one C-H bond.",
+      "d": "Medium",
+      "topic": "Alkane bonding",
+      "slo": "Explain and apply alkane bonding in hydrocarbons.",
+      "id": "CHEM9CH14-300"
+    }
+  ]
+}

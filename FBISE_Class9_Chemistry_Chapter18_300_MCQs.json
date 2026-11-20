@@ -1,0 +1,4504 @@
+{
+  "questions": [
+    {
+      "q": "Choose the correct answer for this laboratory question: Which observation can support a qualitative identification?",
+      "o": [
+        "A characteristic colour change",
+        "A measured length alone",
+        "A time interval alone",
+        "An exact numerical mass alone"
+      ],
+      "a": 0,
+      "e": "Characteristic chemical changes can indicate the identity of a substance.",
+      "d": "Medium",
+      "topic": "Qualitative analysis",
+      "slo": "Identify and explain qualitative analysis using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-001"
+    },
+    {
+      "q": "Which observation distinguishes oxygen from hydrogen?",
+      "o": [
+        "A pop with a lighted splint",
+        "Formation of milky limewater",
+        "Relighting of a glowing splint",
+        "Red litmus turning blue"
+      ],
+      "a": 2,
+      "e": "A glowing splint relights in oxygen.",
+      "d": "Easy",
+      "topic": "Oxygen detection",
+      "slo": "Identify and explain oxygen detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-002"
+    },
+    {
+      "q": "What is formed when hydrogen burns in oxygen?",
+      "o": [
+        "Ammonia",
+        "Water",
+        "Calcium carbonate",
+        "Sulfur dioxide"
+      ],
+      "a": 1,
+      "e": "Hydrogen combustion produces water.",
+      "d": "Easy",
+      "topic": "Hydrogen detection",
+      "slo": "Identify and explain hydrogen detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-003"
+    },
+    {
+      "q": "In a classroom review of qualitative analysis, what is the formula of carbon dioxide?",
+      "o": [
+        "SO2",
+        "CO",
+        "CO2",
+        "CaCO3"
+      ],
+      "a": 2,
+      "e": "Carbon dioxide contains one carbon and two oxygen atoms.",
+      "d": "Easy",
+      "topic": "Carbon dioxide detection",
+      "slo": "Identify and explain carbon dioxide detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-004"
+    },
+    {
+      "q": "During a Class 9 qualitative-analysis practical, a student is asked: why does clear limewater become cloudy?",
+      "o": [
+        "A purple dye forms",
+        "All calcium ions evaporate",
+        "The water becomes magnetic",
+        "An insoluble solid forms"
+      ],
+      "a": 3,
+      "e": "An insoluble CaCO3 precipitate scatters light.",
+      "d": "Medium",
+      "topic": "Carbon dioxide detection",
+      "slo": "Identify and explain carbon dioxide detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-005"
+    },
+    {
+      "q": "Choose the correct answer for this laboratory question: Why are flame colours useful for qualitative analysis?",
+      "o": [
+        "Different metal ions can give characteristic colours",
+        "Every metal has exactly the same colour",
+        "They eliminate the need for control tests",
+        "They directly give exact concentrations"
+      ],
+      "a": 0,
+      "e": "Characteristic colours help identify selected metal ions.",
+      "d": "Medium",
+      "topic": "Flame test principles",
+      "slo": "Identify and explain flame test principles using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-006"
+    },
+    {
+      "q": "What property of oxygen explains the glowing splint test?",
+      "o": [
+        "It is a fuel itself",
+        "It bleaches damp litmus",
+        "It supports combustion",
+        "It is strongly basic"
+      ],
+      "a": 2,
+      "e": "Oxygen supports combustion but is not itself a fuel.",
+      "d": "Easy",
+      "topic": "Oxygen detection",
+      "slo": "Identify and explain oxygen detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-007"
+    },
+    {
+      "q": "In a classroom review of qualitative analysis, which apparatus introduces a small sample into the flame in the chapter?",
+      "o": [
+        "Condenser",
+        "Filter funnel",
+        "Separating funnel",
+        "Wire loop"
+      ],
+      "a": 3,
+      "e": "A wire loop can carry a small sample into the flame.",
+      "d": "Easy",
+      "topic": "Flame test principles",
+      "slo": "Identify and explain flame test principles using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-008"
+    },
+    {
+      "q": "During a Class 9 qualitative-analysis practical, a student is asked: which reagent is used to detect sulfur dioxide in the chapter?",
+      "o": [
+        "Clear limewater only",
+        "Damp red litmus only",
+        "Sodium chloride solution",
+        "Acidified potassium permanganate"
+      ],
+      "a": 3,
+      "e": "SO2 decolourizes acidified potassium permanganate.",
+      "d": "Medium",
+      "topic": "Sulfur dioxide detection",
+      "slo": "Identify and explain sulfur dioxide detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-009"
+    },
+    {
+      "q": "Choose the correct answer for this laboratory question: Which flame colour indicates copper ions?",
+      "o": [
+        "Golden yellow",
+        "Purple",
+        "Crimson red",
+        "Bluish green"
+      ],
+      "a": 3,
+      "e": "Copper produces a bluish-green flame.",
+      "d": "Medium",
+      "topic": "Flame colours",
+      "slo": "Identify and explain flame colours using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-010"
+    },
+    {
+      "q": "During a Class 9 qualitative-analysis practical, a student is asked: what property of oxygen explains the glowing splint test?",
+      "o": [
+        "It is a fuel itself",
+        "It bleaches damp litmus",
+        "It supports combustion",
+        "It is strongly basic"
+      ],
+      "a": 2,
+      "e": "Oxygen supports combustion but is not itself a fuel.",
+      "d": "Medium",
+      "topic": "Oxygen detection",
+      "slo": "Identify and explain oxygen detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-011"
+    },
+    {
+      "q": "During a Class 9 qualitative-analysis practical, a student is asked: which solution is used to identify carbon dioxide?",
+      "o": [
+        "Limewater",
+        "Distilled ethanol",
+        "Sodium chloride solution",
+        "Copper sulfate solution"
+      ],
+      "a": 0,
+      "e": "Carbon dioxide turns limewater milky.",
+      "d": "Medium",
+      "topic": "Carbon dioxide detection",
+      "slo": "Identify and explain carbon dioxide detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-012"
+    },
+    {
+      "q": "In a classroom review of qualitative analysis, which gas makes moist red litmus paper turn blue?",
+      "o": [
+        "Oxygen",
+        "Chlorine",
+        "Carbon dioxide",
+        "Ammonia"
+      ],
+      "a": 3,
+      "e": "Ammonia is a basic gas.",
+      "d": "Easy",
+      "topic": "Ammonia detection",
+      "slo": "Identify and explain ammonia detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-013"
+    },
+    {
+      "q": "During a Class 9 qualitative-analysis practical, a student is asked: which observation distinguishes oxygen from hydrogen?",
+      "o": [
+        "Formation of milky limewater",
+        "A pop with a lighted splint",
+        "Relighting of a glowing splint",
+        "Red litmus turning blue"
+      ],
+      "a": 2,
+      "e": "A glowing splint relights in oxygen.",
+      "d": "Medium",
+      "topic": "Oxygen detection",
+      "slo": "Identify and explain oxygen detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-014"
+    },
+    {
+      "q": "In a classroom review of qualitative analysis, what happens to moist red litmus exposed to ammonia gas?",
+      "o": [
+        "It turns blue",
+        "It turns black",
+        "It turns colourless",
+        "It turns yellow"
+      ],
+      "a": 0,
+      "e": "Basic ammonia changes moist red litmus to blue.",
+      "d": "Easy",
+      "topic": "Ammonia detection",
+      "slo": "Identify and explain ammonia detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-015"
+    },
+    {
+      "q": "Choose the correct answer for this laboratory question: What does qualitative analysis identify?",
+      "o": [
+        "Number of moles only",
+        "Numerical concentration only",
+        "Exact mass of a sample",
+        "Nature or identity of a substance"
+      ],
+      "a": 3,
+      "e": "Qualitative analysis identifies what a substance is, rather than how much is present.",
+      "d": "Medium",
+      "topic": "Qualitative analysis",
+      "slo": "Identify and explain qualitative analysis using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-016"
+    },
+    {
+      "q": "Choose the correct answer for this laboratory question: Which reagent is used to detect sulfur dioxide in the chapter?",
+      "o": [
+        "Clear limewater only",
+        "Sodium chloride solution",
+        "Acidified potassium permanganate",
+        "Damp red litmus only"
+      ],
+      "a": 2,
+      "e": "SO2 decolourizes acidified potassium permanganate.",
+      "d": "Medium",
+      "topic": "Sulfur dioxide detection",
+      "slo": "Identify and explain sulfur dioxide detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-017"
+    },
+    {
+      "q": "In a classroom review of qualitative analysis, which test identifies hydrogen gas?",
+      "o": [
+        "Burning splint produces a pop sound",
+        "Glowing splint relights",
+        "Limewater turns milky",
+        "Purple permanganate becomes colourless"
+      ],
+      "a": 0,
+      "e": "Hydrogen gives a characteristic pop with a burning splint.",
+      "d": "Easy",
+      "topic": "Hydrogen detection",
+      "slo": "Identify and explain hydrogen detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-018"
+    },
+    {
+      "q": "In a classroom review of qualitative analysis, what causes the characteristic colours in flame tests?",
+      "o": [
+        "Excited electrons emit light as they return to lower energy levels",
+        "Atoms turn into new elements",
+        "All ions emit identical wavelengths",
+        "Only the burner glass changes colour"
+      ],
+      "a": 0,
+      "e": "Heating excites electrons; emitted photons have characteristic energies.",
+      "d": "Easy",
+      "topic": "Flame test principles",
+      "slo": "Identify and explain flame test principles using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-019"
+    },
+    {
+      "q": "In a classroom review of qualitative analysis, which gas is collected in the inverted test tube in the zinc-acid experiment?",
+      "o": [
+        "Carbon dioxide",
+        "Hydrogen",
+        "Ammonia",
+        "Oxygen"
+      ],
+      "a": 1,
+      "e": "Zinc and dilute sulfuric acid produce H2.",
+      "d": "Easy",
+      "topic": "Hydrogen detection",
+      "slo": "Identify and explain hydrogen detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-020"
+    },
+    {
+      "q": "What does qualitative analysis identify?",
+      "o": [
+        "Numerical concentration only",
+        "Nature or identity of a substance",
+        "Number of moles only",
+        "Exact mass of a sample"
+      ],
+      "a": 1,
+      "e": "Qualitative analysis identifies what a substance is, rather than how much is present.",
+      "d": "Easy",
+      "topic": "Qualitative analysis",
+      "slo": "Identify and explain qualitative analysis using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-021"
+    },
+    {
+      "q": "In a classroom review of qualitative analysis, which kind of result is normally qualitative?",
+      "o": [
+        "The solution is 0.20 mol/L",
+        "The gas has a mass of 2.00 g",
+        "The sample volume is 25 mL",
+        "A gas is identified as carbon dioxide"
+      ],
+      "a": 3,
+      "e": "Identification of a substance is a qualitative result.",
+      "d": "Easy",
+      "topic": "Qualitative analysis",
+      "slo": "Identify and explain qualitative analysis using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-022"
+    },
+    {
+      "q": "In a classroom review of qualitative analysis, what type of energy is released as electrons return to lower levels?",
+      "o": [
+        "Only gravitational energy",
+        "Only mechanical energy",
+        "No energy",
+        "Light energy"
+      ],
+      "a": 3,
+      "e": "Photons emitted during electron transitions produce visible flame colours.",
+      "d": "Easy",
+      "topic": "Flame test principles",
+      "slo": "Identify and explain flame test principles using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-023"
+    },
+    {
+      "q": "Choose the correct answer for this laboratory question: Which flame colour is expected for Cu2+?",
+      "o": [
+        "Crimson red",
+        "Brick red",
+        "Golden yellow",
+        "Bluish green"
+      ],
+      "a": 3,
+      "e": "Copper ions produce bluish-green flame colours.",
+      "d": "Medium",
+      "topic": "Flame colours",
+      "slo": "Identify and explain flame colours using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-024"
+    },
+    {
+      "q": "Choose the correct answer for this laboratory question: Which observation is positive for hydrogen rather than oxygen?",
+      "o": [
+        "A milky limewater result",
+        "Bleaching of damp blue litmus",
+        "A pop with a burning splint",
+        "A glowing splint relights"
+      ],
+      "a": 2,
+      "e": "Hydrogen gives a pop test; oxygen relights a glowing splint.",
+      "d": "Medium",
+      "topic": "Hydrogen detection",
+      "slo": "Identify and explain hydrogen detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-025"
+    },
+    {
+      "q": "Choose the correct answer for this laboratory question: What happens after damp blue litmus turns red in chlorine gas?",
+      "o": [
+        "It becomes yellow permanently",
+        "It turns bright green",
+        "It relights",
+        "It is bleached white"
+      ],
+      "a": 3,
+      "e": "Chlorine bleaches the indicator after the initial acidic colour change.",
+      "d": "Medium",
+      "topic": "Chlorine detection",
+      "slo": "Identify and explain chlorine detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-026"
+    },
+    {
+      "q": "During a Class 9 qualitative-analysis practical, a student is asked: which flame colour indicates barium ions?",
+      "o": [
+        "Lilac purple",
+        "Apple green",
+        "Golden yellow",
+        "Brick red"
+      ],
+      "a": 1,
+      "e": "Barium produces an apple-green flame.",
+      "d": "Medium",
+      "topic": "Flame colours",
+      "slo": "Identify and explain flame colours using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-027"
+    },
+    {
+      "q": "Which gas burns with a characteristic pop sound?",
+      "o": [
+        "Hydrogen",
+        "Ammonia",
+        "Oxygen",
+        "Carbon dioxide"
+      ],
+      "a": 0,
+      "e": "Hydrogen ignites with a pop when tested using a burning splint.",
+      "d": "Easy",
+      "topic": "Hydrogen detection",
+      "slo": "Identify and explain hydrogen detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-028"
+    },
+    {
+      "q": "Choose the correct answer for this laboratory question: What is produced when CO2 reacts with limewater?",
+      "o": [
+        "Calcium metal and chlorine",
+        "Sodium carbonate and hydrogen",
+        "Calcium carbonate and water",
+        "Ammonia and oxygen"
+      ],
+      "a": 2,
+      "e": "CO2 + Ca(OH)2 -> CaCO3 + H2O.",
+      "d": "Medium",
+      "topic": "Carbon dioxide detection",
+      "slo": "Identify and explain carbon dioxide detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-029"
+    },
+    {
+      "q": "Choose the correct answer for this laboratory question: Which salt forms when zinc reacts with dilute sulfuric acid?",
+      "o": [
+        "Zinc sulfate",
+        "Zinc chloride",
+        "Zinc carbonate",
+        "Zinc nitrate"
+      ],
+      "a": 0,
+      "e": "Zn + H2SO4 -> ZnSO4 + H2.",
+      "d": "Medium",
+      "topic": "Hydrogen detection",
+      "slo": "Identify and explain hydrogen detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-030"
+    },
+    {
+      "q": "During a Class 9 qualitative-analysis practical, a student is asked: why should a burning splint be used carefully near hydrogen?",
+      "o": [
+        "Hydrogen is nonflammable",
+        "Hydrogen is flammable",
+        "Hydrogen is a solid metal",
+        "Hydrogen is an inert noble gas"
+      ],
+      "a": 1,
+      "e": "Hydrogen ignites readily and can form explosive mixtures with air.",
+      "d": "Medium",
+      "topic": "Hydrogen detection",
+      "slo": "Identify and explain hydrogen detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-031"
+    },
+    {
+      "q": "Choose the correct answer for this laboratory question: What causes the milkiness in the carbon dioxide test?",
+      "o": [
+        "Calcium carbonate precipitate",
+        "Dissolved sodium chloride",
+        "Copper metal deposits",
+        "Hydrogen bubbles"
+      ],
+      "a": 0,
+      "e": "CO2 reacts with limewater to produce insoluble CaCO3.",
+      "d": "Medium",
+      "topic": "Carbon dioxide detection",
+      "slo": "Identify and explain carbon dioxide detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-032"
+    },
+    {
+      "q": "During a Class 9 qualitative-analysis practical, a student is asked: which equation represents hydrogen combustion?",
+      "o": [
+        "2H2 + O2 -> 2H2O",
+        "H2 + CO2 -> H2O2",
+        "H2 + Cl2 -> H2O",
+        "H2 + N2 -> 2H2O"
+      ],
+      "a": 0,
+      "e": "Hydrogen reacts with oxygen to form water.",
+      "d": "Medium",
+      "topic": "Hydrogen detection",
+      "slo": "Identify and explain hydrogen detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-033"
+    },
+    {
+      "q": "In a classroom review of qualitative analysis, which flame colour is expected for Sr2+?",
+      "o": [
+        "Golden yellow",
+        "Crimson red",
+        "Purple",
+        "Blue-green"
+      ],
+      "a": 1,
+      "e": "Strontium ions give a crimson-red flame.",
+      "d": "Easy",
+      "topic": "Flame colours",
+      "slo": "Identify and explain flame colours using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-034"
+    },
+    {
+      "q": "Choose the correct answer for this laboratory question: Which solution is used to identify carbon dioxide?",
+      "o": [
+        "Distilled ethanol",
+        "Copper sulfate solution",
+        "Sodium chloride solution",
+        "Limewater"
+      ],
+      "a": 3,
+      "e": "Carbon dioxide turns limewater milky.",
+      "d": "Medium",
+      "topic": "Carbon dioxide detection",
+      "slo": "Identify and explain carbon dioxide detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-035"
+    },
+    {
+      "q": "During a Class 9 qualitative-analysis practical, a student is asked: what happens when a glowing splint is placed in oxygen?",
+      "o": [
+        "It makes limewater milky",
+        "It bursts back into flame",
+        "It forms a green precipitate",
+        "It always turns red litmus blue"
+      ],
+      "a": 1,
+      "e": "Oxygen supports burning, so a glowing splint relights.",
+      "d": "Medium",
+      "topic": "Oxygen detection",
+      "slo": "Identify and explain oxygen detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-036"
+    },
+    {
+      "q": "During a Class 9 qualitative-analysis practical, a student is asked: which metal ion is associated with a lilac flame?",
+      "o": [
+        "Sodium",
+        "Potassium",
+        "Barium",
+        "Strontium"
+      ],
+      "a": 1,
+      "e": "Potassium produces a lilac or purple flame.",
+      "d": "Medium",
+      "topic": "Flame colours",
+      "slo": "Identify and explain flame colours using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-037"
+    },
+    {
+      "q": "Choose the correct answer for this laboratory question: Which flame colour is expected for Ba2+?",
+      "o": [
+        "Crimson red",
+        "Apple green",
+        "Lilac",
+        "Golden yellow"
+      ],
+      "a": 1,
+      "e": "Barium cations produce apple-green emission.",
+      "d": "Medium",
+      "topic": "Flame colours",
+      "slo": "Identify and explain flame colours using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-038"
+    },
+    {
+      "q": "Why are distinctive observations important in qualitative analysis?",
+      "o": [
+        "They turn all gases into solids",
+        "They help distinguish different substances",
+        "They always give exact concentrations",
+        "They remove the need for safety precautions"
+      ],
+      "a": 1,
+      "e": "Distinctive test observations help identify unknown substances.",
+      "d": "Easy",
+      "topic": "Qualitative analysis",
+      "slo": "Identify and explain qualitative analysis using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-039"
+    },
+    {
+      "q": "In a classroom review of qualitative analysis, which flame colour is expected for Ca2+?",
+      "o": [
+        "Blue-green",
+        "Apple green",
+        "Brick red",
+        "Lilac"
+      ],
+      "a": 2,
+      "e": "Calcium ions give a brick-red flame.",
+      "d": "Easy",
+      "topic": "Flame colours",
+      "slo": "Identify and explain flame colours using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-040"
+    },
+    {
+      "q": "What kind of reaction underlies sulfur dioxide detection with permanganate?",
+      "o": [
+        "Redox reaction",
+        "Fractional distillation",
+        "Nuclear fusion",
+        "Simple filtration"
+      ],
+      "a": 0,
+      "e": "SO2 is oxidized while permanganate is reduced.",
+      "d": "Easy",
+      "topic": "Sulfur dioxide detection",
+      "slo": "Identify and explain sulfur dioxide detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-041"
+    },
+    {
+      "q": "During a Class 9 qualitative-analysis practical, a student is asked: why does a metal salt colour the flame?",
+      "o": [
+        "It produces chlorine gas in every case",
+        "Its excited atoms or ions emit characteristic light",
+        "It changes the flame into liquid",
+        "It causes the burner to melt"
+      ],
+      "a": 1,
+      "e": "Electron transitions generate characteristic visible emission.",
+      "d": "Medium",
+      "topic": "Flame test principles",
+      "slo": "Identify and explain flame test principles using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-042"
+    },
+    {
+      "q": "Choose the correct answer for this laboratory question: Why is litmus paper moistened for ammonia detection?",
+      "o": [
+        "Moisture turns ammonia into chlorine",
+        "Water changes the gas into oxygen",
+        "Dry litmus is always a gas",
+        "Moisture allows ammonia to dissolve and affect the indicator"
+      ],
+      "a": 3,
+      "e": "Dissolved ammonia creates an alkaline environment at the indicator.",
+      "d": "Medium",
+      "topic": "Ammonia detection",
+      "slo": "Identify and explain ammonia detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-043"
+    },
+    {
+      "q": "Choose the correct answer for this laboratory question: Which test identifies oxygen gas?",
+      "o": [
+        "Damp blue litmus is bleached",
+        "A burning splint makes a pop",
+        "Limewater turns milky",
+        "A glowing splint relights"
+      ],
+      "a": 3,
+      "e": "Oxygen supports combustion and relights a glowing splint.",
+      "d": "Medium",
+      "topic": "Oxygen detection",
+      "slo": "Identify and explain oxygen detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-044"
+    },
+    {
+      "q": "Choose the correct answer for this laboratory question: Why should a burning splint be used carefully near hydrogen?",
+      "o": [
+        "Hydrogen is nonflammable",
+        "Hydrogen is flammable",
+        "Hydrogen is an inert noble gas",
+        "Hydrogen is a solid metal"
+      ],
+      "a": 1,
+      "e": "Hydrogen ignites readily and can form explosive mixtures with air.",
+      "d": "Medium",
+      "topic": "Hydrogen detection",
+      "slo": "Identify and explain hydrogen detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-045"
+    },
+    {
+      "q": "During a Class 9 qualitative-analysis practical, a student is asked: what type of energy is absorbed when electrons become excited in the flame?",
+      "o": [
+        "Nuclear binding energy only",
+        "Gravitational potential from the table",
+        "Sound energy only",
+        "Thermal energy"
+      ],
+      "a": 3,
+      "e": "Heat energy excites electrons in atoms or ions.",
+      "d": "Medium",
+      "topic": "Flame test principles",
+      "slo": "Identify and explain flame test principles using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-046"
+    },
+    {
+      "q": "Which result would be quantitative rather than qualitative?",
+      "o": [
+        "The solid is white",
+        "A sample contains 0.50 g of salt",
+        "The sample contains sodium ions",
+        "The gas is chlorine"
+      ],
+      "a": 1,
+      "e": "A numerical mass is a quantitative measurement.",
+      "d": "Easy",
+      "topic": "Qualitative analysis",
+      "slo": "Identify and explain qualitative analysis using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-047"
+    },
+    {
+      "q": "In a classroom review of qualitative analysis, which metal ion is associated with an apple-green flame?",
+      "o": [
+        "Barium",
+        "Sodium",
+        "Calcium",
+        "Lithium"
+      ],
+      "a": 0,
+      "e": "Barium gives an apple-green flame.",
+      "d": "Easy",
+      "topic": "Flame colours",
+      "slo": "Identify and explain flame colours using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-048"
+    },
+    {
+      "q": "Choose the correct answer for this laboratory question: What kind of reaction underlies sulfur dioxide detection with permanganate?",
+      "o": [
+        "Redox reaction",
+        "Fractional distillation",
+        "Simple filtration",
+        "Nuclear fusion"
+      ],
+      "a": 0,
+      "e": "SO2 is oxidized while permanganate is reduced.",
+      "d": "Medium",
+      "topic": "Sulfur dioxide detection",
+      "slo": "Identify and explain sulfur dioxide detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-049"
+    },
+    {
+      "q": "What does a flame test detect?",
+      "o": [
+        "Certain metal cations",
+        "The melting point of water",
+        "The exact mass of every atom",
+        "Only nonmetal anions"
+      ],
+      "a": 0,
+      "e": "Some metal ions emit characteristic flame colours.",
+      "d": "Easy",
+      "topic": "Flame test principles",
+      "slo": "Identify and explain flame test principles using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-050"
+    },
+    {
+      "q": "Why does clear limewater become cloudy?",
+      "o": [
+        "All calcium ions evaporate",
+        "The water becomes magnetic",
+        "A purple dye forms",
+        "An insoluble solid forms"
+      ],
+      "a": 3,
+      "e": "An insoluble CaCO3 precipitate scatters light.",
+      "d": "Easy",
+      "topic": "Carbon dioxide detection",
+      "slo": "Identify and explain carbon dioxide detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-051"
+    },
+    {
+      "q": "Choose the correct answer for this laboratory question: Which equation shows decomposition of hydrogen peroxide?",
+      "o": [
+        "H2O2 -> H2 + O2",
+        "2H2O -> 2H2O2",
+        "H2O2 + CO2 -> H2CO3",
+        "2H2O2 -> 2H2O + O2"
+      ],
+      "a": 3,
+      "e": "Hydrogen peroxide decomposes into water and oxygen.",
+      "d": "Medium",
+      "topic": "Oxygen detection",
+      "slo": "Identify and explain oxygen detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-052"
+    },
+    {
+      "q": "Choose the correct answer for this laboratory question: What is the chemical formula of marble chips in the demonstration?",
+      "o": [
+        "CaCl2",
+        "CaCO3",
+        "Na2CO3",
+        "Ca(OH)2"
+      ],
+      "a": 1,
+      "e": "Marble is largely calcium carbonate, CaCO3.",
+      "d": "Medium",
+      "topic": "Carbon dioxide detection",
+      "slo": "Identify and explain carbon dioxide detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-053"
+    },
+    {
+      "q": "In a classroom review of qualitative analysis, what sequence identifies chlorine using moist blue litmus?",
+      "o": [
+        "Blue to purple to blue",
+        "Blue to green to orange",
+        "Blue to yellow to black",
+        "Blue to red to colourless"
+      ],
+      "a": 3,
+      "e": "Chlorine is acidic in moisture and has bleaching action.",
+      "d": "Easy",
+      "topic": "Chlorine detection",
+      "slo": "Identify and explain chlorine detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-054"
+    },
+    {
+      "q": "During a Class 9 qualitative-analysis practical, a student is asked: which test identifies hydrogen gas?",
+      "o": [
+        "Glowing splint relights",
+        "Purple permanganate becomes colourless",
+        "Burning splint produces a pop sound",
+        "Limewater turns milky"
+      ],
+      "a": 2,
+      "e": "Hydrogen gives a characteristic pop with a burning splint.",
+      "d": "Medium",
+      "topic": "Hydrogen detection",
+      "slo": "Identify and explain hydrogen detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-055"
+    },
+    {
+      "q": "Which kind of result is normally qualitative?",
+      "o": [
+        "The solution is 0.20 mol/L",
+        "A gas is identified as carbon dioxide",
+        "The gas has a mass of 2.00 g",
+        "The sample volume is 25 mL"
+      ],
+      "a": 1,
+      "e": "Identification of a substance is a qualitative result.",
+      "d": "Easy",
+      "topic": "Qualitative analysis",
+      "slo": "Identify and explain qualitative analysis using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-056"
+    },
+    {
+      "q": "In a classroom review of qualitative analysis, what happens after damp blue litmus turns red in chlorine gas?",
+      "o": [
+        "It becomes yellow permanently",
+        "It relights",
+        "It is bleached white",
+        "It turns bright green"
+      ],
+      "a": 2,
+      "e": "Chlorine bleaches the indicator after the initial acidic colour change.",
+      "d": "Easy",
+      "topic": "Chlorine detection",
+      "slo": "Identify and explain chlorine detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-057"
+    },
+    {
+      "q": "During a Class 9 qualitative-analysis practical, a student is asked: what is the chemical name of limewater solute?",
+      "o": [
+        "Calcium chloride",
+        "Calcium hydroxide",
+        "Calcium sulfate",
+        "Sodium hydroxide"
+      ],
+      "a": 1,
+      "e": "Limewater is aqueous calcium hydroxide, Ca(OH)2.",
+      "d": "Medium",
+      "topic": "Carbon dioxide detection",
+      "slo": "Identify and explain carbon dioxide detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-058"
+    },
+    {
+      "q": "During a Class 9 qualitative-analysis practical, a student is asked: what is the formula of oxygen gas?",
+      "o": [
+        "O",
+        "H2O",
+        "O3",
+        "O2"
+      ],
+      "a": 3,
+      "e": "Ordinary oxygen gas is diatomic O2.",
+      "d": "Medium",
+      "topic": "Oxygen detection",
+      "slo": "Identify and explain oxygen detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-059"
+    },
+    {
+      "q": "Choose the correct answer for this laboratory question: Which metal ion is associated with a bluish-green flame?",
+      "o": [
+        "Copper",
+        "Sodium",
+        "Lithium",
+        "Calcium"
+      ],
+      "a": 0,
+      "e": "Copper gives a bluish-green flame.",
+      "d": "Medium",
+      "topic": "Flame colours",
+      "slo": "Identify and explain flame colours using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-060"
+    },
+    {
+      "q": "In a classroom review of qualitative analysis, which flame colour is expected for Na+?",
+      "o": [
+        "Golden yellow",
+        "Lilac",
+        "Apple green",
+        "Bluish green"
+      ],
+      "a": 0,
+      "e": "Sodium cations produce golden-yellow emission.",
+      "d": "Easy",
+      "topic": "Flame colours",
+      "slo": "Identify and explain flame colours using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-061"
+    },
+    {
+      "q": "In a classroom review of qualitative analysis, which colour change indicates a positive ammonia test?",
+      "o": [
+        "Red to blue",
+        "Blue to red then white",
+        "Green to black",
+        "Purple to orange"
+      ],
+      "a": 0,
+      "e": "Ammonia turns damp red litmus blue.",
+      "d": "Easy",
+      "topic": "Ammonia detection",
+      "slo": "Identify and explain ammonia detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-062"
+    },
+    {
+      "q": "In a classroom review of qualitative analysis, which flame colour is expected for K+?",
+      "o": [
+        "Golden yellow",
+        "Apple green",
+        "Lilac or purple",
+        "Brick red"
+      ],
+      "a": 2,
+      "e": "Potassium cations produce lilac emission.",
+      "d": "Easy",
+      "topic": "Flame colours",
+      "slo": "Identify and explain flame colours using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-063"
+    },
+    {
+      "q": "Which gas can remove the purple colour of acidified KMnO4?",
+      "o": [
+        "Carbon dioxide",
+        "Oxygen",
+        "Sulfur dioxide",
+        "Nitrogen"
+      ],
+      "a": 2,
+      "e": "SO2 acts as a reducing agent and decolourizes permanganate.",
+      "d": "Easy",
+      "topic": "Sulfur dioxide detection",
+      "slo": "Identify and explain sulfur dioxide detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-064"
+    },
+    {
+      "q": "During a Class 9 qualitative-analysis practical, a student is asked: what is the acid-base character of ammonia gas?",
+      "o": [
+        "Amphoteric metal oxide",
+        "Basic",
+        "Strongly acidic",
+        "Neutral in every circumstance"
+      ],
+      "a": 1,
+      "e": "Ammonia is basic and turns moist red litmus blue.",
+      "d": "Medium",
+      "topic": "Ammonia detection",
+      "slo": "Identify and explain ammonia detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-065"
+    },
+    {
+      "q": "Which other metal ion besides lithium gives a crimson-red flame?",
+      "o": [
+        "Sodium",
+        "Strontium",
+        "Barium",
+        "Potassium"
+      ],
+      "a": 1,
+      "e": "Strontium and lithium both produce red-toned flames.",
+      "d": "Easy",
+      "topic": "Flame colours",
+      "slo": "Identify and explain flame colours using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-066"
+    },
+    {
+      "q": "Choose the correct answer for this laboratory question: Which flame colour is expected for Li+?",
+      "o": [
+        "Golden yellow",
+        "Apple green",
+        "Crimson red",
+        "Blue-green"
+      ],
+      "a": 2,
+      "e": "Lithium ions give a crimson-red flame.",
+      "d": "Medium",
+      "topic": "Flame colours",
+      "slo": "Identify and explain flame colours using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-067"
+    },
+    {
+      "q": "Choose the correct answer for this laboratory question: Which kind of result is normally qualitative?",
+      "o": [
+        "The gas has a mass of 2.00 g",
+        "The sample volume is 25 mL",
+        "The solution is 0.20 mol/L",
+        "A gas is identified as carbon dioxide"
+      ],
+      "a": 3,
+      "e": "Identification of a substance is a qualitative result.",
+      "d": "Medium",
+      "topic": "Qualitative analysis",
+      "slo": "Identify and explain qualitative analysis using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-068"
+    },
+    {
+      "q": "During a Class 9 qualitative-analysis practical, a student is asked: which flame colour is expected for Ba2+?",
+      "o": [
+        "Lilac",
+        "Apple green",
+        "Golden yellow",
+        "Crimson red"
+      ],
+      "a": 1,
+      "e": "Barium cations produce apple-green emission.",
+      "d": "Medium",
+      "topic": "Flame colours",
+      "slo": "Identify and explain flame colours using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-069"
+    },
+    {
+      "q": "During a Class 9 qualitative-analysis practical, a student is asked: which metal ion is associated with a crimson-red flame in the chapter?",
+      "o": [
+        "Barium",
+        "Sodium",
+        "Lithium",
+        "Copper"
+      ],
+      "a": 2,
+      "e": "Lithium produces a crimson-red flame; strontium also gives a red flame.",
+      "d": "Medium",
+      "topic": "Flame colours",
+      "slo": "Identify and explain flame colours using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-070"
+    },
+    {
+      "q": "During a Class 9 qualitative-analysis practical, a student is asked: which metal ion is associated with an apple-green flame?",
+      "o": [
+        "Calcium",
+        "Sodium",
+        "Lithium",
+        "Barium"
+      ],
+      "a": 3,
+      "e": "Barium gives an apple-green flame.",
+      "d": "Medium",
+      "topic": "Flame colours",
+      "slo": "Identify and explain flame colours using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-071"
+    },
+    {
+      "q": "Choose the correct answer for this laboratory question: What is the formula of hydrogen gas?",
+      "o": [
+        "H2O",
+        "H2O2",
+        "H2",
+        "H"
+      ],
+      "a": 2,
+      "e": "Hydrogen gas is diatomic H2.",
+      "d": "Medium",
+      "topic": "Hydrogen detection",
+      "slo": "Identify and explain hydrogen detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-072"
+    },
+    {
+      "q": "During a Class 9 qualitative-analysis practical, a student is asked: what is formed when hydrogen burns in oxygen?",
+      "o": [
+        "Sulfur dioxide",
+        "Ammonia",
+        "Water",
+        "Calcium carbonate"
+      ],
+      "a": 2,
+      "e": "Hydrogen combustion produces water.",
+      "d": "Medium",
+      "topic": "Hydrogen detection",
+      "slo": "Identify and explain hydrogen detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-073"
+    },
+    {
+      "q": "In a classroom review of qualitative analysis, which result would be quantitative rather than qualitative?",
+      "o": [
+        "The sample contains sodium ions",
+        "The solid is white",
+        "The gas is chlorine",
+        "A sample contains 0.50 g of salt"
+      ],
+      "a": 3,
+      "e": "A numerical mass is a quantitative measurement.",
+      "d": "Easy",
+      "topic": "Qualitative analysis",
+      "slo": "Identify and explain qualitative analysis using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-074"
+    },
+    {
+      "q": "Which metal ion is associated with a golden-yellow flame?",
+      "o": [
+        "Barium",
+        "Potassium",
+        "Copper",
+        "Sodium"
+      ],
+      "a": 3,
+      "e": "Sodium ions emit a characteristic golden-yellow colour.",
+      "d": "Easy",
+      "topic": "Flame colours",
+      "slo": "Identify and explain flame colours using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-075"
+    },
+    {
+      "q": "What is the acid-base character of ammonia gas?",
+      "o": [
+        "Neutral in every circumstance",
+        "Basic",
+        "Amphoteric metal oxide",
+        "Strongly acidic"
+      ],
+      "a": 1,
+      "e": "Ammonia is basic and turns moist red litmus blue.",
+      "d": "Easy",
+      "topic": "Ammonia detection",
+      "slo": "Identify and explain ammonia detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-076"
+    },
+    {
+      "q": "Which observation can support a qualitative identification?",
+      "o": [
+        "An exact numerical mass alone",
+        "A measured length alone",
+        "A characteristic colour change",
+        "A time interval alone"
+      ],
+      "a": 2,
+      "e": "Characteristic chemical changes can indicate the identity of a substance.",
+      "d": "Easy",
+      "topic": "Qualitative analysis",
+      "slo": "Identify and explain qualitative analysis using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-077"
+    },
+    {
+      "q": "Choose the correct answer for this laboratory question: What type of energy is released as electrons return to lower levels?",
+      "o": [
+        "Only gravitational energy",
+        "Light energy",
+        "Only mechanical energy",
+        "No energy"
+      ],
+      "a": 1,
+      "e": "Photons emitted during electron transitions produce visible flame colours.",
+      "d": "Medium",
+      "topic": "Flame test principles",
+      "slo": "Identify and explain flame test principles using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-078"
+    },
+    {
+      "q": "Choose the correct answer for this laboratory question: Which equation represents hydrogen combustion?",
+      "o": [
+        "H2 + CO2 -> H2O2",
+        "H2 + N2 -> 2H2O",
+        "H2 + Cl2 -> H2O",
+        "2H2 + O2 -> 2H2O"
+      ],
+      "a": 3,
+      "e": "Hydrogen reacts with oxygen to form water.",
+      "d": "Medium",
+      "topic": "Hydrogen detection",
+      "slo": "Identify and explain hydrogen detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-079"
+    },
+    {
+      "q": "During a Class 9 qualitative-analysis practical, a student is asked: what does qualitative analysis identify?",
+      "o": [
+        "Number of moles only",
+        "Numerical concentration only",
+        "Nature or identity of a substance",
+        "Exact mass of a sample"
+      ],
+      "a": 2,
+      "e": "Qualitative analysis identifies what a substance is, rather than how much is present.",
+      "d": "Medium",
+      "topic": "Qualitative analysis",
+      "slo": "Identify and explain qualitative analysis using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-080"
+    },
+    {
+      "q": "Choose the correct answer for this laboratory question: What property of oxygen explains the glowing splint test?",
+      "o": [
+        "It bleaches damp litmus",
+        "It supports combustion",
+        "It is strongly basic",
+        "It is a fuel itself"
+      ],
+      "a": 1,
+      "e": "Oxygen supports combustion but is not itself a fuel.",
+      "d": "Medium",
+      "topic": "Oxygen detection",
+      "slo": "Identify and explain oxygen detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-081"
+    },
+    {
+      "q": "What happens to moist red litmus exposed to ammonia gas?",
+      "o": [
+        "It turns blue",
+        "It turns colourless",
+        "It turns black",
+        "It turns yellow"
+      ],
+      "a": 0,
+      "e": "Basic ammonia changes moist red litmus to blue.",
+      "d": "Easy",
+      "topic": "Ammonia detection",
+      "slo": "Identify and explain ammonia detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-082"
+    },
+    {
+      "q": "Choose the correct answer for this laboratory question: What is the formula of sulfur dioxide?",
+      "o": [
+        "H2S",
+        "SO3",
+        "SO2",
+        "S2O"
+      ],
+      "a": 2,
+      "e": "Sulfur dioxide has formula SO2.",
+      "d": "Medium",
+      "topic": "Sulfur dioxide detection",
+      "slo": "Identify and explain sulfur dioxide detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-083"
+    },
+    {
+      "q": "Which metal is used with dilute sulfuric acid in the chapter to prepare hydrogen?",
+      "o": [
+        "Copper",
+        "Gold",
+        "Zinc",
+        "Silver"
+      ],
+      "a": 2,
+      "e": "Zinc reacts with dilute sulfuric acid to release hydrogen.",
+      "d": "Easy",
+      "topic": "Hydrogen detection",
+      "slo": "Identify and explain hydrogen detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-084"
+    },
+    {
+      "q": "What can interfere with an accurate flame-test observation?",
+      "o": [
+        "Contamination by another metal salt",
+        "Using a small sample",
+        "Observing the flame carefully",
+        "Using a clean loop"
+      ],
+      "a": 0,
+      "e": "Contaminating ions can mask the expected colour.",
+      "d": "Easy",
+      "topic": "Flame test principles",
+      "slo": "Identify and explain flame test principles using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-085"
+    },
+    {
+      "q": "Which metal ion is associated with a lilac flame?",
+      "o": [
+        "Strontium",
+        "Barium",
+        "Sodium",
+        "Potassium"
+      ],
+      "a": 3,
+      "e": "Potassium produces a lilac or purple flame.",
+      "d": "Easy",
+      "topic": "Flame colours",
+      "slo": "Identify and explain flame colours using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-086"
+    },
+    {
+      "q": "During a Class 9 qualitative-analysis practical, a student is asked: which equation describes hydrogen preparation from zinc and sulfuric acid?",
+      "o": [
+        "Zn + CO2 -> ZnCO3 + H2",
+        "Zn + H2SO4 -> ZnSO4 + H2",
+        "Zn + HCl -> ZnCl2 + O2",
+        "Zn + H2O -> ZnO + O2"
+      ],
+      "a": 1,
+      "e": "Zinc displaces hydrogen from dilute sulfuric acid.",
+      "d": "Medium",
+      "topic": "Hydrogen detection",
+      "slo": "Identify and explain hydrogen detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-087"
+    },
+    {
+      "q": "Choose the correct answer for this laboratory question: Which litmus colour is used initially to test for ammonia?",
+      "o": [
+        "Green",
+        "Purple",
+        "Red",
+        "Blue only"
+      ],
+      "a": 2,
+      "e": "Moist red litmus is used because ammonia turns it blue.",
+      "d": "Medium",
+      "topic": "Ammonia detection",
+      "slo": "Identify and explain ammonia detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-088"
+    },
+    {
+      "q": "What happens when carbon dioxide is passed through limewater?",
+      "o": [
+        "It turns milky",
+        "It turns deep blue",
+        "It produces a purple flame",
+        "It relights a glowing splint"
+      ],
+      "a": 0,
+      "e": "Calcium carbonate precipitate makes limewater cloudy.",
+      "d": "Easy",
+      "topic": "Carbon dioxide detection",
+      "slo": "Identify and explain carbon dioxide detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-089"
+    },
+    {
+      "q": "Choose the correct answer for this laboratory question: Which flame colour indicates lithium ions?",
+      "o": [
+        "Blue-green",
+        "Apple green",
+        "Golden yellow",
+        "Crimson red"
+      ],
+      "a": 3,
+      "e": "Lithium produces a crimson-red flame.",
+      "d": "Medium",
+      "topic": "Flame colours",
+      "slo": "Identify and explain flame colours using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-090"
+    },
+    {
+      "q": "Choose the correct answer for this laboratory question: What is the main aim of a confirmatory test?",
+      "o": [
+        "To calculate the mass of the substance",
+        "To provide evidence for the identity of a substance",
+        "To determine a precise percentage",
+        "To measure sample density"
+      ],
+      "a": 1,
+      "e": "A confirmatory test uses a characteristic observation to support identification.",
+      "d": "Medium",
+      "topic": "Qualitative analysis",
+      "slo": "Identify and explain qualitative analysis using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-091"
+    },
+    {
+      "q": "Choose the correct answer for this laboratory question: Which gas burns with a characteristic pop sound?",
+      "o": [
+        "Ammonia",
+        "Oxygen",
+        "Carbon dioxide",
+        "Hydrogen"
+      ],
+      "a": 3,
+      "e": "Hydrogen ignites with a pop when tested using a burning splint.",
+      "d": "Medium",
+      "topic": "Hydrogen detection",
+      "slo": "Identify and explain hydrogen detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-092"
+    },
+    {
+      "q": "In a classroom review of qualitative analysis, what role does sulfur dioxide play in the permanganate test?",
+      "o": [
+        "Oxidizing agent only",
+        "Reducing agent",
+        "Basic indicator",
+        "Inert carrier gas"
+      ],
+      "a": 1,
+      "e": "SO2 reduces permanganate ions.",
+      "d": "Easy",
+      "topic": "Sulfur dioxide detection",
+      "slo": "Identify and explain sulfur dioxide detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-093"
+    },
+    {
+      "q": "During a Class 9 qualitative-analysis practical, a student is asked: which flame colour is expected for Cu2+?",
+      "o": [
+        "Golden yellow",
+        "Bluish green",
+        "Brick red",
+        "Crimson red"
+      ],
+      "a": 1,
+      "e": "Copper ions produce bluish-green flame colours.",
+      "d": "Medium",
+      "topic": "Flame colours",
+      "slo": "Identify and explain flame colours using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-094"
+    },
+    {
+      "q": "During a Class 9 qualitative-analysis practical, a student is asked: what is a common industrial use of ammonia mentioned in the chapter?",
+      "o": [
+        "Producing table sugar",
+        "Extracting iron from ore",
+        "Manufacture of fertilizers",
+        "Making glass lenses"
+      ],
+      "a": 2,
+      "e": "Ammonia is widely used in fertilizer manufacture.",
+      "d": "Medium",
+      "topic": "Ammonia detection",
+      "slo": "Identify and explain ammonia detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-095"
+    },
+    {
+      "q": "Choose the correct answer for this laboratory question: Which gas supports combustion and is detected with a glowing splint?",
+      "o": [
+        "Carbon dioxide",
+        "Ammonia",
+        "Chlorine",
+        "Oxygen"
+      ],
+      "a": 3,
+      "e": "Oxygen relights a glowing splint.",
+      "d": "Medium",
+      "topic": "Oxygen detection",
+      "slo": "Identify and explain oxygen detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-096"
+    },
+    {
+      "q": "In a classroom review of qualitative analysis, what kind of reaction underlies sulfur dioxide detection with permanganate?",
+      "o": [
+        "Simple filtration",
+        "Nuclear fusion",
+        "Fractional distillation",
+        "Redox reaction"
+      ],
+      "a": 3,
+      "e": "SO2 is oxidized while permanganate is reduced.",
+      "d": "Easy",
+      "topic": "Sulfur dioxide detection",
+      "slo": "Identify and explain sulfur dioxide detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-097"
+    },
+    {
+      "q": "What type of energy is absorbed when electrons become excited in the flame?",
+      "o": [
+        "Thermal energy",
+        "Gravitational potential from the table",
+        "Sound energy only",
+        "Nuclear binding energy only"
+      ],
+      "a": 0,
+      "e": "Heat energy excites electrons in atoms or ions.",
+      "d": "Easy",
+      "topic": "Flame test principles",
+      "slo": "Identify and explain flame test principles using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-098"
+    },
+    {
+      "q": "During a Class 9 qualitative-analysis practical, a student is asked: why are distinctive observations important in qualitative analysis?",
+      "o": [
+        "They remove the need for safety precautions",
+        "They turn all gases into solids",
+        "They always give exact concentrations",
+        "They help distinguish different substances"
+      ],
+      "a": 3,
+      "e": "Distinctive test observations help identify unknown substances.",
+      "d": "Medium",
+      "topic": "Qualitative analysis",
+      "slo": "Identify and explain qualitative analysis using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-099"
+    },
+    {
+      "q": "In a classroom review of qualitative analysis, what is produced when CO2 reacts with limewater?",
+      "o": [
+        "Sodium carbonate and hydrogen",
+        "Ammonia and oxygen",
+        "Calcium metal and chlorine",
+        "Calcium carbonate and water"
+      ],
+      "a": 3,
+      "e": "CO2 + Ca(OH)2 -> CaCO3 + H2O.",
+      "d": "Easy",
+      "topic": "Carbon dioxide detection",
+      "slo": "Identify and explain carbon dioxide detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-100"
+    },
+    {
+      "q": "During a Class 9 qualitative-analysis practical, a student is asked: which gas is collected in the inverted test tube in the zinc-acid experiment?",
+      "o": [
+        "Oxygen",
+        "Hydrogen",
+        "Carbon dioxide",
+        "Ammonia"
+      ],
+      "a": 1,
+      "e": "Zinc and dilute sulfuric acid produce H2.",
+      "d": "Medium",
+      "topic": "Hydrogen detection",
+      "slo": "Identify and explain hydrogen detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-101"
+    },
+    {
+      "q": "In a classroom review of qualitative analysis, which salt forms when zinc reacts with dilute sulfuric acid?",
+      "o": [
+        "Zinc nitrate",
+        "Zinc sulfate",
+        "Zinc carbonate",
+        "Zinc chloride"
+      ],
+      "a": 1,
+      "e": "Zn + H2SO4 -> ZnSO4 + H2.",
+      "d": "Easy",
+      "topic": "Hydrogen detection",
+      "slo": "Identify and explain hydrogen detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-102"
+    },
+    {
+      "q": "During a Class 9 qualitative-analysis practical, a student is asked: which result would be quantitative rather than qualitative?",
+      "o": [
+        "The sample contains sodium ions",
+        "A sample contains 0.50 g of salt",
+        "The solid is white",
+        "The gas is chlorine"
+      ],
+      "a": 1,
+      "e": "A numerical mass is a quantitative measurement.",
+      "d": "Medium",
+      "topic": "Qualitative analysis",
+      "slo": "Identify and explain qualitative analysis using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-103"
+    },
+    {
+      "q": "During a Class 9 qualitative-analysis practical, a student is asked: what happens to moist red litmus exposed to ammonia gas?",
+      "o": [
+        "It turns black",
+        "It turns yellow",
+        "It turns colourless",
+        "It turns blue"
+      ],
+      "a": 3,
+      "e": "Basic ammonia changes moist red litmus to blue.",
+      "d": "Medium",
+      "topic": "Ammonia detection",
+      "slo": "Identify and explain ammonia detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-104"
+    },
+    {
+      "q": "In a classroom review of qualitative analysis, which test is used to identify selected metal cations?",
+      "o": [
+        "Boiling-point elevation test",
+        "Filtration test",
+        "Flame test",
+        "Gravimetric weighing only"
+      ],
+      "a": 2,
+      "e": "Flame tests use characteristic emission colours of metal ions.",
+      "d": "Easy",
+      "topic": "Qualitative analysis",
+      "slo": "Identify and explain qualitative analysis using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-105"
+    },
+    {
+      "q": "In a classroom review of qualitative analysis, which flame colour is expected for Li+?",
+      "o": [
+        "Crimson red",
+        "Golden yellow",
+        "Blue-green",
+        "Apple green"
+      ],
+      "a": 0,
+      "e": "Lithium ions give a crimson-red flame.",
+      "d": "Easy",
+      "topic": "Flame colours",
+      "slo": "Identify and explain flame colours using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-106"
+    },
+    {
+      "q": "Choose the correct answer for this laboratory question: Which metal ion is associated with a brick-red flame?",
+      "o": [
+        "Potassium",
+        "Copper",
+        "Sodium",
+        "Calcium"
+      ],
+      "a": 3,
+      "e": "Calcium gives a brick-red flame.",
+      "d": "Medium",
+      "topic": "Flame colours",
+      "slo": "Identify and explain flame colours using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-107"
+    },
+    {
+      "q": "During a Class 9 qualitative-analysis practical, a student is asked: why is damp litmus preferred to dry litmus for chlorine detection?",
+      "o": [
+        "Water converts chlorine into ammonia",
+        "Water enables the relevant reactions",
+        "Moisture prevents all bleaching",
+        "Dry litmus is a metal"
+      ],
+      "a": 1,
+      "e": "Chlorine reacts in the presence of water to affect and bleach the dye.",
+      "d": "Medium",
+      "topic": "Chlorine detection",
+      "slo": "Identify and explain chlorine detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-108"
+    },
+    {
+      "q": "In a classroom review of qualitative analysis, what is the formula of hydrogen gas?",
+      "o": [
+        "H2O",
+        "H2",
+        "H",
+        "H2O2"
+      ],
+      "a": 1,
+      "e": "Hydrogen gas is diatomic H2.",
+      "d": "Easy",
+      "topic": "Hydrogen detection",
+      "slo": "Identify and explain hydrogen detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-109"
+    },
+    {
+      "q": "In a classroom review of qualitative analysis, what property of oxygen explains the glowing splint test?",
+      "o": [
+        "It is a fuel itself",
+        "It supports combustion",
+        "It bleaches damp litmus",
+        "It is strongly basic"
+      ],
+      "a": 1,
+      "e": "Oxygen supports combustion but is not itself a fuel.",
+      "d": "Easy",
+      "topic": "Oxygen detection",
+      "slo": "Identify and explain oxygen detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-110"
+    },
+    {
+      "q": "Choose the correct answer for this laboratory question: Which flame colour is expected for Sr2+?",
+      "o": [
+        "Blue-green",
+        "Purple",
+        "Crimson red",
+        "Golden yellow"
+      ],
+      "a": 2,
+      "e": "Strontium ions give a crimson-red flame.",
+      "d": "Medium",
+      "topic": "Flame colours",
+      "slo": "Identify and explain flame colours using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-111"
+    },
+    {
+      "q": "Choose the correct answer for this laboratory question: What is the acid-base character of ammonia gas?",
+      "o": [
+        "Basic",
+        "Neutral in every circumstance",
+        "Strongly acidic",
+        "Amphoteric metal oxide"
+      ],
+      "a": 0,
+      "e": "Ammonia is basic and turns moist red litmus blue.",
+      "d": "Medium",
+      "topic": "Ammonia detection",
+      "slo": "Identify and explain ammonia detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-112"
+    },
+    {
+      "q": "Choose the correct answer for this laboratory question: Which reagent can produce oxygen by decomposition in the chapter experiment?",
+      "o": [
+        "Calcium carbonate",
+        "Sodium chloride",
+        "Hydrogen peroxide",
+        "Ammonium chloride"
+      ],
+      "a": 2,
+      "e": "Hydrogen peroxide decomposes to water and oxygen.",
+      "d": "Medium",
+      "topic": "Oxygen detection",
+      "slo": "Identify and explain oxygen detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-113"
+    },
+    {
+      "q": "Choose the correct answer for this laboratory question: Which metal is used with dilute sulfuric acid in the chapter to prepare hydrogen?",
+      "o": [
+        "Zinc",
+        "Silver",
+        "Gold",
+        "Copper"
+      ],
+      "a": 0,
+      "e": "Zinc reacts with dilute sulfuric acid to release hydrogen.",
+      "d": "Medium",
+      "topic": "Hydrogen detection",
+      "slo": "Identify and explain hydrogen detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-114"
+    },
+    {
+      "q": "Which formula represents the white precipitate formed in limewater?",
+      "o": [
+        "CaO2",
+        "CaCO3",
+        "CaCl2",
+        "CaSO4"
+      ],
+      "a": 1,
+      "e": "Calcium carbonate is CaCO3.",
+      "d": "Easy",
+      "topic": "Carbon dioxide detection",
+      "slo": "Identify and explain carbon dioxide detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-115"
+    },
+    {
+      "q": "Choose the correct answer for this laboratory question: What happens first to damp blue litmus in chlorine gas?",
+      "o": [
+        "It turns red",
+        "It turns green",
+        "It turns black",
+        "It remains permanently blue"
+      ],
+      "a": 0,
+      "e": "Chlorine forms acidic species in moisture, initially reddening blue litmus.",
+      "d": "Medium",
+      "topic": "Chlorine detection",
+      "slo": "Identify and explain chlorine detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-116"
+    },
+    {
+      "q": "During a Class 9 qualitative-analysis practical, a student is asked: why should the wire loop be cleaned between flame tests?",
+      "o": [
+        "To make the flame colder than room temperature",
+        "To turn metals into gases permanently",
+        "To avoid contamination and misleading colours",
+        "To increase the atomic mass"
+      ],
+      "a": 2,
+      "e": "Residues from earlier samples can change the observed flame colour.",
+      "d": "Medium",
+      "topic": "Flame test principles",
+      "slo": "Identify and explain flame test principles using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-117"
+    },
+    {
+      "q": "In a classroom review of qualitative analysis, what does a flame test detect?",
+      "o": [
+        "Certain metal cations",
+        "The exact mass of every atom",
+        "The melting point of water",
+        "Only nonmetal anions"
+      ],
+      "a": 0,
+      "e": "Some metal ions emit characteristic flame colours.",
+      "d": "Easy",
+      "topic": "Flame test principles",
+      "slo": "Identify and explain flame test principles using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-118"
+    },
+    {
+      "q": "Why should a burning splint be used carefully near hydrogen?",
+      "o": [
+        "Hydrogen is an inert noble gas",
+        "Hydrogen is nonflammable",
+        "Hydrogen is a solid metal",
+        "Hydrogen is flammable"
+      ],
+      "a": 3,
+      "e": "Hydrogen ignites readily and can form explosive mixtures with air.",
+      "d": "Easy",
+      "topic": "Hydrogen detection",
+      "slo": "Identify and explain hydrogen detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-119"
+    },
+    {
+      "q": "During a Class 9 qualitative-analysis practical, a student is asked: why are flame colours useful for qualitative analysis?",
+      "o": [
+        "Every metal has exactly the same colour",
+        "They directly give exact concentrations",
+        "They eliminate the need for control tests",
+        "Different metal ions can give characteristic colours"
+      ],
+      "a": 3,
+      "e": "Characteristic colours help identify selected metal ions.",
+      "d": "Medium",
+      "topic": "Flame test principles",
+      "slo": "Identify and explain flame test principles using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-120"
+    },
+    {
+      "q": "During a Class 9 qualitative-analysis practical, a student is asked: which gas burns with a characteristic pop sound?",
+      "o": [
+        "Hydrogen",
+        "Carbon dioxide",
+        "Oxygen",
+        "Ammonia"
+      ],
+      "a": 0,
+      "e": "Hydrogen ignites with a pop when tested using a burning splint.",
+      "d": "Medium",
+      "topic": "Hydrogen detection",
+      "slo": "Identify and explain hydrogen detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-121"
+    },
+    {
+      "q": "What is produced when CO2 reacts with limewater?",
+      "o": [
+        "Sodium carbonate and hydrogen",
+        "Calcium carbonate and water",
+        "Ammonia and oxygen",
+        "Calcium metal and chlorine"
+      ],
+      "a": 1,
+      "e": "CO2 + Ca(OH)2 -> CaCO3 + H2O.",
+      "d": "Easy",
+      "topic": "Carbon dioxide detection",
+      "slo": "Identify and explain carbon dioxide detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-122"
+    },
+    {
+      "q": "During a Class 9 qualitative-analysis practical, a student is asked: what is the chemical formula of marble chips in the demonstration?",
+      "o": [
+        "Na2CO3",
+        "CaCl2",
+        "CaCO3",
+        "Ca(OH)2"
+      ],
+      "a": 2,
+      "e": "Marble is largely calcium carbonate, CaCO3.",
+      "d": "Medium",
+      "topic": "Carbon dioxide detection",
+      "slo": "Identify and explain carbon dioxide detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-123"
+    },
+    {
+      "q": "During a Class 9 qualitative-analysis practical, a student is asked: which metal ion is associated with a golden-yellow flame?",
+      "o": [
+        "Copper",
+        "Potassium",
+        "Sodium",
+        "Barium"
+      ],
+      "a": 2,
+      "e": "Sodium ions emit a characteristic golden-yellow colour.",
+      "d": "Medium",
+      "topic": "Flame colours",
+      "slo": "Identify and explain flame colours using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-124"
+    },
+    {
+      "q": "During a Class 9 qualitative-analysis practical, a student is asked: which metal ion is associated with a brick-red flame?",
+      "o": [
+        "Calcium",
+        "Copper",
+        "Sodium",
+        "Potassium"
+      ],
+      "a": 0,
+      "e": "Calcium gives a brick-red flame.",
+      "d": "Medium",
+      "topic": "Flame colours",
+      "slo": "Identify and explain flame colours using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-125"
+    },
+    {
+      "q": "During a Class 9 qualitative-analysis practical, a student is asked: what happens when carbon dioxide is passed through limewater?",
+      "o": [
+        "It turns milky",
+        "It turns deep blue",
+        "It produces a purple flame",
+        "It relights a glowing splint"
+      ],
+      "a": 0,
+      "e": "Calcium carbonate precipitate makes limewater cloudy.",
+      "d": "Medium",
+      "topic": "Carbon dioxide detection",
+      "slo": "Identify and explain carbon dioxide detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-126"
+    },
+    {
+      "q": "During a Class 9 qualitative-analysis practical, a student is asked: what sequence identifies chlorine using moist blue litmus?",
+      "o": [
+        "Blue to yellow to black",
+        "Blue to green to orange",
+        "Blue to purple to blue",
+        "Blue to red to colourless"
+      ],
+      "a": 3,
+      "e": "Chlorine is acidic in moisture and has bleaching action.",
+      "d": "Medium",
+      "topic": "Chlorine detection",
+      "slo": "Identify and explain chlorine detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-127"
+    },
+    {
+      "q": "Choose the correct answer for this laboratory question: Which gas makes moist red litmus paper turn blue?",
+      "o": [
+        "Chlorine",
+        "Oxygen",
+        "Ammonia",
+        "Carbon dioxide"
+      ],
+      "a": 2,
+      "e": "Ammonia is a basic gas.",
+      "d": "Medium",
+      "topic": "Ammonia detection",
+      "slo": "Identify and explain ammonia detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-128"
+    },
+    {
+      "q": "In a classroom review of qualitative analysis, why should the wire loop be cleaned between flame tests?",
+      "o": [
+        "To make the flame colder than room temperature",
+        "To avoid contamination and misleading colours",
+        "To turn metals into gases permanently",
+        "To increase the atomic mass"
+      ],
+      "a": 1,
+      "e": "Residues from earlier samples can change the observed flame colour.",
+      "d": "Easy",
+      "topic": "Flame test principles",
+      "slo": "Identify and explain flame test principles using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-129"
+    },
+    {
+      "q": "Which flame colour is expected for Sr2+?",
+      "o": [
+        "Blue-green",
+        "Golden yellow",
+        "Purple",
+        "Crimson red"
+      ],
+      "a": 3,
+      "e": "Strontium ions give a crimson-red flame.",
+      "d": "Easy",
+      "topic": "Flame colours",
+      "slo": "Identify and explain flame colours using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-130"
+    },
+    {
+      "q": "In a classroom review of qualitative analysis, what happens when carbon dioxide is passed through limewater?",
+      "o": [
+        "It turns deep blue",
+        "It produces a purple flame",
+        "It relights a glowing splint",
+        "It turns milky"
+      ],
+      "a": 3,
+      "e": "Calcium carbonate precipitate makes limewater cloudy.",
+      "d": "Easy",
+      "topic": "Carbon dioxide detection",
+      "slo": "Identify and explain carbon dioxide detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-131"
+    },
+    {
+      "q": "During a Class 9 qualitative-analysis practical, a student is asked: which chemical formula represents potassium permanganate?",
+      "o": [
+        "KClO4",
+        "KMnO2",
+        "K2MnO4",
+        "KMnO4"
+      ],
+      "a": 3,
+      "e": "Potassium permanganate is KMnO4.",
+      "d": "Medium",
+      "topic": "Sulfur dioxide detection",
+      "slo": "Identify and explain sulfur dioxide detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-132"
+    },
+    {
+      "q": "In a classroom review of qualitative analysis, what is formed when hydrogen burns in oxygen?",
+      "o": [
+        "Sulfur dioxide",
+        "Water",
+        "Calcium carbonate",
+        "Ammonia"
+      ],
+      "a": 1,
+      "e": "Hydrogen combustion produces water.",
+      "d": "Easy",
+      "topic": "Hydrogen detection",
+      "slo": "Identify and explain hydrogen detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-133"
+    },
+    {
+      "q": "Which flame colour indicates potassium ions?",
+      "o": [
+        "Apple green",
+        "Purple or lilac",
+        "Golden yellow",
+        "Brick red"
+      ],
+      "a": 1,
+      "e": "Potassium gives a lilac or purple flame.",
+      "d": "Easy",
+      "topic": "Flame colours",
+      "slo": "Identify and explain flame colours using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-134"
+    },
+    {
+      "q": "Which acid is used with zinc in the chapter hydrogen preparation?",
+      "o": [
+        "Carbonic acid only",
+        "Concentrated nitric acid",
+        "Ethanoic acid vapour",
+        "Dilute sulfuric acid"
+      ],
+      "a": 3,
+      "e": "Zinc and dilute H2SO4 release hydrogen gas.",
+      "d": "Easy",
+      "topic": "Hydrogen detection",
+      "slo": "Identify and explain hydrogen detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-135"
+    },
+    {
+      "q": "In a classroom review of qualitative analysis, which observation can support a qualitative identification?",
+      "o": [
+        "A measured length alone",
+        "A time interval alone",
+        "An exact numerical mass alone",
+        "A characteristic colour change"
+      ],
+      "a": 3,
+      "e": "Characteristic chemical changes can indicate the identity of a substance.",
+      "d": "Easy",
+      "topic": "Qualitative analysis",
+      "slo": "Identify and explain qualitative analysis using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-136"
+    },
+    {
+      "q": "What is the chemical formula of marble chips in the demonstration?",
+      "o": [
+        "Ca(OH)2",
+        "CaCl2",
+        "CaCO3",
+        "Na2CO3"
+      ],
+      "a": 2,
+      "e": "Marble is largely calcium carbonate, CaCO3.",
+      "d": "Easy",
+      "topic": "Carbon dioxide detection",
+      "slo": "Identify and explain carbon dioxide detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-137"
+    },
+    {
+      "q": "Which gas can bleach damp litmus paper?",
+      "o": [
+        "Chlorine",
+        "Carbon dioxide",
+        "Hydrogen",
+        "Nitrogen"
+      ],
+      "a": 0,
+      "e": "Chlorine has bleaching action on moist litmus.",
+      "d": "Easy",
+      "topic": "Chlorine detection",
+      "slo": "Identify and explain chlorine detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-138"
+    },
+    {
+      "q": "Choose the correct answer for this laboratory question: What happens to moist red litmus exposed to ammonia gas?",
+      "o": [
+        "It turns black",
+        "It turns colourless",
+        "It turns blue",
+        "It turns yellow"
+      ],
+      "a": 2,
+      "e": "Basic ammonia changes moist red litmus to blue.",
+      "d": "Medium",
+      "topic": "Ammonia detection",
+      "slo": "Identify and explain ammonia detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-139"
+    },
+    {
+      "q": "Which equation represents the limewater test?",
+      "o": [
+        "CO2 + NaCl -> NaOH + Cl2",
+        "CO2 + O2 -> CO",
+        "CO2 + H2 -> CH4",
+        "CO2 + Ca(OH)2 -> CaCO3 + H2O"
+      ],
+      "a": 3,
+      "e": "The precipitate CaCO3 produces the milky appearance.",
+      "d": "Easy",
+      "topic": "Carbon dioxide detection",
+      "slo": "Identify and explain carbon dioxide detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-140"
+    },
+    {
+      "q": "Choose the correct answer for this laboratory question: Which gas can remove the purple colour of acidified KMnO4?",
+      "o": [
+        "Sulfur dioxide",
+        "Oxygen",
+        "Carbon dioxide",
+        "Nitrogen"
+      ],
+      "a": 0,
+      "e": "SO2 acts as a reducing agent and decolourizes permanganate.",
+      "d": "Medium",
+      "topic": "Sulfur dioxide detection",
+      "slo": "Identify and explain sulfur dioxide detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-141"
+    },
+    {
+      "q": "Choose the correct answer for this laboratory question: What causes the characteristic colours in flame tests?",
+      "o": [
+        "Atoms turn into new elements",
+        "Only the burner glass changes colour",
+        "Excited electrons emit light as they return to lower energy levels",
+        "All ions emit identical wavelengths"
+      ],
+      "a": 2,
+      "e": "Heating excites electrons; emitted photons have characteristic energies.",
+      "d": "Medium",
+      "topic": "Flame test principles",
+      "slo": "Identify and explain flame test principles using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-142"
+    },
+    {
+      "q": "What is the main aim of a confirmatory test?",
+      "o": [
+        "To determine a precise percentage",
+        "To provide evidence for the identity of a substance",
+        "To calculate the mass of the substance",
+        "To measure sample density"
+      ],
+      "a": 1,
+      "e": "A confirmatory test uses a characteristic observation to support identification.",
+      "d": "Easy",
+      "topic": "Qualitative analysis",
+      "slo": "Identify and explain qualitative analysis using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-143"
+    },
+    {
+      "q": "During a Class 9 qualitative-analysis practical, a student is asked: what is the formula of carbon dioxide?",
+      "o": [
+        "CO",
+        "CaCO3",
+        "CO2",
+        "SO2"
+      ],
+      "a": 2,
+      "e": "Carbon dioxide contains one carbon and two oxygen atoms.",
+      "d": "Medium",
+      "topic": "Carbon dioxide detection",
+      "slo": "Identify and explain carbon dioxide detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-144"
+    },
+    {
+      "q": "In a classroom review of qualitative analysis, which gas supports combustion and is detected with a glowing splint?",
+      "o": [
+        "Carbon dioxide",
+        "Chlorine",
+        "Ammonia",
+        "Oxygen"
+      ],
+      "a": 3,
+      "e": "Oxygen relights a glowing splint.",
+      "d": "Easy",
+      "topic": "Oxygen detection",
+      "slo": "Identify and explain oxygen detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-145"
+    },
+    {
+      "q": "Choose the correct answer for this laboratory question: Which test identifies hydrogen gas?",
+      "o": [
+        "Limewater turns milky",
+        "Burning splint produces a pop sound",
+        "Glowing splint relights",
+        "Purple permanganate becomes colourless"
+      ],
+      "a": 1,
+      "e": "Hydrogen gives a characteristic pop with a burning splint.",
+      "d": "Medium",
+      "topic": "Hydrogen detection",
+      "slo": "Identify and explain hydrogen detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-146"
+    },
+    {
+      "q": "Which reagent can produce oxygen by decomposition in the chapter experiment?",
+      "o": [
+        "Calcium carbonate",
+        "Hydrogen peroxide",
+        "Sodium chloride",
+        "Ammonium chloride"
+      ],
+      "a": 1,
+      "e": "Hydrogen peroxide decomposes to water and oxygen.",
+      "d": "Easy",
+      "topic": "Oxygen detection",
+      "slo": "Identify and explain oxygen detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-147"
+    },
+    {
+      "q": "During a Class 9 qualitative-analysis practical, a student is asked: which acid is used with zinc in the chapter hydrogen preparation?",
+      "o": [
+        "Dilute sulfuric acid",
+        "Ethanoic acid vapour",
+        "Carbonic acid only",
+        "Concentrated nitric acid"
+      ],
+      "a": 0,
+      "e": "Zinc and dilute H2SO4 release hydrogen gas.",
+      "d": "Medium",
+      "topic": "Hydrogen detection",
+      "slo": "Identify and explain hydrogen detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-148"
+    },
+    {
+      "q": "During a Class 9 qualitative-analysis practical, a student is asked: what kind of reaction underlies sulfur dioxide detection with permanganate?",
+      "o": [
+        "Nuclear fusion",
+        "Fractional distillation",
+        "Redox reaction",
+        "Simple filtration"
+      ],
+      "a": 2,
+      "e": "SO2 is oxidized while permanganate is reduced.",
+      "d": "Medium",
+      "topic": "Sulfur dioxide detection",
+      "slo": "Identify and explain sulfur dioxide detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-149"
+    },
+    {
+      "q": "In a classroom review of qualitative analysis, which equation describes hydrogen preparation from zinc and sulfuric acid?",
+      "o": [
+        "Zn + CO2 -> ZnCO3 + H2",
+        "Zn + H2SO4 -> ZnSO4 + H2",
+        "Zn + H2O -> ZnO + O2",
+        "Zn + HCl -> ZnCl2 + O2"
+      ],
+      "a": 1,
+      "e": "Zinc displaces hydrogen from dilute sulfuric acid.",
+      "d": "Easy",
+      "topic": "Hydrogen detection",
+      "slo": "Identify and explain hydrogen detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-150"
+    },
+    {
+      "q": "During a Class 9 qualitative-analysis practical, a student is asked: what causes the milkiness in the carbon dioxide test?",
+      "o": [
+        "Copper metal deposits",
+        "Hydrogen bubbles",
+        "Calcium carbonate precipitate",
+        "Dissolved sodium chloride"
+      ],
+      "a": 2,
+      "e": "CO2 reacts with limewater to produce insoluble CaCO3.",
+      "d": "Medium",
+      "topic": "Carbon dioxide detection",
+      "slo": "Identify and explain carbon dioxide detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-151"
+    },
+    {
+      "q": "During a Class 9 qualitative-analysis practical, a student is asked: which kind of result is normally qualitative?",
+      "o": [
+        "The gas has a mass of 2.00 g",
+        "The solution is 0.20 mol/L",
+        "The sample volume is 25 mL",
+        "A gas is identified as carbon dioxide"
+      ],
+      "a": 3,
+      "e": "Identification of a substance is a qualitative result.",
+      "d": "Medium",
+      "topic": "Qualitative analysis",
+      "slo": "Identify and explain qualitative analysis using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-152"
+    },
+    {
+      "q": "Choose the correct answer for this laboratory question: What sequence identifies chlorine using moist blue litmus?",
+      "o": [
+        "Blue to green to orange",
+        "Blue to yellow to black",
+        "Blue to red to colourless",
+        "Blue to purple to blue"
+      ],
+      "a": 2,
+      "e": "Chlorine is acidic in moisture and has bleaching action.",
+      "d": "Medium",
+      "topic": "Chlorine detection",
+      "slo": "Identify and explain chlorine detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-153"
+    },
+    {
+      "q": "In a classroom review of qualitative analysis, which other metal ion besides lithium gives a crimson-red flame?",
+      "o": [
+        "Sodium",
+        "Potassium",
+        "Strontium",
+        "Barium"
+      ],
+      "a": 2,
+      "e": "Strontium and lithium both produce red-toned flames.",
+      "d": "Easy",
+      "topic": "Flame colours",
+      "slo": "Identify and explain flame colours using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-154"
+    },
+    {
+      "q": "During a Class 9 qualitative-analysis practical, a student is asked: what happens first to damp blue litmus in chlorine gas?",
+      "o": [
+        "It remains permanently blue",
+        "It turns red",
+        "It turns green",
+        "It turns black"
+      ],
+      "a": 1,
+      "e": "Chlorine forms acidic species in moisture, initially reddening blue litmus.",
+      "d": "Medium",
+      "topic": "Chlorine detection",
+      "slo": "Identify and explain chlorine detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-155"
+    },
+    {
+      "q": "In a classroom review of qualitative analysis, which gas can remove the purple colour of acidified KMnO4?",
+      "o": [
+        "Nitrogen",
+        "Oxygen",
+        "Sulfur dioxide",
+        "Carbon dioxide"
+      ],
+      "a": 2,
+      "e": "SO2 acts as a reducing agent and decolourizes permanganate.",
+      "d": "Easy",
+      "topic": "Sulfur dioxide detection",
+      "slo": "Identify and explain sulfur dioxide detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-156"
+    },
+    {
+      "q": "During a Class 9 qualitative-analysis practical, a student is asked: which flame colour is expected for Na+?",
+      "o": [
+        "Bluish green",
+        "Apple green",
+        "Lilac",
+        "Golden yellow"
+      ],
+      "a": 3,
+      "e": "Sodium cations produce golden-yellow emission.",
+      "d": "Medium",
+      "topic": "Flame colours",
+      "slo": "Identify and explain flame colours using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-157"
+    },
+    {
+      "q": "In a classroom review of qualitative analysis, what is the acid-base character of ammonia gas?",
+      "o": [
+        "Strongly acidic",
+        "Neutral in every circumstance",
+        "Basic",
+        "Amphoteric metal oxide"
+      ],
+      "a": 2,
+      "e": "Ammonia is basic and turns moist red litmus blue.",
+      "d": "Easy",
+      "topic": "Ammonia detection",
+      "slo": "Identify and explain ammonia detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-158"
+    },
+    {
+      "q": "Which solution is used to identify carbon dioxide?",
+      "o": [
+        "Sodium chloride solution",
+        "Distilled ethanol",
+        "Limewater",
+        "Copper sulfate solution"
+      ],
+      "a": 2,
+      "e": "Carbon dioxide turns limewater milky.",
+      "d": "Easy",
+      "topic": "Carbon dioxide detection",
+      "slo": "Identify and explain carbon dioxide detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-159"
+    },
+    {
+      "q": "In a classroom review of qualitative analysis, which observation is positive for hydrogen rather than oxygen?",
+      "o": [
+        "A pop with a burning splint",
+        "A milky limewater result",
+        "A glowing splint relights",
+        "Bleaching of damp blue litmus"
+      ],
+      "a": 0,
+      "e": "Hydrogen gives a pop test; oxygen relights a glowing splint.",
+      "d": "Easy",
+      "topic": "Hydrogen detection",
+      "slo": "Identify and explain hydrogen detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-160"
+    },
+    {
+      "q": "During a Class 9 qualitative-analysis practical, a student is asked: which flame colour is expected for Li+?",
+      "o": [
+        "Apple green",
+        "Crimson red",
+        "Golden yellow",
+        "Blue-green"
+      ],
+      "a": 1,
+      "e": "Lithium ions give a crimson-red flame.",
+      "d": "Medium",
+      "topic": "Flame colours",
+      "slo": "Identify and explain flame colours using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-161"
+    },
+    {
+      "q": "In a classroom review of qualitative analysis, which metal ion is associated with a golden-yellow flame?",
+      "o": [
+        "Sodium",
+        "Barium",
+        "Potassium",
+        "Copper"
+      ],
+      "a": 0,
+      "e": "Sodium ions emit a characteristic golden-yellow colour.",
+      "d": "Easy",
+      "topic": "Flame colours",
+      "slo": "Identify and explain flame colours using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-162"
+    },
+    {
+      "q": "During a Class 9 qualitative-analysis practical, a student is asked: which flame colour indicates lithium ions?",
+      "o": [
+        "Crimson red",
+        "Blue-green",
+        "Golden yellow",
+        "Apple green"
+      ],
+      "a": 0,
+      "e": "Lithium produces a crimson-red flame.",
+      "d": "Medium",
+      "topic": "Flame colours",
+      "slo": "Identify and explain flame colours using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-163"
+    },
+    {
+      "q": "Which flame colour is expected for Ba2+?",
+      "o": [
+        "Crimson red",
+        "Lilac",
+        "Golden yellow",
+        "Apple green"
+      ],
+      "a": 3,
+      "e": "Barium cations produce apple-green emission.",
+      "d": "Easy",
+      "topic": "Flame colours",
+      "slo": "Identify and explain flame colours using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-164"
+    },
+    {
+      "q": "In a classroom review of qualitative analysis, what is the chemical name of limewater solute?",
+      "o": [
+        "Sodium hydroxide",
+        "Calcium sulfate",
+        "Calcium hydroxide",
+        "Calcium chloride"
+      ],
+      "a": 2,
+      "e": "Limewater is aqueous calcium hydroxide, Ca(OH)2.",
+      "d": "Easy",
+      "topic": "Carbon dioxide detection",
+      "slo": "Identify and explain carbon dioxide detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-165"
+    },
+    {
+      "q": "In a classroom review of qualitative analysis, which flame colour is expected for Cu2+?",
+      "o": [
+        "Crimson red",
+        "Brick red",
+        "Bluish green",
+        "Golden yellow"
+      ],
+      "a": 2,
+      "e": "Copper ions produce bluish-green flame colours.",
+      "d": "Easy",
+      "topic": "Flame colours",
+      "slo": "Identify and explain flame colours using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-166"
+    },
+    {
+      "q": "During a Class 9 qualitative-analysis practical, a student is asked: what causes the characteristic colours in flame tests?",
+      "o": [
+        "Excited electrons emit light as they return to lower energy levels",
+        "Atoms turn into new elements",
+        "Only the burner glass changes colour",
+        "All ions emit identical wavelengths"
+      ],
+      "a": 0,
+      "e": "Heating excites electrons; emitted photons have characteristic energies.",
+      "d": "Medium",
+      "topic": "Flame test principles",
+      "slo": "Identify and explain flame test principles using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-167"
+    },
+    {
+      "q": "Choose the correct answer for this laboratory question: What happens when carbon dioxide is passed through limewater?",
+      "o": [
+        "It turns deep blue",
+        "It relights a glowing splint",
+        "It turns milky",
+        "It produces a purple flame"
+      ],
+      "a": 2,
+      "e": "Calcium carbonate precipitate makes limewater cloudy.",
+      "d": "Medium",
+      "topic": "Carbon dioxide detection",
+      "slo": "Identify and explain carbon dioxide detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-168"
+    },
+    {
+      "q": "Choose the correct answer for this laboratory question: What is the formula of ammonia?",
+      "o": [
+        "NH3",
+        "NH4",
+        "NO2",
+        "N2O"
+      ],
+      "a": 0,
+      "e": "Ammonia is NH3.",
+      "d": "Medium",
+      "topic": "Ammonia detection",
+      "slo": "Identify and explain ammonia detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-169"
+    },
+    {
+      "q": "In a classroom review of qualitative analysis, why does a metal salt colour the flame?",
+      "o": [
+        "It produces chlorine gas in every case",
+        "It causes the burner to melt",
+        "It changes the flame into liquid",
+        "Its excited atoms or ions emit characteristic light"
+      ],
+      "a": 3,
+      "e": "Electron transitions generate characteristic visible emission.",
+      "d": "Easy",
+      "topic": "Flame test principles",
+      "slo": "Identify and explain flame test principles using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-170"
+    },
+    {
+      "q": "Choose the correct answer for this laboratory question: Which metal ion is associated with a lilac flame?",
+      "o": [
+        "Strontium",
+        "Potassium",
+        "Sodium",
+        "Barium"
+      ],
+      "a": 1,
+      "e": "Potassium produces a lilac or purple flame.",
+      "d": "Medium",
+      "topic": "Flame colours",
+      "slo": "Identify and explain flame colours using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-171"
+    },
+    {
+      "q": "Choose the correct answer for this laboratory question: Why does clear limewater become cloudy?",
+      "o": [
+        "An insoluble solid forms",
+        "A purple dye forms",
+        "The water becomes magnetic",
+        "All calcium ions evaporate"
+      ],
+      "a": 0,
+      "e": "An insoluble CaCO3 precipitate scatters light.",
+      "d": "Medium",
+      "topic": "Carbon dioxide detection",
+      "slo": "Identify and explain carbon dioxide detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-172"
+    },
+    {
+      "q": "What type of energy is released as electrons return to lower levels?",
+      "o": [
+        "Only mechanical energy",
+        "No energy",
+        "Only gravitational energy",
+        "Light energy"
+      ],
+      "a": 3,
+      "e": "Photons emitted during electron transitions produce visible flame colours.",
+      "d": "Easy",
+      "topic": "Flame test principles",
+      "slo": "Identify and explain flame test principles using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-173"
+    },
+    {
+      "q": "Choose the correct answer for this laboratory question: Which result would be quantitative rather than qualitative?",
+      "o": [
+        "A sample contains 0.50 g of salt",
+        "The solid is white",
+        "The sample contains sodium ions",
+        "The gas is chlorine"
+      ],
+      "a": 0,
+      "e": "A numerical mass is a quantitative measurement.",
+      "d": "Medium",
+      "topic": "Qualitative analysis",
+      "slo": "Identify and explain qualitative analysis using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-174"
+    },
+    {
+      "q": "During a Class 9 qualitative-analysis practical, a student is asked: which litmus colour is used initially to test for ammonia?",
+      "o": [
+        "Purple",
+        "Green",
+        "Red",
+        "Blue only"
+      ],
+      "a": 2,
+      "e": "Moist red litmus is used because ammonia turns it blue.",
+      "d": "Medium",
+      "topic": "Ammonia detection",
+      "slo": "Identify and explain ammonia detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-175"
+    },
+    {
+      "q": "In a classroom review of qualitative analysis, what is a common industrial use of ammonia mentioned in the chapter?",
+      "o": [
+        "Extracting iron from ore",
+        "Making glass lenses",
+        "Manufacture of fertilizers",
+        "Producing table sugar"
+      ],
+      "a": 2,
+      "e": "Ammonia is widely used in fertilizer manufacture.",
+      "d": "Easy",
+      "topic": "Ammonia detection",
+      "slo": "Identify and explain ammonia detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-176"
+    },
+    {
+      "q": "Choose the correct answer for this laboratory question: What colour is potassium permanganate solution before the SO2 test?",
+      "o": [
+        "Yellow",
+        "Purple",
+        "White",
+        "Green"
+      ],
+      "a": 1,
+      "e": "KMnO4 solution is purple.",
+      "d": "Medium",
+      "topic": "Sulfur dioxide detection",
+      "slo": "Identify and explain sulfur dioxide detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-177"
+    },
+    {
+      "q": "Which observation is positive for hydrogen rather than oxygen?",
+      "o": [
+        "Bleaching of damp blue litmus",
+        "A milky limewater result",
+        "A pop with a burning splint",
+        "A glowing splint relights"
+      ],
+      "a": 2,
+      "e": "Hydrogen gives a pop test; oxygen relights a glowing splint.",
+      "d": "Easy",
+      "topic": "Hydrogen detection",
+      "slo": "Identify and explain hydrogen detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-178"
+    },
+    {
+      "q": "During a Class 9 qualitative-analysis practical, a student is asked: what can interfere with an accurate flame-test observation?",
+      "o": [
+        "Using a clean loop",
+        "Observing the flame carefully",
+        "Contamination by another metal salt",
+        "Using a small sample"
+      ],
+      "a": 2,
+      "e": "Contaminating ions can mask the expected colour.",
+      "d": "Medium",
+      "topic": "Flame test principles",
+      "slo": "Identify and explain flame test principles using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-179"
+    },
+    {
+      "q": "In a classroom review of qualitative analysis, which acid is used with zinc in the chapter hydrogen preparation?",
+      "o": [
+        "Carbonic acid only",
+        "Dilute sulfuric acid",
+        "Concentrated nitric acid",
+        "Ethanoic acid vapour"
+      ],
+      "a": 1,
+      "e": "Zinc and dilute H2SO4 release hydrogen gas.",
+      "d": "Easy",
+      "topic": "Hydrogen detection",
+      "slo": "Identify and explain hydrogen detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-180"
+    },
+    {
+      "q": "Choose the correct answer for this laboratory question: Which equation represents the limewater test?",
+      "o": [
+        "CO2 + Ca(OH)2 -> CaCO3 + H2O",
+        "CO2 + NaCl -> NaOH + Cl2",
+        "CO2 + H2 -> CH4",
+        "CO2 + O2 -> CO"
+      ],
+      "a": 0,
+      "e": "The precipitate CaCO3 produces the milky appearance.",
+      "d": "Medium",
+      "topic": "Carbon dioxide detection",
+      "slo": "Identify and explain carbon dioxide detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-181"
+    },
+    {
+      "q": "In a classroom review of qualitative analysis, why should a burning splint be used carefully near hydrogen?",
+      "o": [
+        "Hydrogen is a solid metal",
+        "Hydrogen is nonflammable",
+        "Hydrogen is an inert noble gas",
+        "Hydrogen is flammable"
+      ],
+      "a": 3,
+      "e": "Hydrogen ignites readily and can form explosive mixtures with air.",
+      "d": "Easy",
+      "topic": "Hydrogen detection",
+      "slo": "Identify and explain hydrogen detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-182"
+    },
+    {
+      "q": "Which colour change indicates a positive ammonia test?",
+      "o": [
+        "Green to black",
+        "Blue to red then white",
+        "Purple to orange",
+        "Red to blue"
+      ],
+      "a": 3,
+      "e": "Ammonia turns damp red litmus blue.",
+      "d": "Easy",
+      "topic": "Ammonia detection",
+      "slo": "Identify and explain ammonia detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-183"
+    },
+    {
+      "q": "Which test identifies oxygen gas?",
+      "o": [
+        "A glowing splint relights",
+        "Damp blue litmus is bleached",
+        "Limewater turns milky",
+        "A burning splint makes a pop"
+      ],
+      "a": 0,
+      "e": "Oxygen supports combustion and relights a glowing splint.",
+      "d": "Easy",
+      "topic": "Oxygen detection",
+      "slo": "Identify and explain oxygen detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-184"
+    },
+    {
+      "q": "Why are flame colours useful for qualitative analysis?",
+      "o": [
+        "They eliminate the need for control tests",
+        "Different metal ions can give characteristic colours",
+        "They directly give exact concentrations",
+        "Every metal has exactly the same colour"
+      ],
+      "a": 1,
+      "e": "Characteristic colours help identify selected metal ions.",
+      "d": "Easy",
+      "topic": "Flame test principles",
+      "slo": "Identify and explain flame test principles using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-185"
+    },
+    {
+      "q": "During a Class 9 qualitative-analysis practical, a student is asked: which gas supports combustion and is detected with a glowing splint?",
+      "o": [
+        "Ammonia",
+        "Oxygen",
+        "Carbon dioxide",
+        "Chlorine"
+      ],
+      "a": 1,
+      "e": "Oxygen relights a glowing splint.",
+      "d": "Medium",
+      "topic": "Oxygen detection",
+      "slo": "Identify and explain oxygen detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-186"
+    },
+    {
+      "q": "What happens to acidified purple potassium permanganate when SO2 passes through?",
+      "o": [
+        "It turns bright red",
+        "It becomes milky",
+        "It becomes colourless",
+        "It forms a blue flame"
+      ],
+      "a": 2,
+      "e": "Sulfur dioxide reduces permanganate, removing its purple colour.",
+      "d": "Easy",
+      "topic": "Sulfur dioxide detection",
+      "slo": "Identify and explain sulfur dioxide detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-187"
+    },
+    {
+      "q": "In a classroom review of qualitative analysis, why is litmus paper moistened for ammonia detection?",
+      "o": [
+        "Water changes the gas into oxygen",
+        "Moisture allows ammonia to dissolve and affect the indicator",
+        "Moisture turns ammonia into chlorine",
+        "Dry litmus is always a gas"
+      ],
+      "a": 1,
+      "e": "Dissolved ammonia creates an alkaline environment at the indicator.",
+      "d": "Easy",
+      "topic": "Ammonia detection",
+      "slo": "Identify and explain ammonia detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-188"
+    },
+    {
+      "q": "During a Class 9 qualitative-analysis practical, a student is asked: which flame colour is expected for Sr2+?",
+      "o": [
+        "Golden yellow",
+        "Purple",
+        "Crimson red",
+        "Blue-green"
+      ],
+      "a": 2,
+      "e": "Strontium ions give a crimson-red flame.",
+      "d": "Medium",
+      "topic": "Flame colours",
+      "slo": "Identify and explain flame colours using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-189"
+    },
+    {
+      "q": "Which flame colour is expected for Na+?",
+      "o": [
+        "Bluish green",
+        "Lilac",
+        "Golden yellow",
+        "Apple green"
+      ],
+      "a": 2,
+      "e": "Sodium cations produce golden-yellow emission.",
+      "d": "Easy",
+      "topic": "Flame colours",
+      "slo": "Identify and explain flame colours using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-190"
+    },
+    {
+      "q": "Which gas is collected in the inverted test tube in the zinc-acid experiment?",
+      "o": [
+        "Carbon dioxide",
+        "Oxygen",
+        "Ammonia",
+        "Hydrogen"
+      ],
+      "a": 3,
+      "e": "Zinc and dilute sulfuric acid produce H2.",
+      "d": "Easy",
+      "topic": "Hydrogen detection",
+      "slo": "Identify and explain hydrogen detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-191"
+    },
+    {
+      "q": "During a Class 9 qualitative-analysis practical, a student is asked: which other metal ion besides lithium gives a crimson-red flame?",
+      "o": [
+        "Strontium",
+        "Barium",
+        "Sodium",
+        "Potassium"
+      ],
+      "a": 0,
+      "e": "Strontium and lithium both produce red-toned flames.",
+      "d": "Medium",
+      "topic": "Flame colours",
+      "slo": "Identify and explain flame colours using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-192"
+    },
+    {
+      "q": "In a classroom review of qualitative analysis, what property of chlorine is demonstrated by bleaching litmus?",
+      "o": [
+        "Magnetism",
+        "A characteristic flame colour",
+        "High electrical conductivity of the gas",
+        "Bleaching action"
+      ],
+      "a": 3,
+      "e": "Chlorine can bleach moist coloured indicators.",
+      "d": "Easy",
+      "topic": "Chlorine detection",
+      "slo": "Identify and explain chlorine detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-193"
+    },
+    {
+      "q": "What causes the milkiness in the carbon dioxide test?",
+      "o": [
+        "Hydrogen bubbles",
+        "Copper metal deposits",
+        "Dissolved sodium chloride",
+        "Calcium carbonate precipitate"
+      ],
+      "a": 3,
+      "e": "CO2 reacts with limewater to produce insoluble CaCO3.",
+      "d": "Easy",
+      "topic": "Carbon dioxide detection",
+      "slo": "Identify and explain carbon dioxide detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-194"
+    },
+    {
+      "q": "What is the chemical name of limewater solute?",
+      "o": [
+        "Calcium sulfate",
+        "Sodium hydroxide",
+        "Calcium hydroxide",
+        "Calcium chloride"
+      ],
+      "a": 2,
+      "e": "Limewater is aqueous calcium hydroxide, Ca(OH)2.",
+      "d": "Easy",
+      "topic": "Carbon dioxide detection",
+      "slo": "Identify and explain carbon dioxide detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-195"
+    },
+    {
+      "q": "Which test is used to identify selected metal cations?",
+      "o": [
+        "Gravimetric weighing only",
+        "Filtration test",
+        "Flame test",
+        "Boiling-point elevation test"
+      ],
+      "a": 2,
+      "e": "Flame tests use characteristic emission colours of metal ions.",
+      "d": "Easy",
+      "topic": "Qualitative analysis",
+      "slo": "Identify and explain qualitative analysis using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-196"
+    },
+    {
+      "q": "During a Class 9 qualitative-analysis practical, a student is asked: what is the main aim of a confirmatory test?",
+      "o": [
+        "To calculate the mass of the substance",
+        "To measure sample density",
+        "To determine a precise percentage",
+        "To provide evidence for the identity of a substance"
+      ],
+      "a": 3,
+      "e": "A confirmatory test uses a characteristic observation to support identification.",
+      "d": "Medium",
+      "topic": "Qualitative analysis",
+      "slo": "Identify and explain qualitative analysis using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-197"
+    },
+    {
+      "q": "During a Class 9 qualitative-analysis practical, a student is asked: which flame colour indicates potassium ions?",
+      "o": [
+        "Brick red",
+        "Apple green",
+        "Golden yellow",
+        "Purple or lilac"
+      ],
+      "a": 3,
+      "e": "Potassium gives a lilac or purple flame.",
+      "d": "Medium",
+      "topic": "Flame colours",
+      "slo": "Identify and explain flame colours using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-198"
+    },
+    {
+      "q": "In a classroom review of qualitative analysis, which reagent can produce oxygen by decomposition in the chapter experiment?",
+      "o": [
+        "Sodium chloride",
+        "Ammonium chloride",
+        "Hydrogen peroxide",
+        "Calcium carbonate"
+      ],
+      "a": 2,
+      "e": "Hydrogen peroxide decomposes to water and oxygen.",
+      "d": "Easy",
+      "topic": "Oxygen detection",
+      "slo": "Identify and explain oxygen detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-199"
+    },
+    {
+      "q": "What colour is potassium permanganate solution before the SO2 test?",
+      "o": [
+        "Yellow",
+        "Green",
+        "Purple",
+        "White"
+      ],
+      "a": 2,
+      "e": "KMnO4 solution is purple.",
+      "d": "Easy",
+      "topic": "Sulfur dioxide detection",
+      "slo": "Identify and explain sulfur dioxide detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-200"
+    },
+    {
+      "q": "Why does a metal salt colour the flame?",
+      "o": [
+        "It changes the flame into liquid",
+        "Its excited atoms or ions emit characteristic light",
+        "It causes the burner to melt",
+        "It produces chlorine gas in every case"
+      ],
+      "a": 1,
+      "e": "Electron transitions generate characteristic visible emission.",
+      "d": "Easy",
+      "topic": "Flame test principles",
+      "slo": "Identify and explain flame test principles using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-201"
+    },
+    {
+      "q": "In a classroom review of qualitative analysis, what does qualitative analysis identify?",
+      "o": [
+        "Nature or identity of a substance",
+        "Numerical concentration only",
+        "Exact mass of a sample",
+        "Number of moles only"
+      ],
+      "a": 0,
+      "e": "Qualitative analysis identifies what a substance is, rather than how much is present.",
+      "d": "Easy",
+      "topic": "Qualitative analysis",
+      "slo": "Identify and explain qualitative analysis using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-202"
+    },
+    {
+      "q": "In a classroom review of qualitative analysis, what is the formula of sulfur dioxide?",
+      "o": [
+        "S2O",
+        "SO2",
+        "H2S",
+        "SO3"
+      ],
+      "a": 1,
+      "e": "Sulfur dioxide has formula SO2.",
+      "d": "Easy",
+      "topic": "Sulfur dioxide detection",
+      "slo": "Identify and explain sulfur dioxide detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-203"
+    },
+    {
+      "q": "Choose the correct answer for this laboratory question: Which chemical formula represents potassium permanganate?",
+      "o": [
+        "K2MnO4",
+        "KClO4",
+        "KMnO2",
+        "KMnO4"
+      ],
+      "a": 3,
+      "e": "Potassium permanganate is KMnO4.",
+      "d": "Medium",
+      "topic": "Sulfur dioxide detection",
+      "slo": "Identify and explain sulfur dioxide detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-204"
+    },
+    {
+      "q": "In a classroom review of qualitative analysis, why are flame colours useful for qualitative analysis?",
+      "o": [
+        "They directly give exact concentrations",
+        "They eliminate the need for control tests",
+        "Different metal ions can give characteristic colours",
+        "Every metal has exactly the same colour"
+      ],
+      "a": 2,
+      "e": "Characteristic colours help identify selected metal ions.",
+      "d": "Easy",
+      "topic": "Flame test principles",
+      "slo": "Identify and explain flame test principles using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-205"
+    },
+    {
+      "q": "In a classroom review of qualitative analysis, what happens first to damp blue litmus in chlorine gas?",
+      "o": [
+        "It turns black",
+        "It turns green",
+        "It turns red",
+        "It remains permanently blue"
+      ],
+      "a": 2,
+      "e": "Chlorine forms acidic species in moisture, initially reddening blue litmus.",
+      "d": "Easy",
+      "topic": "Chlorine detection",
+      "slo": "Identify and explain chlorine detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-206"
+    },
+    {
+      "q": "During a Class 9 qualitative-analysis practical, a student is asked: which litmus paper is recommended for chlorine gas detection?",
+      "o": [
+        "Uncoated filter paper only",
+        "Dry green paper",
+        "Dry red litmus only",
+        "Damp blue litmus"
+      ],
+      "a": 3,
+      "e": "Damp blue litmus first reddens and then bleaches.",
+      "d": "Medium",
+      "topic": "Chlorine detection",
+      "slo": "Identify and explain chlorine detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-207"
+    },
+    {
+      "q": "Choose the correct answer for this laboratory question: Which colour change indicates a positive ammonia test?",
+      "o": [
+        "Red to blue",
+        "Blue to red then white",
+        "Purple to orange",
+        "Green to black"
+      ],
+      "a": 0,
+      "e": "Ammonia turns damp red litmus blue.",
+      "d": "Medium",
+      "topic": "Ammonia detection",
+      "slo": "Identify and explain ammonia detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-208"
+    },
+    {
+      "q": "During a Class 9 qualitative-analysis practical, a student is asked: which gas is released when marble chips react with hydrochloric acid?",
+      "o": [
+        "Hydrogen only",
+        "Chlorine",
+        "Ammonia",
+        "Carbon dioxide"
+      ],
+      "a": 3,
+      "e": "CaCO3 reacts with HCl to release CO2.",
+      "d": "Medium",
+      "topic": "Carbon dioxide detection",
+      "slo": "Identify and explain carbon dioxide detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-209"
+    },
+    {
+      "q": "Choose the correct answer for this laboratory question: What is the chemical name of limewater solute?",
+      "o": [
+        "Calcium hydroxide",
+        "Sodium hydroxide",
+        "Calcium sulfate",
+        "Calcium chloride"
+      ],
+      "a": 0,
+      "e": "Limewater is aqueous calcium hydroxide, Ca(OH)2.",
+      "d": "Medium",
+      "topic": "Carbon dioxide detection",
+      "slo": "Identify and explain carbon dioxide detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-210"
+    },
+    {
+      "q": "Choose the correct answer for this laboratory question: Why should the wire loop be cleaned between flame tests?",
+      "o": [
+        "To avoid contamination and misleading colours",
+        "To make the flame colder than room temperature",
+        "To increase the atomic mass",
+        "To turn metals into gases permanently"
+      ],
+      "a": 0,
+      "e": "Residues from earlier samples can change the observed flame colour.",
+      "d": "Medium",
+      "topic": "Flame test principles",
+      "slo": "Identify and explain flame test principles using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-211"
+    },
+    {
+      "q": "During a Class 9 qualitative-analysis practical, a student is asked: which reagent can produce oxygen by decomposition in the chapter experiment?",
+      "o": [
+        "Hydrogen peroxide",
+        "Calcium carbonate",
+        "Sodium chloride",
+        "Ammonium chloride"
+      ],
+      "a": 0,
+      "e": "Hydrogen peroxide decomposes to water and oxygen.",
+      "d": "Medium",
+      "topic": "Oxygen detection",
+      "slo": "Identify and explain oxygen detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-212"
+    },
+    {
+      "q": "Which gas supports combustion and is detected with a glowing splint?",
+      "o": [
+        "Ammonia",
+        "Chlorine",
+        "Carbon dioxide",
+        "Oxygen"
+      ],
+      "a": 3,
+      "e": "Oxygen relights a glowing splint.",
+      "d": "Easy",
+      "topic": "Oxygen detection",
+      "slo": "Identify and explain oxygen detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-213"
+    },
+    {
+      "q": "In a classroom review of qualitative analysis, which metal ion is associated with a crimson-red flame in the chapter?",
+      "o": [
+        "Barium",
+        "Lithium",
+        "Sodium",
+        "Copper"
+      ],
+      "a": 1,
+      "e": "Lithium produces a crimson-red flame; strontium also gives a red flame.",
+      "d": "Easy",
+      "topic": "Flame colours",
+      "slo": "Identify and explain flame colours using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-214"
+    },
+    {
+      "q": "During a Class 9 qualitative-analysis practical, a student is asked: what is the formula of hydrogen gas?",
+      "o": [
+        "H2O",
+        "H",
+        "H2O2",
+        "H2"
+      ],
+      "a": 3,
+      "e": "Hydrogen gas is diatomic H2.",
+      "d": "Medium",
+      "topic": "Hydrogen detection",
+      "slo": "Identify and explain hydrogen detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-215"
+    },
+    {
+      "q": "What is the formula of chlorine gas?",
+      "o": [
+        "Cl2",
+        "HCl",
+        "Cl",
+        "ClO2"
+      ],
+      "a": 0,
+      "e": "Elemental chlorine gas is diatomic Cl2.",
+      "d": "Easy",
+      "topic": "Chlorine detection",
+      "slo": "Identify and explain chlorine detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-216"
+    },
+    {
+      "q": "Which equation describes hydrogen preparation from zinc and sulfuric acid?",
+      "o": [
+        "Zn + CO2 -> ZnCO3 + H2",
+        "Zn + H2O -> ZnO + O2",
+        "Zn + HCl -> ZnCl2 + O2",
+        "Zn + H2SO4 -> ZnSO4 + H2"
+      ],
+      "a": 3,
+      "e": "Zinc displaces hydrogen from dilute sulfuric acid.",
+      "d": "Easy",
+      "topic": "Hydrogen detection",
+      "slo": "Identify and explain hydrogen detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-217"
+    },
+    {
+      "q": "Which flame colour indicates strontium ions?",
+      "o": [
+        "Lilac purple",
+        "Crimson red",
+        "Apple green",
+        "Golden yellow"
+      ],
+      "a": 1,
+      "e": "Strontium produces a crimson-red flame.",
+      "d": "Easy",
+      "topic": "Flame colours",
+      "slo": "Identify and explain flame colours using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-218"
+    },
+    {
+      "q": "Choose the correct answer for this laboratory question: Which gas is collected in the inverted test tube in the zinc-acid experiment?",
+      "o": [
+        "Oxygen",
+        "Ammonia",
+        "Carbon dioxide",
+        "Hydrogen"
+      ],
+      "a": 3,
+      "e": "Zinc and dilute sulfuric acid produce H2.",
+      "d": "Medium",
+      "topic": "Hydrogen detection",
+      "slo": "Identify and explain hydrogen detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-219"
+    },
+    {
+      "q": "Choose the correct answer for this laboratory question: Which flame colour indicates barium ions?",
+      "o": [
+        "Golden yellow",
+        "Brick red",
+        "Apple green",
+        "Lilac purple"
+      ],
+      "a": 2,
+      "e": "Barium produces an apple-green flame.",
+      "d": "Medium",
+      "topic": "Flame colours",
+      "slo": "Identify and explain flame colours using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-220"
+    },
+    {
+      "q": "Choose the correct answer for this laboratory question: Which flame colour is expected for K+?",
+      "o": [
+        "Golden yellow",
+        "Lilac or purple",
+        "Apple green",
+        "Brick red"
+      ],
+      "a": 1,
+      "e": "Potassium cations produce lilac emission.",
+      "d": "Medium",
+      "topic": "Flame colours",
+      "slo": "Identify and explain flame colours using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-221"
+    },
+    {
+      "q": "In a classroom review of qualitative analysis, which flame colour indicates sodium ions?",
+      "o": [
+        "Golden yellow",
+        "Crimson red",
+        "Lilac purple",
+        "Apple green"
+      ],
+      "a": 0,
+      "e": "Sodium produces a strong golden-yellow flame.",
+      "d": "Easy",
+      "topic": "Flame colours",
+      "slo": "Identify and explain flame colours using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-222"
+    },
+    {
+      "q": "In a classroom review of qualitative analysis, why is damp litmus preferred to dry litmus for chlorine detection?",
+      "o": [
+        "Dry litmus is a metal",
+        "Water enables the relevant reactions",
+        "Moisture prevents all bleaching",
+        "Water converts chlorine into ammonia"
+      ],
+      "a": 1,
+      "e": "Chlorine reacts in the presence of water to affect and bleach the dye.",
+      "d": "Easy",
+      "topic": "Chlorine detection",
+      "slo": "Identify and explain chlorine detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-223"
+    },
+    {
+      "q": "Which chemical formula represents potassium permanganate?",
+      "o": [
+        "KClO4",
+        "KMnO2",
+        "K2MnO4",
+        "KMnO4"
+      ],
+      "a": 3,
+      "e": "Potassium permanganate is KMnO4.",
+      "d": "Easy",
+      "topic": "Sulfur dioxide detection",
+      "slo": "Identify and explain sulfur dioxide detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-224"
+    },
+    {
+      "q": "What is the formula of carbon dioxide?",
+      "o": [
+        "CaCO3",
+        "CO2",
+        "SO2",
+        "CO"
+      ],
+      "a": 1,
+      "e": "Carbon dioxide contains one carbon and two oxygen atoms.",
+      "d": "Easy",
+      "topic": "Carbon dioxide detection",
+      "slo": "Identify and explain carbon dioxide detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-225"
+    },
+    {
+      "q": "During a Class 9 qualitative-analysis practical, a student is asked: what is the formula of chlorine gas?",
+      "o": [
+        "ClO2",
+        "Cl",
+        "HCl",
+        "Cl2"
+      ],
+      "a": 3,
+      "e": "Elemental chlorine gas is diatomic Cl2.",
+      "d": "Medium",
+      "topic": "Chlorine detection",
+      "slo": "Identify and explain chlorine detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-226"
+    },
+    {
+      "q": "Which test identifies hydrogen gas?",
+      "o": [
+        "Glowing splint relights",
+        "Purple permanganate becomes colourless",
+        "Limewater turns milky",
+        "Burning splint produces a pop sound"
+      ],
+      "a": 3,
+      "e": "Hydrogen gives a characteristic pop with a burning splint.",
+      "d": "Easy",
+      "topic": "Hydrogen detection",
+      "slo": "Identify and explain hydrogen detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-227"
+    },
+    {
+      "q": "In a classroom review of qualitative analysis, which chemical formula represents potassium permanganate?",
+      "o": [
+        "KMnO4",
+        "KMnO2",
+        "KClO4",
+        "K2MnO4"
+      ],
+      "a": 0,
+      "e": "Potassium permanganate is KMnO4.",
+      "d": "Easy",
+      "topic": "Sulfur dioxide detection",
+      "slo": "Identify and explain sulfur dioxide detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-228"
+    },
+    {
+      "q": "In a classroom review of qualitative analysis, what is the formula of chlorine gas?",
+      "o": [
+        "HCl",
+        "Cl",
+        "Cl2",
+        "ClO2"
+      ],
+      "a": 2,
+      "e": "Elemental chlorine gas is diatomic Cl2.",
+      "d": "Easy",
+      "topic": "Chlorine detection",
+      "slo": "Identify and explain chlorine detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-229"
+    },
+    {
+      "q": "During a Class 9 qualitative-analysis practical, a student is asked: which test identifies oxygen gas?",
+      "o": [
+        "Limewater turns milky",
+        "Damp blue litmus is bleached",
+        "A glowing splint relights",
+        "A burning splint makes a pop"
+      ],
+      "a": 2,
+      "e": "Oxygen supports combustion and relights a glowing splint.",
+      "d": "Medium",
+      "topic": "Oxygen detection",
+      "slo": "Identify and explain oxygen detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-230"
+    },
+    {
+      "q": "Which litmus colour is used initially to test for ammonia?",
+      "o": [
+        "Blue only",
+        "Red",
+        "Purple",
+        "Green"
+      ],
+      "a": 1,
+      "e": "Moist red litmus is used because ammonia turns it blue.",
+      "d": "Easy",
+      "topic": "Ammonia detection",
+      "slo": "Identify and explain ammonia detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-231"
+    },
+    {
+      "q": "Choose the correct answer for this laboratory question: What can interfere with an accurate flame-test observation?",
+      "o": [
+        "Contamination by another metal salt",
+        "Observing the flame carefully",
+        "Using a clean loop",
+        "Using a small sample"
+      ],
+      "a": 0,
+      "e": "Contaminating ions can mask the expected colour.",
+      "d": "Medium",
+      "topic": "Flame test principles",
+      "slo": "Identify and explain flame test principles using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-232"
+    },
+    {
+      "q": "In a classroom review of qualitative analysis, what type of energy is absorbed when electrons become excited in the flame?",
+      "o": [
+        "Thermal energy",
+        "Nuclear binding energy only",
+        "Sound energy only",
+        "Gravitational potential from the table"
+      ],
+      "a": 0,
+      "e": "Heat energy excites electrons in atoms or ions.",
+      "d": "Easy",
+      "topic": "Flame test principles",
+      "slo": "Identify and explain flame test principles using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-233"
+    },
+    {
+      "q": "Which reagent is used to detect sulfur dioxide in the chapter?",
+      "o": [
+        "Acidified potassium permanganate",
+        "Sodium chloride solution",
+        "Damp red litmus only",
+        "Clear limewater only"
+      ],
+      "a": 0,
+      "e": "SO2 decolourizes acidified potassium permanganate.",
+      "d": "Easy",
+      "topic": "Sulfur dioxide detection",
+      "slo": "Identify and explain sulfur dioxide detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-234"
+    },
+    {
+      "q": "During a Class 9 qualitative-analysis practical, a student is asked: which apparatus introduces a small sample into the flame in the chapter?",
+      "o": [
+        "Wire loop",
+        "Filter funnel",
+        "Separating funnel",
+        "Condenser"
+      ],
+      "a": 0,
+      "e": "A wire loop can carry a small sample into the flame.",
+      "d": "Medium",
+      "topic": "Flame test principles",
+      "slo": "Identify and explain flame test principles using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-235"
+    },
+    {
+      "q": "Choose the correct answer for this laboratory question: What property of chlorine is demonstrated by bleaching litmus?",
+      "o": [
+        "Bleaching action",
+        "High electrical conductivity of the gas",
+        "A characteristic flame colour",
+        "Magnetism"
+      ],
+      "a": 0,
+      "e": "Chlorine can bleach moist coloured indicators.",
+      "d": "Medium",
+      "topic": "Chlorine detection",
+      "slo": "Identify and explain chlorine detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-236"
+    },
+    {
+      "q": "Choose the correct answer for this laboratory question: Why are distinctive observations important in qualitative analysis?",
+      "o": [
+        "They remove the need for safety precautions",
+        "They always give exact concentrations",
+        "They help distinguish different substances",
+        "They turn all gases into solids"
+      ],
+      "a": 2,
+      "e": "Distinctive test observations help identify unknown substances.",
+      "d": "Medium",
+      "topic": "Qualitative analysis",
+      "slo": "Identify and explain qualitative analysis using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-237"
+    },
+    {
+      "q": "In a classroom review of qualitative analysis, which metal is used with dilute sulfuric acid in the chapter to prepare hydrogen?",
+      "o": [
+        "Zinc",
+        "Copper",
+        "Silver",
+        "Gold"
+      ],
+      "a": 0,
+      "e": "Zinc reacts with dilute sulfuric acid to release hydrogen.",
+      "d": "Easy",
+      "topic": "Hydrogen detection",
+      "slo": "Identify and explain hydrogen detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-238"
+    },
+    {
+      "q": "Which metal ion is associated with a brick-red flame?",
+      "o": [
+        "Calcium",
+        "Potassium",
+        "Sodium",
+        "Copper"
+      ],
+      "a": 0,
+      "e": "Calcium gives a brick-red flame.",
+      "d": "Easy",
+      "topic": "Flame colours",
+      "slo": "Identify and explain flame colours using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-239"
+    },
+    {
+      "q": "Choose the correct answer for this laboratory question: What happens to acidified purple potassium permanganate when SO2 passes through?",
+      "o": [
+        "It becomes colourless",
+        "It forms a blue flame",
+        "It turns bright red",
+        "It becomes milky"
+      ],
+      "a": 0,
+      "e": "Sulfur dioxide reduces permanganate, removing its purple colour.",
+      "d": "Medium",
+      "topic": "Sulfur dioxide detection",
+      "slo": "Identify and explain sulfur dioxide detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-240"
+    },
+    {
+      "q": "Which equation shows decomposition of hydrogen peroxide?",
+      "o": [
+        "2H2O2 -> 2H2O + O2",
+        "H2O2 + CO2 -> H2CO3",
+        "H2O2 -> H2 + O2",
+        "2H2O -> 2H2O2"
+      ],
+      "a": 0,
+      "e": "Hydrogen peroxide decomposes into water and oxygen.",
+      "d": "Easy",
+      "topic": "Oxygen detection",
+      "slo": "Identify and explain oxygen detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-241"
+    },
+    {
+      "q": "During a Class 9 qualitative-analysis practical, a student is asked: which metal ion is associated with a bluish-green flame?",
+      "o": [
+        "Sodium",
+        "Lithium",
+        "Calcium",
+        "Copper"
+      ],
+      "a": 3,
+      "e": "Copper gives a bluish-green flame.",
+      "d": "Medium",
+      "topic": "Flame colours",
+      "slo": "Identify and explain flame colours using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-242"
+    },
+    {
+      "q": "Which flame colour is expected for Cu2+?",
+      "o": [
+        "Brick red",
+        "Crimson red",
+        "Golden yellow",
+        "Bluish green"
+      ],
+      "a": 3,
+      "e": "Copper ions produce bluish-green flame colours.",
+      "d": "Easy",
+      "topic": "Flame colours",
+      "slo": "Identify and explain flame colours using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-243"
+    },
+    {
+      "q": "Which gas is released when marble chips react with hydrochloric acid?",
+      "o": [
+        "Hydrogen only",
+        "Carbon dioxide",
+        "Ammonia",
+        "Chlorine"
+      ],
+      "a": 1,
+      "e": "CaCO3 reacts with HCl to release CO2.",
+      "d": "Easy",
+      "topic": "Carbon dioxide detection",
+      "slo": "Identify and explain carbon dioxide detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-244"
+    },
+    {
+      "q": "In a classroom review of qualitative analysis, what colour is potassium permanganate solution before the SO2 test?",
+      "o": [
+        "Purple",
+        "Green",
+        "Yellow",
+        "White"
+      ],
+      "a": 0,
+      "e": "KMnO4 solution is purple.",
+      "d": "Easy",
+      "topic": "Sulfur dioxide detection",
+      "slo": "Identify and explain sulfur dioxide detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-245"
+    },
+    {
+      "q": "Which apparatus introduces a small sample into the flame in the chapter?",
+      "o": [
+        "Condenser",
+        "Filter funnel",
+        "Wire loop",
+        "Separating funnel"
+      ],
+      "a": 2,
+      "e": "A wire loop can carry a small sample into the flame.",
+      "d": "Easy",
+      "topic": "Flame test principles",
+      "slo": "Identify and explain flame test principles using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-246"
+    },
+    {
+      "q": "Choose the correct answer for this laboratory question: Which observation distinguishes oxygen from hydrogen?",
+      "o": [
+        "Red litmus turning blue",
+        "A pop with a lighted splint",
+        "Relighting of a glowing splint",
+        "Formation of milky limewater"
+      ],
+      "a": 2,
+      "e": "A glowing splint relights in oxygen.",
+      "d": "Medium",
+      "topic": "Oxygen detection",
+      "slo": "Identify and explain oxygen detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-247"
+    },
+    {
+      "q": "Choose the correct answer for this laboratory question: Which test gas gives a white cloudiness in clear limewater?",
+      "o": [
+        "Carbon dioxide",
+        "Oxygen",
+        "Hydrogen",
+        "Ammonia"
+      ],
+      "a": 0,
+      "e": "Carbon dioxide forms a calcium carbonate precipitate.",
+      "d": "Medium",
+      "topic": "Carbon dioxide detection",
+      "slo": "Identify and explain carbon dioxide detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-248"
+    },
+    {
+      "q": "In a classroom review of qualitative analysis, which equation shows decomposition of hydrogen peroxide?",
+      "o": [
+        "H2O2 + CO2 -> H2CO3",
+        "2H2O -> 2H2O2",
+        "2H2O2 -> 2H2O + O2",
+        "H2O2 -> H2 + O2"
+      ],
+      "a": 2,
+      "e": "Hydrogen peroxide decomposes into water and oxygen.",
+      "d": "Easy",
+      "topic": "Oxygen detection",
+      "slo": "Identify and explain oxygen detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-249"
+    },
+    {
+      "q": "Choose the correct answer for this laboratory question: What does a flame test detect?",
+      "o": [
+        "The melting point of water",
+        "The exact mass of every atom",
+        "Only nonmetal anions",
+        "Certain metal cations"
+      ],
+      "a": 3,
+      "e": "Some metal ions emit characteristic flame colours.",
+      "d": "Medium",
+      "topic": "Flame test principles",
+      "slo": "Identify and explain flame test principles using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-250"
+    },
+    {
+      "q": "In a classroom review of qualitative analysis, why are distinctive observations important in qualitative analysis?",
+      "o": [
+        "They turn all gases into solids",
+        "They help distinguish different substances",
+        "They always give exact concentrations",
+        "They remove the need for safety precautions"
+      ],
+      "a": 1,
+      "e": "Distinctive test observations help identify unknown substances.",
+      "d": "Easy",
+      "topic": "Qualitative analysis",
+      "slo": "Identify and explain qualitative analysis using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-251"
+    },
+    {
+      "q": "In a classroom review of qualitative analysis, which flame colour indicates barium ions?",
+      "o": [
+        "Brick red",
+        "Apple green",
+        "Lilac purple",
+        "Golden yellow"
+      ],
+      "a": 1,
+      "e": "Barium produces an apple-green flame.",
+      "d": "Easy",
+      "topic": "Flame colours",
+      "slo": "Identify and explain flame colours using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-252"
+    },
+    {
+      "q": "Which flame colour indicates barium ions?",
+      "o": [
+        "Brick red",
+        "Apple green",
+        "Golden yellow",
+        "Lilac purple"
+      ],
+      "a": 1,
+      "e": "Barium produces an apple-green flame.",
+      "d": "Easy",
+      "topic": "Flame colours",
+      "slo": "Identify and explain flame colours using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-253"
+    },
+    {
+      "q": "Which flame colour indicates copper ions?",
+      "o": [
+        "Bluish green",
+        "Purple",
+        "Golden yellow",
+        "Crimson red"
+      ],
+      "a": 0,
+      "e": "Copper produces a bluish-green flame.",
+      "d": "Easy",
+      "topic": "Flame colours",
+      "slo": "Identify and explain flame colours using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-254"
+    },
+    {
+      "q": "Which flame colour indicates sodium ions?",
+      "o": [
+        "Crimson red",
+        "Golden yellow",
+        "Apple green",
+        "Lilac purple"
+      ],
+      "a": 1,
+      "e": "Sodium produces a strong golden-yellow flame.",
+      "d": "Easy",
+      "topic": "Flame colours",
+      "slo": "Identify and explain flame colours using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-255"
+    },
+    {
+      "q": "Which salt forms when zinc reacts with dilute sulfuric acid?",
+      "o": [
+        "Zinc carbonate",
+        "Zinc nitrate",
+        "Zinc chloride",
+        "Zinc sulfate"
+      ],
+      "a": 3,
+      "e": "Zn + H2SO4 -> ZnSO4 + H2.",
+      "d": "Easy",
+      "topic": "Hydrogen detection",
+      "slo": "Identify and explain hydrogen detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-256"
+    },
+    {
+      "q": "Choose the correct answer for this laboratory question: Which formula represents the white precipitate formed in limewater?",
+      "o": [
+        "CaSO4",
+        "CaCl2",
+        "CaO2",
+        "CaCO3"
+      ],
+      "a": 3,
+      "e": "Calcium carbonate is CaCO3.",
+      "d": "Medium",
+      "topic": "Carbon dioxide detection",
+      "slo": "Identify and explain carbon dioxide detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-257"
+    },
+    {
+      "q": "During a Class 9 qualitative-analysis practical, a student is asked: which metal is used with dilute sulfuric acid in the chapter to prepare hydrogen?",
+      "o": [
+        "Copper",
+        "Gold",
+        "Zinc",
+        "Silver"
+      ],
+      "a": 2,
+      "e": "Zinc reacts with dilute sulfuric acid to release hydrogen.",
+      "d": "Medium",
+      "topic": "Hydrogen detection",
+      "slo": "Identify and explain hydrogen detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-258"
+    },
+    {
+      "q": "What is the formula of ammonia?",
+      "o": [
+        "NO2",
+        "NH3",
+        "NH4",
+        "N2O"
+      ],
+      "a": 1,
+      "e": "Ammonia is NH3.",
+      "d": "Easy",
+      "topic": "Ammonia detection",
+      "slo": "Identify and explain ammonia detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-259"
+    },
+    {
+      "q": "In a classroom review of qualitative analysis, what can interfere with an accurate flame-test observation?",
+      "o": [
+        "Contamination by another metal salt",
+        "Observing the flame carefully",
+        "Using a small sample",
+        "Using a clean loop"
+      ],
+      "a": 0,
+      "e": "Contaminating ions can mask the expected colour.",
+      "d": "Easy",
+      "topic": "Flame test principles",
+      "slo": "Identify and explain flame test principles using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-260"
+    },
+    {
+      "q": "Choose the correct answer for this laboratory question: Why does a metal salt colour the flame?",
+      "o": [
+        "It produces chlorine gas in every case",
+        "It causes the burner to melt",
+        "Its excited atoms or ions emit characteristic light",
+        "It changes the flame into liquid"
+      ],
+      "a": 2,
+      "e": "Electron transitions generate characteristic visible emission.",
+      "d": "Medium",
+      "topic": "Flame test principles",
+      "slo": "Identify and explain flame test principles using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-261"
+    },
+    {
+      "q": "In a classroom review of qualitative analysis, which gas is released when marble chips react with hydrochloric acid?",
+      "o": [
+        "Carbon dioxide",
+        "Ammonia",
+        "Hydrogen only",
+        "Chlorine"
+      ],
+      "a": 0,
+      "e": "CaCO3 reacts with HCl to release CO2.",
+      "d": "Easy",
+      "topic": "Carbon dioxide detection",
+      "slo": "Identify and explain carbon dioxide detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-262"
+    },
+    {
+      "q": "During a Class 9 qualitative-analysis practical, a student is asked: which equation shows decomposition of hydrogen peroxide?",
+      "o": [
+        "H2O2 -> H2 + O2",
+        "2H2O2 -> 2H2O + O2",
+        "2H2O -> 2H2O2",
+        "H2O2 + CO2 -> H2CO3"
+      ],
+      "a": 1,
+      "e": "Hydrogen peroxide decomposes into water and oxygen.",
+      "d": "Medium",
+      "topic": "Oxygen detection",
+      "slo": "Identify and explain oxygen detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-263"
+    },
+    {
+      "q": "In a classroom review of qualitative analysis, which flame colour indicates calcium ions?",
+      "o": [
+        "Brick red",
+        "Lilac purple",
+        "Blue-green",
+        "Golden yellow"
+      ],
+      "a": 0,
+      "e": "Calcium produces a brick-red flame.",
+      "d": "Easy",
+      "topic": "Flame colours",
+      "slo": "Identify and explain flame colours using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-264"
+    },
+    {
+      "q": "During a Class 9 qualitative-analysis practical, a student is asked: which formula represents the white precipitate formed in limewater?",
+      "o": [
+        "CaSO4",
+        "CaO2",
+        "CaCO3",
+        "CaCl2"
+      ],
+      "a": 2,
+      "e": "Calcium carbonate is CaCO3.",
+      "d": "Medium",
+      "topic": "Carbon dioxide detection",
+      "slo": "Identify and explain carbon dioxide detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-265"
+    },
+    {
+      "q": "During a Class 9 qualitative-analysis practical, a student is asked: which test gas gives a white cloudiness in clear limewater?",
+      "o": [
+        "Hydrogen",
+        "Oxygen",
+        "Ammonia",
+        "Carbon dioxide"
+      ],
+      "a": 3,
+      "e": "Carbon dioxide forms a calcium carbonate precipitate.",
+      "d": "Medium",
+      "topic": "Carbon dioxide detection",
+      "slo": "Identify and explain carbon dioxide detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-266"
+    },
+    {
+      "q": "Choose the correct answer for this laboratory question: What is formed when hydrogen burns in oxygen?",
+      "o": [
+        "Ammonia",
+        "Water",
+        "Sulfur dioxide",
+        "Calcium carbonate"
+      ],
+      "a": 1,
+      "e": "Hydrogen combustion produces water.",
+      "d": "Medium",
+      "topic": "Hydrogen detection",
+      "slo": "Identify and explain hydrogen detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-267"
+    },
+    {
+      "q": "In a classroom review of qualitative analysis, what causes the milkiness in the carbon dioxide test?",
+      "o": [
+        "Copper metal deposits",
+        "Dissolved sodium chloride",
+        "Hydrogen bubbles",
+        "Calcium carbonate precipitate"
+      ],
+      "a": 3,
+      "e": "CO2 reacts with limewater to produce insoluble CaCO3.",
+      "d": "Easy",
+      "topic": "Carbon dioxide detection",
+      "slo": "Identify and explain carbon dioxide detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-268"
+    },
+    {
+      "q": "During a Class 9 qualitative-analysis practical, a student is asked: what happens to acidified purple potassium permanganate when SO2 passes through?",
+      "o": [
+        "It becomes colourless",
+        "It forms a blue flame",
+        "It turns bright red",
+        "It becomes milky"
+      ],
+      "a": 0,
+      "e": "Sulfur dioxide reduces permanganate, removing its purple colour.",
+      "d": "Medium",
+      "topic": "Sulfur dioxide detection",
+      "slo": "Identify and explain sulfur dioxide detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-269"
+    },
+    {
+      "q": "Choose the correct answer for this laboratory question: Which metal ion is associated with an apple-green flame?",
+      "o": [
+        "Barium",
+        "Sodium",
+        "Calcium",
+        "Lithium"
+      ],
+      "a": 0,
+      "e": "Barium gives an apple-green flame.",
+      "d": "Medium",
+      "topic": "Flame colours",
+      "slo": "Identify and explain flame colours using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-270"
+    },
+    {
+      "q": "Which metal ion is associated with an apple-green flame?",
+      "o": [
+        "Barium",
+        "Lithium",
+        "Sodium",
+        "Calcium"
+      ],
+      "a": 0,
+      "e": "Barium gives an apple-green flame.",
+      "d": "Easy",
+      "topic": "Flame colours",
+      "slo": "Identify and explain flame colours using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-271"
+    },
+    {
+      "q": "Choose the correct answer for this laboratory question: Which litmus paper is recommended for chlorine gas detection?",
+      "o": [
+        "Dry green paper",
+        "Dry red litmus only",
+        "Uncoated filter paper only",
+        "Damp blue litmus"
+      ],
+      "a": 3,
+      "e": "Damp blue litmus first reddens and then bleaches.",
+      "d": "Medium",
+      "topic": "Chlorine detection",
+      "slo": "Identify and explain chlorine detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-272"
+    },
+    {
+      "q": "In a classroom review of qualitative analysis, which reagent is used to detect sulfur dioxide in the chapter?",
+      "o": [
+        "Clear limewater only",
+        "Acidified potassium permanganate",
+        "Sodium chloride solution",
+        "Damp red litmus only"
+      ],
+      "a": 1,
+      "e": "SO2 decolourizes acidified potassium permanganate.",
+      "d": "Easy",
+      "topic": "Sulfur dioxide detection",
+      "slo": "Identify and explain sulfur dioxide detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-273"
+    },
+    {
+      "q": "In a classroom review of qualitative analysis, which litmus colour is used initially to test for ammonia?",
+      "o": [
+        "Red",
+        "Green",
+        "Blue only",
+        "Purple"
+      ],
+      "a": 0,
+      "e": "Moist red litmus is used because ammonia turns it blue.",
+      "d": "Easy",
+      "topic": "Ammonia detection",
+      "slo": "Identify and explain ammonia detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-274"
+    },
+    {
+      "q": "In a classroom review of qualitative analysis, which solution is used to identify carbon dioxide?",
+      "o": [
+        "Copper sulfate solution",
+        "Distilled ethanol",
+        "Limewater",
+        "Sodium chloride solution"
+      ],
+      "a": 2,
+      "e": "Carbon dioxide turns limewater milky.",
+      "d": "Easy",
+      "topic": "Carbon dioxide detection",
+      "slo": "Identify and explain carbon dioxide detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-275"
+    },
+    {
+      "q": "During a Class 9 qualitative-analysis practical, a student is asked: what colour is potassium permanganate solution before the SO2 test?",
+      "o": [
+        "Green",
+        "Purple",
+        "Yellow",
+        "White"
+      ],
+      "a": 1,
+      "e": "KMnO4 solution is purple.",
+      "d": "Medium",
+      "topic": "Sulfur dioxide detection",
+      "slo": "Identify and explain sulfur dioxide detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-276"
+    },
+    {
+      "q": "Choose the correct answer for this laboratory question: Which test is used to identify selected metal cations?",
+      "o": [
+        "Gravimetric weighing only",
+        "Filtration test",
+        "Flame test",
+        "Boiling-point elevation test"
+      ],
+      "a": 2,
+      "e": "Flame tests use characteristic emission colours of metal ions.",
+      "d": "Medium",
+      "topic": "Qualitative analysis",
+      "slo": "Identify and explain qualitative analysis using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-277"
+    },
+    {
+      "q": "In a classroom review of qualitative analysis, which gas burns with a characteristic pop sound?",
+      "o": [
+        "Hydrogen",
+        "Ammonia",
+        "Oxygen",
+        "Carbon dioxide"
+      ],
+      "a": 0,
+      "e": "Hydrogen ignites with a pop when tested using a burning splint.",
+      "d": "Easy",
+      "topic": "Hydrogen detection",
+      "slo": "Identify and explain hydrogen detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-278"
+    },
+    {
+      "q": "In a classroom review of qualitative analysis, what is the main aim of a confirmatory test?",
+      "o": [
+        "To calculate the mass of the substance",
+        "To provide evidence for the identity of a substance",
+        "To determine a precise percentage",
+        "To measure sample density"
+      ],
+      "a": 1,
+      "e": "A confirmatory test uses a characteristic observation to support identification.",
+      "d": "Easy",
+      "topic": "Qualitative analysis",
+      "slo": "Identify and explain qualitative analysis using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-279"
+    },
+    {
+      "q": "Choose the correct answer for this laboratory question: Which metal ion is associated with a crimson-red flame in the chapter?",
+      "o": [
+        "Lithium",
+        "Sodium",
+        "Barium",
+        "Copper"
+      ],
+      "a": 0,
+      "e": "Lithium produces a crimson-red flame; strontium also gives a red flame.",
+      "d": "Medium",
+      "topic": "Flame colours",
+      "slo": "Identify and explain flame colours using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-280"
+    },
+    {
+      "q": "What happens first to damp blue litmus in chlorine gas?",
+      "o": [
+        "It turns red",
+        "It remains permanently blue",
+        "It turns black",
+        "It turns green"
+      ],
+      "a": 0,
+      "e": "Chlorine forms acidic species in moisture, initially reddening blue litmus.",
+      "d": "Easy",
+      "topic": "Chlorine detection",
+      "slo": "Identify and explain chlorine detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-281"
+    },
+    {
+      "q": "In a classroom review of qualitative analysis, which metal ion is associated with a brick-red flame?",
+      "o": [
+        "Potassium",
+        "Copper",
+        "Calcium",
+        "Sodium"
+      ],
+      "a": 2,
+      "e": "Calcium gives a brick-red flame.",
+      "d": "Easy",
+      "topic": "Flame colours",
+      "slo": "Identify and explain flame colours using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-282"
+    },
+    {
+      "q": "Choose the correct answer for this laboratory question: Which flame colour is expected for Ca2+?",
+      "o": [
+        "Lilac",
+        "Brick red",
+        "Blue-green",
+        "Apple green"
+      ],
+      "a": 1,
+      "e": "Calcium ions give a brick-red flame.",
+      "d": "Medium",
+      "topic": "Flame colours",
+      "slo": "Identify and explain flame colours using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-283"
+    },
+    {
+      "q": "During a Class 9 qualitative-analysis practical, a student is asked: what type of energy is released as electrons return to lower levels?",
+      "o": [
+        "Only mechanical energy",
+        "Only gravitational energy",
+        "Light energy",
+        "No energy"
+      ],
+      "a": 2,
+      "e": "Photons emitted during electron transitions produce visible flame colours.",
+      "d": "Medium",
+      "topic": "Flame test principles",
+      "slo": "Identify and explain flame test principles using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-284"
+    },
+    {
+      "q": "During a Class 9 qualitative-analysis practical, a student is asked: which salt forms when zinc reacts with dilute sulfuric acid?",
+      "o": [
+        "Zinc sulfate",
+        "Zinc chloride",
+        "Zinc nitrate",
+        "Zinc carbonate"
+      ],
+      "a": 0,
+      "e": "Zn + H2SO4 -> ZnSO4 + H2.",
+      "d": "Medium",
+      "topic": "Hydrogen detection",
+      "slo": "Identify and explain hydrogen detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-285"
+    },
+    {
+      "q": "Choose the correct answer for this laboratory question: Which flame colour indicates sodium ions?",
+      "o": [
+        "Lilac purple",
+        "Golden yellow",
+        "Apple green",
+        "Crimson red"
+      ],
+      "a": 1,
+      "e": "Sodium produces a strong golden-yellow flame.",
+      "d": "Medium",
+      "topic": "Flame colours",
+      "slo": "Identify and explain flame colours using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-286"
+    },
+    {
+      "q": "During a Class 9 qualitative-analysis practical, a student is asked: which test is used to identify selected metal cations?",
+      "o": [
+        "Filtration test",
+        "Flame test",
+        "Gravimetric weighing only",
+        "Boiling-point elevation test"
+      ],
+      "a": 1,
+      "e": "Flame tests use characteristic emission colours of metal ions.",
+      "d": "Medium",
+      "topic": "Qualitative analysis",
+      "slo": "Identify and explain qualitative analysis using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-287"
+    },
+    {
+      "q": "Choose the correct answer for this laboratory question: Which is an example of a qualitative gas test?",
+      "o": [
+        "The gas volume is 100 mL",
+        "A glowing splint relights in oxygen",
+        "The gas weighs 1 g",
+        "The gas pressure is 1 atm"
+      ],
+      "a": 1,
+      "e": "A glowing splint relighting indicates oxygen.",
+      "d": "Medium",
+      "topic": "Qualitative analysis",
+      "slo": "Identify and explain qualitative analysis using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-288"
+    },
+    {
+      "q": "Choose the correct answer for this laboratory question: Why is damp litmus preferred to dry litmus for chlorine detection?",
+      "o": [
+        "Water enables the relevant reactions",
+        "Water converts chlorine into ammonia",
+        "Dry litmus is a metal",
+        "Moisture prevents all bleaching"
+      ],
+      "a": 0,
+      "e": "Chlorine reacts in the presence of water to affect and bleach the dye.",
+      "d": "Medium",
+      "topic": "Chlorine detection",
+      "slo": "Identify and explain chlorine detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-289"
+    },
+    {
+      "q": "Choose the correct answer for this laboratory question: What is a common industrial use of ammonia mentioned in the chapter?",
+      "o": [
+        "Producing table sugar",
+        "Manufacture of fertilizers",
+        "Making glass lenses",
+        "Extracting iron from ore"
+      ],
+      "a": 1,
+      "e": "Ammonia is widely used in fertilizer manufacture.",
+      "d": "Medium",
+      "topic": "Ammonia detection",
+      "slo": "Identify and explain ammonia detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-290"
+    },
+    {
+      "q": "In a classroom review of qualitative analysis, which flame colour indicates copper ions?",
+      "o": [
+        "Purple",
+        "Bluish green",
+        "Golden yellow",
+        "Crimson red"
+      ],
+      "a": 1,
+      "e": "Copper produces a bluish-green flame.",
+      "d": "Easy",
+      "topic": "Flame colours",
+      "slo": "Identify and explain flame colours using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-291"
+    },
+    {
+      "q": "During a Class 9 qualitative-analysis practical, a student is asked: which observation is positive for hydrogen rather than oxygen?",
+      "o": [
+        "A glowing splint relights",
+        "A pop with a burning splint",
+        "A milky limewater result",
+        "Bleaching of damp blue litmus"
+      ],
+      "a": 1,
+      "e": "Hydrogen gives a pop test; oxygen relights a glowing splint.",
+      "d": "Medium",
+      "topic": "Hydrogen detection",
+      "slo": "Identify and explain hydrogen detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-292"
+    },
+    {
+      "q": "In a classroom review of qualitative analysis, what is the formula of oxygen gas?",
+      "o": [
+        "O",
+        "O2",
+        "H2O",
+        "O3"
+      ],
+      "a": 1,
+      "e": "Ordinary oxygen gas is diatomic O2.",
+      "d": "Easy",
+      "topic": "Oxygen detection",
+      "slo": "Identify and explain oxygen detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-293"
+    },
+    {
+      "q": "Which equation represents hydrogen combustion?",
+      "o": [
+        "2H2 + O2 -> 2H2O",
+        "H2 + CO2 -> H2O2",
+        "H2 + N2 -> 2H2O",
+        "H2 + Cl2 -> H2O"
+      ],
+      "a": 0,
+      "e": "Hydrogen reacts with oxygen to form water.",
+      "d": "Easy",
+      "topic": "Hydrogen detection",
+      "slo": "Identify and explain hydrogen detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-294"
+    },
+    {
+      "q": "In a classroom review of qualitative analysis, which litmus paper is recommended for chlorine gas detection?",
+      "o": [
+        "Dry green paper",
+        "Uncoated filter paper only",
+        "Dry red litmus only",
+        "Damp blue litmus"
+      ],
+      "a": 3,
+      "e": "Damp blue litmus first reddens and then bleaches.",
+      "d": "Easy",
+      "topic": "Chlorine detection",
+      "slo": "Identify and explain chlorine detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-295"
+    },
+    {
+      "q": "During a Class 9 qualitative-analysis practical, a student is asked: which colour change indicates a positive ammonia test?",
+      "o": [
+        "Blue to red then white",
+        "Red to blue",
+        "Purple to orange",
+        "Green to black"
+      ],
+      "a": 1,
+      "e": "Ammonia turns damp red litmus blue.",
+      "d": "Medium",
+      "topic": "Ammonia detection",
+      "slo": "Identify and explain ammonia detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-296"
+    },
+    {
+      "q": "Which flame colour indicates lithium ions?",
+      "o": [
+        "Blue-green",
+        "Apple green",
+        "Crimson red",
+        "Golden yellow"
+      ],
+      "a": 2,
+      "e": "Lithium produces a crimson-red flame.",
+      "d": "Easy",
+      "topic": "Flame colours",
+      "slo": "Identify and explain flame colours using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-297"
+    },
+    {
+      "q": "During a Class 9 qualitative-analysis practical, a student is asked: what is produced when CO2 reacts with limewater?",
+      "o": [
+        "Calcium metal and chlorine",
+        "Sodium carbonate and hydrogen",
+        "Calcium carbonate and water",
+        "Ammonia and oxygen"
+      ],
+      "a": 2,
+      "e": "CO2 + Ca(OH)2 -> CaCO3 + H2O.",
+      "d": "Medium",
+      "topic": "Carbon dioxide detection",
+      "slo": "Identify and explain carbon dioxide detection using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-298"
+    },
+    {
+      "q": "During a Class 9 qualitative-analysis practical, a student is asked: which observation can support a qualitative identification?",
+      "o": [
+        "An exact numerical mass alone",
+        "A time interval alone",
+        "A measured length alone",
+        "A characteristic colour change"
+      ],
+      "a": 3,
+      "e": "Characteristic chemical changes can indicate the identity of a substance.",
+      "d": "Medium",
+      "topic": "Qualitative analysis",
+      "slo": "Identify and explain qualitative analysis using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-299"
+    },
+    {
+      "q": "During a Class 9 qualitative-analysis practical, a student is asked: which is an example of a qualitative gas test?",
+      "o": [
+        "The gas volume is 100 mL",
+        "The gas pressure is 1 atm",
+        "The gas weighs 1 g",
+        "A glowing splint relights in oxygen"
+      ],
+      "a": 3,
+      "e": "A glowing splint relighting indicates oxygen.",
+      "d": "Medium",
+      "topic": "Qualitative analysis",
+      "slo": "Identify and explain qualitative analysis using the characteristic observations described in Chapter 18.",
+      "id": "CHEM9CH18-300"
+    }
+  ]
+}

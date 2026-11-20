@@ -1,0 +1,4504 @@
+{
+  "questions": [
+    {
+      "id": "CHEM9CH6-001",
+      "q": "What does the empirical formula of a compound represent?",
+      "o": [
+        "Actual number of atoms in each molecule",
+        "Mass of one mole",
+        "Arrangement of atoms in space",
+        "Simplest whole-number ratio of its atoms"
+      ],
+      "a": 3,
+      "e": "Empirical formula expresses the simplest whole-number atom ratio.",
+      "d": "Easy",
+      "topic": "Empirical formula",
+      "slo": "Apply concepts of empirical formula in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-002",
+      "q": "What does a molecular formula show?",
+      "o": [
+        "Only simplest atom ratio",
+        "Actual number of each type of atom in a molecule",
+        "Only percentage composition",
+        "Only bonding angles"
+      ],
+      "a": 1,
+      "e": "A molecular formula gives the actual atom counts per molecule.",
+      "d": "Easy",
+      "topic": "Molecular formula",
+      "slo": "Apply concepts of molecular formula in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-003",
+      "q": "Which formula is an empirical formula for glucose, C6H12O6?",
+      "o": [
+        "C6H12O6",
+        "CH4O",
+        "C2H4O2",
+        "CH2O"
+      ],
+      "a": 3,
+      "e": "Divide all subscripts by their greatest common divisor, 6.",
+      "d": "Easy",
+      "topic": "Empirical formula",
+      "slo": "Apply concepts of empirical formula in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-004",
+      "q": "Which statement about molecular and empirical formulas is correct?",
+      "o": [
+        "They are unrelated",
+        "Empirical formula is always larger",
+        "Molecular formula is a whole-number multiple of empirical formula",
+        "They must always differ"
+      ],
+      "a": 2,
+      "e": "The molecular formula is (empirical formula)n for positive integer n.",
+      "d": "Easy",
+      "topic": "Empirical formula",
+      "slo": "Apply concepts of empirical formula in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-005",
+      "q": "What is the SI unit for amount of substance?",
+      "o": [
+        "litre",
+        "atomic mass unit",
+        "gram",
+        "mole"
+      ],
+      "a": 3,
+      "e": "The mole is the SI base unit for amount of substance.",
+      "d": "Easy",
+      "topic": "Mole concept",
+      "slo": "Apply concepts of mole concept in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-006",
+      "q": "How many elementary entities are in one mole?",
+      "o": [
+        "1.000 × 10^23",
+        "3.011 × 10^23",
+        "6.022 × 10^22",
+        "6.022 × 10^23"
+      ],
+      "a": 3,
+      "e": "One mole contains approximately 6.022 × 10^23 specified entities.",
+      "d": "Easy",
+      "topic": "Avogadro constant",
+      "slo": "Apply concepts of avogadro constant in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-007",
+      "q": "Which expression calculates amount in moles from mass?",
+      "o": [
+        "Mass multiplied by molar mass",
+        "Mass divided by molar mass",
+        "Mass divided by Avogadro constant",
+        "Molar mass divided by mass"
+      ],
+      "a": 1,
+      "e": "n=m/M, with mass and molar mass in compatible units.",
+      "d": "Easy",
+      "topic": "Mole calculations",
+      "slo": "Apply concepts of mole calculations in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-008",
+      "q": "Which expression calculates mass from amount in moles?",
+      "o": [
+        "Moles multiplied by molar mass",
+        "Moles divided by molar mass",
+        "Moles multiplied by Avogadro constant",
+        "Molar mass divided by moles"
+      ],
+      "a": 0,
+      "e": "m=nM.",
+      "d": "Easy",
+      "topic": "Mole calculations",
+      "slo": "Apply concepts of mole calculations in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-009",
+      "q": "What is molar mass?",
+      "o": [
+        "Mass of one mole of a substance",
+        "Volume of one molecule",
+        "Number of atoms in a molecule",
+        "Mass of a single proton"
+      ],
+      "a": 0,
+      "e": "Molar mass is the mass per mole, usually expressed in g/mol.",
+      "d": "Easy",
+      "topic": "Molar mass",
+      "slo": "Apply concepts of molar mass in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-010",
+      "q": "What is the molar mass unit most often used in school calculations?",
+      "o": [
+        "mol/g",
+        "g/L",
+        "atoms/mol",
+        "g/mol"
+      ],
+      "a": 3,
+      "e": "Molar mass is typically expressed as grams per mole.",
+      "d": "Easy",
+      "topic": "Molar mass",
+      "slo": "Apply concepts of molar mass in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-011",
+      "q": "What does a balanced chemical equation conserve?",
+      "o": [
+        "Number of molecules on each side",
+        "Total number of coefficients",
+        "Mass of each individual molecule",
+        "Number of atoms of each element"
+      ],
+      "a": 3,
+      "e": "Atoms are conserved in ordinary chemical reactions.",
+      "d": "Easy",
+      "topic": "Chemical equations",
+      "slo": "Apply concepts of chemical equations in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-012",
+      "q": "Why must chemical equations be balanced before mole-ratio calculations?",
+      "o": [
+        "Coefficients give valid reacting mole ratios",
+        "Subscripts can then be changed",
+        "Products always become gases",
+        "Reactants become equal in mass"
+      ],
+      "a": 0,
+      "e": "Stoichiometric mole ratios come from balanced coefficients.",
+      "d": "Easy",
+      "topic": "Chemical equations",
+      "slo": "Apply concepts of chemical equations in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-013",
+      "q": "What does a coefficient 3 before H2 mean?",
+      "o": [
+        "Three molecules or three moles of H2, depending on scale",
+        "Three hydrogen atoms per molecule",
+        "Three grams of hydrogen",
+        "Three protons per hydrogen atom"
+      ],
+      "a": 0,
+      "e": "A coefficient counts formula units or their mole amounts.",
+      "d": "Easy",
+      "topic": "Chemical equations",
+      "slo": "Apply concepts of chemical equations in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-014",
+      "q": "Which part of a chemical formula must not be changed when balancing an equation?",
+      "o": [
+        "Number of product molecules",
+        "Subscripts within chemical formulas",
+        "Number of reactant molecules",
+        "Coefficients before formulas"
+      ],
+      "a": 1,
+      "e": "Changing a subscript changes the substance itself.",
+      "d": "Easy",
+      "topic": "Chemical equations",
+      "slo": "Apply concepts of chemical equations in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-015",
+      "q": "In 2H2 + O2 → 2H2O, what is the mole ratio H2:O2?",
+      "o": [
+        "2:1",
+        "1:1",
+        "1:2",
+        "2:2"
+      ],
+      "a": 0,
+      "e": "Balanced coefficients show two moles of H2 per mole of O2.",
+      "d": "Easy",
+      "topic": "Mole ratios",
+      "slo": "Apply concepts of mole ratios in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-016",
+      "q": "In 2H2 + O2 → 2H2O, what is the mole ratio O2:H2O?",
+      "o": [
+        "2:1",
+        "1:1",
+        "2:3",
+        "1:2"
+      ],
+      "a": 3,
+      "e": "One mole of O2 produces two moles of water.",
+      "d": "Easy",
+      "topic": "Mole ratios",
+      "slo": "Apply concepts of mole ratios in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-017",
+      "q": "In N2 + 3H2 → 2NH3, what is the ratio N2:NH3?",
+      "o": [
+        "2:1",
+        "1:3",
+        "3:2",
+        "1:2"
+      ],
+      "a": 3,
+      "e": "One mole N2 produces two moles NH3.",
+      "d": "Easy",
+      "topic": "Mole ratios",
+      "slo": "Apply concepts of mole ratios in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-018",
+      "q": "In N2 + 3H2 → 2NH3, what is the ratio H2:NH3?",
+      "o": [
+        "2:3",
+        "3:1",
+        "3:2",
+        "1:2"
+      ],
+      "a": 2,
+      "e": "Three moles H2 yield two moles NH3.",
+      "d": "Easy",
+      "topic": "Mole ratios",
+      "slo": "Apply concepts of mole ratios in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-019",
+      "q": "In 2Mg + O2 → 2MgO, how many moles MgO form per mole Mg?",
+      "o": [
+        "4",
+        "1",
+        "0.5",
+        "2"
+      ],
+      "a": 1,
+      "e": "Mg and MgO have equal coefficients.",
+      "d": "Easy",
+      "topic": "Mole ratios",
+      "slo": "Apply concepts of mole ratios in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-020",
+      "q": "What is the molar mass of a compound found from?",
+      "o": [
+        "Its colour",
+        "Number of reactant molecules",
+        "Its boiling point alone",
+        "Sum of atomic masses in its formula"
+      ],
+      "a": 3,
+      "e": "Add each element atomic mass multiplied by its subscript.",
+      "d": "Easy",
+      "topic": "Molar mass",
+      "slo": "Apply concepts of molar mass in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-021",
+      "q": "Which formula represents an ionic compound rather than a discrete molecule?",
+      "o": [
+        "NaCl",
+        "H2O",
+        "CO2",
+        "NH3"
+      ],
+      "a": 0,
+      "e": "NaCl denotes the simplest ion ratio in an ionic lattice.",
+      "d": "Easy",
+      "topic": "Formula units",
+      "slo": "Apply concepts of formula units in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-022",
+      "q": "What is a formula unit?",
+      "o": [
+        "A unit of gas pressure",
+        "One isolated atom of a metal",
+        "A single covalent bond",
+        "Simplest whole-number ratio of ions in an ionic compound"
+      ],
+      "a": 3,
+      "e": "Formula units describe ionic compounds such as NaCl.",
+      "d": "Easy",
+      "topic": "Formula units",
+      "slo": "Apply concepts of formula units in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-023",
+      "q": "How many moles of atoms are present in one mole of O2 molecules?",
+      "o": [
+        "0.5 mol",
+        "1 mol",
+        "4 mol",
+        "2 mol"
+      ],
+      "a": 3,
+      "e": "Each O2 molecule contains two oxygen atoms.",
+      "d": "Easy",
+      "topic": "Mole concept",
+      "slo": "Apply concepts of mole concept in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-024",
+      "q": "How many moles of hydrogen atoms are in one mole of H2O?",
+      "o": [
+        "1 mol",
+        "3 mol",
+        "2 mol",
+        "0.5 mol"
+      ],
+      "a": 2,
+      "e": "Each water molecule has two hydrogen atoms.",
+      "d": "Easy",
+      "topic": "Mole concept",
+      "slo": "Apply concepts of mole concept in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-025",
+      "q": "How many total moles of atoms are in one mole of CO2?",
+      "o": [
+        "3 mol",
+        "2 mol",
+        "1 mol",
+        "4 mol"
+      ],
+      "a": 0,
+      "e": "Each CO2 molecule contains one carbon and two oxygen atoms.",
+      "d": "Easy",
+      "topic": "Mole concept",
+      "slo": "Apply concepts of mole concept in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-026",
+      "q": "What is the mass of 1 mole of carbon-12 atoms?",
+      "o": [
+        "1 g",
+        "12 g",
+        "6 g",
+        "24 g"
+      ],
+      "a": 1,
+      "e": "The molar mass of carbon-12 is 12 g/mol.",
+      "d": "Easy",
+      "topic": "Molar mass",
+      "slo": "Apply concepts of molar mass in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-027",
+      "q": "Which sample contains more molecules: 1 mol H2 or 1 mol CO2?",
+      "o": [
+        "Cannot be compared without volumes",
+        "1 mol CO2",
+        "Both contain the same number",
+        "1 mol H2"
+      ],
+      "a": 2,
+      "e": "Equal amounts in moles contain equal numbers of specified entities.",
+      "d": "Easy",
+      "topic": "Avogadro constant",
+      "slo": "Apply concepts of avogadro constant in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-028",
+      "q": "What is the relationship between molecular mass in u and molar mass in g/mol?",
+      "o": [
+        "Molar mass is always twice as large",
+        "They are numerically unrelated",
+        "Molecular mass is always 1000 times larger",
+        "They have the same numerical value"
+      ],
+      "a": 3,
+      "e": "Relative molecular mass and molar mass share the numerical value for a given formula.",
+      "d": "Easy",
+      "topic": "Molar mass",
+      "slo": "Apply concepts of molar mass in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-029",
+      "q": "How is the percentage by mass of an element calculated?",
+      "o": [
+        "Element atomic number × 100",
+        "Element mass in formula ÷ formula mass × 100",
+        "Element mass × Avogadro constant",
+        "Formula mass ÷ element mass × 100"
+      ],
+      "a": 1,
+      "e": "Mass percentage uses the element contribution divided by total formula mass.",
+      "d": "Easy",
+      "topic": "Mass composition",
+      "slo": "Apply concepts of mass composition in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-030",
+      "q": "Which equation is correctly balanced?",
+      "o": [
+        "2H2 + 2O2 → H2O",
+        "H2 + O2 → H2O",
+        "H2 + 2O2 → H2O",
+        "2H2 + O2 → 2H2O"
+      ],
+      "a": 3,
+      "e": "The balanced equation contains four H and two O atoms on each side.",
+      "d": "Easy",
+      "topic": "Balancing equations",
+      "slo": "Apply concepts of balancing equations in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-031",
+      "q": "Which equation is correctly balanced for magnesium oxide formation?",
+      "o": [
+        "Mg + 2O2 → MgO",
+        "Mg + O2 → MgO",
+        "2Mg + O2 → MgO",
+        "2Mg + O2 → 2MgO"
+      ],
+      "a": 3,
+      "e": "Two Mg atoms and two O atoms occur on both sides.",
+      "d": "Easy",
+      "topic": "Balancing equations",
+      "slo": "Apply concepts of balancing equations in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-032",
+      "q": "Which equation correctly represents decomposition of calcium carbonate?",
+      "o": [
+        "CaCO3 → CaO + CO",
+        "CaCO3 → Ca + CO3",
+        "2CaCO3 → CaO + CO2",
+        "CaCO3 → CaO + CO2"
+      ],
+      "a": 3,
+      "e": "Ca, C and O atom counts balance in CaCO3 → CaO + CO2.",
+      "d": "Easy",
+      "topic": "Balancing equations",
+      "slo": "Apply concepts of balancing equations in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-033",
+      "q": "In CH4 + 2O2 → CO2 + 2H2O, which coefficient belongs to O2?",
+      "o": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "a": 1,
+      "e": "Two O2 molecules provide four oxygen atoms for the products.",
+      "d": "Easy",
+      "topic": "Balancing equations",
+      "slo": "Apply concepts of balancing equations in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-034",
+      "q": "In 4Fe + 3O2 → 2Fe2O3, what is the coefficient of Fe?",
+      "o": [
+        "2",
+        "4",
+        "6",
+        "3"
+      ],
+      "a": 1,
+      "e": "Four Fe atoms occur in two formula units of Fe2O3.",
+      "d": "Easy",
+      "topic": "Balancing equations",
+      "slo": "Apply concepts of balancing equations in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-035",
+      "q": "What is the chemical formula for ammonia?",
+      "o": [
+        "NH3",
+        "NH4",
+        "NO3",
+        "N2H3"
+      ],
+      "a": 0,
+      "e": "Ammonia consists of one N and three H atoms.",
+      "d": "Easy",
+      "topic": "Chemical formulas",
+      "slo": "Apply concepts of chemical formulas in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-036",
+      "q": "What is the chemical formula for calcium carbonate?",
+      "o": [
+        "CaCO2",
+        "Ca(CO3)2",
+        "CaCO3",
+        "Ca2CO3"
+      ],
+      "a": 2,
+      "e": "Calcium carbonate contains Ca2+ and CO3(2-) in a 1:1 ratio.",
+      "d": "Easy",
+      "topic": "Chemical formulas",
+      "slo": "Apply concepts of chemical formulas in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-037",
+      "q": "Which formula gives the simplest ratio for hydrogen peroxide H2O2?",
+      "o": [
+        "H2O2",
+        "H2O",
+        "HO2",
+        "HO"
+      ],
+      "a": 3,
+      "e": "Divide both subscripts in H2O2 by two.",
+      "d": "Easy",
+      "topic": "Empirical formula",
+      "slo": "Apply concepts of empirical formula in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-038",
+      "q": "Which formula gives the simplest ratio for benzene C6H6?",
+      "o": [
+        "C2H2",
+        "C6H6",
+        "CH",
+        "CH2"
+      ],
+      "a": 2,
+      "e": "Divide carbon and hydrogen subscripts by six.",
+      "d": "Easy",
+      "topic": "Empirical formula",
+      "slo": "Apply concepts of empirical formula in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-039",
+      "q": "What is the empirical formula of ethene C2H4?",
+      "o": [
+        "C2H2",
+        "CH4",
+        "CH2",
+        "C2H4"
+      ],
+      "a": 2,
+      "e": "Divide both subscripts by two.",
+      "d": "Easy",
+      "topic": "Empirical formula",
+      "slo": "Apply concepts of empirical formula in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-040",
+      "q": "If empirical and molecular formulas are identical, what is the multiplier n?",
+      "o": [
+        "0",
+        "2",
+        "1",
+        "10"
+      ],
+      "a": 2,
+      "e": "Molecular formula = n × empirical formula; here n=1.",
+      "d": "Easy",
+      "topic": "Molecular formula",
+      "slo": "Apply concepts of molecular formula in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-041",
+      "q": "Which measurement is required to convert grams of a compound into moles?",
+      "o": [
+        "Molar mass",
+        "Colour",
+        "Density only",
+        "Melting point"
+      ],
+      "a": 0,
+      "e": "Divide the mass by the compound molar mass.",
+      "d": "Easy",
+      "topic": "Mole calculations",
+      "slo": "Apply concepts of mole calculations in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-042",
+      "q": "What is meant by a mole of NaCl?",
+      "o": [
+        "6.022 × 10^23 NaCl molecules in isolation",
+        "6.022 × 10^23 formula units of NaCl",
+        "One sodium atom",
+        "One gram of NaCl"
+      ],
+      "a": 1,
+      "e": "Ionic compounds are counted in formula units.",
+      "d": "Easy",
+      "topic": "Formula units",
+      "slo": "Apply concepts of formula units in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-043",
+      "q": "Why is oxygen written O2 in the reaction H2 + O2 → H2O?",
+      "o": [
+        "Elemental oxygen exists as diatomic molecules under ordinary conditions",
+        "Oxygen has two isotopes only",
+        "Oxygen is an ionic compound",
+        "Each oxygen atom has two protons"
+      ],
+      "a": 0,
+      "e": "Molecular oxygen has two bonded oxygen atoms.",
+      "d": "Easy",
+      "topic": "Chemical equations",
+      "slo": "Apply concepts of chemical equations in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-044",
+      "q": "Which statement is true of Avogadro constant?",
+      "o": [
+        "It gives density of any gas",
+        "It converts moles to numbers of entities",
+        "It converts temperature to pressure",
+        "It is the mass of one electron"
+      ],
+      "a": 1,
+      "e": "N = n × NA.",
+      "d": "Easy",
+      "topic": "Avogadro constant",
+      "slo": "Apply concepts of avogadro constant in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-045",
+      "q": "If the amount of substance doubles, what happens to its number of particles?",
+      "o": [
+        "It doubles",
+        "It becomes four times as large",
+        "It stays constant",
+        "It halves"
+      ],
+      "a": 0,
+      "e": "Particle number is directly proportional to amount in moles.",
+      "d": "Easy",
+      "topic": "Avogadro constant",
+      "slo": "Apply concepts of avogadro constant in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-046",
+      "q": "What information is essential for finding the molecular formula from an empirical formula?",
+      "o": [
+        "Colour of the compound",
+        "Molar mass of the compound",
+        "Atomic number of oxygen alone",
+        "Density of pure water"
+      ],
+      "a": 1,
+      "e": "The empirical formula mass and actual molar mass determine the multiplier.",
+      "d": "Easy",
+      "topic": "Molecular formula",
+      "slo": "Apply concepts of molecular formula in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-047",
+      "q": "What is the empirical formula of C4H8?",
+      "o": [
+        "C2H2",
+        "CH2",
+        "C4H8",
+        "CH4"
+      ],
+      "a": 1,
+      "e": "The 4:8 ratio reduces to 1:2.",
+      "d": "Easy",
+      "topic": "Empirical formula",
+      "slo": "Apply concepts of empirical formula in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-048",
+      "q": "In 2CO + O2 → 2CO2, what is the mole ratio CO:CO2?",
+      "o": [
+        "2:3",
+        "1:2",
+        "1:1",
+        "2:1"
+      ],
+      "a": 2,
+      "e": "Both CO and CO2 have coefficient 2.",
+      "d": "Easy",
+      "topic": "Mole ratios",
+      "slo": "Apply concepts of mole ratios in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-049",
+      "q": "Which substance has molar mass approximately 18 g/mol?",
+      "o": [
+        "O2",
+        "N2",
+        "CO2",
+        "H2O"
+      ],
+      "a": 3,
+      "e": "Water has 2(1)+16=18 g/mol.",
+      "d": "Easy",
+      "topic": "Molar mass",
+      "slo": "Apply concepts of molar mass in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-050",
+      "q": "Which substance has molar mass approximately 44 g/mol?",
+      "o": [
+        "H2O",
+        "CO2",
+        "NH3",
+        "O2"
+      ],
+      "a": 1,
+      "e": "Carbon dioxide has 12+2(16)=44 g/mol.",
+      "d": "Easy",
+      "topic": "Molar mass",
+      "slo": "Apply concepts of molar mass in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-051",
+      "q": "Which substance has molar mass approximately 17 g/mol?",
+      "o": [
+        "CH4",
+        "O2",
+        "NH3",
+        "H2O"
+      ],
+      "a": 2,
+      "e": "Ammonia has 14+3(1)=17 g/mol.",
+      "d": "Easy",
+      "topic": "Molar mass",
+      "slo": "Apply concepts of molar mass in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-052",
+      "q": "What does 2Na + Cl2 → 2NaCl indicate about sodium and NaCl amounts?",
+      "o": [
+        "2 mol Na form 4 mol NaCl",
+        "2 mol Na form 1 mol NaCl",
+        "1 mol Na forms 2 mol NaCl",
+        "2 mol Na form 2 mol NaCl"
+      ],
+      "a": 3,
+      "e": "The coefficients of sodium and sodium chloride are equal.",
+      "d": "Easy",
+      "topic": "Mole ratios",
+      "slo": "Apply concepts of mole ratios in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-053",
+      "q": "What is the mass ratio of hydrogen to oxygen in H2O?",
+      "o": [
+        "1:16",
+        "8:1",
+        "2:1",
+        "1:8"
+      ],
+      "a": 3,
+      "e": "Hydrogen contributes 2 mass units and oxygen 16, giving 1:8.",
+      "d": "Easy",
+      "topic": "Mass composition",
+      "slo": "Apply concepts of mass composition in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-054",
+      "q": "What is the mass ratio of carbon to oxygen in CO2?",
+      "o": [
+        "1:2",
+        "8:3",
+        "3:4",
+        "3:8"
+      ],
+      "a": 3,
+      "e": "Carbon contributes 12 and oxygen 32; 12:32 simplifies to 3:8.",
+      "d": "Easy",
+      "topic": "Mass composition",
+      "slo": "Apply concepts of mass composition in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-055",
+      "q": "In CaCO3 → CaO + CO2, how many moles of CO2 form from one mole CaCO3?",
+      "o": [
+        "3 mol",
+        "0.5 mol",
+        "1 mol",
+        "2 mol"
+      ],
+      "a": 2,
+      "e": "The coefficients are all one.",
+      "d": "Easy",
+      "topic": "Mole ratios",
+      "slo": "Apply concepts of mole ratios in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-056",
+      "q": "What is the correct mole ratio for 2KClO3 → 2KCl + 3O2?",
+      "o": [
+        "2:3 for KClO3:O2",
+        "3:2 for KClO3:O2",
+        "2:1 for KClO3:O2",
+        "1:1 for KClO3:O2"
+      ],
+      "a": 0,
+      "e": "The balanced coefficients are 2 and 3.",
+      "d": "Easy",
+      "topic": "Mole ratios",
+      "slo": "Apply concepts of mole ratios in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-057",
+      "q": "Which formula has an empirical formula identical to its molecular formula?",
+      "o": [
+        "H2O2",
+        "C2H4",
+        "C6H6",
+        "CO2"
+      ],
+      "a": 3,
+      "e": "The subscripts 1 and 2 have no common factor greater than one.",
+      "d": "Easy",
+      "topic": "Empirical formula",
+      "slo": "Apply concepts of empirical formula in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-058",
+      "q": "What does the 2 in Ca(OH)2 signify?",
+      "o": [
+        "Two OH groups per formula unit",
+        "Two moles of calcium",
+        "Two calcium ions",
+        "Two oxygen atoms only, with no hydrogen"
+      ],
+      "a": 0,
+      "e": "The subscript outside brackets multiplies each atom inside the bracket.",
+      "d": "Easy",
+      "topic": "Chemical formulas",
+      "slo": "Apply concepts of chemical formulas in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-059",
+      "q": "How many oxygen atoms are in one formula unit of Al2(SO4)3?",
+      "o": [
+        "12",
+        "3",
+        "4",
+        "7"
+      ],
+      "a": 0,
+      "e": "Three sulfate groups each have four oxygen atoms: 3×4=12.",
+      "d": "Easy",
+      "topic": "Chemical formulas",
+      "slo": "Apply concepts of chemical formulas in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-060",
+      "q": "Which principle is used to balance a chemical equation?",
+      "o": [
+        "Conservation of colour",
+        "Conservation of volume in every reaction",
+        "Conservation of molecule count",
+        "Conservation of mass"
+      ],
+      "a": 3,
+      "e": "Atoms are rearranged, not created or destroyed, in ordinary reactions.",
+      "d": "Easy",
+      "topic": "Balancing equations",
+      "slo": "Apply concepts of balancing equations in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-061",
+      "q": "What is the mass of 0.5 mol of H2O (molar mass 18 g/mol)?",
+      "o": [
+        "18",
+        "36",
+        "9",
+        "18.5"
+      ],
+      "a": 2,
+      "e": "Mass = amount × molar mass = 0.5 × 18 = 9 g.",
+      "d": "Medium",
+      "topic": "Mass from moles",
+      "slo": "Apply concepts of mass from moles in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-062",
+      "q": "What is the mass of 1 mol of CO2 (molar mass 44 g/mol)?",
+      "o": [
+        "88",
+        "66",
+        "45",
+        "44"
+      ],
+      "a": 3,
+      "e": "Mass = amount × molar mass = 1 × 44 = 44 g.",
+      "d": "Medium",
+      "topic": "Mass from moles",
+      "slo": "Apply concepts of mass from moles in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-063",
+      "q": "What is the mass of 1.5 mol of NH3 (molar mass 17 g/mol)?",
+      "o": [
+        "25.5",
+        "11.3333",
+        "18.5",
+        "51"
+      ],
+      "a": 0,
+      "e": "Mass = amount × molar mass = 1.5 × 17 = 25.5 g.",
+      "d": "Medium",
+      "topic": "Mass from moles",
+      "slo": "Apply concepts of mass from moles in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-064",
+      "q": "What is the mass of 2 mol of CH4 (molar mass 16 g/mol)?",
+      "o": [
+        "8",
+        "64",
+        "18",
+        "32"
+      ],
+      "a": 3,
+      "e": "Mass = amount × molar mass = 2 × 16 = 32 g.",
+      "d": "Medium",
+      "topic": "Mass from moles",
+      "slo": "Apply concepts of mass from moles in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-065",
+      "q": "What is the mass of 2.5 mol of O2 (molar mass 32 g/mol)?",
+      "o": [
+        "34.5",
+        "160",
+        "80",
+        "12.8"
+      ],
+      "a": 2,
+      "e": "Mass = amount × molar mass = 2.5 × 32 = 80 g.",
+      "d": "Medium",
+      "topic": "Mass from moles",
+      "slo": "Apply concepts of mass from moles in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-066",
+      "q": "What is the mass of 3 mol of N2 (molar mass 28 g/mol)?",
+      "o": [
+        "168",
+        "84",
+        "9.3333",
+        "31"
+      ],
+      "a": 1,
+      "e": "Mass = amount × molar mass = 3 × 28 = 84 g.",
+      "d": "Medium",
+      "topic": "Mass from moles",
+      "slo": "Apply concepts of mass from moles in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-067",
+      "q": "What is the mass of 4 mol of H2 (molar mass 2 g/mol)?",
+      "o": [
+        "16",
+        "0.5",
+        "6",
+        "8"
+      ],
+      "a": 3,
+      "e": "Mass = amount × molar mass = 4 × 2 = 8 g.",
+      "d": "Medium",
+      "topic": "Mass from moles",
+      "slo": "Apply concepts of mass from moles in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-068",
+      "q": "What is the mass of 5 mol of NaCl (molar mass 58.5 g/mol)?",
+      "o": [
+        "11.7",
+        "63.5",
+        "292.5",
+        "585"
+      ],
+      "a": 2,
+      "e": "Mass = amount × molar mass = 5 × 58.5 = 292.5 g.",
+      "d": "Medium",
+      "topic": "Mass from moles",
+      "slo": "Apply concepts of mass from moles in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-069",
+      "q": "What is the mass of 6 mol of CaCO3 (molar mass 100 g/mol)?",
+      "o": [
+        "1200",
+        "16.6667",
+        "106",
+        "600"
+      ],
+      "a": 3,
+      "e": "Mass = amount × molar mass = 6 × 100 = 600 g.",
+      "d": "Medium",
+      "topic": "Mass from moles",
+      "slo": "Apply concepts of mass from moles in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-070",
+      "q": "What is the mass of 8 mol of MgO (molar mass 40 g/mol)?",
+      "o": [
+        "48",
+        "5",
+        "640",
+        "320"
+      ],
+      "a": 3,
+      "e": "Mass = amount × molar mass = 8 × 40 = 320 g.",
+      "d": "Medium",
+      "topic": "Mass from moles",
+      "slo": "Apply concepts of mass from moles in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-071",
+      "q": "What is the mass of 10 mol of CaO (molar mass 56 g/mol)?",
+      "o": [
+        "5.6",
+        "560",
+        "1120",
+        "66"
+      ],
+      "a": 1,
+      "e": "Mass = amount × molar mass = 10 × 56 = 560 g.",
+      "d": "Medium",
+      "topic": "Mass from moles",
+      "slo": "Apply concepts of mass from moles in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-072",
+      "q": "What is the mass of 12 mol of HCl (molar mass 36.5 g/mol)?",
+      "o": [
+        "438",
+        "876",
+        "48.5",
+        "3.0417"
+      ],
+      "a": 0,
+      "e": "Mass = amount × molar mass = 12 × 36.5 = 438 g.",
+      "d": "Medium",
+      "topic": "Mass from moles",
+      "slo": "Apply concepts of mass from moles in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-073",
+      "q": "What is the mass of 15 mol of SO2 (molar mass 64 g/mol)?",
+      "o": [
+        "79",
+        "1920",
+        "960",
+        "4.2667"
+      ],
+      "a": 2,
+      "e": "Mass = amount × molar mass = 15 × 64 = 960 g.",
+      "d": "Medium",
+      "topic": "Mass from moles",
+      "slo": "Apply concepts of mass from moles in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-074",
+      "q": "What is the mass of 20 mol of SO3 (molar mass 80 g/mol)?",
+      "o": [
+        "100",
+        "1600",
+        "4",
+        "3200"
+      ],
+      "a": 1,
+      "e": "Mass = amount × molar mass = 20 × 80 = 1600 g.",
+      "d": "Medium",
+      "topic": "Mass from moles",
+      "slo": "Apply concepts of mass from moles in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-075",
+      "q": "What is the mass of 25 mol of C2H6 (molar mass 30 g/mol)?",
+      "o": [
+        "1500",
+        "1.2",
+        "55",
+        "750"
+      ],
+      "a": 3,
+      "e": "Mass = amount × molar mass = 25 × 30 = 750 g.",
+      "d": "Medium",
+      "topic": "Mass from moles",
+      "slo": "Apply concepts of mass from moles in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-076",
+      "q": "What is the mass of 30 mol of C2H4 (molar mass 28 g/mol)?",
+      "o": [
+        "840",
+        "0.9333",
+        "58",
+        "1680"
+      ],
+      "a": 0,
+      "e": "Mass = amount × molar mass = 30 × 28 = 840 g.",
+      "d": "Medium",
+      "topic": "Mass from moles",
+      "slo": "Apply concepts of mass from moles in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-077",
+      "q": "What is the mass of 40 mol of C6H12O6 (molar mass 180 g/mol)?",
+      "o": [
+        "4.5",
+        "220",
+        "14400",
+        "7200"
+      ],
+      "a": 3,
+      "e": "Mass = amount × molar mass = 40 × 180 = 7200 g.",
+      "d": "Medium",
+      "topic": "Mass from moles",
+      "slo": "Apply concepts of mass from moles in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-078",
+      "q": "What is the mass of 50 mol of NaOH (molar mass 40 g/mol)?",
+      "o": [
+        "0.8",
+        "90",
+        "2000",
+        "4000"
+      ],
+      "a": 2,
+      "e": "Mass = amount × molar mass = 50 × 40 = 2000 g.",
+      "d": "Medium",
+      "topic": "Mass from moles",
+      "slo": "Apply concepts of mass from moles in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-079",
+      "q": "What is the mass of 60 mol of KCl (molar mass 74.5 g/mol)?",
+      "o": [
+        "1.2417",
+        "8940",
+        "4470",
+        "134.5"
+      ],
+      "a": 2,
+      "e": "Mass = amount × molar mass = 60 × 74.5 = 4470 g.",
+      "d": "Medium",
+      "topic": "Mass from moles",
+      "slo": "Apply concepts of mass from moles in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-080",
+      "q": "What is the mass of 100 mol of H2SO4 (molar mass 98 g/mol)?",
+      "o": [
+        "198",
+        "9800",
+        "0.98",
+        "19600"
+      ],
+      "a": 1,
+      "e": "Mass = amount × molar mass = 100 × 98 = 9800 g.",
+      "d": "Medium",
+      "topic": "Mass from moles",
+      "slo": "Apply concepts of mass from moles in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-081",
+      "q": "A sample contains 4.5 g of H2O (M = 18 g/mol). How many moles are present?",
+      "o": [
+        "0.25",
+        "0.5",
+        "0.125",
+        "1.25"
+      ],
+      "a": 0,
+      "e": "n = m/M = 4.5/18 = 0.25 mol.",
+      "d": "Medium",
+      "topic": "Moles from mass",
+      "slo": "Apply concepts of moles from mass in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-082",
+      "q": "A sample contains 22 g of CO2 (M = 44 g/mol). How many moles are present?",
+      "o": [
+        "0.25",
+        "1.5",
+        "1",
+        "0.5"
+      ],
+      "a": 3,
+      "e": "n = m/M = 22/44 = 0.5 mol.",
+      "d": "Medium",
+      "topic": "Moles from mass",
+      "slo": "Apply concepts of moles from mass in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-083",
+      "q": "A sample contains 12.75 g of NH3 (M = 17 g/mol). How many moles are present?",
+      "o": [
+        "1.5",
+        "0.375",
+        "1.75",
+        "0.75"
+      ],
+      "a": 3,
+      "e": "n = m/M = 12.75/17 = 0.75 mol.",
+      "d": "Medium",
+      "topic": "Moles from mass",
+      "slo": "Apply concepts of moles from mass in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-084",
+      "q": "A sample contains 16 g of CH4 (M = 16 g/mol). How many moles are present?",
+      "o": [
+        "0.5",
+        "1",
+        "3",
+        "2"
+      ],
+      "a": 1,
+      "e": "n = m/M = 16/16 = 1 mol.",
+      "d": "Medium",
+      "topic": "Moles from mass",
+      "slo": "Apply concepts of moles from mass in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-085",
+      "q": "A sample contains 40 g of O2 (M = 32 g/mol). How many moles are present?",
+      "o": [
+        "2.25",
+        "2.5",
+        "1.25",
+        "0.625"
+      ],
+      "a": 2,
+      "e": "n = m/M = 40/32 = 1.25 mol.",
+      "d": "Medium",
+      "topic": "Moles from mass",
+      "slo": "Apply concepts of moles from mass in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-086",
+      "q": "A sample contains 42 g of N2 (M = 28 g/mol). How many moles are present?",
+      "o": [
+        "0.75",
+        "1.5",
+        "2.5",
+        "3"
+      ],
+      "a": 1,
+      "e": "n = m/M = 42/28 = 1.5 mol.",
+      "d": "Medium",
+      "topic": "Moles from mass",
+      "slo": "Apply concepts of moles from mass in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-087",
+      "q": "A sample contains 4 g of H2 (M = 2 g/mol). How many moles are present?",
+      "o": [
+        "3",
+        "2",
+        "1",
+        "4"
+      ],
+      "a": 1,
+      "e": "n = m/M = 4/2 = 2 mol.",
+      "d": "Medium",
+      "topic": "Moles from mass",
+      "slo": "Apply concepts of moles from mass in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-088",
+      "q": "A sample contains 146.25 g of NaCl (M = 58.5 g/mol). How many moles are present?",
+      "o": [
+        "3.5",
+        "1.25",
+        "2.5",
+        "5"
+      ],
+      "a": 2,
+      "e": "n = m/M = 146.25/58.5 = 2.5 mol.",
+      "d": "Medium",
+      "topic": "Moles from mass",
+      "slo": "Apply concepts of moles from mass in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-089",
+      "q": "A sample contains 300 g of CaCO3 (M = 100 g/mol). How many moles are present?",
+      "o": [
+        "6",
+        "3",
+        "4",
+        "1.5"
+      ],
+      "a": 1,
+      "e": "n = m/M = 300/100 = 3 mol.",
+      "d": "Medium",
+      "topic": "Moles from mass",
+      "slo": "Apply concepts of moles from mass in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-090",
+      "q": "A sample contains 160 g of MgO (M = 40 g/mol). How many moles are present?",
+      "o": [
+        "5",
+        "2",
+        "8",
+        "4"
+      ],
+      "a": 3,
+      "e": "n = m/M = 160/40 = 4 mol.",
+      "d": "Medium",
+      "topic": "Moles from mass",
+      "slo": "Apply concepts of moles from mass in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-091",
+      "q": "A sample contains 280 g of CaO (M = 56 g/mol). How many moles are present?",
+      "o": [
+        "2.5",
+        "6",
+        "10",
+        "5"
+      ],
+      "a": 3,
+      "e": "n = m/M = 280/56 = 5 mol.",
+      "d": "Medium",
+      "topic": "Moles from mass",
+      "slo": "Apply concepts of moles from mass in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-092",
+      "q": "A sample contains 219 g of HCl (M = 36.5 g/mol). How many moles are present?",
+      "o": [
+        "6",
+        "3",
+        "12",
+        "7"
+      ],
+      "a": 0,
+      "e": "n = m/M = 219/36.5 = 6 mol.",
+      "d": "Medium",
+      "topic": "Moles from mass",
+      "slo": "Apply concepts of moles from mass in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-093",
+      "q": "A sample contains 512 g of SO2 (M = 64 g/mol). How many moles are present?",
+      "o": [
+        "8",
+        "4",
+        "16",
+        "9"
+      ],
+      "a": 0,
+      "e": "n = m/M = 512/64 = 8 mol.",
+      "d": "Medium",
+      "topic": "Moles from mass",
+      "slo": "Apply concepts of moles from mass in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-094",
+      "q": "A sample contains 800 g of SO3 (M = 80 g/mol). How many moles are present?",
+      "o": [
+        "20",
+        "5",
+        "11",
+        "10"
+      ],
+      "a": 3,
+      "e": "n = m/M = 800/80 = 10 mol.",
+      "d": "Medium",
+      "topic": "Moles from mass",
+      "slo": "Apply concepts of moles from mass in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-095",
+      "q": "A sample contains 360 g of C2H6 (M = 30 g/mol). How many moles are present?",
+      "o": [
+        "12",
+        "6",
+        "24",
+        "13"
+      ],
+      "a": 0,
+      "e": "n = m/M = 360/30 = 12 mol.",
+      "d": "Medium",
+      "topic": "Moles from mass",
+      "slo": "Apply concepts of moles from mass in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-096",
+      "q": "A sample contains 420 g of C2H4 (M = 28 g/mol). How many moles are present?",
+      "o": [
+        "15",
+        "30",
+        "7.5",
+        "16"
+      ],
+      "a": 0,
+      "e": "n = m/M = 420/28 = 15 mol.",
+      "d": "Medium",
+      "topic": "Moles from mass",
+      "slo": "Apply concepts of moles from mass in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-097",
+      "q": "A sample contains 3600 g of C6H12O6 (M = 180 g/mol). How many moles are present?",
+      "o": [
+        "10",
+        "20",
+        "21",
+        "40"
+      ],
+      "a": 1,
+      "e": "n = m/M = 3600/180 = 20 mol.",
+      "d": "Medium",
+      "topic": "Moles from mass",
+      "slo": "Apply concepts of moles from mass in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-098",
+      "q": "A sample contains 1000 g of NaOH (M = 40 g/mol). How many moles are present?",
+      "o": [
+        "12.5",
+        "26",
+        "25",
+        "50"
+      ],
+      "a": 2,
+      "e": "n = m/M = 1000/40 = 25 mol.",
+      "d": "Medium",
+      "topic": "Moles from mass",
+      "slo": "Apply concepts of moles from mass in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-099",
+      "q": "A sample contains 2235 g of KCl (M = 74.5 g/mol). How many moles are present?",
+      "o": [
+        "60",
+        "31",
+        "15",
+        "30"
+      ],
+      "a": 3,
+      "e": "n = m/M = 2235/74.5 = 30 mol.",
+      "d": "Medium",
+      "topic": "Moles from mass",
+      "slo": "Apply concepts of moles from mass in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-100",
+      "q": "A sample contains 3920 g of H2SO4 (M = 98 g/mol). How many moles are present?",
+      "o": [
+        "41",
+        "20",
+        "80",
+        "40"
+      ],
+      "a": 3,
+      "e": "n = m/M = 3920/98 = 40 mol.",
+      "d": "Medium",
+      "topic": "Moles from mass",
+      "slo": "Apply concepts of moles from mass in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-101",
+      "q": "How many particles are in 1 mol of H2O? Use NA = 6.022 × 10^23 mol^-1. Give the numerical coefficient in units of 10^23 particles.",
+      "o": [
+        "9.033",
+        "6.022",
+        "12.044",
+        "3.011"
+      ],
+      "a": 1,
+      "e": "N = nNA = 1 × 6.022 × 10^23 = 6.022 × 10^23 particles.",
+      "d": "Medium",
+      "topic": "Particles from moles",
+      "slo": "Apply concepts of particles from moles in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-102",
+      "q": "How many particles are in 2 mol of CO2? Use NA = 6.022 × 10^23 mol^-1. Give the numerical coefficient in units of 10^23 particles.",
+      "o": [
+        "6.022",
+        "12.044",
+        "18.066",
+        "24.088"
+      ],
+      "a": 1,
+      "e": "N = nNA = 2 × 6.022 × 10^23 = 12.044 × 10^23 particles.",
+      "d": "Medium",
+      "topic": "Particles from moles",
+      "slo": "Apply concepts of particles from moles in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-103",
+      "q": "How many particles are in 3 mol of NH3? Use NA = 6.022 × 10^23 mol^-1. Give the numerical coefficient in units of 10^23 particles.",
+      "o": [
+        "36.132",
+        "24.088",
+        "9.033",
+        "18.066"
+      ],
+      "a": 3,
+      "e": "N = nNA = 3 × 6.022 × 10^23 = 18.066 × 10^23 particles.",
+      "d": "Medium",
+      "topic": "Particles from moles",
+      "slo": "Apply concepts of particles from moles in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-104",
+      "q": "How many particles are in 4 mol of CH4? Use NA = 6.022 × 10^23 mol^-1. Give the numerical coefficient in units of 10^23 particles.",
+      "o": [
+        "48.176",
+        "30.11",
+        "12.044",
+        "24.088"
+      ],
+      "a": 3,
+      "e": "N = nNA = 4 × 6.022 × 10^23 = 24.088 × 10^23 particles.",
+      "d": "Medium",
+      "topic": "Particles from moles",
+      "slo": "Apply concepts of particles from moles in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-105",
+      "q": "How many particles are in 5 mol of O2? Use NA = 6.022 × 10^23 mol^-1. Give the numerical coefficient in units of 10^23 particles.",
+      "o": [
+        "15.055",
+        "36.132",
+        "30.11",
+        "60.22"
+      ],
+      "a": 2,
+      "e": "N = nNA = 5 × 6.022 × 10^23 = 30.11 × 10^23 particles.",
+      "d": "Medium",
+      "topic": "Particles from moles",
+      "slo": "Apply concepts of particles from moles in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-106",
+      "q": "How many particles are in 6 mol of N2? Use NA = 6.022 × 10^23 mol^-1. Give the numerical coefficient in units of 10^23 particles.",
+      "o": [
+        "18.066",
+        "72.264",
+        "42.154",
+        "36.132"
+      ],
+      "a": 3,
+      "e": "N = nNA = 6 × 6.022 × 10^23 = 36.132 × 10^23 particles.",
+      "d": "Medium",
+      "topic": "Particles from moles",
+      "slo": "Apply concepts of particles from moles in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-107",
+      "q": "How many particles are in 7 mol of H2? Use NA = 6.022 × 10^23 mol^-1. Give the numerical coefficient in units of 10^23 particles.",
+      "o": [
+        "84.308",
+        "21.077",
+        "42.154",
+        "48.176"
+      ],
+      "a": 2,
+      "e": "N = nNA = 7 × 6.022 × 10^23 = 42.154 × 10^23 particles.",
+      "d": "Medium",
+      "topic": "Particles from moles",
+      "slo": "Apply concepts of particles from moles in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-108",
+      "q": "How many particles are in 8 mol of NaCl? Use NA = 6.022 × 10^23 mol^-1. Give the numerical coefficient in units of 10^23 particles.",
+      "o": [
+        "54.198",
+        "24.088",
+        "48.176",
+        "96.352"
+      ],
+      "a": 2,
+      "e": "N = nNA = 8 × 6.022 × 10^23 = 48.176 × 10^23 particles.",
+      "d": "Medium",
+      "topic": "Particles from moles",
+      "slo": "Apply concepts of particles from moles in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-109",
+      "q": "How many particles are in 9 mol of CaCO3? Use NA = 6.022 × 10^23 mol^-1. Give the numerical coefficient in units of 10^23 particles.",
+      "o": [
+        "27.099",
+        "108.396",
+        "60.22",
+        "54.198"
+      ],
+      "a": 3,
+      "e": "N = nNA = 9 × 6.022 × 10^23 = 54.198 × 10^23 particles.",
+      "d": "Medium",
+      "topic": "Particles from moles",
+      "slo": "Apply concepts of particles from moles in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-110",
+      "q": "How many particles are in 10 mol of MgO? Use NA = 6.022 × 10^23 mol^-1. Give the numerical coefficient in units of 10^23 particles.",
+      "o": [
+        "120.44",
+        "66.242",
+        "60.22",
+        "30.11"
+      ],
+      "a": 2,
+      "e": "N = nNA = 10 × 6.022 × 10^23 = 60.22 × 10^23 particles.",
+      "d": "Medium",
+      "topic": "Particles from moles",
+      "slo": "Apply concepts of particles from moles in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-111",
+      "q": "How many particles are in 12 mol of CaO? Use NA = 6.022 × 10^23 mol^-1. Give the numerical coefficient in units of 10^23 particles.",
+      "o": [
+        "36.132",
+        "144.528",
+        "72.264",
+        "78.286"
+      ],
+      "a": 2,
+      "e": "N = nNA = 12 × 6.022 × 10^23 = 72.264 × 10^23 particles.",
+      "d": "Medium",
+      "topic": "Particles from moles",
+      "slo": "Apply concepts of particles from moles in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-112",
+      "q": "How many particles are in 15 mol of HCl? Use NA = 6.022 × 10^23 mol^-1. Give the numerical coefficient in units of 10^23 particles.",
+      "o": [
+        "90.33",
+        "180.66",
+        "96.352",
+        "45.165"
+      ],
+      "a": 0,
+      "e": "N = nNA = 15 × 6.022 × 10^23 = 90.33 × 10^23 particles.",
+      "d": "Medium",
+      "topic": "Particles from moles",
+      "slo": "Apply concepts of particles from moles in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-113",
+      "q": "How many particles are in 16 mol of SO2? Use NA = 6.022 × 10^23 mol^-1. Give the numerical coefficient in units of 10^23 particles.",
+      "o": [
+        "96.352",
+        "48.176",
+        "192.704",
+        "102.374"
+      ],
+      "a": 0,
+      "e": "N = nNA = 16 × 6.022 × 10^23 = 96.352 × 10^23 particles.",
+      "d": "Medium",
+      "topic": "Particles from moles",
+      "slo": "Apply concepts of particles from moles in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-114",
+      "q": "How many particles are in 18 mol of SO3? Use NA = 6.022 × 10^23 mol^-1. Give the numerical coefficient in units of 10^23 particles.",
+      "o": [
+        "114.418",
+        "216.792",
+        "108.396",
+        "54.198"
+      ],
+      "a": 2,
+      "e": "N = nNA = 18 × 6.022 × 10^23 = 108.396 × 10^23 particles.",
+      "d": "Medium",
+      "topic": "Particles from moles",
+      "slo": "Apply concepts of particles from moles in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-115",
+      "q": "How many particles are in 20 mol of C2H6? Use NA = 6.022 × 10^23 mol^-1. Give the numerical coefficient in units of 10^23 particles.",
+      "o": [
+        "126.462",
+        "60.22",
+        "120.44",
+        "240.88"
+      ],
+      "a": 2,
+      "e": "N = nNA = 20 × 6.022 × 10^23 = 120.44 × 10^23 particles.",
+      "d": "Medium",
+      "topic": "Particles from moles",
+      "slo": "Apply concepts of particles from moles in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-116",
+      "q": "How many particles are in 24 mol of C2H4? Use NA = 6.022 × 10^23 mol^-1. Give the numerical coefficient in units of 10^23 particles.",
+      "o": [
+        "150.55",
+        "289.056",
+        "72.264",
+        "144.528"
+      ],
+      "a": 3,
+      "e": "N = nNA = 24 × 6.022 × 10^23 = 144.528 × 10^23 particles.",
+      "d": "Medium",
+      "topic": "Particles from moles",
+      "slo": "Apply concepts of particles from moles in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-117",
+      "q": "How many particles are in 25 mol of C6H12O6? Use NA = 6.022 × 10^23 mol^-1. Give the numerical coefficient in units of 10^23 particles.",
+      "o": [
+        "301.1",
+        "75.275",
+        "150.55",
+        "156.572"
+      ],
+      "a": 2,
+      "e": "N = nNA = 25 × 6.022 × 10^23 = 150.55 × 10^23 particles.",
+      "d": "Medium",
+      "topic": "Particles from moles",
+      "slo": "Apply concepts of particles from moles in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-118",
+      "q": "How many particles are in 30 mol of NaOH? Use NA = 6.022 × 10^23 mol^-1. Give the numerical coefficient in units of 10^23 particles.",
+      "o": [
+        "90.33",
+        "361.32",
+        "186.682",
+        "180.66"
+      ],
+      "a": 3,
+      "e": "N = nNA = 30 × 6.022 × 10^23 = 180.66 × 10^23 particles.",
+      "d": "Medium",
+      "topic": "Particles from moles",
+      "slo": "Apply concepts of particles from moles in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-119",
+      "q": "How many particles are in 40 mol of KCl? Use NA = 6.022 × 10^23 mol^-1. Give the numerical coefficient in units of 10^23 particles.",
+      "o": [
+        "481.76",
+        "240.88",
+        "246.902",
+        "120.44"
+      ],
+      "a": 1,
+      "e": "N = nNA = 40 × 6.022 × 10^23 = 240.88 × 10^23 particles.",
+      "d": "Medium",
+      "topic": "Particles from moles",
+      "slo": "Apply concepts of particles from moles in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-120",
+      "q": "How many particles are in 50 mol of H2SO4? Use NA = 6.022 × 10^23 mol^-1. Give the numerical coefficient in units of 10^23 particles.",
+      "o": [
+        "150.55",
+        "301.1",
+        "602.2",
+        "307.122"
+      ],
+      "a": 1,
+      "e": "N = nNA = 50 × 6.022 × 10^23 = 301.1 × 10^23 particles.",
+      "d": "Medium",
+      "topic": "Particles from moles",
+      "slo": "Apply concepts of particles from moles in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-121",
+      "q": "A sample of H2O contains 6.022 × 10^23 formula units or molecules. How many moles does it contain?",
+      "o": [
+        "1.5",
+        "2",
+        "1",
+        "0.5"
+      ],
+      "a": 2,
+      "e": "n = N/NA = 6.022/6.022 = 1 mol.",
+      "d": "Medium",
+      "topic": "Moles from particles",
+      "slo": "Apply concepts of moles from particles in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-122",
+      "q": "A sample of CO2 contains 12.044 × 10^23 formula units or molecules. How many moles does it contain?",
+      "o": [
+        "1",
+        "4",
+        "2",
+        "3"
+      ],
+      "a": 2,
+      "e": "n = N/NA = 12.044/6.022 = 2 mol.",
+      "d": "Medium",
+      "topic": "Moles from particles",
+      "slo": "Apply concepts of moles from particles in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-123",
+      "q": "A sample of NH3 contains 18.066 × 10^23 formula units or molecules. How many moles does it contain?",
+      "o": [
+        "6",
+        "1.5",
+        "4",
+        "3"
+      ],
+      "a": 3,
+      "e": "n = N/NA = 18.066/6.022 = 3 mol.",
+      "d": "Medium",
+      "topic": "Moles from particles",
+      "slo": "Apply concepts of moles from particles in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-124",
+      "q": "A sample of CH4 contains 24.088 × 10^23 formula units or molecules. How many moles does it contain?",
+      "o": [
+        "4",
+        "8",
+        "2",
+        "5"
+      ],
+      "a": 0,
+      "e": "n = N/NA = 24.088/6.022 = 4 mol.",
+      "d": "Medium",
+      "topic": "Moles from particles",
+      "slo": "Apply concepts of moles from particles in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-125",
+      "q": "A sample of O2 contains 30.11 × 10^23 formula units or molecules. How many moles does it contain?",
+      "o": [
+        "10",
+        "5",
+        "2.5",
+        "6"
+      ],
+      "a": 1,
+      "e": "n = N/NA = 30.11/6.022 = 5 mol.",
+      "d": "Medium",
+      "topic": "Moles from particles",
+      "slo": "Apply concepts of moles from particles in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-126",
+      "q": "A sample of N2 contains 36.132 × 10^23 formula units or molecules. How many moles does it contain?",
+      "o": [
+        "3",
+        "6",
+        "7",
+        "12"
+      ],
+      "a": 1,
+      "e": "n = N/NA = 36.132/6.022 = 6 mol.",
+      "d": "Medium",
+      "topic": "Moles from particles",
+      "slo": "Apply concepts of moles from particles in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-127",
+      "q": "A sample of H2 contains 42.154 × 10^23 formula units or molecules. How many moles does it contain?",
+      "o": [
+        "7",
+        "8",
+        "3.5",
+        "14"
+      ],
+      "a": 0,
+      "e": "n = N/NA = 42.154/6.022 = 7 mol.",
+      "d": "Medium",
+      "topic": "Moles from particles",
+      "slo": "Apply concepts of moles from particles in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-128",
+      "q": "A sample of NaCl contains 48.176 × 10^23 formula units or molecules. How many moles does it contain?",
+      "o": [
+        "8",
+        "16",
+        "4",
+        "9"
+      ],
+      "a": 0,
+      "e": "n = N/NA = 48.176/6.022 = 8 mol.",
+      "d": "Medium",
+      "topic": "Moles from particles",
+      "slo": "Apply concepts of moles from particles in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-129",
+      "q": "A sample of CaCO3 contains 54.198 × 10^23 formula units or molecules. How many moles does it contain?",
+      "o": [
+        "10",
+        "18",
+        "4.5",
+        "9"
+      ],
+      "a": 3,
+      "e": "n = N/NA = 54.198/6.022 = 9 mol.",
+      "d": "Medium",
+      "topic": "Moles from particles",
+      "slo": "Apply concepts of moles from particles in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-130",
+      "q": "A sample of MgO contains 60.22 × 10^23 formula units or molecules. How many moles does it contain?",
+      "o": [
+        "10",
+        "5",
+        "20",
+        "11"
+      ],
+      "a": 0,
+      "e": "n = N/NA = 60.22/6.022 = 10 mol.",
+      "d": "Medium",
+      "topic": "Moles from particles",
+      "slo": "Apply concepts of moles from particles in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-131",
+      "q": "A sample of CaO contains 72.264 × 10^23 formula units or molecules. How many moles does it contain?",
+      "o": [
+        "24",
+        "13",
+        "12",
+        "6"
+      ],
+      "a": 2,
+      "e": "n = N/NA = 72.264/6.022 = 12 mol.",
+      "d": "Medium",
+      "topic": "Moles from particles",
+      "slo": "Apply concepts of moles from particles in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-132",
+      "q": "A sample of HCl contains 90.33 × 10^23 formula units or molecules. How many moles does it contain?",
+      "o": [
+        "7.5",
+        "16",
+        "30",
+        "15"
+      ],
+      "a": 3,
+      "e": "n = N/NA = 90.33/6.022 = 15 mol.",
+      "d": "Medium",
+      "topic": "Moles from particles",
+      "slo": "Apply concepts of moles from particles in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-133",
+      "q": "A sample of SO2 contains 96.352 × 10^23 formula units or molecules. How many moles does it contain?",
+      "o": [
+        "32",
+        "17",
+        "16",
+        "8"
+      ],
+      "a": 2,
+      "e": "n = N/NA = 96.352/6.022 = 16 mol.",
+      "d": "Medium",
+      "topic": "Moles from particles",
+      "slo": "Apply concepts of moles from particles in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-134",
+      "q": "A sample of SO3 contains 108.396 × 10^23 formula units or molecules. How many moles does it contain?",
+      "o": [
+        "18",
+        "36",
+        "19",
+        "9"
+      ],
+      "a": 0,
+      "e": "n = N/NA = 108.396/6.022 = 18 mol.",
+      "d": "Medium",
+      "topic": "Moles from particles",
+      "slo": "Apply concepts of moles from particles in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-135",
+      "q": "A sample of C2H6 contains 120.44 × 10^23 formula units or molecules. How many moles does it contain?",
+      "o": [
+        "40",
+        "10",
+        "20",
+        "21"
+      ],
+      "a": 2,
+      "e": "n = N/NA = 120.44/6.022 = 20 mol.",
+      "d": "Medium",
+      "topic": "Moles from particles",
+      "slo": "Apply concepts of moles from particles in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-136",
+      "q": "A sample of C2H4 contains 144.528 × 10^23 formula units or molecules. How many moles does it contain?",
+      "o": [
+        "24",
+        "12",
+        "48",
+        "25"
+      ],
+      "a": 0,
+      "e": "n = N/NA = 144.528/6.022 = 24 mol.",
+      "d": "Medium",
+      "topic": "Moles from particles",
+      "slo": "Apply concepts of moles from particles in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-137",
+      "q": "A sample of C6H12O6 contains 150.55 × 10^23 formula units or molecules. How many moles does it contain?",
+      "o": [
+        "26",
+        "12.5",
+        "25",
+        "50"
+      ],
+      "a": 2,
+      "e": "n = N/NA = 150.55/6.022 = 25 mol.",
+      "d": "Medium",
+      "topic": "Moles from particles",
+      "slo": "Apply concepts of moles from particles in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-138",
+      "q": "A sample of NaOH contains 180.66 × 10^23 formula units or molecules. How many moles does it contain?",
+      "o": [
+        "31",
+        "60",
+        "15",
+        "30"
+      ],
+      "a": 3,
+      "e": "n = N/NA = 180.66/6.022 = 30 mol.",
+      "d": "Medium",
+      "topic": "Moles from particles",
+      "slo": "Apply concepts of moles from particles in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-139",
+      "q": "A sample of KCl contains 240.88 × 10^23 formula units or molecules. How many moles does it contain?",
+      "o": [
+        "41",
+        "40",
+        "20",
+        "80"
+      ],
+      "a": 1,
+      "e": "n = N/NA = 240.88/6.022 = 40 mol.",
+      "d": "Medium",
+      "topic": "Moles from particles",
+      "slo": "Apply concepts of moles from particles in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-140",
+      "q": "A sample of H2SO4 contains 301.1 × 10^23 formula units or molecules. How many moles does it contain?",
+      "o": [
+        "51",
+        "25",
+        "50",
+        "100"
+      ],
+      "a": 2,
+      "e": "n = N/NA = 301.1/6.022 = 50 mol.",
+      "d": "Medium",
+      "topic": "Moles from particles",
+      "slo": "Apply concepts of moles from particles in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-141",
+      "q": "What is the mass in grams of 12.044 × 10^23 particles of H2O (M = 18 g/mol)?",
+      "o": [
+        "54",
+        "72",
+        "36",
+        "18"
+      ],
+      "a": 2,
+      "e": "12.044 × 10^23 particles correspond to 2 mol, so mass = 2 × 18 = 36 g.",
+      "d": "Medium",
+      "topic": "Particle-to-mass conversion",
+      "slo": "Apply concepts of particle-to-mass conversion in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-142",
+      "q": "What is the mass in grams of 18.066 × 10^23 particles of CO2 (M = 44 g/mol)?",
+      "o": [
+        "264",
+        "132",
+        "66",
+        "176"
+      ],
+      "a": 1,
+      "e": "18.066 × 10^23 particles correspond to 3 mol, so mass = 3 × 44 = 132 g.",
+      "d": "Medium",
+      "topic": "Particle-to-mass conversion",
+      "slo": "Apply concepts of particle-to-mass conversion in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-143",
+      "q": "What is the mass in grams of 24.088 × 10^23 particles of NH3 (M = 17 g/mol)?",
+      "o": [
+        "85",
+        "68",
+        "34",
+        "136"
+      ],
+      "a": 1,
+      "e": "24.088 × 10^23 particles correspond to 4 mol, so mass = 4 × 17 = 68 g.",
+      "d": "Medium",
+      "topic": "Particle-to-mass conversion",
+      "slo": "Apply concepts of particle-to-mass conversion in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-144",
+      "q": "What is the mass in grams of 30.11 × 10^23 particles of CH4 (M = 16 g/mol)?",
+      "o": [
+        "80",
+        "160",
+        "96",
+        "40"
+      ],
+      "a": 0,
+      "e": "30.11 × 10^23 particles correspond to 5 mol, so mass = 5 × 16 = 80 g.",
+      "d": "Medium",
+      "topic": "Particle-to-mass conversion",
+      "slo": "Apply concepts of particle-to-mass conversion in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-145",
+      "q": "What is the mass in grams of 36.132 × 10^23 particles of O2 (M = 32 g/mol)?",
+      "o": [
+        "224",
+        "96",
+        "192",
+        "384"
+      ],
+      "a": 2,
+      "e": "36.132 × 10^23 particles correspond to 6 mol, so mass = 6 × 32 = 192 g.",
+      "d": "Medium",
+      "topic": "Particle-to-mass conversion",
+      "slo": "Apply concepts of particle-to-mass conversion in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-146",
+      "q": "What is the mass in grams of 42.154 × 10^23 particles of N2 (M = 28 g/mol)?",
+      "o": [
+        "224",
+        "196",
+        "392",
+        "98"
+      ],
+      "a": 1,
+      "e": "42.154 × 10^23 particles correspond to 7 mol, so mass = 7 × 28 = 196 g.",
+      "d": "Medium",
+      "topic": "Particle-to-mass conversion",
+      "slo": "Apply concepts of particle-to-mass conversion in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-147",
+      "q": "What is the mass in grams of 48.176 × 10^23 particles of H2 (M = 2 g/mol)?",
+      "o": [
+        "32",
+        "16",
+        "8",
+        "18"
+      ],
+      "a": 1,
+      "e": "48.176 × 10^23 particles correspond to 8 mol, so mass = 8 × 2 = 16 g.",
+      "d": "Medium",
+      "topic": "Particle-to-mass conversion",
+      "slo": "Apply concepts of particle-to-mass conversion in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-148",
+      "q": "What is the mass in grams of 54.198 × 10^23 particles of NaCl (M = 58.5 g/mol)?",
+      "o": [
+        "585",
+        "526.5",
+        "1053",
+        "263.25"
+      ],
+      "a": 1,
+      "e": "54.198 × 10^23 particles correspond to 9 mol, so mass = 9 × 58.5 = 526.5 g.",
+      "d": "Medium",
+      "topic": "Particle-to-mass conversion",
+      "slo": "Apply concepts of particle-to-mass conversion in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-149",
+      "q": "What is the mass in grams of 60.22 × 10^23 particles of CaCO3 (M = 100 g/mol)?",
+      "o": [
+        "1100",
+        "1000",
+        "2000",
+        "500"
+      ],
+      "a": 1,
+      "e": "60.22 × 10^23 particles correspond to 10 mol, so mass = 10 × 100 = 1000 g.",
+      "d": "Medium",
+      "topic": "Particle-to-mass conversion",
+      "slo": "Apply concepts of particle-to-mass conversion in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-150",
+      "q": "What is the mass in grams of 72.264 × 10^23 particles of MgO (M = 40 g/mol)?",
+      "o": [
+        "520",
+        "240",
+        "960",
+        "480"
+      ],
+      "a": 3,
+      "e": "72.264 × 10^23 particles correspond to 12 mol, so mass = 12 × 40 = 480 g.",
+      "d": "Medium",
+      "topic": "Particle-to-mass conversion",
+      "slo": "Apply concepts of particle-to-mass conversion in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-151",
+      "q": "What is the mass in grams of 84.308 × 10^23 particles of CaO (M = 56 g/mol)?",
+      "o": [
+        "392",
+        "840",
+        "1568",
+        "784"
+      ],
+      "a": 3,
+      "e": "84.308 × 10^23 particles correspond to 14 mol, so mass = 14 × 56 = 784 g.",
+      "d": "Medium",
+      "topic": "Particle-to-mass conversion",
+      "slo": "Apply concepts of particle-to-mass conversion in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-152",
+      "q": "What is the mass in grams of 90.33 × 10^23 particles of HCl (M = 36.5 g/mol)?",
+      "o": [
+        "547.5",
+        "1095",
+        "584",
+        "273.75"
+      ],
+      "a": 0,
+      "e": "90.33 × 10^23 particles correspond to 15 mol, so mass = 15 × 36.5 = 547.5 g.",
+      "d": "Medium",
+      "topic": "Particle-to-mass conversion",
+      "slo": "Apply concepts of particle-to-mass conversion in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-153",
+      "q": "What is the mass in grams of 96.352 × 10^23 particles of SO2 (M = 64 g/mol)?",
+      "o": [
+        "1024",
+        "2048",
+        "512",
+        "1088"
+      ],
+      "a": 0,
+      "e": "96.352 × 10^23 particles correspond to 16 mol, so mass = 16 × 64 = 1024 g.",
+      "d": "Medium",
+      "topic": "Particle-to-mass conversion",
+      "slo": "Apply concepts of particle-to-mass conversion in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-154",
+      "q": "What is the mass in grams of 108.396 × 10^23 particles of SO3 (M = 80 g/mol)?",
+      "o": [
+        "1520",
+        "2880",
+        "720",
+        "1440"
+      ],
+      "a": 3,
+      "e": "108.396 × 10^23 particles correspond to 18 mol, so mass = 18 × 80 = 1440 g.",
+      "d": "Medium",
+      "topic": "Particle-to-mass conversion",
+      "slo": "Apply concepts of particle-to-mass conversion in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-155",
+      "q": "What is the mass in grams of 120.44 × 10^23 particles of C2H6 (M = 30 g/mol)?",
+      "o": [
+        "300",
+        "600",
+        "1200",
+        "630"
+      ],
+      "a": 1,
+      "e": "120.44 × 10^23 particles correspond to 20 mol, so mass = 20 × 30 = 600 g.",
+      "d": "Medium",
+      "topic": "Particle-to-mass conversion",
+      "slo": "Apply concepts of particle-to-mass conversion in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-156",
+      "q": "What is the mass in grams of 132.484 × 10^23 particles of C2H4 (M = 28 g/mol)?",
+      "o": [
+        "308",
+        "1232",
+        "616",
+        "644"
+      ],
+      "a": 2,
+      "e": "132.484 × 10^23 particles correspond to 22 mol, so mass = 22 × 28 = 616 g.",
+      "d": "Medium",
+      "topic": "Particle-to-mass conversion",
+      "slo": "Apply concepts of particle-to-mass conversion in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-157",
+      "q": "What is the mass in grams of 144.528 × 10^23 particles of C6H12O6 (M = 180 g/mol)?",
+      "o": [
+        "4320",
+        "2160",
+        "4500",
+        "8640"
+      ],
+      "a": 0,
+      "e": "144.528 × 10^23 particles correspond to 24 mol, so mass = 24 × 180 = 4320 g.",
+      "d": "Medium",
+      "topic": "Particle-to-mass conversion",
+      "slo": "Apply concepts of particle-to-mass conversion in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-158",
+      "q": "What is the mass in grams of 150.55 × 10^23 particles of NaOH (M = 40 g/mol)?",
+      "o": [
+        "1040",
+        "2000",
+        "1000",
+        "500"
+      ],
+      "a": 2,
+      "e": "150.55 × 10^23 particles correspond to 25 mol, so mass = 25 × 40 = 1000 g.",
+      "d": "Medium",
+      "topic": "Particle-to-mass conversion",
+      "slo": "Apply concepts of particle-to-mass conversion in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-159",
+      "q": "What is the mass in grams of 168.616 × 10^23 particles of KCl (M = 74.5 g/mol)?",
+      "o": [
+        "4172",
+        "2086",
+        "1043",
+        "2160.5"
+      ],
+      "a": 1,
+      "e": "168.616 × 10^23 particles correspond to 28 mol, so mass = 28 × 74.5 = 2086 g.",
+      "d": "Medium",
+      "topic": "Particle-to-mass conversion",
+      "slo": "Apply concepts of particle-to-mass conversion in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-160",
+      "q": "What is the mass in grams of 180.66 × 10^23 particles of H2SO4 (M = 98 g/mol)?",
+      "o": [
+        "1470",
+        "5880",
+        "3038",
+        "2940"
+      ],
+      "a": 3,
+      "e": "180.66 × 10^23 particles correspond to 30 mol, so mass = 30 × 98 = 2940 g.",
+      "d": "Medium",
+      "topic": "Particle-to-mass conversion",
+      "slo": "Apply concepts of particle-to-mass conversion in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-161",
+      "q": "How many moles of atoms in total are contained in 2 mol of H2O molecules?",
+      "o": [
+        "6",
+        "5",
+        "4",
+        "8"
+      ],
+      "a": 0,
+      "e": "Each H2O molecule has 3 atoms, so 2 mol molecules contain 2 × 3 = 6 mol atoms.",
+      "d": "Medium",
+      "topic": "Atoms in molecules",
+      "slo": "Apply concepts of atoms in molecules in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-162",
+      "q": "How many moles of atoms in total are contained in 3 mol of CO2 molecules?",
+      "o": [
+        "6",
+        "12",
+        "9",
+        "13.5"
+      ],
+      "a": 2,
+      "e": "Each CO2 molecule has 3 atoms, so 3 mol molecules contain 3 × 3 = 9 mol atoms.",
+      "d": "Medium",
+      "topic": "Atoms in molecules",
+      "slo": "Apply concepts of atoms in molecules in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-163",
+      "q": "How many moles of atoms in total are contained in 4 mol of NH3 molecules?",
+      "o": [
+        "8",
+        "12",
+        "20",
+        "16"
+      ],
+      "a": 3,
+      "e": "Each NH3 molecule has 4 atoms, so 4 mol molecules contain 4 × 4 = 16 mol atoms.",
+      "d": "Medium",
+      "topic": "Atoms in molecules",
+      "slo": "Apply concepts of atoms in molecules in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-164",
+      "q": "How many moles of atoms in total are contained in 5 mol of CH4 molecules?",
+      "o": [
+        "20",
+        "25",
+        "30",
+        "10"
+      ],
+      "a": 1,
+      "e": "Each CH4 molecule has 5 atoms, so 5 mol molecules contain 5 × 5 = 25 mol atoms.",
+      "d": "Medium",
+      "topic": "Atoms in molecules",
+      "slo": "Apply concepts of atoms in molecules in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-165",
+      "q": "How many moles of atoms in total are contained in 6 mol of O2 molecules?",
+      "o": [
+        "18",
+        "8",
+        "6",
+        "12"
+      ],
+      "a": 3,
+      "e": "Each O2 molecule has 2 atoms, so 6 mol molecules contain 6 × 2 = 12 mol atoms.",
+      "d": "Medium",
+      "topic": "Atoms in molecules",
+      "slo": "Apply concepts of atoms in molecules in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-166",
+      "q": "How many moles of atoms in total are contained in 7 mol of N2 molecules?",
+      "o": [
+        "7",
+        "14",
+        "9",
+        "21"
+      ],
+      "a": 1,
+      "e": "Each N2 molecule has 2 atoms, so 7 mol molecules contain 7 × 2 = 14 mol atoms.",
+      "d": "Medium",
+      "topic": "Atoms in molecules",
+      "slo": "Apply concepts of atoms in molecules in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-167",
+      "q": "How many moles of atoms in total are contained in 8 mol of H2 molecules?",
+      "o": [
+        "8",
+        "16",
+        "10",
+        "24"
+      ],
+      "a": 1,
+      "e": "Each H2 molecule has 2 atoms, so 8 mol molecules contain 8 × 2 = 16 mol atoms.",
+      "d": "Medium",
+      "topic": "Atoms in molecules",
+      "slo": "Apply concepts of atoms in molecules in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-168",
+      "q": "How many moles of atoms in total are contained in 9 mol of H2SO4 molecules?",
+      "o": [
+        "16",
+        "63",
+        "72",
+        "54"
+      ],
+      "a": 1,
+      "e": "Each H2SO4 molecule has 7 atoms, so 9 mol molecules contain 9 × 7 = 63 mol atoms.",
+      "d": "Medium",
+      "topic": "Atoms in molecules",
+      "slo": "Apply concepts of atoms in molecules in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-169",
+      "q": "How many moles of atoms in total are contained in 10 mol of CaCO3 molecules?",
+      "o": [
+        "50",
+        "15",
+        "60",
+        "40"
+      ],
+      "a": 0,
+      "e": "Each CaCO3 molecule has 5 atoms, so 10 mol molecules contain 10 × 5 = 50 mol atoms.",
+      "d": "Medium",
+      "topic": "Atoms in molecules",
+      "slo": "Apply concepts of atoms in molecules in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-170",
+      "q": "How many moles of atoms in total are contained in 11 mol of C6H12O6 molecules?",
+      "o": [
+        "35",
+        "253",
+        "264",
+        "275"
+      ],
+      "a": 2,
+      "e": "Each C6H12O6 molecule has 24 atoms, so 11 mol molecules contain 11 × 24 = 264 mol atoms.",
+      "d": "Medium",
+      "topic": "Atoms in molecules",
+      "slo": "Apply concepts of atoms in molecules in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-171",
+      "q": "How many moles of atoms in total are contained in 12 mol of SO2 molecules?",
+      "o": [
+        "15",
+        "48",
+        "24",
+        "36"
+      ],
+      "a": 3,
+      "e": "Each SO2 molecule has 3 atoms, so 12 mol molecules contain 12 × 3 = 36 mol atoms.",
+      "d": "Medium",
+      "topic": "Atoms in molecules",
+      "slo": "Apply concepts of atoms in molecules in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-172",
+      "q": "How many moles of atoms in total are contained in 13 mol of SO3 molecules?",
+      "o": [
+        "17",
+        "52",
+        "39",
+        "65"
+      ],
+      "a": 1,
+      "e": "Each SO3 molecule has 4 atoms, so 13 mol molecules contain 13 × 4 = 52 mol atoms.",
+      "d": "Medium",
+      "topic": "Atoms in molecules",
+      "slo": "Apply concepts of atoms in molecules in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-173",
+      "q": "How many moles of atoms in total are contained in 14 mol of C2H6 molecules?",
+      "o": [
+        "98",
+        "112",
+        "126",
+        "22"
+      ],
+      "a": 1,
+      "e": "Each C2H6 molecule has 8 atoms, so 14 mol molecules contain 14 × 8 = 112 mol atoms.",
+      "d": "Medium",
+      "topic": "Atoms in molecules",
+      "slo": "Apply concepts of atoms in molecules in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-174",
+      "q": "How many moles of atoms in total are contained in 15 mol of C2H4 molecules?",
+      "o": [
+        "21",
+        "105",
+        "75",
+        "90"
+      ],
+      "a": 3,
+      "e": "Each C2H4 molecule has 6 atoms, so 15 mol molecules contain 15 × 6 = 90 mol atoms.",
+      "d": "Medium",
+      "topic": "Atoms in molecules",
+      "slo": "Apply concepts of atoms in molecules in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-175",
+      "q": "How many moles of atoms in total are contained in 16 mol of HCl molecules?",
+      "o": [
+        "18",
+        "16",
+        "48",
+        "32"
+      ],
+      "a": 3,
+      "e": "Each HCl molecule has 2 atoms, so 16 mol molecules contain 16 × 2 = 32 mol atoms.",
+      "d": "Medium",
+      "topic": "Atoms in molecules",
+      "slo": "Apply concepts of atoms in molecules in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-176",
+      "q": "How many moles of atoms in total are contained in 17 mol of NaOH molecules?",
+      "o": [
+        "34",
+        "68",
+        "20",
+        "51"
+      ],
+      "a": 3,
+      "e": "Each NaOH molecule has 3 atoms, so 17 mol molecules contain 17 × 3 = 51 mol atoms.",
+      "d": "Medium",
+      "topic": "Atoms in molecules",
+      "slo": "Apply concepts of atoms in molecules in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-177",
+      "q": "How many moles of atoms in total are contained in 18 mol of C2H5OH molecules?",
+      "o": [
+        "27",
+        "162",
+        "144",
+        "180"
+      ],
+      "a": 1,
+      "e": "Each C2H5OH molecule has 9 atoms, so 18 mol molecules contain 18 × 9 = 162 mol atoms.",
+      "d": "Medium",
+      "topic": "Atoms in molecules",
+      "slo": "Apply concepts of atoms in molecules in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-178",
+      "q": "How many moles of atoms in total are contained in 19 mol of HNO3 molecules?",
+      "o": [
+        "95",
+        "114",
+        "24",
+        "76"
+      ],
+      "a": 0,
+      "e": "Each HNO3 molecule has 5 atoms, so 19 mol molecules contain 19 × 5 = 95 mol atoms.",
+      "d": "Medium",
+      "topic": "Atoms in molecules",
+      "slo": "Apply concepts of atoms in molecules in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-179",
+      "q": "How many moles of atoms in total are contained in 20 mol of H3PO4 molecules?",
+      "o": [
+        "140",
+        "28",
+        "180",
+        "160"
+      ],
+      "a": 3,
+      "e": "Each H3PO4 molecule has 8 atoms, so 20 mol molecules contain 20 × 8 = 160 mol atoms.",
+      "d": "Medium",
+      "topic": "Atoms in molecules",
+      "slo": "Apply concepts of atoms in molecules in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-180",
+      "q": "How many moles of atoms in total are contained in 21 mol of H2O2 molecules?",
+      "o": [
+        "84",
+        "25",
+        "105",
+        "63"
+      ],
+      "a": 0,
+      "e": "Each H2O2 molecule has 4 atoms, so 21 mol molecules contain 21 × 4 = 84 mol atoms.",
+      "d": "Medium",
+      "topic": "Atoms in molecules",
+      "slo": "Apply concepts of atoms in molecules in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-181",
+      "q": "How many moles of H atoms are present in 2 mol of H2O molecules?",
+      "o": [
+        "8",
+        "5",
+        "4",
+        "6"
+      ],
+      "a": 2,
+      "e": "Each H2O molecule contains 2 H atoms, giving 2 × 2 = 4 mol of H atoms.",
+      "d": "Medium",
+      "topic": "Element atoms in molecules",
+      "slo": "Apply concepts of element atoms in molecules in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-182",
+      "q": "How many moles of O atoms are present in 3 mol of CO2 molecules?",
+      "o": [
+        "9",
+        "12",
+        "6",
+        "7"
+      ],
+      "a": 2,
+      "e": "Each CO2 molecule contains 2 O atoms, giving 3 × 2 = 6 mol of O atoms.",
+      "d": "Medium",
+      "topic": "Element atoms in molecules",
+      "slo": "Apply concepts of element atoms in molecules in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-183",
+      "q": "How many moles of H atoms are present in 4 mol of NH3 molecules?",
+      "o": [
+        "13",
+        "16",
+        "12",
+        "20"
+      ],
+      "a": 2,
+      "e": "Each NH3 molecule contains 3 H atoms, giving 4 × 3 = 12 mol of H atoms.",
+      "d": "Medium",
+      "topic": "Element atoms in molecules",
+      "slo": "Apply concepts of element atoms in molecules in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-184",
+      "q": "How many moles of H atoms are present in 5 mol of CH4 molecules?",
+      "o": [
+        "25",
+        "30",
+        "20",
+        "21"
+      ],
+      "a": 2,
+      "e": "Each CH4 molecule contains 4 H atoms, giving 5 × 4 = 20 mol of H atoms.",
+      "d": "Medium",
+      "topic": "Element atoms in molecules",
+      "slo": "Apply concepts of element atoms in molecules in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-185",
+      "q": "How many moles of O atoms are present in 6 mol of O2 molecules?",
+      "o": [
+        "18",
+        "13",
+        "24",
+        "12"
+      ],
+      "a": 3,
+      "e": "Each O2 molecule contains 2 O atoms, giving 6 × 2 = 12 mol of O atoms.",
+      "d": "Medium",
+      "topic": "Element atoms in molecules",
+      "slo": "Apply concepts of element atoms in molecules in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-186",
+      "q": "How many moles of N atoms are present in 7 mol of N2 molecules?",
+      "o": [
+        "15",
+        "21",
+        "28",
+        "14"
+      ],
+      "a": 3,
+      "e": "Each N2 molecule contains 2 N atoms, giving 7 × 2 = 14 mol of N atoms.",
+      "d": "Medium",
+      "topic": "Element atoms in molecules",
+      "slo": "Apply concepts of element atoms in molecules in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-187",
+      "q": "How many moles of H atoms are present in 8 mol of H2 molecules?",
+      "o": [
+        "16",
+        "24",
+        "32",
+        "17"
+      ],
+      "a": 0,
+      "e": "Each H2 molecule contains 2 H atoms, giving 8 × 2 = 16 mol of H atoms.",
+      "d": "Medium",
+      "topic": "Element atoms in molecules",
+      "slo": "Apply concepts of element atoms in molecules in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-188",
+      "q": "How many moles of H atoms are present in 9 mol of H2SO4 molecules?",
+      "o": [
+        "18",
+        "27",
+        "36",
+        "19"
+      ],
+      "a": 0,
+      "e": "Each H2SO4 molecule contains 2 H atoms, giving 9 × 2 = 18 mol of H atoms.",
+      "d": "Medium",
+      "topic": "Element atoms in molecules",
+      "slo": "Apply concepts of element atoms in molecules in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-189",
+      "q": "How many moles of O atoms are present in 10 mol of CaCO3 molecules?",
+      "o": [
+        "40",
+        "50",
+        "30",
+        "31"
+      ],
+      "a": 2,
+      "e": "Each CaCO3 molecule contains 3 O atoms, giving 10 × 3 = 30 mol of O atoms.",
+      "d": "Medium",
+      "topic": "Element atoms in molecules",
+      "slo": "Apply concepts of element atoms in molecules in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-190",
+      "q": "How many moles of H atoms are present in 11 mol of C6H12O6 molecules?",
+      "o": [
+        "132",
+        "143",
+        "133",
+        "154"
+      ],
+      "a": 0,
+      "e": "Each C6H12O6 molecule contains 12 H atoms, giving 11 × 12 = 132 mol of H atoms.",
+      "d": "Medium",
+      "topic": "Element atoms in molecules",
+      "slo": "Apply concepts of element atoms in molecules in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-191",
+      "q": "How many moles of O atoms are present in 12 mol of SO2 molecules?",
+      "o": [
+        "36",
+        "24",
+        "25",
+        "48"
+      ],
+      "a": 1,
+      "e": "Each SO2 molecule contains 2 O atoms, giving 12 × 2 = 24 mol of O atoms.",
+      "d": "Medium",
+      "topic": "Element atoms in molecules",
+      "slo": "Apply concepts of element atoms in molecules in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-192",
+      "q": "How many moles of O atoms are present in 13 mol of SO3 molecules?",
+      "o": [
+        "52",
+        "65",
+        "39",
+        "40"
+      ],
+      "a": 2,
+      "e": "Each SO3 molecule contains 3 O atoms, giving 13 × 3 = 39 mol of O atoms.",
+      "d": "Medium",
+      "topic": "Element atoms in molecules",
+      "slo": "Apply concepts of element atoms in molecules in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-193",
+      "q": "How many moles of H atoms are present in 14 mol of C2H6 molecules?",
+      "o": [
+        "98",
+        "84",
+        "112",
+        "85"
+      ],
+      "a": 1,
+      "e": "Each C2H6 molecule contains 6 H atoms, giving 14 × 6 = 84 mol of H atoms.",
+      "d": "Medium",
+      "topic": "Element atoms in molecules",
+      "slo": "Apply concepts of element atoms in molecules in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-194",
+      "q": "How many moles of H atoms are present in 15 mol of C2H4 molecules?",
+      "o": [
+        "75",
+        "90",
+        "61",
+        "60"
+      ],
+      "a": 3,
+      "e": "Each C2H4 molecule contains 4 H atoms, giving 15 × 4 = 60 mol of H atoms.",
+      "d": "Medium",
+      "topic": "Element atoms in molecules",
+      "slo": "Apply concepts of element atoms in molecules in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-195",
+      "q": "How many moles of H atoms are present in 16 mol of HCl molecules?",
+      "o": [
+        "17",
+        "32",
+        "48",
+        "16"
+      ],
+      "a": 3,
+      "e": "Each HCl molecule contains 1 H atoms, giving 16 × 1 = 16 mol of H atoms.",
+      "d": "Medium",
+      "topic": "Element atoms in molecules",
+      "slo": "Apply concepts of element atoms in molecules in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-196",
+      "q": "How many moles of H atoms are present in 17 mol of NaOH molecules?",
+      "o": [
+        "18",
+        "17",
+        "34",
+        "51"
+      ],
+      "a": 1,
+      "e": "Each NaOH molecule contains 1 H atoms, giving 17 × 1 = 17 mol of H atoms.",
+      "d": "Medium",
+      "topic": "Element atoms in molecules",
+      "slo": "Apply concepts of element atoms in molecules in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-197",
+      "q": "How many moles of H atoms are present in 18 mol of C2H5OH molecules?",
+      "o": [
+        "109",
+        "108",
+        "126",
+        "144"
+      ],
+      "a": 1,
+      "e": "Each C2H5OH molecule contains 6 H atoms, giving 18 × 6 = 108 mol of H atoms.",
+      "d": "Medium",
+      "topic": "Element atoms in molecules",
+      "slo": "Apply concepts of element atoms in molecules in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-198",
+      "q": "How many moles of H atoms are present in 19 mol of HNO3 molecules?",
+      "o": [
+        "57",
+        "19",
+        "38",
+        "20"
+      ],
+      "a": 1,
+      "e": "Each HNO3 molecule contains 1 H atoms, giving 19 × 1 = 19 mol of H atoms.",
+      "d": "Medium",
+      "topic": "Element atoms in molecules",
+      "slo": "Apply concepts of element atoms in molecules in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-199",
+      "q": "How many moles of H atoms are present in 20 mol of H3PO4 molecules?",
+      "o": [
+        "61",
+        "60",
+        "100",
+        "80"
+      ],
+      "a": 1,
+      "e": "Each H3PO4 molecule contains 3 H atoms, giving 20 × 3 = 60 mol of H atoms.",
+      "d": "Medium",
+      "topic": "Element atoms in molecules",
+      "slo": "Apply concepts of element atoms in molecules in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-200",
+      "q": "How many moles of H atoms are present in 21 mol of H2O2 molecules?",
+      "o": [
+        "84",
+        "42",
+        "63",
+        "43"
+      ],
+      "a": 1,
+      "e": "Each H2O2 molecule contains 2 H atoms, giving 21 × 2 = 42 mol of H atoms.",
+      "d": "Medium",
+      "topic": "Element atoms in molecules",
+      "slo": "Apply concepts of element atoms in molecules in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-201",
+      "q": "For 2H2 + O2 → 2H2O, how many moles of H2O correspond to 4 mol of H2 (assume sufficient other reactants)?",
+      "o": [
+        "4",
+        "8",
+        "3",
+        "6"
+      ],
+      "a": 0,
+      "e": "Coefficient ratio H2:H2O is 2:2; 4 × 2/2 = 4 mol.",
+      "d": "Medium",
+      "topic": "Balanced equation calculations",
+      "slo": "Apply concepts of balanced equation calculations in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-202",
+      "q": "For 2H2 + O2 → 2H2O, how many moles of H2O correspond to 3 mol of O2 (assume sufficient other reactants)?",
+      "o": [
+        "6",
+        "10",
+        "12",
+        "8"
+      ],
+      "a": 0,
+      "e": "Coefficient ratio O2:H2O is 1:2; 3 × 2/1 = 6 mol.",
+      "d": "Medium",
+      "topic": "Balanced equation calculations",
+      "slo": "Apply concepts of balanced equation calculations in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-203",
+      "q": "For N2 + 3H2 → 2NH3, how many moles of NH3 correspond to 4 mol of N2 (assume sufficient other reactants)?",
+      "o": [
+        "10",
+        "8",
+        "12",
+        "16"
+      ],
+      "a": 1,
+      "e": "Coefficient ratio N2:NH3 is 1:2; 4 × 2/1 = 8 mol.",
+      "d": "Medium",
+      "topic": "Balanced equation calculations",
+      "slo": "Apply concepts of balanced equation calculations in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-204",
+      "q": "For N2 + 3H2 → 2NH3, how many moles of NH3 correspond to 15 mol of H2 (assume sufficient other reactants)?",
+      "o": [
+        "10",
+        "20",
+        "14",
+        "12"
+      ],
+      "a": 0,
+      "e": "Coefficient ratio H2:NH3 is 3:2; 15 × 2/3 = 10 mol.",
+      "d": "Medium",
+      "topic": "Balanced equation calculations",
+      "slo": "Apply concepts of balanced equation calculations in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-205",
+      "q": "For 2Mg + O2 → 2MgO, how many moles of MgO correspond to 12 mol of Mg (assume sufficient other reactants)?",
+      "o": [
+        "24",
+        "16",
+        "14",
+        "12"
+      ],
+      "a": 3,
+      "e": "Coefficient ratio Mg:MgO is 2:2; 12 × 2/2 = 12 mol.",
+      "d": "Medium",
+      "topic": "Balanced equation calculations",
+      "slo": "Apply concepts of balanced equation calculations in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-206",
+      "q": "For 2Mg + O2 → 2MgO, how many moles of MgO correspond to 7 mol of O2 (assume sufficient other reactants)?",
+      "o": [
+        "18",
+        "14",
+        "16",
+        "28"
+      ],
+      "a": 1,
+      "e": "Coefficient ratio O2:MgO is 1:2; 7 × 2/1 = 14 mol.",
+      "d": "Medium",
+      "topic": "Balanced equation calculations",
+      "slo": "Apply concepts of balanced equation calculations in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-207",
+      "q": "For C + O2 → CO2, how many moles of CO2 correspond to 8 mol of C (assume sufficient other reactants)?",
+      "o": [
+        "10",
+        "16",
+        "9",
+        "8"
+      ],
+      "a": 3,
+      "e": "Coefficient ratio C:CO2 is 1:1; 8 × 1/1 = 8 mol.",
+      "d": "Medium",
+      "topic": "Balanced equation calculations",
+      "slo": "Apply concepts of balanced equation calculations in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-208",
+      "q": "For CaCO3 → CaO + CO2, how many moles of CO2 correspond to 9 mol of CaCO3 (assume sufficient other reactants)?",
+      "o": [
+        "18",
+        "10",
+        "11",
+        "9"
+      ],
+      "a": 3,
+      "e": "Coefficient ratio CaCO3:CO2 is 1:1; 9 × 1/1 = 9 mol.",
+      "d": "Medium",
+      "topic": "Balanced equation calculations",
+      "slo": "Apply concepts of balanced equation calculations in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-209",
+      "q": "For 2Na + Cl2 → 2NaCl, how many moles of NaCl correspond to 20 mol of Na (assume sufficient other reactants)?",
+      "o": [
+        "24",
+        "40",
+        "20",
+        "22"
+      ],
+      "a": 2,
+      "e": "Coefficient ratio Na:NaCl is 2:2; 20 × 2/2 = 20 mol.",
+      "d": "Medium",
+      "topic": "Balanced equation calculations",
+      "slo": "Apply concepts of balanced equation calculations in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-210",
+      "q": "For 2Na + Cl2 → 2NaCl, how many moles of NaCl correspond to 11 mol of Cl2 (assume sufficient other reactants)?",
+      "o": [
+        "22",
+        "26",
+        "44",
+        "24"
+      ],
+      "a": 0,
+      "e": "Coefficient ratio Cl2:NaCl is 1:2; 11 × 2/1 = 22 mol.",
+      "d": "Medium",
+      "topic": "Balanced equation calculations",
+      "slo": "Apply concepts of balanced equation calculations in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-211",
+      "q": "For CH4 + 2O2 → CO2 + 2H2O, how many moles of H2O correspond to 12 mol of CH4 (assume sufficient other reactants)?",
+      "o": [
+        "26",
+        "48",
+        "28",
+        "24"
+      ],
+      "a": 3,
+      "e": "Coefficient ratio CH4:H2O is 1:2; 12 × 2/1 = 24 mol.",
+      "d": "Medium",
+      "topic": "Balanced equation calculations",
+      "slo": "Apply concepts of balanced equation calculations in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-212",
+      "q": "For CH4 + 2O2 → CO2 + 2H2O, how many moles of CO2 correspond to 26 mol of O2 (assume sufficient other reactants)?",
+      "o": [
+        "14",
+        "13",
+        "15",
+        "26"
+      ],
+      "a": 1,
+      "e": "Coefficient ratio O2:CO2 is 2:1; 26 × 1/2 = 13 mol.",
+      "d": "Medium",
+      "topic": "Balanced equation calculations",
+      "slo": "Apply concepts of balanced equation calculations in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-213",
+      "q": "For 2CO + O2 → 2CO2, how many moles of CO2 correspond to 28 mol of CO (assume sufficient other reactants)?",
+      "o": [
+        "30",
+        "56",
+        "28",
+        "32"
+      ],
+      "a": 2,
+      "e": "Coefficient ratio CO:CO2 is 2:2; 28 × 2/2 = 28 mol.",
+      "d": "Medium",
+      "topic": "Balanced equation calculations",
+      "slo": "Apply concepts of balanced equation calculations in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-214",
+      "q": "For 2CO + O2 → 2CO2, how many moles of CO2 correspond to 15 mol of O2 (assume sufficient other reactants)?",
+      "o": [
+        "32",
+        "34",
+        "30",
+        "60"
+      ],
+      "a": 2,
+      "e": "Coefficient ratio O2:CO2 is 1:2; 15 × 2/1 = 30 mol.",
+      "d": "Medium",
+      "topic": "Balanced equation calculations",
+      "slo": "Apply concepts of balanced equation calculations in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-215",
+      "q": "For 2KClO3 → 2KCl + 3O2, how many moles of O2 correspond to 32 mol of KClO3 (assume sufficient other reactants)?",
+      "o": [
+        "48",
+        "96",
+        "54",
+        "51"
+      ],
+      "a": 0,
+      "e": "Coefficient ratio KClO3:O2 is 2:3; 32 × 3/2 = 48 mol.",
+      "d": "Medium",
+      "topic": "Balanced equation calculations",
+      "slo": "Apply concepts of balanced equation calculations in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-216",
+      "q": "For 2KClO3 → 2KCl + 3O2, how many moles of KCl correspond to 34 mol of KClO3 (assume sufficient other reactants)?",
+      "o": [
+        "36",
+        "68",
+        "34",
+        "38"
+      ],
+      "a": 2,
+      "e": "Coefficient ratio KClO3:KCl is 2:2; 34 × 2/2 = 34 mol.",
+      "d": "Medium",
+      "topic": "Balanced equation calculations",
+      "slo": "Apply concepts of balanced equation calculations in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-217",
+      "q": "For 4Fe + 3O2 → 2Fe2O3, how many moles of Fe2O3 correspond to 72 mol of Fe (assume sufficient other reactants)?",
+      "o": [
+        "72",
+        "40",
+        "38",
+        "36"
+      ],
+      "a": 3,
+      "e": "Coefficient ratio Fe:Fe2O3 is 4:2; 72 × 2/4 = 36 mol.",
+      "d": "Medium",
+      "topic": "Balanced equation calculations",
+      "slo": "Apply concepts of balanced equation calculations in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-218",
+      "q": "For 4Fe + 3O2 → 2Fe2O3, how many moles of Fe2O3 correspond to 57 mol of O2 (assume sufficient other reactants)?",
+      "o": [
+        "76",
+        "38",
+        "42",
+        "40"
+      ],
+      "a": 1,
+      "e": "Coefficient ratio O2:Fe2O3 is 3:2; 57 × 2/3 = 38 mol.",
+      "d": "Medium",
+      "topic": "Balanced equation calculations",
+      "slo": "Apply concepts of balanced equation calculations in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-219",
+      "q": "For 2SO2 + O2 → 2SO3, how many moles of SO3 correspond to 40 mol of SO2 (assume sufficient other reactants)?",
+      "o": [
+        "44",
+        "42",
+        "40",
+        "80"
+      ],
+      "a": 2,
+      "e": "Coefficient ratio SO2:SO3 is 2:2; 40 × 2/2 = 40 mol.",
+      "d": "Medium",
+      "topic": "Balanced equation calculations",
+      "slo": "Apply concepts of balanced equation calculations in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-220",
+      "q": "For 2SO2 + O2 → 2SO3, how many moles of SO3 correspond to 21 mol of O2 (assume sufficient other reactants)?",
+      "o": [
+        "84",
+        "44",
+        "46",
+        "42"
+      ],
+      "a": 3,
+      "e": "Coefficient ratio O2:SO3 is 1:2; 21 × 2/1 = 42 mol.",
+      "d": "Medium",
+      "topic": "Balanced equation calculations",
+      "slo": "Apply concepts of balanced equation calculations in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-221",
+      "q": "A compound has empirical formula CH2O (empirical formula mass 30) and molar mass 60 g/mol. What is its molecular formula?",
+      "o": [
+        "C3H6O3",
+        "C4H8O4",
+        "CH2O",
+        "C2H4O2"
+      ],
+      "a": 3,
+      "e": "Multiplier n=60/30=2; multiply each empirical subscript by 2 to obtain C2H4O2.",
+      "d": "Medium",
+      "topic": "Molecular formula calculations",
+      "slo": "Apply concepts of molecular formula calculations in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-222",
+      "q": "A compound has empirical formula CH2O (empirical formula mass 30) and molar mass 90 g/mol. What is its molecular formula?",
+      "o": [
+        "C3H6O3",
+        "CH2O",
+        "C2H4O2",
+        "C4H8O4"
+      ],
+      "a": 0,
+      "e": "Multiplier n=90/30=3; multiply each empirical subscript by 3 to obtain C3H6O3.",
+      "d": "Medium",
+      "topic": "Molecular formula calculations",
+      "slo": "Apply concepts of molecular formula calculations in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-223",
+      "q": "A compound has empirical formula CH2O (empirical formula mass 30) and molar mass 120 g/mol. What is its molecular formula?",
+      "o": [
+        "CH2O",
+        "C2H4O2",
+        "C4H8O4",
+        "C3H6O3"
+      ],
+      "a": 2,
+      "e": "Multiplier n=120/30=4; multiply each empirical subscript by 4 to obtain C4H8O4.",
+      "d": "Medium",
+      "topic": "Molecular formula calculations",
+      "slo": "Apply concepts of molecular formula calculations in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-224",
+      "q": "A compound has empirical formula CH2O (empirical formula mass 30) and molar mass 150 g/mol. What is its molecular formula?",
+      "o": [
+        "C3H6O3",
+        "C2H4O2",
+        "C5H10O5",
+        "CH2O"
+      ],
+      "a": 2,
+      "e": "Multiplier n=150/30=5; multiply each empirical subscript by 5 to obtain C5H10O5.",
+      "d": "Medium",
+      "topic": "Molecular formula calculations",
+      "slo": "Apply concepts of molecular formula calculations in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-225",
+      "q": "A compound has empirical formula CH2O (empirical formula mass 30) and molar mass 180 g/mol. What is its molecular formula?",
+      "o": [
+        "CH2O",
+        "C2H4O2",
+        "C6H12O6",
+        "C3H6O3"
+      ],
+      "a": 2,
+      "e": "Multiplier n=180/30=6; multiply each empirical subscript by 6 to obtain C6H12O6.",
+      "d": "Medium",
+      "topic": "Molecular formula calculations",
+      "slo": "Apply concepts of molecular formula calculations in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-226",
+      "q": "A compound has empirical formula CH (empirical formula mass 13) and molar mass 26 g/mol. What is its molecular formula?",
+      "o": [
+        "C4H4",
+        "C3H3",
+        "C2H2",
+        "CH"
+      ],
+      "a": 2,
+      "e": "Multiplier n=26/13=2; multiply each empirical subscript by 2 to obtain C2H2.",
+      "d": "Medium",
+      "topic": "Molecular formula calculations",
+      "slo": "Apply concepts of molecular formula calculations in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-227",
+      "q": "A compound has empirical formula CH (empirical formula mass 13) and molar mass 39 g/mol. What is its molecular formula?",
+      "o": [
+        "C3H3",
+        "CH",
+        "C2H2",
+        "C4H4"
+      ],
+      "a": 0,
+      "e": "Multiplier n=39/13=3; multiply each empirical subscript by 3 to obtain C3H3.",
+      "d": "Medium",
+      "topic": "Molecular formula calculations",
+      "slo": "Apply concepts of molecular formula calculations in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-228",
+      "q": "A compound has empirical formula CH (empirical formula mass 13) and molar mass 52 g/mol. What is its molecular formula?",
+      "o": [
+        "C4H4",
+        "CH",
+        "C3H3",
+        "C2H2"
+      ],
+      "a": 0,
+      "e": "Multiplier n=52/13=4; multiply each empirical subscript by 4 to obtain C4H4.",
+      "d": "Medium",
+      "topic": "Molecular formula calculations",
+      "slo": "Apply concepts of molecular formula calculations in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-229",
+      "q": "A compound has empirical formula CH (empirical formula mass 13) and molar mass 65 g/mol. What is its molecular formula?",
+      "o": [
+        "C3H3",
+        "C5H5",
+        "CH",
+        "C2H2"
+      ],
+      "a": 1,
+      "e": "Multiplier n=65/13=5; multiply each empirical subscript by 5 to obtain C5H5.",
+      "d": "Medium",
+      "topic": "Molecular formula calculations",
+      "slo": "Apply concepts of molecular formula calculations in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-230",
+      "q": "A compound has empirical formula CH (empirical formula mass 13) and molar mass 78 g/mol. What is its molecular formula?",
+      "o": [
+        "CH",
+        "C2H2",
+        "C6H6",
+        "C3H3"
+      ],
+      "a": 2,
+      "e": "Multiplier n=78/13=6; multiply each empirical subscript by 6 to obtain C6H6.",
+      "d": "Medium",
+      "topic": "Molecular formula calculations",
+      "slo": "Apply concepts of molecular formula calculations in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-231",
+      "q": "A compound has empirical formula CH2 (empirical formula mass 14) and molar mass 28 g/mol. What is its molecular formula?",
+      "o": [
+        "C3H6",
+        "C4H8",
+        "CH2",
+        "C2H4"
+      ],
+      "a": 3,
+      "e": "Multiplier n=28/14=2; multiply each empirical subscript by 2 to obtain C2H4.",
+      "d": "Medium",
+      "topic": "Molecular formula calculations",
+      "slo": "Apply concepts of molecular formula calculations in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-232",
+      "q": "A compound has empirical formula CH2 (empirical formula mass 14) and molar mass 42 g/mol. What is its molecular formula?",
+      "o": [
+        "C4H8",
+        "CH2",
+        "C2H4",
+        "C3H6"
+      ],
+      "a": 3,
+      "e": "Multiplier n=42/14=3; multiply each empirical subscript by 3 to obtain C3H6.",
+      "d": "Medium",
+      "topic": "Molecular formula calculations",
+      "slo": "Apply concepts of molecular formula calculations in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-233",
+      "q": "A compound has empirical formula CH2 (empirical formula mass 14) and molar mass 56 g/mol. What is its molecular formula?",
+      "o": [
+        "C3H6",
+        "CH2",
+        "C2H4",
+        "C4H8"
+      ],
+      "a": 3,
+      "e": "Multiplier n=56/14=4; multiply each empirical subscript by 4 to obtain C4H8.",
+      "d": "Medium",
+      "topic": "Molecular formula calculations",
+      "slo": "Apply concepts of molecular formula calculations in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-234",
+      "q": "A compound has empirical formula CH2 (empirical formula mass 14) and molar mass 70 g/mol. What is its molecular formula?",
+      "o": [
+        "C3H6",
+        "CH2",
+        "C2H4",
+        "C5H10"
+      ],
+      "a": 3,
+      "e": "Multiplier n=70/14=5; multiply each empirical subscript by 5 to obtain C5H10.",
+      "d": "Medium",
+      "topic": "Molecular formula calculations",
+      "slo": "Apply concepts of molecular formula calculations in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-235",
+      "q": "A compound has empirical formula CH2 (empirical formula mass 14) and molar mass 84 g/mol. What is its molecular formula?",
+      "o": [
+        "C3H6",
+        "C2H4",
+        "C6H12",
+        "CH2"
+      ],
+      "a": 2,
+      "e": "Multiplier n=84/14=6; multiply each empirical subscript by 6 to obtain C6H12.",
+      "d": "Medium",
+      "topic": "Molecular formula calculations",
+      "slo": "Apply concepts of molecular formula calculations in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-236",
+      "q": "A compound has empirical formula NO2 (empirical formula mass 46) and molar mass 92 g/mol. What is its molecular formula?",
+      "o": [
+        "N3O6",
+        "N2O4",
+        "N4O8",
+        "NO2"
+      ],
+      "a": 1,
+      "e": "Multiplier n=92/46=2; multiply each empirical subscript by 2 to obtain N2O4.",
+      "d": "Medium",
+      "topic": "Molecular formula calculations",
+      "slo": "Apply concepts of molecular formula calculations in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-237",
+      "q": "A compound has empirical formula NO2 (empirical formula mass 46) and molar mass 138 g/mol. What is its molecular formula?",
+      "o": [
+        "N2O4",
+        "NO2",
+        "N4O8",
+        "N3O6"
+      ],
+      "a": 3,
+      "e": "Multiplier n=138/46=3; multiply each empirical subscript by 3 to obtain N3O6.",
+      "d": "Medium",
+      "topic": "Molecular formula calculations",
+      "slo": "Apply concepts of molecular formula calculations in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-238",
+      "q": "A compound has empirical formula HO (empirical formula mass 17) and molar mass 34 g/mol. What is its molecular formula?",
+      "o": [
+        "HO",
+        "H3O3",
+        "H4O4",
+        "H2O2"
+      ],
+      "a": 3,
+      "e": "Multiplier n=34/17=2; multiply each empirical subscript by 2 to obtain H2O2.",
+      "d": "Medium",
+      "topic": "Molecular formula calculations",
+      "slo": "Apply concepts of molecular formula calculations in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-239",
+      "q": "A compound has empirical formula HO (empirical formula mass 17) and molar mass 51 g/mol. What is its molecular formula?",
+      "o": [
+        "HO",
+        "H4O4",
+        "H2O2",
+        "H3O3"
+      ],
+      "a": 3,
+      "e": "Multiplier n=51/17=3; multiply each empirical subscript by 3 to obtain H3O3.",
+      "d": "Medium",
+      "topic": "Molecular formula calculations",
+      "slo": "Apply concepts of molecular formula calculations in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-240",
+      "q": "A compound has empirical formula NH2 (empirical formula mass 16) and molar mass 32 g/mol. What is its molecular formula?",
+      "o": [
+        "N2H4",
+        "N3H6",
+        "NH2",
+        "N4H8"
+      ],
+      "a": 0,
+      "e": "Multiplier n=32/16=2; multiply each empirical subscript by 2 to obtain N2H4.",
+      "d": "Medium",
+      "topic": "Molecular formula calculations",
+      "slo": "Apply concepts of molecular formula calculations in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-241",
+      "q": "What is the approximate mass percentage of oxygen in H2O? Use element mass contribution 16 and formula mass 18.",
+      "o": [
+        "11.11",
+        "88.89",
+        "98.89",
+        "8.89"
+      ],
+      "a": 1,
+      "e": "Percentage = (16/18) × 100 = 88.89%.",
+      "d": "Medium",
+      "topic": "Percentage composition",
+      "slo": "Apply concepts of percentage composition in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-242",
+      "q": "What is the approximate mass percentage of carbon in CO2? Use element mass contribution 12 and formula mass 44.",
+      "o": [
+        "72.73",
+        "2.73",
+        "37.27",
+        "27.27"
+      ],
+      "a": 3,
+      "e": "Percentage = (12/44) × 100 = 27.27%.",
+      "d": "Medium",
+      "topic": "Percentage composition",
+      "slo": "Apply concepts of percentage composition in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-243",
+      "q": "What is the approximate mass percentage of oxygen in CO2? Use element mass contribution 32 and formula mass 44.",
+      "o": [
+        "72.73",
+        "7.27",
+        "27.27",
+        "82.73"
+      ],
+      "a": 0,
+      "e": "Percentage = (32/44) × 100 = 72.73%.",
+      "d": "Medium",
+      "topic": "Percentage composition",
+      "slo": "Apply concepts of percentage composition in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-244",
+      "q": "What is the approximate mass percentage of nitrogen in NH3? Use element mass contribution 14 and formula mass 17.",
+      "o": [
+        "92.35",
+        "8.24",
+        "82.35",
+        "17.65"
+      ],
+      "a": 2,
+      "e": "Percentage = (14/17) × 100 = 82.35%.",
+      "d": "Medium",
+      "topic": "Percentage composition",
+      "slo": "Apply concepts of percentage composition in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-245",
+      "q": "What is the approximate mass percentage of hydrogen in NH3? Use element mass contribution 3 and formula mass 17.",
+      "o": [
+        "1.76",
+        "17.65",
+        "82.35",
+        "27.65"
+      ],
+      "a": 1,
+      "e": "Percentage = (3/17) × 100 = 17.65%.",
+      "d": "Medium",
+      "topic": "Percentage composition",
+      "slo": "Apply concepts of percentage composition in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-246",
+      "q": "What is the approximate mass percentage of carbon in CH4? Use element mass contribution 12 and formula mass 16.",
+      "o": [
+        "25",
+        "7.5",
+        "75",
+        "85"
+      ],
+      "a": 2,
+      "e": "Percentage = (12/16) × 100 = 75%.",
+      "d": "Medium",
+      "topic": "Percentage composition",
+      "slo": "Apply concepts of percentage composition in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-247",
+      "q": "What is the approximate mass percentage of hydrogen in CH4? Use element mass contribution 4 and formula mass 16.",
+      "o": [
+        "2.5",
+        "75",
+        "25",
+        "35"
+      ],
+      "a": 2,
+      "e": "Percentage = (4/16) × 100 = 25%.",
+      "d": "Medium",
+      "topic": "Percentage composition",
+      "slo": "Apply concepts of percentage composition in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-248",
+      "q": "What is the approximate mass percentage of sulfur in H2SO4? Use element mass contribution 32 and formula mass 98.",
+      "o": [
+        "32.65",
+        "3.27",
+        "42.65",
+        "67.35"
+      ],
+      "a": 0,
+      "e": "Percentage = (32/98) × 100 = 32.65%.",
+      "d": "Medium",
+      "topic": "Percentage composition",
+      "slo": "Apply concepts of percentage composition in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-249",
+      "q": "What is the approximate mass percentage of oxygen in H2SO4? Use element mass contribution 64 and formula mass 98.",
+      "o": [
+        "34.69",
+        "75.31",
+        "65.31",
+        "6.53"
+      ],
+      "a": 2,
+      "e": "Percentage = (64/98) × 100 = 65.31%.",
+      "d": "Medium",
+      "topic": "Percentage composition",
+      "slo": "Apply concepts of percentage composition in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-250",
+      "q": "What is the approximate mass percentage of hydrogen in H2SO4? Use element mass contribution 2 and formula mass 98.",
+      "o": [
+        "0.2",
+        "12.04",
+        "97.96",
+        "2.04"
+      ],
+      "a": 3,
+      "e": "Percentage = (2/98) × 100 = 2.04%.",
+      "d": "Medium",
+      "topic": "Percentage composition",
+      "slo": "Apply concepts of percentage composition in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-251",
+      "q": "What is the approximate mass percentage of calcium in CaCO3? Use element mass contribution 40 and formula mass 100.",
+      "o": [
+        "60",
+        "40",
+        "4",
+        "50"
+      ],
+      "a": 1,
+      "e": "Percentage = (40/100) × 100 = 40%.",
+      "d": "Medium",
+      "topic": "Percentage composition",
+      "slo": "Apply concepts of percentage composition in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-252",
+      "q": "What is the approximate mass percentage of carbon in CaCO3? Use element mass contribution 12 and formula mass 100.",
+      "o": [
+        "22",
+        "1.2",
+        "12",
+        "88"
+      ],
+      "a": 2,
+      "e": "Percentage = (12/100) × 100 = 12%.",
+      "d": "Medium",
+      "topic": "Percentage composition",
+      "slo": "Apply concepts of percentage composition in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-253",
+      "q": "What is the approximate mass percentage of oxygen in CaCO3? Use element mass contribution 48 and formula mass 100.",
+      "o": [
+        "4.8",
+        "48",
+        "52",
+        "58"
+      ],
+      "a": 1,
+      "e": "Percentage = (48/100) × 100 = 48%.",
+      "d": "Medium",
+      "topic": "Percentage composition",
+      "slo": "Apply concepts of percentage composition in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-254",
+      "q": "What is the approximate mass percentage of magnesium in MgO? Use element mass contribution 24 and formula mass 40.",
+      "o": [
+        "6",
+        "60",
+        "70",
+        "40"
+      ],
+      "a": 1,
+      "e": "Percentage = (24/40) × 100 = 60%.",
+      "d": "Medium",
+      "topic": "Percentage composition",
+      "slo": "Apply concepts of percentage composition in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-255",
+      "q": "What is the approximate mass percentage of oxygen in MgO? Use element mass contribution 16 and formula mass 40.",
+      "o": [
+        "50",
+        "40",
+        "60",
+        "4"
+      ],
+      "a": 1,
+      "e": "Percentage = (16/40) × 100 = 40%.",
+      "d": "Medium",
+      "topic": "Percentage composition",
+      "slo": "Apply concepts of percentage composition in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-256",
+      "q": "What is the approximate mass percentage of sulfur in SO2? Use element mass contribution 32 and formula mass 64.",
+      "o": [
+        "60",
+        "50",
+        "25",
+        "5"
+      ],
+      "a": 1,
+      "e": "Percentage = (32/64) × 100 = 50%.",
+      "d": "Medium",
+      "topic": "Percentage composition",
+      "slo": "Apply concepts of percentage composition in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-257",
+      "q": "What is the approximate mass percentage of oxygen in SO2? Use element mass contribution 32 and formula mass 64.",
+      "o": [
+        "25",
+        "50",
+        "60",
+        "5"
+      ],
+      "a": 1,
+      "e": "Percentage = (32/64) × 100 = 50%.",
+      "d": "Medium",
+      "topic": "Percentage composition",
+      "slo": "Apply concepts of percentage composition in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-258",
+      "q": "What is the approximate mass percentage of sulfur in SO3? Use element mass contribution 32 and formula mass 80.",
+      "o": [
+        "40",
+        "4",
+        "50",
+        "60"
+      ],
+      "a": 0,
+      "e": "Percentage = (32/80) × 100 = 40%.",
+      "d": "Medium",
+      "topic": "Percentage composition",
+      "slo": "Apply concepts of percentage composition in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-259",
+      "q": "What is the approximate mass percentage of oxygen in SO3? Use element mass contribution 48 and formula mass 80.",
+      "o": [
+        "60",
+        "40",
+        "6",
+        "70"
+      ],
+      "a": 0,
+      "e": "Percentage = (48/80) × 100 = 60%.",
+      "d": "Medium",
+      "topic": "Percentage composition",
+      "slo": "Apply concepts of percentage composition in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-260",
+      "q": "What is the approximate mass percentage of sodium in NaOH? Use element mass contribution 23 and formula mass 40.",
+      "o": [
+        "42.5",
+        "5.75",
+        "57.5",
+        "67.5"
+      ],
+      "a": 2,
+      "e": "Percentage = (23/40) × 100 = 57.5%.",
+      "d": "Medium",
+      "topic": "Percentage composition",
+      "slo": "Apply concepts of percentage composition in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-261",
+      "q": "Using standard relative atomic masses, what is the molar mass of H2O in g/mol?",
+      "o": [
+        "36",
+        "34",
+        "19",
+        "18"
+      ],
+      "a": 3,
+      "e": "Add atomic masses according to the formula H2O; its molar mass is 18 g/mol.",
+      "d": "Medium",
+      "topic": "Calculating molar masses",
+      "slo": "Apply concepts of calculating molar masses in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-262",
+      "q": "Using standard relative atomic masses, what is the molar mass of CO2 in g/mol?",
+      "o": [
+        "44",
+        "88",
+        "60",
+        "45"
+      ],
+      "a": 0,
+      "e": "Add atomic masses according to the formula CO2; its molar mass is 44 g/mol.",
+      "d": "Medium",
+      "topic": "Calculating molar masses",
+      "slo": "Apply concepts of calculating molar masses in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-263",
+      "q": "Using standard relative atomic masses, what is the molar mass of NH3 in g/mol?",
+      "o": [
+        "18",
+        "34",
+        "33",
+        "17"
+      ],
+      "a": 3,
+      "e": "Add atomic masses according to the formula NH3; its molar mass is 17 g/mol.",
+      "d": "Medium",
+      "topic": "Calculating molar masses",
+      "slo": "Apply concepts of calculating molar masses in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-264",
+      "q": "Using standard relative atomic masses, what is the molar mass of CH4 in g/mol?",
+      "o": [
+        "17",
+        "16",
+        "24",
+        "32"
+      ],
+      "a": 1,
+      "e": "Add atomic masses according to the formula CH4; its molar mass is 16 g/mol.",
+      "d": "Medium",
+      "topic": "Calculating molar masses",
+      "slo": "Apply concepts of calculating molar masses in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-265",
+      "q": "Using standard relative atomic masses, what is the molar mass of O2 in g/mol?",
+      "o": [
+        "32",
+        "64",
+        "48",
+        "33"
+      ],
+      "a": 0,
+      "e": "Add atomic masses according to the formula O2; its molar mass is 32 g/mol.",
+      "d": "Medium",
+      "topic": "Calculating molar masses",
+      "slo": "Apply concepts of calculating molar masses in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-266",
+      "q": "Using standard relative atomic masses, what is the molar mass of N2 in g/mol?",
+      "o": [
+        "28",
+        "29",
+        "56",
+        "44"
+      ],
+      "a": 0,
+      "e": "Add atomic masses according to the formula N2; its molar mass is 28 g/mol.",
+      "d": "Medium",
+      "topic": "Calculating molar masses",
+      "slo": "Apply concepts of calculating molar masses in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-267",
+      "q": "Using standard relative atomic masses, what is the molar mass of H2 in g/mol?",
+      "o": [
+        "3",
+        "2",
+        "18",
+        "4"
+      ],
+      "a": 1,
+      "e": "Add atomic masses according to the formula H2; its molar mass is 2 g/mol.",
+      "d": "Medium",
+      "topic": "Calculating molar masses",
+      "slo": "Apply concepts of calculating molar masses in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-268",
+      "q": "Using standard relative atomic masses, what is the molar mass of NaCl in g/mol?",
+      "o": [
+        "74.5",
+        "58.5",
+        "117",
+        "59.5"
+      ],
+      "a": 1,
+      "e": "Add atomic masses according to the formula NaCl; its molar mass is 58.5 g/mol.",
+      "d": "Medium",
+      "topic": "Calculating molar masses",
+      "slo": "Apply concepts of calculating molar masses in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-269",
+      "q": "Using standard relative atomic masses, what is the molar mass of CaCO3 in g/mol?",
+      "o": [
+        "116",
+        "200",
+        "100",
+        "101"
+      ],
+      "a": 2,
+      "e": "Add atomic masses according to the formula CaCO3; its molar mass is 100 g/mol.",
+      "d": "Medium",
+      "topic": "Calculating molar masses",
+      "slo": "Apply concepts of calculating molar masses in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-270",
+      "q": "Using standard relative atomic masses, what is the molar mass of MgO in g/mol?",
+      "o": [
+        "40",
+        "80",
+        "41",
+        "56"
+      ],
+      "a": 0,
+      "e": "Add atomic masses according to the formula MgO; its molar mass is 40 g/mol.",
+      "d": "Medium",
+      "topic": "Calculating molar masses",
+      "slo": "Apply concepts of calculating molar masses in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-271",
+      "q": "Using standard relative atomic masses, what is the molar mass of CaO in g/mol?",
+      "o": [
+        "72",
+        "56",
+        "57",
+        "112"
+      ],
+      "a": 1,
+      "e": "Add atomic masses according to the formula CaO; its molar mass is 56 g/mol.",
+      "d": "Medium",
+      "topic": "Calculating molar masses",
+      "slo": "Apply concepts of calculating molar masses in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-272",
+      "q": "Using standard relative atomic masses, what is the molar mass of HCl in g/mol?",
+      "o": [
+        "37.5",
+        "73",
+        "52.5",
+        "36.5"
+      ],
+      "a": 3,
+      "e": "Add atomic masses according to the formula HCl; its molar mass is 36.5 g/mol.",
+      "d": "Medium",
+      "topic": "Calculating molar masses",
+      "slo": "Apply concepts of calculating molar masses in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-273",
+      "q": "Using standard relative atomic masses, what is the molar mass of SO2 in g/mol?",
+      "o": [
+        "65",
+        "128",
+        "64",
+        "80"
+      ],
+      "a": 2,
+      "e": "Add atomic masses according to the formula SO2; its molar mass is 64 g/mol.",
+      "d": "Medium",
+      "topic": "Calculating molar masses",
+      "slo": "Apply concepts of calculating molar masses in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-274",
+      "q": "Using standard relative atomic masses, what is the molar mass of SO3 in g/mol?",
+      "o": [
+        "80",
+        "96",
+        "160",
+        "81"
+      ],
+      "a": 0,
+      "e": "Add atomic masses according to the formula SO3; its molar mass is 80 g/mol.",
+      "d": "Medium",
+      "topic": "Calculating molar masses",
+      "slo": "Apply concepts of calculating molar masses in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-275",
+      "q": "Using standard relative atomic masses, what is the molar mass of C2H6 in g/mol?",
+      "o": [
+        "31",
+        "30",
+        "60",
+        "46"
+      ],
+      "a": 1,
+      "e": "Add atomic masses according to the formula C2H6; its molar mass is 30 g/mol.",
+      "d": "Medium",
+      "topic": "Calculating molar masses",
+      "slo": "Apply concepts of calculating molar masses in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-276",
+      "q": "Using standard relative atomic masses, what is the molar mass of C2H4 in g/mol?",
+      "o": [
+        "29",
+        "44",
+        "28",
+        "56"
+      ],
+      "a": 2,
+      "e": "Add atomic masses according to the formula C2H4; its molar mass is 28 g/mol.",
+      "d": "Medium",
+      "topic": "Calculating molar masses",
+      "slo": "Apply concepts of calculating molar masses in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-277",
+      "q": "Using standard relative atomic masses, what is the molar mass of C6H12O6 in g/mol?",
+      "o": [
+        "181",
+        "360",
+        "180",
+        "196"
+      ],
+      "a": 2,
+      "e": "Add atomic masses according to the formula C6H12O6; its molar mass is 180 g/mol.",
+      "d": "Medium",
+      "topic": "Calculating molar masses",
+      "slo": "Apply concepts of calculating molar masses in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-278",
+      "q": "Using standard relative atomic masses, what is the molar mass of NaOH in g/mol?",
+      "o": [
+        "40",
+        "56",
+        "41",
+        "80"
+      ],
+      "a": 0,
+      "e": "Add atomic masses according to the formula NaOH; its molar mass is 40 g/mol.",
+      "d": "Medium",
+      "topic": "Calculating molar masses",
+      "slo": "Apply concepts of calculating molar masses in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-279",
+      "q": "Using standard relative atomic masses, what is the molar mass of KCl in g/mol?",
+      "o": [
+        "75.5",
+        "90.5",
+        "74.5",
+        "149"
+      ],
+      "a": 2,
+      "e": "Add atomic masses according to the formula KCl; its molar mass is 74.5 g/mol.",
+      "d": "Medium",
+      "topic": "Calculating molar masses",
+      "slo": "Apply concepts of calculating molar masses in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-280",
+      "q": "Using standard relative atomic masses, what is the molar mass of H2SO4 in g/mol?",
+      "o": [
+        "196",
+        "98",
+        "99",
+        "114"
+      ],
+      "a": 1,
+      "e": "Add atomic masses according to the formula H2SO4; its molar mass is 98 g/mol.",
+      "d": "Medium",
+      "topic": "Calculating molar masses",
+      "slo": "Apply concepts of calculating molar masses in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-281",
+      "q": "For 2H2 + O2 → 2H2O, calculate the theoretical mass of H2O formed from 8 g of H2, with other reactants in excess. Use M(H2)=2 g/mol and M(H2O)=18 g/mol.",
+      "o": [
+        "90",
+        "36",
+        "144",
+        "72"
+      ],
+      "a": 3,
+      "e": "8 g H2 = 4 mol. The 2:2 ratio gives 4 mol H2O; mass = 72 g.",
+      "d": "Medium",
+      "topic": "Mass-to-mass stoichiometry",
+      "slo": "Apply concepts of mass-to-mass stoichiometry in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-282",
+      "q": "For 2H2 + O2 → 2H2O, calculate the theoretical mass of H2O formed from 96 g of O2, with other reactants in excess. Use M(O2)=32 g/mol and M(H2O)=18 g/mol.",
+      "o": [
+        "54",
+        "216",
+        "126",
+        "108"
+      ],
+      "a": 3,
+      "e": "96 g O2 = 3 mol. The 1:2 ratio gives 6 mol H2O; mass = 108 g.",
+      "d": "Medium",
+      "topic": "Mass-to-mass stoichiometry",
+      "slo": "Apply concepts of mass-to-mass stoichiometry in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-283",
+      "q": "For N2 + 3H2 → 2NH3, calculate the theoretical mass of NH3 formed from 112 g of N2, with other reactants in excess. Use M(N2)=28 g/mol and M(NH3)=17 g/mol.",
+      "o": [
+        "136",
+        "153",
+        "68",
+        "272"
+      ],
+      "a": 0,
+      "e": "112 g N2 = 4 mol. The 1:2 ratio gives 8 mol NH3; mass = 136 g.",
+      "d": "Medium",
+      "topic": "Mass-to-mass stoichiometry",
+      "slo": "Apply concepts of mass-to-mass stoichiometry in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-284",
+      "q": "For N2 + 3H2 → 2NH3, calculate the theoretical mass of NH3 formed from 30 g of H2, with other reactants in excess. Use M(H2)=2 g/mol and M(NH3)=17 g/mol.",
+      "o": [
+        "170",
+        "340",
+        "85",
+        "187"
+      ],
+      "a": 0,
+      "e": "30 g H2 = 15 mol. The 3:2 ratio gives 10 mol NH3; mass = 170 g.",
+      "d": "Medium",
+      "topic": "Mass-to-mass stoichiometry",
+      "slo": "Apply concepts of mass-to-mass stoichiometry in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-285",
+      "q": "For 2Mg + O2 → 2MgO, calculate the theoretical mass of MgO formed from 288 g of Mg, with other reactants in excess. Use M(Mg)=24 g/mol and M(MgO)=40 g/mol.",
+      "o": [
+        "240",
+        "480",
+        "520",
+        "960"
+      ],
+      "a": 1,
+      "e": "288 g Mg = 12 mol. The 2:2 ratio gives 12 mol MgO; mass = 480 g.",
+      "d": "Medium",
+      "topic": "Mass-to-mass stoichiometry",
+      "slo": "Apply concepts of mass-to-mass stoichiometry in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-286",
+      "q": "For 2Mg + O2 → 2MgO, calculate the theoretical mass of MgO formed from 224 g of O2, with other reactants in excess. Use M(O2)=32 g/mol and M(MgO)=40 g/mol.",
+      "o": [
+        "560",
+        "600",
+        "280",
+        "1120"
+      ],
+      "a": 0,
+      "e": "224 g O2 = 7 mol. The 1:2 ratio gives 14 mol MgO; mass = 560 g.",
+      "d": "Medium",
+      "topic": "Mass-to-mass stoichiometry",
+      "slo": "Apply concepts of mass-to-mass stoichiometry in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-287",
+      "q": "For C + O2 → CO2, calculate the theoretical mass of CO2 formed from 96 g of C, with other reactants in excess. Use M(C)=12 g/mol and M(CO2)=44 g/mol.",
+      "o": [
+        "176",
+        "396",
+        "352",
+        "704"
+      ],
+      "a": 2,
+      "e": "96 g C = 8 mol. The 1:1 ratio gives 8 mol CO2; mass = 352 g.",
+      "d": "Medium",
+      "topic": "Mass-to-mass stoichiometry",
+      "slo": "Apply concepts of mass-to-mass stoichiometry in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-288",
+      "q": "For CaCO3 → CaO + CO2, calculate the theoretical mass of CO2 formed from 900 g of CaCO3, with other reactants in excess. Use M(CaCO3)=100 g/mol and M(CO2)=44 g/mol.",
+      "o": [
+        "198",
+        "440",
+        "792",
+        "396"
+      ],
+      "a": 3,
+      "e": "900 g CaCO3 = 9 mol. The 1:1 ratio gives 9 mol CO2; mass = 396 g.",
+      "d": "Medium",
+      "topic": "Mass-to-mass stoichiometry",
+      "slo": "Apply concepts of mass-to-mass stoichiometry in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-289",
+      "q": "For 2Na + Cl2 → 2NaCl, calculate the theoretical mass of NaCl formed from 460 g of Na, with other reactants in excess. Use M(Na)=23 g/mol and M(NaCl)=58.5 g/mol.",
+      "o": [
+        "1170",
+        "585",
+        "1228.5",
+        "2340"
+      ],
+      "a": 0,
+      "e": "460 g Na = 20 mol. The 2:2 ratio gives 20 mol NaCl; mass = 1170 g.",
+      "d": "Medium",
+      "topic": "Mass-to-mass stoichiometry",
+      "slo": "Apply concepts of mass-to-mass stoichiometry in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-290",
+      "q": "For 2Na + Cl2 → 2NaCl, calculate the theoretical mass of NaCl formed from 781 g of Cl2, with other reactants in excess. Use M(Cl2)=71 g/mol and M(NaCl)=58.5 g/mol.",
+      "o": [
+        "2574",
+        "1287",
+        "1345.5",
+        "643.5"
+      ],
+      "a": 1,
+      "e": "781 g Cl2 = 11 mol. The 1:2 ratio gives 22 mol NaCl; mass = 1287 g.",
+      "d": "Medium",
+      "topic": "Mass-to-mass stoichiometry",
+      "slo": "Apply concepts of mass-to-mass stoichiometry in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-291",
+      "q": "For CH4 + 2O2 → CO2 + 2H2O, calculate the theoretical mass of H2O formed from 192 g of CH4, with other reactants in excess. Use M(CH4)=16 g/mol and M(H2O)=18 g/mol.",
+      "o": [
+        "864",
+        "432",
+        "216",
+        "450"
+      ],
+      "a": 1,
+      "e": "192 g CH4 = 12 mol. The 1:2 ratio gives 24 mol H2O; mass = 432 g.",
+      "d": "Medium",
+      "topic": "Mass-to-mass stoichiometry",
+      "slo": "Apply concepts of mass-to-mass stoichiometry in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-292",
+      "q": "For CH4 + 2O2 → CO2 + 2H2O, calculate the theoretical mass of CO2 formed from 832 g of O2, with other reactants in excess. Use M(O2)=32 g/mol and M(CO2)=44 g/mol.",
+      "o": [
+        "572",
+        "1144",
+        "286",
+        "616"
+      ],
+      "a": 0,
+      "e": "832 g O2 = 26 mol. The 2:1 ratio gives 13 mol CO2; mass = 572 g.",
+      "d": "Medium",
+      "topic": "Mass-to-mass stoichiometry",
+      "slo": "Apply concepts of mass-to-mass stoichiometry in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-293",
+      "q": "For 2CO + O2 → 2CO2, calculate the theoretical mass of CO2 formed from 784 g of CO, with other reactants in excess. Use M(CO)=28 g/mol and M(CO2)=44 g/mol.",
+      "o": [
+        "1276",
+        "616",
+        "2464",
+        "1232"
+      ],
+      "a": 3,
+      "e": "784 g CO = 28 mol. The 2:2 ratio gives 28 mol CO2; mass = 1232 g.",
+      "d": "Medium",
+      "topic": "Mass-to-mass stoichiometry",
+      "slo": "Apply concepts of mass-to-mass stoichiometry in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-294",
+      "q": "For 2CO + O2 → 2CO2, calculate the theoretical mass of CO2 formed from 480 g of O2, with other reactants in excess. Use M(O2)=32 g/mol and M(CO2)=44 g/mol.",
+      "o": [
+        "660",
+        "2640",
+        "1364",
+        "1320"
+      ],
+      "a": 3,
+      "e": "480 g O2 = 15 mol. The 1:2 ratio gives 30 mol CO2; mass = 1320 g.",
+      "d": "Medium",
+      "topic": "Mass-to-mass stoichiometry",
+      "slo": "Apply concepts of mass-to-mass stoichiometry in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-295",
+      "q": "For 2KClO3 → 2KCl + 3O2, calculate the theoretical mass of O2 formed from 3920 g of KClO3, with other reactants in excess. Use M(KClO3)=122.5 g/mol and M(O2)=32 g/mol.",
+      "o": [
+        "3072",
+        "768",
+        "1536",
+        "1568"
+      ],
+      "a": 2,
+      "e": "3920 g KClO3 = 32 mol. The 2:3 ratio gives 48 mol O2; mass = 1536 g.",
+      "d": "Medium",
+      "topic": "Mass-to-mass stoichiometry",
+      "slo": "Apply concepts of mass-to-mass stoichiometry in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-296",
+      "q": "For 2KClO3 → 2KCl + 3O2, calculate the theoretical mass of KCl formed from 4165 g of KClO3, with other reactants in excess. Use M(KClO3)=122.5 g/mol and M(KCl)=74.5 g/mol.",
+      "o": [
+        "5066",
+        "2533",
+        "2607.5",
+        "1266.5"
+      ],
+      "a": 1,
+      "e": "4165 g KClO3 = 34 mol. The 2:2 ratio gives 34 mol KCl; mass = 2533 g.",
+      "d": "Medium",
+      "topic": "Mass-to-mass stoichiometry",
+      "slo": "Apply concepts of mass-to-mass stoichiometry in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-297",
+      "q": "For 4Fe + 3O2 → 2Fe2O3, calculate the theoretical mass of Fe2O3 formed from 4032 g of Fe, with other reactants in excess. Use M(Fe)=56 g/mol and M(Fe2O3)=160 g/mol.",
+      "o": [
+        "2880",
+        "5920",
+        "5760",
+        "11520"
+      ],
+      "a": 2,
+      "e": "4032 g Fe = 72 mol. The 4:2 ratio gives 36 mol Fe2O3; mass = 5760 g.",
+      "d": "Medium",
+      "topic": "Mass-to-mass stoichiometry",
+      "slo": "Apply concepts of mass-to-mass stoichiometry in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-298",
+      "q": "For 4Fe + 3O2 → 2Fe2O3, calculate the theoretical mass of Fe2O3 formed from 1824 g of O2, with other reactants in excess. Use M(O2)=32 g/mol and M(Fe2O3)=160 g/mol.",
+      "o": [
+        "6080",
+        "12160",
+        "3040",
+        "6240"
+      ],
+      "a": 0,
+      "e": "1824 g O2 = 57 mol. The 3:2 ratio gives 38 mol Fe2O3; mass = 6080 g.",
+      "d": "Medium",
+      "topic": "Mass-to-mass stoichiometry",
+      "slo": "Apply concepts of mass-to-mass stoichiometry in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-299",
+      "q": "For 2SO2 + O2 → 2SO3, calculate the theoretical mass of SO3 formed from 2560 g of SO2, with other reactants in excess. Use M(SO2)=64 g/mol and M(SO3)=80 g/mol.",
+      "o": [
+        "6400",
+        "3200",
+        "1600",
+        "3280"
+      ],
+      "a": 1,
+      "e": "2560 g SO2 = 40 mol. The 2:2 ratio gives 40 mol SO3; mass = 3200 g.",
+      "d": "Medium",
+      "topic": "Mass-to-mass stoichiometry",
+      "slo": "Apply concepts of mass-to-mass stoichiometry in stoichiometry."
+    },
+    {
+      "id": "CHEM9CH6-300",
+      "q": "For 2SO2 + O2 → 2SO3, calculate the theoretical mass of SO3 formed from 672 g of O2, with other reactants in excess. Use M(O2)=32 g/mol and M(SO3)=80 g/mol.",
+      "o": [
+        "3440",
+        "3360",
+        "1680",
+        "6720"
+      ],
+      "a": 1,
+      "e": "672 g O2 = 21 mol. The 1:2 ratio gives 42 mol SO3; mass = 3360 g.",
+      "d": "Medium",
+      "topic": "Mass-to-mass stoichiometry",
+      "slo": "Apply concepts of mass-to-mass stoichiometry in stoichiometry."
+    }
+  ]
+}

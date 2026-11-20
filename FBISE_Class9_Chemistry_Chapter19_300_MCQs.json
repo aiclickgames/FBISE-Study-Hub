@@ -1,0 +1,4504 @@
+{
+  "questions": [
+    {
+      "id": "CHEM9CH19-001",
+      "q": "A chromatogram has a solvent front 20 cm from the origin and a solute spot 12 cm from the origin. What is its Rf?",
+      "o": [
+        "0.7",
+        "0.8",
+        "0.5",
+        "0.6"
+      ],
+      "a": 3,
+      "e": "Rf = 12/20 = 0.6.",
+      "d": "Medium",
+      "topic": "Rf calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-002",
+      "q": "A separated component moved 15 cm and has Rf 0.75. How far did the solvent front move?",
+      "o": [
+        "22 cm",
+        "35 cm",
+        "20 cm",
+        "15 cm"
+      ],
+      "a": 2,
+      "e": "Solvent-front distance = spot distance / Rf = 15/0.75 = 20 cm.",
+      "d": "Medium",
+      "topic": "Solvent-front calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-003",
+      "q": "In paper chromatography, Rf is 0.6 and the solvent front has travelled 25 cm. How far has the solute spot travelled?",
+      "o": [
+        "25 cm",
+        "10 cm",
+        "15 cm",
+        "40 cm"
+      ],
+      "a": 2,
+      "e": "Spot distance = Rf x solvent distance = 0.6 x 25 = 15 cm.",
+      "d": "Medium",
+      "topic": "Distance calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-004",
+      "q": "Where is the ink sample placed?",
+      "o": [
+        "At the top of the cylinder",
+        "Directly in the solvent reservoir",
+        "At the midpoint of the baseline",
+        "At the solvent front"
+      ],
+      "a": 2,
+      "e": "The procedure places a small spot at the baseline midpoint.",
+      "d": "Easy",
+      "topic": "Paper chromatography",
+      "slo": "Identify and explain chromatography concepts and interpret experimental observations"
+    },
+    {
+      "id": "CHEM9CH19-005",
+      "q": "A chromatogram has a solvent front 24 cm from the origin and a solute spot 18 cm from the origin. What is its Rf?",
+      "o": [
+        "0.85",
+        "0.95",
+        "0.75",
+        "0.65"
+      ],
+      "a": 2,
+      "e": "Rf = 18/24 = 0.75.",
+      "d": "Medium",
+      "topic": "Rf calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-006",
+      "q": "In paper chromatography, Rf is 0.2 and the solvent front has travelled 25 cm. How far has the solute spot travelled?",
+      "o": [
+        "30 cm",
+        "20 cm",
+        "5 cm",
+        "25 cm"
+      ],
+      "a": 2,
+      "e": "Spot distance = Rf x solvent distance = 0.2 x 25 = 5 cm.",
+      "d": "Medium",
+      "topic": "Distance calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-007",
+      "q": "What should be compared to identify an unknown spot?",
+      "o": [
+        "The total mass of the table",
+        "The date of the experiment only",
+        "Its Rf and appearance with known standards",
+        "The colour of the glass hook only"
+      ],
+      "a": 2,
+      "e": "Standards can help identify separated components.",
+      "d": "Easy",
+      "topic": "Locating agents and identification",
+      "slo": "Identify and explain chromatography concepts and interpret experimental observations"
+    },
+    {
+      "id": "CHEM9CH19-008",
+      "q": "A dye spot is 7 cm above the baseline while the solvent front is 14 cm above it. Calculate the retention factor.",
+      "o": [
+        "0.8",
+        "0.6",
+        "0.5",
+        "0.7"
+      ],
+      "a": 2,
+      "e": "Rf = 7/14 = 0.5.",
+      "d": "Easy",
+      "topic": "Rf decimal calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-009",
+      "q": "A chromatogram has a solvent front 20 cm from the origin and a solute spot 5 cm from the origin. What is its Rf?",
+      "o": [
+        "0.45",
+        "0.25",
+        "0.15",
+        "0.35"
+      ],
+      "a": 1,
+      "e": "Rf = 5/20 = 0.25.",
+      "d": "Medium",
+      "topic": "Rf calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-010",
+      "q": "A dye spot is 2.2 cm above the baseline while the solvent front is 11 cm above it. Calculate the retention factor.",
+      "o": [
+        "0.2",
+        "0.5",
+        "0.3",
+        "0.4"
+      ],
+      "a": 0,
+      "e": "Rf = 2.2/11 = 0.2.",
+      "d": "Easy",
+      "topic": "Rf decimal calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-011",
+      "q": "A chromatogram has a solvent front 10 cm from the origin and a solute spot 5 cm from the origin. What is its Rf?",
+      "o": [
+        "0.5",
+        "0.4",
+        "0.6",
+        "0.7"
+      ],
+      "a": 0,
+      "e": "Rf = 5/10 = 0.5.",
+      "d": "Medium",
+      "topic": "Rf calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-012",
+      "q": "A chromatogram has a solvent front 40 cm from the origin and a solute spot 32 cm from the origin. What is its Rf?",
+      "o": [
+        "0.7",
+        "1",
+        "0.8",
+        "0.9"
+      ],
+      "a": 2,
+      "e": "Rf = 32/40 = 0.8.",
+      "d": "Medium",
+      "topic": "Rf calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-013",
+      "q": "In paper chromatography, Rf is 0.4 and the solvent front has travelled 10 cm. How far has the solute spot travelled?",
+      "o": [
+        "14 cm",
+        "4 cm",
+        "6 cm",
+        "10 cm"
+      ],
+      "a": 1,
+      "e": "Spot distance = Rf x solvent distance = 0.4 x 10 = 4 cm.",
+      "d": "Medium",
+      "topic": "Distance calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-014",
+      "q": "A dye spot is 3 cm above the baseline while the solvent front is 15 cm above it. Calculate the retention factor.",
+      "o": [
+        "0.4",
+        "0.2",
+        "0.5",
+        "0.3"
+      ],
+      "a": 1,
+      "e": "Rf = 3/15 = 0.2.",
+      "d": "Easy",
+      "topic": "Rf decimal calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-015",
+      "q": "In paper chromatography, Rf is 0.4 and the solvent front has travelled 50 cm. How far has the solute spot travelled?",
+      "o": [
+        "30 cm",
+        "20 cm",
+        "50 cm",
+        "70 cm"
+      ],
+      "a": 1,
+      "e": "Spot distance = Rf x solvent distance = 0.4 x 50 = 20 cm.",
+      "d": "Medium",
+      "topic": "Distance calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-016",
+      "q": "A dye spot is 6 cm above the baseline while the solvent front is 12 cm above it. Calculate the retention factor.",
+      "o": [
+        "0.8",
+        "0.5",
+        "0.7",
+        "0.6"
+      ],
+      "a": 1,
+      "e": "Rf = 6/12 = 0.5.",
+      "d": "Easy",
+      "topic": "Rf decimal calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-017",
+      "q": "A dye spot is 5.6 cm above the baseline while the solvent front is 7 cm above it. Calculate the retention factor.",
+      "o": [
+        "1.1",
+        "0.8",
+        "1",
+        "0.9"
+      ],
+      "a": 1,
+      "e": "Rf = 5.6/7 = 0.8.",
+      "d": "Easy",
+      "topic": "Rf decimal calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-018",
+      "q": "Which colour has Rf 0.6 in the textbook chromatogram?",
+      "o": [
+        "Blue",
+        "Green",
+        "Purple",
+        "Red"
+      ],
+      "a": 2,
+      "e": "Purple travels 6 cm with a 10 cm solvent front.",
+      "d": "Easy",
+      "topic": "Rf and interpretation",
+      "slo": "Identify and explain chromatography concepts and interpret experimental observations"
+    },
+    {
+      "id": "CHEM9CH19-019",
+      "q": "Which mixture is used as a sample in the textbook procedure?",
+      "o": [
+        "A mixture of sand and stones",
+        "A mixture of coloured inks",
+        "Pure sodium chloride crystals",
+        "Molten iron and zinc"
+      ],
+      "a": 1,
+      "e": "The practical separates coloured inks.",
+      "d": "Easy",
+      "topic": "Paper chromatography",
+      "slo": "Identify and explain chromatography concepts and interpret experimental observations"
+    },
+    {
+      "id": "CHEM9CH19-020",
+      "q": "A dye spot is 8.4 cm above the baseline while the solvent front is 12 cm above it. Calculate the retention factor.",
+      "o": [
+        "0.9",
+        "0.7",
+        "1",
+        "0.8"
+      ],
+      "a": 1,
+      "e": "Rf = 8.4/12 = 0.7.",
+      "d": "Easy",
+      "topic": "Rf decimal calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-021",
+      "q": "A dye spot is 2.6 cm above the baseline while the solvent front is 26 cm above it. Calculate the retention factor.",
+      "o": [
+        "0.1",
+        "0.3",
+        "0.4",
+        "0.2"
+      ],
+      "a": 0,
+      "e": "Rf = 2.6/26 = 0.1.",
+      "d": "Easy",
+      "topic": "Rf decimal calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-022",
+      "q": "What principle underlies chromatography?",
+      "o": [
+        "Radioactive decay",
+        "Magnetic induction only",
+        "Partitioning between two phases",
+        "Electrolysis alone"
+      ],
+      "a": 2,
+      "e": "Components distribute differently between stationary and mobile phases.",
+      "d": "Easy",
+      "topic": "Principles and phases",
+      "slo": "Identify and explain chromatography concepts and interpret experimental observations"
+    },
+    {
+      "id": "CHEM9CH19-023",
+      "q": "A chromatogram has a solvent front 10 cm from the origin and a solute spot 6 cm from the origin. What is its Rf?",
+      "o": [
+        "0.5",
+        "0.8",
+        "0.7",
+        "0.6"
+      ],
+      "a": 3,
+      "e": "Rf = 6/10 = 0.6.",
+      "d": "Medium",
+      "topic": "Rf calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-024",
+      "q": "A dye spot is 19.8 cm above the baseline while the solvent front is 22 cm above it. Calculate the retention factor.",
+      "o": [
+        "1",
+        "1.2",
+        "0.9",
+        "1.1"
+      ],
+      "a": 2,
+      "e": "Rf = 19.8/22 = 0.9.",
+      "d": "Easy",
+      "topic": "Rf decimal calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-025",
+      "q": "A chromatogram has a solvent front 40 cm from the origin and a solute spot 16 cm from the origin. What is its Rf?",
+      "o": [
+        "0.6",
+        "0.3",
+        "0.4",
+        "0.5"
+      ],
+      "a": 2,
+      "e": "Rf = 16/40 = 0.4.",
+      "d": "Medium",
+      "topic": "Rf calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-026",
+      "q": "A chromatogram has a solvent front 10 cm from the origin and a solute spot 4 cm from the origin. What is its Rf?",
+      "o": [
+        "0.6",
+        "0.4",
+        "0.3",
+        "0.5"
+      ],
+      "a": 1,
+      "e": "Rf = 4/10 = 0.4.",
+      "d": "Medium",
+      "topic": "Rf calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-027",
+      "q": "What is measured to calculate an Rf value?",
+      "o": [
+        "Diameter of the rubber bung only",
+        "Colour temperature only",
+        "Distances of component spot and solvent front from the baseline",
+        "Masses of the glass hook and cylinder"
+      ],
+      "a": 2,
+      "e": "Rf requires the two migration distances measured from the origin.",
+      "d": "Easy",
+      "topic": "Paper chromatography",
+      "slo": "Identify and explain chromatography concepts and interpret experimental observations"
+    },
+    {
+      "id": "CHEM9CH19-028",
+      "q": "A chromatogram has a solvent front 30 cm from the origin and a solute spot 15 cm from the origin. What is its Rf?",
+      "o": [
+        "0.6",
+        "0.7",
+        "0.4",
+        "0.5"
+      ],
+      "a": 3,
+      "e": "Rf = 15/30 = 0.5.",
+      "d": "Medium",
+      "topic": "Rf calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-029",
+      "q": "A chromatogram has a solvent front 5 cm from the origin and a solute spot 4 cm from the origin. What is its Rf?",
+      "o": [
+        "0.7",
+        "0.8",
+        "0.9",
+        "1"
+      ],
+      "a": 1,
+      "e": "Rf = 4/5 = 0.8.",
+      "d": "Medium",
+      "topic": "Rf calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-030",
+      "q": "A separated component moved 2 cm and has Rf 0.2. How far did the solvent front move?",
+      "o": [
+        "2 cm",
+        "10 cm",
+        "20 cm",
+        "12 cm"
+      ],
+      "a": 1,
+      "e": "Solvent-front distance = spot distance / Rf = 2/0.2 = 10 cm.",
+      "d": "Medium",
+      "topic": "Solvent-front calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-031",
+      "q": "A separated component moved 16 cm and has Rf 0.4. How far did the solvent front move?",
+      "o": [
+        "16 cm",
+        "42 cm",
+        "40 cm",
+        "56 cm"
+      ],
+      "a": 2,
+      "e": "Solvent-front distance = spot distance / Rf = 16/0.4 = 40 cm.",
+      "d": "Medium",
+      "topic": "Solvent-front calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-032",
+      "q": "Which states can the mobile phase have?",
+      "o": [
+        "Only crystalline material",
+        "Only solid",
+        "Liquid or gas",
+        "Only plasma"
+      ],
+      "a": 2,
+      "e": "A mobile phase may be liquid or gas.",
+      "d": "Easy",
+      "topic": "Principles and phases",
+      "slo": "Identify and explain chromatography concepts and interpret experimental observations"
+    },
+    {
+      "id": "CHEM9CH19-033",
+      "q": "A dye spot is 5 cm above the baseline while the solvent front is 25 cm above it. Calculate the retention factor.",
+      "o": [
+        "0.3",
+        "0.2",
+        "0.4",
+        "0.5"
+      ],
+      "a": 1,
+      "e": "Rf = 5/25 = 0.2.",
+      "d": "Easy",
+      "topic": "Rf decimal calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-034",
+      "q": "A dye spot is 3 cm above the baseline while the solvent front is 10 cm above it. Calculate the retention factor.",
+      "o": [
+        "0.4",
+        "0.3",
+        "0.6",
+        "0.5"
+      ],
+      "a": 1,
+      "e": "Rf = 3/10 = 0.3.",
+      "d": "Easy",
+      "topic": "Rf decimal calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-035",
+      "q": "A dye spot is 9.6 cm above the baseline while the solvent front is 12 cm above it. Calculate the retention factor.",
+      "o": [
+        "1.1",
+        "0.9",
+        "1",
+        "0.8"
+      ],
+      "a": 3,
+      "e": "Rf = 9.6/12 = 0.8.",
+      "d": "Easy",
+      "topic": "Rf decimal calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-036",
+      "q": "A dye spot is 4.9 cm above the baseline while the solvent front is 7 cm above it. Calculate the retention factor.",
+      "o": [
+        "0.9",
+        "0.8",
+        "1",
+        "0.7"
+      ],
+      "a": 3,
+      "e": "Rf = 4.9/7 = 0.7.",
+      "d": "Easy",
+      "topic": "Rf decimal calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-037",
+      "q": "In paper chromatography, what does the textbook identify as the stationary phase?",
+      "o": [
+        "The rising solvent mixture",
+        "Water adsorbed on cellulose paper",
+        "Air above the cylinder",
+        "The sample ink alone"
+      ],
+      "a": 1,
+      "e": "The textbook describes water associated with the paper as the stationary phase.",
+      "d": "Easy",
+      "topic": "Paper chromatography",
+      "slo": "Identify and explain chromatography concepts and interpret experimental observations"
+    },
+    {
+      "id": "CHEM9CH19-038",
+      "q": "A dye spot is 11.2 cm above the baseline while the solvent front is 14 cm above it. Calculate the retention factor.",
+      "o": [
+        "1",
+        "1.1",
+        "0.8",
+        "0.9"
+      ],
+      "a": 2,
+      "e": "Rf = 11.2/14 = 0.8.",
+      "d": "Easy",
+      "topic": "Rf decimal calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-039",
+      "q": "A dye spot is 5.1 cm above the baseline while the solvent front is 17 cm above it. Calculate the retention factor.",
+      "o": [
+        "0.4",
+        "0.3",
+        "0.5",
+        "0.6"
+      ],
+      "a": 1,
+      "e": "Rf = 5.1/17 = 0.3.",
+      "d": "Easy",
+      "topic": "Rf decimal calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-040",
+      "q": "A dye spot is 4.2 cm above the baseline while the solvent front is 21 cm above it. Calculate the retention factor.",
+      "o": [
+        "0.3",
+        "0.5",
+        "0.2",
+        "0.4"
+      ],
+      "a": 2,
+      "e": "Rf = 4.2/21 = 0.2.",
+      "d": "Easy",
+      "topic": "Rf decimal calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-041",
+      "q": "A chromatogram has a solvent front 40 cm from the origin and a solute spot 20 cm from the origin. What is its Rf?",
+      "o": [
+        "0.4",
+        "0.5",
+        "0.7",
+        "0.6"
+      ],
+      "a": 1,
+      "e": "Rf = 20/40 = 0.5.",
+      "d": "Medium",
+      "topic": "Rf calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-042",
+      "q": "A dye spot is 6.8 cm above the baseline while the solvent front is 17 cm above it. Calculate the retention factor.",
+      "o": [
+        "0.7",
+        "0.6",
+        "0.5",
+        "0.4"
+      ],
+      "a": 3,
+      "e": "Rf = 6.8/17 = 0.4.",
+      "d": "Easy",
+      "topic": "Rf decimal calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-043",
+      "q": "A separated component moved 6 cm and has Rf 0.2. How far did the solvent front move?",
+      "o": [
+        "36 cm",
+        "30 cm",
+        "32 cm",
+        "6 cm"
+      ],
+      "a": 1,
+      "e": "Solvent-front distance = spot distance / Rf = 6/0.2 = 30 cm.",
+      "d": "Medium",
+      "topic": "Solvent-front calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-044",
+      "q": "What does Rf stand for in the chapter?",
+      "o": [
+        "Reaction frequency",
+        "Retention factor",
+        "Radiation flux",
+        "Relative force"
+      ],
+      "a": 1,
+      "e": "The chapter calls Rf the retention factor.",
+      "d": "Easy",
+      "topic": "Rf and interpretation",
+      "slo": "Identify and explain chromatography concepts and interpret experimental observations"
+    },
+    {
+      "id": "CHEM9CH19-045",
+      "q": "Which colour travels least in the textbook diagram?",
+      "o": [
+        "Purple",
+        "All equally",
+        "Red",
+        "Blue"
+      ],
+      "a": 2,
+      "e": "Red moves 2 cm, less than the other two.",
+      "d": "Easy",
+      "topic": "Rf and interpretation",
+      "slo": "Identify and explain chromatography concepts and interpret experimental observations"
+    },
+    {
+      "id": "CHEM9CH19-046",
+      "q": "A dye spot is 2.4 cm above the baseline while the solvent front is 24 cm above it. Calculate the retention factor.",
+      "o": [
+        "0.4",
+        "0.1",
+        "0.3",
+        "0.2"
+      ],
+      "a": 1,
+      "e": "Rf = 2.4/24 = 0.1.",
+      "d": "Easy",
+      "topic": "Rf decimal calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-047",
+      "q": "A chromatogram has a solvent front 30 cm from the origin and a solute spot 24 cm from the origin. What is its Rf?",
+      "o": [
+        "0.7",
+        "0.9",
+        "0.8",
+        "1"
+      ],
+      "a": 2,
+      "e": "Rf = 24/30 = 0.8.",
+      "d": "Medium",
+      "topic": "Rf calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-048",
+      "q": "A dye spot is 7.2 cm above the baseline while the solvent front is 18 cm above it. Calculate the retention factor.",
+      "o": [
+        "0.4",
+        "0.5",
+        "0.6",
+        "0.7"
+      ],
+      "a": 0,
+      "e": "Rf = 7.2/18 = 0.4.",
+      "d": "Easy",
+      "topic": "Rf decimal calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-049",
+      "q": "In paper chromatography, Rf is 0.6 and the solvent front has travelled 10 cm. How far has the solute spot travelled?",
+      "o": [
+        "10 cm",
+        "4 cm",
+        "16 cm",
+        "6 cm"
+      ],
+      "a": 3,
+      "e": "Spot distance = Rf x solvent distance = 0.6 x 10 = 6 cm.",
+      "d": "Medium",
+      "topic": "Distance calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-050",
+      "q": "In paper chromatography, Rf is 0.8 and the solvent front has travelled 20 cm. How far has the solute spot travelled?",
+      "o": [
+        "16 cm",
+        "36 cm",
+        "20 cm",
+        "4 cm"
+      ],
+      "a": 0,
+      "e": "Spot distance = Rf x solvent distance = 0.8 x 20 = 16 cm.",
+      "d": "Medium",
+      "topic": "Distance calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-051",
+      "q": "A dye spot is 6 cm above the baseline while the solvent front is 20 cm above it. Calculate the retention factor.",
+      "o": [
+        "0.4",
+        "0.5",
+        "0.3",
+        "0.6"
+      ],
+      "a": 2,
+      "e": "Rf = 6/20 = 0.3.",
+      "d": "Easy",
+      "topic": "Rf decimal calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-052",
+      "q": "Why should Rf values be compared under the same conditions?",
+      "o": [
+        "Rf depends only on the colour name",
+        "Solvent and stationary-phase conditions affect migration",
+        "Rf never changes with conditions",
+        "All solvents give identical Rf values"
+      ],
+      "a": 1,
+      "e": "Comparable conditions are needed for reliable Rf matching.",
+      "d": "Easy",
+      "topic": "Rf and interpretation",
+      "slo": "Identify and explain chromatography concepts and interpret experimental observations"
+    },
+    {
+      "id": "CHEM9CH19-053",
+      "q": "A dye spot is 6.4 cm above the baseline while the solvent front is 16 cm above it. Calculate the retention factor.",
+      "o": [
+        "0.7",
+        "0.4",
+        "0.5",
+        "0.6"
+      ],
+      "a": 1,
+      "e": "Rf = 6.4/16 = 0.4.",
+      "d": "Easy",
+      "topic": "Rf decimal calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-054",
+      "q": "A dye spot is 6.4 cm above the baseline while the solvent front is 8 cm above it. Calculate the retention factor.",
+      "o": [
+        "0.8",
+        "1.1",
+        "0.9",
+        "1"
+      ],
+      "a": 0,
+      "e": "Rf = 6.4/8 = 0.8.",
+      "d": "Easy",
+      "topic": "Rf decimal calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-055",
+      "q": "A dye spot is 4.2 cm above the baseline while the solvent front is 14 cm above it. Calculate the retention factor.",
+      "o": [
+        "0.4",
+        "0.3",
+        "0.5",
+        "0.6"
+      ],
+      "a": 1,
+      "e": "Rf = 4.2/14 = 0.3.",
+      "d": "Easy",
+      "topic": "Rf decimal calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-056",
+      "q": "In paper chromatography, Rf is 0.6 and the solvent front has travelled 20 cm. How far has the solute spot travelled?",
+      "o": [
+        "12 cm",
+        "8 cm",
+        "20 cm",
+        "32 cm"
+      ],
+      "a": 0,
+      "e": "Spot distance = Rf x solvent distance = 0.6 x 20 = 12 cm.",
+      "d": "Medium",
+      "topic": "Distance calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-057",
+      "q": "A dye spot is 9.6 cm above the baseline while the solvent front is 24 cm above it. Calculate the retention factor.",
+      "o": [
+        "0.4",
+        "0.7",
+        "0.6",
+        "0.5"
+      ],
+      "a": 0,
+      "e": "Rf = 9.6/24 = 0.4.",
+      "d": "Easy",
+      "topic": "Rf decimal calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-058",
+      "q": "In paper chromatography, Rf is 0.6 and the solvent front has travelled 40 cm. How far has the solute spot travelled?",
+      "o": [
+        "40 cm",
+        "24 cm",
+        "16 cm",
+        "64 cm"
+      ],
+      "a": 1,
+      "e": "Spot distance = Rf x solvent distance = 0.6 x 40 = 24 cm.",
+      "d": "Medium",
+      "topic": "Distance calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-059",
+      "q": "A chromatogram has a solvent front 30 cm from the origin and a solute spot 27 cm from the origin. What is its Rf?",
+      "o": [
+        "0.8",
+        "1",
+        "1.1",
+        "0.9"
+      ],
+      "a": 3,
+      "e": "Rf = 27/30 = 0.9.",
+      "d": "Medium",
+      "topic": "Rf calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-060",
+      "q": "Why do mixture components travel different distances?",
+      "o": [
+        "They have different affinities for the two phases",
+        "The paper generates different gravity",
+        "They all have identical affinities",
+        "They must have identical masses"
+      ],
+      "a": 0,
+      "e": "Different interactions with the phases produce different migration rates.",
+      "d": "Easy",
+      "topic": "Principles and phases",
+      "slo": "Identify and explain chromatography concepts and interpret experimental observations"
+    },
+    {
+      "id": "CHEM9CH19-061",
+      "q": "How many phases are involved in basic chromatography?",
+      "o": [
+        "Three compulsory gas phases",
+        "One",
+        "Four identical phases",
+        "Two"
+      ],
+      "a": 3,
+      "e": "A stationary phase and a mobile phase are involved.",
+      "d": "Easy",
+      "topic": "Principles and phases",
+      "slo": "Identify and explain chromatography concepts and interpret experimental observations"
+    },
+    {
+      "id": "CHEM9CH19-062",
+      "q": "A chromatogram has a solvent front 25 cm from the origin and a solute spot 10 cm from the origin. What is its Rf?",
+      "o": [
+        "0.6",
+        "0.4",
+        "0.3",
+        "0.5"
+      ],
+      "a": 1,
+      "e": "Rf = 10/25 = 0.4.",
+      "d": "Medium",
+      "topic": "Rf calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-063",
+      "q": "A chromatogram has a solvent front 5 cm from the origin and a solute spot 1 cm from the origin. What is its Rf?",
+      "o": [
+        "0.1",
+        "0.2",
+        "0.4",
+        "0.3"
+      ],
+      "a": 1,
+      "e": "Rf = 1/5 = 0.2.",
+      "d": "Medium",
+      "topic": "Rf calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-064",
+      "q": "A chromatogram has a solvent front 25 cm from the origin and a solute spot 5 cm from the origin. What is its Rf?",
+      "o": [
+        "0.2",
+        "0.4",
+        "0.1",
+        "0.3"
+      ],
+      "a": 0,
+      "e": "Rf = 5/25 = 0.2.",
+      "d": "Medium",
+      "topic": "Rf calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-065",
+      "q": "A chromatogram has a solvent front 8 cm from the origin and a solute spot 2 cm from the origin. What is its Rf?",
+      "o": [
+        "0.15",
+        "0.45",
+        "0.35",
+        "0.25"
+      ],
+      "a": 3,
+      "e": "Rf = 2/8 = 0.25.",
+      "d": "Medium",
+      "topic": "Rf calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-066",
+      "q": "A dye spot is 2.4 cm above the baseline while the solvent front is 8 cm above it. Calculate the retention factor.",
+      "o": [
+        "0.3",
+        "0.4",
+        "0.5",
+        "0.6"
+      ],
+      "a": 0,
+      "e": "Rf = 2.4/8 = 0.3.",
+      "d": "Easy",
+      "topic": "Rf decimal calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-067",
+      "q": "A dye spot is 16.8 cm above the baseline while the solvent front is 24 cm above it. Calculate the retention factor.",
+      "o": [
+        "0.7",
+        "1",
+        "0.8",
+        "0.9"
+      ],
+      "a": 0,
+      "e": "Rf = 16.8/24 = 0.7.",
+      "d": "Easy",
+      "topic": "Rf decimal calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-068",
+      "q": "What is the phase that stays in place called?",
+      "o": [
+        "Stationary phase",
+        "Mobile phase",
+        "Solvent front",
+        "Sample spot"
+      ],
+      "a": 0,
+      "e": "The stationary phase remains in place.",
+      "d": "Easy",
+      "topic": "Principles and phases",
+      "slo": "Identify and explain chromatography concepts and interpret experimental observations"
+    },
+    {
+      "id": "CHEM9CH19-069",
+      "q": "In paper chromatography, Rf is 0.5 and the solvent front has travelled 50 cm. How far has the solute spot travelled?",
+      "o": [
+        "25 cm",
+        "75 cm",
+        "50 cm",
+        "26 cm"
+      ],
+      "a": 0,
+      "e": "Spot distance = Rf x solvent distance = 0.5 x 50 = 25 cm.",
+      "d": "Medium",
+      "topic": "Distance calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-070",
+      "q": "A chromatogram has a solvent front 16 cm from the origin and a solute spot 8 cm from the origin. What is its Rf?",
+      "o": [
+        "0.7",
+        "0.4",
+        "0.6",
+        "0.5"
+      ],
+      "a": 3,
+      "e": "Rf = 8/16 = 0.5.",
+      "d": "Medium",
+      "topic": "Rf calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-071",
+      "q": "In paper chromatography, Rf is 0.2 and the solvent front has travelled 40 cm. How far has the solute spot travelled?",
+      "o": [
+        "40 cm",
+        "32 cm",
+        "48 cm",
+        "8 cm"
+      ],
+      "a": 3,
+      "e": "Spot distance = Rf x solvent distance = 0.2 x 40 = 8 cm.",
+      "d": "Medium",
+      "topic": "Distance calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-072",
+      "q": "A dye spot is 15.3 cm above the baseline while the solvent front is 17 cm above it. Calculate the retention factor.",
+      "o": [
+        "1.2",
+        "1.1",
+        "0.9",
+        "1"
+      ],
+      "a": 2,
+      "e": "Rf = 15.3/17 = 0.9.",
+      "d": "Easy",
+      "topic": "Rf decimal calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-073",
+      "q": "A chromatogram has a solvent front 10 cm from the origin and a solute spot 2 cm from the origin. What is its Rf?",
+      "o": [
+        "0.4",
+        "0.3",
+        "0.1",
+        "0.2"
+      ],
+      "a": 3,
+      "e": "Rf = 2/10 = 0.2.",
+      "d": "Medium",
+      "topic": "Rf calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-074",
+      "q": "A chromatogram has a solvent front 5 cm from the origin and a solute spot 3 cm from the origin. What is its Rf?",
+      "o": [
+        "0.6",
+        "0.8",
+        "0.5",
+        "0.7"
+      ],
+      "a": 0,
+      "e": "Rf = 3/5 = 0.6.",
+      "d": "Medium",
+      "topic": "Rf calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-075",
+      "q": "In paper chromatography, Rf is 0.4 and the solvent front has travelled 30 cm. How far has the solute spot travelled?",
+      "o": [
+        "42 cm",
+        "30 cm",
+        "12 cm",
+        "18 cm"
+      ],
+      "a": 2,
+      "e": "Spot distance = Rf x solvent distance = 0.4 x 30 = 12 cm.",
+      "d": "Medium",
+      "topic": "Distance calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-076",
+      "q": "What mixture serves as the solvent in the given procedure?",
+      "o": [
+        "Sand and salt",
+        "Oil and mercury",
+        "Water and ethanol",
+        "Petrol and kerosene only"
+      ],
+      "a": 2,
+      "e": "The textbook uses a water-ethanol solvent mixture.",
+      "d": "Easy",
+      "topic": "Paper chromatography",
+      "slo": "Identify and explain chromatography concepts and interpret experimental observations"
+    },
+    {
+      "id": "CHEM9CH19-077",
+      "q": "A chromatogram has a solvent front 24 cm from the origin and a solute spot 12 cm from the origin. What is its Rf?",
+      "o": [
+        "0.7",
+        "0.4",
+        "0.5",
+        "0.6"
+      ],
+      "a": 2,
+      "e": "Rf = 12/24 = 0.5.",
+      "d": "Medium",
+      "topic": "Rf calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-078",
+      "q": "A dye spot is 7.2 cm above the baseline while the solvent front is 9 cm above it. Calculate the retention factor.",
+      "o": [
+        "0.8",
+        "1.1",
+        "0.9",
+        "1"
+      ],
+      "a": 0,
+      "e": "Rf = 7.2/9 = 0.8.",
+      "d": "Easy",
+      "topic": "Rf decimal calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-079",
+      "q": "In paper chromatography, Rf is 0.5 and the solvent front has travelled 30 cm. How far has the solute spot travelled?",
+      "o": [
+        "15 cm",
+        "30 cm",
+        "45 cm",
+        "16 cm"
+      ],
+      "a": 0,
+      "e": "Spot distance = Rf x solvent distance = 0.5 x 30 = 15 cm.",
+      "d": "Medium",
+      "topic": "Distance calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-080",
+      "q": "A separated component moved 6 cm and has Rf 0.75. How far did the solvent front move?",
+      "o": [
+        "8 cm",
+        "6 cm",
+        "10 cm",
+        "14 cm"
+      ],
+      "a": 0,
+      "e": "Solvent-front distance = spot distance / Rf = 6/0.75 = 8 cm.",
+      "d": "Medium",
+      "topic": "Solvent-front calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-081",
+      "q": "In paper chromatography, Rf is 0.8 and the solvent front has travelled 25 cm. How far has the solute spot travelled?",
+      "o": [
+        "5 cm",
+        "25 cm",
+        "45 cm",
+        "20 cm"
+      ],
+      "a": 3,
+      "e": "Spot distance = Rf x solvent distance = 0.8 x 25 = 20 cm.",
+      "d": "Medium",
+      "topic": "Distance calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-082",
+      "q": "A dye spot is 4.8 cm above the baseline while the solvent front is 16 cm above it. Calculate the retention factor.",
+      "o": [
+        "0.4",
+        "0.5",
+        "0.3",
+        "0.6"
+      ],
+      "a": 2,
+      "e": "Rf = 4.8/16 = 0.3.",
+      "d": "Easy",
+      "topic": "Rf decimal calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-083",
+      "q": "Does Rf have a unit?",
+      "o": [
+        "Yes, seconds",
+        "Yes, grams",
+        "Yes, centimetres",
+        "No, it is dimensionless"
+      ],
+      "a": 3,
+      "e": "A distance divided by a distance is dimensionless.",
+      "d": "Easy",
+      "topic": "Rf and interpretation",
+      "slo": "Identify and explain chromatography concepts and interpret experimental observations"
+    },
+    {
+      "id": "CHEM9CH19-084",
+      "q": "What is fitted at the lower end of the cylinder in the procedure?",
+      "o": [
+        "An electric heater",
+        "A Bunsen burner",
+        "A rubber bung carrying a glass hook",
+        "A copper electrode"
+      ],
+      "a": 2,
+      "e": "The specified apparatus uses a rubber bung and glass hook.",
+      "d": "Easy",
+      "topic": "Paper chromatography",
+      "slo": "Identify and explain chromatography concepts and interpret experimental observations"
+    },
+    {
+      "id": "CHEM9CH19-085",
+      "q": "In paper chromatography, Rf is 0.6 and the solvent front has travelled 50 cm. How far has the solute spot travelled?",
+      "o": [
+        "80 cm",
+        "20 cm",
+        "30 cm",
+        "50 cm"
+      ],
+      "a": 2,
+      "e": "Spot distance = Rf x solvent distance = 0.6 x 50 = 30 cm.",
+      "d": "Medium",
+      "topic": "Distance calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-086",
+      "q": "A dye spot is 2.8 cm above the baseline while the solvent front is 7 cm above it. Calculate the retention factor.",
+      "o": [
+        "0.6",
+        "0.7",
+        "0.5",
+        "0.4"
+      ],
+      "a": 3,
+      "e": "Rf = 2.8/7 = 0.4.",
+      "d": "Easy",
+      "topic": "Rf decimal calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-087",
+      "q": "In paper chromatography, Rf is 0.8 and the solvent front has travelled 30 cm. How far has the solute spot travelled?",
+      "o": [
+        "6 cm",
+        "54 cm",
+        "30 cm",
+        "24 cm"
+      ],
+      "a": 3,
+      "e": "Spot distance = Rf x solvent distance = 0.8 x 30 = 24 cm.",
+      "d": "Medium",
+      "topic": "Distance calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-088",
+      "q": "A dye spot is 17.5 cm above the baseline while the solvent front is 25 cm above it. Calculate the retention factor.",
+      "o": [
+        "0.9",
+        "1",
+        "0.7",
+        "0.8"
+      ],
+      "a": 2,
+      "e": "Rf = 17.5/25 = 0.7.",
+      "d": "Easy",
+      "topic": "Rf decimal calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-089",
+      "q": "A chromatogram has a solvent front 8 cm from the origin and a solute spot 6 cm from the origin. What is its Rf?",
+      "o": [
+        "0.95",
+        "0.65",
+        "0.75",
+        "0.85"
+      ],
+      "a": 2,
+      "e": "Rf = 6/8 = 0.75.",
+      "d": "Medium",
+      "topic": "Rf calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-090",
+      "q": "A chromatogram has a solvent front 20 cm from the origin and a solute spot 4 cm from the origin. What is its Rf?",
+      "o": [
+        "0.1",
+        "0.4",
+        "0.2",
+        "0.3"
+      ],
+      "a": 2,
+      "e": "Rf = 4/20 = 0.2.",
+      "d": "Medium",
+      "topic": "Rf calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-091",
+      "q": "In paper chromatography, Rf is 0.6 and the solvent front has travelled 5 cm. How far has the solute spot travelled?",
+      "o": [
+        "5 cm",
+        "2 cm",
+        "3 cm",
+        "8 cm"
+      ],
+      "a": 2,
+      "e": "Spot distance = Rf x solvent distance = 0.6 x 5 = 3 cm.",
+      "d": "Medium",
+      "topic": "Distance calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-092",
+      "q": "A separated component moved 10 cm and has Rf 0.5. How far did the solvent front move?",
+      "o": [
+        "20 cm",
+        "30 cm",
+        "10 cm",
+        "22 cm"
+      ],
+      "a": 0,
+      "e": "Solvent-front distance = spot distance / Rf = 10/0.5 = 20 cm.",
+      "d": "Medium",
+      "topic": "Solvent-front calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-093",
+      "q": "Which locating agent is named in the chapter?",
+      "o": [
+        "Copper wire",
+        "Sodium chloride",
+        "Ninhydrin",
+        "Limewater"
+      ],
+      "a": 2,
+      "e": "Ninhydrin is named as a locating agent.",
+      "d": "Easy",
+      "topic": "Locating agents and identification",
+      "slo": "Identify and explain chromatography concepts and interpret experimental observations"
+    },
+    {
+      "id": "CHEM9CH19-094",
+      "q": "Which observation best indicates successful separation of mixed inks?",
+      "o": [
+        "Distinct coloured spots at different heights",
+        "No solvent front",
+        "Paper dissolving completely",
+        "One solid black line remaining at origin"
+      ],
+      "a": 0,
+      "e": "Separated dyes appear as distinct bands or spots.",
+      "d": "Easy",
+      "topic": "Locating agents and identification",
+      "slo": "Identify and explain chromatography concepts and interpret experimental observations"
+    },
+    {
+      "id": "CHEM9CH19-095",
+      "q": "A dye spot is 19.2 cm above the baseline while the solvent front is 24 cm above it. Calculate the retention factor.",
+      "o": [
+        "1",
+        "0.8",
+        "0.9",
+        "1.1"
+      ],
+      "a": 1,
+      "e": "Rf = 19.2/24 = 0.8.",
+      "d": "Easy",
+      "topic": "Rf decimal calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-096",
+      "q": "Which field uses chromatography as an analytical tool?",
+      "o": [
+        "Analytical chemistry",
+        "Mechanics only",
+        "Astronomy only",
+        "Geometry only"
+      ],
+      "a": 0,
+      "e": "Chromatography is an analytical chemistry technique.",
+      "d": "Easy",
+      "topic": "Principles and phases",
+      "slo": "Identify and explain chromatography concepts and interpret experimental observations"
+    },
+    {
+      "id": "CHEM9CH19-097",
+      "q": "A chromatogram has a solvent front 25 cm from the origin and a solute spot 15 cm from the origin. What is its Rf?",
+      "o": [
+        "0.5",
+        "0.6",
+        "0.8",
+        "0.7"
+      ],
+      "a": 1,
+      "e": "Rf = 15/25 = 0.6.",
+      "d": "Medium",
+      "topic": "Rf calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-098",
+      "q": "In paper chromatography, Rf is 0.4 and the solvent front has travelled 20 cm. How far has the solute spot travelled?",
+      "o": [
+        "20 cm",
+        "8 cm",
+        "12 cm",
+        "28 cm"
+      ],
+      "a": 1,
+      "e": "Spot distance = Rf x solvent distance = 0.4 x 20 = 8 cm.",
+      "d": "Medium",
+      "topic": "Distance calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-099",
+      "q": "What is done to the paper after spotting before development?",
+      "o": [
+        "It is coated with oil",
+        "It is air-dried",
+        "It is burned",
+        "It is soaked completely in ink"
+      ],
+      "a": 1,
+      "e": "The procedure allows the spot to dry in air.",
+      "d": "Easy",
+      "topic": "Paper chromatography",
+      "slo": "Identify and explain chromatography concepts and interpret experimental observations"
+    },
+    {
+      "id": "CHEM9CH19-100",
+      "q": "What is the phase that moves called?",
+      "o": [
+        "Origin line",
+        "Mobile phase",
+        "Locating agent",
+        "Stationary phase"
+      ],
+      "a": 1,
+      "e": "The mobile phase moves through or over the stationary phase.",
+      "d": "Easy",
+      "topic": "Principles and phases",
+      "slo": "Identify and explain chromatography concepts and interpret experimental observations"
+    },
+    {
+      "id": "CHEM9CH19-101",
+      "q": "What range is normally expected for Rf when the spot lies between origin and solvent front?",
+      "o": [
+        "Always greater than 10",
+        "Between 0 and 1",
+        "Between 2 and 5",
+        "Always negative"
+      ],
+      "a": 1,
+      "e": "Spot migration is usually no greater than solvent-front migration.",
+      "d": "Easy",
+      "topic": "Rf and interpretation",
+      "slo": "Identify and explain chromatography concepts and interpret experimental observations"
+    },
+    {
+      "id": "CHEM9CH19-102",
+      "q": "A dye spot is 4.4 cm above the baseline while the solvent front is 11 cm above it. Calculate the retention factor.",
+      "o": [
+        "0.6",
+        "0.4",
+        "0.7",
+        "0.5"
+      ],
+      "a": 1,
+      "e": "Rf = 4.4/11 = 0.4.",
+      "d": "Easy",
+      "topic": "Rf decimal calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-103",
+      "q": "How long is the spotted strip air-dried in the procedure?",
+      "o": [
+        "About 15 hours",
+        "Exactly 2 days",
+        "About 15 minutes",
+        "No drying at all"
+      ],
+      "a": 2,
+      "e": "The procedure states about 15 minutes of air drying.",
+      "d": "Easy",
+      "topic": "Paper chromatography",
+      "slo": "Identify and explain chromatography concepts and interpret experimental observations"
+    },
+    {
+      "id": "CHEM9CH19-104",
+      "q": "A dye spot is 10.5 cm above the baseline while the solvent front is 15 cm above it. Calculate the retention factor.",
+      "o": [
+        "0.7",
+        "0.8",
+        "1",
+        "0.9"
+      ],
+      "a": 0,
+      "e": "Rf = 10.5/15 = 0.7.",
+      "d": "Easy",
+      "topic": "Rf decimal calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-105",
+      "q": "How deep is the paper dipped into the solvent in the stated setup?",
+      "o": [
+        "50 cm",
+        "5-6 mm",
+        "25 cm",
+        "5-6 cm"
+      ],
+      "a": 1,
+      "e": "The procedure specifies dipping the paper about 5-6 mm into the solvent.",
+      "d": "Easy",
+      "topic": "Paper chromatography",
+      "slo": "Identify and explain chromatography concepts and interpret experimental observations"
+    },
+    {
+      "id": "CHEM9CH19-106",
+      "q": "A dye spot is 4.8 cm above the baseline while the solvent front is 8 cm above it. Calculate the retention factor.",
+      "o": [
+        "0.9",
+        "0.8",
+        "0.7",
+        "0.6"
+      ],
+      "a": 3,
+      "e": "Rf = 4.8/8 = 0.6.",
+      "d": "Easy",
+      "topic": "Rf decimal calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-107",
+      "q": "What distance does the red spot travel in the textbook example?",
+      "o": [
+        "6 cm",
+        "8 cm",
+        "2 cm",
+        "10 cm"
+      ],
+      "a": 2,
+      "e": "Red is 2 cm from the origin.",
+      "d": "Easy",
+      "topic": "Rf and interpretation",
+      "slo": "Identify and explain chromatography concepts and interpret experimental observations"
+    },
+    {
+      "id": "CHEM9CH19-108",
+      "q": "What is a locating agent used for?",
+      "o": [
+        "Increasing the paper width",
+        "Replacing the mobile phase with air",
+        "Preventing any separation",
+        "Making colourless separated components visible"
+      ],
+      "a": 3,
+      "e": "A locating agent reveals otherwise invisible separated spots.",
+      "d": "Easy",
+      "topic": "Locating agents and identification",
+      "slo": "Identify and explain chromatography concepts and interpret experimental observations"
+    },
+    {
+      "id": "CHEM9CH19-109",
+      "q": "A dye spot is 21.6 cm above the baseline while the solvent front is 24 cm above it. Calculate the retention factor.",
+      "o": [
+        "1.1",
+        "1.2",
+        "1",
+        "0.9"
+      ],
+      "a": 3,
+      "e": "Rf = 21.6/24 = 0.9.",
+      "d": "Easy",
+      "topic": "Rf decimal calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-110",
+      "q": "From where are both distances measured for Rf?",
+      "o": [
+        "From the baseline or origin",
+        "From the cylinder lid",
+        "From the top edge of the paper",
+        "From the bottom of the table"
+      ],
+      "a": 0,
+      "e": "Both migration distances use the same origin.",
+      "d": "Easy",
+      "topic": "Rf and interpretation",
+      "slo": "Identify and explain chromatography concepts and interpret experimental observations"
+    },
+    {
+      "id": "CHEM9CH19-111",
+      "q": "A dye spot is 9 cm above the baseline while the solvent front is 15 cm above it. Calculate the retention factor.",
+      "o": [
+        "0.9",
+        "0.6",
+        "0.8",
+        "0.7"
+      ],
+      "a": 1,
+      "e": "Rf = 9/15 = 0.6.",
+      "d": "Easy",
+      "topic": "Rf decimal calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-112",
+      "q": "A dye spot is 6.6 cm above the baseline while the solvent front is 22 cm above it. Calculate the retention factor.",
+      "o": [
+        "0.3",
+        "0.5",
+        "0.4",
+        "0.6"
+      ],
+      "a": 0,
+      "e": "Rf = 6.6/22 = 0.3.",
+      "d": "Easy",
+      "topic": "Rf decimal calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-113",
+      "q": "A chromatogram has a solvent front 12 cm from the origin and a solute spot 6 cm from the origin. What is its Rf?",
+      "o": [
+        "0.4",
+        "0.5",
+        "0.7",
+        "0.6"
+      ],
+      "a": 1,
+      "e": "Rf = 6/12 = 0.5.",
+      "d": "Medium",
+      "topic": "Rf calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-114",
+      "q": "Which component has the greatest affinity for the mobile phase in the textbook example?",
+      "o": [
+        "Red",
+        "Purple",
+        "All equally",
+        "Blue"
+      ],
+      "a": 3,
+      "e": "Blue has the largest Rf and travels farthest.",
+      "d": "Easy",
+      "topic": "Rf and interpretation",
+      "slo": "Identify and explain chromatography concepts and interpret experimental observations"
+    },
+    {
+      "id": "CHEM9CH19-115",
+      "q": "What does graphein mean in chromatography?",
+      "o": [
+        "Writing",
+        "Measuring mass",
+        "Dissolving",
+        "Burning"
+      ],
+      "a": 0,
+      "e": "Graphein means writing.",
+      "d": "Easy",
+      "topic": "Principles and phases",
+      "slo": "Identify and explain chromatography concepts and interpret experimental observations"
+    },
+    {
+      "id": "CHEM9CH19-116",
+      "q": "A dye spot is 9.9 cm above the baseline while the solvent front is 11 cm above it. Calculate the retention factor.",
+      "o": [
+        "1.2",
+        "0.9",
+        "1",
+        "1.1"
+      ],
+      "a": 1,
+      "e": "Rf = 9.9/11 = 0.9.",
+      "d": "Easy",
+      "topic": "Rf decimal calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-117",
+      "q": "A dye spot is 2.1 cm above the baseline while the solvent front is 21 cm above it. Calculate the retention factor.",
+      "o": [
+        "0.1",
+        "0.4",
+        "0.2",
+        "0.3"
+      ],
+      "a": 0,
+      "e": "Rf = 2.1/21 = 0.1.",
+      "d": "Easy",
+      "topic": "Rf decimal calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-118",
+      "q": "A dye spot is 4 cm above the baseline while the solvent front is 8 cm above it. Calculate the retention factor.",
+      "o": [
+        "0.6",
+        "0.5",
+        "0.8",
+        "0.7"
+      ],
+      "a": 1,
+      "e": "Rf = 4/8 = 0.5.",
+      "d": "Easy",
+      "topic": "Rf decimal calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-119",
+      "q": "What water-to-ethanol ratio is specified in the procedure?",
+      "o": [
+        "6:4",
+        "9:1",
+        "2:8",
+        "1:9"
+      ],
+      "a": 0,
+      "e": "The water and ethanol mixture is specified as 6:4.",
+      "d": "Easy",
+      "topic": "Paper chromatography",
+      "slo": "Identify and explain chromatography concepts and interpret experimental observations"
+    },
+    {
+      "id": "CHEM9CH19-120",
+      "q": "A dye spot is 15.2 cm above the baseline while the solvent front is 19 cm above it. Calculate the retention factor.",
+      "o": [
+        "0.8",
+        "1.1",
+        "1",
+        "0.9"
+      ],
+      "a": 0,
+      "e": "Rf = 15.2/19 = 0.8.",
+      "d": "Easy",
+      "topic": "Rf decimal calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-121",
+      "q": "A dye spot is 8 cm above the baseline while the solvent front is 16 cm above it. Calculate the retention factor.",
+      "o": [
+        "0.6",
+        "0.7",
+        "0.8",
+        "0.5"
+      ],
+      "a": 3,
+      "e": "Rf = 8/16 = 0.5.",
+      "d": "Easy",
+      "topic": "Rf decimal calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-122",
+      "q": "What is the origin in a chromatogram?",
+      "o": [
+        "The starting position of the sample",
+        "The highest solvent level",
+        "The upper rim of the cylinder",
+        "The final blue spot"
+      ],
+      "a": 0,
+      "e": "The origin is the initial sample position.",
+      "d": "Easy",
+      "topic": "Paper chromatography",
+      "slo": "Identify and explain chromatography concepts and interpret experimental observations"
+    },
+    {
+      "id": "CHEM9CH19-123",
+      "q": "A dye spot is 5.7 cm above the baseline while the solvent front is 19 cm above it. Calculate the retention factor.",
+      "o": [
+        "0.3",
+        "0.5",
+        "0.4",
+        "0.6"
+      ],
+      "a": 0,
+      "e": "Rf = 5.7/19 = 0.3.",
+      "d": "Easy",
+      "topic": "Rf decimal calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-124",
+      "q": "A separated component moved 2 cm and has Rf 0.25. How far did the solvent front move?",
+      "o": [
+        "16 cm",
+        "8 cm",
+        "10 cm",
+        "2 cm"
+      ],
+      "a": 1,
+      "e": "Solvent-front distance = spot distance / Rf = 2/0.25 = 8 cm.",
+      "d": "Medium",
+      "topic": "Solvent-front calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-125",
+      "q": "What is the meaning of chroma in the name chromatography?",
+      "o": [
+        "Colour",
+        "Pressure",
+        "Heat",
+        "Speed"
+      ],
+      "a": 0,
+      "e": "Chroma refers to colour.",
+      "d": "Easy",
+      "topic": "Principles and phases",
+      "slo": "Identify and explain chromatography concepts and interpret experimental observations"
+    },
+    {
+      "id": "CHEM9CH19-126",
+      "q": "What can multiple spots indicate?",
+      "o": [
+        "More than one component is present",
+        "The paper has no solvent",
+        "The sample must be an element",
+        "The solvent has not moved"
+      ],
+      "a": 0,
+      "e": "Several spots can indicate a mixture.",
+      "d": "Easy",
+      "topic": "Locating agents and identification",
+      "slo": "Identify and explain chromatography concepts and interpret experimental observations"
+    },
+    {
+      "id": "CHEM9CH19-127",
+      "q": "What is chromatography mainly used for?",
+      "o": [
+        "Combining all components into one compound",
+        "Measuring electrical current only",
+        "Separating and analysing mixture components",
+        "Heating a substance to ignition"
+      ],
+      "a": 2,
+      "e": "Chromatography separates components based on their distribution between phases.",
+      "d": "Easy",
+      "topic": "Principles and phases",
+      "slo": "Identify and explain chromatography concepts and interpret experimental observations"
+    },
+    {
+      "id": "CHEM9CH19-128",
+      "q": "A dye spot is 3.6 cm above the baseline while the solvent front is 9 cm above it. Calculate the retention factor.",
+      "o": [
+        "0.5",
+        "0.6",
+        "0.7",
+        "0.4"
+      ],
+      "a": 3,
+      "e": "Rf = 3.6/9 = 0.4.",
+      "d": "Easy",
+      "topic": "Rf decimal calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-129",
+      "q": "A dye spot is 9 cm above the baseline while the solvent front is 18 cm above it. Calculate the retention factor.",
+      "o": [
+        "0.6",
+        "0.7",
+        "0.8",
+        "0.5"
+      ],
+      "a": 3,
+      "e": "Rf = 9/18 = 0.5.",
+      "d": "Easy",
+      "topic": "Rf decimal calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-130",
+      "q": "What is the formula for Rf?",
+      "o": [
+        "Solvent distance divided by solute distance",
+        "Solute mass divided by solvent mass",
+        "Solute distance plus solvent distance",
+        "Distance travelled by solute divided by distance travelled by solvent"
+      ],
+      "a": 3,
+      "e": "Rf is the ratio of spot distance to solvent-front distance.",
+      "d": "Easy",
+      "topic": "Rf and interpretation",
+      "slo": "Identify and explain chromatography concepts and interpret experimental observations"
+    },
+    {
+      "id": "CHEM9CH19-131",
+      "q": "A dye spot is 14.4 cm above the baseline while the solvent front is 16 cm above it. Calculate the retention factor.",
+      "o": [
+        "0.9",
+        "1.2",
+        "1.1",
+        "1"
+      ],
+      "a": 0,
+      "e": "Rf = 14.4/16 = 0.9.",
+      "d": "Easy",
+      "topic": "Rf decimal calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-132",
+      "q": "A separated component moved 18 cm and has Rf 0.75. How far did the solvent front move?",
+      "o": [
+        "24 cm",
+        "26 cm",
+        "18 cm",
+        "42 cm"
+      ],
+      "a": 0,
+      "e": "Solvent-front distance = spot distance / Rf = 18/0.75 = 24 cm.",
+      "d": "Medium",
+      "topic": "Solvent-front calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-133",
+      "q": "A chromatogram has a solvent front 25 cm from the origin and a solute spot 20 cm from the origin. What is its Rf?",
+      "o": [
+        "0.7",
+        "0.8",
+        "1",
+        "0.9"
+      ],
+      "a": 1,
+      "e": "Rf = 20/25 = 0.8.",
+      "d": "Medium",
+      "topic": "Rf calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-134",
+      "q": "A separated component moved 8 cm and has Rf 0.2. How far did the solvent front move?",
+      "o": [
+        "8 cm",
+        "48 cm",
+        "42 cm",
+        "40 cm"
+      ],
+      "a": 3,
+      "e": "Solvent-front distance = spot distance / Rf = 8/0.2 = 40 cm.",
+      "d": "Medium",
+      "topic": "Solvent-front calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-135",
+      "q": "In paper chromatography, Rf is 0.2 and the solvent front has travelled 15 cm. How far has the solute spot travelled?",
+      "o": [
+        "12 cm",
+        "18 cm",
+        "15 cm",
+        "3 cm"
+      ],
+      "a": 3,
+      "e": "Spot distance = Rf x solvent distance = 0.2 x 15 = 3 cm.",
+      "d": "Medium",
+      "topic": "Distance calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-136",
+      "q": "A dye spot is 6.3 cm above the baseline while the solvent front is 21 cm above it. Calculate the retention factor.",
+      "o": [
+        "0.3",
+        "0.5",
+        "0.6",
+        "0.4"
+      ],
+      "a": 0,
+      "e": "Rf = 6.3/21 = 0.3.",
+      "d": "Easy",
+      "topic": "Rf decimal calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-137",
+      "q": "Which component has the greatest affinity for the stationary phase in the textbook example?",
+      "o": [
+        "All equally",
+        "Red",
+        "Blue",
+        "Purple"
+      ],
+      "a": 1,
+      "e": "Red has the smallest Rf and remains closest to the origin.",
+      "d": "Easy",
+      "topic": "Rf and interpretation",
+      "slo": "Identify and explain chromatography concepts and interpret experimental observations"
+    },
+    {
+      "id": "CHEM9CH19-138",
+      "q": "A chromatogram has a solvent front 40 cm from the origin and a solute spot 30 cm from the origin. What is its Rf?",
+      "o": [
+        "0.75",
+        "0.85",
+        "0.65",
+        "0.95"
+      ],
+      "a": 0,
+      "e": "Rf = 30/40 = 0.75.",
+      "d": "Medium",
+      "topic": "Rf calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-139",
+      "q": "A dye spot is 7.5 cm above the baseline while the solvent front is 15 cm above it. Calculate the retention factor.",
+      "o": [
+        "0.8",
+        "0.5",
+        "0.6",
+        "0.7"
+      ],
+      "a": 1,
+      "e": "Rf = 7.5/15 = 0.5.",
+      "d": "Easy",
+      "topic": "Rf decimal calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-140",
+      "q": "A separated component moved 9 cm and has Rf 0.75. How far did the solvent front move?",
+      "o": [
+        "21 cm",
+        "9 cm",
+        "12 cm",
+        "14 cm"
+      ],
+      "a": 2,
+      "e": "Solvent-front distance = spot distance / Rf = 9/0.75 = 12 cm.",
+      "d": "Medium",
+      "topic": "Solvent-front calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-141",
+      "q": "What solvent-front distance is shown in the textbook example?",
+      "o": [
+        "6 cm",
+        "10 cm",
+        "2 cm",
+        "8 cm"
+      ],
+      "a": 1,
+      "e": "The textbook figure shows a 10 cm solvent front.",
+      "d": "Easy",
+      "topic": "Rf and interpretation",
+      "slo": "Identify and explain chromatography concepts and interpret experimental observations"
+    },
+    {
+      "id": "CHEM9CH19-142",
+      "q": "A dye spot is 4 cm above the baseline while the solvent front is 20 cm above it. Calculate the retention factor.",
+      "o": [
+        "0.3",
+        "0.2",
+        "0.4",
+        "0.5"
+      ],
+      "a": 1,
+      "e": "Rf = 4/20 = 0.2.",
+      "d": "Easy",
+      "topic": "Rf decimal calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-143",
+      "q": "A dye spot is 6.9 cm above the baseline while the solvent front is 23 cm above it. Calculate the retention factor.",
+      "o": [
+        "0.5",
+        "0.6",
+        "0.4",
+        "0.3"
+      ],
+      "a": 3,
+      "e": "Rf = 6.9/23 = 0.3.",
+      "d": "Easy",
+      "topic": "Rf decimal calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-144",
+      "q": "When is the chromatogram removed in the described experiment?",
+      "o": [
+        "Before solvent moves at all",
+        "After the paper is fully submerged",
+        "Only after the cylinder breaks",
+        "When the solvent front is 2-3 cm below the upper end"
+      ],
+      "a": 3,
+      "e": "The procedure stops before the solvent front reaches the upper end.",
+      "d": "Easy",
+      "topic": "Paper chromatography",
+      "slo": "Identify and explain chromatography concepts and interpret experimental observations"
+    },
+    {
+      "id": "CHEM9CH19-145",
+      "q": "A chromatogram has a solvent front 20 cm from the origin and a solute spot 15 cm from the origin. What is its Rf?",
+      "o": [
+        "0.85",
+        "0.65",
+        "0.75",
+        "0.95"
+      ],
+      "a": 2,
+      "e": "Rf = 15/20 = 0.75.",
+      "d": "Medium",
+      "topic": "Rf calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-146",
+      "q": "A dye spot is 5.2 cm above the baseline while the solvent front is 13 cm above it. Calculate the retention factor.",
+      "o": [
+        "0.7",
+        "0.4",
+        "0.6",
+        "0.5"
+      ],
+      "a": 1,
+      "e": "Rf = 5.2/13 = 0.4.",
+      "d": "Easy",
+      "topic": "Rf decimal calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-147",
+      "q": "A dye spot is 11.7 cm above the baseline while the solvent front is 13 cm above it. Calculate the retention factor.",
+      "o": [
+        "1.1",
+        "1",
+        "0.9",
+        "1.2"
+      ],
+      "a": 2,
+      "e": "Rf = 11.7/13 = 0.9.",
+      "d": "Easy",
+      "topic": "Rf decimal calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-148",
+      "q": "Why should the solvent front be marked promptly?",
+      "o": [
+        "The solvent front is made of graphite",
+        "The origin moves to the top",
+        "The paper becomes metallic",
+        "It may become difficult to see as solvent evaporates"
+      ],
+      "a": 3,
+      "e": "Marking the solvent front preserves its location for measurement.",
+      "d": "Easy",
+      "topic": "Paper chromatography",
+      "slo": "Identify and explain chromatography concepts and interpret experimental observations"
+    },
+    {
+      "id": "CHEM9CH19-149",
+      "q": "A separated component moved 3 cm and has Rf 0.25. How far did the solvent front move?",
+      "o": [
+        "14 cm",
+        "3 cm",
+        "15 cm",
+        "12 cm"
+      ],
+      "a": 3,
+      "e": "Solvent-front distance = spot distance / Rf = 3/0.25 = 12 cm.",
+      "d": "Medium",
+      "topic": "Solvent-front calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-150",
+      "q": "How can an unknown substance be identified by chromatography?",
+      "o": [
+        "Measure the room light intensity",
+        "Compare only the paper length",
+        "Weigh only the cylinder",
+        "Compare its Rf with known standards under the same conditions"
+      ],
+      "a": 3,
+      "e": "Matching Rf values with known standards can support identification.",
+      "d": "Easy",
+      "topic": "Locating agents and identification",
+      "slo": "Identify and explain chromatography concepts and interpret experimental observations"
+    },
+    {
+      "id": "CHEM9CH19-151",
+      "q": "A dye spot is 7.7 cm above the baseline while the solvent front is 11 cm above it. Calculate the retention factor.",
+      "o": [
+        "0.9",
+        "0.7",
+        "1",
+        "0.8"
+      ],
+      "a": 1,
+      "e": "Rf = 7.7/11 = 0.7.",
+      "d": "Easy",
+      "topic": "Rf decimal calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-152",
+      "q": "A dye spot is 13.6 cm above the baseline while the solvent front is 17 cm above it. Calculate the retention factor.",
+      "o": [
+        "0.9",
+        "1.1",
+        "0.8",
+        "1"
+      ],
+      "a": 2,
+      "e": "Rf = 13.6/17 = 0.8.",
+      "d": "Easy",
+      "topic": "Rf decimal calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-153",
+      "q": "Which instrument can chromatography be coupled with, according to the introduction?",
+      "o": [
+        "A thermometer only",
+        "A metre ruler only",
+        "Mass spectrometry",
+        "A spring balance only"
+      ],
+      "a": 2,
+      "e": "The textbook mentions coupling chromatography with mass spectrometry.",
+      "d": "Easy",
+      "topic": "Principles and phases",
+      "slo": "Identify and explain chromatography concepts and interpret experimental observations"
+    },
+    {
+      "id": "CHEM9CH19-154",
+      "q": "A dye spot is 8.4 cm above the baseline while the solvent front is 21 cm above it. Calculate the retention factor.",
+      "o": [
+        "0.4",
+        "0.6",
+        "0.7",
+        "0.5"
+      ],
+      "a": 0,
+      "e": "Rf = 8.4/21 = 0.4.",
+      "d": "Easy",
+      "topic": "Rf decimal calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-155",
+      "q": "A dye spot is 3.6 cm above the baseline while the solvent front is 18 cm above it. Calculate the retention factor.",
+      "o": [
+        "0.3",
+        "0.4",
+        "0.5",
+        "0.2"
+      ],
+      "a": 3,
+      "e": "Rf = 3.6/18 = 0.2.",
+      "d": "Easy",
+      "topic": "Rf decimal calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-156",
+      "q": "In paper chromatography, Rf is 0.4 and the solvent front has travelled 15 cm. How far has the solute spot travelled?",
+      "o": [
+        "21 cm",
+        "6 cm",
+        "15 cm",
+        "9 cm"
+      ],
+      "a": 1,
+      "e": "Spot distance = Rf x solvent distance = 0.4 x 15 = 6 cm.",
+      "d": "Medium",
+      "topic": "Distance calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-157",
+      "q": "Why should the sample spot be small?",
+      "o": [
+        "To produce clearer separated spots",
+        "To turn the paper into a gas",
+        "To prevent solvent movement",
+        "To ensure all colours overlap"
+      ],
+      "a": 0,
+      "e": "Small spots give better resolution.",
+      "d": "Easy",
+      "topic": "Paper chromatography",
+      "slo": "Identify and explain chromatography concepts and interpret experimental observations"
+    },
+    {
+      "id": "CHEM9CH19-158",
+      "q": "Which tool is used to mark the baseline?",
+      "o": [
+        "A permanent marker",
+        "A coloured ink pen",
+        "A paint brush",
+        "A pencil"
+      ],
+      "a": 3,
+      "e": "Pencil graphite does not introduce soluble ink dyes into the chromatogram.",
+      "d": "Easy",
+      "topic": "Paper chromatography",
+      "slo": "Identify and explain chromatography concepts and interpret experimental observations"
+    },
+    {
+      "id": "CHEM9CH19-159",
+      "q": "Which paper is specified for the experiment?",
+      "o": [
+        "Sandpaper",
+        "Whatman filter paper number one",
+        "Aluminium foil",
+        "Plastic wrapping film"
+      ],
+      "a": 1,
+      "e": "The procedure specifies Whatman filter paper number one.",
+      "d": "Easy",
+      "topic": "Paper chromatography",
+      "slo": "Identify and explain chromatography concepts and interpret experimental observations"
+    },
+    {
+      "id": "CHEM9CH19-160",
+      "q": "A chromatogram has a solvent front 40 cm from the origin and a solute spot 10 cm from the origin. What is its Rf?",
+      "o": [
+        "0.15",
+        "0.25",
+        "0.35",
+        "0.45"
+      ],
+      "a": 1,
+      "e": "Rf = 10/40 = 0.25.",
+      "d": "Medium",
+      "topic": "Rf calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-161",
+      "q": "A dye spot is 4.5 cm above the baseline while the solvent front is 9 cm above it. Calculate the retention factor.",
+      "o": [
+        "0.6",
+        "0.8",
+        "0.7",
+        "0.5"
+      ],
+      "a": 3,
+      "e": "Rf = 4.5/9 = 0.5.",
+      "d": "Easy",
+      "topic": "Rf decimal calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-162",
+      "q": "A chromatogram has a solvent front 40 cm from the origin and a solute spot 36 cm from the origin. What is its Rf?",
+      "o": [
+        "0.9",
+        "1",
+        "1.1",
+        "0.8"
+      ],
+      "a": 0,
+      "e": "Rf = 36/40 = 0.9.",
+      "d": "Medium",
+      "topic": "Rf calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-163",
+      "q": "What generally happens to a component with greater mobile-phase affinity?",
+      "o": [
+        "It travels farther under the same conditions",
+        "It always stays at the origin",
+        "It turns into the solvent",
+        "It must become colourless"
+      ],
+      "a": 0,
+      "e": "Greater affinity for mobile phase generally increases movement.",
+      "d": "Easy",
+      "topic": "Principles and phases",
+      "slo": "Identify and explain chromatography concepts and interpret experimental observations"
+    },
+    {
+      "id": "CHEM9CH19-164",
+      "q": "A chromatogram has a solvent front 15 cm from the origin and a solute spot 3 cm from the origin. What is its Rf?",
+      "o": [
+        "0.4",
+        "0.3",
+        "0.1",
+        "0.2"
+      ],
+      "a": 3,
+      "e": "Rf = 3/15 = 0.2.",
+      "d": "Medium",
+      "topic": "Rf calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-165",
+      "q": "In paper chromatography, Rf is 0.6 and the solvent front has travelled 15 cm. How far has the solute spot travelled?",
+      "o": [
+        "6 cm",
+        "24 cm",
+        "15 cm",
+        "9 cm"
+      ],
+      "a": 3,
+      "e": "Spot distance = Rf x solvent distance = 0.6 x 15 = 9 cm.",
+      "d": "Medium",
+      "topic": "Distance calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-166",
+      "q": "A chromatogram has a solvent front 16 cm from the origin and a solute spot 12 cm from the origin. What is its Rf?",
+      "o": [
+        "0.65",
+        "0.75",
+        "0.95",
+        "0.85"
+      ],
+      "a": 1,
+      "e": "Rf = 12/16 = 0.75.",
+      "d": "Medium",
+      "topic": "Rf calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-167",
+      "q": "In paper chromatography, Rf is 0.8 and the solvent front has travelled 5 cm. How far has the solute spot travelled?",
+      "o": [
+        "9 cm",
+        "4 cm",
+        "5 cm",
+        "1 cm"
+      ],
+      "a": 1,
+      "e": "Spot distance = Rf x solvent distance = 0.8 x 5 = 4 cm.",
+      "d": "Medium",
+      "topic": "Distance calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-168",
+      "q": "A separated component moved 5 cm and has Rf 0.5. How far did the solvent front move?",
+      "o": [
+        "10 cm",
+        "12 cm",
+        "5 cm",
+        "15 cm"
+      ],
+      "a": 0,
+      "e": "Solvent-front distance = spot distance / Rf = 5/0.5 = 10 cm.",
+      "d": "Medium",
+      "topic": "Solvent-front calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-169",
+      "q": "In paper chromatography, Rf is 0.4 and the solvent front has travelled 25 cm. How far has the solute spot travelled?",
+      "o": [
+        "15 cm",
+        "10 cm",
+        "25 cm",
+        "35 cm"
+      ],
+      "a": 1,
+      "e": "Spot distance = Rf x solvent distance = 0.4 x 25 = 10 cm.",
+      "d": "Medium",
+      "topic": "Distance calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-170",
+      "q": "A chromatogram has a solvent front 16 cm from the origin and a solute spot 4 cm from the origin. What is its Rf?",
+      "o": [
+        "0.45",
+        "0.35",
+        "0.25",
+        "0.15"
+      ],
+      "a": 2,
+      "e": "Rf = 4/16 = 0.25.",
+      "d": "Medium",
+      "topic": "Rf calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-171",
+      "q": "What is a practical use of paper chromatography from this chapter?",
+      "o": [
+        "Separating iron using a magnet",
+        "Separating stones by size",
+        "Melting copper",
+        "Separating dyes in ink"
+      ],
+      "a": 3,
+      "e": "Ink dyes can be resolved into separate spots.",
+      "d": "Easy",
+      "topic": "Locating agents and identification",
+      "slo": "Identify and explain chromatography concepts and interpret experimental observations"
+    },
+    {
+      "id": "CHEM9CH19-172",
+      "q": "A chromatogram has a solvent front 40 cm from the origin and a solute spot 24 cm from the origin. What is its Rf?",
+      "o": [
+        "0.8",
+        "0.5",
+        "0.6",
+        "0.7"
+      ],
+      "a": 2,
+      "e": "Rf = 24/40 = 0.6.",
+      "d": "Medium",
+      "topic": "Rf calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-173",
+      "q": "A dye spot is 4.6 cm above the baseline while the solvent front is 23 cm above it. Calculate the retention factor.",
+      "o": [
+        "0.3",
+        "0.4",
+        "0.2",
+        "0.5"
+      ],
+      "a": 2,
+      "e": "Rf = 4.6/23 = 0.2.",
+      "d": "Easy",
+      "topic": "Rf decimal calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-174",
+      "q": "A separated component moved 6 cm and has Rf 0.25. How far did the solvent front move?",
+      "o": [
+        "30 cm",
+        "6 cm",
+        "26 cm",
+        "24 cm"
+      ],
+      "a": 3,
+      "e": "Solvent-front distance = spot distance / Rf = 6/0.25 = 24 cm.",
+      "d": "Medium",
+      "topic": "Solvent-front calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-175",
+      "q": "A dye spot is 13.8 cm above the baseline while the solvent front is 23 cm above it. Calculate the retention factor.",
+      "o": [
+        "0.8",
+        "0.7",
+        "0.6",
+        "0.9"
+      ],
+      "a": 2,
+      "e": "Rf = 13.8/23 = 0.6.",
+      "d": "Easy",
+      "topic": "Rf decimal calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-176",
+      "q": "What class of compounds can ninhydrin help locate?",
+      "o": [
+        "Metal wires only",
+        "Noble gases only",
+        "Sand particles only",
+        "Amino acids"
+      ],
+      "a": 3,
+      "e": "Ninhydrin reacts with amino acids to develop coloured spots.",
+      "d": "Easy",
+      "topic": "Locating agents and identification",
+      "slo": "Identify and explain chromatography concepts and interpret experimental observations"
+    },
+    {
+      "id": "CHEM9CH19-177",
+      "q": "In paper chromatography, Rf is 0.5 and the solvent front has travelled 40 cm. How far has the solute spot travelled?",
+      "o": [
+        "40 cm",
+        "60 cm",
+        "20 cm",
+        "21 cm"
+      ],
+      "a": 2,
+      "e": "Spot distance = Rf x solvent distance = 0.5 x 40 = 20 cm.",
+      "d": "Medium",
+      "topic": "Distance calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-178",
+      "q": "A dye spot is 8.5 cm above the baseline while the solvent front is 17 cm above it. Calculate the retention factor.",
+      "o": [
+        "0.5",
+        "0.7",
+        "0.6",
+        "0.8"
+      ],
+      "a": 0,
+      "e": "Rf = 8.5/17 = 0.5.",
+      "d": "Easy",
+      "topic": "Rf decimal calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-179",
+      "q": "A chromatogram has a solvent front 20 cm from the origin and a solute spot 16 cm from the origin. What is its Rf?",
+      "o": [
+        "1",
+        "0.7",
+        "0.9",
+        "0.8"
+      ],
+      "a": 3,
+      "e": "Rf = 16/20 = 0.8.",
+      "d": "Medium",
+      "topic": "Rf calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-180",
+      "q": "A chromatogram has a solvent front 20 cm from the origin and a solute spot 18 cm from the origin. What is its Rf?",
+      "o": [
+        "0.8",
+        "0.9",
+        "1",
+        "1.1"
+      ],
+      "a": 1,
+      "e": "Rf = 18/20 = 0.9.",
+      "d": "Medium",
+      "topic": "Rf calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-181",
+      "q": "A chromatogram has a solvent front 40 cm from the origin and a solute spot 8 cm from the origin. What is its Rf?",
+      "o": [
+        "0.1",
+        "0.4",
+        "0.3",
+        "0.2"
+      ],
+      "a": 3,
+      "e": "Rf = 8/40 = 0.2.",
+      "d": "Medium",
+      "topic": "Rf calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-182",
+      "q": "What distance does the blue spot travel in the textbook example?",
+      "o": [
+        "10 cm",
+        "2 cm",
+        "8 cm",
+        "6 cm"
+      ],
+      "a": 2,
+      "e": "Blue is 8 cm from the origin.",
+      "d": "Easy",
+      "topic": "Rf and interpretation",
+      "slo": "Identify and explain chromatography concepts and interpret experimental observations"
+    },
+    {
+      "id": "CHEM9CH19-183",
+      "q": "A separated component moved 12 cm and has Rf 0.75. How far did the solvent front move?",
+      "o": [
+        "12 cm",
+        "28 cm",
+        "18 cm",
+        "16 cm"
+      ],
+      "a": 3,
+      "e": "Solvent-front distance = spot distance / Rf = 12/0.75 = 16 cm.",
+      "d": "Medium",
+      "topic": "Solvent-front calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-184",
+      "q": "A chromatogram has a solvent front 30 cm from the origin and a solute spot 12 cm from the origin. What is its Rf?",
+      "o": [
+        "0.4",
+        "0.3",
+        "0.6",
+        "0.5"
+      ],
+      "a": 0,
+      "e": "Rf = 12/30 = 0.4.",
+      "d": "Medium",
+      "topic": "Rf calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-185",
+      "q": "In paper chromatography, Rf is 0.2 and the solvent front has travelled 20 cm. How far has the solute spot travelled?",
+      "o": [
+        "4 cm",
+        "16 cm",
+        "20 cm",
+        "24 cm"
+      ],
+      "a": 0,
+      "e": "Spot distance = Rf x solvent distance = 0.2 x 20 = 4 cm.",
+      "d": "Medium",
+      "topic": "Distance calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-186",
+      "q": "Which physical states may the stationary phase have?",
+      "o": [
+        "Only molten metal",
+        "A solid or liquid supported on a solid",
+        "Only a gas",
+        "Only plasma"
+      ],
+      "a": 1,
+      "e": "The text describes a solid stationary phase or liquid coating a solid.",
+      "d": "Easy",
+      "topic": "Principles and phases",
+      "slo": "Identify and explain chromatography concepts and interpret experimental observations"
+    },
+    {
+      "id": "CHEM9CH19-187",
+      "q": "A dye spot is 13.5 cm above the baseline while the solvent front is 15 cm above it. Calculate the retention factor.",
+      "o": [
+        "0.9",
+        "1",
+        "1.2",
+        "1.1"
+      ],
+      "a": 0,
+      "e": "Rf = 13.5/15 = 0.9.",
+      "d": "Easy",
+      "topic": "Rf decimal calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-188",
+      "q": "A chromatogram has a solvent front 12 cm from the origin and a solute spot 3 cm from the origin. What is its Rf?",
+      "o": [
+        "0.45",
+        "0.35",
+        "0.15",
+        "0.25"
+      ],
+      "a": 3,
+      "e": "Rf = 3/12 = 0.25.",
+      "d": "Medium",
+      "topic": "Rf calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-189",
+      "q": "A dye spot is 12 cm above the baseline while the solvent front is 15 cm above it. Calculate the retention factor.",
+      "o": [
+        "1.1",
+        "1",
+        "0.9",
+        "0.8"
+      ],
+      "a": 3,
+      "e": "Rf = 12/15 = 0.8.",
+      "d": "Easy",
+      "topic": "Rf decimal calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-190",
+      "q": "A dye spot is 1.9 cm above the baseline while the solvent front is 19 cm above it. Calculate the retention factor.",
+      "o": [
+        "0.1",
+        "0.2",
+        "0.4",
+        "0.3"
+      ],
+      "a": 0,
+      "e": "Rf = 1.9/19 = 0.1.",
+      "d": "Easy",
+      "topic": "Rf decimal calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-191",
+      "q": "How does the solvent travel along the paper?",
+      "o": [
+        "By combustion",
+        "By electrical discharge",
+        "By magnetism alone",
+        "By capillary action"
+      ],
+      "a": 3,
+      "e": "Solvent rises through the paper by capillary action.",
+      "d": "Easy",
+      "topic": "Paper chromatography",
+      "slo": "Identify and explain chromatography concepts and interpret experimental observations"
+    },
+    {
+      "id": "CHEM9CH19-192",
+      "q": "A chromatogram has a solvent front 20 cm from the origin and a solute spot 10 cm from the origin. What is its Rf?",
+      "o": [
+        "0.7",
+        "0.6",
+        "0.5",
+        "0.4"
+      ],
+      "a": 2,
+      "e": "Rf = 10/20 = 0.5.",
+      "d": "Medium",
+      "topic": "Rf calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-193",
+      "q": "What does a larger Rf indicate in the chapter explanation?",
+      "o": [
+        "Greater stationary-phase affinity",
+        "Greater affinity for the mobile phase relative to the stationary phase",
+        "A larger sample mass necessarily",
+        "No solvent movement"
+      ],
+      "a": 1,
+      "e": "A larger Rf means greater relative movement with the mobile phase.",
+      "d": "Easy",
+      "topic": "Rf and interpretation",
+      "slo": "Identify and explain chromatography concepts and interpret experimental observations"
+    },
+    {
+      "id": "CHEM9CH19-194",
+      "q": "A dye spot is 12.8 cm above the baseline while the solvent front is 16 cm above it. Calculate the retention factor.",
+      "o": [
+        "0.8",
+        "0.9",
+        "1.1",
+        "1"
+      ],
+      "a": 0,
+      "e": "Rf = 12.8/16 = 0.8.",
+      "d": "Easy",
+      "topic": "Rf decimal calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-195",
+      "q": "A dye spot is 17.1 cm above the baseline while the solvent front is 19 cm above it. Calculate the retention factor.",
+      "o": [
+        "1",
+        "0.9",
+        "1.2",
+        "1.1"
+      ],
+      "a": 1,
+      "e": "Rf = 17.1/19 = 0.9.",
+      "d": "Easy",
+      "topic": "Rf decimal calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-196",
+      "q": "A separated component moved 4 cm and has Rf 0.25. How far did the solvent front move?",
+      "o": [
+        "20 cm",
+        "18 cm",
+        "16 cm",
+        "4 cm"
+      ],
+      "a": 2,
+      "e": "Solvent-front distance = spot distance / Rf = 4/0.25 = 16 cm.",
+      "d": "Medium",
+      "topic": "Solvent-front calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-197",
+      "q": "A dye spot is 6 cm above the baseline while the solvent front is 15 cm above it. Calculate the retention factor.",
+      "o": [
+        "0.6",
+        "0.5",
+        "0.7",
+        "0.4"
+      ],
+      "a": 3,
+      "e": "Rf = 6/15 = 0.4.",
+      "d": "Easy",
+      "topic": "Rf decimal calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-198",
+      "q": "A dye spot is 4.4 cm above the baseline while the solvent front is 22 cm above it. Calculate the retention factor.",
+      "o": [
+        "0.3",
+        "0.4",
+        "0.5",
+        "0.2"
+      ],
+      "a": 3,
+      "e": "Rf = 4.4/22 = 0.2.",
+      "d": "Easy",
+      "topic": "Rf decimal calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-199",
+      "q": "Where must the solvent surface be relative to the sample spot?",
+      "o": [
+        "Above the spot",
+        "Below the sample spot",
+        "At the top of the strip",
+        "Exactly at the solvent front"
+      ],
+      "a": 1,
+      "e": "Keeping the solvent below the spot prevents washing the sample into the reservoir.",
+      "d": "Easy",
+      "topic": "Paper chromatography",
+      "slo": "Identify and explain chromatography concepts and interpret experimental observations"
+    },
+    {
+      "id": "CHEM9CH19-200",
+      "q": "A dye spot is 2.5 cm above the baseline while the solvent front is 25 cm above it. Calculate the retention factor.",
+      "o": [
+        "0.2",
+        "0.3",
+        "0.4",
+        "0.1"
+      ],
+      "a": 3,
+      "e": "Rf = 2.5/25 = 0.1.",
+      "d": "Easy",
+      "topic": "Rf decimal calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-201",
+      "q": "A separated component moved 8 cm and has Rf 0.5. How far did the solvent front move?",
+      "o": [
+        "16 cm",
+        "8 cm",
+        "24 cm",
+        "18 cm"
+      ],
+      "a": 0,
+      "e": "Solvent-front distance = spot distance / Rf = 8/0.5 = 16 cm.",
+      "d": "Medium",
+      "topic": "Solvent-front calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-202",
+      "q": "A dye spot is 3.6 cm above the baseline while the solvent front is 12 cm above it. Calculate the retention factor.",
+      "o": [
+        "0.3",
+        "0.5",
+        "0.6",
+        "0.4"
+      ],
+      "a": 0,
+      "e": "Rf = 3.6/12 = 0.3.",
+      "d": "Easy",
+      "topic": "Rf decimal calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-203",
+      "q": "A chromatogram has a solvent front 24 cm from the origin and a solute spot 6 cm from the origin. What is its Rf?",
+      "o": [
+        "0.25",
+        "0.15",
+        "0.45",
+        "0.35"
+      ],
+      "a": 0,
+      "e": "Rf = 6/24 = 0.25.",
+      "d": "Medium",
+      "topic": "Rf calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-204",
+      "q": "A chromatogram has a solvent front 5 cm from the origin and a solute spot 2 cm from the origin. What is its Rf?",
+      "o": [
+        "0.4",
+        "0.5",
+        "0.3",
+        "0.6"
+      ],
+      "a": 0,
+      "e": "Rf = 2/5 = 0.4.",
+      "d": "Medium",
+      "topic": "Rf calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-205",
+      "q": "A dye spot is 5.4 cm above the baseline while the solvent front is 18 cm above it. Calculate the retention factor.",
+      "o": [
+        "0.4",
+        "0.6",
+        "0.5",
+        "0.3"
+      ],
+      "a": 3,
+      "e": "Rf = 5.4/18 = 0.3.",
+      "d": "Easy",
+      "topic": "Rf decimal calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-206",
+      "q": "A separated component moved 4 cm and has Rf 0.5. How far did the solvent front move?",
+      "o": [
+        "4 cm",
+        "8 cm",
+        "10 cm",
+        "12 cm"
+      ],
+      "a": 1,
+      "e": "Solvent-front distance = spot distance / Rf = 4/0.5 = 8 cm.",
+      "d": "Medium",
+      "topic": "Solvent-front calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-207",
+      "q": "A chromatogram has a solvent front 10 cm from the origin and a solute spot 9 cm from the origin. What is its Rf?",
+      "o": [
+        "1",
+        "1.1",
+        "0.9",
+        "0.8"
+      ],
+      "a": 2,
+      "e": "Rf = 9/10 = 0.9.",
+      "d": "Medium",
+      "topic": "Rf calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-208",
+      "q": "If a spot moves with the solvent front, what is its Rf?",
+      "o": [
+        "0",
+        "1",
+        "10",
+        "-1"
+      ],
+      "a": 1,
+      "e": "Equal migration distances give Rf of 1.",
+      "d": "Easy",
+      "topic": "Rf and interpretation",
+      "slo": "Identify and explain chromatography concepts and interpret experimental observations"
+    },
+    {
+      "id": "CHEM9CH19-209",
+      "q": "A dye spot is 0.8 cm above the baseline while the solvent front is 8 cm above it. Calculate the retention factor.",
+      "o": [
+        "0.4",
+        "0.2",
+        "0.1",
+        "0.3"
+      ],
+      "a": 2,
+      "e": "Rf = 0.8/8 = 0.1.",
+      "d": "Easy",
+      "topic": "Rf decimal calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-210",
+      "q": "A dye spot is 5.6 cm above the baseline while the solvent front is 14 cm above it. Calculate the retention factor.",
+      "o": [
+        "0.5",
+        "0.4",
+        "0.7",
+        "0.6"
+      ],
+      "a": 1,
+      "e": "Rf = 5.6/14 = 0.4.",
+      "d": "Easy",
+      "topic": "Rf decimal calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-211",
+      "q": "A separated component moved 12 cm and has Rf 0.5. How far did the solvent front move?",
+      "o": [
+        "26 cm",
+        "12 cm",
+        "24 cm",
+        "36 cm"
+      ],
+      "a": 2,
+      "e": "Solvent-front distance = spot distance / Rf = 12/0.5 = 24 cm.",
+      "d": "Medium",
+      "topic": "Solvent-front calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-212",
+      "q": "A separated component moved 15 cm and has Rf 0.5. How far did the solvent front move?",
+      "o": [
+        "15 cm",
+        "32 cm",
+        "30 cm",
+        "45 cm"
+      ],
+      "a": 2,
+      "e": "Solvent-front distance = spot distance / Rf = 15/0.5 = 30 cm.",
+      "d": "Medium",
+      "topic": "Solvent-front calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-213",
+      "q": "What is a solvent front?",
+      "o": [
+        "The original sample drop",
+        "The farthest point reached by the moving solvent",
+        "The glass hook",
+        "The paper starting line"
+      ],
+      "a": 1,
+      "e": "The solvent front marks solvent migration.",
+      "d": "Easy",
+      "topic": "Paper chromatography",
+      "slo": "Identify and explain chromatography concepts and interpret experimental observations"
+    },
+    {
+      "id": "CHEM9CH19-214",
+      "q": "A separated component moved 6 cm and has Rf 0.5. How far did the solvent front move?",
+      "o": [
+        "6 cm",
+        "12 cm",
+        "14 cm",
+        "18 cm"
+      ],
+      "a": 1,
+      "e": "Solvent-front distance = spot distance / Rf = 6/0.5 = 12 cm.",
+      "d": "Medium",
+      "topic": "Solvent-front calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-215",
+      "q": "What solvent volume is specified for the measuring cylinder?",
+      "o": [
+        "25 cm3",
+        "500 cm3",
+        "250 cm3",
+        "2.5 dm3"
+      ],
+      "a": 0,
+      "e": "The procedure specifies 25 cm3 of solvent mixture.",
+      "d": "Easy",
+      "topic": "Paper chromatography",
+      "slo": "Identify and explain chromatography concepts and interpret experimental observations"
+    },
+    {
+      "id": "CHEM9CH19-216",
+      "q": "How long is the solvent mixture initially allowed to stand in the closed cylinder?",
+      "o": [
+        "1 second",
+        "5 hours",
+        "3 days",
+        "15 minutes"
+      ],
+      "a": 3,
+      "e": "The procedure states to allow the solvent to stand for 15 minutes.",
+      "d": "Easy",
+      "topic": "Paper chromatography",
+      "slo": "Identify and explain chromatography concepts and interpret experimental observations"
+    },
+    {
+      "id": "CHEM9CH19-217",
+      "q": "A dye spot is 16 cm above the baseline while the solvent front is 20 cm above it. Calculate the retention factor.",
+      "o": [
+        "1.1",
+        "0.9",
+        "0.8",
+        "1"
+      ],
+      "a": 2,
+      "e": "Rf = 16/20 = 0.8.",
+      "d": "Easy",
+      "topic": "Rf decimal calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-218",
+      "q": "A chromatogram has a solvent front 30 cm from the origin and a solute spot 18 cm from the origin. What is its Rf?",
+      "o": [
+        "0.5",
+        "0.8",
+        "0.7",
+        "0.6"
+      ],
+      "a": 3,
+      "e": "Rf = 18/30 = 0.6.",
+      "d": "Medium",
+      "topic": "Rf calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-219",
+      "q": "A dye spot is 7.5 cm above the baseline while the solvent front is 25 cm above it. Calculate the retention factor.",
+      "o": [
+        "0.3",
+        "0.4",
+        "0.6",
+        "0.5"
+      ],
+      "a": 0,
+      "e": "Rf = 7.5/25 = 0.3.",
+      "d": "Easy",
+      "topic": "Rf decimal calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-220",
+      "q": "A dye spot is 8 cm above the baseline while the solvent front is 20 cm above it. Calculate the retention factor.",
+      "o": [
+        "0.5",
+        "0.6",
+        "0.4",
+        "0.7"
+      ],
+      "a": 2,
+      "e": "Rf = 8/20 = 0.4.",
+      "d": "Easy",
+      "topic": "Rf decimal calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-221",
+      "q": "A dye spot is 7.2 cm above the baseline while the solvent front is 12 cm above it. Calculate the retention factor.",
+      "o": [
+        "0.9",
+        "0.8",
+        "0.7",
+        "0.6"
+      ],
+      "a": 3,
+      "e": "Rf = 7.2/12 = 0.6.",
+      "d": "Easy",
+      "topic": "Rf decimal calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-222",
+      "q": "A dye spot is 1.6 cm above the baseline while the solvent front is 8 cm above it. Calculate the retention factor.",
+      "o": [
+        "0.5",
+        "0.2",
+        "0.4",
+        "0.3"
+      ],
+      "a": 1,
+      "e": "Rf = 1.6/8 = 0.2.",
+      "d": "Easy",
+      "topic": "Rf decimal calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-223",
+      "q": "Does one spot prove absolute purity in every possible solvent?",
+      "o": [
+        "Yes, even without developing the chromatogram",
+        "Yes, always",
+        "Yes, even if there is no sample",
+        "No, different components may co-migrate"
+      ],
+      "a": 3,
+      "e": "One spot is evidence of purity only within the separation method used.",
+      "d": "Easy",
+      "topic": "Locating agents and identification",
+      "slo": "Identify and explain chromatography concepts and interpret experimental observations"
+    },
+    {
+      "id": "CHEM9CH19-224",
+      "q": "In paper chromatography, Rf is 0.2 and the solvent front has travelled 10 cm. How far has the solute spot travelled?",
+      "o": [
+        "12 cm",
+        "10 cm",
+        "8 cm",
+        "2 cm"
+      ],
+      "a": 3,
+      "e": "Spot distance = Rf x solvent distance = 0.2 x 10 = 2 cm.",
+      "d": "Medium",
+      "topic": "Distance calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-225",
+      "q": "A dye spot is 12.5 cm above the baseline while the solvent front is 25 cm above it. Calculate the retention factor.",
+      "o": [
+        "0.5",
+        "0.8",
+        "0.7",
+        "0.6"
+      ],
+      "a": 0,
+      "e": "Rf = 12.5/25 = 0.5.",
+      "d": "Easy",
+      "topic": "Rf decimal calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-226",
+      "q": "A dye spot is 11.9 cm above the baseline while the solvent front is 17 cm above it. Calculate the retention factor.",
+      "o": [
+        "0.8",
+        "0.7",
+        "0.9",
+        "1"
+      ],
+      "a": 1,
+      "e": "Rf = 11.9/17 = 0.7.",
+      "d": "Easy",
+      "topic": "Rf decimal calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-227",
+      "q": "A dye spot is 18 cm above the baseline while the solvent front is 20 cm above it. Calculate the retention factor.",
+      "o": [
+        "1.1",
+        "1.2",
+        "1",
+        "0.9"
+      ],
+      "a": 3,
+      "e": "Rf = 18/20 = 0.9.",
+      "d": "Easy",
+      "topic": "Rf decimal calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-228",
+      "q": "A chromatogram has a solvent front 15 cm from the origin and a solute spot 12 cm from the origin. What is its Rf?",
+      "o": [
+        "0.8",
+        "0.9",
+        "0.7",
+        "1"
+      ],
+      "a": 0,
+      "e": "Rf = 12/15 = 0.8.",
+      "d": "Medium",
+      "topic": "Rf calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-229",
+      "q": "A chromatogram has a solvent front 8 cm from the origin and a solute spot 4 cm from the origin. What is its Rf?",
+      "o": [
+        "0.6",
+        "0.7",
+        "0.5",
+        "0.4"
+      ],
+      "a": 2,
+      "e": "Rf = 4/8 = 0.5.",
+      "d": "Medium",
+      "topic": "Rf calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-230",
+      "q": "Which other kind of sample can paper chromatography separate, as noted in the text?",
+      "o": [
+        "Only large stones",
+        "Only magnetic iron filings",
+        "Only gases without a carrier",
+        "Some metal ions"
+      ],
+      "a": 3,
+      "e": "The text notes separation of inks and some metal ions.",
+      "d": "Easy",
+      "topic": "Paper chromatography",
+      "slo": "Identify and explain chromatography concepts and interpret experimental observations"
+    },
+    {
+      "id": "CHEM9CH19-231",
+      "q": "A separated component moved 5 cm and has Rf 0.25. How far did the solvent front move?",
+      "o": [
+        "5 cm",
+        "20 cm",
+        "25 cm",
+        "22 cm"
+      ],
+      "a": 1,
+      "e": "Solvent-front distance = spot distance / Rf = 5/0.25 = 20 cm.",
+      "d": "Medium",
+      "topic": "Solvent-front calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-232",
+      "q": "A dye spot is 6 cm above the baseline while the solvent front is 10 cm above it. Calculate the retention factor.",
+      "o": [
+        "0.8",
+        "0.9",
+        "0.6",
+        "0.7"
+      ],
+      "a": 2,
+      "e": "Rf = 6/10 = 0.6.",
+      "d": "Easy",
+      "topic": "Rf decimal calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-233",
+      "q": "In paper chromatography, Rf is 0.2 and the solvent front has travelled 30 cm. How far has the solute spot travelled?",
+      "o": [
+        "24 cm",
+        "36 cm",
+        "6 cm",
+        "30 cm"
+      ],
+      "a": 2,
+      "e": "Spot distance = Rf x solvent distance = 0.2 x 30 = 6 cm.",
+      "d": "Medium",
+      "topic": "Distance calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-234",
+      "q": "Why should the baseline be drawn in pencil rather than ink?",
+      "o": [
+        "Ink could dissolve and interfere with the separation",
+        "Pencil dissolves more quickly",
+        "Ink always stays fixed",
+        "Graphite is the mobile phase"
+      ],
+      "a": 0,
+      "e": "An ink baseline could create extra separated spots.",
+      "d": "Easy",
+      "topic": "Paper chromatography",
+      "slo": "Identify and explain chromatography concepts and interpret experimental observations"
+    },
+    {
+      "id": "CHEM9CH19-235",
+      "q": "A dye spot is 16.1 cm above the baseline while the solvent front is 23 cm above it. Calculate the retention factor.",
+      "o": [
+        "0.9",
+        "0.7",
+        "0.8",
+        "1"
+      ],
+      "a": 1,
+      "e": "Rf = 16.1/23 = 0.7.",
+      "d": "Easy",
+      "topic": "Rf decimal calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-236",
+      "q": "In paper chromatography, Rf is 0.6 and the solvent front has travelled 30 cm. How far has the solute spot travelled?",
+      "o": [
+        "48 cm",
+        "12 cm",
+        "18 cm",
+        "30 cm"
+      ],
+      "a": 2,
+      "e": "Spot distance = Rf x solvent distance = 0.6 x 30 = 18 cm.",
+      "d": "Medium",
+      "topic": "Distance calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-237",
+      "q": "For a spot that remains at the origin, what is Rf?",
+      "o": [
+        "10",
+        "1",
+        "Undefined whenever solvent moves",
+        "0"
+      ],
+      "a": 3,
+      "e": "The spot distance is zero, so Rf is zero.",
+      "d": "Easy",
+      "topic": "Rf and interpretation",
+      "slo": "Identify and explain chromatography concepts and interpret experimental observations"
+    },
+    {
+      "id": "CHEM9CH19-238",
+      "q": "In paper chromatography, Rf is 0.8 and the solvent front has travelled 10 cm. How far has the solute spot travelled?",
+      "o": [
+        "2 cm",
+        "10 cm",
+        "8 cm",
+        "18 cm"
+      ],
+      "a": 2,
+      "e": "Spot distance = Rf x solvent distance = 0.8 x 10 = 8 cm.",
+      "d": "Medium",
+      "topic": "Distance calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-239",
+      "q": "A chromatogram has a solvent front 15 cm from the origin and a solute spot 9 cm from the origin. What is its Rf?",
+      "o": [
+        "0.6",
+        "0.8",
+        "0.5",
+        "0.7"
+      ],
+      "a": 0,
+      "e": "Rf = 9/15 = 0.6.",
+      "d": "Medium",
+      "topic": "Rf calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-240",
+      "q": "A separated component moved 4 cm and has Rf 0.2. How far did the solvent front move?",
+      "o": [
+        "4 cm",
+        "24 cm",
+        "22 cm",
+        "20 cm"
+      ],
+      "a": 3,
+      "e": "Solvent-front distance = spot distance / Rf = 4/0.2 = 20 cm.",
+      "d": "Medium",
+      "topic": "Solvent-front calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-241",
+      "q": "Which colour has Rf 0.8 in the textbook chromatogram?",
+      "o": [
+        "Purple",
+        "Black",
+        "Red",
+        "Blue"
+      ],
+      "a": 3,
+      "e": "The blue component travels 8 cm while solvent travels 10 cm.",
+      "d": "Easy",
+      "topic": "Rf and interpretation",
+      "slo": "Identify and explain chromatography concepts and interpret experimental observations"
+    },
+    {
+      "id": "CHEM9CH19-242",
+      "q": "A separated component moved 20 cm and has Rf 0.5. How far did the solvent front move?",
+      "o": [
+        "60 cm",
+        "20 cm",
+        "40 cm",
+        "42 cm"
+      ],
+      "a": 2,
+      "e": "Solvent-front distance = spot distance / Rf = 20/0.5 = 40 cm.",
+      "d": "Medium",
+      "topic": "Solvent-front calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-243",
+      "q": "A dye spot is 6.6 cm above the baseline while the solvent front is 11 cm above it. Calculate the retention factor.",
+      "o": [
+        "0.6",
+        "0.8",
+        "0.7",
+        "0.9"
+      ],
+      "a": 0,
+      "e": "Rf = 6.6/11 = 0.6.",
+      "d": "Easy",
+      "topic": "Rf decimal calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-244",
+      "q": "A separated component moved 30 cm and has Rf 0.75. How far did the solvent front move?",
+      "o": [
+        "40 cm",
+        "70 cm",
+        "30 cm",
+        "42 cm"
+      ],
+      "a": 0,
+      "e": "Solvent-front distance = spot distance / Rf = 30/0.75 = 40 cm.",
+      "d": "Medium",
+      "topic": "Solvent-front calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-245",
+      "q": "In paper chromatography, Rf is 0.2 and the solvent front has travelled 50 cm. How far has the solute spot travelled?",
+      "o": [
+        "50 cm",
+        "40 cm",
+        "60 cm",
+        "10 cm"
+      ],
+      "a": 3,
+      "e": "Spot distance = Rf x solvent distance = 0.2 x 50 = 10 cm.",
+      "d": "Medium",
+      "topic": "Distance calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-246",
+      "q": "A chromatogram has a solvent front 30 cm from the origin and a solute spot 6 cm from the origin. What is its Rf?",
+      "o": [
+        "0.3",
+        "0.2",
+        "0.4",
+        "0.1"
+      ],
+      "a": 1,
+      "e": "Rf = 6/30 = 0.2.",
+      "d": "Medium",
+      "topic": "Rf calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-247",
+      "q": "A dye spot is 9.2 cm above the baseline while the solvent front is 23 cm above it. Calculate the retention factor.",
+      "o": [
+        "0.5",
+        "0.4",
+        "0.7",
+        "0.6"
+      ],
+      "a": 1,
+      "e": "Rf = 9.2/23 = 0.4.",
+      "d": "Easy",
+      "topic": "Rf decimal calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-248",
+      "q": "If an ink gives three separated spots, what is the best conclusion?",
+      "o": [
+        "It must be pure",
+        "It contains exactly one dye",
+        "It is necessarily water",
+        "It contains at least three distinguishable components under these conditions"
+      ],
+      "a": 3,
+      "e": "Distinct spots indicate different components under the method.",
+      "d": "Easy",
+      "topic": "Locating agents and identification",
+      "slo": "Identify and explain chromatography concepts and interpret experimental observations"
+    },
+    {
+      "id": "CHEM9CH19-249",
+      "q": "What distance does the purple spot travel in the textbook example?",
+      "o": [
+        "10 cm",
+        "8 cm",
+        "6 cm",
+        "2 cm"
+      ],
+      "a": 2,
+      "e": "Purple is 6 cm from the origin.",
+      "d": "Easy",
+      "topic": "Rf and interpretation",
+      "slo": "Identify and explain chromatography concepts and interpret experimental observations"
+    },
+    {
+      "id": "CHEM9CH19-250",
+      "q": "What generally happens to a component with greater stationary-phase affinity?",
+      "o": [
+        "It always overtakes the solvent front",
+        "It turns into paper",
+        "It moves less far",
+        "It evaporates completely"
+      ],
+      "a": 2,
+      "e": "Strong stationary-phase interaction slows migration.",
+      "d": "Easy",
+      "topic": "Principles and phases",
+      "slo": "Identify and explain chromatography concepts and interpret experimental observations"
+    },
+    {
+      "id": "CHEM9CH19-251",
+      "q": "A dye spot is 14.4 cm above the baseline while the solvent front is 18 cm above it. Calculate the retention factor.",
+      "o": [
+        "1",
+        "0.8",
+        "0.9",
+        "1.1"
+      ],
+      "a": 1,
+      "e": "Rf = 14.4/18 = 0.8.",
+      "d": "Easy",
+      "topic": "Rf decimal calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-252",
+      "q": "In paper chromatography, Rf is 0.4 and the solvent front has travelled 40 cm. How far has the solute spot travelled?",
+      "o": [
+        "24 cm",
+        "56 cm",
+        "16 cm",
+        "40 cm"
+      ],
+      "a": 2,
+      "e": "Spot distance = Rf x solvent distance = 0.4 x 40 = 16 cm.",
+      "d": "Medium",
+      "topic": "Distance calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-253",
+      "q": "A separated component moved 12 cm and has Rf 0.4. How far did the solvent front move?",
+      "o": [
+        "12 cm",
+        "32 cm",
+        "30 cm",
+        "42 cm"
+      ],
+      "a": 2,
+      "e": "Solvent-front distance = spot distance / Rf = 12/0.4 = 30 cm.",
+      "d": "Medium",
+      "topic": "Solvent-front calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-254",
+      "q": "In paper chromatography, Rf is 0.8 and the solvent front has travelled 40 cm. How far has the solute spot travelled?",
+      "o": [
+        "8 cm",
+        "72 cm",
+        "40 cm",
+        "32 cm"
+      ],
+      "a": 3,
+      "e": "Spot distance = Rf x solvent distance = 0.8 x 40 = 32 cm.",
+      "d": "Medium",
+      "topic": "Distance calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-255",
+      "q": "In paper chromatography, Rf is 0.5 and the solvent front has travelled 10 cm. How far has the solute spot travelled?",
+      "o": [
+        "5 cm",
+        "6 cm",
+        "15 cm",
+        "10 cm"
+      ],
+      "a": 0,
+      "e": "Spot distance = Rf x solvent distance = 0.5 x 10 = 5 cm.",
+      "d": "Medium",
+      "topic": "Distance calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-256",
+      "q": "What does TLC stand for?",
+      "o": [
+        "Thermal light calibration",
+        "Two-layer combustion",
+        "Total liquid concentration",
+        "Thin-layer chromatography"
+      ],
+      "a": 3,
+      "e": "TLC means thin-layer chromatography.",
+      "d": "Easy",
+      "topic": "Locating agents and identification",
+      "slo": "Identify and explain chromatography concepts and interpret experimental observations"
+    },
+    {
+      "id": "CHEM9CH19-257",
+      "q": "In paper chromatography, Rf is 0.75 and the solvent front has travelled 40 cm. How far has the solute spot travelled?",
+      "o": [
+        "10 cm",
+        "70 cm",
+        "30 cm",
+        "40 cm"
+      ],
+      "a": 2,
+      "e": "Spot distance = Rf x solvent distance = 0.75 x 40 = 30 cm.",
+      "d": "Medium",
+      "topic": "Distance calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-258",
+      "q": "What is used to apply a tiny sample spot?",
+      "o": [
+        "A magnet",
+        "A measuring tape",
+        "A large spoon",
+        "A capillary tube"
+      ],
+      "a": 3,
+      "e": "The sample is spotted with a capillary tube.",
+      "d": "Easy",
+      "topic": "Paper chromatography",
+      "slo": "Identify and explain chromatography concepts and interpret experimental observations"
+    },
+    {
+      "id": "CHEM9CH19-259",
+      "q": "Which vessel is specified for the paper chromatography setup?",
+      "o": [
+        "An open crucible",
+        "A 1 dm3 measuring cylinder",
+        "A vacuum flask without solvent",
+        "A metal frying pan"
+      ],
+      "a": 1,
+      "e": "The textbook specifies a 1 dm3 measuring cylinder.",
+      "d": "Easy",
+      "topic": "Paper chromatography",
+      "slo": "Identify and explain chromatography concepts and interpret experimental observations"
+    },
+    {
+      "id": "CHEM9CH19-260",
+      "q": "Why might a chromatogram need a locating agent?",
+      "o": [
+        "Some components are colourless",
+        "The solvent cannot move",
+        "All dyes are always black",
+        "The paper is made of metal"
+      ],
+      "a": 0,
+      "e": "Colourless spots may not be visible without treatment.",
+      "d": "Easy",
+      "topic": "Locating agents and identification",
+      "slo": "Identify and explain chromatography concepts and interpret experimental observations"
+    },
+    {
+      "id": "CHEM9CH19-261",
+      "q": "A dye spot is 9.8 cm above the baseline while the solvent front is 14 cm above it. Calculate the retention factor.",
+      "o": [
+        "0.9",
+        "0.8",
+        "1",
+        "0.7"
+      ],
+      "a": 3,
+      "e": "Rf = 9.8/14 = 0.7.",
+      "d": "Easy",
+      "topic": "Rf decimal calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-262",
+      "q": "A separated component moved 8 cm and has Rf 0.4. How far did the solvent front move?",
+      "o": [
+        "8 cm",
+        "20 cm",
+        "28 cm",
+        "22 cm"
+      ],
+      "a": 1,
+      "e": "Solvent-front distance = spot distance / Rf = 8/0.4 = 20 cm.",
+      "d": "Medium",
+      "topic": "Solvent-front calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-263",
+      "q": "What acts as the mobile phase in paper chromatography?",
+      "o": [
+        "A solvent or solvent mixture",
+        "The pencil baseline",
+        "The dry paper itself",
+        "The glass hook"
+      ],
+      "a": 0,
+      "e": "The mobile phase is the moving solvent.",
+      "d": "Easy",
+      "topic": "Paper chromatography",
+      "slo": "Identify and explain chromatography concepts and interpret experimental observations"
+    },
+    {
+      "id": "CHEM9CH19-264",
+      "q": "A dye spot is 8.8 cm above the baseline while the solvent front is 22 cm above it. Calculate the retention factor.",
+      "o": [
+        "0.5",
+        "0.4",
+        "0.6",
+        "0.7"
+      ],
+      "a": 1,
+      "e": "Rf = 8.8/22 = 0.4.",
+      "d": "Easy",
+      "topic": "Rf decimal calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-265",
+      "q": "Which colour travels farthest in the textbook diagram?",
+      "o": [
+        "Red",
+        "Purple",
+        "Blue",
+        "All equally"
+      ],
+      "a": 2,
+      "e": "Blue moves 8 cm, farther than purple or red.",
+      "d": "Easy",
+      "topic": "Rf and interpretation",
+      "slo": "Identify and explain chromatography concepts and interpret experimental observations"
+    },
+    {
+      "id": "CHEM9CH19-266",
+      "q": "A dye spot is 2.6 cm above the baseline while the solvent front is 13 cm above it. Calculate the retention factor.",
+      "o": [
+        "0.5",
+        "0.2",
+        "0.3",
+        "0.4"
+      ],
+      "a": 1,
+      "e": "Rf = 2.6/13 = 0.2.",
+      "d": "Easy",
+      "topic": "Rf decimal calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-267",
+      "q": "Why is the container closed during development?",
+      "o": [
+        "To reduce solvent evaporation and keep conditions stable",
+        "To stop capillary movement",
+        "To dissolve the glass hook",
+        "To make the paper magnetic"
+      ],
+      "a": 0,
+      "e": "A closed container reduces evaporation and supports a consistent solvent atmosphere.",
+      "d": "Easy",
+      "topic": "Paper chromatography",
+      "slo": "Identify and explain chromatography concepts and interpret experimental observations"
+    },
+    {
+      "id": "CHEM9CH19-268",
+      "q": "A dye spot is 14.4 cm above the baseline while the solvent front is 24 cm above it. Calculate the retention factor.",
+      "o": [
+        "0.7",
+        "0.9",
+        "0.6",
+        "0.8"
+      ],
+      "a": 2,
+      "e": "Rf = 14.4/24 = 0.6.",
+      "d": "Easy",
+      "topic": "Rf decimal calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-269",
+      "q": "A dye spot is 15 cm above the baseline while the solvent front is 25 cm above it. Calculate the retention factor.",
+      "o": [
+        "0.6",
+        "0.9",
+        "0.7",
+        "0.8"
+      ],
+      "a": 0,
+      "e": "Rf = 15/25 = 0.6.",
+      "d": "Easy",
+      "topic": "Rf decimal calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-270",
+      "q": "In paper chromatography, Rf is 0.8 and the solvent front has travelled 50 cm. How far has the solute spot travelled?",
+      "o": [
+        "10 cm",
+        "50 cm",
+        "90 cm",
+        "40 cm"
+      ],
+      "a": 3,
+      "e": "Spot distance = Rf x solvent distance = 0.8 x 50 = 40 cm.",
+      "d": "Medium",
+      "topic": "Distance calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-271",
+      "q": "In paper chromatography, Rf is 0.75 and the solvent front has travelled 20 cm. How far has the solute spot travelled?",
+      "o": [
+        "5 cm",
+        "35 cm",
+        "15 cm",
+        "20 cm"
+      ],
+      "a": 2,
+      "e": "Spot distance = Rf x solvent distance = 0.75 x 20 = 15 cm.",
+      "d": "Medium",
+      "topic": "Distance calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-272",
+      "q": "A dye spot is 12 cm above the baseline while the solvent front is 24 cm above it. Calculate the retention factor.",
+      "o": [
+        "0.6",
+        "0.7",
+        "0.8",
+        "0.5"
+      ],
+      "a": 3,
+      "e": "Rf = 12/24 = 0.5.",
+      "d": "Easy",
+      "topic": "Rf decimal calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-273",
+      "q": "In paper chromatography, Rf is 0.8 and the solvent front has travelled 15 cm. How far has the solute spot travelled?",
+      "o": [
+        "3 cm",
+        "12 cm",
+        "15 cm",
+        "27 cm"
+      ],
+      "a": 1,
+      "e": "Spot distance = Rf x solvent distance = 0.8 x 15 = 12 cm.",
+      "d": "Medium",
+      "topic": "Distance calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-274",
+      "q": "A dye spot is 1.2 cm above the baseline while the solvent front is 12 cm above it. Calculate the retention factor.",
+      "o": [
+        "0.2",
+        "0.4",
+        "0.3",
+        "0.1"
+      ],
+      "a": 3,
+      "e": "Rf = 1.2/12 = 0.1.",
+      "d": "Easy",
+      "topic": "Rf decimal calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-275",
+      "q": "A chromatogram has a solvent front 20 cm from the origin and a solute spot 8 cm from the origin. What is its Rf?",
+      "o": [
+        "0.3",
+        "0.6",
+        "0.5",
+        "0.4"
+      ],
+      "a": 3,
+      "e": "Rf = 8/20 = 0.4.",
+      "d": "Medium",
+      "topic": "Rf calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-276",
+      "q": "A separated component moved 10 cm and has Rf 0.25. How far did the solvent front move?",
+      "o": [
+        "10 cm",
+        "50 cm",
+        "42 cm",
+        "40 cm"
+      ],
+      "a": 3,
+      "e": "Solvent-front distance = spot distance / Rf = 10/0.25 = 40 cm.",
+      "d": "Medium",
+      "topic": "Solvent-front calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-277",
+      "q": "A chromatogram has a solvent front 12 cm from the origin and a solute spot 9 cm from the origin. What is its Rf?",
+      "o": [
+        "0.75",
+        "0.85",
+        "0.95",
+        "0.65"
+      ],
+      "a": 0,
+      "e": "Rf = 9/12 = 0.75.",
+      "d": "Medium",
+      "topic": "Rf calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-278",
+      "q": "A dye spot is 20 cm above the baseline while the solvent front is 25 cm above it. Calculate the retention factor.",
+      "o": [
+        "1.1",
+        "0.8",
+        "0.9",
+        "1"
+      ],
+      "a": 1,
+      "e": "Rf = 20/25 = 0.8.",
+      "d": "Easy",
+      "topic": "Rf decimal calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-279",
+      "q": "In paper chromatography, Rf is 0.2 and the solvent front has travelled 5 cm. How far has the solute spot travelled?",
+      "o": [
+        "6 cm",
+        "4 cm",
+        "1 cm",
+        "5 cm"
+      ],
+      "a": 2,
+      "e": "Spot distance = Rf x solvent distance = 0.2 x 5 = 1 cm.",
+      "d": "Medium",
+      "topic": "Distance calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-280",
+      "q": "A dye spot is 7.8 cm above the baseline while the solvent front is 26 cm above it. Calculate the retention factor.",
+      "o": [
+        "0.3",
+        "0.5",
+        "0.4",
+        "0.6"
+      ],
+      "a": 0,
+      "e": "Rf = 7.8/26 = 0.3.",
+      "d": "Easy",
+      "topic": "Rf decimal calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-281",
+      "q": "A chromatogram has a solvent front 10 cm from the origin and a solute spot 8 cm from the origin. What is its Rf?",
+      "o": [
+        "1",
+        "0.8",
+        "0.9",
+        "0.7"
+      ],
+      "a": 1,
+      "e": "Rf = 8/10 = 0.8.",
+      "d": "Medium",
+      "topic": "Rf calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-282",
+      "q": "A dye spot is 0.7 cm above the baseline while the solvent front is 7 cm above it. Calculate the retention factor.",
+      "o": [
+        "0.4",
+        "0.1",
+        "0.3",
+        "0.2"
+      ],
+      "a": 1,
+      "e": "Rf = 0.7/7 = 0.1.",
+      "d": "Easy",
+      "topic": "Rf decimal calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-283",
+      "q": "A dye spot is 5.2 cm above the baseline while the solvent front is 26 cm above it. Calculate the retention factor.",
+      "o": [
+        "0.3",
+        "0.5",
+        "0.2",
+        "0.4"
+      ],
+      "a": 2,
+      "e": "Rf = 5.2/26 = 0.2.",
+      "d": "Easy",
+      "topic": "Rf decimal calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-284",
+      "q": "A dye spot is 5.4 cm above the baseline while the solvent front is 9 cm above it. Calculate the retention factor.",
+      "o": [
+        "0.6",
+        "0.8",
+        "0.7",
+        "0.9"
+      ],
+      "a": 0,
+      "e": "Rf = 5.4/9 = 0.6.",
+      "d": "Easy",
+      "topic": "Rf decimal calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-285",
+      "q": "In paper chromatography, Rf is 0.5 and the solvent front has travelled 20 cm. How far has the solute spot travelled?",
+      "o": [
+        "10 cm",
+        "20 cm",
+        "30 cm",
+        "11 cm"
+      ],
+      "a": 0,
+      "e": "Spot distance = Rf x solvent distance = 0.5 x 20 = 10 cm.",
+      "d": "Medium",
+      "topic": "Distance calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-286",
+      "q": "Which colour has Rf 0.2 in the textbook chromatogram?",
+      "o": [
+        "Blue",
+        "Purple",
+        "Red",
+        "Yellow"
+      ],
+      "a": 2,
+      "e": "Red travels 2 cm with a 10 cm solvent front.",
+      "d": "Easy",
+      "topic": "Rf and interpretation",
+      "slo": "Identify and explain chromatography concepts and interpret experimental observations"
+    },
+    {
+      "id": "CHEM9CH19-287",
+      "q": "What does a chromatogram show?",
+      "o": [
+        "Only the temperature of the solvent",
+        "Only the mass of the beaker",
+        "The separated spots or bands of components",
+        "Only the colour of the container"
+      ],
+      "a": 2,
+      "e": "A chromatogram displays separated components.",
+      "d": "Easy",
+      "topic": "Principles and phases",
+      "slo": "Identify and explain chromatography concepts and interpret experimental observations"
+    },
+    {
+      "id": "CHEM9CH19-288",
+      "q": "A separated component moved 4 cm and has Rf 0.4. How far did the solvent front move?",
+      "o": [
+        "14 cm",
+        "12 cm",
+        "4 cm",
+        "10 cm"
+      ],
+      "a": 3,
+      "e": "Solvent-front distance = spot distance / Rf = 4/0.4 = 10 cm.",
+      "d": "Medium",
+      "topic": "Solvent-front calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-289",
+      "q": "A dye spot is 10.8 cm above the baseline while the solvent front is 12 cm above it. Calculate the retention factor.",
+      "o": [
+        "1.1",
+        "1.2",
+        "0.9",
+        "1"
+      ],
+      "a": 2,
+      "e": "Rf = 10.8/12 = 0.9.",
+      "d": "Easy",
+      "topic": "Rf decimal calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-290",
+      "q": "A chromatogram has a solvent front 6 cm from the origin and a solute spot 3 cm from the origin. What is its Rf?",
+      "o": [
+        "0.6",
+        "0.7",
+        "0.5",
+        "0.4"
+      ],
+      "a": 2,
+      "e": "Rf = 3/6 = 0.5.",
+      "d": "Medium",
+      "topic": "Rf calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-291",
+      "q": "What is done to the paper after removal from the cylinder?",
+      "o": [
+        "It is ground to powder",
+        "It is immersed in molten metal",
+        "It is immediately burned",
+        "It is dried in air"
+      ],
+      "a": 3,
+      "e": "The paper is removed and dried.",
+      "d": "Easy",
+      "topic": "Paper chromatography",
+      "slo": "Identify and explain chromatography concepts and interpret experimental observations"
+    },
+    {
+      "id": "CHEM9CH19-292",
+      "q": "A dye spot is 5.5 cm above the baseline while the solvent front is 11 cm above it. Calculate the retention factor.",
+      "o": [
+        "0.7",
+        "0.6",
+        "0.8",
+        "0.5"
+      ],
+      "a": 3,
+      "e": "Rf = 5.5/11 = 0.5.",
+      "d": "Easy",
+      "topic": "Rf decimal calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-293",
+      "q": "How wide is the paper strip specified in the experiment?",
+      "o": [
+        "25 cm",
+        "50 cm",
+        "2.5 cm",
+        "0.025 cm"
+      ],
+      "a": 2,
+      "e": "The specified strip is 2.5 cm wide.",
+      "d": "Easy",
+      "topic": "Paper chromatography",
+      "slo": "Identify and explain chromatography concepts and interpret experimental observations"
+    },
+    {
+      "id": "CHEM9CH19-294",
+      "q": "A dye spot is 7.6 cm above the baseline while the solvent front is 19 cm above it. Calculate the retention factor.",
+      "o": [
+        "0.7",
+        "0.5",
+        "0.6",
+        "0.4"
+      ],
+      "a": 3,
+      "e": "Rf = 7.6/19 = 0.4.",
+      "d": "Easy",
+      "topic": "Rf decimal calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-295",
+      "q": "A dye spot is 10.5 cm above the baseline while the solvent front is 21 cm above it. Calculate the retention factor.",
+      "o": [
+        "0.8",
+        "0.6",
+        "0.5",
+        "0.7"
+      ],
+      "a": 2,
+      "e": "Rf = 10.5/21 = 0.5.",
+      "d": "Easy",
+      "topic": "Rf decimal calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-296",
+      "q": "Which other chromatographic method is mentioned alongside paper chromatography for amino acids?",
+      "o": [
+        "Thin-layer chromatography",
+        "Simple distillation",
+        "Magnetic separation",
+        "Filtration only"
+      ],
+      "a": 0,
+      "e": "The chapter mentions thin-layer chromatography (TLC).",
+      "d": "Easy",
+      "topic": "Locating agents and identification",
+      "slo": "Identify and explain chromatography concepts and interpret experimental observations"
+    },
+    {
+      "id": "CHEM9CH19-297",
+      "q": "How far from one end is the pencil baseline marked?",
+      "o": [
+        "50 cm",
+        "5 cm",
+        "25 cm",
+        "0.5 mm"
+      ],
+      "a": 1,
+      "e": "The procedure marks a line 5 cm from one end.",
+      "d": "Easy",
+      "topic": "Paper chromatography",
+      "slo": "Identify and explain chromatography concepts and interpret experimental observations"
+    },
+    {
+      "id": "CHEM9CH19-298",
+      "q": "A chromatogram has a solvent front 15 cm from the origin and a solute spot 6 cm from the origin. What is its Rf?",
+      "o": [
+        "0.4",
+        "0.3",
+        "0.6",
+        "0.5"
+      ],
+      "a": 0,
+      "e": "Rf = 6/15 = 0.4.",
+      "d": "Medium",
+      "topic": "Rf calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-299",
+      "q": "In paper chromatography, Rf is 0.4 and the solvent front has travelled 5 cm. How far has the solute spot travelled?",
+      "o": [
+        "3 cm",
+        "2 cm",
+        "7 cm",
+        "5 cm"
+      ],
+      "a": 1,
+      "e": "Spot distance = Rf x solvent distance = 0.4 x 5 = 2 cm.",
+      "d": "Medium",
+      "topic": "Distance calculations",
+      "slo": "Calculate and interpret retention factors and migration distances"
+    },
+    {
+      "id": "CHEM9CH19-300",
+      "q": "What does one spot generally suggest about a sample under the tested conditions?",
+      "o": [
+        "It contains no substance",
+        "It may be pure",
+        "It must contain exactly four compounds",
+        "It is necessarily radioactive"
+      ],
+      "a": 1,
+      "e": "A pure substance typically produces one spot under suitable conditions.",
+      "d": "Easy",
+      "topic": "Locating agents and identification",
+      "slo": "Identify and explain chromatography concepts and interpret experimental observations"
+    }
+  ]
+}

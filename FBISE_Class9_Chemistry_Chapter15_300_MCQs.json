@@ -1,0 +1,4504 @@
+{
+  "questions": [
+    {
+      "q": "The scientific study of chemical substances and reactions in living organisms is called?",
+      "o": [
+        "Metallurgy",
+        "Geochemistry",
+        "Biochemistry",
+        "Electrochemistry"
+      ],
+      "a": 2,
+      "e": "Biochemistry studies the chemistry of living systems.",
+      "d": "Easy",
+      "topic": "Introduction",
+      "slo": "Identify, explain or apply concepts of introduction in biochemistry.",
+      "id": "CHEM9CH15-001"
+    },
+    {
+      "q": "Select the correct answer: the scientific study of chemical substances and reactions in living organisms is called?",
+      "o": [
+        "Metallurgy",
+        "Biochemistry",
+        "Geochemistry",
+        "Electrochemistry"
+      ],
+      "a": 1,
+      "e": "Biochemistry studies the chemistry of living systems.",
+      "d": "Easy",
+      "topic": "Introduction",
+      "slo": "Identify, explain or apply concepts of introduction in biochemistry.",
+      "id": "CHEM9CH15-002"
+    },
+    {
+      "q": "In a biochemistry lesson, a student is asked: the scientific study of chemical substances and reactions in living organisms is called?",
+      "o": [
+        "Biochemistry",
+        "Geochemistry",
+        "Electrochemistry",
+        "Metallurgy"
+      ],
+      "a": 0,
+      "e": "Biochemistry studies the chemistry of living systems.",
+      "d": "Medium",
+      "topic": "Introduction",
+      "slo": "Identify, explain or apply concepts of introduction in biochemistry.",
+      "id": "CHEM9CH15-003"
+    },
+    {
+      "q": "The main chemical source of energy for many body activities is?",
+      "o": [
+        "Carbohydrates",
+        "Water",
+        "Nucleic acids",
+        "Mineral salts"
+      ],
+      "a": 0,
+      "e": "Carbohydrates supply energy for body processes.",
+      "d": "Medium",
+      "topic": "Carbohydrates",
+      "slo": "Identify, explain or apply concepts of carbohydrates in biochemistry.",
+      "id": "CHEM9CH15-004"
+    },
+    {
+      "q": "Select the correct answer: the main chemical source of energy for many body activities is?",
+      "o": [
+        "Nucleic acids",
+        "Carbohydrates",
+        "Mineral salts",
+        "Water"
+      ],
+      "a": 1,
+      "e": "Carbohydrates supply energy for body processes.",
+      "d": "Easy",
+      "topic": "Carbohydrates",
+      "slo": "Identify, explain or apply concepts of carbohydrates in biochemistry.",
+      "id": "CHEM9CH15-005"
+    },
+    {
+      "q": "In a biochemistry lesson, a student is asked: the main chemical source of energy for many body activities is?",
+      "o": [
+        "Mineral salts",
+        "Carbohydrates",
+        "Nucleic acids",
+        "Water"
+      ],
+      "a": 1,
+      "e": "Carbohydrates supply energy for body processes.",
+      "d": "Medium",
+      "topic": "Carbohydrates",
+      "slo": "Identify, explain or apply concepts of carbohydrates in biochemistry.",
+      "id": "CHEM9CH15-006"
+    },
+    {
+      "q": "The nutrient needed in large quantities for growth and tissue repair is?",
+      "o": [
+        "Sodium chloride",
+        "Vitamin C",
+        "Protein",
+        "Water only"
+      ],
+      "a": 2,
+      "e": "Proteins build and repair body tissues.",
+      "d": "Medium",
+      "topic": "Proteins",
+      "slo": "Identify, explain or apply concepts of proteins in biochemistry.",
+      "id": "CHEM9CH15-007"
+    },
+    {
+      "q": "Select the correct answer: the nutrient needed in large quantities for growth and tissue repair is?",
+      "o": [
+        "Sodium chloride",
+        "Protein",
+        "Water only",
+        "Vitamin C"
+      ],
+      "a": 1,
+      "e": "Proteins build and repair body tissues.",
+      "d": "Easy",
+      "topic": "Proteins",
+      "slo": "Identify, explain or apply concepts of proteins in biochemistry.",
+      "id": "CHEM9CH15-008"
+    },
+    {
+      "q": "In a biochemistry lesson, a student is asked: the nutrient needed in large quantities for growth and tissue repair is?",
+      "o": [
+        "Vitamin C",
+        "Protein",
+        "Water only",
+        "Sodium chloride"
+      ],
+      "a": 1,
+      "e": "Proteins build and repair body tissues.",
+      "d": "Medium",
+      "topic": "Proteins",
+      "slo": "Identify, explain or apply concepts of proteins in biochemistry.",
+      "id": "CHEM9CH15-009"
+    },
+    {
+      "q": "The biomolecule that stores genetic information in cells is?",
+      "o": [
+        "Triglyceride",
+        "Starch",
+        "Glucose",
+        "DNA"
+      ],
+      "a": 3,
+      "e": "DNA carries hereditary instructions.",
+      "d": "Medium",
+      "topic": "Nucleic acids",
+      "slo": "Identify, explain or apply concepts of nucleic acids in biochemistry.",
+      "id": "CHEM9CH15-010"
+    },
+    {
+      "q": "Select the correct answer: the biomolecule that stores genetic information in cells is?",
+      "o": [
+        "Triglyceride",
+        "Starch",
+        "Glucose",
+        "DNA"
+      ],
+      "a": 3,
+      "e": "DNA carries hereditary instructions.",
+      "d": "Easy",
+      "topic": "Nucleic acids",
+      "slo": "Identify, explain or apply concepts of nucleic acids in biochemistry.",
+      "id": "CHEM9CH15-011"
+    },
+    {
+      "q": "In a biochemistry lesson, a student is asked: the biomolecule that stores genetic information in cells is?",
+      "o": [
+        "Starch",
+        "Glucose",
+        "DNA",
+        "Triglyceride"
+      ],
+      "a": 2,
+      "e": "DNA carries hereditary instructions.",
+      "d": "Medium",
+      "topic": "Nucleic acids",
+      "slo": "Identify, explain or apply concepts of nucleic acids in biochemistry.",
+      "id": "CHEM9CH15-012"
+    },
+    {
+      "q": "The nucleic acid commonly involved in protein synthesis is?",
+      "o": [
+        "Cellulose",
+        "Glycogen",
+        "RNA",
+        "Fat"
+      ],
+      "a": 2,
+      "e": "RNA participates in expressing genetic instructions.",
+      "d": "Easy",
+      "topic": "Nucleic acids",
+      "slo": "Identify, explain or apply concepts of nucleic acids in biochemistry.",
+      "id": "CHEM9CH15-013"
+    },
+    {
+      "q": "Select the correct answer: the nucleic acid commonly involved in protein synthesis is?",
+      "o": [
+        "Cellulose",
+        "RNA",
+        "Fat",
+        "Glycogen"
+      ],
+      "a": 1,
+      "e": "RNA participates in expressing genetic instructions.",
+      "d": "Easy",
+      "topic": "Nucleic acids",
+      "slo": "Identify, explain or apply concepts of nucleic acids in biochemistry.",
+      "id": "CHEM9CH15-014"
+    },
+    {
+      "q": "In a biochemistry lesson, a student is asked: the nucleic acid commonly involved in protein synthesis is?",
+      "o": [
+        "Cellulose",
+        "Glycogen",
+        "RNA",
+        "Fat"
+      ],
+      "a": 2,
+      "e": "RNA participates in expressing genetic instructions.",
+      "d": "Medium",
+      "topic": "Nucleic acids",
+      "slo": "Identify, explain or apply concepts of nucleic acids in biochemistry.",
+      "id": "CHEM9CH15-015"
+    },
+    {
+      "q": "A balanced diet means a diet that?",
+      "o": [
+        "Contains only carbohydrates",
+        "Excludes all fats",
+        "Provides nutrients in suitable amounts",
+        "Contains only proteins"
+      ],
+      "a": 2,
+      "e": "A balanced diet provides appropriate nutrients for normal health.",
+      "d": "Medium",
+      "topic": "Balanced diet",
+      "slo": "Identify, explain or apply concepts of balanced diet in biochemistry.",
+      "id": "CHEM9CH15-016"
+    },
+    {
+      "q": "Select the correct answer: a balanced diet means a diet that?",
+      "o": [
+        "Contains only proteins",
+        "Excludes all fats",
+        "Contains only carbohydrates",
+        "Provides nutrients in suitable amounts"
+      ],
+      "a": 3,
+      "e": "A balanced diet provides appropriate nutrients for normal health.",
+      "d": "Easy",
+      "topic": "Balanced diet",
+      "slo": "Identify, explain or apply concepts of balanced diet in biochemistry.",
+      "id": "CHEM9CH15-017"
+    },
+    {
+      "q": "In a biochemistry lesson, a student is asked: a balanced diet means a diet that?",
+      "o": [
+        "Provides nutrients in suitable amounts",
+        "Contains only proteins",
+        "Excludes all fats",
+        "Contains only carbohydrates"
+      ],
+      "a": 0,
+      "e": "A balanced diet provides appropriate nutrients for normal health.",
+      "d": "Medium",
+      "topic": "Balanced diet",
+      "slo": "Identify, explain or apply concepts of balanced diet in biochemistry.",
+      "id": "CHEM9CH15-018"
+    },
+    {
+      "q": "Poor nutrition resulting from inadequate or unbalanced nutrients is?",
+      "o": [
+        "Fermentation",
+        "Malnutrition",
+        "Digestion",
+        "Hydrogenation"
+      ],
+      "a": 1,
+      "e": "Malnutrition results from too little, too much or imbalanced nutrient intake.",
+      "d": "Medium",
+      "topic": "Nutrition",
+      "slo": "Identify, explain or apply concepts of nutrition in biochemistry.",
+      "id": "CHEM9CH15-019"
+    },
+    {
+      "q": "Select the correct answer: poor nutrition resulting from inadequate or unbalanced nutrients is?",
+      "o": [
+        "Malnutrition",
+        "Hydrogenation",
+        "Fermentation",
+        "Digestion"
+      ],
+      "a": 0,
+      "e": "Malnutrition results from too little, too much or imbalanced nutrient intake.",
+      "d": "Easy",
+      "topic": "Nutrition",
+      "slo": "Identify, explain or apply concepts of nutrition in biochemistry.",
+      "id": "CHEM9CH15-020"
+    },
+    {
+      "q": "In a biochemistry lesson, a student is asked: poor nutrition resulting from inadequate or unbalanced nutrients is?",
+      "o": [
+        "Fermentation",
+        "Hydrogenation",
+        "Malnutrition",
+        "Digestion"
+      ],
+      "a": 2,
+      "e": "Malnutrition results from too little, too much or imbalanced nutrient intake.",
+      "d": "Medium",
+      "topic": "Nutrition",
+      "slo": "Identify, explain or apply concepts of nutrition in biochemistry.",
+      "id": "CHEM9CH15-021"
+    },
+    {
+      "q": "The basic building blocks of proteins are?",
+      "o": [
+        "Fatty acids",
+        "Nucleotides",
+        "Amino acids",
+        "Monosaccharides"
+      ],
+      "a": 2,
+      "e": "Proteins are chains of amino acids.",
+      "d": "Medium",
+      "topic": "Proteins",
+      "slo": "Identify, explain or apply concepts of proteins in biochemistry.",
+      "id": "CHEM9CH15-022"
+    },
+    {
+      "q": "Select the correct answer: the basic building blocks of proteins are?",
+      "o": [
+        "Nucleotides",
+        "Amino acids",
+        "Monosaccharides",
+        "Fatty acids"
+      ],
+      "a": 1,
+      "e": "Proteins are chains of amino acids.",
+      "d": "Easy",
+      "topic": "Proteins",
+      "slo": "Identify, explain or apply concepts of proteins in biochemistry.",
+      "id": "CHEM9CH15-023"
+    },
+    {
+      "q": "In a biochemistry lesson, a student is asked: the basic building blocks of proteins are?",
+      "o": [
+        "Fatty acids",
+        "Monosaccharides",
+        "Amino acids",
+        "Nucleotides"
+      ],
+      "a": 2,
+      "e": "Proteins are chains of amino acids.",
+      "d": "Medium",
+      "topic": "Proteins",
+      "slo": "Identify, explain or apply concepts of proteins in biochemistry.",
+      "id": "CHEM9CH15-024"
+    },
+    {
+      "q": "A bond linking amino acids in a protein is called a?",
+      "o": [
+        "Metallic bond",
+        "Peptide bond",
+        "Ionic lattice",
+        "Glycosidic bond"
+      ],
+      "a": 1,
+      "e": "A peptide bond joins amino acid residues.",
+      "d": "Easy",
+      "topic": "Proteins",
+      "slo": "Identify, explain or apply concepts of proteins in biochemistry.",
+      "id": "CHEM9CH15-025"
+    },
+    {
+      "q": "Select the correct answer: a bond linking amino acids in a protein is called a?",
+      "o": [
+        "Metallic bond",
+        "Glycosidic bond",
+        "Peptide bond",
+        "Ionic lattice"
+      ],
+      "a": 2,
+      "e": "A peptide bond joins amino acid residues.",
+      "d": "Easy",
+      "topic": "Proteins",
+      "slo": "Identify, explain or apply concepts of proteins in biochemistry.",
+      "id": "CHEM9CH15-026"
+    },
+    {
+      "q": "In a biochemistry lesson, a student is asked: a bond linking amino acids in a protein is called a?",
+      "o": [
+        "Glycosidic bond",
+        "Ionic lattice",
+        "Peptide bond",
+        "Metallic bond"
+      ],
+      "a": 2,
+      "e": "A peptide bond joins amino acid residues.",
+      "d": "Medium",
+      "topic": "Proteins",
+      "slo": "Identify, explain or apply concepts of proteins in biochemistry.",
+      "id": "CHEM9CH15-027"
+    },
+    {
+      "q": "Carbohydrates are chiefly composed of?",
+      "o": [
+        "Iron and sulfur",
+        "Carbon and chlorine",
+        "Carbon, hydrogen and oxygen",
+        "Sodium and calcium"
+      ],
+      "a": 2,
+      "e": "Carbohydrates contain C, H and O.",
+      "d": "Medium",
+      "topic": "Carbohydrates",
+      "slo": "Identify, explain or apply concepts of carbohydrates in biochemistry.",
+      "id": "CHEM9CH15-028"
+    },
+    {
+      "q": "Select the correct answer: carbohydrates are chiefly composed of?",
+      "o": [
+        "Carbon and chlorine",
+        "Sodium and calcium",
+        "Iron and sulfur",
+        "Carbon, hydrogen and oxygen"
+      ],
+      "a": 3,
+      "e": "Carbohydrates contain C, H and O.",
+      "d": "Easy",
+      "topic": "Carbohydrates",
+      "slo": "Identify, explain or apply concepts of carbohydrates in biochemistry.",
+      "id": "CHEM9CH15-029"
+    },
+    {
+      "q": "In a biochemistry lesson, a student is asked: carbohydrates are chiefly composed of?",
+      "o": [
+        "Iron and sulfur",
+        "Sodium and calcium",
+        "Carbon, hydrogen and oxygen",
+        "Carbon and chlorine"
+      ],
+      "a": 2,
+      "e": "Carbohydrates contain C, H and O.",
+      "d": "Medium",
+      "topic": "Carbohydrates",
+      "slo": "Identify, explain or apply concepts of carbohydrates in biochemistry.",
+      "id": "CHEM9CH15-030"
+    },
+    {
+      "q": "Which class includes glucose and fructose??",
+      "o": [
+        "Proteins",
+        "Polysaccharides",
+        "Disaccharides",
+        "Monosaccharides"
+      ],
+      "a": 3,
+      "e": "Glucose and fructose are single-sugar carbohydrates.",
+      "d": "Medium",
+      "topic": "Carbohydrate classification",
+      "slo": "Identify, explain or apply concepts of carbohydrate classification in biochemistry.",
+      "id": "CHEM9CH15-031"
+    },
+    {
+      "q": "Select the correct answer: which class includes glucose and fructose??",
+      "o": [
+        "Proteins",
+        "Monosaccharides",
+        "Polysaccharides",
+        "Disaccharides"
+      ],
+      "a": 1,
+      "e": "Glucose and fructose are single-sugar carbohydrates.",
+      "d": "Easy",
+      "topic": "Carbohydrate classification",
+      "slo": "Identify, explain or apply concepts of carbohydrate classification in biochemistry.",
+      "id": "CHEM9CH15-032"
+    },
+    {
+      "q": "In a biochemistry lesson, a student is asked: which class includes glucose and fructose??",
+      "o": [
+        "Disaccharides",
+        "Polysaccharides",
+        "Proteins",
+        "Monosaccharides"
+      ],
+      "a": 3,
+      "e": "Glucose and fructose are single-sugar carbohydrates.",
+      "d": "Medium",
+      "topic": "Carbohydrate classification",
+      "slo": "Identify, explain or apply concepts of carbohydrate classification in biochemistry.",
+      "id": "CHEM9CH15-033"
+    },
+    {
+      "q": "Which class includes sucrose and lactose??",
+      "o": [
+        "Monosaccharides",
+        "Disaccharides",
+        "Polysaccharides",
+        "Lipids"
+      ],
+      "a": 1,
+      "e": "Sucrose and lactose contain two monosaccharide units.",
+      "d": "Medium",
+      "topic": "Carbohydrate classification",
+      "slo": "Identify, explain or apply concepts of carbohydrate classification in biochemistry.",
+      "id": "CHEM9CH15-034"
+    },
+    {
+      "q": "Select the correct answer: which class includes sucrose and lactose??",
+      "o": [
+        "Monosaccharides",
+        "Disaccharides",
+        "Lipids",
+        "Polysaccharides"
+      ],
+      "a": 1,
+      "e": "Sucrose and lactose contain two monosaccharide units.",
+      "d": "Easy",
+      "topic": "Carbohydrate classification",
+      "slo": "Identify, explain or apply concepts of carbohydrate classification in biochemistry.",
+      "id": "CHEM9CH15-035"
+    },
+    {
+      "q": "In a biochemistry lesson, a student is asked: which class includes sucrose and lactose??",
+      "o": [
+        "Monosaccharides",
+        "Disaccharides",
+        "Lipids",
+        "Polysaccharides"
+      ],
+      "a": 1,
+      "e": "Sucrose and lactose contain two monosaccharide units.",
+      "d": "Medium",
+      "topic": "Carbohydrate classification",
+      "slo": "Identify, explain or apply concepts of carbohydrate classification in biochemistry.",
+      "id": "CHEM9CH15-036"
+    },
+    {
+      "q": "Which class includes starch, glycogen and cellulose??",
+      "o": [
+        "Amino acids",
+        "Monosaccharides",
+        "Polysaccharides",
+        "Disaccharides"
+      ],
+      "a": 2,
+      "e": "These are large carbohydrates made of many sugar units.",
+      "d": "Easy",
+      "topic": "Carbohydrate classification",
+      "slo": "Identify, explain or apply concepts of carbohydrate classification in biochemistry.",
+      "id": "CHEM9CH15-037"
+    },
+    {
+      "q": "Select the correct answer: which class includes starch, glycogen and cellulose??",
+      "o": [
+        "Amino acids",
+        "Polysaccharides",
+        "Monosaccharides",
+        "Disaccharides"
+      ],
+      "a": 1,
+      "e": "These are large carbohydrates made of many sugar units.",
+      "d": "Easy",
+      "topic": "Carbohydrate classification",
+      "slo": "Identify, explain or apply concepts of carbohydrate classification in biochemistry.",
+      "id": "CHEM9CH15-038"
+    },
+    {
+      "q": "In a biochemistry lesson, a student is asked: which class includes starch, glycogen and cellulose??",
+      "o": [
+        "Disaccharides",
+        "Polysaccharides",
+        "Amino acids",
+        "Monosaccharides"
+      ],
+      "a": 1,
+      "e": "These are large carbohydrates made of many sugar units.",
+      "d": "Medium",
+      "topic": "Carbohydrate classification",
+      "slo": "Identify, explain or apply concepts of carbohydrate classification in biochemistry.",
+      "id": "CHEM9CH15-039"
+    },
+    {
+      "q": "The sugar that is an immediate fuel for cellular respiration is?",
+      "o": [
+        "Cellulose",
+        "Glycerol",
+        "Cholesterol",
+        "Glucose"
+      ],
+      "a": 3,
+      "e": "Glucose can be oxidized to release usable energy.",
+      "d": "Medium",
+      "topic": "Carbohydrates",
+      "slo": "Identify, explain or apply concepts of carbohydrates in biochemistry.",
+      "id": "CHEM9CH15-040"
+    },
+    {
+      "q": "Select the correct answer: the sugar that is an immediate fuel for cellular respiration is?",
+      "o": [
+        "Cellulose",
+        "Glucose",
+        "Cholesterol",
+        "Glycerol"
+      ],
+      "a": 1,
+      "e": "Glucose can be oxidized to release usable energy.",
+      "d": "Easy",
+      "topic": "Carbohydrates",
+      "slo": "Identify, explain or apply concepts of carbohydrates in biochemistry.",
+      "id": "CHEM9CH15-041"
+    },
+    {
+      "q": "In a biochemistry lesson, a student is asked: the sugar that is an immediate fuel for cellular respiration is?",
+      "o": [
+        "Cellulose",
+        "Glycerol",
+        "Glucose",
+        "Cholesterol"
+      ],
+      "a": 2,
+      "e": "Glucose can be oxidized to release usable energy.",
+      "d": "Medium",
+      "topic": "Carbohydrates",
+      "slo": "Identify, explain or apply concepts of carbohydrates in biochemistry.",
+      "id": "CHEM9CH15-042"
+    },
+    {
+      "q": "The common table sugar is?",
+      "o": [
+        "Glucose",
+        "Lactose",
+        "Sucrose",
+        "Starch"
+      ],
+      "a": 2,
+      "e": "Sucrose is ordinary table sugar.",
+      "d": "Medium",
+      "topic": "Carbohydrates",
+      "slo": "Identify, explain or apply concepts of carbohydrates in biochemistry.",
+      "id": "CHEM9CH15-043"
+    },
+    {
+      "q": "Select the correct answer: the common table sugar is?",
+      "o": [
+        "Glucose",
+        "Starch",
+        "Sucrose",
+        "Lactose"
+      ],
+      "a": 2,
+      "e": "Sucrose is ordinary table sugar.",
+      "d": "Easy",
+      "topic": "Carbohydrates",
+      "slo": "Identify, explain or apply concepts of carbohydrates in biochemistry.",
+      "id": "CHEM9CH15-044"
+    },
+    {
+      "q": "In a biochemistry lesson, a student is asked: the common table sugar is?",
+      "o": [
+        "Starch",
+        "Lactose",
+        "Sucrose",
+        "Glucose"
+      ],
+      "a": 2,
+      "e": "Sucrose is ordinary table sugar.",
+      "d": "Medium",
+      "topic": "Carbohydrates",
+      "slo": "Identify, explain or apply concepts of carbohydrates in biochemistry.",
+      "id": "CHEM9CH15-045"
+    },
+    {
+      "q": "The sugar naturally found in milk is?",
+      "o": [
+        "Lactose",
+        "Sucrose",
+        "Maltose",
+        "Cellulose"
+      ],
+      "a": 0,
+      "e": "Lactose is milk sugar.",
+      "d": "Medium",
+      "topic": "Carbohydrates",
+      "slo": "Identify, explain or apply concepts of carbohydrates in biochemistry.",
+      "id": "CHEM9CH15-046"
+    },
+    {
+      "q": "Select the correct answer: the sugar naturally found in milk is?",
+      "o": [
+        "Maltose",
+        "Cellulose",
+        "Sucrose",
+        "Lactose"
+      ],
+      "a": 3,
+      "e": "Lactose is milk sugar.",
+      "d": "Easy",
+      "topic": "Carbohydrates",
+      "slo": "Identify, explain or apply concepts of carbohydrates in biochemistry.",
+      "id": "CHEM9CH15-047"
+    },
+    {
+      "q": "In a biochemistry lesson, a student is asked: the sugar naturally found in milk is?",
+      "o": [
+        "Lactose",
+        "Maltose",
+        "Sucrose",
+        "Cellulose"
+      ],
+      "a": 0,
+      "e": "Lactose is milk sugar.",
+      "d": "Medium",
+      "topic": "Carbohydrates",
+      "slo": "Identify, explain or apply concepts of carbohydrates in biochemistry.",
+      "id": "CHEM9CH15-048"
+    },
+    {
+      "q": "The storage carbohydrate in plants is?",
+      "o": [
+        "Protein",
+        "Cellulose",
+        "Glycogen",
+        "Starch"
+      ],
+      "a": 3,
+      "e": "Plants store glucose units as starch.",
+      "d": "Easy",
+      "topic": "Carbohydrates",
+      "slo": "Identify, explain or apply concepts of carbohydrates in biochemistry.",
+      "id": "CHEM9CH15-049"
+    },
+    {
+      "q": "Select the correct answer: the storage carbohydrate in plants is?",
+      "o": [
+        "Glycogen",
+        "Starch",
+        "Cellulose",
+        "Protein"
+      ],
+      "a": 1,
+      "e": "Plants store glucose units as starch.",
+      "d": "Easy",
+      "topic": "Carbohydrates",
+      "slo": "Identify, explain or apply concepts of carbohydrates in biochemistry.",
+      "id": "CHEM9CH15-050"
+    },
+    {
+      "q": "In a biochemistry lesson, a student is asked: the storage carbohydrate in plants is?",
+      "o": [
+        "Cellulose",
+        "Protein",
+        "Starch",
+        "Glycogen"
+      ],
+      "a": 2,
+      "e": "Plants store glucose units as starch.",
+      "d": "Medium",
+      "topic": "Carbohydrates",
+      "slo": "Identify, explain or apply concepts of carbohydrates in biochemistry.",
+      "id": "CHEM9CH15-051"
+    },
+    {
+      "q": "The main storage carbohydrate in animals is?",
+      "o": [
+        "Starch",
+        "Sucrose",
+        "Cellulose",
+        "Glycogen"
+      ],
+      "a": 3,
+      "e": "Animals store glucose as glycogen, especially in liver and muscles.",
+      "d": "Medium",
+      "topic": "Carbohydrates",
+      "slo": "Identify, explain or apply concepts of carbohydrates in biochemistry.",
+      "id": "CHEM9CH15-052"
+    },
+    {
+      "q": "Select the correct answer: the main storage carbohydrate in animals is?",
+      "o": [
+        "Sucrose",
+        "Cellulose",
+        "Glycogen",
+        "Starch"
+      ],
+      "a": 2,
+      "e": "Animals store glucose as glycogen, especially in liver and muscles.",
+      "d": "Easy",
+      "topic": "Carbohydrates",
+      "slo": "Identify, explain or apply concepts of carbohydrates in biochemistry.",
+      "id": "CHEM9CH15-053"
+    },
+    {
+      "q": "In a biochemistry lesson, a student is asked: the main storage carbohydrate in animals is?",
+      "o": [
+        "Cellulose",
+        "Sucrose",
+        "Glycogen",
+        "Starch"
+      ],
+      "a": 2,
+      "e": "Animals store glucose as glycogen, especially in liver and muscles.",
+      "d": "Medium",
+      "topic": "Carbohydrates",
+      "slo": "Identify, explain or apply concepts of carbohydrates in biochemistry.",
+      "id": "CHEM9CH15-054"
+    },
+    {
+      "q": "The structural carbohydrate in plant cell walls is?",
+      "o": [
+        "Glucose",
+        "Glycogen",
+        "Cellulose",
+        "Lactose"
+      ],
+      "a": 2,
+      "e": "Cellulose provides structural support to plant cell walls.",
+      "d": "Medium",
+      "topic": "Carbohydrates",
+      "slo": "Identify, explain or apply concepts of carbohydrates in biochemistry.",
+      "id": "CHEM9CH15-055"
+    },
+    {
+      "q": "Select the correct answer: the structural carbohydrate in plant cell walls is?",
+      "o": [
+        "Lactose",
+        "Cellulose",
+        "Glycogen",
+        "Glucose"
+      ],
+      "a": 1,
+      "e": "Cellulose provides structural support to plant cell walls.",
+      "d": "Easy",
+      "topic": "Carbohydrates",
+      "slo": "Identify, explain or apply concepts of carbohydrates in biochemistry.",
+      "id": "CHEM9CH15-056"
+    },
+    {
+      "q": "In a biochemistry lesson, a student is asked: the structural carbohydrate in plant cell walls is?",
+      "o": [
+        "Cellulose",
+        "Glucose",
+        "Lactose",
+        "Glycogen"
+      ],
+      "a": 0,
+      "e": "Cellulose provides structural support to plant cell walls.",
+      "d": "Medium",
+      "topic": "Carbohydrates",
+      "slo": "Identify, explain or apply concepts of carbohydrates in biochemistry.",
+      "id": "CHEM9CH15-057"
+    },
+    {
+      "q": "Which of the following is a simple sugar??",
+      "o": [
+        "Cellulose",
+        "Fructose",
+        "Glycogen",
+        "Starch"
+      ],
+      "a": 1,
+      "e": "Fructose is a monosaccharide.",
+      "d": "Medium",
+      "topic": "Carbohydrate classification",
+      "slo": "Identify, explain or apply concepts of carbohydrate classification in biochemistry.",
+      "id": "CHEM9CH15-058"
+    },
+    {
+      "q": "Select the correct answer: which of the following is a simple sugar??",
+      "o": [
+        "Cellulose",
+        "Starch",
+        "Glycogen",
+        "Fructose"
+      ],
+      "a": 3,
+      "e": "Fructose is a monosaccharide.",
+      "d": "Easy",
+      "topic": "Carbohydrate classification",
+      "slo": "Identify, explain or apply concepts of carbohydrate classification in biochemistry.",
+      "id": "CHEM9CH15-059"
+    },
+    {
+      "q": "In a biochemistry lesson, a student is asked: which of the following is a simple sugar??",
+      "o": [
+        "Glycogen",
+        "Starch",
+        "Cellulose",
+        "Fructose"
+      ],
+      "a": 3,
+      "e": "Fructose is a monosaccharide.",
+      "d": "Medium",
+      "topic": "Carbohydrate classification",
+      "slo": "Identify, explain or apply concepts of carbohydrate classification in biochemistry.",
+      "id": "CHEM9CH15-060"
+    },
+    {
+      "q": "Which carbohydrate is made of two sugar units??",
+      "o": [
+        "Disaccharide",
+        "Monosaccharide",
+        "Polysaccharide",
+        "Amino acid"
+      ],
+      "a": 0,
+      "e": "A disaccharide has two linked monosaccharides.",
+      "d": "Easy",
+      "topic": "Carbohydrate classification",
+      "slo": "Identify, explain or apply concepts of carbohydrate classification in biochemistry.",
+      "id": "CHEM9CH15-061"
+    },
+    {
+      "q": "Select the correct answer: which carbohydrate is made of two sugar units??",
+      "o": [
+        "Amino acid",
+        "Disaccharide",
+        "Monosaccharide",
+        "Polysaccharide"
+      ],
+      "a": 1,
+      "e": "A disaccharide has two linked monosaccharides.",
+      "d": "Easy",
+      "topic": "Carbohydrate classification",
+      "slo": "Identify, explain or apply concepts of carbohydrate classification in biochemistry.",
+      "id": "CHEM9CH15-062"
+    },
+    {
+      "q": "In a biochemistry lesson, a student is asked: which carbohydrate is made of two sugar units??",
+      "o": [
+        "Amino acid",
+        "Polysaccharide",
+        "Monosaccharide",
+        "Disaccharide"
+      ],
+      "a": 3,
+      "e": "A disaccharide has two linked monosaccharides.",
+      "d": "Medium",
+      "topic": "Carbohydrate classification",
+      "slo": "Identify, explain or apply concepts of carbohydrate classification in biochemistry.",
+      "id": "CHEM9CH15-063"
+    },
+    {
+      "q": "A polysaccharide consists of?",
+      "o": [
+        "Many monosaccharide units",
+        "Only one nucleotide",
+        "Only one amino acid",
+        "Two fatty acids"
+      ],
+      "a": 0,
+      "e": "Polysaccharides contain long chains of sugars.",
+      "d": "Medium",
+      "topic": "Carbohydrate classification",
+      "slo": "Identify, explain or apply concepts of carbohydrate classification in biochemistry.",
+      "id": "CHEM9CH15-064"
+    },
+    {
+      "q": "Select the correct answer: a polysaccharide consists of?",
+      "o": [
+        "Many monosaccharide units",
+        "Only one amino acid",
+        "Two fatty acids",
+        "Only one nucleotide"
+      ],
+      "a": 0,
+      "e": "Polysaccharides contain long chains of sugars.",
+      "d": "Easy",
+      "topic": "Carbohydrate classification",
+      "slo": "Identify, explain or apply concepts of carbohydrate classification in biochemistry.",
+      "id": "CHEM9CH15-065"
+    },
+    {
+      "q": "In a biochemistry lesson, a student is asked: a polysaccharide consists of?",
+      "o": [
+        "Two fatty acids",
+        "Only one nucleotide",
+        "Only one amino acid",
+        "Many monosaccharide units"
+      ],
+      "a": 3,
+      "e": "Polysaccharides contain long chains of sugars.",
+      "d": "Medium",
+      "topic": "Carbohydrate classification",
+      "slo": "Identify, explain or apply concepts of carbohydrate classification in biochemistry.",
+      "id": "CHEM9CH15-066"
+    },
+    {
+      "q": "The carbohydrate in fruits that tastes sweet is often?",
+      "o": [
+        "Keratin",
+        "Cellulose",
+        "Fructose",
+        "Glycogen"
+      ],
+      "a": 2,
+      "e": "Fructose is naturally present in fruits.",
+      "d": "Medium",
+      "topic": "Carbohydrates",
+      "slo": "Identify, explain or apply concepts of carbohydrates in biochemistry.",
+      "id": "CHEM9CH15-067"
+    },
+    {
+      "q": "Select the correct answer: the carbohydrate in fruits that tastes sweet is often?",
+      "o": [
+        "Glycogen",
+        "Fructose",
+        "Keratin",
+        "Cellulose"
+      ],
+      "a": 1,
+      "e": "Fructose is naturally present in fruits.",
+      "d": "Easy",
+      "topic": "Carbohydrates",
+      "slo": "Identify, explain or apply concepts of carbohydrates in biochemistry.",
+      "id": "CHEM9CH15-068"
+    },
+    {
+      "q": "In a biochemistry lesson, a student is asked: the carbohydrate in fruits that tastes sweet is often?",
+      "o": [
+        "Cellulose",
+        "Keratin",
+        "Fructose",
+        "Glycogen"
+      ],
+      "a": 2,
+      "e": "Fructose is naturally present in fruits.",
+      "d": "Medium",
+      "topic": "Carbohydrates",
+      "slo": "Identify, explain or apply concepts of carbohydrates in biochemistry.",
+      "id": "CHEM9CH15-069"
+    },
+    {
+      "q": "Which is a common dietary source of starch??",
+      "o": [
+        "Potatoes",
+        "Fish oil",
+        "Egg white",
+        "Cooking oil"
+      ],
+      "a": 0,
+      "e": "Potatoes are rich in starch.",
+      "d": "Medium",
+      "topic": "Food sources",
+      "slo": "Identify, explain or apply concepts of food sources in biochemistry.",
+      "id": "CHEM9CH15-070"
+    },
+    {
+      "q": "Select the correct answer: which is a common dietary source of starch??",
+      "o": [
+        "Cooking oil",
+        "Fish oil",
+        "Potatoes",
+        "Egg white"
+      ],
+      "a": 2,
+      "e": "Potatoes are rich in starch.",
+      "d": "Easy",
+      "topic": "Food sources",
+      "slo": "Identify, explain or apply concepts of food sources in biochemistry.",
+      "id": "CHEM9CH15-071"
+    },
+    {
+      "q": "In a biochemistry lesson, a student is asked: which is a common dietary source of starch??",
+      "o": [
+        "Egg white",
+        "Potatoes",
+        "Fish oil",
+        "Cooking oil"
+      ],
+      "a": 1,
+      "e": "Potatoes are rich in starch.",
+      "d": "Medium",
+      "topic": "Food sources",
+      "slo": "Identify, explain or apply concepts of food sources in biochemistry.",
+      "id": "CHEM9CH15-072"
+    },
+    {
+      "q": "Which is a common dietary source of protein??",
+      "o": [
+        "Distilled water",
+        "Vegetable oil",
+        "Table sugar",
+        "Pulses"
+      ],
+      "a": 3,
+      "e": "Pulses provide substantial plant protein.",
+      "d": "Easy",
+      "topic": "Food sources",
+      "slo": "Identify, explain or apply concepts of food sources in biochemistry.",
+      "id": "CHEM9CH15-073"
+    },
+    {
+      "q": "Select the correct answer: which is a common dietary source of protein??",
+      "o": [
+        "Distilled water",
+        "Pulses",
+        "Table sugar",
+        "Vegetable oil"
+      ],
+      "a": 1,
+      "e": "Pulses provide substantial plant protein.",
+      "d": "Easy",
+      "topic": "Food sources",
+      "slo": "Identify, explain or apply concepts of food sources in biochemistry.",
+      "id": "CHEM9CH15-074"
+    },
+    {
+      "q": "In a biochemistry lesson, a student is asked: which is a common dietary source of protein??",
+      "o": [
+        "Distilled water",
+        "Table sugar",
+        "Vegetable oil",
+        "Pulses"
+      ],
+      "a": 3,
+      "e": "Pulses provide substantial plant protein.",
+      "d": "Medium",
+      "topic": "Food sources",
+      "slo": "Identify, explain or apply concepts of food sources in biochemistry.",
+      "id": "CHEM9CH15-075"
+    },
+    {
+      "q": "Which food is generally rich in lipids??",
+      "o": [
+        "Refined sugar",
+        "Distilled water",
+        "Cooking oil",
+        "Table salt"
+      ],
+      "a": 2,
+      "e": "Oils are lipid-rich foods.",
+      "d": "Medium",
+      "topic": "Food sources",
+      "slo": "Identify, explain or apply concepts of food sources in biochemistry.",
+      "id": "CHEM9CH15-076"
+    },
+    {
+      "q": "Select the correct answer: which food is generally rich in lipids??",
+      "o": [
+        "Cooking oil",
+        "Table salt",
+        "Refined sugar",
+        "Distilled water"
+      ],
+      "a": 0,
+      "e": "Oils are lipid-rich foods.",
+      "d": "Easy",
+      "topic": "Food sources",
+      "slo": "Identify, explain or apply concepts of food sources in biochemistry.",
+      "id": "CHEM9CH15-077"
+    },
+    {
+      "q": "In a biochemistry lesson, a student is asked: which food is generally rich in lipids??",
+      "o": [
+        "Table salt",
+        "Cooking oil",
+        "Refined sugar",
+        "Distilled water"
+      ],
+      "a": 1,
+      "e": "Oils are lipid-rich foods.",
+      "d": "Medium",
+      "topic": "Food sources",
+      "slo": "Identify, explain or apply concepts of food sources in biochemistry.",
+      "id": "CHEM9CH15-078"
+    },
+    {
+      "q": "Which nutrient class includes fats and oils??",
+      "o": [
+        "Carbohydrates",
+        "Nucleic acids",
+        "Lipids",
+        "Mineral salts"
+      ],
+      "a": 2,
+      "e": "Fats and oils are examples of lipids.",
+      "d": "Medium",
+      "topic": "Lipids",
+      "slo": "Identify, explain or apply concepts of lipids in biochemistry.",
+      "id": "CHEM9CH15-079"
+    },
+    {
+      "q": "Select the correct answer: which nutrient class includes fats and oils??",
+      "o": [
+        "Lipids",
+        "Mineral salts",
+        "Nucleic acids",
+        "Carbohydrates"
+      ],
+      "a": 0,
+      "e": "Fats and oils are examples of lipids.",
+      "d": "Easy",
+      "topic": "Lipids",
+      "slo": "Identify, explain or apply concepts of lipids in biochemistry.",
+      "id": "CHEM9CH15-080"
+    },
+    {
+      "q": "In a biochemistry lesson, a student is asked: which nutrient class includes fats and oils??",
+      "o": [
+        "Carbohydrates",
+        "Nucleic acids",
+        "Lipids",
+        "Mineral salts"
+      ],
+      "a": 2,
+      "e": "Fats and oils are examples of lipids.",
+      "d": "Medium",
+      "topic": "Lipids",
+      "slo": "Identify, explain or apply concepts of lipids in biochemistry.",
+      "id": "CHEM9CH15-081"
+    },
+    {
+      "q": "The usual components of many dietary fats are?",
+      "o": [
+        "Glycerol and fatty acids",
+        "DNA and RNA",
+        "Amino acids and glucose",
+        "Salt and water"
+      ],
+      "a": 0,
+      "e": "Triglycerides contain glycerol bonded to fatty acids.",
+      "d": "Medium",
+      "topic": "Lipids",
+      "slo": "Identify, explain or apply concepts of lipids in biochemistry.",
+      "id": "CHEM9CH15-082"
+    },
+    {
+      "q": "Select the correct answer: the usual components of many dietary fats are?",
+      "o": [
+        "DNA and RNA",
+        "Salt and water",
+        "Amino acids and glucose",
+        "Glycerol and fatty acids"
+      ],
+      "a": 3,
+      "e": "Triglycerides contain glycerol bonded to fatty acids.",
+      "d": "Easy",
+      "topic": "Lipids",
+      "slo": "Identify, explain or apply concepts of lipids in biochemistry.",
+      "id": "CHEM9CH15-083"
+    },
+    {
+      "q": "In a biochemistry lesson, a student is asked: the usual components of many dietary fats are?",
+      "o": [
+        "DNA and RNA",
+        "Salt and water",
+        "Amino acids and glucose",
+        "Glycerol and fatty acids"
+      ],
+      "a": 3,
+      "e": "Triglycerides contain glycerol bonded to fatty acids.",
+      "d": "Medium",
+      "topic": "Lipids",
+      "slo": "Identify, explain or apply concepts of lipids in biochemistry.",
+      "id": "CHEM9CH15-084"
+    },
+    {
+      "q": "Which biomolecules are generally insoluble in water??",
+      "o": [
+        "Lipids",
+        "Mineral ions",
+        "Glucose",
+        "Sucrose"
+      ],
+      "a": 0,
+      "e": "Many lipids are hydrophobic and poorly soluble in water.",
+      "d": "Easy",
+      "topic": "Lipids",
+      "slo": "Identify, explain or apply concepts of lipids in biochemistry.",
+      "id": "CHEM9CH15-085"
+    },
+    {
+      "q": "Select the correct answer: which biomolecules are generally insoluble in water??",
+      "o": [
+        "Lipids",
+        "Glucose",
+        "Sucrose",
+        "Mineral ions"
+      ],
+      "a": 0,
+      "e": "Many lipids are hydrophobic and poorly soluble in water.",
+      "d": "Easy",
+      "topic": "Lipids",
+      "slo": "Identify, explain or apply concepts of lipids in biochemistry.",
+      "id": "CHEM9CH15-086"
+    },
+    {
+      "q": "In a biochemistry lesson, a student is asked: which biomolecules are generally insoluble in water??",
+      "o": [
+        "Mineral ions",
+        "Lipids",
+        "Sucrose",
+        "Glucose"
+      ],
+      "a": 1,
+      "e": "Many lipids are hydrophobic and poorly soluble in water.",
+      "d": "Medium",
+      "topic": "Lipids",
+      "slo": "Identify, explain or apply concepts of lipids in biochemistry.",
+      "id": "CHEM9CH15-087"
+    },
+    {
+      "q": "An important function of stored body fat is?",
+      "o": [
+        "Replacing all vitamins",
+        "Producing DNA bases",
+        "Storing hereditary code",
+        "Long-term energy storage"
+      ],
+      "a": 3,
+      "e": "Fat serves as a concentrated energy reserve.",
+      "d": "Medium",
+      "topic": "Lipids",
+      "slo": "Identify, explain or apply concepts of lipids in biochemistry.",
+      "id": "CHEM9CH15-088"
+    },
+    {
+      "q": "Select the correct answer: an important function of stored body fat is?",
+      "o": [
+        "Producing DNA bases",
+        "Long-term energy storage",
+        "Replacing all vitamins",
+        "Storing hereditary code"
+      ],
+      "a": 1,
+      "e": "Fat serves as a concentrated energy reserve.",
+      "d": "Easy",
+      "topic": "Lipids",
+      "slo": "Identify, explain or apply concepts of lipids in biochemistry.",
+      "id": "CHEM9CH15-089"
+    },
+    {
+      "q": "In a biochemistry lesson, a student is asked: an important function of stored body fat is?",
+      "o": [
+        "Producing DNA bases",
+        "Replacing all vitamins",
+        "Storing hereditary code",
+        "Long-term energy storage"
+      ],
+      "a": 3,
+      "e": "Fat serves as a concentrated energy reserve.",
+      "d": "Medium",
+      "topic": "Lipids",
+      "slo": "Identify, explain or apply concepts of lipids in biochemistry.",
+      "id": "CHEM9CH15-090"
+    },
+    {
+      "q": "A protective role of fat beneath the skin is?",
+      "o": [
+        "Formation of cellulose",
+        "Making oxygen",
+        "Production of starch",
+        "Thermal insulation"
+      ],
+      "a": 3,
+      "e": "Subcutaneous fat helps reduce heat loss.",
+      "d": "Medium",
+      "topic": "Lipids",
+      "slo": "Identify, explain or apply concepts of lipids in biochemistry.",
+      "id": "CHEM9CH15-091"
+    },
+    {
+      "q": "Select the correct answer: a protective role of fat beneath the skin is?",
+      "o": [
+        "Making oxygen",
+        "Production of starch",
+        "Formation of cellulose",
+        "Thermal insulation"
+      ],
+      "a": 3,
+      "e": "Subcutaneous fat helps reduce heat loss.",
+      "d": "Easy",
+      "topic": "Lipids",
+      "slo": "Identify, explain or apply concepts of lipids in biochemistry.",
+      "id": "CHEM9CH15-092"
+    },
+    {
+      "q": "In a biochemistry lesson, a student is asked: a protective role of fat beneath the skin is?",
+      "o": [
+        "Making oxygen",
+        "Formation of cellulose",
+        "Production of starch",
+        "Thermal insulation"
+      ],
+      "a": 3,
+      "e": "Subcutaneous fat helps reduce heat loss.",
+      "d": "Medium",
+      "topic": "Lipids",
+      "slo": "Identify, explain or apply concepts of lipids in biochemistry.",
+      "id": "CHEM9CH15-093"
+    },
+    {
+      "q": "Which substance is a lipid??",
+      "o": [
+        "Glucose",
+        "Cholesterol",
+        "Glycine",
+        "DNA"
+      ],
+      "a": 1,
+      "e": "Cholesterol is a sterol lipid.",
+      "d": "Medium",
+      "topic": "Lipids",
+      "slo": "Identify, explain or apply concepts of lipids in biochemistry.",
+      "id": "CHEM9CH15-094"
+    },
+    {
+      "q": "Select the correct answer: which substance is a lipid??",
+      "o": [
+        "Glucose",
+        "Glycine",
+        "DNA",
+        "Cholesterol"
+      ],
+      "a": 3,
+      "e": "Cholesterol is a sterol lipid.",
+      "d": "Easy",
+      "topic": "Lipids",
+      "slo": "Identify, explain or apply concepts of lipids in biochemistry.",
+      "id": "CHEM9CH15-095"
+    },
+    {
+      "q": "In a biochemistry lesson, a student is asked: which substance is a lipid??",
+      "o": [
+        "Glucose",
+        "Cholesterol",
+        "Glycine",
+        "DNA"
+      ],
+      "a": 1,
+      "e": "Cholesterol is a sterol lipid.",
+      "d": "Medium",
+      "topic": "Lipids",
+      "slo": "Identify, explain or apply concepts of lipids in biochemistry.",
+      "id": "CHEM9CH15-096"
+    },
+    {
+      "q": "A fat that has no carbon-carbon double bonds in its fatty acid chains is?",
+      "o": [
+        "Unsaturated fat",
+        "Monosaccharide",
+        "Nucleic acid",
+        "Saturated fat"
+      ],
+      "a": 3,
+      "e": "Saturated fatty acid chains have no C=C bonds.",
+      "d": "Easy",
+      "topic": "Lipids",
+      "slo": "Identify, explain or apply concepts of lipids in biochemistry.",
+      "id": "CHEM9CH15-097"
+    },
+    {
+      "q": "Select the correct answer: a fat that has no carbon-carbon double bonds in its fatty acid chains is?",
+      "o": [
+        "Monosaccharide",
+        "Nucleic acid",
+        "Unsaturated fat",
+        "Saturated fat"
+      ],
+      "a": 3,
+      "e": "Saturated fatty acid chains have no C=C bonds.",
+      "d": "Easy",
+      "topic": "Lipids",
+      "slo": "Identify, explain or apply concepts of lipids in biochemistry.",
+      "id": "CHEM9CH15-098"
+    },
+    {
+      "q": "In a biochemistry lesson, a student is asked: a fat that has no carbon-carbon double bonds in its fatty acid chains is?",
+      "o": [
+        "Nucleic acid",
+        "Monosaccharide",
+        "Saturated fat",
+        "Unsaturated fat"
+      ],
+      "a": 2,
+      "e": "Saturated fatty acid chains have no C=C bonds.",
+      "d": "Medium",
+      "topic": "Lipids",
+      "slo": "Identify, explain or apply concepts of lipids in biochemistry.",
+      "id": "CHEM9CH15-099"
+    },
+    {
+      "q": "An unsaturated fatty acid contains?",
+      "o": [
+        "At least one carbon-carbon double bond",
+        "No carbon atoms",
+        "Only ionic bonds",
+        "Only triple bonds"
+      ],
+      "a": 0,
+      "e": "Unsaturation means one or more C=C bonds.",
+      "d": "Medium",
+      "topic": "Lipids",
+      "slo": "Identify, explain or apply concepts of lipids in biochemistry.",
+      "id": "CHEM9CH15-100"
+    },
+    {
+      "q": "Select the correct answer: an unsaturated fatty acid contains?",
+      "o": [
+        "No carbon atoms",
+        "At least one carbon-carbon double bond",
+        "Only ionic bonds",
+        "Only triple bonds"
+      ],
+      "a": 1,
+      "e": "Unsaturation means one or more C=C bonds.",
+      "d": "Easy",
+      "topic": "Lipids",
+      "slo": "Identify, explain or apply concepts of lipids in biochemistry.",
+      "id": "CHEM9CH15-101"
+    },
+    {
+      "q": "In a biochemistry lesson, a student is asked: an unsaturated fatty acid contains?",
+      "o": [
+        "No carbon atoms",
+        "At least one carbon-carbon double bond",
+        "Only ionic bonds",
+        "Only triple bonds"
+      ],
+      "a": 1,
+      "e": "Unsaturation means one or more C=C bonds.",
+      "d": "Medium",
+      "topic": "Lipids",
+      "slo": "Identify, explain or apply concepts of lipids in biochemistry.",
+      "id": "CHEM9CH15-102"
+    },
+    {
+      "q": "Which of these is usually a liquid lipid at room temperature??",
+      "o": [
+        "Vegetable oil",
+        "Wax candle",
+        "Butter",
+        "Tallow"
+      ],
+      "a": 0,
+      "e": "Many vegetable oils are liquid at room temperature.",
+      "d": "Medium",
+      "topic": "Lipids",
+      "slo": "Identify, explain or apply concepts of lipids in biochemistry.",
+      "id": "CHEM9CH15-103"
+    },
+    {
+      "q": "Select the correct answer: which of these is usually a liquid lipid at room temperature??",
+      "o": [
+        "Vegetable oil",
+        "Butter",
+        "Tallow",
+        "Wax candle"
+      ],
+      "a": 0,
+      "e": "Many vegetable oils are liquid at room temperature.",
+      "d": "Easy",
+      "topic": "Lipids",
+      "slo": "Identify, explain or apply concepts of lipids in biochemistry.",
+      "id": "CHEM9CH15-104"
+    },
+    {
+      "q": "In a biochemistry lesson, a student is asked: which of these is usually a liquid lipid at room temperature??",
+      "o": [
+        "Vegetable oil",
+        "Wax candle",
+        "Tallow",
+        "Butter"
+      ],
+      "a": 0,
+      "e": "Many vegetable oils are liquid at room temperature.",
+      "d": "Medium",
+      "topic": "Lipids",
+      "slo": "Identify, explain or apply concepts of lipids in biochemistry.",
+      "id": "CHEM9CH15-105"
+    },
+    {
+      "q": "Which of these is commonly a solid fat at room temperature??",
+      "o": [
+        "Butter",
+        "Sunflower oil",
+        "Olive oil",
+        "Corn oil"
+      ],
+      "a": 0,
+      "e": "Butter is generally solid at room temperature.",
+      "d": "Medium",
+      "topic": "Lipids",
+      "slo": "Identify, explain or apply concepts of lipids in biochemistry.",
+      "id": "CHEM9CH15-106"
+    },
+    {
+      "q": "Select the correct answer: which of these is commonly a solid fat at room temperature??",
+      "o": [
+        "Corn oil",
+        "Olive oil",
+        "Butter",
+        "Sunflower oil"
+      ],
+      "a": 2,
+      "e": "Butter is generally solid at room temperature.",
+      "d": "Easy",
+      "topic": "Lipids",
+      "slo": "Identify, explain or apply concepts of lipids in biochemistry.",
+      "id": "CHEM9CH15-107"
+    },
+    {
+      "q": "In a biochemistry lesson, a student is asked: which of these is commonly a solid fat at room temperature??",
+      "o": [
+        "Sunflower oil",
+        "Butter",
+        "Corn oil",
+        "Olive oil"
+      ],
+      "a": 1,
+      "e": "Butter is generally solid at room temperature.",
+      "d": "Medium",
+      "topic": "Lipids",
+      "slo": "Identify, explain or apply concepts of lipids in biochemistry.",
+      "id": "CHEM9CH15-108"
+    },
+    {
+      "q": "Proteins are formed from linked units called?",
+      "o": [
+        "Nucleotides",
+        "Fatty acids",
+        "Glucose molecules",
+        "Amino acids"
+      ],
+      "a": 3,
+      "e": "Amino acids polymerize to form polypeptides.",
+      "d": "Easy",
+      "topic": "Proteins",
+      "slo": "Identify, explain or apply concepts of proteins in biochemistry.",
+      "id": "CHEM9CH15-109"
+    },
+    {
+      "q": "Select the correct answer: proteins are formed from linked units called?",
+      "o": [
+        "Amino acids",
+        "Glucose molecules",
+        "Fatty acids",
+        "Nucleotides"
+      ],
+      "a": 0,
+      "e": "Amino acids polymerize to form polypeptides.",
+      "d": "Easy",
+      "topic": "Proteins",
+      "slo": "Identify, explain or apply concepts of proteins in biochemistry.",
+      "id": "CHEM9CH15-110"
+    },
+    {
+      "q": "In a biochemistry lesson, a student is asked: proteins are formed from linked units called?",
+      "o": [
+        "Nucleotides",
+        "Glucose molecules",
+        "Amino acids",
+        "Fatty acids"
+      ],
+      "a": 2,
+      "e": "Amino acids polymerize to form polypeptides.",
+      "d": "Medium",
+      "topic": "Proteins",
+      "slo": "Identify, explain or apply concepts of proteins in biochemistry.",
+      "id": "CHEM9CH15-111"
+    },
+    {
+      "q": "The amino group in an amino acid is written as?",
+      "o": [
+        "-NH2",
+        "-CHO",
+        "-COOH",
+        "-OH"
+      ],
+      "a": 0,
+      "e": "Amino acids contain an amino group -NH2.",
+      "d": "Medium",
+      "topic": "Amino acids",
+      "slo": "Identify, explain or apply concepts of amino acids in biochemistry.",
+      "id": "CHEM9CH15-112"
+    },
+    {
+      "q": "Select the correct answer: the amino group in an amino acid is written as?",
+      "o": [
+        "-CHO",
+        "-COOH",
+        "-NH2",
+        "-OH"
+      ],
+      "a": 2,
+      "e": "Amino acids contain an amino group -NH2.",
+      "d": "Easy",
+      "topic": "Amino acids",
+      "slo": "Identify, explain or apply concepts of amino acids in biochemistry.",
+      "id": "CHEM9CH15-113"
+    },
+    {
+      "q": "In a biochemistry lesson, a student is asked: the amino group in an amino acid is written as?",
+      "o": [
+        "-NH2",
+        "-CHO",
+        "-COOH",
+        "-OH"
+      ],
+      "a": 0,
+      "e": "Amino acids contain an amino group -NH2.",
+      "d": "Medium",
+      "topic": "Amino acids",
+      "slo": "Identify, explain or apply concepts of amino acids in biochemistry.",
+      "id": "CHEM9CH15-114"
+    },
+    {
+      "q": "The carboxyl group in an amino acid is written as?",
+      "o": [
+        "-SH only",
+        "-O-",
+        "-COOH",
+        "-NH2"
+      ],
+      "a": 2,
+      "e": "The carboxyl functional group is -COOH.",
+      "d": "Medium",
+      "topic": "Amino acids",
+      "slo": "Identify, explain or apply concepts of amino acids in biochemistry.",
+      "id": "CHEM9CH15-115"
+    },
+    {
+      "q": "Select the correct answer: the carboxyl group in an amino acid is written as?",
+      "o": [
+        "-NH2",
+        "-COOH",
+        "-SH only",
+        "-O-"
+      ],
+      "a": 1,
+      "e": "The carboxyl functional group is -COOH.",
+      "d": "Easy",
+      "topic": "Amino acids",
+      "slo": "Identify, explain or apply concepts of amino acids in biochemistry.",
+      "id": "CHEM9CH15-116"
+    },
+    {
+      "q": "In a biochemistry lesson, a student is asked: the carboxyl group in an amino acid is written as?",
+      "o": [
+        "-O-",
+        "-COOH",
+        "-NH2",
+        "-SH only"
+      ],
+      "a": 1,
+      "e": "The carboxyl functional group is -COOH.",
+      "d": "Medium",
+      "topic": "Amino acids",
+      "slo": "Identify, explain or apply concepts of amino acids in biochemistry.",
+      "id": "CHEM9CH15-117"
+    },
+    {
+      "q": "Which element is present in proteins but not necessarily in carbohydrates??",
+      "o": [
+        "Hydrogen",
+        "Carbon",
+        "Nitrogen",
+        "Oxygen"
+      ],
+      "a": 2,
+      "e": "Proteins contain nitrogen in their amino acid groups.",
+      "d": "Medium",
+      "topic": "Proteins",
+      "slo": "Identify, explain or apply concepts of proteins in biochemistry.",
+      "id": "CHEM9CH15-118"
+    },
+    {
+      "q": "Select the correct answer: which element is present in proteins but not necessarily in carbohydrates??",
+      "o": [
+        "Oxygen",
+        "Carbon",
+        "Nitrogen",
+        "Hydrogen"
+      ],
+      "a": 2,
+      "e": "Proteins contain nitrogen in their amino acid groups.",
+      "d": "Easy",
+      "topic": "Proteins",
+      "slo": "Identify, explain or apply concepts of proteins in biochemistry.",
+      "id": "CHEM9CH15-119"
+    },
+    {
+      "q": "In a biochemistry lesson, a student is asked: which element is present in proteins but not necessarily in carbohydrates??",
+      "o": [
+        "Oxygen",
+        "Hydrogen",
+        "Carbon",
+        "Nitrogen"
+      ],
+      "a": 3,
+      "e": "Proteins contain nitrogen in their amino acid groups.",
+      "d": "Medium",
+      "topic": "Proteins",
+      "slo": "Identify, explain or apply concepts of proteins in biochemistry.",
+      "id": "CHEM9CH15-120"
+    },
+    {
+      "q": "Enzymes are generally?",
+      "o": [
+        "Simple salts",
+        "Storage sugars",
+        "Genetic chromosomes",
+        "Biological catalysts"
+      ],
+      "a": 3,
+      "e": "Most enzymes are proteins that speed up reactions.",
+      "d": "Easy",
+      "topic": "Proteins",
+      "slo": "Identify, explain or apply concepts of proteins in biochemistry.",
+      "id": "CHEM9CH15-121"
+    },
+    {
+      "q": "Select the correct answer: enzymes are generally?",
+      "o": [
+        "Storage sugars",
+        "Simple salts",
+        "Biological catalysts",
+        "Genetic chromosomes"
+      ],
+      "a": 2,
+      "e": "Most enzymes are proteins that speed up reactions.",
+      "d": "Easy",
+      "topic": "Proteins",
+      "slo": "Identify, explain or apply concepts of proteins in biochemistry.",
+      "id": "CHEM9CH15-122"
+    },
+    {
+      "q": "In a biochemistry lesson, a student is asked: enzymes are generally?",
+      "o": [
+        "Storage sugars",
+        "Simple salts",
+        "Genetic chromosomes",
+        "Biological catalysts"
+      ],
+      "a": 3,
+      "e": "Most enzymes are proteins that speed up reactions.",
+      "d": "Medium",
+      "topic": "Proteins",
+      "slo": "Identify, explain or apply concepts of proteins in biochemistry.",
+      "id": "CHEM9CH15-123"
+    },
+    {
+      "q": "The protein that transports oxygen in red blood cells is?",
+      "o": [
+        "Starch",
+        "Insulin sugar",
+        "Hemoglobin",
+        "Cellulose"
+      ],
+      "a": 2,
+      "e": "Hemoglobin binds and carries oxygen in blood.",
+      "d": "Medium",
+      "topic": "Proteins",
+      "slo": "Identify, explain or apply concepts of proteins in biochemistry.",
+      "id": "CHEM9CH15-124"
+    },
+    {
+      "q": "Select the correct answer: the protein that transports oxygen in red blood cells is?",
+      "o": [
+        "Cellulose",
+        "Insulin sugar",
+        "Hemoglobin",
+        "Starch"
+      ],
+      "a": 2,
+      "e": "Hemoglobin binds and carries oxygen in blood.",
+      "d": "Easy",
+      "topic": "Proteins",
+      "slo": "Identify, explain or apply concepts of proteins in biochemistry.",
+      "id": "CHEM9CH15-125"
+    },
+    {
+      "q": "In a biochemistry lesson, a student is asked: the protein that transports oxygen in red blood cells is?",
+      "o": [
+        "Cellulose",
+        "Starch",
+        "Hemoglobin",
+        "Insulin sugar"
+      ],
+      "a": 2,
+      "e": "Hemoglobin binds and carries oxygen in blood.",
+      "d": "Medium",
+      "topic": "Proteins",
+      "slo": "Identify, explain or apply concepts of proteins in biochemistry.",
+      "id": "CHEM9CH15-126"
+    },
+    {
+      "q": "A protein abundant in hair and nails is?",
+      "o": [
+        "DNA",
+        "Keratin",
+        "Glycogen",
+        "Lactose"
+      ],
+      "a": 1,
+      "e": "Keratin is a structural protein in hair and nails.",
+      "d": "Medium",
+      "topic": "Proteins",
+      "slo": "Identify, explain or apply concepts of proteins in biochemistry.",
+      "id": "CHEM9CH15-127"
+    },
+    {
+      "q": "Select the correct answer: a protein abundant in hair and nails is?",
+      "o": [
+        "DNA",
+        "Lactose",
+        "Glycogen",
+        "Keratin"
+      ],
+      "a": 3,
+      "e": "Keratin is a structural protein in hair and nails.",
+      "d": "Easy",
+      "topic": "Proteins",
+      "slo": "Identify, explain or apply concepts of proteins in biochemistry.",
+      "id": "CHEM9CH15-128"
+    },
+    {
+      "q": "In a biochemistry lesson, a student is asked: a protein abundant in hair and nails is?",
+      "o": [
+        "Glycogen",
+        "DNA",
+        "Keratin",
+        "Lactose"
+      ],
+      "a": 2,
+      "e": "Keratin is a structural protein in hair and nails.",
+      "d": "Medium",
+      "topic": "Proteins",
+      "slo": "Identify, explain or apply concepts of proteins in biochemistry.",
+      "id": "CHEM9CH15-129"
+    },
+    {
+      "q": "A protein found in muscles is?",
+      "o": [
+        "Cellulose",
+        "Myosin",
+        "Cholesterol",
+        "Sucrose"
+      ],
+      "a": 1,
+      "e": "Myosin is a muscle motor protein.",
+      "d": "Medium",
+      "topic": "Proteins",
+      "slo": "Identify, explain or apply concepts of proteins in biochemistry.",
+      "id": "CHEM9CH15-130"
+    },
+    {
+      "q": "Select the correct answer: a protein found in muscles is?",
+      "o": [
+        "Myosin",
+        "Cholesterol",
+        "Cellulose",
+        "Sucrose"
+      ],
+      "a": 0,
+      "e": "Myosin is a muscle motor protein.",
+      "d": "Easy",
+      "topic": "Proteins",
+      "slo": "Identify, explain or apply concepts of proteins in biochemistry.",
+      "id": "CHEM9CH15-131"
+    },
+    {
+      "q": "In a biochemistry lesson, a student is asked: a protein found in muscles is?",
+      "o": [
+        "Cellulose",
+        "Sucrose",
+        "Myosin",
+        "Cholesterol"
+      ],
+      "a": 2,
+      "e": "Myosin is a muscle motor protein.",
+      "d": "Medium",
+      "topic": "Proteins",
+      "slo": "Identify, explain or apply concepts of proteins in biochemistry.",
+      "id": "CHEM9CH15-132"
+    },
+    {
+      "q": "Which food is a good source of complete protein??",
+      "o": [
+        "Eggs",
+        "Table sugar",
+        "Cooking oil",
+        "Salt"
+      ],
+      "a": 0,
+      "e": "Eggs provide high-quality protein.",
+      "d": "Easy",
+      "topic": "Food sources",
+      "slo": "Identify, explain or apply concepts of food sources in biochemistry.",
+      "id": "CHEM9CH15-133"
+    },
+    {
+      "q": "Select the correct answer: which food is a good source of complete protein??",
+      "o": [
+        "Eggs",
+        "Salt",
+        "Cooking oil",
+        "Table sugar"
+      ],
+      "a": 0,
+      "e": "Eggs provide high-quality protein.",
+      "d": "Easy",
+      "topic": "Food sources",
+      "slo": "Identify, explain or apply concepts of food sources in biochemistry.",
+      "id": "CHEM9CH15-134"
+    },
+    {
+      "q": "In a biochemistry lesson, a student is asked: which food is a good source of complete protein??",
+      "o": [
+        "Salt",
+        "Eggs",
+        "Table sugar",
+        "Cooking oil"
+      ],
+      "a": 1,
+      "e": "Eggs provide high-quality protein.",
+      "d": "Medium",
+      "topic": "Food sources",
+      "slo": "Identify, explain or apply concepts of food sources in biochemistry.",
+      "id": "CHEM9CH15-135"
+    },
+    {
+      "q": "Protein deficiency may cause?",
+      "o": [
+        "Extra genetic material",
+        "Rapid starch synthesis",
+        "Unlimited energy",
+        "Poor growth and tissue repair"
+      ],
+      "a": 3,
+      "e": "Insufficient protein impairs growth and tissue maintenance.",
+      "d": "Medium",
+      "topic": "Nutrient deficiency",
+      "slo": "Identify, explain or apply concepts of nutrient deficiency in biochemistry.",
+      "id": "CHEM9CH15-136"
+    },
+    {
+      "q": "Select the correct answer: protein deficiency may cause?",
+      "o": [
+        "Rapid starch synthesis",
+        "Poor growth and tissue repair",
+        "Extra genetic material",
+        "Unlimited energy"
+      ],
+      "a": 1,
+      "e": "Insufficient protein impairs growth and tissue maintenance.",
+      "d": "Easy",
+      "topic": "Nutrient deficiency",
+      "slo": "Identify, explain or apply concepts of nutrient deficiency in biochemistry.",
+      "id": "CHEM9CH15-137"
+    },
+    {
+      "q": "In a biochemistry lesson, a student is asked: protein deficiency may cause?",
+      "o": [
+        "Extra genetic material",
+        "Rapid starch synthesis",
+        "Poor growth and tissue repair",
+        "Unlimited energy"
+      ],
+      "a": 2,
+      "e": "Insufficient protein impairs growth and tissue maintenance.",
+      "d": "Medium",
+      "topic": "Nutrient deficiency",
+      "slo": "Identify, explain or apply concepts of nutrient deficiency in biochemistry.",
+      "id": "CHEM9CH15-138"
+    },
+    {
+      "q": "Which macromolecule contains instructions inherited from parents??",
+      "o": [
+        "Starch",
+        "Fatty acid",
+        "DNA",
+        "Glycerol"
+      ],
+      "a": 2,
+      "e": "DNA is hereditary genetic material.",
+      "d": "Medium",
+      "topic": "Nucleic acids",
+      "slo": "Identify, explain or apply concepts of nucleic acids in biochemistry.",
+      "id": "CHEM9CH15-139"
+    },
+    {
+      "q": "Select the correct answer: which macromolecule contains instructions inherited from parents??",
+      "o": [
+        "Fatty acid",
+        "Glycerol",
+        "DNA",
+        "Starch"
+      ],
+      "a": 2,
+      "e": "DNA is hereditary genetic material.",
+      "d": "Easy",
+      "topic": "Nucleic acids",
+      "slo": "Identify, explain or apply concepts of nucleic acids in biochemistry.",
+      "id": "CHEM9CH15-140"
+    },
+    {
+      "q": "In a biochemistry lesson, a student is asked: which macromolecule contains instructions inherited from parents??",
+      "o": [
+        "DNA",
+        "Fatty acid",
+        "Glycerol",
+        "Starch"
+      ],
+      "a": 0,
+      "e": "DNA is hereditary genetic material.",
+      "d": "Medium",
+      "topic": "Nucleic acids",
+      "slo": "Identify, explain or apply concepts of nucleic acids in biochemistry.",
+      "id": "CHEM9CH15-141"
+    },
+    {
+      "q": "DNA stands for?",
+      "o": [
+        "Deoxyribonucleic acid",
+        "Dinucleic alcohol",
+        "Dinitrogen acid",
+        "Deoxyprotein acid"
+      ],
+      "a": 0,
+      "e": "DNA is deoxyribonucleic acid.",
+      "d": "Medium",
+      "topic": "Nucleic acids",
+      "slo": "Identify, explain or apply concepts of nucleic acids in biochemistry.",
+      "id": "CHEM9CH15-142"
+    },
+    {
+      "q": "Select the correct answer: dNA stands for?",
+      "o": [
+        "Dinucleic alcohol",
+        "Deoxyribonucleic acid",
+        "Dinitrogen acid",
+        "Deoxyprotein acid"
+      ],
+      "a": 1,
+      "e": "DNA is deoxyribonucleic acid.",
+      "d": "Easy",
+      "topic": "Nucleic acids",
+      "slo": "Identify, explain or apply concepts of nucleic acids in biochemistry.",
+      "id": "CHEM9CH15-143"
+    },
+    {
+      "q": "In a biochemistry lesson, a student is asked: dNA stands for?",
+      "o": [
+        "Deoxyribonucleic acid",
+        "Dinucleic alcohol",
+        "Deoxyprotein acid",
+        "Dinitrogen acid"
+      ],
+      "a": 0,
+      "e": "DNA is deoxyribonucleic acid.",
+      "d": "Medium",
+      "topic": "Nucleic acids",
+      "slo": "Identify, explain or apply concepts of nucleic acids in biochemistry.",
+      "id": "CHEM9CH15-144"
+    },
+    {
+      "q": "RNA stands for?",
+      "o": [
+        "Ribonucleic acid",
+        "Riboprotein acid",
+        "Ribose nitrogen alkane",
+        "Reactive nucleic alcohol"
+      ],
+      "a": 0,
+      "e": "RNA is ribonucleic acid.",
+      "d": "Easy",
+      "topic": "Nucleic acids",
+      "slo": "Identify, explain or apply concepts of nucleic acids in biochemistry.",
+      "id": "CHEM9CH15-145"
+    },
+    {
+      "q": "Select the correct answer: rNA stands for?",
+      "o": [
+        "Ribonucleic acid",
+        "Reactive nucleic alcohol",
+        "Riboprotein acid",
+        "Ribose nitrogen alkane"
+      ],
+      "a": 0,
+      "e": "RNA is ribonucleic acid.",
+      "d": "Easy",
+      "topic": "Nucleic acids",
+      "slo": "Identify, explain or apply concepts of nucleic acids in biochemistry.",
+      "id": "CHEM9CH15-146"
+    },
+    {
+      "q": "In a biochemistry lesson, a student is asked: rNA stands for?",
+      "o": [
+        "Reactive nucleic alcohol",
+        "Ribonucleic acid",
+        "Ribose nitrogen alkane",
+        "Riboprotein acid"
+      ],
+      "a": 1,
+      "e": "RNA is ribonucleic acid.",
+      "d": "Medium",
+      "topic": "Nucleic acids",
+      "slo": "Identify, explain or apply concepts of nucleic acids in biochemistry.",
+      "id": "CHEM9CH15-147"
+    },
+    {
+      "q": "A basic unit of DNA and RNA is a?",
+      "o": [
+        "Fatty acid",
+        "Nucleotide",
+        "Amino acid",
+        "Monosaccharide"
+      ],
+      "a": 1,
+      "e": "Nucleic acids are polymers of nucleotides.",
+      "d": "Medium",
+      "topic": "Nucleic acids",
+      "slo": "Identify, explain or apply concepts of nucleic acids in biochemistry.",
+      "id": "CHEM9CH15-148"
+    },
+    {
+      "q": "Select the correct answer: a basic unit of DNA and RNA is a?",
+      "o": [
+        "Nucleotide",
+        "Amino acid",
+        "Monosaccharide",
+        "Fatty acid"
+      ],
+      "a": 0,
+      "e": "Nucleic acids are polymers of nucleotides.",
+      "d": "Easy",
+      "topic": "Nucleic acids",
+      "slo": "Identify, explain or apply concepts of nucleic acids in biochemistry.",
+      "id": "CHEM9CH15-149"
+    },
+    {
+      "q": "In a biochemistry lesson, a student is asked: a basic unit of DNA and RNA is a?",
+      "o": [
+        "Nucleotide",
+        "Monosaccharide",
+        "Fatty acid",
+        "Amino acid"
+      ],
+      "a": 0,
+      "e": "Nucleic acids are polymers of nucleotides.",
+      "d": "Medium",
+      "topic": "Nucleic acids",
+      "slo": "Identify, explain or apply concepts of nucleic acids in biochemistry.",
+      "id": "CHEM9CH15-150"
+    },
+    {
+      "q": "DNA typically forms a?",
+      "o": [
+        "Triple ionic lattice",
+        "Double helix",
+        "Spherical crystal",
+        "Single straight metal wire"
+      ],
+      "a": 1,
+      "e": "DNA commonly has a double-helical structure.",
+      "d": "Medium",
+      "topic": "Nucleic acids",
+      "slo": "Identify, explain or apply concepts of nucleic acids in biochemistry.",
+      "id": "CHEM9CH15-151"
+    },
+    {
+      "q": "Select the correct answer: dNA typically forms a?",
+      "o": [
+        "Single straight metal wire",
+        "Double helix",
+        "Spherical crystal",
+        "Triple ionic lattice"
+      ],
+      "a": 1,
+      "e": "DNA commonly has a double-helical structure.",
+      "d": "Easy",
+      "topic": "Nucleic acids",
+      "slo": "Identify, explain or apply concepts of nucleic acids in biochemistry.",
+      "id": "CHEM9CH15-152"
+    },
+    {
+      "q": "In a biochemistry lesson, a student is asked: dNA typically forms a?",
+      "o": [
+        "Double helix",
+        "Single straight metal wire",
+        "Spherical crystal",
+        "Triple ionic lattice"
+      ],
+      "a": 0,
+      "e": "DNA commonly has a double-helical structure.",
+      "d": "Medium",
+      "topic": "Nucleic acids",
+      "slo": "Identify, explain or apply concepts of nucleic acids in biochemistry.",
+      "id": "CHEM9CH15-153"
+    },
+    {
+      "q": "RNA is commonly?",
+      "o": [
+        "Always double-helical",
+        "A fat",
+        "A polysaccharide",
+        "Single-stranded"
+      ],
+      "a": 3,
+      "e": "Many RNA molecules are single-stranded.",
+      "d": "Medium",
+      "topic": "Nucleic acids",
+      "slo": "Identify, explain or apply concepts of nucleic acids in biochemistry.",
+      "id": "CHEM9CH15-154"
+    },
+    {
+      "q": "Select the correct answer: rNA is commonly?",
+      "o": [
+        "A fat",
+        "A polysaccharide",
+        "Always double-helical",
+        "Single-stranded"
+      ],
+      "a": 3,
+      "e": "Many RNA molecules are single-stranded.",
+      "d": "Easy",
+      "topic": "Nucleic acids",
+      "slo": "Identify, explain or apply concepts of nucleic acids in biochemistry.",
+      "id": "CHEM9CH15-155"
+    },
+    {
+      "q": "In a biochemistry lesson, a student is asked: rNA is commonly?",
+      "o": [
+        "A polysaccharide",
+        "Single-stranded",
+        "A fat",
+        "Always double-helical"
+      ],
+      "a": 1,
+      "e": "Many RNA molecules are single-stranded.",
+      "d": "Medium",
+      "topic": "Nucleic acids",
+      "slo": "Identify, explain or apply concepts of nucleic acids in biochemistry.",
+      "id": "CHEM9CH15-156"
+    },
+    {
+      "q": "The sugar in DNA is?",
+      "o": [
+        "Deoxyribose",
+        "Ribose",
+        "Fructose",
+        "Glucose"
+      ],
+      "a": 0,
+      "e": "DNA nucleotides contain deoxyribose sugar.",
+      "d": "Easy",
+      "topic": "Nucleic acids",
+      "slo": "Identify, explain or apply concepts of nucleic acids in biochemistry.",
+      "id": "CHEM9CH15-157"
+    },
+    {
+      "q": "Select the correct answer: the sugar in DNA is?",
+      "o": [
+        "Glucose",
+        "Ribose",
+        "Fructose",
+        "Deoxyribose"
+      ],
+      "a": 3,
+      "e": "DNA nucleotides contain deoxyribose sugar.",
+      "d": "Easy",
+      "topic": "Nucleic acids",
+      "slo": "Identify, explain or apply concepts of nucleic acids in biochemistry.",
+      "id": "CHEM9CH15-158"
+    },
+    {
+      "q": "In a biochemistry lesson, a student is asked: the sugar in DNA is?",
+      "o": [
+        "Ribose",
+        "Glucose",
+        "Fructose",
+        "Deoxyribose"
+      ],
+      "a": 3,
+      "e": "DNA nucleotides contain deoxyribose sugar.",
+      "d": "Medium",
+      "topic": "Nucleic acids",
+      "slo": "Identify, explain or apply concepts of nucleic acids in biochemistry.",
+      "id": "CHEM9CH15-159"
+    },
+    {
+      "q": "The sugar in RNA is?",
+      "o": [
+        "Sucrose",
+        "Ribose",
+        "Deoxyribose",
+        "Cellulose"
+      ],
+      "a": 1,
+      "e": "RNA nucleotides contain ribose sugar.",
+      "d": "Medium",
+      "topic": "Nucleic acids",
+      "slo": "Identify, explain or apply concepts of nucleic acids in biochemistry.",
+      "id": "CHEM9CH15-160"
+    },
+    {
+      "q": "Select the correct answer: the sugar in RNA is?",
+      "o": [
+        "Deoxyribose",
+        "Cellulose",
+        "Ribose",
+        "Sucrose"
+      ],
+      "a": 2,
+      "e": "RNA nucleotides contain ribose sugar.",
+      "d": "Easy",
+      "topic": "Nucleic acids",
+      "slo": "Identify, explain or apply concepts of nucleic acids in biochemistry.",
+      "id": "CHEM9CH15-161"
+    },
+    {
+      "q": "In a biochemistry lesson, a student is asked: the sugar in RNA is?",
+      "o": [
+        "Ribose",
+        "Cellulose",
+        "Deoxyribose",
+        "Sucrose"
+      ],
+      "a": 0,
+      "e": "RNA nucleotides contain ribose sugar.",
+      "d": "Medium",
+      "topic": "Nucleic acids",
+      "slo": "Identify, explain or apply concepts of nucleic acids in biochemistry.",
+      "id": "CHEM9CH15-162"
+    },
+    {
+      "q": "Which nitrogen base occurs in DNA but not RNA??",
+      "o": [
+        "Uracil",
+        "Cytosine",
+        "Thymine",
+        "Guanine"
+      ],
+      "a": 2,
+      "e": "DNA normally uses thymine in place of uracil.",
+      "d": "Medium",
+      "topic": "Nucleic acids",
+      "slo": "Identify, explain or apply concepts of nucleic acids in biochemistry.",
+      "id": "CHEM9CH15-163"
+    },
+    {
+      "q": "Select the correct answer: which nitrogen base occurs in DNA but not RNA??",
+      "o": [
+        "Uracil",
+        "Guanine",
+        "Cytosine",
+        "Thymine"
+      ],
+      "a": 3,
+      "e": "DNA normally uses thymine in place of uracil.",
+      "d": "Easy",
+      "topic": "Nucleic acids",
+      "slo": "Identify, explain or apply concepts of nucleic acids in biochemistry.",
+      "id": "CHEM9CH15-164"
+    },
+    {
+      "q": "In a biochemistry lesson, a student is asked: which nitrogen base occurs in DNA but not RNA??",
+      "o": [
+        "Cytosine",
+        "Uracil",
+        "Thymine",
+        "Guanine"
+      ],
+      "a": 2,
+      "e": "DNA normally uses thymine in place of uracil.",
+      "d": "Medium",
+      "topic": "Nucleic acids",
+      "slo": "Identify, explain or apply concepts of nucleic acids in biochemistry.",
+      "id": "CHEM9CH15-165"
+    },
+    {
+      "q": "Which nitrogen base occurs in RNA instead of thymine??",
+      "o": [
+        "Uracil",
+        "Guanine",
+        "Adenine",
+        "Thymine"
+      ],
+      "a": 0,
+      "e": "RNA generally contains uracil rather than thymine.",
+      "d": "Medium",
+      "topic": "Nucleic acids",
+      "slo": "Identify, explain or apply concepts of nucleic acids in biochemistry.",
+      "id": "CHEM9CH15-166"
+    },
+    {
+      "q": "Select the correct answer: which nitrogen base occurs in RNA instead of thymine??",
+      "o": [
+        "Guanine",
+        "Thymine",
+        "Adenine",
+        "Uracil"
+      ],
+      "a": 3,
+      "e": "RNA generally contains uracil rather than thymine.",
+      "d": "Easy",
+      "topic": "Nucleic acids",
+      "slo": "Identify, explain or apply concepts of nucleic acids in biochemistry.",
+      "id": "CHEM9CH15-167"
+    },
+    {
+      "q": "In a biochemistry lesson, a student is asked: which nitrogen base occurs in RNA instead of thymine??",
+      "o": [
+        "Uracil",
+        "Thymine",
+        "Adenine",
+        "Guanine"
+      ],
+      "a": 0,
+      "e": "RNA generally contains uracil rather than thymine.",
+      "d": "Medium",
+      "topic": "Nucleic acids",
+      "slo": "Identify, explain or apply concepts of nucleic acids in biochemistry.",
+      "id": "CHEM9CH15-168"
+    },
+    {
+      "q": "Which base pairs with adenine in DNA??",
+      "o": [
+        "Guanine",
+        "Thymine",
+        "Uracil",
+        "Cytosine"
+      ],
+      "a": 1,
+      "e": "A pairs with T in double-stranded DNA.",
+      "d": "Easy",
+      "topic": "Nucleic acids",
+      "slo": "Identify, explain or apply concepts of nucleic acids in biochemistry.",
+      "id": "CHEM9CH15-169"
+    },
+    {
+      "q": "Select the correct answer: which base pairs with adenine in DNA??",
+      "o": [
+        "Guanine",
+        "Uracil",
+        "Cytosine",
+        "Thymine"
+      ],
+      "a": 3,
+      "e": "A pairs with T in double-stranded DNA.",
+      "d": "Easy",
+      "topic": "Nucleic acids",
+      "slo": "Identify, explain or apply concepts of nucleic acids in biochemistry.",
+      "id": "CHEM9CH15-170"
+    },
+    {
+      "q": "In a biochemistry lesson, a student is asked: which base pairs with adenine in DNA??",
+      "o": [
+        "Guanine",
+        "Cytosine",
+        "Thymine",
+        "Uracil"
+      ],
+      "a": 2,
+      "e": "A pairs with T in double-stranded DNA.",
+      "d": "Medium",
+      "topic": "Nucleic acids",
+      "slo": "Identify, explain or apply concepts of nucleic acids in biochemistry.",
+      "id": "CHEM9CH15-171"
+    },
+    {
+      "q": "Which base pairs with cytosine in DNA??",
+      "o": [
+        "Adenine",
+        "Guanine",
+        "Uracil",
+        "Thymine"
+      ],
+      "a": 1,
+      "e": "C pairs with G in DNA.",
+      "d": "Medium",
+      "topic": "Nucleic acids",
+      "slo": "Identify, explain or apply concepts of nucleic acids in biochemistry.",
+      "id": "CHEM9CH15-172"
+    },
+    {
+      "q": "Select the correct answer: which base pairs with cytosine in DNA??",
+      "o": [
+        "Adenine",
+        "Thymine",
+        "Guanine",
+        "Uracil"
+      ],
+      "a": 2,
+      "e": "C pairs with G in DNA.",
+      "d": "Easy",
+      "topic": "Nucleic acids",
+      "slo": "Identify, explain or apply concepts of nucleic acids in biochemistry.",
+      "id": "CHEM9CH15-173"
+    },
+    {
+      "q": "In a biochemistry lesson, a student is asked: which base pairs with cytosine in DNA??",
+      "o": [
+        "Uracil",
+        "Thymine",
+        "Adenine",
+        "Guanine"
+      ],
+      "a": 3,
+      "e": "C pairs with G in DNA.",
+      "d": "Medium",
+      "topic": "Nucleic acids",
+      "slo": "Identify, explain or apply concepts of nucleic acids in biochemistry.",
+      "id": "CHEM9CH15-174"
+    },
+    {
+      "q": "Which macromolecule is most directly responsible for inherited traits??",
+      "o": [
+        "Starch",
+        "Nucleic acids",
+        "Cellulose",
+        "Triglycerides"
+      ],
+      "a": 1,
+      "e": "Nucleic acids store and transmit genetic information.",
+      "d": "Medium",
+      "topic": "Nucleic acids",
+      "slo": "Identify, explain or apply concepts of nucleic acids in biochemistry.",
+      "id": "CHEM9CH15-175"
+    },
+    {
+      "q": "Select the correct answer: which macromolecule is most directly responsible for inherited traits??",
+      "o": [
+        "Starch",
+        "Nucleic acids",
+        "Cellulose",
+        "Triglycerides"
+      ],
+      "a": 1,
+      "e": "Nucleic acids store and transmit genetic information.",
+      "d": "Easy",
+      "topic": "Nucleic acids",
+      "slo": "Identify, explain or apply concepts of nucleic acids in biochemistry.",
+      "id": "CHEM9CH15-176"
+    },
+    {
+      "q": "In a biochemistry lesson, a student is asked: which macromolecule is most directly responsible for inherited traits??",
+      "o": [
+        "Starch",
+        "Triglycerides",
+        "Cellulose",
+        "Nucleic acids"
+      ],
+      "a": 3,
+      "e": "Nucleic acids store and transmit genetic information.",
+      "d": "Medium",
+      "topic": "Nucleic acids",
+      "slo": "Identify, explain or apply concepts of nucleic acids in biochemistry.",
+      "id": "CHEM9CH15-177"
+    },
+    {
+      "q": "Which nutrient is a concentrated source of stored energy??",
+      "o": [
+        "Water",
+        "Mineral salts",
+        "Fats",
+        "DNA"
+      ],
+      "a": 2,
+      "e": "Fats store substantial energy per gram.",
+      "d": "Medium",
+      "topic": "Lipids",
+      "slo": "Identify, explain or apply concepts of lipids in biochemistry.",
+      "id": "CHEM9CH15-178"
+    },
+    {
+      "q": "Select the correct answer: which nutrient is a concentrated source of stored energy??",
+      "o": [
+        "Water",
+        "Mineral salts",
+        "Fats",
+        "DNA"
+      ],
+      "a": 2,
+      "e": "Fats store substantial energy per gram.",
+      "d": "Easy",
+      "topic": "Lipids",
+      "slo": "Identify, explain or apply concepts of lipids in biochemistry.",
+      "id": "CHEM9CH15-179"
+    },
+    {
+      "q": "In a biochemistry lesson, a student is asked: which nutrient is a concentrated source of stored energy??",
+      "o": [
+        "Mineral salts",
+        "Water",
+        "DNA",
+        "Fats"
+      ],
+      "a": 3,
+      "e": "Fats store substantial energy per gram.",
+      "d": "Medium",
+      "topic": "Lipids",
+      "slo": "Identify, explain or apply concepts of lipids in biochemistry.",
+      "id": "CHEM9CH15-180"
+    },
+    {
+      "q": "Which nutrients are often called body-building foods??",
+      "o": [
+        "Salt only",
+        "Water only",
+        "Sugars only",
+        "Proteins"
+      ],
+      "a": 3,
+      "e": "Protein supports body growth and repair.",
+      "d": "Easy",
+      "topic": "Nutrition",
+      "slo": "Identify, explain or apply concepts of nutrition in biochemistry.",
+      "id": "CHEM9CH15-181"
+    },
+    {
+      "q": "Select the correct answer: which nutrients are often called body-building foods??",
+      "o": [
+        "Water only",
+        "Salt only",
+        "Sugars only",
+        "Proteins"
+      ],
+      "a": 3,
+      "e": "Protein supports body growth and repair.",
+      "d": "Easy",
+      "topic": "Nutrition",
+      "slo": "Identify, explain or apply concepts of nutrition in biochemistry.",
+      "id": "CHEM9CH15-182"
+    },
+    {
+      "q": "In a biochemistry lesson, a student is asked: which nutrients are often called body-building foods??",
+      "o": [
+        "Salt only",
+        "Proteins",
+        "Water only",
+        "Sugars only"
+      ],
+      "a": 1,
+      "e": "Protein supports body growth and repair.",
+      "d": "Medium",
+      "topic": "Nutrition",
+      "slo": "Identify, explain or apply concepts of nutrition in biochemistry.",
+      "id": "CHEM9CH15-183"
+    },
+    {
+      "q": "Which nutrients mainly provide quick dietary energy??",
+      "o": [
+        "Carbohydrates",
+        "Mineral salts only",
+        "Nucleic acids",
+        "Vitamins only"
+      ],
+      "a": 0,
+      "e": "Carbohydrates are a major readily usable energy source.",
+      "d": "Medium",
+      "topic": "Nutrition",
+      "slo": "Identify, explain or apply concepts of nutrition in biochemistry.",
+      "id": "CHEM9CH15-184"
+    },
+    {
+      "q": "Select the correct answer: which nutrients mainly provide quick dietary energy??",
+      "o": [
+        "Vitamins only",
+        "Carbohydrates",
+        "Nucleic acids",
+        "Mineral salts only"
+      ],
+      "a": 1,
+      "e": "Carbohydrates are a major readily usable energy source.",
+      "d": "Easy",
+      "topic": "Nutrition",
+      "slo": "Identify, explain or apply concepts of nutrition in biochemistry.",
+      "id": "CHEM9CH15-185"
+    },
+    {
+      "q": "In a biochemistry lesson, a student is asked: which nutrients mainly provide quick dietary energy??",
+      "o": [
+        "Carbohydrates",
+        "Mineral salts only",
+        "Vitamins only",
+        "Nucleic acids"
+      ],
+      "a": 0,
+      "e": "Carbohydrates are a major readily usable energy source.",
+      "d": "Medium",
+      "topic": "Nutrition",
+      "slo": "Identify, explain or apply concepts of nutrition in biochemistry.",
+      "id": "CHEM9CH15-186"
+    },
+    {
+      "q": "A deficiency disease associated with insufficient vitamin C is?",
+      "o": [
+        "Night blindness",
+        "Goiter",
+        "Scurvy",
+        "Rickets"
+      ],
+      "a": 2,
+      "e": "Vitamin C deficiency causes scurvy.",
+      "d": "Medium",
+      "topic": "Nutrient deficiency",
+      "slo": "Identify, explain or apply concepts of nutrient deficiency in biochemistry.",
+      "id": "CHEM9CH15-187"
+    },
+    {
+      "q": "Select the correct answer: a deficiency disease associated with insufficient vitamin C is?",
+      "o": [
+        "Rickets",
+        "Goiter",
+        "Scurvy",
+        "Night blindness"
+      ],
+      "a": 2,
+      "e": "Vitamin C deficiency causes scurvy.",
+      "d": "Easy",
+      "topic": "Nutrient deficiency",
+      "slo": "Identify, explain or apply concepts of nutrient deficiency in biochemistry.",
+      "id": "CHEM9CH15-188"
+    },
+    {
+      "q": "In a biochemistry lesson, a student is asked: a deficiency disease associated with insufficient vitamin C is?",
+      "o": [
+        "Night blindness",
+        "Goiter",
+        "Scurvy",
+        "Rickets"
+      ],
+      "a": 2,
+      "e": "Vitamin C deficiency causes scurvy.",
+      "d": "Medium",
+      "topic": "Nutrient deficiency",
+      "slo": "Identify, explain or apply concepts of nutrient deficiency in biochemistry.",
+      "id": "CHEM9CH15-189"
+    },
+    {
+      "q": "A deficiency disease associated with insufficient vitamin D is?",
+      "o": [
+        "Scurvy",
+        "Rickets",
+        "Anemia from iron loss",
+        "Goiter"
+      ],
+      "a": 1,
+      "e": "Vitamin D deficiency can cause rickets in children.",
+      "d": "Medium",
+      "topic": "Nutrient deficiency",
+      "slo": "Identify, explain or apply concepts of nutrient deficiency in biochemistry.",
+      "id": "CHEM9CH15-190"
+    },
+    {
+      "q": "Select the correct answer: a deficiency disease associated with insufficient vitamin D is?",
+      "o": [
+        "Scurvy",
+        "Goiter",
+        "Anemia from iron loss",
+        "Rickets"
+      ],
+      "a": 3,
+      "e": "Vitamin D deficiency can cause rickets in children.",
+      "d": "Easy",
+      "topic": "Nutrient deficiency",
+      "slo": "Identify, explain or apply concepts of nutrient deficiency in biochemistry.",
+      "id": "CHEM9CH15-191"
+    },
+    {
+      "q": "In a biochemistry lesson, a student is asked: a deficiency disease associated with insufficient vitamin D is?",
+      "o": [
+        "Rickets",
+        "Goiter",
+        "Anemia from iron loss",
+        "Scurvy"
+      ],
+      "a": 0,
+      "e": "Vitamin D deficiency can cause rickets in children.",
+      "d": "Medium",
+      "topic": "Nutrient deficiency",
+      "slo": "Identify, explain or apply concepts of nutrient deficiency in biochemistry.",
+      "id": "CHEM9CH15-192"
+    },
+    {
+      "q": "Insufficient iron in the diet may cause?",
+      "o": [
+        "Rickets",
+        "Scurvy",
+        "Night blindness",
+        "Anemia"
+      ],
+      "a": 3,
+      "e": "Iron deficiency can impair hemoglobin formation.",
+      "d": "Easy",
+      "topic": "Nutrient deficiency",
+      "slo": "Identify, explain or apply concepts of nutrient deficiency in biochemistry.",
+      "id": "CHEM9CH15-193"
+    },
+    {
+      "q": "Select the correct answer: insufficient iron in the diet may cause?",
+      "o": [
+        "Anemia",
+        "Scurvy",
+        "Night blindness",
+        "Rickets"
+      ],
+      "a": 0,
+      "e": "Iron deficiency can impair hemoglobin formation.",
+      "d": "Easy",
+      "topic": "Nutrient deficiency",
+      "slo": "Identify, explain or apply concepts of nutrient deficiency in biochemistry.",
+      "id": "CHEM9CH15-194"
+    },
+    {
+      "q": "In a biochemistry lesson, a student is asked: insufficient iron in the diet may cause?",
+      "o": [
+        "Night blindness",
+        "Scurvy",
+        "Anemia",
+        "Rickets"
+      ],
+      "a": 2,
+      "e": "Iron deficiency can impair hemoglobin formation.",
+      "d": "Medium",
+      "topic": "Nutrient deficiency",
+      "slo": "Identify, explain or apply concepts of nutrient deficiency in biochemistry.",
+      "id": "CHEM9CH15-195"
+    },
+    {
+      "q": "Insufficient iodine may cause?",
+      "o": [
+        "Goiter",
+        "Dehydration",
+        "Scurvy",
+        "Rickets"
+      ],
+      "a": 0,
+      "e": "Iodine deficiency can enlarge the thyroid gland.",
+      "d": "Medium",
+      "topic": "Nutrient deficiency",
+      "slo": "Identify, explain or apply concepts of nutrient deficiency in biochemistry.",
+      "id": "CHEM9CH15-196"
+    },
+    {
+      "q": "Select the correct answer: insufficient iodine may cause?",
+      "o": [
+        "Goiter",
+        "Scurvy",
+        "Rickets",
+        "Dehydration"
+      ],
+      "a": 0,
+      "e": "Iodine deficiency can enlarge the thyroid gland.",
+      "d": "Easy",
+      "topic": "Nutrient deficiency",
+      "slo": "Identify, explain or apply concepts of nutrient deficiency in biochemistry.",
+      "id": "CHEM9CH15-197"
+    },
+    {
+      "q": "In a biochemistry lesson, a student is asked: insufficient iodine may cause?",
+      "o": [
+        "Rickets",
+        "Goiter",
+        "Scurvy",
+        "Dehydration"
+      ],
+      "a": 1,
+      "e": "Iodine deficiency can enlarge the thyroid gland.",
+      "d": "Medium",
+      "topic": "Nutrient deficiency",
+      "slo": "Identify, explain or apply concepts of nutrient deficiency in biochemistry.",
+      "id": "CHEM9CH15-198"
+    },
+    {
+      "q": "Which nutrient is essential for hydration and transport of dissolved substances??",
+      "o": [
+        "Water",
+        "Cholesterol",
+        "Cellulose",
+        "DNA"
+      ],
+      "a": 0,
+      "e": "Water is a solvent and transport medium in the body.",
+      "d": "Medium",
+      "topic": "Nutrition",
+      "slo": "Identify, explain or apply concepts of nutrition in biochemistry.",
+      "id": "CHEM9CH15-199"
+    },
+    {
+      "q": "Select the correct answer: which nutrient is essential for hydration and transport of dissolved substances??",
+      "o": [
+        "DNA",
+        "Cellulose",
+        "Water",
+        "Cholesterol"
+      ],
+      "a": 2,
+      "e": "Water is a solvent and transport medium in the body.",
+      "d": "Easy",
+      "topic": "Nutrition",
+      "slo": "Identify, explain or apply concepts of nutrition in biochemistry.",
+      "id": "CHEM9CH15-200"
+    },
+    {
+      "q": "In a biochemistry lesson, a student is asked: which nutrient is essential for hydration and transport of dissolved substances??",
+      "o": [
+        "Cellulose",
+        "Water",
+        "Cholesterol",
+        "DNA"
+      ],
+      "a": 1,
+      "e": "Water is a solvent and transport medium in the body.",
+      "d": "Medium",
+      "topic": "Nutrition",
+      "slo": "Identify, explain or apply concepts of nutrition in biochemistry.",
+      "id": "CHEM9CH15-201"
+    },
+    {
+      "q": "Which food group commonly provides vitamins and dietary fiber??",
+      "o": [
+        "Refined sugar only",
+        "Fruits and vegetables",
+        "Pure oil",
+        "Table salt"
+      ],
+      "a": 1,
+      "e": "Fruits and vegetables supply vitamins and fiber.",
+      "d": "Medium",
+      "topic": "Balanced diet",
+      "slo": "Identify, explain or apply concepts of balanced diet in biochemistry.",
+      "id": "CHEM9CH15-202"
+    },
+    {
+      "q": "Select the correct answer: which food group commonly provides vitamins and dietary fiber??",
+      "o": [
+        "Refined sugar only",
+        "Table salt",
+        "Pure oil",
+        "Fruits and vegetables"
+      ],
+      "a": 3,
+      "e": "Fruits and vegetables supply vitamins and fiber.",
+      "d": "Easy",
+      "topic": "Balanced diet",
+      "slo": "Identify, explain or apply concepts of balanced diet in biochemistry.",
+      "id": "CHEM9CH15-203"
+    },
+    {
+      "q": "In a biochemistry lesson, a student is asked: which food group commonly provides vitamins and dietary fiber??",
+      "o": [
+        "Table salt",
+        "Fruits and vegetables",
+        "Pure oil",
+        "Refined sugar only"
+      ],
+      "a": 1,
+      "e": "Fruits and vegetables supply vitamins and fiber.",
+      "d": "Medium",
+      "topic": "Balanced diet",
+      "slo": "Identify, explain or apply concepts of balanced diet in biochemistry.",
+      "id": "CHEM9CH15-204"
+    },
+    {
+      "q": "Why should a balanced diet include a variety of foods??",
+      "o": [
+        "Only one nutrient is needed",
+        "Different foods supply different nutrients",
+        "Variety eliminates need for water",
+        "All foods contain identical nutrients"
+      ],
+      "a": 1,
+      "e": "No single food generally supplies all nutrients in ideal amounts.",
+      "d": "Easy",
+      "topic": "Balanced diet",
+      "slo": "Identify, explain or apply concepts of balanced diet in biochemistry.",
+      "id": "CHEM9CH15-205"
+    },
+    {
+      "q": "Select the correct answer: why should a balanced diet include a variety of foods??",
+      "o": [
+        "Different foods supply different nutrients",
+        "All foods contain identical nutrients",
+        "Variety eliminates need for water",
+        "Only one nutrient is needed"
+      ],
+      "a": 0,
+      "e": "No single food generally supplies all nutrients in ideal amounts.",
+      "d": "Easy",
+      "topic": "Balanced diet",
+      "slo": "Identify, explain or apply concepts of balanced diet in biochemistry.",
+      "id": "CHEM9CH15-206"
+    },
+    {
+      "q": "In a biochemistry lesson, a student is asked: why should a balanced diet include a variety of foods??",
+      "o": [
+        "Only one nutrient is needed",
+        "Different foods supply different nutrients",
+        "Variety eliminates need for water",
+        "All foods contain identical nutrients"
+      ],
+      "a": 1,
+      "e": "No single food generally supplies all nutrients in ideal amounts.",
+      "d": "Medium",
+      "topic": "Balanced diet",
+      "slo": "Identify, explain or apply concepts of balanced diet in biochemistry.",
+      "id": "CHEM9CH15-207"
+    },
+    {
+      "q": "Which of the following is not a macronutrient??",
+      "o": [
+        "Carbohydrate",
+        "Protein",
+        "Fat",
+        "Vitamin C"
+      ],
+      "a": 3,
+      "e": "Vitamins are micronutrients needed in small amounts.",
+      "d": "Medium",
+      "topic": "Nutrition",
+      "slo": "Identify, explain or apply concepts of nutrition in biochemistry.",
+      "id": "CHEM9CH15-208"
+    },
+    {
+      "q": "Select the correct answer: which of the following is not a macronutrient??",
+      "o": [
+        "Vitamin C",
+        "Fat",
+        "Carbohydrate",
+        "Protein"
+      ],
+      "a": 0,
+      "e": "Vitamins are micronutrients needed in small amounts.",
+      "d": "Easy",
+      "topic": "Nutrition",
+      "slo": "Identify, explain or apply concepts of nutrition in biochemistry.",
+      "id": "CHEM9CH15-209"
+    },
+    {
+      "q": "In a biochemistry lesson, a student is asked: which of the following is not a macronutrient??",
+      "o": [
+        "Vitamin C",
+        "Protein",
+        "Fat",
+        "Carbohydrate"
+      ],
+      "a": 0,
+      "e": "Vitamins are micronutrients needed in small amounts.",
+      "d": "Medium",
+      "topic": "Nutrition",
+      "slo": "Identify, explain or apply concepts of nutrition in biochemistry.",
+      "id": "CHEM9CH15-210"
+    },
+    {
+      "q": "Which of the following is a macronutrient??",
+      "o": [
+        "Vitamin A",
+        "Vitamin C",
+        "Iodine",
+        "Protein"
+      ],
+      "a": 3,
+      "e": "Protein is needed in relatively large dietary amounts.",
+      "d": "Medium",
+      "topic": "Nutrition",
+      "slo": "Identify, explain or apply concepts of nutrition in biochemistry.",
+      "id": "CHEM9CH15-211"
+    },
+    {
+      "q": "Select the correct answer: which of the following is a macronutrient??",
+      "o": [
+        "Vitamin A",
+        "Vitamin C",
+        "Iodine",
+        "Protein"
+      ],
+      "a": 3,
+      "e": "Protein is needed in relatively large dietary amounts.",
+      "d": "Easy",
+      "topic": "Nutrition",
+      "slo": "Identify, explain or apply concepts of nutrition in biochemistry.",
+      "id": "CHEM9CH15-212"
+    },
+    {
+      "q": "In a biochemistry lesson, a student is asked: which of the following is a macronutrient??",
+      "o": [
+        "Protein",
+        "Iodine",
+        "Vitamin C",
+        "Vitamin A"
+      ],
+      "a": 0,
+      "e": "Protein is needed in relatively large dietary amounts.",
+      "d": "Medium",
+      "topic": "Nutrition",
+      "slo": "Identify, explain or apply concepts of nutrition in biochemistry.",
+      "id": "CHEM9CH15-213"
+    },
+    {
+      "q": "Which is a major role of dietary fiber??",
+      "o": [
+        "Supporting normal bowel function",
+        "Acting as an enzyme",
+        "Storing genetic code",
+        "Building DNA bases"
+      ],
+      "a": 0,
+      "e": "Fiber helps digestive function and regularity.",
+      "d": "Medium",
+      "topic": "Nutrition",
+      "slo": "Identify, explain or apply concepts of nutrition in biochemistry.",
+      "id": "CHEM9CH15-214"
+    },
+    {
+      "q": "Select the correct answer: which is a major role of dietary fiber??",
+      "o": [
+        "Supporting normal bowel function",
+        "Storing genetic code",
+        "Building DNA bases",
+        "Acting as an enzyme"
+      ],
+      "a": 0,
+      "e": "Fiber helps digestive function and regularity.",
+      "d": "Easy",
+      "topic": "Nutrition",
+      "slo": "Identify, explain or apply concepts of nutrition in biochemistry.",
+      "id": "CHEM9CH15-215"
+    },
+    {
+      "q": "In a biochemistry lesson, a student is asked: which is a major role of dietary fiber??",
+      "o": [
+        "Acting as an enzyme",
+        "Supporting normal bowel function",
+        "Building DNA bases",
+        "Storing genetic code"
+      ],
+      "a": 1,
+      "e": "Fiber helps digestive function and regularity.",
+      "d": "Medium",
+      "topic": "Nutrition",
+      "slo": "Identify, explain or apply concepts of nutrition in biochemistry.",
+      "id": "CHEM9CH15-216"
+    },
+    {
+      "q": "Which body process converts food into simpler absorbable substances??",
+      "o": [
+        "Digestion",
+        "Cracking",
+        "Polymerization only",
+        "Electrolysis"
+      ],
+      "a": 0,
+      "e": "Digestion breaks food into simpler substances for absorption.",
+      "d": "Easy",
+      "topic": "Nutrition",
+      "slo": "Identify, explain or apply concepts of nutrition in biochemistry.",
+      "id": "CHEM9CH15-217"
+    },
+    {
+      "q": "Select the correct answer: which body process converts food into simpler absorbable substances??",
+      "o": [
+        "Electrolysis",
+        "Digestion",
+        "Cracking",
+        "Polymerization only"
+      ],
+      "a": 1,
+      "e": "Digestion breaks food into simpler substances for absorption.",
+      "d": "Easy",
+      "topic": "Nutrition",
+      "slo": "Identify, explain or apply concepts of nutrition in biochemistry.",
+      "id": "CHEM9CH15-218"
+    },
+    {
+      "q": "In a biochemistry lesson, a student is asked: which body process converts food into simpler absorbable substances??",
+      "o": [
+        "Cracking",
+        "Polymerization only",
+        "Digestion",
+        "Electrolysis"
+      ],
+      "a": 2,
+      "e": "Digestion breaks food into simpler substances for absorption.",
+      "d": "Medium",
+      "topic": "Nutrition",
+      "slo": "Identify, explain or apply concepts of nutrition in biochemistry.",
+      "id": "CHEM9CH15-219"
+    },
+    {
+      "q": "Which process releases energy from food in cells??",
+      "o": [
+        "Filtration",
+        "Cellular respiration",
+        "Neutralization",
+        "Chromatography"
+      ],
+      "a": 1,
+      "e": "Cells oxidize fuels to release energy.",
+      "d": "Medium",
+      "topic": "Nutrition",
+      "slo": "Identify, explain or apply concepts of nutrition in biochemistry.",
+      "id": "CHEM9CH15-220"
+    },
+    {
+      "q": "Select the correct answer: which process releases energy from food in cells??",
+      "o": [
+        "Filtration",
+        "Chromatography",
+        "Cellular respiration",
+        "Neutralization"
+      ],
+      "a": 2,
+      "e": "Cells oxidize fuels to release energy.",
+      "d": "Easy",
+      "topic": "Nutrition",
+      "slo": "Identify, explain or apply concepts of nutrition in biochemistry.",
+      "id": "CHEM9CH15-221"
+    },
+    {
+      "q": "In a biochemistry lesson, a student is asked: which process releases energy from food in cells??",
+      "o": [
+        "Filtration",
+        "Neutralization",
+        "Chromatography",
+        "Cellular respiration"
+      ],
+      "a": 3,
+      "e": "Cells oxidize fuels to release energy.",
+      "d": "Medium",
+      "topic": "Nutrition",
+      "slo": "Identify, explain or apply concepts of nutrition in biochemistry.",
+      "id": "CHEM9CH15-222"
+    },
+    {
+      "q": "Which of these is a disaccharide??",
+      "o": [
+        "Glucose",
+        "Maltose",
+        "Fructose",
+        "Cellulose"
+      ],
+      "a": 1,
+      "e": "Maltose is formed from two glucose units.",
+      "d": "Medium",
+      "topic": "Carbohydrate classification",
+      "slo": "Identify, explain or apply concepts of carbohydrate classification in biochemistry.",
+      "id": "CHEM9CH15-223"
+    },
+    {
+      "q": "Select the correct answer: which of these is a disaccharide??",
+      "o": [
+        "Maltose",
+        "Fructose",
+        "Cellulose",
+        "Glucose"
+      ],
+      "a": 0,
+      "e": "Maltose is formed from two glucose units.",
+      "d": "Easy",
+      "topic": "Carbohydrate classification",
+      "slo": "Identify, explain or apply concepts of carbohydrate classification in biochemistry.",
+      "id": "CHEM9CH15-224"
+    },
+    {
+      "q": "In a biochemistry lesson, a student is asked: which of these is a disaccharide??",
+      "o": [
+        "Fructose",
+        "Cellulose",
+        "Maltose",
+        "Glucose"
+      ],
+      "a": 2,
+      "e": "Maltose is formed from two glucose units.",
+      "d": "Medium",
+      "topic": "Carbohydrate classification",
+      "slo": "Identify, explain or apply concepts of carbohydrate classification in biochemistry.",
+      "id": "CHEM9CH15-225"
+    },
+    {
+      "q": "Which of these is a polysaccharide??",
+      "o": [
+        "Glucose",
+        "Lactose",
+        "Glycogen",
+        "Fructose"
+      ],
+      "a": 2,
+      "e": "Glycogen is a branched polymer of glucose.",
+      "d": "Medium",
+      "topic": "Carbohydrate classification",
+      "slo": "Identify, explain or apply concepts of carbohydrate classification in biochemistry.",
+      "id": "CHEM9CH15-226"
+    },
+    {
+      "q": "Select the correct answer: which of these is a polysaccharide??",
+      "o": [
+        "Fructose",
+        "Glycogen",
+        "Glucose",
+        "Lactose"
+      ],
+      "a": 1,
+      "e": "Glycogen is a branched polymer of glucose.",
+      "d": "Easy",
+      "topic": "Carbohydrate classification",
+      "slo": "Identify, explain or apply concepts of carbohydrate classification in biochemistry.",
+      "id": "CHEM9CH15-227"
+    },
+    {
+      "q": "In a biochemistry lesson, a student is asked: which of these is a polysaccharide??",
+      "o": [
+        "Lactose",
+        "Fructose",
+        "Glycogen",
+        "Glucose"
+      ],
+      "a": 2,
+      "e": "Glycogen is a branched polymer of glucose.",
+      "d": "Medium",
+      "topic": "Carbohydrate classification",
+      "slo": "Identify, explain or apply concepts of carbohydrate classification in biochemistry.",
+      "id": "CHEM9CH15-228"
+    },
+    {
+      "q": "Which of these is a monosaccharide??",
+      "o": [
+        "Galactose",
+        "Sucrose",
+        "Starch",
+        "Cellulose"
+      ],
+      "a": 0,
+      "e": "Galactose is a single sugar unit.",
+      "d": "Easy",
+      "topic": "Carbohydrate classification",
+      "slo": "Identify, explain or apply concepts of carbohydrate classification in biochemistry.",
+      "id": "CHEM9CH15-229"
+    },
+    {
+      "q": "Select the correct answer: which of these is a monosaccharide??",
+      "o": [
+        "Starch",
+        "Galactose",
+        "Cellulose",
+        "Sucrose"
+      ],
+      "a": 1,
+      "e": "Galactose is a single sugar unit.",
+      "d": "Easy",
+      "topic": "Carbohydrate classification",
+      "slo": "Identify, explain or apply concepts of carbohydrate classification in biochemistry.",
+      "id": "CHEM9CH15-230"
+    },
+    {
+      "q": "In a biochemistry lesson, a student is asked: which of these is a monosaccharide??",
+      "o": [
+        "Sucrose",
+        "Galactose",
+        "Starch",
+        "Cellulose"
+      ],
+      "a": 1,
+      "e": "Galactose is a single sugar unit.",
+      "d": "Medium",
+      "topic": "Carbohydrate classification",
+      "slo": "Identify, explain or apply concepts of carbohydrate classification in biochemistry.",
+      "id": "CHEM9CH15-231"
+    },
+    {
+      "q": "What is the common molecular formula of glucose??",
+      "o": [
+        "C6H6",
+        "C12H22O11",
+        "CH4",
+        "C6H12O6"
+      ],
+      "a": 3,
+      "e": "Glucose is a hexose with molecular formula C6H12O6.",
+      "d": "Medium",
+      "topic": "Carbohydrates",
+      "slo": "Identify, explain or apply concepts of carbohydrates in biochemistry.",
+      "id": "CHEM9CH15-232"
+    },
+    {
+      "q": "Select the correct answer: what is the common molecular formula of glucose??",
+      "o": [
+        "C6H6",
+        "C6H12O6",
+        "CH4",
+        "C12H22O11"
+      ],
+      "a": 1,
+      "e": "Glucose is a hexose with molecular formula C6H12O6.",
+      "d": "Easy",
+      "topic": "Carbohydrates",
+      "slo": "Identify, explain or apply concepts of carbohydrates in biochemistry.",
+      "id": "CHEM9CH15-233"
+    },
+    {
+      "q": "In a biochemistry lesson, a student is asked: what is the common molecular formula of glucose??",
+      "o": [
+        "C6H12O6",
+        "C12H22O11",
+        "C6H6",
+        "CH4"
+      ],
+      "a": 0,
+      "e": "Glucose is a hexose with molecular formula C6H12O6.",
+      "d": "Medium",
+      "topic": "Carbohydrates",
+      "slo": "Identify, explain or apply concepts of carbohydrates in biochemistry.",
+      "id": "CHEM9CH15-234"
+    },
+    {
+      "q": "What is the molecular formula of sucrose??",
+      "o": [
+        "C2H6O",
+        "CH4",
+        "C6H12O6",
+        "C12H22O11"
+      ],
+      "a": 3,
+      "e": "Sucrose has formula C12H22O11.",
+      "d": "Medium",
+      "topic": "Carbohydrates",
+      "slo": "Identify, explain or apply concepts of carbohydrates in biochemistry.",
+      "id": "CHEM9CH15-235"
+    },
+    {
+      "q": "Select the correct answer: what is the molecular formula of sucrose??",
+      "o": [
+        "C12H22O11",
+        "CH4",
+        "C6H12O6",
+        "C2H6O"
+      ],
+      "a": 0,
+      "e": "Sucrose has formula C12H22O11.",
+      "d": "Easy",
+      "topic": "Carbohydrates",
+      "slo": "Identify, explain or apply concepts of carbohydrates in biochemistry.",
+      "id": "CHEM9CH15-236"
+    },
+    {
+      "q": "In a biochemistry lesson, a student is asked: what is the molecular formula of sucrose??",
+      "o": [
+        "C2H6O",
+        "CH4",
+        "C6H12O6",
+        "C12H22O11"
+      ],
+      "a": 3,
+      "e": "Sucrose has formula C12H22O11.",
+      "d": "Medium",
+      "topic": "Carbohydrates",
+      "slo": "Identify, explain or apply concepts of carbohydrates in biochemistry.",
+      "id": "CHEM9CH15-237"
+    },
+    {
+      "q": "Which nutrient class contains carbon, hydrogen, oxygen and usually nitrogen??",
+      "o": [
+        "Water",
+        "Carbohydrates",
+        "Fats",
+        "Proteins"
+      ],
+      "a": 3,
+      "e": "Proteins contain nitrogen-bearing amino acids.",
+      "d": "Medium",
+      "topic": "Proteins",
+      "slo": "Identify, explain or apply concepts of proteins in biochemistry.",
+      "id": "CHEM9CH15-238"
+    },
+    {
+      "q": "Select the correct answer: which nutrient class contains carbon, hydrogen, oxygen and usually nitrogen??",
+      "o": [
+        "Carbohydrates",
+        "Water",
+        "Proteins",
+        "Fats"
+      ],
+      "a": 2,
+      "e": "Proteins contain nitrogen-bearing amino acids.",
+      "d": "Easy",
+      "topic": "Proteins",
+      "slo": "Identify, explain or apply concepts of proteins in biochemistry.",
+      "id": "CHEM9CH15-239"
+    },
+    {
+      "q": "In a biochemistry lesson, a student is asked: which nutrient class contains carbon, hydrogen, oxygen and usually nitrogen??",
+      "o": [
+        "Carbohydrates",
+        "Proteins",
+        "Water",
+        "Fats"
+      ],
+      "a": 1,
+      "e": "Proteins contain nitrogen-bearing amino acids.",
+      "d": "Medium",
+      "topic": "Proteins",
+      "slo": "Identify, explain or apply concepts of proteins in biochemistry.",
+      "id": "CHEM9CH15-240"
+    },
+    {
+      "q": "Which of these is not a protein??",
+      "o": [
+        "Keratin",
+        "Hemoglobin",
+        "Myosin",
+        "Starch"
+      ],
+      "a": 3,
+      "e": "Starch is a carbohydrate, not a protein.",
+      "d": "Easy",
+      "topic": "Proteins",
+      "slo": "Identify, explain or apply concepts of proteins in biochemistry.",
+      "id": "CHEM9CH15-241"
+    },
+    {
+      "q": "Select the correct answer: which of these is not a protein??",
+      "o": [
+        "Hemoglobin",
+        "Starch",
+        "Keratin",
+        "Myosin"
+      ],
+      "a": 1,
+      "e": "Starch is a carbohydrate, not a protein.",
+      "d": "Easy",
+      "topic": "Proteins",
+      "slo": "Identify, explain or apply concepts of proteins in biochemistry.",
+      "id": "CHEM9CH15-242"
+    },
+    {
+      "q": "In a biochemistry lesson, a student is asked: which of these is not a protein??",
+      "o": [
+        "Keratin",
+        "Hemoglobin",
+        "Myosin",
+        "Starch"
+      ],
+      "a": 3,
+      "e": "Starch is a carbohydrate, not a protein.",
+      "d": "Medium",
+      "topic": "Proteins",
+      "slo": "Identify, explain or apply concepts of proteins in biochemistry.",
+      "id": "CHEM9CH15-243"
+    },
+    {
+      "q": "Which of these is not a lipid??",
+      "o": [
+        "Wax",
+        "Triglyceride",
+        "Cholesterol",
+        "Glucose"
+      ],
+      "a": 3,
+      "e": "Glucose is a carbohydrate.",
+      "d": "Medium",
+      "topic": "Lipids",
+      "slo": "Identify, explain or apply concepts of lipids in biochemistry.",
+      "id": "CHEM9CH15-244"
+    },
+    {
+      "q": "Select the correct answer: which of these is not a lipid??",
+      "o": [
+        "Wax",
+        "Cholesterol",
+        "Glucose",
+        "Triglyceride"
+      ],
+      "a": 2,
+      "e": "Glucose is a carbohydrate.",
+      "d": "Easy",
+      "topic": "Lipids",
+      "slo": "Identify, explain or apply concepts of lipids in biochemistry.",
+      "id": "CHEM9CH15-245"
+    },
+    {
+      "q": "In a biochemistry lesson, a student is asked: which of these is not a lipid??",
+      "o": [
+        "Cholesterol",
+        "Wax",
+        "Triglyceride",
+        "Glucose"
+      ],
+      "a": 3,
+      "e": "Glucose is a carbohydrate.",
+      "d": "Medium",
+      "topic": "Lipids",
+      "slo": "Identify, explain or apply concepts of lipids in biochemistry.",
+      "id": "CHEM9CH15-246"
+    },
+    {
+      "q": "Which of these is not a carbohydrate??",
+      "o": [
+        "Cellulose",
+        "Starch",
+        "Hemoglobin",
+        "Glucose"
+      ],
+      "a": 2,
+      "e": "Hemoglobin is a protein.",
+      "d": "Medium",
+      "topic": "Carbohydrates",
+      "slo": "Identify, explain or apply concepts of carbohydrates in biochemistry.",
+      "id": "CHEM9CH15-247"
+    },
+    {
+      "q": "Select the correct answer: which of these is not a carbohydrate??",
+      "o": [
+        "Starch",
+        "Glucose",
+        "Cellulose",
+        "Hemoglobin"
+      ],
+      "a": 3,
+      "e": "Hemoglobin is a protein.",
+      "d": "Easy",
+      "topic": "Carbohydrates",
+      "slo": "Identify, explain or apply concepts of carbohydrates in biochemistry.",
+      "id": "CHEM9CH15-248"
+    },
+    {
+      "q": "In a biochemistry lesson, a student is asked: which of these is not a carbohydrate??",
+      "o": [
+        "Starch",
+        "Glucose",
+        "Cellulose",
+        "Hemoglobin"
+      ],
+      "a": 3,
+      "e": "Hemoglobin is a protein.",
+      "d": "Medium",
+      "topic": "Carbohydrates",
+      "slo": "Identify, explain or apply concepts of carbohydrates in biochemistry.",
+      "id": "CHEM9CH15-249"
+    },
+    {
+      "q": "Which of these is not a nucleic acid??",
+      "o": [
+        "DNA",
+        "Glycogen",
+        "RNA",
+        "Messenger RNA"
+      ],
+      "a": 1,
+      "e": "Glycogen is a carbohydrate.",
+      "d": "Medium",
+      "topic": "Nucleic acids",
+      "slo": "Identify, explain or apply concepts of nucleic acids in biochemistry.",
+      "id": "CHEM9CH15-250"
+    },
+    {
+      "q": "Select the correct answer: which of these is not a nucleic acid??",
+      "o": [
+        "Messenger RNA",
+        "RNA",
+        "Glycogen",
+        "DNA"
+      ],
+      "a": 2,
+      "e": "Glycogen is a carbohydrate.",
+      "d": "Easy",
+      "topic": "Nucleic acids",
+      "slo": "Identify, explain or apply concepts of nucleic acids in biochemistry.",
+      "id": "CHEM9CH15-251"
+    },
+    {
+      "q": "In a biochemistry lesson, a student is asked: which of these is not a nucleic acid??",
+      "o": [
+        "Messenger RNA",
+        "RNA",
+        "DNA",
+        "Glycogen"
+      ],
+      "a": 3,
+      "e": "Glycogen is a carbohydrate.",
+      "d": "Medium",
+      "topic": "Nucleic acids",
+      "slo": "Identify, explain or apply concepts of nucleic acids in biochemistry.",
+      "id": "CHEM9CH15-252"
+    },
+    {
+      "q": "What is a key function of nucleic acids??",
+      "o": [
+        "Long-term insulation",
+        "Storage and transfer of genetic information",
+        "Providing all dietary calories",
+        "Immediate lubrication"
+      ],
+      "a": 1,
+      "e": "Nucleic acids encode and transmit hereditary information.",
+      "d": "Easy",
+      "topic": "Nucleic acids",
+      "slo": "Identify, explain or apply concepts of nucleic acids in biochemistry.",
+      "id": "CHEM9CH15-253"
+    },
+    {
+      "q": "Select the correct answer: what is a key function of nucleic acids??",
+      "o": [
+        "Storage and transfer of genetic information",
+        "Long-term insulation",
+        "Providing all dietary calories",
+        "Immediate lubrication"
+      ],
+      "a": 0,
+      "e": "Nucleic acids encode and transmit hereditary information.",
+      "d": "Easy",
+      "topic": "Nucleic acids",
+      "slo": "Identify, explain or apply concepts of nucleic acids in biochemistry.",
+      "id": "CHEM9CH15-254"
+    },
+    {
+      "q": "In a biochemistry lesson, a student is asked: what is a key function of nucleic acids??",
+      "o": [
+        "Immediate lubrication",
+        "Providing all dietary calories",
+        "Storage and transfer of genetic information",
+        "Long-term insulation"
+      ],
+      "a": 2,
+      "e": "Nucleic acids encode and transmit hereditary information.",
+      "d": "Medium",
+      "topic": "Nucleic acids",
+      "slo": "Identify, explain or apply concepts of nucleic acids in biochemistry.",
+      "id": "CHEM9CH15-255"
+    },
+    {
+      "q": "What is the chief function of cellulose in plants??",
+      "o": [
+        "Acting as a hormone",
+        "Structural support",
+        "Transporting oxygen",
+        "Carrying genetic information"
+      ],
+      "a": 1,
+      "e": "Cellulose reinforces plant cell walls.",
+      "d": "Medium",
+      "topic": "Carbohydrates",
+      "slo": "Identify, explain or apply concepts of carbohydrates in biochemistry.",
+      "id": "CHEM9CH15-256"
+    },
+    {
+      "q": "Select the correct answer: what is the chief function of cellulose in plants??",
+      "o": [
+        "Acting as a hormone",
+        "Carrying genetic information",
+        "Transporting oxygen",
+        "Structural support"
+      ],
+      "a": 3,
+      "e": "Cellulose reinforces plant cell walls.",
+      "d": "Easy",
+      "topic": "Carbohydrates",
+      "slo": "Identify, explain or apply concepts of carbohydrates in biochemistry.",
+      "id": "CHEM9CH15-257"
+    },
+    {
+      "q": "In a biochemistry lesson, a student is asked: what is the chief function of cellulose in plants??",
+      "o": [
+        "Carrying genetic information",
+        "Transporting oxygen",
+        "Acting as a hormone",
+        "Structural support"
+      ],
+      "a": 3,
+      "e": "Cellulose reinforces plant cell walls.",
+      "d": "Medium",
+      "topic": "Carbohydrates",
+      "slo": "Identify, explain or apply concepts of carbohydrates in biochemistry.",
+      "id": "CHEM9CH15-258"
+    },
+    {
+      "q": "What is a primary function of proteins in living organisms??",
+      "o": [
+        "Only storing water",
+        "Only storing genetic information",
+        "Only providing dietary fiber",
+        "Building tissues and catalyzing reactions"
+      ],
+      "a": 3,
+      "e": "Proteins have structural and catalytic roles.",
+      "d": "Medium",
+      "topic": "Proteins",
+      "slo": "Identify, explain or apply concepts of proteins in biochemistry.",
+      "id": "CHEM9CH15-259"
+    },
+    {
+      "q": "Select the correct answer: what is a primary function of proteins in living organisms??",
+      "o": [
+        "Only storing genetic information",
+        "Only providing dietary fiber",
+        "Only storing water",
+        "Building tissues and catalyzing reactions"
+      ],
+      "a": 3,
+      "e": "Proteins have structural and catalytic roles.",
+      "d": "Easy",
+      "topic": "Proteins",
+      "slo": "Identify, explain or apply concepts of proteins in biochemistry.",
+      "id": "CHEM9CH15-260"
+    },
+    {
+      "q": "In a biochemistry lesson, a student is asked: what is a primary function of proteins in living organisms??",
+      "o": [
+        "Only providing dietary fiber",
+        "Only storing genetic information",
+        "Only storing water",
+        "Building tissues and catalyzing reactions"
+      ],
+      "a": 3,
+      "e": "Proteins have structural and catalytic roles.",
+      "d": "Medium",
+      "topic": "Proteins",
+      "slo": "Identify, explain or apply concepts of proteins in biochemistry.",
+      "id": "CHEM9CH15-261"
+    },
+    {
+      "q": "What is a major role of lipids in cell membranes??",
+      "o": [
+        "Encoding hereditary sequence",
+        "Forming starch granules",
+        "Making cellulose",
+        "Forming a protective barrier"
+      ],
+      "a": 3,
+      "e": "Phospholipids form the basis of cell membranes.",
+      "d": "Medium",
+      "topic": "Lipids",
+      "slo": "Identify, explain or apply concepts of lipids in biochemistry.",
+      "id": "CHEM9CH15-262"
+    },
+    {
+      "q": "Select the correct answer: what is a major role of lipids in cell membranes??",
+      "o": [
+        "Making cellulose",
+        "Forming a protective barrier",
+        "Encoding hereditary sequence",
+        "Forming starch granules"
+      ],
+      "a": 1,
+      "e": "Phospholipids form the basis of cell membranes.",
+      "d": "Easy",
+      "topic": "Lipids",
+      "slo": "Identify, explain or apply concepts of lipids in biochemistry.",
+      "id": "CHEM9CH15-263"
+    },
+    {
+      "q": "In a biochemistry lesson, a student is asked: what is a major role of lipids in cell membranes??",
+      "o": [
+        "Forming starch granules",
+        "Making cellulose",
+        "Forming a protective barrier",
+        "Encoding hereditary sequence"
+      ],
+      "a": 2,
+      "e": "Phospholipids form the basis of cell membranes.",
+      "d": "Medium",
+      "topic": "Lipids",
+      "slo": "Identify, explain or apply concepts of lipids in biochemistry.",
+      "id": "CHEM9CH15-264"
+    },
+    {
+      "q": "Which of these foods commonly supplies both fats and proteins??",
+      "o": [
+        "Distilled water",
+        "Nuts",
+        "Refined sugar",
+        "Table salt"
+      ],
+      "a": 1,
+      "e": "Nuts contain oils and proteins.",
+      "d": "Easy",
+      "topic": "Food sources",
+      "slo": "Identify, explain or apply concepts of food sources in biochemistry.",
+      "id": "CHEM9CH15-265"
+    },
+    {
+      "q": "Select the correct answer: which of these foods commonly supplies both fats and proteins??",
+      "o": [
+        "Refined sugar",
+        "Table salt",
+        "Nuts",
+        "Distilled water"
+      ],
+      "a": 2,
+      "e": "Nuts contain oils and proteins.",
+      "d": "Easy",
+      "topic": "Food sources",
+      "slo": "Identify, explain or apply concepts of food sources in biochemistry.",
+      "id": "CHEM9CH15-266"
+    },
+    {
+      "q": "In a biochemistry lesson, a student is asked: which of these foods commonly supplies both fats and proteins??",
+      "o": [
+        "Nuts",
+        "Refined sugar",
+        "Distilled water",
+        "Table salt"
+      ],
+      "a": 0,
+      "e": "Nuts contain oils and proteins.",
+      "d": "Medium",
+      "topic": "Food sources",
+      "slo": "Identify, explain or apply concepts of food sources in biochemistry.",
+      "id": "CHEM9CH15-267"
+    },
+    {
+      "q": "Which condition is associated with long-term severe lack of dietary energy??",
+      "o": [
+        "Undernutrition",
+        "Hydrogenation",
+        "Fermentation",
+        "Neutralization"
+      ],
+      "a": 0,
+      "e": "Persistent insufficient energy intake leads to undernutrition.",
+      "d": "Medium",
+      "topic": "Nutrient deficiency",
+      "slo": "Identify, explain or apply concepts of nutrient deficiency in biochemistry.",
+      "id": "CHEM9CH15-268"
+    },
+    {
+      "q": "Select the correct answer: which condition is associated with long-term severe lack of dietary energy??",
+      "o": [
+        "Fermentation",
+        "Undernutrition",
+        "Hydrogenation",
+        "Neutralization"
+      ],
+      "a": 1,
+      "e": "Persistent insufficient energy intake leads to undernutrition.",
+      "d": "Easy",
+      "topic": "Nutrient deficiency",
+      "slo": "Identify, explain or apply concepts of nutrient deficiency in biochemistry.",
+      "id": "CHEM9CH15-269"
+    },
+    {
+      "q": "In a biochemistry lesson, a student is asked: which condition is associated with long-term severe lack of dietary energy??",
+      "o": [
+        "Fermentation",
+        "Neutralization",
+        "Hydrogenation",
+        "Undernutrition"
+      ],
+      "a": 3,
+      "e": "Persistent insufficient energy intake leads to undernutrition.",
+      "d": "Medium",
+      "topic": "Nutrient deficiency",
+      "slo": "Identify, explain or apply concepts of nutrient deficiency in biochemistry.",
+      "id": "CHEM9CH15-270"
+    },
+    {
+      "q": "Which food group is commonly a source of calcium??",
+      "o": [
+        "Distilled water",
+        "Pure vegetable oil",
+        "Refined sugar",
+        "Milk and dairy products"
+      ],
+      "a": 3,
+      "e": "Dairy foods commonly provide calcium.",
+      "d": "Medium",
+      "topic": "Food sources",
+      "slo": "Identify, explain or apply concepts of food sources in biochemistry.",
+      "id": "CHEM9CH15-271"
+    },
+    {
+      "q": "Select the correct answer: which food group is commonly a source of calcium??",
+      "o": [
+        "Refined sugar",
+        "Distilled water",
+        "Milk and dairy products",
+        "Pure vegetable oil"
+      ],
+      "a": 2,
+      "e": "Dairy foods commonly provide calcium.",
+      "d": "Easy",
+      "topic": "Food sources",
+      "slo": "Identify, explain or apply concepts of food sources in biochemistry.",
+      "id": "CHEM9CH15-272"
+    },
+    {
+      "q": "In a biochemistry lesson, a student is asked: which food group is commonly a source of calcium??",
+      "o": [
+        "Pure vegetable oil",
+        "Milk and dairy products",
+        "Refined sugar",
+        "Distilled water"
+      ],
+      "a": 1,
+      "e": "Dairy foods commonly provide calcium.",
+      "d": "Medium",
+      "topic": "Food sources",
+      "slo": "Identify, explain or apply concepts of food sources in biochemistry.",
+      "id": "CHEM9CH15-273"
+    },
+    {
+      "q": "Which dietary mineral is important for strong bones and teeth??",
+      "o": [
+        "Chlorine gas",
+        "Lead",
+        "Calcium",
+        "Mercury"
+      ],
+      "a": 2,
+      "e": "Calcium is needed for bone mineralization.",
+      "d": "Medium",
+      "topic": "Nutrition",
+      "slo": "Identify, explain or apply concepts of nutrition in biochemistry.",
+      "id": "CHEM9CH15-274"
+    },
+    {
+      "q": "Select the correct answer: which dietary mineral is important for strong bones and teeth??",
+      "o": [
+        "Lead",
+        "Chlorine gas",
+        "Calcium",
+        "Mercury"
+      ],
+      "a": 2,
+      "e": "Calcium is needed for bone mineralization.",
+      "d": "Easy",
+      "topic": "Nutrition",
+      "slo": "Identify, explain or apply concepts of nutrition in biochemistry.",
+      "id": "CHEM9CH15-275"
+    },
+    {
+      "q": "In a biochemistry lesson, a student is asked: which dietary mineral is important for strong bones and teeth??",
+      "o": [
+        "Calcium",
+        "Mercury",
+        "Lead",
+        "Chlorine gas"
+      ],
+      "a": 0,
+      "e": "Calcium is needed for bone mineralization.",
+      "d": "Medium",
+      "topic": "Nutrition",
+      "slo": "Identify, explain or apply concepts of nutrition in biochemistry.",
+      "id": "CHEM9CH15-276"
+    },
+    {
+      "q": "Which molecule is an example of a carbohydrate rather than a lipid??",
+      "o": [
+        "Triglyceride",
+        "Cholesterol",
+        "Sucrose",
+        "Wax"
+      ],
+      "a": 2,
+      "e": "Sucrose is a disaccharide.",
+      "d": "Easy",
+      "topic": "Carbohydrates",
+      "slo": "Identify, explain or apply concepts of carbohydrates in biochemistry.",
+      "id": "CHEM9CH15-277"
+    },
+    {
+      "q": "Select the correct answer: which molecule is an example of a carbohydrate rather than a lipid??",
+      "o": [
+        "Sucrose",
+        "Wax",
+        "Cholesterol",
+        "Triglyceride"
+      ],
+      "a": 0,
+      "e": "Sucrose is a disaccharide.",
+      "d": "Easy",
+      "topic": "Carbohydrates",
+      "slo": "Identify, explain or apply concepts of carbohydrates in biochemistry.",
+      "id": "CHEM9CH15-278"
+    },
+    {
+      "q": "In a biochemistry lesson, a student is asked: which molecule is an example of a carbohydrate rather than a lipid??",
+      "o": [
+        "Triglyceride",
+        "Sucrose",
+        "Wax",
+        "Cholesterol"
+      ],
+      "a": 1,
+      "e": "Sucrose is a disaccharide.",
+      "d": "Medium",
+      "topic": "Carbohydrates",
+      "slo": "Identify, explain or apply concepts of carbohydrates in biochemistry.",
+      "id": "CHEM9CH15-279"
+    },
+    {
+      "q": "Which molecule is an example of a lipid rather than a carbohydrate??",
+      "o": [
+        "Glucose",
+        "Triglyceride",
+        "Starch",
+        "Glycogen"
+      ],
+      "a": 1,
+      "e": "Triglycerides are fats and oils.",
+      "d": "Medium",
+      "topic": "Lipids",
+      "slo": "Identify, explain or apply concepts of lipids in biochemistry.",
+      "id": "CHEM9CH15-280"
+    },
+    {
+      "q": "Select the correct answer: which molecule is an example of a lipid rather than a carbohydrate??",
+      "o": [
+        "Glucose",
+        "Triglyceride",
+        "Starch",
+        "Glycogen"
+      ],
+      "a": 1,
+      "e": "Triglycerides are fats and oils.",
+      "d": "Easy",
+      "topic": "Lipids",
+      "slo": "Identify, explain or apply concepts of lipids in biochemistry.",
+      "id": "CHEM9CH15-281"
+    },
+    {
+      "q": "In a biochemistry lesson, a student is asked: which molecule is an example of a lipid rather than a carbohydrate??",
+      "o": [
+        "Glycogen",
+        "Triglyceride",
+        "Starch",
+        "Glucose"
+      ],
+      "a": 1,
+      "e": "Triglycerides are fats and oils.",
+      "d": "Medium",
+      "topic": "Lipids",
+      "slo": "Identify, explain or apply concepts of lipids in biochemistry.",
+      "id": "CHEM9CH15-282"
+    },
+    {
+      "q": "Which molecule is an example of a protein rather than a nucleic acid??",
+      "o": [
+        "DNA",
+        "Messenger RNA",
+        "Hemoglobin",
+        "RNA"
+      ],
+      "a": 2,
+      "e": "Hemoglobin is an oxygen-carrying protein.",
+      "d": "Medium",
+      "topic": "Proteins",
+      "slo": "Identify, explain or apply concepts of proteins in biochemistry.",
+      "id": "CHEM9CH15-283"
+    },
+    {
+      "q": "Select the correct answer: which molecule is an example of a protein rather than a nucleic acid??",
+      "o": [
+        "Messenger RNA",
+        "Hemoglobin",
+        "RNA",
+        "DNA"
+      ],
+      "a": 1,
+      "e": "Hemoglobin is an oxygen-carrying protein.",
+      "d": "Easy",
+      "topic": "Proteins",
+      "slo": "Identify, explain or apply concepts of proteins in biochemistry.",
+      "id": "CHEM9CH15-284"
+    },
+    {
+      "q": "In a biochemistry lesson, a student is asked: which molecule is an example of a protein rather than a nucleic acid??",
+      "o": [
+        "DNA",
+        "RNA",
+        "Hemoglobin",
+        "Messenger RNA"
+      ],
+      "a": 2,
+      "e": "Hemoglobin is an oxygen-carrying protein.",
+      "d": "Medium",
+      "topic": "Proteins",
+      "slo": "Identify, explain or apply concepts of proteins in biochemistry.",
+      "id": "CHEM9CH15-285"
+    },
+    {
+      "q": "Which molecule is an example of a nucleic acid rather than a protein??",
+      "o": [
+        "Hemoglobin",
+        "RNA",
+        "Myosin",
+        "Keratin"
+      ],
+      "a": 1,
+      "e": "RNA is a nucleic acid.",
+      "d": "Medium",
+      "topic": "Nucleic acids",
+      "slo": "Identify, explain or apply concepts of nucleic acids in biochemistry.",
+      "id": "CHEM9CH15-286"
+    },
+    {
+      "q": "Select the correct answer: which molecule is an example of a nucleic acid rather than a protein??",
+      "o": [
+        "Hemoglobin",
+        "RNA",
+        "Keratin",
+        "Myosin"
+      ],
+      "a": 1,
+      "e": "RNA is a nucleic acid.",
+      "d": "Easy",
+      "topic": "Nucleic acids",
+      "slo": "Identify, explain or apply concepts of nucleic acids in biochemistry.",
+      "id": "CHEM9CH15-287"
+    },
+    {
+      "q": "In a biochemistry lesson, a student is asked: which molecule is an example of a nucleic acid rather than a protein??",
+      "o": [
+        "RNA",
+        "Keratin",
+        "Hemoglobin",
+        "Myosin"
+      ],
+      "a": 0,
+      "e": "RNA is a nucleic acid.",
+      "d": "Medium",
+      "topic": "Nucleic acids",
+      "slo": "Identify, explain or apply concepts of nucleic acids in biochemistry.",
+      "id": "CHEM9CH15-288"
+    },
+    {
+      "q": "What do carbohydrates, lipids, proteins and nucleic acids have in common??",
+      "o": [
+        "All contain the same nitrogen content",
+        "They are major biological molecules",
+        "All dissolve readily in water",
+        "All are monosaccharides"
+      ],
+      "a": 1,
+      "e": "These are important classes of biomolecules.",
+      "d": "Easy",
+      "topic": "Biomolecules",
+      "slo": "Identify, explain or apply concepts of biomolecules in biochemistry.",
+      "id": "CHEM9CH15-289"
+    },
+    {
+      "q": "Select the correct answer: what do carbohydrates, lipids, proteins and nucleic acids have in common??",
+      "o": [
+        "They are major biological molecules",
+        "All dissolve readily in water",
+        "All are monosaccharides",
+        "All contain the same nitrogen content"
+      ],
+      "a": 0,
+      "e": "These are important classes of biomolecules.",
+      "d": "Easy",
+      "topic": "Biomolecules",
+      "slo": "Identify, explain or apply concepts of biomolecules in biochemistry.",
+      "id": "CHEM9CH15-290"
+    },
+    {
+      "q": "In a biochemistry lesson, a student is asked: what do carbohydrates, lipids, proteins and nucleic acids have in common??",
+      "o": [
+        "All contain the same nitrogen content",
+        "They are major biological molecules",
+        "All are monosaccharides",
+        "All dissolve readily in water"
+      ],
+      "a": 1,
+      "e": "These are important classes of biomolecules.",
+      "d": "Medium",
+      "topic": "Biomolecules",
+      "slo": "Identify, explain or apply concepts of biomolecules in biochemistry.",
+      "id": "CHEM9CH15-291"
+    },
+    {
+      "q": "Why are proteins described as polymers??",
+      "o": [
+        "They are made of metal ions",
+        "They have no covalent bonds",
+        "They contain repeated amino acid units",
+        "They consist only of one atom"
+      ],
+      "a": 2,
+      "e": "A protein is a polymer of amino acids.",
+      "d": "Medium",
+      "topic": "Proteins",
+      "slo": "Identify, explain or apply concepts of proteins in biochemistry.",
+      "id": "CHEM9CH15-292"
+    },
+    {
+      "q": "Select the correct answer: why are proteins described as polymers??",
+      "o": [
+        "They have no covalent bonds",
+        "They consist only of one atom",
+        "They are made of metal ions",
+        "They contain repeated amino acid units"
+      ],
+      "a": 3,
+      "e": "A protein is a polymer of amino acids.",
+      "d": "Easy",
+      "topic": "Proteins",
+      "slo": "Identify, explain or apply concepts of proteins in biochemistry.",
+      "id": "CHEM9CH15-293"
+    },
+    {
+      "q": "In a biochemistry lesson, a student is asked: why are proteins described as polymers??",
+      "o": [
+        "They have no covalent bonds",
+        "They consist only of one atom",
+        "They contain repeated amino acid units",
+        "They are made of metal ions"
+      ],
+      "a": 2,
+      "e": "A protein is a polymer of amino acids.",
+      "d": "Medium",
+      "topic": "Proteins",
+      "slo": "Identify, explain or apply concepts of proteins in biochemistry.",
+      "id": "CHEM9CH15-294"
+    },
+    {
+      "q": "Why is starch described as a polysaccharide??",
+      "o": [
+        "It is a single nucleotide",
+        "It is made from fatty acids",
+        "It consists of one sugar unit",
+        "It contains many linked glucose units"
+      ],
+      "a": 3,
+      "e": "Starch contains chains of glucose residues.",
+      "d": "Medium",
+      "topic": "Carbohydrates",
+      "slo": "Identify, explain or apply concepts of carbohydrates in biochemistry.",
+      "id": "CHEM9CH15-295"
+    },
+    {
+      "q": "Select the correct answer: why is starch described as a polysaccharide??",
+      "o": [
+        "It is made from fatty acids",
+        "It consists of one sugar unit",
+        "It contains many linked glucose units",
+        "It is a single nucleotide"
+      ],
+      "a": 2,
+      "e": "Starch contains chains of glucose residues.",
+      "d": "Easy",
+      "topic": "Carbohydrates",
+      "slo": "Identify, explain or apply concepts of carbohydrates in biochemistry.",
+      "id": "CHEM9CH15-296"
+    },
+    {
+      "q": "In a biochemistry lesson, a student is asked: why is starch described as a polysaccharide??",
+      "o": [
+        "It consists of one sugar unit",
+        "It contains many linked glucose units",
+        "It is a single nucleotide",
+        "It is made from fatty acids"
+      ],
+      "a": 1,
+      "e": "Starch contains chains of glucose residues.",
+      "d": "Medium",
+      "topic": "Carbohydrates",
+      "slo": "Identify, explain or apply concepts of carbohydrates in biochemistry.",
+      "id": "CHEM9CH15-297"
+    },
+    {
+      "q": "What is the role of DNA during cell division??",
+      "o": [
+        "Storing calcium ions",
+        "Passing genetic information to daughter cells",
+        "Digesting starch directly",
+        "Producing dietary fat"
+      ],
+      "a": 1,
+      "e": "DNA is copied and inherited by new cells.",
+      "d": "Medium",
+      "topic": "Nucleic acids",
+      "slo": "Identify, explain or apply concepts of nucleic acids in biochemistry.",
+      "id": "CHEM9CH15-298"
+    },
+    {
+      "q": "Select the correct answer: what is the role of DNA during cell division??",
+      "o": [
+        "Producing dietary fat",
+        "Storing calcium ions",
+        "Digesting starch directly",
+        "Passing genetic information to daughter cells"
+      ],
+      "a": 3,
+      "e": "DNA is copied and inherited by new cells.",
+      "d": "Easy",
+      "topic": "Nucleic acids",
+      "slo": "Identify, explain or apply concepts of nucleic acids in biochemistry.",
+      "id": "CHEM9CH15-299"
+    },
+    {
+      "q": "In a biochemistry lesson, a student is asked: what is the role of DNA during cell division??",
+      "o": [
+        "Producing dietary fat",
+        "Digesting starch directly",
+        "Passing genetic information to daughter cells",
+        "Storing calcium ions"
+      ],
+      "a": 2,
+      "e": "DNA is copied and inherited by new cells.",
+      "d": "Medium",
+      "topic": "Nucleic acids",
+      "slo": "Identify, explain or apply concepts of nucleic acids in biochemistry.",
+      "id": "CHEM9CH15-300"
+    }
+  ]
+}

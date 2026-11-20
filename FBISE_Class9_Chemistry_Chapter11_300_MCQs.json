@@ -1,0 +1,4504 @@
+{
+  "questions": [
+    {
+      "id": "CHEM9CH11-001",
+      "q": "Choose the correct answer: which energy source produces electricity without combustion at the point of generation?",
+      "o": [
+        "Diesel generators",
+        "Gas turbines",
+        "Coal-fired boilers",
+        "Solar photovoltaic panels"
+      ],
+      "a": 3,
+      "e": "Solar PV converts sunlight directly into electricity.",
+      "d": "Medium",
+      "topic": "Pollution prevention",
+      "slo": "Identify, explain or apply the concept of pollution prevention."
+    },
+    {
+      "id": "CHEM9CH11-002",
+      "q": "Approximately what percentage of dry air is oxygen?",
+      "o": [
+        "78%",
+        "0.04%",
+        "21%",
+        "50%"
+      ],
+      "a": 2,
+      "e": "Oxygen accounts for about 21% of dry air by volume.",
+      "d": "Easy",
+      "topic": "Composition of air",
+      "slo": "Identify, explain or apply the concept of composition of air."
+    },
+    {
+      "id": "CHEM9CH11-003",
+      "q": "Choose the correct answer: which source is associated with industrial air pollution?",
+      "o": [
+        "Moonlight",
+        "Factory emissions",
+        "Photosynthesis alone",
+        "Formation of rainbows"
+      ],
+      "a": 1,
+      "e": "Factories may emit pollutants during industrial processes.",
+      "d": "Medium",
+      "topic": "Air pollution",
+      "slo": "Identify, explain or apply the concept of air pollution."
+    },
+    {
+      "id": "CHEM9CH11-004",
+      "q": "Choose the correct answer: which activity commonly releases several air pollutants?",
+      "o": [
+        "Condensation of water vapour",
+        "Burning fossil fuels",
+        "Freezing of water",
+        "Dissolving salt in water"
+      ],
+      "a": 1,
+      "e": "Fuel combustion releases gases and sometimes particulate matter.",
+      "d": "Medium",
+      "topic": "Air pollution",
+      "slo": "Identify, explain or apply the concept of air pollution."
+    },
+    {
+      "id": "CHEM9CH11-005",
+      "q": "Which pollutant is commonly written NO2?",
+      "o": [
+        "Nitrogen dioxide",
+        "Carbon dioxide",
+        "Nitrogen monoxide",
+        "Sulfur dioxide"
+      ],
+      "a": 0,
+      "e": "NO2 is nitrogen dioxide.",
+      "d": "Easy",
+      "topic": "Air pollution",
+      "slo": "Identify, explain or apply the concept of air pollution."
+    },
+    {
+      "id": "CHEM9CH11-006",
+      "q": "Which consequence is associated with melting land ice and warmer oceans?",
+      "o": [
+        "Rising sea level",
+        "Increasing atmospheric argon",
+        "Elimination of evaporation",
+        "Falling ocean mass to zero"
+      ],
+      "a": 0,
+      "e": "Land ice melt and thermal expansion contribute to sea-level rise.",
+      "d": "Easy",
+      "topic": "Global warming",
+      "slo": "Identify, explain or apply the concept of global warming."
+    },
+    {
+      "id": "CHEM9CH11-007",
+      "q": "Choose the correct answer: which gas in air is needed for aerobic respiration?",
+      "o": [
+        "Neon",
+        "Oxygen",
+        "Nitrogen",
+        "Argon"
+      ],
+      "a": 1,
+      "e": "Aerobic respiration consumes oxygen.",
+      "d": "Medium",
+      "topic": "Composition of air",
+      "slo": "Identify, explain or apply the concept of composition of air."
+    },
+    {
+      "id": "CHEM9CH11-008",
+      "q": "What is global warming?",
+      "o": [
+        "Long-term rise in Earth's average surface temperature",
+        "Daily changes in wind direction",
+        "Annual rotation of Earth",
+        "Formation of clouds alone"
+      ],
+      "a": 0,
+      "e": "Global warming refers to a long-term increase in average temperature.",
+      "d": "Easy",
+      "topic": "Global warming",
+      "slo": "Identify, explain or apply the concept of global warming."
+    },
+    {
+      "id": "CHEM9CH11-009",
+      "q": "Choose the correct answer: which harmful emissions are reduced by a functioning three-way catalytic converter?",
+      "o": [
+        "Oxygen, nitrogen and water vapour only",
+        "Pure nitrogen alone",
+        "CO, NOx and unburned hydrocarbons",
+        "Argon, helium and neon"
+      ],
+      "a": 2,
+      "e": "Three-way catalysts reduce major harmful vehicle emissions.",
+      "d": "Medium",
+      "topic": "Pollution prevention",
+      "slo": "Identify, explain or apply the concept of pollution prevention."
+    },
+    {
+      "id": "CHEM9CH11-010",
+      "q": "Choose the correct answer: which conditions can trap pollutants near the ground?",
+      "o": [
+        "Complete absence of emissions",
+        "Temperature inversion",
+        "Continuous heavy ventilation",
+        "Strong vertical mixing"
+      ],
+      "a": 1,
+      "e": "An inversion restricts upward air mixing and traps pollutants.",
+      "d": "Medium",
+      "topic": "Air pollution",
+      "slo": "Identify, explain or apply the concept of air pollution."
+    },
+    {
+      "id": "CHEM9CH11-011",
+      "q": "What is a secondary pollutant?",
+      "o": [
+        "A pollutant emitted directly from a chimney",
+        "A pollutant formed by reactions in the atmosphere",
+        "Pure nitrogen",
+        "Argon from the atmosphere"
+      ],
+      "a": 1,
+      "e": "Secondary pollutants form from atmospheric chemical reactions.",
+      "d": "Easy",
+      "topic": "Air pollution",
+      "slo": "Identify, explain or apply the concept of air pollution."
+    },
+    {
+      "id": "CHEM9CH11-012",
+      "q": "Which colourless poisonous gas may be released by faulty heaters?",
+      "o": [
+        "Carbon monoxide",
+        "Nitrogen",
+        "Argon",
+        "Neon"
+      ],
+      "a": 0,
+      "e": "Faulty fuel-burning appliances may produce carbon monoxide.",
+      "d": "Easy",
+      "topic": "Air pollution",
+      "slo": "Identify, explain or apply the concept of air pollution."
+    },
+    {
+      "id": "CHEM9CH11-013",
+      "q": "Choose the correct answer: which colourless poisonous gas may be released by faulty heaters?",
+      "o": [
+        "Carbon monoxide",
+        "Argon",
+        "Neon",
+        "Nitrogen"
+      ],
+      "a": 0,
+      "e": "Faulty fuel-burning appliances may produce carbon monoxide.",
+      "d": "Medium",
+      "topic": "Air pollution",
+      "slo": "Identify, explain or apply the concept of air pollution."
+    },
+    {
+      "id": "CHEM9CH11-014",
+      "q": "Choose the correct answer: why are statues made of limestone vulnerable to acid rain?",
+      "o": [
+        "Limestone contains no reactive minerals",
+        "Acid converts limestone into gold",
+        "Acid adds permanent protective layers",
+        "Acid reacts with calcium carbonate"
+      ],
+      "a": 3,
+      "e": "Acidic water chemically attacks calcium carbonate.",
+      "d": "Medium",
+      "topic": "Acid rain",
+      "slo": "Identify, explain or apply the concept of acid rain."
+    },
+    {
+      "id": "CHEM9CH11-015",
+      "q": "Choose the correct answer: which consequence is associated with melting land ice and warmer oceans?",
+      "o": [
+        "Elimination of evaporation",
+        "Falling ocean mass to zero",
+        "Increasing atmospheric argon",
+        "Rising sea level"
+      ],
+      "a": 3,
+      "e": "Land ice melt and thermal expansion contribute to sea-level rise.",
+      "d": "Medium",
+      "topic": "Global warming",
+      "slo": "Identify, explain or apply the concept of global warming."
+    },
+    {
+      "id": "CHEM9CH11-016",
+      "q": "Choose the correct answer: which practice conserves energy and reduces associated air pollution?",
+      "o": [
+        "Switching off unused electrical devices",
+        "Running generators without need",
+        "Leaving lights on unnecessarily",
+        "Using inefficient equipment"
+      ],
+      "a": 0,
+      "e": "Lower electricity demand can reduce fuel combustion upstream.",
+      "d": "Medium",
+      "topic": "Pollution prevention",
+      "slo": "Identify, explain or apply the concept of pollution prevention."
+    },
+    {
+      "id": "CHEM9CH11-017",
+      "q": "Class 9 environmental chemistry check: which source is associated with industrial air pollution?",
+      "o": [
+        "Photosynthesis alone",
+        "Factory emissions",
+        "Formation of rainbows",
+        "Moonlight"
+      ],
+      "a": 1,
+      "e": "Factories may emit pollutants during industrial processes.",
+      "d": "Medium",
+      "topic": "Air pollution",
+      "slo": "Identify, explain or apply the concept of air pollution."
+    },
+    {
+      "id": "CHEM9CH11-018",
+      "q": "Choose the correct answer: what is a primary pollutant?",
+      "o": [
+        "A gas found only in the stratosphere",
+        "A pollutant emitted directly from a source",
+        "A harmless atmospheric gas",
+        "A pollutant formed only after atmospheric reaction"
+      ],
+      "a": 1,
+      "e": "Primary pollutants enter the air directly from sources.",
+      "d": "Medium",
+      "topic": "Air pollution",
+      "slo": "Identify, explain or apply the concept of air pollution."
+    },
+    {
+      "id": "CHEM9CH11-019",
+      "q": "Class 9 environmental chemistry check: what is air pollution?",
+      "o": [
+        "Natural movement of wind",
+        "Increase in atmospheric nitrogen alone",
+        "Formation of dew",
+        "Presence of harmful substances in air"
+      ],
+      "a": 3,
+      "e": "Air pollution occurs when contaminants harm health or the environment.",
+      "d": "Medium",
+      "topic": "Air pollution",
+      "slo": "Identify, explain or apply the concept of air pollution."
+    },
+    {
+      "id": "CHEM9CH11-020",
+      "q": "Choose the correct answer: which acid can form from oxidized sulfur dioxide in the atmosphere?",
+      "o": [
+        "Acetic acid",
+        "Sulfuric acid",
+        "Hydrochloric acid",
+        "Carbonic acid only"
+      ],
+      "a": 1,
+      "e": "Oxidation and hydration of sulfur oxides can produce sulfuric acid.",
+      "d": "Medium",
+      "topic": "Acid rain",
+      "slo": "Identify, explain or apply the concept of acid rain."
+    },
+    {
+      "id": "CHEM9CH11-021",
+      "q": "Choose the correct answer: which action reduces household energy-related emissions?",
+      "o": [
+        "Leaving inefficient devices running",
+        "Increasing unnecessary travel",
+        "Improving energy efficiency",
+        "Burning more coal"
+      ],
+      "a": 2,
+      "e": "Energy efficiency lowers fuel and electricity demand.",
+      "d": "Medium",
+      "topic": "Global warming",
+      "slo": "Identify, explain or apply the concept of global warming."
+    },
+    {
+      "id": "CHEM9CH11-022",
+      "q": "Which pollutant is commonly written SO3?",
+      "o": [
+        "Nitrogen trioxide",
+        "Carbon dioxide",
+        "Sulfur dioxide",
+        "Sulfur trioxide"
+      ],
+      "a": 3,
+      "e": "SO3 is sulfur trioxide.",
+      "d": "Easy",
+      "topic": "Air pollution",
+      "slo": "Identify, explain or apply the concept of air pollution."
+    },
+    {
+      "id": "CHEM9CH11-023",
+      "q": "Choose the correct answer: why is carbon monoxide particularly dangerous indoors?",
+      "o": [
+        "It increases oxygen delivery",
+        "It is poisonous and may accumulate unnoticed",
+        "It always has a strong smell",
+        "It is a noble gas"
+      ],
+      "a": 1,
+      "e": "Carbon monoxide is colourless and odourless and interferes with oxygen transport.",
+      "d": "Medium",
+      "topic": "Air pollution",
+      "slo": "Identify, explain or apply the concept of air pollution."
+    },
+    {
+      "id": "CHEM9CH11-024",
+      "q": "Class 9 environmental chemistry check: which source is linked to airborne pollen?",
+      "o": [
+        "Flowering plants",
+        "Steel furnaces",
+        "Coal boilers",
+        "Petrol engines"
+      ],
+      "a": 0,
+      "e": "Flowering plants release pollen into the air.",
+      "d": "Medium",
+      "topic": "Air pollution",
+      "slo": "Identify, explain or apply the concept of air pollution."
+    },
+    {
+      "id": "CHEM9CH11-025",
+      "q": "Which consequence is associated with global warming?",
+      "o": [
+        "Conversion of oxygen to argon",
+        "Melting glaciers",
+        "Permanent disappearance of the water cycle",
+        "No change in sea level"
+      ],
+      "a": 1,
+      "e": "Warming can accelerate glacier and ice melting.",
+      "d": "Easy",
+      "topic": "Global warming",
+      "slo": "Identify, explain or apply the concept of global warming."
+    },
+    {
+      "id": "CHEM9CH11-026",
+      "q": "Class 9 environmental chemistry check: which gas makes up about 0.04% of dry air?",
+      "o": [
+        "Carbon dioxide",
+        "Argon",
+        "Oxygen",
+        "Nitrogen"
+      ],
+      "a": 0,
+      "e": "Carbon dioxide is a trace gas in the atmosphere.",
+      "d": "Medium",
+      "topic": "Composition of air",
+      "slo": "Identify, explain or apply the concept of composition of air."
+    },
+    {
+      "id": "CHEM9CH11-027",
+      "q": "Choose the correct answer: which is a potent greenhouse gas emitted from some agricultural activities?",
+      "o": [
+        "Argon",
+        "Methane",
+        "Neon",
+        "Helium"
+      ],
+      "a": 1,
+      "e": "Methane is an important greenhouse gas.",
+      "d": "Medium",
+      "topic": "Global warming",
+      "slo": "Identify, explain or apply the concept of global warming."
+    },
+    {
+      "id": "CHEM9CH11-028",
+      "q": "Choose the correct answer: which acid is associated with atmospheric nitrogen oxides?",
+      "o": [
+        "Nitric acid",
+        "Citric acid",
+        "Acetic acid",
+        "Hydrobromic acid"
+      ],
+      "a": 0,
+      "e": "Nitrogen oxides can form nitric acid in atmospheric reactions.",
+      "d": "Medium",
+      "topic": "Acid rain",
+      "slo": "Identify, explain or apply the concept of acid rain."
+    },
+    {
+      "id": "CHEM9CH11-029",
+      "q": "Choose the correct answer: which gas is an important greenhouse gas?",
+      "o": [
+        "Neon",
+        "Helium",
+        "Carbon dioxide",
+        "Argon"
+      ],
+      "a": 2,
+      "e": "Carbon dioxide absorbs infrared radiation.",
+      "d": "Medium",
+      "topic": "Global warming",
+      "slo": "Identify, explain or apply the concept of global warming."
+    },
+    {
+      "id": "CHEM9CH11-030",
+      "q": "Which is the balanced equation for complete combustion of methane?",
+      "o": [
+        "CH4 -> C + 2H2O",
+        "CH4 + O2 -> CO2 + H2O",
+        "CH4 + O2 -> CO + H2",
+        "CH4 + 2O2 -> CO2 + 2H2O"
+      ],
+      "a": 3,
+      "e": "Complete methane combustion requires two oxygen molecules per methane molecule.",
+      "d": "Easy",
+      "topic": "Global warming",
+      "slo": "Identify, explain or apply the concept of global warming."
+    },
+    {
+      "id": "CHEM9CH11-031",
+      "q": "Choose the correct answer: what is the principal cause of acid rain?",
+      "o": [
+        "Argon reacting with helium",
+        "Pure oxygen condensing",
+        "Sulfur and nitrogen oxides forming acids in air",
+        "Nitrogen gas dissolving alone"
+      ],
+      "a": 2,
+      "e": "Sulfur and nitrogen oxides form sulfuric and nitric acids in air.",
+      "d": "Medium",
+      "topic": "Acid rain",
+      "slo": "Identify, explain or apply the concept of acid rain."
+    },
+    {
+      "id": "CHEM9CH11-032",
+      "q": "What is a primary pollutant?",
+      "o": [
+        "A gas found only in the stratosphere",
+        "A pollutant emitted directly from a source",
+        "A pollutant formed only after atmospheric reaction",
+        "A harmless atmospheric gas"
+      ],
+      "a": 1,
+      "e": "Primary pollutants enter the air directly from sources.",
+      "d": "Easy",
+      "topic": "Air pollution",
+      "slo": "Identify, explain or apply the concept of air pollution."
+    },
+    {
+      "id": "CHEM9CH11-033",
+      "q": "Which atmospheric process helps maintain Earth's habitable temperature naturally?",
+      "o": [
+        "Formation of argon from oxygen",
+        "Natural greenhouse effect",
+        "Permanent loss of infrared radiation",
+        "Complete absence of water vapour"
+      ],
+      "a": 1,
+      "e": "The natural greenhouse effect keeps Earth warmer than it otherwise would be.",
+      "d": "Easy",
+      "topic": "Global warming",
+      "slo": "Identify, explain or apply the concept of global warming."
+    },
+    {
+      "id": "CHEM9CH11-034",
+      "q": "Class 9 environmental chemistry check: which colourless poisonous gas may be released by faulty heaters?",
+      "o": [
+        "Neon",
+        "Argon",
+        "Nitrogen",
+        "Carbon monoxide"
+      ],
+      "a": 3,
+      "e": "Faulty fuel-burning appliances may produce carbon monoxide.",
+      "d": "Medium",
+      "topic": "Air pollution",
+      "slo": "Identify, explain or apply the concept of air pollution."
+    },
+    {
+      "id": "CHEM9CH11-035",
+      "q": "Which device removes particulate matter from industrial exhaust?",
+      "o": [
+        "Electrostatic precipitator",
+        "Ordinary thermometer",
+        "Burette",
+        "Distillation flask"
+      ],
+      "a": 0,
+      "e": "Electrostatic precipitators capture fine particles from exhaust gases.",
+      "d": "Easy",
+      "topic": "Pollution prevention",
+      "slo": "Identify, explain or apply the concept of pollution prevention."
+    },
+    {
+      "id": "CHEM9CH11-036",
+      "q": "Class 9 environmental chemistry check: which is an example of a gaseous air pollutant?",
+      "o": [
+        "Sulfur dioxide",
+        "Argon",
+        "Neon",
+        "Helium"
+      ],
+      "a": 0,
+      "e": "Sulfur dioxide is an air pollutant released during fuel combustion.",
+      "d": "Medium",
+      "topic": "Air pollution",
+      "slo": "Identify, explain or apply the concept of air pollution."
+    },
+    {
+      "id": "CHEM9CH11-037",
+      "q": "Which source is associated with traffic-related air pollution?",
+      "o": [
+        "Vehicle exhaust",
+        "Evaporation from lakes",
+        "Sea tides",
+        "Formation of clouds"
+      ],
+      "a": 0,
+      "e": "Vehicle exhaust contains gases and particulates.",
+      "d": "Easy",
+      "topic": "Air pollution",
+      "slo": "Identify, explain or apply the concept of air pollution."
+    },
+    {
+      "id": "CHEM9CH11-038",
+      "q": "Which consequence may follow prolonged exposure to polluted air?",
+      "o": [
+        "Increased lung capacity in all cases",
+        "Guaranteed immunity to asthma",
+        "Elimination of coughing",
+        "Respiratory disease"
+      ],
+      "a": 3,
+      "e": "Polluted air is linked to respiratory illness.",
+      "d": "Easy",
+      "topic": "Pollution prevention",
+      "slo": "Identify, explain or apply the concept of pollution prevention."
+    },
+    {
+      "id": "CHEM9CH11-039",
+      "q": "Choose the correct answer: why does deforestation contribute to atmospheric CO2 buildup?",
+      "o": [
+        "Trees manufacture argon",
+        "Fewer trees remove CO2 by photosynthesis",
+        "Forests convert CO2 to nitrogen",
+        "Deforestation stops Earth's rotation"
+      ],
+      "a": 1,
+      "e": "Removing trees reduces photosynthetic uptake of CO2.",
+      "d": "Medium",
+      "topic": "Global warming",
+      "slo": "Identify, explain or apply the concept of global warming."
+    },
+    {
+      "id": "CHEM9CH11-040",
+      "q": "Choose the correct answer: which pair is important in forming photochemical smog?",
+      "o": [
+        "Oxygen and water only",
+        "Nitrogen oxides and volatile organic compounds",
+        "Helium and neon",
+        "Nitrogen and argon"
+      ],
+      "a": 1,
+      "e": "NOx and volatile organic compounds react in sunlight to form smog pollutants.",
+      "d": "Medium",
+      "topic": "Air pollution",
+      "slo": "Identify, explain or apply the concept of air pollution."
+    },
+    {
+      "id": "CHEM9CH11-041",
+      "q": "Class 9 environmental chemistry check: what is an air pollutant?",
+      "o": [
+        "A substance that contaminates air and causes harm",
+        "Any oxygen molecule",
+        "Any water droplet",
+        "Any molecule of nitrogen"
+      ],
+      "a": 0,
+      "e": "An air pollutant is a harmful atmospheric contaminant.",
+      "d": "Medium",
+      "topic": "Air pollution",
+      "slo": "Identify, explain or apply the concept of air pollution."
+    },
+    {
+      "id": "CHEM9CH11-042",
+      "q": "Which gas is the second most abundant in dry air?",
+      "o": [
+        "Argon",
+        "Nitrogen",
+        "Carbon dioxide",
+        "Oxygen"
+      ],
+      "a": 3,
+      "e": "Oxygen is second to nitrogen by volume.",
+      "d": "Easy",
+      "topic": "Composition of air",
+      "slo": "Identify, explain or apply the concept of composition of air."
+    },
+    {
+      "id": "CHEM9CH11-043",
+      "q": "What is the difference between the greenhouse effect and global warming?",
+      "o": [
+        "Both mean acid rain only",
+        "The effect is caused solely by nitrogen",
+        "The effect is a heat-trapping process; warming is a temperature trend",
+        "Both mean ozone depletion only"
+      ],
+      "a": 2,
+      "e": "Greenhouse effect describes the mechanism; global warming describes long-term temperature increase.",
+      "d": "Easy",
+      "topic": "Global warming",
+      "slo": "Identify, explain or apply the concept of global warming."
+    },
+    {
+      "id": "CHEM9CH11-044",
+      "q": "Choose the correct answer: which source is renewable?",
+      "o": [
+        "Coal",
+        "Wind energy",
+        "Petroleum",
+        "Natural gas"
+      ],
+      "a": 1,
+      "e": "Wind is replenished naturally and produces no direct combustion emissions.",
+      "d": "Medium",
+      "topic": "Global warming",
+      "slo": "Identify, explain or apply the concept of global warming."
+    },
+    {
+      "id": "CHEM9CH11-045",
+      "q": "Which pollutant is a major contributor to acid rain?",
+      "o": [
+        "Helium",
+        "Sulfur dioxide",
+        "Nitrogen",
+        "Argon"
+      ],
+      "a": 1,
+      "e": "Sulfur dioxide can form acids after atmospheric oxidation.",
+      "d": "Easy",
+      "topic": "Air pollution",
+      "slo": "Identify, explain or apply the concept of air pollution."
+    },
+    {
+      "id": "CHEM9CH11-046",
+      "q": "Which substance can react with SO2 during flue-gas treatment?",
+      "o": [
+        "Calcium carbonate",
+        "Argon",
+        "Helium",
+        "Neon"
+      ],
+      "a": 0,
+      "e": "Limestone-based scrubbers capture sulfur dioxide.",
+      "d": "Easy",
+      "topic": "Pollution prevention",
+      "slo": "Identify, explain or apply the concept of pollution prevention."
+    },
+    {
+      "id": "CHEM9CH11-047",
+      "q": "Choose the correct answer: which gas makes up the largest fraction of dry air?",
+      "o": [
+        "Oxygen",
+        "Nitrogen",
+        "Carbon dioxide",
+        "Argon"
+      ],
+      "a": 1,
+      "e": "Dry air is approximately 78% nitrogen.",
+      "d": "Medium",
+      "topic": "Composition of air",
+      "slo": "Identify, explain or apply the concept of composition of air."
+    },
+    {
+      "id": "CHEM9CH11-048",
+      "q": "Which approach reduces traffic-related pollution?",
+      "o": [
+        "Removing vehicle maintenance",
+        "Burning waste beside roads",
+        "More unnecessary private trips",
+        "Public transport and carpooling"
+      ],
+      "a": 3,
+      "e": "Shared transport can reduce per-person vehicle emissions.",
+      "d": "Easy",
+      "topic": "Pollution prevention",
+      "slo": "Identify, explain or apply the concept of pollution prevention."
+    },
+    {
+      "id": "CHEM9CH11-049",
+      "q": "Choose the correct answer: what is a common cause of carbon monoxide emissions?",
+      "o": [
+        "Condensation of nitrogen",
+        "Incomplete combustion of carbon fuels",
+        "Photosynthesis",
+        "Complete evaporation of water"
+      ],
+      "a": 1,
+      "e": "Incomplete combustion produces carbon monoxide.",
+      "d": "Medium",
+      "topic": "Air pollution",
+      "slo": "Identify, explain or apply the concept of air pollution."
+    },
+    {
+      "id": "CHEM9CH11-050",
+      "q": "Why is ozone near the ground undesirable?",
+      "o": [
+        "It always protects lungs",
+        "It is an inert noble gas",
+        "It irritates lungs and damages plants",
+        "It has no chemical reactivity"
+      ],
+      "a": 2,
+      "e": "Ground-level ozone is a reactive air pollutant.",
+      "d": "Easy",
+      "topic": "Ozone and air quality",
+      "slo": "Identify, explain or apply the concept of ozone and air quality."
+    },
+    {
+      "id": "CHEM9CH11-051",
+      "q": "Which gas in vehicle exhaust is dangerous because it reduces oxygen delivery in blood?",
+      "o": [
+        "Nitrogen",
+        "Neon",
+        "Argon",
+        "Carbon monoxide"
+      ],
+      "a": 3,
+      "e": "CO binds haemoglobin and impairs oxygen transport.",
+      "d": "Easy",
+      "topic": "Pollution prevention",
+      "slo": "Identify, explain or apply the concept of pollution prevention."
+    },
+    {
+      "id": "CHEM9CH11-052",
+      "q": "Choose the correct answer: which emissions increase when high-temperature engines oxidize atmospheric nitrogen?",
+      "o": [
+        "Nitrogen oxides",
+        "Argon",
+        "Water vapour alone",
+        "Helium"
+      ],
+      "a": 0,
+      "e": "High temperatures promote formation of nitrogen oxides.",
+      "d": "Medium",
+      "topic": "Air pollution",
+      "slo": "Identify, explain or apply the concept of air pollution."
+    },
+    {
+      "id": "CHEM9CH11-053",
+      "q": "Choose the correct answer: which practice can help reduce acid-rain precursors?",
+      "o": [
+        "Burning high-sulfur coal untreated",
+        "Increasing nitrogen oxide emissions",
+        "Removing emission controls",
+        "Using low-sulfur fuels"
+      ],
+      "a": 3,
+      "e": "Low-sulfur fuels reduce sulfur dioxide emissions.",
+      "d": "Medium",
+      "topic": "Acid rain",
+      "slo": "Identify, explain or apply the concept of acid rain."
+    },
+    {
+      "id": "CHEM9CH11-054",
+      "q": "Choose the correct answer: which consequence may follow prolonged exposure to polluted air?",
+      "o": [
+        "Elimination of coughing",
+        "Respiratory disease",
+        "Increased lung capacity in all cases",
+        "Guaranteed immunity to asthma"
+      ],
+      "a": 1,
+      "e": "Polluted air is linked to respiratory illness.",
+      "d": "Medium",
+      "topic": "Pollution prevention",
+      "slo": "Identify, explain or apply the concept of pollution prevention."
+    },
+    {
+      "id": "CHEM9CH11-055",
+      "q": "What pH is typical of unpolluted rain due to dissolved CO2?",
+      "o": [
+        "About 9.0",
+        "About 12.0",
+        "Exactly 7.0",
+        "About 5.6"
+      ],
+      "a": 3,
+      "e": "Normal rain is mildly acidic because dissolved CO2 forms carbonic acid.",
+      "d": "Easy",
+      "topic": "Acid rain",
+      "slo": "Identify, explain or apply the concept of acid rain."
+    },
+    {
+      "id": "CHEM9CH11-056",
+      "q": "Choose the correct answer: which term refers to solid or liquid particles suspended in air?",
+      "o": [
+        "Pure nitrogen",
+        "Dissolved salts",
+        "Liquid water only",
+        "Particulate matter"
+      ],
+      "a": 3,
+      "e": "Particulate matter comprises small suspended particles or droplets.",
+      "d": "Medium",
+      "topic": "Air pollution",
+      "slo": "Identify, explain or apply the concept of air pollution."
+    },
+    {
+      "id": "CHEM9CH11-057",
+      "q": "Which acid is associated with atmospheric nitrogen oxides?",
+      "o": [
+        "Hydrobromic acid",
+        "Nitric acid",
+        "Citric acid",
+        "Acetic acid"
+      ],
+      "a": 1,
+      "e": "Nitrogen oxides can form nitric acid in atmospheric reactions.",
+      "d": "Easy",
+      "topic": "Acid rain",
+      "slo": "Identify, explain or apply the concept of acid rain."
+    },
+    {
+      "id": "CHEM9CH11-058",
+      "q": "Choose the correct answer: which effect may result from acid rain on limestone buildings?",
+      "o": [
+        "Formation of metallic iron",
+        "Conversion into diamond",
+        "Surface erosion",
+        "Permanent strengthening"
+      ],
+      "a": 2,
+      "e": "Acids react with calcium carbonate in limestone.",
+      "d": "Medium",
+      "topic": "Acid rain",
+      "slo": "Identify, explain or apply the concept of acid rain."
+    },
+    {
+      "id": "CHEM9CH11-059",
+      "q": "What is smog?",
+      "o": [
+        "A noble gas",
+        "A layer of clean oxygen",
+        "A polluted atmospheric haze",
+        "Pure water vapour only"
+      ],
+      "a": 2,
+      "e": "Smog is polluted haze formed from smoke or photochemical pollutants.",
+      "d": "Easy",
+      "topic": "Air pollution",
+      "slo": "Identify, explain or apply the concept of air pollution."
+    },
+    {
+      "id": "CHEM9CH11-060",
+      "q": "Class 9 environmental chemistry check: which activity can add soot and smoke to air?",
+      "o": [
+        "Open burning of waste",
+        "Filtering drinking water",
+        "Planting trees",
+        "Melting ice"
+      ],
+      "a": 0,
+      "e": "Open waste burning releases smoke and fine particles.",
+      "d": "Medium",
+      "topic": "Air pollution",
+      "slo": "Identify, explain or apply the concept of air pollution."
+    },
+    {
+      "id": "CHEM9CH11-061",
+      "q": "Choose the correct answer: which natural event may release ash and gases into the air?",
+      "o": [
+        "Snow melting",
+        "Volcanic eruption",
+        "Dew formation",
+        "Earth's rotation"
+      ],
+      "a": 1,
+      "e": "Volcanoes release ash and gases.",
+      "d": "Medium",
+      "topic": "Air pollution",
+      "slo": "Identify, explain or apply the concept of air pollution."
+    },
+    {
+      "id": "CHEM9CH11-062",
+      "q": "Why is carbon monoxide particularly dangerous indoors?",
+      "o": [
+        "It is a noble gas",
+        "It is poisonous and may accumulate unnoticed",
+        "It increases oxygen delivery",
+        "It always has a strong smell"
+      ],
+      "a": 1,
+      "e": "Carbon monoxide is colourless and odourless and interferes with oxygen transport.",
+      "d": "Easy",
+      "topic": "Air pollution",
+      "slo": "Identify, explain or apply the concept of air pollution."
+    },
+    {
+      "id": "CHEM9CH11-063",
+      "q": "Choose the correct answer: what does a higher Air Quality Index generally indicate?",
+      "o": [
+        "More atmospheric argon",
+        "Lower pollution always",
+        "Worse air quality",
+        "Cleaner air"
+      ],
+      "a": 2,
+      "e": "A higher AQI generally signals greater pollution and health concern.",
+      "d": "Medium",
+      "topic": "Ozone and air quality",
+      "slo": "Identify, explain or apply the concept of ozone and air quality."
+    },
+    {
+      "id": "CHEM9CH11-064",
+      "q": "Which strategy is most effective for waste-related smoke?",
+      "o": [
+        "Mix waste with fuel",
+        "Reduce waste and avoid open burning",
+        "Burn tyres at night",
+        "Burn plastic openly"
+      ],
+      "a": 1,
+      "e": "Waste reduction and proper disposal prevent smoke emissions.",
+      "d": "Easy",
+      "topic": "Pollution prevention",
+      "slo": "Identify, explain or apply the concept of pollution prevention."
+    },
+    {
+      "id": "CHEM9CH11-065",
+      "q": "Which class of compounds historically contributed to ozone depletion?",
+      "o": [
+        "Sodium chloride crystals",
+        "Simple noble gases",
+        "Calcium carbonate rocks",
+        "Chlorofluorocarbons"
+      ],
+      "a": 3,
+      "e": "CFCs can release chlorine radicals that destroy stratospheric ozone.",
+      "d": "Easy",
+      "topic": "Ozone and air quality",
+      "slo": "Identify, explain or apply the concept of ozone and air quality."
+    },
+    {
+      "id": "CHEM9CH11-066",
+      "q": "Choose the correct answer: which pollutant is commonly written CO2?",
+      "o": [
+        "Carbon disulfide",
+        "Carbon dioxide",
+        "Carbon monoxide",
+        "Calcium oxide"
+      ],
+      "a": 1,
+      "e": "CO2 is carbon dioxide.",
+      "d": "Medium",
+      "topic": "Air pollution",
+      "slo": "Identify, explain or apply the concept of air pollution."
+    },
+    {
+      "id": "CHEM9CH11-067",
+      "q": "Which environmental goal is supported by cleaner energy and better public transport?",
+      "o": [
+        "More acid-rain precursors",
+        "Improved air quality",
+        "More soot production",
+        "Higher carbon monoxide exposure"
+      ],
+      "a": 1,
+      "e": "Cleaner energy and transport reduce harmful emissions.",
+      "d": "Easy",
+      "topic": "Pollution prevention",
+      "slo": "Identify, explain or apply the concept of pollution prevention."
+    },
+    {
+      "id": "CHEM9CH11-068",
+      "q": "What is a common cause of carbon monoxide emissions?",
+      "o": [
+        "Complete evaporation of water",
+        "Condensation of nitrogen",
+        "Photosynthesis",
+        "Incomplete combustion of carbon fuels"
+      ],
+      "a": 3,
+      "e": "Incomplete combustion produces carbon monoxide.",
+      "d": "Easy",
+      "topic": "Air pollution",
+      "slo": "Identify, explain or apply the concept of air pollution."
+    },
+    {
+      "id": "CHEM9CH11-069",
+      "q": "Choose the correct answer: which compound is the primary acid-forming oxide from sulfur-containing fuel combustion?",
+      "o": [
+        "Carbon monoxide",
+        "Argon",
+        "Sulfur dioxide",
+        "Neon"
+      ],
+      "a": 2,
+      "e": "SO2 can be oxidized and hydrated to produce sulfuric acid.",
+      "d": "Medium",
+      "topic": "Pollution prevention",
+      "slo": "Identify, explain or apply the concept of pollution prevention."
+    },
+    {
+      "id": "CHEM9CH11-070",
+      "q": "Which atmospheric change can harm crops through leaf damage?",
+      "o": [
+        "More helium",
+        "More argon",
+        "Elevated ground-level ozone",
+        "More neon"
+      ],
+      "a": 2,
+      "e": "Ground-level ozone can damage plant tissues and reduce growth.",
+      "d": "Easy",
+      "topic": "Pollution prevention",
+      "slo": "Identify, explain or apply the concept of pollution prevention."
+    },
+    {
+      "id": "CHEM9CH11-071",
+      "q": "Which phenomenon can increase extreme heat events?",
+      "o": [
+        "Complete elimination of greenhouse gases",
+        "Removal of sunlight",
+        "Permanent cooling of oceans",
+        "Global warming"
+      ],
+      "a": 3,
+      "e": "Global warming shifts the temperature distribution toward more extreme heat.",
+      "d": "Easy",
+      "topic": "Global warming",
+      "slo": "Identify, explain or apply the concept of global warming."
+    },
+    {
+      "id": "CHEM9CH11-072",
+      "q": "Choose the correct answer: which gas is beneficial high in the stratosphere but harmful near the ground?",
+      "o": [
+        "Helium",
+        "Neon",
+        "Ozone",
+        "Argon"
+      ],
+      "a": 2,
+      "e": "Stratospheric ozone protects against UV; ground-level ozone is a pollutant.",
+      "d": "Medium",
+      "topic": "Ozone and air quality",
+      "slo": "Identify, explain or apply the concept of ozone and air quality."
+    },
+    {
+      "id": "CHEM9CH11-073",
+      "q": "Which acid can form from oxidized sulfur dioxide in the atmosphere?",
+      "o": [
+        "Hydrochloric acid",
+        "Sulfuric acid",
+        "Acetic acid",
+        "Carbonic acid only"
+      ],
+      "a": 1,
+      "e": "Oxidation and hydration of sulfur oxides can produce sulfuric acid.",
+      "d": "Easy",
+      "topic": "Acid rain",
+      "slo": "Identify, explain or apply the concept of acid rain."
+    },
+    {
+      "id": "CHEM9CH11-074",
+      "q": "Which pollutant is commonly written CO?",
+      "o": [
+        "Calcium oxide",
+        "Carbon monoxide",
+        "Cobalt",
+        "Carbon dioxide"
+      ],
+      "a": 1,
+      "e": "CO is carbon monoxide.",
+      "d": "Easy",
+      "topic": "Air pollution",
+      "slo": "Identify, explain or apply the concept of air pollution."
+    },
+    {
+      "id": "CHEM9CH11-075",
+      "q": "Which mineral in marble reacts with acidic rainwater?",
+      "o": [
+        "Calcium carbonate",
+        "Magnesium metal",
+        "Silicon metal",
+        "Sodium chloride"
+      ],
+      "a": 0,
+      "e": "Marble contains calcium carbonate, which reacts with acids.",
+      "d": "Easy",
+      "topic": "Acid rain",
+      "slo": "Identify, explain or apply the concept of acid rain."
+    },
+    {
+      "id": "CHEM9CH11-076",
+      "q": "Choose the correct answer: which atmospheric process helps maintain Earth's habitable temperature naturally?",
+      "o": [
+        "Permanent loss of infrared radiation",
+        "Natural greenhouse effect",
+        "Formation of argon from oxygen",
+        "Complete absence of water vapour"
+      ],
+      "a": 1,
+      "e": "The natural greenhouse effect keeps Earth warmer than it otherwise would be.",
+      "d": "Medium",
+      "topic": "Global warming",
+      "slo": "Identify, explain or apply the concept of global warming."
+    },
+    {
+      "id": "CHEM9CH11-077",
+      "q": "Which feature makes fossil fuels nonrenewable?",
+      "o": [
+        "They regenerate in minutes",
+        "They are made only of oxygen",
+        "They form over geological timescales",
+        "They contain no carbon"
+      ],
+      "a": 2,
+      "e": "Fossil fuels are replenished far more slowly than they are used.",
+      "d": "Easy",
+      "topic": "Global warming",
+      "slo": "Identify, explain or apply the concept of global warming."
+    },
+    {
+      "id": "CHEM9CH11-078",
+      "q": "Which is a natural source of particulate air pollution?",
+      "o": [
+        "Solar eclipses",
+        "Dust storms",
+        "Ocean tides",
+        "Lunar phases"
+      ],
+      "a": 1,
+      "e": "Dust storms suspend soil particles in the atmosphere.",
+      "d": "Easy",
+      "topic": "Air pollution",
+      "slo": "Identify, explain or apply the concept of air pollution."
+    },
+    {
+      "id": "CHEM9CH11-079",
+      "q": "Choose the correct answer: which approach can reduce industrial sulfur emissions?",
+      "o": [
+        "Open burning of coal ash",
+        "Increasing sulfur content of fuel",
+        "Installing gas scrubbers",
+        "Disabling filters"
+      ],
+      "a": 2,
+      "e": "Scrubbers remove pollutant gases from exhaust streams.",
+      "d": "Medium",
+      "topic": "Pollution prevention",
+      "slo": "Identify, explain or apply the concept of pollution prevention."
+    },
+    {
+      "id": "CHEM9CH11-080",
+      "q": "Choose the correct answer: which approach reduces traffic-related pollution?",
+      "o": [
+        "Public transport and carpooling",
+        "Burning waste beside roads",
+        "Removing vehicle maintenance",
+        "More unnecessary private trips"
+      ],
+      "a": 0,
+      "e": "Shared transport can reduce per-person vehicle emissions.",
+      "d": "Medium",
+      "topic": "Pollution prevention",
+      "slo": "Identify, explain or apply the concept of pollution prevention."
+    },
+    {
+      "id": "CHEM9CH11-081",
+      "q": "Which term describes the deterioration of air due to contaminants?",
+      "o": [
+        "Photosynthesis",
+        "Air pollution",
+        "Respiration",
+        "Condensation"
+      ],
+      "a": 1,
+      "e": "Air pollution involves harmful contaminants in the atmosphere.",
+      "d": "Easy",
+      "topic": "Pollution prevention",
+      "slo": "Identify, explain or apply the concept of pollution prevention."
+    },
+    {
+      "id": "CHEM9CH11-082",
+      "q": "Choose the correct answer: which effect can follow depletion of stratospheric ozone?",
+      "o": [
+        "More harmful UV reaches Earth's surface",
+        "Atmospheric oxygen disappears instantly",
+        "Global gravity decreases",
+        "Less UV reaches Earth"
+      ],
+      "a": 0,
+      "e": "Ozone loss allows more ultraviolet radiation to reach the surface.",
+      "d": "Medium",
+      "topic": "Ozone and air quality",
+      "slo": "Identify, explain or apply the concept of ozone and air quality."
+    },
+    {
+      "id": "CHEM9CH11-083",
+      "q": "Which practice directly reduces dust from construction sites?",
+      "o": [
+        "Dry sweeping during strong winds",
+        "Covering loose materials and controlling dust",
+        "Leaving sand uncovered",
+        "Blowing dust into streets"
+      ],
+      "a": 1,
+      "e": "Dust suppression reduces airborne particles.",
+      "d": "Easy",
+      "topic": "Pollution prevention",
+      "slo": "Identify, explain or apply the concept of pollution prevention."
+    },
+    {
+      "id": "CHEM9CH11-084",
+      "q": "Choose the correct answer: what is the main purpose of a catalytic converter in a vehicle?",
+      "o": [
+        "Increase carbon monoxide output",
+        "Remove oxygen from air",
+        "Convert harmful exhaust gases into less harmful substances",
+        "Release more nitrogen oxides"
+      ],
+      "a": 2,
+      "e": "Catalytic converters promote reactions that reduce CO, NOx and hydrocarbons.",
+      "d": "Medium",
+      "topic": "Pollution prevention",
+      "slo": "Identify, explain or apply the concept of pollution prevention."
+    },
+    {
+      "id": "CHEM9CH11-085",
+      "q": "Which practice conserves energy and reduces associated air pollution?",
+      "o": [
+        "Switching off unused electrical devices",
+        "Using inefficient equipment",
+        "Leaving lights on unnecessarily",
+        "Running generators without need"
+      ],
+      "a": 0,
+      "e": "Lower electricity demand can reduce fuel combustion upstream.",
+      "d": "Easy",
+      "topic": "Pollution prevention",
+      "slo": "Identify, explain or apply the concept of pollution prevention."
+    },
+    {
+      "id": "CHEM9CH11-086",
+      "q": "What does a higher Air Quality Index generally indicate?",
+      "o": [
+        "More atmospheric argon",
+        "Cleaner air",
+        "Worse air quality",
+        "Lower pollution always"
+      ],
+      "a": 2,
+      "e": "A higher AQI generally signals greater pollution and health concern.",
+      "d": "Easy",
+      "topic": "Ozone and air quality",
+      "slo": "Identify, explain or apply the concept of ozone and air quality."
+    },
+    {
+      "id": "CHEM9CH11-087",
+      "q": "Which practice reduces vehicle emissions?",
+      "o": [
+        "Regular engine maintenance",
+        "Using poor-quality fuel deliberately",
+        "Removing exhaust treatment",
+        "Driving with a malfunctioning engine"
+      ],
+      "a": 0,
+      "e": "Well-maintained engines generally burn fuel more efficiently.",
+      "d": "Easy",
+      "topic": "Pollution prevention",
+      "slo": "Identify, explain or apply the concept of pollution prevention."
+    },
+    {
+      "id": "CHEM9CH11-088",
+      "q": "Which ecosystem may be damaged when acid rain lowers lake pH?",
+      "o": [
+        "Aquatic ecosystem",
+        "Dry nitrogen cylinder",
+        "Vacuum chamber",
+        "Deep space"
+      ],
+      "a": 0,
+      "e": "Acidification can harm fish and other aquatic life.",
+      "d": "Easy",
+      "topic": "Acid rain",
+      "slo": "Identify, explain or apply the concept of acid rain."
+    },
+    {
+      "id": "CHEM9CH11-089",
+      "q": "Class 9 environmental chemistry check: which gas makes up about 0.93% of dry air?",
+      "o": [
+        "Nitrogen",
+        "Oxygen",
+        "Argon",
+        "Carbon dioxide"
+      ],
+      "a": 2,
+      "e": "Argon is the most abundant noble gas in air.",
+      "d": "Medium",
+      "topic": "Composition of air",
+      "slo": "Identify, explain or apply the concept of composition of air."
+    },
+    {
+      "id": "CHEM9CH11-090",
+      "q": "Choose the correct answer: which reaction describes complete combustion of carbon?",
+      "o": [
+        "C + O2 -> CO",
+        "C + H2 -> CO2",
+        "C + N2 -> CO2",
+        "C + O2 -> CO2"
+      ],
+      "a": 3,
+      "e": "Carbon reacts with oxygen to form carbon dioxide.",
+      "d": "Medium",
+      "topic": "Global warming",
+      "slo": "Identify, explain or apply the concept of global warming."
+    },
+    {
+      "id": "CHEM9CH11-091",
+      "q": "Choose the correct answer: which policy approach helps limit industrial air pollution?",
+      "o": [
+        "Enforcing emission standards",
+        "Encouraging untreated discharge",
+        "Removing all emission limits",
+        "Ignoring chimney emissions"
+      ],
+      "a": 0,
+      "e": "Emission standards set limits on harmful releases.",
+      "d": "Medium",
+      "topic": "Pollution prevention",
+      "slo": "Identify, explain or apply the concept of pollution prevention."
+    },
+    {
+      "id": "CHEM9CH11-092",
+      "q": "Choose the correct answer: which source is linked to airborne pollen?",
+      "o": [
+        "Coal boilers",
+        "Petrol engines",
+        "Steel furnaces",
+        "Flowering plants"
+      ],
+      "a": 3,
+      "e": "Flowering plants release pollen into the air.",
+      "d": "Medium",
+      "topic": "Air pollution",
+      "slo": "Identify, explain or apply the concept of air pollution."
+    },
+    {
+      "id": "CHEM9CH11-093",
+      "q": "Choose the correct answer: which atmospheric change can harm crops through leaf damage?",
+      "o": [
+        "More neon",
+        "Elevated ground-level ozone",
+        "More argon",
+        "More helium"
+      ],
+      "a": 1,
+      "e": "Ground-level ozone can damage plant tissues and reduce growth.",
+      "d": "Medium",
+      "topic": "Pollution prevention",
+      "slo": "Identify, explain or apply the concept of pollution prevention."
+    },
+    {
+      "id": "CHEM9CH11-094",
+      "q": "What is air pollution?",
+      "o": [
+        "Natural movement of wind",
+        "Presence of harmful substances in air",
+        "Formation of dew",
+        "Increase in atmospheric nitrogen alone"
+      ],
+      "a": 1,
+      "e": "Air pollution occurs when contaminants harm health or the environment.",
+      "d": "Easy",
+      "topic": "Air pollution",
+      "slo": "Identify, explain or apply the concept of air pollution."
+    },
+    {
+      "id": "CHEM9CH11-095",
+      "q": "Choose the correct answer: which feature makes fossil fuels nonrenewable?",
+      "o": [
+        "They regenerate in minutes",
+        "They are made only of oxygen",
+        "They form over geological timescales",
+        "They contain no carbon"
+      ],
+      "a": 2,
+      "e": "Fossil fuels are replenished far more slowly than they are used.",
+      "d": "Medium",
+      "topic": "Global warming",
+      "slo": "Identify, explain or apply the concept of global warming."
+    },
+    {
+      "id": "CHEM9CH11-096",
+      "q": "Choose the correct answer: which activity can help mitigate global warming?",
+      "o": [
+        "Burning forests",
+        "Increasing coal use",
+        "Planting and protecting trees",
+        "Removing solar panels"
+      ],
+      "a": 2,
+      "e": "Forests store carbon and absorb carbon dioxide.",
+      "d": "Medium",
+      "topic": "Global warming",
+      "slo": "Identify, explain or apply the concept of global warming."
+    },
+    {
+      "id": "CHEM9CH11-097",
+      "q": "Which policy approach helps limit industrial air pollution?",
+      "o": [
+        "Removing all emission limits",
+        "Encouraging untreated discharge",
+        "Enforcing emission standards",
+        "Ignoring chimney emissions"
+      ],
+      "a": 2,
+      "e": "Emission standards set limits on harmful releases.",
+      "d": "Easy",
+      "topic": "Pollution prevention",
+      "slo": "Identify, explain or apply the concept of pollution prevention."
+    },
+    {
+      "id": "CHEM9CH11-098",
+      "q": "Choose the correct answer: which gas in air is used by green plants during photosynthesis?",
+      "o": [
+        "Nitrogen dioxide",
+        "Sulfur dioxide",
+        "Carbon dioxide",
+        "Argon"
+      ],
+      "a": 2,
+      "e": "Plants use carbon dioxide in photosynthesis.",
+      "d": "Medium",
+      "topic": "Composition of air",
+      "slo": "Identify, explain or apply the concept of composition of air."
+    },
+    {
+      "id": "CHEM9CH11-099",
+      "q": "Which activity can add soot and smoke to air?",
+      "o": [
+        "Melting ice",
+        "Filtering drinking water",
+        "Open burning of waste",
+        "Planting trees"
+      ],
+      "a": 2,
+      "e": "Open waste burning releases smoke and fine particles.",
+      "d": "Easy",
+      "topic": "Air pollution",
+      "slo": "Identify, explain or apply the concept of air pollution."
+    },
+    {
+      "id": "CHEM9CH11-100",
+      "q": "Choose the correct answer: which source is associated with traffic-related air pollution?",
+      "o": [
+        "Formation of clouds",
+        "Evaporation from lakes",
+        "Vehicle exhaust",
+        "Sea tides"
+      ],
+      "a": 2,
+      "e": "Vehicle exhaust contains gases and particulates.",
+      "d": "Medium",
+      "topic": "Air pollution",
+      "slo": "Identify, explain or apply the concept of air pollution."
+    },
+    {
+      "id": "CHEM9CH11-101",
+      "q": "Why are statues made of limestone vulnerable to acid rain?",
+      "o": [
+        "Acid converts limestone into gold",
+        "Acid adds permanent protective layers",
+        "Acid reacts with calcium carbonate",
+        "Limestone contains no reactive minerals"
+      ],
+      "a": 2,
+      "e": "Acidic water chemically attacks calcium carbonate.",
+      "d": "Easy",
+      "topic": "Acid rain",
+      "slo": "Identify, explain or apply the concept of acid rain."
+    },
+    {
+      "id": "CHEM9CH11-102",
+      "q": "Choose the correct answer: which approach addresses climate change by lowering emissions?",
+      "o": [
+        "Increased coal combustion",
+        "Deliberate deforestation",
+        "Amplification of pollution",
+        "Mitigation"
+      ],
+      "a": 3,
+      "e": "Mitigation reduces sources or enhances sinks of greenhouse gases.",
+      "d": "Medium",
+      "topic": "Pollution prevention",
+      "slo": "Identify, explain or apply the concept of pollution prevention."
+    },
+    {
+      "id": "CHEM9CH11-103",
+      "q": "Which human activity adds significant CO2 to the atmosphere?",
+      "o": [
+        "Filtering air through cotton",
+        "Burning fossil fuels",
+        "Freezing seawater",
+        "Condensing water"
+      ],
+      "a": 1,
+      "e": "Combustion of fossil fuels releases carbon dioxide.",
+      "d": "Easy",
+      "topic": "Global warming",
+      "slo": "Identify, explain or apply the concept of global warming."
+    },
+    {
+      "id": "CHEM9CH11-104",
+      "q": "Choose the correct answer: what is global warming?",
+      "o": [
+        "Long-term rise in Earth's average surface temperature",
+        "Daily changes in wind direction",
+        "Formation of clouds alone",
+        "Annual rotation of Earth"
+      ],
+      "a": 0,
+      "e": "Global warming refers to a long-term increase in average temperature.",
+      "d": "Medium",
+      "topic": "Global warming",
+      "slo": "Identify, explain or apply the concept of global warming."
+    },
+    {
+      "id": "CHEM9CH11-105",
+      "q": "What is the principal cause of acid rain?",
+      "o": [
+        "Sulfur and nitrogen oxides forming acids in air",
+        "Pure oxygen condensing",
+        "Nitrogen gas dissolving alone",
+        "Argon reacting with helium"
+      ],
+      "a": 0,
+      "e": "Sulfur and nitrogen oxides form sulfuric and nitric acids in air.",
+      "d": "Easy",
+      "topic": "Acid rain",
+      "slo": "Identify, explain or apply the concept of acid rain."
+    },
+    {
+      "id": "CHEM9CH11-106",
+      "q": "Choose the correct answer: which is a common primary air pollutant?",
+      "o": [
+        "Photochemical oxidants formed in air",
+        "Ground-level ozone formed in sunlight",
+        "Nitric acid formed in clouds",
+        "Sulfur dioxide from burning coal"
+      ],
+      "a": 3,
+      "e": "SO2 is released directly during combustion.",
+      "d": "Medium",
+      "topic": "Air pollution",
+      "slo": "Identify, explain or apply the concept of air pollution."
+    },
+    {
+      "id": "CHEM9CH11-107",
+      "q": "Class 9 environmental chemistry check: which atmospheric gas is chemically very unreactive because it is a noble gas?",
+      "o": [
+        "Carbon monoxide",
+        "Argon",
+        "Ozone",
+        "Oxygen"
+      ],
+      "a": 1,
+      "e": "Argon is a noble gas and is relatively inert.",
+      "d": "Medium",
+      "topic": "Composition of air",
+      "slo": "Identify, explain or apply the concept of composition of air."
+    },
+    {
+      "id": "CHEM9CH11-108",
+      "q": "Which is a common primary air pollutant?",
+      "o": [
+        "Photochemical oxidants formed in air",
+        "Nitric acid formed in clouds",
+        "Sulfur dioxide from burning coal",
+        "Ground-level ozone formed in sunlight"
+      ],
+      "a": 2,
+      "e": "SO2 is released directly during combustion.",
+      "d": "Easy",
+      "topic": "Air pollution",
+      "slo": "Identify, explain or apply the concept of air pollution."
+    },
+    {
+      "id": "CHEM9CH11-109",
+      "q": "Which pollutant is commonly written CO2?",
+      "o": [
+        "Carbon monoxide",
+        "Calcium oxide",
+        "Carbon disulfide",
+        "Carbon dioxide"
+      ],
+      "a": 3,
+      "e": "CO2 is carbon dioxide.",
+      "d": "Easy",
+      "topic": "Air pollution",
+      "slo": "Identify, explain or apply the concept of air pollution."
+    },
+    {
+      "id": "CHEM9CH11-110",
+      "q": "Which pollutant can bind strongly to haemoglobin?",
+      "o": [
+        "Nitrogen",
+        "Argon",
+        "Carbon monoxide",
+        "Helium"
+      ],
+      "a": 2,
+      "e": "Carbon monoxide reduces the blood's ability to transport oxygen.",
+      "d": "Easy",
+      "topic": "Air pollution",
+      "slo": "Identify, explain or apply the concept of air pollution."
+    },
+    {
+      "id": "CHEM9CH11-111",
+      "q": "Choose the correct answer: which pollutant is commonly written CO?",
+      "o": [
+        "Calcium oxide",
+        "Carbon dioxide",
+        "Cobalt",
+        "Carbon monoxide"
+      ],
+      "a": 3,
+      "e": "CO is carbon monoxide.",
+      "d": "Medium",
+      "topic": "Air pollution",
+      "slo": "Identify, explain or apply the concept of air pollution."
+    },
+    {
+      "id": "CHEM9CH11-112",
+      "q": "Class 9 environmental chemistry check: what is a common cause of carbon monoxide emissions?",
+      "o": [
+        "Complete evaporation of water",
+        "Condensation of nitrogen",
+        "Incomplete combustion of carbon fuels",
+        "Photosynthesis"
+      ],
+      "a": 2,
+      "e": "Incomplete combustion produces carbon monoxide.",
+      "d": "Medium",
+      "topic": "Air pollution",
+      "slo": "Identify, explain or apply the concept of air pollution."
+    },
+    {
+      "id": "CHEM9CH11-113",
+      "q": "Class 9 environmental chemistry check: which term refers to solid or liquid particles suspended in air?",
+      "o": [
+        "Liquid water only",
+        "Pure nitrogen",
+        "Dissolved salts",
+        "Particulate matter"
+      ],
+      "a": 3,
+      "e": "Particulate matter comprises small suspended particles or droplets.",
+      "d": "Medium",
+      "topic": "Air pollution",
+      "slo": "Identify, explain or apply the concept of air pollution."
+    },
+    {
+      "id": "CHEM9CH11-114",
+      "q": "Choose the correct answer: what is a secondary pollutant?",
+      "o": [
+        "Pure nitrogen",
+        "A pollutant emitted directly from a chimney",
+        "Argon from the atmosphere",
+        "A pollutant formed by reactions in the atmosphere"
+      ],
+      "a": 3,
+      "e": "Secondary pollutants form from atmospheric chemical reactions.",
+      "d": "Medium",
+      "topic": "Air pollution",
+      "slo": "Identify, explain or apply the concept of air pollution."
+    },
+    {
+      "id": "CHEM9CH11-115",
+      "q": "Choose the correct answer: which phenomenon can increase extreme heat events?",
+      "o": [
+        "Complete elimination of greenhouse gases",
+        "Permanent cooling of oceans",
+        "Removal of sunlight",
+        "Global warming"
+      ],
+      "a": 3,
+      "e": "Global warming shifts the temperature distribution toward more extreme heat.",
+      "d": "Medium",
+      "topic": "Global warming",
+      "slo": "Identify, explain or apply the concept of global warming."
+    },
+    {
+      "id": "CHEM9CH11-116",
+      "q": "Choose the correct answer: which atmospheric constituent varies substantially with humidity?",
+      "o": [
+        "Argon",
+        "Neon",
+        "Water vapour",
+        "Nitrogen"
+      ],
+      "a": 2,
+      "e": "Water vapour concentration varies with weather and location.",
+      "d": "Medium",
+      "topic": "Composition of air",
+      "slo": "Identify, explain or apply the concept of composition of air."
+    },
+    {
+      "id": "CHEM9CH11-117",
+      "q": "Class 9 environmental chemistry check: approximately what percentage of dry air is oxygen?",
+      "o": [
+        "50%",
+        "21%",
+        "0.04%",
+        "78%"
+      ],
+      "a": 1,
+      "e": "Oxygen accounts for about 21% of dry air by volume.",
+      "d": "Medium",
+      "topic": "Composition of air",
+      "slo": "Identify, explain or apply the concept of composition of air."
+    },
+    {
+      "id": "CHEM9CH11-118",
+      "q": "Class 9 environmental chemistry check: why is carbon monoxide particularly dangerous indoors?",
+      "o": [
+        "It is a noble gas",
+        "It is poisonous and may accumulate unnoticed",
+        "It always has a strong smell",
+        "It increases oxygen delivery"
+      ],
+      "a": 1,
+      "e": "Carbon monoxide is colourless and odourless and interferes with oxygen transport.",
+      "d": "Medium",
+      "topic": "Air pollution",
+      "slo": "Identify, explain or apply the concept of air pollution."
+    },
+    {
+      "id": "CHEM9CH11-119",
+      "q": "What role does sunlight play in photochemical smog formation?",
+      "o": [
+        "It drives photochemical reactions",
+        "It prevents nitrogen oxide reactions",
+        "It eliminates all pollutants",
+        "It converts argon into oxygen"
+      ],
+      "a": 0,
+      "e": "Sunlight initiates chemical reactions that form secondary pollutants.",
+      "d": "Easy",
+      "topic": "Air pollution",
+      "slo": "Identify, explain or apply the concept of air pollution."
+    },
+    {
+      "id": "CHEM9CH11-120",
+      "q": "Which effect can follow depletion of stratospheric ozone?",
+      "o": [
+        "Less UV reaches Earth",
+        "Atmospheric oxygen disappears instantly",
+        "Global gravity decreases",
+        "More harmful UV reaches Earth's surface"
+      ],
+      "a": 3,
+      "e": "Ozone loss allows more ultraviolet radiation to reach the surface.",
+      "d": "Easy",
+      "topic": "Ozone and air quality",
+      "slo": "Identify, explain or apply the concept of ozone and air quality."
+    },
+    {
+      "id": "CHEM9CH11-121",
+      "q": "Choose the correct answer: which human activity adds significant CO2 to the atmosphere?",
+      "o": [
+        "Burning fossil fuels",
+        "Freezing seawater",
+        "Condensing water",
+        "Filtering air through cotton"
+      ],
+      "a": 0,
+      "e": "Combustion of fossil fuels releases carbon dioxide.",
+      "d": "Medium",
+      "topic": "Global warming",
+      "slo": "Identify, explain or apply the concept of global warming."
+    },
+    {
+      "id": "CHEM9CH11-122",
+      "q": "Choose the correct answer: what is the product of complete combustion of carbon in oxygen?",
+      "o": [
+        "Nitrogen dioxide",
+        "Sulfur dioxide",
+        "Carbon dioxide",
+        "Carbon monoxide only"
+      ],
+      "a": 2,
+      "e": "Complete combustion of carbon produces CO2.",
+      "d": "Medium",
+      "topic": "Global warming",
+      "slo": "Identify, explain or apply the concept of global warming."
+    },
+    {
+      "id": "CHEM9CH11-123",
+      "q": "What is the greenhouse effect?",
+      "o": [
+        "Warming caused by gases absorbing outgoing infrared radiation",
+        "Conversion of sunlight into sound",
+        "Reflection of all sunlight into space",
+        "Cooling by argon only"
+      ],
+      "a": 0,
+      "e": "Greenhouse gases absorb and re-emit infrared radiation.",
+      "d": "Easy",
+      "topic": "Global warming",
+      "slo": "Identify, explain or apply the concept of global warming."
+    },
+    {
+      "id": "CHEM9CH11-124",
+      "q": "Choose the correct answer: which health system is most directly affected by inhaled smoke?",
+      "o": [
+        "Respiratory system",
+        "Skeletal system",
+        "Reproductive system",
+        "Digestive system"
+      ],
+      "a": 0,
+      "e": "Smoke irritates and damages airways and lungs.",
+      "d": "Medium",
+      "topic": "Air pollution",
+      "slo": "Identify, explain or apply the concept of air pollution."
+    },
+    {
+      "id": "CHEM9CH11-125",
+      "q": "Choose the correct answer: which pollutant is commonly written NO?",
+      "o": [
+        "Nitrous acid",
+        "Nitrate",
+        "Nitrogen monoxide",
+        "Nitrogen dioxide"
+      ],
+      "a": 2,
+      "e": "NO is nitrogen monoxide.",
+      "d": "Medium",
+      "topic": "Air pollution",
+      "slo": "Identify, explain or apply the concept of air pollution."
+    },
+    {
+      "id": "CHEM9CH11-126",
+      "q": "Choose the correct answer: which pollutant is commonly written SO2?",
+      "o": [
+        "Sulfur trioxide",
+        "Carbon monoxide",
+        "Nitrogen dioxide",
+        "Sulfur dioxide"
+      ],
+      "a": 3,
+      "e": "SO2 is sulfur dioxide.",
+      "d": "Medium",
+      "topic": "Air pollution",
+      "slo": "Identify, explain or apply the concept of air pollution."
+    },
+    {
+      "id": "CHEM9CH11-127",
+      "q": "Which gas is an important greenhouse gas?",
+      "o": [
+        "Neon",
+        "Carbon dioxide",
+        "Helium",
+        "Argon"
+      ],
+      "a": 1,
+      "e": "Carbon dioxide absorbs infrared radiation.",
+      "d": "Easy",
+      "topic": "Global warming",
+      "slo": "Identify, explain or apply the concept of global warming."
+    },
+    {
+      "id": "CHEM9CH11-128",
+      "q": "Which instrument reports air pollution levels through a public index?",
+      "o": [
+        "Barometer only",
+        "Richter scale",
+        "pH paper only",
+        "Air Quality Index"
+      ],
+      "a": 3,
+      "e": "The Air Quality Index communicates ambient air-pollution levels.",
+      "d": "Easy",
+      "topic": "Ozone and air quality",
+      "slo": "Identify, explain or apply the concept of ozone and air quality."
+    },
+    {
+      "id": "CHEM9CH11-129",
+      "q": "Choose the correct answer: why is the stratospheric ozone layer important?",
+      "o": [
+        "It eliminates gravity",
+        "It produces all atmospheric nitrogen",
+        "It prevents all rainfall",
+        "It absorbs much harmful UV radiation"
+      ],
+      "a": 3,
+      "e": "Stratospheric ozone helps protect living organisms from UV radiation.",
+      "d": "Medium",
+      "topic": "Ozone and air quality",
+      "slo": "Identify, explain or apply the concept of ozone and air quality."
+    },
+    {
+      "id": "CHEM9CH11-130",
+      "q": "Choose the correct answer: which is a natural source of particulate air pollution?",
+      "o": [
+        "Lunar phases",
+        "Solar eclipses",
+        "Ocean tides",
+        "Dust storms"
+      ],
+      "a": 3,
+      "e": "Dust storms suspend soil particles in the atmosphere.",
+      "d": "Medium",
+      "topic": "Air pollution",
+      "slo": "Identify, explain or apply the concept of air pollution."
+    },
+    {
+      "id": "CHEM9CH11-131",
+      "q": "Class 9 environmental chemistry check: which natural event may release ash and gases into the air?",
+      "o": [
+        "Dew formation",
+        "Earth's rotation",
+        "Volcanic eruption",
+        "Snow melting"
+      ],
+      "a": 2,
+      "e": "Volcanoes release ash and gases.",
+      "d": "Medium",
+      "topic": "Air pollution",
+      "slo": "Identify, explain or apply the concept of air pollution."
+    },
+    {
+      "id": "CHEM9CH11-132",
+      "q": "What is the main goal of sustainable transport?",
+      "o": [
+        "Increase congestion deliberately",
+        "Eliminate walking",
+        "Reduce environmental impacts of travel",
+        "Increase fuel waste"
+      ],
+      "a": 2,
+      "e": "Sustainable transport reduces emissions and resource use.",
+      "d": "Easy",
+      "topic": "Pollution prevention",
+      "slo": "Identify, explain or apply the concept of pollution prevention."
+    },
+    {
+      "id": "CHEM9CH11-133",
+      "q": "Which gas makes up about 0.93% of dry air?",
+      "o": [
+        "Carbon dioxide",
+        "Oxygen",
+        "Nitrogen",
+        "Argon"
+      ],
+      "a": 3,
+      "e": "Argon is the most abundant noble gas in air.",
+      "d": "Easy",
+      "topic": "Composition of air",
+      "slo": "Identify, explain or apply the concept of composition of air."
+    },
+    {
+      "id": "CHEM9CH11-134",
+      "q": "Which approach can reduce industrial sulfur emissions?",
+      "o": [
+        "Open burning of coal ash",
+        "Increasing sulfur content of fuel",
+        "Installing gas scrubbers",
+        "Disabling filters"
+      ],
+      "a": 2,
+      "e": "Scrubbers remove pollutant gases from exhaust streams.",
+      "d": "Easy",
+      "topic": "Pollution prevention",
+      "slo": "Identify, explain or apply the concept of pollution prevention."
+    },
+    {
+      "id": "CHEM9CH11-135",
+      "q": "Class 9 environmental chemistry check: which gas is the second most abundant in dry air?",
+      "o": [
+        "Oxygen",
+        "Nitrogen",
+        "Argon",
+        "Carbon dioxide"
+      ],
+      "a": 0,
+      "e": "Oxygen is second to nitrogen by volume.",
+      "d": "Medium",
+      "topic": "Composition of air",
+      "slo": "Identify, explain or apply the concept of composition of air."
+    },
+    {
+      "id": "CHEM9CH11-136",
+      "q": "Which gas makes up about 0.04% of dry air?",
+      "o": [
+        "Carbon dioxide",
+        "Argon",
+        "Nitrogen",
+        "Oxygen"
+      ],
+      "a": 0,
+      "e": "Carbon dioxide is a trace gas in the atmosphere.",
+      "d": "Easy",
+      "topic": "Composition of air",
+      "slo": "Identify, explain or apply the concept of composition of air."
+    },
+    {
+      "id": "CHEM9CH11-137",
+      "q": "Choose the correct answer: which gas is not usually treated as a significant greenhouse gas?",
+      "o": [
+        "Carbon dioxide",
+        "Nitrogen",
+        "Water vapour",
+        "Methane"
+      ],
+      "a": 1,
+      "e": "N2 does not absorb infrared radiation significantly under normal conditions.",
+      "d": "Medium",
+      "topic": "Global warming",
+      "slo": "Identify, explain or apply the concept of global warming."
+    },
+    {
+      "id": "CHEM9CH11-138",
+      "q": "Class 9 environmental chemistry check: which of these is a major component of clean dry air?",
+      "o": [
+        "Oxygen",
+        "Carbon monoxide",
+        "Nitrogen dioxide",
+        "Sulfur dioxide"
+      ],
+      "a": 0,
+      "e": "Oxygen is a major component of clean dry air.",
+      "d": "Medium",
+      "topic": "Composition of air",
+      "slo": "Identify, explain or apply the concept of composition of air."
+    },
+    {
+      "id": "CHEM9CH11-139",
+      "q": "What happens to rainwater acidity as pH decreases?",
+      "o": [
+        "Acidity decreases",
+        "Acidity increases",
+        "Acidity stays identical",
+        "Water becomes pure nitrogen"
+      ],
+      "a": 1,
+      "e": "Lower pH means higher hydrogen-ion concentration.",
+      "d": "Easy",
+      "topic": "Acid rain",
+      "slo": "Identify, explain or apply the concept of acid rain."
+    },
+    {
+      "id": "CHEM9CH11-140",
+      "q": "Which pollutant can form when sulfur-containing coal burns?",
+      "o": [
+        "Neon",
+        "Helium",
+        "Sulfur dioxide",
+        "Argon"
+      ],
+      "a": 2,
+      "e": "Sulfur in fuels is oxidized to sulfur dioxide.",
+      "d": "Easy",
+      "topic": "Air pollution",
+      "slo": "Identify, explain or apply the concept of air pollution."
+    },
+    {
+      "id": "CHEM9CH11-141",
+      "q": "Choose the correct answer: which air-quality measure addresses emissions from industrial chimneys?",
+      "o": [
+        "Recording moon phases",
+        "Measuring ocean tides",
+        "Counting clouds only",
+        "Stack emission monitoring"
+      ],
+      "a": 3,
+      "e": "Monitoring helps identify and control chimney pollutants.",
+      "d": "Medium",
+      "topic": "Pollution prevention",
+      "slo": "Identify, explain or apply the concept of pollution prevention."
+    },
+    {
+      "id": "CHEM9CH11-142",
+      "q": "Choose the correct answer: what pH is typical of unpolluted rain due to dissolved CO2?",
+      "o": [
+        "About 12.0",
+        "About 5.6",
+        "Exactly 7.0",
+        "About 9.0"
+      ],
+      "a": 1,
+      "e": "Normal rain is mildly acidic because dissolved CO2 forms carbonic acid.",
+      "d": "Medium",
+      "topic": "Acid rain",
+      "slo": "Identify, explain or apply the concept of acid rain."
+    },
+    {
+      "id": "CHEM9CH11-143",
+      "q": "Choose the correct answer: what is an air pollutant?",
+      "o": [
+        "Any molecule of nitrogen",
+        "Any water droplet",
+        "A substance that contaminates air and causes harm",
+        "Any oxygen molecule"
+      ],
+      "a": 2,
+      "e": "An air pollutant is a harmful atmospheric contaminant.",
+      "d": "Medium",
+      "topic": "Air pollution",
+      "slo": "Identify, explain or apply the concept of air pollution."
+    },
+    {
+      "id": "CHEM9CH11-144",
+      "q": "Which fuel releases CO2 when burned completely?",
+      "o": [
+        "Hydrogen",
+        "Argon",
+        "Helium",
+        "Methane"
+      ],
+      "a": 3,
+      "e": "Complete combustion of methane produces CO2 and water.",
+      "d": "Easy",
+      "topic": "Global warming",
+      "slo": "Identify, explain or apply the concept of global warming."
+    },
+    {
+      "id": "CHEM9CH11-145",
+      "q": "Which radiation is partly blocked by stratospheric ozone?",
+      "o": [
+        "Seismic waves",
+        "Sound waves",
+        "Ultraviolet radiation",
+        "Radio waves"
+      ],
+      "a": 2,
+      "e": "Ozone absorbs significant ultraviolet radiation.",
+      "d": "Easy",
+      "topic": "Ozone and air quality",
+      "slo": "Identify, explain or apply the concept of ozone and air quality."
+    },
+    {
+      "id": "CHEM9CH11-146",
+      "q": "Choose the correct answer: which activity can add soot and smoke to air?",
+      "o": [
+        "Filtering drinking water",
+        "Melting ice",
+        "Open burning of waste",
+        "Planting trees"
+      ],
+      "a": 2,
+      "e": "Open waste burning releases smoke and fine particles.",
+      "d": "Medium",
+      "topic": "Air pollution",
+      "slo": "Identify, explain or apply the concept of air pollution."
+    },
+    {
+      "id": "CHEM9CH11-147",
+      "q": "Choose the correct answer: which class of compounds historically contributed to ozone depletion?",
+      "o": [
+        "Simple noble gases",
+        "Sodium chloride crystals",
+        "Chlorofluorocarbons",
+        "Calcium carbonate rocks"
+      ],
+      "a": 2,
+      "e": "CFCs can release chlorine radicals that destroy stratospheric ozone.",
+      "d": "Medium",
+      "topic": "Ozone and air quality",
+      "slo": "Identify, explain or apply the concept of ozone and air quality."
+    },
+    {
+      "id": "CHEM9CH11-148",
+      "q": "What is an air pollutant?",
+      "o": [
+        "A substance that contaminates air and causes harm",
+        "Any water droplet",
+        "Any oxygen molecule",
+        "Any molecule of nitrogen"
+      ],
+      "a": 0,
+      "e": "An air pollutant is a harmful atmospheric contaminant.",
+      "d": "Easy",
+      "topic": "Air pollution",
+      "slo": "Identify, explain or apply the concept of air pollution."
+    },
+    {
+      "id": "CHEM9CH11-149",
+      "q": "Choose the correct answer: which activity helps communities assess local pollution?",
+      "o": [
+        "Using only temperature as AQI",
+        "Burning waste to test air",
+        "Monitoring particulate and gas concentrations",
+        "Ignoring pollution measurements"
+      ],
+      "a": 2,
+      "e": "Monitoring provides evidence of pollutant levels.",
+      "d": "Medium",
+      "topic": "Pollution prevention",
+      "slo": "Identify, explain or apply the concept of pollution prevention."
+    },
+    {
+      "id": "CHEM9CH11-150",
+      "q": "Which naturally occurring greenhouse gas is highly variable in air?",
+      "o": [
+        "Neon",
+        "Water vapour",
+        "Argon",
+        "Nitrogen"
+      ],
+      "a": 1,
+      "e": "Water vapour contributes to the natural greenhouse effect.",
+      "d": "Easy",
+      "topic": "Global warming",
+      "slo": "Identify, explain or apply the concept of global warming."
+    },
+    {
+      "id": "CHEM9CH11-151",
+      "q": "Choose the correct answer: which radiation is partly blocked by stratospheric ozone?",
+      "o": [
+        "Radio waves",
+        "Ultraviolet radiation",
+        "Seismic waves",
+        "Sound waves"
+      ],
+      "a": 1,
+      "e": "Ozone absorbs significant ultraviolet radiation.",
+      "d": "Medium",
+      "topic": "Ozone and air quality",
+      "slo": "Identify, explain or apply the concept of ozone and air quality."
+    },
+    {
+      "id": "CHEM9CH11-152",
+      "q": "Choose the correct answer: which consequence is associated with global warming?",
+      "o": [
+        "Conversion of oxygen to argon",
+        "Permanent disappearance of the water cycle",
+        "No change in sea level",
+        "Melting glaciers"
+      ],
+      "a": 3,
+      "e": "Warming can accelerate glacier and ice melting.",
+      "d": "Medium",
+      "topic": "Global warming",
+      "slo": "Identify, explain or apply the concept of global warming."
+    },
+    {
+      "id": "CHEM9CH11-153",
+      "q": "Choose the correct answer: which change would likely reduce CO emissions from a petrol engine?",
+      "o": [
+        "Improving combustion efficiency",
+        "Restricting oxygen supply severely",
+        "Disabling maintenance",
+        "Using faulty injectors"
+      ],
+      "a": 0,
+      "e": "More complete combustion reduces CO formation.",
+      "d": "Medium",
+      "topic": "Pollution prevention",
+      "slo": "Identify, explain or apply the concept of pollution prevention."
+    },
+    {
+      "id": "CHEM9CH11-154",
+      "q": "Choose the correct answer: which fuel component is mainly responsible for SO2 emissions?",
+      "o": [
+        "Argon",
+        "Helium",
+        "Sulfur",
+        "Neon"
+      ],
+      "a": 2,
+      "e": "Sulfur impurities oxidize during fuel burning.",
+      "d": "Medium",
+      "topic": "Pollution prevention",
+      "slo": "Identify, explain or apply the concept of pollution prevention."
+    },
+    {
+      "id": "CHEM9CH11-155",
+      "q": "Choose the correct answer: which term refers to the long-term rise in global mean temperature?",
+      "o": [
+        "Acid rain",
+        "Global warming",
+        "Thermal inversion",
+        "Ozone hole"
+      ],
+      "a": 1,
+      "e": "Global warming is the long-term rise in Earth's average temperature.",
+      "d": "Medium",
+      "topic": "Pollution prevention",
+      "slo": "Identify, explain or apply the concept of pollution prevention."
+    },
+    {
+      "id": "CHEM9CH11-156",
+      "q": "Which atmospheric pollutant is strongly associated with photochemical smog?",
+      "o": [
+        "Nitrogen",
+        "Ground-level ozone",
+        "Helium",
+        "Argon"
+      ],
+      "a": 1,
+      "e": "Ground-level ozone forms through sunlight-driven reactions of pollutants.",
+      "d": "Easy",
+      "topic": "Air pollution",
+      "slo": "Identify, explain or apply the concept of air pollution."
+    },
+    {
+      "id": "CHEM9CH11-157",
+      "q": "Which risk can increase during prolonged high-pollution episodes?",
+      "o": [
+        "Instant elimination of allergies",
+        "Lower respiratory irritation",
+        "Asthma attacks",
+        "Permanent removal of particulates"
+      ],
+      "a": 2,
+      "e": "High pollution can aggravate asthma and breathing difficulties.",
+      "d": "Easy",
+      "topic": "Pollution prevention",
+      "slo": "Identify, explain or apply the concept of pollution prevention."
+    },
+    {
+      "id": "CHEM9CH11-158",
+      "q": "Choose the correct answer: which gas in vehicle exhaust is dangerous because it reduces oxygen delivery in blood?",
+      "o": [
+        "Neon",
+        "Nitrogen",
+        "Carbon monoxide",
+        "Argon"
+      ],
+      "a": 2,
+      "e": "CO binds haemoglobin and impairs oxygen transport.",
+      "d": "Medium",
+      "topic": "Pollution prevention",
+      "slo": "Identify, explain or apply the concept of pollution prevention."
+    },
+    {
+      "id": "CHEM9CH11-159",
+      "q": "Choose the correct answer: what happens to rainwater acidity as pH decreases?",
+      "o": [
+        "Acidity decreases",
+        "Water becomes pure nitrogen",
+        "Acidity increases",
+        "Acidity stays identical"
+      ],
+      "a": 2,
+      "e": "Lower pH means higher hydrogen-ion concentration.",
+      "d": "Medium",
+      "topic": "Acid rain",
+      "slo": "Identify, explain or apply the concept of acid rain."
+    },
+    {
+      "id": "CHEM9CH11-160",
+      "q": "Choose the correct answer: what is the chemical formula of ozone?",
+      "o": [
+        "O3",
+        "CO3",
+        "NO3",
+        "O2"
+      ],
+      "a": 0,
+      "e": "Ozone consists of three oxygen atoms per molecule.",
+      "d": "Medium",
+      "topic": "Ozone and air quality",
+      "slo": "Identify, explain or apply the concept of ozone and air quality."
+    },
+    {
+      "id": "CHEM9CH11-161",
+      "q": "Class 9 environmental chemistry check: which is a natural source of particulate air pollution?",
+      "o": [
+        "Dust storms",
+        "Ocean tides",
+        "Lunar phases",
+        "Solar eclipses"
+      ],
+      "a": 0,
+      "e": "Dust storms suspend soil particles in the atmosphere.",
+      "d": "Medium",
+      "topic": "Air pollution",
+      "slo": "Identify, explain or apply the concept of air pollution."
+    },
+    {
+      "id": "CHEM9CH11-162",
+      "q": "Choose the correct answer: which ecosystem may be damaged when acid rain lowers lake pH?",
+      "o": [
+        "Dry nitrogen cylinder",
+        "Deep space",
+        "Aquatic ecosystem",
+        "Vacuum chamber"
+      ],
+      "a": 2,
+      "e": "Acidification can harm fish and other aquatic life.",
+      "d": "Medium",
+      "topic": "Acid rain",
+      "slo": "Identify, explain or apply the concept of acid rain."
+    },
+    {
+      "id": "CHEM9CH11-163",
+      "q": "Which activity can help mitigate global warming?",
+      "o": [
+        "Removing solar panels",
+        "Planting and protecting trees",
+        "Increasing coal use",
+        "Burning forests"
+      ],
+      "a": 1,
+      "e": "Forests store carbon and absorb carbon dioxide.",
+      "d": "Easy",
+      "topic": "Global warming",
+      "slo": "Identify, explain or apply the concept of global warming."
+    },
+    {
+      "id": "CHEM9CH11-164",
+      "q": "Class 9 environmental chemistry check: which pair comprises most of Earth's dry atmosphere?",
+      "o": [
+        "Water vapour and methane",
+        "Carbon dioxide and oxygen",
+        "Argon and ozone",
+        "Nitrogen and oxygen"
+      ],
+      "a": 3,
+      "e": "Nitrogen and oxygen together account for about 99% of dry air.",
+      "d": "Medium",
+      "topic": "Composition of air",
+      "slo": "Identify, explain or apply the concept of composition of air."
+    },
+    {
+      "id": "CHEM9CH11-165",
+      "q": "Choose the correct answer: which of these is a major component of clean dry air?",
+      "o": [
+        "Nitrogen dioxide",
+        "Carbon monoxide",
+        "Sulfur dioxide",
+        "Oxygen"
+      ],
+      "a": 3,
+      "e": "Oxygen is a major component of clean dry air.",
+      "d": "Medium",
+      "topic": "Composition of air",
+      "slo": "Identify, explain or apply the concept of composition of air."
+    },
+    {
+      "id": "CHEM9CH11-166",
+      "q": "Which approach addresses climate impacts by preparing for them?",
+      "o": [
+        "Destroying flood barriers",
+        "Adaptation",
+        "Ignoring heat warnings",
+        "Increasing emissions"
+      ],
+      "a": 1,
+      "e": "Adaptation reduces vulnerability to climate impacts.",
+      "d": "Easy",
+      "topic": "Pollution prevention",
+      "slo": "Identify, explain or apply the concept of pollution prevention."
+    },
+    {
+      "id": "CHEM9CH11-167",
+      "q": "What does a carbon footprint estimate?",
+      "o": [
+        "Mass of limestone in a building",
+        "Amount of atmospheric argon",
+        "Greenhouse-gas emissions associated with an activity",
+        "Quantity of dissolved oxygen in rain"
+      ],
+      "a": 2,
+      "e": "A carbon footprint measures associated greenhouse-gas emissions.",
+      "d": "Easy",
+      "topic": "Global warming",
+      "slo": "Identify, explain or apply the concept of global warming."
+    },
+    {
+      "id": "CHEM9CH11-168",
+      "q": "Which health system is most directly affected by inhaled smoke?",
+      "o": [
+        "Respiratory system",
+        "Skeletal system",
+        "Reproductive system",
+        "Digestive system"
+      ],
+      "a": 0,
+      "e": "Smoke irritates and damages airways and lungs.",
+      "d": "Easy",
+      "topic": "Air pollution",
+      "slo": "Identify, explain or apply the concept of air pollution."
+    },
+    {
+      "id": "CHEM9CH11-169",
+      "q": "Which condition increases carbon monoxide production from a flame?",
+      "o": [
+        "Absence of carbon fuel",
+        "Insufficient oxygen supply",
+        "Complete combustion",
+        "Excess oxygen supply"
+      ],
+      "a": 1,
+      "e": "Insufficient oxygen favours incomplete combustion.",
+      "d": "Easy",
+      "topic": "Air pollution",
+      "slo": "Identify, explain or apply the concept of air pollution."
+    },
+    {
+      "id": "CHEM9CH11-170",
+      "q": "Which practice can help reduce acid-rain precursors?",
+      "o": [
+        "Increasing nitrogen oxide emissions",
+        "Using low-sulfur fuels",
+        "Removing emission controls",
+        "Burning high-sulfur coal untreated"
+      ],
+      "a": 1,
+      "e": "Low-sulfur fuels reduce sulfur dioxide emissions.",
+      "d": "Easy",
+      "topic": "Acid rain",
+      "slo": "Identify, explain or apply the concept of acid rain."
+    },
+    {
+      "id": "CHEM9CH11-171",
+      "q": "Choose the correct answer: where is protective ozone mainly found?",
+      "o": [
+        "Lithosphere",
+        "Hydrosphere",
+        "Troposphere only",
+        "Stratosphere"
+      ],
+      "a": 3,
+      "e": "The stratospheric ozone layer absorbs harmful ultraviolet radiation.",
+      "d": "Medium",
+      "topic": "Ozone and air quality",
+      "slo": "Identify, explain or apply the concept of ozone and air quality."
+    },
+    {
+      "id": "CHEM9CH11-172",
+      "q": "Which source is linked to airborne pollen?",
+      "o": [
+        "Steel furnaces",
+        "Petrol engines",
+        "Coal boilers",
+        "Flowering plants"
+      ],
+      "a": 3,
+      "e": "Flowering plants release pollen into the air.",
+      "d": "Easy",
+      "topic": "Air pollution",
+      "slo": "Identify, explain or apply the concept of air pollution."
+    },
+    {
+      "id": "CHEM9CH11-173",
+      "q": "Choose the correct answer: which pollutant is commonly written SO3?",
+      "o": [
+        "Sulfur trioxide",
+        "Sulfur dioxide",
+        "Nitrogen trioxide",
+        "Carbon dioxide"
+      ],
+      "a": 0,
+      "e": "SO3 is sulfur trioxide.",
+      "d": "Medium",
+      "topic": "Air pollution",
+      "slo": "Identify, explain or apply the concept of air pollution."
+    },
+    {
+      "id": "CHEM9CH11-174",
+      "q": "Which gas is not usually treated as a significant greenhouse gas?",
+      "o": [
+        "Methane",
+        "Nitrogen",
+        "Carbon dioxide",
+        "Water vapour"
+      ],
+      "a": 1,
+      "e": "N2 does not absorb infrared radiation significantly under normal conditions.",
+      "d": "Easy",
+      "topic": "Global warming",
+      "slo": "Identify, explain or apply the concept of global warming."
+    },
+    {
+      "id": "CHEM9CH11-175",
+      "q": "Choose the correct answer: what is air pollution?",
+      "o": [
+        "Formation of dew",
+        "Presence of harmful substances in air",
+        "Natural movement of wind",
+        "Increase in atmospheric nitrogen alone"
+      ],
+      "a": 1,
+      "e": "Air pollution occurs when contaminants harm health or the environment.",
+      "d": "Medium",
+      "topic": "Air pollution",
+      "slo": "Identify, explain or apply the concept of air pollution."
+    },
+    {
+      "id": "CHEM9CH11-176",
+      "q": "Choose the correct answer: which gas makes up about 0.93% of dry air?",
+      "o": [
+        "Argon",
+        "Nitrogen",
+        "Carbon dioxide",
+        "Oxygen"
+      ],
+      "a": 0,
+      "e": "Argon is the most abundant noble gas in air.",
+      "d": "Medium",
+      "topic": "Composition of air",
+      "slo": "Identify, explain or apply the concept of composition of air."
+    },
+    {
+      "id": "CHEM9CH11-177",
+      "q": "Why is the stratospheric ozone layer important?",
+      "o": [
+        "It produces all atmospheric nitrogen",
+        "It absorbs much harmful UV radiation",
+        "It eliminates gravity",
+        "It prevents all rainfall"
+      ],
+      "a": 1,
+      "e": "Stratospheric ozone helps protect living organisms from UV radiation.",
+      "d": "Easy",
+      "topic": "Ozone and air quality",
+      "slo": "Identify, explain or apply the concept of ozone and air quality."
+    },
+    {
+      "id": "CHEM9CH11-178",
+      "q": "Choose the correct answer: which mineral in marble reacts with acidic rainwater?",
+      "o": [
+        "Magnesium metal",
+        "Sodium chloride",
+        "Calcium carbonate",
+        "Silicon metal"
+      ],
+      "a": 2,
+      "e": "Marble contains calcium carbonate, which reacts with acids.",
+      "d": "Medium",
+      "topic": "Acid rain",
+      "slo": "Identify, explain or apply the concept of acid rain."
+    },
+    {
+      "id": "CHEM9CH11-179",
+      "q": "Choose the correct answer: what does a carbon footprint estimate?",
+      "o": [
+        "Quantity of dissolved oxygen in rain",
+        "Greenhouse-gas emissions associated with an activity",
+        "Amount of atmospheric argon",
+        "Mass of limestone in a building"
+      ],
+      "a": 1,
+      "e": "A carbon footprint measures associated greenhouse-gas emissions.",
+      "d": "Medium",
+      "topic": "Global warming",
+      "slo": "Identify, explain or apply the concept of global warming."
+    },
+    {
+      "id": "CHEM9CH11-180",
+      "q": "Which technology reduces sulfur dioxide in power-station flue gases?",
+      "o": [
+        "Adding more sulfur to coal",
+        "Increasing soot emissions",
+        "Flue-gas desulfurization",
+        "Removing chimneys"
+      ],
+      "a": 2,
+      "e": "Flue-gas desulfurization removes sulfur dioxide from exhaust gases.",
+      "d": "Easy",
+      "topic": "Acid rain",
+      "slo": "Identify, explain or apply the concept of acid rain."
+    },
+    {
+      "id": "CHEM9CH11-181",
+      "q": "Which air-quality measure addresses emissions from industrial chimneys?",
+      "o": [
+        "Measuring ocean tides",
+        "Recording moon phases",
+        "Counting clouds only",
+        "Stack emission monitoring"
+      ],
+      "a": 3,
+      "e": "Monitoring helps identify and control chimney pollutants.",
+      "d": "Easy",
+      "topic": "Pollution prevention",
+      "slo": "Identify, explain or apply the concept of pollution prevention."
+    },
+    {
+      "id": "CHEM9CH11-182",
+      "q": "Class 9 environmental chemistry check: which is an example of particulate air pollution?",
+      "o": [
+        "Nitrogen",
+        "Oxygen",
+        "Soot",
+        "Argon"
+      ],
+      "a": 2,
+      "e": "Soot consists of fine solid particles suspended in air.",
+      "d": "Medium",
+      "topic": "Air pollution",
+      "slo": "Identify, explain or apply the concept of air pollution."
+    },
+    {
+      "id": "CHEM9CH11-183",
+      "q": "Which exhaust gas can a catalytic converter oxidize to CO2?",
+      "o": [
+        "Argon",
+        "Carbon monoxide",
+        "Helium",
+        "Neon"
+      ],
+      "a": 1,
+      "e": "Catalytic converters can oxidize carbon monoxide to carbon dioxide.",
+      "d": "Easy",
+      "topic": "Pollution prevention",
+      "slo": "Identify, explain or apply the concept of pollution prevention."
+    },
+    {
+      "id": "CHEM9CH11-184",
+      "q": "Class 9 environmental chemistry check: approximately what percentage of dry air is nitrogen?",
+      "o": [
+        "21%",
+        "78%",
+        "0.04%",
+        "1%"
+      ],
+      "a": 1,
+      "e": "Nitrogen accounts for about 78% of dry air by volume.",
+      "d": "Medium",
+      "topic": "Composition of air",
+      "slo": "Identify, explain or apply the concept of composition of air."
+    },
+    {
+      "id": "CHEM9CH11-185",
+      "q": "Class 9 environmental chemistry check: which health system is most directly affected by inhaled smoke?",
+      "o": [
+        "Skeletal system",
+        "Respiratory system",
+        "Digestive system",
+        "Reproductive system"
+      ],
+      "a": 1,
+      "e": "Smoke irritates and damages airways and lungs.",
+      "d": "Medium",
+      "topic": "Air pollution",
+      "slo": "Identify, explain or apply the concept of air pollution."
+    },
+    {
+      "id": "CHEM9CH11-186",
+      "q": "Choose the correct answer: how can acid rain affect soil?",
+      "o": [
+        "Always raise soil pH",
+        "Leach essential nutrients",
+        "Eliminate all metal ions",
+        "Create unlimited fertilizer"
+      ],
+      "a": 1,
+      "e": "Acidification can leach nutrients and mobilize harmful metals.",
+      "d": "Medium",
+      "topic": "Acid rain",
+      "slo": "Identify, explain or apply the concept of acid rain."
+    },
+    {
+      "id": "CHEM9CH11-187",
+      "q": "Which gas is beneficial high in the stratosphere but harmful near the ground?",
+      "o": [
+        "Ozone",
+        "Argon",
+        "Helium",
+        "Neon"
+      ],
+      "a": 0,
+      "e": "Stratospheric ozone protects against UV; ground-level ozone is a pollutant.",
+      "d": "Easy",
+      "topic": "Ozone and air quality",
+      "slo": "Identify, explain or apply the concept of ozone and air quality."
+    },
+    {
+      "id": "CHEM9CH11-188",
+      "q": "Choose the correct answer: which observation indicates that a city may have a serious particulate pollution problem?",
+      "o": [
+        "Persistent haze and high PM readings",
+        "Clear skies and low PM readings",
+        "Presence of atmospheric nitrogen",
+        "Normal humidity alone"
+      ],
+      "a": 0,
+      "e": "Haze with elevated PM measurements suggests particulate pollution.",
+      "d": "Medium",
+      "topic": "Pollution prevention",
+      "slo": "Identify, explain or apply the concept of pollution prevention."
+    },
+    {
+      "id": "CHEM9CH11-189",
+      "q": "Choose the correct answer: which environmental problem can arise from excessive nitrogen oxides?",
+      "o": [
+        "Conversion of nitrogen into argon",
+        "Acid rain and smog",
+        "Permanent removal of oxygen",
+        "No atmospheric reactions"
+      ],
+      "a": 1,
+      "e": "NOx participates in acid formation and photochemical smog.",
+      "d": "Medium",
+      "topic": "Pollution prevention",
+      "slo": "Identify, explain or apply the concept of pollution prevention."
+    },
+    {
+      "id": "CHEM9CH11-190",
+      "q": "Choose the correct answer: why is ozone near the ground undesirable?",
+      "o": [
+        "It irritates lungs and damages plants",
+        "It always protects lungs",
+        "It is an inert noble gas",
+        "It has no chemical reactivity"
+      ],
+      "a": 0,
+      "e": "Ground-level ozone is a reactive air pollutant.",
+      "d": "Medium",
+      "topic": "Ozone and air quality",
+      "slo": "Identify, explain or apply the concept of ozone and air quality."
+    },
+    {
+      "id": "CHEM9CH11-191",
+      "q": "Which action can reduce personal exposure during severe smog?",
+      "o": [
+        "Open windows beside smoke",
+        "Limit strenuous outdoor activity",
+        "Burn rubbish indoors",
+        "Exercise beside busy roads"
+      ],
+      "a": 1,
+      "e": "Reducing outdoor exposure during high pollution can lower inhaled dose.",
+      "d": "Easy",
+      "topic": "Ozone and air quality",
+      "slo": "Identify, explain or apply the concept of ozone and air quality."
+    },
+    {
+      "id": "CHEM9CH11-192",
+      "q": "Class 9 environmental chemistry check: which gas in air is needed for aerobic respiration?",
+      "o": [
+        "Oxygen",
+        "Nitrogen",
+        "Neon",
+        "Argon"
+      ],
+      "a": 0,
+      "e": "Aerobic respiration consumes oxygen.",
+      "d": "Medium",
+      "topic": "Composition of air",
+      "slo": "Identify, explain or apply the concept of composition of air."
+    },
+    {
+      "id": "CHEM9CH11-193",
+      "q": "Choose the correct answer: which risk can increase during prolonged high-pollution episodes?",
+      "o": [
+        "Permanent removal of particulates",
+        "Asthma attacks",
+        "Instant elimination of allergies",
+        "Lower respiratory irritation"
+      ],
+      "a": 1,
+      "e": "High pollution can aggravate asthma and breathing difficulties.",
+      "d": "Medium",
+      "topic": "Pollution prevention",
+      "slo": "Identify, explain or apply the concept of pollution prevention."
+    },
+    {
+      "id": "CHEM9CH11-194",
+      "q": "Which is a potent greenhouse gas emitted from some agricultural activities?",
+      "o": [
+        "Neon",
+        "Argon",
+        "Helium",
+        "Methane"
+      ],
+      "a": 3,
+      "e": "Methane is an important greenhouse gas.",
+      "d": "Easy",
+      "topic": "Global warming",
+      "slo": "Identify, explain or apply the concept of global warming."
+    },
+    {
+      "id": "CHEM9CH11-195",
+      "q": "Choose the correct answer: which group is especially vulnerable to poor air quality?",
+      "o": [
+        "Only healthy adults",
+        "Only deep-sea organisms",
+        "People wearing blue clothes",
+        "People with asthma"
+      ],
+      "a": 3,
+      "e": "Air pollution can trigger asthma and worsen respiratory symptoms.",
+      "d": "Medium",
+      "topic": "Ozone and air quality",
+      "slo": "Identify, explain or apply the concept of ozone and air quality."
+    },
+    {
+      "id": "CHEM9CH11-196",
+      "q": "Which atmospheric gas is chemically very unreactive because it is a noble gas?",
+      "o": [
+        "Ozone",
+        "Oxygen",
+        "Argon",
+        "Carbon monoxide"
+      ],
+      "a": 2,
+      "e": "Argon is a noble gas and is relatively inert.",
+      "d": "Easy",
+      "topic": "Composition of air",
+      "slo": "Identify, explain or apply the concept of composition of air."
+    },
+    {
+      "id": "CHEM9CH11-197",
+      "q": "Choose the correct answer: which everyday practice can reduce open-burning pollution?",
+      "o": [
+        "Avoid burning household waste",
+        "Burning leaves beside homes",
+        "Burning tyres",
+        "Burning plastic waste"
+      ],
+      "a": 0,
+      "e": "Avoiding open burning prevents release of toxic smoke and particles.",
+      "d": "Medium",
+      "topic": "Pollution prevention",
+      "slo": "Identify, explain or apply the concept of pollution prevention."
+    },
+    {
+      "id": "CHEM9CH11-198",
+      "q": "Choose the correct answer: what is the difference between the greenhouse effect and global warming?",
+      "o": [
+        "Both mean acid rain only",
+        "Both mean ozone depletion only",
+        "The effect is a heat-trapping process; warming is a temperature trend",
+        "The effect is caused solely by nitrogen"
+      ],
+      "a": 2,
+      "e": "Greenhouse effect describes the mechanism; global warming describes long-term temperature increase.",
+      "d": "Medium",
+      "topic": "Global warming",
+      "slo": "Identify, explain or apply the concept of global warming."
+    },
+    {
+      "id": "CHEM9CH11-199",
+      "q": "Choose the correct answer: which is the balanced equation for complete combustion of methane?",
+      "o": [
+        "CH4 + 2O2 -> CO2 + 2H2O",
+        "CH4 + O2 -> CO2 + H2O",
+        "CH4 -> C + 2H2O",
+        "CH4 + O2 -> CO + H2"
+      ],
+      "a": 0,
+      "e": "Complete methane combustion requires two oxygen molecules per methane molecule.",
+      "d": "Medium",
+      "topic": "Global warming",
+      "slo": "Identify, explain or apply the concept of global warming."
+    },
+    {
+      "id": "CHEM9CH11-200",
+      "q": "Choose the correct answer: which option usually emits fewer direct exhaust pollutants while operating?",
+      "o": [
+        "Diesel bus with faulty engine",
+        "Petrol motorcycle",
+        "Old two-stroke scooter",
+        "Electric bicycle"
+      ],
+      "a": 3,
+      "e": "An electric bicycle has no tailpipe emissions during operation.",
+      "d": "Medium",
+      "topic": "Pollution prevention",
+      "slo": "Identify, explain or apply the concept of pollution prevention."
+    },
+    {
+      "id": "CHEM9CH11-201",
+      "q": "Which pollutant is commonly written NO?",
+      "o": [
+        "Nitrogen dioxide",
+        "Nitrogen monoxide",
+        "Nitrous acid",
+        "Nitrate"
+      ],
+      "a": 1,
+      "e": "NO is nitrogen monoxide.",
+      "d": "Easy",
+      "topic": "Air pollution",
+      "slo": "Identify, explain or apply the concept of air pollution."
+    },
+    {
+      "id": "CHEM9CH11-202",
+      "q": "Choose the correct answer: which approach addresses climate impacts by preparing for them?",
+      "o": [
+        "Destroying flood barriers",
+        "Increasing emissions",
+        "Ignoring heat warnings",
+        "Adaptation"
+      ],
+      "a": 3,
+      "e": "Adaptation reduces vulnerability to climate impacts.",
+      "d": "Medium",
+      "topic": "Pollution prevention",
+      "slo": "Identify, explain or apply the concept of pollution prevention."
+    },
+    {
+      "id": "CHEM9CH11-203",
+      "q": "Choose the correct answer: which rain sample is more acidic?",
+      "o": [
+        "pH 7",
+        "pH 6",
+        "pH 4",
+        "pH 8"
+      ],
+      "a": 2,
+      "e": "Lower pH indicates higher acidity.",
+      "d": "Medium",
+      "topic": "Acid rain",
+      "slo": "Identify, explain or apply the concept of acid rain."
+    },
+    {
+      "id": "CHEM9CH11-204",
+      "q": "Which energy choice can reduce fossil-fuel CO2 emissions?",
+      "o": [
+        "Solar power",
+        "Uncontrolled coal burning",
+        "Open waste burning",
+        "Diesel generators only"
+      ],
+      "a": 0,
+      "e": "Solar electricity does not require burning fossil fuel during operation.",
+      "d": "Easy",
+      "topic": "Global warming",
+      "slo": "Identify, explain or apply the concept of global warming."
+    },
+    {
+      "id": "CHEM9CH11-205",
+      "q": "Which is an example of particulate air pollution?",
+      "o": [
+        "Oxygen",
+        "Argon",
+        "Soot",
+        "Nitrogen"
+      ],
+      "a": 2,
+      "e": "Soot consists of fine solid particles suspended in air.",
+      "d": "Easy",
+      "topic": "Air pollution",
+      "slo": "Identify, explain or apply the concept of air pollution."
+    },
+    {
+      "id": "CHEM9CH11-206",
+      "q": "Which conditions can trap pollutants near the ground?",
+      "o": [
+        "Complete absence of emissions",
+        "Continuous heavy ventilation",
+        "Strong vertical mixing",
+        "Temperature inversion"
+      ],
+      "a": 3,
+      "e": "An inversion restricts upward air mixing and traps pollutants.",
+      "d": "Easy",
+      "topic": "Air pollution",
+      "slo": "Identify, explain or apply the concept of air pollution."
+    },
+    {
+      "id": "CHEM9CH11-207",
+      "q": "Which reaction describes complete combustion of carbon?",
+      "o": [
+        "C + H2 -> CO2",
+        "C + N2 -> CO2",
+        "C + O2 -> CO",
+        "C + O2 -> CO2"
+      ],
+      "a": 3,
+      "e": "Carbon reacts with oxygen to form carbon dioxide.",
+      "d": "Easy",
+      "topic": "Global warming",
+      "slo": "Identify, explain or apply the concept of global warming."
+    },
+    {
+      "id": "CHEM9CH11-208",
+      "q": "Which fuel component is mainly responsible for SO2 emissions?",
+      "o": [
+        "Argon",
+        "Sulfur",
+        "Neon",
+        "Helium"
+      ],
+      "a": 1,
+      "e": "Sulfur impurities oxidize during fuel burning.",
+      "d": "Easy",
+      "topic": "Pollution prevention",
+      "slo": "Identify, explain or apply the concept of pollution prevention."
+    },
+    {
+      "id": "CHEM9CH11-209",
+      "q": "Which change would likely reduce CO emissions from a petrol engine?",
+      "o": [
+        "Disabling maintenance",
+        "Using faulty injectors",
+        "Improving combustion efficiency",
+        "Restricting oxygen supply severely"
+      ],
+      "a": 2,
+      "e": "More complete combustion reduces CO formation.",
+      "d": "Easy",
+      "topic": "Pollution prevention",
+      "slo": "Identify, explain or apply the concept of pollution prevention."
+    },
+    {
+      "id": "CHEM9CH11-210",
+      "q": "Choose the correct answer: which term describes reducing pollution at its source?",
+      "o": [
+        "Pollution relocation",
+        "Pollution concealment",
+        "Pollution dilution only",
+        "Pollution prevention"
+      ],
+      "a": 3,
+      "e": "Prevention seeks to avoid or minimize pollutant generation.",
+      "d": "Medium",
+      "topic": "Pollution prevention",
+      "slo": "Identify, explain or apply the concept of pollution prevention."
+    },
+    {
+      "id": "CHEM9CH11-211",
+      "q": "Choose the correct answer: which gas is the second most abundant in dry air?",
+      "o": [
+        "Oxygen",
+        "Carbon dioxide",
+        "Nitrogen",
+        "Argon"
+      ],
+      "a": 0,
+      "e": "Oxygen is second to nitrogen by volume.",
+      "d": "Medium",
+      "topic": "Composition of air",
+      "slo": "Identify, explain or apply the concept of composition of air."
+    },
+    {
+      "id": "CHEM9CH11-212",
+      "q": "Which process removes CO2 from air naturally?",
+      "o": [
+        "Petrol combustion",
+        "Coal combustion",
+        "Cement kiln emissions",
+        "Photosynthesis"
+      ],
+      "a": 3,
+      "e": "Photosynthesis fixes atmospheric carbon dioxide into organic matter.",
+      "d": "Easy",
+      "topic": "Global warming",
+      "slo": "Identify, explain or apply the concept of global warming."
+    },
+    {
+      "id": "CHEM9CH11-213",
+      "q": "Which natural event may release ash and gases into the air?",
+      "o": [
+        "Earth's rotation",
+        "Snow melting",
+        "Volcanic eruption",
+        "Dew formation"
+      ],
+      "a": 2,
+      "e": "Volcanoes release ash and gases.",
+      "d": "Easy",
+      "topic": "Air pollution",
+      "slo": "Identify, explain or apply the concept of air pollution."
+    },
+    {
+      "id": "CHEM9CH11-214",
+      "q": "Choose the correct answer: which atmospheric gas is chemically very unreactive because it is a noble gas?",
+      "o": [
+        "Argon",
+        "Carbon monoxide",
+        "Ozone",
+        "Oxygen"
+      ],
+      "a": 0,
+      "e": "Argon is a noble gas and is relatively inert.",
+      "d": "Medium",
+      "topic": "Composition of air",
+      "slo": "Identify, explain or apply the concept of composition of air."
+    },
+    {
+      "id": "CHEM9CH11-215",
+      "q": "Which term refers to the long-term rise in global mean temperature?",
+      "o": [
+        "Ozone hole",
+        "Thermal inversion",
+        "Acid rain",
+        "Global warming"
+      ],
+      "a": 3,
+      "e": "Global warming is the long-term rise in Earth's average temperature.",
+      "d": "Easy",
+      "topic": "Pollution prevention",
+      "slo": "Identify, explain or apply the concept of pollution prevention."
+    },
+    {
+      "id": "CHEM9CH11-216",
+      "q": "Which action reduces household energy-related emissions?",
+      "o": [
+        "Burning more coal",
+        "Improving energy efficiency",
+        "Increasing unnecessary travel",
+        "Leaving inefficient devices running"
+      ],
+      "a": 1,
+      "e": "Energy efficiency lowers fuel and electricity demand.",
+      "d": "Easy",
+      "topic": "Global warming",
+      "slo": "Identify, explain or apply the concept of global warming."
+    },
+    {
+      "id": "CHEM9CH11-217",
+      "q": "Which pollutant is commonly written SO2?",
+      "o": [
+        "Sulfur dioxide",
+        "Carbon monoxide",
+        "Sulfur trioxide",
+        "Nitrogen dioxide"
+      ],
+      "a": 0,
+      "e": "SO2 is sulfur dioxide.",
+      "d": "Easy",
+      "topic": "Air pollution",
+      "slo": "Identify, explain or apply the concept of air pollution."
+    },
+    {
+      "id": "CHEM9CH11-218",
+      "q": "Approximately what percentage of dry air is nitrogen?",
+      "o": [
+        "0.04%",
+        "1%",
+        "78%",
+        "21%"
+      ],
+      "a": 2,
+      "e": "Nitrogen accounts for about 78% of dry air by volume.",
+      "d": "Easy",
+      "topic": "Composition of air",
+      "slo": "Identify, explain or apply the concept of composition of air."
+    },
+    {
+      "id": "CHEM9CH11-219",
+      "q": "Choose the correct answer: which condition increases carbon monoxide production from a flame?",
+      "o": [
+        "Absence of carbon fuel",
+        "Insufficient oxygen supply",
+        "Complete combustion",
+        "Excess oxygen supply"
+      ],
+      "a": 1,
+      "e": "Insufficient oxygen favours incomplete combustion.",
+      "d": "Medium",
+      "topic": "Air pollution",
+      "slo": "Identify, explain or apply the concept of air pollution."
+    },
+    {
+      "id": "CHEM9CH11-220",
+      "q": "Choose the correct answer: which pollutant can bind strongly to haemoglobin?",
+      "o": [
+        "Nitrogen",
+        "Argon",
+        "Helium",
+        "Carbon monoxide"
+      ],
+      "a": 3,
+      "e": "Carbon monoxide reduces the blood's ability to transport oxygen.",
+      "d": "Medium",
+      "topic": "Air pollution",
+      "slo": "Identify, explain or apply the concept of air pollution."
+    },
+    {
+      "id": "CHEM9CH11-221",
+      "q": "Choose the correct answer: which pair comprises most of Earth's dry atmosphere?",
+      "o": [
+        "Water vapour and methane",
+        "Carbon dioxide and oxygen",
+        "Nitrogen and oxygen",
+        "Argon and ozone"
+      ],
+      "a": 2,
+      "e": "Nitrogen and oxygen together account for about 99% of dry air.",
+      "d": "Medium",
+      "topic": "Composition of air",
+      "slo": "Identify, explain or apply the concept of composition of air."
+    },
+    {
+      "id": "CHEM9CH11-222",
+      "q": "Class 9 environmental chemistry check: which condition increases carbon monoxide production from a flame?",
+      "o": [
+        "Absence of carbon fuel",
+        "Insufficient oxygen supply",
+        "Complete combustion",
+        "Excess oxygen supply"
+      ],
+      "a": 1,
+      "e": "Insufficient oxygen favours incomplete combustion.",
+      "d": "Medium",
+      "topic": "Air pollution",
+      "slo": "Identify, explain or apply the concept of air pollution."
+    },
+    {
+      "id": "CHEM9CH11-223",
+      "q": "Which term refers to solid or liquid particles suspended in air?",
+      "o": [
+        "Pure nitrogen",
+        "Liquid water only",
+        "Particulate matter",
+        "Dissolved salts"
+      ],
+      "a": 2,
+      "e": "Particulate matter comprises small suspended particles or droplets.",
+      "d": "Easy",
+      "topic": "Air pollution",
+      "slo": "Identify, explain or apply the concept of air pollution."
+    },
+    {
+      "id": "CHEM9CH11-224",
+      "q": "Why does deforestation contribute to atmospheric CO2 buildup?",
+      "o": [
+        "Deforestation stops Earth's rotation",
+        "Forests convert CO2 to nitrogen",
+        "Fewer trees remove CO2 by photosynthesis",
+        "Trees manufacture argon"
+      ],
+      "a": 2,
+      "e": "Removing trees reduces photosynthetic uptake of CO2.",
+      "d": "Easy",
+      "topic": "Global warming",
+      "slo": "Identify, explain or apply the concept of global warming."
+    },
+    {
+      "id": "CHEM9CH11-225",
+      "q": "Choose the correct answer: which fuel releases CO2 when burned completely?",
+      "o": [
+        "Helium",
+        "Hydrogen",
+        "Argon",
+        "Methane"
+      ],
+      "a": 3,
+      "e": "Complete combustion of methane produces CO2 and water.",
+      "d": "Medium",
+      "topic": "Global warming",
+      "slo": "Identify, explain or apply the concept of global warming."
+    },
+    {
+      "id": "CHEM9CH11-226",
+      "q": "Class 9 environmental chemistry check: which activity commonly releases several air pollutants?",
+      "o": [
+        "Freezing of water",
+        "Condensation of water vapour",
+        "Dissolving salt in water",
+        "Burning fossil fuels"
+      ],
+      "a": 3,
+      "e": "Fuel combustion releases gases and sometimes particulate matter.",
+      "d": "Medium",
+      "topic": "Air pollution",
+      "slo": "Identify, explain or apply the concept of air pollution."
+    },
+    {
+      "id": "CHEM9CH11-227",
+      "q": "Which option usually emits fewer direct exhaust pollutants while operating?",
+      "o": [
+        "Diesel bus with faulty engine",
+        "Petrol motorcycle",
+        "Electric bicycle",
+        "Old two-stroke scooter"
+      ],
+      "a": 2,
+      "e": "An electric bicycle has no tailpipe emissions during operation.",
+      "d": "Easy",
+      "topic": "Pollution prevention",
+      "slo": "Identify, explain or apply the concept of pollution prevention."
+    },
+    {
+      "id": "CHEM9CH11-228",
+      "q": "Which urban measure can help improve air quality?",
+      "o": [
+        "Increasing open burning",
+        "Removing all vegetation",
+        "Disabling public transport",
+        "Planting and protecting urban trees"
+      ],
+      "a": 3,
+      "e": "Urban greenery can help capture some pollutants and reduce heat.",
+      "d": "Easy",
+      "topic": "Pollution prevention",
+      "slo": "Identify, explain or apply the concept of pollution prevention."
+    },
+    {
+      "id": "CHEM9CH11-229",
+      "q": "Which activity helps communities assess local pollution?",
+      "o": [
+        "Monitoring particulate and gas concentrations",
+        "Using only temperature as AQI",
+        "Burning waste to test air",
+        "Ignoring pollution measurements"
+      ],
+      "a": 0,
+      "e": "Monitoring provides evidence of pollutant levels.",
+      "d": "Easy",
+      "topic": "Pollution prevention",
+      "slo": "Identify, explain or apply the concept of pollution prevention."
+    },
+    {
+      "id": "CHEM9CH11-230",
+      "q": "Choose the correct answer: which pollutant is commonly written NO2?",
+      "o": [
+        "Nitrogen monoxide",
+        "Sulfur dioxide",
+        "Nitrogen dioxide",
+        "Carbon dioxide"
+      ],
+      "a": 2,
+      "e": "NO2 is nitrogen dioxide.",
+      "d": "Medium",
+      "topic": "Air pollution",
+      "slo": "Identify, explain or apply the concept of air pollution."
+    },
+    {
+      "id": "CHEM9CH11-231",
+      "q": "Class 9 environmental chemistry check: which pollutant can form when sulfur-containing coal burns?",
+      "o": [
+        "Neon",
+        "Helium",
+        "Sulfur dioxide",
+        "Argon"
+      ],
+      "a": 2,
+      "e": "Sulfur in fuels is oxidized to sulfur dioxide.",
+      "d": "Medium",
+      "topic": "Air pollution",
+      "slo": "Identify, explain or apply the concept of air pollution."
+    },
+    {
+      "id": "CHEM9CH11-232",
+      "q": "Choose the correct answer: which process removes CO2 from air naturally?",
+      "o": [
+        "Photosynthesis",
+        "Petrol combustion",
+        "Cement kiln emissions",
+        "Coal combustion"
+      ],
+      "a": 0,
+      "e": "Photosynthesis fixes atmospheric carbon dioxide into organic matter.",
+      "d": "Medium",
+      "topic": "Global warming",
+      "slo": "Identify, explain or apply the concept of global warming."
+    },
+    {
+      "id": "CHEM9CH11-233",
+      "q": "Which pollutant family contributes to acid rain?",
+      "o": [
+        "Noble gases",
+        "Nitrogen oxides",
+        "Water vapour only",
+        "Halogens only"
+      ],
+      "a": 1,
+      "e": "Nitrogen oxides form nitric acid in atmospheric reactions.",
+      "d": "Easy",
+      "topic": "Air pollution",
+      "slo": "Identify, explain or apply the concept of air pollution."
+    },
+    {
+      "id": "CHEM9CH11-234",
+      "q": "Which pair is important in forming photochemical smog?",
+      "o": [
+        "Nitrogen oxides and volatile organic compounds",
+        "Oxygen and water only",
+        "Helium and neon",
+        "Nitrogen and argon"
+      ],
+      "a": 0,
+      "e": "NOx and volatile organic compounds react in sunlight to form smog pollutants.",
+      "d": "Easy",
+      "topic": "Air pollution",
+      "slo": "Identify, explain or apply the concept of air pollution."
+    },
+    {
+      "id": "CHEM9CH11-235",
+      "q": "Choose the correct answer: which gas makes up about 0.04% of dry air?",
+      "o": [
+        "Nitrogen",
+        "Oxygen",
+        "Carbon dioxide",
+        "Argon"
+      ],
+      "a": 2,
+      "e": "Carbon dioxide is a trace gas in the atmosphere.",
+      "d": "Medium",
+      "topic": "Composition of air",
+      "slo": "Identify, explain or apply the concept of composition of air."
+    },
+    {
+      "id": "CHEM9CH11-236",
+      "q": "Choose the correct answer: which device removes particulate matter from industrial exhaust?",
+      "o": [
+        "Burette",
+        "Electrostatic precipitator",
+        "Distillation flask",
+        "Ordinary thermometer"
+      ],
+      "a": 1,
+      "e": "Electrostatic precipitators capture fine particles from exhaust gases.",
+      "d": "Medium",
+      "topic": "Pollution prevention",
+      "slo": "Identify, explain or apply the concept of pollution prevention."
+    },
+    {
+      "id": "CHEM9CH11-237",
+      "q": "Class 9 environmental chemistry check: which source is associated with traffic-related air pollution?",
+      "o": [
+        "Evaporation from lakes",
+        "Vehicle exhaust",
+        "Sea tides",
+        "Formation of clouds"
+      ],
+      "a": 1,
+      "e": "Vehicle exhaust contains gases and particulates.",
+      "d": "Medium",
+      "topic": "Air pollution",
+      "slo": "Identify, explain or apply the concept of air pollution."
+    },
+    {
+      "id": "CHEM9CH11-238",
+      "q": "Which source is associated with industrial air pollution?",
+      "o": [
+        "Formation of rainbows",
+        "Photosynthesis alone",
+        "Moonlight",
+        "Factory emissions"
+      ],
+      "a": 3,
+      "e": "Factories may emit pollutants during industrial processes.",
+      "d": "Easy",
+      "topic": "Air pollution",
+      "slo": "Identify, explain or apply the concept of air pollution."
+    },
+    {
+      "id": "CHEM9CH11-239",
+      "q": "Which gas makes up the largest fraction of dry air?",
+      "o": [
+        "Nitrogen",
+        "Oxygen",
+        "Carbon dioxide",
+        "Argon"
+      ],
+      "a": 0,
+      "e": "Dry air is approximately 78% nitrogen.",
+      "d": "Easy",
+      "topic": "Composition of air",
+      "slo": "Identify, explain or apply the concept of composition of air."
+    },
+    {
+      "id": "CHEM9CH11-240",
+      "q": "Choose the correct answer: which energy choice can reduce fossil-fuel CO2 emissions?",
+      "o": [
+        "Uncontrolled coal burning",
+        "Open waste burning",
+        "Solar power",
+        "Diesel generators only"
+      ],
+      "a": 2,
+      "e": "Solar electricity does not require burning fossil fuel during operation.",
+      "d": "Medium",
+      "topic": "Global warming",
+      "slo": "Identify, explain or apply the concept of global warming."
+    },
+    {
+      "id": "CHEM9CH11-241",
+      "q": "Choose the correct answer: which practice directly reduces dust from construction sites?",
+      "o": [
+        "Dry sweeping during strong winds",
+        "Blowing dust into streets",
+        "Leaving sand uncovered",
+        "Covering loose materials and controlling dust"
+      ],
+      "a": 3,
+      "e": "Dust suppression reduces airborne particles.",
+      "d": "Medium",
+      "topic": "Pollution prevention",
+      "slo": "Identify, explain or apply the concept of pollution prevention."
+    },
+    {
+      "id": "CHEM9CH11-242",
+      "q": "Choose the correct answer: approximately what percentage of dry air is nitrogen?",
+      "o": [
+        "0.04%",
+        "1%",
+        "21%",
+        "78%"
+      ],
+      "a": 3,
+      "e": "Nitrogen accounts for about 78% of dry air by volume.",
+      "d": "Medium",
+      "topic": "Composition of air",
+      "slo": "Identify, explain or apply the concept of composition of air."
+    },
+    {
+      "id": "CHEM9CH11-243",
+      "q": "Choose the correct answer: which urban measure can help improve air quality?",
+      "o": [
+        "Planting and protecting urban trees",
+        "Disabling public transport",
+        "Increasing open burning",
+        "Removing all vegetation"
+      ],
+      "a": 0,
+      "e": "Urban greenery can help capture some pollutants and reduce heat.",
+      "d": "Medium",
+      "topic": "Pollution prevention",
+      "slo": "Identify, explain or apply the concept of pollution prevention."
+    },
+    {
+      "id": "CHEM9CH11-244",
+      "q": "Class 9 environmental chemistry check: which pollutant family contributes to acid rain?",
+      "o": [
+        "Noble gases",
+        "Halogens only",
+        "Nitrogen oxides",
+        "Water vapour only"
+      ],
+      "a": 2,
+      "e": "Nitrogen oxides form nitric acid in atmospheric reactions.",
+      "d": "Medium",
+      "topic": "Air pollution",
+      "slo": "Identify, explain or apply the concept of air pollution."
+    },
+    {
+      "id": "CHEM9CH11-245",
+      "q": "Class 9 environmental chemistry check: why are very fine particles a health concern?",
+      "o": [
+        "They increase oxygen concentration",
+        "They can enter deep into the lungs",
+        "They are always harmless",
+        "They remove all pathogens"
+      ],
+      "a": 1,
+      "e": "Fine particles may penetrate deeply into the respiratory system.",
+      "d": "Medium",
+      "topic": "Air pollution",
+      "slo": "Identify, explain or apply the concept of air pollution."
+    },
+    {
+      "id": "CHEM9CH11-246",
+      "q": "What is the chemical formula of ozone?",
+      "o": [
+        "O3",
+        "NO3",
+        "CO3",
+        "O2"
+      ],
+      "a": 0,
+      "e": "Ozone consists of three oxygen atoms per molecule.",
+      "d": "Easy",
+      "topic": "Ozone and air quality",
+      "slo": "Identify, explain or apply the concept of ozone and air quality."
+    },
+    {
+      "id": "CHEM9CH11-247",
+      "q": "Which everyday practice can reduce open-burning pollution?",
+      "o": [
+        "Burning leaves beside homes",
+        "Burning tyres",
+        "Avoid burning household waste",
+        "Burning plastic waste"
+      ],
+      "a": 2,
+      "e": "Avoiding open burning prevents release of toxic smoke and particles.",
+      "d": "Easy",
+      "topic": "Pollution prevention",
+      "slo": "Identify, explain or apply the concept of pollution prevention."
+    },
+    {
+      "id": "CHEM9CH11-248",
+      "q": "Which emissions increase when high-temperature engines oxidize atmospheric nitrogen?",
+      "o": [
+        "Nitrogen oxides",
+        "Argon",
+        "Water vapour alone",
+        "Helium"
+      ],
+      "a": 0,
+      "e": "High temperatures promote formation of nitrogen oxides.",
+      "d": "Easy",
+      "topic": "Air pollution",
+      "slo": "Identify, explain or apply the concept of air pollution."
+    },
+    {
+      "id": "CHEM9CH11-249",
+      "q": "Which gas in air is needed for aerobic respiration?",
+      "o": [
+        "Nitrogen",
+        "Neon",
+        "Argon",
+        "Oxygen"
+      ],
+      "a": 3,
+      "e": "Aerobic respiration consumes oxygen.",
+      "d": "Easy",
+      "topic": "Composition of air",
+      "slo": "Identify, explain or apply the concept of composition of air."
+    },
+    {
+      "id": "CHEM9CH11-250",
+      "q": "Which source is renewable?",
+      "o": [
+        "Natural gas",
+        "Coal",
+        "Wind energy",
+        "Petroleum"
+      ],
+      "a": 2,
+      "e": "Wind is replenished naturally and produces no direct combustion emissions.",
+      "d": "Easy",
+      "topic": "Global warming",
+      "slo": "Identify, explain or apply the concept of global warming."
+    },
+    {
+      "id": "CHEM9CH11-251",
+      "q": "Which effect may result from acid rain on limestone buildings?",
+      "o": [
+        "Permanent strengthening",
+        "Formation of metallic iron",
+        "Conversion into diamond",
+        "Surface erosion"
+      ],
+      "a": 3,
+      "e": "Acids react with calcium carbonate in limestone.",
+      "d": "Easy",
+      "topic": "Acid rain",
+      "slo": "Identify, explain or apply the concept of acid rain."
+    },
+    {
+      "id": "CHEM9CH11-252",
+      "q": "Class 9 environmental chemistry check: which atmospheric constituent varies substantially with humidity?",
+      "o": [
+        "Nitrogen",
+        "Neon",
+        "Argon",
+        "Water vapour"
+      ],
+      "a": 3,
+      "e": "Water vapour concentration varies with weather and location.",
+      "d": "Medium",
+      "topic": "Composition of air",
+      "slo": "Identify, explain or apply the concept of composition of air."
+    },
+    {
+      "id": "CHEM9CH11-253",
+      "q": "Choose the correct answer: which term describes the deterioration of air due to contaminants?",
+      "o": [
+        "Air pollution",
+        "Condensation",
+        "Photosynthesis",
+        "Respiration"
+      ],
+      "a": 0,
+      "e": "Air pollution involves harmful contaminants in the atmosphere.",
+      "d": "Medium",
+      "topic": "Pollution prevention",
+      "slo": "Identify, explain or apply the concept of pollution prevention."
+    },
+    {
+      "id": "CHEM9CH11-254",
+      "q": "Choose the correct answer: why are very fine particles a health concern?",
+      "o": [
+        "They remove all pathogens",
+        "They can enter deep into the lungs",
+        "They are always harmless",
+        "They increase oxygen concentration"
+      ],
+      "a": 1,
+      "e": "Fine particles may penetrate deeply into the respiratory system.",
+      "d": "Medium",
+      "topic": "Air pollution",
+      "slo": "Identify, explain or apply the concept of air pollution."
+    },
+    {
+      "id": "CHEM9CH11-255",
+      "q": "Choose the correct answer: which is a common secondary air pollutant?",
+      "o": [
+        "Soot from a chimney",
+        "Ground-level ozone",
+        "Sulfur dioxide from a furnace",
+        "Carbon monoxide from exhaust"
+      ],
+      "a": 1,
+      "e": "Ground-level ozone forms through atmospheric photochemistry.",
+      "d": "Medium",
+      "topic": "Air pollution",
+      "slo": "Identify, explain or apply the concept of air pollution."
+    },
+    {
+      "id": "CHEM9CH11-256",
+      "q": "Choose the correct answer: which atmospheric pollutant is strongly associated with photochemical smog?",
+      "o": [
+        "Nitrogen",
+        "Ground-level ozone",
+        "Argon",
+        "Helium"
+      ],
+      "a": 1,
+      "e": "Ground-level ozone forms through sunlight-driven reactions of pollutants.",
+      "d": "Medium",
+      "topic": "Air pollution",
+      "slo": "Identify, explain or apply the concept of air pollution."
+    },
+    {
+      "id": "CHEM9CH11-257",
+      "q": "Choose the correct answer: what is the greenhouse effect?",
+      "o": [
+        "Conversion of sunlight into sound",
+        "Cooling by argon only",
+        "Warming caused by gases absorbing outgoing infrared radiation",
+        "Reflection of all sunlight into space"
+      ],
+      "a": 2,
+      "e": "Greenhouse gases absorb and re-emit infrared radiation.",
+      "d": "Medium",
+      "topic": "Global warming",
+      "slo": "Identify, explain or apply the concept of global warming."
+    },
+    {
+      "id": "CHEM9CH11-258",
+      "q": "Which is a common secondary air pollutant?",
+      "o": [
+        "Ground-level ozone",
+        "Carbon monoxide from exhaust",
+        "Sulfur dioxide from a furnace",
+        "Soot from a chimney"
+      ],
+      "a": 0,
+      "e": "Ground-level ozone forms through atmospheric photochemistry.",
+      "d": "Easy",
+      "topic": "Air pollution",
+      "slo": "Identify, explain or apply the concept of air pollution."
+    },
+    {
+      "id": "CHEM9CH11-259",
+      "q": "Which is an example of a gaseous air pollutant?",
+      "o": [
+        "Neon",
+        "Argon",
+        "Sulfur dioxide",
+        "Helium"
+      ],
+      "a": 2,
+      "e": "Sulfur dioxide is an air pollutant released during fuel combustion.",
+      "d": "Easy",
+      "topic": "Air pollution",
+      "slo": "Identify, explain or apply the concept of air pollution."
+    },
+    {
+      "id": "CHEM9CH11-260",
+      "q": "Where is protective ozone mainly found?",
+      "o": [
+        "Stratosphere",
+        "Lithosphere",
+        "Hydrosphere",
+        "Troposphere only"
+      ],
+      "a": 0,
+      "e": "The stratospheric ozone layer absorbs harmful ultraviolet radiation.",
+      "d": "Easy",
+      "topic": "Ozone and air quality",
+      "slo": "Identify, explain or apply the concept of ozone and air quality."
+    },
+    {
+      "id": "CHEM9CH11-261",
+      "q": "Which rain sample is more acidic?",
+      "o": [
+        "pH 4",
+        "pH 6",
+        "pH 8",
+        "pH 7"
+      ],
+      "a": 0,
+      "e": "Lower pH indicates higher acidity.",
+      "d": "Easy",
+      "topic": "Acid rain",
+      "slo": "Identify, explain or apply the concept of acid rain."
+    },
+    {
+      "id": "CHEM9CH11-262",
+      "q": "What is the main purpose of a catalytic converter in a vehicle?",
+      "o": [
+        "Convert harmful exhaust gases into less harmful substances",
+        "Release more nitrogen oxides",
+        "Increase carbon monoxide output",
+        "Remove oxygen from air"
+      ],
+      "a": 0,
+      "e": "Catalytic converters promote reactions that reduce CO, NOx and hydrocarbons.",
+      "d": "Easy",
+      "topic": "Pollution prevention",
+      "slo": "Identify, explain or apply the concept of pollution prevention."
+    },
+    {
+      "id": "CHEM9CH11-263",
+      "q": "Choose the correct answer: which is an example of a gaseous air pollutant?",
+      "o": [
+        "Sulfur dioxide",
+        "Neon",
+        "Helium",
+        "Argon"
+      ],
+      "a": 0,
+      "e": "Sulfur dioxide is an air pollutant released during fuel combustion.",
+      "d": "Medium",
+      "topic": "Air pollution",
+      "slo": "Identify, explain or apply the concept of air pollution."
+    },
+    {
+      "id": "CHEM9CH11-264",
+      "q": "Class 9 environmental chemistry check: which gas makes up the largest fraction of dry air?",
+      "o": [
+        "Oxygen",
+        "Argon",
+        "Carbon dioxide",
+        "Nitrogen"
+      ],
+      "a": 3,
+      "e": "Dry air is approximately 78% nitrogen.",
+      "d": "Medium",
+      "topic": "Composition of air",
+      "slo": "Identify, explain or apply the concept of composition of air."
+    },
+    {
+      "id": "CHEM9CH11-265",
+      "q": "Choose the correct answer: what is the main goal of sustainable transport?",
+      "o": [
+        "Increase fuel waste",
+        "Eliminate walking",
+        "Reduce environmental impacts of travel",
+        "Increase congestion deliberately"
+      ],
+      "a": 2,
+      "e": "Sustainable transport reduces emissions and resource use.",
+      "d": "Medium",
+      "topic": "Pollution prevention",
+      "slo": "Identify, explain or apply the concept of pollution prevention."
+    },
+    {
+      "id": "CHEM9CH11-266",
+      "q": "How can acid rain affect soil?",
+      "o": [
+        "Create unlimited fertilizer",
+        "Always raise soil pH",
+        "Eliminate all metal ions",
+        "Leach essential nutrients"
+      ],
+      "a": 3,
+      "e": "Acidification can leach nutrients and mobilize harmful metals.",
+      "d": "Easy",
+      "topic": "Acid rain",
+      "slo": "Identify, explain or apply the concept of acid rain."
+    },
+    {
+      "id": "CHEM9CH11-267",
+      "q": "Choose the correct answer: what role does sunlight play in photochemical smog formation?",
+      "o": [
+        "It prevents nitrogen oxide reactions",
+        "It eliminates all pollutants",
+        "It converts argon into oxygen",
+        "It drives photochemical reactions"
+      ],
+      "a": 3,
+      "e": "Sunlight initiates chemical reactions that form secondary pollutants.",
+      "d": "Medium",
+      "topic": "Air pollution",
+      "slo": "Identify, explain or apply the concept of air pollution."
+    },
+    {
+      "id": "CHEM9CH11-268",
+      "q": "Choose the correct answer: which strategy is most effective for waste-related smoke?",
+      "o": [
+        "Reduce waste and avoid open burning",
+        "Burn tyres at night",
+        "Mix waste with fuel",
+        "Burn plastic openly"
+      ],
+      "a": 0,
+      "e": "Waste reduction and proper disposal prevent smoke emissions.",
+      "d": "Medium",
+      "topic": "Pollution prevention",
+      "slo": "Identify, explain or apply the concept of pollution prevention."
+    },
+    {
+      "id": "CHEM9CH11-269",
+      "q": "Choose the correct answer: which pollutant can form when sulfur-containing coal burns?",
+      "o": [
+        "Argon",
+        "Neon",
+        "Helium",
+        "Sulfur dioxide"
+      ],
+      "a": 3,
+      "e": "Sulfur in fuels is oxidized to sulfur dioxide.",
+      "d": "Medium",
+      "topic": "Air pollution",
+      "slo": "Identify, explain or apply the concept of air pollution."
+    },
+    {
+      "id": "CHEM9CH11-270",
+      "q": "Choose the correct answer: which instrument reports air pollution levels through a public index?",
+      "o": [
+        "pH paper only",
+        "Air Quality Index",
+        "Barometer only",
+        "Richter scale"
+      ],
+      "a": 1,
+      "e": "The Air Quality Index communicates ambient air-pollution levels.",
+      "d": "Medium",
+      "topic": "Ozone and air quality",
+      "slo": "Identify, explain or apply the concept of ozone and air quality."
+    },
+    {
+      "id": "CHEM9CH11-271",
+      "q": "Choose the correct answer: which naturally occurring greenhouse gas is highly variable in air?",
+      "o": [
+        "Nitrogen",
+        "Neon",
+        "Water vapour",
+        "Argon"
+      ],
+      "a": 2,
+      "e": "Water vapour contributes to the natural greenhouse effect.",
+      "d": "Medium",
+      "topic": "Global warming",
+      "slo": "Identify, explain or apply the concept of global warming."
+    },
+    {
+      "id": "CHEM9CH11-272",
+      "q": "Choose the correct answer: which exhaust gas can a catalytic converter oxidize to CO2?",
+      "o": [
+        "Argon",
+        "Helium",
+        "Neon",
+        "Carbon monoxide"
+      ],
+      "a": 3,
+      "e": "Catalytic converters can oxidize carbon monoxide to carbon dioxide.",
+      "d": "Medium",
+      "topic": "Pollution prevention",
+      "slo": "Identify, explain or apply the concept of pollution prevention."
+    },
+    {
+      "id": "CHEM9CH11-273",
+      "q": "Which atmospheric constituent varies substantially with humidity?",
+      "o": [
+        "Argon",
+        "Neon",
+        "Nitrogen",
+        "Water vapour"
+      ],
+      "a": 3,
+      "e": "Water vapour concentration varies with weather and location.",
+      "d": "Easy",
+      "topic": "Composition of air",
+      "slo": "Identify, explain or apply the concept of composition of air."
+    },
+    {
+      "id": "CHEM9CH11-274",
+      "q": "Choose the correct answer: what is smog?",
+      "o": [
+        "A polluted atmospheric haze",
+        "A layer of clean oxygen",
+        "A noble gas",
+        "Pure water vapour only"
+      ],
+      "a": 0,
+      "e": "Smog is polluted haze formed from smoke or photochemical pollutants.",
+      "d": "Medium",
+      "topic": "Air pollution",
+      "slo": "Identify, explain or apply the concept of air pollution."
+    },
+    {
+      "id": "CHEM9CH11-275",
+      "q": "Which compound is the primary acid-forming oxide from sulfur-containing fuel combustion?",
+      "o": [
+        "Sulfur dioxide",
+        "Neon",
+        "Carbon monoxide",
+        "Argon"
+      ],
+      "a": 0,
+      "e": "SO2 can be oxidized and hydrated to produce sulfuric acid.",
+      "d": "Easy",
+      "topic": "Pollution prevention",
+      "slo": "Identify, explain or apply the concept of pollution prevention."
+    },
+    {
+      "id": "CHEM9CH11-276",
+      "q": "Which of these is a major component of clean dry air?",
+      "o": [
+        "Oxygen",
+        "Carbon monoxide",
+        "Nitrogen dioxide",
+        "Sulfur dioxide"
+      ],
+      "a": 0,
+      "e": "Oxygen is a major component of clean dry air.",
+      "d": "Easy",
+      "topic": "Composition of air",
+      "slo": "Identify, explain or apply the concept of composition of air."
+    },
+    {
+      "id": "CHEM9CH11-277",
+      "q": "Which gas in air is used by green plants during photosynthesis?",
+      "o": [
+        "Carbon dioxide",
+        "Nitrogen dioxide",
+        "Argon",
+        "Sulfur dioxide"
+      ],
+      "a": 0,
+      "e": "Plants use carbon dioxide in photosynthesis.",
+      "d": "Easy",
+      "topic": "Composition of air",
+      "slo": "Identify, explain or apply the concept of composition of air."
+    },
+    {
+      "id": "CHEM9CH11-278",
+      "q": "Class 9 environmental chemistry check: which gas in air is used by green plants during photosynthesis?",
+      "o": [
+        "Carbon dioxide",
+        "Sulfur dioxide",
+        "Nitrogen dioxide",
+        "Argon"
+      ],
+      "a": 0,
+      "e": "Plants use carbon dioxide in photosynthesis.",
+      "d": "Medium",
+      "topic": "Composition of air",
+      "slo": "Identify, explain or apply the concept of composition of air."
+    },
+    {
+      "id": "CHEM9CH11-279",
+      "q": "Which environmental problem can arise from excessive nitrogen oxides?",
+      "o": [
+        "No atmospheric reactions",
+        "Acid rain and smog",
+        "Permanent removal of oxygen",
+        "Conversion of nitrogen into argon"
+      ],
+      "a": 1,
+      "e": "NOx participates in acid formation and photochemical smog.",
+      "d": "Easy",
+      "topic": "Pollution prevention",
+      "slo": "Identify, explain or apply the concept of pollution prevention."
+    },
+    {
+      "id": "CHEM9CH11-280",
+      "q": "Choose the correct answer: approximately what percentage of dry air is oxygen?",
+      "o": [
+        "0.04%",
+        "21%",
+        "78%",
+        "50%"
+      ],
+      "a": 1,
+      "e": "Oxygen accounts for about 21% of dry air by volume.",
+      "d": "Medium",
+      "topic": "Composition of air",
+      "slo": "Identify, explain or apply the concept of composition of air."
+    },
+    {
+      "id": "CHEM9CH11-281",
+      "q": "Class 9 environmental chemistry check: which pollutant can bind strongly to haemoglobin?",
+      "o": [
+        "Argon",
+        "Carbon monoxide",
+        "Helium",
+        "Nitrogen"
+      ],
+      "a": 1,
+      "e": "Carbon monoxide reduces the blood's ability to transport oxygen.",
+      "d": "Medium",
+      "topic": "Air pollution",
+      "slo": "Identify, explain or apply the concept of air pollution."
+    },
+    {
+      "id": "CHEM9CH11-282",
+      "q": "Which observation indicates that a city may have a serious particulate pollution problem?",
+      "o": [
+        "Presence of atmospheric nitrogen",
+        "Persistent haze and high PM readings",
+        "Clear skies and low PM readings",
+        "Normal humidity alone"
+      ],
+      "a": 1,
+      "e": "Haze with elevated PM measurements suggests particulate pollution.",
+      "d": "Easy",
+      "topic": "Pollution prevention",
+      "slo": "Identify, explain or apply the concept of pollution prevention."
+    },
+    {
+      "id": "CHEM9CH11-283",
+      "q": "What is the product of complete combustion of carbon in oxygen?",
+      "o": [
+        "Sulfur dioxide",
+        "Nitrogen dioxide",
+        "Carbon monoxide only",
+        "Carbon dioxide"
+      ],
+      "a": 3,
+      "e": "Complete combustion of carbon produces CO2.",
+      "d": "Easy",
+      "topic": "Global warming",
+      "slo": "Identify, explain or apply the concept of global warming."
+    },
+    {
+      "id": "CHEM9CH11-284",
+      "q": "Which pair comprises most of Earth's dry atmosphere?",
+      "o": [
+        "Water vapour and methane",
+        "Nitrogen and oxygen",
+        "Carbon dioxide and oxygen",
+        "Argon and ozone"
+      ],
+      "a": 1,
+      "e": "Nitrogen and oxygen together account for about 99% of dry air.",
+      "d": "Easy",
+      "topic": "Composition of air",
+      "slo": "Identify, explain or apply the concept of composition of air."
+    },
+    {
+      "id": "CHEM9CH11-285",
+      "q": "Choose the correct answer: which substance can react with SO2 during flue-gas treatment?",
+      "o": [
+        "Neon",
+        "Calcium carbonate",
+        "Argon",
+        "Helium"
+      ],
+      "a": 1,
+      "e": "Limestone-based scrubbers capture sulfur dioxide.",
+      "d": "Medium",
+      "topic": "Pollution prevention",
+      "slo": "Identify, explain or apply the concept of pollution prevention."
+    },
+    {
+      "id": "CHEM9CH11-286",
+      "q": "Choose the correct answer: which is an example of particulate air pollution?",
+      "o": [
+        "Argon",
+        "Oxygen",
+        "Soot",
+        "Nitrogen"
+      ],
+      "a": 2,
+      "e": "Soot consists of fine solid particles suspended in air.",
+      "d": "Medium",
+      "topic": "Air pollution",
+      "slo": "Identify, explain or apply the concept of air pollution."
+    },
+    {
+      "id": "CHEM9CH11-287",
+      "q": "Why are very fine particles a health concern?",
+      "o": [
+        "They remove all pathogens",
+        "They increase oxygen concentration",
+        "They can enter deep into the lungs",
+        "They are always harmless"
+      ],
+      "a": 2,
+      "e": "Fine particles may penetrate deeply into the respiratory system.",
+      "d": "Easy",
+      "topic": "Air pollution",
+      "slo": "Identify, explain or apply the concept of air pollution."
+    },
+    {
+      "id": "CHEM9CH11-288",
+      "q": "Choose the correct answer: which technology reduces sulfur dioxide in power-station flue gases?",
+      "o": [
+        "Increasing soot emissions",
+        "Flue-gas desulfurization",
+        "Adding more sulfur to coal",
+        "Removing chimneys"
+      ],
+      "a": 1,
+      "e": "Flue-gas desulfurization removes sulfur dioxide from exhaust gases.",
+      "d": "Medium",
+      "topic": "Acid rain",
+      "slo": "Identify, explain or apply the concept of acid rain."
+    },
+    {
+      "id": "CHEM9CH11-289",
+      "q": "Which group is especially vulnerable to poor air quality?",
+      "o": [
+        "People with asthma",
+        "People wearing blue clothes",
+        "Only deep-sea organisms",
+        "Only healthy adults"
+      ],
+      "a": 0,
+      "e": "Air pollution can trigger asthma and worsen respiratory symptoms.",
+      "d": "Easy",
+      "topic": "Ozone and air quality",
+      "slo": "Identify, explain or apply the concept of ozone and air quality."
+    },
+    {
+      "id": "CHEM9CH11-290",
+      "q": "Which activity commonly releases several air pollutants?",
+      "o": [
+        "Freezing of water",
+        "Dissolving salt in water",
+        "Condensation of water vapour",
+        "Burning fossil fuels"
+      ],
+      "a": 3,
+      "e": "Fuel combustion releases gases and sometimes particulate matter.",
+      "d": "Easy",
+      "topic": "Air pollution",
+      "slo": "Identify, explain or apply the concept of air pollution."
+    },
+    {
+      "id": "CHEM9CH11-291",
+      "q": "Class 9 environmental chemistry check: which pollutant is a major contributor to acid rain?",
+      "o": [
+        "Sulfur dioxide",
+        "Argon",
+        "Helium",
+        "Nitrogen"
+      ],
+      "a": 0,
+      "e": "Sulfur dioxide can form acids after atmospheric oxidation.",
+      "d": "Medium",
+      "topic": "Air pollution",
+      "slo": "Identify, explain or apply the concept of air pollution."
+    },
+    {
+      "id": "CHEM9CH11-292",
+      "q": "Choose the correct answer: which practice reduces vehicle emissions?",
+      "o": [
+        "Using poor-quality fuel deliberately",
+        "Removing exhaust treatment",
+        "Driving with a malfunctioning engine",
+        "Regular engine maintenance"
+      ],
+      "a": 3,
+      "e": "Well-maintained engines generally burn fuel more efficiently.",
+      "d": "Medium",
+      "topic": "Pollution prevention",
+      "slo": "Identify, explain or apply the concept of pollution prevention."
+    },
+    {
+      "id": "CHEM9CH11-293",
+      "q": "Which term describes reducing pollution at its source?",
+      "o": [
+        "Pollution concealment",
+        "Pollution relocation",
+        "Pollution dilution only",
+        "Pollution prevention"
+      ],
+      "a": 3,
+      "e": "Prevention seeks to avoid or minimize pollutant generation.",
+      "d": "Easy",
+      "topic": "Pollution prevention",
+      "slo": "Identify, explain or apply the concept of pollution prevention."
+    },
+    {
+      "id": "CHEM9CH11-294",
+      "q": "Choose the correct answer: which pollutant is a major contributor to acid rain?",
+      "o": [
+        "Nitrogen",
+        "Helium",
+        "Argon",
+        "Sulfur dioxide"
+      ],
+      "a": 3,
+      "e": "Sulfur dioxide can form acids after atmospheric oxidation.",
+      "d": "Medium",
+      "topic": "Air pollution",
+      "slo": "Identify, explain or apply the concept of air pollution."
+    },
+    {
+      "id": "CHEM9CH11-295",
+      "q": "Choose the correct answer: which pollutant family contributes to acid rain?",
+      "o": [
+        "Nitrogen oxides",
+        "Noble gases",
+        "Halogens only",
+        "Water vapour only"
+      ],
+      "a": 0,
+      "e": "Nitrogen oxides form nitric acid in atmospheric reactions.",
+      "d": "Medium",
+      "topic": "Air pollution",
+      "slo": "Identify, explain or apply the concept of air pollution."
+    },
+    {
+      "id": "CHEM9CH11-296",
+      "q": "Which energy source produces electricity without combustion at the point of generation?",
+      "o": [
+        "Solar photovoltaic panels",
+        "Gas turbines",
+        "Diesel generators",
+        "Coal-fired boilers"
+      ],
+      "a": 0,
+      "e": "Solar PV converts sunlight directly into electricity.",
+      "d": "Easy",
+      "topic": "Pollution prevention",
+      "slo": "Identify, explain or apply the concept of pollution prevention."
+    },
+    {
+      "id": "CHEM9CH11-297",
+      "q": "Choose the correct answer: which environmental goal is supported by cleaner energy and better public transport?",
+      "o": [
+        "More soot production",
+        "Higher carbon monoxide exposure",
+        "Improved air quality",
+        "More acid-rain precursors"
+      ],
+      "a": 2,
+      "e": "Cleaner energy and transport reduce harmful emissions.",
+      "d": "Medium",
+      "topic": "Pollution prevention",
+      "slo": "Identify, explain or apply the concept of pollution prevention."
+    },
+    {
+      "id": "CHEM9CH11-298",
+      "q": "Which harmful emissions are reduced by a functioning three-way catalytic converter?",
+      "o": [
+        "Oxygen, nitrogen and water vapour only",
+        "Pure nitrogen alone",
+        "Argon, helium and neon",
+        "CO, NOx and unburned hydrocarbons"
+      ],
+      "a": 3,
+      "e": "Three-way catalysts reduce major harmful vehicle emissions.",
+      "d": "Easy",
+      "topic": "Pollution prevention",
+      "slo": "Identify, explain or apply the concept of pollution prevention."
+    },
+    {
+      "id": "CHEM9CH11-299",
+      "q": "Which approach addresses climate change by lowering emissions?",
+      "o": [
+        "Increased coal combustion",
+        "Amplification of pollution",
+        "Mitigation",
+        "Deliberate deforestation"
+      ],
+      "a": 2,
+      "e": "Mitigation reduces sources or enhances sinks of greenhouse gases.",
+      "d": "Easy",
+      "topic": "Pollution prevention",
+      "slo": "Identify, explain or apply the concept of pollution prevention."
+    },
+    {
+      "id": "CHEM9CH11-300",
+      "q": "Choose the correct answer: which action can reduce personal exposure during severe smog?",
+      "o": [
+        "Limit strenuous outdoor activity",
+        "Exercise beside busy roads",
+        "Burn rubbish indoors",
+        "Open windows beside smoke"
+      ],
+      "a": 0,
+      "e": "Reducing outdoor exposure during high pollution can lower inhaled dose.",
+      "d": "Medium",
+      "topic": "Ozone and air quality",
+      "slo": "Identify, explain or apply the concept of ozone and air quality."
+    }
+  ]
+}

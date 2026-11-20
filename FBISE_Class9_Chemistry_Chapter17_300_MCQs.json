@@ -1,0 +1,4504 @@
+{
+  "questions": [
+    {
+      "id": "CHEM9CH17-001",
+      "q": "What is the main purpose of separation techniques?",
+      "o": [
+        "To convert atoms into ions",
+        "To isolate components of a mixture",
+        "To create new elements",
+        "To change the atomic number"
+      ],
+      "a": 1,
+      "e": "Separation techniques physically separate components of mixtures.",
+      "d": "Easy",
+      "topic": "Methods of separation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-002",
+      "q": "In a Class 9 chemistry laboratory exercise, what is the main purpose of separation techniques?",
+      "o": [
+        "To isolate components of a mixture",
+        "To convert atoms into ions",
+        "To change the atomic number",
+        "To create new elements"
+      ],
+      "a": 0,
+      "e": "Separation techniques physically separate components of mixtures.",
+      "d": "Medium",
+      "topic": "Methods of separation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-003",
+      "q": "Choose the scientifically correct answer: What is the main purpose of separation techniques?",
+      "o": [
+        "To isolate components of a mixture",
+        "To convert atoms into ions",
+        "To create new elements",
+        "To change the atomic number"
+      ],
+      "a": 0,
+      "e": "Separation techniques physically separate components of mixtures.",
+      "d": "Medium",
+      "topic": "Methods of separation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-004",
+      "q": "Which property is often exploited when separating mixtures?",
+      "o": [
+        "Changes in nuclear charge",
+        "Identical chemical formulas",
+        "Differences in physical properties",
+        "Formation of new elements"
+      ],
+      "a": 2,
+      "e": "Mixture components can differ in boiling point, particle size or solubility.",
+      "d": "Easy",
+      "topic": "Methods of separation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-005",
+      "q": "In a Class 9 chemistry laboratory exercise, which property is often exploited when separating mixtures?",
+      "o": [
+        "Identical chemical formulas",
+        "Differences in physical properties",
+        "Changes in nuclear charge",
+        "Formation of new elements"
+      ],
+      "a": 1,
+      "e": "Mixture components can differ in boiling point, particle size or solubility.",
+      "d": "Medium",
+      "topic": "Methods of separation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-006",
+      "q": "Choose the scientifically correct answer: Which property is often exploited when separating mixtures?",
+      "o": [
+        "Identical chemical formulas",
+        "Changes in nuclear charge",
+        "Formation of new elements",
+        "Differences in physical properties"
+      ],
+      "a": 3,
+      "e": "Mixture components can differ in boiling point, particle size or solubility.",
+      "d": "Medium",
+      "topic": "Methods of separation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-007",
+      "q": "Which method is appropriate for recovering an insoluble solid from a liquid?",
+      "o": [
+        "Filtration",
+        "Simple distillation",
+        "Chromatography of a gas",
+        "Evaporation of the solid"
+      ],
+      "a": 0,
+      "e": "A filter retains insoluble solid particles while liquid passes through.",
+      "d": "Easy",
+      "topic": "Methods of separation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-008",
+      "q": "In a Class 9 chemistry laboratory exercise, which method is appropriate for recovering an insoluble solid from a liquid?",
+      "o": [
+        "Simple distillation",
+        "Evaporation of the solid",
+        "Chromatography of a gas",
+        "Filtration"
+      ],
+      "a": 3,
+      "e": "A filter retains insoluble solid particles while liquid passes through.",
+      "d": "Medium",
+      "topic": "Methods of separation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-009",
+      "q": "Choose the scientifically correct answer: Which method is appropriate for recovering an insoluble solid from a liquid?",
+      "o": [
+        "Filtration",
+        "Chromatography of a gas",
+        "Evaporation of the solid",
+        "Simple distillation"
+      ],
+      "a": 0,
+      "e": "A filter retains insoluble solid particles while liquid passes through.",
+      "d": "Medium",
+      "topic": "Methods of separation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-010",
+      "q": "Which technique separates a dissolved solid by removing its solvent?",
+      "o": [
+        "Magnetic separation",
+        "Decantation of dry solids",
+        "Evaporation",
+        "Filtration"
+      ],
+      "a": 2,
+      "e": "Evaporation removes the liquid solvent and leaves dissolved solid.",
+      "d": "Easy",
+      "topic": "Methods of separation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-011",
+      "q": "In a Class 9 chemistry laboratory exercise, which technique separates a dissolved solid by removing its solvent?",
+      "o": [
+        "Magnetic separation",
+        "Filtration",
+        "Evaporation",
+        "Decantation of dry solids"
+      ],
+      "a": 2,
+      "e": "Evaporation removes the liquid solvent and leaves dissolved solid.",
+      "d": "Medium",
+      "topic": "Methods of separation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-012",
+      "q": "Choose the scientifically correct answer: Which technique separates a dissolved solid by removing its solvent?",
+      "o": [
+        "Magnetic separation",
+        "Filtration",
+        "Evaporation",
+        "Decantation of dry solids"
+      ],
+      "a": 2,
+      "e": "Evaporation removes the liquid solvent and leaves dissolved solid.",
+      "d": "Medium",
+      "topic": "Methods of separation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-013",
+      "q": "Which technique collects a volatile liquid after boiling and condensation?",
+      "o": [
+        "Filtration",
+        "Crystallization alone",
+        "Distillation",
+        "Sieving"
+      ],
+      "a": 2,
+      "e": "Distillation vaporizes a liquid and condenses its vapor.",
+      "d": "Easy",
+      "topic": "Methods of separation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-014",
+      "q": "In a Class 9 chemistry laboratory exercise, which technique collects a volatile liquid after boiling and condensation?",
+      "o": [
+        "Filtration",
+        "Distillation",
+        "Sieving",
+        "Crystallization alone"
+      ],
+      "a": 1,
+      "e": "Distillation vaporizes a liquid and condenses its vapor.",
+      "d": "Medium",
+      "topic": "Methods of separation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-015",
+      "q": "Choose the scientifically correct answer: Which technique collects a volatile liquid after boiling and condensation?",
+      "o": [
+        "Crystallization alone",
+        "Filtration",
+        "Sieving",
+        "Distillation"
+      ],
+      "a": 3,
+      "e": "Distillation vaporizes a liquid and condenses its vapor.",
+      "d": "Medium",
+      "topic": "Methods of separation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-016",
+      "q": "Which technique is particularly useful for obtaining purified solid crystals?",
+      "o": [
+        "Mechanical sieving",
+        "Crystallization",
+        "Direct freezing of gases",
+        "Simple filtration alone"
+      ],
+      "a": 1,
+      "e": "Crystallization produces solid crystals from solution.",
+      "d": "Easy",
+      "topic": "Methods of separation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-017",
+      "q": "In a Class 9 chemistry laboratory exercise, which technique is particularly useful for obtaining purified solid crystals?",
+      "o": [
+        "Mechanical sieving",
+        "Crystallization",
+        "Simple filtration alone",
+        "Direct freezing of gases"
+      ],
+      "a": 1,
+      "e": "Crystallization produces solid crystals from solution.",
+      "d": "Medium",
+      "topic": "Methods of separation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-018",
+      "q": "Choose the scientifically correct answer: Which technique is particularly useful for obtaining purified solid crystals?",
+      "o": [
+        "Direct freezing of gases",
+        "Mechanical sieving",
+        "Simple filtration alone",
+        "Crystallization"
+      ],
+      "a": 3,
+      "e": "Crystallization produces solid crystals from solution.",
+      "d": "Medium",
+      "topic": "Methods of separation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-019",
+      "q": "Which technique primarily separates based on particle size relative to pores?",
+      "o": [
+        "Simple distillation",
+        "Filtration",
+        "Fractional distillation",
+        "Evaporation"
+      ],
+      "a": 1,
+      "e": "Filter pores retain larger insoluble particles.",
+      "d": "Easy",
+      "topic": "Methods of separation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-020",
+      "q": "In a Class 9 chemistry laboratory exercise, which technique primarily separates based on particle size relative to pores?",
+      "o": [
+        "Simple distillation",
+        "Filtration",
+        "Fractional distillation",
+        "Evaporation"
+      ],
+      "a": 1,
+      "e": "Filter pores retain larger insoluble particles.",
+      "d": "Medium",
+      "topic": "Methods of separation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-021",
+      "q": "Choose the scientifically correct answer: Which technique primarily separates based on particle size relative to pores?",
+      "o": [
+        "Fractional distillation",
+        "Filtration",
+        "Simple distillation",
+        "Evaporation"
+      ],
+      "a": 1,
+      "e": "Filter pores retain larger insoluble particles.",
+      "d": "Medium",
+      "topic": "Methods of separation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-022",
+      "q": "Which separation technique is associated with a condenser?",
+      "o": [
+        "Sieving",
+        "Filtration",
+        "Crystallization only",
+        "Distillation"
+      ],
+      "a": 3,
+      "e": "A condenser cools vapor back into liquid.",
+      "d": "Easy",
+      "topic": "Methods of separation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-023",
+      "q": "In a Class 9 chemistry laboratory exercise, which separation technique is associated with a condenser?",
+      "o": [
+        "Crystallization only",
+        "Filtration",
+        "Distillation",
+        "Sieving"
+      ],
+      "a": 2,
+      "e": "A condenser cools vapor back into liquid.",
+      "d": "Medium",
+      "topic": "Methods of separation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-024",
+      "q": "Choose the scientifically correct answer: Which separation technique is associated with a condenser?",
+      "o": [
+        "Crystallization only",
+        "Filtration",
+        "Distillation",
+        "Sieving"
+      ],
+      "a": 2,
+      "e": "A condenser cools vapor back into liquid.",
+      "d": "Medium",
+      "topic": "Methods of separation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-025",
+      "q": "Which technique uses a filter medium?",
+      "o": [
+        "Evaporation",
+        "Fractional distillation",
+        "Simple distillation",
+        "Filtration"
+      ],
+      "a": 3,
+      "e": "A filter medium separates solids from a fluid.",
+      "d": "Easy",
+      "topic": "Methods of separation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-026",
+      "q": "In a Class 9 chemistry laboratory exercise, which technique uses a filter medium?",
+      "o": [
+        "Filtration",
+        "Simple distillation",
+        "Fractional distillation",
+        "Evaporation"
+      ],
+      "a": 0,
+      "e": "A filter medium separates solids from a fluid.",
+      "d": "Medium",
+      "topic": "Methods of separation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-027",
+      "q": "Choose the scientifically correct answer: Which technique uses a filter medium?",
+      "o": [
+        "Fractional distillation",
+        "Filtration",
+        "Evaporation",
+        "Simple distillation"
+      ],
+      "a": 1,
+      "e": "A filter medium separates solids from a fluid.",
+      "d": "Medium",
+      "topic": "Methods of separation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-028",
+      "q": "Which process uses a saturated solution and cooling to grow crystals?",
+      "o": [
+        "Fractional distillation",
+        "Filtration",
+        "Sieving",
+        "Crystallization"
+      ],
+      "a": 3,
+      "e": "Cooling a hot saturated solution can cause crystals to form.",
+      "d": "Easy",
+      "topic": "Methods of separation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-029",
+      "q": "In a Class 9 chemistry laboratory exercise, which process uses a saturated solution and cooling to grow crystals?",
+      "o": [
+        "Sieving",
+        "Fractional distillation",
+        "Filtration",
+        "Crystallization"
+      ],
+      "a": 3,
+      "e": "Cooling a hot saturated solution can cause crystals to form.",
+      "d": "Medium",
+      "topic": "Methods of separation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-030",
+      "q": "Choose the scientifically correct answer: Which process uses a saturated solution and cooling to grow crystals?",
+      "o": [
+        "Crystallization",
+        "Sieving",
+        "Filtration",
+        "Fractional distillation"
+      ],
+      "a": 0,
+      "e": "Cooling a hot saturated solution can cause crystals to form.",
+      "d": "Medium",
+      "topic": "Methods of separation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-031",
+      "q": "What happens to the solvent during evaporation?",
+      "o": [
+        "It always decomposes chemically",
+        "It changes from liquid to vapor",
+        "It changes into a new element",
+        "It becomes an insoluble solid"
+      ],
+      "a": 1,
+      "e": "Evaporation is a liquid-to-vapor physical change.",
+      "d": "Easy",
+      "topic": "Evaporation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-032",
+      "q": "In a Class 9 chemistry laboratory exercise, what happens to the solvent during evaporation?",
+      "o": [
+        "It changes into a new element",
+        "It always decomposes chemically",
+        "It changes from liquid to vapor",
+        "It becomes an insoluble solid"
+      ],
+      "a": 2,
+      "e": "Evaporation is a liquid-to-vapor physical change.",
+      "d": "Medium",
+      "topic": "Evaporation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-033",
+      "q": "Choose the scientifically correct answer: What happens to the solvent during evaporation?",
+      "o": [
+        "It changes from liquid to vapor",
+        "It changes into a new element",
+        "It always decomposes chemically",
+        "It becomes an insoluble solid"
+      ],
+      "a": 0,
+      "e": "Evaporation is a liquid-to-vapor physical change.",
+      "d": "Medium",
+      "topic": "Evaporation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-034",
+      "q": "Which component remains after evaporating water from salt solution?",
+      "o": [
+        "Oxygen gas only",
+        "Hydrogen gas only",
+        "Water vapor condensed in the dish",
+        "Salt"
+      ],
+      "a": 3,
+      "e": "Dissolved nonvolatile salt remains when water evaporates.",
+      "d": "Easy",
+      "topic": "Evaporation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-035",
+      "q": "In a Class 9 chemistry laboratory exercise, which component remains after evaporating water from salt solution?",
+      "o": [
+        "Oxygen gas only",
+        "Hydrogen gas only",
+        "Water vapor condensed in the dish",
+        "Salt"
+      ],
+      "a": 3,
+      "e": "Dissolved nonvolatile salt remains when water evaporates.",
+      "d": "Medium",
+      "topic": "Evaporation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-036",
+      "q": "Choose the scientifically correct answer: Which component remains after evaporating water from salt solution?",
+      "o": [
+        "Water vapor condensed in the dish",
+        "Hydrogen gas only",
+        "Oxygen gas only",
+        "Salt"
+      ],
+      "a": 3,
+      "e": "Dissolved nonvolatile salt remains when water evaporates.",
+      "d": "Medium",
+      "topic": "Evaporation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-037",
+      "q": "Which apparatus is used to hold solution during laboratory evaporation?",
+      "o": [
+        "Condenser",
+        "Burette only",
+        "Separating funnel",
+        "Evaporating dish"
+      ],
+      "a": 3,
+      "e": "An evaporating dish holds liquid while it is heated to evaporate.",
+      "d": "Easy",
+      "topic": "Evaporation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-038",
+      "q": "In a Class 9 chemistry laboratory exercise, which apparatus is used to hold solution during laboratory evaporation?",
+      "o": [
+        "Evaporating dish",
+        "Condenser",
+        "Burette only",
+        "Separating funnel"
+      ],
+      "a": 0,
+      "e": "An evaporating dish holds liquid while it is heated to evaporate.",
+      "d": "Medium",
+      "topic": "Evaporation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-039",
+      "q": "Choose the scientifically correct answer: Which apparatus is used to hold solution during laboratory evaporation?",
+      "o": [
+        "Condenser",
+        "Evaporating dish",
+        "Burette only",
+        "Separating funnel"
+      ],
+      "a": 1,
+      "e": "An evaporating dish holds liquid while it is heated to evaporate.",
+      "d": "Medium",
+      "topic": "Evaporation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-040",
+      "q": "What is the effect of increasing temperature on evaporation rate, generally?",
+      "o": [
+        "It converts vapor into crystals",
+        "It increases the rate",
+        "It always stops evaporation",
+        "It makes evaporation impossible"
+      ],
+      "a": 1,
+      "e": "Higher temperature generally increases escape of molecules.",
+      "d": "Easy",
+      "topic": "Evaporation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-041",
+      "q": "In a Class 9 chemistry laboratory exercise, what is the effect of increasing temperature on evaporation rate, generally?",
+      "o": [
+        "It makes evaporation impossible",
+        "It converts vapor into crystals",
+        "It increases the rate",
+        "It always stops evaporation"
+      ],
+      "a": 2,
+      "e": "Higher temperature generally increases escape of molecules.",
+      "d": "Medium",
+      "topic": "Evaporation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-042",
+      "q": "Choose the scientifically correct answer: What is the effect of increasing temperature on evaporation rate, generally?",
+      "o": [
+        "It makes evaporation impossible",
+        "It increases the rate",
+        "It always stops evaporation",
+        "It converts vapor into crystals"
+      ],
+      "a": 1,
+      "e": "Higher temperature generally increases escape of molecules.",
+      "d": "Medium",
+      "topic": "Evaporation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-043",
+      "q": "How does a larger exposed liquid surface generally affect evaporation?",
+      "o": [
+        "It stops vapor formation",
+        "It prevents molecular escape",
+        "It increases evaporation rate",
+        "It changes the solvent into solute"
+      ],
+      "a": 2,
+      "e": "More exposed surface allows more molecules to escape.",
+      "d": "Easy",
+      "topic": "Evaporation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-044",
+      "q": "In a Class 9 chemistry laboratory exercise, how does a larger exposed liquid surface generally affect evaporation?",
+      "o": [
+        "It stops vapor formation",
+        "It prevents molecular escape",
+        "It changes the solvent into solute",
+        "It increases evaporation rate"
+      ],
+      "a": 3,
+      "e": "More exposed surface allows more molecules to escape.",
+      "d": "Medium",
+      "topic": "Evaporation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-045",
+      "q": "Choose the scientifically correct answer: How does a larger exposed liquid surface generally affect evaporation?",
+      "o": [
+        "It increases evaporation rate",
+        "It stops vapor formation",
+        "It prevents molecular escape",
+        "It changes the solvent into solute"
+      ],
+      "a": 0,
+      "e": "More exposed surface allows more molecules to escape.",
+      "d": "Medium",
+      "topic": "Evaporation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-046",
+      "q": "How does moving air above a liquid generally affect evaporation?",
+      "o": [
+        "It converts salt to gas",
+        "It prevents evaporation completely",
+        "It eliminates molecular motion",
+        "It speeds evaporation"
+      ],
+      "a": 3,
+      "e": "Moving air removes vapor near the surface.",
+      "d": "Easy",
+      "topic": "Evaporation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-047",
+      "q": "In a Class 9 chemistry laboratory exercise, how does moving air above a liquid generally affect evaporation?",
+      "o": [
+        "It eliminates molecular motion",
+        "It converts salt to gas",
+        "It speeds evaporation",
+        "It prevents evaporation completely"
+      ],
+      "a": 2,
+      "e": "Moving air removes vapor near the surface.",
+      "d": "Medium",
+      "topic": "Evaporation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-048",
+      "q": "Choose the scientifically correct answer: How does moving air above a liquid generally affect evaporation?",
+      "o": [
+        "It converts salt to gas",
+        "It speeds evaporation",
+        "It prevents evaporation completely",
+        "It eliminates molecular motion"
+      ],
+      "a": 1,
+      "e": "Moving air removes vapor near the surface.",
+      "d": "Medium",
+      "topic": "Evaporation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-049",
+      "q": "How does high humidity generally affect water evaporation?",
+      "o": [
+        "It converts water to salt",
+        "It slows evaporation",
+        "It removes all vapor from air",
+        "It guarantees instantaneous boiling"
+      ],
+      "a": 1,
+      "e": "Humid air already contains substantial water vapor.",
+      "d": "Easy",
+      "topic": "Evaporation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-050",
+      "q": "In a Class 9 chemistry laboratory exercise, how does high humidity generally affect water evaporation?",
+      "o": [
+        "It converts water to salt",
+        "It slows evaporation",
+        "It removes all vapor from air",
+        "It guarantees instantaneous boiling"
+      ],
+      "a": 1,
+      "e": "Humid air already contains substantial water vapor.",
+      "d": "Medium",
+      "topic": "Evaporation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-051",
+      "q": "Choose the scientifically correct answer: How does high humidity generally affect water evaporation?",
+      "o": [
+        "It slows evaporation",
+        "It converts water to salt",
+        "It guarantees instantaneous boiling",
+        "It removes all vapor from air"
+      ],
+      "a": 0,
+      "e": "Humid air already contains substantial water vapor.",
+      "d": "Medium",
+      "topic": "Evaporation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-052",
+      "q": "Which mixture can be separated by evaporating the water?",
+      "o": [
+        "Salt dissolved in water",
+        "Sand and iron filings without water",
+        "Two dry stones",
+        "Two immiscible oils"
+      ],
+      "a": 0,
+      "e": "Evaporation leaves dissolved salt behind.",
+      "d": "Easy",
+      "topic": "Evaporation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-053",
+      "q": "In a Class 9 chemistry laboratory exercise, which mixture can be separated by evaporating the water?",
+      "o": [
+        "Salt dissolved in water",
+        "Two immiscible oils",
+        "Sand and iron filings without water",
+        "Two dry stones"
+      ],
+      "a": 0,
+      "e": "Evaporation leaves dissolved salt behind.",
+      "d": "Medium",
+      "topic": "Evaporation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-054",
+      "q": "Choose the scientifically correct answer: Which mixture can be separated by evaporating the water?",
+      "o": [
+        "Salt dissolved in water",
+        "Two dry stones",
+        "Two immiscible oils",
+        "Sand and iron filings without water"
+      ],
+      "a": 0,
+      "e": "Evaporation leaves dissolved salt behind.",
+      "d": "Medium",
+      "topic": "Evaporation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-055",
+      "q": "Why is evaporation unsuitable for collecting the original solvent?",
+      "o": [
+        "The solute is always magnetic",
+        "It requires a filter paper",
+        "The vapor is not collected and condensed",
+        "The liquid never vaporizes"
+      ],
+      "a": 2,
+      "e": "Ordinary evaporation allows solvent vapor to escape.",
+      "d": "Easy",
+      "topic": "Evaporation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-056",
+      "q": "In a Class 9 chemistry laboratory exercise, why is evaporation unsuitable for collecting the original solvent?",
+      "o": [
+        "The vapor is not collected and condensed",
+        "It requires a filter paper",
+        "The solute is always magnetic",
+        "The liquid never vaporizes"
+      ],
+      "a": 0,
+      "e": "Ordinary evaporation allows solvent vapor to escape.",
+      "d": "Medium",
+      "topic": "Evaporation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-057",
+      "q": "Choose the scientifically correct answer: Why is evaporation unsuitable for collecting the original solvent?",
+      "o": [
+        "The solute is always magnetic",
+        "The liquid never vaporizes",
+        "The vapor is not collected and condensed",
+        "It requires a filter paper"
+      ],
+      "a": 2,
+      "e": "Ordinary evaporation allows solvent vapor to escape.",
+      "d": "Medium",
+      "topic": "Evaporation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-058",
+      "q": "Which change describes evaporation correctly?",
+      "o": [
+        "A physical change",
+        "A nuclear reaction",
+        "An obligatory precipitation reaction",
+        "A change of element identity"
+      ],
+      "a": 0,
+      "e": "No new chemical substance is required for evaporation.",
+      "d": "Easy",
+      "topic": "Evaporation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-059",
+      "q": "In a Class 9 chemistry laboratory exercise, which change describes evaporation correctly?",
+      "o": [
+        "A physical change",
+        "An obligatory precipitation reaction",
+        "A change of element identity",
+        "A nuclear reaction"
+      ],
+      "a": 0,
+      "e": "No new chemical substance is required for evaporation.",
+      "d": "Medium",
+      "topic": "Evaporation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-060",
+      "q": "Choose the scientifically correct answer: Which change describes evaporation correctly?",
+      "o": [
+        "A change of element identity",
+        "A physical change",
+        "An obligatory precipitation reaction",
+        "A nuclear reaction"
+      ],
+      "a": 1,
+      "e": "No new chemical substance is required for evaporation.",
+      "d": "Medium",
+      "topic": "Evaporation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-061",
+      "q": "At what part of a liquid can evaporation occur?",
+      "o": [
+        "Only at the vessel bottom",
+        "Only inside crystals",
+        "At its surface",
+        "Only within the condenser"
+      ],
+      "a": 2,
+      "e": "Evaporation occurs at the liquid surface.",
+      "d": "Easy",
+      "topic": "Evaporation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-062",
+      "q": "In a Class 9 chemistry laboratory exercise, at what part of a liquid can evaporation occur?",
+      "o": [
+        "Only inside crystals",
+        "At its surface",
+        "Only within the condenser",
+        "Only at the vessel bottom"
+      ],
+      "a": 1,
+      "e": "Evaporation occurs at the liquid surface.",
+      "d": "Medium",
+      "topic": "Evaporation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-063",
+      "q": "Choose the scientifically correct answer: At what part of a liquid can evaporation occur?",
+      "o": [
+        "Only inside crystals",
+        "Only within the condenser",
+        "At its surface",
+        "Only at the vessel bottom"
+      ],
+      "a": 2,
+      "e": "Evaporation occurs at the liquid surface.",
+      "d": "Medium",
+      "topic": "Evaporation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-064",
+      "q": "What is the residue in evaporation of a dilute copper sulfate solution?",
+      "o": [
+        "Carbon dioxide",
+        "Pure oxygen",
+        "Pure hydrogen",
+        "Copper sulfate solid"
+      ],
+      "a": 3,
+      "e": "Copper sulfate remains when its solvent is removed.",
+      "d": "Easy",
+      "topic": "Evaporation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-065",
+      "q": "In a Class 9 chemistry laboratory exercise, what is the residue in evaporation of a dilute copper sulfate solution?",
+      "o": [
+        "Carbon dioxide",
+        "Copper sulfate solid",
+        "Pure oxygen",
+        "Pure hydrogen"
+      ],
+      "a": 1,
+      "e": "Copper sulfate remains when its solvent is removed.",
+      "d": "Medium",
+      "topic": "Evaporation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-066",
+      "q": "Choose the scientifically correct answer: What is the residue in evaporation of a dilute copper sulfate solution?",
+      "o": [
+        "Pure oxygen",
+        "Pure hydrogen",
+        "Copper sulfate solid",
+        "Carbon dioxide"
+      ],
+      "a": 2,
+      "e": "Copper sulfate remains when its solvent is removed.",
+      "d": "Medium",
+      "topic": "Evaporation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-067",
+      "q": "Which action promotes evaporation without changing solute identity?",
+      "o": [
+        "Changing atomic numbers",
+        "Gently heating the solution",
+        "Adding filter paper as a reagent",
+        "Adding a nuclear catalyst"
+      ],
+      "a": 1,
+      "e": "Heating helps remove solvent physically.",
+      "d": "Easy",
+      "topic": "Evaporation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-068",
+      "q": "In a Class 9 chemistry laboratory exercise, which action promotes evaporation without changing solute identity?",
+      "o": [
+        "Gently heating the solution",
+        "Adding a nuclear catalyst",
+        "Adding filter paper as a reagent",
+        "Changing atomic numbers"
+      ],
+      "a": 0,
+      "e": "Heating helps remove solvent physically.",
+      "d": "Medium",
+      "topic": "Evaporation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-069",
+      "q": "Choose the scientifically correct answer: Which action promotes evaporation without changing solute identity?",
+      "o": [
+        "Adding a nuclear catalyst",
+        "Gently heating the solution",
+        "Adding filter paper as a reagent",
+        "Changing atomic numbers"
+      ],
+      "a": 1,
+      "e": "Heating helps remove solvent physically.",
+      "d": "Medium",
+      "topic": "Evaporation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-070",
+      "q": "Which everyday activity relies on evaporation?",
+      "o": [
+        "Filtering muddy water",
+        "Condensing steam into droplets",
+        "Drying wet clothes",
+        "Freezing ice cubes"
+      ],
+      "a": 2,
+      "e": "Water evaporates from wet fabric.",
+      "d": "Easy",
+      "topic": "Evaporation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-071",
+      "q": "In a Class 9 chemistry laboratory exercise, which everyday activity relies on evaporation?",
+      "o": [
+        "Drying wet clothes",
+        "Freezing ice cubes",
+        "Condensing steam into droplets",
+        "Filtering muddy water"
+      ],
+      "a": 0,
+      "e": "Water evaporates from wet fabric.",
+      "d": "Medium",
+      "topic": "Evaporation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-072",
+      "q": "Choose the scientifically correct answer: Which everyday activity relies on evaporation?",
+      "o": [
+        "Drying wet clothes",
+        "Freezing ice cubes",
+        "Filtering muddy water",
+        "Condensing steam into droplets"
+      ],
+      "a": 0,
+      "e": "Water evaporates from wet fabric.",
+      "d": "Medium",
+      "topic": "Evaporation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-073",
+      "q": "Why is evaporation a separation method?",
+      "o": [
+        "The solute and solvent must be identical",
+        "It creates new elements",
+        "The solvent and solute differ in volatility",
+        "Both components undergo fission"
+      ],
+      "a": 2,
+      "e": "A volatile solvent leaves a less volatile solute.",
+      "d": "Easy",
+      "topic": "Evaporation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-074",
+      "q": "In a Class 9 chemistry laboratory exercise, why is evaporation a separation method?",
+      "o": [
+        "Both components undergo fission",
+        "It creates new elements",
+        "The solvent and solute differ in volatility",
+        "The solute and solvent must be identical"
+      ],
+      "a": 2,
+      "e": "A volatile solvent leaves a less volatile solute.",
+      "d": "Medium",
+      "topic": "Evaporation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-075",
+      "q": "Choose the scientifically correct answer: Why is evaporation a separation method?",
+      "o": [
+        "It creates new elements",
+        "Both components undergo fission",
+        "The solute and solvent must be identical",
+        "The solvent and solute differ in volatility"
+      ],
+      "a": 3,
+      "e": "A volatile solvent leaves a less volatile solute.",
+      "d": "Medium",
+      "topic": "Evaporation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-076",
+      "q": "What is the first main change in distillation?",
+      "o": [
+        "Liquid is vaporized",
+        "Vapor is filtered through paper",
+        "Solute is magnetized",
+        "Atoms are split"
+      ],
+      "a": 0,
+      "e": "Distillation begins by heating a liquid to produce vapor.",
+      "d": "Easy",
+      "topic": "Distillation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-077",
+      "q": "In a Class 9 chemistry laboratory exercise, what is the first main change in distillation?",
+      "o": [
+        "Solute is magnetized",
+        "Liquid is vaporized",
+        "Atoms are split",
+        "Vapor is filtered through paper"
+      ],
+      "a": 1,
+      "e": "Distillation begins by heating a liquid to produce vapor.",
+      "d": "Medium",
+      "topic": "Distillation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-078",
+      "q": "Choose the scientifically correct answer: What is the first main change in distillation?",
+      "o": [
+        "Atoms are split",
+        "Solute is magnetized",
+        "Vapor is filtered through paper",
+        "Liquid is vaporized"
+      ],
+      "a": 3,
+      "e": "Distillation begins by heating a liquid to produce vapor.",
+      "d": "Medium",
+      "topic": "Distillation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-079",
+      "q": "What is the second main change in distillation?",
+      "o": [
+        "Salt is burned",
+        "Vapor is condensed to liquid",
+        "Solvent is crystallized directly",
+        "Liquid is converted into metal"
+      ],
+      "a": 1,
+      "e": "The vapor cools and condenses in the condenser.",
+      "d": "Easy",
+      "topic": "Distillation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-080",
+      "q": "In a Class 9 chemistry laboratory exercise, what is the second main change in distillation?",
+      "o": [
+        "Solvent is crystallized directly",
+        "Liquid is converted into metal",
+        "Vapor is condensed to liquid",
+        "Salt is burned"
+      ],
+      "a": 2,
+      "e": "The vapor cools and condenses in the condenser.",
+      "d": "Medium",
+      "topic": "Distillation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-081",
+      "q": "Choose the scientifically correct answer: What is the second main change in distillation?",
+      "o": [
+        "Liquid is converted into metal",
+        "Salt is burned",
+        "Solvent is crystallized directly",
+        "Vapor is condensed to liquid"
+      ],
+      "a": 3,
+      "e": "The vapor cools and condenses in the condenser.",
+      "d": "Medium",
+      "topic": "Distillation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-082",
+      "q": "What is the condensed liquid collected in distillation called?",
+      "o": [
+        "Precipitate",
+        "Distillate",
+        "Residue",
+        "Filter cake"
+      ],
+      "a": 1,
+      "e": "Distillate is the liquid collected after condensation.",
+      "d": "Easy",
+      "topic": "Distillation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-083",
+      "q": "In a Class 9 chemistry laboratory exercise, what is the condensed liquid collected in distillation called?",
+      "o": [
+        "Residue",
+        "Distillate",
+        "Precipitate",
+        "Filter cake"
+      ],
+      "a": 1,
+      "e": "Distillate is the liquid collected after condensation.",
+      "d": "Medium",
+      "topic": "Distillation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-084",
+      "q": "Choose the scientifically correct answer: What is the condensed liquid collected in distillation called?",
+      "o": [
+        "Precipitate",
+        "Filter cake",
+        "Residue",
+        "Distillate"
+      ],
+      "a": 3,
+      "e": "Distillate is the liquid collected after condensation.",
+      "d": "Medium",
+      "topic": "Distillation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-085",
+      "q": "What is the function of a condenser?",
+      "o": [
+        "To increase vapor temperature indefinitely",
+        "To trap only solid sand",
+        "To cool vapor into liquid",
+        "To weigh crystals"
+      ],
+      "a": 2,
+      "e": "The condenser removes heat from vapor.",
+      "d": "Easy",
+      "topic": "Distillation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-086",
+      "q": "In a Class 9 chemistry laboratory exercise, what is the function of a condenser?",
+      "o": [
+        "To weigh crystals",
+        "To increase vapor temperature indefinitely",
+        "To cool vapor into liquid",
+        "To trap only solid sand"
+      ],
+      "a": 2,
+      "e": "The condenser removes heat from vapor.",
+      "d": "Medium",
+      "topic": "Distillation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-087",
+      "q": "Choose the scientifically correct answer: What is the function of a condenser?",
+      "o": [
+        "To trap only solid sand",
+        "To cool vapor into liquid",
+        "To increase vapor temperature indefinitely",
+        "To weigh crystals"
+      ],
+      "a": 1,
+      "e": "The condenser removes heat from vapor.",
+      "d": "Medium",
+      "topic": "Distillation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-088",
+      "q": "Which method can produce distilled water from salty water?",
+      "o": [
+        "Filtration alone",
+        "Magnetic separation",
+        "Sieving",
+        "Simple distillation"
+      ],
+      "a": 3,
+      "e": "Water vapor is condensed, leaving most dissolved salts behind.",
+      "d": "Easy",
+      "topic": "Distillation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-089",
+      "q": "In a Class 9 chemistry laboratory exercise, which method can produce distilled water from salty water?",
+      "o": [
+        "Sieving",
+        "Magnetic separation",
+        "Simple distillation",
+        "Filtration alone"
+      ],
+      "a": 2,
+      "e": "Water vapor is condensed, leaving most dissolved salts behind.",
+      "d": "Medium",
+      "topic": "Distillation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-090",
+      "q": "Choose the scientifically correct answer: Which method can produce distilled water from salty water?",
+      "o": [
+        "Simple distillation",
+        "Filtration alone",
+        "Magnetic separation",
+        "Sieving"
+      ],
+      "a": 0,
+      "e": "Water vapor is condensed, leaving most dissolved salts behind.",
+      "d": "Medium",
+      "topic": "Distillation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-091",
+      "q": "What remains in the boiling flask when saltwater is distilled?",
+      "o": [
+        "Condensed steam from the condenser",
+        "Most dissolved salt",
+        "Only filter paper",
+        "All collected distillate"
+      ],
+      "a": 1,
+      "e": "Nonvolatile salt remains in the heated flask.",
+      "d": "Easy",
+      "topic": "Distillation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-092",
+      "q": "In a Class 9 chemistry laboratory exercise, what remains in the boiling flask when saltwater is distilled?",
+      "o": [
+        "Most dissolved salt",
+        "Condensed steam from the condenser",
+        "All collected distillate",
+        "Only filter paper"
+      ],
+      "a": 0,
+      "e": "Nonvolatile salt remains in the heated flask.",
+      "d": "Medium",
+      "topic": "Distillation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-093",
+      "q": "Choose the scientifically correct answer: What remains in the boiling flask when saltwater is distilled?",
+      "o": [
+        "All collected distillate",
+        "Only filter paper",
+        "Condensed steam from the condenser",
+        "Most dissolved salt"
+      ],
+      "a": 3,
+      "e": "Nonvolatile salt remains in the heated flask.",
+      "d": "Medium",
+      "topic": "Distillation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-094",
+      "q": "Which method separates two miscible liquids with widely different boiling points?",
+      "o": [
+        "Simple distillation",
+        "Sieving",
+        "Magnetic separation",
+        "Filtration"
+      ],
+      "a": 0,
+      "e": "Large boiling-point differences favor simple distillation.",
+      "d": "Easy",
+      "topic": "Distillation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-095",
+      "q": "In a Class 9 chemistry laboratory exercise, which method separates two miscible liquids with widely different boiling points?",
+      "o": [
+        "Simple distillation",
+        "Sieving",
+        "Magnetic separation",
+        "Filtration"
+      ],
+      "a": 0,
+      "e": "Large boiling-point differences favor simple distillation.",
+      "d": "Medium",
+      "topic": "Distillation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-096",
+      "q": "Choose the scientifically correct answer: Which method separates two miscible liquids with widely different boiling points?",
+      "o": [
+        "Magnetic separation",
+        "Filtration",
+        "Sieving",
+        "Simple distillation"
+      ],
+      "a": 3,
+      "e": "Large boiling-point differences favor simple distillation.",
+      "d": "Medium",
+      "topic": "Distillation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-097",
+      "q": "Which method is more suitable for miscible liquids with close boiling points?",
+      "o": [
+        "Sieving",
+        "Fractional distillation",
+        "Decanting dry powder",
+        "Magnetic separation"
+      ],
+      "a": 1,
+      "e": "Fractional distillation improves separation of liquids with similar boiling points.",
+      "d": "Easy",
+      "topic": "Distillation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-098",
+      "q": "In a Class 9 chemistry laboratory exercise, which method is more suitable for miscible liquids with close boiling points?",
+      "o": [
+        "Fractional distillation",
+        "Magnetic separation",
+        "Decanting dry powder",
+        "Sieving"
+      ],
+      "a": 0,
+      "e": "Fractional distillation improves separation of liquids with similar boiling points.",
+      "d": "Medium",
+      "topic": "Distillation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-099",
+      "q": "Choose the scientifically correct answer: Which method is more suitable for miscible liquids with close boiling points?",
+      "o": [
+        "Magnetic separation",
+        "Sieving",
+        "Fractional distillation",
+        "Decanting dry powder"
+      ],
+      "a": 2,
+      "e": "Fractional distillation improves separation of liquids with similar boiling points.",
+      "d": "Medium",
+      "topic": "Distillation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-100",
+      "q": "Which apparatus is distinctive in fractional distillation?",
+      "o": [
+        "Filter funnel",
+        "Fractionating column",
+        "Evaporating dish only",
+        "Watch glass only"
+      ],
+      "a": 1,
+      "e": "The fractionating column provides repeated vaporization and condensation.",
+      "d": "Easy",
+      "topic": "Distillation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-101",
+      "q": "In a Class 9 chemistry laboratory exercise, which apparatus is distinctive in fractional distillation?",
+      "o": [
+        "Evaporating dish only",
+        "Filter funnel",
+        "Fractionating column",
+        "Watch glass only"
+      ],
+      "a": 2,
+      "e": "The fractionating column provides repeated vaporization and condensation.",
+      "d": "Medium",
+      "topic": "Distillation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-102",
+      "q": "Choose the scientifically correct answer: Which apparatus is distinctive in fractional distillation?",
+      "o": [
+        "Watch glass only",
+        "Filter funnel",
+        "Fractionating column",
+        "Evaporating dish only"
+      ],
+      "a": 2,
+      "e": "The fractionating column provides repeated vaporization and condensation.",
+      "d": "Medium",
+      "topic": "Distillation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-103",
+      "q": "Which liquid tends to distill first from a mixture of volatile liquids?",
+      "o": [
+        "The one with the darkest color",
+        "The one with the largest container",
+        "The one with lower boiling point",
+        "The one with the highest density always"
+      ],
+      "a": 2,
+      "e": "The more volatile, lower-boiling liquid vaporizes more readily.",
+      "d": "Easy",
+      "topic": "Distillation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-104",
+      "q": "In a Class 9 chemistry laboratory exercise, which liquid tends to distill first from a mixture of volatile liquids?",
+      "o": [
+        "The one with lower boiling point",
+        "The one with the largest container",
+        "The one with the darkest color",
+        "The one with the highest density always"
+      ],
+      "a": 0,
+      "e": "The more volatile, lower-boiling liquid vaporizes more readily.",
+      "d": "Medium",
+      "topic": "Distillation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-105",
+      "q": "Choose the scientifically correct answer: Which liquid tends to distill first from a mixture of volatile liquids?",
+      "o": [
+        "The one with lower boiling point",
+        "The one with the highest density always",
+        "The one with the darkest color",
+        "The one with the largest container"
+      ],
+      "a": 0,
+      "e": "The more volatile, lower-boiling liquid vaporizes more readily.",
+      "d": "Medium",
+      "topic": "Distillation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-106",
+      "q": "Which physical property is crucial to distillation?",
+      "o": [
+        "Particle shape alone",
+        "Magnetism alone",
+        "Color alone",
+        "Boiling point"
+      ],
+      "a": 3,
+      "e": "Distillation uses differences in volatility and boiling points.",
+      "d": "Easy",
+      "topic": "Distillation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-107",
+      "q": "In a Class 9 chemistry laboratory exercise, which physical property is crucial to distillation?",
+      "o": [
+        "Particle shape alone",
+        "Magnetism alone",
+        "Boiling point",
+        "Color alone"
+      ],
+      "a": 2,
+      "e": "Distillation uses differences in volatility and boiling points.",
+      "d": "Medium",
+      "topic": "Distillation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-108",
+      "q": "Choose the scientifically correct answer: Which physical property is crucial to distillation?",
+      "o": [
+        "Boiling point",
+        "Magnetism alone",
+        "Particle shape alone",
+        "Color alone"
+      ],
+      "a": 0,
+      "e": "Distillation uses differences in volatility and boiling points.",
+      "d": "Medium",
+      "topic": "Distillation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-109",
+      "q": "Why is cooling water circulated through a laboratory condenser?",
+      "o": [
+        "To make filter paper porous",
+        "To remove heat from vapor",
+        "To add salt to distillate",
+        "To create an insoluble precipitate"
+      ],
+      "a": 1,
+      "e": "Cooling promotes vapor condensation.",
+      "d": "Easy",
+      "topic": "Distillation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-110",
+      "q": "In a Class 9 chemistry laboratory exercise, why is cooling water circulated through a laboratory condenser?",
+      "o": [
+        "To make filter paper porous",
+        "To remove heat from vapor",
+        "To create an insoluble precipitate",
+        "To add salt to distillate"
+      ],
+      "a": 1,
+      "e": "Cooling promotes vapor condensation.",
+      "d": "Medium",
+      "topic": "Distillation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-111",
+      "q": "Choose the scientifically correct answer: Why is cooling water circulated through a laboratory condenser?",
+      "o": [
+        "To add salt to distillate",
+        "To create an insoluble precipitate",
+        "To make filter paper porous",
+        "To remove heat from vapor"
+      ],
+      "a": 3,
+      "e": "Cooling promotes vapor condensation.",
+      "d": "Medium",
+      "topic": "Distillation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-112",
+      "q": "Which item should receive the distillate?",
+      "o": [
+        "Receiving flask",
+        "A dry sieve",
+        "Filter paper alone",
+        "Evaporating dish placed over flame"
+      ],
+      "a": 0,
+      "e": "The receiving flask collects condensed liquid.",
+      "d": "Easy",
+      "topic": "Distillation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-113",
+      "q": "In a Class 9 chemistry laboratory exercise, which item should receive the distillate?",
+      "o": [
+        "Filter paper alone",
+        "Evaporating dish placed over flame",
+        "Receiving flask",
+        "A dry sieve"
+      ],
+      "a": 2,
+      "e": "The receiving flask collects condensed liquid.",
+      "d": "Medium",
+      "topic": "Distillation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-114",
+      "q": "Choose the scientifically correct answer: Which item should receive the distillate?",
+      "o": [
+        "Receiving flask",
+        "Evaporating dish placed over flame",
+        "A dry sieve",
+        "Filter paper alone"
+      ],
+      "a": 0,
+      "e": "The receiving flask collects condensed liquid.",
+      "d": "Medium",
+      "topic": "Distillation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-115",
+      "q": "Which statement about simple distillation is correct?",
+      "o": [
+        "It separates dissolved salt by filter pores",
+        "It requires all components to be insoluble",
+        "It can recover a volatile solvent from a solution",
+        "It relies only on magnetic properties"
+      ],
+      "a": 2,
+      "e": "The solvent is vaporized and then condensed.",
+      "d": "Easy",
+      "topic": "Distillation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-116",
+      "q": "In a Class 9 chemistry laboratory exercise, which statement about simple distillation is correct?",
+      "o": [
+        "It can recover a volatile solvent from a solution",
+        "It requires all components to be insoluble",
+        "It separates dissolved salt by filter pores",
+        "It relies only on magnetic properties"
+      ],
+      "a": 0,
+      "e": "The solvent is vaporized and then condensed.",
+      "d": "Medium",
+      "topic": "Distillation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-117",
+      "q": "Choose the scientifically correct answer: Which statement about simple distillation is correct?",
+      "o": [
+        "It relies only on magnetic properties",
+        "It can recover a volatile solvent from a solution",
+        "It separates dissolved salt by filter pores",
+        "It requires all components to be insoluble"
+      ],
+      "a": 1,
+      "e": "The solvent is vaporized and then condensed.",
+      "d": "Medium",
+      "topic": "Distillation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-118",
+      "q": "Why does a thermometer help in distillation?",
+      "o": [
+        "It detects magnetic force",
+        "It measures filter-pore size",
+        "It counts crystals",
+        "It monitors vapor temperature"
+      ],
+      "a": 3,
+      "e": "Vapor temperature helps identify the boiling fraction.",
+      "d": "Easy",
+      "topic": "Distillation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-119",
+      "q": "In a Class 9 chemistry laboratory exercise, why does a thermometer help in distillation?",
+      "o": [
+        "It measures filter-pore size",
+        "It counts crystals",
+        "It detects magnetic force",
+        "It monitors vapor temperature"
+      ],
+      "a": 3,
+      "e": "Vapor temperature helps identify the boiling fraction.",
+      "d": "Medium",
+      "topic": "Distillation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-120",
+      "q": "Choose the scientifically correct answer: Why does a thermometer help in distillation?",
+      "o": [
+        "It counts crystals",
+        "It detects magnetic force",
+        "It measures filter-pore size",
+        "It monitors vapor temperature"
+      ],
+      "a": 3,
+      "e": "Vapor temperature helps identify the boiling fraction.",
+      "d": "Medium",
+      "topic": "Distillation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-121",
+      "q": "Which mixture is suitable for fractional distillation?",
+      "o": [
+        "Chalk powder and water using filtration",
+        "Dry sand and iron filings",
+        "Pebbles and sand using a sieve",
+        "Ethanol and water"
+      ],
+      "a": 3,
+      "e": "Ethanol and water are miscible liquids with different boiling points.",
+      "d": "Easy",
+      "topic": "Distillation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-122",
+      "q": "In a Class 9 chemistry laboratory exercise, which mixture is suitable for fractional distillation?",
+      "o": [
+        "Dry sand and iron filings",
+        "Pebbles and sand using a sieve",
+        "Chalk powder and water using filtration",
+        "Ethanol and water"
+      ],
+      "a": 3,
+      "e": "Ethanol and water are miscible liquids with different boiling points.",
+      "d": "Medium",
+      "topic": "Distillation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-123",
+      "q": "Choose the scientifically correct answer: Which mixture is suitable for fractional distillation?",
+      "o": [
+        "Chalk powder and water using filtration",
+        "Dry sand and iron filings",
+        "Pebbles and sand using a sieve",
+        "Ethanol and water"
+      ],
+      "a": 3,
+      "e": "Ethanol and water are miscible liquids with different boiling points.",
+      "d": "Medium",
+      "topic": "Distillation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-124",
+      "q": "Which industry uses fractional distillation extensively?",
+      "o": [
+        "Iron separation with a magnet only",
+        "Brick sorting by size",
+        "Handpicking stones",
+        "Petroleum refining"
+      ],
+      "a": 3,
+      "e": "Petroleum fractions are separated by differing boiling ranges.",
+      "d": "Easy",
+      "topic": "Distillation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-125",
+      "q": "In a Class 9 chemistry laboratory exercise, which industry uses fractional distillation extensively?",
+      "o": [
+        "Brick sorting by size",
+        "Handpicking stones",
+        "Iron separation with a magnet only",
+        "Petroleum refining"
+      ],
+      "a": 3,
+      "e": "Petroleum fractions are separated by differing boiling ranges.",
+      "d": "Medium",
+      "topic": "Distillation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-126",
+      "q": "Choose the scientifically correct answer: Which industry uses fractional distillation extensively?",
+      "o": [
+        "Brick sorting by size",
+        "Handpicking stones",
+        "Petroleum refining",
+        "Iron separation with a magnet only"
+      ],
+      "a": 2,
+      "e": "Petroleum fractions are separated by differing boiling ranges.",
+      "d": "Medium",
+      "topic": "Distillation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-127",
+      "q": "What is a key difference between evaporation and distillation?",
+      "o": [
+        "Evaporation always uses a condenser",
+        "Distillation collects condensed solvent",
+        "Distillation never involves vapor",
+        "Evaporation requires a fractionating column"
+      ],
+      "a": 1,
+      "e": "Distillation includes condensation and collection of vapor.",
+      "d": "Easy",
+      "topic": "Distillation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-128",
+      "q": "In a Class 9 chemistry laboratory exercise, what is a key difference between evaporation and distillation?",
+      "o": [
+        "Evaporation requires a fractionating column",
+        "Distillation never involves vapor",
+        "Distillation collects condensed solvent",
+        "Evaporation always uses a condenser"
+      ],
+      "a": 2,
+      "e": "Distillation includes condensation and collection of vapor.",
+      "d": "Medium",
+      "topic": "Distillation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-129",
+      "q": "Choose the scientifically correct answer: What is a key difference between evaporation and distillation?",
+      "o": [
+        "Distillation never involves vapor",
+        "Distillation collects condensed solvent",
+        "Evaporation requires a fractionating column",
+        "Evaporation always uses a condenser"
+      ],
+      "a": 1,
+      "e": "Distillation includes condensation and collection of vapor.",
+      "d": "Medium",
+      "topic": "Distillation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-130",
+      "q": "Which condition helps separate liquids efficiently by simple distillation?",
+      "o": [
+        "Identical volatility",
+        "Identical boiling points",
+        "No liquid present",
+        "A substantial difference in boiling points"
+      ],
+      "a": 3,
+      "e": "A greater boiling-point difference makes separation easier.",
+      "d": "Easy",
+      "topic": "Distillation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-131",
+      "q": "In a Class 9 chemistry laboratory exercise, which condition helps separate liquids efficiently by simple distillation?",
+      "o": [
+        "No liquid present",
+        "Identical boiling points",
+        "A substantial difference in boiling points",
+        "Identical volatility"
+      ],
+      "a": 2,
+      "e": "A greater boiling-point difference makes separation easier.",
+      "d": "Medium",
+      "topic": "Distillation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-132",
+      "q": "Choose the scientifically correct answer: Which condition helps separate liquids efficiently by simple distillation?",
+      "o": [
+        "Identical volatility",
+        "A substantial difference in boiling points",
+        "No liquid present",
+        "Identical boiling points"
+      ],
+      "a": 1,
+      "e": "A greater boiling-point difference makes separation easier.",
+      "d": "Medium",
+      "topic": "Distillation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-133",
+      "q": "Which is an application of distillation mentioned in the chapter?",
+      "o": [
+        "Purifying water",
+        "Separating pebbles with tweezers",
+        "Separating iron using a magnet",
+        "Removing leaves by a sieve"
+      ],
+      "a": 0,
+      "e": "Distillation can produce purified water.",
+      "d": "Easy",
+      "topic": "Distillation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-134",
+      "q": "In a Class 9 chemistry laboratory exercise, which is an application of distillation mentioned in the chapter?",
+      "o": [
+        "Purifying water",
+        "Separating pebbles with tweezers",
+        "Removing leaves by a sieve",
+        "Separating iron using a magnet"
+      ],
+      "a": 0,
+      "e": "Distillation can produce purified water.",
+      "d": "Medium",
+      "topic": "Distillation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-135",
+      "q": "Choose the scientifically correct answer: Which is an application of distillation mentioned in the chapter?",
+      "o": [
+        "Removing leaves by a sieve",
+        "Separating pebbles with tweezers",
+        "Separating iron using a magnet",
+        "Purifying water"
+      ],
+      "a": 3,
+      "e": "Distillation can produce purified water.",
+      "d": "Medium",
+      "topic": "Distillation",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-136",
+      "q": "What is the liquid passing through a filter called?",
+      "o": [
+        "Distillate",
+        "Residue",
+        "Precipitate only",
+        "Filtrate"
+      ],
+      "a": 3,
+      "e": "Filtrate passes through the filter.",
+      "d": "Easy",
+      "topic": "Filtration",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-137",
+      "q": "In a Class 9 chemistry laboratory exercise, what is the liquid passing through a filter called?",
+      "o": [
+        "Distillate",
+        "Precipitate only",
+        "Residue",
+        "Filtrate"
+      ],
+      "a": 3,
+      "e": "Filtrate passes through the filter.",
+      "d": "Medium",
+      "topic": "Filtration",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-138",
+      "q": "Choose the scientifically correct answer: What is the liquid passing through a filter called?",
+      "o": [
+        "Distillate",
+        "Filtrate",
+        "Precipitate only",
+        "Residue"
+      ],
+      "a": 1,
+      "e": "Filtrate passes through the filter.",
+      "d": "Medium",
+      "topic": "Filtration",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-139",
+      "q": "What is the solid retained on filter paper called?",
+      "o": [
+        "Residue",
+        "Condensate",
+        "Distillate",
+        "Filtrate"
+      ],
+      "a": 0,
+      "e": "Residue remains on the filter medium.",
+      "d": "Easy",
+      "topic": "Filtration",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-140",
+      "q": "In a Class 9 chemistry laboratory exercise, what is the solid retained on filter paper called?",
+      "o": [
+        "Distillate",
+        "Filtrate",
+        "Condensate",
+        "Residue"
+      ],
+      "a": 3,
+      "e": "Residue remains on the filter medium.",
+      "d": "Medium",
+      "topic": "Filtration",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-141",
+      "q": "Choose the scientifically correct answer: What is the solid retained on filter paper called?",
+      "o": [
+        "Condensate",
+        "Residue",
+        "Distillate",
+        "Filtrate"
+      ],
+      "a": 1,
+      "e": "Residue remains on the filter medium.",
+      "d": "Medium",
+      "topic": "Filtration",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-142",
+      "q": "Which apparatus supports folded filter paper?",
+      "o": [
+        "Condenser",
+        "Evaporating dish",
+        "Fractionating column",
+        "Filter funnel"
+      ],
+      "a": 3,
+      "e": "A funnel holds filter paper during gravity filtration.",
+      "d": "Easy",
+      "topic": "Filtration",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-143",
+      "q": "In a Class 9 chemistry laboratory exercise, which apparatus supports folded filter paper?",
+      "o": [
+        "Condenser",
+        "Fractionating column",
+        "Evaporating dish",
+        "Filter funnel"
+      ],
+      "a": 3,
+      "e": "A funnel holds filter paper during gravity filtration.",
+      "d": "Medium",
+      "topic": "Filtration",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-144",
+      "q": "Choose the scientifically correct answer: Which apparatus supports folded filter paper?",
+      "o": [
+        "Fractionating column",
+        "Condenser",
+        "Evaporating dish",
+        "Filter funnel"
+      ],
+      "a": 3,
+      "e": "A funnel holds filter paper during gravity filtration.",
+      "d": "Medium",
+      "topic": "Filtration",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-145",
+      "q": "Which mixture is readily separated by filtration?",
+      "o": [
+        "Salt dissolved in water",
+        "Ethanol and water",
+        "Two miscible liquids",
+        "Sand and water"
+      ],
+      "a": 3,
+      "e": "Sand particles are insoluble and can be trapped by a filter.",
+      "d": "Easy",
+      "topic": "Filtration",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-146",
+      "q": "In a Class 9 chemistry laboratory exercise, which mixture is readily separated by filtration?",
+      "o": [
+        "Two miscible liquids",
+        "Sand and water",
+        "Salt dissolved in water",
+        "Ethanol and water"
+      ],
+      "a": 1,
+      "e": "Sand particles are insoluble and can be trapped by a filter.",
+      "d": "Medium",
+      "topic": "Filtration",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-147",
+      "q": "Choose the scientifically correct answer: Which mixture is readily separated by filtration?",
+      "o": [
+        "Sand and water",
+        "Two miscible liquids",
+        "Ethanol and water",
+        "Salt dissolved in water"
+      ],
+      "a": 0,
+      "e": "Sand particles are insoluble and can be trapped by a filter.",
+      "d": "Medium",
+      "topic": "Filtration",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-148",
+      "q": "Can ordinary filter paper remove dissolved sodium chloride from water?",
+      "o": [
+        "No, dissolved ions pass through",
+        "Yes, sodium chloride is always magnetic",
+        "No, because water is a solid",
+        "Yes, all dissolved ions are retained"
+      ],
+      "a": 0,
+      "e": "Dissolved ions are too small for ordinary filter paper to retain.",
+      "d": "Easy",
+      "topic": "Filtration",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-149",
+      "q": "In a Class 9 chemistry laboratory exercise, can ordinary filter paper remove dissolved sodium chloride from water?",
+      "o": [
+        "Yes, all dissolved ions are retained",
+        "No, dissolved ions pass through",
+        "No, because water is a solid",
+        "Yes, sodium chloride is always magnetic"
+      ],
+      "a": 1,
+      "e": "Dissolved ions are too small for ordinary filter paper to retain.",
+      "d": "Medium",
+      "topic": "Filtration",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-150",
+      "q": "Choose the scientifically correct answer: Can ordinary filter paper remove dissolved sodium chloride from water?",
+      "o": [
+        "No, dissolved ions pass through",
+        "Yes, all dissolved ions are retained",
+        "Yes, sodium chloride is always magnetic",
+        "No, because water is a solid"
+      ],
+      "a": 0,
+      "e": "Dissolved ions are too small for ordinary filter paper to retain.",
+      "d": "Medium",
+      "topic": "Filtration",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-151",
+      "q": "What is the basic mechanism of filtration?",
+      "o": [
+        "Every substance boils at the same temperature",
+        "Solvent becomes magnetic",
+        "A porous barrier retains larger particles",
+        "All liquids are chemically destroyed"
+      ],
+      "a": 2,
+      "e": "Filtration separates particles by passage through pores.",
+      "d": "Easy",
+      "topic": "Filtration",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-152",
+      "q": "In a Class 9 chemistry laboratory exercise, what is the basic mechanism of filtration?",
+      "o": [
+        "Every substance boils at the same temperature",
+        "All liquids are chemically destroyed",
+        "Solvent becomes magnetic",
+        "A porous barrier retains larger particles"
+      ],
+      "a": 3,
+      "e": "Filtration separates particles by passage through pores.",
+      "d": "Medium",
+      "topic": "Filtration",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-153",
+      "q": "Choose the scientifically correct answer: What is the basic mechanism of filtration?",
+      "o": [
+        "A porous barrier retains larger particles",
+        "Solvent becomes magnetic",
+        "All liquids are chemically destroyed",
+        "Every substance boils at the same temperature"
+      ],
+      "a": 0,
+      "e": "Filtration separates particles by passage through pores.",
+      "d": "Medium",
+      "topic": "Filtration",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-154",
+      "q": "Which method is commonly used for rapid laboratory filtration with reduced pressure?",
+      "o": [
+        "Vacuum filtration",
+        "Fractional distillation",
+        "Evaporation",
+        "Crystallization without filtering"
+      ],
+      "a": 0,
+      "e": "Vacuum filtration uses reduced pressure to draw liquid through a filter.",
+      "d": "Easy",
+      "topic": "Filtration",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-155",
+      "q": "In a Class 9 chemistry laboratory exercise, which method is commonly used for rapid laboratory filtration with reduced pressure?",
+      "o": [
+        "Evaporation",
+        "Crystallization without filtering",
+        "Fractional distillation",
+        "Vacuum filtration"
+      ],
+      "a": 3,
+      "e": "Vacuum filtration uses reduced pressure to draw liquid through a filter.",
+      "d": "Medium",
+      "topic": "Filtration",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-156",
+      "q": "Choose the scientifically correct answer: Which method is commonly used for rapid laboratory filtration with reduced pressure?",
+      "o": [
+        "Evaporation",
+        "Vacuum filtration",
+        "Fractional distillation",
+        "Crystallization without filtering"
+      ],
+      "a": 1,
+      "e": "Vacuum filtration uses reduced pressure to draw liquid through a filter.",
+      "d": "Medium",
+      "topic": "Filtration",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-157",
+      "q": "Which funnel is often used in vacuum filtration?",
+      "o": [
+        "Separating funnel only",
+        "Buchner funnel",
+        "Dropping funnel only",
+        "Distillation head"
+      ],
+      "a": 1,
+      "e": "A Buchner funnel supports filter paper for vacuum filtration.",
+      "d": "Easy",
+      "topic": "Filtration",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-158",
+      "q": "In a Class 9 chemistry laboratory exercise, which funnel is often used in vacuum filtration?",
+      "o": [
+        "Distillation head",
+        "Dropping funnel only",
+        "Buchner funnel",
+        "Separating funnel only"
+      ],
+      "a": 2,
+      "e": "A Buchner funnel supports filter paper for vacuum filtration.",
+      "d": "Medium",
+      "topic": "Filtration",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-159",
+      "q": "Choose the scientifically correct answer: Which funnel is often used in vacuum filtration?",
+      "o": [
+        "Dropping funnel only",
+        "Buchner funnel",
+        "Separating funnel only",
+        "Distillation head"
+      ],
+      "a": 1,
+      "e": "A Buchner funnel supports filter paper for vacuum filtration.",
+      "d": "Medium",
+      "topic": "Filtration",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-160",
+      "q": "Which device creates suction in vacuum filtration?",
+      "o": [
+        "Vacuum source",
+        "Condenser cooling jacket",
+        "Glass stirring rod alone",
+        "Bunsen flame alone"
+      ],
+      "a": 0,
+      "e": "A vacuum source reduces pressure below the filter.",
+      "d": "Easy",
+      "topic": "Filtration",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-161",
+      "q": "In a Class 9 chemistry laboratory exercise, which device creates suction in vacuum filtration?",
+      "o": [
+        "Glass stirring rod alone",
+        "Vacuum source",
+        "Bunsen flame alone",
+        "Condenser cooling jacket"
+      ],
+      "a": 1,
+      "e": "A vacuum source reduces pressure below the filter.",
+      "d": "Medium",
+      "topic": "Filtration",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-162",
+      "q": "Choose the scientifically correct answer: Which device creates suction in vacuum filtration?",
+      "o": [
+        "Bunsen flame alone",
+        "Condenser cooling jacket",
+        "Glass stirring rod alone",
+        "Vacuum source"
+      ],
+      "a": 3,
+      "e": "A vacuum source reduces pressure below the filter.",
+      "d": "Medium",
+      "topic": "Filtration",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-163",
+      "q": "Which method is suitable for filtering a suspension without suction?",
+      "o": [
+        "Evaporation to dryness",
+        "Fractional distillation",
+        "Gravity filtration",
+        "Simple distillation"
+      ],
+      "a": 2,
+      "e": "Gravity draws liquid through the filter paper.",
+      "d": "Easy",
+      "topic": "Filtration",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-164",
+      "q": "In a Class 9 chemistry laboratory exercise, which method is suitable for filtering a suspension without suction?",
+      "o": [
+        "Simple distillation",
+        "Evaporation to dryness",
+        "Gravity filtration",
+        "Fractional distillation"
+      ],
+      "a": 2,
+      "e": "Gravity draws liquid through the filter paper.",
+      "d": "Medium",
+      "topic": "Filtration",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-165",
+      "q": "Choose the scientifically correct answer: Which method is suitable for filtering a suspension without suction?",
+      "o": [
+        "Evaporation to dryness",
+        "Gravity filtration",
+        "Fractional distillation",
+        "Simple distillation"
+      ],
+      "a": 1,
+      "e": "Gravity draws liquid through the filter paper.",
+      "d": "Medium",
+      "topic": "Filtration",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-166",
+      "q": "What happens to insoluble particles larger than the filter pores?",
+      "o": [
+        "They pass freely with all dissolved ions",
+        "They become gaseous",
+        "They are converted to distilled water",
+        "They are retained"
+      ],
+      "a": 3,
+      "e": "Large insoluble particles are trapped by the filter.",
+      "d": "Easy",
+      "topic": "Filtration",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-167",
+      "q": "In a Class 9 chemistry laboratory exercise, what happens to insoluble particles larger than the filter pores?",
+      "o": [
+        "They become gaseous",
+        "They pass freely with all dissolved ions",
+        "They are retained",
+        "They are converted to distilled water"
+      ],
+      "a": 2,
+      "e": "Large insoluble particles are trapped by the filter.",
+      "d": "Medium",
+      "topic": "Filtration",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-168",
+      "q": "Choose the scientifically correct answer: What happens to insoluble particles larger than the filter pores?",
+      "o": [
+        "They become gaseous",
+        "They are retained",
+        "They are converted to distilled water",
+        "They pass freely with all dissolved ions"
+      ],
+      "a": 1,
+      "e": "Large insoluble particles are trapped by the filter.",
+      "d": "Medium",
+      "topic": "Filtration",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-169",
+      "q": "What is a suspension?",
+      "o": [
+        "A solution with no particles",
+        "A pure element",
+        "A single gas",
+        "A mixture containing dispersed undissolved particles"
+      ],
+      "a": 3,
+      "e": "Suspensions contain solid particles dispersed in a fluid.",
+      "d": "Easy",
+      "topic": "Filtration",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-170",
+      "q": "In a Class 9 chemistry laboratory exercise, what is a suspension?",
+      "o": [
+        "A mixture containing dispersed undissolved particles",
+        "A single gas",
+        "A pure element",
+        "A solution with no particles"
+      ],
+      "a": 0,
+      "e": "Suspensions contain solid particles dispersed in a fluid.",
+      "d": "Medium",
+      "topic": "Filtration",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-171",
+      "q": "Choose the scientifically correct answer: What is a suspension?",
+      "o": [
+        "A single gas",
+        "A pure element",
+        "A mixture containing dispersed undissolved particles",
+        "A solution with no particles"
+      ],
+      "a": 2,
+      "e": "Suspensions contain solid particles dispersed in a fluid.",
+      "d": "Medium",
+      "topic": "Filtration",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-172",
+      "q": "Which filtration example is described in everyday life?",
+      "o": [
+        "Coffee filtration",
+        "Salt crystallization without water",
+        "Iron smelting only",
+        "Nuclear fission"
+      ],
+      "a": 0,
+      "e": "Coffee filters separate grounds from the drink.",
+      "d": "Easy",
+      "topic": "Filtration",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-173",
+      "q": "In a Class 9 chemistry laboratory exercise, which filtration example is described in everyday life?",
+      "o": [
+        "Coffee filtration",
+        "Iron smelting only",
+        "Nuclear fission",
+        "Salt crystallization without water"
+      ],
+      "a": 0,
+      "e": "Coffee filters separate grounds from the drink.",
+      "d": "Medium",
+      "topic": "Filtration",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-174",
+      "q": "Choose the scientifically correct answer: Which filtration example is described in everyday life?",
+      "o": [
+        "Salt crystallization without water",
+        "Nuclear fission",
+        "Iron smelting only",
+        "Coffee filtration"
+      ],
+      "a": 3,
+      "e": "Coffee filters separate grounds from the drink.",
+      "d": "Medium",
+      "topic": "Filtration",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-175",
+      "q": "Which biological organ uses filtration as part of blood cleaning?",
+      "o": [
+        "Lung alveolus as a distillation column",
+        "Stomach as a condenser",
+        "Kidney",
+        "Bone as a filter funnel"
+      ],
+      "a": 2,
+      "e": "Kidneys filter blood as part of urine formation.",
+      "d": "Easy",
+      "topic": "Filtration",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-176",
+      "q": "In a Class 9 chemistry laboratory exercise, which biological organ uses filtration as part of blood cleaning?",
+      "o": [
+        "Lung alveolus as a distillation column",
+        "Bone as a filter funnel",
+        "Stomach as a condenser",
+        "Kidney"
+      ],
+      "a": 3,
+      "e": "Kidneys filter blood as part of urine formation.",
+      "d": "Medium",
+      "topic": "Filtration",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-177",
+      "q": "Choose the scientifically correct answer: Which biological organ uses filtration as part of blood cleaning?",
+      "o": [
+        "Kidney",
+        "Stomach as a condenser",
+        "Lung alveolus as a distillation column",
+        "Bone as a filter funnel"
+      ],
+      "a": 0,
+      "e": "Kidneys filter blood as part of urine formation.",
+      "d": "Medium",
+      "topic": "Filtration",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-178",
+      "q": "What is a common use of filtration in water treatment?",
+      "o": [
+        "Removing suspended particles",
+        "Increasing radioactivity",
+        "Removing all dissolved salts with paper",
+        "Converting water into oxygen"
+      ],
+      "a": 0,
+      "e": "Filtration removes suspended solids.",
+      "d": "Easy",
+      "topic": "Filtration",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-179",
+      "q": "In a Class 9 chemistry laboratory exercise, what is a common use of filtration in water treatment?",
+      "o": [
+        "Converting water into oxygen",
+        "Removing suspended particles",
+        "Increasing radioactivity",
+        "Removing all dissolved salts with paper"
+      ],
+      "a": 1,
+      "e": "Filtration removes suspended solids.",
+      "d": "Medium",
+      "topic": "Filtration",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-180",
+      "q": "Choose the scientifically correct answer: What is a common use of filtration in water treatment?",
+      "o": [
+        "Increasing radioactivity",
+        "Removing suspended particles",
+        "Removing all dissolved salts with paper",
+        "Converting water into oxygen"
+      ],
+      "a": 1,
+      "e": "Filtration removes suspended solids.",
+      "d": "Medium",
+      "topic": "Filtration",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-181",
+      "q": "Which part of the mixture becomes the filtrate when sand and water are filtered?",
+      "o": [
+        "Glass funnel",
+        "Sand",
+        "Filter paper",
+        "Water"
+      ],
+      "a": 3,
+      "e": "Water passes through the filter.",
+      "d": "Easy",
+      "topic": "Filtration",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-182",
+      "q": "In a Class 9 chemistry laboratory exercise, which part of the mixture becomes the filtrate when sand and water are filtered?",
+      "o": [
+        "Water",
+        "Sand",
+        "Filter paper",
+        "Glass funnel"
+      ],
+      "a": 0,
+      "e": "Water passes through the filter.",
+      "d": "Medium",
+      "topic": "Filtration",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-183",
+      "q": "Choose the scientifically correct answer: Which part of the mixture becomes the filtrate when sand and water are filtered?",
+      "o": [
+        "Water",
+        "Glass funnel",
+        "Sand",
+        "Filter paper"
+      ],
+      "a": 0,
+      "e": "Water passes through the filter.",
+      "d": "Medium",
+      "topic": "Filtration",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-184",
+      "q": "Which part becomes the residue when chalk and water are filtered?",
+      "o": [
+        "Water",
+        "Chalk powder",
+        "Water vapor",
+        "Dissolved sugar"
+      ],
+      "a": 1,
+      "e": "Insoluble chalk particles stay on the paper.",
+      "d": "Easy",
+      "topic": "Filtration",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-185",
+      "q": "In a Class 9 chemistry laboratory exercise, which part becomes the residue when chalk and water are filtered?",
+      "o": [
+        "Dissolved sugar",
+        "Chalk powder",
+        "Water vapor",
+        "Water"
+      ],
+      "a": 1,
+      "e": "Insoluble chalk particles stay on the paper.",
+      "d": "Medium",
+      "topic": "Filtration",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-186",
+      "q": "Choose the scientifically correct answer: Which part becomes the residue when chalk and water are filtered?",
+      "o": [
+        "Chalk powder",
+        "Water vapor",
+        "Dissolved sugar",
+        "Water"
+      ],
+      "a": 0,
+      "e": "Insoluble chalk particles stay on the paper.",
+      "d": "Medium",
+      "topic": "Filtration",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-187",
+      "q": "Which factor chiefly determines whether a particle passes through filter paper?",
+      "o": [
+        "Its size relative to the pores",
+        "Its atomic number alone",
+        "Its taste",
+        "Its boiling point alone"
+      ],
+      "a": 0,
+      "e": "Particle size relative to filter pores determines retention.",
+      "d": "Easy",
+      "topic": "Filtration",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-188",
+      "q": "In a Class 9 chemistry laboratory exercise, which factor chiefly determines whether a particle passes through filter paper?",
+      "o": [
+        "Its taste",
+        "Its boiling point alone",
+        "Its atomic number alone",
+        "Its size relative to the pores"
+      ],
+      "a": 3,
+      "e": "Particle size relative to filter pores determines retention.",
+      "d": "Medium",
+      "topic": "Filtration",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-189",
+      "q": "Choose the scientifically correct answer: Which factor chiefly determines whether a particle passes through filter paper?",
+      "o": [
+        "Its boiling point alone",
+        "Its size relative to the pores",
+        "Its atomic number alone",
+        "Its taste"
+      ],
+      "a": 1,
+      "e": "Particle size relative to filter pores determines retention.",
+      "d": "Medium",
+      "topic": "Filtration",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-190",
+      "q": "Which filtration method uses a conical flask connected to suction?",
+      "o": [
+        "Vacuum filtration",
+        "Evaporation",
+        "Crystallization",
+        "Simple distillation"
+      ],
+      "a": 0,
+      "e": "A suction flask is used with reduced-pressure filtration.",
+      "d": "Easy",
+      "topic": "Filtration",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-191",
+      "q": "In a Class 9 chemistry laboratory exercise, which filtration method uses a conical flask connected to suction?",
+      "o": [
+        "Simple distillation",
+        "Vacuum filtration",
+        "Crystallization",
+        "Evaporation"
+      ],
+      "a": 1,
+      "e": "A suction flask is used with reduced-pressure filtration.",
+      "d": "Medium",
+      "topic": "Filtration",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-192",
+      "q": "Choose the scientifically correct answer: Which filtration method uses a conical flask connected to suction?",
+      "o": [
+        "Evaporation",
+        "Simple distillation",
+        "Vacuum filtration",
+        "Crystallization"
+      ],
+      "a": 2,
+      "e": "A suction flask is used with reduced-pressure filtration.",
+      "d": "Medium",
+      "topic": "Filtration",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-193",
+      "q": "Why is filtration considered a physical separation?",
+      "o": [
+        "It does not require a new substance to form",
+        "It always changes atomic nuclei",
+        "It always oxidizes the solute",
+        "It requires combustion"
+      ],
+      "a": 0,
+      "e": "Filtration separates existing components without a chemical reaction.",
+      "d": "Easy",
+      "topic": "Filtration",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-194",
+      "q": "In a Class 9 chemistry laboratory exercise, why is filtration considered a physical separation?",
+      "o": [
+        "It requires combustion",
+        "It always oxidizes the solute",
+        "It always changes atomic nuclei",
+        "It does not require a new substance to form"
+      ],
+      "a": 3,
+      "e": "Filtration separates existing components without a chemical reaction.",
+      "d": "Medium",
+      "topic": "Filtration",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-195",
+      "q": "Choose the scientifically correct answer: Why is filtration considered a physical separation?",
+      "o": [
+        "It does not require a new substance to form",
+        "It requires combustion",
+        "It always oxidizes the solute",
+        "It always changes atomic nuclei"
+      ],
+      "a": 0,
+      "e": "Filtration separates existing components without a chemical reaction.",
+      "d": "Medium",
+      "topic": "Filtration",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-196",
+      "q": "What is crystallization?",
+      "o": [
+        "Splitting atomic nuclei",
+        "Conversion of salt into gas",
+        "Mechanical sieving of stones",
+        "Formation of solid crystals from a solution"
+      ],
+      "a": 3,
+      "e": "Crystallization forms an ordered solid from dissolved solute.",
+      "d": "Easy",
+      "topic": "Crystallization",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-197",
+      "q": "In a Class 9 chemistry laboratory exercise, what is crystallization?",
+      "o": [
+        "Conversion of salt into gas",
+        "Splitting atomic nuclei",
+        "Formation of solid crystals from a solution",
+        "Mechanical sieving of stones"
+      ],
+      "a": 2,
+      "e": "Crystallization forms an ordered solid from dissolved solute.",
+      "d": "Medium",
+      "topic": "Crystallization",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-198",
+      "q": "Choose the scientifically correct answer: What is crystallization?",
+      "o": [
+        "Formation of solid crystals from a solution",
+        "Splitting atomic nuclei",
+        "Mechanical sieving of stones",
+        "Conversion of salt into gas"
+      ],
+      "a": 0,
+      "e": "Crystallization forms an ordered solid from dissolved solute.",
+      "d": "Medium",
+      "topic": "Crystallization",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-199",
+      "q": "What type of solution is often prepared before cooling in crystallization?",
+      "o": [
+        "A mixture of two dry metals",
+        "Hot saturated solution",
+        "A suspension of insoluble sand only",
+        "A pure gas"
+      ],
+      "a": 1,
+      "e": "Hot saturated solution can release crystals as it cools.",
+      "d": "Easy",
+      "topic": "Crystallization",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-200",
+      "q": "In a Class 9 chemistry laboratory exercise, what type of solution is often prepared before cooling in crystallization?",
+      "o": [
+        "A suspension of insoluble sand only",
+        "A pure gas",
+        "A mixture of two dry metals",
+        "Hot saturated solution"
+      ],
+      "a": 3,
+      "e": "Hot saturated solution can release crystals as it cools.",
+      "d": "Medium",
+      "topic": "Crystallization",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-201",
+      "q": "Choose the scientifically correct answer: What type of solution is often prepared before cooling in crystallization?",
+      "o": [
+        "Hot saturated solution",
+        "A suspension of insoluble sand only",
+        "A pure gas",
+        "A mixture of two dry metals"
+      ],
+      "a": 0,
+      "e": "Hot saturated solution can release crystals as it cools.",
+      "d": "Medium",
+      "topic": "Crystallization",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-202",
+      "q": "What happens to many solids solubility when hot solution cools?",
+      "o": [
+        "Solubility always becomes infinite",
+        "Solubility decreases",
+        "Solvent becomes a metal",
+        "All solids turn into gases"
+      ],
+      "a": 1,
+      "e": "Many solids are less soluble at lower temperatures.",
+      "d": "Easy",
+      "topic": "Crystallization",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-203",
+      "q": "In a Class 9 chemistry laboratory exercise, what happens to many solids solubility when hot solution cools?",
+      "o": [
+        "Solvent becomes a metal",
+        "All solids turn into gases",
+        "Solubility always becomes infinite",
+        "Solubility decreases"
+      ],
+      "a": 3,
+      "e": "Many solids are less soluble at lower temperatures.",
+      "d": "Medium",
+      "topic": "Crystallization",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-204",
+      "q": "Choose the scientifically correct answer: What happens to many solids solubility when hot solution cools?",
+      "o": [
+        "Solubility decreases",
+        "Solubility always becomes infinite",
+        "Solvent becomes a metal",
+        "All solids turn into gases"
+      ],
+      "a": 0,
+      "e": "Many solids are less soluble at lower temperatures.",
+      "d": "Medium",
+      "topic": "Crystallization",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-205",
+      "q": "Why can crystals appear as a saturated solution cools?",
+      "o": [
+        "All water turns into salt",
+        "Solute becomes radioactive",
+        "Excess solute comes out of solution",
+        "The filter paper melts"
+      ],
+      "a": 2,
+      "e": "Cooling reduces solubility and excess solute crystallizes.",
+      "d": "Easy",
+      "topic": "Crystallization",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-206",
+      "q": "In a Class 9 chemistry laboratory exercise, why can crystals appear as a saturated solution cools?",
+      "o": [
+        "Solute becomes radioactive",
+        "All water turns into salt",
+        "The filter paper melts",
+        "Excess solute comes out of solution"
+      ],
+      "a": 3,
+      "e": "Cooling reduces solubility and excess solute crystallizes.",
+      "d": "Medium",
+      "topic": "Crystallization",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-207",
+      "q": "Choose the scientifically correct answer: Why can crystals appear as a saturated solution cools?",
+      "o": [
+        "Excess solute comes out of solution",
+        "The filter paper melts",
+        "All water turns into salt",
+        "Solute becomes radioactive"
+      ],
+      "a": 0,
+      "e": "Cooling reduces solubility and excess solute crystallizes.",
+      "d": "Medium",
+      "topic": "Crystallization",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-208",
+      "q": "What is the mother liquor?",
+      "o": [
+        "An evaporating dish",
+        "Solution remaining after crystals form",
+        "A dry filter paper",
+        "A fractionating column"
+      ],
+      "a": 1,
+      "e": "Mother liquor is the residual solution surrounding crystals.",
+      "d": "Easy",
+      "topic": "Crystallization",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-209",
+      "q": "In a Class 9 chemistry laboratory exercise, what is the mother liquor?",
+      "o": [
+        "A fractionating column",
+        "An evaporating dish",
+        "A dry filter paper",
+        "Solution remaining after crystals form"
+      ],
+      "a": 3,
+      "e": "Mother liquor is the residual solution surrounding crystals.",
+      "d": "Medium",
+      "topic": "Crystallization",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-210",
+      "q": "Choose the scientifically correct answer: What is the mother liquor?",
+      "o": [
+        "An evaporating dish",
+        "A fractionating column",
+        "Solution remaining after crystals form",
+        "A dry filter paper"
+      ],
+      "a": 2,
+      "e": "Mother liquor is the residual solution surrounding crystals.",
+      "d": "Medium",
+      "topic": "Crystallization",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-211",
+      "q": "How can crystals be separated from mother liquor?",
+      "o": [
+        "Magnetic separation always",
+        "Fractional distillation of dry crystals",
+        "Burning the solution",
+        "Filtration"
+      ],
+      "a": 3,
+      "e": "Filtering retains crystals and removes liquid.",
+      "d": "Easy",
+      "topic": "Crystallization",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-212",
+      "q": "In a Class 9 chemistry laboratory exercise, how can crystals be separated from mother liquor?",
+      "o": [
+        "Magnetic separation always",
+        "Burning the solution",
+        "Fractional distillation of dry crystals",
+        "Filtration"
+      ],
+      "a": 3,
+      "e": "Filtering retains crystals and removes liquid.",
+      "d": "Medium",
+      "topic": "Crystallization",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-213",
+      "q": "Choose the scientifically correct answer: How can crystals be separated from mother liquor?",
+      "o": [
+        "Filtration",
+        "Burning the solution",
+        "Fractional distillation of dry crystals",
+        "Magnetic separation always"
+      ],
+      "a": 0,
+      "e": "Filtering retains crystals and removes liquid.",
+      "d": "Medium",
+      "topic": "Crystallization",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-214",
+      "q": "Why is crystallization useful for purification?",
+      "o": [
+        "Impurities can remain dissolved in mother liquor",
+        "It destroys all solvent chemically",
+        "It converts crystals into gases",
+        "Every impurity always crystallizes first"
+      ],
+      "a": 0,
+      "e": "Under suitable conditions desired crystals form while impurities remain in solution.",
+      "d": "Easy",
+      "topic": "Crystallization",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-215",
+      "q": "In a Class 9 chemistry laboratory exercise, why is crystallization useful for purification?",
+      "o": [
+        "Every impurity always crystallizes first",
+        "It destroys all solvent chemically",
+        "Impurities can remain dissolved in mother liquor",
+        "It converts crystals into gases"
+      ],
+      "a": 2,
+      "e": "Under suitable conditions desired crystals form while impurities remain in solution.",
+      "d": "Medium",
+      "topic": "Crystallization",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-216",
+      "q": "Choose the scientifically correct answer: Why is crystallization useful for purification?",
+      "o": [
+        "Every impurity always crystallizes first",
+        "It converts crystals into gases",
+        "It destroys all solvent chemically",
+        "Impurities can remain dissolved in mother liquor"
+      ],
+      "a": 3,
+      "e": "Under suitable conditions desired crystals form while impurities remain in solution.",
+      "d": "Medium",
+      "topic": "Crystallization",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-217",
+      "q": "What is the role of a seed crystal?",
+      "o": [
+        "To heat the condenser",
+        "To filter suspended sand",
+        "To provide a surface for crystal growth",
+        "To measure boiling point"
+      ],
+      "a": 2,
+      "e": "A seed crystal helps initiate crystal formation.",
+      "d": "Easy",
+      "topic": "Crystallization",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-218",
+      "q": "In a Class 9 chemistry laboratory exercise, what is the role of a seed crystal?",
+      "o": [
+        "To measure boiling point",
+        "To filter suspended sand",
+        "To heat the condenser",
+        "To provide a surface for crystal growth"
+      ],
+      "a": 3,
+      "e": "A seed crystal helps initiate crystal formation.",
+      "d": "Medium",
+      "topic": "Crystallization",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-219",
+      "q": "Choose the scientifically correct answer: What is the role of a seed crystal?",
+      "o": [
+        "To provide a surface for crystal growth",
+        "To heat the condenser",
+        "To filter suspended sand",
+        "To measure boiling point"
+      ],
+      "a": 0,
+      "e": "A seed crystal helps initiate crystal formation.",
+      "d": "Medium",
+      "topic": "Crystallization",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-220",
+      "q": "What is a saturated solution?",
+      "o": [
+        "A solution containing no solute",
+        "A mixture of only insoluble solids",
+        "A solution holding the maximum dissolved solute at given conditions",
+        "A solution that must be a gas"
+      ],
+      "a": 2,
+      "e": "At a given temperature, a saturated solution holds as much solute as can dissolve.",
+      "d": "Easy",
+      "topic": "Crystallization",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-221",
+      "q": "In a Class 9 chemistry laboratory exercise, what is a saturated solution?",
+      "o": [
+        "A solution containing no solute",
+        "A mixture of only insoluble solids",
+        "A solution holding the maximum dissolved solute at given conditions",
+        "A solution that must be a gas"
+      ],
+      "a": 2,
+      "e": "At a given temperature, a saturated solution holds as much solute as can dissolve.",
+      "d": "Medium",
+      "topic": "Crystallization",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-222",
+      "q": "Choose the scientifically correct answer: What is a saturated solution?",
+      "o": [
+        "A solution containing no solute",
+        "A solution holding the maximum dissolved solute at given conditions",
+        "A solution that must be a gas",
+        "A mixture of only insoluble solids"
+      ],
+      "a": 1,
+      "e": "At a given temperature, a saturated solution holds as much solute as can dissolve.",
+      "d": "Medium",
+      "topic": "Crystallization",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-223",
+      "q": "What is a supersaturated solution?",
+      "o": [
+        "A solution of only insoluble solids",
+        "A completely dry crystal",
+        "A solution containing more dissolved solute than normally stable at that temperature",
+        "A solution containing no solvent"
+      ],
+      "a": 2,
+      "e": "Supersaturation can lead to crystal formation when disturbed.",
+      "d": "Easy",
+      "topic": "Crystallization",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-224",
+      "q": "In a Class 9 chemistry laboratory exercise, what is a supersaturated solution?",
+      "o": [
+        "A solution containing more dissolved solute than normally stable at that temperature",
+        "A completely dry crystal",
+        "A solution containing no solvent",
+        "A solution of only insoluble solids"
+      ],
+      "a": 0,
+      "e": "Supersaturation can lead to crystal formation when disturbed.",
+      "d": "Medium",
+      "topic": "Crystallization",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-225",
+      "q": "Choose the scientifically correct answer: What is a supersaturated solution?",
+      "o": [
+        "A completely dry crystal",
+        "A solution of only insoluble solids",
+        "A solution containing no solvent",
+        "A solution containing more dissolved solute than normally stable at that temperature"
+      ],
+      "a": 3,
+      "e": "Supersaturation can lead to crystal formation when disturbed.",
+      "d": "Medium",
+      "topic": "Crystallization",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-226",
+      "q": "Which action can promote crystal growth from a hot saturated solution?",
+      "o": [
+        "Adding more boiling water continuously",
+        "Allowing it to cool slowly",
+        "Shaking out all solvent immediately",
+        "Filtering out all dissolved ions"
+      ],
+      "a": 1,
+      "e": "Slow cooling can allow larger crystals to grow.",
+      "d": "Easy",
+      "topic": "Crystallization",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-227",
+      "q": "In a Class 9 chemistry laboratory exercise, which action can promote crystal growth from a hot saturated solution?",
+      "o": [
+        "Shaking out all solvent immediately",
+        "Allowing it to cool slowly",
+        "Filtering out all dissolved ions",
+        "Adding more boiling water continuously"
+      ],
+      "a": 1,
+      "e": "Slow cooling can allow larger crystals to grow.",
+      "d": "Medium",
+      "topic": "Crystallization",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-228",
+      "q": "Choose the scientifically correct answer: Which action can promote crystal growth from a hot saturated solution?",
+      "o": [
+        "Shaking out all solvent immediately",
+        "Filtering out all dissolved ions",
+        "Allowing it to cool slowly",
+        "Adding more boiling water continuously"
+      ],
+      "a": 2,
+      "e": "Slow cooling can allow larger crystals to grow.",
+      "d": "Medium",
+      "topic": "Crystallization",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-229",
+      "q": "Which substance can be purified by crystallization?",
+      "o": [
+        "Copper sulfate",
+        "A mixture of dry iron and sand by magnetism",
+        "Two immiscible gases by filtration paper",
+        "Pebbles and rocks by evaporation"
+      ],
+      "a": 0,
+      "e": "Copper sulfate can be recrystallized from solution.",
+      "d": "Easy",
+      "topic": "Crystallization",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-230",
+      "q": "In a Class 9 chemistry laboratory exercise, which substance can be purified by crystallization?",
+      "o": [
+        "Pebbles and rocks by evaporation",
+        "A mixture of dry iron and sand by magnetism",
+        "Copper sulfate",
+        "Two immiscible gases by filtration paper"
+      ],
+      "a": 2,
+      "e": "Copper sulfate can be recrystallized from solution.",
+      "d": "Medium",
+      "topic": "Crystallization",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-231",
+      "q": "Choose the scientifically correct answer: Which substance can be purified by crystallization?",
+      "o": [
+        "Pebbles and rocks by evaporation",
+        "A mixture of dry iron and sand by magnetism",
+        "Two immiscible gases by filtration paper",
+        "Copper sulfate"
+      ],
+      "a": 3,
+      "e": "Copper sulfate can be recrystallized from solution.",
+      "d": "Medium",
+      "topic": "Crystallization",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-232",
+      "q": "Which physical feature is characteristic of crystals?",
+      "o": [
+        "Always magnetic",
+        "No ordered structure at all",
+        "Regular geometric arrangement",
+        "Mandatory gaseous state"
+      ],
+      "a": 2,
+      "e": "Crystals have ordered arrangements of particles.",
+      "d": "Easy",
+      "topic": "Crystallization",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-233",
+      "q": "In a Class 9 chemistry laboratory exercise, which physical feature is characteristic of crystals?",
+      "o": [
+        "Mandatory gaseous state",
+        "No ordered structure at all",
+        "Regular geometric arrangement",
+        "Always magnetic"
+      ],
+      "a": 2,
+      "e": "Crystals have ordered arrangements of particles.",
+      "d": "Medium",
+      "topic": "Crystallization",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-234",
+      "q": "Choose the scientifically correct answer: Which physical feature is characteristic of crystals?",
+      "o": [
+        "Regular geometric arrangement",
+        "No ordered structure at all",
+        "Always magnetic",
+        "Mandatory gaseous state"
+      ],
+      "a": 0,
+      "e": "Crystals have ordered arrangements of particles.",
+      "d": "Medium",
+      "topic": "Crystallization",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-235",
+      "q": "Which stage commonly follows crystal formation?",
+      "o": [
+        "Adding a condenser to every crystal",
+        "Converting them to gas",
+        "Heating them until all decompose",
+        "Separating and drying crystals"
+      ],
+      "a": 3,
+      "e": "Crystals are collected, washed if appropriate and dried.",
+      "d": "Easy",
+      "topic": "Crystallization",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-236",
+      "q": "In a Class 9 chemistry laboratory exercise, which stage commonly follows crystal formation?",
+      "o": [
+        "Separating and drying crystals",
+        "Adding a condenser to every crystal",
+        "Heating them until all decompose",
+        "Converting them to gas"
+      ],
+      "a": 0,
+      "e": "Crystals are collected, washed if appropriate and dried.",
+      "d": "Medium",
+      "topic": "Crystallization",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-237",
+      "q": "Choose the scientifically correct answer: Which stage commonly follows crystal formation?",
+      "o": [
+        "Separating and drying crystals",
+        "Heating them until all decompose",
+        "Converting them to gas",
+        "Adding a condenser to every crystal"
+      ],
+      "a": 0,
+      "e": "Crystals are collected, washed if appropriate and dried.",
+      "d": "Medium",
+      "topic": "Crystallization",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-238",
+      "q": "What is the main difference between crystallization and evaporation to dryness?",
+      "o": [
+        "Crystallization only separates gases",
+        "Crystallization requires no solvent",
+        "Evaporation never removes water",
+        "Crystallization can produce purified well-formed crystals"
+      ],
+      "a": 3,
+      "e": "Controlled crystal formation often improves purity.",
+      "d": "Easy",
+      "topic": "Crystallization",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-239",
+      "q": "In a Class 9 chemistry laboratory exercise, what is the main difference between crystallization and evaporation to dryness?",
+      "o": [
+        "Crystallization requires no solvent",
+        "Crystallization only separates gases",
+        "Crystallization can produce purified well-formed crystals",
+        "Evaporation never removes water"
+      ],
+      "a": 2,
+      "e": "Controlled crystal formation often improves purity.",
+      "d": "Medium",
+      "topic": "Crystallization",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-240",
+      "q": "Choose the scientifically correct answer: What is the main difference between crystallization and evaporation to dryness?",
+      "o": [
+        "Evaporation never removes water",
+        "Crystallization requires no solvent",
+        "Crystallization only separates gases",
+        "Crystallization can produce purified well-formed crystals"
+      ],
+      "a": 3,
+      "e": "Controlled crystal formation often improves purity.",
+      "d": "Medium",
+      "topic": "Crystallization",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-241",
+      "q": "What does slow cooling generally favor during crystal growth?",
+      "o": [
+        "Immediate destruction of crystals",
+        "Complete absence of nucleation",
+        "Formation of larger crystals",
+        "Conversion of crystals to vapor"
+      ],
+      "a": 2,
+      "e": "Slower cooling gives particles more time to arrange into crystals.",
+      "d": "Easy",
+      "topic": "Crystallization",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-242",
+      "q": "In a Class 9 chemistry laboratory exercise, what does slow cooling generally favor during crystal growth?",
+      "o": [
+        "Formation of larger crystals",
+        "Conversion of crystals to vapor",
+        "Immediate destruction of crystals",
+        "Complete absence of nucleation"
+      ],
+      "a": 0,
+      "e": "Slower cooling gives particles more time to arrange into crystals.",
+      "d": "Medium",
+      "topic": "Crystallization",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-243",
+      "q": "Choose the scientifically correct answer: What does slow cooling generally favor during crystal growth?",
+      "o": [
+        "Formation of larger crystals",
+        "Conversion of crystals to vapor",
+        "Complete absence of nucleation",
+        "Immediate destruction of crystals"
+      ],
+      "a": 0,
+      "e": "Slower cooling gives particles more time to arrange into crystals.",
+      "d": "Medium",
+      "topic": "Crystallization",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-244",
+      "q": "Which mixture is most appropriate for crystallization?",
+      "o": [
+        "Two immiscible oils only",
+        "Large stones mixed with pebbles",
+        "Impure soluble solid dissolved in a suitable solvent",
+        "Dry iron filings mixed with sand"
+      ],
+      "a": 2,
+      "e": "Crystallization can purify a dissolved solid.",
+      "d": "Easy",
+      "topic": "Crystallization",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-245",
+      "q": "In a Class 9 chemistry laboratory exercise, which mixture is most appropriate for crystallization?",
+      "o": [
+        "Large stones mixed with pebbles",
+        "Dry iron filings mixed with sand",
+        "Impure soluble solid dissolved in a suitable solvent",
+        "Two immiscible oils only"
+      ],
+      "a": 2,
+      "e": "Crystallization can purify a dissolved solid.",
+      "d": "Medium",
+      "topic": "Crystallization",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-246",
+      "q": "Choose the scientifically correct answer: Which mixture is most appropriate for crystallization?",
+      "o": [
+        "Two immiscible oils only",
+        "Large stones mixed with pebbles",
+        "Impure soluble solid dissolved in a suitable solvent",
+        "Dry iron filings mixed with sand"
+      ],
+      "a": 2,
+      "e": "Crystallization can purify a dissolved solid.",
+      "d": "Medium",
+      "topic": "Crystallization",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-247",
+      "q": "What does nucleation mean in crystallization?",
+      "o": [
+        "Fractional boiling of petroleum",
+        "Vapor condensation in a condenser",
+        "Separation by filter pores",
+        "Initial formation of tiny crystal structures"
+      ],
+      "a": 3,
+      "e": "Nucleation is the start of crystal formation.",
+      "d": "Easy",
+      "topic": "Crystallization",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-248",
+      "q": "In a Class 9 chemistry laboratory exercise, what does nucleation mean in crystallization?",
+      "o": [
+        "Initial formation of tiny crystal structures",
+        "Separation by filter pores",
+        "Fractional boiling of petroleum",
+        "Vapor condensation in a condenser"
+      ],
+      "a": 0,
+      "e": "Nucleation is the start of crystal formation.",
+      "d": "Medium",
+      "topic": "Crystallization",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-249",
+      "q": "Choose the scientifically correct answer: What does nucleation mean in crystallization?",
+      "o": [
+        "Fractional boiling of petroleum",
+        "Separation by filter pores",
+        "Initial formation of tiny crystal structures",
+        "Vapor condensation in a condenser"
+      ],
+      "a": 2,
+      "e": "Nucleation is the start of crystal formation.",
+      "d": "Medium",
+      "topic": "Crystallization",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-250",
+      "q": "Why might hot filtration be performed before crystallization?",
+      "o": [
+        "To remove insoluble impurities",
+        "To convert solution into gas",
+        "To remove all dissolved solute",
+        "To make water magnetic"
+      ],
+      "a": 0,
+      "e": "Hot filtration removes undissolved impurities before cooling.",
+      "d": "Easy",
+      "topic": "Crystallization",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-251",
+      "q": "In a Class 9 chemistry laboratory exercise, why might hot filtration be performed before crystallization?",
+      "o": [
+        "To make water magnetic",
+        "To convert solution into gas",
+        "To remove all dissolved solute",
+        "To remove insoluble impurities"
+      ],
+      "a": 3,
+      "e": "Hot filtration removes undissolved impurities before cooling.",
+      "d": "Medium",
+      "topic": "Crystallization",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-252",
+      "q": "Choose the scientifically correct answer: Why might hot filtration be performed before crystallization?",
+      "o": [
+        "To remove all dissolved solute",
+        "To convert solution into gas",
+        "To make water magnetic",
+        "To remove insoluble impurities"
+      ],
+      "a": 3,
+      "e": "Hot filtration removes undissolved impurities before cooling.",
+      "d": "Medium",
+      "topic": "Crystallization",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-253",
+      "q": "Which process can yield salt crystals from concentrated salt solution?",
+      "o": [
+        "Crystallization",
+        "Magnetic separation",
+        "Fractional distillation of sand",
+        "Sieving dissolved ions"
+      ],
+      "a": 0,
+      "e": "Salt can crystallize from sufficiently concentrated solution.",
+      "d": "Easy",
+      "topic": "Crystallization",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-254",
+      "q": "In a Class 9 chemistry laboratory exercise, which process can yield salt crystals from concentrated salt solution?",
+      "o": [
+        "Crystallization",
+        "Magnetic separation",
+        "Sieving dissolved ions",
+        "Fractional distillation of sand"
+      ],
+      "a": 0,
+      "e": "Salt can crystallize from sufficiently concentrated solution.",
+      "d": "Medium",
+      "topic": "Crystallization",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-255",
+      "q": "Choose the scientifically correct answer: Which process can yield salt crystals from concentrated salt solution?",
+      "o": [
+        "Fractional distillation of sand",
+        "Sieving dissolved ions",
+        "Magnetic separation",
+        "Crystallization"
+      ],
+      "a": 3,
+      "e": "Salt can crystallize from sufficiently concentrated solution.",
+      "d": "Medium",
+      "topic": "Crystallization",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-256",
+      "q": "Which technique is commonly used to separate tea leaves from tea?",
+      "o": [
+        "Crystallization",
+        "Fractional distillation",
+        "Filtration",
+        "Evaporation to dryness"
+      ],
+      "a": 2,
+      "e": "A strainer acts as a filter for insoluble tea leaves.",
+      "d": "Easy",
+      "topic": "Applications and identification",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-257",
+      "q": "In a Class 9 chemistry laboratory exercise, which technique is commonly used to separate tea leaves from tea?",
+      "o": [
+        "Fractional distillation",
+        "Crystallization",
+        "Evaporation to dryness",
+        "Filtration"
+      ],
+      "a": 3,
+      "e": "A strainer acts as a filter for insoluble tea leaves.",
+      "d": "Medium",
+      "topic": "Applications and identification",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-258",
+      "q": "Choose the scientifically correct answer: Which technique is commonly used to separate tea leaves from tea?",
+      "o": [
+        "Fractional distillation",
+        "Crystallization",
+        "Filtration",
+        "Evaporation to dryness"
+      ],
+      "a": 2,
+      "e": "A strainer acts as a filter for insoluble tea leaves.",
+      "d": "Medium",
+      "topic": "Applications and identification",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-259",
+      "q": "Which technique is used to recover table salt from seawater in salt pans?",
+      "o": [
+        "Vacuum filtration alone",
+        "Simple filtration alone",
+        "Evaporation",
+        "Sieving"
+      ],
+      "a": 2,
+      "e": "Sunlight drives off water, leaving salt.",
+      "d": "Easy",
+      "topic": "Applications and identification",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-260",
+      "q": "In a Class 9 chemistry laboratory exercise, which technique is used to recover table salt from seawater in salt pans?",
+      "o": [
+        "Sieving",
+        "Evaporation",
+        "Simple filtration alone",
+        "Vacuum filtration alone"
+      ],
+      "a": 1,
+      "e": "Sunlight drives off water, leaving salt.",
+      "d": "Medium",
+      "topic": "Applications and identification",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-261",
+      "q": "Choose the scientifically correct answer: Which technique is used to recover table salt from seawater in salt pans?",
+      "o": [
+        "Vacuum filtration alone",
+        "Evaporation",
+        "Sieving",
+        "Simple filtration alone"
+      ],
+      "a": 1,
+      "e": "Sunlight drives off water, leaving salt.",
+      "d": "Medium",
+      "topic": "Applications and identification",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-262",
+      "q": "Which technique can separate pure water from seawater?",
+      "o": [
+        "Distillation",
+        "Handpicking",
+        "Magnetic separation",
+        "Ordinary filter paper alone"
+      ],
+      "a": 0,
+      "e": "Water is vaporized and condensed, leaving salts.",
+      "d": "Easy",
+      "topic": "Applications and identification",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-263",
+      "q": "In a Class 9 chemistry laboratory exercise, which technique can separate pure water from seawater?",
+      "o": [
+        "Distillation",
+        "Ordinary filter paper alone",
+        "Handpicking",
+        "Magnetic separation"
+      ],
+      "a": 0,
+      "e": "Water is vaporized and condensed, leaving salts.",
+      "d": "Medium",
+      "topic": "Applications and identification",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-264",
+      "q": "Choose the scientifically correct answer: Which technique can separate pure water from seawater?",
+      "o": [
+        "Handpicking",
+        "Distillation",
+        "Magnetic separation",
+        "Ordinary filter paper alone"
+      ],
+      "a": 1,
+      "e": "Water is vaporized and condensed, leaving salts.",
+      "d": "Medium",
+      "topic": "Applications and identification",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-265",
+      "q": "Which technique can obtain purified sugar crystals from syrup?",
+      "o": [
+        "Simple sieving of syrup",
+        "Gravity filtration of dissolved sugar",
+        "Magnetic separation",
+        "Crystallization"
+      ],
+      "a": 3,
+      "e": "Crystallization can recover sugar crystals from concentrated syrup.",
+      "d": "Easy",
+      "topic": "Applications and identification",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-266",
+      "q": "In a Class 9 chemistry laboratory exercise, which technique can obtain purified sugar crystals from syrup?",
+      "o": [
+        "Simple sieving of syrup",
+        "Magnetic separation",
+        "Gravity filtration of dissolved sugar",
+        "Crystallization"
+      ],
+      "a": 3,
+      "e": "Crystallization can recover sugar crystals from concentrated syrup.",
+      "d": "Medium",
+      "topic": "Applications and identification",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-267",
+      "q": "Choose the scientifically correct answer: Which technique can obtain purified sugar crystals from syrup?",
+      "o": [
+        "Crystallization",
+        "Simple sieving of syrup",
+        "Gravity filtration of dissolved sugar",
+        "Magnetic separation"
+      ],
+      "a": 0,
+      "e": "Crystallization can recover sugar crystals from concentrated syrup.",
+      "d": "Medium",
+      "topic": "Applications and identification",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-268",
+      "q": "Which technique is commonly used to separate coffee grounds from brewed coffee?",
+      "o": [
+        "Fractional distillation",
+        "Filtration",
+        "Crystallization",
+        "Evaporation to dryness"
+      ],
+      "a": 1,
+      "e": "Filter paper retains coffee grounds.",
+      "d": "Easy",
+      "topic": "Applications and identification",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-269",
+      "q": "In a Class 9 chemistry laboratory exercise, which technique is commonly used to separate coffee grounds from brewed coffee?",
+      "o": [
+        "Filtration",
+        "Crystallization",
+        "Fractional distillation",
+        "Evaporation to dryness"
+      ],
+      "a": 0,
+      "e": "Filter paper retains coffee grounds.",
+      "d": "Medium",
+      "topic": "Applications and identification",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-270",
+      "q": "Choose the scientifically correct answer: Which technique is commonly used to separate coffee grounds from brewed coffee?",
+      "o": [
+        "Fractional distillation",
+        "Filtration",
+        "Crystallization",
+        "Evaporation to dryness"
+      ],
+      "a": 1,
+      "e": "Filter paper retains coffee grounds.",
+      "d": "Medium",
+      "topic": "Applications and identification",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-271",
+      "q": "Which technique is useful for separating an insoluble precipitate from reaction mixture?",
+      "o": [
+        "Fractional distillation of solids",
+        "Filtration",
+        "Simple distillation of the precipitate",
+        "Evaporation of the precipitate into gas"
+      ],
+      "a": 1,
+      "e": "Precipitate is retained on filter paper.",
+      "d": "Easy",
+      "topic": "Applications and identification",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-272",
+      "q": "In a Class 9 chemistry laboratory exercise, which technique is useful for separating an insoluble precipitate from reaction mixture?",
+      "o": [
+        "Filtration",
+        "Evaporation of the precipitate into gas",
+        "Fractional distillation of solids",
+        "Simple distillation of the precipitate"
+      ],
+      "a": 0,
+      "e": "Precipitate is retained on filter paper.",
+      "d": "Medium",
+      "topic": "Applications and identification",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-273",
+      "q": "Choose the scientifically correct answer: Which technique is useful for separating an insoluble precipitate from reaction mixture?",
+      "o": [
+        "Evaporation of the precipitate into gas",
+        "Fractional distillation of solids",
+        "Simple distillation of the precipitate",
+        "Filtration"
+      ],
+      "a": 3,
+      "e": "Precipitate is retained on filter paper.",
+      "d": "Medium",
+      "topic": "Applications and identification",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-274",
+      "q": "Which technique is best for recovering a solvent for reuse?",
+      "o": [
+        "Handpicking",
+        "Gravity filtration of dissolved solvent",
+        "Open evaporation",
+        "Distillation"
+      ],
+      "a": 3,
+      "e": "Distillation collects the solvent after condensation.",
+      "d": "Easy",
+      "topic": "Applications and identification",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-275",
+      "q": "In a Class 9 chemistry laboratory exercise, which technique is best for recovering a solvent for reuse?",
+      "o": [
+        "Open evaporation",
+        "Handpicking",
+        "Gravity filtration of dissolved solvent",
+        "Distillation"
+      ],
+      "a": 3,
+      "e": "Distillation collects the solvent after condensation.",
+      "d": "Medium",
+      "topic": "Applications and identification",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-276",
+      "q": "Choose the scientifically correct answer: Which technique is best for recovering a solvent for reuse?",
+      "o": [
+        "Handpicking",
+        "Open evaporation",
+        "Distillation",
+        "Gravity filtration of dissolved solvent"
+      ],
+      "a": 2,
+      "e": "Distillation collects the solvent after condensation.",
+      "d": "Medium",
+      "topic": "Applications and identification",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-277",
+      "q": "Which technique is commonly used to purify solid compounds in laboratories?",
+      "o": [
+        "Fractional distillation of dry solids",
+        "Sieving molecules",
+        "Magnetic separation of every solute",
+        "Recrystallization"
+      ],
+      "a": 3,
+      "e": "Recrystallization separates the target solid from many impurities.",
+      "d": "Easy",
+      "topic": "Applications and identification",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-278",
+      "q": "In a Class 9 chemistry laboratory exercise, which technique is commonly used to purify solid compounds in laboratories?",
+      "o": [
+        "Recrystallization",
+        "Magnetic separation of every solute",
+        "Sieving molecules",
+        "Fractional distillation of dry solids"
+      ],
+      "a": 0,
+      "e": "Recrystallization separates the target solid from many impurities.",
+      "d": "Medium",
+      "topic": "Applications and identification",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-279",
+      "q": "Choose the scientifically correct answer: Which technique is commonly used to purify solid compounds in laboratories?",
+      "o": [
+        "Recrystallization",
+        "Magnetic separation of every solute",
+        "Sieving molecules",
+        "Fractional distillation of dry solids"
+      ],
+      "a": 0,
+      "e": "Recrystallization separates the target solid from many impurities.",
+      "d": "Medium",
+      "topic": "Applications and identification",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-280",
+      "q": "Which technique is appropriate to separate chalk powder from water?",
+      "o": [
+        "Crystallization of chalk from water",
+        "Filtration",
+        "Fractional distillation",
+        "Simple distillation as the only way"
+      ],
+      "a": 1,
+      "e": "Chalk is insoluble and is retained by filter paper.",
+      "d": "Easy",
+      "topic": "Applications and identification",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-281",
+      "q": "In a Class 9 chemistry laboratory exercise, which technique is appropriate to separate chalk powder from water?",
+      "o": [
+        "Filtration",
+        "Fractional distillation",
+        "Crystallization of chalk from water",
+        "Simple distillation as the only way"
+      ],
+      "a": 0,
+      "e": "Chalk is insoluble and is retained by filter paper.",
+      "d": "Medium",
+      "topic": "Applications and identification",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-282",
+      "q": "Choose the scientifically correct answer: Which technique is appropriate to separate chalk powder from water?",
+      "o": [
+        "Fractional distillation",
+        "Crystallization of chalk from water",
+        "Simple distillation as the only way",
+        "Filtration"
+      ],
+      "a": 3,
+      "e": "Chalk is insoluble and is retained by filter paper.",
+      "d": "Medium",
+      "topic": "Applications and identification",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-283",
+      "q": "Which technique separates a liquid from dissolved nonvolatile solid and recovers the liquid?",
+      "o": [
+        "Simple distillation",
+        "Filtration alone",
+        "Sieving",
+        "Handpicking"
+      ],
+      "a": 0,
+      "e": "The volatile liquid is distilled and collected.",
+      "d": "Easy",
+      "topic": "Applications and identification",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-284",
+      "q": "In a Class 9 chemistry laboratory exercise, which technique separates a liquid from dissolved nonvolatile solid and recovers the liquid?",
+      "o": [
+        "Handpicking",
+        "Sieving",
+        "Simple distillation",
+        "Filtration alone"
+      ],
+      "a": 2,
+      "e": "The volatile liquid is distilled and collected.",
+      "d": "Medium",
+      "topic": "Applications and identification",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-285",
+      "q": "Choose the scientifically correct answer: Which technique separates a liquid from dissolved nonvolatile solid and recovers the liquid?",
+      "o": [
+        "Filtration alone",
+        "Simple distillation",
+        "Handpicking",
+        "Sieving"
+      ],
+      "a": 1,
+      "e": "The volatile liquid is distilled and collected.",
+      "d": "Medium",
+      "topic": "Applications and identification",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-286",
+      "q": "Which technique is used in production of distilled water for laboratory work?",
+      "o": [
+        "Gravity filtration only",
+        "Magnetic separation",
+        "Sieving",
+        "Distillation"
+      ],
+      "a": 3,
+      "e": "Distillation yields condensed purified water.",
+      "d": "Easy",
+      "topic": "Applications and identification",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-287",
+      "q": "In a Class 9 chemistry laboratory exercise, which technique is used in production of distilled water for laboratory work?",
+      "o": [
+        "Distillation",
+        "Sieving",
+        "Magnetic separation",
+        "Gravity filtration only"
+      ],
+      "a": 0,
+      "e": "Distillation yields condensed purified water.",
+      "d": "Medium",
+      "topic": "Applications and identification",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-288",
+      "q": "Choose the scientifically correct answer: Which technique is used in production of distilled water for laboratory work?",
+      "o": [
+        "Gravity filtration only",
+        "Magnetic separation",
+        "Sieving",
+        "Distillation"
+      ],
+      "a": 3,
+      "e": "Distillation yields condensed purified water.",
+      "d": "Medium",
+      "topic": "Applications and identification",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-289",
+      "q": "Which technique separates two miscible liquids of similar boiling points more effectively?",
+      "o": [
+        "Fractional distillation",
+        "Gravity filtration",
+        "Evaporation to dryness",
+        "Crystallization"
+      ],
+      "a": 0,
+      "e": "Fractionating column helps resolve close boiling liquids.",
+      "d": "Easy",
+      "topic": "Applications and identification",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-290",
+      "q": "In a Class 9 chemistry laboratory exercise, which technique separates two miscible liquids of similar boiling points more effectively?",
+      "o": [
+        "Evaporation to dryness",
+        "Crystallization",
+        "Fractional distillation",
+        "Gravity filtration"
+      ],
+      "a": 2,
+      "e": "Fractionating column helps resolve close boiling liquids.",
+      "d": "Medium",
+      "topic": "Applications and identification",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-291",
+      "q": "Choose the scientifically correct answer: Which technique separates two miscible liquids of similar boiling points more effectively?",
+      "o": [
+        "Evaporation to dryness",
+        "Gravity filtration",
+        "Crystallization",
+        "Fractional distillation"
+      ],
+      "a": 3,
+      "e": "Fractionating column helps resolve close boiling liquids.",
+      "d": "Medium",
+      "topic": "Applications and identification",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-292",
+      "q": "Which separation method is often used in purifying pharmaceuticals as crystals?",
+      "o": [
+        "Simple sieving of dissolved drugs",
+        "Filtering out dissolved molecules with ordinary paper",
+        "Crystallization",
+        "Magnetic separation"
+      ],
+      "a": 2,
+      "e": "Controlled crystallization is used for purification.",
+      "d": "Easy",
+      "topic": "Applications and identification",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-293",
+      "q": "In a Class 9 chemistry laboratory exercise, which separation method is often used in purifying pharmaceuticals as crystals?",
+      "o": [
+        "Simple sieving of dissolved drugs",
+        "Crystallization",
+        "Filtering out dissolved molecules with ordinary paper",
+        "Magnetic separation"
+      ],
+      "a": 1,
+      "e": "Controlled crystallization is used for purification.",
+      "d": "Medium",
+      "topic": "Applications and identification",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-294",
+      "q": "Choose the scientifically correct answer: Which separation method is often used in purifying pharmaceuticals as crystals?",
+      "o": [
+        "Crystallization",
+        "Filtering out dissolved molecules with ordinary paper",
+        "Magnetic separation",
+        "Simple sieving of dissolved drugs"
+      ],
+      "a": 0,
+      "e": "Controlled crystallization is used for purification.",
+      "d": "Medium",
+      "topic": "Applications and identification",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-295",
+      "q": "Which property allows separation of sand from water by filtration?",
+      "o": [
+        "Sand is always magnetic",
+        "Sand is dissolved into ions",
+        "Sand has a lower boiling point than water",
+        "Sand is insoluble and its particles are retained"
+      ],
+      "a": 3,
+      "e": "Sand forms particles large enough to be trapped.",
+      "d": "Easy",
+      "topic": "Applications and identification",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-296",
+      "q": "In a Class 9 chemistry laboratory exercise, which property allows separation of sand from water by filtration?",
+      "o": [
+        "Sand has a lower boiling point than water",
+        "Sand is insoluble and its particles are retained",
+        "Sand is always magnetic",
+        "Sand is dissolved into ions"
+      ],
+      "a": 1,
+      "e": "Sand forms particles large enough to be trapped.",
+      "d": "Medium",
+      "topic": "Applications and identification",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-297",
+      "q": "Choose the scientifically correct answer: Which property allows separation of sand from water by filtration?",
+      "o": [
+        "Sand is dissolved into ions",
+        "Sand is insoluble and its particles are retained",
+        "Sand has a lower boiling point than water",
+        "Sand is always magnetic"
+      ],
+      "a": 1,
+      "e": "Sand forms particles large enough to be trapped.",
+      "d": "Medium",
+      "topic": "Applications and identification",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-298",
+      "q": "Which technique is involved in removing solid particles from air with filters?",
+      "o": [
+        "Crystallization",
+        "Filtration",
+        "Evaporation",
+        "Distillation"
+      ],
+      "a": 1,
+      "e": "Air filters retain suspended particles.",
+      "d": "Easy",
+      "topic": "Applications and identification",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-299",
+      "q": "In a Class 9 chemistry laboratory exercise, which technique is involved in removing solid particles from air with filters?",
+      "o": [
+        "Crystallization",
+        "Evaporation",
+        "Filtration",
+        "Distillation"
+      ],
+      "a": 2,
+      "e": "Air filters retain suspended particles.",
+      "d": "Medium",
+      "topic": "Applications and identification",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    },
+    {
+      "id": "CHEM9CH17-300",
+      "q": "Choose the scientifically correct answer: Which technique is involved in removing solid particles from air with filters?",
+      "o": [
+        "Filtration",
+        "Evaporation",
+        "Distillation",
+        "Crystallization"
+      ],
+      "a": 0,
+      "e": "Air filters retain suspended particles.",
+      "d": "Medium",
+      "topic": "Applications and identification",
+      "slo": "Select and explain an appropriate separation technique or principle for mixtures."
+    }
+  ]
+}

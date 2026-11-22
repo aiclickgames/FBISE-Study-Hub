@@ -1,0 +1,4504 @@
+{
+  "questions": [
+    {
+      "id": "CS11CH04-001",
+      "q": "What is the range of the dataset [60, 29, 42, 7, 32]?",
+      "o": [
+        "7",
+        "170",
+        "60",
+        "53"
+      ],
+      "a": 3,
+      "e": "Range = 60 - 7 = 53.",
+      "d": "Medium",
+      "topic": "Descriptive Statistics",
+      "slo": "Apply and interpret descriptive statistics concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-002",
+      "q": "A line passes through (1, 38) and (8, 73). What is its slope?",
+      "o": [
+        "7",
+        "5",
+        "12",
+        "6"
+      ],
+      "a": 1,
+      "e": "Slope = (73-38)/(8-1) = 5.",
+      "d": "Medium",
+      "topic": "Statistical Modeling",
+      "slo": "Apply and interpret statistical modeling concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-003",
+      "q": "What is the range?",
+      "o": [
+        "Square root of the mean",
+        "Maximum minus minimum",
+        "Sum divided by count",
+        "Middle sorted value"
+      ],
+      "a": 1,
+      "e": "Range measures spread from smallest to largest value.",
+      "d": "Easy",
+      "topic": "Descriptive Statistics",
+      "slo": "Apply and interpret descriptive statistics concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-004",
+      "q": "Which chart is suitable for showing a distribution of continuous measurements?",
+      "o": [
+        "Algorithm trace table",
+        "Histogram",
+        "Pie chart of program functions",
+        "Network diagram"
+      ],
+      "a": 1,
+      "e": "Histograms group numerical values into bins.",
+      "d": "Easy",
+      "topic": "Data Visualization",
+      "slo": "Apply and interpret data visualization concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-005",
+      "q": "A line-chart series starts at 8 and increases by 4 at each of 17 subsequent time steps. What is its final value?",
+      "o": [
+        "76",
+        "26",
+        "80",
+        "72"
+      ],
+      "a": 0,
+      "e": "Final value = 8 + (18-1)×4 = 76.",
+      "d": "Medium",
+      "topic": "Data Visualization",
+      "slo": "Apply and interpret data visualization concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-006",
+      "q": "A pie chart has 11 items in group A and 17 in group B. What is the angle for group A (nearest 0.1°)?",
+      "o": [
+        "70.7°",
+        "218.6°",
+        "141.4°",
+        "0.4°"
+      ],
+      "a": 2,
+      "e": "Angle = 360°×11/28 = 141.4°.",
+      "d": "Medium",
+      "topic": "Data Visualization",
+      "slo": "Apply and interpret data visualization concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-007",
+      "q": "Find the median of these observations: 26, 32, 47, 57, 60.",
+      "o": [
+        "222",
+        "57",
+        "47",
+        "26"
+      ],
+      "a": 2,
+      "e": "The sorted list has five observations, so its third value (47) is the median.",
+      "d": "Medium",
+      "topic": "Descriptive Statistics",
+      "slo": "Apply and interpret descriptive statistics concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-008",
+      "q": "Four categories have frequencies [9, 7, 12, 15]. How many observations are represented in total?",
+      "o": [
+        "15",
+        "43",
+        "34",
+        "47"
+      ],
+      "a": 1,
+      "e": "Add all category frequencies: 9 + 7 + 12 + 15 = 43.",
+      "d": "Medium",
+      "topic": "Descriptive Statistics",
+      "slo": "Apply and interpret descriptive statistics concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-009",
+      "q": "A model predicts 57, but the observed value is 64. What is the residual (observed minus predicted)?",
+      "o": [
+        "64",
+        "57",
+        "7",
+        "-7"
+      ],
+      "a": 2,
+      "e": "Residual = 64 - 57 = 7.",
+      "d": "Medium",
+      "topic": "Statistical Modeling",
+      "slo": "Apply and interpret statistical modeling concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-010",
+      "q": "Four categories have frequencies [17, 7, 2, 4]. How many observations are represented in total?",
+      "o": [
+        "34",
+        "13",
+        "30",
+        "17"
+      ],
+      "a": 2,
+      "e": "Add all category frequencies: 17 + 7 + 2 + 4 = 30.",
+      "d": "Medium",
+      "topic": "Descriptive Statistics",
+      "slo": "Apply and interpret descriptive statistics concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-011",
+      "q": "In a survey, 9 of 47 students prefer an option. Approximately what percentage is that?",
+      "o": [
+        "80.85%",
+        "19.15%",
+        "522.22%",
+        "0.19%"
+      ],
+      "a": 1,
+      "e": "Percentage = (9/47) × 100 = 19.15%.",
+      "d": "Medium",
+      "topic": "Data Collection",
+      "slo": "Apply and interpret data collection concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-012",
+      "q": "In a survey, 37 of 63 students prefer an option. Approximately what percentage is that?",
+      "o": [
+        "41.27%",
+        "170.27%",
+        "58.73%",
+        "0.59%"
+      ],
+      "a": 2,
+      "e": "Percentage = (37/63) × 100 = 58.73%.",
+      "d": "Medium",
+      "topic": "Data Collection",
+      "slo": "Apply and interpret data collection concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-013",
+      "q": "For the five readings [18, 10, 27, 17, 2], what is the arithmetic mean?",
+      "o": [
+        "13.8",
+        "14.8",
+        "15.8",
+        "74"
+      ],
+      "a": 1,
+      "e": "The sum is 74; divide by 5 to obtain 14.8.",
+      "d": "Medium",
+      "topic": "Descriptive Statistics",
+      "slo": "Apply and interpret descriptive statistics concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-014",
+      "q": "A class survey in scenario 3 reports 51 responses in group X, 17 in group Y, and 17 in group Z. What is the total frequency?",
+      "o": [
+        "68",
+        "51",
+        "85",
+        "86"
+      ],
+      "a": 2,
+      "e": "Total frequency is 51+17+17=85.",
+      "d": "Medium",
+      "topic": "Descriptive Statistics",
+      "slo": "Apply and interpret descriptive statistics concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-015",
+      "q": "Find the median of these observations: 17, 21, 32, 35, 54.",
+      "o": [
+        "17",
+        "35",
+        "159",
+        "32"
+      ],
+      "a": 3,
+      "e": "The sorted list has five observations, so its third value (32) is the median.",
+      "d": "Medium",
+      "topic": "Descriptive Statistics",
+      "slo": "Apply and interpret descriptive statistics concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-016",
+      "q": "A class survey in scenario 8 reports 56 responses in group X, 32 in group Y, and 7 in group Z. What is the total frequency?",
+      "o": [
+        "95",
+        "96",
+        "88",
+        "56"
+      ],
+      "a": 0,
+      "e": "Total frequency is 56+32+7=95.",
+      "d": "Medium",
+      "topic": "Descriptive Statistics",
+      "slo": "Apply and interpret descriptive statistics concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-017",
+      "q": "A pie chart has 9 items in group A and 19 in group B. What is the angle for group A (nearest 0.1°)?",
+      "o": [
+        "115.7°",
+        "244.3°",
+        "0.3°",
+        "57.9°"
+      ],
+      "a": 0,
+      "e": "Angle = 360°×9/28 = 115.7°.",
+      "d": "Medium",
+      "topic": "Data Visualization",
+      "slo": "Apply and interpret data visualization concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-018",
+      "q": "A line passes through (1, 32) and (7, 110). What is its slope?",
+      "o": [
+        "6",
+        "14",
+        "13",
+        "19"
+      ],
+      "a": 2,
+      "e": "Slope = (110-32)/(7-1) = 13.",
+      "d": "Medium",
+      "topic": "Statistical Modeling",
+      "slo": "Apply and interpret statistical modeling concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-019",
+      "q": "What is a duplicate record?",
+      "o": [
+        "An observation repeated in a dataset",
+        "A unique measurement",
+        "An axis label",
+        "A data type"
+      ],
+      "a": 0,
+      "e": "Duplicate records can inflate counts or bias summaries.",
+      "d": "Easy",
+      "topic": "Data Science",
+      "slo": "Apply and interpret data science concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-020",
+      "q": "In a frequency table, category A occurs 13 times, B occurs 3 times, and C occurs 3 times. Which category is the mode?",
+      "o": [
+        "A",
+        "B",
+        "No mode",
+        "C"
+      ],
+      "a": 0,
+      "e": "The modal category has the greatest frequency; here it is A.",
+      "d": "Medium",
+      "topic": "Descriptive Statistics",
+      "slo": "Apply and interpret descriptive statistics concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-021",
+      "q": "Four categories have frequencies [6, 13, 19, 14]. How many observations are represented in total?",
+      "o": [
+        "19",
+        "46",
+        "56",
+        "52"
+      ],
+      "a": 3,
+      "e": "Add all category frequencies: 6 + 13 + 19 + 14 = 52.",
+      "d": "Medium",
+      "topic": "Descriptive Statistics",
+      "slo": "Apply and interpret descriptive statistics concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-022",
+      "q": "For data [14, 6, 16, 9], what is the population variance (divide squared deviations by 4; round to two decimals)?",
+      "o": [
+        "11.25",
+        "15.69",
+        "3.96",
+        "62.75"
+      ],
+      "a": 1,
+      "e": "The mean is 11.25. The average of four squared deviations is 15.69.",
+      "d": "Medium",
+      "topic": "Descriptive Statistics",
+      "slo": "Apply and interpret descriptive statistics concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-023",
+      "q": "A sample contains 88 responses. If 49 responses are marked “Yes”, how many are marked “No” when these are the only two choices?",
+      "o": [
+        "137",
+        "39",
+        "88",
+        "49"
+      ],
+      "a": 1,
+      "e": "No responses = 88-49=39.",
+      "d": "Medium",
+      "topic": "Data Collection",
+      "slo": "Apply and interpret data collection concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-024",
+      "q": "What is a positive correlation?",
+      "o": [
+        "Both variables are always equal",
+        "One rises as the other falls",
+        "Both variables tend to increase together",
+        "No relationship can exist"
+      ],
+      "a": 2,
+      "e": "Positive association means larger values of one variable tend to accompany larger values of the other.",
+      "d": "Easy",
+      "topic": "Statistical Modeling",
+      "slo": "Apply and interpret statistical modeling concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-025",
+      "q": "A line passes through (8, 27) and (10, 55). What is its slope?",
+      "o": [
+        "15",
+        "2",
+        "16",
+        "14"
+      ],
+      "a": 3,
+      "e": "Slope = (55-27)/(10-8) = 14.",
+      "d": "Medium",
+      "topic": "Statistical Modeling",
+      "slo": "Apply and interpret statistical modeling concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-026",
+      "q": "What is a continuous quantitative variable?",
+      "o": [
+        "A measurement that can take values across an interval",
+        "A category name",
+        "A number of siblings",
+        "A yes/no answer"
+      ],
+      "a": 0,
+      "e": "Continuous variables such as time or mass can vary over a range.",
+      "d": "Easy",
+      "topic": "Data Collection",
+      "slo": "Apply and interpret data collection concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-027",
+      "q": "A sample contains 72 responses. If 8 responses are marked “Yes”, how many are marked “No” when these are the only two choices?",
+      "o": [
+        "72",
+        "8",
+        "80",
+        "64"
+      ],
+      "a": 3,
+      "e": "No responses = 72-8=64.",
+      "d": "Medium",
+      "topic": "Data Collection",
+      "slo": "Apply and interpret data collection concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-028",
+      "q": "A sample contains 60 responses. If 28 responses are marked “Yes”, how many are marked “No” when these are the only two choices?",
+      "o": [
+        "60",
+        "28",
+        "32",
+        "88"
+      ],
+      "a": 2,
+      "e": "No responses = 60-28=32.",
+      "d": "Medium",
+      "topic": "Data Collection",
+      "slo": "Apply and interpret data collection concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-029",
+      "q": "Four categories have frequencies [10, 10, 11, 4]. How many observations are represented in total?",
+      "o": [
+        "11",
+        "39",
+        "35",
+        "25"
+      ],
+      "a": 2,
+      "e": "Add all category frequencies: 10 + 10 + 11 + 4 = 35.",
+      "d": "Medium",
+      "topic": "Descriptive Statistics",
+      "slo": "Apply and interpret descriptive statistics concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-030",
+      "q": "A line-chart series starts at 19 and increases by 6 at each of 5 subsequent time steps. What is its final value?",
+      "o": [
+        "49",
+        "55",
+        "25",
+        "43"
+      ],
+      "a": 0,
+      "e": "Final value = 19 + (6-1)×6 = 49.",
+      "d": "Medium",
+      "topic": "Data Visualization",
+      "slo": "Apply and interpret data visualization concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-031",
+      "q": "Which pyplot function commonly draws a scatter plot?",
+      "o": [
+        "plt.bar()",
+        "plt.ylabel()",
+        "plt.scatter()",
+        "plt.hist()"
+      ],
+      "a": 2,
+      "e": "plt.scatter draws points for paired observations.",
+      "d": "Easy",
+      "topic": "Python Data Visualization",
+      "slo": "Apply and interpret python data visualization concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-032",
+      "q": "A model predicts 74, but the observed value is 81. What is the residual (observed minus predicted)?",
+      "o": [
+        "74",
+        "81",
+        "-7",
+        "7"
+      ],
+      "a": 3,
+      "e": "Residual = 81 - 74 = 7.",
+      "d": "Medium",
+      "topic": "Statistical Modeling",
+      "slo": "Apply and interpret statistical modeling concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-033",
+      "q": "A fitted regression line is y = 23x + 10. What value does it predict when x = 3?",
+      "o": [
+        "56",
+        "79",
+        "89",
+        "102"
+      ],
+      "a": 1,
+      "e": "Substitute x=3: y=23(3)+10=79.",
+      "d": "Medium",
+      "topic": "Statistical Modeling",
+      "slo": "Apply and interpret statistical modeling concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-034",
+      "q": "A fitted regression line is y = 25x + 3. What value does it predict when x = 12?",
+      "o": [
+        "303",
+        "306",
+        "278",
+        "328"
+      ],
+      "a": 0,
+      "e": "Substitute x=12: y=25(12)+3=303.",
+      "d": "Medium",
+      "topic": "Statistical Modeling",
+      "slo": "Apply and interpret statistical modeling concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-035",
+      "q": "Which pyplot function commonly draws a bar chart?",
+      "o": [
+        "plt.scatter()",
+        "plt.hist()",
+        "plt.bar()",
+        "plt.plot()"
+      ],
+      "a": 2,
+      "e": "plt.bar creates vertical bar charts.",
+      "d": "Easy",
+      "topic": "Python Data Visualization",
+      "slo": "Apply and interpret python data visualization concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-036",
+      "q": "A pie chart has 14 items in group A and 2 in group B. What is the angle for group A (nearest 0.1°)?",
+      "o": [
+        "315.0°",
+        "157.5°",
+        "45.0°",
+        "0.9°"
+      ],
+      "a": 0,
+      "e": "Angle = 360°×14/16 = 315.0°.",
+      "d": "Medium",
+      "topic": "Data Visualization",
+      "slo": "Apply and interpret data visualization concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-037",
+      "q": "What is the range of the dataset [44, 47, 52, 19, 41]?",
+      "o": [
+        "33",
+        "19",
+        "203",
+        "52"
+      ],
+      "a": 0,
+      "e": "Range = 52 - 19 = 33.",
+      "d": "Medium",
+      "topic": "Descriptive Statistics",
+      "slo": "Apply and interpret descriptive statistics concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-038",
+      "q": "In a survey, 5 of 30 students prefer an option. Approximately what percentage is that?",
+      "o": [
+        "0.17%",
+        "83.33%",
+        "600%",
+        "16.67%"
+      ],
+      "a": 3,
+      "e": "Percentage = (5/30) × 100 = 16.67%.",
+      "d": "Medium",
+      "topic": "Data Collection",
+      "slo": "Apply and interpret data collection concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-039",
+      "q": "What is sampling bias?",
+      "o": [
+        "Systematic over- or under-representation of parts of a population",
+        "A random chart color",
+        "A harmless spelling variation",
+        "The sample mean"
+      ],
+      "a": 0,
+      "e": "Bias arises when the sample does not fairly represent the target group.",
+      "d": "Easy",
+      "topic": "Data Collection",
+      "slo": "Apply and interpret data collection concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-040",
+      "q": "Find the median of these observations: 18, 25, 28, 45, 47.",
+      "o": [
+        "163",
+        "45",
+        "28",
+        "18"
+      ],
+      "a": 2,
+      "e": "The sorted list has five observations, so its third value (28) is the median.",
+      "d": "Medium",
+      "topic": "Descriptive Statistics",
+      "slo": "Apply and interpret descriptive statistics concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-041",
+      "q": "A bar chart records A=13, B=10, C=14. What percentage of the total belongs to A (one decimal place)?",
+      "o": [
+        "27.0%",
+        "35.1%",
+        "37.8%",
+        "56.5%"
+      ],
+      "a": 1,
+      "e": "Total=37; A contributes 100×13/37=35.1%.",
+      "d": "Medium",
+      "topic": "Data Visualization",
+      "slo": "Apply and interpret data visualization concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-042",
+      "q": "What is the mode?",
+      "o": [
+        "Difference between maximum and minimum",
+        "Most frequently occurring value",
+        "Average of extremes",
+        "Smallest observation"
+      ],
+      "a": 1,
+      "e": "Mode is the value with greatest frequency.",
+      "d": "Easy",
+      "topic": "Descriptive Statistics",
+      "slo": "Apply and interpret descriptive statistics concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-043",
+      "q": "What is random sampling?",
+      "o": [
+        "Choosing only friends",
+        "Selecting only the largest values",
+        "Selection using chance rather than personal preference",
+        "Taking only the first record always"
+      ],
+      "a": 2,
+      "e": "Random sampling uses a chance mechanism to select units.",
+      "d": "Easy",
+      "topic": "Data Collection",
+      "slo": "Apply and interpret data collection concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-044",
+      "q": "A class survey in scenario 10 reports 40 responses in group X, 29 in group Y, and 10 in group Z. What is the total frequency?",
+      "o": [
+        "40",
+        "79",
+        "69",
+        "80"
+      ],
+      "a": 1,
+      "e": "Total frequency is 40+29+10=79.",
+      "d": "Medium",
+      "topic": "Descriptive Statistics",
+      "slo": "Apply and interpret descriptive statistics concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-045",
+      "q": "For the five readings [15, 6, 25, 22, 4], what is the arithmetic mean?",
+      "o": [
+        "72",
+        "13.4",
+        "15.4",
+        "14.4"
+      ],
+      "a": 3,
+      "e": "The sum is 72; divide by 5 to obtain 14.4.",
+      "d": "Medium",
+      "topic": "Descriptive Statistics",
+      "slo": "Apply and interpret descriptive statistics concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-046",
+      "q": "In a frequency table, category A occurs 14 times, B occurs 11 times, and C occurs 9 times. Which category is the mode?",
+      "o": [
+        "C",
+        "A",
+        "No mode",
+        "B"
+      ],
+      "a": 1,
+      "e": "The modal category has the greatest frequency; here it is A.",
+      "d": "Medium",
+      "topic": "Descriptive Statistics",
+      "slo": "Apply and interpret descriptive statistics concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-047",
+      "q": "A fitted regression line is y = 24x + 11. What value does it predict when x = 7?",
+      "o": [
+        "155",
+        "203",
+        "179",
+        "190"
+      ],
+      "a": 2,
+      "e": "Substitute x=7: y=24(7)+11=179.",
+      "d": "Medium",
+      "topic": "Statistical Modeling",
+      "slo": "Apply and interpret statistical modeling concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-048",
+      "q": "For data [6, 17, 3, 3], what is the population variance (divide squared deviations by 4; round to two decimals)?",
+      "o": [
+        "33.19",
+        "5.76",
+        "132.75",
+        "7.25"
+      ],
+      "a": 0,
+      "e": "The mean is 7.25. The average of four squared deviations is 33.19.",
+      "d": "Medium",
+      "topic": "Descriptive Statistics",
+      "slo": "Apply and interpret descriptive statistics concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-049",
+      "q": "What does plt.xlabel() set?",
+      "o": [
+        "Chart title",
+        "Vertical-axis label",
+        "Number of rows",
+        "Horizontal-axis label"
+      ],
+      "a": 3,
+      "e": "xlabel assigns the x-axis label.",
+      "d": "Easy",
+      "topic": "Python Data Visualization",
+      "slo": "Apply and interpret python data visualization concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-050",
+      "q": "A bar chart records A=24, B=21, C=16. What percentage of the total belongs to A (one decimal place)?",
+      "o": [
+        "53.3%",
+        "39.3%",
+        "34.4%",
+        "26.2%"
+      ],
+      "a": 1,
+      "e": "Total=61; A contributes 100×24/61=39.3%.",
+      "d": "Medium",
+      "topic": "Data Visualization",
+      "slo": "Apply and interpret data visualization concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-051",
+      "q": "A pie chart has 17 items in group A and 5 in group B. What is the angle for group A (nearest 0.1°)?",
+      "o": [
+        "0.8°",
+        "139.1°",
+        "81.8°",
+        "278.2°"
+      ],
+      "a": 3,
+      "e": "Angle = 360°×17/22 = 278.2°.",
+      "d": "Medium",
+      "topic": "Data Visualization",
+      "slo": "Apply and interpret data visualization concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-052",
+      "q": "Four categories have frequencies [10, 20, 19, 17]. How many observations are represented in total?",
+      "o": [
+        "70",
+        "56",
+        "20",
+        "66"
+      ],
+      "a": 3,
+      "e": "Add all category frequencies: 10 + 20 + 19 + 17 = 66.",
+      "d": "Medium",
+      "topic": "Descriptive Statistics",
+      "slo": "Apply and interpret descriptive statistics concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-053",
+      "q": "A fitted regression line is y = 19x + 6. What value does it predict when x = 11?",
+      "o": [
+        "234",
+        "196",
+        "221",
+        "215"
+      ],
+      "a": 3,
+      "e": "Substitute x=11: y=19(11)+6=215.",
+      "d": "Medium",
+      "topic": "Statistical Modeling",
+      "slo": "Apply and interpret statistical modeling concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-054",
+      "q": "A sample contains 88 responses. If 16 responses are marked “Yes”, how many are marked “No” when these are the only two choices?",
+      "o": [
+        "72",
+        "88",
+        "104",
+        "16"
+      ],
+      "a": 0,
+      "e": "No responses = 88-16=72.",
+      "d": "Medium",
+      "topic": "Data Collection",
+      "slo": "Apply and interpret data collection concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-055",
+      "q": "A fitted regression line is y = 5x + 11. What value does it predict when x = 5?",
+      "o": [
+        "47",
+        "41",
+        "36",
+        "31"
+      ],
+      "a": 2,
+      "e": "Substitute x=5: y=5(5)+11=36.",
+      "d": "Medium",
+      "topic": "Statistical Modeling",
+      "slo": "Apply and interpret statistical modeling concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-056",
+      "q": "What is a dataset?",
+      "o": [
+        "A network switch",
+        "An organized collection of observations",
+        "A single Python keyword",
+        "A computer power supply"
+      ],
+      "a": 1,
+      "e": "Datasets organize recorded observations for analysis.",
+      "d": "Easy",
+      "topic": "Data Science",
+      "slo": "Apply and interpret data science concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-057",
+      "q": "Four categories have frequencies [2, 10, 17, 5]. How many observations are represented in total?",
+      "o": [
+        "38",
+        "34",
+        "17",
+        "32"
+      ],
+      "a": 1,
+      "e": "Add all category frequencies: 2 + 10 + 17 + 5 = 34.",
+      "d": "Medium",
+      "topic": "Descriptive Statistics",
+      "slo": "Apply and interpret descriptive statistics concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-058",
+      "q": "In a survey, 41 of 54 students prefer an option. Approximately what percentage is that?",
+      "o": [
+        "0.76%",
+        "131.71%",
+        "24.07%",
+        "75.93%"
+      ],
+      "a": 3,
+      "e": "Percentage = (41/54) × 100 = 75.93%.",
+      "d": "Medium",
+      "topic": "Data Collection",
+      "slo": "Apply and interpret data collection concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-059",
+      "q": "In a survey, 24 of 61 students prefer an option. Approximately what percentage is that?",
+      "o": [
+        "60.66%",
+        "0.39%",
+        "254.17%",
+        "39.34%"
+      ],
+      "a": 3,
+      "e": "Percentage = (24/61) × 100 = 39.34%.",
+      "d": "Medium",
+      "topic": "Data Collection",
+      "slo": "Apply and interpret data collection concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-060",
+      "q": "A class survey in scenario 9 reports 42 responses in group X, 19 in group Y, and 8 in group Z. What is the total frequency?",
+      "o": [
+        "61",
+        "69",
+        "70",
+        "42"
+      ],
+      "a": 1,
+      "e": "Total frequency is 42+19+8=69.",
+      "d": "Medium",
+      "topic": "Descriptive Statistics",
+      "slo": "Apply and interpret descriptive statistics concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-061",
+      "q": "For data [11, 7, 7, 16], what is the population variance (divide squared deviations by 4; round to two decimals)?",
+      "o": [
+        "13.69",
+        "54.75",
+        "3.70",
+        "10.25"
+      ],
+      "a": 0,
+      "e": "The mean is 10.25. The average of four squared deviations is 13.69.",
+      "d": "Medium",
+      "topic": "Descriptive Statistics",
+      "slo": "Apply and interpret descriptive statistics concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-062",
+      "q": "In a dataset of 36 observations, what is 25% of the total?",
+      "o": [
+        "9",
+        "61",
+        "27",
+        "10"
+      ],
+      "a": 0,
+      "e": "25% of 36 is 36×25/100=9.",
+      "d": "Medium",
+      "topic": "Data Collection",
+      "slo": "Apply and interpret data collection concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-063",
+      "q": "What is the range of the dataset [41, 32, 4, 9, 7]?",
+      "o": [
+        "37",
+        "41",
+        "4",
+        "93"
+      ],
+      "a": 0,
+      "e": "Range = 41 - 4 = 37.",
+      "d": "Medium",
+      "topic": "Descriptive Statistics",
+      "slo": "Apply and interpret descriptive statistics concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-064",
+      "q": "A model predicts 84, but the observed value is 97. What is the residual (observed minus predicted)?",
+      "o": [
+        "97",
+        "-13",
+        "13",
+        "84"
+      ],
+      "a": 2,
+      "e": "Residual = 97 - 84 = 13.",
+      "d": "Medium",
+      "topic": "Statistical Modeling",
+      "slo": "Apply and interpret statistical modeling concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-065",
+      "q": "For data [9, 16, 10, 4], what is the population variance (divide squared deviations by 4; round to two decimals)?",
+      "o": [
+        "4.26",
+        "9.75",
+        "72.75",
+        "18.19"
+      ],
+      "a": 3,
+      "e": "The mean is 9.75. The average of four squared deviations is 18.19.",
+      "d": "Medium",
+      "topic": "Descriptive Statistics",
+      "slo": "Apply and interpret descriptive statistics concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-066",
+      "q": "A fitted regression line is y = 3x + 6. What value does it predict when x = 9?",
+      "o": [
+        "39",
+        "30",
+        "36",
+        "33"
+      ],
+      "a": 3,
+      "e": "Substitute x=9: y=3(9)+6=33.",
+      "d": "Medium",
+      "topic": "Statistical Modeling",
+      "slo": "Apply and interpret statistical modeling concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-067",
+      "q": "A sample contains 81 responses. If 32 responses are marked “Yes”, how many are marked “No” when these are the only two choices?",
+      "o": [
+        "32",
+        "49",
+        "113",
+        "81"
+      ],
+      "a": 1,
+      "e": "No responses = 81-32=49.",
+      "d": "Medium",
+      "topic": "Data Collection",
+      "slo": "Apply and interpret data collection concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-068",
+      "q": "Find the median of these observations: 36, 49, 55, 59, 61.",
+      "o": [
+        "59",
+        "55",
+        "260",
+        "36"
+      ],
+      "a": 1,
+      "e": "The sorted list has five observations, so its third value (55) is the median.",
+      "d": "Medium",
+      "topic": "Descriptive Statistics",
+      "slo": "Apply and interpret descriptive statistics concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-069",
+      "q": "Four categories have frequencies [19, 5, 12, 7]. How many observations are represented in total?",
+      "o": [
+        "19",
+        "43",
+        "24",
+        "47"
+      ],
+      "a": 1,
+      "e": "Add all category frequencies: 19 + 5 + 12 + 7 = 43.",
+      "d": "Medium",
+      "topic": "Descriptive Statistics",
+      "slo": "Apply and interpret descriptive statistics concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-070",
+      "q": "Which chart displays paired numeric values as points?",
+      "o": [
+        "Bar chart of categories",
+        "Organizational chart",
+        "Pie chart",
+        "Scatter plot"
+      ],
+      "a": 3,
+      "e": "Scatter plots show associations between two quantitative variables.",
+      "d": "Easy",
+      "topic": "Data Visualization",
+      "slo": "Apply and interpret data visualization concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-071",
+      "q": "Which Python library is widely used to create plots?",
+      "o": [
+        "Matplotlib",
+        "os.path only",
+        "math only",
+        "random only"
+      ],
+      "a": 0,
+      "e": "Matplotlib supports common statistical plots in Python.",
+      "d": "Easy",
+      "topic": "Python Data Visualization",
+      "slo": "Apply and interpret python data visualization concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-072",
+      "q": "What is the range of the dataset [36, 33, 48, 17, 13]?",
+      "o": [
+        "48",
+        "147",
+        "13",
+        "35"
+      ],
+      "a": 3,
+      "e": "Range = 48 - 13 = 35.",
+      "d": "Medium",
+      "topic": "Descriptive Statistics",
+      "slo": "Apply and interpret descriptive statistics concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-073",
+      "q": "A bar chart records A=6, B=4, C=17. What percentage of the total belongs to A (one decimal place)?",
+      "o": [
+        "14.8%",
+        "60.0%",
+        "63.0%",
+        "22.2%"
+      ],
+      "a": 3,
+      "e": "Total=27; A contributes 100×6/27=22.2%.",
+      "d": "Medium",
+      "topic": "Data Visualization",
+      "slo": "Apply and interpret data visualization concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-074",
+      "q": "A bar chart records A=8, B=12, C=19. What percentage of the total belongs to A (one decimal place)?",
+      "o": [
+        "20.5%",
+        "30.8%",
+        "40.0%",
+        "48.7%"
+      ],
+      "a": 0,
+      "e": "Total=39; A contributes 100×8/39=20.5%.",
+      "d": "Medium",
+      "topic": "Data Visualization",
+      "slo": "Apply and interpret data visualization concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-075",
+      "q": "What is the range of the dataset [20, 6, 41, 42, 47]?",
+      "o": [
+        "156",
+        "6",
+        "41",
+        "47"
+      ],
+      "a": 2,
+      "e": "Range = 47 - 6 = 41.",
+      "d": "Medium",
+      "topic": "Descriptive Statistics",
+      "slo": "Apply and interpret descriptive statistics concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-076",
+      "q": "A class survey in scenario 2 reports 33 responses in group X, 32 in group Y, and 17 in group Z. What is the total frequency?",
+      "o": [
+        "33",
+        "83",
+        "65",
+        "82"
+      ],
+      "a": 3,
+      "e": "Total frequency is 33+32+17=82.",
+      "d": "Medium",
+      "topic": "Descriptive Statistics",
+      "slo": "Apply and interpret descriptive statistics concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-077",
+      "q": "What is a residual in regression?",
+      "o": [
+        "Sum of all x values",
+        "Maximum minus minimum",
+        "Observed value minus predicted value",
+        "Number of categories"
+      ],
+      "a": 2,
+      "e": "Residuals are prediction errors measured as observed minus fitted response.",
+      "d": "Easy",
+      "topic": "Statistical Modeling",
+      "slo": "Apply and interpret statistical modeling concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-078",
+      "q": "A class survey in scenario 6 reports 68 responses in group X, 27 in group Y, and 16 in group Z. What is the total frequency?",
+      "o": [
+        "112",
+        "95",
+        "68",
+        "111"
+      ],
+      "a": 3,
+      "e": "Total frequency is 68+27+16=111.",
+      "d": "Medium",
+      "topic": "Descriptive Statistics",
+      "slo": "Apply and interpret descriptive statistics concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-079",
+      "q": "A class survey in scenario 11 reports 21 responses in group X, 25 in group Y, and 19 in group Z. What is the total frequency?",
+      "o": [
+        "66",
+        "65",
+        "25",
+        "46"
+      ],
+      "a": 1,
+      "e": "Total frequency is 21+25+19=65.",
+      "d": "Medium",
+      "topic": "Descriptive Statistics",
+      "slo": "Apply and interpret descriptive statistics concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-080",
+      "q": "In a survey, 24 of 38 students prefer an option. Approximately what percentage is that?",
+      "o": [
+        "0.63%",
+        "63.16%",
+        "158.33%",
+        "36.84%"
+      ],
+      "a": 1,
+      "e": "Percentage = (24/38) × 100 = 63.16%.",
+      "d": "Medium",
+      "topic": "Data Collection",
+      "slo": "Apply and interpret data collection concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-081",
+      "q": "A bar chart records A=10, B=24, C=18. What percentage of the total belongs to A (one decimal place)?",
+      "o": [
+        "46.2%",
+        "19.2%",
+        "34.6%",
+        "29.4%"
+      ],
+      "a": 1,
+      "e": "Total=52; A contributes 100×10/52=19.2%.",
+      "d": "Medium",
+      "topic": "Data Visualization",
+      "slo": "Apply and interpret data visualization concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-082",
+      "q": "A line-chart series starts at 20 and increases by 5 at each of 10 subsequent time steps. What is its final value?",
+      "o": [
+        "75",
+        "31",
+        "65",
+        "70"
+      ],
+      "a": 3,
+      "e": "Final value = 20 + (11-1)×5 = 70.",
+      "d": "Medium",
+      "topic": "Data Visualization",
+      "slo": "Apply and interpret data visualization concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-083",
+      "q": "In a frequency table, category A occurs 6 times, B occurs 9 times, and C occurs 5 times. Which category is the mode?",
+      "o": [
+        "C",
+        "B",
+        "A",
+        "No mode"
+      ],
+      "a": 1,
+      "e": "The modal category has the greatest frequency; here it is B.",
+      "d": "Medium",
+      "topic": "Descriptive Statistics",
+      "slo": "Apply and interpret descriptive statistics concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-084",
+      "q": "In a dataset of 81 observations, what is 10% of the total?",
+      "o": [
+        "91",
+        "9.1",
+        "72.9",
+        "8.1"
+      ],
+      "a": 3,
+      "e": "10% of 81 is 81×10/100=8.1.",
+      "d": "Medium",
+      "topic": "Data Collection",
+      "slo": "Apply and interpret data collection concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-085",
+      "q": "A bar chart records A=30, B=19, C=16. What percentage of the total belongs to A (one decimal place)?",
+      "o": [
+        "24.6%",
+        "46.2%",
+        "29.2%",
+        "61.2%"
+      ],
+      "a": 1,
+      "e": "Total=65; A contributes 100×30/65=46.2%.",
+      "d": "Medium",
+      "topic": "Data Visualization",
+      "slo": "Apply and interpret data visualization concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-086",
+      "q": "A fitted regression line is y = 3x + 6. What value does it predict when x = 11?",
+      "o": [
+        "39",
+        "36",
+        "42",
+        "45"
+      ],
+      "a": 0,
+      "e": "Substitute x=11: y=3(11)+6=39.",
+      "d": "Medium",
+      "topic": "Statistical Modeling",
+      "slo": "Apply and interpret statistical modeling concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-087",
+      "q": "A model predicts 25, but the observed value is 28. What is the residual (observed minus predicted)?",
+      "o": [
+        "28",
+        "-3",
+        "25",
+        "3"
+      ],
+      "a": 3,
+      "e": "Residual = 28 - 25 = 3.",
+      "d": "Medium",
+      "topic": "Statistical Modeling",
+      "slo": "Apply and interpret statistical modeling concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-088",
+      "q": "Which task is an example of classification?",
+      "o": [
+        "Predicting whether an email is spam",
+        "Predicting tomorrow’s exact temperature",
+        "Computing the mean of five values",
+        "Drawing a circle"
+      ],
+      "a": 0,
+      "e": "Classification predicts a category.",
+      "d": "Easy",
+      "topic": "Statistical Modeling",
+      "slo": "Apply and interpret statistical modeling concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-089",
+      "q": "A line-chart series starts at 16 and increases by 3 at each of 10 subsequent time steps. What is its final value?",
+      "o": [
+        "46",
+        "43",
+        "49",
+        "27"
+      ],
+      "a": 0,
+      "e": "Final value = 16 + (11-1)×3 = 46.",
+      "d": "Medium",
+      "topic": "Data Visualization",
+      "slo": "Apply and interpret data visualization concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-090",
+      "q": "What does a scatter plot primarily show?",
+      "o": [
+        "Relationship between two numerical variables",
+        "Only the order of program statements",
+        "A file directory",
+        "Only text categories"
+      ],
+      "a": 0,
+      "e": "Scatter plots display paired numerical observations.",
+      "d": "Easy",
+      "topic": "Statistical Modeling",
+      "slo": "Apply and interpret statistical modeling concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-091",
+      "q": "What is the range of the dataset [51, 14, 23, 46, 2]?",
+      "o": [
+        "51",
+        "2",
+        "136",
+        "49"
+      ],
+      "a": 3,
+      "e": "Range = 51 - 2 = 49.",
+      "d": "Medium",
+      "topic": "Descriptive Statistics",
+      "slo": "Apply and interpret descriptive statistics concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-092",
+      "q": "A class survey in scenario 5 reports 22 responses in group X, 18 in group Y, and 11 in group Z. What is the total frequency?",
+      "o": [
+        "22",
+        "40",
+        "52",
+        "51"
+      ],
+      "a": 3,
+      "e": "Total frequency is 22+18+11=51.",
+      "d": "Medium",
+      "topic": "Descriptive Statistics",
+      "slo": "Apply and interpret descriptive statistics concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-093",
+      "q": "Four categories have frequencies [6, 15, 3, 12]. How many observations are represented in total?",
+      "o": [
+        "30",
+        "15",
+        "36",
+        "40"
+      ],
+      "a": 2,
+      "e": "Add all category frequencies: 6 + 15 + 3 + 12 = 36.",
+      "d": "Medium",
+      "topic": "Descriptive Statistics",
+      "slo": "Apply and interpret descriptive statistics concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-094",
+      "q": "What is supervised learning?",
+      "o": [
+        "Learning without any observations",
+        "Manual file copying",
+        "Learning from examples with known target labels",
+        "Training only on unlabeled records"
+      ],
+      "a": 2,
+      "e": "Supervised models use input-output examples.",
+      "d": "Easy",
+      "topic": "Statistical Modeling",
+      "slo": "Apply and interpret statistical modeling concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-095",
+      "q": "For data [10, 16, 18, 11], what is the population variance (divide squared deviations by 4; round to two decimals)?",
+      "o": [
+        "11.19",
+        "13.75",
+        "44.75",
+        "3.34"
+      ],
+      "a": 0,
+      "e": "The mean is 13.75. The average of four squared deviations is 11.19.",
+      "d": "Medium",
+      "topic": "Descriptive Statistics",
+      "slo": "Apply and interpret descriptive statistics concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-096",
+      "q": "Which import convention is commonly used for Matplotlib plotting?",
+      "o": [
+        "import matplotlib.pyplot as csv",
+        "import matplotlib.pyplot as plt",
+        "import json as plt",
+        "import math as plt"
+      ],
+      "a": 1,
+      "e": "The pyplot interface is commonly aliased as plt.",
+      "d": "Easy",
+      "topic": "Python Data Visualization",
+      "slo": "Apply and interpret python data visualization concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-097",
+      "q": "What is the main purpose of a statistical model?",
+      "o": [
+        "To replace all observations with guesses",
+        "To explain or predict patterns in data",
+        "To make a computer operate without power",
+        "To prevent data collection"
+      ],
+      "a": 1,
+      "e": "Models help analyze data and make predictions.",
+      "d": "Easy",
+      "topic": "Statistical Modeling",
+      "slo": "Apply and interpret statistical modeling concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-098",
+      "q": "In a survey, 53 of 83 students prefer an option. Approximately what percentage is that?",
+      "o": [
+        "156.6%",
+        "36.14%",
+        "0.64%",
+        "63.86%"
+      ],
+      "a": 3,
+      "e": "Percentage = (53/83) × 100 = 63.86%.",
+      "d": "Medium",
+      "topic": "Data Collection",
+      "slo": "Apply and interpret data collection concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-099",
+      "q": "What is a census?",
+      "o": [
+        "A Python exception",
+        "Collecting from only one respondent",
+        "A type of scatter plot",
+        "Collecting data from every member of the target population"
+      ],
+      "a": 3,
+      "e": "A census attempts to cover the entire population.",
+      "d": "Easy",
+      "topic": "Data Collection",
+      "slo": "Apply and interpret data collection concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-100",
+      "q": "A fitted regression line is y = 25x + 7. What value does it predict when x = 11?",
+      "o": [
+        "257",
+        "282",
+        "289",
+        "307"
+      ],
+      "a": 1,
+      "e": "Substitute x=11: y=25(11)+7=282.",
+      "d": "Medium",
+      "topic": "Statistical Modeling",
+      "slo": "Apply and interpret statistical modeling concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-101",
+      "q": "A fitted regression line is y = 12x + 10. What value does it predict when x = 5?",
+      "o": [
+        "70",
+        "80",
+        "82",
+        "58"
+      ],
+      "a": 0,
+      "e": "Substitute x=5: y=12(5)+10=70.",
+      "d": "Medium",
+      "topic": "Statistical Modeling",
+      "slo": "Apply and interpret statistical modeling concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-102",
+      "q": "Which is an example of primary data?",
+      "o": [
+        "A chart reproduced from a website",
+        "Answers collected directly through your own survey",
+        "A table quoted from a book",
+        "Statistics copied from a published report"
+      ],
+      "a": 1,
+      "e": "Primary data are collected firsthand for the study.",
+      "d": "Easy",
+      "topic": "Data Collection",
+      "slo": "Apply and interpret data collection concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-103",
+      "q": "For the five readings [3, 20, 19, 14, 23], what is the arithmetic mean?",
+      "o": [
+        "15.8",
+        "16.8",
+        "79",
+        "14.8"
+      ],
+      "a": 0,
+      "e": "The sum is 79; divide by 5 to obtain 15.8.",
+      "d": "Medium",
+      "topic": "Descriptive Statistics",
+      "slo": "Apply and interpret descriptive statistics concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-104",
+      "q": "What is the range of the dataset [48, 15, 22, 43, 47]?",
+      "o": [
+        "48",
+        "15",
+        "175",
+        "33"
+      ],
+      "a": 3,
+      "e": "Range = 48 - 15 = 33.",
+      "d": "Medium",
+      "topic": "Descriptive Statistics",
+      "slo": "Apply and interpret descriptive statistics concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-105",
+      "q": "Why is model validation important?",
+      "o": [
+        "To remove the need for evidence",
+        "To evaluate performance on appropriate data",
+        "To guarantee every prediction is perfect",
+        "To avoid interpreting results"
+      ],
+      "a": 1,
+      "e": "Validation checks how well a model performs beyond fitting the examples.",
+      "d": "Easy",
+      "topic": "Statistical Modeling",
+      "slo": "Apply and interpret statistical modeling concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-106",
+      "q": "What does a correlation coefficient near -1 suggest?",
+      "o": [
+        "Strong negative linear relationship",
+        "Strong positive linear relationship",
+        "No relationship of any kind",
+        "A large sample by itself"
+      ],
+      "a": 0,
+      "e": "Values near -1 indicate strong negative linear association.",
+      "d": "Easy",
+      "topic": "Statistical Modeling",
+      "slo": "Apply and interpret statistical modeling concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-107",
+      "q": "In a survey, 17 of 72 students prefer an option. Approximately what percentage is that?",
+      "o": [
+        "423.53%",
+        "76.39%",
+        "23.61%",
+        "0.24%"
+      ],
+      "a": 2,
+      "e": "Percentage = (17/72) × 100 = 23.61%.",
+      "d": "Medium",
+      "topic": "Data Collection",
+      "slo": "Apply and interpret data collection concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-108",
+      "q": "In a frequency table, category A occurs 15 times, B occurs 2 times, and C occurs 6 times. Which category is the mode?",
+      "o": [
+        "C",
+        "A",
+        "B",
+        "No mode"
+      ],
+      "a": 1,
+      "e": "The modal category has the greatest frequency; here it is A.",
+      "d": "Medium",
+      "topic": "Descriptive Statistics",
+      "slo": "Apply and interpret descriptive statistics concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-109",
+      "q": "What is the range of the dataset [17, 8, 6, 62, 23]?",
+      "o": [
+        "116",
+        "56",
+        "62",
+        "6"
+      ],
+      "a": 1,
+      "e": "Range = 62 - 6 = 56.",
+      "d": "Medium",
+      "topic": "Descriptive Statistics",
+      "slo": "Apply and interpret descriptive statistics concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-110",
+      "q": "Find the median of these observations: 8, 15, 19, 40, 47.",
+      "o": [
+        "129",
+        "8",
+        "19",
+        "40"
+      ],
+      "a": 2,
+      "e": "The sorted list has five observations, so its third value (19) is the median.",
+      "d": "Medium",
+      "topic": "Descriptive Statistics",
+      "slo": "Apply and interpret descriptive statistics concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-111",
+      "q": "A line passes through (1, 16) and (8, 121). What is its slope?",
+      "o": [
+        "7",
+        "22",
+        "16",
+        "15"
+      ],
+      "a": 3,
+      "e": "Slope = (121-16)/(8-1) = 15.",
+      "d": "Medium",
+      "topic": "Statistical Modeling",
+      "slo": "Apply and interpret statistical modeling concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-112",
+      "q": "What is a regression line used for?",
+      "o": [
+        "Estimating a numerical response from a predictor",
+        "Changing file permissions",
+        "Sorting alphabetically",
+        "Counting computer ports"
+      ],
+      "a": 0,
+      "e": "Regression fits a relationship that can be used for estimation.",
+      "d": "Easy",
+      "topic": "Statistical Modeling",
+      "slo": "Apply and interpret statistical modeling concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-113",
+      "q": "What is the purpose of chart axis labels?",
+      "o": [
+        "To change observations",
+        "To guarantee causation",
+        "To hide the scale",
+        "To identify measured variables and units"
+      ],
+      "a": 3,
+      "e": "Axis labels make a graph interpretable.",
+      "d": "Easy",
+      "topic": "Data Visualization",
+      "slo": "Apply and interpret data visualization concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-114",
+      "q": "Which technique is commonly used to fit a straight regression line?",
+      "o": [
+        "Bubble sort",
+        "Least squares",
+        "Binary search",
+        "Hashing"
+      ],
+      "a": 1,
+      "e": "Least squares minimizes the sum of squared residuals.",
+      "d": "Easy",
+      "topic": "Statistical Modeling",
+      "slo": "Apply and interpret statistical modeling concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-115",
+      "q": "What is a negative correlation?",
+      "o": [
+        "Both always increase together",
+        "One variable tends to decrease as the other increases",
+        "Both are identical",
+        "One variable is a file name"
+      ],
+      "a": 1,
+      "e": "Negative association means the variables tend to move in opposite directions.",
+      "d": "Easy",
+      "topic": "Statistical Modeling",
+      "slo": "Apply and interpret statistical modeling concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-116",
+      "q": "Which variable is generally plotted on the horizontal axis in a scatter plot?",
+      "o": [
+        "Legend",
+        "Title",
+        "Independent variable",
+        "Dependent variable"
+      ],
+      "a": 2,
+      "e": "The explanatory or independent variable is usually shown on the x-axis.",
+      "d": "Easy",
+      "topic": "Statistical Modeling",
+      "slo": "Apply and interpret statistical modeling concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-117",
+      "q": "Which summary is less sensitive to extreme outliers?",
+      "o": [
+        "Mean",
+        "Maximum",
+        "Range",
+        "Median"
+      ],
+      "a": 3,
+      "e": "The median depends on ordered position and is comparatively robust.",
+      "d": "Easy",
+      "topic": "Descriptive Statistics",
+      "slo": "Apply and interpret descriptive statistics concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-118",
+      "q": "A fitted regression line is y = 24x + 12. What value does it predict when x = 9?",
+      "o": [
+        "240",
+        "228",
+        "204",
+        "252"
+      ],
+      "a": 1,
+      "e": "Substitute x=9: y=24(9)+12=228.",
+      "d": "Medium",
+      "topic": "Statistical Modeling",
+      "slo": "Apply and interpret statistical modeling concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-119",
+      "q": "A model predicts 47, but the observed value is 65. What is the residual (observed minus predicted)?",
+      "o": [
+        "47",
+        "65",
+        "-18",
+        "18"
+      ],
+      "a": 3,
+      "e": "Residual = 65 - 47 = 18.",
+      "d": "Medium",
+      "topic": "Statistical Modeling",
+      "slo": "Apply and interpret statistical modeling concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-120",
+      "q": "A line-chart series starts at 8 and increases by 5 at each of 14 subsequent time steps. What is its final value?",
+      "o": [
+        "78",
+        "83",
+        "73",
+        "23"
+      ],
+      "a": 0,
+      "e": "Final value = 8 + (15-1)×5 = 78.",
+      "d": "Medium",
+      "topic": "Data Visualization",
+      "slo": "Apply and interpret data visualization concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-121",
+      "q": "For data [18, 7, 16, 16], what is the population variance (divide squared deviations by 4; round to two decimals)?",
+      "o": [
+        "4.26",
+        "18.19",
+        "72.75",
+        "14.25"
+      ],
+      "a": 1,
+      "e": "The mean is 14.25. The average of four squared deviations is 18.19.",
+      "d": "Medium",
+      "topic": "Descriptive Statistics",
+      "slo": "Apply and interpret descriptive statistics concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-122",
+      "q": "In a dataset of 91 observations, what is 20% of the total?",
+      "o": [
+        "111",
+        "19.2",
+        "72.8",
+        "18.2"
+      ],
+      "a": 3,
+      "e": "20% of 91 is 91×20/100=18.2.",
+      "d": "Medium",
+      "topic": "Data Collection",
+      "slo": "Apply and interpret data collection concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-123",
+      "q": "In a survey, 25 of 60 students prefer an option. Approximately what percentage is that?",
+      "o": [
+        "240%",
+        "41.67%",
+        "0.42%",
+        "58.33%"
+      ],
+      "a": 1,
+      "e": "Percentage = (25/60) × 100 = 41.67%.",
+      "d": "Medium",
+      "topic": "Data Collection",
+      "slo": "Apply and interpret data collection concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-124",
+      "q": "A sample contains 40 responses. If 11 responses are marked “Yes”, how many are marked “No” when these are the only two choices?",
+      "o": [
+        "11",
+        "51",
+        "29",
+        "40"
+      ],
+      "a": 2,
+      "e": "No responses = 40-11=29.",
+      "d": "Medium",
+      "topic": "Data Collection",
+      "slo": "Apply and interpret data collection concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-125",
+      "q": "Find the median of these observations: 29, 39, 43, 47, 54.",
+      "o": [
+        "212",
+        "29",
+        "47",
+        "43"
+      ],
+      "a": 3,
+      "e": "The sorted list has five observations, so its third value (43) is the median.",
+      "d": "Medium",
+      "topic": "Descriptive Statistics",
+      "slo": "Apply and interpret descriptive statistics concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-126",
+      "q": "A sample contains 86 responses. If 56 responses are marked “Yes”, how many are marked “No” when these are the only two choices?",
+      "o": [
+        "142",
+        "30",
+        "86",
+        "56"
+      ],
+      "a": 1,
+      "e": "No responses = 86-56=30.",
+      "d": "Medium",
+      "topic": "Data Collection",
+      "slo": "Apply and interpret data collection concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-127",
+      "q": "In a survey, 45 of 66 students prefer an option. Approximately what percentage is that?",
+      "o": [
+        "146.67%",
+        "68.18%",
+        "0.68%",
+        "31.82%"
+      ],
+      "a": 1,
+      "e": "Percentage = (45/66) × 100 = 68.18%.",
+      "d": "Medium",
+      "topic": "Data Collection",
+      "slo": "Apply and interpret data collection concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-128",
+      "q": "Does correlation alone prove causation?",
+      "o": [
+        "No",
+        "Yes, always",
+        "Only for bar charts",
+        "Only for small samples"
+      ],
+      "a": 0,
+      "e": "Association by itself does not establish cause and effect.",
+      "d": "Easy",
+      "topic": "Statistical Modeling",
+      "slo": "Apply and interpret statistical modeling concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-129",
+      "q": "What is the median?",
+      "o": [
+        "Most frequent value",
+        "Middle value of ordered data",
+        "Largest observation",
+        "Sum of all values"
+      ],
+      "a": 1,
+      "e": "The median splits sorted observations into two halves.",
+      "d": "Easy",
+      "topic": "Descriptive Statistics",
+      "slo": "Apply and interpret descriptive statistics concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-130",
+      "q": "In a survey, 37 of 54 students prefer an option. Approximately what percentage is that?",
+      "o": [
+        "31.48%",
+        "0.69%",
+        "68.52%",
+        "145.95%"
+      ],
+      "a": 2,
+      "e": "Percentage = (37/54) × 100 = 68.52%.",
+      "d": "Medium",
+      "topic": "Data Collection",
+      "slo": "Apply and interpret data collection concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-131",
+      "q": "What is a data visualization?",
+      "o": [
+        "A compiler warning",
+        "Only a text editor",
+        "A password storage system",
+        "Graphical presentation of information or data"
+      ],
+      "a": 3,
+      "e": "Visualization uses charts and graphics to communicate patterns.",
+      "d": "Easy",
+      "topic": "Data Visualization",
+      "slo": "Apply and interpret data visualization concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-132",
+      "q": "What is data cleaning?",
+      "o": [
+        "Correcting or handling errors and inconsistencies in data",
+        "Replacing all numbers with zero",
+        "Formatting only the screen background",
+        "Deleting all rows automatically"
+      ],
+      "a": 0,
+      "e": "Cleaning addresses missing, duplicate, invalid or inconsistent data.",
+      "d": "Easy",
+      "topic": "Data Science",
+      "slo": "Apply and interpret data science concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-133",
+      "q": "A bar chart records A=6, B=9, C=19. What percentage of the total belongs to A (one decimal place)?",
+      "o": [
+        "26.5%",
+        "55.9%",
+        "17.6%",
+        "40.0%"
+      ],
+      "a": 2,
+      "e": "Total=34; A contributes 100×6/34=17.6%.",
+      "d": "Medium",
+      "topic": "Data Visualization",
+      "slo": "Apply and interpret data visualization concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-134",
+      "q": "A model predicts 61, but the observed value is 63. What is the residual (observed minus predicted)?",
+      "o": [
+        "2",
+        "63",
+        "-2",
+        "61"
+      ],
+      "a": 0,
+      "e": "Residual = 63 - 61 = 2.",
+      "d": "Medium",
+      "topic": "Statistical Modeling",
+      "slo": "Apply and interpret statistical modeling concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-135",
+      "q": "Which task is an example of regression?",
+      "o": [
+        "Assigning a category name",
+        "Checking if a number is even",
+        "Predicting a house price",
+        "Predicting whether an email is spam"
+      ],
+      "a": 2,
+      "e": "Regression predicts a numerical value.",
+      "d": "Easy",
+      "topic": "Statistical Modeling",
+      "slo": "Apply and interpret statistical modeling concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-136",
+      "q": "For the five readings [19, 5, 4, 24, 7], what is the arithmetic mean?",
+      "o": [
+        "10.8",
+        "59",
+        "12.8",
+        "11.8"
+      ],
+      "a": 3,
+      "e": "The sum is 59; divide by 5 to obtain 11.8.",
+      "d": "Medium",
+      "topic": "Descriptive Statistics",
+      "slo": "Apply and interpret descriptive statistics concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-137",
+      "q": "In y = mx + b, what does m represent?",
+      "o": [
+        "Intercept",
+        "Slope",
+        "Correlation coefficient",
+        "Number of observations"
+      ],
+      "a": 1,
+      "e": "The slope measures change in predicted y per one-unit increase in x.",
+      "d": "Easy",
+      "topic": "Statistical Modeling",
+      "slo": "Apply and interpret statistical modeling concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-138",
+      "q": "Find the median of these observations: 13, 25, 32, 46, 58.",
+      "o": [
+        "46",
+        "174",
+        "13",
+        "32"
+      ],
+      "a": 3,
+      "e": "The sorted list has five observations, so its third value (32) is the median.",
+      "d": "Medium",
+      "topic": "Descriptive Statistics",
+      "slo": "Apply and interpret descriptive statistics concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-139",
+      "q": "What is the role of a legend on a chart?",
+      "o": [
+        "Measure CPU temperature",
+        "Identify plotted series or categories",
+        "Hide the axis units",
+        "Change the dataset automatically"
+      ],
+      "a": 1,
+      "e": "Legends explain the meaning of plotted marks.",
+      "d": "Easy",
+      "topic": "Data Visualization",
+      "slo": "Apply and interpret data visualization concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-140",
+      "q": "A fitted regression line is y = 12x + 10. What value does it predict when x = 12?",
+      "o": [
+        "142",
+        "166",
+        "164",
+        "154"
+      ],
+      "a": 3,
+      "e": "Substitute x=12: y=12(12)+10=154.",
+      "d": "Medium",
+      "topic": "Statistical Modeling",
+      "slo": "Apply and interpret statistical modeling concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-141",
+      "q": "A line passes through (7, 31) and (11, 59). What is its slope?",
+      "o": [
+        "8",
+        "7",
+        "11",
+        "4"
+      ],
+      "a": 1,
+      "e": "Slope = (59-31)/(11-7) = 7.",
+      "d": "Medium",
+      "topic": "Statistical Modeling",
+      "slo": "Apply and interpret statistical modeling concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-142",
+      "q": "In a dataset of 71 observations, what is 10% of the total?",
+      "o": [
+        "81",
+        "63.9",
+        "7.1",
+        "8.1"
+      ],
+      "a": 2,
+      "e": "10% of 71 is 71×10/100=7.1.",
+      "d": "Medium",
+      "topic": "Data Collection",
+      "slo": "Apply and interpret data collection concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-143",
+      "q": "Which is a qualitative variable?",
+      "o": [
+        "Favorite color",
+        "Height in centimeters",
+        "Temperature in degrees",
+        "Age in years"
+      ],
+      "a": 0,
+      "e": "Favorite color is a categorical attribute.",
+      "d": "Easy",
+      "topic": "Data Collection",
+      "slo": "Apply and interpret data collection concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-144",
+      "q": "What is the range of the dataset [31, 56, 10, 26, 52]?",
+      "o": [
+        "175",
+        "10",
+        "46",
+        "56"
+      ],
+      "a": 2,
+      "e": "Range = 56 - 10 = 46.",
+      "d": "Medium",
+      "topic": "Descriptive Statistics",
+      "slo": "Apply and interpret descriptive statistics concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-145",
+      "q": "What is the range of the dataset [60, 59, 20, 51, 17]?",
+      "o": [
+        "17",
+        "207",
+        "60",
+        "43"
+      ],
+      "a": 3,
+      "e": "Range = 60 - 17 = 43.",
+      "d": "Medium",
+      "topic": "Descriptive Statistics",
+      "slo": "Apply and interpret descriptive statistics concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-146",
+      "q": "A line-chart series starts at 17 and increases by 3 at each of 5 subsequent time steps. What is its final value?",
+      "o": [
+        "32",
+        "23",
+        "35",
+        "29"
+      ],
+      "a": 0,
+      "e": "Final value = 17 + (6-1)×3 = 32.",
+      "d": "Medium",
+      "topic": "Data Visualization",
+      "slo": "Apply and interpret data visualization concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-147",
+      "q": "A pie chart has 3 items in group A and 18 in group B. What is the angle for group A (nearest 0.1°)?",
+      "o": [
+        "25.7°",
+        "0.1°",
+        "308.6°",
+        "51.4°"
+      ],
+      "a": 3,
+      "e": "Angle = 360°×3/21 = 51.4°.",
+      "d": "Medium",
+      "topic": "Data Visualization",
+      "slo": "Apply and interpret data visualization concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-148",
+      "q": "Find the median of these observations: 8, 14, 17, 35, 56.",
+      "o": [
+        "8",
+        "35",
+        "17",
+        "130"
+      ],
+      "a": 2,
+      "e": "The sorted list has five observations, so its third value (17) is the median.",
+      "d": "Medium",
+      "topic": "Descriptive Statistics",
+      "slo": "Apply and interpret descriptive statistics concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-149",
+      "q": "What does plt.show() typically do?",
+      "o": [
+        "Display the prepared plot",
+        "Sort a dataset",
+        "Remove all axes",
+        "Calculate a median"
+      ],
+      "a": 0,
+      "e": "show renders or displays Matplotlib figures.",
+      "d": "Easy",
+      "topic": "Python Data Visualization",
+      "slo": "Apply and interpret python data visualization concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-150",
+      "q": "In a frequency table, category A occurs 14 times, B occurs 7 times, and C occurs 9 times. Which category is the mode?",
+      "o": [
+        "B",
+        "A",
+        "C",
+        "No mode"
+      ],
+      "a": 1,
+      "e": "The modal category has the greatest frequency; here it is A.",
+      "d": "Medium",
+      "topic": "Descriptive Statistics",
+      "slo": "Apply and interpret descriptive statistics concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-151",
+      "q": "What is the range of the dataset [36, 50, 8, 11, 2]?",
+      "o": [
+        "2",
+        "50",
+        "48",
+        "107"
+      ],
+      "a": 2,
+      "e": "Range = 50 - 2 = 48.",
+      "d": "Medium",
+      "topic": "Descriptive Statistics",
+      "slo": "Apply and interpret descriptive statistics concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-152",
+      "q": "In a frequency table, category A occurs 6 times, B occurs 11 times, and C occurs 7 times. Which category is the mode?",
+      "o": [
+        "B",
+        "A",
+        "C",
+        "No mode"
+      ],
+      "a": 0,
+      "e": "The modal category has the greatest frequency; here it is B.",
+      "d": "Medium",
+      "topic": "Descriptive Statistics",
+      "slo": "Apply and interpret descriptive statistics concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-153",
+      "q": "A line passes through (2, 27) and (5, 54). What is its slope?",
+      "o": [
+        "12",
+        "3",
+        "9",
+        "10"
+      ],
+      "a": 2,
+      "e": "Slope = (54-27)/(5-2) = 9.",
+      "d": "Medium",
+      "topic": "Statistical Modeling",
+      "slo": "Apply and interpret statistical modeling concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-154",
+      "q": "A pie chart has 17 items in group A and 19 in group B. What is the angle for group A (nearest 0.1°)?",
+      "o": [
+        "190.0°",
+        "85.0°",
+        "0.5°",
+        "170.0°"
+      ],
+      "a": 3,
+      "e": "Angle = 360°×17/36 = 170.0°.",
+      "d": "Medium",
+      "topic": "Data Visualization",
+      "slo": "Apply and interpret data visualization concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-155",
+      "q": "A model predicts 38, but the observed value is 42. What is the residual (observed minus predicted)?",
+      "o": [
+        "42",
+        "-4",
+        "38",
+        "4"
+      ],
+      "a": 3,
+      "e": "Residual = 42 - 38 = 4.",
+      "d": "Medium",
+      "topic": "Statistical Modeling",
+      "slo": "Apply and interpret statistical modeling concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-156",
+      "q": "A sample contains 64 responses. If 24 responses are marked “Yes”, how many are marked “No” when these are the only two choices?",
+      "o": [
+        "64",
+        "24",
+        "88",
+        "40"
+      ],
+      "a": 3,
+      "e": "No responses = 64-24=40.",
+      "d": "Medium",
+      "topic": "Data Collection",
+      "slo": "Apply and interpret data collection concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-157",
+      "q": "In a frequency table, category A occurs 5 times, B occurs 3 times, and C occurs 9 times. Which category is the mode?",
+      "o": [
+        "No mode",
+        "C",
+        "A",
+        "B"
+      ],
+      "a": 1,
+      "e": "The modal category has the greatest frequency; here it is C.",
+      "d": "Medium",
+      "topic": "Descriptive Statistics",
+      "slo": "Apply and interpret descriptive statistics concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-158",
+      "q": "A sample contains 49 responses. If 44 responses are marked “Yes”, how many are marked “No” when these are the only two choices?",
+      "o": [
+        "49",
+        "93",
+        "5",
+        "44"
+      ],
+      "a": 2,
+      "e": "No responses = 49-44=5.",
+      "d": "Medium",
+      "topic": "Data Collection",
+      "slo": "Apply and interpret data collection concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-159",
+      "q": "A pie chart has 18 items in group A and 11 in group B. What is the angle for group A (nearest 0.1°)?",
+      "o": [
+        "223.4°",
+        "136.6°",
+        "111.7°",
+        "0.6°"
+      ],
+      "a": 0,
+      "e": "Angle = 360°×18/29 = 223.4°.",
+      "d": "Medium",
+      "topic": "Data Visualization",
+      "slo": "Apply and interpret data visualization concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-160",
+      "q": "In a dataset of 89 observations, what is 25% of the total?",
+      "o": [
+        "114",
+        "23.25",
+        "22.25",
+        "66.75"
+      ],
+      "a": 2,
+      "e": "25% of 89 is 89×25/100=22.25.",
+      "d": "Medium",
+      "topic": "Data Collection",
+      "slo": "Apply and interpret data collection concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-161",
+      "q": "In a survey, 49 of 75 students prefer an option. Approximately what percentage is that?",
+      "o": [
+        "153.06%",
+        "65.33%",
+        "34.67%",
+        "0.65%"
+      ],
+      "a": 1,
+      "e": "Percentage = (49/75) × 100 = 65.33%.",
+      "d": "Medium",
+      "topic": "Data Collection",
+      "slo": "Apply and interpret data collection concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-162",
+      "q": "What is the range of the dataset [24, 14, 53, 9, 49]?",
+      "o": [
+        "9",
+        "53",
+        "44",
+        "149"
+      ],
+      "a": 2,
+      "e": "Range = 53 - 9 = 44.",
+      "d": "Medium",
+      "topic": "Descriptive Statistics",
+      "slo": "Apply and interpret descriptive statistics concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-163",
+      "q": "For data [5, 8, 4, 17], what is the population variance (divide squared deviations by 4; round to two decimals)?",
+      "o": [
+        "105.00",
+        "5.12",
+        "8.50",
+        "26.25"
+      ],
+      "a": 3,
+      "e": "The mean is 8.5. The average of four squared deviations is 26.25.",
+      "d": "Medium",
+      "topic": "Descriptive Statistics",
+      "slo": "Apply and interpret descriptive statistics concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-164",
+      "q": "A sample contains 50 responses. If 8 responses are marked “Yes”, how many are marked “No” when these are the only two choices?",
+      "o": [
+        "42",
+        "58",
+        "8",
+        "50"
+      ],
+      "a": 0,
+      "e": "No responses = 50-8=42.",
+      "d": "Medium",
+      "topic": "Data Collection",
+      "slo": "Apply and interpret data collection concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-165",
+      "q": "For the five readings [25, 15, 30, 2, 9], what is the arithmetic mean?",
+      "o": [
+        "17.2",
+        "15.2",
+        "81",
+        "16.2"
+      ],
+      "a": 3,
+      "e": "The sum is 81; divide by 5 to obtain 16.2.",
+      "d": "Medium",
+      "topic": "Descriptive Statistics",
+      "slo": "Apply and interpret descriptive statistics concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-166",
+      "q": "In a frequency table, category A occurs 14 times, B occurs 5 times, and C occurs 10 times. Which category is the mode?",
+      "o": [
+        "No mode",
+        "A",
+        "B",
+        "C"
+      ],
+      "a": 1,
+      "e": "The modal category has the greatest frequency; here it is A.",
+      "d": "Medium",
+      "topic": "Descriptive Statistics",
+      "slo": "Apply and interpret descriptive statistics concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-167",
+      "q": "For the five readings [11, 21, 29, 25, 21], what is the arithmetic mean?",
+      "o": [
+        "107",
+        "20.4",
+        "21.4",
+        "22.4"
+      ],
+      "a": 2,
+      "e": "The sum is 107; divide by 5 to obtain 21.4.",
+      "d": "Medium",
+      "topic": "Descriptive Statistics",
+      "slo": "Apply and interpret descriptive statistics concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-168",
+      "q": "For data [1, 6, 1, 13], what is the population variance (divide squared deviations by 4; round to two decimals)?",
+      "o": [
+        "4.92",
+        "96.75",
+        "24.19",
+        "5.25"
+      ],
+      "a": 2,
+      "e": "The mean is 5.25. The average of four squared deviations is 24.19.",
+      "d": "Medium",
+      "topic": "Descriptive Statistics",
+      "slo": "Apply and interpret descriptive statistics concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-169",
+      "q": "A line passes through (6, 16) and (13, 44). What is its slope?",
+      "o": [
+        "11",
+        "4",
+        "5",
+        "7"
+      ],
+      "a": 1,
+      "e": "Slope = (44-16)/(13-6) = 4.",
+      "d": "Medium",
+      "topic": "Statistical Modeling",
+      "slo": "Apply and interpret statistical modeling concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-170",
+      "q": "In a frequency table, category A occurs 11 times, B occurs 7 times, and C occurs 2 times. Which category is the mode?",
+      "o": [
+        "No mode",
+        "C",
+        "B",
+        "A"
+      ],
+      "a": 3,
+      "e": "The modal category has the greatest frequency; here it is A.",
+      "d": "Medium",
+      "topic": "Descriptive Statistics",
+      "slo": "Apply and interpret descriptive statistics concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-171",
+      "q": "Which function commonly creates a new Matplotlib figure?",
+      "o": [
+        "plt.sample()",
+        "plt.clean()",
+        "plt.mean()",
+        "plt.figure()"
+      ],
+      "a": 3,
+      "e": "plt.figure creates or activates a figure.",
+      "d": "Easy",
+      "topic": "Python Data Visualization",
+      "slo": "Apply and interpret python data visualization concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-172",
+      "q": "A bar chart records A=29, B=12, C=15. What percentage of the total belongs to A (one decimal place)?",
+      "o": [
+        "51.8%",
+        "21.4%",
+        "26.8%",
+        "70.7%"
+      ],
+      "a": 0,
+      "e": "Total=56; A contributes 100×29/56=51.8%.",
+      "d": "Medium",
+      "topic": "Data Visualization",
+      "slo": "Apply and interpret data visualization concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-173",
+      "q": "For the five readings [5, 3, 22, 20, 20], what is the arithmetic mean?",
+      "o": [
+        "14",
+        "13",
+        "15",
+        "70"
+      ],
+      "a": 0,
+      "e": "The sum is 70; divide by 5 to obtain 14.",
+      "d": "Medium",
+      "topic": "Descriptive Statistics",
+      "slo": "Apply and interpret descriptive statistics concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-174",
+      "q": "A line-chart series starts at 10 and increases by 5 at each of 3 subsequent time steps. What is its final value?",
+      "o": [
+        "30",
+        "14",
+        "25",
+        "20"
+      ],
+      "a": 2,
+      "e": "Final value = 10 + (4-1)×5 = 25.",
+      "d": "Medium",
+      "topic": "Data Visualization",
+      "slo": "Apply and interpret data visualization concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-175",
+      "q": "A fitted regression line is y = 3x + 1. What value does it predict when x = 7?",
+      "o": [
+        "19",
+        "25",
+        "23",
+        "22"
+      ],
+      "a": 3,
+      "e": "Substitute x=7: y=3(7)+1=22.",
+      "d": "Medium",
+      "topic": "Statistical Modeling",
+      "slo": "Apply and interpret statistical modeling concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-176",
+      "q": "In a frequency table, category A occurs 8 times, B occurs 2 times, and C occurs 4 times. Which category is the mode?",
+      "o": [
+        "B",
+        "No mode",
+        "C",
+        "A"
+      ],
+      "a": 3,
+      "e": "The modal category has the greatest frequency; here it is A.",
+      "d": "Medium",
+      "topic": "Descriptive Statistics",
+      "slo": "Apply and interpret descriptive statistics concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-177",
+      "q": "In a frequency table, category A occurs 9 times, B occurs 7 times, and C occurs 6 times. Which category is the mode?",
+      "o": [
+        "A",
+        "C",
+        "B",
+        "No mode"
+      ],
+      "a": 0,
+      "e": "The modal category has the greatest frequency; here it is A.",
+      "d": "Medium",
+      "topic": "Descriptive Statistics",
+      "slo": "Apply and interpret descriptive statistics concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-178",
+      "q": "What is statistical modeling?",
+      "o": [
+        "Compiling source code",
+        "Physically repairing a computer",
+        "Encrypting all network packets",
+        "Representing relationships in data using mathematical or statistical methods"
+      ],
+      "a": 3,
+      "e": "Statistical models describe or predict patterns and relationships in observed data.",
+      "d": "Easy",
+      "topic": "Statistical Modeling",
+      "slo": "Apply and interpret statistical modeling concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-179",
+      "q": "Why are missing values important in analysis?",
+      "o": [
+        "They make data automatically unbiased",
+        "They always improve accuracy",
+        "They may affect results and require suitable handling",
+        "They can always be ignored safely"
+      ],
+      "a": 2,
+      "e": "Missing observations can distort analyses if not handled carefully.",
+      "d": "Easy",
+      "topic": "Data Science",
+      "slo": "Apply and interpret data science concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-180",
+      "q": "For data [1, 13, 18, 12], what is the population variance (divide squared deviations by 4; round to two decimals)?",
+      "o": [
+        "11.00",
+        "154.00",
+        "6.20",
+        "38.50"
+      ],
+      "a": 3,
+      "e": "The mean is 11. The average of four squared deviations is 38.50.",
+      "d": "Medium",
+      "topic": "Descriptive Statistics",
+      "slo": "Apply and interpret descriptive statistics concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-181",
+      "q": "A class survey in scenario 7 reports 59 responses in group X, 32 in group Y, and 11 in group Z. What is the total frequency?",
+      "o": [
+        "102",
+        "91",
+        "59",
+        "103"
+      ],
+      "a": 0,
+      "e": "Total frequency is 59+32+11=102.",
+      "d": "Medium",
+      "topic": "Descriptive Statistics",
+      "slo": "Apply and interpret descriptive statistics concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-182",
+      "q": "For data [8, 12, 2, 18], what is the population variance (divide squared deviations by 4; round to two decimals)?",
+      "o": [
+        "5.83",
+        "136.00",
+        "10.00",
+        "34.00"
+      ],
+      "a": 3,
+      "e": "The mean is 10. The average of four squared deviations is 34.00.",
+      "d": "Medium",
+      "topic": "Descriptive Statistics",
+      "slo": "Apply and interpret descriptive statistics concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-183",
+      "q": "A pie chart has 12 items in group A and 9 in group B. What is the angle for group A (nearest 0.1°)?",
+      "o": [
+        "0.6°",
+        "205.7°",
+        "102.9°",
+        "154.3°"
+      ],
+      "a": 1,
+      "e": "Angle = 360°×12/21 = 205.7°.",
+      "d": "Medium",
+      "topic": "Data Visualization",
+      "slo": "Apply and interpret data visualization concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-184",
+      "q": "A model predicts 20, but the observed value is 37. What is the residual (observed minus predicted)?",
+      "o": [
+        "37",
+        "-17",
+        "17",
+        "20"
+      ],
+      "a": 2,
+      "e": "Residual = 37 - 20 = 17.",
+      "d": "Medium",
+      "topic": "Statistical Modeling",
+      "slo": "Apply and interpret statistical modeling concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-185",
+      "q": "A pie chart has 2 items in group A and 6 in group B. What is the angle for group A (nearest 0.1°)?",
+      "o": [
+        "270.0°",
+        "0.2°",
+        "45.0°",
+        "90.0°"
+      ],
+      "a": 3,
+      "e": "Angle = 360°×2/8 = 90.0°.",
+      "d": "Medium",
+      "topic": "Data Visualization",
+      "slo": "Apply and interpret data visualization concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-186",
+      "q": "Four categories have frequencies [5, 5, 17, 13]. How many observations are represented in total?",
+      "o": [
+        "44",
+        "17",
+        "40",
+        "35"
+      ],
+      "a": 2,
+      "e": "Add all category frequencies: 5 + 5 + 17 + 13 = 40.",
+      "d": "Medium",
+      "topic": "Descriptive Statistics",
+      "slo": "Apply and interpret descriptive statistics concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-187",
+      "q": "A pie chart has 3 items in group A and 8 in group B. What is the angle for group A (nearest 0.1°)?",
+      "o": [
+        "98.2°",
+        "261.8°",
+        "0.3°",
+        "49.1°"
+      ],
+      "a": 0,
+      "e": "Angle = 360°×3/11 = 98.2°.",
+      "d": "Medium",
+      "topic": "Data Visualization",
+      "slo": "Apply and interpret data visualization concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-188",
+      "q": "What is a computational model?",
+      "o": [
+        "A folder without files",
+        "A representation of a system implemented using computation",
+        "A physical keyboard only",
+        "An unchangeable printed page"
+      ],
+      "a": 1,
+      "e": "Computational models use algorithms or simulations to represent real processes.",
+      "d": "Easy",
+      "topic": "Statistical Modeling",
+      "slo": "Apply and interpret statistical modeling concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-189",
+      "q": "A line passes through (9, 29) and (12, 68). What is its slope?",
+      "o": [
+        "3",
+        "16",
+        "14",
+        "13"
+      ],
+      "a": 3,
+      "e": "Slope = (68-29)/(12-9) = 13.",
+      "d": "Medium",
+      "topic": "Statistical Modeling",
+      "slo": "Apply and interpret statistical modeling concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-190",
+      "q": "What does plt.ylabel() set?",
+      "o": [
+        "Plot style",
+        "Horizontal-axis label",
+        "Vertical-axis label",
+        "Chart title"
+      ],
+      "a": 2,
+      "e": "ylabel assigns the y-axis label.",
+      "d": "Easy",
+      "topic": "Python Data Visualization",
+      "slo": "Apply and interpret python data visualization concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-191",
+      "q": "For the five readings [23, 5, 5, 29, 7], what is the arithmetic mean?",
+      "o": [
+        "12.8",
+        "13.8",
+        "14.8",
+        "69"
+      ],
+      "a": 1,
+      "e": "The sum is 69; divide by 5 to obtain 13.8.",
+      "d": "Medium",
+      "topic": "Descriptive Statistics",
+      "slo": "Apply and interpret descriptive statistics concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-192",
+      "q": "A line passes through (8, 34) and (10, 48). What is its slope?",
+      "o": [
+        "2",
+        "9",
+        "8",
+        "7"
+      ],
+      "a": 3,
+      "e": "Slope = (48-34)/(10-8) = 7.",
+      "d": "Medium",
+      "topic": "Statistical Modeling",
+      "slo": "Apply and interpret statistical modeling concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-193",
+      "q": "What does zero correlation generally indicate?",
+      "o": [
+        "Two variables are identical",
+        "Perfect positive linear association",
+        "No linear association",
+        "Perfect negative linear association"
+      ],
+      "a": 2,
+      "e": "Zero Pearson correlation indicates no linear association, though nonlinear patterns may remain.",
+      "d": "Easy",
+      "topic": "Statistical Modeling",
+      "slo": "Apply and interpret statistical modeling concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-194",
+      "q": "A line-chart series starts at 11 and increases by 6 at each of 8 subsequent time steps. What is its final value?",
+      "o": [
+        "59",
+        "53",
+        "65",
+        "20"
+      ],
+      "a": 0,
+      "e": "Final value = 11 + (9-1)×6 = 59.",
+      "d": "Medium",
+      "topic": "Data Visualization",
+      "slo": "Apply and interpret data visualization concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-195",
+      "q": "For the five readings [6, 11, 20, 15, 24], what is the arithmetic mean?",
+      "o": [
+        "15.2",
+        "16.2",
+        "14.2",
+        "76"
+      ],
+      "a": 0,
+      "e": "The sum is 76; divide by 5 to obtain 15.2.",
+      "d": "Medium",
+      "topic": "Descriptive Statistics",
+      "slo": "Apply and interpret descriptive statistics concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-196",
+      "q": "What is a feature in a dataset?",
+      "o": [
+        "A chart border",
+        "An attribute measured for an observation",
+        "A file extension only",
+        "A backup drive"
+      ],
+      "a": 1,
+      "e": "Features are attributes or variables associated with observations.",
+      "d": "Easy",
+      "topic": "Data Science",
+      "slo": "Apply and interpret data science concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-197",
+      "q": "Which pyplot function commonly draws a histogram?",
+      "o": [
+        "plt.pie()",
+        "plt.hist()",
+        "plt.bar()",
+        "plt.title()"
+      ],
+      "a": 1,
+      "e": "plt.hist displays frequencies in bins.",
+      "d": "Easy",
+      "topic": "Python Data Visualization",
+      "slo": "Apply and interpret python data visualization concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-198",
+      "q": "A class survey in scenario 4 reports 43 responses in group X, 38 in group Y, and 17 in group Z. What is the total frequency?",
+      "o": [
+        "43",
+        "99",
+        "81",
+        "98"
+      ],
+      "a": 3,
+      "e": "Total frequency is 43+38+17=98.",
+      "d": "Medium",
+      "topic": "Descriptive Statistics",
+      "slo": "Apply and interpret descriptive statistics concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-199",
+      "q": "What is unsupervised learning?",
+      "o": [
+        "Compiling a Python program",
+        "Finding structure in data without supplied target labels",
+        "Predicting only with labeled answers",
+        "Removing every missing value"
+      ],
+      "a": 1,
+      "e": "Unsupervised approaches discover patterns or groups without labeled targets.",
+      "d": "Easy",
+      "topic": "Statistical Modeling",
+      "slo": "Apply and interpret statistical modeling concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-200",
+      "q": "What is the range of the dataset [3, 7, 37, 38, 49]?",
+      "o": [
+        "3",
+        "46",
+        "49",
+        "134"
+      ],
+      "a": 1,
+      "e": "Range = 49 - 3 = 46.",
+      "d": "Medium",
+      "topic": "Descriptive Statistics",
+      "slo": "Apply and interpret descriptive statistics concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-201",
+      "q": "Four categories have frequencies [16, 13, 12, 16]. How many observations are represented in total?",
+      "o": [
+        "41",
+        "16",
+        "61",
+        "57"
+      ],
+      "a": 3,
+      "e": "Add all category frequencies: 16 + 13 + 12 + 16 = 57.",
+      "d": "Medium",
+      "topic": "Descriptive Statistics",
+      "slo": "Apply and interpret descriptive statistics concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-202",
+      "q": "Find the median of these observations: 12, 23, 36, 49, 56.",
+      "o": [
+        "176",
+        "12",
+        "49",
+        "36"
+      ],
+      "a": 3,
+      "e": "The sorted list has five observations, so its third value (36) is the median.",
+      "d": "Medium",
+      "topic": "Descriptive Statistics",
+      "slo": "Apply and interpret descriptive statistics concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-203",
+      "q": "Why is data interpretation necessary after making a chart?",
+      "o": [
+        "To avoid checking assumptions",
+        "To replace all measurements",
+        "To draw evidence-based conclusions from patterns",
+        "To guarantee the graph is error-free"
+      ],
+      "a": 2,
+      "e": "Charts require careful interpretation in context.",
+      "d": "Easy",
+      "topic": "Data Visualization",
+      "slo": "Apply and interpret data visualization concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-204",
+      "q": "In a survey, 64 of 73 students prefer an option. Approximately what percentage is that?",
+      "o": [
+        "0.88%",
+        "12.33%",
+        "114.06%",
+        "87.67%"
+      ],
+      "a": 3,
+      "e": "Percentage = (64/73) × 100 = 87.67%.",
+      "d": "Medium",
+      "topic": "Data Collection",
+      "slo": "Apply and interpret data collection concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-205",
+      "q": "A model predicts 47, but the observed value is 51. What is the residual (observed minus predicted)?",
+      "o": [
+        "51",
+        "-4",
+        "4",
+        "47"
+      ],
+      "a": 2,
+      "e": "Residual = 51 - 47 = 4.",
+      "d": "Medium",
+      "topic": "Statistical Modeling",
+      "slo": "Apply and interpret statistical modeling concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-206",
+      "q": "A line-chart series starts at 9 and increases by 5 at each of 3 subsequent time steps. What is its final value?",
+      "o": [
+        "13",
+        "19",
+        "24",
+        "29"
+      ],
+      "a": 2,
+      "e": "Final value = 9 + (4-1)×5 = 24.",
+      "d": "Medium",
+      "topic": "Data Visualization",
+      "slo": "Apply and interpret data visualization concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-207",
+      "q": "What is the range of the dataset [58, 8, 41, 56, 9]?",
+      "o": [
+        "50",
+        "172",
+        "58",
+        "8"
+      ],
+      "a": 0,
+      "e": "Range = 58 - 8 = 50.",
+      "d": "Medium",
+      "topic": "Descriptive Statistics",
+      "slo": "Apply and interpret descriptive statistics concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-208",
+      "q": "A bar chart records A=23, B=9, C=4. What percentage of the total belongs to A (one decimal place)?",
+      "o": [
+        "71.9%",
+        "25.0%",
+        "11.1%",
+        "63.9%"
+      ],
+      "a": 3,
+      "e": "Total=36; A contributes 100×23/36=63.9%.",
+      "d": "Medium",
+      "topic": "Data Visualization",
+      "slo": "Apply and interpret data visualization concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-209",
+      "q": "A model predicts 36, but the observed value is 54. What is the residual (observed minus predicted)?",
+      "o": [
+        "18",
+        "36",
+        "54",
+        "-18"
+      ],
+      "a": 0,
+      "e": "Residual = 54 - 36 = 18.",
+      "d": "Medium",
+      "topic": "Statistical Modeling",
+      "slo": "Apply and interpret statistical modeling concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-210",
+      "q": "A sample contains 84 responses. If 58 responses are marked “Yes”, how many are marked “No” when these are the only two choices?",
+      "o": [
+        "142",
+        "58",
+        "84",
+        "26"
+      ],
+      "a": 3,
+      "e": "No responses = 84-58=26.",
+      "d": "Medium",
+      "topic": "Data Collection",
+      "slo": "Apply and interpret data collection concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-211",
+      "q": "A pie chart has 14 items in group A and 4 in group B. What is the angle for group A (nearest 0.1°)?",
+      "o": [
+        "280.0°",
+        "0.8°",
+        "140.0°",
+        "80.0°"
+      ],
+      "a": 0,
+      "e": "Angle = 360°×14/18 = 280.0°.",
+      "d": "Medium",
+      "topic": "Data Visualization",
+      "slo": "Apply and interpret data visualization concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-212",
+      "q": "In a dataset of 67 observations, what is 25% of the total?",
+      "o": [
+        "92",
+        "16.75",
+        "17.75",
+        "50.25"
+      ],
+      "a": 1,
+      "e": "25% of 67 is 67×25/100=16.75.",
+      "d": "Medium",
+      "topic": "Data Collection",
+      "slo": "Apply and interpret data collection concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-213",
+      "q": "Why should chart scales be chosen carefully?",
+      "o": [
+        "Every graph must start at 100",
+        "Scales do not affect interpretation",
+        "Misleading scales can distort comparisons",
+        "Axes are optional for every plot"
+      ],
+      "a": 2,
+      "e": "Scale choices can exaggerate or hide differences.",
+      "d": "Easy",
+      "topic": "Data Visualization",
+      "slo": "Apply and interpret data visualization concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-214",
+      "q": "Four categories have frequencies [11, 6, 3, 20]. How many observations are represented in total?",
+      "o": [
+        "40",
+        "44",
+        "20",
+        "29"
+      ],
+      "a": 0,
+      "e": "Add all category frequencies: 11 + 6 + 3 + 20 = 40.",
+      "d": "Medium",
+      "topic": "Descriptive Statistics",
+      "slo": "Apply and interpret descriptive statistics concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-215",
+      "q": "A bar chart records A=14, B=7, C=12. What percentage of the total belongs to A (one decimal place)?",
+      "o": [
+        "21.2%",
+        "66.7%",
+        "36.4%",
+        "42.4%"
+      ],
+      "a": 3,
+      "e": "Total=33; A contributes 100×14/33=42.4%.",
+      "d": "Medium",
+      "topic": "Data Visualization",
+      "slo": "Apply and interpret data visualization concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-216",
+      "q": "A class survey in scenario 1 reports 19 responses in group X, 33 in group Y, and 20 in group Z. What is the total frequency?",
+      "o": [
+        "73",
+        "33",
+        "72",
+        "52"
+      ],
+      "a": 2,
+      "e": "Total frequency is 19+33+20=72.",
+      "d": "Medium",
+      "topic": "Descriptive Statistics",
+      "slo": "Apply and interpret descriptive statistics concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-217",
+      "q": "A line-chart series starts at 20 and increases by 8 at each of 16 subsequent time steps. What is its final value?",
+      "o": [
+        "140",
+        "37",
+        "148",
+        "156"
+      ],
+      "a": 2,
+      "e": "Final value = 20 + (17-1)×8 = 148.",
+      "d": "Medium",
+      "topic": "Data Visualization",
+      "slo": "Apply and interpret data visualization concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-218",
+      "q": "A sample contains 77 responses. If 9 responses are marked “Yes”, how many are marked “No” when these are the only two choices?",
+      "o": [
+        "9",
+        "77",
+        "86",
+        "68"
+      ],
+      "a": 3,
+      "e": "No responses = 77-9=68.",
+      "d": "Medium",
+      "topic": "Data Collection",
+      "slo": "Apply and interpret data collection concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-219",
+      "q": "Which variable is generally plotted on the vertical axis in a scatter plot?",
+      "o": [
+        "Dependent variable",
+        "Sample size",
+        "Chart title",
+        "Independent variable"
+      ],
+      "a": 0,
+      "e": "The response or dependent variable is usually shown on the y-axis.",
+      "d": "Easy",
+      "topic": "Statistical Modeling",
+      "slo": "Apply and interpret statistical modeling concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-220",
+      "q": "Which method can collect opinions from many respondents?",
+      "o": [
+        "Sorting algorithm",
+        "Questionnaire or survey",
+        "Program linker",
+        "Bar-chart legend"
+      ],
+      "a": 1,
+      "e": "Surveys collect responses to a set of questions.",
+      "d": "Easy",
+      "topic": "Data Collection",
+      "slo": "Apply and interpret data collection concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-221",
+      "q": "Four categories have frequencies [3, 10, 11, 2]. How many observations are represented in total?",
+      "o": [
+        "11",
+        "26",
+        "23",
+        "30"
+      ],
+      "a": 1,
+      "e": "Add all category frequencies: 3 + 10 + 11 + 2 = 26.",
+      "d": "Medium",
+      "topic": "Descriptive Statistics",
+      "slo": "Apply and interpret descriptive statistics concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-222",
+      "q": "A model predicts 57, but the observed value is 62. What is the residual (observed minus predicted)?",
+      "o": [
+        "62",
+        "-5",
+        "5",
+        "57"
+      ],
+      "a": 2,
+      "e": "Residual = 62 - 57 = 5.",
+      "d": "Medium",
+      "topic": "Statistical Modeling",
+      "slo": "Apply and interpret statistical modeling concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-223",
+      "q": "A line-chart series starts at 14 and increases by 4 at each of 4 subsequent time steps. What is its final value?",
+      "o": [
+        "26",
+        "34",
+        "30",
+        "19"
+      ],
+      "a": 2,
+      "e": "Final value = 14 + (5-1)×4 = 30.",
+      "d": "Medium",
+      "topic": "Data Visualization",
+      "slo": "Apply and interpret data visualization concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-224",
+      "q": "For data [13, 13, 13, 17], what is the population variance (divide squared deviations by 4; round to two decimals)?",
+      "o": [
+        "3.00",
+        "12.00",
+        "14.00",
+        "1.73"
+      ],
+      "a": 0,
+      "e": "The mean is 14. The average of four squared deviations is 3.00.",
+      "d": "Medium",
+      "topic": "Descriptive Statistics",
+      "slo": "Apply and interpret descriptive statistics concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-225",
+      "q": "Which is a quantitative variable?",
+      "o": [
+        "Height in centimeters",
+        "Blood group",
+        "Eye color",
+        "City name"
+      ],
+      "a": 0,
+      "e": "Height is measured numerically.",
+      "d": "Easy",
+      "topic": "Data Collection",
+      "slo": "Apply and interpret data collection concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-226",
+      "q": "Four categories have frequencies [19, 5, 4, 11]. How many observations are represented in total?",
+      "o": [
+        "19",
+        "20",
+        "43",
+        "39"
+      ],
+      "a": 3,
+      "e": "Add all category frequencies: 19 + 5 + 4 + 11 = 39.",
+      "d": "Medium",
+      "topic": "Descriptive Statistics",
+      "slo": "Apply and interpret descriptive statistics concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-227",
+      "q": "Find the median of these observations: 8, 11, 12, 32, 63.",
+      "o": [
+        "12",
+        "126",
+        "8",
+        "32"
+      ],
+      "a": 0,
+      "e": "The sorted list has five observations, so its third value (12) is the median.",
+      "d": "Medium",
+      "topic": "Descriptive Statistics",
+      "slo": "Apply and interpret descriptive statistics concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-228",
+      "q": "What does plt.title() set?",
+      "o": [
+        "X-axis values",
+        "Y-axis values",
+        "Number of observations",
+        "Chart title"
+      ],
+      "a": 3,
+      "e": "title sets text above the chart.",
+      "d": "Easy",
+      "topic": "Python Data Visualization",
+      "slo": "Apply and interpret python data visualization concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-229",
+      "q": "In a dataset of 72 observations, what is 20% of the total?",
+      "o": [
+        "57.6",
+        "15.4",
+        "14.4",
+        "92"
+      ],
+      "a": 2,
+      "e": "20% of 72 is 72×20/100=14.4.",
+      "d": "Medium",
+      "topic": "Data Collection",
+      "slo": "Apply and interpret data collection concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-230",
+      "q": "Which pyplot function commonly draws a pie chart?",
+      "o": [
+        "plt.scatter()",
+        "plt.xlabel()",
+        "plt.pie()",
+        "plt.plot()"
+      ],
+      "a": 2,
+      "e": "plt.pie creates sectors representing values.",
+      "d": "Easy",
+      "topic": "Python Data Visualization",
+      "slo": "Apply and interpret python data visualization concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-231",
+      "q": "What is a record in a tabular dataset?",
+      "o": [
+        "A Python module",
+        "A monitor cable",
+        "A chart axis",
+        "One row representing an observation"
+      ],
+      "a": 3,
+      "e": "A table row often corresponds to one observed case.",
+      "d": "Easy",
+      "topic": "Data Science",
+      "slo": "Apply and interpret data science concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-232",
+      "q": "In a survey, 55 of 69 students prefer an option. Approximately what percentage is that?",
+      "o": [
+        "0.8%",
+        "20.29%",
+        "125.45%",
+        "79.71%"
+      ],
+      "a": 3,
+      "e": "Percentage = (55/69) × 100 = 79.71%.",
+      "d": "Medium",
+      "topic": "Data Collection",
+      "slo": "Apply and interpret data collection concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-233",
+      "q": "For the five readings [10, 14, 25, 26, 6], what is the arithmetic mean?",
+      "o": [
+        "16.2",
+        "81",
+        "17.2",
+        "15.2"
+      ],
+      "a": 0,
+      "e": "The sum is 81; divide by 5 to obtain 16.2.",
+      "d": "Medium",
+      "topic": "Descriptive Statistics",
+      "slo": "Apply and interpret descriptive statistics concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-234",
+      "q": "What is a population in statistics?",
+      "o": [
+        "A graph legend",
+        "A software library",
+        "Only the selected respondents",
+        "The complete group of interest"
+      ],
+      "a": 3,
+      "e": "A population contains all units about which conclusions are sought.",
+      "d": "Easy",
+      "topic": "Data Collection",
+      "slo": "Apply and interpret data collection concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-235",
+      "q": "In y = mx + b, what does b represent?",
+      "o": [
+        "Y-intercept",
+        "Sample size",
+        "Slope",
+        "Residual"
+      ],
+      "a": 0,
+      "e": "The intercept is predicted y when x is zero.",
+      "d": "Easy",
+      "topic": "Statistical Modeling",
+      "slo": "Apply and interpret statistical modeling concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-236",
+      "q": "A sample contains 34 responses. If 26 responses are marked “Yes”, how many are marked “No” when these are the only two choices?",
+      "o": [
+        "34",
+        "8",
+        "26",
+        "60"
+      ],
+      "a": 1,
+      "e": "No responses = 34-26=8.",
+      "d": "Medium",
+      "topic": "Data Collection",
+      "slo": "Apply and interpret data collection concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-237",
+      "q": "In a dataset of 47 observations, what is 20% of the total?",
+      "o": [
+        "10.4",
+        "37.6",
+        "9.4",
+        "67"
+      ],
+      "a": 2,
+      "e": "20% of 47 is 47×20/100=9.4.",
+      "d": "Medium",
+      "topic": "Data Collection",
+      "slo": "Apply and interpret data collection concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-238",
+      "q": "What is data preprocessing?",
+      "o": [
+        "Destroying the original source",
+        "Printing charts only",
+        "Preparing raw data for analysis or modeling",
+        "Switching off the database"
+      ],
+      "a": 2,
+      "e": "Preprocessing includes cleaning, transforming and organizing data.",
+      "d": "Easy",
+      "topic": "Data Science",
+      "slo": "Apply and interpret data science concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-239",
+      "q": "In a dataset of 54 observations, what is 25% of the total?",
+      "o": [
+        "79",
+        "14.5",
+        "13.5",
+        "40.5"
+      ],
+      "a": 2,
+      "e": "25% of 54 is 54×25/100=13.5.",
+      "d": "Medium",
+      "topic": "Data Collection",
+      "slo": "Apply and interpret data collection concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-240",
+      "q": "What is a dashboard?",
+      "o": [
+        "A display combining important metrics and visualizations",
+        "A computer cooling fan",
+        "A single arithmetic operator",
+        "A sorting algorithm"
+      ],
+      "a": 0,
+      "e": "Dashboards bring related measures together for monitoring.",
+      "d": "Easy",
+      "topic": "Data Visualization",
+      "slo": "Apply and interpret data visualization concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-241",
+      "q": "A line passes through (5, 39) and (11, 99). What is its slope?",
+      "o": [
+        "16",
+        "10",
+        "11",
+        "6"
+      ],
+      "a": 1,
+      "e": "Slope = (99-39)/(11-5) = 10.",
+      "d": "Medium",
+      "topic": "Statistical Modeling",
+      "slo": "Apply and interpret statistical modeling concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-242",
+      "q": "What does a frequency table display?",
+      "o": [
+        "How often values or categories occur",
+        "Only network addresses",
+        "Only Python errors",
+        "The order of CPU instructions"
+      ],
+      "a": 0,
+      "e": "Frequency tables count occurrences.",
+      "d": "Easy",
+      "topic": "Descriptive Statistics",
+      "slo": "Apply and interpret descriptive statistics concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-243",
+      "q": "What is sampling?",
+      "o": [
+        "Drawing a line graph",
+        "Replacing missing values with text",
+        "Running a compiler",
+        "Selecting units from a population for study"
+      ],
+      "a": 3,
+      "e": "Sampling chooses observations from a population.",
+      "d": "Easy",
+      "topic": "Data Collection",
+      "slo": "Apply and interpret data collection concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-244",
+      "q": "For the five readings [26, 20, 16, 25, 20], what is the arithmetic mean?",
+      "o": [
+        "21.4",
+        "107",
+        "20.4",
+        "22.4"
+      ],
+      "a": 0,
+      "e": "The sum is 107; divide by 5 to obtain 21.4.",
+      "d": "Medium",
+      "topic": "Descriptive Statistics",
+      "slo": "Apply and interpret descriptive statistics concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-245",
+      "q": "What does a correlation coefficient near +1 suggest?",
+      "o": [
+        "Strong positive linear relationship",
+        "A categorical variable",
+        "Strong negative linear relationship",
+        "No linear relationship"
+      ],
+      "a": 0,
+      "e": "Values near +1 indicate strong positive linear association.",
+      "d": "Easy",
+      "topic": "Statistical Modeling",
+      "slo": "Apply and interpret statistical modeling concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-246",
+      "q": "Find the median of these observations: 13, 14, 26, 44, 47.",
+      "o": [
+        "13",
+        "44",
+        "144",
+        "26"
+      ],
+      "a": 3,
+      "e": "The sorted list has five observations, so its third value (26) is the median.",
+      "d": "Medium",
+      "topic": "Descriptive Statistics",
+      "slo": "Apply and interpret descriptive statistics concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-247",
+      "q": "A pie chart has 7 items in group A and 13 in group B. What is the angle for group A (nearest 0.1°)?",
+      "o": [
+        "126.0°",
+        "234.0°",
+        "0.3°",
+        "63.0°"
+      ],
+      "a": 0,
+      "e": "Angle = 360°×7/20 = 126.0°.",
+      "d": "Medium",
+      "topic": "Data Visualization",
+      "slo": "Apply and interpret data visualization concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-248",
+      "q": "For data [1, 4, 10, 2], what is the population variance (divide squared deviations by 4; round to two decimals)?",
+      "o": [
+        "4.25",
+        "3.49",
+        "48.75",
+        "12.19"
+      ],
+      "a": 3,
+      "e": "The mean is 4.25. The average of four squared deviations is 12.19.",
+      "d": "Medium",
+      "topic": "Descriptive Statistics",
+      "slo": "Apply and interpret descriptive statistics concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-249",
+      "q": "A line-chart series starts at 11 and increases by 7 at each of 11 subsequent time steps. What is its final value?",
+      "o": [
+        "88",
+        "95",
+        "23",
+        "81"
+      ],
+      "a": 0,
+      "e": "Final value = 11 + (12-1)×7 = 88.",
+      "d": "Medium",
+      "topic": "Data Visualization",
+      "slo": "Apply and interpret data visualization concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-250",
+      "q": "Four categories have frequencies [18, 20, 2, 6]. How many observations are represented in total?",
+      "o": [
+        "46",
+        "28",
+        "50",
+        "20"
+      ],
+      "a": 0,
+      "e": "Add all category frequencies: 18 + 20 + 2 + 6 = 46.",
+      "d": "Medium",
+      "topic": "Descriptive Statistics",
+      "slo": "Apply and interpret descriptive statistics concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-251",
+      "q": "A fitted regression line is y = 6x + 2. What value does it predict when x = 13?",
+      "o": [
+        "80",
+        "82",
+        "86",
+        "74"
+      ],
+      "a": 0,
+      "e": "Substitute x=13: y=6(13)+2=80.",
+      "d": "Medium",
+      "topic": "Statistical Modeling",
+      "slo": "Apply and interpret statistical modeling concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-252",
+      "q": "What is the range of the dataset [60, 41, 48, 35, 54]?",
+      "o": [
+        "60",
+        "238",
+        "35",
+        "25"
+      ],
+      "a": 3,
+      "e": "Range = 60 - 35 = 25.",
+      "d": "Medium",
+      "topic": "Descriptive Statistics",
+      "slo": "Apply and interpret descriptive statistics concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-253",
+      "q": "In a frequency table, category A occurs 8 times, B occurs 5 times, and C occurs 3 times. Which category is the mode?",
+      "o": [
+        "C",
+        "B",
+        "A",
+        "No mode"
+      ],
+      "a": 2,
+      "e": "The modal category has the greatest frequency; here it is A.",
+      "d": "Medium",
+      "topic": "Descriptive Statistics",
+      "slo": "Apply and interpret descriptive statistics concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-254",
+      "q": "A pie chart has 2 items in group A and 14 in group B. What is the angle for group A (nearest 0.1°)?",
+      "o": [
+        "22.5°",
+        "315.0°",
+        "45.0°",
+        "0.1°"
+      ],
+      "a": 2,
+      "e": "Angle = 360°×2/16 = 45.0°.",
+      "d": "Medium",
+      "topic": "Data Visualization",
+      "slo": "Apply and interpret data visualization concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-255",
+      "q": "Which is an example of secondary data?",
+      "o": [
+        "A dataset obtained from a published government report",
+        "Responses to your own new questionnaire",
+        "Readings from your own sensor",
+        "Measurements you personally record today"
+      ],
+      "a": 0,
+      "e": "Secondary data already exist from another source.",
+      "d": "Easy",
+      "topic": "Data Collection",
+      "slo": "Apply and interpret data collection concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-256",
+      "q": "A line passes through (3, 12) and (9, 66). What is its slope?",
+      "o": [
+        "9",
+        "15",
+        "10",
+        "6"
+      ],
+      "a": 0,
+      "e": "Slope = (66-12)/(9-3) = 9.",
+      "d": "Medium",
+      "topic": "Statistical Modeling",
+      "slo": "Apply and interpret statistical modeling concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-257",
+      "q": "Find the median of these observations: 5, 32, 41, 43, 48.",
+      "o": [
+        "43",
+        "169",
+        "5",
+        "41"
+      ],
+      "a": 3,
+      "e": "The sorted list has five observations, so its third value (41) is the median.",
+      "d": "Medium",
+      "topic": "Descriptive Statistics",
+      "slo": "Apply and interpret descriptive statistics concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-258",
+      "q": "Find the median of these observations: 16, 25, 39, 45, 59.",
+      "o": [
+        "45",
+        "184",
+        "39",
+        "16"
+      ],
+      "a": 2,
+      "e": "The sorted list has five observations, so its third value (39) is the median.",
+      "d": "Medium",
+      "topic": "Descriptive Statistics",
+      "slo": "Apply and interpret descriptive statistics concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-259",
+      "q": "What is variance?",
+      "o": [
+        "A chart label",
+        "Average squared deviation with an appropriate denominator",
+        "The most frequent category",
+        "The largest value only"
+      ],
+      "a": 1,
+      "e": "Variance is based on squared deviations from the mean.",
+      "d": "Easy",
+      "topic": "Descriptive Statistics",
+      "slo": "Apply and interpret descriptive statistics concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-260",
+      "q": "A line passes through (8, 34) and (15, 118). What is its slope?",
+      "o": [
+        "19",
+        "13",
+        "7",
+        "12"
+      ],
+      "a": 3,
+      "e": "Slope = (118-34)/(15-8) = 12.",
+      "d": "Medium",
+      "topic": "Statistical Modeling",
+      "slo": "Apply and interpret statistical modeling concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-261",
+      "q": "What does standard deviation describe?",
+      "o": [
+        "The dataset title",
+        "The first recorded value",
+        "Typical spread around the mean",
+        "Only the number of categories"
+      ],
+      "a": 2,
+      "e": "Standard deviation quantifies variability around the mean.",
+      "d": "Easy",
+      "topic": "Descriptive Statistics",
+      "slo": "Apply and interpret descriptive statistics concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-262",
+      "q": "A line passes through (2, 32) and (7, 97). What is its slope?",
+      "o": [
+        "18",
+        "5",
+        "13",
+        "14"
+      ],
+      "a": 2,
+      "e": "Slope = (97-32)/(7-2) = 13.",
+      "d": "Medium",
+      "topic": "Statistical Modeling",
+      "slo": "Apply and interpret statistical modeling concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-263",
+      "q": "A fitted regression line is y = 3x + 2. What value does it predict when x = 10?",
+      "o": [
+        "35",
+        "34",
+        "29",
+        "32"
+      ],
+      "a": 3,
+      "e": "Substitute x=10: y=3(10)+2=32.",
+      "d": "Medium",
+      "topic": "Statistical Modeling",
+      "slo": "Apply and interpret statistical modeling concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-264",
+      "q": "A line passes through (5, 36) and (10, 66). What is its slope?",
+      "o": [
+        "6",
+        "5",
+        "7",
+        "11"
+      ],
+      "a": 0,
+      "e": "Slope = (66-36)/(10-5) = 6.",
+      "d": "Medium",
+      "topic": "Statistical Modeling",
+      "slo": "Apply and interpret statistical modeling concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-265",
+      "q": "Which chart is suitable for showing change over time?",
+      "o": [
+        "Line chart",
+        "Pie chart only",
+        "Flowchart only",
+        "Venn diagram only"
+      ],
+      "a": 0,
+      "e": "Line charts connect ordered observations, often across time.",
+      "d": "Easy",
+      "topic": "Data Visualization",
+      "slo": "Apply and interpret data visualization concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-266",
+      "q": "For the five readings [29, 20, 18, 8, 11], what is the arithmetic mean?",
+      "o": [
+        "17.2",
+        "86",
+        "18.2",
+        "16.2"
+      ],
+      "a": 0,
+      "e": "The sum is 86; divide by 5 to obtain 17.2.",
+      "d": "Medium",
+      "topic": "Descriptive Statistics",
+      "slo": "Apply and interpret descriptive statistics concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-267",
+      "q": "For data [7, 18, 5, 16], what is the population variance (divide squared deviations by 4; round to two decimals)?",
+      "o": [
+        "125.00",
+        "5.59",
+        "11.50",
+        "31.25"
+      ],
+      "a": 3,
+      "e": "The mean is 11.5. The average of four squared deviations is 31.25.",
+      "d": "Medium",
+      "topic": "Descriptive Statistics",
+      "slo": "Apply and interpret descriptive statistics concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-268",
+      "q": "Four categories have frequencies [15, 17, 4, 3]. How many observations are represented in total?",
+      "o": [
+        "24",
+        "43",
+        "17",
+        "39"
+      ],
+      "a": 3,
+      "e": "Add all category frequencies: 15 + 17 + 4 + 3 = 39.",
+      "d": "Medium",
+      "topic": "Descriptive Statistics",
+      "slo": "Apply and interpret descriptive statistics concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-269",
+      "q": "For data [15, 14, 6, 12], what is the population variance (divide squared deviations by 4; round to two decimals)?",
+      "o": [
+        "48.75",
+        "3.49",
+        "11.75",
+        "12.19"
+      ],
+      "a": 3,
+      "e": "The mean is 11.75. The average of four squared deviations is 12.19.",
+      "d": "Medium",
+      "topic": "Descriptive Statistics",
+      "slo": "Apply and interpret descriptive statistics concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-270",
+      "q": "A line-chart series starts at 10 and increases by 6 at each of 17 subsequent time steps. What is its final value?",
+      "o": [
+        "28",
+        "106",
+        "118",
+        "112"
+      ],
+      "a": 3,
+      "e": "Final value = 10 + (18-1)×6 = 112.",
+      "d": "Medium",
+      "topic": "Data Visualization",
+      "slo": "Apply and interpret data visualization concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-271",
+      "q": "For the five readings [27, 5, 7, 24, 26], what is the arithmetic mean?",
+      "o": [
+        "89",
+        "17.8",
+        "18.8",
+        "16.8"
+      ],
+      "a": 1,
+      "e": "The sum is 89; divide by 5 to obtain 17.8.",
+      "d": "Medium",
+      "topic": "Descriptive Statistics",
+      "slo": "Apply and interpret descriptive statistics concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-272",
+      "q": "Find the median of these observations: 3, 7, 14, 39, 52.",
+      "o": [
+        "115",
+        "14",
+        "3",
+        "39"
+      ],
+      "a": 1,
+      "e": "The sorted list has five observations, so its third value (14) is the median.",
+      "d": "Medium",
+      "topic": "Descriptive Statistics",
+      "slo": "Apply and interpret descriptive statistics concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-273",
+      "q": "What is an outlier?",
+      "o": [
+        "The median in every dataset",
+        "A compulsory data type",
+        "An observation unusually far from most others",
+        "The first row of a table"
+      ],
+      "a": 2,
+      "e": "Outliers differ markedly from the rest of the data.",
+      "d": "Easy",
+      "topic": "Statistical Modeling",
+      "slo": "Apply and interpret statistical modeling concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-274",
+      "q": "A sample contains 47 responses. If 11 responses are marked “Yes”, how many are marked “No” when these are the only two choices?",
+      "o": [
+        "36",
+        "11",
+        "47",
+        "58"
+      ],
+      "a": 0,
+      "e": "No responses = 47-11=36.",
+      "d": "Medium",
+      "topic": "Data Collection",
+      "slo": "Apply and interpret data collection concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-275",
+      "q": "What is a sample?",
+      "o": [
+        "A network protocol",
+        "A subset selected from a population",
+        "A chart title",
+        "Every member of a population by definition"
+      ],
+      "a": 1,
+      "e": "Samples are subsets used to study a wider population.",
+      "d": "Easy",
+      "topic": "Data Collection",
+      "slo": "Apply and interpret data collection concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-276",
+      "q": "A line passes through (6, 24) and (8, 46). What is its slope?",
+      "o": [
+        "12",
+        "13",
+        "2",
+        "11"
+      ],
+      "a": 3,
+      "e": "Slope = (46-24)/(8-6) = 11.",
+      "d": "Medium",
+      "topic": "Statistical Modeling",
+      "slo": "Apply and interpret statistical modeling concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-277",
+      "q": "Which pyplot function commonly draws a line chart?",
+      "o": [
+        "plt.pie()",
+        "plt.hist()",
+        "plt.plot()",
+        "plt.bar()"
+      ],
+      "a": 2,
+      "e": "plt.plot draws line plots by default.",
+      "d": "Easy",
+      "topic": "Python Data Visualization",
+      "slo": "Apply and interpret python data visualization concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-278",
+      "q": "A pie chart has 7 items in group A and 6 in group B. What is the angle for group A (nearest 0.1°)?",
+      "o": [
+        "0.5°",
+        "166.2°",
+        "193.8°",
+        "96.9°"
+      ],
+      "a": 2,
+      "e": "Angle = 360°×7/13 = 193.8°.",
+      "d": "Medium",
+      "topic": "Data Visualization",
+      "slo": "Apply and interpret data visualization concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-279",
+      "q": "A model predicts 54, but the observed value is 68. What is the residual (observed minus predicted)?",
+      "o": [
+        "68",
+        "-14",
+        "54",
+        "14"
+      ],
+      "a": 3,
+      "e": "Residual = 68 - 54 = 14.",
+      "d": "Medium",
+      "topic": "Statistical Modeling",
+      "slo": "Apply and interpret statistical modeling concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-280",
+      "q": "What is a discrete quantitative variable?",
+      "o": [
+        "A continuous length measurement",
+        "A file name",
+        "A descriptive label",
+        "A count taking separate values"
+      ],
+      "a": 3,
+      "e": "Counts such as number of students are discrete.",
+      "d": "Easy",
+      "topic": "Data Collection",
+      "slo": "Apply and interpret data collection concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-281",
+      "q": "For the five readings [30, 27, 16, 5, 12], what is the arithmetic mean?",
+      "o": [
+        "90",
+        "18",
+        "19",
+        "17"
+      ],
+      "a": 1,
+      "e": "The sum is 90; divide by 5 to obtain 18.",
+      "d": "Medium",
+      "topic": "Descriptive Statistics",
+      "slo": "Apply and interpret descriptive statistics concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-282",
+      "q": "A line-chart series starts at 12 and increases by 4 at each of 14 subsequent time steps. What is its final value?",
+      "o": [
+        "64",
+        "72",
+        "27",
+        "68"
+      ],
+      "a": 3,
+      "e": "Final value = 12 + (15-1)×4 = 68.",
+      "d": "Medium",
+      "topic": "Data Visualization",
+      "slo": "Apply and interpret data visualization concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-283",
+      "q": "A sample contains 88 responses. If 66 responses are marked “Yes”, how many are marked “No” when these are the only two choices?",
+      "o": [
+        "22",
+        "66",
+        "154",
+        "88"
+      ],
+      "a": 0,
+      "e": "No responses = 88-66=22.",
+      "d": "Medium",
+      "topic": "Data Collection",
+      "slo": "Apply and interpret data collection concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-284",
+      "q": "A model predicts 29, but the observed value is 32. What is the residual (observed minus predicted)?",
+      "o": [
+        "29",
+        "-3",
+        "32",
+        "3"
+      ],
+      "a": 3,
+      "e": "Residual = 32 - 29 = 3.",
+      "d": "Medium",
+      "topic": "Statistical Modeling",
+      "slo": "Apply and interpret statistical modeling concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-285",
+      "q": "In a frequency table, category A occurs 6 times, B occurs 7 times, and C occurs 3 times. Which category is the mode?",
+      "o": [
+        "C",
+        "A",
+        "No mode",
+        "B"
+      ],
+      "a": 3,
+      "e": "The modal category has the greatest frequency; here it is B.",
+      "d": "Medium",
+      "topic": "Descriptive Statistics",
+      "slo": "Apply and interpret descriptive statistics concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-286",
+      "q": "A fitted regression line is y = 18x + 2. What value does it predict when x = 5?",
+      "o": [
+        "110",
+        "94",
+        "74",
+        "92"
+      ],
+      "a": 3,
+      "e": "Substitute x=5: y=18(5)+2=92.",
+      "d": "Medium",
+      "topic": "Statistical Modeling",
+      "slo": "Apply and interpret statistical modeling concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-287",
+      "q": "In a dataset of 65 observations, what is 25% of the total?",
+      "o": [
+        "17.25",
+        "90",
+        "16.25",
+        "48.75"
+      ],
+      "a": 2,
+      "e": "25% of 65 is 65×25/100=16.25.",
+      "d": "Medium",
+      "topic": "Data Collection",
+      "slo": "Apply and interpret data collection concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-288",
+      "q": "Which chart is suitable for comparing categories?",
+      "o": [
+        "Bar chart",
+        "Flowchart decision diamond",
+        "Scatter plot of paired measurements",
+        "Line of code"
+      ],
+      "a": 0,
+      "e": "Bar charts compare quantities across categories.",
+      "d": "Easy",
+      "topic": "Data Visualization",
+      "slo": "Apply and interpret data visualization concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-289",
+      "q": "In a frequency table, category A occurs 11 times, B occurs 3 times, and C occurs 2 times. Which category is the mode?",
+      "o": [
+        "C",
+        "B",
+        "A",
+        "No mode"
+      ],
+      "a": 2,
+      "e": "The modal category has the greatest frequency; here it is A.",
+      "d": "Medium",
+      "topic": "Descriptive Statistics",
+      "slo": "Apply and interpret descriptive statistics concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-290",
+      "q": "What is the mean of a dataset?",
+      "o": [
+        "The middle item regardless of sorting",
+        "The most frequent value",
+        "The largest minus smallest value",
+        "Sum of values divided by their count"
+      ],
+      "a": 3,
+      "e": "The arithmetic mean is total divided by number of observations.",
+      "d": "Easy",
+      "topic": "Descriptive Statistics",
+      "slo": "Apply and interpret descriptive statistics concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-291",
+      "q": "A model predicts 39, but the observed value is 46. What is the residual (observed minus predicted)?",
+      "o": [
+        "46",
+        "7",
+        "39",
+        "-7"
+      ],
+      "a": 1,
+      "e": "Residual = 46 - 39 = 7.",
+      "d": "Medium",
+      "topic": "Statistical Modeling",
+      "slo": "Apply and interpret statistical modeling concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-292",
+      "q": "For the five readings [22, 6, 30, 30, 8], what is the arithmetic mean?",
+      "o": [
+        "20.2",
+        "96",
+        "19.2",
+        "18.2"
+      ],
+      "a": 2,
+      "e": "The sum is 96; divide by 5 to obtain 19.2.",
+      "d": "Medium",
+      "topic": "Descriptive Statistics",
+      "slo": "Apply and interpret descriptive statistics concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-293",
+      "q": "A line-chart series starts at 15 and increases by 6 at each of 6 subsequent time steps. What is its final value?",
+      "o": [
+        "45",
+        "51",
+        "22",
+        "57"
+      ],
+      "a": 1,
+      "e": "Final value = 15 + (7-1)×6 = 51.",
+      "d": "Medium",
+      "topic": "Data Visualization",
+      "slo": "Apply and interpret data visualization concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-294",
+      "q": "In a survey, 14 of 46 students prefer an option. Approximately what percentage is that?",
+      "o": [
+        "0.3%",
+        "69.57%",
+        "30.43%",
+        "328.57%"
+      ],
+      "a": 2,
+      "e": "Percentage = (14/46) × 100 = 30.43%.",
+      "d": "Medium",
+      "topic": "Data Collection",
+      "slo": "Apply and interpret data collection concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-295",
+      "q": "Which chart displays parts of a whole as sectors?",
+      "o": [
+        "Box plot",
+        "Histogram",
+        "Scatter plot",
+        "Pie chart"
+      ],
+      "a": 3,
+      "e": "Pie sectors show proportions of a total.",
+      "d": "Easy",
+      "topic": "Data Visualization",
+      "slo": "Apply and interpret data visualization concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-296",
+      "q": "In a dataset of 72 observations, what is 25% of the total?",
+      "o": [
+        "54",
+        "19",
+        "18",
+        "97"
+      ],
+      "a": 2,
+      "e": "25% of 72 is 72×25/100=18.",
+      "d": "Medium",
+      "topic": "Data Collection",
+      "slo": "Apply and interpret data collection concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-297",
+      "q": "For data [14, 14, 12, 6], what is the population variance (divide squared deviations by 4; round to two decimals)?",
+      "o": [
+        "3.28",
+        "11.50",
+        "43.00",
+        "10.75"
+      ],
+      "a": 3,
+      "e": "The mean is 11.5. The average of four squared deviations is 10.75.",
+      "d": "Medium",
+      "topic": "Descriptive Statistics",
+      "slo": "Apply and interpret descriptive statistics concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-298",
+      "q": "A model predicts 34, but the observed value is 36. What is the residual (observed minus predicted)?",
+      "o": [
+        "-2",
+        "36",
+        "2",
+        "34"
+      ],
+      "a": 2,
+      "e": "Residual = 36 - 34 = 2.",
+      "d": "Medium",
+      "topic": "Statistical Modeling",
+      "slo": "Apply and interpret statistical modeling concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-299",
+      "q": "In a dataset of 70 observations, what is 40% of the total?",
+      "o": [
+        "42",
+        "110",
+        "29",
+        "28"
+      ],
+      "a": 3,
+      "e": "40% of 70 is 70×40/100=28.",
+      "d": "Medium",
+      "topic": "Data Collection",
+      "slo": "Apply and interpret data collection concepts in data and analysis."
+    },
+    {
+      "id": "CS11CH04-300",
+      "q": "Find the median of these observations: 8, 20, 23, 30, 38.",
+      "o": [
+        "23",
+        "30",
+        "119",
+        "8"
+      ],
+      "a": 0,
+      "e": "The sorted list has five observations, so its third value (23) is the median.",
+      "d": "Medium",
+      "topic": "Descriptive Statistics",
+      "slo": "Apply and interpret descriptive statistics concepts in data and analysis."
+    }
+  ]
+}

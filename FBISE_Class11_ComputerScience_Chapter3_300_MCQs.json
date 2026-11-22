@@ -1,0 +1,4504 @@
+{
+  "questions": [
+    {
+      "id": "CS11CH03-001",
+      "q": "What is a nested loop?",
+      "o": [
+        "A function without arguments",
+        "A loop inside another loop",
+        "A list with one element",
+        "A string with spaces"
+      ],
+      "a": 1,
+      "e": "Nested loops place one iteration structure inside another.",
+      "d": "Medium",
+      "topic": "Control Structures",
+      "slo": "Understand and apply control structures concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-002",
+      "q": "Which operation normally has higher precedence, multiplication or addition?",
+      "o": [
+        "Multiplication",
+        "Neither is supported",
+        "Addition",
+        "Both are always left-to-right equally"
+      ],
+      "a": 0,
+      "e": "Multiplication is evaluated before addition unless grouped otherwise.",
+      "d": "Medium",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-003",
+      "q": "Can a Python identifier begin with a digit?",
+      "o": [
+        "Only inside print()",
+        "Only if it ends with a digit",
+        "No",
+        "Yes always"
+      ],
+      "a": 2,
+      "e": "Python identifiers cannot start with a numeral.",
+      "d": "Medium",
+      "topic": "Python Variables",
+      "slo": "Understand and apply python variables concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-004",
+      "q": "Is Python case-sensitive for variable names?",
+      "o": [
+        "No",
+        "Only inside comments",
+        "Only for integers",
+        "Yes"
+      ],
+      "a": 3,
+      "e": "Name and name are distinct only if letter case differs, such as Age and age.",
+      "d": "Medium",
+      "topic": "Python Variables",
+      "slo": "Understand and apply python variables concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-005",
+      "q": "What is the value of the Python expression 16 * 4?",
+      "o": [
+        "64",
+        "66",
+        "63",
+        "65"
+      ],
+      "a": 0,
+      "e": "Python evaluates 16 * 4 to 64.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-006",
+      "q": "What is the value of the Python expression 17 % 5?",
+      "o": [
+        "4",
+        "3",
+        "1",
+        "2"
+      ],
+      "a": 3,
+      "e": "Python evaluates 17 % 5 to 2.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-007",
+      "q": "What is the value of the Python expression 18 * 8?",
+      "o": [
+        "146",
+        "143",
+        "145",
+        "144"
+      ],
+      "a": 3,
+      "e": "Python evaluates 18 * 8 to 144.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-008",
+      "q": "What is the value of the Python expression 9 ** 2?",
+      "o": [
+        "80",
+        "81",
+        "82",
+        "83"
+      ],
+      "a": 1,
+      "e": "Python evaluates 9 ** 2 to 81.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-009",
+      "q": "What is the value of the Python expression 9 + 3?",
+      "o": [
+        "14",
+        "11",
+        "12",
+        "13"
+      ],
+      "a": 2,
+      "e": "Python evaluates 9 + 3 to 12.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-010",
+      "q": "What is the value of the Python expression 11 // 10?",
+      "o": [
+        "1",
+        "0",
+        "2",
+        "3"
+      ],
+      "a": 0,
+      "e": "Python evaluates 11 // 10 to 1.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-011",
+      "q": "What is the value of the Python expression 10 * 4?",
+      "o": [
+        "42",
+        "39",
+        "41",
+        "40"
+      ],
+      "a": 3,
+      "e": "Python evaluates 10 * 4 to 40.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-012",
+      "q": "What is the value of the Python expression 6 * 8?",
+      "o": [
+        "50",
+        "49",
+        "47",
+        "48"
+      ],
+      "a": 3,
+      "e": "Python evaluates 6 * 8 to 48.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-013",
+      "q": "What is the result of assigning x = 5 followed by x = 8?",
+      "o": [
+        "A syntax error",
+        "x is 5",
+        "x is 13",
+        "x is 8"
+      ],
+      "a": 3,
+      "e": "The second assignment replaces the previous binding.",
+      "d": "Medium",
+      "topic": "Python Variables",
+      "slo": "Understand and apply python variables concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-014",
+      "q": "What is the value of the Python expression 23 // 4?",
+      "o": [
+        "7",
+        "6",
+        "5",
+        "4"
+      ],
+      "a": 2,
+      "e": "Python evaluates 23 // 4 to 5.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-015",
+      "q": "Which symbol may appear inside a Python identifier?",
+      "o": [
+        "Question mark (?)",
+        "Underscore (_)",
+        "Hyphen (-)",
+        "Space"
+      ],
+      "a": 1,
+      "e": "Underscores are allowed in variable names.",
+      "d": "Medium",
+      "topic": "Python Variables",
+      "slo": "Understand and apply python variables concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-016",
+      "q": "What is the value of the Python expression 5 - 2?",
+      "o": [
+        "5",
+        "2",
+        "4",
+        "3"
+      ],
+      "a": 3,
+      "e": "Python evaluates 5 - 2 to 3.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-017",
+      "q": "What is the value of the Python expression 22 * 10?",
+      "o": [
+        "222",
+        "219",
+        "220",
+        "221"
+      ],
+      "a": 2,
+      "e": "Python evaluates 22 * 10 to 220.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-018",
+      "q": "Why are high-level languages useful?",
+      "o": [
+        "They are easier for humans to read and write",
+        "They remove the need for hardware",
+        "They are always faster than machine code",
+        "They cannot contain errors"
+      ],
+      "a": 0,
+      "e": "High-level syntax makes programs more understandable.",
+      "d": "Easy",
+      "topic": "Computer Programs",
+      "slo": "Understand and apply computer programs concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-019",
+      "q": "Which Python operator performs true division?",
+      "o": [
+        "/",
+        "**",
+        "//",
+        "%"
+      ],
+      "a": 0,
+      "e": "/ performs division and returns a float for numeric operands.",
+      "d": "Medium",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-020",
+      "q": "What is a logical error?",
+      "o": [
+        "A missing colon always",
+        "A disconnected printer",
+        "A broken screen",
+        "Code runs but produces an incorrect result"
+      ],
+      "a": 3,
+      "e": "Logical errors cause incorrect behavior without necessarily stopping execution.",
+      "d": "Medium",
+      "topic": "Debugging and Errors",
+      "slo": "Understand and apply debugging and errors concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-021",
+      "q": "What is the value of the Python expression 14 + 4?",
+      "o": [
+        "18",
+        "19",
+        "17",
+        "20"
+      ],
+      "a": 0,
+      "e": "Python evaluates 14 + 4 to 18.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-022",
+      "q": "What does str(25) return?",
+      "o": [
+        "True",
+        "25 as an integer",
+        "25.0",
+        "'25'"
+      ],
+      "a": 3,
+      "e": "str converts a value to its text representation.",
+      "d": "Medium",
+      "topic": "Python Variables",
+      "slo": "Understand and apply python variables concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-023",
+      "q": "What is the value of the Python expression 10 * 7?",
+      "o": [
+        "70",
+        "72",
+        "69",
+        "71"
+      ],
+      "a": 0,
+      "e": "Python evaluates 10 * 7 to 70.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-024",
+      "q": "What does != test in Python?",
+      "o": [
+        "Whether one is assigned",
+        "Whether two values are equal",
+        "Whether code is commented",
+        "Whether two values are not equal"
+      ],
+      "a": 3,
+      "e": "!= means not equal.",
+      "d": "Medium",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-025",
+      "q": "What is the value of the Python expression 15 * 5?",
+      "o": [
+        "75",
+        "77",
+        "76",
+        "74"
+      ],
+      "a": 0,
+      "e": "Python evaluates 15 * 5 to 75.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-026",
+      "q": "How can an input string containing a whole number be converted?",
+      "o": [
+        "str(input())",
+        "int(input())",
+        "type(input())",
+        "print(input())"
+      ],
+      "a": 1,
+      "e": "int converts suitable input text to an integer.",
+      "d": "Easy",
+      "topic": "Input and Output",
+      "slo": "Understand and apply input and output concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-027",
+      "q": "Which function produces a sequence of integer values for iteration?",
+      "o": [
+        "str()",
+        "range()",
+        "type()",
+        "print()"
+      ],
+      "a": 1,
+      "e": "range creates an integer progression.",
+      "d": "Medium",
+      "topic": "Functions",
+      "slo": "Understand and apply functions concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-028",
+      "q": "What is the value of the Python expression 4 + 2?",
+      "o": [
+        "8",
+        "7",
+        "5",
+        "6"
+      ],
+      "a": 3,
+      "e": "Python evaluates 4 + 2 to 6.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-029",
+      "q": "What is the value of the Python expression 18 % 4?",
+      "o": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "a": 1,
+      "e": "Python evaluates 18 % 4 to 2.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-030",
+      "q": "What is the value of the Python expression 16 - 3?",
+      "o": [
+        "12",
+        "15",
+        "14",
+        "13"
+      ],
+      "a": 3,
+      "e": "Python evaluates 16 - 3 to 13.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-031",
+      "q": "What is the value of the Python expression 20 % 8?",
+      "o": [
+        "6",
+        "5",
+        "3",
+        "4"
+      ],
+      "a": 3,
+      "e": "Python evaluates 20 % 8 to 4.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-032",
+      "q": "What is the value of the Python expression 16 + 2?",
+      "o": [
+        "19",
+        "17",
+        "20",
+        "18"
+      ],
+      "a": 3,
+      "e": "Python evaluates 16 + 2 to 18.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-033",
+      "q": "When is a Boolean or expression true?",
+      "o": [
+        "Only when both operands are false",
+        "Never",
+        "When at least one operand is true",
+        "Only for strings"
+      ],
+      "a": 2,
+      "e": "Logical or is true if at least one condition is true.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-034",
+      "q": "What is the value of the Python expression 22 + 8?",
+      "o": [
+        "30",
+        "31",
+        "32",
+        "29"
+      ],
+      "a": 0,
+      "e": "Python evaluates 22 + 8 to 30.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-035",
+      "q": "What is the value of the Python expression 18 + 6?",
+      "o": [
+        "26",
+        "25",
+        "23",
+        "24"
+      ],
+      "a": 3,
+      "e": "Python evaluates 18 + 6 to 24.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-036",
+      "q": "What is the value of the Python expression 6 % 10?",
+      "o": [
+        "7",
+        "6",
+        "8",
+        "5"
+      ],
+      "a": 1,
+      "e": "Python evaluates 6 % 10 to 6.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-037",
+      "q": "What is the value of the Python expression 12 + 6?",
+      "o": [
+        "20",
+        "19",
+        "18",
+        "17"
+      ],
+      "a": 2,
+      "e": "Python evaluates 12 + 6 to 18.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-038",
+      "q": "What is the value of the Python expression 7 - 6?",
+      "o": [
+        "1",
+        "0",
+        "2",
+        "3"
+      ],
+      "a": 0,
+      "e": "Python evaluates 7 - 6 to 1.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-039",
+      "q": "What is the value of the Python expression 21 % 7?",
+      "o": [
+        "-1",
+        "0",
+        "1",
+        "2"
+      ],
+      "a": 1,
+      "e": "Python evaluates 21 % 7 to 0.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-040",
+      "q": "What is the purpose of an import statement?",
+      "o": [
+        "Delete all variables",
+        "Convert code into an image",
+        "Make a module available to the program",
+        "Stop the interpreter"
+      ],
+      "a": 2,
+      "e": "import provides access to a module's contents.",
+      "d": "Easy",
+      "topic": "Python Overview",
+      "slo": "Understand and apply python overview concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-041",
+      "q": "Which operator checks membership in a collection?",
+      "o": [
+        "is",
+        "**",
+        "in",
+        "="
+      ],
+      "a": 2,
+      "e": "in tests whether a value occurs in a container.",
+      "d": "Medium",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-042",
+      "q": "What is the value of the Python expression 23 + 7?",
+      "o": [
+        "30",
+        "29",
+        "31",
+        "32"
+      ],
+      "a": 0,
+      "e": "Python evaluates 23 + 7 to 30.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-043",
+      "q": "What is the value of the Python expression 20 + 10?",
+      "o": [
+        "32",
+        "29",
+        "30",
+        "31"
+      ],
+      "a": 2,
+      "e": "Python evaluates 20 + 10 to 30.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-044",
+      "q": "Which operator checks whether the left value is less?",
+      "o": [
+        "==",
+        "=",
+        "<",
+        ">"
+      ],
+      "a": 2,
+      "e": "< tests the less-than relationship.",
+      "d": "Medium",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-045",
+      "q": "What is the value of the Python expression 9 * 5?",
+      "o": [
+        "44",
+        "45",
+        "46",
+        "47"
+      ],
+      "a": 1,
+      "e": "Python evaluates 9 * 5 to 45.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-046",
+      "q": "What is the value of the Python expression 19 * 10?",
+      "o": [
+        "189",
+        "190",
+        "192",
+        "191"
+      ],
+      "a": 1,
+      "e": "Python evaluates 19 * 10 to 190.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-047",
+      "q": "What is the value of the Python expression 21 * 5?",
+      "o": [
+        "104",
+        "106",
+        "107",
+        "105"
+      ],
+      "a": 3,
+      "e": "Python evaluates 21 * 5 to 105.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-048",
+      "q": "What is the value of the Python expression 15 * 2?",
+      "o": [
+        "31",
+        "29",
+        "32",
+        "30"
+      ],
+      "a": 3,
+      "e": "Python evaluates 15 * 2 to 30.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-049",
+      "q": "What does range(5) produce when iterated?",
+      "o": [
+        "1, 2, 3, 4, 5",
+        "0, 1, 2, 3, 4",
+        "5 only",
+        "0, 1, 2, 3, 4, 5"
+      ],
+      "a": 1,
+      "e": "range(5) produces integers starting at zero and stopping before five.",
+      "d": "Medium",
+      "topic": "Control Structures",
+      "slo": "Understand and apply control structures concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-050",
+      "q": "What is the value of the Python expression 11 - 8?",
+      "o": [
+        "3",
+        "2",
+        "4",
+        "5"
+      ],
+      "a": 0,
+      "e": "Python evaluates 11 - 8 to 3.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-051",
+      "q": "What is the value of the Python expression 3 - 10?",
+      "o": [
+        "-6",
+        "-5",
+        "-7",
+        "-8"
+      ],
+      "a": 2,
+      "e": "Python evaluates 3 - 10 to -7.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-052",
+      "q": "What is the value of the Python expression 12 * 2?",
+      "o": [
+        "26",
+        "25",
+        "23",
+        "24"
+      ],
+      "a": 3,
+      "e": "Python evaluates 12 * 2 to 24.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-053",
+      "q": "What is a traceback?",
+      "o": [
+        "A report showing where an exception occurred",
+        "A monitor calibration",
+        "A network route map",
+        "A source code license"
+      ],
+      "a": 0,
+      "e": "A traceback shows the call path and error location.",
+      "d": "Medium",
+      "topic": "Debugging and Errors",
+      "slo": "Understand and apply debugging and errors concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-054",
+      "q": "What is the value of the Python expression 13 * 4?",
+      "o": [
+        "51",
+        "52",
+        "54",
+        "53"
+      ],
+      "a": 1,
+      "e": "Python evaluates 13 * 4 to 52.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-055",
+      "q": "What is the value of the Python expression 3 - 4?",
+      "o": [
+        "1",
+        "-2",
+        "-1",
+        "0"
+      ],
+      "a": 2,
+      "e": "Python evaluates 3 - 4 to -1.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-056",
+      "q": "What does the condition 5 > 3 evaluate to?",
+      "o": [
+        "False",
+        "5",
+        "3",
+        "True"
+      ],
+      "a": 3,
+      "e": "Five is greater than three.",
+      "d": "Medium",
+      "topic": "Control Structures",
+      "slo": "Understand and apply control structures concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-057",
+      "q": "What is the usual file extension for Python source code?",
+      "o": [
+        ".exe",
+        ".mp3",
+        ".jpg",
+        ".py"
+      ],
+      "a": 3,
+      "e": "Python source files commonly use the .py extension.",
+      "d": "Easy",
+      "topic": "Python Overview",
+      "slo": "Understand and apply python overview concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-058",
+      "q": "What does the condition 4 == 5 evaluate to?",
+      "o": [
+        "5",
+        "False",
+        "True",
+        "4"
+      ],
+      "a": 1,
+      "e": "Four is not equal to five.",
+      "d": "Medium",
+      "topic": "Control Structures",
+      "slo": "Understand and apply control structures concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-059",
+      "q": "Which language is directly understood by a processor?",
+      "o": [
+        "Pseudocode",
+        "Machine language",
+        "Natural language",
+        "Flowchart notation"
+      ],
+      "a": 1,
+      "e": "Machine language consists of processor-executable instructions.",
+      "d": "Easy",
+      "topic": "Computer Programs",
+      "slo": "Understand and apply computer programs concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-060",
+      "q": "What is the value of the Python expression 23 * 6?",
+      "o": [
+        "140",
+        "138",
+        "137",
+        "139"
+      ],
+      "a": 1,
+      "e": "Python evaluates 23 * 6 to 138.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-061",
+      "q": "What is the value of the Python expression 12 * 8?",
+      "o": [
+        "98",
+        "96",
+        "97",
+        "95"
+      ],
+      "a": 1,
+      "e": "Python evaluates 12 * 8 to 96.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-062",
+      "q": "What does pass do in Python?",
+      "o": [
+        "Act as a placeholder statement that does nothing",
+        "Stop the interpreter",
+        "Return from every function",
+        "Always print a value"
+      ],
+      "a": 0,
+      "e": "pass is a no-operation placeholder.",
+      "d": "Medium",
+      "topic": "Control Structures",
+      "slo": "Understand and apply control structures concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-063",
+      "q": "Which statement sends a result back from a function?",
+      "o": [
+        "return",
+        "import",
+        "input",
+        "print"
+      ],
+      "a": 0,
+      "e": "return exits a function and provides a value.",
+      "d": "Medium",
+      "topic": "Functions",
+      "slo": "Understand and apply functions concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-064",
+      "q": "What is the value of the Python expression 17 - 8?",
+      "o": [
+        "10",
+        "11",
+        "9",
+        "8"
+      ],
+      "a": 2,
+      "e": "Python evaluates 17 - 8 to 9.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-065",
+      "q": "What is the value of the Python expression 18 - 7?",
+      "o": [
+        "13",
+        "10",
+        "11",
+        "12"
+      ],
+      "a": 2,
+      "e": "Python evaluates 18 - 7 to 11.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-066",
+      "q": "What is the value of the Python expression 15 % 7?",
+      "o": [
+        "3",
+        "0",
+        "1",
+        "2"
+      ],
+      "a": 2,
+      "e": "Python evaluates 15 % 7 to 1.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-067",
+      "q": "What does a comment do in source code?",
+      "o": [
+        "Increase the numeric result",
+        "Always cause a syntax error",
+        "Explain code without being executed as an instruction",
+        "Create a new process"
+      ],
+      "a": 2,
+      "e": "Comments document programs for readers.",
+      "d": "Easy",
+      "topic": "Python Overview",
+      "slo": "Understand and apply python overview concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-068",
+      "q": "Which statement assigns 7 to score?",
+      "o": [
+        "score :=: 7",
+        "score = 7",
+        "7 = score",
+        "score == 7"
+      ],
+      "a": 1,
+      "e": "The assignment operator = binds a value to a name.",
+      "d": "Medium",
+      "topic": "Python Variables",
+      "slo": "Understand and apply python variables concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-069",
+      "q": "What is the value of the Python expression 13 - 6?",
+      "o": [
+        "7",
+        "8",
+        "9",
+        "6"
+      ],
+      "a": 0,
+      "e": "Python evaluates 13 - 6 to 7.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-070",
+      "q": "What is the value of the Python expression 16 + 8?",
+      "o": [
+        "26",
+        "25",
+        "23",
+        "24"
+      ],
+      "a": 3,
+      "e": "Python evaluates 16 + 8 to 24.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-071",
+      "q": "What is the value of the Python expression 12 % 10?",
+      "o": [
+        "3",
+        "4",
+        "2",
+        "1"
+      ],
+      "a": 2,
+      "e": "Python evaluates 12 % 10 to 2.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-072",
+      "q": "What is the value of the Python expression 5 * 9?",
+      "o": [
+        "47",
+        "46",
+        "45",
+        "44"
+      ],
+      "a": 2,
+      "e": "Python evaluates 5 * 9 to 45.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-073",
+      "q": "What is the value of the Python expression 18 * 2?",
+      "o": [
+        "38",
+        "35",
+        "36",
+        "37"
+      ],
+      "a": 2,
+      "e": "Python evaluates 18 * 2 to 36.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-074",
+      "q": "What type does input() return by default?",
+      "o": [
+        "float",
+        "bool",
+        "str",
+        "int"
+      ],
+      "a": 2,
+      "e": "input returns a string even if digits are entered.",
+      "d": "Easy",
+      "topic": "Input and Output",
+      "slo": "Understand and apply input and output concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-075",
+      "q": "What is the value of the Python expression 14 * 6?",
+      "o": [
+        "85",
+        "84",
+        "83",
+        "86"
+      ],
+      "a": 1,
+      "e": "Python evaluates 14 * 6 to 84.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-076",
+      "q": "What is the value of the Python expression 21 - 4?",
+      "o": [
+        "18",
+        "19",
+        "16",
+        "17"
+      ],
+      "a": 3,
+      "e": "Python evaluates 21 - 4 to 17.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-077",
+      "q": "What punctuation ends an if condition line in Python?",
+      "o": [
+        "Period (.)",
+        "Semicolon (;)",
+        "Colon (:)",
+        "Comma (,)"
+      ],
+      "a": 2,
+      "e": "Python compound statements use a colon before the suite.",
+      "d": "Medium",
+      "topic": "Control Structures",
+      "slo": "Understand and apply control structures concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-078",
+      "q": "What is the value of the Python expression 5 + 7?",
+      "o": [
+        "11",
+        "14",
+        "12",
+        "13"
+      ],
+      "a": 2,
+      "e": "Python evaluates 5 + 7 to 12.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-079",
+      "q": "What is the value of the Python expression 19 * 4?",
+      "o": [
+        "76",
+        "77",
+        "75",
+        "78"
+      ],
+      "a": 0,
+      "e": "Python evaluates 19 * 4 to 76.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-080",
+      "q": "What is the value of the Python expression 6 - 7?",
+      "o": [
+        "-2",
+        "1",
+        "-1",
+        "0"
+      ],
+      "a": 2,
+      "e": "Python evaluates 6 - 7 to -1.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-081",
+      "q": "What is the value of the Python expression 21 * 8?",
+      "o": [
+        "170",
+        "169",
+        "168",
+        "167"
+      ],
+      "a": 2,
+      "e": "Python evaluates 21 * 8 to 168.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-082",
+      "q": "Which Python operator performs exponentiation?",
+      "o": [
+        "*",
+        "//",
+        "%",
+        "**"
+      ],
+      "a": 3,
+      "e": "** raises a number to a power.",
+      "d": "Medium",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-083",
+      "q": "Which Python type represents text?",
+      "o": [
+        "int",
+        "float",
+        "bool",
+        "str"
+      ],
+      "a": 3,
+      "e": "str represents character strings.",
+      "d": "Medium",
+      "topic": "Python Variables",
+      "slo": "Understand and apply python variables concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-084",
+      "q": "What does len('cat') return?",
+      "o": [
+        "4",
+        "3",
+        "2",
+        "'cat'"
+      ],
+      "a": 1,
+      "e": "len returns the number of characters in the string.",
+      "d": "Easy",
+      "topic": "Input and Output",
+      "slo": "Understand and apply input and output concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-085",
+      "q": "What is a library in Python?",
+      "o": [
+        "A hardware bookcase only",
+        "A collection of reusable code",
+        "A network port",
+        "A printer cartridge"
+      ],
+      "a": 1,
+      "e": "Libraries provide functions and other reusable components.",
+      "d": "Easy",
+      "topic": "Python Overview",
+      "slo": "Understand and apply python overview concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-086",
+      "q": "What is the value of the Python expression 16 // 5?",
+      "o": [
+        "4",
+        "3",
+        "2",
+        "5"
+      ],
+      "a": 1,
+      "e": "Python evaluates 16 // 5 to 3.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-087",
+      "q": "What is the value of the Python expression 20 * 9?",
+      "o": [
+        "181",
+        "182",
+        "180",
+        "179"
+      ],
+      "a": 2,
+      "e": "Python evaluates 20 * 9 to 180.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-088",
+      "q": "Which Python operator performs addition?",
+      "o": [
+        "%",
+        "//",
+        "*",
+        "+"
+      ],
+      "a": 3,
+      "e": "+ adds numeric operands.",
+      "d": "Medium",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-089",
+      "q": "What is the value of the Python expression 8 // 7?",
+      "o": [
+        "3",
+        "2",
+        "1",
+        "0"
+      ],
+      "a": 2,
+      "e": "Python evaluates 8 // 7 to 1.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-090",
+      "q": "What is the value of the Python expression 11 - 2?",
+      "o": [
+        "8",
+        "11",
+        "10",
+        "9"
+      ],
+      "a": 3,
+      "e": "Python evaluates 11 - 2 to 9.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-091",
+      "q": "Which built-in function gives the smallest item from supplied numbers?",
+      "o": [
+        "sum()",
+        "round()",
+        "max()",
+        "min()"
+      ],
+      "a": 3,
+      "e": "min returns the least value.",
+      "d": "Medium",
+      "topic": "Functions",
+      "slo": "Understand and apply functions concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-092",
+      "q": "What is the value of the Python expression 4 // 5?",
+      "o": [
+        "2",
+        "1",
+        "0",
+        "-1"
+      ],
+      "a": 2,
+      "e": "Python evaluates 4 // 5 to 0.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-093",
+      "q": "What is the value of the Python expression 22 // 5?",
+      "o": [
+        "3",
+        "6",
+        "4",
+        "5"
+      ],
+      "a": 2,
+      "e": "Python evaluates 22 // 5 to 4.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-094",
+      "q": "What is a script in Python?",
+      "o": [
+        "A monitor setting",
+        "A network address",
+        "A keyboard model",
+        "A saved file containing Python statements"
+      ],
+      "a": 3,
+      "e": "Python scripts store program instructions for execution.",
+      "d": "Easy",
+      "topic": "Python Overview",
+      "slo": "Understand and apply python overview concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-095",
+      "q": "What is the value of the Python expression 16 * 7?",
+      "o": [
+        "111",
+        "112",
+        "113",
+        "114"
+      ],
+      "a": 1,
+      "e": "Python evaluates 16 * 7 to 112.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-096",
+      "q": "What is the value of the Python expression 8 ** 3?",
+      "o": [
+        "513",
+        "511",
+        "514",
+        "512"
+      ],
+      "a": 3,
+      "e": "Python evaluates 8 ** 3 to 512.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-097",
+      "q": "What does int('15') return?",
+      "o": [
+        "15 as an integer",
+        "'15' as a string",
+        "15.0 as a float",
+        "An error always"
+      ],
+      "a": 0,
+      "e": "int converts a valid numeric string to an integer.",
+      "d": "Medium",
+      "topic": "Python Variables",
+      "slo": "Understand and apply python variables concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-098",
+      "q": "What is the value of the Python expression 18 % 10?",
+      "o": [
+        "8",
+        "10",
+        "9",
+        "7"
+      ],
+      "a": 0,
+      "e": "Python evaluates 18 % 10 to 8.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-099",
+      "q": "What is a dry run?",
+      "o": [
+        "Manually tracing the program's steps",
+        "Running code without electricity",
+        "Deleting program output",
+        "Creating a new operating system"
+      ],
+      "a": 0,
+      "e": "A dry run follows program logic and variable changes by hand.",
+      "d": "Medium",
+      "topic": "Debugging and Errors",
+      "slo": "Understand and apply debugging and errors concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-100",
+      "q": "What is the value of the Python expression 3 * 5?",
+      "o": [
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "a": 1,
+      "e": "Python evaluates 3 * 5 to 15.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-101",
+      "q": "Which built-in function gives the largest item from supplied numbers?",
+      "o": [
+        "sum()",
+        "min()",
+        "abs()",
+        "max()"
+      ],
+      "a": 3,
+      "e": "max returns the greatest value.",
+      "d": "Medium",
+      "topic": "Functions",
+      "slo": "Understand and apply functions concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-102",
+      "q": "What does a breakpoint allow during debugging?",
+      "o": [
+        "Pause execution at a chosen location",
+        "Convert source code to images",
+        "Delete a variable permanently",
+        "Speed up every loop"
+      ],
+      "a": 0,
+      "e": "Breakpoints pause execution for inspection.",
+      "d": "Medium",
+      "topic": "Debugging and Errors",
+      "slo": "Understand and apply debugging and errors concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-103",
+      "q": "Which Python type stores True or False?",
+      "o": [
+        "list",
+        "bool",
+        "float",
+        "str"
+      ],
+      "a": 1,
+      "e": "bool represents Boolean values.",
+      "d": "Medium",
+      "topic": "Python Variables",
+      "slo": "Understand and apply python variables concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-104",
+      "q": "What is the purpose of print('Hello')?",
+      "o": [
+        "Import a module",
+        "Read a keyboard value",
+        "Display Hello",
+        "Declare a loop"
+      ],
+      "a": 2,
+      "e": "print displays its argument.",
+      "d": "Easy",
+      "topic": "Input and Output",
+      "slo": "Understand and apply input and output concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-105",
+      "q": "What is the value of the Python expression 22 % 6?",
+      "o": [
+        "4",
+        "3",
+        "5",
+        "6"
+      ],
+      "a": 0,
+      "e": "Python evaluates 22 % 6 to 4.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-106",
+      "q": "What is the value of the Python expression 3 // 6?",
+      "o": [
+        "2",
+        "0",
+        "1",
+        "-1"
+      ],
+      "a": 1,
+      "e": "Python evaluates 3 // 6 to 0.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-107",
+      "q": "What is the value of the Python expression 11 % 5?",
+      "o": [
+        "3",
+        "2",
+        "0",
+        "1"
+      ],
+      "a": 3,
+      "e": "Python evaluates 11 % 5 to 1.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-108",
+      "q": "What is the value of the Python expression 13 % 9?",
+      "o": [
+        "4",
+        "5",
+        "6",
+        "3"
+      ],
+      "a": 0,
+      "e": "Python evaluates 13 % 9 to 4.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-109",
+      "q": "What is the value of the Python expression 21 + 3?",
+      "o": [
+        "24",
+        "23",
+        "26",
+        "25"
+      ],
+      "a": 0,
+      "e": "Python evaluates 21 + 3 to 24.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-110",
+      "q": "Which operator checks whether the left value is greater?",
+      "o": [
+        "<",
+        "==",
+        ">",
+        "="
+      ],
+      "a": 2,
+      "e": "> tests the greater-than relationship.",
+      "d": "Medium",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-111",
+      "q": "What is the value of the Python expression 9 // 6?",
+      "o": [
+        "3",
+        "1",
+        "0",
+        "2"
+      ],
+      "a": 1,
+      "e": "Python evaluates 9 // 6 to 1.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-112",
+      "q": "What is the value of the Python expression 16 - 9?",
+      "o": [
+        "7",
+        "6",
+        "8",
+        "9"
+      ],
+      "a": 0,
+      "e": "Python evaluates 16 - 9 to 7.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-113",
+      "q": "What is the role of parentheses in arithmetic expressions?",
+      "o": [
+        "Always create a comment",
+        "Stop a program",
+        "Group operations and control evaluation order",
+        "Convert every result to text"
+      ],
+      "a": 2,
+      "e": "Parentheses allow grouped operations to be evaluated first.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-114",
+      "q": "What is the value of the Python expression 11 * 3?",
+      "o": [
+        "32",
+        "33",
+        "34",
+        "35"
+      ],
+      "a": 1,
+      "e": "Python evaluates 11 * 3 to 33.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-115",
+      "q": "What is a function call?",
+      "o": [
+        "An expression that invokes a function",
+        "A comment containing a name",
+        "A network request always",
+        "A variable declaration only"
+      ],
+      "a": 0,
+      "e": "Calling executes the function body.",
+      "d": "Medium",
+      "topic": "Functions",
+      "slo": "Understand and apply functions concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-116",
+      "q": "What is the value of the Python expression 22 - 9?",
+      "o": [
+        "13",
+        "14",
+        "12",
+        "15"
+      ],
+      "a": 0,
+      "e": "Python evaluates 22 - 9 to 13.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-117",
+      "q": "What is an argument?",
+      "o": [
+        "A file extension",
+        "A monitor setting",
+        "A value supplied when calling a function",
+        "A syntax error only"
+      ],
+      "a": 2,
+      "e": "Arguments are passed to function parameters.",
+      "d": "Medium",
+      "topic": "Functions",
+      "slo": "Understand and apply functions concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-118",
+      "q": "What is the value of the Python expression 15 - 10?",
+      "o": [
+        "4",
+        "6",
+        "7",
+        "5"
+      ],
+      "a": 3,
+      "e": "Python evaluates 15 - 10 to 5.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-119",
+      "q": "What is the value of the Python expression 21 // 6?",
+      "o": [
+        "2",
+        "5",
+        "4",
+        "3"
+      ],
+      "a": 3,
+      "e": "Python evaluates 21 // 6 to 3.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-120",
+      "q": "What is the value of the Python expression 12 // 3?",
+      "o": [
+        "6",
+        "5",
+        "3",
+        "4"
+      ],
+      "a": 3,
+      "e": "Python evaluates 12 // 3 to 4.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-121",
+      "q": "What is the value of the Python expression 6 % 4?",
+      "o": [
+        "4",
+        "2",
+        "3",
+        "1"
+      ],
+      "a": 1,
+      "e": "Python evaluates 6 % 4 to 2.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-122",
+      "q": "What is a literal?",
+      "o": [
+        "A value written directly in program code",
+        "A compiler switch",
+        "A monitor pixel",
+        "A hidden network key"
+      ],
+      "a": 0,
+      "e": "Literals directly represent values in code.",
+      "d": "Medium",
+      "topic": "Python Variables",
+      "slo": "Understand and apply python variables concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-123",
+      "q": "Which exception is commonly raised by dividing by zero?",
+      "o": [
+        "NameError",
+        "IndexError",
+        "ZeroDivisionError",
+        "TypeError"
+      ],
+      "a": 2,
+      "e": "Python raises ZeroDivisionError for division by zero.",
+      "d": "Medium",
+      "topic": "Debugging and Errors",
+      "slo": "Understand and apply debugging and errors concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-124",
+      "q": "Which print argument controls the separator between multiple values?",
+      "o": [
+        "sep",
+        "join",
+        "split",
+        "delimiter_only"
+      ],
+      "a": 0,
+      "e": "The sep keyword specifies the separator used by print.",
+      "d": "Easy",
+      "topic": "Input and Output",
+      "slo": "Understand and apply input and output concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-125",
+      "q": "Which Python statement iterates over a sequence?",
+      "o": [
+        "elif",
+        "for",
+        "print",
+        "def"
+      ],
+      "a": 1,
+      "e": "for traverses elements from an iterable.",
+      "d": "Medium",
+      "topic": "Control Structures",
+      "slo": "Understand and apply control structures concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-126",
+      "q": "What is Python IDLE?",
+      "o": [
+        "A hardware driver",
+        "A spreadsheet file type",
+        "An environment for editing and running Python",
+        "A network cable"
+      ],
+      "a": 2,
+      "e": "IDLE provides a Python shell and editor.",
+      "d": "Easy",
+      "topic": "Python Overview",
+      "slo": "Understand and apply python overview concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-127",
+      "q": "Which function reports an object's type?",
+      "o": [
+        "print()",
+        "range()",
+        "type()",
+        "input()"
+      ],
+      "a": 2,
+      "e": "type() returns the type of an object.",
+      "d": "Medium",
+      "topic": "Python Variables",
+      "slo": "Understand and apply python variables concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-128",
+      "q": "Which Python type stores whole numbers?",
+      "o": [
+        "list",
+        "int",
+        "bool",
+        "str"
+      ],
+      "a": 1,
+      "e": "int represents integer values.",
+      "d": "Medium",
+      "topic": "Python Variables",
+      "slo": "Understand and apply python variables concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-129",
+      "q": "What is the value of the Python expression 10 + 8?",
+      "o": [
+        "17",
+        "19",
+        "18",
+        "20"
+      ],
+      "a": 2,
+      "e": "Python evaluates 10 + 8 to 18.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-130",
+      "q": "What is the value of the Python expression 17 // 4?",
+      "o": [
+        "4",
+        "5",
+        "3",
+        "6"
+      ],
+      "a": 0,
+      "e": "Python evaluates 17 // 4 to 4.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-131",
+      "q": "What is the value of the Python expression 9 + 9?",
+      "o": [
+        "19",
+        "18",
+        "20",
+        "17"
+      ],
+      "a": 1,
+      "e": "Python evaluates 9 + 9 to 18.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-132",
+      "q": "Why test a program with different inputs?",
+      "o": [
+        "To avoid reading outputs",
+        "To reveal errors and verify behavior",
+        "To make code uneditable",
+        "To guarantee a larger file size"
+      ],
+      "a": 1,
+      "e": "Varied tests check expected and edge-case behavior.",
+      "d": "Medium",
+      "topic": "Debugging and Errors",
+      "slo": "Understand and apply debugging and errors concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-133",
+      "q": "What is the value of the Python expression 20 - 5?",
+      "o": [
+        "14",
+        "15",
+        "17",
+        "16"
+      ],
+      "a": 1,
+      "e": "Python evaluates 20 - 5 to 15.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-134",
+      "q": "What is the value of the Python expression 12 * 5?",
+      "o": [
+        "59",
+        "62",
+        "60",
+        "61"
+      ],
+      "a": 2,
+      "e": "Python evaluates 12 * 5 to 60.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-135",
+      "q": "Which operator is used to update x by adding 1?",
+      "o": [
+        "//=",
+        ">=",
+        "==",
+        "+="
+      ],
+      "a": 3,
+      "e": "x += 1 adds one to the current value of x.",
+      "d": "Medium",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-136",
+      "q": "What is the value of the Python expression 10 // 5?",
+      "o": [
+        "3",
+        "2",
+        "4",
+        "1"
+      ],
+      "a": 1,
+      "e": "Python evaluates 10 // 5 to 2.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-137",
+      "q": "What is the value of the Python expression 4 * 4?",
+      "o": [
+        "16",
+        "17",
+        "15",
+        "18"
+      ],
+      "a": 0,
+      "e": "Python evaluates 4 * 4 to 16.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-138",
+      "q": "What is the value of the Python expression 21 - 10?",
+      "o": [
+        "13",
+        "12",
+        "11",
+        "10"
+      ],
+      "a": 2,
+      "e": "Python evaluates 21 - 10 to 11.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-139",
+      "q": "What does float(4) return?",
+      "o": [
+        "False",
+        "4 as an int",
+        "'4'",
+        "4.0"
+      ],
+      "a": 3,
+      "e": "float converts a numeric value to floating-point form.",
+      "d": "Medium",
+      "topic": "Python Variables",
+      "slo": "Understand and apply python variables concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-140",
+      "q": "What is the value of the Python expression 19 % 9?",
+      "o": [
+        "2",
+        "0",
+        "1",
+        "3"
+      ],
+      "a": 2,
+      "e": "Python evaluates 19 % 9 to 1.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-141",
+      "q": "What is the value of the Python expression 11 // 4?",
+      "o": [
+        "3",
+        "2",
+        "4",
+        "1"
+      ],
+      "a": 1,
+      "e": "Python evaluates 11 // 4 to 2.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-142",
+      "q": "What type of language is Python?",
+      "o": [
+        "High-level general-purpose programming language",
+        "Only machine language",
+        "A network routing protocol",
+        "An operating system kernel"
+      ],
+      "a": 0,
+      "e": "Python is a high-level programming language used for many tasks.",
+      "d": "Easy",
+      "topic": "Python Overview",
+      "slo": "Understand and apply python overview concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-143",
+      "q": "What does dynamic typing mean in Python?",
+      "o": [
+        "Variable names change randomly",
+        "All values are strings",
+        "Every variable must be declared as int",
+        "A name can refer to values of different types during execution"
+      ],
+      "a": 3,
+      "e": "Python determines types at runtime and names can be rebound.",
+      "d": "Medium",
+      "topic": "Python Variables",
+      "slo": "Understand and apply python variables concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-144",
+      "q": "What is the value of the Python expression 5 * 3?",
+      "o": [
+        "16",
+        "15",
+        "14",
+        "17"
+      ],
+      "a": 1,
+      "e": "Python evaluates 5 * 3 to 15.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-145",
+      "q": "What is program execution?",
+      "o": [
+        "Running a program's instructions",
+        "Naming a file only",
+        "Printing the textbook",
+        "Drawing a logo"
+      ],
+      "a": 0,
+      "e": "Execution carries out the programmed operations.",
+      "d": "Easy",
+      "topic": "Computer Programs",
+      "slo": "Understand and apply computer programs concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-146",
+      "q": "What is the value of the Python expression 6 // 3?",
+      "o": [
+        "1",
+        "4",
+        "2",
+        "3"
+      ],
+      "a": 2,
+      "e": "Python evaluates 6 // 3 to 2.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-147",
+      "q": "What is the value of the Python expression 23 % 5?",
+      "o": [
+        "5",
+        "3",
+        "4",
+        "2"
+      ],
+      "a": 1,
+      "e": "Python evaluates 23 % 5 to 3.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-148",
+      "q": "What is the value of the Python expression 20 * 6?",
+      "o": [
+        "119",
+        "122",
+        "121",
+        "120"
+      ],
+      "a": 3,
+      "e": "Python evaluates 20 * 6 to 120.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-149",
+      "q": "What is debugging?",
+      "o": [
+        "Encrypting a drive",
+        "Installing a mouse",
+        "Printing a document",
+        "Finding and fixing faults in a program"
+      ],
+      "a": 3,
+      "e": "Debugging identifies and corrects programming errors.",
+      "d": "Medium",
+      "topic": "Debugging and Errors",
+      "slo": "Understand and apply debugging and errors concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-150",
+      "q": "What is the value of the Python expression 7 // 2?",
+      "o": [
+        "4",
+        "2",
+        "5",
+        "3"
+      ],
+      "a": 3,
+      "e": "Python evaluates 7 // 2 to 3.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-151",
+      "q": "What is the value of the Python expression 22 * 7?",
+      "o": [
+        "153",
+        "156",
+        "154",
+        "155"
+      ],
+      "a": 2,
+      "e": "Python evaluates 22 * 7 to 154.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-152",
+      "q": "What is the value of the Python expression 13 * 10?",
+      "o": [
+        "130",
+        "132",
+        "129",
+        "131"
+      ],
+      "a": 0,
+      "e": "Python evaluates 13 * 10 to 130.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-153",
+      "q": "What is the value of the Python expression 19 - 6?",
+      "o": [
+        "12",
+        "14",
+        "13",
+        "15"
+      ],
+      "a": 2,
+      "e": "Python evaluates 19 - 6 to 13.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-154",
+      "q": "What is the value of the Python expression 11 + 7?",
+      "o": [
+        "19",
+        "17",
+        "18",
+        "20"
+      ],
+      "a": 2,
+      "e": "Python evaluates 11 + 7 to 18.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-155",
+      "q": "What is the value of the Python expression 13 + 5?",
+      "o": [
+        "17",
+        "19",
+        "20",
+        "18"
+      ],
+      "a": 3,
+      "e": "Python evaluates 13 + 5 to 18.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-156",
+      "q": "What is a compiler?",
+      "o": [
+        "A physical storage shelf",
+        "A translator that converts source code to another form",
+        "A network topology",
+        "A screen type"
+      ],
+      "a": 1,
+      "e": "Compilers translate programs before or as part of execution.",
+      "d": "Easy",
+      "topic": "Computer Programs",
+      "slo": "Understand and apply computer programs concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-157",
+      "q": "What is the value of the Python expression 8 % 2?",
+      "o": [
+        "2",
+        "-1",
+        "1",
+        "0"
+      ],
+      "a": 3,
+      "e": "Python evaluates 8 % 2 to 0.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-158",
+      "q": "What is the value of the Python expression 3 % 7?",
+      "o": [
+        "2",
+        "4",
+        "3",
+        "5"
+      ],
+      "a": 2,
+      "e": "Python evaluates 3 % 7 to 3.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-159",
+      "q": "What is the value of the Python expression 20 // 7?",
+      "o": [
+        "2",
+        "3",
+        "4",
+        "1"
+      ],
+      "a": 0,
+      "e": "Python evaluates 20 // 7 to 2.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-160",
+      "q": "What is the value of the Python expression 9 - 4?",
+      "o": [
+        "4",
+        "7",
+        "5",
+        "6"
+      ],
+      "a": 2,
+      "e": "Python evaluates 9 - 4 to 5.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-161",
+      "q": "What is the value of the Python expression 10 + 2?",
+      "o": [
+        "13",
+        "12",
+        "11",
+        "14"
+      ],
+      "a": 1,
+      "e": "Python evaluates 10 + 2 to 12.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-162",
+      "q": "Which exception is commonly raised for an undefined variable name?",
+      "o": [
+        "NameError",
+        "ValueError",
+        "IndexError",
+        "ZeroDivisionError"
+      ],
+      "a": 0,
+      "e": "Using a name that has not been defined raises NameError.",
+      "d": "Medium",
+      "topic": "Debugging and Errors",
+      "slo": "Understand and apply debugging and errors concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-163",
+      "q": "How are blocks normally indicated in Python?",
+      "o": [
+        "Line numbers only",
+        "A special end keyword",
+        "Indentation",
+        "Curly braces only"
+      ],
+      "a": 2,
+      "e": "Python uses indentation to delimit suites.",
+      "d": "Medium",
+      "topic": "Control Structures",
+      "slo": "Understand and apply control structures concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-164",
+      "q": "What is the value of the Python expression 7 + 5?",
+      "o": [
+        "11",
+        "13",
+        "14",
+        "12"
+      ],
+      "a": 3,
+      "e": "Python evaluates 7 + 5 to 12.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-165",
+      "q": "Which definition correctly creates a function named greet?",
+      "o": [
+        "def greet():",
+        "function greet():",
+        "greet def:",
+        "def = greet()"
+      ],
+      "a": 0,
+      "e": "Python function definitions begin with def and end the header with a colon.",
+      "d": "Medium",
+      "topic": "Functions",
+      "slo": "Understand and apply functions concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-166",
+      "q": "What is a sequence control structure?",
+      "o": [
+        "Statements executed in their written order",
+        "A random choice of statements",
+        "A module import only",
+        "A loop that never ends"
+      ],
+      "a": 0,
+      "e": "Sequence runs instructions in order.",
+      "d": "Medium",
+      "topic": "Control Structures",
+      "slo": "Understand and apply control structures concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-167",
+      "q": "What does an if statement do?",
+      "o": [
+        "Define a module",
+        "Import a file",
+        "Conditionally execute a block",
+        "Always repeat forever"
+      ],
+      "a": 2,
+      "e": "if runs its suite when its condition is true.",
+      "d": "Medium",
+      "topic": "Control Structures",
+      "slo": "Understand and apply control structures concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-168",
+      "q": "Which Python function displays output?",
+      "o": [
+        "input()",
+        "range()",
+        "int()",
+        "print()"
+      ],
+      "a": 3,
+      "e": "print sends values to standard output.",
+      "d": "Easy",
+      "topic": "Input and Output",
+      "slo": "Understand and apply input and output concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-169",
+      "q": "What is the value of the Python expression 4 % 6?",
+      "o": [
+        "4",
+        "3",
+        "5",
+        "6"
+      ],
+      "a": 0,
+      "e": "Python evaluates 4 % 6 to 4.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-170",
+      "q": "What is the value of the Python expression 12 - 7?",
+      "o": [
+        "4",
+        "6",
+        "7",
+        "5"
+      ],
+      "a": 3,
+      "e": "Python evaluates 12 - 7 to 5.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-171",
+      "q": "What is the value of the Python expression 18 * 5?",
+      "o": [
+        "92",
+        "89",
+        "91",
+        "90"
+      ],
+      "a": 3,
+      "e": "Python evaluates 18 * 5 to 90.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-172",
+      "q": "What is the value of the Python expression 12 % 4?",
+      "o": [
+        "0",
+        "-1",
+        "1",
+        "2"
+      ],
+      "a": 0,
+      "e": "Python evaluates 12 % 4 to 0.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-173",
+      "q": "What is a function in programming?",
+      "o": [
+        "A reusable block of code that performs a task",
+        "A monitor cable",
+        "A type of file extension",
+        "A network port"
+      ],
+      "a": 0,
+      "e": "Functions group reusable operations.",
+      "d": "Medium",
+      "topic": "Functions",
+      "slo": "Understand and apply functions concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-174",
+      "q": "What is the value of the Python expression 10 - 3?",
+      "o": [
+        "7",
+        "8",
+        "6",
+        "9"
+      ],
+      "a": 0,
+      "e": "Python evaluates 10 - 3 to 7.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-175",
+      "q": "What does return do to the current function's execution?",
+      "o": [
+        "Ends the function call and optionally provides a value",
+        "Starts a loop",
+        "Adds a comment",
+        "Imports a module"
+      ],
+      "a": 0,
+      "e": "return transfers control to the caller.",
+      "d": "Medium",
+      "topic": "Functions",
+      "slo": "Understand and apply functions concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-176",
+      "q": "What is the value of the Python expression 16 * 10?",
+      "o": [
+        "162",
+        "160",
+        "159",
+        "161"
+      ],
+      "a": 1,
+      "e": "Python evaluates 16 * 10 to 160.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-177",
+      "q": "What is the value of the Python expression 11 * 9?",
+      "o": [
+        "99",
+        "98",
+        "100",
+        "101"
+      ],
+      "a": 0,
+      "e": "Python evaluates 11 * 9 to 99.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-178",
+      "q": "What is the purpose of an interpreter?",
+      "o": [
+        "Execute or translate code statement by statement",
+        "Replace a keyboard",
+        "Increase monitor resolution",
+        "Connect two printers"
+      ],
+      "a": 0,
+      "e": "An interpreter processes program statements during execution.",
+      "d": "Easy",
+      "topic": "Computer Programs",
+      "slo": "Understand and apply computer programs concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-179",
+      "q": "What does the escape sequence \\n represent inside a Python string?",
+      "o": [
+        "A newline",
+        "A tab",
+        "A backslash only",
+        "A space"
+      ],
+      "a": 0,
+      "e": "\\n inserts a line break.",
+      "d": "Easy",
+      "topic": "Input and Output",
+      "slo": "Understand and apply input and output concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-180",
+      "q": "Which of these is a Python keyword rather than a valid variable name?",
+      "o": [
+        "total",
+        "marks2",
+        "for",
+        "student_name"
+      ],
+      "a": 2,
+      "e": "for is reserved for loop syntax.",
+      "d": "Medium",
+      "topic": "Python Variables",
+      "slo": "Understand and apply python variables concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-181",
+      "q": "What is the value of the Python expression 14 + 10?",
+      "o": [
+        "23",
+        "25",
+        "24",
+        "26"
+      ],
+      "a": 2,
+      "e": "Python evaluates 14 + 10 to 24.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-182",
+      "q": "Which exception can arise when int() receives nonnumeric text?",
+      "o": [
+        "IndexError",
+        "NameError",
+        "KeyError",
+        "ValueError"
+      ],
+      "a": 3,
+      "e": "int('abc') raises ValueError because the text is not a valid integer.",
+      "d": "Medium",
+      "topic": "Debugging and Errors",
+      "slo": "Understand and apply debugging and errors concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-183",
+      "q": "What is the value of the Python expression 8 + 10?",
+      "o": [
+        "18",
+        "17",
+        "19",
+        "20"
+      ],
+      "a": 0,
+      "e": "Python evaluates 8 + 10 to 18.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-184",
+      "q": "What does source code mean?",
+      "o": [
+        "The CPU serial number",
+        "Instructions written in a programming language",
+        "The output screen only",
+        "A monitor specification"
+      ],
+      "a": 1,
+      "e": "Source code is the human-authored program text.",
+      "d": "Easy",
+      "topic": "Computer Programs",
+      "slo": "Understand and apply computer programs concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-185",
+      "q": "What is the value of the Python expression 7 % 9?",
+      "o": [
+        "9",
+        "8",
+        "7",
+        "6"
+      ],
+      "a": 2,
+      "e": "Python evaluates 7 % 9 to 7.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-186",
+      "q": "What is the value of the Python expression 8 + 4?",
+      "o": [
+        "11",
+        "13",
+        "12",
+        "14"
+      ],
+      "a": 2,
+      "e": "Python evaluates 8 + 4 to 12.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-187",
+      "q": "What is the value of the Python expression 5 // 10?",
+      "o": [
+        "-1",
+        "0",
+        "2",
+        "1"
+      ],
+      "a": 1,
+      "e": "Python evaluates 5 // 10 to 0.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-188",
+      "q": "Which keyword makes a module's name available?",
+      "o": [
+        "return",
+        "import",
+        "break",
+        "else"
+      ],
+      "a": 1,
+      "e": "import introduces a module into the program.",
+      "d": "Medium",
+      "topic": "Functions",
+      "slo": "Understand and apply functions concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-189",
+      "q": "What is the value of the Python expression 15 + 9?",
+      "o": [
+        "25",
+        "24",
+        "26",
+        "23"
+      ],
+      "a": 1,
+      "e": "Python evaluates 15 + 9 to 24.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-190",
+      "q": "Which is a valid Python variable name?",
+      "o": [
+        "total-marks",
+        "2marks",
+        "total_marks",
+        "class"
+      ],
+      "a": 2,
+      "e": "Identifiers may contain underscores but cannot begin with digits or use keywords.",
+      "d": "Medium",
+      "topic": "Python Variables",
+      "slo": "Understand and apply python variables concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-191",
+      "q": "Which character starts a single-line Python comment?",
+      "o": [
+        "#",
+        "$",
+        "@",
+        "&"
+      ],
+      "a": 0,
+      "e": "A # begins a single-line comment in Python.",
+      "d": "Easy",
+      "topic": "Python Overview",
+      "slo": "Understand and apply python overview concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-192",
+      "q": "Which value is a Boolean literal in Python?",
+      "o": [
+        "'0'",
+        "False",
+        "0.0",
+        "'False'"
+      ],
+      "a": 1,
+      "e": "False without quotes is a Boolean literal.",
+      "d": "Medium",
+      "topic": "Python Variables",
+      "slo": "Understand and apply python variables concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-193",
+      "q": "What is a built-in function?",
+      "o": [
+        "A function stored in a database",
+        "A function that cannot return",
+        "A function available in Python without defining it yourself",
+        "A function written only in C"
+      ],
+      "a": 2,
+      "e": "Built-in functions such as len are available directly.",
+      "d": "Medium",
+      "topic": "Functions",
+      "slo": "Understand and apply functions concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-194",
+      "q": "What is a parameter?",
+      "o": [
+        "A name in a function definition that receives an argument",
+        "A comment line",
+        "A hardware input socket",
+        "An output file"
+      ],
+      "a": 0,
+      "e": "Parameters name the inputs accepted by functions.",
+      "d": "Medium",
+      "topic": "Functions",
+      "slo": "Understand and apply functions concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-195",
+      "q": "What is the value of the Python expression 8 * 6?",
+      "o": [
+        "50",
+        "48",
+        "49",
+        "47"
+      ],
+      "a": 1,
+      "e": "Python evaluates 8 * 6 to 48.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-196",
+      "q": "What is the value of the Python expression 5 - 8?",
+      "o": [
+        "-3",
+        "-4",
+        "-1",
+        "-2"
+      ],
+      "a": 0,
+      "e": "Python evaluates 5 - 8 to -3.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-197",
+      "q": "What is the value of the Python expression 20 + 4?",
+      "o": [
+        "23",
+        "25",
+        "26",
+        "24"
+      ],
+      "a": 3,
+      "e": "Python evaluates 20 + 4 to 24.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-198",
+      "q": "What is the value of the Python expression 17 * 3?",
+      "o": [
+        "51",
+        "53",
+        "50",
+        "52"
+      ],
+      "a": 0,
+      "e": "Python evaluates 17 * 3 to 51.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-199",
+      "q": "What is the value of the Python expression 21 + 9?",
+      "o": [
+        "31",
+        "32",
+        "29",
+        "30"
+      ],
+      "a": 3,
+      "e": "Python evaluates 21 + 9 to 30.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-200",
+      "q": "What is the value of the Python expression 21 * 2?",
+      "o": [
+        "44",
+        "42",
+        "41",
+        "43"
+      ],
+      "a": 1,
+      "e": "Python evaluates 21 * 2 to 42.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-201",
+      "q": "What is the value of the Python expression 19 + 5?",
+      "o": [
+        "25",
+        "23",
+        "26",
+        "24"
+      ],
+      "a": 3,
+      "e": "Python evaluates 19 + 5 to 24.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-202",
+      "q": "Which built-in function rounds a numeric value?",
+      "o": [
+        "type()",
+        "range()",
+        "round()",
+        "input()"
+      ],
+      "a": 2,
+      "e": "round rounds numeric values.",
+      "d": "Medium",
+      "topic": "Functions",
+      "slo": "Understand and apply functions concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-203",
+      "q": "Which Python function reads a line of user input?",
+      "o": [
+        "type()",
+        "len()",
+        "input()",
+        "print()"
+      ],
+      "a": 2,
+      "e": "input reads text entered by the user.",
+      "d": "Easy",
+      "topic": "Input and Output",
+      "slo": "Understand and apply input and output concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-204",
+      "q": "What is the value of the Python expression 3 + 9?",
+      "o": [
+        "12",
+        "11",
+        "14",
+        "13"
+      ],
+      "a": 0,
+      "e": "Python evaluates 3 + 9 to 12.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-205",
+      "q": "What happens when a function without an explicit return completes?",
+      "o": [
+        "It raises an error always",
+        "It returns None",
+        "It returns zero always",
+        "It returns True always"
+      ],
+      "a": 1,
+      "e": "Functions implicitly return None if no return value is specified.",
+      "d": "Medium",
+      "topic": "Functions",
+      "slo": "Understand and apply functions concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-206",
+      "q": "What is the value of the Python expression 20 * 3?",
+      "o": [
+        "59",
+        "61",
+        "62",
+        "60"
+      ],
+      "a": 3,
+      "e": "Python evaluates 20 * 3 to 60.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-207",
+      "q": "Which Python statement can bring in the math module?",
+      "o": [
+        "use math",
+        "include math",
+        "import math",
+        "load math"
+      ],
+      "a": 2,
+      "e": "The import statement loads a module namespace.",
+      "d": "Medium",
+      "topic": "Functions",
+      "slo": "Understand and apply functions concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-208",
+      "q": "What does continue do inside a loop?",
+      "o": [
+        "Terminate the entire program",
+        "Skip to the next iteration",
+        "Declare a variable",
+        "Exit every loop"
+      ],
+      "a": 1,
+      "e": "continue proceeds to the next loop iteration.",
+      "d": "Medium",
+      "topic": "Control Structures",
+      "slo": "Understand and apply control structures concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-209",
+      "q": "What is the value of the Python expression 22 - 3?",
+      "o": [
+        "18",
+        "19",
+        "20",
+        "21"
+      ],
+      "a": 1,
+      "e": "Python evaluates 22 - 3 to 19.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-210",
+      "q": "What is the value of the Python expression 8 - 5?",
+      "o": [
+        "5",
+        "3",
+        "4",
+        "2"
+      ],
+      "a": 1,
+      "e": "Python evaluates 8 - 5 to 3.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-211",
+      "q": "Which function returns the number of items in a list?",
+      "o": [
+        "print()",
+        "len()",
+        "int()",
+        "range()"
+      ],
+      "a": 1,
+      "e": "len returns the length of a collection.",
+      "d": "Medium",
+      "topic": "Functions",
+      "slo": "Understand and apply functions concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-212",
+      "q": "What is the value of the Python expression 6 * 2?",
+      "o": [
+        "13",
+        "12",
+        "14",
+        "11"
+      ],
+      "a": 1,
+      "e": "Python evaluates 6 * 2 to 12.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-213",
+      "q": "What is the value of the Python expression 8 % 8?",
+      "o": [
+        "2",
+        "1",
+        "0",
+        "-1"
+      ],
+      "a": 2,
+      "e": "Python evaluates 8 % 8 to 0.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-214",
+      "q": "What is the value of the Python expression 16 % 6?",
+      "o": [
+        "3",
+        "5",
+        "6",
+        "4"
+      ],
+      "a": 3,
+      "e": "Python evaluates 16 % 6 to 4.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-215",
+      "q": "What is the value of the Python expression 22 + 2?",
+      "o": [
+        "25",
+        "24",
+        "23",
+        "26"
+      ],
+      "a": 1,
+      "e": "Python evaluates 22 + 2 to 24.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-216",
+      "q": "What does else provide?",
+      "o": [
+        "An exponent operator",
+        "A comment marker",
+        "A new data type",
+        "An alternative block when the if condition is false"
+      ],
+      "a": 3,
+      "e": "else handles the alternative branch.",
+      "d": "Medium",
+      "topic": "Control Structures",
+      "slo": "Understand and apply control structures concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-217",
+      "q": "Which Python operator performs floor division?",
+      "o": [
+        "**",
+        "/",
+        "%",
+        "//"
+      ],
+      "a": 3,
+      "e": "// computes floor division.",
+      "d": "Medium",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-218",
+      "q": "What is the value of the Python expression 4 - 9?",
+      "o": [
+        "-6",
+        "-4",
+        "-5",
+        "-3"
+      ],
+      "a": 2,
+      "e": "Python evaluates 4 - 9 to -5.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-219",
+      "q": "What is the value of the Python expression 4 - 3?",
+      "o": [
+        "1",
+        "3",
+        "2",
+        "0"
+      ],
+      "a": 0,
+      "e": "Python evaluates 4 - 3 to 1.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-220",
+      "q": "What is an infinite loop?",
+      "o": [
+        "A loop that does not terminate under its current conditions",
+        "A loop that runs once",
+        "A loop with two variables",
+        "A loop that contains print"
+      ],
+      "a": 0,
+      "e": "An infinite loop repeats without reaching termination.",
+      "d": "Medium",
+      "topic": "Control Structures",
+      "slo": "Understand and apply control structures concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-221",
+      "q": "What is the value of the Python expression 14 // 7?",
+      "o": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "a": 1,
+      "e": "Python evaluates 14 // 7 to 2.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-222",
+      "q": "What does an interactive Python shell do?",
+      "o": [
+        "Formats disks automatically",
+        "Evaluates commands entered at its prompt",
+        "Edits BIOS settings",
+        "Prints only images"
+      ],
+      "a": 1,
+      "e": "The shell runs entered Python statements interactively.",
+      "d": "Easy",
+      "topic": "Python Overview",
+      "slo": "Understand and apply python overview concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-223",
+      "q": "What is the value of type(12).__name__?",
+      "o": [
+        "'str'",
+        "'float'",
+        "'bool'",
+        "'int'"
+      ],
+      "a": 3,
+      "e": "12 is an integer literal.",
+      "d": "Medium",
+      "topic": "Python Variables",
+      "slo": "Understand and apply python variables concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-224",
+      "q": "What is the value of the Python expression 18 // 9?",
+      "o": [
+        "2",
+        "3",
+        "4",
+        "1"
+      ],
+      "a": 0,
+      "e": "Python evaluates 18 // 9 to 2.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-225",
+      "q": "Which Python statement repeats a block while a condition is true?",
+      "o": [
+        "import",
+        "while",
+        "if",
+        "return"
+      ],
+      "a": 1,
+      "e": "while repeats while its condition holds.",
+      "d": "Medium",
+      "topic": "Control Structures",
+      "slo": "Understand and apply control structures concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-226",
+      "q": "What is the value of the Python expression 13 * 7?",
+      "o": [
+        "90",
+        "91",
+        "92",
+        "93"
+      ],
+      "a": 1,
+      "e": "Python evaluates 13 * 7 to 91.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-227",
+      "q": "What is the value of the Python expression 18 // 3?",
+      "o": [
+        "8",
+        "5",
+        "7",
+        "6"
+      ],
+      "a": 3,
+      "e": "Python evaluates 18 // 3 to 6.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-228",
+      "q": "Which Python operator performs multiplication?",
+      "o": [
+        "*",
+        "//",
+        "%",
+        "**"
+      ],
+      "a": 0,
+      "e": "* multiplies operands.",
+      "d": "Medium",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-229",
+      "q": "What does <= mean?",
+      "o": [
+        "Assignment",
+        "Not equal to",
+        "Greater than only",
+        "Less than or equal to"
+      ],
+      "a": 3,
+      "e": "<= tests less-than-or-equal comparison.",
+      "d": "Medium",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-230",
+      "q": "Which keyword defines a function in Python?",
+      "o": [
+        "def",
+        "function",
+        "define",
+        "func"
+      ],
+      "a": 0,
+      "e": "Python uses def to define functions.",
+      "d": "Medium",
+      "topic": "Functions",
+      "slo": "Understand and apply functions concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-231",
+      "q": "What is the value of the Python expression 15 - 4?",
+      "o": [
+        "13",
+        "11",
+        "12",
+        "10"
+      ],
+      "a": 1,
+      "e": "Python evaluates 15 - 4 to 11.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-232",
+      "q": "What is the value of the Python expression 17 * 9?",
+      "o": [
+        "153",
+        "155",
+        "152",
+        "154"
+      ],
+      "a": 0,
+      "e": "Python evaluates 17 * 9 to 153.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-233",
+      "q": "What is the value of the Python expression 14 * 9?",
+      "o": [
+        "127",
+        "125",
+        "126",
+        "128"
+      ],
+      "a": 2,
+      "e": "Python evaluates 14 * 9 to 126.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-234",
+      "q": "What is the value of the Python expression 23 - 2?",
+      "o": [
+        "21",
+        "20",
+        "23",
+        "22"
+      ],
+      "a": 0,
+      "e": "Python evaluates 23 - 2 to 21.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-235",
+      "q": "What does break do inside a loop?",
+      "o": [
+        "Exit the nearest enclosing loop",
+        "Restart the whole program",
+        "Define a function",
+        "Skip only the current iteration"
+      ],
+      "a": 0,
+      "e": "break terminates the nearest enclosing loop.",
+      "d": "Medium",
+      "topic": "Control Structures",
+      "slo": "Understand and apply control structures concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-236",
+      "q": "What is the value of the Python expression 14 % 8?",
+      "o": [
+        "5",
+        "8",
+        "7",
+        "6"
+      ],
+      "a": 3,
+      "e": "Python evaluates 14 % 8 to 6.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-237",
+      "q": "What is the value of the Python expression 22 * 4?",
+      "o": [
+        "87",
+        "90",
+        "88",
+        "89"
+      ],
+      "a": 2,
+      "e": "Python evaluates 22 * 4 to 88.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-238",
+      "q": "What is the value of the Python expression 15 * 8?",
+      "o": [
+        "119",
+        "122",
+        "120",
+        "121"
+      ],
+      "a": 2,
+      "e": "Python evaluates 15 * 8 to 120.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-239",
+      "q": "What is the value of the Python expression 3 + 3?",
+      "o": [
+        "7",
+        "8",
+        "5",
+        "6"
+      ],
+      "a": 3,
+      "e": "Python evaluates 3 + 3 to 6.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-240",
+      "q": "What is the value of the Python expression 6 // 9?",
+      "o": [
+        "-1",
+        "0",
+        "2",
+        "1"
+      ],
+      "a": 1,
+      "e": "Python evaluates 6 // 9 to 0.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-241",
+      "q": "What is the value of the Python expression 4 + 8?",
+      "o": [
+        "11",
+        "14",
+        "12",
+        "13"
+      ],
+      "a": 2,
+      "e": "Python evaluates 4 + 8 to 12.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-242",
+      "q": "What is the value of the Python expression 9 % 7?",
+      "o": [
+        "2",
+        "1",
+        "3",
+        "4"
+      ],
+      "a": 0,
+      "e": "Python evaluates 9 % 7 to 2.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-243",
+      "q": "What is a syntax error?",
+      "o": [
+        "An internet outage",
+        "A violation of a language's grammatical rules",
+        "A broken mouse",
+        "A missing monitor"
+      ],
+      "a": 1,
+      "e": "Syntax errors occur when code does not follow language grammar.",
+      "d": "Easy",
+      "topic": "Computer Programs",
+      "slo": "Understand and apply computer programs concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-244",
+      "q": "What is the value of the Python expression 13 // 8?",
+      "o": [
+        "1",
+        "2",
+        "3",
+        "0"
+      ],
+      "a": 0,
+      "e": "Python evaluates 13 // 8 to 1.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-245",
+      "q": "What is the value of the Python expression 19 // 8?",
+      "o": [
+        "4",
+        "2",
+        "1",
+        "3"
+      ],
+      "a": 1,
+      "e": "Python evaluates 19 // 8 to 2.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-246",
+      "q": "Which built-in function adds the numbers in an iterable?",
+      "o": [
+        "len()",
+        "max()",
+        "sum()",
+        "type()"
+      ],
+      "a": 2,
+      "e": "sum totals numeric items.",
+      "d": "Medium",
+      "topic": "Functions",
+      "slo": "Understand and apply functions concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-247",
+      "q": "What is the value of the Python expression 17 + 7?",
+      "o": [
+        "23",
+        "24",
+        "25",
+        "26"
+      ],
+      "a": 1,
+      "e": "Python evaluates 17 + 7 to 24.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-248",
+      "q": "What is the value of the Python expression 23 * 3?",
+      "o": [
+        "68",
+        "71",
+        "70",
+        "69"
+      ],
+      "a": 3,
+      "e": "Python evaluates 23 * 3 to 69.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-249",
+      "q": "What is a variable?",
+      "o": [
+        "A type of monitor",
+        "A physical circuit",
+        "A printer spool",
+        "A name referring to a value"
+      ],
+      "a": 3,
+      "e": "Variables allow programs to work with named values.",
+      "d": "Medium",
+      "topic": "Python Variables",
+      "slo": "Understand and apply python variables concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-250",
+      "q": "Which is a string literal in Python?",
+      "o": [
+        "True",
+        "hello without quotes",
+        "42",
+        "'hello'"
+      ],
+      "a": 3,
+      "e": "Quoted text is a string literal.",
+      "d": "Medium",
+      "topic": "Python Variables",
+      "slo": "Understand and apply python variables concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-251",
+      "q": "What does not True evaluate to?",
+      "o": [
+        "True",
+        "1.0",
+        "False",
+        "'True'"
+      ],
+      "a": 2,
+      "e": "not negates a Boolean value.",
+      "d": "Medium",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-252",
+      "q": "What is the value of the Python expression 20 % 2?",
+      "o": [
+        "2",
+        "1",
+        "-1",
+        "0"
+      ],
+      "a": 3,
+      "e": "Python evaluates 20 % 2 to 0.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-253",
+      "q": "What does == test in Python?",
+      "o": [
+        "Whether two values are equal",
+        "Assign a value",
+        "Start a comment",
+        "Multiply two values"
+      ],
+      "a": 0,
+      "e": "== compares values for equality.",
+      "d": "Medium",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-254",
+      "q": "Which print argument can change the ending character?",
+      "o": [
+        "start",
+        "begin",
+        "last",
+        "end"
+      ],
+      "a": 3,
+      "e": "The end keyword controls what is printed after values.",
+      "d": "Easy",
+      "topic": "Input and Output",
+      "slo": "Understand and apply input and output concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-255",
+      "q": "What is the value of the Python expression 5 // 4?",
+      "o": [
+        "2",
+        "1",
+        "3",
+        "0"
+      ],
+      "a": 1,
+      "e": "Python evaluates 5 // 4 to 1.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-256",
+      "q": "What is a local variable?",
+      "o": [
+        "A built-in constant",
+        "A name bound within a function's local scope",
+        "A disk partition",
+        "A variable accessible everywhere automatically"
+      ],
+      "a": 1,
+      "e": "Local variables belong to a function's scope.",
+      "d": "Medium",
+      "topic": "Functions",
+      "slo": "Understand and apply functions concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-257",
+      "q": "What is the value of the Python expression 9 - 10?",
+      "o": [
+        "0",
+        "-2",
+        "1",
+        "-1"
+      ],
+      "a": 3,
+      "e": "Python evaluates 9 - 10 to -1.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-258",
+      "q": "What is the value of the Python expression 23 - 8?",
+      "o": [
+        "15",
+        "14",
+        "16",
+        "17"
+      ],
+      "a": 0,
+      "e": "Python evaluates 23 - 8 to 15.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-259",
+      "q": "What is the value of the Python expression 10 % 6?",
+      "o": [
+        "6",
+        "3",
+        "5",
+        "4"
+      ],
+      "a": 3,
+      "e": "Python evaluates 10 % 6 to 4.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-260",
+      "q": "What is the value of the Python expression 13 % 3?",
+      "o": [
+        "0",
+        "2",
+        "3",
+        "1"
+      ],
+      "a": 3,
+      "e": "Python evaluates 13 % 3 to 1.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-261",
+      "q": "What does >= mean?",
+      "o": [
+        "Not equal to",
+        "Assignment",
+        "Less than only",
+        "Greater than or equal to"
+      ],
+      "a": 3,
+      "e": ">= tests greater-than-or-equal comparison.",
+      "d": "Medium",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-262",
+      "q": "Which Python operator performs subtraction?",
+      "o": [
+        "-",
+        "**",
+        "+",
+        "%"
+      ],
+      "a": 0,
+      "e": "- subtracts the right operand from the left.",
+      "d": "Medium",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-263",
+      "q": "What is the value of the Python expression 3 ** 2?",
+      "o": [
+        "11",
+        "9",
+        "10",
+        "8"
+      ],
+      "a": 1,
+      "e": "Python evaluates 3 ** 2 to 9.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-264",
+      "q": "What is the value of the Python expression 14 - 5?",
+      "o": [
+        "8",
+        "11",
+        "9",
+        "10"
+      ],
+      "a": 2,
+      "e": "Python evaluates 14 - 5 to 9.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-265",
+      "q": "What is the value of the Python expression 14 * 3?",
+      "o": [
+        "42",
+        "44",
+        "41",
+        "43"
+      ],
+      "a": 0,
+      "e": "Python evaluates 14 * 3 to 42.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-266",
+      "q": "What is the value of the Python expression 14 % 2?",
+      "o": [
+        "2",
+        "-1",
+        "0",
+        "1"
+      ],
+      "a": 2,
+      "e": "Python evaluates 14 % 2 to 0.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-267",
+      "q": "What is the value of the Python expression 5 % 5?",
+      "o": [
+        "0",
+        "-1",
+        "2",
+        "1"
+      ],
+      "a": 0,
+      "e": "Python evaluates 5 % 5 to 0.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-268",
+      "q": "What does range(2, 6) produce?",
+      "o": [
+        "2, 3, 4, 5",
+        "6 only",
+        "2, 3, 4, 5, 6",
+        "1, 2, 3, 4, 5"
+      ],
+      "a": 0,
+      "e": "The stop value in range is excluded.",
+      "d": "Medium",
+      "topic": "Control Structures",
+      "slo": "Understand and apply control structures concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-269",
+      "q": "What does print('A', 'B', sep='-') display?",
+      "o": [
+        "A B-",
+        "AB",
+        "A,B",
+        "A-B"
+      ],
+      "a": 3,
+      "e": "sep='-' inserts a hyphen between the two arguments.",
+      "d": "Easy",
+      "topic": "Input and Output",
+      "slo": "Understand and apply input and output concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-270",
+      "q": "What does the and operator require for a True result?",
+      "o": [
+        "It always returns True",
+        "Both operands must be false",
+        "Both operands must be truthy",
+        "Either operand must be truthy"
+      ],
+      "a": 2,
+      "e": "Logical and is true only when both Boolean conditions are true.",
+      "d": "Medium",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-271",
+      "q": "What is a computer program?",
+      "o": [
+        "A network switch",
+        "A hardware power cable",
+        "A monitor display",
+        "A sequence of instructions for a computer"
+      ],
+      "a": 3,
+      "e": "A program contains instructions that a computer executes.",
+      "d": "Easy",
+      "topic": "Computer Programs",
+      "slo": "Understand and apply computer programs concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-272",
+      "q": "What is the value of type(3.5).__name__?",
+      "o": [
+        "'str'",
+        "'int'",
+        "'float'",
+        "'bool'"
+      ],
+      "a": 2,
+      "e": "3.5 is a floating-point literal.",
+      "d": "Medium",
+      "topic": "Python Variables",
+      "slo": "Understand and apply python variables concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-273",
+      "q": "What is the value of the Python expression 7 * 7?",
+      "o": [
+        "49",
+        "51",
+        "50",
+        "48"
+      ],
+      "a": 0,
+      "e": "Python evaluates 7 * 7 to 49.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-274",
+      "q": "What is the value of the Python expression 19 % 3?",
+      "o": [
+        "1",
+        "0",
+        "3",
+        "2"
+      ],
+      "a": 0,
+      "e": "Python evaluates 19 % 3 to 1.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-275",
+      "q": "Which of these is a high-level programming language?",
+      "o": [
+        "Python",
+        "Binary machine instructions",
+        "CPU microcode",
+        "Electrical pulses"
+      ],
+      "a": 0,
+      "e": "Python uses high-level readable constructs.",
+      "d": "Easy",
+      "topic": "Computer Programs",
+      "slo": "Understand and apply computer programs concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-276",
+      "q": "What is the value of the Python expression 10 * 10?",
+      "o": [
+        "101",
+        "102",
+        "100",
+        "99"
+      ],
+      "a": 2,
+      "e": "Python evaluates 10 * 10 to 100.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-277",
+      "q": "What does range(1, 8, 2) produce?",
+      "o": [
+        "2, 4, 6, 8",
+        "1, 3, 5, 7, 9",
+        "1, 3, 5, 7",
+        "1, 2, 3, 4, 5, 6, 7"
+      ],
+      "a": 2,
+      "e": "The third argument specifies a step of two.",
+      "d": "Medium",
+      "topic": "Control Structures",
+      "slo": "Understand and apply control structures concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-278",
+      "q": "What is the value of the Python expression 15 // 6?",
+      "o": [
+        "3",
+        "2",
+        "1",
+        "4"
+      ],
+      "a": 1,
+      "e": "Python evaluates 15 // 6 to 2.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-279",
+      "q": "What is the value of the Python expression 17 * 6?",
+      "o": [
+        "101",
+        "103",
+        "102",
+        "104"
+      ],
+      "a": 2,
+      "e": "Python evaluates 17 * 6 to 102.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-280",
+      "q": "What is the main advantage of using functions?",
+      "o": [
+        "Code reuse and easier organization",
+        "Guaranteed zero bugs",
+        "Automatic hardware repair",
+        "No need for testing"
+      ],
+      "a": 0,
+      "e": "Functions reduce repetition and structure programs.",
+      "d": "Medium",
+      "topic": "Functions",
+      "slo": "Understand and apply functions concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-281",
+      "q": "What is the value of the Python expression 19 // 2?",
+      "o": [
+        "9",
+        "10",
+        "8",
+        "11"
+      ],
+      "a": 0,
+      "e": "Python evaluates 19 // 2 to 9.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-282",
+      "q": "Which prompt is typically shown in the Python interactive shell?",
+      "o": [
+        "@@@",
+        "$$$",
+        "###",
+        ">>>"
+      ],
+      "a": 3,
+      "e": "The standard Python shell prompt is >>>.",
+      "d": "Easy",
+      "topic": "Python Overview",
+      "slo": "Understand and apply python overview concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-283",
+      "q": "Which Python type stores decimal floating-point numbers?",
+      "o": [
+        "int",
+        "bool",
+        "float",
+        "str"
+      ],
+      "a": 2,
+      "e": "float represents floating-point numeric values.",
+      "d": "Medium",
+      "topic": "Python Variables",
+      "slo": "Understand and apply python variables concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-284",
+      "q": "What is the main role of a programming language?",
+      "o": [
+        "Replace the CPU",
+        "Supply electricity",
+        "Store paper records",
+        "Express instructions for a computer"
+      ],
+      "a": 3,
+      "e": "A programming language represents computational instructions.",
+      "d": "Easy",
+      "topic": "Computer Programs",
+      "slo": "Understand and apply computer programs concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-285",
+      "q": "What is the value of the Python expression 19 * 7?",
+      "o": [
+        "133",
+        "132",
+        "135",
+        "134"
+      ],
+      "a": 0,
+      "e": "Python evaluates 19 * 7 to 133.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-286",
+      "q": "What is the value of the Python expression 17 - 2?",
+      "o": [
+        "14",
+        "17",
+        "16",
+        "15"
+      ],
+      "a": 3,
+      "e": "Python evaluates 17 - 2 to 15.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-287",
+      "q": "Which Python operator gives the remainder?",
+      "o": [
+        "/",
+        "%",
+        "**",
+        "//"
+      ],
+      "a": 1,
+      "e": "% returns the remainder of division.",
+      "d": "Medium",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-288",
+      "q": "What is elif used for?",
+      "o": [
+        "Creating a list only",
+        "Declaring a float",
+        "Printing without output",
+        "Testing an additional condition"
+      ],
+      "a": 3,
+      "e": "elif adds conditional alternatives.",
+      "d": "Medium",
+      "topic": "Control Structures",
+      "slo": "Understand and apply control structures concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-289",
+      "q": "What is the value of the Python expression 7 % 3?",
+      "o": [
+        "2",
+        "3",
+        "0",
+        "1"
+      ],
+      "a": 3,
+      "e": "Python evaluates 7 % 3 to 1.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-290",
+      "q": "Which built-in function returns an absolute value?",
+      "o": [
+        "len()",
+        "int()",
+        "abs()",
+        "pow()"
+      ],
+      "a": 2,
+      "e": "abs returns the nonnegative magnitude.",
+      "d": "Medium",
+      "topic": "Functions",
+      "slo": "Understand and apply functions concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-291",
+      "q": "What is the value of the Python expression 17 // 10?",
+      "o": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "a": 1,
+      "e": "Python evaluates 17 // 10 to 1.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-292",
+      "q": "What is the value of the Python expression 6 + 6?",
+      "o": [
+        "11",
+        "14",
+        "13",
+        "12"
+      ],
+      "a": 3,
+      "e": "Python evaluates 6 + 6 to 12.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-293",
+      "q": "What is the value of the Python expression 7 // 8?",
+      "o": [
+        "-1",
+        "2",
+        "1",
+        "0"
+      ],
+      "a": 3,
+      "e": "Python evaluates 7 // 8 to 0.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-294",
+      "q": "What is the value of the Python expression 12 // 9?",
+      "o": [
+        "0",
+        "3",
+        "2",
+        "1"
+      ],
+      "a": 3,
+      "e": "Python evaluates 12 // 9 to 1.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-295",
+      "q": "What is the value of the Python expression 15 + 3?",
+      "o": [
+        "18",
+        "20",
+        "19",
+        "17"
+      ],
+      "a": 0,
+      "e": "Python evaluates 15 + 3 to 18.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-296",
+      "q": "What is the value of the Python expression 13 // 2?",
+      "o": [
+        "8",
+        "6",
+        "7",
+        "5"
+      ],
+      "a": 1,
+      "e": "Python evaluates 13 // 2 to 6.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-297",
+      "q": "What is the value of the Python expression 10 - 9?",
+      "o": [
+        "2",
+        "1",
+        "3",
+        "0"
+      ],
+      "a": 1,
+      "e": "Python evaluates 10 - 9 to 1.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-298",
+      "q": "What is the value of the Python expression 11 * 6?",
+      "o": [
+        "65",
+        "67",
+        "68",
+        "66"
+      ],
+      "a": 3,
+      "e": "Python evaluates 11 * 6 to 66.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-299",
+      "q": "What is a runtime error?",
+      "o": [
+        "An error that occurs while the program runs",
+        "A broken power cable",
+        "A spelling mistake in a comment only",
+        "A file icon"
+      ],
+      "a": 0,
+      "e": "Runtime errors arise during execution.",
+      "d": "Medium",
+      "topic": "Debugging and Errors",
+      "slo": "Understand and apply debugging and errors concepts in Python programming."
+    },
+    {
+      "id": "CS11CH03-300",
+      "q": "What is the value of the Python expression 4 * 10?",
+      "o": [
+        "40",
+        "41",
+        "42",
+        "39"
+      ],
+      "a": 0,
+      "e": "Python evaluates 4 * 10 to 40.",
+      "d": "Hard",
+      "topic": "Python Operators",
+      "slo": "Understand and apply python operators concepts in Python programming."
+    }
+  ]
+}

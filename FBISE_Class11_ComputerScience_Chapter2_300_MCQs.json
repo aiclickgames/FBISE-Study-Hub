@@ -1,0 +1,4504 @@
+{
+  "questions": [
+    {
+      "id": "CS11CH02-001",
+      "q": "What is computational thinking?",
+      "o": [
+        "A structured approach to understanding and solving problems",
+        "A network cable",
+        "A type of computer memory",
+        "A programming language"
+      ],
+      "a": 0,
+      "e": "Computational thinking uses systematic problem-solving ideas.",
+      "d": "Easy",
+      "topic": "Computational Thinking",
+      "slo": "Apply and explain computational thinking concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-002",
+      "q": "Which process removes irrelevant details from a problem?",
+      "o": [
+        "Compilation",
+        "Encryption",
+        "Abstraction",
+        "Decomposition"
+      ],
+      "a": 2,
+      "e": "Abstraction focuses on essential information.",
+      "d": "Easy",
+      "topic": "Computational Thinking",
+      "slo": "Apply and explain computational thinking concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-003",
+      "q": "Which process divides a complex problem into manageable parts?",
+      "o": [
+        "Decomposition",
+        "Encoding",
+        "Abstraction",
+        "Sorting"
+      ],
+      "a": 0,
+      "e": "Decomposition breaks large tasks into smaller subproblems.",
+      "d": "Easy",
+      "topic": "Computational Thinking",
+      "slo": "Apply and explain computational thinking concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-004",
+      "q": "Which skill identifies similarities among problems?",
+      "o": [
+        "Signal conversion",
+        "Hardware installation",
+        "Data encryption",
+        "Pattern recognition"
+      ],
+      "a": 3,
+      "e": "Pattern recognition finds repeated features and structures.",
+      "d": "Easy",
+      "topic": "Computational Thinking",
+      "slo": "Apply and explain computational thinking concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-005",
+      "q": "What is the goal of algorithmic thinking?",
+      "o": [
+        "Drawing a network map",
+        "Choosing a monitor",
+        "Compressing a picture",
+        "Developing ordered steps to solve a problem"
+      ],
+      "a": 3,
+      "e": "Algorithmic thinking organizes a solution into executable steps.",
+      "d": "Easy",
+      "topic": "Computational Thinking",
+      "slo": "Apply and explain computational thinking concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-006",
+      "q": "In the input-process-output model, which stage produces the result?",
+      "o": [
+        "Transmission only",
+        "Output",
+        "Storage only",
+        "Input"
+      ],
+      "a": 1,
+      "e": "Output presents the result of processing.",
+      "d": "Easy",
+      "topic": "Computational Thinking",
+      "slo": "Apply and explain computational thinking concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-007",
+      "q": "Which stage of the input-process-output model receives information?",
+      "o": [
+        "Input",
+        "Printing only",
+        "Output",
+        "Display only"
+      ],
+      "a": 0,
+      "e": "Input supplies the data to be processed.",
+      "d": "Easy",
+      "topic": "Computational Thinking",
+      "slo": "Apply and explain computational thinking concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-008",
+      "q": "Which stage transforms input data into a result?",
+      "o": [
+        "Output",
+        "Backup",
+        "Process",
+        "Input"
+      ],
+      "a": 2,
+      "e": "Processing applies operations to the input.",
+      "d": "Easy",
+      "topic": "Computational Thinking",
+      "slo": "Apply and explain computational thinking concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-009",
+      "q": "When planning a website, ignoring individual lines of code to focus on layout illustrates what?",
+      "o": [
+        "Binary search",
+        "Bubble sort",
+        "Abstraction",
+        "Iteration"
+      ],
+      "a": 2,
+      "e": "Abstraction keeps attention on relevant design aspects.",
+      "d": "Easy",
+      "topic": "Computational Thinking",
+      "slo": "Apply and explain computational thinking concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-010",
+      "q": "Dividing a website project into design, content, and testing tasks illustrates what?",
+      "o": [
+        "Compression",
+        "Searching",
+        "Encryption",
+        "Decomposition"
+      ],
+      "a": 3,
+      "e": "The project is broken into smaller tasks.",
+      "d": "Easy",
+      "topic": "Computational Thinking",
+      "slo": "Apply and explain computational thinking concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-011",
+      "q": "Recognizing that multiple login forms need similar checks is an example of what?",
+      "o": [
+        "Quantization",
+        "Data deletion",
+        "Random guessing",
+        "Pattern recognition"
+      ],
+      "a": 3,
+      "e": "Similar input-validation patterns can be reused.",
+      "d": "Easy",
+      "topic": "Computational Thinking",
+      "slo": "Apply and explain computational thinking concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-012",
+      "q": "What makes a problem-solving method reusable?",
+      "o": [
+        "Avoiding documentation",
+        "Recognizing common patterns",
+        "Removing all inputs",
+        "Using a different keyboard"
+      ],
+      "a": 1,
+      "e": "Common patterns support solutions to similar problems.",
+      "d": "Easy",
+      "topic": "Computational Thinking",
+      "slo": "Apply and explain computational thinking concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-013",
+      "q": "What should be identified before designing a solution?",
+      "o": [
+        "The printer model",
+        "The problem and required outcome",
+        "The final font only",
+        "The computer's color"
+      ],
+      "a": 1,
+      "e": "A clear problem statement guides the solution.",
+      "d": "Easy",
+      "topic": "Computational Thinking",
+      "slo": "Apply and explain computational thinking concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-014",
+      "q": "Why is abstraction useful?",
+      "o": [
+        "It replaces testing",
+        "It reduces complexity by hiding unnecessary details",
+        "It guarantees zero errors",
+        "It always removes every variable"
+      ],
+      "a": 1,
+      "e": "Abstraction keeps only relevant aspects of the problem.",
+      "d": "Easy",
+      "topic": "Computational Thinking",
+      "slo": "Apply and explain computational thinking concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-015",
+      "q": "Why is decomposition useful?",
+      "o": [
+        "It increases irrelevant details",
+        "It removes the need for algorithms",
+        "Smaller tasks are easier to understand and solve",
+        "It converts analog signals"
+      ],
+      "a": 2,
+      "e": "Breaking down a task improves manageability.",
+      "d": "Easy",
+      "topic": "Computational Thinking",
+      "slo": "Apply and explain computational thinking concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-016",
+      "q": "What is the relationship between pattern recognition and algorithms?",
+      "o": [
+        "Patterns can guide the design of repeatable procedures",
+        "They are unrelated",
+        "Patterns prevent all iteration",
+        "Algorithms are hardware devices"
+      ],
+      "a": 0,
+      "e": "Recognized regularities can inform algorithm design.",
+      "d": "Easy",
+      "topic": "Computational Thinking",
+      "slo": "Apply and explain computational thinking concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-017",
+      "q": "What is an algorithm?",
+      "o": [
+        "A physical processor",
+        "An image format",
+        "A finite sequence of clear steps to solve a problem",
+        "A computer virus"
+      ],
+      "a": 2,
+      "e": "An algorithm specifies a systematic solution.",
+      "d": "Easy",
+      "topic": "Algorithms and Flowcharts",
+      "slo": "Apply and explain algorithms and flowcharts concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-018",
+      "q": "Which algorithm property requires it to finish?",
+      "o": [
+        "Randomness",
+        "Infinite looping",
+        "Ambiguity",
+        "Finiteness"
+      ],
+      "a": 3,
+      "e": "A finite algorithm terminates after a limited number of steps.",
+      "d": "Easy",
+      "topic": "Algorithms and Flowcharts",
+      "slo": "Apply and explain algorithms and flowcharts concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-019",
+      "q": "Which property means instructions must be clearly stated?",
+      "o": [
+        "Uncertainty",
+        "Decoration",
+        "Definiteness",
+        "Compression"
+      ],
+      "a": 2,
+      "e": "Definiteness requires unambiguous steps.",
+      "d": "Easy",
+      "topic": "Algorithms and Flowcharts",
+      "slo": "Apply and explain algorithms and flowcharts concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-020",
+      "q": "Which property means steps can actually be carried out?",
+      "o": [
+        "Colorfulness",
+        "Complexity",
+        "Secrecy",
+        "Effectiveness"
+      ],
+      "a": 3,
+      "e": "Effective instructions are feasible and executable.",
+      "d": "Easy",
+      "topic": "Algorithms and Flowcharts",
+      "slo": "Apply and explain algorithms and flowcharts concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-021",
+      "q": "Which algorithm property relates to producing correct results consistently?",
+      "o": [
+        "Screen brightness",
+        "Reliability",
+        "Font size",
+        "File extension"
+      ],
+      "a": 1,
+      "e": "Reliable algorithms produce correct results for valid inputs.",
+      "d": "Easy",
+      "topic": "Algorithms and Flowcharts",
+      "slo": "Apply and explain algorithms and flowcharts concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-022",
+      "q": "What is a flowchart?",
+      "o": [
+        "A storage device",
+        "A graphical representation of an algorithm",
+        "A spreadsheet formula",
+        "A network cable diagram only"
+      ],
+      "a": 1,
+      "e": "Flowcharts depict procedural logic using symbols and arrows.",
+      "d": "Easy",
+      "topic": "Algorithms and Flowcharts",
+      "slo": "Apply and explain algorithms and flowcharts concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-023",
+      "q": "Which flowchart symbol represents start or end?",
+      "o": [
+        "Rectangle only",
+        "Parallelogram",
+        "Diamond",
+        "Oval or terminator"
+      ],
+      "a": 3,
+      "e": "A terminator denotes the beginning or end.",
+      "d": "Easy",
+      "topic": "Algorithms and Flowcharts",
+      "slo": "Apply and explain algorithms and flowcharts concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-024",
+      "q": "Which flowchart symbol represents a decision?",
+      "o": [
+        "Parallelogram",
+        "Diamond",
+        "Oval",
+        "Circle only"
+      ],
+      "a": 1,
+      "e": "A diamond branches according to a condition.",
+      "d": "Easy",
+      "topic": "Algorithms and Flowcharts",
+      "slo": "Apply and explain algorithms and flowcharts concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-025",
+      "q": "Which flowchart symbol represents input or output?",
+      "o": [
+        "Hexagon only",
+        "Parallelogram",
+        "Oval",
+        "Diamond"
+      ],
+      "a": 1,
+      "e": "A parallelogram indicates input or output.",
+      "d": "Easy",
+      "topic": "Algorithms and Flowcharts",
+      "slo": "Apply and explain algorithms and flowcharts concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-026",
+      "q": "Which flowchart symbol represents a processing step?",
+      "o": [
+        "Diamond",
+        "Arrow only",
+        "Rectangle",
+        "Oval"
+      ],
+      "a": 2,
+      "e": "Rectangles denote calculations or processing operations.",
+      "d": "Easy",
+      "topic": "Algorithms and Flowcharts",
+      "slo": "Apply and explain algorithms and flowcharts concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-027",
+      "q": "What indicates direction of control in a flowchart?",
+      "o": [
+        "Page margins",
+        "Arrowed flow lines",
+        "Color palette",
+        "File size"
+      ],
+      "a": 1,
+      "e": "Arrows connect steps in execution order.",
+      "d": "Easy",
+      "topic": "Algorithms and Flowcharts",
+      "slo": "Apply and explain algorithms and flowcharts concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-028",
+      "q": "Which flowchart shape is appropriate for checking whether a number is positive?",
+      "o": [
+        "Rectangle only",
+        "Diamond",
+        "Parallelogram",
+        "Oval"
+      ],
+      "a": 1,
+      "e": "A yes/no condition is a decision.",
+      "d": "Easy",
+      "topic": "Algorithms and Flowcharts",
+      "slo": "Apply and explain algorithms and flowcharts concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-029",
+      "q": "Which flowchart shape is appropriate for displaying a result?",
+      "o": [
+        "Connector only",
+        "Diamond",
+        "Oval",
+        "Parallelogram"
+      ],
+      "a": 3,
+      "e": "Displaying a value is output.",
+      "d": "Easy",
+      "topic": "Algorithms and Flowcharts",
+      "slo": "Apply and explain algorithms and flowcharts concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-030",
+      "q": "Which flowchart shape is appropriate for calculating a sum?",
+      "o": [
+        "Oval",
+        "Rectangle",
+        "Diamond",
+        "Parallelogram only"
+      ],
+      "a": 1,
+      "e": "Arithmetic processing uses a process box.",
+      "d": "Easy",
+      "topic": "Algorithms and Flowcharts",
+      "slo": "Apply and explain algorithms and flowcharts concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-031",
+      "q": "What is the usual first flowchart step?",
+      "o": [
+        "Decision on final answer",
+        "Stop terminator",
+        "Start terminator",
+        "Output result"
+      ],
+      "a": 2,
+      "e": "A flowchart begins with a start symbol.",
+      "d": "Easy",
+      "topic": "Algorithms and Flowcharts",
+      "slo": "Apply and explain algorithms and flowcharts concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-032",
+      "q": "What is the usual final flowchart step?",
+      "o": [
+        "End terminator",
+        "Decision diamond",
+        "Processing rectangle",
+        "Input parallelogram"
+      ],
+      "a": 0,
+      "e": "An end terminator indicates completion.",
+      "d": "Easy",
+      "topic": "Algorithms and Flowcharts",
+      "slo": "Apply and explain algorithms and flowcharts concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-033",
+      "q": "What does a decision with two outgoing arrows commonly represent?",
+      "o": [
+        "Two processors",
+        "Two storage disks",
+        "Two file formats",
+        "True and false branches"
+      ],
+      "a": 3,
+      "e": "Conditions typically branch by yes/no or true/false.",
+      "d": "Easy",
+      "topic": "Algorithms and Flowcharts",
+      "slo": "Apply and explain algorithms and flowcharts concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-034",
+      "q": "What is a loop in an algorithm?",
+      "o": [
+        "A network adapter",
+        "A type of output printer",
+        "A permanently stored file",
+        "Repeated execution while a condition applies"
+      ],
+      "a": 3,
+      "e": "Loops repeat a set of instructions.",
+      "d": "Easy",
+      "topic": "Algorithms and Flowcharts",
+      "slo": "Apply and explain algorithms and flowcharts concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-035",
+      "q": "What is a sequence in an algorithm?",
+      "o": [
+        "Instructions executed in order",
+        "A file backup",
+        "Instructions selected randomly",
+        "A type of firewall"
+      ],
+      "a": 0,
+      "e": "Sequential logic follows a defined order.",
+      "d": "Easy",
+      "topic": "Algorithms and Flowcharts",
+      "slo": "Apply and explain algorithms and flowcharts concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-036",
+      "q": "What is selection in algorithm design?",
+      "o": [
+        "Removing all variables",
+        "Increasing memory",
+        "Choosing a path according to a condition",
+        "Arranging numbers only"
+      ],
+      "a": 2,
+      "e": "Selection uses conditional branching.",
+      "d": "Easy",
+      "topic": "Algorithms and Flowcharts",
+      "slo": "Apply and explain algorithms and flowcharts concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-037",
+      "q": "What is iteration in algorithm design?",
+      "o": [
+        "Printing only",
+        "Renaming files",
+        "Drawing icons",
+        "Repeating instructions"
+      ],
+      "a": 3,
+      "e": "Iteration performs steps multiple times.",
+      "d": "Easy",
+      "topic": "Algorithms and Flowcharts",
+      "slo": "Apply and explain algorithms and flowcharts concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-038",
+      "q": "What is pseudocode?",
+      "o": [
+        "A language-independent description of algorithm steps",
+        "A network address",
+        "A physical memory module",
+        "Machine code executed directly by the CPU"
+      ],
+      "a": 0,
+      "e": "Pseudocode expresses logic in readable structured statements.",
+      "d": "Easy",
+      "topic": "Pseudocode",
+      "slo": "Apply and explain pseudocode concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-039",
+      "q": "Can pseudocode usually be executed directly by a computer?",
+      "o": [
+        "Yes, by every CPU without translation",
+        "Only on routers",
+        "Only when printed",
+        "No, it is a planning representation"
+      ],
+      "a": 3,
+      "e": "Pseudocode must be implemented in a programming language to run.",
+      "d": "Easy",
+      "topic": "Pseudocode",
+      "slo": "Apply and explain pseudocode concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-040",
+      "q": "Which keyword commonly obtains a value in pseudocode?",
+      "o": [
+        "OUTPUT",
+        "PRINT ONLY",
+        "INPUT",
+        "STOP"
+      ],
+      "a": 2,
+      "e": "INPUT indicates reading data.",
+      "d": "Easy",
+      "topic": "Pseudocode",
+      "slo": "Apply and explain pseudocode concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-041",
+      "q": "Which keyword commonly displays a value in pseudocode?",
+      "o": [
+        "WHILE",
+        "DECLARE",
+        "INPUT",
+        "OUTPUT"
+      ],
+      "a": 3,
+      "e": "OUTPUT indicates presenting a result.",
+      "d": "Easy",
+      "topic": "Pseudocode",
+      "slo": "Apply and explain pseudocode concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-042",
+      "q": "Which pseudocode keyword commonly introduces a condition?",
+      "o": [
+        "INPUT",
+        "OUTPUT",
+        "END",
+        "IF"
+      ],
+      "a": 3,
+      "e": "IF starts conditional logic.",
+      "d": "Easy",
+      "topic": "Pseudocode",
+      "slo": "Apply and explain pseudocode concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-043",
+      "q": "Which keyword commonly supplies an alternative branch?",
+      "o": [
+        "PRINT",
+        "INPUT",
+        "ELSE",
+        "DECLARE"
+      ],
+      "a": 2,
+      "e": "ELSE identifies the other path of a condition.",
+      "d": "Easy",
+      "topic": "Pseudocode",
+      "slo": "Apply and explain pseudocode concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-044",
+      "q": "Which keyword commonly starts a counted loop?",
+      "o": [
+        "OUTPUT",
+        "STOP",
+        "FOR",
+        "DECLARE"
+      ],
+      "a": 2,
+      "e": "FOR is commonly used for count-controlled iteration.",
+      "d": "Easy",
+      "topic": "Pseudocode",
+      "slo": "Apply and explain pseudocode concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-045",
+      "q": "Which keyword commonly starts a condition-controlled loop?",
+      "o": [
+        "INPUT",
+        "PRINT",
+        "DECLARE",
+        "WHILE"
+      ],
+      "a": 3,
+      "e": "WHILE repeats while its condition is satisfied.",
+      "d": "Easy",
+      "topic": "Pseudocode",
+      "slo": "Apply and explain pseudocode concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-046",
+      "q": "Why is indentation used in pseudocode?",
+      "o": [
+        "To change hardware",
+        "To encrypt source code",
+        "To show the structure and nesting of steps",
+        "To speed up a processor"
+      ],
+      "a": 2,
+      "e": "Indentation makes blocks easier to read.",
+      "d": "Easy",
+      "topic": "Pseudocode",
+      "slo": "Apply and explain pseudocode concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-047",
+      "q": "Why are comments included in pseudocode?",
+      "o": [
+        "To replace conditions",
+        "To store binary files",
+        "To explain the purpose of steps",
+        "To execute hidden calculations"
+      ],
+      "a": 2,
+      "e": "Comments describe logic for readers.",
+      "d": "Easy",
+      "topic": "Pseudocode",
+      "slo": "Apply and explain pseudocode concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-048",
+      "q": "Which marker may denote a single-line pseudocode comment?",
+      "o": [
+        "$$",
+        "//",
+        "%%",
+        "@@"
+      ],
+      "a": 1,
+      "e": "The textbook shows // as a possible comment marker.",
+      "d": "Easy",
+      "topic": "Pseudocode",
+      "slo": "Apply and explain pseudocode concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-049",
+      "q": "What is the role of DECLARE in pseudocode?",
+      "o": [
+        "Finishing a program",
+        "Displaying a graph",
+        "Introducing a variable",
+        "Connecting a network"
+      ],
+      "a": 2,
+      "e": "DECLARE may be used to introduce variables.",
+      "d": "Easy",
+      "topic": "Pseudocode",
+      "slo": "Apply and explain pseudocode concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-050",
+      "q": "Which keyword can indicate a whole-number variable type?",
+      "o": [
+        "WHILE",
+        "OUTPUT",
+        "INTEGER",
+        "STOP"
+      ],
+      "a": 2,
+      "e": "INTEGER denotes an integral data type.",
+      "d": "Easy",
+      "topic": "Pseudocode",
+      "slo": "Apply and explain pseudocode concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-051",
+      "q": "Which keyword can indicate a text variable type?",
+      "o": [
+        "IF",
+        "END",
+        "STRING",
+        "FOR"
+      ],
+      "a": 2,
+      "e": "STRING represents text data.",
+      "d": "Easy",
+      "topic": "Pseudocode",
+      "slo": "Apply and explain pseudocode concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-052",
+      "q": "Are line numbers mandatory in pseudocode?",
+      "o": [
+        "Only for loops",
+        "No, they are optional",
+        "Only for output",
+        "Yes, always"
+      ],
+      "a": 1,
+      "e": "The textbook treats line numbering as optional.",
+      "d": "Easy",
+      "topic": "Pseudocode",
+      "slo": "Apply and explain pseudocode concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-053",
+      "q": "Is pseudocode governed by one universal programming-language syntax?",
+      "o": [
+        "Yes, assembly syntax only",
+        "Yes, C syntax only",
+        "Yes, Python syntax only",
+        "No, conventions vary"
+      ],
+      "a": 3,
+      "e": "Pseudocode is informal and language-independent.",
+      "d": "Easy",
+      "topic": "Pseudocode",
+      "slo": "Apply and explain pseudocode concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-054",
+      "q": "Which symbol may represent assignment in pseudocode?",
+      "o": [
+        "== only",
+        ">= only",
+        "!= only",
+        ":="
+      ],
+      "a": 3,
+      "e": "The textbook lists := as an assignment notation.",
+      "d": "Easy",
+      "topic": "Pseudocode",
+      "slo": "Apply and explain pseudocode concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-055",
+      "q": "Which operator tests whether one value is greater than another?",
+      "o": [
+        ">",
+        "+",
+        "=",
+        "<"
+      ],
+      "a": 0,
+      "e": "The > operator denotes greater than.",
+      "d": "Easy",
+      "topic": "Pseudocode",
+      "slo": "Apply and explain pseudocode concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-056",
+      "q": "Which operator tests whether one value is less than another?",
+      "o": [
+        "<",
+        "*",
+        ">",
+        "/"
+      ],
+      "a": 0,
+      "e": "The < operator denotes less than.",
+      "d": "Easy",
+      "topic": "Pseudocode",
+      "slo": "Apply and explain pseudocode concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-057",
+      "q": "What is a useful quality of well-written pseudocode?",
+      "o": [
+        "Dependence on a particular compiler",
+        "Unexplained jumps",
+        "Readable, clear logic",
+        "Mandatory machine instructions"
+      ],
+      "a": 2,
+      "e": "Pseudocode should communicate an algorithm clearly.",
+      "d": "Easy",
+      "topic": "Pseudocode",
+      "slo": "Apply and explain pseudocode concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-058",
+      "q": "What is the first step in planning a computational artifact?",
+      "o": [
+        "Choose decorative colors",
+        "Publish immediately",
+        "Delete the input",
+        "Define the problem"
+      ],
+      "a": 3,
+      "e": "Planning starts with a clear problem statement.",
+      "d": "Easy",
+      "topic": "Computational Artifacts",
+      "slo": "Apply and explain computational artifacts concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-059",
+      "q": "What should be listed after defining the problem?",
+      "o": [
+        "Only keyboard shortcuts",
+        "Only the programmer's name",
+        "Only the background image",
+        "Required inputs and expected outputs"
+      ],
+      "a": 3,
+      "e": "Inputs and outputs specify what the solution needs and produces.",
+      "d": "Easy",
+      "topic": "Computational Artifacts",
+      "slo": "Apply and explain computational artifacts concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-060",
+      "q": "Why outline an algorithm before implementation?",
+      "o": [
+        "To organize solution logic",
+        "To eliminate testing",
+        "To guarantee a perfect interface",
+        "To avoid identifying inputs"
+      ],
+      "a": 0,
+      "e": "An outline guides the implementation.",
+      "d": "Easy",
+      "topic": "Computational Artifacts",
+      "slo": "Apply and explain computational artifacts concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-061",
+      "q": "What is the purpose of testing a computational artifact?",
+      "o": [
+        "Hide errors",
+        "Check whether it behaves as expected",
+        "Make it use more memory",
+        "Remove its documentation"
+      ],
+      "a": 1,
+      "e": "Testing checks the artifact against expected behavior.",
+      "d": "Easy",
+      "topic": "Computational Artifacts",
+      "slo": "Apply and explain computational artifacts concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-062",
+      "q": "What is debugging?",
+      "o": [
+        "Converting binary to octal only",
+        "Increasing screen size",
+        "Finding and correcting errors",
+        "Designing a computer case"
+      ],
+      "a": 2,
+      "e": "Debugging locates and fixes problems in an implementation.",
+      "d": "Easy",
+      "topic": "Computational Artifacts",
+      "slo": "Apply and explain computational artifacts concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-063",
+      "q": "What is a test case?",
+      "o": [
+        "A specific input with an expected result",
+        "A file extension",
+        "A network socket",
+        "A computer bag"
+      ],
+      "a": 0,
+      "e": "Test cases help verify the algorithm's behavior.",
+      "d": "Easy",
+      "topic": "Computational Artifacts",
+      "slo": "Apply and explain computational artifacts concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-064",
+      "q": "What is a boundary test?",
+      "o": [
+        "A test of monitor edges",
+        "A random wallpaper",
+        "A test near the limits of valid input",
+        "A hardware power test only"
+      ],
+      "a": 2,
+      "e": "Boundary tests exercise edge values and limits.",
+      "d": "Easy",
+      "topic": "Computational Artifacts",
+      "slo": "Apply and explain computational artifacts concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-065",
+      "q": "Why document a solution?",
+      "o": [
+        "To replace all inputs",
+        "To change its output randomly",
+        "To prevent execution",
+        "To help others understand its design and use"
+      ],
+      "a": 3,
+      "e": "Documentation explains purpose, behavior, and usage.",
+      "d": "Easy",
+      "topic": "Computational Artifacts",
+      "slo": "Apply and explain computational artifacts concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-066",
+      "q": "What is a dry run?",
+      "o": [
+        "Installing a network card",
+        "Manually tracing an algorithm step by step",
+        "Running a wet hardware test",
+        "Formatting a disk"
+      ],
+      "a": 1,
+      "e": "Dry runs follow variable values and control flow without execution.",
+      "d": "Easy",
+      "topic": "Computational Artifacts",
+      "slo": "Apply and explain computational artifacts concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-067",
+      "q": "What does a trace table record?",
+      "o": [
+        "Cable lengths",
+        "File icon colors",
+        "Monitor brightness",
+        "Changing variable values during execution"
+      ],
+      "a": 3,
+      "e": "Trace tables help inspect stepwise algorithm behavior.",
+      "d": "Easy",
+      "topic": "Computational Artifacts",
+      "slo": "Apply and explain computational artifacts concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-068",
+      "q": "Which action is appropriate after discovering an incorrect output?",
+      "o": [
+        "Debug and retest",
+        "Publish without changes",
+        "Ignore the failure",
+        "Remove the input"
+      ],
+      "a": 0,
+      "e": "Corrections should be verified with additional tests.",
+      "d": "Easy",
+      "topic": "Computational Artifacts",
+      "slo": "Apply and explain computational artifacts concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-069",
+      "q": "What is an expected output?",
+      "o": [
+        "A CPU serial number",
+        "The result specified for a given input",
+        "Any randomly generated number",
+        "The size of a keyboard"
+      ],
+      "a": 1,
+      "e": "Expected output is used to judge correctness.",
+      "d": "Easy",
+      "topic": "Computational Artifacts",
+      "slo": "Apply and explain computational artifacts concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-070",
+      "q": "Why use multiple test cases?",
+      "o": [
+        "To make the program longer",
+        "To check different conditions and inputs",
+        "To avoid specifying outputs",
+        "To hide defects"
+      ],
+      "a": 1,
+      "e": "Different cases reveal different faults.",
+      "d": "Easy",
+      "topic": "Computational Artifacts",
+      "slo": "Apply and explain computational artifacts concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-071",
+      "q": "What is a computational artifact?",
+      "o": [
+        "Only a physical stone tool",
+        "A digital product created using computing processes",
+        "Only a paper clip",
+        "Only a motherboard"
+      ],
+      "a": 1,
+      "e": "Computational artifacts are products of computational design.",
+      "d": "Easy",
+      "topic": "Computational Artifacts",
+      "slo": "Apply and explain computational artifacts concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-072",
+      "q": "What is sorting?",
+      "o": [
+        "Arranging items in a defined order",
+        "Removing every duplicate",
+        "Encrypting every item",
+        "Searching for one item only"
+      ],
+      "a": 0,
+      "e": "Sorting orders values such as ascending or descending.",
+      "d": "Easy",
+      "topic": "Sorting Algorithms",
+      "slo": "Apply and explain sorting algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-073",
+      "q": "Which order arranges numbers from smallest to largest?",
+      "o": [
+        "Ascending",
+        "Descending",
+        "Circular only",
+        "Random"
+      ],
+      "a": 0,
+      "e": "Ascending order increases from left to right.",
+      "d": "Easy",
+      "topic": "Sorting Algorithms",
+      "slo": "Apply and explain sorting algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-074",
+      "q": "Which order arranges numbers from largest to smallest?",
+      "o": [
+        "Random",
+        "Descending",
+        "Ascending",
+        "Alphabetical only"
+      ],
+      "a": 1,
+      "e": "Descending order decreases from left to right.",
+      "d": "Easy",
+      "topic": "Sorting Algorithms",
+      "slo": "Apply and explain sorting algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-075",
+      "q": "What is the key idea of insertion sort?",
+      "o": [
+        "Inspect only the middle item",
+        "Always divide the list into halves",
+        "Insert each next item into its correct place within a sorted prefix",
+        "Always swap the first and last items"
+      ],
+      "a": 2,
+      "e": "Insertion sort grows a sorted portion of the list.",
+      "d": "Easy",
+      "topic": "Sorting Algorithms",
+      "slo": "Apply and explain sorting algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-076",
+      "q": "What is usually considered sorted initially in insertion sort?",
+      "o": [
+        "The whole list",
+        "The final two elements only",
+        "The first element",
+        "No value can be sorted"
+      ],
+      "a": 2,
+      "e": "A single-element prefix is already sorted.",
+      "d": "Easy",
+      "topic": "Sorting Algorithms",
+      "slo": "Apply and explain sorting algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-077",
+      "q": "What is the main repeated operation in bubble sort?",
+      "o": [
+        "Compare and swap adjacent out-of-order items",
+        "Search a hash table",
+        "Always choose the middle item",
+        "Divide into two sorted halves"
+      ],
+      "a": 0,
+      "e": "Bubble sort exchanges adjacent values as needed.",
+      "d": "Easy",
+      "topic": "Sorting Algorithms",
+      "slo": "Apply and explain sorting algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-078",
+      "q": "What tends to move to the end after one ascending bubble-sort pass?",
+      "o": [
+        "The middle index",
+        "The largest remaining value",
+        "A random value",
+        "The smallest value always"
+      ],
+      "a": 1,
+      "e": "Adjacent swaps move a large value rightward.",
+      "d": "Easy",
+      "topic": "Sorting Algorithms",
+      "slo": "Apply and explain sorting algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-079",
+      "q": "What does a swap do?",
+      "o": [
+        "Exchange the positions of two values",
+        "Delete both values",
+        "Make a copy without changing positions",
+        "Add two values"
+      ],
+      "a": 0,
+      "e": "Swapping exchanges values in their locations.",
+      "d": "Easy",
+      "topic": "Sorting Algorithms",
+      "slo": "Apply and explain sorting algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-080",
+      "q": "Which algorithm builds a sorted prefix one item at a time?",
+      "o": [
+        "Linear search",
+        "Insertion sort",
+        "Binary search",
+        "Encryption"
+      ],
+      "a": 1,
+      "e": "Insertion sort inserts each item into a growing sorted prefix.",
+      "d": "Easy",
+      "topic": "Sorting Algorithms",
+      "slo": "Apply and explain sorting algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-081",
+      "q": "Which algorithm repeatedly compares neighboring elements?",
+      "o": [
+        "Bubble sort",
+        "Depth-first search",
+        "Linear search",
+        "Binary search"
+      ],
+      "a": 0,
+      "e": "Bubble sort uses adjacent comparisons.",
+      "d": "Easy",
+      "topic": "Sorting Algorithms",
+      "slo": "Apply and explain sorting algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-082",
+      "q": "When should a basic ascending bubble sort swap two adjacent values?",
+      "o": [
+        "When the left value is smaller",
+        "When both values are equal",
+        "When the left value is greater than the right",
+        "Always, regardless of order"
+      ],
+      "a": 2,
+      "e": "A swap corrects an out-of-order adjacent pair.",
+      "d": "Easy",
+      "topic": "Sorting Algorithms",
+      "slo": "Apply and explain sorting algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-083",
+      "q": "When should an insertion-sort step shift a sorted-prefix value right?",
+      "o": [
+        "Only if the list is empty",
+        "When that value is greater than the key in ascending order",
+        "Whenever the key is zero",
+        "When that value is smaller than the key"
+      ],
+      "a": 1,
+      "e": "Larger values are shifted to make room for the key.",
+      "d": "Easy",
+      "topic": "Sorting Algorithms",
+      "slo": "Apply and explain sorting algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-084",
+      "q": "Why can sorting help searching?",
+      "o": [
+        "Sorting encrypts data",
+        "Sorting converts text to sound",
+        "Ordered data can support efficient search methods",
+        "Sorting removes the need for any comparison"
+      ],
+      "a": 2,
+      "e": "Some searches, including binary search, require sorted data.",
+      "d": "Easy",
+      "topic": "Sorting Algorithms",
+      "slo": "Apply and explain sorting algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-085",
+      "q": "What is searching in a collection?",
+      "o": [
+        "Sorting all values automatically",
+        "Changing the data type",
+        "Finding whether and where a target item occurs",
+        "Compressing the array"
+      ],
+      "a": 2,
+      "e": "Searching locates a target value.",
+      "d": "Easy",
+      "topic": "Searching Algorithms",
+      "slo": "Apply and explain searching algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-086",
+      "q": "What does linear search do?",
+      "o": [
+        "Require a sorted array",
+        "Sort before every comparison",
+        "Check items sequentially until a match or the end",
+        "Always inspect only the middle item"
+      ],
+      "a": 2,
+      "e": "Linear search scans elements one by one.",
+      "d": "Easy",
+      "topic": "Searching Algorithms",
+      "slo": "Apply and explain searching algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-087",
+      "q": "Does linear search require sorted data?",
+      "o": [
+        "Only for strings",
+        "Yes, always",
+        "No",
+        "Only for positive numbers"
+      ],
+      "a": 2,
+      "e": "Linear search can work on unsorted collections.",
+      "d": "Easy",
+      "topic": "Searching Algorithms",
+      "slo": "Apply and explain searching algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-088",
+      "q": "What is binary search?",
+      "o": [
+        "A method of sorting neighboring items",
+        "A search that scans every item from left to right",
+        "A compression method",
+        "A search that repeatedly halves the candidate interval"
+      ],
+      "a": 3,
+      "e": "Binary search discards half the remaining ordered search range.",
+      "d": "Easy",
+      "topic": "Searching Algorithms",
+      "slo": "Apply and explain searching algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-089",
+      "q": "What important precondition does binary search require?",
+      "o": [
+        "The data must be sorted",
+        "The data must be encrypted",
+        "The data must contain only zeros",
+        "The data must be stored on paper"
+      ],
+      "a": 0,
+      "e": "Binary search relies on the order of the elements.",
+      "d": "Easy",
+      "topic": "Searching Algorithms",
+      "slo": "Apply and explain searching algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-090",
+      "q": "Which item is examined first in binary search?",
+      "o": [
+        "Always the last item",
+        "Always the first item",
+        "A randomly selected item",
+        "The middle item of the current range"
+      ],
+      "a": 3,
+      "e": "Binary search compares the target with the midpoint.",
+      "d": "Easy",
+      "topic": "Searching Algorithms",
+      "slo": "Apply and explain searching algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-091",
+      "q": "If the target is less than the middle value in ascending binary search, where next?",
+      "o": [
+        "Reverse the entire list",
+        "Restart at the last item",
+        "Search the right half",
+        "Search the left half"
+      ],
+      "a": 3,
+      "e": "Smaller values lie to the left in ascending order.",
+      "d": "Easy",
+      "topic": "Searching Algorithms",
+      "slo": "Apply and explain searching algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-092",
+      "q": "If the target is greater than the middle value in ascending binary search, where next?",
+      "o": [
+        "Swap all elements",
+        "Search the right half",
+        "Search the left half",
+        "Stop with failure immediately"
+      ],
+      "a": 1,
+      "e": "Larger values lie to the right in ascending order.",
+      "d": "Easy",
+      "topic": "Searching Algorithms",
+      "slo": "Apply and explain searching algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-093",
+      "q": "What does linear search do when the target is absent?",
+      "o": [
+        "Always return the first position",
+        "Sort the list",
+        "Finish after checking the available items",
+        "Automatically add the target"
+      ],
+      "a": 2,
+      "e": "An unsuccessful linear search reaches the end.",
+      "d": "Easy",
+      "topic": "Searching Algorithms",
+      "slo": "Apply and explain searching algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-094",
+      "q": "What does binary search do when its search interval becomes empty?",
+      "o": [
+        "Return the middle value as a match",
+        "Report that the target is not found",
+        "Restart forever",
+        "Insert a new item"
+      ],
+      "a": 1,
+      "e": "An empty interval indicates no match.",
+      "d": "Easy",
+      "topic": "Searching Algorithms",
+      "slo": "Apply and explain searching algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-095",
+      "q": "Which method is generally faster on a large sorted array?",
+      "o": [
+        "Insertion sort",
+        "Linear search always",
+        "Bubble sort",
+        "Binary search"
+      ],
+      "a": 3,
+      "e": "Binary search reduces the search interval by half each step.",
+      "d": "Easy",
+      "topic": "Searching Algorithms",
+      "slo": "Apply and explain searching algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-096",
+      "q": "Which method is straightforward for a short unsorted list?",
+      "o": [
+        "Binary search without sorting",
+        "Bubble sort as a search",
+        "Insertion sort as a search",
+        "Linear search"
+      ],
+      "a": 3,
+      "e": "Linear search does not require ordered input.",
+      "d": "Easy",
+      "topic": "Searching Algorithms",
+      "slo": "Apply and explain searching algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-097",
+      "q": "What is the worst-case time complexity of linear search for n items?",
+      "o": [
+        "O(1) always",
+        "O(n)",
+        "O(log n)",
+        "O(n log n)"
+      ],
+      "a": 1,
+      "e": "A linear search may examine all n elements.",
+      "d": "Easy",
+      "topic": "Searching Algorithms",
+      "slo": "Apply and explain searching algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-098",
+      "q": "What is the worst-case time complexity of binary search on sorted data?",
+      "o": [
+        "O(log n)",
+        "O(n)",
+        "O(2 to the n)",
+        "O(n squared)"
+      ],
+      "a": 0,
+      "e": "Halving the search range yields logarithmic growth.",
+      "d": "Easy",
+      "topic": "Searching Algorithms",
+      "slo": "Apply and explain searching algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-099",
+      "q": "What is the best-case search situation for binary search?",
+      "o": [
+        "The target equals the first middle item",
+        "The target is at the last item",
+        "The data is unsorted",
+        "The target is absent"
+      ],
+      "a": 0,
+      "e": "A first-comparison match finishes immediately.",
+      "d": "Easy",
+      "topic": "Searching Algorithms",
+      "slo": "Apply and explain searching algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-100",
+      "q": "What is a search key or target?",
+      "o": [
+        "The first array index always",
+        "The length of the keyboard",
+        "The value being sought",
+        "The memory address of a printer"
+      ],
+      "a": 2,
+      "e": "The target is the item a search tries to locate.",
+      "d": "Easy",
+      "topic": "Searching Algorithms",
+      "slo": "Apply and explain searching algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-101",
+      "q": "In the sorted list [2, 5, 9], what is the zero-based index of 9?",
+      "o": [
+        "0",
+        "2",
+        "1",
+        "3"
+      ],
+      "a": 1,
+      "e": "The target 9 occurs at zero-based index 2.",
+      "d": "Medium",
+      "topic": "Searching Algorithms",
+      "slo": "Apply and explain searching algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-102",
+      "q": "In the sorted list [3, 10, 16], what is the zero-based index of 3?",
+      "o": [
+        "3",
+        "1",
+        "2",
+        "0"
+      ],
+      "a": 3,
+      "e": "The target 3 occurs at zero-based index 0.",
+      "d": "Medium",
+      "topic": "Searching Algorithms",
+      "slo": "Apply and explain searching algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-103",
+      "q": "In the sorted list [4, 11, 21], what is the zero-based index of 21?",
+      "o": [
+        "3",
+        "1",
+        "2",
+        "0"
+      ],
+      "a": 2,
+      "e": "The target 21 occurs at zero-based index 2.",
+      "d": "Medium",
+      "topic": "Searching Algorithms",
+      "slo": "Apply and explain searching algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-104",
+      "q": "In the sorted list [5, 16, 30], what is the zero-based index of 5?",
+      "o": [
+        "0",
+        "2",
+        "1",
+        "3"
+      ],
+      "a": 0,
+      "e": "The target 5 occurs at zero-based index 0.",
+      "d": "Medium",
+      "topic": "Searching Algorithms",
+      "slo": "Apply and explain searching algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-105",
+      "q": "In the sorted list [6, 14, 19], what is the zero-based index of 19?",
+      "o": [
+        "3",
+        "2",
+        "1",
+        "0"
+      ],
+      "a": 1,
+      "e": "The target 19 occurs at zero-based index 2.",
+      "d": "Medium",
+      "topic": "Searching Algorithms",
+      "slo": "Apply and explain searching algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-106",
+      "q": "In the sorted list [7, 22, 33], what is the zero-based index of 22?",
+      "o": [
+        "3",
+        "2",
+        "1",
+        "0"
+      ],
+      "a": 2,
+      "e": "The target 22 occurs at zero-based index 1.",
+      "d": "Medium",
+      "topic": "Searching Algorithms",
+      "slo": "Apply and explain searching algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-107",
+      "q": "In the sorted list [8, 22, 39], what is the zero-based index of 39?",
+      "o": [
+        "1",
+        "3",
+        "0",
+        "2"
+      ],
+      "a": 3,
+      "e": "The target 39 occurs at zero-based index 2.",
+      "d": "Medium",
+      "topic": "Searching Algorithms",
+      "slo": "Apply and explain searching algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-108",
+      "q": "In the sorted list [9, 14, 27], what is the zero-based index of 27?",
+      "o": [
+        "3",
+        "0",
+        "1",
+        "2"
+      ],
+      "a": 3,
+      "e": "The target 27 occurs at zero-based index 2.",
+      "d": "Medium",
+      "topic": "Searching Algorithms",
+      "slo": "Apply and explain searching algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-109",
+      "q": "In the sorted list [10, 19, 36], what is the zero-based index of 36?",
+      "o": [
+        "1",
+        "3",
+        "0",
+        "2"
+      ],
+      "a": 3,
+      "e": "The target 36 occurs at zero-based index 2.",
+      "d": "Medium",
+      "topic": "Searching Algorithms",
+      "slo": "Apply and explain searching algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-110",
+      "q": "In the sorted list [11, 27, 40], what is the zero-based index of 27?",
+      "o": [
+        "1",
+        "3",
+        "2",
+        "0"
+      ],
+      "a": 0,
+      "e": "The target 27 occurs at zero-based index 1.",
+      "d": "Medium",
+      "topic": "Searching Algorithms",
+      "slo": "Apply and explain searching algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-111",
+      "q": "In the sorted list [12, 26, 39], what is the zero-based index of 39?",
+      "o": [
+        "1",
+        "0",
+        "3",
+        "2"
+      ],
+      "a": 3,
+      "e": "The target 39 occurs at zero-based index 2.",
+      "d": "Medium",
+      "topic": "Searching Algorithms",
+      "slo": "Apply and explain searching algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-112",
+      "q": "In the sorted list [13, 19, 28], what is the zero-based index of 28?",
+      "o": [
+        "0",
+        "2",
+        "3",
+        "1"
+      ],
+      "a": 1,
+      "e": "The target 28 occurs at zero-based index 2.",
+      "d": "Medium",
+      "topic": "Searching Algorithms",
+      "slo": "Apply and explain searching algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-113",
+      "q": "In the sorted list [14, 31, 37], what is the zero-based index of 37?",
+      "o": [
+        "2",
+        "1",
+        "3",
+        "0"
+      ],
+      "a": 0,
+      "e": "The target 37 occurs at zero-based index 2.",
+      "d": "Medium",
+      "topic": "Searching Algorithms",
+      "slo": "Apply and explain searching algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-114",
+      "q": "In the sorted list [15, 31, 34], what is the zero-based index of 34?",
+      "o": [
+        "1",
+        "0",
+        "2",
+        "3"
+      ],
+      "a": 2,
+      "e": "The target 34 occurs at zero-based index 2.",
+      "d": "Medium",
+      "topic": "Searching Algorithms",
+      "slo": "Apply and explain searching algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-115",
+      "q": "In the sorted list [16, 29, 36], what is the zero-based index of 36?",
+      "o": [
+        "2",
+        "0",
+        "1",
+        "3"
+      ],
+      "a": 0,
+      "e": "The target 36 occurs at zero-based index 2.",
+      "d": "Medium",
+      "topic": "Searching Algorithms",
+      "slo": "Apply and explain searching algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-116",
+      "q": "In the sorted list [17, 23, 26], what is the zero-based index of 23?",
+      "o": [
+        "1",
+        "2",
+        "3",
+        "0"
+      ],
+      "a": 0,
+      "e": "The target 23 occurs at zero-based index 1.",
+      "d": "Medium",
+      "topic": "Searching Algorithms",
+      "slo": "Apply and explain searching algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-117",
+      "q": "In the sorted list [18, 27, 42], what is the zero-based index of 27?",
+      "o": [
+        "0",
+        "2",
+        "1",
+        "3"
+      ],
+      "a": 2,
+      "e": "The target 27 occurs at zero-based index 1.",
+      "d": "Medium",
+      "topic": "Searching Algorithms",
+      "slo": "Apply and explain searching algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-118",
+      "q": "In the sorted list [19, 30, 37], what is the zero-based index of 37?",
+      "o": [
+        "0",
+        "2",
+        "1",
+        "3"
+      ],
+      "a": 1,
+      "e": "The target 37 occurs at zero-based index 2.",
+      "d": "Medium",
+      "topic": "Searching Algorithms",
+      "slo": "Apply and explain searching algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-119",
+      "q": "In the sorted list [20, 34, 37], what is the zero-based index of 20?",
+      "o": [
+        "0",
+        "1",
+        "3",
+        "2"
+      ],
+      "a": 0,
+      "e": "The target 20 occurs at zero-based index 0.",
+      "d": "Medium",
+      "topic": "Searching Algorithms",
+      "slo": "Apply and explain searching algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-120",
+      "q": "In the sorted list [21, 35, 44], what is the zero-based index of 44?",
+      "o": [
+        "1",
+        "2",
+        "0",
+        "3"
+      ],
+      "a": 1,
+      "e": "The target 44 occurs at zero-based index 2.",
+      "d": "Medium",
+      "topic": "Searching Algorithms",
+      "slo": "Apply and explain searching algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-121",
+      "q": "In the sorted list [22, 34, 40], what is the zero-based index of 40?",
+      "o": [
+        "3",
+        "1",
+        "0",
+        "2"
+      ],
+      "a": 3,
+      "e": "The target 40 occurs at zero-based index 2.",
+      "d": "Medium",
+      "topic": "Searching Algorithms",
+      "slo": "Apply and explain searching algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-122",
+      "q": "In the sorted list [23, 35, 51], what is the zero-based index of 23?",
+      "o": [
+        "0",
+        "2",
+        "1",
+        "3"
+      ],
+      "a": 0,
+      "e": "The target 23 occurs at zero-based index 0.",
+      "d": "Medium",
+      "topic": "Searching Algorithms",
+      "slo": "Apply and explain searching algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-123",
+      "q": "In the sorted list [24, 33, 49], what is the zero-based index of 33?",
+      "o": [
+        "2",
+        "3",
+        "0",
+        "1"
+      ],
+      "a": 3,
+      "e": "The target 33 occurs at zero-based index 1.",
+      "d": "Medium",
+      "topic": "Searching Algorithms",
+      "slo": "Apply and explain searching algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-124",
+      "q": "In the sorted list [25, 38, 50], what is the zero-based index of 50?",
+      "o": [
+        "2",
+        "0",
+        "1",
+        "3"
+      ],
+      "a": 0,
+      "e": "The target 50 occurs at zero-based index 2.",
+      "d": "Medium",
+      "topic": "Searching Algorithms",
+      "slo": "Apply and explain searching algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-125",
+      "q": "In the sorted list [26, 43, 59], what is the zero-based index of 26?",
+      "o": [
+        "2",
+        "3",
+        "0",
+        "1"
+      ],
+      "a": 2,
+      "e": "The target 26 occurs at zero-based index 0.",
+      "d": "Medium",
+      "topic": "Searching Algorithms",
+      "slo": "Apply and explain searching algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-126",
+      "q": "In the sorted list [27, 35, 38], what is the zero-based index of 38?",
+      "o": [
+        "1",
+        "0",
+        "3",
+        "2"
+      ],
+      "a": 3,
+      "e": "The target 38 occurs at zero-based index 2.",
+      "d": "Medium",
+      "topic": "Searching Algorithms",
+      "slo": "Apply and explain searching algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-127",
+      "q": "In the sorted list [28, 43, 52], what is the zero-based index of 43?",
+      "o": [
+        "0",
+        "1",
+        "3",
+        "2"
+      ],
+      "a": 1,
+      "e": "The target 43 occurs at zero-based index 1.",
+      "d": "Medium",
+      "topic": "Searching Algorithms",
+      "slo": "Apply and explain searching algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-128",
+      "q": "In the sorted list [29, 42, 58], what is the zero-based index of 58?",
+      "o": [
+        "1",
+        "2",
+        "3",
+        "0"
+      ],
+      "a": 1,
+      "e": "The target 58 occurs at zero-based index 2.",
+      "d": "Medium",
+      "topic": "Searching Algorithms",
+      "slo": "Apply and explain searching algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-129",
+      "q": "In the sorted list [30, 43, 49], what is the zero-based index of 43?",
+      "o": [
+        "2",
+        "3",
+        "0",
+        "1"
+      ],
+      "a": 3,
+      "e": "The target 43 occurs at zero-based index 1.",
+      "d": "Medium",
+      "topic": "Searching Algorithms",
+      "slo": "Apply and explain searching algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-130",
+      "q": "In the sorted list [31, 39, 54], what is the zero-based index of 31?",
+      "o": [
+        "0",
+        "2",
+        "1",
+        "3"
+      ],
+      "a": 0,
+      "e": "The target 31 occurs at zero-based index 0.",
+      "d": "Medium",
+      "topic": "Searching Algorithms",
+      "slo": "Apply and explain searching algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-131",
+      "q": "Using linear search on [26, 97, 76, 66, 62], at which zero-based index is target 26 first found?",
+      "o": [
+        "3",
+        "1",
+        "0",
+        "2"
+      ],
+      "a": 2,
+      "e": "Linear search checks entries in order; 26 is at index 0.",
+      "d": "Medium",
+      "topic": "Searching Algorithms",
+      "slo": "Apply and explain searching algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-132",
+      "q": "Using linear search on [49, 94, 64, 39, 52], at which zero-based index is target 94 first found?",
+      "o": [
+        "2",
+        "1",
+        "3",
+        "0"
+      ],
+      "a": 1,
+      "e": "Linear search checks entries in order; 94 is at index 1.",
+      "d": "Medium",
+      "topic": "Searching Algorithms",
+      "slo": "Apply and explain searching algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-133",
+      "q": "Using linear search on [70, 37, 84, 60, 87], at which zero-based index is target 37 first found?",
+      "o": [
+        "2",
+        "3",
+        "0",
+        "1"
+      ],
+      "a": 3,
+      "e": "Linear search checks entries in order; 37 is at index 1.",
+      "d": "Medium",
+      "topic": "Searching Algorithms",
+      "slo": "Apply and explain searching algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-134",
+      "q": "Using linear search on [37, 76, 55, 73, 50], at which zero-based index is target 73 first found?",
+      "o": [
+        "3",
+        "2",
+        "0",
+        "1"
+      ],
+      "a": 0,
+      "e": "Linear search checks entries in order; 73 is at index 3.",
+      "d": "Medium",
+      "topic": "Searching Algorithms",
+      "slo": "Apply and explain searching algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-135",
+      "q": "Using linear search on [58, 82, 68, 26, 63], at which zero-based index is target 58 first found?",
+      "o": [
+        "1",
+        "2",
+        "3",
+        "0"
+      ],
+      "a": 3,
+      "e": "Linear search checks entries in order; 58 is at index 0.",
+      "d": "Medium",
+      "topic": "Searching Algorithms",
+      "slo": "Apply and explain searching algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-136",
+      "q": "Using linear search on [16, 61, 92, 68, 43], at which zero-based index is target 61 first found?",
+      "o": [
+        "1",
+        "3",
+        "2",
+        "0"
+      ],
+      "a": 0,
+      "e": "Linear search checks entries in order; 61 is at index 1.",
+      "d": "Medium",
+      "topic": "Searching Algorithms",
+      "slo": "Apply and explain searching algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-137",
+      "q": "Using linear search on [1, 57, 53, 62, 77], at which zero-based index is target 1 first found?",
+      "o": [
+        "0",
+        "3",
+        "1",
+        "2"
+      ],
+      "a": 0,
+      "e": "Linear search checks entries in order; 1 is at index 0.",
+      "d": "Medium",
+      "topic": "Searching Algorithms",
+      "slo": "Apply and explain searching algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-138",
+      "q": "Using linear search on [87, 56, 70, 49, 92], at which zero-based index is target 87 first found?",
+      "o": [
+        "1",
+        "2",
+        "0",
+        "3"
+      ],
+      "a": 2,
+      "e": "Linear search checks entries in order; 87 is at index 0.",
+      "d": "Medium",
+      "topic": "Searching Algorithms",
+      "slo": "Apply and explain searching algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-139",
+      "q": "Using linear search on [31, 28, 48, 24, 37], at which zero-based index is target 37 first found?",
+      "o": [
+        "0",
+        "2",
+        "1",
+        "4"
+      ],
+      "a": 3,
+      "e": "Linear search checks entries in order; 37 is at index 4.",
+      "d": "Medium",
+      "topic": "Searching Algorithms",
+      "slo": "Apply and explain searching algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-140",
+      "q": "Using linear search on [92, 58, 96, 5, 46], at which zero-based index is target 92 first found?",
+      "o": [
+        "1",
+        "3",
+        "0",
+        "2"
+      ],
+      "a": 2,
+      "e": "Linear search checks entries in order; 92 is at index 0.",
+      "d": "Medium",
+      "topic": "Searching Algorithms",
+      "slo": "Apply and explain searching algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-141",
+      "q": "Using linear search on [7, 97, 68, 85, 9], at which zero-based index is target 9 first found?",
+      "o": [
+        "0",
+        "1",
+        "4",
+        "2"
+      ],
+      "a": 2,
+      "e": "Linear search checks entries in order; 9 is at index 4.",
+      "d": "Medium",
+      "topic": "Searching Algorithms",
+      "slo": "Apply and explain searching algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-142",
+      "q": "Using linear search on [11, 53, 83, 94, 67], at which zero-based index is target 53 first found?",
+      "o": [
+        "0",
+        "3",
+        "2",
+        "1"
+      ],
+      "a": 3,
+      "e": "Linear search checks entries in order; 53 is at index 1.",
+      "d": "Medium",
+      "topic": "Searching Algorithms",
+      "slo": "Apply and explain searching algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-143",
+      "q": "Using linear search on [87, 60, 71, 15, 24], at which zero-based index is target 87 first found?",
+      "o": [
+        "2",
+        "1",
+        "3",
+        "0"
+      ],
+      "a": 3,
+      "e": "Linear search checks entries in order; 87 is at index 0.",
+      "d": "Medium",
+      "topic": "Searching Algorithms",
+      "slo": "Apply and explain searching algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-144",
+      "q": "Using linear search on [29, 11, 13, 82, 41], at which zero-based index is target 29 first found?",
+      "o": [
+        "1",
+        "2",
+        "3",
+        "0"
+      ],
+      "a": 3,
+      "e": "Linear search checks entries in order; 29 is at index 0.",
+      "d": "Medium",
+      "topic": "Searching Algorithms",
+      "slo": "Apply and explain searching algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-145",
+      "q": "Using linear search on [37, 23, 95, 16, 2], at which zero-based index is target 16 first found?",
+      "o": [
+        "2",
+        "0",
+        "1",
+        "3"
+      ],
+      "a": 3,
+      "e": "Linear search checks entries in order; 16 is at index 3.",
+      "d": "Medium",
+      "topic": "Searching Algorithms",
+      "slo": "Apply and explain searching algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-146",
+      "q": "Using linear search on [31, 55, 1, 30, 66], at which zero-based index is target 30 first found?",
+      "o": [
+        "2",
+        "0",
+        "3",
+        "1"
+      ],
+      "a": 2,
+      "e": "Linear search checks entries in order; 30 is at index 3.",
+      "d": "Medium",
+      "topic": "Searching Algorithms",
+      "slo": "Apply and explain searching algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-147",
+      "q": "Using linear search on [13, 8, 29, 66, 28], at which zero-based index is target 13 first found?",
+      "o": [
+        "1",
+        "0",
+        "2",
+        "3"
+      ],
+      "a": 1,
+      "e": "Linear search checks entries in order; 13 is at index 0.",
+      "d": "Medium",
+      "topic": "Searching Algorithms",
+      "slo": "Apply and explain searching algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-148",
+      "q": "Using linear search on [53, 80, 67, 34, 93], at which zero-based index is target 53 first found?",
+      "o": [
+        "1",
+        "2",
+        "3",
+        "0"
+      ],
+      "a": 3,
+      "e": "Linear search checks entries in order; 53 is at index 0.",
+      "d": "Medium",
+      "topic": "Searching Algorithms",
+      "slo": "Apply and explain searching algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-149",
+      "q": "Using linear search on [84, 11, 40, 15, 35], at which zero-based index is target 15 first found?",
+      "o": [
+        "3",
+        "2",
+        "0",
+        "1"
+      ],
+      "a": 0,
+      "e": "Linear search checks entries in order; 15 is at index 3.",
+      "d": "Medium",
+      "topic": "Searching Algorithms",
+      "slo": "Apply and explain searching algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-150",
+      "q": "Using linear search on [35, 70, 95, 69, 52], at which zero-based index is target 52 first found?",
+      "o": [
+        "4",
+        "0",
+        "1",
+        "2"
+      ],
+      "a": 0,
+      "e": "Linear search checks entries in order; 52 is at index 4.",
+      "d": "Medium",
+      "topic": "Searching Algorithms",
+      "slo": "Apply and explain searching algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-151",
+      "q": "Using linear search on [34, 47, 78, 9, 41], at which zero-based index is target 9 first found?",
+      "o": [
+        "1",
+        "0",
+        "2",
+        "3"
+      ],
+      "a": 3,
+      "e": "Linear search checks entries in order; 9 is at index 3.",
+      "d": "Medium",
+      "topic": "Searching Algorithms",
+      "slo": "Apply and explain searching algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-152",
+      "q": "Using linear search on [15, 54, 10, 28, 4], at which zero-based index is target 54 first found?",
+      "o": [
+        "1",
+        "0",
+        "2",
+        "3"
+      ],
+      "a": 0,
+      "e": "Linear search checks entries in order; 54 is at index 1.",
+      "d": "Medium",
+      "topic": "Searching Algorithms",
+      "slo": "Apply and explain searching algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-153",
+      "q": "Using linear search on [35, 93, 18, 12, 29], at which zero-based index is target 93 first found?",
+      "o": [
+        "0",
+        "2",
+        "3",
+        "1"
+      ],
+      "a": 3,
+      "e": "Linear search checks entries in order; 93 is at index 1.",
+      "d": "Medium",
+      "topic": "Searching Algorithms",
+      "slo": "Apply and explain searching algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-154",
+      "q": "Using linear search on [32, 95, 68, 14, 29], at which zero-based index is target 32 first found?",
+      "o": [
+        "3",
+        "2",
+        "1",
+        "0"
+      ],
+      "a": 3,
+      "e": "Linear search checks entries in order; 32 is at index 0.",
+      "d": "Medium",
+      "topic": "Searching Algorithms",
+      "slo": "Apply and explain searching algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-155",
+      "q": "Using linear search on [89, 4, 26, 67, 88], at which zero-based index is target 88 first found?",
+      "o": [
+        "2",
+        "1",
+        "4",
+        "0"
+      ],
+      "a": 2,
+      "e": "Linear search checks entries in order; 88 is at index 4.",
+      "d": "Medium",
+      "topic": "Searching Algorithms",
+      "slo": "Apply and explain searching algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-156",
+      "q": "Using linear search on [99, 74, 60, 41, 93], at which zero-based index is target 60 first found?",
+      "o": [
+        "2",
+        "1",
+        "3",
+        "0"
+      ],
+      "a": 0,
+      "e": "Linear search checks entries in order; 60 is at index 2.",
+      "d": "Medium",
+      "topic": "Searching Algorithms",
+      "slo": "Apply and explain searching algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-157",
+      "q": "Using linear search on [57, 81, 8, 62, 69], at which zero-based index is target 81 first found?",
+      "o": [
+        "3",
+        "0",
+        "2",
+        "1"
+      ],
+      "a": 3,
+      "e": "Linear search checks entries in order; 81 is at index 1.",
+      "d": "Medium",
+      "topic": "Searching Algorithms",
+      "slo": "Apply and explain searching algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-158",
+      "q": "Using linear search on [59, 38, 88, 46, 65], at which zero-based index is target 46 first found?",
+      "o": [
+        "0",
+        "3",
+        "1",
+        "2"
+      ],
+      "a": 1,
+      "e": "Linear search checks entries in order; 46 is at index 3.",
+      "d": "Medium",
+      "topic": "Searching Algorithms",
+      "slo": "Apply and explain searching algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-159",
+      "q": "Using linear search on [59, 55, 60, 15, 21], at which zero-based index is target 60 first found?",
+      "o": [
+        "1",
+        "0",
+        "3",
+        "2"
+      ],
+      "a": 3,
+      "e": "Linear search checks entries in order; 60 is at index 2.",
+      "d": "Medium",
+      "topic": "Searching Algorithms",
+      "slo": "Apply and explain searching algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-160",
+      "q": "Using linear search on [72, 8, 31, 76, 7], at which zero-based index is target 72 first found?",
+      "o": [
+        "1",
+        "0",
+        "3",
+        "2"
+      ],
+      "a": 1,
+      "e": "Linear search checks entries in order; 72 is at index 0.",
+      "d": "Medium",
+      "topic": "Searching Algorithms",
+      "slo": "Apply and explain searching algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-161",
+      "q": "Using linear search on [63, 57, 52, 66, 65], at which zero-based index is target 57 first found?",
+      "o": [
+        "2",
+        "1",
+        "3",
+        "0"
+      ],
+      "a": 1,
+      "e": "Linear search checks entries in order; 57 is at index 1.",
+      "d": "Medium",
+      "topic": "Searching Algorithms",
+      "slo": "Apply and explain searching algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-162",
+      "q": "Using linear search on [78, 6, 25, 59, 92], at which zero-based index is target 92 first found?",
+      "o": [
+        "2",
+        "4",
+        "0",
+        "1"
+      ],
+      "a": 1,
+      "e": "Linear search checks entries in order; 92 is at index 4.",
+      "d": "Medium",
+      "topic": "Searching Algorithms",
+      "slo": "Apply and explain searching algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-163",
+      "q": "Which is the ascending order of the values [7, 54, 78, 38]?",
+      "o": [
+        "[7, 38, 54, 78]",
+        "[7, 54, 78, 38]",
+        "[7, 54, 38, 78]",
+        "[78, 54, 38, 7]"
+      ],
+      "a": 0,
+      "e": "Ascending order puts the smallest value first: [7, 38, 54, 78].",
+      "d": "Easy",
+      "topic": "Sorting Algorithms",
+      "slo": "Apply and explain sorting algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-164",
+      "q": "Which is the ascending order of the values [16, 53, 29, 25]?",
+      "o": [
+        "[16, 25, 29, 53]",
+        "[53, 29, 25, 16]",
+        "[16, 53, 29, 25]",
+        "[16, 53, 25, 29]"
+      ],
+      "a": 0,
+      "e": "Ascending order puts the smallest value first: [16, 25, 29, 53].",
+      "d": "Easy",
+      "topic": "Sorting Algorithms",
+      "slo": "Apply and explain sorting algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-165",
+      "q": "Which is the ascending order of the values [9, 61, 53, 8]?",
+      "o": [
+        "[9, 61, 53, 8]",
+        "[8, 9, 53, 61]",
+        "[61, 53, 9, 8]",
+        "[9, 61, 8, 53]"
+      ],
+      "a": 1,
+      "e": "Ascending order puts the smallest value first: [8, 9, 53, 61].",
+      "d": "Easy",
+      "topic": "Sorting Algorithms",
+      "slo": "Apply and explain sorting algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-166",
+      "q": "Which is the ascending order of the values [35, 28, 88, 69]?",
+      "o": [
+        "[88, 69, 35, 28]",
+        "[28, 35, 69, 88]",
+        "[35, 28, 88, 69]",
+        "[69, 88, 28, 35]"
+      ],
+      "a": 1,
+      "e": "Ascending order puts the smallest value first: [28, 35, 69, 88].",
+      "d": "Easy",
+      "topic": "Sorting Algorithms",
+      "slo": "Apply and explain sorting algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-167",
+      "q": "Which is the ascending order of the values [73, 79, 31, 52]?",
+      "o": [
+        "[79, 73, 52, 31]",
+        "[31, 52, 73, 79]",
+        "[52, 31, 79, 73]",
+        "[73, 79, 31, 52]"
+      ],
+      "a": 1,
+      "e": "Ascending order puts the smallest value first: [31, 52, 73, 79].",
+      "d": "Easy",
+      "topic": "Sorting Algorithms",
+      "slo": "Apply and explain sorting algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-168",
+      "q": "Which is the ascending order of the values [45, 76, 46, 83]?",
+      "o": [
+        "[83, 76, 46, 45]",
+        "[45, 76, 46, 83]",
+        "[83, 46, 76, 45]",
+        "[45, 46, 76, 83]"
+      ],
+      "a": 3,
+      "e": "Ascending order puts the smallest value first: [45, 46, 76, 83].",
+      "d": "Easy",
+      "topic": "Sorting Algorithms",
+      "slo": "Apply and explain sorting algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-169",
+      "q": "Which is the ascending order of the values [24, 55, 8, 19]?",
+      "o": [
+        "[8, 19, 24, 55]",
+        "[55, 24, 19, 8]",
+        "[19, 8, 55, 24]",
+        "[24, 55, 8, 19]"
+      ],
+      "a": 0,
+      "e": "Ascending order puts the smallest value first: [8, 19, 24, 55].",
+      "d": "Easy",
+      "topic": "Sorting Algorithms",
+      "slo": "Apply and explain sorting algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-170",
+      "q": "Which is the ascending order of the values [34, 38, 70, 66]?",
+      "o": [
+        "[70, 66, 38, 34]",
+        "[34, 38, 70, 66]",
+        "[66, 70, 38, 34]",
+        "[34, 38, 66, 70]"
+      ],
+      "a": 3,
+      "e": "Ascending order puts the smallest value first: [34, 38, 66, 70].",
+      "d": "Easy",
+      "topic": "Sorting Algorithms",
+      "slo": "Apply and explain sorting algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-171",
+      "q": "Which is the ascending order of the values [86, 50, 6, 39]?",
+      "o": [
+        "[6, 39, 50, 86]",
+        "[86, 50, 39, 6]",
+        "[86, 50, 6, 39]",
+        "[50, 86, 6, 39]"
+      ],
+      "a": 0,
+      "e": "Ascending order puts the smallest value first: [6, 39, 50, 86].",
+      "d": "Easy",
+      "topic": "Sorting Algorithms",
+      "slo": "Apply and explain sorting algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-172",
+      "q": "Which is the ascending order of the values [15, 17, 69, 80]?",
+      "o": [
+        "[15, 17, 69, 80]",
+        "[17, 15, 69, 80]",
+        "[80, 69, 17, 15]",
+        "[17, 69, 80, 15]"
+      ],
+      "a": 0,
+      "e": "Ascending order puts the smallest value first: [15, 17, 69, 80].",
+      "d": "Easy",
+      "topic": "Sorting Algorithms",
+      "slo": "Apply and explain sorting algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-173",
+      "q": "Which is the ascending order of the values [6, 63, 38, 4]?",
+      "o": [
+        "[4, 6, 38, 63]",
+        "[63, 38, 6, 4]",
+        "[6, 63, 38, 4]",
+        "[6, 63, 4, 38]"
+      ],
+      "a": 0,
+      "e": "Ascending order puts the smallest value first: [4, 6, 38, 63].",
+      "d": "Easy",
+      "topic": "Sorting Algorithms",
+      "slo": "Apply and explain sorting algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-174",
+      "q": "Which is the ascending order of the values [53, 13, 86, 42]?",
+      "o": [
+        "[13, 42, 53, 86]",
+        "[86, 53, 42, 13]",
+        "[53, 13, 86, 42]",
+        "[13, 53, 42, 86]"
+      ],
+      "a": 0,
+      "e": "Ascending order puts the smallest value first: [13, 42, 53, 86].",
+      "d": "Easy",
+      "topic": "Sorting Algorithms",
+      "slo": "Apply and explain sorting algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-175",
+      "q": "Which is the ascending order of the values [46, 62, 6, 57]?",
+      "o": [
+        "[6, 46, 57, 62]",
+        "[46, 62, 6, 57]",
+        "[57, 6, 62, 46]",
+        "[62, 57, 46, 6]"
+      ],
+      "a": 0,
+      "e": "Ascending order puts the smallest value first: [6, 46, 57, 62].",
+      "d": "Easy",
+      "topic": "Sorting Algorithms",
+      "slo": "Apply and explain sorting algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-176",
+      "q": "Which is the ascending order of the values [4, 87, 30, 25]?",
+      "o": [
+        "[87, 30, 25, 4]",
+        "[4, 87, 30, 25]",
+        "[4, 25, 30, 87]",
+        "[4, 87, 25, 30]"
+      ],
+      "a": 2,
+      "e": "Ascending order puts the smallest value first: [4, 25, 30, 87].",
+      "d": "Easy",
+      "topic": "Sorting Algorithms",
+      "slo": "Apply and explain sorting algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-177",
+      "q": "Which is the ascending order of the values [48, 20, 28, 77]?",
+      "o": [
+        "[77, 48, 28, 20]",
+        "[20, 48, 28, 77]",
+        "[20, 28, 48, 77]",
+        "[48, 20, 28, 77]"
+      ],
+      "a": 2,
+      "e": "Ascending order puts the smallest value first: [20, 28, 48, 77].",
+      "d": "Easy",
+      "topic": "Sorting Algorithms",
+      "slo": "Apply and explain sorting algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-178",
+      "q": "Which is the ascending order of the values [74, 69, 17, 22]?",
+      "o": [
+        "[74, 69, 17, 22]",
+        "[69, 74, 17, 22]",
+        "[17, 22, 69, 74]",
+        "[74, 69, 22, 17]"
+      ],
+      "a": 2,
+      "e": "Ascending order puts the smallest value first: [17, 22, 69, 74].",
+      "d": "Easy",
+      "topic": "Sorting Algorithms",
+      "slo": "Apply and explain sorting algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-179",
+      "q": "Which is the ascending order of the values [34, 82, 9, 78]?",
+      "o": [
+        "[34, 82, 9, 78]",
+        "[78, 9, 82, 34]",
+        "[82, 78, 34, 9]",
+        "[9, 34, 78, 82]"
+      ],
+      "a": 3,
+      "e": "Ascending order puts the smallest value first: [9, 34, 78, 82].",
+      "d": "Easy",
+      "topic": "Sorting Algorithms",
+      "slo": "Apply and explain sorting algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-180",
+      "q": "Which is the ascending order of the values [78, 31, 48, 21]?",
+      "o": [
+        "[78, 31, 48, 21]",
+        "[31, 78, 21, 48]",
+        "[21, 31, 48, 78]",
+        "[78, 48, 31, 21]"
+      ],
+      "a": 2,
+      "e": "Ascending order puts the smallest value first: [21, 31, 48, 78].",
+      "d": "Easy",
+      "topic": "Sorting Algorithms",
+      "slo": "Apply and explain sorting algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-181",
+      "q": "Which is the ascending order of the values [78, 56, 86, 40]?",
+      "o": [
+        "[78, 56, 86, 40]",
+        "[86, 78, 56, 40]",
+        "[40, 56, 78, 86]",
+        "[56, 78, 40, 86]"
+      ],
+      "a": 2,
+      "e": "Ascending order puts the smallest value first: [40, 56, 78, 86].",
+      "d": "Easy",
+      "topic": "Sorting Algorithms",
+      "slo": "Apply and explain sorting algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-182",
+      "q": "Which is the ascending order of the values [88, 17, 45, 47]?",
+      "o": [
+        "[17, 45, 47, 88]",
+        "[17, 88, 45, 47]",
+        "[88, 47, 45, 17]",
+        "[88, 17, 45, 47]"
+      ],
+      "a": 0,
+      "e": "Ascending order puts the smallest value first: [17, 45, 47, 88].",
+      "d": "Easy",
+      "topic": "Sorting Algorithms",
+      "slo": "Apply and explain sorting algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-183",
+      "q": "Which is the ascending order of the values [53, 21, 42, 35]?",
+      "o": [
+        "[21, 35, 42, 53]",
+        "[21, 53, 35, 42]",
+        "[53, 42, 35, 21]",
+        "[53, 21, 42, 35]"
+      ],
+      "a": 0,
+      "e": "Ascending order puts the smallest value first: [21, 35, 42, 53].",
+      "d": "Easy",
+      "topic": "Sorting Algorithms",
+      "slo": "Apply and explain sorting algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-184",
+      "q": "Which is the ascending order of the values [17, 67, 16, 62]?",
+      "o": [
+        "[16, 17, 62, 67]",
+        "[67, 62, 17, 16]",
+        "[62, 16, 67, 17]",
+        "[17, 67, 16, 62]"
+      ],
+      "a": 0,
+      "e": "Ascending order puts the smallest value first: [16, 17, 62, 67].",
+      "d": "Easy",
+      "topic": "Sorting Algorithms",
+      "slo": "Apply and explain sorting algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-185",
+      "q": "Which is the ascending order of the values [44, 41, 16, 8]?",
+      "o": [
+        "[41, 16, 8, 44]",
+        "[44, 41, 16, 8]",
+        "[8, 16, 41, 44]",
+        "[41, 44, 8, 16]"
+      ],
+      "a": 2,
+      "e": "Ascending order puts the smallest value first: [8, 16, 41, 44].",
+      "d": "Easy",
+      "topic": "Sorting Algorithms",
+      "slo": "Apply and explain sorting algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-186",
+      "q": "Which is the ascending order of the values [26, 7, 47, 42]?",
+      "o": [
+        "[7, 26, 42, 47]",
+        "[47, 42, 26, 7]",
+        "[26, 7, 47, 42]",
+        "[42, 47, 7, 26]"
+      ],
+      "a": 0,
+      "e": "Ascending order puts the smallest value first: [7, 26, 42, 47].",
+      "d": "Easy",
+      "topic": "Sorting Algorithms",
+      "slo": "Apply and explain sorting algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-187",
+      "q": "Which is the ascending order of the values [79, 76, 23, 42]?",
+      "o": [
+        "[76, 79, 23, 42]",
+        "[79, 76, 23, 42]",
+        "[23, 42, 76, 79]",
+        "[79, 76, 42, 23]"
+      ],
+      "a": 2,
+      "e": "Ascending order puts the smallest value first: [23, 42, 76, 79].",
+      "d": "Easy",
+      "topic": "Sorting Algorithms",
+      "slo": "Apply and explain sorting algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-188",
+      "q": "Which is the ascending order of the values [41, 63, 61, 55]?",
+      "o": [
+        "[63, 61, 55, 41]",
+        "[41, 55, 61, 63]",
+        "[41, 63, 61, 55]",
+        "[41, 63, 55, 61]"
+      ],
+      "a": 1,
+      "e": "Ascending order puts the smallest value first: [41, 55, 61, 63].",
+      "d": "Easy",
+      "topic": "Sorting Algorithms",
+      "slo": "Apply and explain sorting algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-189",
+      "q": "Which is the ascending order of the values [49, 14, 35, 8]?",
+      "o": [
+        "[8, 14, 35, 49]",
+        "[49, 14, 35, 8]",
+        "[49, 35, 14, 8]",
+        "[14, 49, 8, 35]"
+      ],
+      "a": 0,
+      "e": "Ascending order puts the smallest value first: [8, 14, 35, 49].",
+      "d": "Easy",
+      "topic": "Sorting Algorithms",
+      "slo": "Apply and explain sorting algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-190",
+      "q": "Which is the ascending order of the values [23, 82, 69, 61]?",
+      "o": [
+        "[23, 61, 69, 82]",
+        "[82, 69, 61, 23]",
+        "[23, 82, 69, 61]",
+        "[23, 82, 61, 69]"
+      ],
+      "a": 0,
+      "e": "Ascending order puts the smallest value first: [23, 61, 69, 82].",
+      "d": "Easy",
+      "topic": "Sorting Algorithms",
+      "slo": "Apply and explain sorting algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-191",
+      "q": "In one ascending bubble-sort comparison, what happens to the first adjacent pair in [12, 9, 3]?",
+      "o": [
+        "[12, 3, 9]",
+        "[9, 12, 3]",
+        "[3, 9, 12]",
+        "[12, 9, 3]"
+      ],
+      "a": 1,
+      "e": "Since 12 > 9, bubble sort swaps those neighboring values.",
+      "d": "Medium",
+      "topic": "Sorting Algorithms",
+      "slo": "Apply and explain sorting algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-192",
+      "q": "In one ascending bubble-sort comparison, what happens to the first adjacent pair in [82, 39, 5]?",
+      "o": [
+        "[82, 5, 39]",
+        "[39, 82, 5]",
+        "[82, 39, 5]",
+        "[5, 39, 82]"
+      ],
+      "a": 1,
+      "e": "Since 82 > 39, bubble sort swaps those neighboring values.",
+      "d": "Medium",
+      "topic": "Sorting Algorithms",
+      "slo": "Apply and explain sorting algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-193",
+      "q": "In one ascending bubble-sort comparison, what happens to the first adjacent pair in [67, 56, 81]?",
+      "o": [
+        "[67, 56, 81]",
+        "[67, 81, 56]",
+        "[56, 67, 81]",
+        "[81, 56, 67]"
+      ],
+      "a": 2,
+      "e": "Since 67 > 56, bubble sort swaps those neighboring values.",
+      "d": "Medium",
+      "topic": "Sorting Algorithms",
+      "slo": "Apply and explain sorting algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-194",
+      "q": "In one ascending bubble-sort comparison, what happens to the first adjacent pair in [57, 23, 10]?",
+      "o": [
+        "[10, 23, 57]",
+        "[23, 57, 10]",
+        "[57, 10, 23]",
+        "[57, 23, 10]"
+      ],
+      "a": 1,
+      "e": "Since 57 > 23, bubble sort swaps those neighboring values.",
+      "d": "Medium",
+      "topic": "Sorting Algorithms",
+      "slo": "Apply and explain sorting algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-195",
+      "q": "In one ascending bubble-sort comparison, what happens to the first adjacent pair in [84, 47, 43]?",
+      "o": [
+        "[84, 47, 43]",
+        "[84, 43, 47]",
+        "[47, 84, 43]",
+        "[43, 47, 84]"
+      ],
+      "a": 2,
+      "e": "Since 84 > 47, bubble sort swaps those neighboring values.",
+      "d": "Medium",
+      "topic": "Sorting Algorithms",
+      "slo": "Apply and explain sorting algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-196",
+      "q": "In one ascending bubble-sort comparison, what happens to the first adjacent pair in [16, 10, 86]?",
+      "o": [
+        "[16, 86, 10]",
+        "[16, 10, 86]",
+        "[10, 16, 86]",
+        "[86, 10, 16]"
+      ],
+      "a": 2,
+      "e": "Since 16 > 10, bubble sort swaps those neighboring values.",
+      "d": "Medium",
+      "topic": "Sorting Algorithms",
+      "slo": "Apply and explain sorting algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-197",
+      "q": "In one ascending bubble-sort comparison, what happens to the first adjacent pair in [14, 7, 87]?",
+      "o": [
+        "[7, 14, 87]",
+        "[87, 7, 14]",
+        "[14, 7, 87]",
+        "[14, 87, 7]"
+      ],
+      "a": 0,
+      "e": "Since 14 > 7, bubble sort swaps those neighboring values.",
+      "d": "Medium",
+      "topic": "Sorting Algorithms",
+      "slo": "Apply and explain sorting algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-198",
+      "q": "In one ascending bubble-sort comparison, what happens to the first adjacent pair in [78, 41, 55]?",
+      "o": [
+        "[41, 78, 55]",
+        "[78, 55, 41]",
+        "[78, 41, 55]",
+        "[55, 41, 78]"
+      ],
+      "a": 0,
+      "e": "Since 78 > 41, bubble sort swaps those neighboring values.",
+      "d": "Medium",
+      "topic": "Sorting Algorithms",
+      "slo": "Apply and explain sorting algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-199",
+      "q": "In one ascending bubble-sort comparison, what happens to the first adjacent pair in [48, 3, 38]?",
+      "o": [
+        "[3, 48, 38]",
+        "[48, 3, 38]",
+        "[48, 38, 3]",
+        "[38, 3, 48]"
+      ],
+      "a": 0,
+      "e": "Since 48 > 3, bubble sort swaps those neighboring values.",
+      "d": "Medium",
+      "topic": "Sorting Algorithms",
+      "slo": "Apply and explain sorting algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-200",
+      "q": "In one ascending bubble-sort comparison, what happens to the first adjacent pair in [24, 17, 27]?",
+      "o": [
+        "[24, 17, 27]",
+        "[24, 27, 17]",
+        "[17, 24, 27]",
+        "[27, 17, 24]"
+      ],
+      "a": 2,
+      "e": "Since 24 > 17, bubble sort swaps those neighboring values.",
+      "d": "Medium",
+      "topic": "Sorting Algorithms",
+      "slo": "Apply and explain sorting algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-201",
+      "q": "In one ascending bubble-sort comparison, what happens to the first adjacent pair in [45, 41, 36]?",
+      "o": [
+        "[41, 45, 36]",
+        "[45, 36, 41]",
+        "[45, 41, 36]",
+        "[36, 41, 45]"
+      ],
+      "a": 0,
+      "e": "Since 45 > 41, bubble sort swaps those neighboring values.",
+      "d": "Medium",
+      "topic": "Sorting Algorithms",
+      "slo": "Apply and explain sorting algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-202",
+      "q": "In one ascending bubble-sort comparison, what happens to the first adjacent pair in [35, 29, 32]?",
+      "o": [
+        "[35, 32, 29]",
+        "[29, 35, 32]",
+        "[32, 29, 35]",
+        "[35, 29, 32]"
+      ],
+      "a": 1,
+      "e": "Since 35 > 29, bubble sort swaps those neighboring values.",
+      "d": "Medium",
+      "topic": "Sorting Algorithms",
+      "slo": "Apply and explain sorting algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-203",
+      "q": "In one ascending bubble-sort comparison, what happens to the first adjacent pair in [85, 2, 1]?",
+      "o": [
+        "[2, 85, 1]",
+        "[85, 2, 1]",
+        "[85, 1, 2]",
+        "[1, 2, 85]"
+      ],
+      "a": 0,
+      "e": "Since 85 > 2, bubble sort swaps those neighboring values.",
+      "d": "Medium",
+      "topic": "Sorting Algorithms",
+      "slo": "Apply and explain sorting algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-204",
+      "q": "In one ascending bubble-sort comparison, what happens to the first adjacent pair in [37, 30, 52]?",
+      "o": [
+        "[37, 30, 52]",
+        "[30, 37, 52]",
+        "[52, 30, 37]",
+        "[37, 52, 30]"
+      ],
+      "a": 1,
+      "e": "Since 37 > 30, bubble sort swaps those neighboring values.",
+      "d": "Medium",
+      "topic": "Sorting Algorithms",
+      "slo": "Apply and explain sorting algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-205",
+      "q": "In one ascending bubble-sort comparison, what happens to the first adjacent pair in [74, 18, 6]?",
+      "o": [
+        "[18, 74, 6]",
+        "[6, 18, 74]",
+        "[74, 18, 6]",
+        "[74, 6, 18]"
+      ],
+      "a": 0,
+      "e": "Since 74 > 18, bubble sort swaps those neighboring values.",
+      "d": "Medium",
+      "topic": "Sorting Algorithms",
+      "slo": "Apply and explain sorting algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-206",
+      "q": "In one ascending bubble-sort comparison, what happens to the first adjacent pair in [19, 12, 26]?",
+      "o": [
+        "[19, 26, 12]",
+        "[12, 19, 26]",
+        "[26, 12, 19]",
+        "[19, 12, 26]"
+      ],
+      "a": 1,
+      "e": "Since 19 > 12, bubble sort swaps those neighboring values.",
+      "d": "Medium",
+      "topic": "Sorting Algorithms",
+      "slo": "Apply and explain sorting algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-207",
+      "q": "In one ascending bubble-sort comparison, what happens to the first adjacent pair in [44, 14, 64]?",
+      "o": [
+        "[44, 64, 14]",
+        "[14, 44, 64]",
+        "[64, 14, 44]",
+        "[44, 14, 64]"
+      ],
+      "a": 1,
+      "e": "Since 44 > 14, bubble sort swaps those neighboring values.",
+      "d": "Medium",
+      "topic": "Sorting Algorithms",
+      "slo": "Apply and explain sorting algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-208",
+      "q": "In one ascending bubble-sort comparison, what happens to the first adjacent pair in [62, 2, 59]?",
+      "o": [
+        "[59, 2, 62]",
+        "[62, 2, 59]",
+        "[2, 62, 59]",
+        "[62, 59, 2]"
+      ],
+      "a": 2,
+      "e": "Since 62 > 2, bubble sort swaps those neighboring values.",
+      "d": "Medium",
+      "topic": "Sorting Algorithms",
+      "slo": "Apply and explain sorting algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-209",
+      "q": "In one ascending bubble-sort comparison, what happens to the first adjacent pair in [25, 1, 39]?",
+      "o": [
+        "[25, 39, 1]",
+        "[1, 25, 39]",
+        "[39, 1, 25]",
+        "[25, 1, 39]"
+      ],
+      "a": 1,
+      "e": "Since 25 > 1, bubble sort swaps those neighboring values.",
+      "d": "Medium",
+      "topic": "Sorting Algorithms",
+      "slo": "Apply and explain sorting algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-210",
+      "q": "In one ascending bubble-sort comparison, what happens to the first adjacent pair in [28, 24, 8]?",
+      "o": [
+        "[24, 28, 8]",
+        "[28, 8, 24]",
+        "[8, 24, 28]",
+        "[28, 24, 8]"
+      ],
+      "a": 0,
+      "e": "Since 28 > 24, bubble sort swaps those neighboring values.",
+      "d": "Medium",
+      "topic": "Sorting Algorithms",
+      "slo": "Apply and explain sorting algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-211",
+      "q": "In one ascending bubble-sort comparison, what happens to the first adjacent pair in [76, 60, 89]?",
+      "o": [
+        "[89, 60, 76]",
+        "[60, 76, 89]",
+        "[76, 89, 60]",
+        "[76, 60, 89]"
+      ],
+      "a": 1,
+      "e": "Since 76 > 60, bubble sort swaps those neighboring values.",
+      "d": "Medium",
+      "topic": "Sorting Algorithms",
+      "slo": "Apply and explain sorting algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-212",
+      "q": "In one ascending bubble-sort comparison, what happens to the first adjacent pair in [75, 9, 45]?",
+      "o": [
+        "[75, 45, 9]",
+        "[75, 9, 45]",
+        "[9, 75, 45]",
+        "[45, 9, 75]"
+      ],
+      "a": 2,
+      "e": "Since 75 > 9, bubble sort swaps those neighboring values.",
+      "d": "Medium",
+      "topic": "Sorting Algorithms",
+      "slo": "Apply and explain sorting algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-213",
+      "q": "In one ascending bubble-sort comparison, what happens to the first adjacent pair in [6, 3, 76]?",
+      "o": [
+        "[3, 6, 76]",
+        "[6, 3, 76]",
+        "[6, 76, 3]",
+        "[76, 3, 6]"
+      ],
+      "a": 0,
+      "e": "Since 6 > 3, bubble sort swaps those neighboring values.",
+      "d": "Medium",
+      "topic": "Sorting Algorithms",
+      "slo": "Apply and explain sorting algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-214",
+      "q": "In one ascending bubble-sort comparison, what happens to the first adjacent pair in [39, 7, 3]?",
+      "o": [
+        "[39, 3, 7]",
+        "[39, 7, 3]",
+        "[3, 7, 39]",
+        "[7, 39, 3]"
+      ],
+      "a": 3,
+      "e": "Since 39 > 7, bubble sort swaps those neighboring values.",
+      "d": "Medium",
+      "topic": "Sorting Algorithms",
+      "slo": "Apply and explain sorting algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-215",
+      "q": "In one ascending bubble-sort comparison, what happens to the first adjacent pair in [46, 14, 77]?",
+      "o": [
+        "[46, 77, 14]",
+        "[14, 46, 77]",
+        "[46, 14, 77]",
+        "[77, 14, 46]"
+      ],
+      "a": 1,
+      "e": "Since 46 > 14, bubble sort swaps those neighboring values.",
+      "d": "Medium",
+      "topic": "Sorting Algorithms",
+      "slo": "Apply and explain sorting algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-216",
+      "q": "In one ascending bubble-sort comparison, what happens to the first adjacent pair in [90, 46, 37]?",
+      "o": [
+        "[46, 90, 37]",
+        "[37, 46, 90]",
+        "[90, 37, 46]",
+        "[90, 46, 37]"
+      ],
+      "a": 0,
+      "e": "Since 90 > 46, bubble sort swaps those neighboring values.",
+      "d": "Medium",
+      "topic": "Sorting Algorithms",
+      "slo": "Apply and explain sorting algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-217",
+      "q": "In one ascending bubble-sort comparison, what happens to the first adjacent pair in [73, 67, 61]?",
+      "o": [
+        "[73, 67, 61]",
+        "[73, 61, 67]",
+        "[67, 73, 61]",
+        "[61, 67, 73]"
+      ],
+      "a": 2,
+      "e": "Since 73 > 67, bubble sort swaps those neighboring values.",
+      "d": "Medium",
+      "topic": "Sorting Algorithms",
+      "slo": "Apply and explain sorting algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-218",
+      "q": "In one ascending bubble-sort comparison, what happens to the first adjacent pair in [30, 23, 28]?",
+      "o": [
+        "[28, 23, 30]",
+        "[23, 30, 28]",
+        "[30, 28, 23]",
+        "[30, 23, 28]"
+      ],
+      "a": 1,
+      "e": "Since 30 > 23, bubble sort swaps those neighboring values.",
+      "d": "Medium",
+      "topic": "Sorting Algorithms",
+      "slo": "Apply and explain sorting algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-219",
+      "q": "Insertion sort has sorted prefix [7, 50, 81]. Where should key 30 be inserted for ascending order?",
+      "o": [
+        "[7, 50, 30, 81]",
+        "[7, 30, 50, 81]",
+        "[7, 50, 81, 30]",
+        "[30, 7, 50, 81]"
+      ],
+      "a": 1,
+      "e": "7 < 30 < 50, so insert 30 between 7 and 50.",
+      "d": "Medium",
+      "topic": "Sorting Algorithms",
+      "slo": "Apply and explain sorting algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-220",
+      "q": "Insertion sort has sorted prefix [14, 44, 89]. Where should key 16 be inserted for ascending order?",
+      "o": [
+        "[16, 14, 44, 89]",
+        "[14, 44, 16, 89]",
+        "[14, 44, 89, 16]",
+        "[14, 16, 44, 89]"
+      ],
+      "a": 3,
+      "e": "14 < 16 < 44, so insert 16 between 14 and 44.",
+      "d": "Medium",
+      "topic": "Sorting Algorithms",
+      "slo": "Apply and explain sorting algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-221",
+      "q": "Insertion sort has sorted prefix [6, 33, 70]. Where should key 22 be inserted for ascending order?",
+      "o": [
+        "[22, 6, 33, 70]",
+        "[6, 22, 33, 70]",
+        "[6, 33, 22, 70]",
+        "[6, 33, 70, 22]"
+      ],
+      "a": 1,
+      "e": "6 < 22 < 33, so insert 22 between 6 and 33.",
+      "d": "Medium",
+      "topic": "Sorting Algorithms",
+      "slo": "Apply and explain sorting algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-222",
+      "q": "Insertion sort has sorted prefix [5, 43, 65]. Where should key 11 be inserted for ascending order?",
+      "o": [
+        "[5, 43, 11, 65]",
+        "[5, 43, 65, 11]",
+        "[11, 5, 43, 65]",
+        "[5, 11, 43, 65]"
+      ],
+      "a": 3,
+      "e": "5 < 11 < 43, so insert 11 between 5 and 43.",
+      "d": "Medium",
+      "topic": "Sorting Algorithms",
+      "slo": "Apply and explain sorting algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-223",
+      "q": "Insertion sort has sorted prefix [15, 48, 61]. Where should key 37 be inserted for ascending order?",
+      "o": [
+        "[37, 15, 48, 61]",
+        "[15, 48, 61, 37]",
+        "[15, 37, 48, 61]",
+        "[15, 48, 37, 61]"
+      ],
+      "a": 2,
+      "e": "15 < 37 < 48, so insert 37 between 15 and 48.",
+      "d": "Medium",
+      "topic": "Sorting Algorithms",
+      "slo": "Apply and explain sorting algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-224",
+      "q": "Insertion sort has sorted prefix [7, 59, 74]. Where should key 10 be inserted for ascending order?",
+      "o": [
+        "[7, 59, 10, 74]",
+        "[7, 10, 59, 74]",
+        "[7, 59, 74, 10]",
+        "[10, 7, 59, 74]"
+      ],
+      "a": 1,
+      "e": "7 < 10 < 59, so insert 10 between 7 and 59.",
+      "d": "Medium",
+      "topic": "Sorting Algorithms",
+      "slo": "Apply and explain sorting algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-225",
+      "q": "Insertion sort has sorted prefix [3, 33, 63]. Where should key 9 be inserted for ascending order?",
+      "o": [
+        "[3, 9, 33, 63]",
+        "[3, 33, 9, 63]",
+        "[9, 3, 33, 63]",
+        "[3, 33, 63, 9]"
+      ],
+      "a": 0,
+      "e": "3 < 9 < 33, so insert 9 between 3 and 33.",
+      "d": "Medium",
+      "topic": "Sorting Algorithms",
+      "slo": "Apply and explain sorting algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-226",
+      "q": "Insertion sort has sorted prefix [17, 39, 84]. Where should key 21 be inserted for ascending order?",
+      "o": [
+        "[17, 39, 84, 21]",
+        "[21, 17, 39, 84]",
+        "[17, 21, 39, 84]",
+        "[17, 39, 21, 84]"
+      ],
+      "a": 2,
+      "e": "17 < 21 < 39, so insert 21 between 17 and 39.",
+      "d": "Medium",
+      "topic": "Sorting Algorithms",
+      "slo": "Apply and explain sorting algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-227",
+      "q": "Insertion sort has sorted prefix [5, 55, 74]. Where should key 46 be inserted for ascending order?",
+      "o": [
+        "[5, 46, 55, 74]",
+        "[46, 5, 55, 74]",
+        "[5, 55, 74, 46]",
+        "[5, 55, 46, 74]"
+      ],
+      "a": 0,
+      "e": "5 < 46 < 55, so insert 46 between 5 and 55.",
+      "d": "Medium",
+      "topic": "Sorting Algorithms",
+      "slo": "Apply and explain sorting algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-228",
+      "q": "Insertion sort has sorted prefix [24, 52, 78]. Where should key 46 be inserted for ascending order?",
+      "o": [
+        "[24, 46, 52, 78]",
+        "[24, 52, 78, 46]",
+        "[46, 24, 52, 78]",
+        "[24, 52, 46, 78]"
+      ],
+      "a": 0,
+      "e": "24 < 46 < 52, so insert 46 between 24 and 52.",
+      "d": "Medium",
+      "topic": "Sorting Algorithms",
+      "slo": "Apply and explain sorting algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-229",
+      "q": "Insertion sort has sorted prefix [25, 43, 88]. Where should key 33 be inserted for ascending order?",
+      "o": [
+        "[33, 25, 43, 88]",
+        "[25, 33, 43, 88]",
+        "[25, 43, 33, 88]",
+        "[25, 43, 88, 33]"
+      ],
+      "a": 1,
+      "e": "25 < 33 < 43, so insert 33 between 25 and 43.",
+      "d": "Medium",
+      "topic": "Sorting Algorithms",
+      "slo": "Apply and explain sorting algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-230",
+      "q": "Insertion sort has sorted prefix [22, 57, 74]. Where should key 54 be inserted for ascending order?",
+      "o": [
+        "[22, 57, 74, 54]",
+        "[22, 54, 57, 74]",
+        "[54, 22, 57, 74]",
+        "[22, 57, 54, 74]"
+      ],
+      "a": 1,
+      "e": "22 < 54 < 57, so insert 54 between 22 and 57.",
+      "d": "Medium",
+      "topic": "Sorting Algorithms",
+      "slo": "Apply and explain sorting algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-231",
+      "q": "Insertion sort has sorted prefix [19, 56, 81]. Where should key 32 be inserted for ascending order?",
+      "o": [
+        "[19, 32, 56, 81]",
+        "[32, 19, 56, 81]",
+        "[19, 56, 81, 32]",
+        "[19, 56, 32, 81]"
+      ],
+      "a": 0,
+      "e": "19 < 32 < 56, so insert 32 between 19 and 56.",
+      "d": "Medium",
+      "topic": "Sorting Algorithms",
+      "slo": "Apply and explain sorting algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-232",
+      "q": "Insertion sort has sorted prefix [7, 31, 67]. Where should key 30 be inserted for ascending order?",
+      "o": [
+        "[7, 30, 31, 67]",
+        "[7, 31, 30, 67]",
+        "[7, 31, 67, 30]",
+        "[30, 7, 31, 67]"
+      ],
+      "a": 0,
+      "e": "7 < 30 < 31, so insert 30 between 7 and 31.",
+      "d": "Medium",
+      "topic": "Sorting Algorithms",
+      "slo": "Apply and explain sorting algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-233",
+      "q": "Insertion sort has sorted prefix [23, 57, 72]. Where should key 44 be inserted for ascending order?",
+      "o": [
+        "[23, 57, 44, 72]",
+        "[44, 23, 57, 72]",
+        "[23, 57, 72, 44]",
+        "[23, 44, 57, 72]"
+      ],
+      "a": 3,
+      "e": "23 < 44 < 57, so insert 44 between 23 and 57.",
+      "d": "Medium",
+      "topic": "Sorting Algorithms",
+      "slo": "Apply and explain sorting algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-234",
+      "q": "Insertion sort has sorted prefix [25, 46, 66]. Where should key 30 be inserted for ascending order?",
+      "o": [
+        "[25, 46, 66, 30]",
+        "[25, 46, 30, 66]",
+        "[25, 30, 46, 66]",
+        "[30, 25, 46, 66]"
+      ],
+      "a": 2,
+      "e": "25 < 30 < 46, so insert 30 between 25 and 46.",
+      "d": "Medium",
+      "topic": "Sorting Algorithms",
+      "slo": "Apply and explain sorting algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-235",
+      "q": "Insertion sort has sorted prefix [23, 56, 66]. Where should key 52 be inserted for ascending order?",
+      "o": [
+        "[52, 23, 56, 66]",
+        "[23, 56, 66, 52]",
+        "[23, 56, 52, 66]",
+        "[23, 52, 56, 66]"
+      ],
+      "a": 3,
+      "e": "23 < 52 < 56, so insert 52 between 23 and 56.",
+      "d": "Medium",
+      "topic": "Sorting Algorithms",
+      "slo": "Apply and explain sorting algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-236",
+      "q": "Insertion sort has sorted prefix [15, 57, 88]. Where should key 46 be inserted for ascending order?",
+      "o": [
+        "[46, 15, 57, 88]",
+        "[15, 57, 46, 88]",
+        "[15, 46, 57, 88]",
+        "[15, 57, 88, 46]"
+      ],
+      "a": 2,
+      "e": "15 < 46 < 57, so insert 46 between 15 and 57.",
+      "d": "Medium",
+      "topic": "Sorting Algorithms",
+      "slo": "Apply and explain sorting algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-237",
+      "q": "Insertion sort has sorted prefix [8, 57, 63]. Where should key 40 be inserted for ascending order?",
+      "o": [
+        "[8, 40, 57, 63]",
+        "[8, 57, 63, 40]",
+        "[40, 8, 57, 63]",
+        "[8, 57, 40, 63]"
+      ],
+      "a": 0,
+      "e": "8 < 40 < 57, so insert 40 between 8 and 57.",
+      "d": "Medium",
+      "topic": "Sorting Algorithms",
+      "slo": "Apply and explain sorting algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-238",
+      "q": "Insertion sort has sorted prefix [9, 47, 90]. Where should key 24 be inserted for ascending order?",
+      "o": [
+        "[9, 47, 24, 90]",
+        "[9, 47, 90, 24]",
+        "[24, 9, 47, 90]",
+        "[9, 24, 47, 90]"
+      ],
+      "a": 3,
+      "e": "9 < 24 < 47, so insert 24 between 9 and 47.",
+      "d": "Medium",
+      "topic": "Sorting Algorithms",
+      "slo": "Apply and explain sorting algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-239",
+      "q": "Insertion sort has sorted prefix [3, 43, 68]. Where should key 25 be inserted for ascending order?",
+      "o": [
+        "[3, 43, 68, 25]",
+        "[3, 25, 43, 68]",
+        "[25, 3, 43, 68]",
+        "[3, 43, 25, 68]"
+      ],
+      "a": 1,
+      "e": "3 < 25 < 43, so insert 25 between 3 and 43.",
+      "d": "Medium",
+      "topic": "Sorting Algorithms",
+      "slo": "Apply and explain sorting algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-240",
+      "q": "Insertion sort has sorted prefix [3, 31, 70]. Where should key 29 be inserted for ascending order?",
+      "o": [
+        "[3, 31, 70, 29]",
+        "[3, 31, 29, 70]",
+        "[29, 3, 31, 70]",
+        "[3, 29, 31, 70]"
+      ],
+      "a": 3,
+      "e": "3 < 29 < 31, so insert 29 between 3 and 31.",
+      "d": "Medium",
+      "topic": "Sorting Algorithms",
+      "slo": "Apply and explain sorting algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-241",
+      "q": "Insertion sort has sorted prefix [13, 34, 90]. Where should key 32 be inserted for ascending order?",
+      "o": [
+        "[13, 32, 34, 90]",
+        "[32, 13, 34, 90]",
+        "[13, 34, 90, 32]",
+        "[13, 34, 32, 90]"
+      ],
+      "a": 0,
+      "e": "13 < 32 < 34, so insert 32 between 13 and 34.",
+      "d": "Medium",
+      "topic": "Sorting Algorithms",
+      "slo": "Apply and explain sorting algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-242",
+      "q": "Insertion sort has sorted prefix [15, 37, 62]. Where should key 23 be inserted for ascending order?",
+      "o": [
+        "[23, 15, 37, 62]",
+        "[15, 23, 37, 62]",
+        "[15, 37, 62, 23]",
+        "[15, 37, 23, 62]"
+      ],
+      "a": 1,
+      "e": "15 < 23 < 37, so insert 23 between 15 and 37.",
+      "d": "Medium",
+      "topic": "Sorting Algorithms",
+      "slo": "Apply and explain sorting algorithms concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-243",
+      "q": "Consider pseudocode: SET x = 38; SET y = 25; OUTPUT x * y. What is printed?",
+      "o": [
+        "-13",
+        "950",
+        "63",
+        "13"
+      ],
+      "a": 1,
+      "e": "The expression 38 * 25 evaluates to 950.",
+      "d": "Medium",
+      "topic": "Pseudocode",
+      "slo": "Apply and explain pseudocode concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-244",
+      "q": "Consider pseudocode: SET x = 27; SET y = 30; OUTPUT x + y. What is printed?",
+      "o": [
+        "-3",
+        "810",
+        "57",
+        "3"
+      ],
+      "a": 2,
+      "e": "The expression 27 + 30 evaluates to 57.",
+      "d": "Medium",
+      "topic": "Pseudocode",
+      "slo": "Apply and explain pseudocode concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-245",
+      "q": "Consider pseudocode: SET x = 20; SET y = 19; OUTPUT x * y. What is printed?",
+      "o": [
+        "39",
+        "1",
+        "-1",
+        "380"
+      ],
+      "a": 3,
+      "e": "The expression 20 * 19 evaluates to 380.",
+      "d": "Medium",
+      "topic": "Pseudocode",
+      "slo": "Apply and explain pseudocode concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-246",
+      "q": "Consider pseudocode: SET x = 24; SET y = 13; OUTPUT x + y. What is printed?",
+      "o": [
+        "37",
+        "-11",
+        "11",
+        "312"
+      ],
+      "a": 0,
+      "e": "The expression 24 + 13 evaluates to 37.",
+      "d": "Medium",
+      "topic": "Pseudocode",
+      "slo": "Apply and explain pseudocode concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-247",
+      "q": "Consider pseudocode: SET x = 14; SET y = 26; OUTPUT x * y. What is printed?",
+      "o": [
+        "12",
+        "-12",
+        "40",
+        "364"
+      ],
+      "a": 3,
+      "e": "The expression 14 * 26 evaluates to 364.",
+      "d": "Medium",
+      "topic": "Pseudocode",
+      "slo": "Apply and explain pseudocode concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-248",
+      "q": "Consider pseudocode: SET x = 34; SET y = 14; OUTPUT x * y. What is printed?",
+      "o": [
+        "20",
+        "-20",
+        "48",
+        "476"
+      ],
+      "a": 3,
+      "e": "The expression 34 * 14 evaluates to 476.",
+      "d": "Medium",
+      "topic": "Pseudocode",
+      "slo": "Apply and explain pseudocode concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-249",
+      "q": "Consider pseudocode: SET x = 5; SET y = 33; OUTPUT x * y. What is printed?",
+      "o": [
+        "38",
+        "165",
+        "28",
+        "-28"
+      ],
+      "a": 1,
+      "e": "The expression 5 * 33 evaluates to 165.",
+      "d": "Medium",
+      "topic": "Pseudocode",
+      "slo": "Apply and explain pseudocode concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-250",
+      "q": "Consider pseudocode: SET x = 12; SET y = 1; OUTPUT x + y. What is printed?",
+      "o": [
+        "-11",
+        "13",
+        "11",
+        "12"
+      ],
+      "a": 1,
+      "e": "The expression 12 + 1 evaluates to 13.",
+      "d": "Medium",
+      "topic": "Pseudocode",
+      "slo": "Apply and explain pseudocode concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-251",
+      "q": "Consider pseudocode: SET x = 15; SET y = 7; OUTPUT x * y. What is printed?",
+      "o": [
+        "-8",
+        "22",
+        "105",
+        "8"
+      ],
+      "a": 2,
+      "e": "The expression 15 * 7 evaluates to 105.",
+      "d": "Medium",
+      "topic": "Pseudocode",
+      "slo": "Apply and explain pseudocode concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-252",
+      "q": "Consider pseudocode: SET x = 12; SET y = 37; OUTPUT x * y. What is printed?",
+      "o": [
+        "444",
+        "25",
+        "-25",
+        "49"
+      ],
+      "a": 0,
+      "e": "The expression 12 * 37 evaluates to 444.",
+      "d": "Medium",
+      "topic": "Pseudocode",
+      "slo": "Apply and explain pseudocode concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-253",
+      "q": "Consider pseudocode: SET x = 6; SET y = 10; OUTPUT x + y. What is printed?",
+      "o": [
+        "-4",
+        "60",
+        "4",
+        "16"
+      ],
+      "a": 3,
+      "e": "The expression 6 + 10 evaluates to 16.",
+      "d": "Medium",
+      "topic": "Pseudocode",
+      "slo": "Apply and explain pseudocode concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-254",
+      "q": "Consider pseudocode: SET x = 37; SET y = 7; OUTPUT x + y. What is printed?",
+      "o": [
+        "259",
+        "-30",
+        "30",
+        "44"
+      ],
+      "a": 3,
+      "e": "The expression 37 + 7 evaluates to 44.",
+      "d": "Medium",
+      "topic": "Pseudocode",
+      "slo": "Apply and explain pseudocode concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-255",
+      "q": "Consider pseudocode: SET x = 21; SET y = 31; OUTPUT x + y. What is printed?",
+      "o": [
+        "-10",
+        "10",
+        "651",
+        "52"
+      ],
+      "a": 3,
+      "e": "The expression 21 + 31 evaluates to 52.",
+      "d": "Medium",
+      "topic": "Pseudocode",
+      "slo": "Apply and explain pseudocode concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-256",
+      "q": "Consider pseudocode: SET x = 20; SET y = 2; OUTPUT x + y. What is printed?",
+      "o": [
+        "18",
+        "-18",
+        "40",
+        "22"
+      ],
+      "a": 3,
+      "e": "The expression 20 + 2 evaluates to 22.",
+      "d": "Medium",
+      "topic": "Pseudocode",
+      "slo": "Apply and explain pseudocode concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-257",
+      "q": "Consider pseudocode: SET x = 34; SET y = 35; OUTPUT x * y. What is printed?",
+      "o": [
+        "-1",
+        "1",
+        "1190",
+        "69"
+      ],
+      "a": 2,
+      "e": "The expression 34 * 35 evaluates to 1190.",
+      "d": "Medium",
+      "topic": "Pseudocode",
+      "slo": "Apply and explain pseudocode concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-258",
+      "q": "Consider pseudocode: SET x = 6; SET y = 17; OUTPUT x * y. What is printed?",
+      "o": [
+        "102",
+        "-11",
+        "23",
+        "11"
+      ],
+      "a": 0,
+      "e": "The expression 6 * 17 evaluates to 102.",
+      "d": "Medium",
+      "topic": "Pseudocode",
+      "slo": "Apply and explain pseudocode concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-259",
+      "q": "Consider pseudocode: SET x = 24; SET y = 31; OUTPUT x + y. What is printed?",
+      "o": [
+        "744",
+        "7",
+        "55",
+        "-7"
+      ],
+      "a": 2,
+      "e": "The expression 24 + 31 evaluates to 55.",
+      "d": "Medium",
+      "topic": "Pseudocode",
+      "slo": "Apply and explain pseudocode concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-260",
+      "q": "Consider pseudocode: SET x = 32; SET y = 30; OUTPUT x - y. What is printed?",
+      "o": [
+        "62",
+        "2",
+        "960",
+        "-2"
+      ],
+      "a": 1,
+      "e": "The expression 32 - 30 evaluates to 2.",
+      "d": "Medium",
+      "topic": "Pseudocode",
+      "slo": "Apply and explain pseudocode concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-261",
+      "q": "Consider pseudocode: SET x = 24; SET y = 31; OUTPUT x - y. What is printed?",
+      "o": [
+        "7",
+        "55",
+        "744",
+        "-7"
+      ],
+      "a": 3,
+      "e": "The expression 24 - 31 evaluates to -7.",
+      "d": "Medium",
+      "topic": "Pseudocode",
+      "slo": "Apply and explain pseudocode concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-262",
+      "q": "Consider pseudocode: SET x = 28; SET y = 11; OUTPUT x + y. What is printed?",
+      "o": [
+        "17",
+        "-17",
+        "308",
+        "39"
+      ],
+      "a": 3,
+      "e": "The expression 28 + 11 evaluates to 39.",
+      "d": "Medium",
+      "topic": "Pseudocode",
+      "slo": "Apply and explain pseudocode concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-263",
+      "q": "Consider pseudocode: SET x = 30; SET y = 23; OUTPUT x * y. What is printed?",
+      "o": [
+        "-7",
+        "53",
+        "7",
+        "690"
+      ],
+      "a": 3,
+      "e": "The expression 30 * 23 evaluates to 690.",
+      "d": "Medium",
+      "topic": "Pseudocode",
+      "slo": "Apply and explain pseudocode concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-264",
+      "q": "Consider pseudocode: SET x = 5; SET y = 7; OUTPUT x * y. What is printed?",
+      "o": [
+        "35",
+        "12",
+        "-2",
+        "2"
+      ],
+      "a": 0,
+      "e": "The expression 5 * 7 evaluates to 35.",
+      "d": "Medium",
+      "topic": "Pseudocode",
+      "slo": "Apply and explain pseudocode concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-265",
+      "q": "Consider pseudocode: SET x = 31; SET y = 19; OUTPUT x + y. What is printed?",
+      "o": [
+        "50",
+        "-12",
+        "12",
+        "589"
+      ],
+      "a": 0,
+      "e": "The expression 31 + 19 evaluates to 50.",
+      "d": "Medium",
+      "topic": "Pseudocode",
+      "slo": "Apply and explain pseudocode concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-266",
+      "q": "Consider pseudocode: SET x = 21; SET y = 10; OUTPUT x + y. What is printed?",
+      "o": [
+        "-11",
+        "210",
+        "11",
+        "31"
+      ],
+      "a": 3,
+      "e": "The expression 21 + 10 evaluates to 31.",
+      "d": "Medium",
+      "topic": "Pseudocode",
+      "slo": "Apply and explain pseudocode concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-267",
+      "q": "Consider pseudocode: SET x = 26; SET y = 23; OUTPUT x * y. What is printed?",
+      "o": [
+        "49",
+        "-3",
+        "3",
+        "598"
+      ],
+      "a": 3,
+      "e": "The expression 26 * 23 evaluates to 598.",
+      "d": "Medium",
+      "topic": "Pseudocode",
+      "slo": "Apply and explain pseudocode concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-268",
+      "q": "Consider pseudocode: SET x = 2; SET y = 27; OUTPUT x - y. What is printed?",
+      "o": [
+        "25",
+        "-25",
+        "54",
+        "29"
+      ],
+      "a": 1,
+      "e": "The expression 2 - 27 evaluates to -25.",
+      "d": "Medium",
+      "topic": "Pseudocode",
+      "slo": "Apply and explain pseudocode concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-269",
+      "q": "IF 31 < 14 THEN OUTPUT \"YES\" ELSE OUTPUT \"NO\". What is the output?",
+      "o": [
+        "TRUE",
+        "FALSE",
+        "NO",
+        "YES"
+      ],
+      "a": 2,
+      "e": "The comparison 31 < 14 is False, so the selected branch prints NO.",
+      "d": "Medium",
+      "topic": "Pseudocode",
+      "slo": "Apply and explain pseudocode concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-270",
+      "q": "IF 46 > 48 THEN OUTPUT \"YES\" ELSE OUTPUT \"NO\". What is the output?",
+      "o": [
+        "NO",
+        "FALSE",
+        "TRUE",
+        "YES"
+      ],
+      "a": 0,
+      "e": "The comparison 46 > 48 is False, so the selected branch prints NO.",
+      "d": "Medium",
+      "topic": "Pseudocode",
+      "slo": "Apply and explain pseudocode concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-271",
+      "q": "IF 73 > 54 THEN OUTPUT \"YES\" ELSE OUTPUT \"NO\". What is the output?",
+      "o": [
+        "YES",
+        "TRUE",
+        "NO",
+        "FALSE"
+      ],
+      "a": 0,
+      "e": "The comparison 73 > 54 is True, so the selected branch prints YES.",
+      "d": "Medium",
+      "topic": "Pseudocode",
+      "slo": "Apply and explain pseudocode concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-272",
+      "q": "IF 64 > 79 THEN OUTPUT \"YES\" ELSE OUTPUT \"NO\". What is the output?",
+      "o": [
+        "FALSE",
+        "YES",
+        "TRUE",
+        "NO"
+      ],
+      "a": 3,
+      "e": "The comparison 64 > 79 is False, so the selected branch prints NO.",
+      "d": "Medium",
+      "topic": "Pseudocode",
+      "slo": "Apply and explain pseudocode concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-273",
+      "q": "IF 8 < 22 THEN OUTPUT \"YES\" ELSE OUTPUT \"NO\". What is the output?",
+      "o": [
+        "FALSE",
+        "NO",
+        "YES",
+        "TRUE"
+      ],
+      "a": 2,
+      "e": "The comparison 8 < 22 is True, so the selected branch prints YES.",
+      "d": "Medium",
+      "topic": "Pseudocode",
+      "slo": "Apply and explain pseudocode concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-274",
+      "q": "IF 77 > 79 THEN OUTPUT \"YES\" ELSE OUTPUT \"NO\". What is the output?",
+      "o": [
+        "TRUE",
+        "YES",
+        "NO",
+        "FALSE"
+      ],
+      "a": 2,
+      "e": "The comparison 77 > 79 is False, so the selected branch prints NO.",
+      "d": "Medium",
+      "topic": "Pseudocode",
+      "slo": "Apply and explain pseudocode concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-275",
+      "q": "IF 73 < 9 THEN OUTPUT \"YES\" ELSE OUTPUT \"NO\". What is the output?",
+      "o": [
+        "TRUE",
+        "FALSE",
+        "NO",
+        "YES"
+      ],
+      "a": 2,
+      "e": "The comparison 73 < 9 is False, so the selected branch prints NO.",
+      "d": "Medium",
+      "topic": "Pseudocode",
+      "slo": "Apply and explain pseudocode concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-276",
+      "q": "IF 22 > 5 THEN OUTPUT \"YES\" ELSE OUTPUT \"NO\". What is the output?",
+      "o": [
+        "TRUE",
+        "NO",
+        "YES",
+        "FALSE"
+      ],
+      "a": 2,
+      "e": "The comparison 22 > 5 is True, so the selected branch prints YES.",
+      "d": "Medium",
+      "topic": "Pseudocode",
+      "slo": "Apply and explain pseudocode concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-277",
+      "q": "IF 15 < 40 THEN OUTPUT \"YES\" ELSE OUTPUT \"NO\". What is the output?",
+      "o": [
+        "FALSE",
+        "TRUE",
+        "YES",
+        "NO"
+      ],
+      "a": 2,
+      "e": "The comparison 15 < 40 is True, so the selected branch prints YES.",
+      "d": "Medium",
+      "topic": "Pseudocode",
+      "slo": "Apply and explain pseudocode concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-278",
+      "q": "IF 26 < 55 THEN OUTPUT \"YES\" ELSE OUTPUT \"NO\". What is the output?",
+      "o": [
+        "YES",
+        "TRUE",
+        "FALSE",
+        "NO"
+      ],
+      "a": 0,
+      "e": "The comparison 26 < 55 is True, so the selected branch prints YES.",
+      "d": "Medium",
+      "topic": "Pseudocode",
+      "slo": "Apply and explain pseudocode concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-279",
+      "q": "IF 33 > 55 THEN OUTPUT \"YES\" ELSE OUTPUT \"NO\". What is the output?",
+      "o": [
+        "NO",
+        "YES",
+        "TRUE",
+        "FALSE"
+      ],
+      "a": 0,
+      "e": "The comparison 33 > 55 is False, so the selected branch prints NO.",
+      "d": "Medium",
+      "topic": "Pseudocode",
+      "slo": "Apply and explain pseudocode concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-280",
+      "q": "IF 73 < 32 THEN OUTPUT \"YES\" ELSE OUTPUT \"NO\". What is the output?",
+      "o": [
+        "NO",
+        "TRUE",
+        "FALSE",
+        "YES"
+      ],
+      "a": 0,
+      "e": "The comparison 73 < 32 is False, so the selected branch prints NO.",
+      "d": "Medium",
+      "topic": "Pseudocode",
+      "slo": "Apply and explain pseudocode concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-281",
+      "q": "IF 13 > 15 THEN OUTPUT \"YES\" ELSE OUTPUT \"NO\". What is the output?",
+      "o": [
+        "YES",
+        "NO",
+        "TRUE",
+        "FALSE"
+      ],
+      "a": 1,
+      "e": "The comparison 13 > 15 is False, so the selected branch prints NO.",
+      "d": "Medium",
+      "topic": "Pseudocode",
+      "slo": "Apply and explain pseudocode concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-282",
+      "q": "IF 52 < 12 THEN OUTPUT \"YES\" ELSE OUTPUT \"NO\". What is the output?",
+      "o": [
+        "NO",
+        "TRUE",
+        "YES",
+        "FALSE"
+      ],
+      "a": 0,
+      "e": "The comparison 52 < 12 is False, so the selected branch prints NO.",
+      "d": "Medium",
+      "topic": "Pseudocode",
+      "slo": "Apply and explain pseudocode concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-283",
+      "q": "IF 74 > 19 THEN OUTPUT \"YES\" ELSE OUTPUT \"NO\". What is the output?",
+      "o": [
+        "YES",
+        "NO",
+        "TRUE",
+        "FALSE"
+      ],
+      "a": 0,
+      "e": "The comparison 74 > 19 is True, so the selected branch prints YES.",
+      "d": "Medium",
+      "topic": "Pseudocode",
+      "slo": "Apply and explain pseudocode concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-284",
+      "q": "IF 21 > 48 THEN OUTPUT \"YES\" ELSE OUTPUT \"NO\". What is the output?",
+      "o": [
+        "NO",
+        "TRUE",
+        "FALSE",
+        "YES"
+      ],
+      "a": 0,
+      "e": "The comparison 21 > 48 is False, so the selected branch prints NO.",
+      "d": "Medium",
+      "topic": "Pseudocode",
+      "slo": "Apply and explain pseudocode concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-285",
+      "q": "IF 25 > 33 THEN OUTPUT \"YES\" ELSE OUTPUT \"NO\". What is the output?",
+      "o": [
+        "NO",
+        "FALSE",
+        "TRUE",
+        "YES"
+      ],
+      "a": 0,
+      "e": "The comparison 25 > 33 is False, so the selected branch prints NO.",
+      "d": "Medium",
+      "topic": "Pseudocode",
+      "slo": "Apply and explain pseudocode concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-286",
+      "q": "IF 55 < 77 THEN OUTPUT \"YES\" ELSE OUTPUT \"NO\". What is the output?",
+      "o": [
+        "TRUE",
+        "NO",
+        "YES",
+        "FALSE"
+      ],
+      "a": 2,
+      "e": "The comparison 55 < 77 is True, so the selected branch prints YES.",
+      "d": "Medium",
+      "topic": "Pseudocode",
+      "slo": "Apply and explain pseudocode concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-287",
+      "q": "IF 47 > 66 THEN OUTPUT \"YES\" ELSE OUTPUT \"NO\". What is the output?",
+      "o": [
+        "NO",
+        "YES",
+        "TRUE",
+        "FALSE"
+      ],
+      "a": 0,
+      "e": "The comparison 47 > 66 is False, so the selected branch prints NO.",
+      "d": "Medium",
+      "topic": "Pseudocode",
+      "slo": "Apply and explain pseudocode concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-288",
+      "q": "IF 5 > 76 THEN OUTPUT \"YES\" ELSE OUTPUT \"NO\". What is the output?",
+      "o": [
+        "YES",
+        "FALSE",
+        "NO",
+        "TRUE"
+      ],
+      "a": 2,
+      "e": "The comparison 5 > 76 is False, so the selected branch prints NO.",
+      "d": "Medium",
+      "topic": "Pseudocode",
+      "slo": "Apply and explain pseudocode concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-289",
+      "q": "IF 51 > 72 THEN OUTPUT \"YES\" ELSE OUTPUT \"NO\". What is the output?",
+      "o": [
+        "YES",
+        "NO",
+        "TRUE",
+        "FALSE"
+      ],
+      "a": 1,
+      "e": "The comparison 51 > 72 is False, so the selected branch prints NO.",
+      "d": "Medium",
+      "topic": "Pseudocode",
+      "slo": "Apply and explain pseudocode concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-290",
+      "q": "IF 42 > 33 THEN OUTPUT \"YES\" ELSE OUTPUT \"NO\". What is the output?",
+      "o": [
+        "TRUE",
+        "FALSE",
+        "YES",
+        "NO"
+      ],
+      "a": 2,
+      "e": "The comparison 42 > 33 is True, so the selected branch prints YES.",
+      "d": "Medium",
+      "topic": "Pseudocode",
+      "slo": "Apply and explain pseudocode concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-291",
+      "q": "IF 11 > 57 THEN OUTPUT \"YES\" ELSE OUTPUT \"NO\". What is the output?",
+      "o": [
+        "YES",
+        "FALSE",
+        "TRUE",
+        "NO"
+      ],
+      "a": 3,
+      "e": "The comparison 11 > 57 is False, so the selected branch prints NO.",
+      "d": "Medium",
+      "topic": "Pseudocode",
+      "slo": "Apply and explain pseudocode concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-292",
+      "q": "IF 17 > 1 THEN OUTPUT \"YES\" ELSE OUTPUT \"NO\". What is the output?",
+      "o": [
+        "NO",
+        "YES",
+        "FALSE",
+        "TRUE"
+      ],
+      "a": 1,
+      "e": "The comparison 17 > 1 is True, so the selected branch prints YES.",
+      "d": "Medium",
+      "topic": "Pseudocode",
+      "slo": "Apply and explain pseudocode concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-293",
+      "q": "IF 35 > 33 THEN OUTPUT \"YES\" ELSE OUTPUT \"NO\". What is the output?",
+      "o": [
+        "FALSE",
+        "TRUE",
+        "YES",
+        "NO"
+      ],
+      "a": 2,
+      "e": "The comparison 35 > 33 is True, so the selected branch prints YES.",
+      "d": "Medium",
+      "topic": "Pseudocode",
+      "slo": "Apply and explain pseudocode concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-294",
+      "q": "A FOR loop runs from 6 through 9, including both endpoints. How many iterations execute?",
+      "o": [
+        "3",
+        "4",
+        "9",
+        "5"
+      ],
+      "a": 1,
+      "e": "Inclusive iteration count is 9 - 6 + 1 = 4.",
+      "d": "Medium",
+      "topic": "Algorithms and Flowcharts",
+      "slo": "Apply and explain algorithms and flowcharts concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-295",
+      "q": "A FOR loop runs from 2 through 12, including both endpoints. How many iterations execute?",
+      "o": [
+        "12",
+        "13",
+        "10",
+        "11"
+      ],
+      "a": 3,
+      "e": "Inclusive iteration count is 12 - 2 + 1 = 11.",
+      "d": "Medium",
+      "topic": "Algorithms and Flowcharts",
+      "slo": "Apply and explain algorithms and flowcharts concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-296",
+      "q": "A FOR loop runs from 9 through 11, including both endpoints. How many iterations execute?",
+      "o": [
+        "4",
+        "2",
+        "3",
+        "11"
+      ],
+      "a": 2,
+      "e": "Inclusive iteration count is 11 - 9 + 1 = 3.",
+      "d": "Medium",
+      "topic": "Algorithms and Flowcharts",
+      "slo": "Apply and explain algorithms and flowcharts concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-297",
+      "q": "A FOR loop runs from 0 through 22, including both endpoints. How many iterations execute?",
+      "o": [
+        "23",
+        "25",
+        "22",
+        "24"
+      ],
+      "a": 0,
+      "e": "Inclusive iteration count is 22 - 0 + 1 = 23.",
+      "d": "Medium",
+      "topic": "Algorithms and Flowcharts",
+      "slo": "Apply and explain algorithms and flowcharts concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-298",
+      "q": "A FOR loop runs from 0 through 7, including both endpoints. How many iterations execute?",
+      "o": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "a": 1,
+      "e": "Inclusive iteration count is 7 - 0 + 1 = 8.",
+      "d": "Medium",
+      "topic": "Algorithms and Flowcharts",
+      "slo": "Apply and explain algorithms and flowcharts concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-299",
+      "q": "A FOR loop runs from 12 through 23, including both endpoints. How many iterations execute?",
+      "o": [
+        "23",
+        "13",
+        "12",
+        "11"
+      ],
+      "a": 2,
+      "e": "Inclusive iteration count is 23 - 12 + 1 = 12.",
+      "d": "Medium",
+      "topic": "Algorithms and Flowcharts",
+      "slo": "Apply and explain algorithms and flowcharts concepts to solve a problem."
+    },
+    {
+      "id": "CS11CH02-300",
+      "q": "A FOR loop runs from 11 through 30, including both endpoints. How many iterations execute?",
+      "o": [
+        "19",
+        "20",
+        "30",
+        "21"
+      ],
+      "a": 1,
+      "e": "Inclusive iteration count is 30 - 11 + 1 = 20.",
+      "d": "Medium",
+      "topic": "Algorithms and Flowcharts",
+      "slo": "Apply and explain algorithms and flowcharts concepts to solve a problem."
+    }
+  ]
+}

@@ -1,0 +1,4504 @@
+{
+  "questions": [
+    {
+      "id": "CS11CH08-001",
+      "q": "What is a product in entrepreneurship?",
+      "o": [
+        "A good or solution offered to satisfy a customer need",
+        "None of these choices is correct",
+        "Only a tax document",
+        "A random business slogan"
+      ],
+      "a": 0,
+      "e": "A product is created to provide value to customers.",
+      "d": "Easy",
+      "topic": "Products and services",
+      "slo": "Identify, explain and apply concepts related to products and services."
+    },
+    {
+      "id": "CS11CH08-002",
+      "q": "In an entrepreneurship and product-development lesson, answer: What is a product in entrepreneurship?",
+      "o": [
+        "None of these choices is correct",
+        "Only a tax document",
+        "A good or solution offered to satisfy a customer need",
+        "A random business slogan"
+      ],
+      "a": 2,
+      "e": "A product is created to provide value to customers.",
+      "d": "Medium",
+      "topic": "Products and services",
+      "slo": "Identify, explain and apply concepts related to products and services."
+    },
+    {
+      "id": "CS11CH08-003",
+      "q": "For a Grade 11 startup case study, consider this question: What is a product in entrepreneurship?",
+      "o": [
+        "None of these choices is correct",
+        "Only a tax document",
+        "A random business slogan",
+        "A good or solution offered to satisfy a customer need"
+      ],
+      "a": 3,
+      "e": "A product is created to provide value to customers.",
+      "d": "Hard",
+      "topic": "Products and services",
+      "slo": "Identify, explain and apply concepts related to products and services."
+    },
+    {
+      "id": "CS11CH08-004",
+      "q": "What is a service?",
+      "o": [
+        "None of these choices is correct",
+        "A computer component",
+        "An activity or benefit provided to customers",
+        "Only a physical object"
+      ],
+      "a": 2,
+      "e": "Services provide value through actions or expertise.",
+      "d": "Easy",
+      "topic": "Products and services",
+      "slo": "Identify, explain and apply concepts related to products and services."
+    },
+    {
+      "id": "CS11CH08-005",
+      "q": "In an entrepreneurship and product-development lesson, answer: What is a service?",
+      "o": [
+        "An activity or benefit provided to customers",
+        "A computer component",
+        "None of these choices is correct",
+        "Only a physical object"
+      ],
+      "a": 0,
+      "e": "Services provide value through actions or expertise.",
+      "d": "Medium",
+      "topic": "Products and services",
+      "slo": "Identify, explain and apply concepts related to products and services."
+    },
+    {
+      "id": "CS11CH08-006",
+      "q": "For a Grade 11 startup case study, consider this question: What is a service?",
+      "o": [
+        "Only a physical object",
+        "None of these choices is correct",
+        "An activity or benefit provided to customers",
+        "A computer component"
+      ],
+      "a": 2,
+      "e": "Services provide value through actions or expertise.",
+      "d": "Hard",
+      "topic": "Products and services",
+      "slo": "Identify, explain and apply concepts related to products and services."
+    },
+    {
+      "id": "CS11CH08-007",
+      "q": "Which example is a physical product?",
+      "o": [
+        "A haircut appointment",
+        "A manufactured notebook",
+        "Online tutoring time",
+        "None of these choices is correct"
+      ],
+      "a": 1,
+      "e": "A notebook is a tangible good.",
+      "d": "Easy",
+      "topic": "Products and services",
+      "slo": "Identify, explain and apply concepts related to products and services."
+    },
+    {
+      "id": "CS11CH08-008",
+      "q": "In an entrepreneurship and product-development lesson, answer: Which example is a physical product?",
+      "o": [
+        "Online tutoring time",
+        "A haircut appointment",
+        "None of these choices is correct",
+        "A manufactured notebook"
+      ],
+      "a": 3,
+      "e": "A notebook is a tangible good.",
+      "d": "Medium",
+      "topic": "Products and services",
+      "slo": "Identify, explain and apply concepts related to products and services."
+    },
+    {
+      "id": "CS11CH08-009",
+      "q": "For a Grade 11 startup case study, consider this question: Which example is a physical product?",
+      "o": [
+        "None of these choices is correct",
+        "A manufactured notebook",
+        "A haircut appointment",
+        "Online tutoring time"
+      ],
+      "a": 1,
+      "e": "A notebook is a tangible good.",
+      "d": "Hard",
+      "topic": "Products and services",
+      "slo": "Identify, explain and apply concepts related to products and services."
+    },
+    {
+      "id": "CS11CH08-010",
+      "q": "Which example is a service?",
+      "o": [
+        "A packaged keyboard",
+        "None of these choices is correct",
+        "Website maintenance for a client",
+        "A printed poster"
+      ],
+      "a": 2,
+      "e": "Website maintenance is work performed for a customer.",
+      "d": "Easy",
+      "topic": "Products and services",
+      "slo": "Identify, explain and apply concepts related to products and services."
+    },
+    {
+      "id": "CS11CH08-011",
+      "q": "In an entrepreneurship and product-development lesson, answer: Which example is a service?",
+      "o": [
+        "A printed poster",
+        "A packaged keyboard",
+        "Website maintenance for a client",
+        "None of these choices is correct"
+      ],
+      "a": 2,
+      "e": "Website maintenance is work performed for a customer.",
+      "d": "Medium",
+      "topic": "Products and services",
+      "slo": "Identify, explain and apply concepts related to products and services."
+    },
+    {
+      "id": "CS11CH08-012",
+      "q": "For a Grade 11 startup case study, consider this question: Which example is a service?",
+      "o": [
+        "A printed poster",
+        "None of these choices is correct",
+        "A packaged keyboard",
+        "Website maintenance for a client"
+      ],
+      "a": 3,
+      "e": "Website maintenance is work performed for a customer.",
+      "d": "Hard",
+      "topic": "Products and services",
+      "slo": "Identify, explain and apply concepts related to products and services."
+    },
+    {
+      "id": "CS11CH08-013",
+      "q": "What is product development?",
+      "o": [
+        "None of these choices is correct",
+        "Deleting customer feedback",
+        "Only placing an advertisement",
+        "The process of turning an idea into a useful offering"
+      ],
+      "a": 3,
+      "e": "Product development includes designing, testing and improving offerings.",
+      "d": "Easy",
+      "topic": "Products and services",
+      "slo": "Identify, explain and apply concepts related to products and services."
+    },
+    {
+      "id": "CS11CH08-014",
+      "q": "In an entrepreneurship and product-development lesson, answer: What is product development?",
+      "o": [
+        "Only placing an advertisement",
+        "The process of turning an idea into a useful offering",
+        "Deleting customer feedback",
+        "None of these choices is correct"
+      ],
+      "a": 1,
+      "e": "Product development includes designing, testing and improving offerings.",
+      "d": "Medium",
+      "topic": "Products and services",
+      "slo": "Identify, explain and apply concepts related to products and services."
+    },
+    {
+      "id": "CS11CH08-015",
+      "q": "For a Grade 11 startup case study, consider this question: What is product development?",
+      "o": [
+        "Deleting customer feedback",
+        "Only placing an advertisement",
+        "None of these choices is correct",
+        "The process of turning an idea into a useful offering"
+      ],
+      "a": 3,
+      "e": "Product development includes designing, testing and improving offerings.",
+      "d": "Hard",
+      "topic": "Products and services",
+      "slo": "Identify, explain and apply concepts related to products and services."
+    },
+    {
+      "id": "CS11CH08-016",
+      "q": "Why identify customer needs before developing a product?",
+      "o": [
+        "To make the solution relevant to real users",
+        "To guarantee unlimited profit",
+        "To avoid understanding the market",
+        "None of these choices is correct"
+      ],
+      "a": 0,
+      "e": "Understanding customer problems helps guide design.",
+      "d": "Easy",
+      "topic": "Products and services",
+      "slo": "Identify, explain and apply concepts related to products and services."
+    },
+    {
+      "id": "CS11CH08-017",
+      "q": "In an entrepreneurship and product-development lesson, answer: Why identify customer needs before developing a product?",
+      "o": [
+        "To make the solution relevant to real users",
+        "None of these choices is correct",
+        "To avoid understanding the market",
+        "To guarantee unlimited profit"
+      ],
+      "a": 0,
+      "e": "Understanding customer problems helps guide design.",
+      "d": "Medium",
+      "topic": "Products and services",
+      "slo": "Identify, explain and apply concepts related to products and services."
+    },
+    {
+      "id": "CS11CH08-018",
+      "q": "For a Grade 11 startup case study, consider this question: Why identify customer needs before developing a product?",
+      "o": [
+        "To make the solution relevant to real users",
+        "None of these choices is correct",
+        "To avoid understanding the market",
+        "To guarantee unlimited profit"
+      ],
+      "a": 0,
+      "e": "Understanding customer problems helps guide design.",
+      "d": "Hard",
+      "topic": "Products and services",
+      "slo": "Identify, explain and apply concepts related to products and services."
+    },
+    {
+      "id": "CS11CH08-019",
+      "q": "What is a target market?",
+      "o": [
+        "Only the company's employees",
+        "All computer files in a folder",
+        "None of these choices is correct",
+        "The group of customers a product aims to serve"
+      ],
+      "a": 3,
+      "e": "A target market identifies intended buyers or users.",
+      "d": "Easy",
+      "topic": "Products and services",
+      "slo": "Identify, explain and apply concepts related to products and services."
+    },
+    {
+      "id": "CS11CH08-020",
+      "q": "In an entrepreneurship and product-development lesson, answer: What is a target market?",
+      "o": [
+        "None of these choices is correct",
+        "Only the company's employees",
+        "All computer files in a folder",
+        "The group of customers a product aims to serve"
+      ],
+      "a": 3,
+      "e": "A target market identifies intended buyers or users.",
+      "d": "Medium",
+      "topic": "Products and services",
+      "slo": "Identify, explain and apply concepts related to products and services."
+    },
+    {
+      "id": "CS11CH08-021",
+      "q": "For a Grade 11 startup case study, consider this question: What is a target market?",
+      "o": [
+        "The group of customers a product aims to serve",
+        "Only the company's employees",
+        "None of these choices is correct",
+        "All computer files in a folder"
+      ],
+      "a": 0,
+      "e": "A target market identifies intended buyers or users.",
+      "d": "Hard",
+      "topic": "Products and services",
+      "slo": "Identify, explain and apply concepts related to products and services."
+    },
+    {
+      "id": "CS11CH08-022",
+      "q": "What is a value proposition?",
+      "o": [
+        "A password policy",
+        "A list of office furniture",
+        "None of these choices is correct",
+        "A statement of the benefit offered to customers"
+      ],
+      "a": 3,
+      "e": "A value proposition explains why customers would choose an offering.",
+      "d": "Easy",
+      "topic": "Products and services",
+      "slo": "Identify, explain and apply concepts related to products and services."
+    },
+    {
+      "id": "CS11CH08-023",
+      "q": "In an entrepreneurship and product-development lesson, answer: What is a value proposition?",
+      "o": [
+        "A password policy",
+        "A statement of the benefit offered to customers",
+        "A list of office furniture",
+        "None of these choices is correct"
+      ],
+      "a": 1,
+      "e": "A value proposition explains why customers would choose an offering.",
+      "d": "Medium",
+      "topic": "Products and services",
+      "slo": "Identify, explain and apply concepts related to products and services."
+    },
+    {
+      "id": "CS11CH08-024",
+      "q": "For a Grade 11 startup case study, consider this question: What is a value proposition?",
+      "o": [
+        "A statement of the benefit offered to customers",
+        "None of these choices is correct",
+        "A list of office furniture",
+        "A password policy"
+      ],
+      "a": 0,
+      "e": "A value proposition explains why customers would choose an offering.",
+      "d": "Hard",
+      "topic": "Products and services",
+      "slo": "Identify, explain and apply concepts related to products and services."
+    },
+    {
+      "id": "CS11CH08-025",
+      "q": "What is a customer pain point?",
+      "o": [
+        "A completed tax form",
+        "A problem or frustration that a product may solve",
+        "The product's color code",
+        "None of these choices is correct"
+      ],
+      "a": 1,
+      "e": "Pain points identify unmet customer needs.",
+      "d": "Easy",
+      "topic": "Products and services",
+      "slo": "Identify, explain and apply concepts related to products and services."
+    },
+    {
+      "id": "CS11CH08-026",
+      "q": "In an entrepreneurship and product-development lesson, answer: What is a customer pain point?",
+      "o": [
+        "The product's color code",
+        "None of these choices is correct",
+        "A completed tax form",
+        "A problem or frustration that a product may solve"
+      ],
+      "a": 3,
+      "e": "Pain points identify unmet customer needs.",
+      "d": "Medium",
+      "topic": "Products and services",
+      "slo": "Identify, explain and apply concepts related to products and services."
+    },
+    {
+      "id": "CS11CH08-027",
+      "q": "For a Grade 11 startup case study, consider this question: What is a customer pain point?",
+      "o": [
+        "The product's color code",
+        "None of these choices is correct",
+        "A problem or frustration that a product may solve",
+        "A completed tax form"
+      ],
+      "a": 2,
+      "e": "Pain points identify unmet customer needs.",
+      "d": "Hard",
+      "topic": "Products and services",
+      "slo": "Identify, explain and apply concepts related to products and services."
+    },
+    {
+      "id": "CS11CH08-028",
+      "q": "Which activity is an early product-development step?",
+      "o": [
+        "Ignoring potential users",
+        "None of these choices is correct",
+        "Mass-producing without testing",
+        "Researching a user problem"
+      ],
+      "a": 3,
+      "e": "Problem research helps validate an idea before investing heavily.",
+      "d": "Easy",
+      "topic": "Products and services",
+      "slo": "Identify, explain and apply concepts related to products and services."
+    },
+    {
+      "id": "CS11CH08-029",
+      "q": "In an entrepreneurship and product-development lesson, answer: Which activity is an early product-development step?",
+      "o": [
+        "None of these choices is correct",
+        "Mass-producing without testing",
+        "Researching a user problem",
+        "Ignoring potential users"
+      ],
+      "a": 2,
+      "e": "Problem research helps validate an idea before investing heavily.",
+      "d": "Medium",
+      "topic": "Products and services",
+      "slo": "Identify, explain and apply concepts related to products and services."
+    },
+    {
+      "id": "CS11CH08-030",
+      "q": "For a Grade 11 startup case study, consider this question: Which activity is an early product-development step?",
+      "o": [
+        "None of these choices is correct",
+        "Mass-producing without testing",
+        "Researching a user problem",
+        "Ignoring potential users"
+      ],
+      "a": 2,
+      "e": "Problem research helps validate an idea before investing heavily.",
+      "d": "Hard",
+      "topic": "Products and services",
+      "slo": "Identify, explain and apply concepts related to products and services."
+    },
+    {
+      "id": "CS11CH08-031",
+      "q": "Why is market research useful?",
+      "o": [
+        "It provides evidence about customers and competitors",
+        "It removes the need for decisions",
+        "It guarantees every idea will succeed",
+        "None of these choices is correct"
+      ],
+      "a": 0,
+      "e": "Research supports informed product choices.",
+      "d": "Easy",
+      "topic": "Products and services",
+      "slo": "Identify, explain and apply concepts related to products and services."
+    },
+    {
+      "id": "CS11CH08-032",
+      "q": "In an entrepreneurship and product-development lesson, answer: Why is market research useful?",
+      "o": [
+        "None of these choices is correct",
+        "It guarantees every idea will succeed",
+        "It provides evidence about customers and competitors",
+        "It removes the need for decisions"
+      ],
+      "a": 2,
+      "e": "Research supports informed product choices.",
+      "d": "Medium",
+      "topic": "Products and services",
+      "slo": "Identify, explain and apply concepts related to products and services."
+    },
+    {
+      "id": "CS11CH08-033",
+      "q": "For a Grade 11 startup case study, consider this question: Why is market research useful?",
+      "o": [
+        "It removes the need for decisions",
+        "It provides evidence about customers and competitors",
+        "None of these choices is correct",
+        "It guarantees every idea will succeed"
+      ],
+      "a": 1,
+      "e": "Research supports informed product choices.",
+      "d": "Hard",
+      "topic": "Products and services",
+      "slo": "Identify, explain and apply concepts related to products and services."
+    },
+    {
+      "id": "CS11CH08-034",
+      "q": "What is a product feature?",
+      "o": [
+        "A company's street address only",
+        "A random marketing phrase",
+        "A specific capability or characteristic of an offering",
+        "None of these choices is correct"
+      ],
+      "a": 2,
+      "e": "Features describe what a product does or includes.",
+      "d": "Easy",
+      "topic": "Products and services",
+      "slo": "Identify, explain and apply concepts related to products and services."
+    },
+    {
+      "id": "CS11CH08-035",
+      "q": "In an entrepreneurship and product-development lesson, answer: What is a product feature?",
+      "o": [
+        "A random marketing phrase",
+        "A specific capability or characteristic of an offering",
+        "None of these choices is correct",
+        "A company's street address only"
+      ],
+      "a": 1,
+      "e": "Features describe what a product does or includes.",
+      "d": "Medium",
+      "topic": "Products and services",
+      "slo": "Identify, explain and apply concepts related to products and services."
+    },
+    {
+      "id": "CS11CH08-036",
+      "q": "For a Grade 11 startup case study, consider this question: What is a product feature?",
+      "o": [
+        "None of these choices is correct",
+        "A specific capability or characteristic of an offering",
+        "A random marketing phrase",
+        "A company's street address only"
+      ],
+      "a": 1,
+      "e": "Features describe what a product does or includes.",
+      "d": "Hard",
+      "topic": "Products and services",
+      "slo": "Identify, explain and apply concepts related to products and services."
+    },
+    {
+      "id": "CS11CH08-037",
+      "q": "What is a product benefit?",
+      "o": [
+        "The positive outcome a customer gains from a feature",
+        "Only the material used in packaging",
+        "None of these choices is correct",
+        "The product serial number"
+      ],
+      "a": 0,
+      "e": "Benefits explain why features matter to users.",
+      "d": "Easy",
+      "topic": "Products and services",
+      "slo": "Identify, explain and apply concepts related to products and services."
+    },
+    {
+      "id": "CS11CH08-038",
+      "q": "In an entrepreneurship and product-development lesson, answer: What is a product benefit?",
+      "o": [
+        "Only the material used in packaging",
+        "The positive outcome a customer gains from a feature",
+        "None of these choices is correct",
+        "The product serial number"
+      ],
+      "a": 1,
+      "e": "Benefits explain why features matter to users.",
+      "d": "Medium",
+      "topic": "Products and services",
+      "slo": "Identify, explain and apply concepts related to products and services."
+    },
+    {
+      "id": "CS11CH08-039",
+      "q": "For a Grade 11 startup case study, consider this question: What is a product benefit?",
+      "o": [
+        "Only the material used in packaging",
+        "None of these choices is correct",
+        "The positive outcome a customer gains from a feature",
+        "The product serial number"
+      ],
+      "a": 2,
+      "e": "Benefits explain why features matter to users.",
+      "d": "Hard",
+      "topic": "Products and services",
+      "slo": "Identify, explain and apply concepts related to products and services."
+    },
+    {
+      "id": "CS11CH08-040",
+      "q": "Which is a digital product?",
+      "o": [
+        "A wooden desk",
+        "None of these choices is correct",
+        "A downloadable learning application",
+        "A paper notebook"
+      ],
+      "a": 2,
+      "e": "Software can be distributed as a digital product.",
+      "d": "Easy",
+      "topic": "Products and services",
+      "slo": "Identify, explain and apply concepts related to products and services."
+    },
+    {
+      "id": "CS11CH08-041",
+      "q": "In an entrepreneurship and product-development lesson, answer: Which is a digital product?",
+      "o": [
+        "A wooden desk",
+        "A paper notebook",
+        "None of these choices is correct",
+        "A downloadable learning application"
+      ],
+      "a": 3,
+      "e": "Software can be distributed as a digital product.",
+      "d": "Medium",
+      "topic": "Products and services",
+      "slo": "Identify, explain and apply concepts related to products and services."
+    },
+    {
+      "id": "CS11CH08-042",
+      "q": "For a Grade 11 startup case study, consider this question: Which is a digital product?",
+      "o": [
+        "A downloadable learning application",
+        "A wooden desk",
+        "A paper notebook",
+        "None of these choices is correct"
+      ],
+      "a": 0,
+      "e": "Software can be distributed as a digital product.",
+      "d": "Hard",
+      "topic": "Products and services",
+      "slo": "Identify, explain and apply concepts related to products and services."
+    },
+    {
+      "id": "CS11CH08-043",
+      "q": "What is product-market fit?",
+      "o": [
+        "Buying more servers without users",
+        "Strong alignment between an offering and customer demand",
+        "Having the largest office",
+        "None of these choices is correct"
+      ],
+      "a": 1,
+      "e": "Product-market fit means an offering meets a real market need.",
+      "d": "Easy",
+      "topic": "Products and services",
+      "slo": "Identify, explain and apply concepts related to products and services."
+    },
+    {
+      "id": "CS11CH08-044",
+      "q": "In an entrepreneurship and product-development lesson, answer: What is product-market fit?",
+      "o": [
+        "Buying more servers without users",
+        "Having the largest office",
+        "Strong alignment between an offering and customer demand",
+        "None of these choices is correct"
+      ],
+      "a": 2,
+      "e": "Product-market fit means an offering meets a real market need.",
+      "d": "Medium",
+      "topic": "Products and services",
+      "slo": "Identify, explain and apply concepts related to products and services."
+    },
+    {
+      "id": "CS11CH08-045",
+      "q": "For a Grade 11 startup case study, consider this question: What is product-market fit?",
+      "o": [
+        "Buying more servers without users",
+        "Having the largest office",
+        "Strong alignment between an offering and customer demand",
+        "None of these choices is correct"
+      ],
+      "a": 2,
+      "e": "Product-market fit means an offering meets a real market need.",
+      "d": "Hard",
+      "topic": "Products and services",
+      "slo": "Identify, explain and apply concepts related to products and services."
+    },
+    {
+      "id": "CS11CH08-046",
+      "q": "What is an entrepreneur?",
+      "o": [
+        "None of these choices is correct",
+        "A person who organizes a venture and takes business risks",
+        "Anyone who reads an advertisement",
+        "Only a person who repairs computers"
+      ],
+      "a": 1,
+      "e": "Entrepreneurs create and manage ventures to deliver value.",
+      "d": "Easy",
+      "topic": "Products and services",
+      "slo": "Identify, explain and apply concepts related to products and services."
+    },
+    {
+      "id": "CS11CH08-047",
+      "q": "In an entrepreneurship and product-development lesson, answer: What is an entrepreneur?",
+      "o": [
+        "Only a person who repairs computers",
+        "Anyone who reads an advertisement",
+        "None of these choices is correct",
+        "A person who organizes a venture and takes business risks"
+      ],
+      "a": 3,
+      "e": "Entrepreneurs create and manage ventures to deliver value.",
+      "d": "Medium",
+      "topic": "Products and services",
+      "slo": "Identify, explain and apply concepts related to products and services."
+    },
+    {
+      "id": "CS11CH08-048",
+      "q": "For a Grade 11 startup case study, consider this question: What is an entrepreneur?",
+      "o": [
+        "A person who organizes a venture and takes business risks",
+        "None of these choices is correct",
+        "Anyone who reads an advertisement",
+        "Only a person who repairs computers"
+      ],
+      "a": 0,
+      "e": "Entrepreneurs create and manage ventures to deliver value.",
+      "d": "Hard",
+      "topic": "Products and services",
+      "slo": "Identify, explain and apply concepts related to products and services."
+    },
+    {
+      "id": "CS11CH08-049",
+      "q": "What does innovation in a product involve?",
+      "o": [
+        "Copying every feature without evaluation",
+        "Introducing a useful new or improved solution",
+        "None of these choices is correct",
+        "Avoiding all experiments"
+      ],
+      "a": 1,
+      "e": "Innovation creates or improves value through new approaches.",
+      "d": "Easy",
+      "topic": "Products and services",
+      "slo": "Identify, explain and apply concepts related to products and services."
+    },
+    {
+      "id": "CS11CH08-050",
+      "q": "In an entrepreneurship and product-development lesson, answer: What does innovation in a product involve?",
+      "o": [
+        "None of these choices is correct",
+        "Avoiding all experiments",
+        "Introducing a useful new or improved solution",
+        "Copying every feature without evaluation"
+      ],
+      "a": 2,
+      "e": "Innovation creates or improves value through new approaches.",
+      "d": "Medium",
+      "topic": "Products and services",
+      "slo": "Identify, explain and apply concepts related to products and services."
+    },
+    {
+      "id": "CS11CH08-051",
+      "q": "For a Grade 11 startup case study, consider this question: What does innovation in a product involve?",
+      "o": [
+        "Avoiding all experiments",
+        "Introducing a useful new or improved solution",
+        "Copying every feature without evaluation",
+        "None of these choices is correct"
+      ],
+      "a": 1,
+      "e": "Innovation creates or improves value through new approaches.",
+      "d": "Hard",
+      "topic": "Products and services",
+      "slo": "Identify, explain and apply concepts related to products and services."
+    },
+    {
+      "id": "CS11CH08-052",
+      "q": "Why compare competing products?",
+      "o": [
+        "None of these choices is correct",
+        "To identify gaps and opportunities for differentiation",
+        "To copy every competitor's branding",
+        "To stop collecting customer evidence"
+      ],
+      "a": 1,
+      "e": "Competitor analysis can reveal unmet needs.",
+      "d": "Easy",
+      "topic": "Products and services",
+      "slo": "Identify, explain and apply concepts related to products and services."
+    },
+    {
+      "id": "CS11CH08-053",
+      "q": "In an entrepreneurship and product-development lesson, answer: Why compare competing products?",
+      "o": [
+        "To identify gaps and opportunities for differentiation",
+        "None of these choices is correct",
+        "To copy every competitor's branding",
+        "To stop collecting customer evidence"
+      ],
+      "a": 0,
+      "e": "Competitor analysis can reveal unmet needs.",
+      "d": "Medium",
+      "topic": "Products and services",
+      "slo": "Identify, explain and apply concepts related to products and services."
+    },
+    {
+      "id": "CS11CH08-054",
+      "q": "For a Grade 11 startup case study, consider this question: Why compare competing products?",
+      "o": [
+        "To stop collecting customer evidence",
+        "To copy every competitor's branding",
+        "None of these choices is correct",
+        "To identify gaps and opportunities for differentiation"
+      ],
+      "a": 3,
+      "e": "Competitor analysis can reveal unmet needs.",
+      "d": "Hard",
+      "topic": "Products and services",
+      "slo": "Identify, explain and apply concepts related to products and services."
+    },
+    {
+      "id": "CS11CH08-055",
+      "q": "What is a business model?",
+      "o": [
+        "None of these choices is correct",
+        "A keyboard layout",
+        "Only a product's color palette",
+        "An explanation of how a venture creates and captures value"
+      ],
+      "a": 3,
+      "e": "Business models describe customers, delivery and revenue logic.",
+      "d": "Easy",
+      "topic": "Products and services",
+      "slo": "Identify, explain and apply concepts related to products and services."
+    },
+    {
+      "id": "CS11CH08-056",
+      "q": "In an entrepreneurship and product-development lesson, answer: What is a business model?",
+      "o": [
+        "An explanation of how a venture creates and captures value",
+        "None of these choices is correct",
+        "A keyboard layout",
+        "Only a product's color palette"
+      ],
+      "a": 0,
+      "e": "Business models describe customers, delivery and revenue logic.",
+      "d": "Medium",
+      "topic": "Products and services",
+      "slo": "Identify, explain and apply concepts related to products and services."
+    },
+    {
+      "id": "CS11CH08-057",
+      "q": "For a Grade 11 startup case study, consider this question: What is a business model?",
+      "o": [
+        "A keyboard layout",
+        "None of these choices is correct",
+        "Only a product's color palette",
+        "An explanation of how a venture creates and captures value"
+      ],
+      "a": 3,
+      "e": "Business models describe customers, delivery and revenue logic.",
+      "d": "Hard",
+      "topic": "Products and services",
+      "slo": "Identify, explain and apply concepts related to products and services."
+    },
+    {
+      "id": "CS11CH08-058",
+      "q": "Which is an example of customer feedback?",
+      "o": [
+        "A computer's manufacture date",
+        "None of these choices is correct",
+        "Users reporting that a feature is difficult to find",
+        "An unrelated weather forecast"
+      ],
+      "a": 2,
+      "e": "Feedback provides evidence about user experience.",
+      "d": "Easy",
+      "topic": "Products and services",
+      "slo": "Identify, explain and apply concepts related to products and services."
+    },
+    {
+      "id": "CS11CH08-059",
+      "q": "In an entrepreneurship and product-development lesson, answer: Which is an example of customer feedback?",
+      "o": [
+        "A computer's manufacture date",
+        "An unrelated weather forecast",
+        "None of these choices is correct",
+        "Users reporting that a feature is difficult to find"
+      ],
+      "a": 3,
+      "e": "Feedback provides evidence about user experience.",
+      "d": "Medium",
+      "topic": "Products and services",
+      "slo": "Identify, explain and apply concepts related to products and services."
+    },
+    {
+      "id": "CS11CH08-060",
+      "q": "For a Grade 11 startup case study, consider this question: Which is an example of customer feedback?",
+      "o": [
+        "An unrelated weather forecast",
+        "Users reporting that a feature is difficult to find",
+        "A computer's manufacture date",
+        "None of these choices is correct"
+      ],
+      "a": 1,
+      "e": "Feedback provides evidence about user experience.",
+      "d": "Hard",
+      "topic": "Products and services",
+      "slo": "Identify, explain and apply concepts related to products and services."
+    },
+    {
+      "id": "CS11CH08-061",
+      "q": "What is a prototype?",
+      "o": [
+        "A company registration number",
+        "None of these choices is correct",
+        "An early model used to explore and test an idea",
+        "A guaranteed final product"
+      ],
+      "a": 2,
+      "e": "Prototypes allow evaluation before full production.",
+      "d": "Easy",
+      "topic": "Prototypes and their types",
+      "slo": "Identify, explain and apply concepts related to prototypes and their types."
+    },
+    {
+      "id": "CS11CH08-062",
+      "q": "In an entrepreneurship and product-development lesson, answer: What is a prototype?",
+      "o": [
+        "A guaranteed final product",
+        "An early model used to explore and test an idea",
+        "None of these choices is correct",
+        "A company registration number"
+      ],
+      "a": 1,
+      "e": "Prototypes allow evaluation before full production.",
+      "d": "Medium",
+      "topic": "Prototypes and their types",
+      "slo": "Identify, explain and apply concepts related to prototypes and their types."
+    },
+    {
+      "id": "CS11CH08-063",
+      "q": "For a Grade 11 startup case study, consider this question: What is a prototype?",
+      "o": [
+        "An early model used to explore and test an idea",
+        "A company registration number",
+        "A guaranteed final product",
+        "None of these choices is correct"
+      ],
+      "a": 0,
+      "e": "Prototypes allow evaluation before full production.",
+      "d": "Hard",
+      "topic": "Prototypes and their types",
+      "slo": "Identify, explain and apply concepts related to prototypes and their types."
+    },
+    {
+      "id": "CS11CH08-064",
+      "q": "Why develop a prototype?",
+      "o": [
+        "None of these choices is correct",
+        "To guarantee no revisions",
+        "To detect design problems and collect feedback early",
+        "To avoid every form of testing"
+      ],
+      "a": 2,
+      "e": "Early prototypes support learning and improvement.",
+      "d": "Easy",
+      "topic": "Prototypes and their types",
+      "slo": "Identify, explain and apply concepts related to prototypes and their types."
+    },
+    {
+      "id": "CS11CH08-065",
+      "q": "In an entrepreneurship and product-development lesson, answer: Why develop a prototype?",
+      "o": [
+        "To avoid every form of testing",
+        "To detect design problems and collect feedback early",
+        "None of these choices is correct",
+        "To guarantee no revisions"
+      ],
+      "a": 1,
+      "e": "Early prototypes support learning and improvement.",
+      "d": "Medium",
+      "topic": "Prototypes and their types",
+      "slo": "Identify, explain and apply concepts related to prototypes and their types."
+    },
+    {
+      "id": "CS11CH08-066",
+      "q": "For a Grade 11 startup case study, consider this question: Why develop a prototype?",
+      "o": [
+        "To detect design problems and collect feedback early",
+        "None of these choices is correct",
+        "To avoid every form of testing",
+        "To guarantee no revisions"
+      ],
+      "a": 0,
+      "e": "Early prototypes support learning and improvement.",
+      "d": "Hard",
+      "topic": "Prototypes and their types",
+      "slo": "Identify, explain and apply concepts related to prototypes and their types."
+    },
+    {
+      "id": "CS11CH08-067",
+      "q": "What is a low-fidelity prototype?",
+      "o": [
+        "None of these choices is correct",
+        "A rough and inexpensive representation of a design",
+        "A finished commercial product",
+        "A complete production deployment"
+      ],
+      "a": 1,
+      "e": "Low-fidelity models focus on basic concepts.",
+      "d": "Easy",
+      "topic": "Prototypes and their types",
+      "slo": "Identify, explain and apply concepts related to prototypes and their types."
+    },
+    {
+      "id": "CS11CH08-068",
+      "q": "In an entrepreneurship and product-development lesson, answer: What is a low-fidelity prototype?",
+      "o": [
+        "A finished commercial product",
+        "A complete production deployment",
+        "A rough and inexpensive representation of a design",
+        "None of these choices is correct"
+      ],
+      "a": 2,
+      "e": "Low-fidelity models focus on basic concepts.",
+      "d": "Medium",
+      "topic": "Prototypes and their types",
+      "slo": "Identify, explain and apply concepts related to prototypes and their types."
+    },
+    {
+      "id": "CS11CH08-069",
+      "q": "For a Grade 11 startup case study, consider this question: What is a low-fidelity prototype?",
+      "o": [
+        "A finished commercial product",
+        "None of these choices is correct",
+        "A complete production deployment",
+        "A rough and inexpensive representation of a design"
+      ],
+      "a": 3,
+      "e": "Low-fidelity models focus on basic concepts.",
+      "d": "Hard",
+      "topic": "Prototypes and their types",
+      "slo": "Identify, explain and apply concepts related to prototypes and their types."
+    },
+    {
+      "id": "CS11CH08-070",
+      "q": "Which is a low-fidelity prototype?",
+      "o": [
+        "A fully operational banking platform",
+        "A paper sketch of an app screen",
+        "A final manufactured device",
+        "None of these choices is correct"
+      ],
+      "a": 1,
+      "e": "Paper sketches are simple low-fidelity models.",
+      "d": "Easy",
+      "topic": "Prototypes and their types",
+      "slo": "Identify, explain and apply concepts related to prototypes and their types."
+    },
+    {
+      "id": "CS11CH08-071",
+      "q": "In an entrepreneurship and product-development lesson, answer: Which is a low-fidelity prototype?",
+      "o": [
+        "None of these choices is correct",
+        "A final manufactured device",
+        "A paper sketch of an app screen",
+        "A fully operational banking platform"
+      ],
+      "a": 2,
+      "e": "Paper sketches are simple low-fidelity models.",
+      "d": "Medium",
+      "topic": "Prototypes and their types",
+      "slo": "Identify, explain and apply concepts related to prototypes and their types."
+    },
+    {
+      "id": "CS11CH08-072",
+      "q": "For a Grade 11 startup case study, consider this question: Which is a low-fidelity prototype?",
+      "o": [
+        "A final manufactured device",
+        "None of these choices is correct",
+        "A fully operational banking platform",
+        "A paper sketch of an app screen"
+      ],
+      "a": 3,
+      "e": "Paper sketches are simple low-fidelity models.",
+      "d": "Hard",
+      "topic": "Prototypes and their types",
+      "slo": "Identify, explain and apply concepts related to prototypes and their types."
+    },
+    {
+      "id": "CS11CH08-073",
+      "q": "What is a high-fidelity prototype?",
+      "o": [
+        "A detailed model resembling the final experience",
+        "An unrelated spreadsheet",
+        "A verbal idea with no representation",
+        "None of these choices is correct"
+      ],
+      "a": 0,
+      "e": "High-fidelity models show realistic detail and behavior.",
+      "d": "Easy",
+      "topic": "Prototypes and their types",
+      "slo": "Identify, explain and apply concepts related to prototypes and their types."
+    },
+    {
+      "id": "CS11CH08-074",
+      "q": "In an entrepreneurship and product-development lesson, answer: What is a high-fidelity prototype?",
+      "o": [
+        "An unrelated spreadsheet",
+        "None of these choices is correct",
+        "A detailed model resembling the final experience",
+        "A verbal idea with no representation"
+      ],
+      "a": 2,
+      "e": "High-fidelity models show realistic detail and behavior.",
+      "d": "Medium",
+      "topic": "Prototypes and their types",
+      "slo": "Identify, explain and apply concepts related to prototypes and their types."
+    },
+    {
+      "id": "CS11CH08-075",
+      "q": "For a Grade 11 startup case study, consider this question: What is a high-fidelity prototype?",
+      "o": [
+        "A verbal idea with no representation",
+        "An unrelated spreadsheet",
+        "A detailed model resembling the final experience",
+        "None of these choices is correct"
+      ],
+      "a": 2,
+      "e": "High-fidelity models show realistic detail and behavior.",
+      "d": "Hard",
+      "topic": "Prototypes and their types",
+      "slo": "Identify, explain and apply concepts related to prototypes and their types."
+    },
+    {
+      "id": "CS11CH08-076",
+      "q": "Which is a high-fidelity prototype?",
+      "o": [
+        "An interactive app mockup with realistic screens",
+        "A one-line idea description",
+        "None of these choices is correct",
+        "A rough pencil rectangle"
+      ],
+      "a": 0,
+      "e": "Interactive realistic mockups have higher fidelity.",
+      "d": "Easy",
+      "topic": "Prototypes and their types",
+      "slo": "Identify, explain and apply concepts related to prototypes and their types."
+    },
+    {
+      "id": "CS11CH08-077",
+      "q": "In an entrepreneurship and product-development lesson, answer: Which is a high-fidelity prototype?",
+      "o": [
+        "An interactive app mockup with realistic screens",
+        "A rough pencil rectangle",
+        "None of these choices is correct",
+        "A one-line idea description"
+      ],
+      "a": 0,
+      "e": "Interactive realistic mockups have higher fidelity.",
+      "d": "Medium",
+      "topic": "Prototypes and their types",
+      "slo": "Identify, explain and apply concepts related to prototypes and their types."
+    },
+    {
+      "id": "CS11CH08-078",
+      "q": "For a Grade 11 startup case study, consider this question: Which is a high-fidelity prototype?",
+      "o": [
+        "A rough pencil rectangle",
+        "An interactive app mockup with realistic screens",
+        "None of these choices is correct",
+        "A one-line idea description"
+      ],
+      "a": 1,
+      "e": "Interactive realistic mockups have higher fidelity.",
+      "d": "Hard",
+      "topic": "Prototypes and their types",
+      "slo": "Identify, explain and apply concepts related to prototypes and their types."
+    },
+    {
+      "id": "CS11CH08-079",
+      "q": "What is a functional prototype?",
+      "o": [
+        "A product that cannot be evaluated",
+        "A poster containing only the company name",
+        "None of these choices is correct",
+        "A model that demonstrates important working features"
+      ],
+      "a": 3,
+      "e": "Functional prototypes test operation of key features.",
+      "d": "Easy",
+      "topic": "Prototypes and their types",
+      "slo": "Identify, explain and apply concepts related to prototypes and their types."
+    },
+    {
+      "id": "CS11CH08-080",
+      "q": "In an entrepreneurship and product-development lesson, answer: What is a functional prototype?",
+      "o": [
+        "A poster containing only the company name",
+        "None of these choices is correct",
+        "A model that demonstrates important working features",
+        "A product that cannot be evaluated"
+      ],
+      "a": 2,
+      "e": "Functional prototypes test operation of key features.",
+      "d": "Medium",
+      "topic": "Prototypes and their types",
+      "slo": "Identify, explain and apply concepts related to prototypes and their types."
+    },
+    {
+      "id": "CS11CH08-081",
+      "q": "For a Grade 11 startup case study, consider this question: What is a functional prototype?",
+      "o": [
+        "A product that cannot be evaluated",
+        "A model that demonstrates important working features",
+        "A poster containing only the company name",
+        "None of these choices is correct"
+      ],
+      "a": 1,
+      "e": "Functional prototypes test operation of key features.",
+      "d": "Hard",
+      "topic": "Prototypes and their types",
+      "slo": "Identify, explain and apply concepts related to prototypes and their types."
+    },
+    {
+      "id": "CS11CH08-082",
+      "q": "What is a working prototype?",
+      "o": [
+        "None of these choices is correct",
+        "Only a list of suppliers",
+        "A sketch with no functioning parts",
+        "A testable model that performs intended operations"
+      ],
+      "a": 3,
+      "e": "Working prototypes demonstrate practical behavior.",
+      "d": "Easy",
+      "topic": "Prototypes and their types",
+      "slo": "Identify, explain and apply concepts related to prototypes and their types."
+    },
+    {
+      "id": "CS11CH08-083",
+      "q": "In an entrepreneurship and product-development lesson, answer: What is a working prototype?",
+      "o": [
+        "A sketch with no functioning parts",
+        "Only a list of suppliers",
+        "None of these choices is correct",
+        "A testable model that performs intended operations"
+      ],
+      "a": 3,
+      "e": "Working prototypes demonstrate practical behavior.",
+      "d": "Medium",
+      "topic": "Prototypes and their types",
+      "slo": "Identify, explain and apply concepts related to prototypes and their types."
+    },
+    {
+      "id": "CS11CH08-084",
+      "q": "For a Grade 11 startup case study, consider this question: What is a working prototype?",
+      "o": [
+        "Only a list of suppliers",
+        "None of these choices is correct",
+        "A sketch with no functioning parts",
+        "A testable model that performs intended operations"
+      ],
+      "a": 3,
+      "e": "Working prototypes demonstrate practical behavior.",
+      "d": "Hard",
+      "topic": "Prototypes and their types",
+      "slo": "Identify, explain and apply concepts related to prototypes and their types."
+    },
+    {
+      "id": "CS11CH08-085",
+      "q": "What is a visual prototype?",
+      "o": [
+        "A full accounting report",
+        "A database backup",
+        "A model emphasizing appearance and layout",
+        "None of these choices is correct"
+      ],
+      "a": 2,
+      "e": "Visual prototypes communicate the intended look.",
+      "d": "Easy",
+      "topic": "Prototypes and their types",
+      "slo": "Identify, explain and apply concepts related to prototypes and their types."
+    },
+    {
+      "id": "CS11CH08-086",
+      "q": "In an entrepreneurship and product-development lesson, answer: What is a visual prototype?",
+      "o": [
+        "None of these choices is correct",
+        "A database backup",
+        "A model emphasizing appearance and layout",
+        "A full accounting report"
+      ],
+      "a": 2,
+      "e": "Visual prototypes communicate the intended look.",
+      "d": "Medium",
+      "topic": "Prototypes and their types",
+      "slo": "Identify, explain and apply concepts related to prototypes and their types."
+    },
+    {
+      "id": "CS11CH08-087",
+      "q": "For a Grade 11 startup case study, consider this question: What is a visual prototype?",
+      "o": [
+        "A full accounting report",
+        "None of these choices is correct",
+        "A model emphasizing appearance and layout",
+        "A database backup"
+      ],
+      "a": 2,
+      "e": "Visual prototypes communicate the intended look.",
+      "d": "Hard",
+      "topic": "Prototypes and their types",
+      "slo": "Identify, explain and apply concepts related to prototypes and their types."
+    },
+    {
+      "id": "CS11CH08-088",
+      "q": "What is a paper prototype?",
+      "o": [
+        "A finished mobile app in an app store",
+        "None of these choices is correct",
+        "A hand-drawn or printed model used to explore interaction",
+        "A physical factory"
+      ],
+      "a": 2,
+      "e": "Paper prototypes provide quick, inexpensive design feedback.",
+      "d": "Easy",
+      "topic": "Prototypes and their types",
+      "slo": "Identify, explain and apply concepts related to prototypes and their types."
+    },
+    {
+      "id": "CS11CH08-089",
+      "q": "In an entrepreneurship and product-development lesson, answer: What is a paper prototype?",
+      "o": [
+        "None of these choices is correct",
+        "A hand-drawn or printed model used to explore interaction",
+        "A finished mobile app in an app store",
+        "A physical factory"
+      ],
+      "a": 1,
+      "e": "Paper prototypes provide quick, inexpensive design feedback.",
+      "d": "Medium",
+      "topic": "Prototypes and their types",
+      "slo": "Identify, explain and apply concepts related to prototypes and their types."
+    },
+    {
+      "id": "CS11CH08-090",
+      "q": "For a Grade 11 startup case study, consider this question: What is a paper prototype?",
+      "o": [
+        "A hand-drawn or printed model used to explore interaction",
+        "A finished mobile app in an app store",
+        "None of these choices is correct",
+        "A physical factory"
+      ],
+      "a": 0,
+      "e": "Paper prototypes provide quick, inexpensive design feedback.",
+      "d": "Hard",
+      "topic": "Prototypes and their types",
+      "slo": "Identify, explain and apply concepts related to prototypes and their types."
+    },
+    {
+      "id": "CS11CH08-091",
+      "q": "What is a digital prototype?",
+      "o": [
+        "A computer-created model of a proposed product",
+        "None of these choices is correct",
+        "An unrelated printed invoice",
+        "Only a handwritten diary"
+      ],
+      "a": 0,
+      "e": "Digital prototypes can simulate interfaces and interactions.",
+      "d": "Easy",
+      "topic": "Prototypes and their types",
+      "slo": "Identify, explain and apply concepts related to prototypes and their types."
+    },
+    {
+      "id": "CS11CH08-092",
+      "q": "In an entrepreneurship and product-development lesson, answer: What is a digital prototype?",
+      "o": [
+        "Only a handwritten diary",
+        "None of these choices is correct",
+        "A computer-created model of a proposed product",
+        "An unrelated printed invoice"
+      ],
+      "a": 2,
+      "e": "Digital prototypes can simulate interfaces and interactions.",
+      "d": "Medium",
+      "topic": "Prototypes and their types",
+      "slo": "Identify, explain and apply concepts related to prototypes and their types."
+    },
+    {
+      "id": "CS11CH08-093",
+      "q": "For a Grade 11 startup case study, consider this question: What is a digital prototype?",
+      "o": [
+        "None of these choices is correct",
+        "Only a handwritten diary",
+        "An unrelated printed invoice",
+        "A computer-created model of a proposed product"
+      ],
+      "a": 3,
+      "e": "Digital prototypes can simulate interfaces and interactions.",
+      "d": "Hard",
+      "topic": "Prototypes and their types",
+      "slo": "Identify, explain and apply concepts related to prototypes and their types."
+    },
+    {
+      "id": "CS11CH08-094",
+      "q": "What is a 3D prototype?",
+      "o": [
+        "A one-dimensional text heading",
+        "A three-dimensional model of a proposed object",
+        "Only a customer email",
+        "None of these choices is correct"
+      ],
+      "a": 1,
+      "e": "3D models help assess physical form and dimensions.",
+      "d": "Easy",
+      "topic": "Prototypes and their types",
+      "slo": "Identify, explain and apply concepts related to prototypes and their types."
+    },
+    {
+      "id": "CS11CH08-095",
+      "q": "In an entrepreneurship and product-development lesson, answer: What is a 3D prototype?",
+      "o": [
+        "A one-dimensional text heading",
+        "A three-dimensional model of a proposed object",
+        "None of these choices is correct",
+        "Only a customer email"
+      ],
+      "a": 1,
+      "e": "3D models help assess physical form and dimensions.",
+      "d": "Medium",
+      "topic": "Prototypes and their types",
+      "slo": "Identify, explain and apply concepts related to prototypes and their types."
+    },
+    {
+      "id": "CS11CH08-096",
+      "q": "For a Grade 11 startup case study, consider this question: What is a 3D prototype?",
+      "o": [
+        "A three-dimensional model of a proposed object",
+        "None of these choices is correct",
+        "A one-dimensional text heading",
+        "Only a customer email"
+      ],
+      "a": 0,
+      "e": "3D models help assess physical form and dimensions.",
+      "d": "Hard",
+      "topic": "Prototypes and their types",
+      "slo": "Identify, explain and apply concepts related to prototypes and their types."
+    },
+    {
+      "id": "CS11CH08-097",
+      "q": "Why choose a simple prototype first?",
+      "o": [
+        "It enables rapid testing with limited resources",
+        "It guarantees perfect accuracy",
+        "It prevents any future iteration",
+        "None of these choices is correct"
+      ],
+      "a": 0,
+      "e": "Simple prototypes make early changes inexpensive.",
+      "d": "Easy",
+      "topic": "Prototypes and their types",
+      "slo": "Identify, explain and apply concepts related to prototypes and their types."
+    },
+    {
+      "id": "CS11CH08-098",
+      "q": "In an entrepreneurship and product-development lesson, answer: Why choose a simple prototype first?",
+      "o": [
+        "It guarantees perfect accuracy",
+        "It enables rapid testing with limited resources",
+        "It prevents any future iteration",
+        "None of these choices is correct"
+      ],
+      "a": 1,
+      "e": "Simple prototypes make early changes inexpensive.",
+      "d": "Medium",
+      "topic": "Prototypes and their types",
+      "slo": "Identify, explain and apply concepts related to prototypes and their types."
+    },
+    {
+      "id": "CS11CH08-099",
+      "q": "For a Grade 11 startup case study, consider this question: Why choose a simple prototype first?",
+      "o": [
+        "It enables rapid testing with limited resources",
+        "None of these choices is correct",
+        "It guarantees perfect accuracy",
+        "It prevents any future iteration"
+      ],
+      "a": 0,
+      "e": "Simple prototypes make early changes inexpensive.",
+      "d": "Hard",
+      "topic": "Prototypes and their types",
+      "slo": "Identify, explain and apply concepts related to prototypes and their types."
+    },
+    {
+      "id": "CS11CH08-100",
+      "q": "What is a prototype's limitation?",
+      "o": [
+        "None of these choices is correct",
+        "It may not include every final feature or performance characteristic",
+        "It must always be the market-ready product",
+        "It cannot be shown to users"
+      ],
+      "a": 1,
+      "e": "Prototypes often represent only selected aspects of a design.",
+      "d": "Easy",
+      "topic": "Prototypes and their types",
+      "slo": "Identify, explain and apply concepts related to prototypes and their types."
+    },
+    {
+      "id": "CS11CH08-101",
+      "q": "In an entrepreneurship and product-development lesson, answer: What is a prototype's limitation?",
+      "o": [
+        "It must always be the market-ready product",
+        "It may not include every final feature or performance characteristic",
+        "None of these choices is correct",
+        "It cannot be shown to users"
+      ],
+      "a": 1,
+      "e": "Prototypes often represent only selected aspects of a design.",
+      "d": "Medium",
+      "topic": "Prototypes and their types",
+      "slo": "Identify, explain and apply concepts related to prototypes and their types."
+    },
+    {
+      "id": "CS11CH08-102",
+      "q": "For a Grade 11 startup case study, consider this question: What is a prototype's limitation?",
+      "o": [
+        "It cannot be shown to users",
+        "It may not include every final feature or performance characteristic",
+        "It must always be the market-ready product",
+        "None of these choices is correct"
+      ],
+      "a": 1,
+      "e": "Prototypes often represent only selected aspects of a design.",
+      "d": "Hard",
+      "topic": "Prototypes and their types",
+      "slo": "Identify, explain and apply concepts related to prototypes and their types."
+    },
+    {
+      "id": "CS11CH08-103",
+      "q": "Why test more than one design alternative?",
+      "o": [
+        "To compare different ways of solving the same problem",
+        "None of these choices is correct",
+        "To avoid any comparison",
+        "To ensure every alternative is identical"
+      ],
+      "a": 0,
+      "e": "Alternatives reveal trade-offs before final decisions.",
+      "d": "Easy",
+      "topic": "Prototypes and their types",
+      "slo": "Identify, explain and apply concepts related to prototypes and their types."
+    },
+    {
+      "id": "CS11CH08-104",
+      "q": "In an entrepreneurship and product-development lesson, answer: Why test more than one design alternative?",
+      "o": [
+        "To ensure every alternative is identical",
+        "To compare different ways of solving the same problem",
+        "None of these choices is correct",
+        "To avoid any comparison"
+      ],
+      "a": 1,
+      "e": "Alternatives reveal trade-offs before final decisions.",
+      "d": "Medium",
+      "topic": "Prototypes and their types",
+      "slo": "Identify, explain and apply concepts related to prototypes and their types."
+    },
+    {
+      "id": "CS11CH08-105",
+      "q": "For a Grade 11 startup case study, consider this question: Why test more than one design alternative?",
+      "o": [
+        "To avoid any comparison",
+        "To ensure every alternative is identical",
+        "To compare different ways of solving the same problem",
+        "None of these choices is correct"
+      ],
+      "a": 2,
+      "e": "Alternatives reveal trade-offs before final decisions.",
+      "d": "Hard",
+      "topic": "Prototypes and their types",
+      "slo": "Identify, explain and apply concepts related to prototypes and their types."
+    },
+    {
+      "id": "CS11CH08-106",
+      "q": "What does fidelity describe in prototyping?",
+      "o": [
+        "The annual advertising budget",
+        "How closely a model resembles the intended final product",
+        "The number of employees in a company",
+        "None of these choices is correct"
+      ],
+      "a": 1,
+      "e": "Fidelity refers to realism and detail.",
+      "d": "Easy",
+      "topic": "Prototypes and their types",
+      "slo": "Identify, explain and apply concepts related to prototypes and their types."
+    },
+    {
+      "id": "CS11CH08-107",
+      "q": "In an entrepreneurship and product-development lesson, answer: What does fidelity describe in prototyping?",
+      "o": [
+        "The number of employees in a company",
+        "How closely a model resembles the intended final product",
+        "None of these choices is correct",
+        "The annual advertising budget"
+      ],
+      "a": 1,
+      "e": "Fidelity refers to realism and detail.",
+      "d": "Medium",
+      "topic": "Prototypes and their types",
+      "slo": "Identify, explain and apply concepts related to prototypes and their types."
+    },
+    {
+      "id": "CS11CH08-108",
+      "q": "For a Grade 11 startup case study, consider this question: What does fidelity describe in prototyping?",
+      "o": [
+        "How closely a model resembles the intended final product",
+        "The number of employees in a company",
+        "The annual advertising budget",
+        "None of these choices is correct"
+      ],
+      "a": 0,
+      "e": "Fidelity refers to realism and detail.",
+      "d": "Hard",
+      "topic": "Prototypes and their types",
+      "slo": "Identify, explain and apply concepts related to prototypes and their types."
+    },
+    {
+      "id": "CS11CH08-109",
+      "q": "What is a proof-of-concept prototype?",
+      "o": [
+        "A final marketing invoice",
+        "A legal trademark certificate",
+        "A model that checks whether an idea is technically feasible",
+        "None of these choices is correct"
+      ],
+      "a": 2,
+      "e": "Proof-of-concept work tests core feasibility.",
+      "d": "Easy",
+      "topic": "Prototypes and their types",
+      "slo": "Identify, explain and apply concepts related to prototypes and their types."
+    },
+    {
+      "id": "CS11CH08-110",
+      "q": "In an entrepreneurship and product-development lesson, answer: What is a proof-of-concept prototype?",
+      "o": [
+        "None of these choices is correct",
+        "A final marketing invoice",
+        "A legal trademark certificate",
+        "A model that checks whether an idea is technically feasible"
+      ],
+      "a": 3,
+      "e": "Proof-of-concept work tests core feasibility.",
+      "d": "Medium",
+      "topic": "Prototypes and their types",
+      "slo": "Identify, explain and apply concepts related to prototypes and their types."
+    },
+    {
+      "id": "CS11CH08-111",
+      "q": "For a Grade 11 startup case study, consider this question: What is a proof-of-concept prototype?",
+      "o": [
+        "None of these choices is correct",
+        "A model that checks whether an idea is technically feasible",
+        "A final marketing invoice",
+        "A legal trademark certificate"
+      ],
+      "a": 1,
+      "e": "Proof-of-concept work tests core feasibility.",
+      "d": "Hard",
+      "topic": "Prototypes and their types",
+      "slo": "Identify, explain and apply concepts related to prototypes and their types."
+    },
+    {
+      "id": "CS11CH08-112",
+      "q": "When is a high-fidelity prototype particularly useful?",
+      "o": [
+        "None of these choices is correct",
+        "When detailed usability and appearance need evaluation",
+        "Before any problem has been identified",
+        "Only for recording employee attendance"
+      ],
+      "a": 1,
+      "e": "Realistic prototypes support detailed feedback.",
+      "d": "Easy",
+      "topic": "Prototypes and their types",
+      "slo": "Identify, explain and apply concepts related to prototypes and their types."
+    },
+    {
+      "id": "CS11CH08-113",
+      "q": "In an entrepreneurship and product-development lesson, answer: When is a high-fidelity prototype particularly useful?",
+      "o": [
+        "Only for recording employee attendance",
+        "None of these choices is correct",
+        "Before any problem has been identified",
+        "When detailed usability and appearance need evaluation"
+      ],
+      "a": 3,
+      "e": "Realistic prototypes support detailed feedback.",
+      "d": "Medium",
+      "topic": "Prototypes and their types",
+      "slo": "Identify, explain and apply concepts related to prototypes and their types."
+    },
+    {
+      "id": "CS11CH08-114",
+      "q": "For a Grade 11 startup case study, consider this question: When is a high-fidelity prototype particularly useful?",
+      "o": [
+        "Before any problem has been identified",
+        "Only for recording employee attendance",
+        "None of these choices is correct",
+        "When detailed usability and appearance need evaluation"
+      ],
+      "a": 3,
+      "e": "Realistic prototypes support detailed feedback.",
+      "d": "Hard",
+      "topic": "Prototypes and their types",
+      "slo": "Identify, explain and apply concepts related to prototypes and their types."
+    },
+    {
+      "id": "CS11CH08-115",
+      "q": "What is an advantage of paper prototyping?",
+      "o": [
+        "It automatically measures server performance",
+        "It guarantees a finished product",
+        "It is quick to modify during early design discussions",
+        "None of these choices is correct"
+      ],
+      "a": 2,
+      "e": "Paper models are inexpensive and easy to revise.",
+      "d": "Easy",
+      "topic": "Prototypes and their types",
+      "slo": "Identify, explain and apply concepts related to prototypes and their types."
+    },
+    {
+      "id": "CS11CH08-116",
+      "q": "In an entrepreneurship and product-development lesson, answer: What is an advantage of paper prototyping?",
+      "o": [
+        "It guarantees a finished product",
+        "It is quick to modify during early design discussions",
+        "It automatically measures server performance",
+        "None of these choices is correct"
+      ],
+      "a": 1,
+      "e": "Paper models are inexpensive and easy to revise.",
+      "d": "Medium",
+      "topic": "Prototypes and their types",
+      "slo": "Identify, explain and apply concepts related to prototypes and their types."
+    },
+    {
+      "id": "CS11CH08-117",
+      "q": "For a Grade 11 startup case study, consider this question: What is an advantage of paper prototyping?",
+      "o": [
+        "It automatically measures server performance",
+        "None of these choices is correct",
+        "It is quick to modify during early design discussions",
+        "It guarantees a finished product"
+      ],
+      "a": 2,
+      "e": "Paper models are inexpensive and easy to revise.",
+      "d": "Hard",
+      "topic": "Prototypes and their types",
+      "slo": "Identify, explain and apply concepts related to prototypes and their types."
+    },
+    {
+      "id": "CS11CH08-118",
+      "q": "What should guide the choice of prototype type?",
+      "o": [
+        "The number of advertisements purchased",
+        "Only the founder's favorite color",
+        "None of these choices is correct",
+        "The question being tested and available resources"
+      ],
+      "a": 3,
+      "e": "Prototype selection depends on learning goals and constraints.",
+      "d": "Easy",
+      "topic": "Prototypes and their types",
+      "slo": "Identify, explain and apply concepts related to prototypes and their types."
+    },
+    {
+      "id": "CS11CH08-119",
+      "q": "In an entrepreneurship and product-development lesson, answer: What should guide the choice of prototype type?",
+      "o": [
+        "The number of advertisements purchased",
+        "The question being tested and available resources",
+        "Only the founder's favorite color",
+        "None of these choices is correct"
+      ],
+      "a": 1,
+      "e": "Prototype selection depends on learning goals and constraints.",
+      "d": "Medium",
+      "topic": "Prototypes and their types",
+      "slo": "Identify, explain and apply concepts related to prototypes and their types."
+    },
+    {
+      "id": "CS11CH08-120",
+      "q": "For a Grade 11 startup case study, consider this question: What should guide the choice of prototype type?",
+      "o": [
+        "None of these choices is correct",
+        "The question being tested and available resources",
+        "Only the founder's favorite color",
+        "The number of advertisements purchased"
+      ],
+      "a": 1,
+      "e": "Prototype selection depends on learning goals and constraints.",
+      "d": "Hard",
+      "topic": "Prototypes and their types",
+      "slo": "Identify, explain and apply concepts related to prototypes and their types."
+    },
+    {
+      "id": "CS11CH08-121",
+      "q": "What is the first step in creating a useful prototype?",
+      "o": [
+        "Clarify the problem and intended users",
+        "Freeze the final design",
+        "Purchase advertisements immediately",
+        "None of these choices is correct"
+      ],
+      "a": 0,
+      "e": "A clear problem statement guides prototype decisions.",
+      "d": "Easy",
+      "topic": "Prototype development and refinement",
+      "slo": "Identify, explain and apply concepts related to prototype development and refinement."
+    },
+    {
+      "id": "CS11CH08-122",
+      "q": "In an entrepreneurship and product-development lesson, answer: What is the first step in creating a useful prototype?",
+      "o": [
+        "None of these choices is correct",
+        "Clarify the problem and intended users",
+        "Freeze the final design",
+        "Purchase advertisements immediately"
+      ],
+      "a": 1,
+      "e": "A clear problem statement guides prototype decisions.",
+      "d": "Medium",
+      "topic": "Prototype development and refinement",
+      "slo": "Identify, explain and apply concepts related to prototype development and refinement."
+    },
+    {
+      "id": "CS11CH08-123",
+      "q": "For a Grade 11 startup case study, consider this question: What is the first step in creating a useful prototype?",
+      "o": [
+        "Freeze the final design",
+        "None of these choices is correct",
+        "Purchase advertisements immediately",
+        "Clarify the problem and intended users"
+      ],
+      "a": 3,
+      "e": "A clear problem statement guides prototype decisions.",
+      "d": "Hard",
+      "topic": "Prototype development and refinement",
+      "slo": "Identify, explain and apply concepts related to prototype development and refinement."
+    },
+    {
+      "id": "CS11CH08-124",
+      "q": "Why define prototype requirements?",
+      "o": [
+        "None of these choices is correct",
+        "To avoid user needs",
+        "To remove every project objective",
+        "To identify the functions and constraints to test"
+      ],
+      "a": 3,
+      "e": "Requirements describe expected behavior and limits.",
+      "d": "Easy",
+      "topic": "Prototype development and refinement",
+      "slo": "Identify, explain and apply concepts related to prototype development and refinement."
+    },
+    {
+      "id": "CS11CH08-125",
+      "q": "In an entrepreneurship and product-development lesson, answer: Why define prototype requirements?",
+      "o": [
+        "To identify the functions and constraints to test",
+        "To remove every project objective",
+        "To avoid user needs",
+        "None of these choices is correct"
+      ],
+      "a": 0,
+      "e": "Requirements describe expected behavior and limits.",
+      "d": "Medium",
+      "topic": "Prototype development and refinement",
+      "slo": "Identify, explain and apply concepts related to prototype development and refinement."
+    },
+    {
+      "id": "CS11CH08-126",
+      "q": "For a Grade 11 startup case study, consider this question: Why define prototype requirements?",
+      "o": [
+        "None of these choices is correct",
+        "To remove every project objective",
+        "To identify the functions and constraints to test",
+        "To avoid user needs"
+      ],
+      "a": 2,
+      "e": "Requirements describe expected behavior and limits.",
+      "d": "Hard",
+      "topic": "Prototype development and refinement",
+      "slo": "Identify, explain and apply concepts related to prototype development and refinement."
+    },
+    {
+      "id": "CS11CH08-127",
+      "q": "What is iterative development?",
+      "o": [
+        "Repeated cycles of building, testing and improving",
+        "Changing requirements at random",
+        "Producing a design once without review",
+        "None of these choices is correct"
+      ],
+      "a": 0,
+      "e": "Iteration uses feedback to refine a solution.",
+      "d": "Easy",
+      "topic": "Prototype development and refinement",
+      "slo": "Identify, explain and apply concepts related to prototype development and refinement."
+    },
+    {
+      "id": "CS11CH08-128",
+      "q": "In an entrepreneurship and product-development lesson, answer: What is iterative development?",
+      "o": [
+        "Producing a design once without review",
+        "Changing requirements at random",
+        "None of these choices is correct",
+        "Repeated cycles of building, testing and improving"
+      ],
+      "a": 3,
+      "e": "Iteration uses feedback to refine a solution.",
+      "d": "Medium",
+      "topic": "Prototype development and refinement",
+      "slo": "Identify, explain and apply concepts related to prototype development and refinement."
+    },
+    {
+      "id": "CS11CH08-129",
+      "q": "For a Grade 11 startup case study, consider this question: What is iterative development?",
+      "o": [
+        "Repeated cycles of building, testing and improving",
+        "Changing requirements at random",
+        "None of these choices is correct",
+        "Producing a design once without review"
+      ],
+      "a": 0,
+      "e": "Iteration uses feedback to refine a solution.",
+      "d": "Hard",
+      "topic": "Prototype development and refinement",
+      "slo": "Identify, explain and apply concepts related to prototype development and refinement."
+    },
+    {
+      "id": "CS11CH08-130",
+      "q": "What is a design iteration?",
+      "o": [
+        "None of these choices is correct",
+        "A revised version informed by evaluation",
+        "A new unrelated company",
+        "A fixed tax rate"
+      ],
+      "a": 1,
+      "e": "Each iteration incorporates learning from earlier work.",
+      "d": "Easy",
+      "topic": "Prototype development and refinement",
+      "slo": "Identify, explain and apply concepts related to prototype development and refinement."
+    },
+    {
+      "id": "CS11CH08-131",
+      "q": "In an entrepreneurship and product-development lesson, answer: What is a design iteration?",
+      "o": [
+        "A revised version informed by evaluation",
+        "None of these choices is correct",
+        "A new unrelated company",
+        "A fixed tax rate"
+      ],
+      "a": 0,
+      "e": "Each iteration incorporates learning from earlier work.",
+      "d": "Medium",
+      "topic": "Prototype development and refinement",
+      "slo": "Identify, explain and apply concepts related to prototype development and refinement."
+    },
+    {
+      "id": "CS11CH08-132",
+      "q": "For a Grade 11 startup case study, consider this question: What is a design iteration?",
+      "o": [
+        "A revised version informed by evaluation",
+        "A fixed tax rate",
+        "A new unrelated company",
+        "None of these choices is correct"
+      ],
+      "a": 0,
+      "e": "Each iteration incorporates learning from earlier work.",
+      "d": "Hard",
+      "topic": "Prototype development and refinement",
+      "slo": "Identify, explain and apply concepts related to prototype development and refinement."
+    },
+    {
+      "id": "CS11CH08-133",
+      "q": "What is user-centered design?",
+      "o": [
+        "None of these choices is correct",
+        "Designing only for developers' preferences",
+        "Ignoring accessibility",
+        "Designing with users' needs and experiences in mind"
+      ],
+      "a": 3,
+      "e": "User-centered work considers intended users throughout development.",
+      "d": "Easy",
+      "topic": "Prototype development and refinement",
+      "slo": "Identify, explain and apply concepts related to prototype development and refinement."
+    },
+    {
+      "id": "CS11CH08-134",
+      "q": "In an entrepreneurship and product-development lesson, answer: What is user-centered design?",
+      "o": [
+        "Ignoring accessibility",
+        "None of these choices is correct",
+        "Designing with users' needs and experiences in mind",
+        "Designing only for developers' preferences"
+      ],
+      "a": 2,
+      "e": "User-centered work considers intended users throughout development.",
+      "d": "Medium",
+      "topic": "Prototype development and refinement",
+      "slo": "Identify, explain and apply concepts related to prototype development and refinement."
+    },
+    {
+      "id": "CS11CH08-135",
+      "q": "For a Grade 11 startup case study, consider this question: What is user-centered design?",
+      "o": [
+        "Designing with users' needs and experiences in mind",
+        "None of these choices is correct",
+        "Designing only for developers' preferences",
+        "Ignoring accessibility"
+      ],
+      "a": 0,
+      "e": "User-centered work considers intended users throughout development.",
+      "d": "Hard",
+      "topic": "Prototype development and refinement",
+      "slo": "Identify, explain and apply concepts related to prototype development and refinement."
+    },
+    {
+      "id": "CS11CH08-136",
+      "q": "What is brainstorming used for?",
+      "o": [
+        "Replacing all evaluation",
+        "None of these choices is correct",
+        "Proving that one idea is always correct",
+        "Generating multiple possible solutions"
+      ],
+      "a": 3,
+      "e": "Brainstorming explores alternatives before selection.",
+      "d": "Easy",
+      "topic": "Prototype development and refinement",
+      "slo": "Identify, explain and apply concepts related to prototype development and refinement."
+    },
+    {
+      "id": "CS11CH08-137",
+      "q": "In an entrepreneurship and product-development lesson, answer: What is brainstorming used for?",
+      "o": [
+        "Proving that one idea is always correct",
+        "None of these choices is correct",
+        "Replacing all evaluation",
+        "Generating multiple possible solutions"
+      ],
+      "a": 3,
+      "e": "Brainstorming explores alternatives before selection.",
+      "d": "Medium",
+      "topic": "Prototype development and refinement",
+      "slo": "Identify, explain and apply concepts related to prototype development and refinement."
+    },
+    {
+      "id": "CS11CH08-138",
+      "q": "For a Grade 11 startup case study, consider this question: What is brainstorming used for?",
+      "o": [
+        "None of these choices is correct",
+        "Replacing all evaluation",
+        "Proving that one idea is always correct",
+        "Generating multiple possible solutions"
+      ],
+      "a": 3,
+      "e": "Brainstorming explores alternatives before selection.",
+      "d": "Hard",
+      "topic": "Prototype development and refinement",
+      "slo": "Identify, explain and apply concepts related to prototype development and refinement."
+    },
+    {
+      "id": "CS11CH08-139",
+      "q": "What is a wireframe?",
+      "o": [
+        "A basic plan showing interface structure and layout",
+        "A finished cloud server",
+        "A type of customer invoice",
+        "None of these choices is correct"
+      ],
+      "a": 0,
+      "e": "Wireframes organize screens and controls.",
+      "d": "Easy",
+      "topic": "Prototype development and refinement",
+      "slo": "Identify, explain and apply concepts related to prototype development and refinement."
+    },
+    {
+      "id": "CS11CH08-140",
+      "q": "In an entrepreneurship and product-development lesson, answer: What is a wireframe?",
+      "o": [
+        "None of these choices is correct",
+        "A basic plan showing interface structure and layout",
+        "A finished cloud server",
+        "A type of customer invoice"
+      ],
+      "a": 1,
+      "e": "Wireframes organize screens and controls.",
+      "d": "Medium",
+      "topic": "Prototype development and refinement",
+      "slo": "Identify, explain and apply concepts related to prototype development and refinement."
+    },
+    {
+      "id": "CS11CH08-141",
+      "q": "For a Grade 11 startup case study, consider this question: What is a wireframe?",
+      "o": [
+        "A finished cloud server",
+        "A type of customer invoice",
+        "None of these choices is correct",
+        "A basic plan showing interface structure and layout"
+      ],
+      "a": 3,
+      "e": "Wireframes organize screens and controls.",
+      "d": "Hard",
+      "topic": "Prototype development and refinement",
+      "slo": "Identify, explain and apply concepts related to prototype development and refinement."
+    },
+    {
+      "id": "CS11CH08-142",
+      "q": "What is a mockup?",
+      "o": [
+        "A list of shipping charges",
+        "A visual representation of a proposed design",
+        "None of these choices is correct",
+        "A software license agreement"
+      ],
+      "a": 1,
+      "e": "Mockups communicate visual design choices.",
+      "d": "Easy",
+      "topic": "Prototype development and refinement",
+      "slo": "Identify, explain and apply concepts related to prototype development and refinement."
+    },
+    {
+      "id": "CS11CH08-143",
+      "q": "In an entrepreneurship and product-development lesson, answer: What is a mockup?",
+      "o": [
+        "None of these choices is correct",
+        "A visual representation of a proposed design",
+        "A list of shipping charges",
+        "A software license agreement"
+      ],
+      "a": 1,
+      "e": "Mockups communicate visual design choices.",
+      "d": "Medium",
+      "topic": "Prototype development and refinement",
+      "slo": "Identify, explain and apply concepts related to prototype development and refinement."
+    },
+    {
+      "id": "CS11CH08-144",
+      "q": "For a Grade 11 startup case study, consider this question: What is a mockup?",
+      "o": [
+        "A software license agreement",
+        "A visual representation of a proposed design",
+        "A list of shipping charges",
+        "None of these choices is correct"
+      ],
+      "a": 1,
+      "e": "Mockups communicate visual design choices.",
+      "d": "Hard",
+      "topic": "Prototype development and refinement",
+      "slo": "Identify, explain and apply concepts related to prototype development and refinement."
+    },
+    {
+      "id": "CS11CH08-145",
+      "q": "What is a storyboard in design?",
+      "o": [
+        "None of these choices is correct",
+        "Only a product's serial number",
+        "A sequence illustrating a user's interaction or experience",
+        "A random collection of passwords"
+      ],
+      "a": 2,
+      "e": "Storyboards show a user journey step by step.",
+      "d": "Easy",
+      "topic": "Prototype development and refinement",
+      "slo": "Identify, explain and apply concepts related to prototype development and refinement."
+    },
+    {
+      "id": "CS11CH08-146",
+      "q": "In an entrepreneurship and product-development lesson, answer: What is a storyboard in design?",
+      "o": [
+        "None of these choices is correct",
+        "Only a product's serial number",
+        "A random collection of passwords",
+        "A sequence illustrating a user's interaction or experience"
+      ],
+      "a": 3,
+      "e": "Storyboards show a user journey step by step.",
+      "d": "Medium",
+      "topic": "Prototype development and refinement",
+      "slo": "Identify, explain and apply concepts related to prototype development and refinement."
+    },
+    {
+      "id": "CS11CH08-147",
+      "q": "For a Grade 11 startup case study, consider this question: What is a storyboard in design?",
+      "o": [
+        "Only a product's serial number",
+        "None of these choices is correct",
+        "A random collection of passwords",
+        "A sequence illustrating a user's interaction or experience"
+      ],
+      "a": 3,
+      "e": "Storyboards show a user journey step by step.",
+      "d": "Hard",
+      "topic": "Prototype development and refinement",
+      "slo": "Identify, explain and apply concepts related to prototype development and refinement."
+    },
+    {
+      "id": "CS11CH08-148",
+      "q": "What is a design constraint?",
+      "o": [
+        "None of these choices is correct",
+        "An optional unrelated slogan",
+        "A guaranteed source of profit",
+        "A limit such as time, cost, size or technology"
+      ],
+      "a": 3,
+      "e": "Constraints affect feasible design choices.",
+      "d": "Easy",
+      "topic": "Prototype development and refinement",
+      "slo": "Identify, explain and apply concepts related to prototype development and refinement."
+    },
+    {
+      "id": "CS11CH08-149",
+      "q": "In an entrepreneurship and product-development lesson, answer: What is a design constraint?",
+      "o": [
+        "None of these choices is correct",
+        "A limit such as time, cost, size or technology",
+        "A guaranteed source of profit",
+        "An optional unrelated slogan"
+      ],
+      "a": 1,
+      "e": "Constraints affect feasible design choices.",
+      "d": "Medium",
+      "topic": "Prototype development and refinement",
+      "slo": "Identify, explain and apply concepts related to prototype development and refinement."
+    },
+    {
+      "id": "CS11CH08-150",
+      "q": "For a Grade 11 startup case study, consider this question: What is a design constraint?",
+      "o": [
+        "A limit such as time, cost, size or technology",
+        "None of these choices is correct",
+        "A guaranteed source of profit",
+        "An optional unrelated slogan"
+      ],
+      "a": 0,
+      "e": "Constraints affect feasible design choices.",
+      "d": "Hard",
+      "topic": "Prototype development and refinement",
+      "slo": "Identify, explain and apply concepts related to prototype development and refinement."
+    },
+    {
+      "id": "CS11CH08-151",
+      "q": "Why prioritize core features?",
+      "o": [
+        "None of these choices is correct",
+        "To make the product unnecessarily complex",
+        "To remove essential functionality",
+        "To focus resources on the most important user needs"
+      ],
+      "a": 3,
+      "e": "Prioritization helps deliver and test central value first.",
+      "d": "Easy",
+      "topic": "Prototype development and refinement",
+      "slo": "Identify, explain and apply concepts related to prototype development and refinement."
+    },
+    {
+      "id": "CS11CH08-152",
+      "q": "In an entrepreneurship and product-development lesson, answer: Why prioritize core features?",
+      "o": [
+        "To remove essential functionality",
+        "To make the product unnecessarily complex",
+        "To focus resources on the most important user needs",
+        "None of these choices is correct"
+      ],
+      "a": 2,
+      "e": "Prioritization helps deliver and test central value first.",
+      "d": "Medium",
+      "topic": "Prototype development and refinement",
+      "slo": "Identify, explain and apply concepts related to prototype development and refinement."
+    },
+    {
+      "id": "CS11CH08-153",
+      "q": "For a Grade 11 startup case study, consider this question: Why prioritize core features?",
+      "o": [
+        "To focus resources on the most important user needs",
+        "To make the product unnecessarily complex",
+        "None of these choices is correct",
+        "To remove essential functionality"
+      ],
+      "a": 0,
+      "e": "Prioritization helps deliver and test central value first.",
+      "d": "Hard",
+      "topic": "Prototype development and refinement",
+      "slo": "Identify, explain and apply concepts related to prototype development and refinement."
+    },
+    {
+      "id": "CS11CH08-154",
+      "q": "What is rapid prototyping?",
+      "o": [
+        "None of these choices is correct",
+        "Building a product without any design",
+        "Avoiding all testing until launch",
+        "Quickly producing models to learn and revise"
+      ],
+      "a": 3,
+      "e": "Rapid prototyping shortens feedback cycles.",
+      "d": "Easy",
+      "topic": "Prototype development and refinement",
+      "slo": "Identify, explain and apply concepts related to prototype development and refinement."
+    },
+    {
+      "id": "CS11CH08-155",
+      "q": "In an entrepreneurship and product-development lesson, answer: What is rapid prototyping?",
+      "o": [
+        "Quickly producing models to learn and revise",
+        "Avoiding all testing until launch",
+        "Building a product without any design",
+        "None of these choices is correct"
+      ],
+      "a": 0,
+      "e": "Rapid prototyping shortens feedback cycles.",
+      "d": "Medium",
+      "topic": "Prototype development and refinement",
+      "slo": "Identify, explain and apply concepts related to prototype development and refinement."
+    },
+    {
+      "id": "CS11CH08-156",
+      "q": "For a Grade 11 startup case study, consider this question: What is rapid prototyping?",
+      "o": [
+        "Quickly producing models to learn and revise",
+        "Building a product without any design",
+        "Avoiding all testing until launch",
+        "None of these choices is correct"
+      ],
+      "a": 0,
+      "e": "Rapid prototyping shortens feedback cycles.",
+      "d": "Hard",
+      "topic": "Prototype development and refinement",
+      "slo": "Identify, explain and apply concepts related to prototype development and refinement."
+    },
+    {
+      "id": "CS11CH08-157",
+      "q": "Why document design changes?",
+      "o": [
+        "To hide mistakes from the team",
+        "None of these choices is correct",
+        "To eliminate future testing",
+        "To preserve the reasons and outcomes of revisions"
+      ],
+      "a": 3,
+      "e": "Records help track decisions and learning.",
+      "d": "Easy",
+      "topic": "Prototype development and refinement",
+      "slo": "Identify, explain and apply concepts related to prototype development and refinement."
+    },
+    {
+      "id": "CS11CH08-158",
+      "q": "In an entrepreneurship and product-development lesson, answer: Why document design changes?",
+      "o": [
+        "To preserve the reasons and outcomes of revisions",
+        "None of these choices is correct",
+        "To eliminate future testing",
+        "To hide mistakes from the team"
+      ],
+      "a": 0,
+      "e": "Records help track decisions and learning.",
+      "d": "Medium",
+      "topic": "Prototype development and refinement",
+      "slo": "Identify, explain and apply concepts related to prototype development and refinement."
+    },
+    {
+      "id": "CS11CH08-159",
+      "q": "For a Grade 11 startup case study, consider this question: Why document design changes?",
+      "o": [
+        "To hide mistakes from the team",
+        "None of these choices is correct",
+        "To eliminate future testing",
+        "To preserve the reasons and outcomes of revisions"
+      ],
+      "a": 3,
+      "e": "Records help track decisions and learning.",
+      "d": "Hard",
+      "topic": "Prototype development and refinement",
+      "slo": "Identify, explain and apply concepts related to prototype development and refinement."
+    },
+    {
+      "id": "CS11CH08-160",
+      "q": "What is a usability problem?",
+      "o": [
+        "A normal invoice number",
+        "A business logo variation only",
+        "A difficulty users face while completing a task",
+        "None of these choices is correct"
+      ],
+      "a": 2,
+      "e": "Usability problems prevent effective interaction.",
+      "d": "Easy",
+      "topic": "Prototype development and refinement",
+      "slo": "Identify, explain and apply concepts related to prototype development and refinement."
+    },
+    {
+      "id": "CS11CH08-161",
+      "q": "In an entrepreneurship and product-development lesson, answer: What is a usability problem?",
+      "o": [
+        "None of these choices is correct",
+        "A difficulty users face while completing a task",
+        "A business logo variation only",
+        "A normal invoice number"
+      ],
+      "a": 1,
+      "e": "Usability problems prevent effective interaction.",
+      "d": "Medium",
+      "topic": "Prototype development and refinement",
+      "slo": "Identify, explain and apply concepts related to prototype development and refinement."
+    },
+    {
+      "id": "CS11CH08-162",
+      "q": "For a Grade 11 startup case study, consider this question: What is a usability problem?",
+      "o": [
+        "A difficulty users face while completing a task",
+        "A normal invoice number",
+        "None of these choices is correct",
+        "A business logo variation only"
+      ],
+      "a": 0,
+      "e": "Usability problems prevent effective interaction.",
+      "d": "Hard",
+      "topic": "Prototype development and refinement",
+      "slo": "Identify, explain and apply concepts related to prototype development and refinement."
+    },
+    {
+      "id": "CS11CH08-163",
+      "q": "How can a team improve a confusing navigation menu?",
+      "o": [
+        "Add random menu items",
+        "Test a clearer layout with users",
+        "None of these choices is correct",
+        "Remove all labels"
+      ],
+      "a": 1,
+      "e": "Testing revised navigation checks whether users can find features.",
+      "d": "Easy",
+      "topic": "Prototype development and refinement",
+      "slo": "Identify, explain and apply concepts related to prototype development and refinement."
+    },
+    {
+      "id": "CS11CH08-164",
+      "q": "In an entrepreneurship and product-development lesson, answer: How can a team improve a confusing navigation menu?",
+      "o": [
+        "Add random menu items",
+        "Test a clearer layout with users",
+        "Remove all labels",
+        "None of these choices is correct"
+      ],
+      "a": 1,
+      "e": "Testing revised navigation checks whether users can find features.",
+      "d": "Medium",
+      "topic": "Prototype development and refinement",
+      "slo": "Identify, explain and apply concepts related to prototype development and refinement."
+    },
+    {
+      "id": "CS11CH08-165",
+      "q": "For a Grade 11 startup case study, consider this question: How can a team improve a confusing navigation menu?",
+      "o": [
+        "Add random menu items",
+        "None of these choices is correct",
+        "Test a clearer layout with users",
+        "Remove all labels"
+      ],
+      "a": 2,
+      "e": "Testing revised navigation checks whether users can find features.",
+      "d": "Hard",
+      "topic": "Prototype development and refinement",
+      "slo": "Identify, explain and apply concepts related to prototype development and refinement."
+    },
+    {
+      "id": "CS11CH08-166",
+      "q": "Why review a prototype with stakeholders?",
+      "o": [
+        "None of these choices is correct",
+        "To guarantee universal agreement",
+        "To gather perspectives on requirements and feasibility",
+        "To avoid defining the product"
+      ],
+      "a": 2,
+      "e": "Stakeholders can identify missing needs and constraints.",
+      "d": "Easy",
+      "topic": "Prototype development and refinement",
+      "slo": "Identify, explain and apply concepts related to prototype development and refinement."
+    },
+    {
+      "id": "CS11CH08-167",
+      "q": "In an entrepreneurship and product-development lesson, answer: Why review a prototype with stakeholders?",
+      "o": [
+        "To avoid defining the product",
+        "To gather perspectives on requirements and feasibility",
+        "None of these choices is correct",
+        "To guarantee universal agreement"
+      ],
+      "a": 1,
+      "e": "Stakeholders can identify missing needs and constraints.",
+      "d": "Medium",
+      "topic": "Prototype development and refinement",
+      "slo": "Identify, explain and apply concepts related to prototype development and refinement."
+    },
+    {
+      "id": "CS11CH08-168",
+      "q": "For a Grade 11 startup case study, consider this question: Why review a prototype with stakeholders?",
+      "o": [
+        "To gather perspectives on requirements and feasibility",
+        "To avoid defining the product",
+        "None of these choices is correct",
+        "To guarantee universal agreement"
+      ],
+      "a": 0,
+      "e": "Stakeholders can identify missing needs and constraints.",
+      "d": "Hard",
+      "topic": "Prototype development and refinement",
+      "slo": "Identify, explain and apply concepts related to prototype development and refinement."
+    },
+    {
+      "id": "CS11CH08-169",
+      "q": "What is a design trade-off?",
+      "o": [
+        "A choice balancing competing benefits and costs",
+        "A promise that every objective is maximized",
+        "None of these choices is correct",
+        "A product barcode"
+      ],
+      "a": 0,
+      "e": "Designers balance usability, performance, cost and time.",
+      "d": "Easy",
+      "topic": "Prototype development and refinement",
+      "slo": "Identify, explain and apply concepts related to prototype development and refinement."
+    },
+    {
+      "id": "CS11CH08-170",
+      "q": "In an entrepreneurship and product-development lesson, answer: What is a design trade-off?",
+      "o": [
+        "None of these choices is correct",
+        "A promise that every objective is maximized",
+        "A choice balancing competing benefits and costs",
+        "A product barcode"
+      ],
+      "a": 2,
+      "e": "Designers balance usability, performance, cost and time.",
+      "d": "Medium",
+      "topic": "Prototype development and refinement",
+      "slo": "Identify, explain and apply concepts related to prototype development and refinement."
+    },
+    {
+      "id": "CS11CH08-171",
+      "q": "For a Grade 11 startup case study, consider this question: What is a design trade-off?",
+      "o": [
+        "A promise that every objective is maximized",
+        "A choice balancing competing benefits and costs",
+        "A product barcode",
+        "None of these choices is correct"
+      ],
+      "a": 1,
+      "e": "Designers balance usability, performance, cost and time.",
+      "d": "Hard",
+      "topic": "Prototype development and refinement",
+      "slo": "Identify, explain and apply concepts related to prototype development and refinement."
+    },
+    {
+      "id": "CS11CH08-172",
+      "q": "What is refinement in product design?",
+      "o": [
+        "Repeating a mistake intentionally",
+        "Improving details based on evidence and feedback",
+        "None of these choices is correct",
+        "Removing the product's purpose"
+      ],
+      "a": 1,
+      "e": "Refinement makes a prototype more effective.",
+      "d": "Easy",
+      "topic": "Prototype development and refinement",
+      "slo": "Identify, explain and apply concepts related to prototype development and refinement."
+    },
+    {
+      "id": "CS11CH08-173",
+      "q": "In an entrepreneurship and product-development lesson, answer: What is refinement in product design?",
+      "o": [
+        "None of these choices is correct",
+        "Improving details based on evidence and feedback",
+        "Repeating a mistake intentionally",
+        "Removing the product's purpose"
+      ],
+      "a": 1,
+      "e": "Refinement makes a prototype more effective.",
+      "d": "Medium",
+      "topic": "Prototype development and refinement",
+      "slo": "Identify, explain and apply concepts related to prototype development and refinement."
+    },
+    {
+      "id": "CS11CH08-174",
+      "q": "For a Grade 11 startup case study, consider this question: What is refinement in product design?",
+      "o": [
+        "Repeating a mistake intentionally",
+        "None of these choices is correct",
+        "Improving details based on evidence and feedback",
+        "Removing the product's purpose"
+      ],
+      "a": 2,
+      "e": "Refinement makes a prototype more effective.",
+      "d": "Hard",
+      "topic": "Prototype development and refinement",
+      "slo": "Identify, explain and apply concepts related to prototype development and refinement."
+    },
+    {
+      "id": "CS11CH08-175",
+      "q": "What should happen after discovering a critical prototype defect?",
+      "o": [
+        "Revise the design and test again",
+        "Delete all user reports",
+        "None of these choices is correct",
+        "Launch without investigation"
+      ],
+      "a": 0,
+      "e": "Defects should inform corrective changes and retesting.",
+      "d": "Easy",
+      "topic": "Prototype development and refinement",
+      "slo": "Identify, explain and apply concepts related to prototype development and refinement."
+    },
+    {
+      "id": "CS11CH08-176",
+      "q": "In an entrepreneurship and product-development lesson, answer: What should happen after discovering a critical prototype defect?",
+      "o": [
+        "Launch without investigation",
+        "None of these choices is correct",
+        "Revise the design and test again",
+        "Delete all user reports"
+      ],
+      "a": 2,
+      "e": "Defects should inform corrective changes and retesting.",
+      "d": "Medium",
+      "topic": "Prototype development and refinement",
+      "slo": "Identify, explain and apply concepts related to prototype development and refinement."
+    },
+    {
+      "id": "CS11CH08-177",
+      "q": "For a Grade 11 startup case study, consider this question: What should happen after discovering a critical prototype defect?",
+      "o": [
+        "Delete all user reports",
+        "Revise the design and test again",
+        "None of these choices is correct",
+        "Launch without investigation"
+      ],
+      "a": 1,
+      "e": "Defects should inform corrective changes and retesting.",
+      "d": "Hard",
+      "topic": "Prototype development and refinement",
+      "slo": "Identify, explain and apply concepts related to prototype development and refinement."
+    },
+    {
+      "id": "CS11CH08-178",
+      "q": "What is a user journey?",
+      "o": [
+        "None of these choices is correct",
+        "A list of employee salaries",
+        "The sequence of steps a user takes to achieve a goal",
+        "A computer's internal clock speed"
+      ],
+      "a": 2,
+      "e": "User journeys help identify interaction needs.",
+      "d": "Easy",
+      "topic": "Prototype development and refinement",
+      "slo": "Identify, explain and apply concepts related to prototype development and refinement."
+    },
+    {
+      "id": "CS11CH08-179",
+      "q": "In an entrepreneurship and product-development lesson, answer: What is a user journey?",
+      "o": [
+        "A list of employee salaries",
+        "None of these choices is correct",
+        "The sequence of steps a user takes to achieve a goal",
+        "A computer's internal clock speed"
+      ],
+      "a": 2,
+      "e": "User journeys help identify interaction needs.",
+      "d": "Medium",
+      "topic": "Prototype development and refinement",
+      "slo": "Identify, explain and apply concepts related to prototype development and refinement."
+    },
+    {
+      "id": "CS11CH08-180",
+      "q": "For a Grade 11 startup case study, consider this question: What is a user journey?",
+      "o": [
+        "None of these choices is correct",
+        "A computer's internal clock speed",
+        "A list of employee salaries",
+        "The sequence of steps a user takes to achieve a goal"
+      ],
+      "a": 3,
+      "e": "User journeys help identify interaction needs.",
+      "d": "Hard",
+      "topic": "Prototype development and refinement",
+      "slo": "Identify, explain and apply concepts related to prototype development and refinement."
+    },
+    {
+      "id": "CS11CH08-181",
+      "q": "What is prototype testing?",
+      "o": [
+        "Sending advertisements before design",
+        "Evaluating a model against requirements and user needs",
+        "Only choosing a brand name",
+        "None of these choices is correct"
+      ],
+      "a": 1,
+      "e": "Testing checks performance and usability.",
+      "d": "Easy",
+      "topic": "Testing prototypes",
+      "slo": "Identify, explain and apply concepts related to testing prototypes."
+    },
+    {
+      "id": "CS11CH08-182",
+      "q": "In an entrepreneurship and product-development lesson, answer: What is prototype testing?",
+      "o": [
+        "Evaluating a model against requirements and user needs",
+        "Only choosing a brand name",
+        "None of these choices is correct",
+        "Sending advertisements before design"
+      ],
+      "a": 0,
+      "e": "Testing checks performance and usability.",
+      "d": "Medium",
+      "topic": "Testing prototypes",
+      "slo": "Identify, explain and apply concepts related to testing prototypes."
+    },
+    {
+      "id": "CS11CH08-183",
+      "q": "What is user testing?",
+      "o": [
+        "Observing intended users trying a prototype",
+        "None of these choices is correct",
+        "Counting office chairs",
+        "Only asking developers to guess user behavior"
+      ],
+      "a": 0,
+      "e": "User testing reveals real interaction problems.",
+      "d": "Easy",
+      "topic": "Testing prototypes",
+      "slo": "Identify, explain and apply concepts related to testing prototypes."
+    },
+    {
+      "id": "CS11CH08-184",
+      "q": "In an entrepreneurship and product-development lesson, answer: What is user testing?",
+      "o": [
+        "Observing intended users trying a prototype",
+        "Counting office chairs",
+        "Only asking developers to guess user behavior",
+        "None of these choices is correct"
+      ],
+      "a": 0,
+      "e": "User testing reveals real interaction problems.",
+      "d": "Medium",
+      "topic": "Testing prototypes",
+      "slo": "Identify, explain and apply concepts related to testing prototypes."
+    },
+    {
+      "id": "CS11CH08-185",
+      "q": "What is usability testing?",
+      "o": [
+        "None of these choices is correct",
+        "Checking a business registration date",
+        "Measuring only electricity prices",
+        "Assessing how easily users can complete tasks"
+      ],
+      "a": 3,
+      "e": "Usability tests focus on effectiveness and ease of use.",
+      "d": "Easy",
+      "topic": "Testing prototypes",
+      "slo": "Identify, explain and apply concepts related to testing prototypes."
+    },
+    {
+      "id": "CS11CH08-186",
+      "q": "In an entrepreneurship and product-development lesson, answer: What is usability testing?",
+      "o": [
+        "Checking a business registration date",
+        "Measuring only electricity prices",
+        "Assessing how easily users can complete tasks",
+        "None of these choices is correct"
+      ],
+      "a": 2,
+      "e": "Usability tests focus on effectiveness and ease of use.",
+      "d": "Medium",
+      "topic": "Testing prototypes",
+      "slo": "Identify, explain and apply concepts related to testing prototypes."
+    },
+    {
+      "id": "CS11CH08-187",
+      "q": "Why define test objectives?",
+      "o": [
+        "To know what evidence the test must collect",
+        "None of these choices is correct",
+        "To prevent recording results",
+        "To guarantee positive feedback"
+      ],
+      "a": 0,
+      "e": "Clear objectives make testing purposeful.",
+      "d": "Easy",
+      "topic": "Testing prototypes",
+      "slo": "Identify, explain and apply concepts related to testing prototypes."
+    },
+    {
+      "id": "CS11CH08-188",
+      "q": "In an entrepreneurship and product-development lesson, answer: Why define test objectives?",
+      "o": [
+        "To know what evidence the test must collect",
+        "To prevent recording results",
+        "None of these choices is correct",
+        "To guarantee positive feedback"
+      ],
+      "a": 0,
+      "e": "Clear objectives make testing purposeful.",
+      "d": "Medium",
+      "topic": "Testing prototypes",
+      "slo": "Identify, explain and apply concepts related to testing prototypes."
+    },
+    {
+      "id": "CS11CH08-189",
+      "q": "What is a test case?",
+      "o": [
+        "A specified input or action with an expected outcome",
+        "A finished annual report",
+        "An unrelated marketing slogan",
+        "None of these choices is correct"
+      ],
+      "a": 0,
+      "e": "Test cases check particular behavior.",
+      "d": "Easy",
+      "topic": "Testing prototypes",
+      "slo": "Identify, explain and apply concepts related to testing prototypes."
+    },
+    {
+      "id": "CS11CH08-190",
+      "q": "In an entrepreneurship and product-development lesson, answer: What is a test case?",
+      "o": [
+        "An unrelated marketing slogan",
+        "None of these choices is correct",
+        "A finished annual report",
+        "A specified input or action with an expected outcome"
+      ],
+      "a": 3,
+      "e": "Test cases check particular behavior.",
+      "d": "Medium",
+      "topic": "Testing prototypes",
+      "slo": "Identify, explain and apply concepts related to testing prototypes."
+    },
+    {
+      "id": "CS11CH08-191",
+      "q": "What is functional testing?",
+      "o": [
+        "None of these choices is correct",
+        "Judging only the product's color",
+        "Estimating employee travel costs",
+        "Checking whether features perform their intended operations"
+      ],
+      "a": 3,
+      "e": "Functional tests evaluate required behavior.",
+      "d": "Easy",
+      "topic": "Testing prototypes",
+      "slo": "Identify, explain and apply concepts related to testing prototypes."
+    },
+    {
+      "id": "CS11CH08-192",
+      "q": "In an entrepreneurship and product-development lesson, answer: What is functional testing?",
+      "o": [
+        "Estimating employee travel costs",
+        "Checking whether features perform their intended operations",
+        "Judging only the product's color",
+        "None of these choices is correct"
+      ],
+      "a": 1,
+      "e": "Functional tests evaluate required behavior.",
+      "d": "Medium",
+      "topic": "Testing prototypes",
+      "slo": "Identify, explain and apply concepts related to testing prototypes."
+    },
+    {
+      "id": "CS11CH08-193",
+      "q": "What is performance testing?",
+      "o": [
+        "Writing a company biography",
+        "Checking speed, responsiveness or resource use under conditions",
+        "None of these choices is correct",
+        "Choosing only the app icon"
+      ],
+      "a": 1,
+      "e": "Performance tests assess system behavior under load.",
+      "d": "Easy",
+      "topic": "Testing prototypes",
+      "slo": "Identify, explain and apply concepts related to testing prototypes."
+    },
+    {
+      "id": "CS11CH08-194",
+      "q": "In an entrepreneurship and product-development lesson, answer: What is performance testing?",
+      "o": [
+        "Writing a company biography",
+        "Checking speed, responsiveness or resource use under conditions",
+        "Choosing only the app icon",
+        "None of these choices is correct"
+      ],
+      "a": 1,
+      "e": "Performance tests assess system behavior under load.",
+      "d": "Medium",
+      "topic": "Testing prototypes",
+      "slo": "Identify, explain and apply concepts related to testing prototypes."
+    },
+    {
+      "id": "CS11CH08-195",
+      "q": "What is accessibility testing?",
+      "o": [
+        "None of these choices is correct",
+        "Checking whether people with different abilities can use a product",
+        "Ignoring screen-reader users",
+        "Testing only the newest smartphone"
+      ],
+      "a": 1,
+      "e": "Accessibility tests identify barriers to inclusive use.",
+      "d": "Easy",
+      "topic": "Testing prototypes",
+      "slo": "Identify, explain and apply concepts related to testing prototypes."
+    },
+    {
+      "id": "CS11CH08-196",
+      "q": "In an entrepreneurship and product-development lesson, answer: What is accessibility testing?",
+      "o": [
+        "Ignoring screen-reader users",
+        "Testing only the newest smartphone",
+        "None of these choices is correct",
+        "Checking whether people with different abilities can use a product"
+      ],
+      "a": 3,
+      "e": "Accessibility tests identify barriers to inclusive use.",
+      "d": "Medium",
+      "topic": "Testing prototypes",
+      "slo": "Identify, explain and apply concepts related to testing prototypes."
+    },
+    {
+      "id": "CS11CH08-197",
+      "q": "Why use representative test participants?",
+      "o": [
+        "None of these choices is correct",
+        "They remove the need for observation",
+        "They always give identical opinions",
+        "Their experiences better reflect intended users"
+      ],
+      "a": 3,
+      "e": "Representative participants improve the relevance of feedback.",
+      "d": "Easy",
+      "topic": "Testing prototypes",
+      "slo": "Identify, explain and apply concepts related to testing prototypes."
+    },
+    {
+      "id": "CS11CH08-198",
+      "q": "In an entrepreneurship and product-development lesson, answer: Why use representative test participants?",
+      "o": [
+        "Their experiences better reflect intended users",
+        "They remove the need for observation",
+        "None of these choices is correct",
+        "They always give identical opinions"
+      ],
+      "a": 0,
+      "e": "Representative participants improve the relevance of feedback.",
+      "d": "Medium",
+      "topic": "Testing prototypes",
+      "slo": "Identify, explain and apply concepts related to testing prototypes."
+    },
+    {
+      "id": "CS11CH08-199",
+      "q": "What is a usability metric?",
+      "o": [
+        "Only the company's postal code",
+        "None of these choices is correct",
+        "The number of product slogans",
+        "A measure such as task completion rate or time on task"
+      ],
+      "a": 3,
+      "e": "Metrics help quantify how well users perform tasks.",
+      "d": "Easy",
+      "topic": "Testing prototypes",
+      "slo": "Identify, explain and apply concepts related to testing prototypes."
+    },
+    {
+      "id": "CS11CH08-200",
+      "q": "In an entrepreneurship and product-development lesson, answer: What is a usability metric?",
+      "o": [
+        "Only the company's postal code",
+        "The number of product slogans",
+        "A measure such as task completion rate or time on task",
+        "None of these choices is correct"
+      ],
+      "a": 2,
+      "e": "Metrics help quantify how well users perform tasks.",
+      "d": "Medium",
+      "topic": "Testing prototypes",
+      "slo": "Identify, explain and apply concepts related to testing prototypes."
+    },
+    {
+      "id": "CS11CH08-201",
+      "q": "What is a test observation?",
+      "o": [
+        "An invented result",
+        "None of these choices is correct",
+        "A recorded action or difficulty seen during testing",
+        "A marketing promise"
+      ],
+      "a": 2,
+      "e": "Observations provide direct evidence of user behavior.",
+      "d": "Easy",
+      "topic": "Testing prototypes",
+      "slo": "Identify, explain and apply concepts related to testing prototypes."
+    },
+    {
+      "id": "CS11CH08-202",
+      "q": "In an entrepreneurship and product-development lesson, answer: What is a test observation?",
+      "o": [
+        "A marketing promise",
+        "A recorded action or difficulty seen during testing",
+        "An invented result",
+        "None of these choices is correct"
+      ],
+      "a": 1,
+      "e": "Observations provide direct evidence of user behavior.",
+      "d": "Medium",
+      "topic": "Testing prototypes",
+      "slo": "Identify, explain and apply concepts related to testing prototypes."
+    },
+    {
+      "id": "CS11CH08-203",
+      "q": "What is a bug in a prototype?",
+      "o": [
+        "None of these choices is correct",
+        "An error causing unexpected behavior",
+        "A planned user benefit",
+        "A legal registration number"
+      ],
+      "a": 1,
+      "e": "Bugs are faults that should be investigated.",
+      "d": "Easy",
+      "topic": "Testing prototypes",
+      "slo": "Identify, explain and apply concepts related to testing prototypes."
+    },
+    {
+      "id": "CS11CH08-204",
+      "q": "In an entrepreneurship and product-development lesson, answer: What is a bug in a prototype?",
+      "o": [
+        "An error causing unexpected behavior",
+        "None of these choices is correct",
+        "A planned user benefit",
+        "A legal registration number"
+      ],
+      "a": 0,
+      "e": "Bugs are faults that should be investigated.",
+      "d": "Medium",
+      "topic": "Testing prototypes",
+      "slo": "Identify, explain and apply concepts related to testing prototypes."
+    },
+    {
+      "id": "CS11CH08-205",
+      "q": "What is regression testing?",
+      "o": [
+        "None of these choices is correct",
+        "Testing only the company name",
+        "Deleting all previous test cases",
+        "Checking that changes did not break previously working features"
+      ],
+      "a": 3,
+      "e": "Regression tests protect existing functionality after revisions.",
+      "d": "Easy",
+      "topic": "Testing prototypes",
+      "slo": "Identify, explain and apply concepts related to testing prototypes."
+    },
+    {
+      "id": "CS11CH08-206",
+      "q": "In an entrepreneurship and product-development lesson, answer: What is regression testing?",
+      "o": [
+        "None of these choices is correct",
+        "Testing only the company name",
+        "Deleting all previous test cases",
+        "Checking that changes did not break previously working features"
+      ],
+      "a": 3,
+      "e": "Regression tests protect existing functionality after revisions.",
+      "d": "Medium",
+      "topic": "Testing prototypes",
+      "slo": "Identify, explain and apply concepts related to testing prototypes."
+    },
+    {
+      "id": "CS11CH08-207",
+      "q": "Why collect both positive and negative feedback?",
+      "o": [
+        "To understand strengths and weaknesses",
+        "To prevent design improvements",
+        "To publish only compliments",
+        "None of these choices is correct"
+      ],
+      "a": 0,
+      "e": "Balanced feedback supports informed decisions.",
+      "d": "Easy",
+      "topic": "Testing prototypes",
+      "slo": "Identify, explain and apply concepts related to testing prototypes."
+    },
+    {
+      "id": "CS11CH08-208",
+      "q": "In an entrepreneurship and product-development lesson, answer: Why collect both positive and negative feedback?",
+      "o": [
+        "To publish only compliments",
+        "To understand strengths and weaknesses",
+        "To prevent design improvements",
+        "None of these choices is correct"
+      ],
+      "a": 1,
+      "e": "Balanced feedback supports informed decisions.",
+      "d": "Medium",
+      "topic": "Testing prototypes",
+      "slo": "Identify, explain and apply concepts related to testing prototypes."
+    },
+    {
+      "id": "CS11CH08-209",
+      "q": "What should a test report contain?",
+      "o": [
+        "Unverified claims of perfection",
+        "Objectives, observations, issues and recommended changes",
+        "None of these choices is correct",
+        "Only decorative images"
+      ],
+      "a": 1,
+      "e": "Test reports communicate evidence and next steps.",
+      "d": "Easy",
+      "topic": "Testing prototypes",
+      "slo": "Identify, explain and apply concepts related to testing prototypes."
+    },
+    {
+      "id": "CS11CH08-210",
+      "q": "In an entrepreneurship and product-development lesson, answer: What should a test report contain?",
+      "o": [
+        "None of these choices is correct",
+        "Only decorative images",
+        "Objectives, observations, issues and recommended changes",
+        "Unverified claims of perfection"
+      ],
+      "a": 2,
+      "e": "Test reports communicate evidence and next steps.",
+      "d": "Medium",
+      "topic": "Testing prototypes",
+      "slo": "Identify, explain and apply concepts related to testing prototypes."
+    },
+    {
+      "id": "CS11CH08-211",
+      "q": "What is a test iteration?",
+      "o": [
+        "A repeated evaluation after design changes",
+        "A replacement for all requirements",
+        "None of these choices is correct",
+        "A financial transaction"
+      ],
+      "a": 0,
+      "e": "Retesting checks whether revisions improved the product.",
+      "d": "Easy",
+      "topic": "Testing prototypes",
+      "slo": "Identify, explain and apply concepts related to testing prototypes."
+    },
+    {
+      "id": "CS11CH08-212",
+      "q": "In an entrepreneurship and product-development lesson, answer: What is a test iteration?",
+      "o": [
+        "A replacement for all requirements",
+        "A repeated evaluation after design changes",
+        "None of these choices is correct",
+        "A financial transaction"
+      ],
+      "a": 1,
+      "e": "Retesting checks whether revisions improved the product.",
+      "d": "Medium",
+      "topic": "Testing prototypes",
+      "slo": "Identify, explain and apply concepts related to testing prototypes."
+    },
+    {
+      "id": "CS11CH08-213",
+      "q": "What does interpreting test results involve?",
+      "o": [
+        "None of these choices is correct",
+        "Ignoring unexpected outcomes",
+        "Copying data without analysis",
+        "Finding patterns and deciding what they imply for design"
+      ],
+      "a": 3,
+      "e": "Interpretation connects evidence to design decisions.",
+      "d": "Easy",
+      "topic": "Testing prototypes",
+      "slo": "Identify, explain and apply concepts related to testing prototypes."
+    },
+    {
+      "id": "CS11CH08-214",
+      "q": "In an entrepreneurship and product-development lesson, answer: What does interpreting test results involve?",
+      "o": [
+        "Ignoring unexpected outcomes",
+        "Copying data without analysis",
+        "None of these choices is correct",
+        "Finding patterns and deciding what they imply for design"
+      ],
+      "a": 3,
+      "e": "Interpretation connects evidence to design decisions.",
+      "d": "Medium",
+      "topic": "Testing prototypes",
+      "slo": "Identify, explain and apply concepts related to testing prototypes."
+    },
+    {
+      "id": "CS11CH08-215",
+      "q": "What is a severity rating for defects?",
+      "o": [
+        "None of these choices is correct",
+        "The number of project meetings",
+        "The color of a button",
+        "A measure of how strongly an issue affects users or operation"
+      ],
+      "a": 3,
+      "e": "Severity helps prioritize repairs.",
+      "d": "Easy",
+      "topic": "Testing prototypes",
+      "slo": "Identify, explain and apply concepts related to testing prototypes."
+    },
+    {
+      "id": "CS11CH08-216",
+      "q": "In an entrepreneurship and product-development lesson, answer: What is a severity rating for defects?",
+      "o": [
+        "None of these choices is correct",
+        "A measure of how strongly an issue affects users or operation",
+        "The number of project meetings",
+        "The color of a button"
+      ],
+      "a": 1,
+      "e": "Severity helps prioritize repairs.",
+      "d": "Medium",
+      "topic": "Testing prototypes",
+      "slo": "Identify, explain and apply concepts related to testing prototypes."
+    },
+    {
+      "id": "CS11CH08-217",
+      "q": "What is an acceptance criterion?",
+      "o": [
+        "A random design preference",
+        "A condition that must be met for a feature to be accepted",
+        "Only a product photograph",
+        "None of these choices is correct"
+      ],
+      "a": 1,
+      "e": "Acceptance criteria define measurable expectations.",
+      "d": "Easy",
+      "topic": "Testing prototypes",
+      "slo": "Identify, explain and apply concepts related to testing prototypes."
+    },
+    {
+      "id": "CS11CH08-218",
+      "q": "In an entrepreneurship and product-development lesson, answer: What is an acceptance criterion?",
+      "o": [
+        "None of these choices is correct",
+        "A condition that must be met for a feature to be accepted",
+        "Only a product photograph",
+        "A random design preference"
+      ],
+      "a": 1,
+      "e": "Acceptance criteria define measurable expectations.",
+      "d": "Medium",
+      "topic": "Testing prototypes",
+      "slo": "Identify, explain and apply concepts related to testing prototypes."
+    },
+    {
+      "id": "CS11CH08-219",
+      "q": "Why test prototypes before launch?",
+      "o": [
+        "None of these choices is correct",
+        "To avoid planning the product",
+        "To ensure no customer will ever complain",
+        "To reduce the risk of releasing serious problems"
+      ],
+      "a": 3,
+      "e": "Early testing can reveal problems before public release.",
+      "d": "Easy",
+      "topic": "Testing prototypes",
+      "slo": "Identify, explain and apply concepts related to testing prototypes."
+    },
+    {
+      "id": "CS11CH08-220",
+      "q": "In an entrepreneurship and product-development lesson, answer: Why test prototypes before launch?",
+      "o": [
+        "To reduce the risk of releasing serious problems",
+        "To avoid planning the product",
+        "None of these choices is correct",
+        "To ensure no customer will ever complain"
+      ],
+      "a": 0,
+      "e": "Early testing can reveal problems before public release.",
+      "d": "Medium",
+      "topic": "Testing prototypes",
+      "slo": "Identify, explain and apply concepts related to testing prototypes."
+    },
+    {
+      "id": "CS11CH08-221",
+      "q": "What does MVP stand for in product development?",
+      "o": [
+        "Minimum viable product",
+        "None of these choices is correct",
+        "Maximum verified profit",
+        "Managed virtual platform"
+      ],
+      "a": 0,
+      "e": "MVP means minimum viable product.",
+      "d": "Easy",
+      "topic": "Minimum viable product and launch",
+      "slo": "Identify, explain and apply concepts related to minimum viable product and launch."
+    },
+    {
+      "id": "CS11CH08-222",
+      "q": "In an entrepreneurship and product-development lesson, answer: What does MVP stand for in product development?",
+      "o": [
+        "Maximum verified profit",
+        "None of these choices is correct",
+        "Minimum viable product",
+        "Managed virtual platform"
+      ],
+      "a": 2,
+      "e": "MVP means minimum viable product.",
+      "d": "Medium",
+      "topic": "Minimum viable product and launch",
+      "slo": "Identify, explain and apply concepts related to minimum viable product and launch."
+    },
+    {
+      "id": "CS11CH08-223",
+      "q": "What is an MVP?",
+      "o": [
+        "A usable version with essential features for learning from customers",
+        "Only an advertisement with no product",
+        "A product with every possible feature",
+        "None of these choices is correct"
+      ],
+      "a": 0,
+      "e": "An MVP delivers core value while testing assumptions.",
+      "d": "Easy",
+      "topic": "Minimum viable product and launch",
+      "slo": "Identify, explain and apply concepts related to minimum viable product and launch."
+    },
+    {
+      "id": "CS11CH08-224",
+      "q": "In an entrepreneurship and product-development lesson, answer: What is an MVP?",
+      "o": [
+        "Only an advertisement with no product",
+        "None of these choices is correct",
+        "A product with every possible feature",
+        "A usable version with essential features for learning from customers"
+      ],
+      "a": 3,
+      "e": "An MVP delivers core value while testing assumptions.",
+      "d": "Medium",
+      "topic": "Minimum viable product and launch",
+      "slo": "Identify, explain and apply concepts related to minimum viable product and launch."
+    },
+    {
+      "id": "CS11CH08-225",
+      "q": "Why build an MVP?",
+      "o": [
+        "To guarantee instant market leadership",
+        "To validate demand with limited initial investment",
+        "To avoid listening to users",
+        "None of these choices is correct"
+      ],
+      "a": 1,
+      "e": "MVPs help test whether a solution meets customer needs.",
+      "d": "Easy",
+      "topic": "Minimum viable product and launch",
+      "slo": "Identify, explain and apply concepts related to minimum viable product and launch."
+    },
+    {
+      "id": "CS11CH08-226",
+      "q": "In an entrepreneurship and product-development lesson, answer: Why build an MVP?",
+      "o": [
+        "To validate demand with limited initial investment",
+        "To avoid listening to users",
+        "To guarantee instant market leadership",
+        "None of these choices is correct"
+      ],
+      "a": 0,
+      "e": "MVPs help test whether a solution meets customer needs.",
+      "d": "Medium",
+      "topic": "Minimum viable product and launch",
+      "slo": "Identify, explain and apply concepts related to minimum viable product and launch."
+    },
+    {
+      "id": "CS11CH08-227",
+      "q": "How is an MVP different from a prototype?",
+      "o": [
+        "An MVP is usable by early customers while prototypes may only simulate ideas",
+        "None of these choices is correct",
+        "A prototype must always earn revenue",
+        "An MVP cannot be tested"
+      ],
+      "a": 0,
+      "e": "MVPs deliver minimum usable value in a real setting.",
+      "d": "Easy",
+      "topic": "Minimum viable product and launch",
+      "slo": "Identify, explain and apply concepts related to minimum viable product and launch."
+    },
+    {
+      "id": "CS11CH08-228",
+      "q": "In an entrepreneurship and product-development lesson, answer: How is an MVP different from a prototype?",
+      "o": [
+        "A prototype must always earn revenue",
+        "None of these choices is correct",
+        "An MVP is usable by early customers while prototypes may only simulate ideas",
+        "An MVP cannot be tested"
+      ],
+      "a": 2,
+      "e": "MVPs deliver minimum usable value in a real setting.",
+      "d": "Medium",
+      "topic": "Minimum viable product and launch",
+      "slo": "Identify, explain and apply concepts related to minimum viable product and launch."
+    },
+    {
+      "id": "CS11CH08-229",
+      "q": "What is the main purpose of MVP feedback?",
+      "o": [
+        "To guide the next product improvement",
+        "To stop development permanently",
+        "None of these choices is correct",
+        "To prove every initial assumption correct"
+      ],
+      "a": 0,
+      "e": "Early user evidence informs future versions.",
+      "d": "Easy",
+      "topic": "Minimum viable product and launch",
+      "slo": "Identify, explain and apply concepts related to minimum viable product and launch."
+    },
+    {
+      "id": "CS11CH08-230",
+      "q": "In an entrepreneurship and product-development lesson, answer: What is the main purpose of MVP feedback?",
+      "o": [
+        "To stop development permanently",
+        "None of these choices is correct",
+        "To prove every initial assumption correct",
+        "To guide the next product improvement"
+      ],
+      "a": 3,
+      "e": "Early user evidence informs future versions.",
+      "d": "Medium",
+      "topic": "Minimum viable product and launch",
+      "slo": "Identify, explain and apply concepts related to minimum viable product and launch."
+    },
+    {
+      "id": "CS11CH08-231",
+      "q": "What is a product launch?",
+      "o": [
+        "Only drawing an initial sketch",
+        "Deleting the product roadmap",
+        "Making an offering available to its intended market",
+        "None of these choices is correct"
+      ],
+      "a": 2,
+      "e": "Launch introduces a product to users or customers.",
+      "d": "Easy",
+      "topic": "Minimum viable product and launch",
+      "slo": "Identify, explain and apply concepts related to minimum viable product and launch."
+    },
+    {
+      "id": "CS11CH08-232",
+      "q": "In an entrepreneurship and product-development lesson, answer: What is a product launch?",
+      "o": [
+        "Making an offering available to its intended market",
+        "Only drawing an initial sketch",
+        "None of these choices is correct",
+        "Deleting the product roadmap"
+      ],
+      "a": 0,
+      "e": "Launch introduces a product to users or customers.",
+      "d": "Medium",
+      "topic": "Minimum viable product and launch",
+      "slo": "Identify, explain and apply concepts related to minimum viable product and launch."
+    },
+    {
+      "id": "CS11CH08-233",
+      "q": "What is a soft launch?",
+      "o": [
+        "An automatic worldwide launch",
+        "A release with no users at all",
+        "None of these choices is correct",
+        "A limited release used to learn before a wider rollout"
+      ],
+      "a": 3,
+      "e": "Soft launches test products with a smaller audience.",
+      "d": "Easy",
+      "topic": "Minimum viable product and launch",
+      "slo": "Identify, explain and apply concepts related to minimum viable product and launch."
+    },
+    {
+      "id": "CS11CH08-234",
+      "q": "In an entrepreneurship and product-development lesson, answer: What is a soft launch?",
+      "o": [
+        "A release with no users at all",
+        "None of these choices is correct",
+        "An automatic worldwide launch",
+        "A limited release used to learn before a wider rollout"
+      ],
+      "a": 3,
+      "e": "Soft launches test products with a smaller audience.",
+      "d": "Medium",
+      "topic": "Minimum viable product and launch",
+      "slo": "Identify, explain and apply concepts related to minimum viable product and launch."
+    },
+    {
+      "id": "CS11CH08-235",
+      "q": "What is a beta release?",
+      "o": [
+        "None of these choices is correct",
+        "A pre-final version shared for broader real-world testing",
+        "Only a paper prototype",
+        "A product that cannot be modified"
+      ],
+      "a": 1,
+      "e": "Beta releases collect feedback from actual use.",
+      "d": "Easy",
+      "topic": "Minimum viable product and launch",
+      "slo": "Identify, explain and apply concepts related to minimum viable product and launch."
+    },
+    {
+      "id": "CS11CH08-236",
+      "q": "In an entrepreneurship and product-development lesson, answer: What is a beta release?",
+      "o": [
+        "Only a paper prototype",
+        "A pre-final version shared for broader real-world testing",
+        "A product that cannot be modified",
+        "None of these choices is correct"
+      ],
+      "a": 1,
+      "e": "Beta releases collect feedback from actual use.",
+      "d": "Medium",
+      "topic": "Minimum viable product and launch",
+      "slo": "Identify, explain and apply concepts related to minimum viable product and launch."
+    },
+    {
+      "id": "CS11CH08-237",
+      "q": "What is a launch plan?",
+      "o": [
+        "None of these choices is correct",
+        "A random collection of icons",
+        "A schedule of activities and responsibilities for release",
+        "Only a password list"
+      ],
+      "a": 2,
+      "e": "Planning coordinates preparation and release.",
+      "d": "Easy",
+      "topic": "Minimum viable product and launch",
+      "slo": "Identify, explain and apply concepts related to minimum viable product and launch."
+    },
+    {
+      "id": "CS11CH08-238",
+      "q": "In an entrepreneurship and product-development lesson, answer: What is a launch plan?",
+      "o": [
+        "Only a password list",
+        "A schedule of activities and responsibilities for release",
+        "A random collection of icons",
+        "None of these choices is correct"
+      ],
+      "a": 1,
+      "e": "Planning coordinates preparation and release.",
+      "d": "Medium",
+      "topic": "Minimum viable product and launch",
+      "slo": "Identify, explain and apply concepts related to minimum viable product and launch."
+    },
+    {
+      "id": "CS11CH08-239",
+      "q": "Why define success metrics for an MVP?",
+      "o": [
+        "To guarantee that all metrics improve",
+        "To replace customer feedback",
+        "To judge whether core assumptions are supported",
+        "None of these choices is correct"
+      ],
+      "a": 2,
+      "e": "Metrics show whether the MVP achieves learning goals.",
+      "d": "Easy",
+      "topic": "Minimum viable product and launch",
+      "slo": "Identify, explain and apply concepts related to minimum viable product and launch."
+    },
+    {
+      "id": "CS11CH08-240",
+      "q": "In an entrepreneurship and product-development lesson, answer: Why define success metrics for an MVP?",
+      "o": [
+        "To guarantee that all metrics improve",
+        "To replace customer feedback",
+        "None of these choices is correct",
+        "To judge whether core assumptions are supported"
+      ],
+      "a": 3,
+      "e": "Metrics show whether the MVP achieves learning goals.",
+      "d": "Medium",
+      "topic": "Minimum viable product and launch",
+      "slo": "Identify, explain and apply concepts related to minimum viable product and launch."
+    },
+    {
+      "id": "CS11CH08-241",
+      "q": "What is user adoption?",
+      "o": [
+        "A prototype drawing",
+        "Only the total size of source code",
+        "People beginning to use a product",
+        "None of these choices is correct"
+      ],
+      "a": 2,
+      "e": "Adoption measures uptake among intended users.",
+      "d": "Easy",
+      "topic": "Minimum viable product and launch",
+      "slo": "Identify, explain and apply concepts related to minimum viable product and launch."
+    },
+    {
+      "id": "CS11CH08-242",
+      "q": "In an entrepreneurship and product-development lesson, answer: What is user adoption?",
+      "o": [
+        "People beginning to use a product",
+        "A prototype drawing",
+        "Only the total size of source code",
+        "None of these choices is correct"
+      ],
+      "a": 0,
+      "e": "Adoption measures uptake among intended users.",
+      "d": "Medium",
+      "topic": "Minimum viable product and launch",
+      "slo": "Identify, explain and apply concepts related to minimum viable product and launch."
+    },
+    {
+      "id": "CS11CH08-243",
+      "q": "What is customer retention?",
+      "o": [
+        "The ability to keep users returning over time",
+        "None of these choices is correct",
+        "Only the first website visit",
+        "The number of unused product names"
+      ],
+      "a": 0,
+      "e": "Retention indicates whether users continue finding value.",
+      "d": "Easy",
+      "topic": "Minimum viable product and launch",
+      "slo": "Identify, explain and apply concepts related to minimum viable product and launch."
+    },
+    {
+      "id": "CS11CH08-244",
+      "q": "In an entrepreneurship and product-development lesson, answer: What is customer retention?",
+      "o": [
+        "The ability to keep users returning over time",
+        "The number of unused product names",
+        "None of these choices is correct",
+        "Only the first website visit"
+      ],
+      "a": 0,
+      "e": "Retention indicates whether users continue finding value.",
+      "d": "Medium",
+      "topic": "Minimum viable product and launch",
+      "slo": "Identify, explain and apply concepts related to minimum viable product and launch."
+    },
+    {
+      "id": "CS11CH08-245",
+      "q": "What is a conversion rate?",
+      "o": [
+        "None of these choices is correct",
+        "A count of all app colors",
+        "A network cable length",
+        "The proportion of users who complete a desired action"
+      ],
+      "a": 3,
+      "e": "Conversion tracks a defined goal such as sign-up or purchase.",
+      "d": "Easy",
+      "topic": "Minimum viable product and launch",
+      "slo": "Identify, explain and apply concepts related to minimum viable product and launch."
+    },
+    {
+      "id": "CS11CH08-246",
+      "q": "In an entrepreneurship and product-development lesson, answer: What is a conversion rate?",
+      "o": [
+        "The proportion of users who complete a desired action",
+        "None of these choices is correct",
+        "A count of all app colors",
+        "A network cable length"
+      ],
+      "a": 0,
+      "e": "Conversion tracks a defined goal such as sign-up or purchase.",
+      "d": "Medium",
+      "topic": "Minimum viable product and launch",
+      "slo": "Identify, explain and apply concepts related to minimum viable product and launch."
+    },
+    {
+      "id": "CS11CH08-247",
+      "q": "What is a product roadmap?",
+      "o": [
+        "A list of unrelated phone numbers",
+        "None of these choices is correct",
+        "A plan outlining future product goals and improvements",
+        "A physical map of a factory only"
+      ],
+      "a": 2,
+      "e": "Roadmaps guide development priorities.",
+      "d": "Easy",
+      "topic": "Minimum viable product and launch",
+      "slo": "Identify, explain and apply concepts related to minimum viable product and launch."
+    },
+    {
+      "id": "CS11CH08-248",
+      "q": "In an entrepreneurship and product-development lesson, answer: What is a product roadmap?",
+      "o": [
+        "A list of unrelated phone numbers",
+        "A plan outlining future product goals and improvements",
+        "None of these choices is correct",
+        "A physical map of a factory only"
+      ],
+      "a": 1,
+      "e": "Roadmaps guide development priorities.",
+      "d": "Medium",
+      "topic": "Minimum viable product and launch",
+      "slo": "Identify, explain and apply concepts related to minimum viable product and launch."
+    },
+    {
+      "id": "CS11CH08-249",
+      "q": "Why monitor a launched MVP?",
+      "o": [
+        "To assume users will never change",
+        "To avoid any updates",
+        "To identify real-world issues and changing user needs",
+        "None of these choices is correct"
+      ],
+      "a": 2,
+      "e": "Monitoring supplies evidence for ongoing improvement.",
+      "d": "Easy",
+      "topic": "Minimum viable product and launch",
+      "slo": "Identify, explain and apply concepts related to minimum viable product and launch."
+    },
+    {
+      "id": "CS11CH08-250",
+      "q": "In an entrepreneurship and product-development lesson, answer: Why monitor a launched MVP?",
+      "o": [
+        "To assume users will never change",
+        "None of these choices is correct",
+        "To identify real-world issues and changing user needs",
+        "To avoid any updates"
+      ],
+      "a": 2,
+      "e": "Monitoring supplies evidence for ongoing improvement.",
+      "d": "Medium",
+      "topic": "Minimum viable product and launch",
+      "slo": "Identify, explain and apply concepts related to minimum viable product and launch."
+    },
+    {
+      "id": "CS11CH08-251",
+      "q": "What is scaling a product?",
+      "o": [
+        "Expanding capacity or reach to serve more users",
+        "Keeping a service permanently offline",
+        "Removing the main feature",
+        "None of these choices is correct"
+      ],
+      "a": 0,
+      "e": "Scaling supports growth in demand.",
+      "d": "Easy",
+      "topic": "Minimum viable product and launch",
+      "slo": "Identify, explain and apply concepts related to minimum viable product and launch."
+    },
+    {
+      "id": "CS11CH08-252",
+      "q": "In an entrepreneurship and product-development lesson, answer: What is scaling a product?",
+      "o": [
+        "Keeping a service permanently offline",
+        "Removing the main feature",
+        "None of these choices is correct",
+        "Expanding capacity or reach to serve more users"
+      ],
+      "a": 3,
+      "e": "Scaling supports growth in demand.",
+      "d": "Medium",
+      "topic": "Minimum viable product and launch",
+      "slo": "Identify, explain and apply concepts related to minimum viable product and launch."
+    },
+    {
+      "id": "CS11CH08-253",
+      "q": "What is a go-to-market strategy?",
+      "o": [
+        "None of these choices is correct",
+        "A plan for reaching customers and delivering an offering",
+        "A list of employee birthdays",
+        "Only the source code repository"
+      ],
+      "a": 1,
+      "e": "Go-to-market planning covers audience, channels and positioning.",
+      "d": "Easy",
+      "topic": "Minimum viable product and launch",
+      "slo": "Identify, explain and apply concepts related to minimum viable product and launch."
+    },
+    {
+      "id": "CS11CH08-254",
+      "q": "In an entrepreneurship and product-development lesson, answer: What is a go-to-market strategy?",
+      "o": [
+        "None of these choices is correct",
+        "A plan for reaching customers and delivering an offering",
+        "A list of employee birthdays",
+        "Only the source code repository"
+      ],
+      "a": 1,
+      "e": "Go-to-market planning covers audience, channels and positioning.",
+      "d": "Medium",
+      "topic": "Minimum viable product and launch",
+      "slo": "Identify, explain and apply concepts related to minimum viable product and launch."
+    },
+    {
+      "id": "CS11CH08-255",
+      "q": "What is a pivot in entrepreneurship?",
+      "o": [
+        "A permanent ban on customer interviews",
+        "None of these choices is correct",
+        "A random color adjustment",
+        "A significant change in approach based on learning"
+      ],
+      "a": 3,
+      "e": "A pivot changes strategy when evidence suggests a better direction.",
+      "d": "Easy",
+      "topic": "Minimum viable product and launch",
+      "slo": "Identify, explain and apply concepts related to minimum viable product and launch."
+    },
+    {
+      "id": "CS11CH08-256",
+      "q": "In an entrepreneurship and product-development lesson, answer: What is a pivot in entrepreneurship?",
+      "o": [
+        "A significant change in approach based on learning",
+        "None of these choices is correct",
+        "A permanent ban on customer interviews",
+        "A random color adjustment"
+      ],
+      "a": 0,
+      "e": "A pivot changes strategy when evidence suggests a better direction.",
+      "d": "Medium",
+      "topic": "Minimum viable product and launch",
+      "slo": "Identify, explain and apply concepts related to minimum viable product and launch."
+    },
+    {
+      "id": "CS11CH08-257",
+      "q": "What is a minimum feature set?",
+      "o": [
+        "None of these choices is correct",
+        "Only decorative animations",
+        "The smallest collection of functions needed to deliver core value",
+        "Every feature suggested by anyone"
+      ],
+      "a": 2,
+      "e": "Minimum features allow focused validation.",
+      "d": "Easy",
+      "topic": "Minimum viable product and launch",
+      "slo": "Identify, explain and apply concepts related to minimum viable product and launch."
+    },
+    {
+      "id": "CS11CH08-258",
+      "q": "In an entrepreneurship and product-development lesson, answer: What is a minimum feature set?",
+      "o": [
+        "None of these choices is correct",
+        "Only decorative animations",
+        "Every feature suggested by anyone",
+        "The smallest collection of functions needed to deliver core value"
+      ],
+      "a": 3,
+      "e": "Minimum features allow focused validation.",
+      "d": "Medium",
+      "topic": "Minimum viable product and launch",
+      "slo": "Identify, explain and apply concepts related to minimum viable product and launch."
+    },
+    {
+      "id": "CS11CH08-259",
+      "q": "Why avoid overbuilding before testing demand?",
+      "o": [
+        "More features always guarantee success",
+        "Customers never change their needs",
+        "Unneeded features can waste time and resources",
+        "None of these choices is correct"
+      ],
+      "a": 2,
+      "e": "Early validation reduces unnecessary development.",
+      "d": "Easy",
+      "topic": "Minimum viable product and launch",
+      "slo": "Identify, explain and apply concepts related to minimum viable product and launch."
+    },
+    {
+      "id": "CS11CH08-260",
+      "q": "In an entrepreneurship and product-development lesson, answer: Why avoid overbuilding before testing demand?",
+      "o": [
+        "More features always guarantee success",
+        "None of these choices is correct",
+        "Unneeded features can waste time and resources",
+        "Customers never change their needs"
+      ],
+      "a": 2,
+      "e": "Early validation reduces unnecessary development.",
+      "d": "Medium",
+      "topic": "Minimum viable product and launch",
+      "slo": "Identify, explain and apply concepts related to minimum viable product and launch."
+    },
+    {
+      "id": "CS11CH08-261",
+      "q": "What is a business plan?",
+      "o": [
+        "None of these choices is correct",
+        "A document describing objectives, customers, operations and finances",
+        "Only a company logo",
+        "A computer motherboard diagram"
+      ],
+      "a": 1,
+      "e": "Business plans organize a venture's strategy.",
+      "d": "Easy",
+      "topic": "Business models and case studies",
+      "slo": "Identify, explain and apply concepts related to business models and case studies."
+    },
+    {
+      "id": "CS11CH08-262",
+      "q": "In an entrepreneurship and product-development lesson, answer: What is a business plan?",
+      "o": [
+        "A document describing objectives, customers, operations and finances",
+        "Only a company logo",
+        "A computer motherboard diagram",
+        "None of these choices is correct"
+      ],
+      "a": 0,
+      "e": "Business plans organize a venture's strategy.",
+      "d": "Medium",
+      "topic": "Business models and case studies",
+      "slo": "Identify, explain and apply concepts related to business models and case studies."
+    },
+    {
+      "id": "CS11CH08-263",
+      "q": "What is revenue?",
+      "o": [
+        "Money earned from selling goods or services",
+        "None of these choices is correct",
+        "The cost of office furniture",
+        "Only the number of visitors to a website"
+      ],
+      "a": 0,
+      "e": "Revenue is income generated by business activity.",
+      "d": "Easy",
+      "topic": "Business models and case studies",
+      "slo": "Identify, explain and apply concepts related to business models and case studies."
+    },
+    {
+      "id": "CS11CH08-264",
+      "q": "In an entrepreneurship and product-development lesson, answer: What is revenue?",
+      "o": [
+        "None of these choices is correct",
+        "Money earned from selling goods or services",
+        "Only the number of visitors to a website",
+        "The cost of office furniture"
+      ],
+      "a": 1,
+      "e": "Revenue is income generated by business activity.",
+      "d": "Medium",
+      "topic": "Business models and case studies",
+      "slo": "Identify, explain and apply concepts related to business models and case studies."
+    },
+    {
+      "id": "CS11CH08-265",
+      "q": "What is a cost in business?",
+      "o": [
+        "A customer review",
+        "None of these choices is correct",
+        "A guarantee of profit",
+        "A resource expense needed to operate or produce"
+      ],
+      "a": 3,
+      "e": "Costs include materials, salaries and hosting.",
+      "d": "Easy",
+      "topic": "Business models and case studies",
+      "slo": "Identify, explain and apply concepts related to business models and case studies."
+    },
+    {
+      "id": "CS11CH08-266",
+      "q": "In an entrepreneurship and product-development lesson, answer: What is a cost in business?",
+      "o": [
+        "A customer review",
+        "A guarantee of profit",
+        "None of these choices is correct",
+        "A resource expense needed to operate or produce"
+      ],
+      "a": 3,
+      "e": "Costs include materials, salaries and hosting.",
+      "d": "Medium",
+      "topic": "Business models and case studies",
+      "slo": "Identify, explain and apply concepts related to business models and case studies."
+    },
+    {
+      "id": "CS11CH08-267",
+      "q": "What is profit?",
+      "o": [
+        "Revenue remaining after relevant costs are deducted",
+        "Only the number of customers",
+        "All revenue without considering expenses",
+        "None of these choices is correct"
+      ],
+      "a": 0,
+      "e": "Profit depends on the difference between income and costs.",
+      "d": "Easy",
+      "topic": "Business models and case studies",
+      "slo": "Identify, explain and apply concepts related to business models and case studies."
+    },
+    {
+      "id": "CS11CH08-268",
+      "q": "In an entrepreneurship and product-development lesson, answer: What is profit?",
+      "o": [
+        "All revenue without considering expenses",
+        "None of these choices is correct",
+        "Only the number of customers",
+        "Revenue remaining after relevant costs are deducted"
+      ],
+      "a": 3,
+      "e": "Profit depends on the difference between income and costs.",
+      "d": "Medium",
+      "topic": "Business models and case studies",
+      "slo": "Identify, explain and apply concepts related to business models and case studies."
+    },
+    {
+      "id": "CS11CH08-269",
+      "q": "What is a subscription business model?",
+      "o": [
+        "Every customer receives everything free forever",
+        "None of these choices is correct",
+        "Products can be sold only once",
+        "Customers pay repeatedly for continuing access or service"
+      ],
+      "a": 3,
+      "e": "Subscriptions generate recurring payments.",
+      "d": "Easy",
+      "topic": "Business models and case studies",
+      "slo": "Identify, explain and apply concepts related to business models and case studies."
+    },
+    {
+      "id": "CS11CH08-270",
+      "q": "In an entrepreneurship and product-development lesson, answer: What is a subscription business model?",
+      "o": [
+        "Products can be sold only once",
+        "None of these choices is correct",
+        "Customers pay repeatedly for continuing access or service",
+        "Every customer receives everything free forever"
+      ],
+      "a": 2,
+      "e": "Subscriptions generate recurring payments.",
+      "d": "Medium",
+      "topic": "Business models and case studies",
+      "slo": "Identify, explain and apply concepts related to business models and case studies."
+    },
+    {
+      "id": "CS11CH08-271",
+      "q": "What is a one-time purchase model?",
+      "o": [
+        "Customers must pay every hour forever",
+        "None of these choices is correct",
+        "Customers pay once for a specified product or service",
+        "A business without any customers"
+      ],
+      "a": 2,
+      "e": "One-time purchases involve a single transaction for an offering.",
+      "d": "Easy",
+      "topic": "Business models and case studies",
+      "slo": "Identify, explain and apply concepts related to business models and case studies."
+    },
+    {
+      "id": "CS11CH08-272",
+      "q": "In an entrepreneurship and product-development lesson, answer: What is a one-time purchase model?",
+      "o": [
+        "Customers must pay every hour forever",
+        "A business without any customers",
+        "Customers pay once for a specified product or service",
+        "None of these choices is correct"
+      ],
+      "a": 2,
+      "e": "One-time purchases involve a single transaction for an offering.",
+      "d": "Medium",
+      "topic": "Business models and case studies",
+      "slo": "Identify, explain and apply concepts related to business models and case studies."
+    },
+    {
+      "id": "CS11CH08-273",
+      "q": "What is a freemium model?",
+      "o": [
+        "Every feature requires no payment",
+        "Only physical goods are offered",
+        "None of these choices is correct",
+        "Basic access is free while advanced features are paid"
+      ],
+      "a": 3,
+      "e": "Freemium combines a free tier with paid upgrades.",
+      "d": "Easy",
+      "topic": "Business models and case studies",
+      "slo": "Identify, explain and apply concepts related to business models and case studies."
+    },
+    {
+      "id": "CS11CH08-274",
+      "q": "In an entrepreneurship and product-development lesson, answer: What is a freemium model?",
+      "o": [
+        "Every feature requires no payment",
+        "Basic access is free while advanced features are paid",
+        "None of these choices is correct",
+        "Only physical goods are offered"
+      ],
+      "a": 1,
+      "e": "Freemium combines a free tier with paid upgrades.",
+      "d": "Medium",
+      "topic": "Business models and case studies",
+      "slo": "Identify, explain and apply concepts related to business models and case studies."
+    },
+    {
+      "id": "CS11CH08-275",
+      "q": "What is a stakeholder?",
+      "o": [
+        "None of these choices is correct",
+        "A person or group affected by or interested in a venture",
+        "Only the product packaging",
+        "A software keyboard shortcut"
+      ],
+      "a": 1,
+      "e": "Stakeholders include users, owners and partners.",
+      "d": "Easy",
+      "topic": "Business models and case studies",
+      "slo": "Identify, explain and apply concepts related to business models and case studies."
+    },
+    {
+      "id": "CS11CH08-276",
+      "q": "In an entrepreneurship and product-development lesson, answer: What is a stakeholder?",
+      "o": [
+        "None of these choices is correct",
+        "A person or group affected by or interested in a venture",
+        "Only the product packaging",
+        "A software keyboard shortcut"
+      ],
+      "a": 1,
+      "e": "Stakeholders include users, owners and partners.",
+      "d": "Medium",
+      "topic": "Business models and case studies",
+      "slo": "Identify, explain and apply concepts related to business models and case studies."
+    },
+    {
+      "id": "CS11CH08-277",
+      "q": "What does the textbook's Pakistani entrepreneur case study illustrate?",
+      "o": [
+        "That prototypes are unnecessary",
+        "How local entrepreneurs can identify needs and develop offerings",
+        "That only imported businesses can innovate",
+        "None of these choices is correct"
+      ],
+      "a": 1,
+      "e": "The case study connects product development with local entrepreneurship.",
+      "d": "Easy",
+      "topic": "Business models and case studies",
+      "slo": "Identify, explain and apply concepts related to business models and case studies."
+    },
+    {
+      "id": "CS11CH08-278",
+      "q": "In an entrepreneurship and product-development lesson, answer: What does the textbook's Pakistani entrepreneur case study illustrate?",
+      "o": [
+        "None of these choices is correct",
+        "That only imported businesses can innovate",
+        "How local entrepreneurs can identify needs and develop offerings",
+        "That prototypes are unnecessary"
+      ],
+      "a": 2,
+      "e": "The case study connects product development with local entrepreneurship.",
+      "d": "Medium",
+      "topic": "Business models and case studies",
+      "slo": "Identify, explain and apply concepts related to business models and case studies."
+    },
+    {
+      "id": "CS11CH08-279",
+      "q": "Why study real startup case examples?",
+      "o": [
+        "To assume every startup follows an identical path",
+        "To learn how ideas, feedback and iteration work in practice",
+        "To avoid evaluating risks",
+        "None of these choices is correct"
+      ],
+      "a": 1,
+      "e": "Cases show practical decisions and challenges.",
+      "d": "Easy",
+      "topic": "Business models and case studies",
+      "slo": "Identify, explain and apply concepts related to business models and case studies."
+    },
+    {
+      "id": "CS11CH08-280",
+      "q": "In an entrepreneurship and product-development lesson, answer: Why study real startup case examples?",
+      "o": [
+        "To assume every startup follows an identical path",
+        "To avoid evaluating risks",
+        "To learn how ideas, feedback and iteration work in practice",
+        "None of these choices is correct"
+      ],
+      "a": 2,
+      "e": "Cases show practical decisions and challenges.",
+      "d": "Medium",
+      "topic": "Business models and case studies",
+      "slo": "Identify, explain and apply concepts related to business models and case studies."
+    },
+    {
+      "id": "CS11CH08-281",
+      "q": "What is a unique selling proposition?",
+      "o": [
+        "A mandatory computer file extension",
+        "A fixed government tax rate",
+        "A distinctive reason customers might choose one offering",
+        "None of these choices is correct"
+      ],
+      "a": 2,
+      "e": "A USP communicates meaningful differentiation.",
+      "d": "Easy",
+      "topic": "Business models and case studies",
+      "slo": "Identify, explain and apply concepts related to business models and case studies."
+    },
+    {
+      "id": "CS11CH08-282",
+      "q": "In an entrepreneurship and product-development lesson, answer: What is a unique selling proposition?",
+      "o": [
+        "A mandatory computer file extension",
+        "A distinctive reason customers might choose one offering",
+        "A fixed government tax rate",
+        "None of these choices is correct"
+      ],
+      "a": 1,
+      "e": "A USP communicates meaningful differentiation.",
+      "d": "Medium",
+      "topic": "Business models and case studies",
+      "slo": "Identify, explain and apply concepts related to business models and case studies."
+    },
+    {
+      "id": "CS11CH08-283",
+      "q": "What is a startup?",
+      "o": [
+        "A new venture seeking a workable and scalable business approach",
+        "A type of network router",
+        "None of these choices is correct",
+        "Only a very large government department"
+      ],
+      "a": 0,
+      "e": "Startups explore solutions and business opportunities.",
+      "d": "Easy",
+      "topic": "Business models and case studies",
+      "slo": "Identify, explain and apply concepts related to business models and case studies."
+    },
+    {
+      "id": "CS11CH08-284",
+      "q": "In an entrepreneurship and product-development lesson, answer: What is a startup?",
+      "o": [
+        "Only a very large government department",
+        "None of these choices is correct",
+        "A new venture seeking a workable and scalable business approach",
+        "A type of network router"
+      ],
+      "a": 2,
+      "e": "Startups explore solutions and business opportunities.",
+      "d": "Medium",
+      "topic": "Business models and case studies",
+      "slo": "Identify, explain and apply concepts related to business models and case studies."
+    },
+    {
+      "id": "CS11CH08-285",
+      "q": "What is a risk in launching a new product?",
+      "o": [
+        "Uncertainty about demand, cost or performance",
+        "A guarantee of immediate success",
+        "None of these choices is correct",
+        "A fixed computer monitor size"
+      ],
+      "a": 0,
+      "e": "Entrepreneurs must evaluate uncertainty.",
+      "d": "Easy",
+      "topic": "Business models and case studies",
+      "slo": "Identify, explain and apply concepts related to business models and case studies."
+    },
+    {
+      "id": "CS11CH08-286",
+      "q": "In an entrepreneurship and product-development lesson, answer: What is a risk in launching a new product?",
+      "o": [
+        "A fixed computer monitor size",
+        "A guarantee of immediate success",
+        "Uncertainty about demand, cost or performance",
+        "None of these choices is correct"
+      ],
+      "a": 2,
+      "e": "Entrepreneurs must evaluate uncertainty.",
+      "d": "Medium",
+      "topic": "Business models and case studies",
+      "slo": "Identify, explain and apply concepts related to business models and case studies."
+    },
+    {
+      "id": "CS11CH08-287",
+      "q": "What is a break-even point?",
+      "o": [
+        "The sales level at which total revenue equals total costs",
+        "None of these choices is correct",
+        "A time when all customers leave",
+        "The point when no product is offered"
+      ],
+      "a": 0,
+      "e": "Break-even occurs when income covers expenses.",
+      "d": "Easy",
+      "topic": "Business models and case studies",
+      "slo": "Identify, explain and apply concepts related to business models and case studies."
+    },
+    {
+      "id": "CS11CH08-288",
+      "q": "In an entrepreneurship and product-development lesson, answer: What is a break-even point?",
+      "o": [
+        "The sales level at which total revenue equals total costs",
+        "The point when no product is offered",
+        "A time when all customers leave",
+        "None of these choices is correct"
+      ],
+      "a": 0,
+      "e": "Break-even occurs when income covers expenses.",
+      "d": "Medium",
+      "topic": "Business models and case studies",
+      "slo": "Identify, explain and apply concepts related to business models and case studies."
+    },
+    {
+      "id": "CS11CH08-289",
+      "q": "Why is customer support important after launch?",
+      "o": [
+        "It eliminates the need for a working product",
+        "It guarantees zero complaints",
+        "None of these choices is correct",
+        "It helps resolve problems and build trust"
+      ],
+      "a": 3,
+      "e": "Support improves user experience and retention.",
+      "d": "Easy",
+      "topic": "Business models and case studies",
+      "slo": "Identify, explain and apply concepts related to business models and case studies."
+    },
+    {
+      "id": "CS11CH08-290",
+      "q": "In an entrepreneurship and product-development lesson, answer: Why is customer support important after launch?",
+      "o": [
+        "It eliminates the need for a working product",
+        "It guarantees zero complaints",
+        "It helps resolve problems and build trust",
+        "None of these choices is correct"
+      ],
+      "a": 2,
+      "e": "Support improves user experience and retention.",
+      "d": "Medium",
+      "topic": "Business models and case studies",
+      "slo": "Identify, explain and apply concepts related to business models and case studies."
+    },
+    {
+      "id": "CS11CH08-291",
+      "q": "What is a marketing channel?",
+      "o": [
+        "None of these choices is correct",
+        "A battery connector",
+        "Only a programming variable",
+        "A way to communicate an offering to potential customers"
+      ],
+      "a": 3,
+      "e": "Channels include websites, social media and direct outreach.",
+      "d": "Easy",
+      "topic": "Business models and case studies",
+      "slo": "Identify, explain and apply concepts related to business models and case studies."
+    },
+    {
+      "id": "CS11CH08-292",
+      "q": "In an entrepreneurship and product-development lesson, answer: What is a marketing channel?",
+      "o": [
+        "A way to communicate an offering to potential customers",
+        "Only a programming variable",
+        "None of these choices is correct",
+        "A battery connector"
+      ],
+      "a": 0,
+      "e": "Channels include websites, social media and direct outreach.",
+      "d": "Medium",
+      "topic": "Business models and case studies",
+      "slo": "Identify, explain and apply concepts related to business models and case studies."
+    },
+    {
+      "id": "CS11CH08-293",
+      "q": "What is a pitch in entrepreneurship?",
+      "o": [
+        "A concise presentation of an idea and its value",
+        "A network data packet",
+        "Only a legal document",
+        "None of these choices is correct"
+      ],
+      "a": 0,
+      "e": "A pitch communicates the problem, solution and opportunity.",
+      "d": "Easy",
+      "topic": "Business models and case studies",
+      "slo": "Identify, explain and apply concepts related to business models and case studies."
+    },
+    {
+      "id": "CS11CH08-294",
+      "q": "In an entrepreneurship and product-development lesson, answer: What is a pitch in entrepreneurship?",
+      "o": [
+        "A network data packet",
+        "None of these choices is correct",
+        "Only a legal document",
+        "A concise presentation of an idea and its value"
+      ],
+      "a": 3,
+      "e": "A pitch communicates the problem, solution and opportunity.",
+      "d": "Medium",
+      "topic": "Business models and case studies",
+      "slo": "Identify, explain and apply concepts related to business models and case studies."
+    },
+    {
+      "id": "CS11CH08-295",
+      "q": "What is a competitive advantage?",
+      "o": [
+        "A capability that helps an offering perform better than alternatives",
+        "A random company slogan",
+        "None of these choices is correct",
+        "The number of pages in a textbook"
+      ],
+      "a": 0,
+      "e": "Advantages can involve value, cost, quality or service.",
+      "d": "Easy",
+      "topic": "Business models and case studies",
+      "slo": "Identify, explain and apply concepts related to business models and case studies."
+    },
+    {
+      "id": "CS11CH08-296",
+      "q": "In an entrepreneurship and product-development lesson, answer: What is a competitive advantage?",
+      "o": [
+        "A random company slogan",
+        "None of these choices is correct",
+        "A capability that helps an offering perform better than alternatives",
+        "The number of pages in a textbook"
+      ],
+      "a": 2,
+      "e": "Advantages can involve value, cost, quality or service.",
+      "d": "Medium",
+      "topic": "Business models and case studies",
+      "slo": "Identify, explain and apply concepts related to business models and case studies."
+    },
+    {
+      "id": "CS11CH08-297",
+      "q": "What is a partnership in business?",
+      "o": [
+        "A prohibition on teamwork",
+        "Cooperation between parties to achieve shared goals",
+        "None of these choices is correct",
+        "Only a customer complaint"
+      ],
+      "a": 1,
+      "e": "Partners can contribute skills, resources or distribution.",
+      "d": "Easy",
+      "topic": "Business models and case studies",
+      "slo": "Identify, explain and apply concepts related to business models and case studies."
+    },
+    {
+      "id": "CS11CH08-298",
+      "q": "In an entrepreneurship and product-development lesson, answer: What is a partnership in business?",
+      "o": [
+        "Only a customer complaint",
+        "None of these choices is correct",
+        "Cooperation between parties to achieve shared goals",
+        "A prohibition on teamwork"
+      ],
+      "a": 2,
+      "e": "Partners can contribute skills, resources or distribution.",
+      "d": "Medium",
+      "topic": "Business models and case studies",
+      "slo": "Identify, explain and apply concepts related to business models and case studies."
+    },
+    {
+      "id": "CS11CH08-299",
+      "q": "What is a sustainable business approach?",
+      "o": [
+        "Spending without tracking costs",
+        "Ignoring customers after launch",
+        "An approach that can continue creating value while managing resources and risks",
+        "None of these choices is correct"
+      ],
+      "a": 2,
+      "e": "Sustainability requires viable operations and responsible decisions.",
+      "d": "Easy",
+      "topic": "Business models and case studies",
+      "slo": "Identify, explain and apply concepts related to business models and case studies."
+    },
+    {
+      "id": "CS11CH08-300",
+      "q": "In an entrepreneurship and product-development lesson, answer: What is a sustainable business approach?",
+      "o": [
+        "None of these choices is correct",
+        "Ignoring customers after launch",
+        "An approach that can continue creating value while managing resources and risks",
+        "Spending without tracking costs"
+      ],
+      "a": 2,
+      "e": "Sustainability requires viable operations and responsible decisions.",
+      "d": "Medium",
+      "topic": "Business models and case studies",
+      "slo": "Identify, explain and apply concepts related to business models and case studies."
+    }
+  ]
+}

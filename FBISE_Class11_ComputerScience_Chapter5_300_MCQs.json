@@ -1,0 +1,4504 @@
+{
+  "questions": [
+    {
+      "id": "CS11CH05-001",
+      "q": "What is an embedded sensor interface used for?",
+      "o": [
+        "Storing paper receipts",
+        "Printing only books",
+        "Reading physical-world measurements",
+        "Drawing blockchain blocks"
+      ],
+      "a": 2,
+      "e": "Interfaces connect sensing hardware to controllers.",
+      "d": "Easy",
+      "topic": "Embedded Systems",
+      "slo": "Explain or apply concepts of embedded systems in computer science applications."
+    },
+    {
+      "id": "CS11CH05-002",
+      "q": "In a Class 11 Computer Science review, consider this question: What is a proximity sensor used for?",
+      "o": [
+        "Storing digital coins",
+        "Compiling Python",
+        "Measuring only air pressure",
+        "Detecting nearby objects without direct contact"
+      ],
+      "a": 3,
+      "e": "Proximity sensors detect nearby objects.",
+      "d": "Easy",
+      "topic": "Technologies Enabling IoT",
+      "slo": "Explain or apply concepts of technologies enabling iot in computer science applications."
+    },
+    {
+      "id": "CS11CH05-003",
+      "q": "What is an industrial sensor application?",
+      "o": [
+        "Writing a school timetable by hand",
+        "Printing a novel",
+        "Monitoring machine vibration",
+        "Changing a desktop wallpaper"
+      ],
+      "a": 2,
+      "e": "Industrial sensors monitor equipment conditions.",
+      "d": "Easy",
+      "topic": "Technologies Enabling IoT",
+      "slo": "Explain or apply concepts of technologies enabling iot in computer science applications."
+    },
+    {
+      "id": "CS11CH05-004",
+      "q": "What is a common role of a gateway in IoT?",
+      "o": [
+        "Print every measurement",
+        "Replace every sensor with a display",
+        "Eliminate network protocols",
+        "Connect local devices to other networks or services"
+      ],
+      "a": 3,
+      "e": "Gateways bridge devices and wider networks.",
+      "d": "Easy",
+      "topic": "Technologies Enabling IoT",
+      "slo": "Explain or apply concepts of technologies enabling iot in computer science applications."
+    },
+    {
+      "id": "CS11CH05-005",
+      "q": "What is decentralization in blockchain?",
+      "o": [
+        "Record control or validation is spread across participants",
+        "All computers are disconnected",
+        "One central operator must edit every copy",
+        "No rules govern transactions"
+      ],
+      "a": 0,
+      "e": "Blockchain networks can distribute validation across nodes.",
+      "d": "Easy",
+      "topic": "Blockchain Technology",
+      "slo": "Explain or apply concepts of blockchain technology in computer science applications."
+    },
+    {
+      "id": "CS11CH05-006",
+      "q": "What is a cloud data center?",
+      "o": [
+        "A classroom noticeboard",
+        "Facility hosting servers, storage and networking",
+        "A local paper cupboard",
+        "A single monitor without computing hardware"
+      ],
+      "a": 1,
+      "e": "Cloud providers operate physical infrastructure in data centers.",
+      "d": "Easy",
+      "topic": "Cloud Computing",
+      "slo": "Explain or apply concepts of cloud computing in computer science applications."
+    },
+    {
+      "id": "CS11CH05-007",
+      "q": "In a Class 11 Computer Science review, consider this question: What is a common goal of big-data analytics?",
+      "o": [
+        "Avoiding any interpretation",
+        "Destroying all stored observations",
+        "Turning all numbers into images",
+        "Discovering patterns and supporting decisions"
+      ],
+      "a": 3,
+      "e": "Analytics derives useful information from large datasets.",
+      "d": "Easy",
+      "topic": "Big Data Analytics",
+      "slo": "Explain or apply concepts of big data analytics in computer science applications."
+    },
+    {
+      "id": "CS11CH05-008",
+      "q": "What does DNS do?",
+      "o": [
+        "Stores blockchain coins",
+        "Measures room temperature",
+        "Compiles Python code",
+        "Translates domain names into IP-related records"
+      ],
+      "a": 3,
+      "e": "DNS helps resolve names to network information.",
+      "d": "Easy",
+      "topic": "Communication Protocols",
+      "slo": "Explain or apply concepts of communication protocols in computer science applications."
+    },
+    {
+      "id": "CS11CH05-009",
+      "q": "In a Class 11 Computer Science review, consider this question: What does an actuator do in an IoT system?",
+      "o": [
+        "Deletes internet access",
+        "Measures temperature without acting",
+        "Performs a physical action from a control signal",
+        "Stores only paper records"
+      ],
+      "a": 2,
+      "e": "Actuators cause changes such as switching or moving equipment.",
+      "d": "Easy",
+      "topic": "Internet of Things (IoT)",
+      "slo": "Explain or apply concepts of internet of things (iot) in computer science applications."
+    },
+    {
+      "id": "CS11CH05-010",
+      "q": "What can a smart meter measure?",
+      "o": [
+        "Electricity consumption",
+        "Student handwriting quality",
+        "Number of keyboard letters",
+        "Page thickness"
+      ],
+      "a": 0,
+      "e": "Smart meters monitor utility usage.",
+      "d": "Medium",
+      "topic": "Internet of Things (IoT)",
+      "slo": "Explain or apply concepts of internet of things (iot) in computer science applications."
+    },
+    {
+      "id": "CS11CH05-011",
+      "q": "In a Class 11 Computer Science review, consider this question: Which device can automatically measure room temperature?",
+      "o": [
+        "Mouse pad",
+        "Temperature sensor",
+        "Power cable",
+        "Printer cartridge"
+      ],
+      "a": 1,
+      "e": "Temperature sensors collect environmental readings.",
+      "d": "Medium",
+      "topic": "Internet of Things (IoT)",
+      "slo": "Explain or apply concepts of internet of things (iot) in computer science applications."
+    },
+    {
+      "id": "CS11CH05-012",
+      "q": "What does IP primarily provide?",
+      "o": [
+        "Physical temperature measurement",
+        "Addressing and routing of packets",
+        "Spreadsheet formatting",
+        "Battery charging"
+      ],
+      "a": 1,
+      "e": "Internet Protocol identifies destinations and routes packets.",
+      "d": "Easy",
+      "topic": "Communication Protocols",
+      "slo": "Explain or apply concepts of communication protocols in computer science applications."
+    },
+    {
+      "id": "CS11CH05-013",
+      "q": "In a Class 11 Computer Science review, consider this question: What does a smart thermostat commonly do?",
+      "o": [
+        "Adjust heating or cooling using sensed temperature",
+        "Print documents automatically",
+        "Sort alphabetically",
+        "Store blockchain blocks only"
+      ],
+      "a": 0,
+      "e": "A thermostat combines temperature sensing and control.",
+      "d": "Easy",
+      "topic": "Internet of Things (IoT)",
+      "slo": "Explain or apply concepts of internet of things (iot) in computer science applications."
+    },
+    {
+      "id": "CS11CH05-014",
+      "q": "Which concern arises if an AI model works poorly for one demographic group?",
+      "o": [
+        "Higher screen resolution",
+        "Improved battery capacity",
+        "Fairness and discriminatory impact",
+        "Faster printer speed"
+      ],
+      "a": 2,
+      "e": "Unequal performance can harm affected groups.",
+      "d": "Medium",
+      "topic": "Stakeholders in AI Systems",
+      "slo": "Explain or apply concepts of stakeholders in ai systems in computer science applications."
+    },
+    {
+      "id": "CS11CH05-015",
+      "q": "In a Class 11 Computer Science review, consider this question: What is a cloud migration?",
+      "o": [
+        "Converting text into handwriting",
+        "Replacing a keyboard with paper",
+        "Moving applications or data to cloud environments",
+        "Deleting all networks"
+      ],
+      "a": 2,
+      "e": "Migration transfers workloads or information to cloud systems.",
+      "d": "Easy",
+      "topic": "Cloud Computing",
+      "slo": "Explain or apply concepts of cloud computing in computer science applications."
+    },
+    {
+      "id": "CS11CH05-016",
+      "q": "Which sensor can detect changes in air pressure?",
+      "o": [
+        "Pressure sensor",
+        "Webcam tripod",
+        "USB keyboard",
+        "Ink cartridge"
+      ],
+      "a": 0,
+      "e": "Pressure sensors measure force per unit area.",
+      "d": "Medium",
+      "topic": "Technologies Enabling IoT",
+      "slo": "Explain or apply concepts of technologies enabling iot in computer science applications."
+    },
+    {
+      "id": "CS11CH05-017",
+      "q": "In a Class 11 Computer Science review, consider this question: What is a major privacy concern with cloud services?",
+      "o": [
+        "No data can ever leave a device",
+        "Sensitive information is held on external infrastructure",
+        "Cloud data is always public",
+        "Providers never use security controls"
+      ],
+      "a": 1,
+      "e": "Organizations must manage confidentiality and access risks.",
+      "d": "Easy",
+      "topic": "Cloud Computing",
+      "slo": "Explain or apply concepts of cloud computing in computer science applications."
+    },
+    {
+      "id": "CS11CH05-018",
+      "q": "Which big-data characteristic refers to speed of generation or processing?",
+      "o": [
+        "Velocity",
+        "Volume",
+        "Value",
+        "Variety"
+      ],
+      "a": 0,
+      "e": "Velocity concerns the rate at which data arrives or is handled.",
+      "d": "Medium",
+      "topic": "Big Data Analytics",
+      "slo": "Explain or apply concepts of big data analytics in computer science applications."
+    },
+    {
+      "id": "CS11CH05-019",
+      "q": "How do embedded systems relate to IoT?",
+      "o": [
+        "They only exist in data centers",
+        "IoT requires paper sensors",
+        "Connected IoT devices often contain embedded controllers",
+        "They can never connect to networks"
+      ],
+      "a": 2,
+      "e": "Many IoT devices rely on embedded computing.",
+      "d": "Medium",
+      "topic": "Embedded Systems",
+      "slo": "Explain or apply concepts of embedded systems in computer science applications."
+    },
+    {
+      "id": "CS11CH05-020",
+      "q": "What is an IoT device?",
+      "o": [
+        "A non-electronic chair",
+        "A physical object with sensing, processing or connectivity",
+        "A purely handwritten algorithm",
+        "A printed document"
+      ],
+      "a": 1,
+      "e": "IoT devices interact with their environment and exchange information.",
+      "d": "Easy",
+      "topic": "Internet of Things (IoT)",
+      "slo": "Explain or apply concepts of internet of things (iot) in computer science applications."
+    },
+    {
+      "id": "CS11CH05-021",
+      "q": "In a Class 11 Computer Science review, consider this question: Why is low power consumption important for many embedded devices?",
+      "o": [
+        "It eliminates sensors",
+        "It prevents any programming",
+        "It extends battery-powered operation",
+        "It guarantees infinite memory"
+      ],
+      "a": 2,
+      "e": "Energy-efficient designs can increase device lifetime.",
+      "d": "Medium",
+      "topic": "Embedded Systems",
+      "slo": "Explain or apply concepts of embedded systems in computer science applications."
+    },
+    {
+      "id": "CS11CH05-022",
+      "q": "What is human oversight in AI?",
+      "o": [
+        "Machines always operate without review",
+        "All outputs are automatically correct",
+        "People monitor and can intervene in AI-driven processes",
+        "Only hardware controls outcomes"
+      ],
+      "a": 2,
+      "e": "Oversight supports safe and accountable deployment.",
+      "d": "Easy",
+      "topic": "Stakeholders in AI Systems",
+      "slo": "Explain or apply concepts of stakeholders in ai systems in computer science applications."
+    },
+    {
+      "id": "CS11CH05-023",
+      "q": "What is a proximity sensor used for?",
+      "o": [
+        "Storing digital coins",
+        "Compiling Python",
+        "Measuring only air pressure",
+        "Detecting nearby objects without direct contact"
+      ],
+      "a": 3,
+      "e": "Proximity sensors detect nearby objects.",
+      "d": "Easy",
+      "topic": "Technologies Enabling IoT",
+      "slo": "Explain or apply concepts of technologies enabling iot in computer science applications."
+    },
+    {
+      "id": "CS11CH05-024",
+      "q": "In a Class 11 Computer Science review, consider this question: What is HTTP used for?",
+      "o": [
+        "Controlling a mechanical valve directly",
+        "Exchanging web requests and responses",
+        "Measuring humidity",
+        "Identifying RFID tags"
+      ],
+      "a": 1,
+      "e": "HTTP supports communication between web clients and servers.",
+      "d": "Easy",
+      "topic": "Communication Protocols",
+      "slo": "Explain or apply concepts of communication protocols in computer science applications."
+    },
+    {
+      "id": "CS11CH05-025",
+      "q": "In a Class 11 Computer Science review, consider this question: What is cloud computing?",
+      "o": [
+        "Providing computing resources over a network on demand",
+        "Only storing files on a local USB stick",
+        "Printing all records",
+        "Using computers without software"
+      ],
+      "a": 0,
+      "e": "Cloud services deliver remote computing resources.",
+      "d": "Easy",
+      "topic": "Cloud Computing",
+      "slo": "Explain or apply concepts of cloud computing in computer science applications."
+    },
+    {
+      "id": "CS11CH05-026",
+      "q": "In a Class 11 Computer Science review, consider this question: How do embedded systems relate to IoT?",
+      "o": [
+        "They only exist in data centers",
+        "IoT requires paper sensors",
+        "Connected IoT devices often contain embedded controllers",
+        "They can never connect to networks"
+      ],
+      "a": 2,
+      "e": "Many IoT devices rely on embedded computing.",
+      "d": "Medium",
+      "topic": "Embedded Systems",
+      "slo": "Explain or apply concepts of embedded systems in computer science applications."
+    },
+    {
+      "id": "CS11CH05-027",
+      "q": "In a Class 11 Computer Science review, consider this question: What is a common role of domain experts in AI projects?",
+      "o": [
+        "Remove all stakeholder concerns",
+        "Replace all user testing",
+        "Guarantee all predictions",
+        "Provide subject knowledge and validate use cases"
+      ],
+      "a": 3,
+      "e": "Domain expertise helps ensure meaningful design.",
+      "d": "Easy",
+      "topic": "Stakeholders in AI Systems",
+      "slo": "Explain or apply concepts of stakeholders in ai systems in computer science applications."
+    },
+    {
+      "id": "CS11CH05-028",
+      "q": "What is AI bias?",
+      "o": [
+        "Systematic unfairness in data or model outcomes",
+        "A faster computer clock",
+        "A standard USB connector",
+        "A type of cloud server"
+      ],
+      "a": 0,
+      "e": "Bias can lead to unequal treatment or outcomes.",
+      "d": "Easy",
+      "topic": "Stakeholders in AI Systems",
+      "slo": "Explain or apply concepts of stakeholders in ai systems in computer science applications."
+    },
+    {
+      "id": "CS11CH05-029",
+      "q": "What is the purpose of device identification in IoT?",
+      "o": [
+        "Eliminate network addresses",
+        "Distinguish devices and their data sources",
+        "Guarantee no device is hacked",
+        "Prevent any automation"
+      ],
+      "a": 1,
+      "e": "Identifiers help systems associate readings with particular devices.",
+      "d": "Easy",
+      "topic": "Technologies Enabling IoT",
+      "slo": "Explain or apply concepts of technologies enabling iot in computer science applications."
+    },
+    {
+      "id": "CS11CH05-030",
+      "q": "What is algorithmic transparency?",
+      "o": [
+        "Publishing every private password",
+        "Ability to understand or explain how decisions are made",
+        "Hiding all system behavior",
+        "Removing all documentation"
+      ],
+      "a": 1,
+      "e": "Transparency supports scrutiny of AI decisions.",
+      "d": "Easy",
+      "topic": "Stakeholders in AI Systems",
+      "slo": "Explain or apply concepts of stakeholders in ai systems in computer science applications."
+    },
+    {
+      "id": "CS11CH05-031",
+      "q": "What is cloud elasticity?",
+      "o": [
+        "Turning every server into rubber",
+        "Removing internet access",
+        "Automatically or flexibly increasing and decreasing resources",
+        "Preventing all capacity changes"
+      ],
+      "a": 2,
+      "e": "Elastic resources respond to changing demand.",
+      "d": "Easy",
+      "topic": "Cloud Computing",
+      "slo": "Explain or apply concepts of cloud computing in computer science applications."
+    },
+    {
+      "id": "CS11CH05-032",
+      "q": "In a Class 11 Computer Science review, consider this question: What is a smart city IoT example?",
+      "o": [
+        "Traffic sensors used to manage congestion",
+        "A handwritten attendance list",
+        "An unplugged computer",
+        "Only printed road signs"
+      ],
+      "a": 0,
+      "e": "Traffic monitoring can support city services.",
+      "d": "Easy",
+      "topic": "Internet of Things (IoT)",
+      "slo": "Explain or apply concepts of internet of things (iot) in computer science applications."
+    },
+    {
+      "id": "CS11CH05-033",
+      "q": "In a Class 11 Computer Science review, consider this question: What is a limitation of battery-powered IoT sensors?",
+      "o": [
+        "Limited available energy",
+        "They cannot contain software",
+        "They always need paper",
+        "They can never collect readings"
+      ],
+      "a": 0,
+      "e": "Power consumption affects operating lifetime.",
+      "d": "Easy",
+      "topic": "Technologies Enabling IoT",
+      "slo": "Explain or apply concepts of technologies enabling iot in computer science applications."
+    },
+    {
+      "id": "CS11CH05-034",
+      "q": "In a Class 11 Computer Science review, consider this question: What is cloud elasticity?",
+      "o": [
+        "Turning every server into rubber",
+        "Removing internet access",
+        "Automatically or flexibly increasing and decreasing resources",
+        "Preventing all capacity changes"
+      ],
+      "a": 2,
+      "e": "Elastic resources respond to changing demand.",
+      "d": "Easy",
+      "topic": "Cloud Computing",
+      "slo": "Explain or apply concepts of cloud computing in computer science applications."
+    },
+    {
+      "id": "CS11CH05-035",
+      "q": "In a Class 11 Computer Science review, consider this question: Which approach can support analysis of very large datasets?",
+      "o": [
+        "Using no computational resources",
+        "Distributed processing across multiple machines",
+        "Disconnecting all storage",
+        "Only handwritten counting"
+      ],
+      "a": 1,
+      "e": "Distributed systems divide workloads among machines.",
+      "d": "Medium",
+      "topic": "Big Data Analytics",
+      "slo": "Explain or apply concepts of big data analytics in computer science applications."
+    },
+    {
+      "id": "CS11CH05-036",
+      "q": "Which device can automatically measure room temperature?",
+      "o": [
+        "Mouse pad",
+        "Temperature sensor",
+        "Power cable",
+        "Printer cartridge"
+      ],
+      "a": 1,
+      "e": "Temperature sensors collect environmental readings.",
+      "d": "Medium",
+      "topic": "Internet of Things (IoT)",
+      "slo": "Explain or apply concepts of internet of things (iot) in computer science applications."
+    },
+    {
+      "id": "CS11CH05-037",
+      "q": "In a Class 11 Computer Science review, consider this question: Which component can detect wind speed?",
+      "o": [
+        "Scanner lid",
+        "Graphics card fan label",
+        "Microphone cable",
+        "Anemometer or wind-speed sensor"
+      ],
+      "a": 3,
+      "e": "Wind-speed sensors measure air movement.",
+      "d": "Medium",
+      "topic": "Technologies Enabling IoT",
+      "slo": "Explain or apply concepts of technologies enabling iot in computer science applications."
+    },
+    {
+      "id": "CS11CH05-038",
+      "q": "In a Class 11 Computer Science review, consider this question: Which device can detect water level?",
+      "o": [
+        "Mouse pointer",
+        "File folder",
+        "Printer paper",
+        "Water-level sensor"
+      ],
+      "a": 3,
+      "e": "Level sensors monitor liquid height.",
+      "d": "Medium",
+      "topic": "Technologies Enabling IoT",
+      "slo": "Explain or apply concepts of technologies enabling iot in computer science applications."
+    },
+    {
+      "id": "CS11CH05-039",
+      "q": "In a Class 11 Computer Science review, consider this question: Why are AI stakeholders consulted?",
+      "o": [
+        "To avoid accountability",
+        "To remove all testing",
+        "To guarantee zero disagreement",
+        "To understand needs, risks and possible impacts"
+      ],
+      "a": 3,
+      "e": "Consultation identifies concerns across affected groups.",
+      "d": "Medium",
+      "topic": "Stakeholders in AI Systems",
+      "slo": "Explain or apply concepts of stakeholders in ai systems in computer science applications."
+    },
+    {
+      "id": "CS11CH05-040",
+      "q": "In a Class 11 Computer Science review, consider this question: Which IoT use can improve farming?",
+      "o": [
+        "Randomly watering every hour",
+        "Soil-moisture sensors for irrigation",
+        "Disabling all sensors",
+        "Using only paper maps"
+      ],
+      "a": 1,
+      "e": "Moisture readings help guide watering decisions.",
+      "d": "Medium",
+      "topic": "Internet of Things (IoT)",
+      "slo": "Explain or apply concepts of internet of things (iot) in computer science applications."
+    },
+    {
+      "id": "CS11CH05-041",
+      "q": "For an application-of-computer-science quiz, select the best response: Which device can automatically measure room temperature?",
+      "o": [
+        "Mouse pad",
+        "Temperature sensor",
+        "Power cable",
+        "Printer cartridge"
+      ],
+      "a": 1,
+      "e": "Temperature sensors collect environmental readings.",
+      "d": "Medium",
+      "topic": "Internet of Things (IoT)",
+      "slo": "Explain or apply concepts of internet of things (iot) in computer science applications."
+    },
+    {
+      "id": "CS11CH05-042",
+      "q": "In a Class 11 Computer Science review, consider this question: Which is a benefit of cloud resource sharing?",
+      "o": [
+        "No need for any cybersecurity",
+        "Elimination of all hardware",
+        "Guaranteed zero latency",
+        "Efficient use of pooled computing infrastructure"
+      ],
+      "a": 3,
+      "e": "Cloud services can pool infrastructure for customers.",
+      "d": "Medium",
+      "topic": "Cloud Computing",
+      "slo": "Explain or apply concepts of cloud computing in computer science applications."
+    },
+    {
+      "id": "CS11CH05-043",
+      "q": "In a Class 11 Computer Science review, consider this question: What does a packet contain?",
+      "o": [
+        "A unit of data sent across a network",
+        "Only a printed letter",
+        "A physical keyboard key",
+        "A chemical sample"
+      ],
+      "a": 0,
+      "e": "Networks transmit data in formatted units called packets.",
+      "d": "Easy",
+      "topic": "Communication Protocols",
+      "slo": "Explain or apply concepts of communication protocols in computer science applications."
+    },
+    {
+      "id": "CS11CH05-044",
+      "q": "In a Class 11 Computer Science review, consider this question: Why should blockchain users protect private keys?",
+      "o": [
+        "Private keys measure temperature",
+        "A stolen key can authorize unauthorized transactions",
+        "Keys are only decorative",
+        "Public keys must never be shared"
+      ],
+      "a": 1,
+      "e": "Private keys control cryptographic authorization.",
+      "d": "Medium",
+      "topic": "Blockchain Technology",
+      "slo": "Explain or apply concepts of blockchain technology in computer science applications."
+    },
+    {
+      "id": "CS11CH05-045",
+      "q": "What is cloud scalability?",
+      "o": [
+        "Keeping capacity fixed forever",
+        "Ability to adjust resources as demand changes",
+        "Making every server physically smaller",
+        "Deleting every backup"
+      ],
+      "a": 1,
+      "e": "Cloud systems can scale resources to match workloads.",
+      "d": "Easy",
+      "topic": "Cloud Computing",
+      "slo": "Explain or apply concepts of cloud computing in computer science applications."
+    },
+    {
+      "id": "CS11CH05-046",
+      "q": "In a Class 11 Computer Science review, consider this question: Which big-data characteristic refers to amount of data?",
+      "o": [
+        "Volume",
+        "Veracity",
+        "Velocity",
+        "Variety"
+      ],
+      "a": 0,
+      "e": "Volume describes data quantity.",
+      "d": "Medium",
+      "topic": "Big Data Analytics",
+      "slo": "Explain or apply concepts of big data analytics in computer science applications."
+    },
+    {
+      "id": "CS11CH05-047",
+      "q": "In a Class 11 Computer Science review, consider this question: What is a digital signature used for in blockchain?",
+      "o": [
+        "Measuring room humidity",
+        "Compressing images only",
+        "Replacing all network protocols",
+        "Verifying authorization and integrity of a transaction"
+      ],
+      "a": 3,
+      "e": "Signatures help authenticate transaction origin.",
+      "d": "Easy",
+      "topic": "Blockchain Technology",
+      "slo": "Explain or apply concepts of blockchain technology in computer science applications."
+    },
+    {
+      "id": "CS11CH05-048",
+      "q": "What is a cloud availability concern?",
+      "o": [
+        "Cloud services cannot store files",
+        "Service access may depend on network and provider uptime",
+        "Cloud systems never use networks",
+        "All data must be handwritten"
+      ],
+      "a": 1,
+      "e": "Connectivity and provider outages can affect access.",
+      "d": "Easy",
+      "topic": "Cloud Computing",
+      "slo": "Explain or apply concepts of cloud computing in computer science applications."
+    },
+    {
+      "id": "CS11CH05-049",
+      "q": "In a Class 11 Computer Science review, consider this question: What is cloud scalability?",
+      "o": [
+        "Keeping capacity fixed forever",
+        "Ability to adjust resources as demand changes",
+        "Making every server physically smaller",
+        "Deleting every backup"
+      ],
+      "a": 1,
+      "e": "Cloud systems can scale resources to match workloads.",
+      "d": "Easy",
+      "topic": "Cloud Computing",
+      "slo": "Explain or apply concepts of cloud computing in computer science applications."
+    },
+    {
+      "id": "CS11CH05-050",
+      "q": "In a Class 11 Computer Science review, consider this question: Which is an example of an IoT application?",
+      "o": [
+        "A wall poster",
+        "A paper notebook",
+        "Smart home lighting controlled remotely",
+        "A mechanical pencil"
+      ],
+      "a": 2,
+      "e": "Smart lighting can be controlled using connected devices.",
+      "d": "Medium",
+      "topic": "Internet of Things (IoT)",
+      "slo": "Explain or apply concepts of internet of things (iot) in computer science applications."
+    },
+    {
+      "id": "CS11CH05-051",
+      "q": "Which big-data characteristic refers to different formats and types?",
+      "o": [
+        "Volume",
+        "Variety",
+        "Velocity",
+        "Visibility"
+      ],
+      "a": 1,
+      "e": "Variety includes structured and unstructured data.",
+      "d": "Medium",
+      "topic": "Big Data Analytics",
+      "slo": "Explain or apply concepts of big data analytics in computer science applications."
+    },
+    {
+      "id": "CS11CH05-052",
+      "q": "What is the role of a microcontroller input pin?",
+      "o": [
+        "Store unlimited video",
+        "Replace the processor",
+        "Receive a signal from a sensor or switch",
+        "Only print text"
+      ],
+      "a": 2,
+      "e": "Input pins allow controllers to read external signals.",
+      "d": "Easy",
+      "topic": "Embedded Systems",
+      "slo": "Explain or apply concepts of embedded systems in computer science applications."
+    },
+    {
+      "id": "CS11CH05-053",
+      "q": "In a Class 11 Computer Science review, consider this question: Which is a potential blockchain application?",
+      "o": [
+        "Preventing all network delays",
+        "Tracking goods across a supply chain",
+        "Making sensors unnecessary",
+        "Replacing every programming language"
+      ],
+      "a": 1,
+      "e": "Shared ledgers can track movement and provenance of goods.",
+      "d": "Medium",
+      "topic": "Blockchain Technology",
+      "slo": "Explain or apply concepts of blockchain technology in computer science applications."
+    },
+    {
+      "id": "CS11CH05-054",
+      "q": "What is a responsible approach to stakeholder conflict?",
+      "o": [
+        "Ignore less powerful groups",
+        "Dialogue, evaluation of trade-offs and documented decisions",
+        "Hide all project details",
+        "Assume one group is always correct"
+      ],
+      "a": 1,
+      "e": "Structured engagement can help resolve tensions.",
+      "d": "Easy",
+      "topic": "Stakeholders in AI Systems",
+      "slo": "Explain or apply concepts of stakeholders in ai systems in computer science applications."
+    },
+    {
+      "id": "CS11CH05-055",
+      "q": "In a Class 11 Computer Science review, consider this question: Which group directly uses an AI application?",
+      "o": [
+        "Only network cables",
+        "Only paper suppliers",
+        "End users",
+        "Only CPU cooling fans"
+      ],
+      "a": 2,
+      "e": "End users interact with AI tools and outputs.",
+      "d": "Medium",
+      "topic": "Stakeholders in AI Systems",
+      "slo": "Explain or apply concepts of stakeholders in ai systems in computer science applications."
+    },
+    {
+      "id": "CS11CH05-056",
+      "q": "What is an embedded system?",
+      "o": [
+        "An ordinary chair",
+        "Computer system designed for a specific function within a device",
+        "A network without computers",
+        "A general-purpose paper notebook"
+      ],
+      "a": 1,
+      "e": "Embedded systems perform dedicated functions in larger products.",
+      "d": "Easy",
+      "topic": "Embedded Systems",
+      "slo": "Explain or apply concepts of embedded systems in computer science applications."
+    },
+    {
+      "id": "CS11CH05-057",
+      "q": "What is a dashboard in data analytics?",
+      "o": [
+        "Visual display of key measures and trends",
+        "A wireless antenna",
+        "A blockchain mining tool",
+        "A computer power supply"
+      ],
+      "a": 0,
+      "e": "Dashboards communicate important data visually.",
+      "d": "Easy",
+      "topic": "Big Data Analytics",
+      "slo": "Explain or apply concepts of big data analytics in computer science applications."
+    },
+    {
+      "id": "CS11CH05-058",
+      "q": "Why is encryption useful during network communication?",
+      "o": [
+        "Eliminates all network delays",
+        "Guarantees the sender never makes mistakes",
+        "Protects information from unauthorized reading",
+        "Removes the need for authentication"
+      ],
+      "a": 2,
+      "e": "Encryption protects data confidentiality in transit.",
+      "d": "Medium",
+      "topic": "Communication Protocols",
+      "slo": "Explain or apply concepts of communication protocols in computer science applications."
+    },
+    {
+      "id": "CS11CH05-059",
+      "q": "Which is a constraint in embedded design?",
+      "o": [
+        "No hardware interactions",
+        "No software requirements",
+        "Limited memory, energy or processing capacity",
+        "Unlimited resources by definition"
+      ],
+      "a": 2,
+      "e": "Embedded devices often operate with constrained resources.",
+      "d": "Medium",
+      "topic": "Embedded Systems",
+      "slo": "Explain or apply concepts of embedded systems in computer science applications."
+    },
+    {
+      "id": "CS11CH05-060",
+      "q": "In a Class 11 Computer Science review, consider this question: Which sensor detects movement?",
+      "o": [
+        "Humidity sensor",
+        "Light bulb",
+        "Microphone stand",
+        "Motion sensor"
+      ],
+      "a": 3,
+      "e": "Motion sensors detect movement or changes in presence.",
+      "d": "Medium",
+      "topic": "Internet of Things (IoT)",
+      "slo": "Explain or apply concepts of internet of things (iot) in computer science applications."
+    },
+    {
+      "id": "CS11CH05-061",
+      "q": "What does publish-subscribe communication mean?",
+      "o": [
+        "Every device must print all messages",
+        "Only one computer can ever connect",
+        "Senders publish messages to topics for interested subscribers",
+        "No network is required"
+      ],
+      "a": 2,
+      "e": "Subscribers receive messages from topics of interest.",
+      "d": "Easy",
+      "topic": "Communication Protocols",
+      "slo": "Explain or apply concepts of communication protocols in computer science applications."
+    },
+    {
+      "id": "CS11CH05-062",
+      "q": "What is HTTPS?",
+      "o": [
+        "HTTP protected using transport encryption",
+        "A temperature sensor",
+        "A type of printed barcode",
+        "HTTP without any security"
+      ],
+      "a": 0,
+      "e": "HTTPS uses TLS to protect web communication.",
+      "d": "Easy",
+      "topic": "Communication Protocols",
+      "slo": "Explain or apply concepts of communication protocols in computer science applications."
+    },
+    {
+      "id": "CS11CH05-063",
+      "q": "What is an AI system audit?",
+      "o": [
+        "Review of system behavior, controls and impacts",
+        "Replacing a keyboard",
+        "Turning off the internet permanently",
+        "Cleaning a monitor screen"
+      ],
+      "a": 0,
+      "e": "Audits assess performance and governance.",
+      "d": "Easy",
+      "topic": "Stakeholders in AI Systems",
+      "slo": "Explain or apply concepts of stakeholders in ai systems in computer science applications."
+    },
+    {
+      "id": "CS11CH05-064",
+      "q": "In a Class 11 Computer Science review, consider this question: What is an anomaly in a dataset?",
+      "o": [
+        "A compulsory file extension",
+        "The most common value by definition",
+        "The title of every dataset",
+        "A record or pattern that differs unusually from others"
+      ],
+      "a": 3,
+      "e": "Anomalies depart from typical patterns.",
+      "d": "Easy",
+      "topic": "Big Data Analytics",
+      "slo": "Explain or apply concepts of big data analytics in computer science applications."
+    },
+    {
+      "id": "CS11CH05-065",
+      "q": "What is a major privacy concern with cloud services?",
+      "o": [
+        "No data can ever leave a device",
+        "Sensitive information is held on external infrastructure",
+        "Cloud data is always public",
+        "Providers never use security controls"
+      ],
+      "a": 1,
+      "e": "Organizations must manage confidentiality and access risks.",
+      "d": "Easy",
+      "topic": "Cloud Computing",
+      "slo": "Explain or apply concepts of cloud computing in computer science applications."
+    },
+    {
+      "id": "CS11CH05-066",
+      "q": "In a Class 11 Computer Science review, consider this question: Which cloud service is most directly suited to storing large files remotely?",
+      "o": [
+        "A handwritten table",
+        "A mechanical switch",
+        "Cloud object or file storage",
+        "A keyboard shortcut"
+      ],
+      "a": 2,
+      "e": "Cloud storage keeps data on remotely managed infrastructure.",
+      "d": "Medium",
+      "topic": "Cloud Computing",
+      "slo": "Explain or apply concepts of cloud computing in computer science applications."
+    },
+    {
+      "id": "CS11CH05-067",
+      "q": "In a Class 11 Computer Science review, consider this question: What is a permissionless blockchain?",
+      "o": [
+        "A local text document",
+        "A blockchain restricted to one employee",
+        "A cloud backup folder",
+        "A network that generally permits open participation"
+      ],
+      "a": 3,
+      "e": "Permissionless networks allow broad entry under protocol rules.",
+      "d": "Easy",
+      "topic": "Blockchain Technology",
+      "slo": "Explain or apply concepts of blockchain technology in computer science applications."
+    },
+    {
+      "id": "CS11CH05-068",
+      "q": "What is a hybrid cloud?",
+      "o": [
+        "Only a local hard disk",
+        "A device with two monitors",
+        "A system with no network access",
+        "Combination of public and private cloud environments"
+      ],
+      "a": 3,
+      "e": "Hybrid clouds combine cloud deployment models.",
+      "d": "Easy",
+      "topic": "Cloud Computing",
+      "slo": "Explain or apply concepts of cloud computing in computer science applications."
+    },
+    {
+      "id": "CS11CH05-069",
+      "q": "In a Class 11 Computer Science review, consider this question: What is unstructured data?",
+      "o": [
+        "Information without a fixed tabular schema, such as free text or images",
+        "An integer array only",
+        "A database primary key",
+        "Only a spreadsheet with columns"
+      ],
+      "a": 0,
+      "e": "Unstructured sources lack a simple fixed row-column format.",
+      "d": "Easy",
+      "topic": "Big Data Analytics",
+      "slo": "Explain or apply concepts of big data analytics in computer science applications."
+    },
+    {
+      "id": "CS11CH05-070",
+      "q": "In a Class 11 Computer Science review, consider this question: Which big-data characteristic concerns data trustworthiness?",
+      "o": [
+        "Velocity",
+        "Variety",
+        "Volume",
+        "Veracity"
+      ],
+      "a": 3,
+      "e": "Veracity addresses reliability and quality of data.",
+      "d": "Medium",
+      "topic": "Big Data Analytics",
+      "slo": "Explain or apply concepts of big data analytics in computer science applications."
+    },
+    {
+      "id": "CS11CH05-071",
+      "q": "What is a smart city IoT example?",
+      "o": [
+        "Traffic sensors used to manage congestion",
+        "A handwritten attendance list",
+        "An unplugged computer",
+        "Only printed road signs"
+      ],
+      "a": 0,
+      "e": "Traffic monitoring can support city services.",
+      "d": "Easy",
+      "topic": "Internet of Things (IoT)",
+      "slo": "Explain or apply concepts of internet of things (iot) in computer science applications."
+    },
+    {
+      "id": "CS11CH05-072",
+      "q": "In a Class 11 Computer Science review, consider this question: Which cloud model supplies virtual machines and storage infrastructure?",
+      "o": [
+        "Infrastructure as a Service (IaaS)",
+        "Software as a Service (SaaS)",
+        "Manual Filing as a Service",
+        "Printing as a Service"
+      ],
+      "a": 0,
+      "e": "IaaS provides computing infrastructure resources.",
+      "d": "Medium",
+      "topic": "Cloud Computing",
+      "slo": "Explain or apply concepts of cloud computing in computer science applications."
+    },
+    {
+      "id": "CS11CH05-073",
+      "q": "Which big-data characteristic concerns data trustworthiness?",
+      "o": [
+        "Velocity",
+        "Variety",
+        "Volume",
+        "Veracity"
+      ],
+      "a": 3,
+      "e": "Veracity addresses reliability and quality of data.",
+      "d": "Medium",
+      "topic": "Big Data Analytics",
+      "slo": "Explain or apply concepts of big data analytics in computer science applications."
+    },
+    {
+      "id": "CS11CH05-074",
+      "q": "In a Class 11 Computer Science review, consider this question: Who is an AI stakeholder?",
+      "o": [
+        "Only the keyboard manufacturer",
+        "Only a computer fan",
+        "A network cable",
+        "A person or group affected by or involved in an AI system"
+      ],
+      "a": 3,
+      "e": "Stakeholders include builders, users and affected groups.",
+      "d": "Easy",
+      "topic": "Stakeholders in AI Systems",
+      "slo": "Explain or apply concepts of stakeholders in ai systems in computer science applications."
+    },
+    {
+      "id": "CS11CH05-075",
+      "q": "In a Class 11 Computer Science review, consider this question: Why is user privacy relevant to AI?",
+      "o": [
+        "Privacy is only a hardware concern",
+        "Training or operation may involve personal information",
+        "All personal records must be public",
+        "AI never processes user data"
+      ],
+      "a": 1,
+      "e": "AI systems must manage sensitive data responsibly.",
+      "d": "Medium",
+      "topic": "Stakeholders in AI Systems",
+      "slo": "Explain or apply concepts of stakeholders in ai systems in computer science applications."
+    },
+    {
+      "id": "CS11CH05-076",
+      "q": "What is a private blockchain?",
+      "o": [
+        "A paper-only filing system",
+        "A blockchain with participation controlled by an organization",
+        "A network where anyone always has unlimited access",
+        "A public internet search engine"
+      ],
+      "a": 1,
+      "e": "Private blockchains restrict membership or permissions.",
+      "d": "Easy",
+      "topic": "Blockchain Technology",
+      "slo": "Explain or apply concepts of blockchain technology in computer science applications."
+    },
+    {
+      "id": "CS11CH05-077",
+      "q": "In a Class 11 Computer Science review, consider this question: Which activity is predictive analytics?",
+      "o": [
+        "Measuring a paper margin",
+        "Deleting unused folders",
+        "Only printing yesterday's receipts",
+        "Forecasting future demand from historical patterns"
+      ],
+      "a": 3,
+      "e": "Predictive analytics uses patterns to estimate future outcomes.",
+      "d": "Medium",
+      "topic": "Big Data Analytics",
+      "slo": "Explain or apply concepts of big data analytics in computer science applications."
+    },
+    {
+      "id": "CS11CH05-078",
+      "q": "What is a public blockchain?",
+      "o": [
+        "A handwritten public notice",
+        "A blockchain limited to one organization only",
+        "An offline local database",
+        "A blockchain open to broad participation under its rules"
+      ],
+      "a": 3,
+      "e": "Public networks generally allow broad participation.",
+      "d": "Easy",
+      "topic": "Blockchain Technology",
+      "slo": "Explain or apply concepts of blockchain technology in computer science applications."
+    },
+    {
+      "id": "CS11CH05-079",
+      "q": "What is a blockchain?",
+      "o": [
+        "A conventional keyboard",
+        "A distributed ledger organized into linked blocks",
+        "A type of monitor",
+        "A single unshared paper notebook"
+      ],
+      "a": 1,
+      "e": "Blockchain stores linked records across a network.",
+      "d": "Easy",
+      "topic": "Blockchain Technology",
+      "slo": "Explain or apply concepts of blockchain technology in computer science applications."
+    },
+    {
+      "id": "CS11CH05-080",
+      "q": "In a Class 11 Computer Science review, consider this question: What is vendor lock-in?",
+      "o": [
+        "A sensor without a battery",
+        "Difficulty switching from one cloud provider to another",
+        "A faster processor clock",
+        "A padlock on a classroom door"
+      ],
+      "a": 1,
+      "e": "Provider-specific services may complicate migration.",
+      "d": "Easy",
+      "topic": "Cloud Computing",
+      "slo": "Explain or apply concepts of cloud computing in computer science applications."
+    },
+    {
+      "id": "CS11CH05-081",
+      "q": "In a Class 11 Computer Science review, consider this question: Which term describes devices exchanging information over a network?",
+      "o": [
+        "Paper filing",
+        "Connectivity",
+        "Manual indexing",
+        "Mechanical binding"
+      ],
+      "a": 1,
+      "e": "IoT depends on communication among connected components.",
+      "d": "Medium",
+      "topic": "Internet of Things (IoT)",
+      "slo": "Explain or apply concepts of internet of things (iot) in computer science applications."
+    },
+    {
+      "id": "CS11CH05-082",
+      "q": "In a Class 11 Computer Science review, consider this question: Why can stakeholder interests conflict?",
+      "o": [
+        "Every decision is risk-free",
+        "Technology never creates trade-offs",
+        "All users have identical goals",
+        "Groups have different priorities such as accuracy, cost and privacy"
+      ],
+      "a": 3,
+      "e": "AI projects balance competing needs.",
+      "d": "Medium",
+      "topic": "Stakeholders in AI Systems",
+      "slo": "Explain or apply concepts of stakeholders in ai systems in computer science applications."
+    },
+    {
+      "id": "CS11CH05-083",
+      "q": "In a Class 11 Computer Science review, consider this question: Which stakeholder may experience consequences of an AI hiring tool?",
+      "o": [
+        "Only the power cable",
+        "Only the data center floor",
+        "Only the office printer",
+        "Job applicants"
+      ],
+      "a": 3,
+      "e": "Applicants can be affected by automated screening.",
+      "d": "Medium",
+      "topic": "Stakeholders in AI Systems",
+      "slo": "Explain or apply concepts of stakeholders in ai systems in computer science applications."
+    },
+    {
+      "id": "CS11CH05-084",
+      "q": "Which is a source of big data?",
+      "o": [
+        "A blank sheet",
+        "A single paper sticky note",
+        "Large-scale social media activity logs",
+        "One typed letter only"
+      ],
+      "a": 2,
+      "e": "Digital services can generate extensive records.",
+      "d": "Medium",
+      "topic": "Big Data Analytics",
+      "slo": "Explain or apply concepts of big data analytics in computer science applications."
+    },
+    {
+      "id": "CS11CH05-085",
+      "q": "Which big-data characteristic concerns usefulness of data?",
+      "o": [
+        "Velocity",
+        "Value",
+        "Variety",
+        "Volume"
+      ],
+      "a": 1,
+      "e": "Value relates to useful insights derived from data.",
+      "d": "Medium",
+      "topic": "Big Data Analytics",
+      "slo": "Explain or apply concepts of big data analytics in computer science applications."
+    },
+    {
+      "id": "CS11CH05-086",
+      "q": "What is TCP known for?",
+      "o": [
+        "Measuring sensor voltage",
+        "Guaranteed zero delay",
+        "Printing web pages",
+        "Reliable ordered delivery of a byte stream"
+      ],
+      "a": 3,
+      "e": "TCP provides reliable ordered transport between endpoints.",
+      "d": "Easy",
+      "topic": "Communication Protocols",
+      "slo": "Explain or apply concepts of communication protocols in computer science applications."
+    },
+    {
+      "id": "CS11CH05-087",
+      "q": "In a Class 11 Computer Science review, consider this question: What is big data?",
+      "o": [
+        "Datasets whose scale or complexity challenge traditional handling",
+        "A desktop wallpaper",
+        "Only a small handwritten list",
+        "Any single integer"
+      ],
+      "a": 0,
+      "e": "Big data refers to large or complex data requiring suitable methods.",
+      "d": "Easy",
+      "topic": "Big Data Analytics",
+      "slo": "Explain or apply concepts of big data analytics in computer science applications."
+    },
+    {
+      "id": "CS11CH05-088",
+      "q": "What is big data?",
+      "o": [
+        "Datasets whose scale or complexity challenge traditional handling",
+        "A desktop wallpaper",
+        "Only a small handwritten list",
+        "Any single integer"
+      ],
+      "a": 0,
+      "e": "Big data refers to large or complex data requiring suitable methods.",
+      "d": "Easy",
+      "topic": "Big Data Analytics",
+      "slo": "Explain or apply concepts of big data analytics in computer science applications."
+    },
+    {
+      "id": "CS11CH05-089",
+      "q": "Which IoT use can improve farming?",
+      "o": [
+        "Randomly watering every hour",
+        "Soil-moisture sensors for irrigation",
+        "Disabling all sensors",
+        "Using only paper maps"
+      ],
+      "a": 1,
+      "e": "Moisture readings help guide watering decisions.",
+      "d": "Medium",
+      "topic": "Internet of Things (IoT)",
+      "slo": "Explain or apply concepts of internet of things (iot) in computer science applications."
+    },
+    {
+      "id": "CS11CH05-090",
+      "q": "What is a cryptographic hash?",
+      "o": [
+        "A printed password list",
+        "An unchangeable username",
+        "Fixed-length digest derived from input data",
+        "A physical cable"
+      ],
+      "a": 2,
+      "e": "Hash functions map input to a digest used for integrity checks.",
+      "d": "Easy",
+      "topic": "Blockchain Technology",
+      "slo": "Explain or apply concepts of blockchain technology in computer science applications."
+    },
+    {
+      "id": "CS11CH05-091",
+      "q": "What does real-time monitoring mean in an IoT context?",
+      "o": [
+        "Replacing sensors with drawings",
+        "Observing conditions as readings become available",
+        "Only checking records once a year",
+        "Ignoring sensor values"
+      ],
+      "a": 1,
+      "e": "Connected sensors can supply timely updates.",
+      "d": "Easy",
+      "topic": "Internet of Things (IoT)",
+      "slo": "Explain or apply concepts of internet of things (iot) in computer science applications."
+    },
+    {
+      "id": "CS11CH05-092",
+      "q": "What is vendor lock-in?",
+      "o": [
+        "A sensor without a battery",
+        "Difficulty switching from one cloud provider to another",
+        "A faster processor clock",
+        "A padlock on a classroom door"
+      ],
+      "a": 1,
+      "e": "Provider-specific services may complicate migration.",
+      "d": "Easy",
+      "topic": "Cloud Computing",
+      "slo": "Explain or apply concepts of cloud computing in computer science applications."
+    },
+    {
+      "id": "CS11CH05-093",
+      "q": "Which IoT application supports remote patient monitoring?",
+      "o": [
+        "Connected health-monitoring devices",
+        "An offline ruler",
+        "A printed calendar",
+        "A manual filing cabinet"
+      ],
+      "a": 0,
+      "e": "Connected medical sensors can transmit patient measurements.",
+      "d": "Medium",
+      "topic": "Internet of Things (IoT)",
+      "slo": "Explain or apply concepts of internet of things (iot) in computer science applications."
+    },
+    {
+      "id": "CS11CH05-094",
+      "q": "Which cloud model delivers ready-to-use software through a network?",
+      "o": [
+        "Physical Hardware as a Service",
+        "A local-only paper file",
+        "Infrastructure as a Service (IaaS)",
+        "Software as a Service (SaaS)"
+      ],
+      "a": 3,
+      "e": "SaaS delivers applications to end users.",
+      "d": "Medium",
+      "topic": "Cloud Computing",
+      "slo": "Explain or apply concepts of cloud computing in computer science applications."
+    },
+    {
+      "id": "CS11CH05-095",
+      "q": "What does data visualization help with?",
+      "o": [
+        "Replacing all calculations",
+        "Guaranteeing causal relationships",
+        "Understanding patterns through charts and graphics",
+        "Eliminating all outliers"
+      ],
+      "a": 2,
+      "e": "Visuals make complex patterns easier to interpret.",
+      "d": "Easy",
+      "topic": "Big Data Analytics",
+      "slo": "Explain or apply concepts of big data analytics in computer science applications."
+    },
+    {
+      "id": "CS11CH05-096",
+      "q": "What does an actuator do in an IoT system?",
+      "o": [
+        "Deletes internet access",
+        "Measures temperature without acting",
+        "Performs a physical action from a control signal",
+        "Stores only paper records"
+      ],
+      "a": 2,
+      "e": "Actuators cause changes such as switching or moving equipment.",
+      "d": "Easy",
+      "topic": "Internet of Things (IoT)",
+      "slo": "Explain or apply concepts of internet of things (iot) in computer science applications."
+    },
+    {
+      "id": "CS11CH05-097",
+      "q": "What is UDP known for?",
+      "o": [
+        "File encryption by itself",
+        "Connectionless datagram transport with low overhead",
+        "Guaranteed delivery of every packet",
+        "Automatic webpage design"
+      ],
+      "a": 1,
+      "e": "UDP sends datagrams without TCP-style delivery guarantees.",
+      "d": "Easy",
+      "topic": "Communication Protocols",
+      "slo": "Explain or apply concepts of communication protocols in computer science applications."
+    },
+    {
+      "id": "CS11CH05-098",
+      "q": "What is a digital signature used for in blockchain?",
+      "o": [
+        "Measuring room humidity",
+        "Compressing images only",
+        "Replacing all network protocols",
+        "Verifying authorization and integrity of a transaction"
+      ],
+      "a": 3,
+      "e": "Signatures help authenticate transaction origin.",
+      "d": "Easy",
+      "topic": "Blockchain Technology",
+      "slo": "Explain or apply concepts of blockchain technology in computer science applications."
+    },
+    {
+      "id": "CS11CH05-099",
+      "q": "For an application-of-computer-science quiz, select the best response: What is the role of a sensor in IoT?",
+      "o": [
+        "Compile source code",
+        "Collect information about physical conditions",
+        "Only display advertisements",
+        "Replace all networks"
+      ],
+      "a": 1,
+      "e": "Sensors measure conditions such as temperature or movement.",
+      "d": "Easy",
+      "topic": "Internet of Things (IoT)",
+      "slo": "Explain or apply concepts of internet of things (iot) in computer science applications."
+    },
+    {
+      "id": "CS11CH05-100",
+      "q": "What is an anomaly in a dataset?",
+      "o": [
+        "A compulsory file extension",
+        "The most common value by definition",
+        "The title of every dataset",
+        "A record or pattern that differs unusually from others"
+      ],
+      "a": 3,
+      "e": "Anomalies depart from typical patterns.",
+      "d": "Easy",
+      "topic": "Big Data Analytics",
+      "slo": "Explain or apply concepts of big data analytics in computer science applications."
+    },
+    {
+      "id": "CS11CH05-101",
+      "q": "In a Class 11 Computer Science review, consider this question: What is a cryptographic hash?",
+      "o": [
+        "A printed password list",
+        "An unchangeable username",
+        "Fixed-length digest derived from input data",
+        "A physical cable"
+      ],
+      "a": 2,
+      "e": "Hash functions map input to a digest used for integrity checks.",
+      "d": "Easy",
+      "topic": "Blockchain Technology",
+      "slo": "Explain or apply concepts of blockchain technology in computer science applications."
+    },
+    {
+      "id": "CS11CH05-102",
+      "q": "In a Class 11 Computer Science review, consider this question: What is a responsible approach to stakeholder conflict?",
+      "o": [
+        "Ignore less powerful groups",
+        "Dialogue, evaluation of trade-offs and documented decisions",
+        "Hide all project details",
+        "Assume one group is always correct"
+      ],
+      "a": 1,
+      "e": "Structured engagement can help resolve tensions.",
+      "d": "Easy",
+      "topic": "Stakeholders in AI Systems",
+      "slo": "Explain or apply concepts of stakeholders in ai systems in computer science applications."
+    },
+    {
+      "id": "CS11CH05-103",
+      "q": "For an application-of-computer-science quiz, select the best response: What does IoT stand for?",
+      "o": [
+        "Internet of Things",
+        "Interface of Tools",
+        "Input of Technology",
+        "Internet of Text"
+      ],
+      "a": 0,
+      "e": "IoT connects physical devices through networks.",
+      "d": "Easy",
+      "topic": "Internet of Things (IoT)",
+      "slo": "Explain or apply concepts of internet of things (iot) in computer science applications."
+    },
+    {
+      "id": "CS11CH05-104",
+      "q": "In a Class 11 Computer Science review, consider this question: What is the role of a microcontroller input pin?",
+      "o": [
+        "Store unlimited video",
+        "Replace the processor",
+        "Receive a signal from a sensor or switch",
+        "Only print text"
+      ],
+      "a": 2,
+      "e": "Input pins allow controllers to read external signals.",
+      "d": "Easy",
+      "topic": "Embedded Systems",
+      "slo": "Explain or apply concepts of embedded systems in computer science applications."
+    },
+    {
+      "id": "CS11CH05-105",
+      "q": "In a Class 11 Computer Science review, consider this question: What is an embedded actuator interface used for?",
+      "o": [
+        "Controlling motors, relays or other outputs",
+        "Writing a legal contract",
+        "Displaying only website links",
+        "Measuring text font size"
+      ],
+      "a": 0,
+      "e": "Actuator interfaces let controllers influence physical systems.",
+      "d": "Easy",
+      "topic": "Embedded Systems",
+      "slo": "Explain or apply concepts of embedded systems in computer science applications."
+    },
+    {
+      "id": "CS11CH05-106",
+      "q": "Which group directly uses an AI application?",
+      "o": [
+        "Only network cables",
+        "Only paper suppliers",
+        "End users",
+        "Only CPU cooling fans"
+      ],
+      "a": 2,
+      "e": "End users interact with AI tools and outputs.",
+      "d": "Medium",
+      "topic": "Stakeholders in AI Systems",
+      "slo": "Explain or apply concepts of stakeholders in ai systems in computer science applications."
+    },
+    {
+      "id": "CS11CH05-107",
+      "q": "For an application-of-computer-science quiz, select the best response: What does an actuator do in an IoT system?",
+      "o": [
+        "Deletes internet access",
+        "Measures temperature without acting",
+        "Performs a physical action from a control signal",
+        "Stores only paper records"
+      ],
+      "a": 2,
+      "e": "Actuators cause changes such as switching or moving equipment.",
+      "d": "Easy",
+      "topic": "Internet of Things (IoT)",
+      "slo": "Explain or apply concepts of internet of things (iot) in computer science applications."
+    },
+    {
+      "id": "CS11CH05-108",
+      "q": "Which data source is associated with IoT analytics?",
+      "o": [
+        "A blank keyboard",
+        "A disconnected light switch",
+        "Streams of sensor readings",
+        "Only paper envelopes"
+      ],
+      "a": 2,
+      "e": "IoT sensors can produce continuous data streams.",
+      "d": "Medium",
+      "topic": "Big Data Analytics",
+      "slo": "Explain or apply concepts of big data analytics in computer science applications."
+    },
+    {
+      "id": "CS11CH05-109",
+      "q": "Why should AI decisions be explainable when possible?",
+      "o": [
+        "Affected people may need reasons and avenues for challenge",
+        "Only developers deserve information",
+        "Models cannot make errors",
+        "Explanations eliminate every risk"
+      ],
+      "a": 0,
+      "e": "Explanations can support trust and accountability.",
+      "d": "Medium",
+      "topic": "Stakeholders in AI Systems",
+      "slo": "Explain or apply concepts of stakeholders in ai systems in computer science applications."
+    },
+    {
+      "id": "CS11CH05-110",
+      "q": "In a Class 11 Computer Science review, consider this question: Which data source is associated with IoT analytics?",
+      "o": [
+        "A blank keyboard",
+        "A disconnected light switch",
+        "Streams of sensor readings",
+        "Only paper envelopes"
+      ],
+      "a": 2,
+      "e": "IoT sensors can produce continuous data streams.",
+      "d": "Medium",
+      "topic": "Big Data Analytics",
+      "slo": "Explain or apply concepts of big data analytics in computer science applications."
+    },
+    {
+      "id": "CS11CH05-111",
+      "q": "In a Class 11 Computer Science review, consider this question: What is the genesis block?",
+      "o": [
+        "First block in a blockchain",
+        "Most recent transaction in every ledger",
+        "A network switch",
+        "A block containing only pictures"
+      ],
+      "a": 0,
+      "e": "The genesis block starts the chain.",
+      "d": "Easy",
+      "topic": "Blockchain Technology",
+      "slo": "Explain or apply concepts of blockchain technology in computer science applications."
+    },
+    {
+      "id": "CS11CH05-112",
+      "q": "In a Class 11 Computer Science review, consider this question: Which big-data characteristic refers to different formats and types?",
+      "o": [
+        "Volume",
+        "Variety",
+        "Velocity",
+        "Visibility"
+      ],
+      "a": 1,
+      "e": "Variety includes structured and unstructured data.",
+      "d": "Medium",
+      "topic": "Big Data Analytics",
+      "slo": "Explain or apply concepts of big data analytics in computer science applications."
+    },
+    {
+      "id": "CS11CH05-113",
+      "q": "In a Class 11 Computer Science review, consider this question: Which cloud model supplies an environment for developing and deploying apps?",
+      "o": [
+        "A disconnected printer",
+        "A paper-only platform",
+        "Infrastructure as a Service (IaaS)",
+        "Platform as a Service (PaaS)"
+      ],
+      "a": 3,
+      "e": "PaaS provides application development and deployment platforms.",
+      "d": "Medium",
+      "topic": "Cloud Computing",
+      "slo": "Explain or apply concepts of cloud computing in computer science applications."
+    },
+    {
+      "id": "CS11CH05-114",
+      "q": "What is a key advantage of wireless sensors?",
+      "o": [
+        "They always have unlimited range",
+        "They can transmit readings without a data cable",
+        "They cannot suffer interference",
+        "They never require energy"
+      ],
+      "a": 1,
+      "e": "Wireless links reduce the need for wired data connections.",
+      "d": "Easy",
+      "topic": "Technologies Enabling IoT",
+      "slo": "Explain or apply concepts of technologies enabling iot in computer science applications."
+    },
+    {
+      "id": "CS11CH05-115",
+      "q": "In a Class 11 Computer Science review, consider this question: What is an embedded system?",
+      "o": [
+        "An ordinary chair",
+        "Computer system designed for a specific function within a device",
+        "A network without computers",
+        "A general-purpose paper notebook"
+      ],
+      "a": 1,
+      "e": "Embedded systems perform dedicated functions in larger products.",
+      "d": "Easy",
+      "topic": "Embedded Systems",
+      "slo": "Explain or apply concepts of embedded systems in computer science applications."
+    },
+    {
+      "id": "CS11CH05-116",
+      "q": "In a Class 11 Computer Science review, consider this question: What is human oversight in AI?",
+      "o": [
+        "Machines always operate without review",
+        "All outputs are automatically correct",
+        "People monitor and can intervene in AI-driven processes",
+        "Only hardware controls outcomes"
+      ],
+      "a": 2,
+      "e": "Oversight supports safe and accountable deployment.",
+      "d": "Easy",
+      "topic": "Stakeholders in AI Systems",
+      "slo": "Explain or apply concepts of stakeholders in ai systems in computer science applications."
+    },
+    {
+      "id": "CS11CH05-117",
+      "q": "In a Class 11 Computer Science review, consider this question: Which is a source of big data?",
+      "o": [
+        "A blank sheet",
+        "A single paper sticky note",
+        "Large-scale social media activity logs",
+        "One typed letter only"
+      ],
+      "a": 2,
+      "e": "Digital services can generate extensive records.",
+      "d": "Medium",
+      "topic": "Big Data Analytics",
+      "slo": "Explain or apply concepts of big data analytics in computer science applications."
+    },
+    {
+      "id": "CS11CH05-118",
+      "q": "In a Class 11 Computer Science review, consider this question: What does RFID stand for?",
+      "o": [
+        "Remote Format Input Device",
+        "Radio Frequency Identification",
+        "Random File Internet Directory",
+        "Rapid Frequency Internet Data"
+      ],
+      "a": 1,
+      "e": "RFID identifies tags through radio communication.",
+      "d": "Easy",
+      "topic": "Technologies Enabling IoT",
+      "slo": "Explain or apply concepts of technologies enabling iot in computer science applications."
+    },
+    {
+      "id": "CS11CH05-119",
+      "q": "In a Class 11 Computer Science review, consider this question: Which is a benefit of IoT automation?",
+      "o": [
+        "Unlimited battery life",
+        "No need for connectivity",
+        "Reduced need for repeated manual actions",
+        "Guaranteed absence of failures"
+      ],
+      "a": 2,
+      "e": "Connected sensing and control can automate repetitive tasks.",
+      "d": "Medium",
+      "topic": "Internet of Things (IoT)",
+      "slo": "Explain or apply concepts of internet of things (iot) in computer science applications."
+    },
+    {
+      "id": "CS11CH05-120",
+      "q": "In a Class 11 Computer Science review, consider this question: What is authentication?",
+      "o": [
+        "Checking the identity of a user or device",
+        "Measuring network speed only",
+        "Deleting all packets",
+        "Turning off all firewalls"
+      ],
+      "a": 0,
+      "e": "Authentication verifies claimed identities.",
+      "d": "Easy",
+      "topic": "Communication Protocols",
+      "slo": "Explain or apply concepts of communication protocols in computer science applications."
+    },
+    {
+      "id": "CS11CH05-121",
+      "q": "In a Class 11 Computer Science review, consider this question: What is a consortium blockchain?",
+      "o": [
+        "An unconnected sensor",
+        "A single personal USB drive",
+        "A chain with no participants",
+        "A blockchain governed by a group of organizations"
+      ],
+      "a": 3,
+      "e": "Consortium networks involve multiple governing organizations.",
+      "d": "Easy",
+      "topic": "Blockchain Technology",
+      "slo": "Explain or apply concepts of blockchain technology in computer science applications."
+    },
+    {
+      "id": "CS11CH05-122",
+      "q": "For an application-of-computer-science quiz, select the best response: Which is an example of an IoT application?",
+      "o": [
+        "A wall poster",
+        "A paper notebook",
+        "Smart home lighting controlled remotely",
+        "A mechanical pencil"
+      ],
+      "a": 2,
+      "e": "Smart lighting can be controlled using connected devices.",
+      "d": "Medium",
+      "topic": "Internet of Things (IoT)",
+      "slo": "Explain or apply concepts of internet of things (iot) in computer science applications."
+    },
+    {
+      "id": "CS11CH05-123",
+      "q": "In a Class 11 Computer Science review, consider this question: Why is reliability important in embedded systems?",
+      "o": [
+        "All embedded systems are games",
+        "Devices never interact with the real world",
+        "Failures may affect physical equipment and safety",
+        "Embedded code is never tested"
+      ],
+      "a": 2,
+      "e": "Dedicated controllers may operate critical physical functions.",
+      "d": "Medium",
+      "topic": "Embedded Systems",
+      "slo": "Explain or apply concepts of embedded systems in computer science applications."
+    },
+    {
+      "id": "CS11CH05-124",
+      "q": "Which is a limitation of some blockchain networks?",
+      "o": [
+        "Unlimited speed by definition",
+        "Transaction throughput and energy costs",
+        "No need for computing resources",
+        "Guaranteed privacy of every record"
+      ],
+      "a": 1,
+      "e": "Some consensus designs have performance and resource trade-offs.",
+      "d": "Medium",
+      "topic": "Blockchain Technology",
+      "slo": "Explain or apply concepts of blockchain technology in computer science applications."
+    },
+    {
+      "id": "CS11CH05-125",
+      "q": "In a Class 11 Computer Science review, consider this question: What is accountability in AI?",
+      "o": [
+        "A guarantee of flawless predictions",
+        "Responsibility for system decisions and impacts",
+        "The absence of any human oversight",
+        "Automatic deletion of data"
+      ],
+      "a": 1,
+      "e": "Organizations and people remain responsible for AI use.",
+      "d": "Easy",
+      "topic": "Stakeholders in AI Systems",
+      "slo": "Explain or apply concepts of stakeholders in ai systems in computer science applications."
+    },
+    {
+      "id": "CS11CH05-126",
+      "q": "In a Class 11 Computer Science review, consider this question: Which is an example of a cloud-based collaboration service?",
+      "o": [
+        "Online shared document editor",
+        "A paper notebook",
+        "A standalone calculator without connectivity",
+        "An unplugged scanner"
+      ],
+      "a": 0,
+      "e": "Shared online documents allow networked collaboration.",
+      "d": "Medium",
+      "topic": "Cloud Computing",
+      "slo": "Explain or apply concepts of cloud computing in computer science applications."
+    },
+    {
+      "id": "CS11CH05-127",
+      "q": "Why do blockchain blocks reference previous blocks?",
+      "o": [
+        "To guarantee unlimited storage",
+        "To avoid all cryptography",
+        "To delete transactions automatically",
+        "To make the record sequence tamper-evident"
+      ],
+      "a": 3,
+      "e": "Hash linking helps reveal changes to earlier blocks.",
+      "d": "Medium",
+      "topic": "Blockchain Technology",
+      "slo": "Explain or apply concepts of blockchain technology in computer science applications."
+    },
+    {
+      "id": "CS11CH05-128",
+      "q": "What is structured data?",
+      "o": [
+        "Unlabeled pictures only",
+        "Information organized in a defined schema such as tables",
+        "Randomly mixed text without fields",
+        "Only audio recordings"
+      ],
+      "a": 1,
+      "e": "Structured data follows a regular organization.",
+      "d": "Easy",
+      "topic": "Big Data Analytics",
+      "slo": "Explain or apply concepts of big data analytics in computer science applications."
+    },
+    {
+      "id": "CS11CH05-129",
+      "q": "In a Class 11 Computer Science review, consider this question: What is the role of a sensor in IoT?",
+      "o": [
+        "Compile source code",
+        "Collect information about physical conditions",
+        "Only display advertisements",
+        "Replace all networks"
+      ],
+      "a": 1,
+      "e": "Sensors measure conditions such as temperature or movement.",
+      "d": "Easy",
+      "topic": "Internet of Things (IoT)",
+      "slo": "Explain or apply concepts of internet of things (iot) in computer science applications."
+    },
+    {
+      "id": "CS11CH05-130",
+      "q": "What is cloud computing?",
+      "o": [
+        "Providing computing resources over a network on demand",
+        "Only storing files on a local USB stick",
+        "Printing all records",
+        "Using computers without software"
+      ],
+      "a": 0,
+      "e": "Cloud services deliver remote computing resources.",
+      "d": "Easy",
+      "topic": "Cloud Computing",
+      "slo": "Explain or apply concepts of cloud computing in computer science applications."
+    },
+    {
+      "id": "CS11CH05-131",
+      "q": "In a Class 11 Computer Science review, consider this question: Why is IoT security important?",
+      "o": [
+        "Connected devices can expose data or be attacked",
+        "Passwords make no difference",
+        "Networks never have vulnerabilities",
+        "Sensors cannot send information"
+      ],
+      "a": 0,
+      "e": "Connected devices need safeguards for data and control.",
+      "d": "Medium",
+      "topic": "Internet of Things (IoT)",
+      "slo": "Explain or apply concepts of internet of things (iot) in computer science applications."
+    },
+    {
+      "id": "CS11CH05-132",
+      "q": "In a Class 11 Computer Science review, consider this question: Why is encryption useful during network communication?",
+      "o": [
+        "Eliminates all network delays",
+        "Guarantees the sender never makes mistakes",
+        "Protects information from unauthorized reading",
+        "Removes the need for authentication"
+      ],
+      "a": 2,
+      "e": "Encryption protects data confidentiality in transit.",
+      "d": "Medium",
+      "topic": "Communication Protocols",
+      "slo": "Explain or apply concepts of communication protocols in computer science applications."
+    },
+    {
+      "id": "CS11CH05-133",
+      "q": "Which is an example of an embedded system?",
+      "o": [
+        "A cardboard box",
+        "Controller inside a washing machine",
+        "A blank sheet of paper",
+        "A manual pencil sharpener"
+      ],
+      "a": 1,
+      "e": "Appliance controllers use dedicated computing hardware and software.",
+      "d": "Medium",
+      "topic": "Embedded Systems",
+      "slo": "Explain or apply concepts of embedded systems in computer science applications."
+    },
+    {
+      "id": "CS11CH05-134",
+      "q": "Which concern is especially relevant when analyzing personal data?",
+      "o": [
+        "Removing all consent processes",
+        "Ignoring data access rules",
+        "Making all records public",
+        "Privacy and responsible use"
+      ],
+      "a": 3,
+      "e": "Personal data requires appropriate privacy safeguards.",
+      "d": "Medium",
+      "topic": "Big Data Analytics",
+      "slo": "Explain or apply concepts of big data analytics in computer science applications."
+    },
+    {
+      "id": "CS11CH05-135",
+      "q": "In a Class 11 Computer Science review, consider this question: What does real-time behavior mean in an embedded system?",
+      "o": [
+        "Responding within required timing constraints",
+        "Always operating faster than every desktop",
+        "Only updating once a month",
+        "Never using a clock"
+      ],
+      "a": 0,
+      "e": "Some embedded tasks must meet deadlines.",
+      "d": "Easy",
+      "topic": "Embedded Systems",
+      "slo": "Explain or apply concepts of embedded systems in computer science applications."
+    },
+    {
+      "id": "CS11CH05-136",
+      "q": "In a Class 11 Computer Science review, consider this question: Why do network devices use protocols?",
+      "o": [
+        "To print every packet",
+        "To communicate in agreed formats and procedures",
+        "To avoid all data transmission",
+        "To eliminate physical hardware"
+      ],
+      "a": 1,
+      "e": "Shared rules support interoperable communication.",
+      "d": "Medium",
+      "topic": "Communication Protocols",
+      "slo": "Explain or apply concepts of communication protocols in computer science applications."
+    },
+    {
+      "id": "CS11CH05-137",
+      "q": "In a Class 11 Computer Science review, consider this question: What does environmental monitoring use sensors for?",
+      "o": [
+        "Tracking conditions such as air quality and temperature",
+        "Printing certificates",
+        "Deleting data records",
+        "Replacing all maps with games"
+      ],
+      "a": 0,
+      "e": "Environmental sensors track measurable conditions.",
+      "d": "Easy",
+      "topic": "Technologies Enabling IoT",
+      "slo": "Explain or apply concepts of technologies enabling iot in computer science applications."
+    },
+    {
+      "id": "CS11CH05-138",
+      "q": "For an application-of-computer-science quiz, select the best response: Which component provides connectivity for IoT devices?",
+      "o": [
+        "A whiteboard",
+        "A pencil",
+        "A network interface",
+        "A chair"
+      ],
+      "a": 2,
+      "e": "Connectivity enables devices to exchange data.",
+      "d": "Medium",
+      "topic": "Internet of Things (IoT)",
+      "slo": "Explain or apply concepts of internet of things (iot) in computer science applications."
+    },
+    {
+      "id": "CS11CH05-139",
+      "q": "In a Class 11 Computer Science review, consider this question: What is decentralization in blockchain?",
+      "o": [
+        "Record control or validation is spread across participants",
+        "All computers are disconnected",
+        "One central operator must edit every copy",
+        "No rules govern transactions"
+      ],
+      "a": 0,
+      "e": "Blockchain networks can distribute validation across nodes.",
+      "d": "Easy",
+      "topic": "Blockchain Technology",
+      "slo": "Explain or apply concepts of blockchain technology in computer science applications."
+    },
+    {
+      "id": "CS11CH05-140",
+      "q": "In a Class 11 Computer Science review, consider this question: What is a key advantage of wireless sensors?",
+      "o": [
+        "They always have unlimited range",
+        "They can transmit readings without a data cable",
+        "They cannot suffer interference",
+        "They never require energy"
+      ],
+      "a": 1,
+      "e": "Wireless links reduce the need for wired data connections.",
+      "d": "Easy",
+      "topic": "Technologies Enabling IoT",
+      "slo": "Explain or apply concepts of technologies enabling iot in computer science applications."
+    },
+    {
+      "id": "CS11CH05-141",
+      "q": "What is firmware?",
+      "o": [
+        "A cloud billing plan",
+        "Software stored to control hardware functions",
+        "A physical cooling fan",
+        "Only a printed instruction sheet"
+      ],
+      "a": 1,
+      "e": "Firmware provides low-level control for devices.",
+      "d": "Easy",
+      "topic": "Embedded Systems",
+      "slo": "Explain or apply concepts of embedded systems in computer science applications."
+    },
+    {
+      "id": "CS11CH05-142",
+      "q": "In a Class 11 Computer Science review, consider this question: What is a consensus mechanism?",
+      "o": [
+        "A printer driver",
+        "A data visualization palette",
+        "A method for participants to agree on valid ledger state",
+        "A sensor calibration technique"
+      ],
+      "a": 2,
+      "e": "Consensus helps nodes agree on accepted records.",
+      "d": "Easy",
+      "topic": "Blockchain Technology",
+      "slo": "Explain or apply concepts of blockchain technology in computer science applications."
+    },
+    {
+      "id": "CS11CH05-143",
+      "q": "In a Class 11 Computer Science review, consider this question: Which IoT application supports remote patient monitoring?",
+      "o": [
+        "Connected health-monitoring devices",
+        "An offline ruler",
+        "A printed calendar",
+        "A manual filing cabinet"
+      ],
+      "a": 0,
+      "e": "Connected medical sensors can transmit patient measurements.",
+      "d": "Medium",
+      "topic": "Internet of Things (IoT)",
+      "slo": "Explain or apply concepts of internet of things (iot) in computer science applications."
+    },
+    {
+      "id": "CS11CH05-144",
+      "q": "In a Class 11 Computer Science review, consider this question: Which is a challenge of deploying many IoT devices?",
+      "o": [
+        "Avoiding all data",
+        "Eliminating every network",
+        "Removing electricity from all sensors",
+        "Managing security and interoperability"
+      ],
+      "a": 3,
+      "e": "Large IoT systems face security, compatibility and maintenance challenges.",
+      "d": "Medium",
+      "topic": "Internet of Things (IoT)",
+      "slo": "Explain or apply concepts of internet of things (iot) in computer science applications."
+    },
+    {
+      "id": "CS11CH05-145",
+      "q": "In a Class 11 Computer Science review, consider this question: Which concern arises if an AI model works poorly for one demographic group?",
+      "o": [
+        "Higher screen resolution",
+        "Improved battery capacity",
+        "Fairness and discriminatory impact",
+        "Faster printer speed"
+      ],
+      "a": 2,
+      "e": "Unequal performance can harm affected groups.",
+      "d": "Medium",
+      "topic": "Stakeholders in AI Systems",
+      "slo": "Explain or apply concepts of stakeholders in ai systems in computer science applications."
+    },
+    {
+      "id": "CS11CH05-146",
+      "q": "For an application-of-computer-science quiz, select the best response: Which IoT use can improve farming?",
+      "o": [
+        "Randomly watering every hour",
+        "Soil-moisture sensors for irrigation",
+        "Disabling all sensors",
+        "Using only paper maps"
+      ],
+      "a": 1,
+      "e": "Moisture readings help guide watering decisions.",
+      "d": "Medium",
+      "topic": "Internet of Things (IoT)",
+      "slo": "Explain or apply concepts of internet of things (iot) in computer science applications."
+    },
+    {
+      "id": "CS11CH05-147",
+      "q": "In a Class 11 Computer Science review, consider this question: Which is a limitation of some blockchain networks?",
+      "o": [
+        "Unlimited speed by definition",
+        "Transaction throughput and energy costs",
+        "No need for computing resources",
+        "Guaranteed privacy of every record"
+      ],
+      "a": 1,
+      "e": "Some consensus designs have performance and resource trade-offs.",
+      "d": "Medium",
+      "topic": "Blockchain Technology",
+      "slo": "Explain or apply concepts of blockchain technology in computer science applications."
+    },
+    {
+      "id": "CS11CH05-148",
+      "q": "In a Class 11 Computer Science review, consider this question: What is a common role of a gateway in IoT?",
+      "o": [
+        "Print every measurement",
+        "Replace every sensor with a display",
+        "Eliminate network protocols",
+        "Connect local devices to other networks or services"
+      ],
+      "a": 3,
+      "e": "Gateways bridge devices and wider networks.",
+      "d": "Easy",
+      "topic": "Technologies Enabling IoT",
+      "slo": "Explain or apply concepts of technologies enabling iot in computer science applications."
+    },
+    {
+      "id": "CS11CH05-149",
+      "q": "What does a smart thermostat commonly do?",
+      "o": [
+        "Adjust heating or cooling using sensed temperature",
+        "Print documents automatically",
+        "Sort alphabetically",
+        "Store blockchain blocks only"
+      ],
+      "a": 0,
+      "e": "A thermostat combines temperature sensing and control.",
+      "d": "Easy",
+      "topic": "Internet of Things (IoT)",
+      "slo": "Explain or apply concepts of internet of things (iot) in computer science applications."
+    },
+    {
+      "id": "CS11CH05-150",
+      "q": "What is a common goal of big-data analytics?",
+      "o": [
+        "Avoiding any interpretation",
+        "Destroying all stored observations",
+        "Turning all numbers into images",
+        "Discovering patterns and supporting decisions"
+      ],
+      "a": 3,
+      "e": "Analytics derives useful information from large datasets.",
+      "d": "Easy",
+      "topic": "Big Data Analytics",
+      "slo": "Explain or apply concepts of big data analytics in computer science applications."
+    },
+    {
+      "id": "CS11CH05-151",
+      "q": "In a Class 11 Computer Science review, consider this question: What is an IoT device?",
+      "o": [
+        "A non-electronic chair",
+        "A physical object with sensing, processing or connectivity",
+        "A purely handwritten algorithm",
+        "A printed document"
+      ],
+      "a": 1,
+      "e": "IoT devices interact with their environment and exchange information.",
+      "d": "Easy",
+      "topic": "Internet of Things (IoT)",
+      "slo": "Explain or apply concepts of internet of things (iot) in computer science applications."
+    },
+    {
+      "id": "CS11CH05-152",
+      "q": "In a Class 11 Computer Science review, consider this question: What is firmware?",
+      "o": [
+        "A cloud billing plan",
+        "Software stored to control hardware functions",
+        "A physical cooling fan",
+        "Only a printed instruction sheet"
+      ],
+      "a": 1,
+      "e": "Firmware provides low-level control for devices.",
+      "d": "Easy",
+      "topic": "Embedded Systems",
+      "slo": "Explain or apply concepts of embedded systems in computer science applications."
+    },
+    {
+      "id": "CS11CH05-153",
+      "q": "In a Class 11 Computer Science review, consider this question: What is an AI system audit?",
+      "o": [
+        "Review of system behavior, controls and impacts",
+        "Replacing a keyboard",
+        "Turning off the internet permanently",
+        "Cleaning a monitor screen"
+      ],
+      "a": 0,
+      "e": "Audits assess performance and governance.",
+      "d": "Easy",
+      "topic": "Stakeholders in AI Systems",
+      "slo": "Explain or apply concepts of stakeholders in ai systems in computer science applications."
+    },
+    {
+      "id": "CS11CH05-154",
+      "q": "What is a permissionless blockchain?",
+      "o": [
+        "A local text document",
+        "A blockchain restricted to one employee",
+        "A cloud backup folder",
+        "A network that generally permits open participation"
+      ],
+      "a": 3,
+      "e": "Permissionless networks allow broad entry under protocol rules.",
+      "d": "Easy",
+      "topic": "Blockchain Technology",
+      "slo": "Explain or apply concepts of blockchain technology in computer science applications."
+    },
+    {
+      "id": "CS11CH05-155",
+      "q": "Which is an example of a cloud-based collaboration service?",
+      "o": [
+        "Online shared document editor",
+        "A paper notebook",
+        "A standalone calculator without connectivity",
+        "An unplugged scanner"
+      ],
+      "a": 0,
+      "e": "Shared online documents allow networked collaboration.",
+      "d": "Medium",
+      "topic": "Cloud Computing",
+      "slo": "Explain or apply concepts of cloud computing in computer science applications."
+    },
+    {
+      "id": "CS11CH05-156",
+      "q": "In a Class 11 Computer Science review, consider this question: Why should AI decisions be explainable when possible?",
+      "o": [
+        "Affected people may need reasons and avenues for challenge",
+        "Only developers deserve information",
+        "Models cannot make errors",
+        "Explanations eliminate every risk"
+      ],
+      "a": 0,
+      "e": "Explanations can support trust and accountability.",
+      "d": "Medium",
+      "topic": "Stakeholders in AI Systems",
+      "slo": "Explain or apply concepts of stakeholders in ai systems in computer science applications."
+    },
+    {
+      "id": "CS11CH05-157",
+      "q": "What is a distributed ledger?",
+      "o": [
+        "A record replicated or shared across multiple nodes",
+        "A single paper record locked away",
+        "A spreadsheet with no copies",
+        "An isolated monitor"
+      ],
+      "a": 0,
+      "e": "Distributed ledgers maintain records across participants.",
+      "d": "Easy",
+      "topic": "Blockchain Technology",
+      "slo": "Explain or apply concepts of blockchain technology in computer science applications."
+    },
+    {
+      "id": "CS11CH05-158",
+      "q": "What is informed consent in data collection?",
+      "o": [
+        "Every record is automatically public",
+        "A machine gives permission on behalf of everyone",
+        "Data are collected secretly without notice",
+        "People understand and agree to appropriate data use"
+      ],
+      "a": 3,
+      "e": "Consent involves meaningful information and choice.",
+      "d": "Easy",
+      "topic": "Stakeholders in AI Systems",
+      "slo": "Explain or apply concepts of stakeholders in ai systems in computer science applications."
+    },
+    {
+      "id": "CS11CH05-159",
+      "q": "In a Class 11 Computer Science review, consider this question: What is informed consent in data collection?",
+      "o": [
+        "Every record is automatically public",
+        "A machine gives permission on behalf of everyone",
+        "Data are collected secretly without notice",
+        "People understand and agree to appropriate data use"
+      ],
+      "a": 3,
+      "e": "Consent involves meaningful information and choice.",
+      "d": "Easy",
+      "topic": "Stakeholders in AI Systems",
+      "slo": "Explain or apply concepts of stakeholders in ai systems in computer science applications."
+    },
+    {
+      "id": "CS11CH05-160",
+      "q": "In a Class 11 Computer Science review, consider this question: Which property makes blockchain records difficult to change unnoticed?",
+      "o": [
+        "Unlimited monitor brightness",
+        "Cryptographic linking and replicated verification",
+        "Printing every block",
+        "A larger keyboard"
+      ],
+      "a": 1,
+      "e": "Linked hashes and network verification help detect tampering.",
+      "d": "Medium",
+      "topic": "Blockchain Technology",
+      "slo": "Explain or apply concepts of blockchain technology in computer science applications."
+    },
+    {
+      "id": "CS11CH05-161",
+      "q": "In a Class 11 Computer Science review, consider this question: What does IoT stand for?",
+      "o": [
+        "Internet of Things",
+        "Interface of Tools",
+        "Input of Technology",
+        "Internet of Text"
+      ],
+      "a": 0,
+      "e": "IoT connects physical devices through networks.",
+      "d": "Easy",
+      "topic": "Internet of Things (IoT)",
+      "slo": "Explain or apply concepts of internet of things (iot) in computer science applications."
+    },
+    {
+      "id": "CS11CH05-162",
+      "q": "What is a private cloud?",
+      "o": [
+        "A personal paper diary",
+        "A shared public social media account",
+        "Cloud infrastructure dedicated to one organization",
+        "A public Wi-Fi password"
+      ],
+      "a": 2,
+      "e": "Private clouds are dedicated to a single organization.",
+      "d": "Easy",
+      "topic": "Cloud Computing",
+      "slo": "Explain or apply concepts of cloud computing in computer science applications."
+    },
+    {
+      "id": "CS11CH05-163",
+      "q": "What does IoT stand for?",
+      "o": [
+        "Internet of Things",
+        "Interface of Tools",
+        "Input of Technology",
+        "Internet of Text"
+      ],
+      "a": 0,
+      "e": "IoT connects physical devices through networks.",
+      "d": "Easy",
+      "topic": "Internet of Things (IoT)",
+      "slo": "Explain or apply concepts of internet of things (iot) in computer science applications."
+    },
+    {
+      "id": "CS11CH05-164",
+      "q": "Which stakeholder may experience consequences of an AI hiring tool?",
+      "o": [
+        "Only the power cable",
+        "Only the data center floor",
+        "Only the office printer",
+        "Job applicants"
+      ],
+      "a": 3,
+      "e": "Applicants can be affected by automated screening.",
+      "d": "Medium",
+      "topic": "Stakeholders in AI Systems",
+      "slo": "Explain or apply concepts of stakeholders in ai systems in computer science applications."
+    },
+    {
+      "id": "CS11CH05-165",
+      "q": "What does environmental monitoring use sensors for?",
+      "o": [
+        "Tracking conditions such as air quality and temperature",
+        "Printing certificates",
+        "Deleting data records",
+        "Replacing all maps with games"
+      ],
+      "a": 0,
+      "e": "Environmental sensors track measurable conditions.",
+      "d": "Easy",
+      "topic": "Technologies Enabling IoT",
+      "slo": "Explain or apply concepts of technologies enabling iot in computer science applications."
+    },
+    {
+      "id": "CS11CH05-166",
+      "q": "What does a block in a blockchain generally contain?",
+      "o": [
+        "A paper envelope",
+        "Only a keyboard layout",
+        "A temperature sensor",
+        "Transaction data and linking information"
+      ],
+      "a": 3,
+      "e": "Blocks group records and connect to prior blocks.",
+      "d": "Easy",
+      "topic": "Blockchain Technology",
+      "slo": "Explain or apply concepts of blockchain technology in computer science applications."
+    },
+    {
+      "id": "CS11CH05-167",
+      "q": "Who is an AI stakeholder?",
+      "o": [
+        "Only the keyboard manufacturer",
+        "Only a computer fan",
+        "A network cable",
+        "A person or group affected by or involved in an AI system"
+      ],
+      "a": 3,
+      "e": "Stakeholders include builders, users and affected groups.",
+      "d": "Easy",
+      "topic": "Stakeholders in AI Systems",
+      "slo": "Explain or apply concepts of stakeholders in ai systems in computer science applications."
+    },
+    {
+      "id": "CS11CH05-168",
+      "q": "In a Class 11 Computer Science review, consider this question: Which is an example of an embedded system?",
+      "o": [
+        "A cardboard box",
+        "Controller inside a washing machine",
+        "A blank sheet of paper",
+        "A manual pencil sharpener"
+      ],
+      "a": 1,
+      "e": "Appliance controllers use dedicated computing hardware and software.",
+      "d": "Medium",
+      "topic": "Embedded Systems",
+      "slo": "Explain or apply concepts of embedded systems in computer science applications."
+    },
+    {
+      "id": "CS11CH05-169",
+      "q": "In a Class 11 Computer Science review, consider this question: What is structured data?",
+      "o": [
+        "Unlabeled pictures only",
+        "Information organized in a defined schema such as tables",
+        "Randomly mixed text without fields",
+        "Only audio recordings"
+      ],
+      "a": 1,
+      "e": "Structured data follows a regular organization.",
+      "d": "Easy",
+      "topic": "Big Data Analytics",
+      "slo": "Explain or apply concepts of big data analytics in computer science applications."
+    },
+    {
+      "id": "CS11CH05-170",
+      "q": "In a Class 11 Computer Science review, consider this question: What is an industrial sensor application?",
+      "o": [
+        "Writing a school timetable by hand",
+        "Printing a novel",
+        "Monitoring machine vibration",
+        "Changing a desktop wallpaper"
+      ],
+      "a": 2,
+      "e": "Industrial sensors monitor equipment conditions.",
+      "d": "Easy",
+      "topic": "Technologies Enabling IoT",
+      "slo": "Explain or apply concepts of technologies enabling iot in computer science applications."
+    },
+    {
+      "id": "CS11CH05-171",
+      "q": "Why should blockchain users protect private keys?",
+      "o": [
+        "Private keys measure temperature",
+        "A stolen key can authorize unauthorized transactions",
+        "Keys are only decorative",
+        "Public keys must never be shared"
+      ],
+      "a": 1,
+      "e": "Private keys control cryptographic authorization.",
+      "d": "Medium",
+      "topic": "Blockchain Technology",
+      "slo": "Explain or apply concepts of blockchain technology in computer science applications."
+    },
+    {
+      "id": "CS11CH05-172",
+      "q": "What is a public cloud?",
+      "o": [
+        "A cloud used only inside one organization",
+        "A disconnected home router",
+        "Cloud services offered to multiple customers by a provider",
+        "A paper archive open to the public"
+      ],
+      "a": 2,
+      "e": "Public cloud infrastructure serves customers through a provider.",
+      "d": "Easy",
+      "topic": "Cloud Computing",
+      "slo": "Explain or apply concepts of cloud computing in computer science applications."
+    },
+    {
+      "id": "CS11CH05-173",
+      "q": "What is the role of a microcontroller output pin?",
+      "o": [
+        "Replace network routing",
+        "Always measure temperature",
+        "Hold a paper document",
+        "Send a control signal to another component"
+      ],
+      "a": 3,
+      "e": "Output pins drive indicators and actuators.",
+      "d": "Easy",
+      "topic": "Embedded Systems",
+      "slo": "Explain or apply concepts of embedded systems in computer science applications."
+    },
+    {
+      "id": "CS11CH05-174",
+      "q": "In a Class 11 Computer Science review, consider this question: What does IP primarily provide?",
+      "o": [
+        "Physical temperature measurement",
+        "Addressing and routing of packets",
+        "Spreadsheet formatting",
+        "Battery charging"
+      ],
+      "a": 1,
+      "e": "Internet Protocol identifies destinations and routes packets.",
+      "d": "Easy",
+      "topic": "Communication Protocols",
+      "slo": "Explain or apply concepts of communication protocols in computer science applications."
+    },
+    {
+      "id": "CS11CH05-175",
+      "q": "What is the role of data subjects?",
+      "o": [
+        "Only engineers building servers",
+        "Only printer manufacturers",
+        "People whose information is collected or processed",
+        "Only network routers"
+      ],
+      "a": 2,
+      "e": "Data subjects have interests in the use of their information.",
+      "d": "Easy",
+      "topic": "Stakeholders in AI Systems",
+      "slo": "Explain or apply concepts of stakeholders in ai systems in computer science applications."
+    },
+    {
+      "id": "CS11CH05-176",
+      "q": "What is a watchdog timer used for?",
+      "o": [
+        "Detecting software hangs and triggering recovery",
+        "Compressing images",
+        "Sending email attachments",
+        "Measuring wind speed"
+      ],
+      "a": 0,
+      "e": "Watchdogs can help recover from unresponsive software.",
+      "d": "Easy",
+      "topic": "Embedded Systems",
+      "slo": "Explain or apply concepts of embedded systems in computer science applications."
+    },
+    {
+      "id": "CS11CH05-177",
+      "q": "In a Class 11 Computer Science review, consider this question: What is a cloud data center?",
+      "o": [
+        "A classroom noticeboard",
+        "Facility hosting servers, storage and networking",
+        "A local paper cupboard",
+        "A single monitor without computing hardware"
+      ],
+      "a": 1,
+      "e": "Cloud providers operate physical infrastructure in data centers.",
+      "d": "Easy",
+      "topic": "Cloud Computing",
+      "slo": "Explain or apply concepts of cloud computing in computer science applications."
+    },
+    {
+      "id": "CS11CH05-178",
+      "q": "What is a blockchain wallet used for?",
+      "o": [
+        "Managing keys used to authorize blockchain transactions",
+        "Measuring network latency",
+        "Cooling mining equipment",
+        "Storing paper money physically inside a computer"
+      ],
+      "a": 0,
+      "e": "Wallets manage credentials and transaction signing.",
+      "d": "Easy",
+      "topic": "Blockchain Technology",
+      "slo": "Explain or apply concepts of blockchain technology in computer science applications."
+    },
+    {
+      "id": "CS11CH05-179",
+      "q": "In a Class 11 Computer Science review, consider this question: Why might sensors need calibration?",
+      "o": [
+        "To improve accuracy of measured values",
+        "To eliminate every error permanently",
+        "To change their color",
+        "To disable data collection"
+      ],
+      "a": 0,
+      "e": "Calibration compares or adjusts measurement performance.",
+      "d": "Medium",
+      "topic": "Technologies Enabling IoT",
+      "slo": "Explain or apply concepts of technologies enabling iot in computer science applications."
+    },
+    {
+      "id": "CS11CH05-180",
+      "q": "Which activity is predictive analytics?",
+      "o": [
+        "Measuring a paper margin",
+        "Deleting unused folders",
+        "Only printing yesterday's receipts",
+        "Forecasting future demand from historical patterns"
+      ],
+      "a": 3,
+      "e": "Predictive analytics uses patterns to estimate future outcomes.",
+      "d": "Medium",
+      "topic": "Big Data Analytics",
+      "slo": "Explain or apply concepts of big data analytics in computer science applications."
+    },
+    {
+      "id": "CS11CH05-181",
+      "q": "Which is an example of an IoT application?",
+      "o": [
+        "A wall poster",
+        "A paper notebook",
+        "Smart home lighting controlled remotely",
+        "A mechanical pencil"
+      ],
+      "a": 2,
+      "e": "Smart lighting can be controlled using connected devices.",
+      "d": "Medium",
+      "topic": "Internet of Things (IoT)",
+      "slo": "Explain or apply concepts of internet of things (iot) in computer science applications."
+    },
+    {
+      "id": "CS11CH05-182",
+      "q": "In a Class 11 Computer Science review, consider this question: What does data visualization help with?",
+      "o": [
+        "Replacing all calculations",
+        "Guaranteeing causal relationships",
+        "Understanding patterns through charts and graphics",
+        "Eliminating all outliers"
+      ],
+      "a": 2,
+      "e": "Visuals make complex patterns easier to interpret.",
+      "d": "Easy",
+      "topic": "Big Data Analytics",
+      "slo": "Explain or apply concepts of big data analytics in computer science applications."
+    },
+    {
+      "id": "CS11CH05-183",
+      "q": "In a Class 11 Computer Science review, consider this question: What is a private cloud?",
+      "o": [
+        "A personal paper diary",
+        "A shared public social media account",
+        "Cloud infrastructure dedicated to one organization",
+        "A public Wi-Fi password"
+      ],
+      "a": 2,
+      "e": "Private clouds are dedicated to a single organization.",
+      "d": "Easy",
+      "topic": "Cloud Computing",
+      "slo": "Explain or apply concepts of cloud computing in computer science applications."
+    },
+    {
+      "id": "CS11CH05-184",
+      "q": "Which activity is descriptive analytics?",
+      "o": [
+        "Summarizing past sales trends",
+        "Changing a network cable",
+        "Predicting with no historical information",
+        "Writing a device driver"
+      ],
+      "a": 0,
+      "e": "Descriptive analytics reports what happened.",
+      "d": "Medium",
+      "topic": "Big Data Analytics",
+      "slo": "Explain or apply concepts of big data analytics in computer science applications."
+    },
+    {
+      "id": "CS11CH05-185",
+      "q": "Why is data cleaning important in big-data analysis?",
+      "o": [
+        "Poor-quality data can distort results",
+        "It replaces all analysis",
+        "It eliminates all computing costs",
+        "It guarantees every prediction"
+      ],
+      "a": 0,
+      "e": "Reliable analysis depends on data quality.",
+      "d": "Medium",
+      "topic": "Big Data Analytics",
+      "slo": "Explain or apply concepts of big data analytics in computer science applications."
+    },
+    {
+      "id": "CS11CH05-186",
+      "q": "Which big-data characteristic refers to amount of data?",
+      "o": [
+        "Volume",
+        "Veracity",
+        "Velocity",
+        "Variety"
+      ],
+      "a": 0,
+      "e": "Volume describes data quantity.",
+      "d": "Medium",
+      "topic": "Big Data Analytics",
+      "slo": "Explain or apply concepts of big data analytics in computer science applications."
+    },
+    {
+      "id": "CS11CH05-187",
+      "q": "Why is reliability important in embedded systems?",
+      "o": [
+        "All embedded systems are games",
+        "Devices never interact with the real world",
+        "Failures may affect physical equipment and safety",
+        "Embedded code is never tested"
+      ],
+      "a": 2,
+      "e": "Dedicated controllers may operate critical physical functions.",
+      "d": "Medium",
+      "topic": "Embedded Systems",
+      "slo": "Explain or apply concepts of embedded systems in computer science applications."
+    },
+    {
+      "id": "CS11CH05-188",
+      "q": "In a Class 11 Computer Science review, consider this question: What is a cloud backup used for?",
+      "o": [
+        "Deleting original data without replacement",
+        "Increasing screen brightness",
+        "Keeping recoverable copies of information",
+        "Preventing every possible error"
+      ],
+      "a": 2,
+      "e": "Backups help restore data after loss or damage.",
+      "d": "Easy",
+      "topic": "Cloud Computing",
+      "slo": "Explain or apply concepts of cloud computing in computer science applications."
+    },
+    {
+      "id": "CS11CH05-189",
+      "q": "Why do network devices use protocols?",
+      "o": [
+        "To print every packet",
+        "To communicate in agreed formats and procedures",
+        "To avoid all data transmission",
+        "To eliminate physical hardware"
+      ],
+      "a": 1,
+      "e": "Shared rules support interoperable communication.",
+      "d": "Medium",
+      "topic": "Communication Protocols",
+      "slo": "Explain or apply concepts of communication protocols in computer science applications."
+    },
+    {
+      "id": "CS11CH05-190",
+      "q": "In a Class 11 Computer Science review, consider this question: What is a wireless sensor network?",
+      "o": [
+        "Interconnected sensor nodes sharing observations",
+        "A printed list of sensors",
+        "A set of manual filing folders",
+        "A single disconnected battery"
+      ],
+      "a": 0,
+      "e": "Sensor nodes communicate readings through a network.",
+      "d": "Easy",
+      "topic": "Technologies Enabling IoT",
+      "slo": "Explain or apply concepts of technologies enabling iot in computer science applications."
+    },
+    {
+      "id": "CS11CH05-191",
+      "q": "What does pay-as-you-go cloud pricing mean?",
+      "o": [
+        "Charges depend on resources or services consumed",
+        "No service ever has a cost",
+        "Users must purchase every server",
+        "Every user always pays the same fixed amount"
+      ],
+      "a": 0,
+      "e": "Usage-based billing can match consumption.",
+      "d": "Easy",
+      "topic": "Cloud Computing",
+      "slo": "Explain or apply concepts of cloud computing in computer science applications."
+    },
+    {
+      "id": "CS11CH05-192",
+      "q": "Which embedded application monitors a vehicle engine?",
+      "o": [
+        "Spreadsheet chart",
+        "Desktop wallpaper editor",
+        "Paper map",
+        "Engine control unit"
+      ],
+      "a": 3,
+      "e": "Automotive control units process sensor readings and control functions.",
+      "d": "Medium",
+      "topic": "Embedded Systems",
+      "slo": "Explain or apply concepts of embedded systems in computer science applications."
+    },
+    {
+      "id": "CS11CH05-193",
+      "q": "In a Class 11 Computer Science review, consider this question: What is a public cloud?",
+      "o": [
+        "A cloud used only inside one organization",
+        "A disconnected home router",
+        "Cloud services offered to multiple customers by a provider",
+        "A paper archive open to the public"
+      ],
+      "a": 2,
+      "e": "Public cloud infrastructure serves customers through a provider.",
+      "d": "Easy",
+      "topic": "Cloud Computing",
+      "slo": "Explain or apply concepts of cloud computing in computer science applications."
+    },
+    {
+      "id": "CS11CH05-194",
+      "q": "What is a cloud migration?",
+      "o": [
+        "Converting text into handwriting",
+        "Replacing a keyboard with paper",
+        "Moving applications or data to cloud environments",
+        "Deleting all networks"
+      ],
+      "a": 2,
+      "e": "Migration transfers workloads or information to cloud systems.",
+      "d": "Easy",
+      "topic": "Cloud Computing",
+      "slo": "Explain or apply concepts of cloud computing in computer science applications."
+    },
+    {
+      "id": "CS11CH05-195",
+      "q": "What is the genesis block?",
+      "o": [
+        "First block in a blockchain",
+        "Most recent transaction in every ledger",
+        "A network switch",
+        "A block containing only pictures"
+      ],
+      "a": 0,
+      "e": "The genesis block starts the chain.",
+      "d": "Easy",
+      "topic": "Blockchain Technology",
+      "slo": "Explain or apply concepts of blockchain technology in computer science applications."
+    },
+    {
+      "id": "CS11CH05-196",
+      "q": "What is an embedded actuator interface used for?",
+      "o": [
+        "Controlling motors, relays or other outputs",
+        "Writing a legal contract",
+        "Displaying only website links",
+        "Measuring text font size"
+      ],
+      "a": 0,
+      "e": "Actuator interfaces let controllers influence physical systems.",
+      "d": "Easy",
+      "topic": "Embedded Systems",
+      "slo": "Explain or apply concepts of embedded systems in computer science applications."
+    },
+    {
+      "id": "CS11CH05-197",
+      "q": "In a Class 11 Computer Science review, consider this question: Why is data cleaning important in big-data analysis?",
+      "o": [
+        "Poor-quality data can distort results",
+        "It replaces all analysis",
+        "It eliminates all computing costs",
+        "It guarantees every prediction"
+      ],
+      "a": 0,
+      "e": "Reliable analysis depends on data quality.",
+      "d": "Medium",
+      "topic": "Big Data Analytics",
+      "slo": "Explain or apply concepts of big data analytics in computer science applications."
+    },
+    {
+      "id": "CS11CH05-198",
+      "q": "In a Class 11 Computer Science review, consider this question: Which is a constraint in embedded design?",
+      "o": [
+        "No hardware interactions",
+        "No software requirements",
+        "Limited memory, energy or processing capacity",
+        "Unlimited resources by definition"
+      ],
+      "a": 2,
+      "e": "Embedded devices often operate with constrained resources.",
+      "d": "Medium",
+      "topic": "Embedded Systems",
+      "slo": "Explain or apply concepts of embedded systems in computer science applications."
+    },
+    {
+      "id": "CS11CH05-199",
+      "q": "In a Class 11 Computer Science review, consider this question: Which sensor can measure ambient light?",
+      "o": [
+        "Printer drum",
+        "Light sensor",
+        "Pressure cooker",
+        "Ethernet connector"
+      ],
+      "a": 1,
+      "e": "Light sensors measure illumination.",
+      "d": "Medium",
+      "topic": "Internet of Things (IoT)",
+      "slo": "Explain or apply concepts of internet of things (iot) in computer science applications."
+    },
+    {
+      "id": "CS11CH05-200",
+      "q": "What is the role of a sensor in IoT?",
+      "o": [
+        "Compile source code",
+        "Collect information about physical conditions",
+        "Only display advertisements",
+        "Replace all networks"
+      ],
+      "a": 1,
+      "e": "Sensors measure conditions such as temperature or movement.",
+      "d": "Easy",
+      "topic": "Internet of Things (IoT)",
+      "slo": "Explain or apply concepts of internet of things (iot) in computer science applications."
+    },
+    {
+      "id": "CS11CH05-201",
+      "q": "What does RFID stand for?",
+      "o": [
+        "Remote Format Input Device",
+        "Radio Frequency Identification",
+        "Random File Internet Directory",
+        "Rapid Frequency Internet Data"
+      ],
+      "a": 1,
+      "e": "RFID identifies tags through radio communication.",
+      "d": "Easy",
+      "topic": "Technologies Enabling IoT",
+      "slo": "Explain or apply concepts of technologies enabling iot in computer science applications."
+    },
+    {
+      "id": "CS11CH05-202",
+      "q": "In a Class 11 Computer Science review, consider this question: Which protocol family underlies Internet communication?",
+      "o": [
+        "JPEG only",
+        "PDF only",
+        "TCP/IP",
+        "ASCII only"
+      ],
+      "a": 2,
+      "e": "Internet systems use the TCP/IP protocol suite.",
+      "d": "Medium",
+      "topic": "Communication Protocols",
+      "slo": "Explain or apply concepts of communication protocols in computer science applications."
+    },
+    {
+      "id": "CS11CH05-203",
+      "q": "What is a smart contract?",
+      "o": [
+        "A computer cooling device",
+        "A handwritten legal agreement only",
+        "An ordinary USB plug",
+        "Program that executes defined rules on a blockchain"
+      ],
+      "a": 3,
+      "e": "Smart contracts execute programmed conditions on supporting chains.",
+      "d": "Easy",
+      "topic": "Blockchain Technology",
+      "slo": "Explain or apply concepts of blockchain technology in computer science applications."
+    },
+    {
+      "id": "CS11CH05-204",
+      "q": "In a Class 11 Computer Science review, consider this question: What does pay-as-you-go cloud pricing mean?",
+      "o": [
+        "Charges depend on resources or services consumed",
+        "No service ever has a cost",
+        "Users must purchase every server",
+        "Every user always pays the same fixed amount"
+      ],
+      "a": 0,
+      "e": "Usage-based billing can match consumption.",
+      "d": "Easy",
+      "topic": "Cloud Computing",
+      "slo": "Explain or apply concepts of cloud computing in computer science applications."
+    },
+    {
+      "id": "CS11CH05-205",
+      "q": "What is authentication?",
+      "o": [
+        "Checking the identity of a user or device",
+        "Measuring network speed only",
+        "Deleting all packets",
+        "Turning off all firewalls"
+      ],
+      "a": 0,
+      "e": "Authentication verifies claimed identities.",
+      "d": "Easy",
+      "topic": "Communication Protocols",
+      "slo": "Explain or apply concepts of communication protocols in computer science applications."
+    },
+    {
+      "id": "CS11CH05-206",
+      "q": "Why is user privacy relevant to AI?",
+      "o": [
+        "Privacy is only a hardware concern",
+        "Training or operation may involve personal information",
+        "All personal records must be public",
+        "AI never processes user data"
+      ],
+      "a": 1,
+      "e": "AI systems must manage sensitive data responsibly.",
+      "d": "Medium",
+      "topic": "Stakeholders in AI Systems",
+      "slo": "Explain or apply concepts of stakeholders in ai systems in computer science applications."
+    },
+    {
+      "id": "CS11CH05-207",
+      "q": "In a Class 11 Computer Science review, consider this question: What is MQTT commonly used for?",
+      "o": [
+        "Only drawing charts",
+        "Lightweight publish-subscribe messaging in IoT",
+        "Formatting disk partitions",
+        "Printing spreadsheets"
+      ],
+      "a": 1,
+      "e": "MQTT supports efficient messaging for connected devices.",
+      "d": "Easy",
+      "topic": "Communication Protocols",
+      "slo": "Explain or apply concepts of communication protocols in computer science applications."
+    },
+    {
+      "id": "CS11CH05-208",
+      "q": "In a Class 11 Computer Science review, consider this question: What is a permissioned blockchain?",
+      "o": [
+        "A network with no participant rules",
+        "A public webpage",
+        "A printer with a password",
+        "A network where access or roles require authorization"
+      ],
+      "a": 3,
+      "e": "Permissioned blockchains control who can participate.",
+      "d": "Easy",
+      "topic": "Blockchain Technology",
+      "slo": "Explain or apply concepts of blockchain technology in computer science applications."
+    },
+    {
+      "id": "CS11CH05-209",
+      "q": "In a Class 11 Computer Science review, consider this question: Why do blockchain blocks reference previous blocks?",
+      "o": [
+        "To guarantee unlimited storage",
+        "To avoid all cryptography",
+        "To delete transactions automatically",
+        "To make the record sequence tamper-evident"
+      ],
+      "a": 3,
+      "e": "Hash linking helps reveal changes to earlier blocks.",
+      "d": "Medium",
+      "topic": "Blockchain Technology",
+      "slo": "Explain or apply concepts of blockchain technology in computer science applications."
+    },
+    {
+      "id": "CS11CH05-210",
+      "q": "Which cloud service is most directly suited to storing large files remotely?",
+      "o": [
+        "A handwritten table",
+        "A mechanical switch",
+        "Cloud object or file storage",
+        "A keyboard shortcut"
+      ],
+      "a": 2,
+      "e": "Cloud storage keeps data on remotely managed infrastructure.",
+      "d": "Medium",
+      "topic": "Cloud Computing",
+      "slo": "Explain or apply concepts of cloud computing in computer science applications."
+    },
+    {
+      "id": "CS11CH05-211",
+      "q": "Which property makes blockchain records difficult to change unnoticed?",
+      "o": [
+        "Unlimited monitor brightness",
+        "Cryptographic linking and replicated verification",
+        "Printing every block",
+        "A larger keyboard"
+      ],
+      "a": 1,
+      "e": "Linked hashes and network verification help detect tampering.",
+      "d": "Medium",
+      "topic": "Blockchain Technology",
+      "slo": "Explain or apply concepts of blockchain technology in computer science applications."
+    },
+    {
+      "id": "CS11CH05-212",
+      "q": "In a Class 11 Computer Science review, consider this question: What does publish-subscribe communication mean?",
+      "o": [
+        "Every device must print all messages",
+        "Only one computer can ever connect",
+        "Senders publish messages to topics for interested subscribers",
+        "No network is required"
+      ],
+      "a": 2,
+      "e": "Subscribers receive messages from topics of interest.",
+      "d": "Easy",
+      "topic": "Communication Protocols",
+      "slo": "Explain or apply concepts of communication protocols in computer science applications."
+    },
+    {
+      "id": "CS11CH05-213",
+      "q": "In a Class 11 Computer Science review, consider this question: What is the purpose of device identification in IoT?",
+      "o": [
+        "Eliminate network addresses",
+        "Distinguish devices and their data sources",
+        "Guarantee no device is hacked",
+        "Prevent any automation"
+      ],
+      "a": 1,
+      "e": "Identifiers help systems associate readings with particular devices.",
+      "d": "Easy",
+      "topic": "Technologies Enabling IoT",
+      "slo": "Explain or apply concepts of technologies enabling iot in computer science applications."
+    },
+    {
+      "id": "CS11CH05-214",
+      "q": "In a Class 11 Computer Science review, consider this question: What does bandwidth describe?",
+      "o": [
+        "Number of words in a password",
+        "Size of a desk",
+        "Color of a network cable",
+        "Capacity for data transfer over a link"
+      ],
+      "a": 3,
+      "e": "Bandwidth refers to a link's potential data-carrying capacity.",
+      "d": "Easy",
+      "topic": "Communication Protocols",
+      "slo": "Explain or apply concepts of communication protocols in computer science applications."
+    },
+    {
+      "id": "CS11CH05-215",
+      "q": "In a Class 11 Computer Science review, consider this question: Which cloud model delivers ready-to-use software through a network?",
+      "o": [
+        "Physical Hardware as a Service",
+        "A local-only paper file",
+        "Infrastructure as a Service (IaaS)",
+        "Software as a Service (SaaS)"
+      ],
+      "a": 3,
+      "e": "SaaS delivers applications to end users.",
+      "d": "Medium",
+      "topic": "Cloud Computing",
+      "slo": "Explain or apply concepts of cloud computing in computer science applications."
+    },
+    {
+      "id": "CS11CH05-216",
+      "q": "Why might sensors need calibration?",
+      "o": [
+        "To improve accuracy of measured values",
+        "To eliminate every error permanently",
+        "To change their color",
+        "To disable data collection"
+      ],
+      "a": 0,
+      "e": "Calibration compares or adjusts measurement performance.",
+      "d": "Medium",
+      "topic": "Technologies Enabling IoT",
+      "slo": "Explain or apply concepts of technologies enabling iot in computer science applications."
+    },
+    {
+      "id": "CS11CH05-217",
+      "q": "Which device can detect water level?",
+      "o": [
+        "Mouse pointer",
+        "File folder",
+        "Printer paper",
+        "Water-level sensor"
+      ],
+      "a": 3,
+      "e": "Level sensors monitor liquid height.",
+      "d": "Medium",
+      "topic": "Technologies Enabling IoT",
+      "slo": "Explain or apply concepts of technologies enabling iot in computer science applications."
+    },
+    {
+      "id": "CS11CH05-218",
+      "q": "Which is a benefit of cloud resource sharing?",
+      "o": [
+        "No need for any cybersecurity",
+        "Elimination of all hardware",
+        "Guaranteed zero latency",
+        "Efficient use of pooled computing infrastructure"
+      ],
+      "a": 3,
+      "e": "Cloud services can pool infrastructure for customers.",
+      "d": "Medium",
+      "topic": "Cloud Computing",
+      "slo": "Explain or apply concepts of cloud computing in computer science applications."
+    },
+    {
+      "id": "CS11CH05-219",
+      "q": "In a Class 11 Computer Science review, consider this question: What is an embedded sensor interface used for?",
+      "o": [
+        "Storing paper receipts",
+        "Printing only books",
+        "Reading physical-world measurements",
+        "Drawing blockchain blocks"
+      ],
+      "a": 2,
+      "e": "Interfaces connect sensing hardware to controllers.",
+      "d": "Easy",
+      "topic": "Embedded Systems",
+      "slo": "Explain or apply concepts of embedded systems in computer science applications."
+    },
+    {
+      "id": "CS11CH05-220",
+      "q": "In a Class 11 Computer Science review, consider this question: What is a hybrid cloud?",
+      "o": [
+        "Only a local hard disk",
+        "A device with two monitors",
+        "A system with no network access",
+        "Combination of public and private cloud environments"
+      ],
+      "a": 3,
+      "e": "Hybrid clouds combine cloud deployment models.",
+      "d": "Easy",
+      "topic": "Cloud Computing",
+      "slo": "Explain or apply concepts of cloud computing in computer science applications."
+    },
+    {
+      "id": "CS11CH05-221",
+      "q": "In a Class 11 Computer Science review, consider this question: Which embedded application monitors a vehicle engine?",
+      "o": [
+        "Spreadsheet chart",
+        "Desktop wallpaper editor",
+        "Paper map",
+        "Engine control unit"
+      ],
+      "a": 3,
+      "e": "Automotive control units process sensor readings and control functions.",
+      "d": "Medium",
+      "topic": "Embedded Systems",
+      "slo": "Explain or apply concepts of embedded systems in computer science applications."
+    },
+    {
+      "id": "CS11CH05-222",
+      "q": "In a Class 11 Computer Science review, consider this question: What does an ultrasonic sensor use to estimate distance?",
+      "o": [
+        "Visible text only",
+        "Printed barcodes only",
+        "Reflected high-frequency sound waves",
+        "Blockchain hashes only"
+      ],
+      "a": 2,
+      "e": "Echo timing can be used to infer distance.",
+      "d": "Easy",
+      "topic": "Technologies Enabling IoT",
+      "slo": "Explain or apply concepts of technologies enabling iot in computer science applications."
+    },
+    {
+      "id": "CS11CH05-223",
+      "q": "For an application-of-computer-science quiz, select the best response: Why is IoT security important?",
+      "o": [
+        "Connected devices can expose data or be attacked",
+        "Passwords make no difference",
+        "Networks never have vulnerabilities",
+        "Sensors cannot send information"
+      ],
+      "a": 0,
+      "e": "Connected devices need safeguards for data and control.",
+      "d": "Medium",
+      "topic": "Internet of Things (IoT)",
+      "slo": "Explain or apply concepts of internet of things (iot) in computer science applications."
+    },
+    {
+      "id": "CS11CH05-224",
+      "q": "What is unstructured data?",
+      "o": [
+        "Information without a fixed tabular schema, such as free text or images",
+        "An integer array only",
+        "A database primary key",
+        "Only a spreadsheet with columns"
+      ],
+      "a": 0,
+      "e": "Unstructured sources lack a simple fixed row-column format.",
+      "d": "Easy",
+      "topic": "Big Data Analytics",
+      "slo": "Explain or apply concepts of big data analytics in computer science applications."
+    },
+    {
+      "id": "CS11CH05-225",
+      "q": "In a Class 11 Computer Science review, consider this question: What is the role of data subjects?",
+      "o": [
+        "Only engineers building servers",
+        "Only printer manufacturers",
+        "People whose information is collected or processed",
+        "Only network routers"
+      ],
+      "a": 2,
+      "e": "Data subjects have interests in the use of their information.",
+      "d": "Easy",
+      "topic": "Stakeholders in AI Systems",
+      "slo": "Explain or apply concepts of stakeholders in ai systems in computer science applications."
+    },
+    {
+      "id": "CS11CH05-226",
+      "q": "Which cloud model supplies virtual machines and storage infrastructure?",
+      "o": [
+        "Infrastructure as a Service (IaaS)",
+        "Software as a Service (SaaS)",
+        "Manual Filing as a Service",
+        "Printing as a Service"
+      ],
+      "a": 0,
+      "e": "IaaS provides computing infrastructure resources.",
+      "d": "Medium",
+      "topic": "Cloud Computing",
+      "slo": "Explain or apply concepts of cloud computing in computer science applications."
+    },
+    {
+      "id": "CS11CH05-227",
+      "q": "Which component can detect wind speed?",
+      "o": [
+        "Scanner lid",
+        "Graphics card fan label",
+        "Microphone cable",
+        "Anemometer or wind-speed sensor"
+      ],
+      "a": 3,
+      "e": "Wind-speed sensors measure air movement.",
+      "d": "Medium",
+      "topic": "Technologies Enabling IoT",
+      "slo": "Explain or apply concepts of technologies enabling iot in computer science applications."
+    },
+    {
+      "id": "CS11CH05-228",
+      "q": "In a Class 11 Computer Science review, consider this question: What does real-time monitoring mean in an IoT context?",
+      "o": [
+        "Replacing sensors with drawings",
+        "Observing conditions as readings become available",
+        "Only checking records once a year",
+        "Ignoring sensor values"
+      ],
+      "a": 1,
+      "e": "Connected sensors can supply timely updates.",
+      "d": "Easy",
+      "topic": "Internet of Things (IoT)",
+      "slo": "Explain or apply concepts of internet of things (iot) in computer science applications."
+    },
+    {
+      "id": "CS11CH05-229",
+      "q": "Why are AI stakeholders consulted?",
+      "o": [
+        "To avoid accountability",
+        "To remove all testing",
+        "To guarantee zero disagreement",
+        "To understand needs, risks and possible impacts"
+      ],
+      "a": 3,
+      "e": "Consultation identifies concerns across affected groups.",
+      "d": "Medium",
+      "topic": "Stakeholders in AI Systems",
+      "slo": "Explain or apply concepts of stakeholders in ai systems in computer science applications."
+    },
+    {
+      "id": "CS11CH05-230",
+      "q": "In a Class 11 Computer Science review, consider this question: What is a conflict of interest in AI development?",
+      "o": [
+        "A network packet header",
+        "Competing interests that can distort decisions",
+        "Two identical monitor sizes",
+        "A sorted list"
+      ],
+      "a": 1,
+      "e": "Conflicting incentives can influence system design or deployment.",
+      "d": "Easy",
+      "topic": "Stakeholders in AI Systems",
+      "slo": "Explain or apply concepts of stakeholders in ai systems in computer science applications."
+    },
+    {
+      "id": "CS11CH05-231",
+      "q": "What is accountability in AI?",
+      "o": [
+        "A guarantee of flawless predictions",
+        "Responsibility for system decisions and impacts",
+        "The absence of any human oversight",
+        "Automatic deletion of data"
+      ],
+      "a": 1,
+      "e": "Organizations and people remain responsible for AI use.",
+      "d": "Easy",
+      "topic": "Stakeholders in AI Systems",
+      "slo": "Explain or apply concepts of stakeholders in ai systems in computer science applications."
+    },
+    {
+      "id": "CS11CH05-232",
+      "q": "In a Class 11 Computer Science review, consider this question: What does DNS do?",
+      "o": [
+        "Stores blockchain coins",
+        "Measures room temperature",
+        "Compiles Python code",
+        "Translates domain names into IP-related records"
+      ],
+      "a": 3,
+      "e": "DNS helps resolve names to network information.",
+      "d": "Easy",
+      "topic": "Communication Protocols",
+      "slo": "Explain or apply concepts of communication protocols in computer science applications."
+    },
+    {
+      "id": "CS11CH05-233",
+      "q": "In a Class 11 Computer Science review, consider this question: What can a smart meter measure?",
+      "o": [
+        "Electricity consumption",
+        "Student handwriting quality",
+        "Number of keyboard letters",
+        "Page thickness"
+      ],
+      "a": 0,
+      "e": "Smart meters monitor utility usage.",
+      "d": "Medium",
+      "topic": "Internet of Things (IoT)",
+      "slo": "Explain or apply concepts of internet of things (iot) in computer science applications."
+    },
+    {
+      "id": "CS11CH05-234",
+      "q": "Which device is often central to a simple embedded system?",
+      "o": [
+        "Desk lamp shade",
+        "Network cable label",
+        "Microcontroller",
+        "Printer paper"
+      ],
+      "a": 2,
+      "e": "Microcontrollers integrate processing and interfaces for control tasks.",
+      "d": "Medium",
+      "topic": "Embedded Systems",
+      "slo": "Explain or apply concepts of embedded systems in computer science applications."
+    },
+    {
+      "id": "CS11CH05-235",
+      "q": "In a Class 11 Computer Science review, consider this question: Why is access control needed for cloud storage?",
+      "o": [
+        "To limit who can read or modify stored data",
+        "To allow every visitor to edit records",
+        "To make passwords public",
+        "To remove encryption"
+      ],
+      "a": 0,
+      "e": "Permissions protect data from unauthorized access.",
+      "d": "Medium",
+      "topic": "Cloud Computing",
+      "slo": "Explain or apply concepts of cloud computing in computer science applications."
+    },
+    {
+      "id": "CS11CH05-236",
+      "q": "Which protocol family underlies Internet communication?",
+      "o": [
+        "JPEG only",
+        "PDF only",
+        "TCP/IP",
+        "ASCII only"
+      ],
+      "a": 2,
+      "e": "Internet systems use the TCP/IP protocol suite.",
+      "d": "Medium",
+      "topic": "Communication Protocols",
+      "slo": "Explain or apply concepts of communication protocols in computer science applications."
+    },
+    {
+      "id": "CS11CH05-237",
+      "q": "What is a wearable IoT example?",
+      "o": [
+        "Connected fitness tracker",
+        "Printed timetable",
+        "Non-electronic key",
+        "Ordinary paper bookmark"
+      ],
+      "a": 0,
+      "e": "Wearables can collect and share activity measurements.",
+      "d": "Easy",
+      "topic": "Internet of Things (IoT)",
+      "slo": "Explain or apply concepts of internet of things (iot) in computer science applications."
+    },
+    {
+      "id": "CS11CH05-238",
+      "q": "In a Class 11 Computer Science review, consider this question: Which stakeholder may regulate AI use?",
+      "o": [
+        "Only device batteries",
+        "Only image pixels",
+        "Only paper notebooks",
+        "Government or regulatory bodies"
+      ],
+      "a": 3,
+      "e": "Regulators may set rules for safety and rights.",
+      "d": "Medium",
+      "topic": "Stakeholders in AI Systems",
+      "slo": "Explain or apply concepts of stakeholders in ai systems in computer science applications."
+    },
+    {
+      "id": "CS11CH05-239",
+      "q": "In a Class 11 Computer Science review, consider this question: Which stakeholder designs and trains AI models?",
+      "o": [
+        "Printer ink suppliers",
+        "AI developers",
+        "Only building cleaners",
+        "Furniture makers"
+      ],
+      "a": 1,
+      "e": "Developers create and maintain AI systems.",
+      "d": "Medium",
+      "topic": "Stakeholders in AI Systems",
+      "slo": "Explain or apply concepts of stakeholders in ai systems in computer science applications."
+    },
+    {
+      "id": "CS11CH05-240",
+      "q": "What does RFID commonly help with?",
+      "o": [
+        "Displaying a pie chart",
+        "Formatting a hard disk",
+        "Cooling a processor",
+        "Identifying and tracking tagged objects"
+      ],
+      "a": 3,
+      "e": "RFID uses radio signals for identification.",
+      "d": "Easy",
+      "topic": "Technologies Enabling IoT",
+      "slo": "Explain or apply concepts of technologies enabling iot in computer science applications."
+    },
+    {
+      "id": "CS11CH05-241",
+      "q": "Why is access control needed for cloud storage?",
+      "o": [
+        "To limit who can read or modify stored data",
+        "To allow every visitor to edit records",
+        "To make passwords public",
+        "To remove encryption"
+      ],
+      "a": 0,
+      "e": "Permissions protect data from unauthorized access.",
+      "d": "Medium",
+      "topic": "Cloud Computing",
+      "slo": "Explain or apply concepts of cloud computing in computer science applications."
+    },
+    {
+      "id": "CS11CH05-242",
+      "q": "In a Class 11 Computer Science review, consider this question: What does RFID commonly help with?",
+      "o": [
+        "Displaying a pie chart",
+        "Formatting a hard disk",
+        "Cooling a processor",
+        "Identifying and tracking tagged objects"
+      ],
+      "a": 3,
+      "e": "RFID uses radio signals for identification.",
+      "d": "Easy",
+      "topic": "Technologies Enabling IoT",
+      "slo": "Explain or apply concepts of technologies enabling iot in computer science applications."
+    },
+    {
+      "id": "CS11CH05-243",
+      "q": "What does real-time behavior mean in an embedded system?",
+      "o": [
+        "Responding within required timing constraints",
+        "Always operating faster than every desktop",
+        "Only updating once a month",
+        "Never using a clock"
+      ],
+      "a": 0,
+      "e": "Some embedded tasks must meet deadlines.",
+      "d": "Easy",
+      "topic": "Embedded Systems",
+      "slo": "Explain or apply concepts of embedded systems in computer science applications."
+    },
+    {
+      "id": "CS11CH05-244",
+      "q": "What is a communication protocol?",
+      "o": [
+        "A processor cooling fan",
+        "A type of monitor stand",
+        "A paper-only drawing",
+        "Rules governing data exchange between devices"
+      ],
+      "a": 3,
+      "e": "Protocols specify how communicating systems exchange information.",
+      "d": "Easy",
+      "topic": "Communication Protocols",
+      "slo": "Explain or apply concepts of communication protocols in computer science applications."
+    },
+    {
+      "id": "CS11CH05-245",
+      "q": "In a Class 11 Computer Science review, consider this question: What is AI bias?",
+      "o": [
+        "Systematic unfairness in data or model outcomes",
+        "A faster computer clock",
+        "A standard USB connector",
+        "A type of cloud server"
+      ],
+      "a": 0,
+      "e": "Bias can lead to unequal treatment or outcomes.",
+      "d": "Easy",
+      "topic": "Stakeholders in AI Systems",
+      "slo": "Explain or apply concepts of stakeholders in ai systems in computer science applications."
+    },
+    {
+      "id": "CS11CH05-246",
+      "q": "In a Class 11 Computer Science review, consider this question: Which activity is descriptive analytics?",
+      "o": [
+        "Summarizing past sales trends",
+        "Changing a network cable",
+        "Predicting with no historical information",
+        "Writing a device driver"
+      ],
+      "a": 0,
+      "e": "Descriptive analytics reports what happened.",
+      "d": "Medium",
+      "topic": "Big Data Analytics",
+      "slo": "Explain or apply concepts of big data analytics in computer science applications."
+    },
+    {
+      "id": "CS11CH05-247",
+      "q": "Why is low power consumption important for many embedded devices?",
+      "o": [
+        "It eliminates sensors",
+        "It prevents any programming",
+        "It extends battery-powered operation",
+        "It guarantees infinite memory"
+      ],
+      "a": 2,
+      "e": "Energy-efficient designs can increase device lifetime.",
+      "d": "Medium",
+      "topic": "Embedded Systems",
+      "slo": "Explain or apply concepts of embedded systems in computer science applications."
+    },
+    {
+      "id": "CS11CH05-248",
+      "q": "In a Class 11 Computer Science review, consider this question: What is the role of a microcontroller output pin?",
+      "o": [
+        "Replace network routing",
+        "Always measure temperature",
+        "Hold a paper document",
+        "Send a control signal to another component"
+      ],
+      "a": 3,
+      "e": "Output pins drive indicators and actuators.",
+      "d": "Easy",
+      "topic": "Embedded Systems",
+      "slo": "Explain or apply concepts of embedded systems in computer science applications."
+    },
+    {
+      "id": "CS11CH05-249",
+      "q": "What does bandwidth describe?",
+      "o": [
+        "Number of words in a password",
+        "Size of a desk",
+        "Color of a network cable",
+        "Capacity for data transfer over a link"
+      ],
+      "a": 3,
+      "e": "Bandwidth refers to a link's potential data-carrying capacity.",
+      "d": "Easy",
+      "topic": "Communication Protocols",
+      "slo": "Explain or apply concepts of communication protocols in computer science applications."
+    },
+    {
+      "id": "CS11CH05-250",
+      "q": "In a Class 11 Computer Science review, consider this question: What is algorithmic transparency?",
+      "o": [
+        "Publishing every private password",
+        "Ability to understand or explain how decisions are made",
+        "Hiding all system behavior",
+        "Removing all documentation"
+      ],
+      "a": 1,
+      "e": "Transparency supports scrutiny of AI decisions.",
+      "d": "Easy",
+      "topic": "Stakeholders in AI Systems",
+      "slo": "Explain or apply concepts of stakeholders in ai systems in computer science applications."
+    },
+    {
+      "id": "CS11CH05-251",
+      "q": "In a Class 11 Computer Science review, consider this question: What is a watchdog timer used for?",
+      "o": [
+        "Detecting software hangs and triggering recovery",
+        "Compressing images",
+        "Sending email attachments",
+        "Measuring wind speed"
+      ],
+      "a": 0,
+      "e": "Watchdogs can help recover from unresponsive software.",
+      "d": "Easy",
+      "topic": "Embedded Systems",
+      "slo": "Explain or apply concepts of embedded systems in computer science applications."
+    },
+    {
+      "id": "CS11CH05-252",
+      "q": "In a Class 11 Computer Science review, consider this question: What is a wearable IoT example?",
+      "o": [
+        "Connected fitness tracker",
+        "Printed timetable",
+        "Non-electronic key",
+        "Ordinary paper bookmark"
+      ],
+      "a": 0,
+      "e": "Wearables can collect and share activity measurements.",
+      "d": "Easy",
+      "topic": "Internet of Things (IoT)",
+      "slo": "Explain or apply concepts of internet of things (iot) in computer science applications."
+    },
+    {
+      "id": "CS11CH05-253",
+      "q": "In a Class 11 Computer Science review, consider this question: What is a private blockchain?",
+      "o": [
+        "A paper-only filing system",
+        "A blockchain with participation controlled by an organization",
+        "A network where anyone always has unlimited access",
+        "A public internet search engine"
+      ],
+      "a": 1,
+      "e": "Private blockchains restrict membership or permissions.",
+      "d": "Easy",
+      "topic": "Blockchain Technology",
+      "slo": "Explain or apply concepts of blockchain technology in computer science applications."
+    },
+    {
+      "id": "CS11CH05-254",
+      "q": "What is a common role of domain experts in AI projects?",
+      "o": [
+        "Remove all stakeholder concerns",
+        "Replace all user testing",
+        "Guarantee all predictions",
+        "Provide subject knowledge and validate use cases"
+      ],
+      "a": 3,
+      "e": "Domain expertise helps ensure meaningful design.",
+      "d": "Easy",
+      "topic": "Stakeholders in AI Systems",
+      "slo": "Explain or apply concepts of stakeholders in ai systems in computer science applications."
+    },
+    {
+      "id": "CS11CH05-255",
+      "q": "What is a wireless sensor network?",
+      "o": [
+        "Interconnected sensor nodes sharing observations",
+        "A printed list of sensors",
+        "A set of manual filing folders",
+        "A single disconnected battery"
+      ],
+      "a": 0,
+      "e": "Sensor nodes communicate readings through a network.",
+      "d": "Easy",
+      "topic": "Technologies Enabling IoT",
+      "slo": "Explain or apply concepts of technologies enabling iot in computer science applications."
+    },
+    {
+      "id": "CS11CH05-256",
+      "q": "In a Class 11 Computer Science review, consider this question: What is a dashboard in data analytics?",
+      "o": [
+        "Visual display of key measures and trends",
+        "A wireless antenna",
+        "A blockchain mining tool",
+        "A computer power supply"
+      ],
+      "a": 0,
+      "e": "Dashboards communicate important data visually.",
+      "d": "Easy",
+      "topic": "Big Data Analytics",
+      "slo": "Explain or apply concepts of big data analytics in computer science applications."
+    },
+    {
+      "id": "CS11CH05-257",
+      "q": "In a Class 11 Computer Science review, consider this question: What is a smart contract?",
+      "o": [
+        "A computer cooling device",
+        "A handwritten legal agreement only",
+        "An ordinary USB plug",
+        "Program that executes defined rules on a blockchain"
+      ],
+      "a": 3,
+      "e": "Smart contracts execute programmed conditions on supporting chains.",
+      "d": "Easy",
+      "topic": "Blockchain Technology",
+      "slo": "Explain or apply concepts of blockchain technology in computer science applications."
+    },
+    {
+      "id": "CS11CH05-258",
+      "q": "In a Class 11 Computer Science review, consider this question: What is a blockchain wallet used for?",
+      "o": [
+        "Managing keys used to authorize blockchain transactions",
+        "Measuring network latency",
+        "Cooling mining equipment",
+        "Storing paper money physically inside a computer"
+      ],
+      "a": 0,
+      "e": "Wallets manage credentials and transaction signing.",
+      "d": "Easy",
+      "topic": "Blockchain Technology",
+      "slo": "Explain or apply concepts of blockchain technology in computer science applications."
+    },
+    {
+      "id": "CS11CH05-259",
+      "q": "In a Class 11 Computer Science review, consider this question: What is TCP known for?",
+      "o": [
+        "Measuring sensor voltage",
+        "Guaranteed zero delay",
+        "Printing web pages",
+        "Reliable ordered delivery of a byte stream"
+      ],
+      "a": 3,
+      "e": "TCP provides reliable ordered transport between endpoints.",
+      "d": "Easy",
+      "topic": "Communication Protocols",
+      "slo": "Explain or apply concepts of communication protocols in computer science applications."
+    },
+    {
+      "id": "CS11CH05-260",
+      "q": "In a Class 11 Computer Science review, consider this question: What is a communication protocol?",
+      "o": [
+        "A processor cooling fan",
+        "A type of monitor stand",
+        "A paper-only drawing",
+        "Rules governing data exchange between devices"
+      ],
+      "a": 3,
+      "e": "Protocols specify how communicating systems exchange information.",
+      "d": "Easy",
+      "topic": "Communication Protocols",
+      "slo": "Explain or apply concepts of communication protocols in computer science applications."
+    },
+    {
+      "id": "CS11CH05-261",
+      "q": "For an application-of-computer-science quiz, select the best response: Which IoT application supports remote patient monitoring?",
+      "o": [
+        "Connected health-monitoring devices",
+        "An offline ruler",
+        "A printed calendar",
+        "A manual filing cabinet"
+      ],
+      "a": 0,
+      "e": "Connected medical sensors can transmit patient measurements.",
+      "d": "Medium",
+      "topic": "Internet of Things (IoT)",
+      "slo": "Explain or apply concepts of internet of things (iot) in computer science applications."
+    },
+    {
+      "id": "CS11CH05-262",
+      "q": "Which stakeholder designs and trains AI models?",
+      "o": [
+        "Printer ink suppliers",
+        "AI developers",
+        "Only building cleaners",
+        "Furniture makers"
+      ],
+      "a": 1,
+      "e": "Developers create and maintain AI systems.",
+      "d": "Medium",
+      "topic": "Stakeholders in AI Systems",
+      "slo": "Explain or apply concepts of stakeholders in ai systems in computer science applications."
+    },
+    {
+      "id": "CS11CH05-263",
+      "q": "In a Class 11 Computer Science review, consider this question: Which device is often central to a simple embedded system?",
+      "o": [
+        "Desk lamp shade",
+        "Network cable label",
+        "Microcontroller",
+        "Printer paper"
+      ],
+      "a": 2,
+      "e": "Microcontrollers integrate processing and interfaces for control tasks.",
+      "d": "Medium",
+      "topic": "Embedded Systems",
+      "slo": "Explain or apply concepts of embedded systems in computer science applications."
+    },
+    {
+      "id": "CS11CH05-264",
+      "q": "In a Class 11 Computer Science review, consider this question: Which big-data characteristic concerns usefulness of data?",
+      "o": [
+        "Velocity",
+        "Value",
+        "Variety",
+        "Volume"
+      ],
+      "a": 1,
+      "e": "Value relates to useful insights derived from data.",
+      "d": "Medium",
+      "topic": "Big Data Analytics",
+      "slo": "Explain or apply concepts of big data analytics in computer science applications."
+    },
+    {
+      "id": "CS11CH05-265",
+      "q": "What is a consortium blockchain?",
+      "o": [
+        "An unconnected sensor",
+        "A single personal USB drive",
+        "A chain with no participants",
+        "A blockchain governed by a group of organizations"
+      ],
+      "a": 3,
+      "e": "Consortium networks involve multiple governing organizations.",
+      "d": "Easy",
+      "topic": "Blockchain Technology",
+      "slo": "Explain or apply concepts of blockchain technology in computer science applications."
+    },
+    {
+      "id": "CS11CH05-266",
+      "q": "In a Class 11 Computer Science review, consider this question: What does a block in a blockchain generally contain?",
+      "o": [
+        "A paper envelope",
+        "Only a keyboard layout",
+        "A temperature sensor",
+        "Transaction data and linking information"
+      ],
+      "a": 3,
+      "e": "Blocks group records and connect to prior blocks.",
+      "d": "Easy",
+      "topic": "Blockchain Technology",
+      "slo": "Explain or apply concepts of blockchain technology in computer science applications."
+    },
+    {
+      "id": "CS11CH05-267",
+      "q": "Which approach can support analysis of very large datasets?",
+      "o": [
+        "Using no computational resources",
+        "Distributed processing across multiple machines",
+        "Disconnecting all storage",
+        "Only handwritten counting"
+      ],
+      "a": 1,
+      "e": "Distributed systems divide workloads among machines.",
+      "d": "Medium",
+      "topic": "Big Data Analytics",
+      "slo": "Explain or apply concepts of big data analytics in computer science applications."
+    },
+    {
+      "id": "CS11CH05-268",
+      "q": "Which sensor can measure ambient light?",
+      "o": [
+        "Printer drum",
+        "Light sensor",
+        "Pressure cooker",
+        "Ethernet connector"
+      ],
+      "a": 1,
+      "e": "Light sensors measure illumination.",
+      "d": "Medium",
+      "topic": "Internet of Things (IoT)",
+      "slo": "Explain or apply concepts of internet of things (iot) in computer science applications."
+    },
+    {
+      "id": "CS11CH05-269",
+      "q": "Which sensor detects movement?",
+      "o": [
+        "Humidity sensor",
+        "Light bulb",
+        "Microphone stand",
+        "Motion sensor"
+      ],
+      "a": 3,
+      "e": "Motion sensors detect movement or changes in presence.",
+      "d": "Medium",
+      "topic": "Internet of Things (IoT)",
+      "slo": "Explain or apply concepts of internet of things (iot) in computer science applications."
+    },
+    {
+      "id": "CS11CH05-270",
+      "q": "What is HTTP used for?",
+      "o": [
+        "Controlling a mechanical valve directly",
+        "Exchanging web requests and responses",
+        "Measuring humidity",
+        "Identifying RFID tags"
+      ],
+      "a": 1,
+      "e": "HTTP supports communication between web clients and servers.",
+      "d": "Easy",
+      "topic": "Communication Protocols",
+      "slo": "Explain or apply concepts of communication protocols in computer science applications."
+    },
+    {
+      "id": "CS11CH05-271",
+      "q": "Which is a challenge of deploying many IoT devices?",
+      "o": [
+        "Avoiding all data",
+        "Eliminating every network",
+        "Removing electricity from all sensors",
+        "Managing security and interoperability"
+      ],
+      "a": 3,
+      "e": "Large IoT systems face security, compatibility and maintenance challenges.",
+      "d": "Medium",
+      "topic": "Internet of Things (IoT)",
+      "slo": "Explain or apply concepts of internet of things (iot) in computer science applications."
+    },
+    {
+      "id": "CS11CH05-272",
+      "q": "In a Class 11 Computer Science review, consider this question: Which component provides connectivity for IoT devices?",
+      "o": [
+        "A whiteboard",
+        "A pencil",
+        "A network interface",
+        "A chair"
+      ],
+      "a": 2,
+      "e": "Connectivity enables devices to exchange data.",
+      "d": "Medium",
+      "topic": "Internet of Things (IoT)",
+      "slo": "Explain or apply concepts of internet of things (iot) in computer science applications."
+    },
+    {
+      "id": "CS11CH05-273",
+      "q": "What is a limitation of battery-powered IoT sensors?",
+      "o": [
+        "Limited available energy",
+        "They cannot contain software",
+        "They always need paper",
+        "They can never collect readings"
+      ],
+      "a": 0,
+      "e": "Power consumption affects operating lifetime.",
+      "d": "Easy",
+      "topic": "Technologies Enabling IoT",
+      "slo": "Explain or apply concepts of technologies enabling iot in computer science applications."
+    },
+    {
+      "id": "CS11CH05-274",
+      "q": "In a Class 11 Computer Science review, consider this question: What is a public blockchain?",
+      "o": [
+        "A handwritten public notice",
+        "A blockchain limited to one organization only",
+        "An offline local database",
+        "A blockchain open to broad participation under its rules"
+      ],
+      "a": 3,
+      "e": "Public networks generally allow broad participation.",
+      "d": "Easy",
+      "topic": "Blockchain Technology",
+      "slo": "Explain or apply concepts of blockchain technology in computer science applications."
+    },
+    {
+      "id": "CS11CH05-275",
+      "q": "Why is IoT security important?",
+      "o": [
+        "Connected devices can expose data or be attacked",
+        "Passwords make no difference",
+        "Networks never have vulnerabilities",
+        "Sensors cannot send information"
+      ],
+      "a": 0,
+      "e": "Connected devices need safeguards for data and control.",
+      "d": "Medium",
+      "topic": "Internet of Things (IoT)",
+      "slo": "Explain or apply concepts of internet of things (iot) in computer science applications."
+    },
+    {
+      "id": "CS11CH05-276",
+      "q": "Which is a benefit of IoT automation?",
+      "o": [
+        "Unlimited battery life",
+        "No need for connectivity",
+        "Reduced need for repeated manual actions",
+        "Guaranteed absence of failures"
+      ],
+      "a": 2,
+      "e": "Connected sensing and control can automate repetitive tasks.",
+      "d": "Medium",
+      "topic": "Internet of Things (IoT)",
+      "slo": "Explain or apply concepts of internet of things (iot) in computer science applications."
+    },
+    {
+      "id": "CS11CH05-277",
+      "q": "Which field uses large datasets to identify suspicious transactions?",
+      "o": [
+        "Keyboard assembly",
+        "Screen cleaning",
+        "Fraud detection",
+        "Manual page numbering"
+      ],
+      "a": 2,
+      "e": "Analytics can flag unusual transaction patterns.",
+      "d": "Medium",
+      "topic": "Big Data Analytics",
+      "slo": "Explain or apply concepts of big data analytics in computer science applications."
+    },
+    {
+      "id": "CS11CH05-278",
+      "q": "In a Class 11 Computer Science review, consider this question: What is HTTPS?",
+      "o": [
+        "HTTP protected using transport encryption",
+        "A temperature sensor",
+        "A type of printed barcode",
+        "HTTP without any security"
+      ],
+      "a": 0,
+      "e": "HTTPS uses TLS to protect web communication.",
+      "d": "Easy",
+      "topic": "Communication Protocols",
+      "slo": "Explain or apply concepts of communication protocols in computer science applications."
+    },
+    {
+      "id": "CS11CH05-279",
+      "q": "What is a conflict of interest in AI development?",
+      "o": [
+        "A network packet header",
+        "Competing interests that can distort decisions",
+        "Two identical monitor sizes",
+        "A sorted list"
+      ],
+      "a": 1,
+      "e": "Conflicting incentives can influence system design or deployment.",
+      "d": "Easy",
+      "topic": "Stakeholders in AI Systems",
+      "slo": "Explain or apply concepts of stakeholders in ai systems in computer science applications."
+    },
+    {
+      "id": "CS11CH05-280",
+      "q": "What is MQTT commonly used for?",
+      "o": [
+        "Only drawing charts",
+        "Lightweight publish-subscribe messaging in IoT",
+        "Formatting disk partitions",
+        "Printing spreadsheets"
+      ],
+      "a": 1,
+      "e": "MQTT supports efficient messaging for connected devices.",
+      "d": "Easy",
+      "topic": "Communication Protocols",
+      "slo": "Explain or apply concepts of communication protocols in computer science applications."
+    },
+    {
+      "id": "CS11CH05-281",
+      "q": "Which stakeholder may regulate AI use?",
+      "o": [
+        "Only device batteries",
+        "Only image pixels",
+        "Only paper notebooks",
+        "Government or regulatory bodies"
+      ],
+      "a": 3,
+      "e": "Regulators may set rules for safety and rights.",
+      "d": "Medium",
+      "topic": "Stakeholders in AI Systems",
+      "slo": "Explain or apply concepts of stakeholders in ai systems in computer science applications."
+    },
+    {
+      "id": "CS11CH05-282",
+      "q": "What is a consensus mechanism?",
+      "o": [
+        "A printer driver",
+        "A data visualization palette",
+        "A method for participants to agree on valid ledger state",
+        "A sensor calibration technique"
+      ],
+      "a": 2,
+      "e": "Consensus helps nodes agree on accepted records.",
+      "d": "Easy",
+      "topic": "Blockchain Technology",
+      "slo": "Explain or apply concepts of blockchain technology in computer science applications."
+    },
+    {
+      "id": "CS11CH05-283",
+      "q": "Which component provides connectivity for IoT devices?",
+      "o": [
+        "A whiteboard",
+        "A pencil",
+        "A network interface",
+        "A chair"
+      ],
+      "a": 2,
+      "e": "Connectivity enables devices to exchange data.",
+      "d": "Medium",
+      "topic": "Internet of Things (IoT)",
+      "slo": "Explain or apply concepts of internet of things (iot) in computer science applications."
+    },
+    {
+      "id": "CS11CH05-284",
+      "q": "What is a cloud backup used for?",
+      "o": [
+        "Deleting original data without replacement",
+        "Increasing screen brightness",
+        "Keeping recoverable copies of information",
+        "Preventing every possible error"
+      ],
+      "a": 2,
+      "e": "Backups help restore data after loss or damage.",
+      "d": "Easy",
+      "topic": "Cloud Computing",
+      "slo": "Explain or apply concepts of cloud computing in computer science applications."
+    },
+    {
+      "id": "CS11CH05-285",
+      "q": "Which is a potential blockchain application?",
+      "o": [
+        "Preventing all network delays",
+        "Tracking goods across a supply chain",
+        "Making sensors unnecessary",
+        "Replacing every programming language"
+      ],
+      "a": 1,
+      "e": "Shared ledgers can track movement and provenance of goods.",
+      "d": "Medium",
+      "topic": "Blockchain Technology",
+      "slo": "Explain or apply concepts of blockchain technology in computer science applications."
+    },
+    {
+      "id": "CS11CH05-286",
+      "q": "Which term describes devices exchanging information over a network?",
+      "o": [
+        "Paper filing",
+        "Connectivity",
+        "Manual indexing",
+        "Mechanical binding"
+      ],
+      "a": 1,
+      "e": "IoT depends on communication among connected components.",
+      "d": "Medium",
+      "topic": "Internet of Things (IoT)",
+      "slo": "Explain or apply concepts of internet of things (iot) in computer science applications."
+    },
+    {
+      "id": "CS11CH05-287",
+      "q": "For an application-of-computer-science quiz, select the best response: What is an IoT device?",
+      "o": [
+        "A non-electronic chair",
+        "A physical object with sensing, processing or connectivity",
+        "A purely handwritten algorithm",
+        "A printed document"
+      ],
+      "a": 1,
+      "e": "IoT devices interact with their environment and exchange information.",
+      "d": "Easy",
+      "topic": "Internet of Things (IoT)",
+      "slo": "Explain or apply concepts of internet of things (iot) in computer science applications."
+    },
+    {
+      "id": "CS11CH05-288",
+      "q": "What does a packet contain?",
+      "o": [
+        "A unit of data sent across a network",
+        "Only a printed letter",
+        "A physical keyboard key",
+        "A chemical sample"
+      ],
+      "a": 0,
+      "e": "Networks transmit data in formatted units called packets.",
+      "d": "Easy",
+      "topic": "Communication Protocols",
+      "slo": "Explain or apply concepts of communication protocols in computer science applications."
+    },
+    {
+      "id": "CS11CH05-289",
+      "q": "In a Class 11 Computer Science review, consider this question: Which sensor can detect changes in air pressure?",
+      "o": [
+        "Pressure sensor",
+        "Webcam tripod",
+        "USB keyboard",
+        "Ink cartridge"
+      ],
+      "a": 0,
+      "e": "Pressure sensors measure force per unit area.",
+      "d": "Medium",
+      "topic": "Technologies Enabling IoT",
+      "slo": "Explain or apply concepts of technologies enabling iot in computer science applications."
+    },
+    {
+      "id": "CS11CH05-290",
+      "q": "What is a permissioned blockchain?",
+      "o": [
+        "A network with no participant rules",
+        "A public webpage",
+        "A printer with a password",
+        "A network where access or roles require authorization"
+      ],
+      "a": 3,
+      "e": "Permissioned blockchains control who can participate.",
+      "d": "Easy",
+      "topic": "Blockchain Technology",
+      "slo": "Explain or apply concepts of blockchain technology in computer science applications."
+    },
+    {
+      "id": "CS11CH05-291",
+      "q": "In a Class 11 Computer Science review, consider this question: Which concern is especially relevant when analyzing personal data?",
+      "o": [
+        "Removing all consent processes",
+        "Ignoring data access rules",
+        "Making all records public",
+        "Privacy and responsible use"
+      ],
+      "a": 3,
+      "e": "Personal data requires appropriate privacy safeguards.",
+      "d": "Medium",
+      "topic": "Big Data Analytics",
+      "slo": "Explain or apply concepts of big data analytics in computer science applications."
+    },
+    {
+      "id": "CS11CH05-292",
+      "q": "In a Class 11 Computer Science review, consider this question: Which field uses large datasets to identify suspicious transactions?",
+      "o": [
+        "Keyboard assembly",
+        "Screen cleaning",
+        "Fraud detection",
+        "Manual page numbering"
+      ],
+      "a": 2,
+      "e": "Analytics can flag unusual transaction patterns.",
+      "d": "Medium",
+      "topic": "Big Data Analytics",
+      "slo": "Explain or apply concepts of big data analytics in computer science applications."
+    },
+    {
+      "id": "CS11CH05-293",
+      "q": "In a Class 11 Computer Science review, consider this question: Which big-data characteristic refers to speed of generation or processing?",
+      "o": [
+        "Velocity",
+        "Volume",
+        "Value",
+        "Variety"
+      ],
+      "a": 0,
+      "e": "Velocity concerns the rate at which data arrives or is handled.",
+      "d": "Medium",
+      "topic": "Big Data Analytics",
+      "slo": "Explain or apply concepts of big data analytics in computer science applications."
+    },
+    {
+      "id": "CS11CH05-294",
+      "q": "Which cloud model supplies an environment for developing and deploying apps?",
+      "o": [
+        "A disconnected printer",
+        "A paper-only platform",
+        "Infrastructure as a Service (IaaS)",
+        "Platform as a Service (PaaS)"
+      ],
+      "a": 3,
+      "e": "PaaS provides application development and deployment platforms.",
+      "d": "Medium",
+      "topic": "Cloud Computing",
+      "slo": "Explain or apply concepts of cloud computing in computer science applications."
+    },
+    {
+      "id": "CS11CH05-295",
+      "q": "In a Class 11 Computer Science review, consider this question: What is a cloud availability concern?",
+      "o": [
+        "Cloud services cannot store files",
+        "Service access may depend on network and provider uptime",
+        "Cloud systems never use networks",
+        "All data must be handwritten"
+      ],
+      "a": 1,
+      "e": "Connectivity and provider outages can affect access.",
+      "d": "Easy",
+      "topic": "Cloud Computing",
+      "slo": "Explain or apply concepts of cloud computing in computer science applications."
+    },
+    {
+      "id": "CS11CH05-296",
+      "q": "What does an ultrasonic sensor use to estimate distance?",
+      "o": [
+        "Visible text only",
+        "Printed barcodes only",
+        "Reflected high-frequency sound waves",
+        "Blockchain hashes only"
+      ],
+      "a": 2,
+      "e": "Echo timing can be used to infer distance.",
+      "d": "Easy",
+      "topic": "Technologies Enabling IoT",
+      "slo": "Explain or apply concepts of technologies enabling iot in computer science applications."
+    },
+    {
+      "id": "CS11CH05-297",
+      "q": "Why can stakeholder interests conflict?",
+      "o": [
+        "Every decision is risk-free",
+        "Technology never creates trade-offs",
+        "All users have identical goals",
+        "Groups have different priorities such as accuracy, cost and privacy"
+      ],
+      "a": 3,
+      "e": "AI projects balance competing needs.",
+      "d": "Medium",
+      "topic": "Stakeholders in AI Systems",
+      "slo": "Explain or apply concepts of stakeholders in ai systems in computer science applications."
+    },
+    {
+      "id": "CS11CH05-298",
+      "q": "In a Class 11 Computer Science review, consider this question: What is UDP known for?",
+      "o": [
+        "File encryption by itself",
+        "Connectionless datagram transport with low overhead",
+        "Guaranteed delivery of every packet",
+        "Automatic webpage design"
+      ],
+      "a": 1,
+      "e": "UDP sends datagrams without TCP-style delivery guarantees.",
+      "d": "Easy",
+      "topic": "Communication Protocols",
+      "slo": "Explain or apply concepts of communication protocols in computer science applications."
+    },
+    {
+      "id": "CS11CH05-299",
+      "q": "In a Class 11 Computer Science review, consider this question: What is a distributed ledger?",
+      "o": [
+        "A record replicated or shared across multiple nodes",
+        "A single paper record locked away",
+        "A spreadsheet with no copies",
+        "An isolated monitor"
+      ],
+      "a": 0,
+      "e": "Distributed ledgers maintain records across participants.",
+      "d": "Easy",
+      "topic": "Blockchain Technology",
+      "slo": "Explain or apply concepts of blockchain technology in computer science applications."
+    },
+    {
+      "id": "CS11CH05-300",
+      "q": "In a Class 11 Computer Science review, consider this question: What is a blockchain?",
+      "o": [
+        "A conventional keyboard",
+        "A distributed ledger organized into linked blocks",
+        "A type of monitor",
+        "A single unshared paper notebook"
+      ],
+      "a": 1,
+      "e": "Blockchain stores linked records across a network.",
+      "d": "Easy",
+      "topic": "Blockchain Technology",
+      "slo": "Explain or apply concepts of blockchain technology in computer science applications."
+    }
+  ]
+}

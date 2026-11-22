@@ -1,0 +1,4504 @@
+{
+  "questions": [
+    {
+      "id": "CS11CH01-001",
+      "q": "What is the smallest unit of digital information?",
+      "o": [
+        "Word",
+        "Byte",
+        "Bit",
+        "Nibble"
+      ],
+      "a": 2,
+      "e": "A bit represents one binary digit, either 0 or 1.",
+      "d": "Easy",
+      "topic": "Data Representation",
+      "slo": "Explain or apply concepts in data representation."
+    },
+    {
+      "id": "CS11CH01-002",
+      "q": "How many bits are in one byte?",
+      "o": [
+        "16",
+        "32",
+        "8",
+        "4"
+      ],
+      "a": 2,
+      "e": "One byte consists of eight bits.",
+      "d": "Easy",
+      "topic": "Data Representation",
+      "slo": "Explain or apply concepts in data representation."
+    },
+    {
+      "id": "CS11CH01-003",
+      "q": "How many bits are in a nibble?",
+      "o": [
+        "8",
+        "2",
+        "16",
+        "4"
+      ],
+      "a": 3,
+      "e": "A nibble contains four bits.",
+      "d": "Easy",
+      "topic": "Data Representation",
+      "slo": "Explain or apply concepts in data representation."
+    },
+    {
+      "id": "CS11CH01-004",
+      "q": "Which number system uses only 0 and 1?",
+      "o": [
+        "Binary",
+        "Hexadecimal",
+        "Octal",
+        "Decimal"
+      ],
+      "a": 0,
+      "e": "Binary is a base-2 number system.",
+      "d": "Easy",
+      "topic": "Data Representation",
+      "slo": "Explain or apply concepts in data representation."
+    },
+    {
+      "id": "CS11CH01-005",
+      "q": "What is the base of the decimal number system?",
+      "o": [
+        "8",
+        "16",
+        "2",
+        "10"
+      ],
+      "a": 3,
+      "e": "Decimal uses ten digits, 0 through 9.",
+      "d": "Easy",
+      "topic": "Data Representation",
+      "slo": "Explain or apply concepts in data representation."
+    },
+    {
+      "id": "CS11CH01-006",
+      "q": "What is the base of the octal number system?",
+      "o": [
+        "2",
+        "8",
+        "16",
+        "10"
+      ],
+      "a": 1,
+      "e": "Octal uses digits 0 through 7.",
+      "d": "Easy",
+      "topic": "Data Representation",
+      "slo": "Explain or apply concepts in data representation."
+    },
+    {
+      "id": "CS11CH01-007",
+      "q": "What is the base of the hexadecimal number system?",
+      "o": [
+        "8",
+        "10",
+        "16",
+        "2"
+      ],
+      "a": 2,
+      "e": "Hexadecimal uses sixteen symbols, 0–9 and A–F.",
+      "d": "Easy",
+      "topic": "Data Representation",
+      "slo": "Explain or apply concepts in data representation."
+    },
+    {
+      "id": "CS11CH01-008",
+      "q": "Which hexadecimal digit represents decimal 10?",
+      "o": [
+        "9",
+        "B",
+        "F",
+        "A"
+      ],
+      "a": 3,
+      "e": "Hexadecimal A represents decimal ten.",
+      "d": "Easy",
+      "topic": "Data Representation",
+      "slo": "Explain or apply concepts in data representation."
+    },
+    {
+      "id": "CS11CH01-009",
+      "q": "Which hexadecimal digit represents decimal 15?",
+      "o": [
+        "A",
+        "10",
+        "E",
+        "F"
+      ],
+      "a": 3,
+      "e": "Hexadecimal F represents decimal fifteen.",
+      "d": "Easy",
+      "topic": "Data Representation",
+      "slo": "Explain or apply concepts in data representation."
+    },
+    {
+      "id": "CS11CH01-010",
+      "q": "What is binary 1010 in decimal?",
+      "o": [
+        "10",
+        "12",
+        "5",
+        "8"
+      ],
+      "a": 0,
+      "e": "Binary 1010 equals 8 + 2 = 10.",
+      "d": "Easy",
+      "topic": "Data Representation",
+      "slo": "Explain or apply concepts in data representation."
+    },
+    {
+      "id": "CS11CH01-011",
+      "q": "What is decimal 13 in binary?",
+      "o": [
+        "1001",
+        "1011",
+        "1101",
+        "1110"
+      ],
+      "a": 2,
+      "e": "13 = 8 + 4 + 1, giving binary 1101.",
+      "d": "Easy",
+      "topic": "Data Representation",
+      "slo": "Explain or apply concepts in data representation."
+    },
+    {
+      "id": "CS11CH01-012",
+      "q": "What is binary 1111 in hexadecimal?",
+      "o": [
+        "F",
+        "A",
+        "E",
+        "10"
+      ],
+      "a": 0,
+      "e": "Four binary ones equal decimal fifteen, hexadecimal F.",
+      "d": "Easy",
+      "topic": "Data Representation",
+      "slo": "Explain or apply concepts in data representation."
+    },
+    {
+      "id": "CS11CH01-013",
+      "q": "What is decimal 8 in binary?",
+      "o": [
+        "1111",
+        "1000",
+        "0100",
+        "1010"
+      ],
+      "a": 1,
+      "e": "Eight is 2 cubed, so its binary representation is 1000.",
+      "d": "Easy",
+      "topic": "Data Representation",
+      "slo": "Explain or apply concepts in data representation."
+    },
+    {
+      "id": "CS11CH01-014",
+      "q": "What is binary 1001 in decimal?",
+      "o": [
+        "10",
+        "7",
+        "9",
+        "12"
+      ],
+      "a": 2,
+      "e": "Binary 1001 equals 8 + 1.",
+      "d": "Easy",
+      "topic": "Data Representation",
+      "slo": "Explain or apply concepts in data representation."
+    },
+    {
+      "id": "CS11CH01-015",
+      "q": "What is decimal 7 in binary?",
+      "o": [
+        "111",
+        "110",
+        "101",
+        "1000"
+      ],
+      "a": 0,
+      "e": "Seven equals 4 + 2 + 1.",
+      "d": "Easy",
+      "topic": "Data Representation",
+      "slo": "Explain or apply concepts in data representation."
+    },
+    {
+      "id": "CS11CH01-016",
+      "q": "What is the decimal value of hexadecimal 10?",
+      "o": [
+        "10",
+        "16",
+        "8",
+        "2"
+      ],
+      "a": 1,
+      "e": "Hexadecimal 10 represents one group of sixteen.",
+      "d": "Easy",
+      "topic": "Data Representation",
+      "slo": "Explain or apply concepts in data representation."
+    },
+    {
+      "id": "CS11CH01-017",
+      "q": "What is the decimal value of octal 10?",
+      "o": [
+        "8",
+        "10",
+        "2",
+        "16"
+      ],
+      "a": 0,
+      "e": "Octal 10 represents one group of eight.",
+      "d": "Easy",
+      "topic": "Data Representation",
+      "slo": "Explain or apply concepts in data representation."
+    },
+    {
+      "id": "CS11CH01-018",
+      "q": "Which code commonly represents characters using 7-bit patterns?",
+      "o": [
+        "JPEG",
+        "ASCII",
+        "MP3",
+        "PNG"
+      ],
+      "a": 1,
+      "e": "Standard ASCII defines 128 characters with seven bits.",
+      "d": "Easy",
+      "topic": "Data Representation",
+      "slo": "Explain or apply concepts in data representation."
+    },
+    {
+      "id": "CS11CH01-019",
+      "q": "Which character standard supports many world writing systems?",
+      "o": [
+        "Morse code",
+        "ASCII only",
+        "BCD only",
+        "Unicode"
+      ],
+      "a": 3,
+      "e": "Unicode provides code points for characters across languages.",
+      "d": "Easy",
+      "topic": "Data Representation",
+      "slo": "Explain or apply concepts in data representation."
+    },
+    {
+      "id": "CS11CH01-020",
+      "q": "What does UTF stand for in UTF-8?",
+      "o": [
+        "Unicode Transformation Format",
+        "Unified Text File",
+        "User Terminal Function",
+        "Universal Transfer Frequency"
+      ],
+      "a": 0,
+      "e": "UTF is an encoding format for Unicode text.",
+      "d": "Easy",
+      "topic": "Data Representation",
+      "slo": "Explain or apply concepts in data representation."
+    },
+    {
+      "id": "CS11CH01-021",
+      "q": "Which encoding uses a variable number of bytes for Unicode characters?",
+      "o": [
+        "Pure binary digits only",
+        "Fixed 7-bit ASCII",
+        "BCD",
+        "UTF-8"
+      ],
+      "a": 3,
+      "e": "UTF-8 encodes characters using one to four bytes.",
+      "d": "Easy",
+      "topic": "Data Representation",
+      "slo": "Explain or apply concepts in data representation."
+    },
+    {
+      "id": "CS11CH01-022",
+      "q": "What is a pixel?",
+      "o": [
+        "A logic gate",
+        "A unit of sound frequency",
+        "A network cable",
+        "Smallest addressable picture element"
+      ],
+      "a": 3,
+      "e": "A pixel is an individual element of a digital image.",
+      "d": "Easy",
+      "topic": "Data Representation",
+      "slo": "Explain or apply concepts in data representation."
+    },
+    {
+      "id": "CS11CH01-023",
+      "q": "What does image resolution describe?",
+      "o": [
+        "CPU clock speed",
+        "Audio pitch",
+        "Network bandwidth",
+        "Number of pixels in an image"
+      ],
+      "a": 3,
+      "e": "Resolution commonly describes image dimensions in pixels.",
+      "d": "Easy",
+      "topic": "Data Representation",
+      "slo": "Explain or apply concepts in data representation."
+    },
+    {
+      "id": "CS11CH01-024",
+      "q": "Which colour model commonly represents screen colours?",
+      "o": [
+        "ASCII",
+        "CMYK only",
+        "RGB",
+        "BCD"
+      ],
+      "a": 2,
+      "e": "Displays commonly mix red, green and blue light.",
+      "d": "Easy",
+      "topic": "Data Representation",
+      "slo": "Explain or apply concepts in data representation."
+    },
+    {
+      "id": "CS11CH01-025",
+      "q": "What does RGB stand for?",
+      "o": [
+        "Raster Grid Block",
+        "Random Graphic Bits",
+        "Red Green Blue",
+        "Read Generate Buffer"
+      ],
+      "a": 2,
+      "e": "RGB identifies the three additive primary light colours.",
+      "d": "Easy",
+      "topic": "Data Representation",
+      "slo": "Explain or apply concepts in data representation."
+    },
+    {
+      "id": "CS11CH01-026",
+      "q": "Which digital quantity describes samples taken per second in audio?",
+      "o": [
+        "Screen resolution",
+        "Pixel depth",
+        "Sampling rate",
+        "Packet size"
+      ],
+      "a": 2,
+      "e": "Audio sampling rate is the number of samples captured each second.",
+      "d": "Easy",
+      "topic": "Data Representation",
+      "slo": "Explain or apply concepts in data representation."
+    },
+    {
+      "id": "CS11CH01-027",
+      "q": "Which unit measures audio sampling rate?",
+      "o": [
+        "Pixels",
+        "Hertz",
+        "Bytes per pixel",
+        "Volts per metre"
+      ],
+      "a": 1,
+      "e": "Sampling rate is commonly expressed in samples per second or hertz.",
+      "d": "Easy",
+      "topic": "Data Representation",
+      "slo": "Explain or apply concepts in data representation."
+    },
+    {
+      "id": "CS11CH01-028",
+      "q": "What is quantization in digital audio?",
+      "o": [
+        "Adding image pixels",
+        "Encrypting passwords",
+        "Assigning sample amplitudes to discrete levels",
+        "Routing packets"
+      ],
+      "a": 2,
+      "e": "Quantization maps sampled amplitudes to available discrete values.",
+      "d": "Easy",
+      "topic": "Data Representation",
+      "slo": "Explain or apply concepts in data representation."
+    },
+    {
+      "id": "CS11CH01-029",
+      "q": "What happens to uncompressed image size when pixel count rises at fixed colour depth?",
+      "o": [
+        "It generally increases",
+        "It becomes zero",
+        "It is unaffected",
+        "It always halves"
+      ],
+      "a": 0,
+      "e": "More pixels require more stored pixel values.",
+      "d": "Easy",
+      "topic": "Data Representation",
+      "slo": "Explain or apply concepts in data representation."
+    },
+    {
+      "id": "CS11CH01-030",
+      "q": "What does bit depth determine in a digital sample?",
+      "o": [
+        "Cable length",
+        "Number of representable levels",
+        "Screen brightness only",
+        "Network topology"
+      ],
+      "a": 1,
+      "e": "Greater bit depth allows more distinct digital values.",
+      "d": "Easy",
+      "topic": "Data Representation",
+      "slo": "Explain or apply concepts in data representation."
+    },
+    {
+      "id": "CS11CH01-031",
+      "q": "Which type of signal varies continuously?",
+      "o": [
+        "Discrete digital code",
+        "Binary signal",
+        "Boolean variable",
+        "Analog signal"
+      ],
+      "a": 3,
+      "e": "An analog signal can take continuously varying values.",
+      "d": "Easy",
+      "topic": "Analog and Digital Signals",
+      "slo": "Explain or apply concepts in analog and digital signals."
+    },
+    {
+      "id": "CS11CH01-032",
+      "q": "Which signal uses discrete levels?",
+      "o": [
+        "Mechanical pressure only",
+        "Digital signal",
+        "Continuously varying analog signal",
+        "Unmodulated light only"
+      ],
+      "a": 1,
+      "e": "Digital signals represent information using distinct levels.",
+      "d": "Easy",
+      "topic": "Analog and Digital Signals",
+      "slo": "Explain or apply concepts in analog and digital signals."
+    },
+    {
+      "id": "CS11CH01-033",
+      "q": "What are the two typical voltage states of a binary digital signal?",
+      "o": [
+        "Warm and cold",
+        "High and low",
+        "North and south",
+        "Fast and slow"
+      ],
+      "a": 1,
+      "e": "Binary logic is represented by high and low signal levels.",
+      "d": "Easy",
+      "topic": "Analog and Digital Signals",
+      "slo": "Explain or apply concepts in analog and digital signals."
+    },
+    {
+      "id": "CS11CH01-034",
+      "q": "Which process measures an analog signal at regular intervals?",
+      "o": [
+        "Routing",
+        "Sampling",
+        "Compilation",
+        "Hashing"
+      ],
+      "a": 1,
+      "e": "Sampling takes measurements of a continuous signal over time.",
+      "d": "Easy",
+      "topic": "Analog and Digital Signals",
+      "slo": "Explain or apply concepts in analog and digital signals."
+    },
+    {
+      "id": "CS11CH01-035",
+      "q": "Which device converts analog input into digital values?",
+      "o": [
+        "DAC",
+        "Router",
+        "ADC",
+        "Repeater"
+      ],
+      "a": 2,
+      "e": "An analog-to-digital converter converts analog signals into digital form.",
+      "d": "Easy",
+      "topic": "Analog and Digital Signals",
+      "slo": "Explain or apply concepts in analog and digital signals."
+    },
+    {
+      "id": "CS11CH01-036",
+      "q": "Which device converts digital values to analog output?",
+      "o": [
+        "DAC",
+        "Switch",
+        "Firewall",
+        "ADC"
+      ],
+      "a": 0,
+      "e": "A digital-to-analog converter reconstructs analog output from digital values.",
+      "d": "Easy",
+      "topic": "Analog and Digital Signals",
+      "slo": "Explain or apply concepts in analog and digital signals."
+    },
+    {
+      "id": "CS11CH01-037",
+      "q": "Which signal is generally easier to regenerate without accumulating noise?",
+      "o": [
+        "Digital signal",
+        "Analog signal only",
+        "Continuous voltage",
+        "Unshielded sine wave"
+      ],
+      "a": 0,
+      "e": "Digital receivers can restore discrete logic levels.",
+      "d": "Easy",
+      "topic": "Analog and Digital Signals",
+      "slo": "Explain or apply concepts in analog and digital signals."
+    },
+    {
+      "id": "CS11CH01-038",
+      "q": "What is noise in signal transmission?",
+      "o": [
+        "A file extension",
+        "Unwanted disturbance of a signal",
+        "A required logic level",
+        "A storage address"
+      ],
+      "a": 1,
+      "e": "Noise is an unwanted variation that can interfere with a signal.",
+      "d": "Easy",
+      "topic": "Analog and Digital Signals",
+      "slo": "Explain or apply concepts in analog and digital signals."
+    },
+    {
+      "id": "CS11CH01-039",
+      "q": "Which waveform commonly illustrates an analog periodic signal?",
+      "o": [
+        "Binary square pulses only",
+        "Truth table",
+        "Sine wave",
+        "Flowchart"
+      ],
+      "a": 2,
+      "e": "A sine wave varies smoothly and continuously.",
+      "d": "Easy",
+      "topic": "Analog and Digital Signals",
+      "slo": "Explain or apply concepts in analog and digital signals."
+    },
+    {
+      "id": "CS11CH01-040",
+      "q": "Which waveform commonly illustrates binary digital switching?",
+      "o": [
+        "Spiral",
+        "Parabola",
+        "Square wave",
+        "Smooth sine wave only"
+      ],
+      "a": 2,
+      "e": "Digital levels are often represented by square pulses.",
+      "d": "Easy",
+      "topic": "Analog and Digital Signals",
+      "slo": "Explain or apply concepts in analog and digital signals."
+    },
+    {
+      "id": "CS11CH01-041",
+      "q": "What does amplitude describe?",
+      "o": [
+        "Data format",
+        "Number of cables",
+        "Signal magnitude",
+        "Software phase"
+      ],
+      "a": 2,
+      "e": "Amplitude is the size or strength of a varying signal.",
+      "d": "Easy",
+      "topic": "Analog and Digital Signals",
+      "slo": "Explain or apply concepts in analog and digital signals."
+    },
+    {
+      "id": "CS11CH01-042",
+      "q": "What does frequency measure?",
+      "o": [
+        "Network nodes",
+        "Bits per byte",
+        "Pixels per inch only",
+        "Cycles per second"
+      ],
+      "a": 3,
+      "e": "Frequency is the number of periodic cycles each second.",
+      "d": "Easy",
+      "topic": "Analog and Digital Signals",
+      "slo": "Explain or apply concepts in analog and digital signals."
+    },
+    {
+      "id": "CS11CH01-043",
+      "q": "What is the unit of frequency?",
+      "o": [
+        "Ohm per second",
+        "Hertz",
+        "Pixel",
+        "Byte"
+      ],
+      "a": 1,
+      "e": "Hertz means cycles per second.",
+      "d": "Easy",
+      "topic": "Analog and Digital Signals",
+      "slo": "Explain or apply concepts in analog and digital signals."
+    },
+    {
+      "id": "CS11CH01-044",
+      "q": "What does a higher sampling rate capture?",
+      "o": [
+        "Fewer bytes in every case",
+        "More logic gates",
+        "More network ports",
+        "More measurements per second"
+      ],
+      "a": 3,
+      "e": "Higher sampling rates record more signal measurements each second.",
+      "d": "Easy",
+      "topic": "Analog and Digital Signals",
+      "slo": "Explain or apply concepts in analog and digital signals."
+    },
+    {
+      "id": "CS11CH01-045",
+      "q": "Which theorem sets a minimum sampling rate above twice the highest signal frequency?",
+      "o": [
+        "Pythagorean theorem",
+        "Nyquist sampling theorem",
+        "De Morgan law",
+        "Ohm law"
+      ],
+      "a": 1,
+      "e": "Nyquist sampling requires a rate greater than twice the highest relevant frequency.",
+      "d": "Easy",
+      "topic": "Analog and Digital Signals",
+      "slo": "Explain or apply concepts in analog and digital signals."
+    },
+    {
+      "id": "CS11CH01-046",
+      "q": "What is aliasing?",
+      "o": [
+        "A software testing stage",
+        "A firewall rule",
+        "An image colour model",
+        "High-frequency content appearing as a lower frequency after undersampling"
+      ],
+      "a": 3,
+      "e": "Insufficient sampling can cause different frequencies to become indistinguishable.",
+      "d": "Easy",
+      "topic": "Analog and Digital Signals",
+      "slo": "Explain or apply concepts in analog and digital signals."
+    },
+    {
+      "id": "CS11CH01-047",
+      "q": "What is the purpose of an anti-aliasing filter before sampling?",
+      "o": [
+        "Generate encryption keys",
+        "Increase network speed",
+        "Create truth tables",
+        "Reduce frequencies above the sampling limit"
+      ],
+      "a": 3,
+      "e": "An anti-aliasing filter limits high-frequency input before sampling.",
+      "d": "Easy",
+      "topic": "Analog and Digital Signals",
+      "slo": "Explain or apply concepts in analog and digital signals."
+    },
+    {
+      "id": "CS11CH01-048",
+      "q": "What is a digital pulse?",
+      "o": [
+        "A brief transition or interval at a discrete logic level",
+        "A network protocol",
+        "A software patch",
+        "A continuous colour gradient"
+      ],
+      "a": 0,
+      "e": "Digital signals can carry data as pulses of defined levels.",
+      "d": "Easy",
+      "topic": "Analog and Digital Signals",
+      "slo": "Explain or apply concepts in analog and digital signals."
+    },
+    {
+      "id": "CS11CH01-049",
+      "q": "What does signal bandwidth describe?",
+      "o": [
+        "Count of CPU cores",
+        "Size of a logic diagram",
+        "Range of frequencies a channel can carry",
+        "Number of computer users"
+      ],
+      "a": 2,
+      "e": "Bandwidth can refer to a channel's supported frequency range.",
+      "d": "Easy",
+      "topic": "Analog and Digital Signals",
+      "slo": "Explain or apply concepts in analog and digital signals."
+    },
+    {
+      "id": "CS11CH01-050",
+      "q": "What is a principal advantage of digital data storage?",
+      "o": [
+        "It uses no memory",
+        "It requires no electricity ever",
+        "It cannot be corrupted",
+        "Copies can preserve exact bit patterns"
+      ],
+      "a": 3,
+      "e": "Digital data can be duplicated exactly when errors are absent.",
+      "d": "Easy",
+      "topic": "Analog and Digital Signals",
+      "slo": "Explain or apply concepts in analog and digital signals."
+    },
+    {
+      "id": "CS11CH01-051",
+      "q": "Which gate outputs 1 only when all inputs are 1?",
+      "o": [
+        "OR",
+        "AND",
+        "NOT",
+        "XOR"
+      ],
+      "a": 1,
+      "e": "An AND gate is true only when every input is true.",
+      "d": "Easy",
+      "topic": "Digital Logic and Logic Gates",
+      "slo": "Explain or apply concepts in digital logic and logic gates."
+    },
+    {
+      "id": "CS11CH01-052",
+      "q": "Which gate outputs 1 when at least one input is 1?",
+      "o": [
+        "OR",
+        "AND",
+        "XNOR",
+        "NOR"
+      ],
+      "a": 0,
+      "e": "An OR gate is true if any input is true.",
+      "d": "Easy",
+      "topic": "Digital Logic and Logic Gates",
+      "slo": "Explain or apply concepts in digital logic and logic gates."
+    },
+    {
+      "id": "CS11CH01-053",
+      "q": "Which gate reverses a single binary input?",
+      "o": [
+        "OR",
+        "NOT",
+        "AND",
+        "XOR"
+      ],
+      "a": 1,
+      "e": "A NOT gate inverts 0 to 1 and 1 to 0.",
+      "d": "Easy",
+      "topic": "Digital Logic and Logic Gates",
+      "slo": "Explain or apply concepts in digital logic and logic gates."
+    },
+    {
+      "id": "CS11CH01-054",
+      "q": "What is the output of AND for inputs 1 and 0?",
+      "o": [
+        "1",
+        "Undefined",
+        "0",
+        "2"
+      ],
+      "a": 2,
+      "e": "AND outputs 1 only if both inputs are 1.",
+      "d": "Easy",
+      "topic": "Digital Logic and Logic Gates",
+      "slo": "Explain or apply concepts in digital logic and logic gates."
+    },
+    {
+      "id": "CS11CH01-055",
+      "q": "What is the output of OR for inputs 1 and 0?",
+      "o": [
+        "1",
+        "Undefined",
+        "0",
+        "2"
+      ],
+      "a": 0,
+      "e": "OR outputs 1 if at least one input is 1.",
+      "d": "Easy",
+      "topic": "Digital Logic and Logic Gates",
+      "slo": "Explain or apply concepts in digital logic and logic gates."
+    },
+    {
+      "id": "CS11CH01-056",
+      "q": "What is the output of NOT for input 0?",
+      "o": [
+        "2",
+        "Undefined",
+        "0",
+        "1"
+      ],
+      "a": 3,
+      "e": "NOT complements the input bit.",
+      "d": "Easy",
+      "topic": "Digital Logic and Logic Gates",
+      "slo": "Explain or apply concepts in digital logic and logic gates."
+    },
+    {
+      "id": "CS11CH01-057",
+      "q": "Which gate is an AND gate followed by inversion?",
+      "o": [
+        "NOR",
+        "XOR",
+        "NAND",
+        "XNOR"
+      ],
+      "a": 2,
+      "e": "NAND means NOT AND.",
+      "d": "Easy",
+      "topic": "Digital Logic and Logic Gates",
+      "slo": "Explain or apply concepts in digital logic and logic gates."
+    },
+    {
+      "id": "CS11CH01-058",
+      "q": "Which gate is an OR gate followed by inversion?",
+      "o": [
+        "NAND",
+        "XOR",
+        "AND",
+        "NOR"
+      ],
+      "a": 3,
+      "e": "NOR means NOT OR.",
+      "d": "Easy",
+      "topic": "Digital Logic and Logic Gates",
+      "slo": "Explain or apply concepts in digital logic and logic gates."
+    },
+    {
+      "id": "CS11CH01-059",
+      "q": "Which gate outputs 1 when two inputs differ?",
+      "o": [
+        "XOR",
+        "AND",
+        "NOR",
+        "XNOR"
+      ],
+      "a": 0,
+      "e": "Exclusive OR is true when its inputs are different.",
+      "d": "Easy",
+      "topic": "Digital Logic and Logic Gates",
+      "slo": "Explain or apply concepts in digital logic and logic gates."
+    },
+    {
+      "id": "CS11CH01-060",
+      "q": "Which gate outputs 1 when two inputs are equal?",
+      "o": [
+        "OR",
+        "XOR",
+        "NAND",
+        "XNOR"
+      ],
+      "a": 3,
+      "e": "Exclusive NOR is true when both inputs match.",
+      "d": "Easy",
+      "topic": "Digital Logic and Logic Gates",
+      "slo": "Explain or apply concepts in digital logic and logic gates."
+    },
+    {
+      "id": "CS11CH01-061",
+      "q": "What is XOR output for inputs 1 and 1?",
+      "o": [
+        "Undefined",
+        "2",
+        "0",
+        "1"
+      ],
+      "a": 2,
+      "e": "XOR outputs 0 for equal inputs.",
+      "d": "Easy",
+      "topic": "Digital Logic and Logic Gates",
+      "slo": "Explain or apply concepts in digital logic and logic gates."
+    },
+    {
+      "id": "CS11CH01-062",
+      "q": "What is XNOR output for inputs 0 and 0?",
+      "o": [
+        "Undefined",
+        "2",
+        "1",
+        "0"
+      ],
+      "a": 2,
+      "e": "XNOR outputs 1 for equal inputs.",
+      "d": "Easy",
+      "topic": "Digital Logic and Logic Gates",
+      "slo": "Explain or apply concepts in digital logic and logic gates."
+    },
+    {
+      "id": "CS11CH01-063",
+      "q": "What is NAND output for inputs 1 and 1?",
+      "o": [
+        "2",
+        "1",
+        "Undefined",
+        "0"
+      ],
+      "a": 3,
+      "e": "NAND negates the AND result, which is 1 here.",
+      "d": "Easy",
+      "topic": "Digital Logic and Logic Gates",
+      "slo": "Explain or apply concepts in digital logic and logic gates."
+    },
+    {
+      "id": "CS11CH01-064",
+      "q": "What is NOR output for inputs 0 and 0?",
+      "o": [
+        "2",
+        "1",
+        "0",
+        "Undefined"
+      ],
+      "a": 1,
+      "e": "NOR negates the OR result, which is 0 here.",
+      "d": "Easy",
+      "topic": "Digital Logic and Logic Gates",
+      "slo": "Explain or apply concepts in digital logic and logic gates."
+    },
+    {
+      "id": "CS11CH01-065",
+      "q": "Which gates are individually functionally complete?",
+      "o": [
+        "AND and OR only",
+        "XOR and XNOR only",
+        "NOT and XOR only",
+        "NAND and NOR"
+      ],
+      "a": 3,
+      "e": "Either NAND or NOR gates can implement any Boolean function.",
+      "d": "Easy",
+      "topic": "Digital Logic and Logic Gates",
+      "slo": "Explain or apply concepts in digital logic and logic gates."
+    },
+    {
+      "id": "CS11CH01-066",
+      "q": "What is a truth table?",
+      "o": [
+        "A software release schedule",
+        "A storage format",
+        "A table of outputs for every input combination",
+        "A list of IP addresses"
+      ],
+      "a": 2,
+      "e": "Truth tables enumerate possible logic inputs and outputs.",
+      "d": "Easy",
+      "topic": "Digital Logic and Logic Gates",
+      "slo": "Explain or apply concepts in digital logic and logic gates."
+    },
+    {
+      "id": "CS11CH01-067",
+      "q": "How many input combinations exist for two Boolean variables?",
+      "o": [
+        "2",
+        "6",
+        "8",
+        "4"
+      ],
+      "a": 3,
+      "e": "Two independent binary variables have 2 squared combinations.",
+      "d": "Easy",
+      "topic": "Digital Logic and Logic Gates",
+      "slo": "Explain or apply concepts in digital logic and logic gates."
+    },
+    {
+      "id": "CS11CH01-068",
+      "q": "How many input combinations exist for three Boolean variables?",
+      "o": [
+        "8",
+        "3",
+        "16",
+        "6"
+      ],
+      "a": 0,
+      "e": "Three binary variables have 2 cubed combinations.",
+      "d": "Easy",
+      "topic": "Digital Logic and Logic Gates",
+      "slo": "Explain or apply concepts in digital logic and logic gates."
+    },
+    {
+      "id": "CS11CH01-069",
+      "q": "What is Boolean algebra used to manipulate?",
+      "o": [
+        "Audio pitch only",
+        "Logical expressions",
+        "Image brightness only",
+        "Physical cable lengths"
+      ],
+      "a": 1,
+      "e": "Boolean algebra represents and simplifies logical relationships.",
+      "d": "Easy",
+      "topic": "Digital Logic and Logic Gates",
+      "slo": "Explain or apply concepts in digital logic and logic gates."
+    },
+    {
+      "id": "CS11CH01-070",
+      "q": "Which Boolean identity states A AND 1 equals A?",
+      "o": [
+        "Absorption law",
+        "Identity law",
+        "De Morgan law",
+        "Complement law"
+      ],
+      "a": 1,
+      "e": "One is the identity element for AND.",
+      "d": "Easy",
+      "topic": "Digital Logic and Logic Gates",
+      "slo": "Explain or apply concepts in digital logic and logic gates."
+    },
+    {
+      "id": "CS11CH01-071",
+      "q": "Which Boolean identity states A OR 0 equals A?",
+      "o": [
+        "Identity law",
+        "Complement law",
+        "Distributive law",
+        "Involution law"
+      ],
+      "a": 0,
+      "e": "Zero is the identity element for OR.",
+      "d": "Easy",
+      "topic": "Digital Logic and Logic Gates",
+      "slo": "Explain or apply concepts in digital logic and logic gates."
+    },
+    {
+      "id": "CS11CH01-072",
+      "q": "What is A AND 0?",
+      "o": [
+        "1",
+        "A",
+        "NOT A",
+        "0"
+      ],
+      "a": 3,
+      "e": "An AND expression with a zero input is zero.",
+      "d": "Easy",
+      "topic": "Digital Logic and Logic Gates",
+      "slo": "Explain or apply concepts in digital logic and logic gates."
+    },
+    {
+      "id": "CS11CH01-073",
+      "q": "What is A OR 1?",
+      "o": [
+        "1",
+        "0",
+        "NOT A",
+        "A"
+      ],
+      "a": 0,
+      "e": "An OR expression with a one input is one.",
+      "d": "Easy",
+      "topic": "Digital Logic and Logic Gates",
+      "slo": "Explain or apply concepts in digital logic and logic gates."
+    },
+    {
+      "id": "CS11CH01-074",
+      "q": "What is A AND NOT A?",
+      "o": [
+        "NOT A",
+        "0",
+        "1",
+        "A"
+      ],
+      "a": 1,
+      "e": "A variable and its complement cannot both be true.",
+      "d": "Easy",
+      "topic": "Digital Logic and Logic Gates",
+      "slo": "Explain or apply concepts in digital logic and logic gates."
+    },
+    {
+      "id": "CS11CH01-075",
+      "q": "What is A OR NOT A?",
+      "o": [
+        "A",
+        "0",
+        "1",
+        "NOT A"
+      ],
+      "a": 2,
+      "e": "A variable or its complement must be true.",
+      "d": "Easy",
+      "topic": "Digital Logic and Logic Gates",
+      "slo": "Explain or apply concepts in digital logic and logic gates."
+    },
+    {
+      "id": "CS11CH01-076",
+      "q": "What does De Morgan's law say about NOT(A AND B)?",
+      "o": [
+        "NOT A AND NOT B",
+        "A AND B",
+        "A OR B",
+        "NOT A OR NOT B"
+      ],
+      "a": 3,
+      "e": "Negating an AND changes it to an OR of complemented inputs.",
+      "d": "Easy",
+      "topic": "Digital Logic and Logic Gates",
+      "slo": "Explain or apply concepts in digital logic and logic gates."
+    },
+    {
+      "id": "CS11CH01-077",
+      "q": "What does De Morgan's law say about NOT(A OR B)?",
+      "o": [
+        "NOT A OR NOT B",
+        "A AND B",
+        "NOT A AND NOT B",
+        "A OR B"
+      ],
+      "a": 2,
+      "e": "Negating an OR changes it to an AND of complemented inputs.",
+      "d": "Easy",
+      "topic": "Digital Logic and Logic Gates",
+      "slo": "Explain or apply concepts in digital logic and logic gates."
+    },
+    {
+      "id": "CS11CH01-078",
+      "q": "What is a Karnaugh map primarily used for?",
+      "o": [
+        "Editing audio",
+        "Designing network cables",
+        "Encrypting files",
+        "Simplifying Boolean expressions"
+      ],
+      "a": 3,
+      "e": "Karnaugh maps group adjacent minterms to reduce logic expressions.",
+      "d": "Easy",
+      "topic": "Digital Logic and Logic Gates",
+      "slo": "Explain or apply concepts in digital logic and logic gates."
+    },
+    {
+      "id": "CS11CH01-079",
+      "q": "How many cells are in a three-variable Karnaugh map?",
+      "o": [
+        "4",
+        "6",
+        "16",
+        "8"
+      ],
+      "a": 3,
+      "e": "A K-map has one cell per binary input combination.",
+      "d": "Easy",
+      "topic": "Digital Logic and Logic Gates",
+      "slo": "Explain or apply concepts in digital logic and logic gates."
+    },
+    {
+      "id": "CS11CH01-080",
+      "q": "What grouping sizes are allowed in a Karnaugh map?",
+      "o": [
+        "Any number",
+        "Only odd numbers",
+        "Prime numbers only",
+        "Powers of two"
+      ],
+      "a": 3,
+      "e": "K-map groups use sizes such as 1, 2, 4 and 8.",
+      "d": "Easy",
+      "topic": "Digital Logic and Logic Gates",
+      "slo": "Explain or apply concepts in digital logic and logic gates."
+    },
+    {
+      "id": "CS11CH01-081",
+      "q": "What is the output of a half adder sum bit?",
+      "o": [
+        "A XOR B",
+        "A AND B",
+        "NOT A",
+        "A OR B"
+      ],
+      "a": 0,
+      "e": "A half adder's sum output is the XOR of its two inputs.",
+      "d": "Easy",
+      "topic": "Digital Logic and Logic Gates",
+      "slo": "Explain or apply concepts in digital logic and logic gates."
+    },
+    {
+      "id": "CS11CH01-082",
+      "q": "What is the output of a half adder carry bit?",
+      "o": [
+        "A XOR B",
+        "A OR B",
+        "NOT B",
+        "A AND B"
+      ],
+      "a": 3,
+      "e": "A half adder generates carry when both inputs are 1.",
+      "d": "Easy",
+      "topic": "Digital Logic and Logic Gates",
+      "slo": "Explain or apply concepts in digital logic and logic gates."
+    },
+    {
+      "id": "CS11CH01-083",
+      "q": "What is the main difference between a full adder and a half adder?",
+      "o": [
+        "A full adder only subtracts",
+        "A full adder has no outputs",
+        "A half adder accepts three inputs",
+        "A full adder accepts a carry-in"
+      ],
+      "a": 3,
+      "e": "A full adder adds two bits plus an incoming carry.",
+      "d": "Easy",
+      "topic": "Digital Logic and Logic Gates",
+      "slo": "Explain or apply concepts in digital logic and logic gates."
+    },
+    {
+      "id": "CS11CH01-084",
+      "q": "Which circuit stores one bit of state?",
+      "o": [
+        "Flip-flop",
+        "AND gate alone",
+        "Adder",
+        "Decoder only"
+      ],
+      "a": 0,
+      "e": "A flip-flop is a bistable sequential storage element.",
+      "d": "Easy",
+      "topic": "Digital Logic and Logic Gates",
+      "slo": "Explain or apply concepts in digital logic and logic gates."
+    },
+    {
+      "id": "CS11CH01-085",
+      "q": "What distinguishes sequential logic from combinational logic?",
+      "o": [
+        "Combinational logic always needs a clock",
+        "Sequential logic has no memory",
+        "Sequential logic cannot use gates",
+        "Sequential logic depends on stored state"
+      ],
+      "a": 3,
+      "e": "Sequential circuits have memory of earlier states.",
+      "d": "Easy",
+      "topic": "Digital Logic and Logic Gates",
+      "slo": "Explain or apply concepts in digital logic and logic gates."
+    },
+    {
+      "id": "CS11CH01-086",
+      "q": "What does SDLC stand for?",
+      "o": [
+        "System Data Link Code",
+        "Secure Digital Logic Circuit",
+        "Software Development Life Cycle",
+        "Software Design Language Compiler"
+      ],
+      "a": 2,
+      "e": "SDLC names the process of developing software through stages.",
+      "d": "Easy",
+      "topic": "Software Development Life Cycle",
+      "slo": "Explain or apply concepts in software development life cycle."
+    },
+    {
+      "id": "CS11CH01-087",
+      "q": "Which SDLC phase identifies what users need?",
+      "o": [
+        "Maintenance",
+        "Requirements analysis",
+        "Deployment",
+        "Retirement"
+      ],
+      "a": 1,
+      "e": "Requirements analysis defines the system's expected behaviour and constraints.",
+      "d": "Easy",
+      "topic": "Software Development Life Cycle",
+      "slo": "Explain or apply concepts in software development life cycle."
+    },
+    {
+      "id": "CS11CH01-088",
+      "q": "Which SDLC phase creates the solution architecture?",
+      "o": [
+        "Deployment",
+        "Maintenance",
+        "User training only",
+        "Design"
+      ],
+      "a": 3,
+      "e": "Design turns requirements into a technical plan.",
+      "d": "Easy",
+      "topic": "Software Development Life Cycle",
+      "slo": "Explain or apply concepts in software development life cycle."
+    },
+    {
+      "id": "CS11CH01-089",
+      "q": "Which SDLC phase involves writing program code?",
+      "o": [
+        "Requirements elicitation",
+        "Implementation",
+        "Retirement",
+        "Feasibility analysis"
+      ],
+      "a": 1,
+      "e": "Implementation develops the software according to its design.",
+      "d": "Easy",
+      "topic": "Software Development Life Cycle",
+      "slo": "Explain or apply concepts in software development life cycle."
+    },
+    {
+      "id": "CS11CH01-090",
+      "q": "Which SDLC phase checks software against expected behaviour?",
+      "o": [
+        "Procurement",
+        "Testing",
+        "Marketing",
+        "Retirement"
+      ],
+      "a": 1,
+      "e": "Testing detects defects and checks requirements.",
+      "d": "Easy",
+      "topic": "Software Development Life Cycle",
+      "slo": "Explain or apply concepts in software development life cycle."
+    },
+    {
+      "id": "CS11CH01-091",
+      "q": "Which SDLC phase releases the system for real use?",
+      "o": [
+        "Unit testing only",
+        "Requirements gathering",
+        "Initial planning",
+        "Deployment"
+      ],
+      "a": 3,
+      "e": "Deployment places the software in its target environment.",
+      "d": "Easy",
+      "topic": "Software Development Life Cycle",
+      "slo": "Explain or apply concepts in software development life cycle."
+    },
+    {
+      "id": "CS11CH01-092",
+      "q": "Which SDLC phase fixes defects after release?",
+      "o": [
+        "Feasibility only",
+        "Initial design only",
+        "Maintenance",
+        "Requirements drafting only"
+      ],
+      "a": 2,
+      "e": "Maintenance updates and repairs software after deployment.",
+      "d": "Easy",
+      "topic": "Software Development Life Cycle",
+      "slo": "Explain or apply concepts in software development life cycle."
+    },
+    {
+      "id": "CS11CH01-093",
+      "q": "Which SDLC model follows largely sequential stages?",
+      "o": [
+        "Scrum",
+        "Waterfall",
+        "Kanban",
+        "Spiral"
+      ],
+      "a": 1,
+      "e": "Waterfall generally proceeds through planned stages in sequence.",
+      "d": "Easy",
+      "topic": "Software Development Life Cycle",
+      "slo": "Explain or apply concepts in software development life cycle."
+    },
+    {
+      "id": "CS11CH01-094",
+      "q": "Which SDLC approach uses short iterative increments?",
+      "o": [
+        "Strict waterfall only",
+        "Agile",
+        "One-pass design",
+        "Big bang only"
+      ],
+      "a": 1,
+      "e": "Agile methods deliver and refine software iteratively.",
+      "d": "Easy",
+      "topic": "Software Development Life Cycle",
+      "slo": "Explain or apply concepts in software development life cycle."
+    },
+    {
+      "id": "CS11CH01-095",
+      "q": "What is a sprint in Scrum?",
+      "o": [
+        "A binary digit",
+        "A time-boxed iteration",
+        "A hardware fault",
+        "A network cable"
+      ],
+      "a": 1,
+      "e": "Scrum teams work in short fixed-length iterations called sprints.",
+      "d": "Easy",
+      "topic": "Software Development Life Cycle",
+      "slo": "Explain or apply concepts in software development life cycle."
+    },
+    {
+      "id": "CS11CH01-096",
+      "q": "Who prioritizes the product backlog in Scrum?",
+      "o": [
+        "Product owner",
+        "Database engine",
+        "Network administrator",
+        "End user only"
+      ],
+      "a": 0,
+      "e": "The product owner is accountable for ordering the product backlog.",
+      "d": "Easy",
+      "topic": "Software Development Life Cycle",
+      "slo": "Explain or apply concepts in software development life cycle."
+    },
+    {
+      "id": "CS11CH01-097",
+      "q": "What is a product backlog?",
+      "o": [
+        "A compiled program",
+        "A list of broken routers",
+        "An image file",
+        "Prioritized list of desired product work"
+      ],
+      "a": 3,
+      "e": "A backlog records features, fixes and other desired work.",
+      "d": "Easy",
+      "topic": "Software Development Life Cycle",
+      "slo": "Explain or apply concepts in software development life cycle."
+    },
+    {
+      "id": "CS11CH01-098",
+      "q": "What is a prototype?",
+      "o": [
+        "A logic gate",
+        "Early model used to explore requirements or design",
+        "An encrypted password",
+        "A final production server only"
+      ],
+      "a": 1,
+      "e": "Prototypes help stakeholders evaluate ideas before full development.",
+      "d": "Easy",
+      "topic": "Software Development Life Cycle",
+      "slo": "Explain or apply concepts in software development life cycle."
+    },
+    {
+      "id": "CS11CH01-099",
+      "q": "What is feasibility analysis used for?",
+      "o": [
+        "Measuring screen resolution",
+        "Counting network packets",
+        "Assessing whether a project is practical",
+        "Selecting logic output"
+      ],
+      "a": 2,
+      "e": "Feasibility examines practical, economic and technical viability.",
+      "d": "Easy",
+      "topic": "Software Development Life Cycle",
+      "slo": "Explain or apply concepts in software development life cycle."
+    },
+    {
+      "id": "CS11CH01-100",
+      "q": "Which feasibility dimension examines costs and benefits?",
+      "o": [
+        "Technical feasibility only",
+        "Pixel feasibility",
+        "Economic feasibility",
+        "Legal syntax"
+      ],
+      "a": 2,
+      "e": "Economic feasibility evaluates whether benefits justify costs.",
+      "d": "Easy",
+      "topic": "Software Development Life Cycle",
+      "slo": "Explain or apply concepts in software development life cycle."
+    },
+    {
+      "id": "CS11CH01-101",
+      "q": "Which feasibility dimension checks technology and expertise?",
+      "o": [
+        "Economic feasibility only",
+        "Technical feasibility",
+        "Network topology",
+        "Colour feasibility"
+      ],
+      "a": 1,
+      "e": "Technical feasibility assesses tools, infrastructure and skills.",
+      "d": "Easy",
+      "topic": "Software Development Life Cycle",
+      "slo": "Explain or apply concepts in software development life cycle."
+    },
+    {
+      "id": "CS11CH01-102",
+      "q": "What does a functional requirement describe?",
+      "o": [
+        "A cable connector",
+        "What a system must do",
+        "Only the developer salary",
+        "The office wall colour"
+      ],
+      "a": 1,
+      "e": "Functional requirements specify system features and behaviour.",
+      "d": "Easy",
+      "topic": "Software Development Life Cycle",
+      "slo": "Explain or apply concepts in software development life cycle."
+    },
+    {
+      "id": "CS11CH01-103",
+      "q": "What does a nonfunctional requirement describe?",
+      "o": [
+        "A Boolean variable",
+        "A quality or constraint such as performance",
+        "A network IP address",
+        "A single user action only"
+      ],
+      "a": 1,
+      "e": "Nonfunctional requirements specify attributes such as security or speed.",
+      "d": "Easy",
+      "topic": "Software Development Life Cycle",
+      "slo": "Explain or apply concepts in software development life cycle."
+    },
+    {
+      "id": "CS11CH01-104",
+      "q": "What is unit testing?",
+      "o": [
+        "Testing only customer opinions",
+        "Testing an entire city network",
+        "Testing production deployment only",
+        "Testing individual components"
+      ],
+      "a": 3,
+      "e": "Unit tests check small isolated functions or modules.",
+      "d": "Easy",
+      "topic": "Software Development Life Cycle",
+      "slo": "Explain or apply concepts in software development life cycle."
+    },
+    {
+      "id": "CS11CH01-105",
+      "q": "What is integration testing?",
+      "o": [
+        "Testing interactions between combined modules",
+        "Testing screen colour",
+        "Testing only one line of code",
+        "Testing only physical switches"
+      ],
+      "a": 0,
+      "e": "Integration testing checks that components work together.",
+      "d": "Easy",
+      "topic": "Software Development Life Cycle",
+      "slo": "Explain or apply concepts in software development life cycle."
+    },
+    {
+      "id": "CS11CH01-106",
+      "q": "What is system testing?",
+      "o": [
+        "Testing only a router port",
+        "Testing only one variable",
+        "Testing only a prototype sketch",
+        "Testing the complete integrated application"
+      ],
+      "a": 3,
+      "e": "System testing evaluates the software as a whole.",
+      "d": "Easy",
+      "topic": "Software Development Life Cycle",
+      "slo": "Explain or apply concepts in software development life cycle."
+    },
+    {
+      "id": "CS11CH01-107",
+      "q": "What is acceptance testing?",
+      "o": [
+        "Testing a single gate",
+        "Testing signal amplitude",
+        "Checking whether software meets user acceptance criteria",
+        "Testing only compiler syntax"
+      ],
+      "a": 2,
+      "e": "Acceptance testing validates the product against stakeholder needs.",
+      "d": "Easy",
+      "topic": "Software Development Life Cycle",
+      "slo": "Explain or apply concepts in software development life cycle."
+    },
+    {
+      "id": "CS11CH01-108",
+      "q": "What is regression testing?",
+      "o": [
+        "Testing only newly purchased hardware",
+        "Deleting old test cases",
+        "Checking that changes did not break existing functions",
+        "Rewriting requirements"
+      ],
+      "a": 2,
+      "e": "Regression tests protect previously working behaviour.",
+      "d": "Easy",
+      "topic": "Software Development Life Cycle",
+      "slo": "Explain or apply concepts in software development life cycle."
+    },
+    {
+      "id": "CS11CH01-109",
+      "q": "What is version control used for?",
+      "o": [
+        "Tracking changes to source files",
+        "Increasing monitor brightness",
+        "Measuring network voltage",
+        "Reducing binary digits"
+      ],
+      "a": 0,
+      "e": "Version control records and manages revisions to code.",
+      "d": "Easy",
+      "topic": "Software Development Life Cycle",
+      "slo": "Explain or apply concepts in software development life cycle."
+    },
+    {
+      "id": "CS11CH01-110",
+      "q": "What is the main purpose of software documentation?",
+      "o": [
+        "Converting analog signals",
+        "Communicating system design and usage",
+        "Increasing CPU frequency",
+        "Replacing all testing"
+      ],
+      "a": 1,
+      "e": "Documentation helps developers, users and maintainers understand software.",
+      "d": "Easy",
+      "topic": "Software Development Life Cycle",
+      "slo": "Explain or apply concepts in software development life cycle."
+    },
+    {
+      "id": "CS11CH01-111",
+      "q": "What is a network topology?",
+      "o": [
+        "A programming language",
+        "A colour model",
+        "Arrangement of devices and links in a network",
+        "A file compression algorithm"
+      ],
+      "a": 2,
+      "e": "Topology describes how network nodes are connected.",
+      "d": "Easy",
+      "topic": "Network Topology",
+      "slo": "Explain or apply concepts in network topology."
+    },
+    {
+      "id": "CS11CH01-112",
+      "q": "Which topology connects devices to a central switch or hub?",
+      "o": [
+        "Bus",
+        "Star",
+        "Mesh",
+        "Ring"
+      ],
+      "a": 1,
+      "e": "In a star topology each endpoint connects to a central device.",
+      "d": "Easy",
+      "topic": "Network Topology",
+      "slo": "Explain or apply concepts in network topology."
+    },
+    {
+      "id": "CS11CH01-113",
+      "q": "Which topology uses a single shared backbone cable?",
+      "o": [
+        "Mesh",
+        "Star",
+        "Tree",
+        "Bus"
+      ],
+      "a": 3,
+      "e": "A bus topology shares a common transmission backbone.",
+      "d": "Easy",
+      "topic": "Network Topology",
+      "slo": "Explain or apply concepts in network topology."
+    },
+    {
+      "id": "CS11CH01-114",
+      "q": "Which topology connects nodes in a closed loop?",
+      "o": [
+        "Star",
+        "Point-to-point only",
+        "Ring",
+        "Bus"
+      ],
+      "a": 2,
+      "e": "Ring nodes form a circular path.",
+      "d": "Easy",
+      "topic": "Network Topology",
+      "slo": "Explain or apply concepts in network topology."
+    },
+    {
+      "id": "CS11CH01-115",
+      "q": "Which topology has many interconnections and alternative paths?",
+      "o": [
+        "Line only",
+        "Mesh",
+        "Single-star only",
+        "Bus"
+      ],
+      "a": 1,
+      "e": "Mesh networks provide multiple routes between nodes.",
+      "d": "Easy",
+      "topic": "Network Topology",
+      "slo": "Explain or apply concepts in network topology."
+    },
+    {
+      "id": "CS11CH01-116",
+      "q": "Which topology combines hierarchical star-like branches?",
+      "o": [
+        "Point-to-point",
+        "Tree",
+        "Ring",
+        "Bus"
+      ],
+      "a": 1,
+      "e": "Tree topology organizes devices into hierarchical branches.",
+      "d": "Easy",
+      "topic": "Network Topology",
+      "slo": "Explain or apply concepts in network topology."
+    },
+    {
+      "id": "CS11CH01-117",
+      "q": "Which topology combines two or more topology types?",
+      "o": [
+        "Pure ring",
+        "Hybrid",
+        "Single link",
+        "Pure bus"
+      ],
+      "a": 1,
+      "e": "Hybrid networks integrate different topology structures.",
+      "d": "Easy",
+      "topic": "Network Topology",
+      "slo": "Explain or apply concepts in network topology."
+    },
+    {
+      "id": "CS11CH01-118",
+      "q": "What is a key weakness of a star topology?",
+      "o": [
+        "Failure of central device can disrupt the network",
+        "It requires a closed loop",
+        "Every cable is shared by all nodes",
+        "No new device can be added"
+      ],
+      "a": 0,
+      "e": "A star depends on its central connecting device.",
+      "d": "Easy",
+      "topic": "Network Topology",
+      "slo": "Explain or apply concepts in network topology."
+    },
+    {
+      "id": "CS11CH01-119",
+      "q": "What is a common drawback of a full mesh topology?",
+      "o": [
+        "No redundancy exists",
+        "Only one device can connect",
+        "Many cables and ports are required",
+        "All data must use one backbone"
+      ],
+      "a": 2,
+      "e": "Full mesh links grow rapidly as node count increases.",
+      "d": "Easy",
+      "topic": "Network Topology",
+      "slo": "Explain or apply concepts in network topology."
+    },
+    {
+      "id": "CS11CH01-120",
+      "q": "How many links connect 4 nodes in a full mesh?",
+      "o": [
+        "12",
+        "4",
+        "6",
+        "8"
+      ],
+      "a": 2,
+      "e": "A full mesh has n(n-1)/2 links; for four nodes this is six.",
+      "d": "Easy",
+      "topic": "Network Topology",
+      "slo": "Explain or apply concepts in network topology."
+    },
+    {
+      "id": "CS11CH01-121",
+      "q": "How many links connect 5 nodes in a full mesh?",
+      "o": [
+        "5",
+        "15",
+        "20",
+        "10"
+      ],
+      "a": 3,
+      "e": "Five nodes require 5×4/2 = 10 direct links.",
+      "d": "Easy",
+      "topic": "Network Topology",
+      "slo": "Explain or apply concepts in network topology."
+    },
+    {
+      "id": "CS11CH01-122",
+      "q": "Which device forwards frames using MAC addresses?",
+      "o": [
+        "Modem only",
+        "Repeater",
+        "Monitor",
+        "Switch"
+      ],
+      "a": 3,
+      "e": "Ethernet switches learn MAC addresses to forward frames.",
+      "d": "Easy",
+      "topic": "Network Topology",
+      "slo": "Explain or apply concepts in network topology."
+    },
+    {
+      "id": "CS11CH01-123",
+      "q": "Which device connects different IP networks?",
+      "o": [
+        "Hub only",
+        "Printer",
+        "Keyboard",
+        "Router"
+      ],
+      "a": 3,
+      "e": "Routers forward packets between IP networks.",
+      "d": "Easy",
+      "topic": "Network Topology",
+      "slo": "Explain or apply concepts in network topology."
+    },
+    {
+      "id": "CS11CH01-124",
+      "q": "Which device typically broadcasts incoming data to all its ports?",
+      "o": [
+        "Firewall",
+        "Managed switch",
+        "Hub",
+        "Router"
+      ],
+      "a": 2,
+      "e": "A basic hub repeats incoming signals to all other ports.",
+      "d": "Easy",
+      "topic": "Network Topology",
+      "slo": "Explain or apply concepts in network topology."
+    },
+    {
+      "id": "CS11CH01-125",
+      "q": "What is a MAC address?",
+      "o": [
+        "A logic formula",
+        "Hardware-layer network interface identifier",
+        "A website password",
+        "A file type"
+      ],
+      "a": 1,
+      "e": "MAC addresses identify interfaces on local data-link networks.",
+      "d": "Easy",
+      "topic": "Network Topology",
+      "slo": "Explain or apply concepts in network topology."
+    },
+    {
+      "id": "CS11CH01-126",
+      "q": "What is an IP address used for?",
+      "o": [
+        "Identifying an interface for network-layer communication",
+        "Storing audio samples",
+        "Encoding image colours",
+        "Simplifying Boolean expressions"
+      ],
+      "a": 0,
+      "e": "IP addresses support routing and delivery of network packets.",
+      "d": "Easy",
+      "topic": "Network Topology",
+      "slo": "Explain or apply concepts in network topology."
+    },
+    {
+      "id": "CS11CH01-127",
+      "q": "What does LAN stand for?",
+      "o": [
+        "Local Area Network",
+        "Logical Access Number",
+        "Linked Application Network",
+        "Large Analog Node"
+      ],
+      "a": 0,
+      "e": "A LAN covers a limited local area.",
+      "d": "Easy",
+      "topic": "Network Topology",
+      "slo": "Explain or apply concepts in network topology."
+    },
+    {
+      "id": "CS11CH01-128",
+      "q": "What does WAN stand for?",
+      "o": [
+        "Wired Access Name",
+        "Wireless Analog Number",
+        "Web Application Node",
+        "Wide Area Network"
+      ],
+      "a": 3,
+      "e": "A WAN spans larger geographical areas.",
+      "d": "Easy",
+      "topic": "Network Topology",
+      "slo": "Explain or apply concepts in network topology."
+    },
+    {
+      "id": "CS11CH01-129",
+      "q": "What is network bandwidth commonly measured in?",
+      "o": [
+        "Degrees Celsius",
+        "Bits per second",
+        "Pixels per inch",
+        "Characters per page"
+      ],
+      "a": 1,
+      "e": "Network data rates are often expressed in bps.",
+      "d": "Easy",
+      "topic": "Network Topology",
+      "slo": "Explain or apply concepts in network topology."
+    },
+    {
+      "id": "CS11CH01-130",
+      "q": "What is network latency?",
+      "o": [
+        "Delay before data reaches its destination",
+        "Total disk capacity",
+        "Number of image pixels",
+        "Number of logic gates"
+      ],
+      "a": 0,
+      "e": "Latency measures communication delay.",
+      "d": "Easy",
+      "topic": "Network Topology",
+      "slo": "Explain or apply concepts in network topology."
+    },
+    {
+      "id": "CS11CH01-131",
+      "q": "Which medium transmits data as light pulses?",
+      "o": [
+        "Optical fibre",
+        "Copper twisted pair",
+        "Metallic power cable",
+        "Coaxial copper"
+      ],
+      "a": 0,
+      "e": "Optical fibre carries information using light.",
+      "d": "Easy",
+      "topic": "Network Topology",
+      "slo": "Explain or apply concepts in network topology."
+    },
+    {
+      "id": "CS11CH01-132",
+      "q": "Which network medium commonly uses RJ-45 connectors?",
+      "o": [
+        "HDMI cable",
+        "Twisted-pair Ethernet cable",
+        "Optical fibre only",
+        "Audio jack"
+      ],
+      "a": 1,
+      "e": "Copper Ethernet twisted-pair cables commonly use RJ-45-style connectors.",
+      "d": "Easy",
+      "topic": "Network Topology",
+      "slo": "Explain or apply concepts in network topology."
+    },
+    {
+      "id": "CS11CH01-133",
+      "q": "What is a network packet?",
+      "o": [
+        "Formatted unit of transmitted data",
+        "A computer keyboard",
+        "An image pixel",
+        "A Boolean law"
+      ],
+      "a": 0,
+      "e": "Networks send information in structured packets.",
+      "d": "Easy",
+      "topic": "Network Topology",
+      "slo": "Explain or apply concepts in network topology."
+    },
+    {
+      "id": "CS11CH01-134",
+      "q": "What does a wireless access point provide?",
+      "o": [
+        "Arithmetic addition",
+        "Analog-to-digital conversion only",
+        "Software compilation",
+        "Wireless connection to a network"
+      ],
+      "a": 3,
+      "e": "Access points connect Wi-Fi devices to a network.",
+      "d": "Easy",
+      "topic": "Network Topology",
+      "slo": "Explain or apply concepts in network topology."
+    },
+    {
+      "id": "CS11CH01-135",
+      "q": "What is the main purpose of a repeater?",
+      "o": [
+        "Assign software licenses",
+        "Regenerate or extend a signal",
+        "Encrypt every file",
+        "Create IP routes automatically"
+      ],
+      "a": 1,
+      "e": "Repeaters help overcome signal attenuation.",
+      "d": "Easy",
+      "topic": "Network Topology",
+      "slo": "Explain or apply concepts in network topology."
+    },
+    {
+      "id": "CS11CH01-136",
+      "q": "What is cybersecurity primarily concerned with?",
+      "o": [
+        "Protecting systems, networks and data",
+        "Only increasing CPU speed",
+        "Only hardware recycling",
+        "Only image compression"
+      ],
+      "a": 0,
+      "e": "Cybersecurity protects digital resources against threats.",
+      "d": "Easy",
+      "topic": "Cybersecurity",
+      "slo": "Explain or apply concepts in cybersecurity."
+    },
+    {
+      "id": "CS11CH01-137",
+      "q": "What does confidentiality mean in information security?",
+      "o": [
+        "Systems never restart",
+        "Files cannot be copied",
+        "Data is always public",
+        "Only authorized parties can access information"
+      ],
+      "a": 3,
+      "e": "Confidentiality restricts access to sensitive information.",
+      "d": "Easy",
+      "topic": "Cybersecurity",
+      "slo": "Explain or apply concepts in cybersecurity."
+    },
+    {
+      "id": "CS11CH01-138",
+      "q": "What does integrity mean in information security?",
+      "o": [
+        "Data remains accurate and unaltered without authorization",
+        "Servers run continuously",
+        "Everyone can read all data",
+        "Passwords are optional"
+      ],
+      "a": 0,
+      "e": "Integrity protects against unauthorized or accidental modification.",
+      "d": "Easy",
+      "topic": "Cybersecurity",
+      "slo": "Explain or apply concepts in cybersecurity."
+    },
+    {
+      "id": "CS11CH01-139",
+      "q": "What does availability mean in information security?",
+      "o": [
+        "Files are always encrypted twice",
+        "Systems and data are accessible when needed",
+        "All data is secret forever",
+        "Every user is an administrator"
+      ],
+      "a": 1,
+      "e": "Availability ensures timely access for authorized users.",
+      "d": "Easy",
+      "topic": "Cybersecurity",
+      "slo": "Explain or apply concepts in cybersecurity."
+    },
+    {
+      "id": "CS11CH01-140",
+      "q": "What is the CIA triad?",
+      "o": [
+        "Computer, Interface and Algorithm",
+        "Code, Internet and Access",
+        "Control, Identity and Audit",
+        "Confidentiality, Integrity and Availability"
+      ],
+      "a": 3,
+      "e": "The CIA triad summarizes three core information-security objectives.",
+      "d": "Easy",
+      "topic": "Cybersecurity",
+      "slo": "Explain or apply concepts in cybersecurity."
+    },
+    {
+      "id": "CS11CH01-141",
+      "q": "What is phishing?",
+      "o": [
+        "A type of backup disk",
+        "A network topology",
+        "A legitimate encryption algorithm",
+        "Deceptive messages used to steal information"
+      ],
+      "a": 3,
+      "e": "Phishing tricks recipients into revealing information or taking unsafe actions.",
+      "d": "Easy",
+      "topic": "Cybersecurity",
+      "slo": "Explain or apply concepts in cybersecurity."
+    },
+    {
+      "id": "CS11CH01-142",
+      "q": "What is malware?",
+      "o": [
+        "A type of monitor",
+        "A Boolean simplification",
+        "Software intended to cause harm or unauthorized actions",
+        "A secure backup format"
+      ],
+      "a": 2,
+      "e": "Malware is malicious software.",
+      "d": "Easy",
+      "topic": "Cybersecurity",
+      "slo": "Explain or apply concepts in cybersecurity."
+    },
+    {
+      "id": "CS11CH01-143",
+      "q": "Which malware can self-replicate across networks without attaching to a host file?",
+      "o": [
+        "Trojan horse",
+        "Adware only",
+        "Worm",
+        "Spyware only"
+      ],
+      "a": 2,
+      "e": "A worm can spread independently across systems.",
+      "d": "Easy",
+      "topic": "Cybersecurity",
+      "slo": "Explain or apply concepts in cybersecurity."
+    },
+    {
+      "id": "CS11CH01-144",
+      "q": "Which malware disguises itself as legitimate software?",
+      "o": [
+        "Trojan horse",
+        "Firewall",
+        "Backup",
+        "Patch"
+      ],
+      "a": 0,
+      "e": "A Trojan deceives users into running malicious code.",
+      "d": "Easy",
+      "topic": "Cybersecurity",
+      "slo": "Explain or apply concepts in cybersecurity."
+    },
+    {
+      "id": "CS11CH01-145",
+      "q": "Which malware encrypts files and demands payment?",
+      "o": [
+        "Ransomware",
+        "Compiler",
+        "Antivirus",
+        "Router firmware"
+      ],
+      "a": 0,
+      "e": "Ransomware blocks access to data and demands ransom.",
+      "d": "Easy",
+      "topic": "Cybersecurity",
+      "slo": "Explain or apply concepts in cybersecurity."
+    },
+    {
+      "id": "CS11CH01-146",
+      "q": "Which malware secretly monitors user activity?",
+      "o": [
+        "Firewall",
+        "Spyware",
+        "Operating system patch",
+        "Router"
+      ],
+      "a": 1,
+      "e": "Spyware collects information without informed authorization.",
+      "d": "Easy",
+      "topic": "Cybersecurity",
+      "slo": "Explain or apply concepts in cybersecurity."
+    },
+    {
+      "id": "CS11CH01-147",
+      "q": "What is social engineering?",
+      "o": [
+        "Manipulating people to bypass security",
+        "Routing packets by MAC",
+        "Upgrading CPU cooling",
+        "Drawing network diagrams"
+      ],
+      "a": 0,
+      "e": "Social engineering exploits human trust and behaviour.",
+      "d": "Easy",
+      "topic": "Cybersecurity",
+      "slo": "Explain or apply concepts in cybersecurity."
+    },
+    {
+      "id": "CS11CH01-148",
+      "q": "What is multi-factor authentication?",
+      "o": [
+        "Using two identical passwords",
+        "Sharing one login",
+        "Changing usernames daily",
+        "Verifying identity using two or more distinct factor types"
+      ],
+      "a": 3,
+      "e": "MFA combines independent authentication factors.",
+      "d": "Easy",
+      "topic": "Cybersecurity",
+      "slo": "Explain or apply concepts in cybersecurity."
+    },
+    {
+      "id": "CS11CH01-149",
+      "q": "Which item is an example of a possession authentication factor?",
+      "o": [
+        "PIN code",
+        "Security question",
+        "Security token",
+        "Memorized password"
+      ],
+      "a": 2,
+      "e": "A security token is something the user possesses.",
+      "d": "Easy",
+      "topic": "Cybersecurity",
+      "slo": "Explain or apply concepts in cybersecurity."
+    },
+    {
+      "id": "CS11CH01-150",
+      "q": "Which item is an example of a knowledge authentication factor?",
+      "o": [
+        "Face scan",
+        "Fingerprint",
+        "Password",
+        "Hardware key"
+      ],
+      "a": 2,
+      "e": "A password is something the user knows.",
+      "d": "Easy",
+      "topic": "Cybersecurity",
+      "slo": "Explain or apply concepts in cybersecurity."
+    },
+    {
+      "id": "CS11CH01-151",
+      "q": "Which item is an example of an inherence authentication factor?",
+      "o": [
+        "Password",
+        "PIN",
+        "Security token",
+        "Fingerprint"
+      ],
+      "a": 3,
+      "e": "A fingerprint is a biometric characteristic of the user.",
+      "d": "Easy",
+      "topic": "Cybersecurity",
+      "slo": "Explain or apply concepts in cybersecurity."
+    },
+    {
+      "id": "CS11CH01-152",
+      "q": "What is encryption?",
+      "o": [
+        "Increasing network latency",
+        "Transforming readable data into coded form using a key",
+        "Copying files without change",
+        "Deleting all backups"
+      ],
+      "a": 1,
+      "e": "Encryption protects information by making it unreadable without appropriate keys.",
+      "d": "Easy",
+      "topic": "Cybersecurity",
+      "slo": "Explain or apply concepts in cybersecurity."
+    },
+    {
+      "id": "CS11CH01-153",
+      "q": "What is decryption?",
+      "o": [
+        "Recovering readable data from encrypted data",
+        "Converting decimal to octal only",
+        "Removing malware physically",
+        "Testing a router"
+      ],
+      "a": 0,
+      "e": "Decryption reverses encryption using the required key.",
+      "d": "Easy",
+      "topic": "Cybersecurity",
+      "slo": "Explain or apply concepts in cybersecurity."
+    },
+    {
+      "id": "CS11CH01-154",
+      "q": "What is a firewall?",
+      "o": [
+        "A colour model",
+        "A system that filters network traffic according to rules",
+        "A data compression standard",
+        "A logic gate"
+      ],
+      "a": 1,
+      "e": "Firewalls enforce traffic filtering policies.",
+      "d": "Easy",
+      "topic": "Cybersecurity",
+      "slo": "Explain or apply concepts in cybersecurity."
+    },
+    {
+      "id": "CS11CH01-155",
+      "q": "What is antivirus software used for?",
+      "o": [
+        "Increasing screen resolution",
+        "Detecting and responding to malicious software",
+        "Connecting network cables",
+        "Writing all application code"
+      ],
+      "a": 1,
+      "e": "Antivirus tools help identify and block malware.",
+      "d": "Easy",
+      "topic": "Cybersecurity",
+      "slo": "Explain or apply concepts in cybersecurity."
+    },
+    {
+      "id": "CS11CH01-156",
+      "q": "Why are software security patches important?",
+      "o": [
+        "They fix known vulnerabilities",
+        "They remove all user accounts",
+        "They disable all encryption",
+        "They guarantee zero future bugs"
+      ],
+      "a": 0,
+      "e": "Patches correct flaws that attackers might exploit.",
+      "d": "Easy",
+      "topic": "Cybersecurity",
+      "slo": "Explain or apply concepts in cybersecurity."
+    },
+    {
+      "id": "CS11CH01-157",
+      "q": "What is the principle of least privilege?",
+      "o": [
+        "Share one account among everyone",
+        "Give all users administrator access",
+        "Disable passwords",
+        "Grant only the access necessary for a task"
+      ],
+      "a": 3,
+      "e": "Least privilege limits permissions to reduce risk.",
+      "d": "Easy",
+      "topic": "Cybersecurity",
+      "slo": "Explain or apply concepts in cybersecurity."
+    },
+    {
+      "id": "CS11CH01-158",
+      "q": "What is a strong backup strategy intended to support?",
+      "o": [
+        "Password guessing",
+        "Disabling updates",
+        "Recovery after data loss or attack",
+        "Unauthorized access"
+      ],
+      "a": 2,
+      "e": "Backups help restore data after incidents.",
+      "d": "Easy",
+      "topic": "Cybersecurity",
+      "slo": "Explain or apply concepts in cybersecurity."
+    },
+    {
+      "id": "CS11CH01-159",
+      "q": "What is a denial-of-service attack?",
+      "o": [
+        "An approved software update",
+        "A secure login method",
+        "A network cable test",
+        "An attempt to make a service unavailable"
+      ],
+      "a": 3,
+      "e": "DoS attacks overwhelm or disrupt service availability.",
+      "d": "Easy",
+      "topic": "Cybersecurity",
+      "slo": "Explain or apply concepts in cybersecurity."
+    },
+    {
+      "id": "CS11CH01-160",
+      "q": "What is a brute-force password attack?",
+      "o": [
+        "Trying many possible passwords",
+        "Drawing a flowchart",
+        "Encrypting a backup",
+        "Installing a firewall"
+      ],
+      "a": 0,
+      "e": "Brute-force attacks systematically test credential guesses.",
+      "d": "Easy",
+      "topic": "Cybersecurity",
+      "slo": "Explain or apply concepts in cybersecurity."
+    },
+    {
+      "id": "CS11CH01-161",
+      "q": "What is a vulnerability?",
+      "o": [
+        "A secure password",
+        "A weakness that could be exploited",
+        "A verified backup",
+        "An authorized user"
+      ],
+      "a": 1,
+      "e": "A vulnerability is a flaw or weakness in a system.",
+      "d": "Easy",
+      "topic": "Cybersecurity",
+      "slo": "Explain or apply concepts in cybersecurity."
+    },
+    {
+      "id": "CS11CH01-162",
+      "q": "What is a threat in cybersecurity?",
+      "o": [
+        "An image file",
+        "A potential cause of harm to an asset",
+        "A guaranteed safe configuration",
+        "A software license"
+      ],
+      "a": 1,
+      "e": "Threats are potential sources of security incidents.",
+      "d": "Easy",
+      "topic": "Cybersecurity",
+      "slo": "Explain or apply concepts in cybersecurity."
+    },
+    {
+      "id": "CS11CH01-163",
+      "q": "What is risk in cybersecurity?",
+      "o": [
+        "The size of a screen",
+        "The colour of network cables",
+        "Only the number of computers",
+        "Potential loss arising from a threat exploiting a vulnerability"
+      ],
+      "a": 3,
+      "e": "Security risk combines the likelihood and impact of adverse events.",
+      "d": "Easy",
+      "topic": "Cybersecurity",
+      "slo": "Explain or apply concepts in cybersecurity."
+    },
+    {
+      "id": "CS11CH01-164",
+      "q": "What is two-factor authentication?",
+      "o": [
+        "Using two browser tabs",
+        "Entering the same password twice",
+        "Using two usernames",
+        "Authentication using two different factor types"
+      ],
+      "a": 3,
+      "e": "Two-factor authentication combines two independent factor categories.",
+      "d": "Easy",
+      "topic": "Cybersecurity",
+      "slo": "Explain or apply concepts in cybersecurity."
+    },
+    {
+      "id": "CS11CH01-165",
+      "q": "What is a digital signature primarily used to verify?",
+      "o": [
+        "Wi-Fi signal strength",
+        "Monitor brightness",
+        "CPU temperature",
+        "Authenticity and integrity of digital information"
+      ],
+      "a": 3,
+      "e": "Digital signatures can verify who signed data and whether it changed.",
+      "d": "Easy",
+      "topic": "Cybersecurity",
+      "slo": "Explain or apply concepts in cybersecurity."
+    },
+    {
+      "id": "CS11CH01-166",
+      "q": "What is hashing?",
+      "o": [
+        "Routing packets to every port",
+        "Increasing monitor resolution",
+        "Reversibly encrypting with no key",
+        "Producing a fixed-length digest from input data"
+      ],
+      "a": 3,
+      "e": "A cryptographic hash maps input data to a fixed-size digest.",
+      "d": "Easy",
+      "topic": "Cybersecurity",
+      "slo": "Explain or apply concepts in cybersecurity."
+    },
+    {
+      "id": "CS11CH01-167",
+      "q": "What does HTTPS help protect?",
+      "o": [
+        "Data exchanged between browser and website",
+        "Offline files automatically",
+        "A computer from all possible viruses",
+        "Physical power cables"
+      ],
+      "a": 0,
+      "e": "HTTPS uses TLS to secure web communication.",
+      "d": "Easy",
+      "topic": "Cybersecurity",
+      "slo": "Explain or apply concepts in cybersecurity."
+    },
+    {
+      "id": "CS11CH01-168",
+      "q": "What is a VPN?",
+      "o": [
+        "Visual Packet Number",
+        "Verified Public Node",
+        "Virtual Private Network",
+        "Variable Program Name"
+      ],
+      "a": 2,
+      "e": "A VPN creates a protected logical network connection.",
+      "d": "Easy",
+      "topic": "Cybersecurity",
+      "slo": "Explain or apply concepts in cybersecurity."
+    },
+    {
+      "id": "CS11CH01-169",
+      "q": "What is shoulder surfing?",
+      "o": [
+        "Encrypting a hard drive",
+        "Updating antivirus",
+        "Scanning an IP subnet",
+        "Observing someone's screen or keyboard to obtain secrets"
+      ],
+      "a": 3,
+      "e": "Shoulder surfing is physical observation of sensitive input.",
+      "d": "Easy",
+      "topic": "Cybersecurity",
+      "slo": "Explain or apply concepts in cybersecurity."
+    },
+    {
+      "id": "CS11CH01-170",
+      "q": "What is a password manager?",
+      "o": [
+        "A tool that securely stores and helps generate credentials",
+        "An image editor",
+        "A network repeater",
+        "A logic simulator"
+      ],
+      "a": 0,
+      "e": "Password managers help manage distinct strong passwords.",
+      "d": "Easy",
+      "topic": "Cybersecurity",
+      "slo": "Explain or apply concepts in cybersecurity."
+    },
+    {
+      "id": "CS11CH01-171",
+      "q": "What is incident response?",
+      "o": [
+        "Writing software requirements only",
+        "Organized actions to detect, contain and recover from security incidents",
+        "Increasing audio sampling rate",
+        "Designing a bus topology"
+      ],
+      "a": 1,
+      "e": "Incident response coordinates investigation, containment and recovery.",
+      "d": "Easy",
+      "topic": "Cybersecurity",
+      "slo": "Explain or apply concepts in cybersecurity."
+    },
+    {
+      "id": "CS11CH01-172",
+      "q": "In a Grade 11 Computer Systems assessment, what is the smallest unit of digital information?",
+      "o": [
+        "Word",
+        "Bit",
+        "Byte",
+        "Nibble"
+      ],
+      "a": 1,
+      "e": "A bit represents one binary digit, either 0 or 1.",
+      "d": "Medium",
+      "topic": "Data Representation",
+      "slo": "Explain or apply concepts in data representation."
+    },
+    {
+      "id": "CS11CH01-173",
+      "q": "In a Grade 11 Computer Systems assessment, how many bits are in one byte?",
+      "o": [
+        "4",
+        "8",
+        "16",
+        "32"
+      ],
+      "a": 1,
+      "e": "One byte consists of eight bits.",
+      "d": "Medium",
+      "topic": "Data Representation",
+      "slo": "Explain or apply concepts in data representation."
+    },
+    {
+      "id": "CS11CH01-174",
+      "q": "In a Grade 11 Computer Systems assessment, how many bits are in a nibble?",
+      "o": [
+        "8",
+        "4",
+        "16",
+        "2"
+      ],
+      "a": 1,
+      "e": "A nibble contains four bits.",
+      "d": "Medium",
+      "topic": "Data Representation",
+      "slo": "Explain or apply concepts in data representation."
+    },
+    {
+      "id": "CS11CH01-175",
+      "q": "In a Grade 11 Computer Systems assessment, which number system uses only 0 and 1?",
+      "o": [
+        "Octal",
+        "Binary",
+        "Decimal",
+        "Hexadecimal"
+      ],
+      "a": 1,
+      "e": "Binary is a base-2 number system.",
+      "d": "Medium",
+      "topic": "Data Representation",
+      "slo": "Explain or apply concepts in data representation."
+    },
+    {
+      "id": "CS11CH01-176",
+      "q": "In a Grade 11 Computer Systems assessment, what is the base of the decimal number system?",
+      "o": [
+        "8",
+        "16",
+        "10",
+        "2"
+      ],
+      "a": 2,
+      "e": "Decimal uses ten digits, 0 through 9.",
+      "d": "Medium",
+      "topic": "Data Representation",
+      "slo": "Explain or apply concepts in data representation."
+    },
+    {
+      "id": "CS11CH01-177",
+      "q": "In a Grade 11 Computer Systems assessment, what is the base of the octal number system?",
+      "o": [
+        "8",
+        "2",
+        "16",
+        "10"
+      ],
+      "a": 0,
+      "e": "Octal uses digits 0 through 7.",
+      "d": "Medium",
+      "topic": "Data Representation",
+      "slo": "Explain or apply concepts in data representation."
+    },
+    {
+      "id": "CS11CH01-178",
+      "q": "In a Grade 11 Computer Systems assessment, what is the base of the hexadecimal number system?",
+      "o": [
+        "10",
+        "8",
+        "2",
+        "16"
+      ],
+      "a": 3,
+      "e": "Hexadecimal uses sixteen symbols, 0–9 and A–F.",
+      "d": "Medium",
+      "topic": "Data Representation",
+      "slo": "Explain or apply concepts in data representation."
+    },
+    {
+      "id": "CS11CH01-179",
+      "q": "In a Grade 11 Computer Systems assessment, which hexadecimal digit represents decimal 10?",
+      "o": [
+        "A",
+        "B",
+        "9",
+        "F"
+      ],
+      "a": 0,
+      "e": "Hexadecimal A represents decimal ten.",
+      "d": "Medium",
+      "topic": "Data Representation",
+      "slo": "Explain or apply concepts in data representation."
+    },
+    {
+      "id": "CS11CH01-180",
+      "q": "In a Grade 11 Computer Systems assessment, which hexadecimal digit represents decimal 15?",
+      "o": [
+        "10",
+        "F",
+        "E",
+        "A"
+      ],
+      "a": 1,
+      "e": "Hexadecimal F represents decimal fifteen.",
+      "d": "Medium",
+      "topic": "Data Representation",
+      "slo": "Explain or apply concepts in data representation."
+    },
+    {
+      "id": "CS11CH01-181",
+      "q": "In a Grade 11 Computer Systems assessment, what is binary 1010 in decimal?",
+      "o": [
+        "8",
+        "10",
+        "5",
+        "12"
+      ],
+      "a": 1,
+      "e": "Binary 1010 equals 8 + 2 = 10.",
+      "d": "Medium",
+      "topic": "Data Representation",
+      "slo": "Explain or apply concepts in data representation."
+    },
+    {
+      "id": "CS11CH01-182",
+      "q": "In a Grade 11 Computer Systems assessment, what is decimal 13 in binary?",
+      "o": [
+        "1001",
+        "1101",
+        "1011",
+        "1110"
+      ],
+      "a": 1,
+      "e": "13 = 8 + 4 + 1, giving binary 1101.",
+      "d": "Medium",
+      "topic": "Data Representation",
+      "slo": "Explain or apply concepts in data representation."
+    },
+    {
+      "id": "CS11CH01-183",
+      "q": "In a Grade 11 Computer Systems assessment, what is binary 1111 in hexadecimal?",
+      "o": [
+        "F",
+        "E",
+        "A",
+        "10"
+      ],
+      "a": 0,
+      "e": "Four binary ones equal decimal fifteen, hexadecimal F.",
+      "d": "Medium",
+      "topic": "Data Representation",
+      "slo": "Explain or apply concepts in data representation."
+    },
+    {
+      "id": "CS11CH01-184",
+      "q": "In a Grade 11 Computer Systems assessment, what is decimal 8 in binary?",
+      "o": [
+        "1010",
+        "1000",
+        "0100",
+        "1111"
+      ],
+      "a": 1,
+      "e": "Eight is 2 cubed, so its binary representation is 1000.",
+      "d": "Medium",
+      "topic": "Data Representation",
+      "slo": "Explain or apply concepts in data representation."
+    },
+    {
+      "id": "CS11CH01-185",
+      "q": "In a Grade 11 Computer Systems assessment, what is binary 1001 in decimal?",
+      "o": [
+        "7",
+        "10",
+        "12",
+        "9"
+      ],
+      "a": 3,
+      "e": "Binary 1001 equals 8 + 1.",
+      "d": "Medium",
+      "topic": "Data Representation",
+      "slo": "Explain or apply concepts in data representation."
+    },
+    {
+      "id": "CS11CH01-186",
+      "q": "In a Grade 11 Computer Systems assessment, what is decimal 7 in binary?",
+      "o": [
+        "110",
+        "1000",
+        "111",
+        "101"
+      ],
+      "a": 2,
+      "e": "Seven equals 4 + 2 + 1.",
+      "d": "Medium",
+      "topic": "Data Representation",
+      "slo": "Explain or apply concepts in data representation."
+    },
+    {
+      "id": "CS11CH01-187",
+      "q": "In a Grade 11 Computer Systems assessment, what is the decimal value of hexadecimal 10?",
+      "o": [
+        "16",
+        "2",
+        "8",
+        "10"
+      ],
+      "a": 0,
+      "e": "Hexadecimal 10 represents one group of sixteen.",
+      "d": "Medium",
+      "topic": "Data Representation",
+      "slo": "Explain or apply concepts in data representation."
+    },
+    {
+      "id": "CS11CH01-188",
+      "q": "In a Grade 11 Computer Systems assessment, what is the decimal value of octal 10?",
+      "o": [
+        "10",
+        "8",
+        "16",
+        "2"
+      ],
+      "a": 1,
+      "e": "Octal 10 represents one group of eight.",
+      "d": "Medium",
+      "topic": "Data Representation",
+      "slo": "Explain or apply concepts in data representation."
+    },
+    {
+      "id": "CS11CH01-189",
+      "q": "In a Grade 11 Computer Systems assessment, which code commonly represents characters using 7-bit patterns?",
+      "o": [
+        "ASCII",
+        "JPEG",
+        "PNG",
+        "MP3"
+      ],
+      "a": 0,
+      "e": "Standard ASCII defines 128 characters with seven bits.",
+      "d": "Medium",
+      "topic": "Data Representation",
+      "slo": "Explain or apply concepts in data representation."
+    },
+    {
+      "id": "CS11CH01-190",
+      "q": "In a Grade 11 Computer Systems assessment, which character standard supports many world writing systems?",
+      "o": [
+        "Morse code",
+        "BCD only",
+        "Unicode",
+        "ASCII only"
+      ],
+      "a": 2,
+      "e": "Unicode provides code points for characters across languages.",
+      "d": "Medium",
+      "topic": "Data Representation",
+      "slo": "Explain or apply concepts in data representation."
+    },
+    {
+      "id": "CS11CH01-191",
+      "q": "In a Grade 11 Computer Systems assessment, what does UTF stand for in UTF-8?",
+      "o": [
+        "Unified Text File",
+        "User Terminal Function",
+        "Universal Transfer Frequency",
+        "Unicode Transformation Format"
+      ],
+      "a": 3,
+      "e": "UTF is an encoding format for Unicode text.",
+      "d": "Medium",
+      "topic": "Data Representation",
+      "slo": "Explain or apply concepts in data representation."
+    },
+    {
+      "id": "CS11CH01-192",
+      "q": "In a Grade 11 Computer Systems assessment, which encoding uses a variable number of bytes for Unicode characters?",
+      "o": [
+        "BCD",
+        "Fixed 7-bit ASCII",
+        "Pure binary digits only",
+        "UTF-8"
+      ],
+      "a": 3,
+      "e": "UTF-8 encodes characters using one to four bytes.",
+      "d": "Medium",
+      "topic": "Data Representation",
+      "slo": "Explain or apply concepts in data representation."
+    },
+    {
+      "id": "CS11CH01-193",
+      "q": "In a Grade 11 Computer Systems assessment, what is a pixel?",
+      "o": [
+        "A network cable",
+        "Smallest addressable picture element",
+        "A unit of sound frequency",
+        "A logic gate"
+      ],
+      "a": 1,
+      "e": "A pixel is an individual element of a digital image.",
+      "d": "Medium",
+      "topic": "Data Representation",
+      "slo": "Explain or apply concepts in data representation."
+    },
+    {
+      "id": "CS11CH01-194",
+      "q": "In a Grade 11 Computer Systems assessment, what does image resolution describe?",
+      "o": [
+        "Number of pixels in an image",
+        "CPU clock speed",
+        "Network bandwidth",
+        "Audio pitch"
+      ],
+      "a": 0,
+      "e": "Resolution commonly describes image dimensions in pixels.",
+      "d": "Medium",
+      "topic": "Data Representation",
+      "slo": "Explain or apply concepts in data representation."
+    },
+    {
+      "id": "CS11CH01-195",
+      "q": "In a Grade 11 Computer Systems assessment, which colour model commonly represents screen colours?",
+      "o": [
+        "RGB",
+        "BCD",
+        "ASCII",
+        "CMYK only"
+      ],
+      "a": 0,
+      "e": "Displays commonly mix red, green and blue light.",
+      "d": "Medium",
+      "topic": "Data Representation",
+      "slo": "Explain or apply concepts in data representation."
+    },
+    {
+      "id": "CS11CH01-196",
+      "q": "In a Grade 11 Computer Systems assessment, what does RGB stand for?",
+      "o": [
+        "Random Graphic Bits",
+        "Red Green Blue",
+        "Raster Grid Block",
+        "Read Generate Buffer"
+      ],
+      "a": 1,
+      "e": "RGB identifies the three additive primary light colours.",
+      "d": "Medium",
+      "topic": "Data Representation",
+      "slo": "Explain or apply concepts in data representation."
+    },
+    {
+      "id": "CS11CH01-197",
+      "q": "In a Grade 11 Computer Systems assessment, which digital quantity describes samples taken per second in audio?",
+      "o": [
+        "Sampling rate",
+        "Pixel depth",
+        "Screen resolution",
+        "Packet size"
+      ],
+      "a": 0,
+      "e": "Audio sampling rate is the number of samples captured each second.",
+      "d": "Medium",
+      "topic": "Data Representation",
+      "slo": "Explain or apply concepts in data representation."
+    },
+    {
+      "id": "CS11CH01-198",
+      "q": "In a Grade 11 Computer Systems assessment, which unit measures audio sampling rate?",
+      "o": [
+        "Bytes per pixel",
+        "Pixels",
+        "Volts per metre",
+        "Hertz"
+      ],
+      "a": 3,
+      "e": "Sampling rate is commonly expressed in samples per second or hertz.",
+      "d": "Medium",
+      "topic": "Data Representation",
+      "slo": "Explain or apply concepts in data representation."
+    },
+    {
+      "id": "CS11CH01-199",
+      "q": "In a Grade 11 Computer Systems assessment, what is quantization in digital audio?",
+      "o": [
+        "Adding image pixels",
+        "Routing packets",
+        "Assigning sample amplitudes to discrete levels",
+        "Encrypting passwords"
+      ],
+      "a": 2,
+      "e": "Quantization maps sampled amplitudes to available discrete values.",
+      "d": "Medium",
+      "topic": "Data Representation",
+      "slo": "Explain or apply concepts in data representation."
+    },
+    {
+      "id": "CS11CH01-200",
+      "q": "In a Grade 11 Computer Systems assessment, what happens to uncompressed image size when pixel count rises at fixed colour depth?",
+      "o": [
+        "It is unaffected",
+        "It becomes zero",
+        "It always halves",
+        "It generally increases"
+      ],
+      "a": 3,
+      "e": "More pixels require more stored pixel values.",
+      "d": "Medium",
+      "topic": "Data Representation",
+      "slo": "Explain or apply concepts in data representation."
+    },
+    {
+      "id": "CS11CH01-201",
+      "q": "In a Grade 11 Computer Systems assessment, what does bit depth determine in a digital sample?",
+      "o": [
+        "Screen brightness only",
+        "Network topology",
+        "Number of representable levels",
+        "Cable length"
+      ],
+      "a": 2,
+      "e": "Greater bit depth allows more distinct digital values.",
+      "d": "Medium",
+      "topic": "Data Representation",
+      "slo": "Explain or apply concepts in data representation."
+    },
+    {
+      "id": "CS11CH01-202",
+      "q": "In a Grade 11 Computer Systems assessment, which type of signal varies continuously?",
+      "o": [
+        "Binary signal",
+        "Analog signal",
+        "Discrete digital code",
+        "Boolean variable"
+      ],
+      "a": 1,
+      "e": "An analog signal can take continuously varying values.",
+      "d": "Medium",
+      "topic": "Analog and Digital Signals",
+      "slo": "Explain or apply concepts in analog and digital signals."
+    },
+    {
+      "id": "CS11CH01-203",
+      "q": "In a Grade 11 Computer Systems assessment, which signal uses discrete levels?",
+      "o": [
+        "Mechanical pressure only",
+        "Digital signal",
+        "Continuously varying analog signal",
+        "Unmodulated light only"
+      ],
+      "a": 1,
+      "e": "Digital signals represent information using distinct levels.",
+      "d": "Medium",
+      "topic": "Analog and Digital Signals",
+      "slo": "Explain or apply concepts in analog and digital signals."
+    },
+    {
+      "id": "CS11CH01-204",
+      "q": "In a Grade 11 Computer Systems assessment, what are the two typical voltage states of a binary digital signal?",
+      "o": [
+        "Warm and cold",
+        "North and south",
+        "High and low",
+        "Fast and slow"
+      ],
+      "a": 2,
+      "e": "Binary logic is represented by high and low signal levels.",
+      "d": "Medium",
+      "topic": "Analog and Digital Signals",
+      "slo": "Explain or apply concepts in analog and digital signals."
+    },
+    {
+      "id": "CS11CH01-205",
+      "q": "In a Grade 11 Computer Systems assessment, which process measures an analog signal at regular intervals?",
+      "o": [
+        "Compilation",
+        "Routing",
+        "Hashing",
+        "Sampling"
+      ],
+      "a": 3,
+      "e": "Sampling takes measurements of a continuous signal over time.",
+      "d": "Medium",
+      "topic": "Analog and Digital Signals",
+      "slo": "Explain or apply concepts in analog and digital signals."
+    },
+    {
+      "id": "CS11CH01-206",
+      "q": "In a Grade 11 Computer Systems assessment, which device converts analog input into digital values?",
+      "o": [
+        "ADC",
+        "Repeater",
+        "Router",
+        "DAC"
+      ],
+      "a": 0,
+      "e": "An analog-to-digital converter converts analog signals into digital form.",
+      "d": "Medium",
+      "topic": "Analog and Digital Signals",
+      "slo": "Explain or apply concepts in analog and digital signals."
+    },
+    {
+      "id": "CS11CH01-207",
+      "q": "In a Grade 11 Computer Systems assessment, which device converts digital values to analog output?",
+      "o": [
+        "Firewall",
+        "DAC",
+        "Switch",
+        "ADC"
+      ],
+      "a": 1,
+      "e": "A digital-to-analog converter reconstructs analog output from digital values.",
+      "d": "Medium",
+      "topic": "Analog and Digital Signals",
+      "slo": "Explain or apply concepts in analog and digital signals."
+    },
+    {
+      "id": "CS11CH01-208",
+      "q": "In a Grade 11 Computer Systems assessment, which signal is generally easier to regenerate without accumulating noise?",
+      "o": [
+        "Continuous voltage",
+        "Unshielded sine wave",
+        "Analog signal only",
+        "Digital signal"
+      ],
+      "a": 3,
+      "e": "Digital receivers can restore discrete logic levels.",
+      "d": "Medium",
+      "topic": "Analog and Digital Signals",
+      "slo": "Explain or apply concepts in analog and digital signals."
+    },
+    {
+      "id": "CS11CH01-209",
+      "q": "In a Grade 11 Computer Systems assessment, what is noise in signal transmission?",
+      "o": [
+        "A storage address",
+        "A required logic level",
+        "A file extension",
+        "Unwanted disturbance of a signal"
+      ],
+      "a": 3,
+      "e": "Noise is an unwanted variation that can interfere with a signal.",
+      "d": "Medium",
+      "topic": "Analog and Digital Signals",
+      "slo": "Explain or apply concepts in analog and digital signals."
+    },
+    {
+      "id": "CS11CH01-210",
+      "q": "In a Grade 11 Computer Systems assessment, which waveform commonly illustrates an analog periodic signal?",
+      "o": [
+        "Sine wave",
+        "Flowchart",
+        "Binary square pulses only",
+        "Truth table"
+      ],
+      "a": 0,
+      "e": "A sine wave varies smoothly and continuously.",
+      "d": "Medium",
+      "topic": "Analog and Digital Signals",
+      "slo": "Explain or apply concepts in analog and digital signals."
+    },
+    {
+      "id": "CS11CH01-211",
+      "q": "In a Grade 11 Computer Systems assessment, which waveform commonly illustrates binary digital switching?",
+      "o": [
+        "Square wave",
+        "Parabola",
+        "Smooth sine wave only",
+        "Spiral"
+      ],
+      "a": 0,
+      "e": "Digital levels are often represented by square pulses.",
+      "d": "Medium",
+      "topic": "Analog and Digital Signals",
+      "slo": "Explain or apply concepts in analog and digital signals."
+    },
+    {
+      "id": "CS11CH01-212",
+      "q": "In a Grade 11 Computer Systems assessment, what does amplitude describe?",
+      "o": [
+        "Data format",
+        "Number of cables",
+        "Software phase",
+        "Signal magnitude"
+      ],
+      "a": 3,
+      "e": "Amplitude is the size or strength of a varying signal.",
+      "d": "Medium",
+      "topic": "Analog and Digital Signals",
+      "slo": "Explain or apply concepts in analog and digital signals."
+    },
+    {
+      "id": "CS11CH01-213",
+      "q": "In a Grade 11 Computer Systems assessment, what does frequency measure?",
+      "o": [
+        "Bits per byte",
+        "Network nodes",
+        "Cycles per second",
+        "Pixels per inch only"
+      ],
+      "a": 2,
+      "e": "Frequency is the number of periodic cycles each second.",
+      "d": "Medium",
+      "topic": "Analog and Digital Signals",
+      "slo": "Explain or apply concepts in analog and digital signals."
+    },
+    {
+      "id": "CS11CH01-214",
+      "q": "In a Grade 11 Computer Systems assessment, what is the unit of frequency?",
+      "o": [
+        "Hertz",
+        "Ohm per second",
+        "Pixel",
+        "Byte"
+      ],
+      "a": 0,
+      "e": "Hertz means cycles per second.",
+      "d": "Medium",
+      "topic": "Analog and Digital Signals",
+      "slo": "Explain or apply concepts in analog and digital signals."
+    },
+    {
+      "id": "CS11CH01-215",
+      "q": "In a Grade 11 Computer Systems assessment, what does a higher sampling rate capture?",
+      "o": [
+        "More logic gates",
+        "More measurements per second",
+        "Fewer bytes in every case",
+        "More network ports"
+      ],
+      "a": 1,
+      "e": "Higher sampling rates record more signal measurements each second.",
+      "d": "Medium",
+      "topic": "Analog and Digital Signals",
+      "slo": "Explain or apply concepts in analog and digital signals."
+    },
+    {
+      "id": "CS11CH01-216",
+      "q": "In a Grade 11 Computer Systems assessment, which theorem sets a minimum sampling rate above twice the highest signal frequency?",
+      "o": [
+        "Nyquist sampling theorem",
+        "Ohm law",
+        "De Morgan law",
+        "Pythagorean theorem"
+      ],
+      "a": 0,
+      "e": "Nyquist sampling requires a rate greater than twice the highest relevant frequency.",
+      "d": "Medium",
+      "topic": "Analog and Digital Signals",
+      "slo": "Explain or apply concepts in analog and digital signals."
+    },
+    {
+      "id": "CS11CH01-217",
+      "q": "In a Grade 11 Computer Systems assessment, what is aliasing?",
+      "o": [
+        "An image colour model",
+        "A software testing stage",
+        "High-frequency content appearing as a lower frequency after undersampling",
+        "A firewall rule"
+      ],
+      "a": 2,
+      "e": "Insufficient sampling can cause different frequencies to become indistinguishable.",
+      "d": "Medium",
+      "topic": "Analog and Digital Signals",
+      "slo": "Explain or apply concepts in analog and digital signals."
+    },
+    {
+      "id": "CS11CH01-218",
+      "q": "In a Grade 11 Computer Systems assessment, what is the purpose of an anti-aliasing filter before sampling?",
+      "o": [
+        "Increase network speed",
+        "Create truth tables",
+        "Generate encryption keys",
+        "Reduce frequencies above the sampling limit"
+      ],
+      "a": 3,
+      "e": "An anti-aliasing filter limits high-frequency input before sampling.",
+      "d": "Medium",
+      "topic": "Analog and Digital Signals",
+      "slo": "Explain or apply concepts in analog and digital signals."
+    },
+    {
+      "id": "CS11CH01-219",
+      "q": "In a Grade 11 Computer Systems assessment, what is a digital pulse?",
+      "o": [
+        "A brief transition or interval at a discrete logic level",
+        "A software patch",
+        "A network protocol",
+        "A continuous colour gradient"
+      ],
+      "a": 0,
+      "e": "Digital signals can carry data as pulses of defined levels.",
+      "d": "Medium",
+      "topic": "Analog and Digital Signals",
+      "slo": "Explain or apply concepts in analog and digital signals."
+    },
+    {
+      "id": "CS11CH01-220",
+      "q": "In a Grade 11 Computer Systems assessment, what does signal bandwidth describe?",
+      "o": [
+        "Size of a logic diagram",
+        "Count of CPU cores",
+        "Number of computer users",
+        "Range of frequencies a channel can carry"
+      ],
+      "a": 3,
+      "e": "Bandwidth can refer to a channel's supported frequency range.",
+      "d": "Medium",
+      "topic": "Analog and Digital Signals",
+      "slo": "Explain or apply concepts in analog and digital signals."
+    },
+    {
+      "id": "CS11CH01-221",
+      "q": "In a Grade 11 Computer Systems assessment, what is a principal advantage of digital data storage?",
+      "o": [
+        "It uses no memory",
+        "Copies can preserve exact bit patterns",
+        "It cannot be corrupted",
+        "It requires no electricity ever"
+      ],
+      "a": 1,
+      "e": "Digital data can be duplicated exactly when errors are absent.",
+      "d": "Medium",
+      "topic": "Analog and Digital Signals",
+      "slo": "Explain or apply concepts in analog and digital signals."
+    },
+    {
+      "id": "CS11CH01-222",
+      "q": "In a Grade 11 Computer Systems assessment, which gate outputs 1 only when all inputs are 1?",
+      "o": [
+        "OR",
+        "AND",
+        "XOR",
+        "NOT"
+      ],
+      "a": 1,
+      "e": "An AND gate is true only when every input is true.",
+      "d": "Medium",
+      "topic": "Digital Logic and Logic Gates",
+      "slo": "Explain or apply concepts in digital logic and logic gates."
+    },
+    {
+      "id": "CS11CH01-223",
+      "q": "In a Grade 11 Computer Systems assessment, which gate outputs 1 when at least one input is 1?",
+      "o": [
+        "AND",
+        "OR",
+        "XNOR",
+        "NOR"
+      ],
+      "a": 1,
+      "e": "An OR gate is true if any input is true.",
+      "d": "Medium",
+      "topic": "Digital Logic and Logic Gates",
+      "slo": "Explain or apply concepts in digital logic and logic gates."
+    },
+    {
+      "id": "CS11CH01-224",
+      "q": "In a Grade 11 Computer Systems assessment, which gate reverses a single binary input?",
+      "o": [
+        "AND",
+        "OR",
+        "XOR",
+        "NOT"
+      ],
+      "a": 3,
+      "e": "A NOT gate inverts 0 to 1 and 1 to 0.",
+      "d": "Medium",
+      "topic": "Digital Logic and Logic Gates",
+      "slo": "Explain or apply concepts in digital logic and logic gates."
+    },
+    {
+      "id": "CS11CH01-225",
+      "q": "In a Grade 11 Computer Systems assessment, what is the output of AND for inputs 1 and 0?",
+      "o": [
+        "2",
+        "0",
+        "Undefined",
+        "1"
+      ],
+      "a": 1,
+      "e": "AND outputs 1 only if both inputs are 1.",
+      "d": "Medium",
+      "topic": "Digital Logic and Logic Gates",
+      "slo": "Explain or apply concepts in digital logic and logic gates."
+    },
+    {
+      "id": "CS11CH01-226",
+      "q": "In a Grade 11 Computer Systems assessment, what is the output of OR for inputs 1 and 0?",
+      "o": [
+        "2",
+        "1",
+        "0",
+        "Undefined"
+      ],
+      "a": 1,
+      "e": "OR outputs 1 if at least one input is 1.",
+      "d": "Medium",
+      "topic": "Digital Logic and Logic Gates",
+      "slo": "Explain or apply concepts in digital logic and logic gates."
+    },
+    {
+      "id": "CS11CH01-227",
+      "q": "In a Grade 11 Computer Systems assessment, what is the output of NOT for input 0?",
+      "o": [
+        "0",
+        "Undefined",
+        "1",
+        "2"
+      ],
+      "a": 2,
+      "e": "NOT complements the input bit.",
+      "d": "Medium",
+      "topic": "Digital Logic and Logic Gates",
+      "slo": "Explain or apply concepts in digital logic and logic gates."
+    },
+    {
+      "id": "CS11CH01-228",
+      "q": "In a Grade 11 Computer Systems assessment, which gate is an AND gate followed by inversion?",
+      "o": [
+        "XNOR",
+        "NAND",
+        "XOR",
+        "NOR"
+      ],
+      "a": 1,
+      "e": "NAND means NOT AND.",
+      "d": "Medium",
+      "topic": "Digital Logic and Logic Gates",
+      "slo": "Explain or apply concepts in digital logic and logic gates."
+    },
+    {
+      "id": "CS11CH01-229",
+      "q": "In a Grade 11 Computer Systems assessment, which gate is an OR gate followed by inversion?",
+      "o": [
+        "NOR",
+        "NAND",
+        "AND",
+        "XOR"
+      ],
+      "a": 0,
+      "e": "NOR means NOT OR.",
+      "d": "Medium",
+      "topic": "Digital Logic and Logic Gates",
+      "slo": "Explain or apply concepts in digital logic and logic gates."
+    },
+    {
+      "id": "CS11CH01-230",
+      "q": "In a Grade 11 Computer Systems assessment, which gate outputs 1 when two inputs differ?",
+      "o": [
+        "XNOR",
+        "NOR",
+        "XOR",
+        "AND"
+      ],
+      "a": 2,
+      "e": "Exclusive OR is true when its inputs are different.",
+      "d": "Medium",
+      "topic": "Digital Logic and Logic Gates",
+      "slo": "Explain or apply concepts in digital logic and logic gates."
+    },
+    {
+      "id": "CS11CH01-231",
+      "q": "In a Grade 11 Computer Systems assessment, which gate outputs 1 when two inputs are equal?",
+      "o": [
+        "XNOR",
+        "XOR",
+        "NAND",
+        "OR"
+      ],
+      "a": 0,
+      "e": "Exclusive NOR is true when both inputs match.",
+      "d": "Medium",
+      "topic": "Digital Logic and Logic Gates",
+      "slo": "Explain or apply concepts in digital logic and logic gates."
+    },
+    {
+      "id": "CS11CH01-232",
+      "q": "In a Grade 11 Computer Systems assessment, what is XOR output for inputs 1 and 1?",
+      "o": [
+        "Undefined",
+        "1",
+        "0",
+        "2"
+      ],
+      "a": 2,
+      "e": "XOR outputs 0 for equal inputs.",
+      "d": "Medium",
+      "topic": "Digital Logic and Logic Gates",
+      "slo": "Explain or apply concepts in digital logic and logic gates."
+    },
+    {
+      "id": "CS11CH01-233",
+      "q": "In a Grade 11 Computer Systems assessment, what is XNOR output for inputs 0 and 0?",
+      "o": [
+        "1",
+        "Undefined",
+        "0",
+        "2"
+      ],
+      "a": 0,
+      "e": "XNOR outputs 1 for equal inputs.",
+      "d": "Medium",
+      "topic": "Digital Logic and Logic Gates",
+      "slo": "Explain or apply concepts in digital logic and logic gates."
+    },
+    {
+      "id": "CS11CH01-234",
+      "q": "In a Grade 11 Computer Systems assessment, what is NAND output for inputs 1 and 1?",
+      "o": [
+        "1",
+        "Undefined",
+        "0",
+        "2"
+      ],
+      "a": 2,
+      "e": "NAND negates the AND result, which is 1 here.",
+      "d": "Medium",
+      "topic": "Digital Logic and Logic Gates",
+      "slo": "Explain or apply concepts in digital logic and logic gates."
+    },
+    {
+      "id": "CS11CH01-235",
+      "q": "In a Grade 11 Computer Systems assessment, what is NOR output for inputs 0 and 0?",
+      "o": [
+        "2",
+        "0",
+        "Undefined",
+        "1"
+      ],
+      "a": 3,
+      "e": "NOR negates the OR result, which is 0 here.",
+      "d": "Medium",
+      "topic": "Digital Logic and Logic Gates",
+      "slo": "Explain or apply concepts in digital logic and logic gates."
+    },
+    {
+      "id": "CS11CH01-236",
+      "q": "In a Grade 11 Computer Systems assessment, which gates are individually functionally complete?",
+      "o": [
+        "NOT and XOR only",
+        "XOR and XNOR only",
+        "NAND and NOR",
+        "AND and OR only"
+      ],
+      "a": 2,
+      "e": "Either NAND or NOR gates can implement any Boolean function.",
+      "d": "Medium",
+      "topic": "Digital Logic and Logic Gates",
+      "slo": "Explain or apply concepts in digital logic and logic gates."
+    },
+    {
+      "id": "CS11CH01-237",
+      "q": "In a Grade 11 Computer Systems assessment, what is a truth table?",
+      "o": [
+        "A list of IP addresses",
+        "A storage format",
+        "A table of outputs for every input combination",
+        "A software release schedule"
+      ],
+      "a": 2,
+      "e": "Truth tables enumerate possible logic inputs and outputs.",
+      "d": "Medium",
+      "topic": "Digital Logic and Logic Gates",
+      "slo": "Explain or apply concepts in digital logic and logic gates."
+    },
+    {
+      "id": "CS11CH01-238",
+      "q": "In a Grade 11 Computer Systems assessment, how many input combinations exist for two Boolean variables?",
+      "o": [
+        "8",
+        "6",
+        "2",
+        "4"
+      ],
+      "a": 3,
+      "e": "Two independent binary variables have 2 squared combinations.",
+      "d": "Medium",
+      "topic": "Digital Logic and Logic Gates",
+      "slo": "Explain or apply concepts in digital logic and logic gates."
+    },
+    {
+      "id": "CS11CH01-239",
+      "q": "In a Grade 11 Computer Systems assessment, how many input combinations exist for three Boolean variables?",
+      "o": [
+        "6",
+        "8",
+        "16",
+        "3"
+      ],
+      "a": 1,
+      "e": "Three binary variables have 2 cubed combinations.",
+      "d": "Medium",
+      "topic": "Digital Logic and Logic Gates",
+      "slo": "Explain or apply concepts in digital logic and logic gates."
+    },
+    {
+      "id": "CS11CH01-240",
+      "q": "In a Grade 11 Computer Systems assessment, what is Boolean algebra used to manipulate?",
+      "o": [
+        "Physical cable lengths",
+        "Audio pitch only",
+        "Logical expressions",
+        "Image brightness only"
+      ],
+      "a": 2,
+      "e": "Boolean algebra represents and simplifies logical relationships.",
+      "d": "Medium",
+      "topic": "Digital Logic and Logic Gates",
+      "slo": "Explain or apply concepts in digital logic and logic gates."
+    },
+    {
+      "id": "CS11CH01-241",
+      "q": "In a Grade 11 Computer Systems assessment, which Boolean identity states A AND 1 equals A?",
+      "o": [
+        "De Morgan law",
+        "Complement law",
+        "Absorption law",
+        "Identity law"
+      ],
+      "a": 3,
+      "e": "One is the identity element for AND.",
+      "d": "Medium",
+      "topic": "Digital Logic and Logic Gates",
+      "slo": "Explain or apply concepts in digital logic and logic gates."
+    },
+    {
+      "id": "CS11CH01-242",
+      "q": "In a Grade 11 Computer Systems assessment, which Boolean identity states A OR 0 equals A?",
+      "o": [
+        "Distributive law",
+        "Identity law",
+        "Involution law",
+        "Complement law"
+      ],
+      "a": 1,
+      "e": "Zero is the identity element for OR.",
+      "d": "Medium",
+      "topic": "Digital Logic and Logic Gates",
+      "slo": "Explain or apply concepts in digital logic and logic gates."
+    },
+    {
+      "id": "CS11CH01-243",
+      "q": "In a Grade 11 Computer Systems assessment, what is A AND 0?",
+      "o": [
+        "0",
+        "NOT A",
+        "1",
+        "A"
+      ],
+      "a": 0,
+      "e": "An AND expression with a zero input is zero.",
+      "d": "Medium",
+      "topic": "Digital Logic and Logic Gates",
+      "slo": "Explain or apply concepts in digital logic and logic gates."
+    },
+    {
+      "id": "CS11CH01-244",
+      "q": "In a Grade 11 Computer Systems assessment, what is A OR 1?",
+      "o": [
+        "NOT A",
+        "A",
+        "1",
+        "0"
+      ],
+      "a": 2,
+      "e": "An OR expression with a one input is one.",
+      "d": "Medium",
+      "topic": "Digital Logic and Logic Gates",
+      "slo": "Explain or apply concepts in digital logic and logic gates."
+    },
+    {
+      "id": "CS11CH01-245",
+      "q": "In a Grade 11 Computer Systems assessment, what is A AND NOT A?",
+      "o": [
+        "NOT A",
+        "A",
+        "0",
+        "1"
+      ],
+      "a": 2,
+      "e": "A variable and its complement cannot both be true.",
+      "d": "Medium",
+      "topic": "Digital Logic and Logic Gates",
+      "slo": "Explain or apply concepts in digital logic and logic gates."
+    },
+    {
+      "id": "CS11CH01-246",
+      "q": "In a Grade 11 Computer Systems assessment, what is A OR NOT A?",
+      "o": [
+        "A",
+        "0",
+        "NOT A",
+        "1"
+      ],
+      "a": 3,
+      "e": "A variable or its complement must be true.",
+      "d": "Medium",
+      "topic": "Digital Logic and Logic Gates",
+      "slo": "Explain or apply concepts in digital logic and logic gates."
+    },
+    {
+      "id": "CS11CH01-247",
+      "q": "In a Grade 11 Computer Systems assessment, what does De Morgan's law say about NOT(A AND B)?",
+      "o": [
+        "NOT A AND NOT B",
+        "NOT A OR NOT B",
+        "A AND B",
+        "A OR B"
+      ],
+      "a": 1,
+      "e": "Negating an AND changes it to an OR of complemented inputs.",
+      "d": "Medium",
+      "topic": "Digital Logic and Logic Gates",
+      "slo": "Explain or apply concepts in digital logic and logic gates."
+    },
+    {
+      "id": "CS11CH01-248",
+      "q": "In a Grade 11 Computer Systems assessment, what does De Morgan's law say about NOT(A OR B)?",
+      "o": [
+        "A AND B",
+        "A OR B",
+        "NOT A OR NOT B",
+        "NOT A AND NOT B"
+      ],
+      "a": 3,
+      "e": "Negating an OR changes it to an AND of complemented inputs.",
+      "d": "Medium",
+      "topic": "Digital Logic and Logic Gates",
+      "slo": "Explain or apply concepts in digital logic and logic gates."
+    },
+    {
+      "id": "CS11CH01-249",
+      "q": "In a Grade 11 Computer Systems assessment, what is a Karnaugh map primarily used for?",
+      "o": [
+        "Encrypting files",
+        "Designing network cables",
+        "Editing audio",
+        "Simplifying Boolean expressions"
+      ],
+      "a": 3,
+      "e": "Karnaugh maps group adjacent minterms to reduce logic expressions.",
+      "d": "Medium",
+      "topic": "Digital Logic and Logic Gates",
+      "slo": "Explain or apply concepts in digital logic and logic gates."
+    },
+    {
+      "id": "CS11CH01-250",
+      "q": "In a Grade 11 Computer Systems assessment, how many cells are in a three-variable Karnaugh map?",
+      "o": [
+        "4",
+        "8",
+        "6",
+        "16"
+      ],
+      "a": 1,
+      "e": "A K-map has one cell per binary input combination.",
+      "d": "Medium",
+      "topic": "Digital Logic and Logic Gates",
+      "slo": "Explain or apply concepts in digital logic and logic gates."
+    },
+    {
+      "id": "CS11CH01-251",
+      "q": "In a Grade 11 Computer Systems assessment, what grouping sizes are allowed in a Karnaugh map?",
+      "o": [
+        "Any number",
+        "Powers of two",
+        "Only odd numbers",
+        "Prime numbers only"
+      ],
+      "a": 1,
+      "e": "K-map groups use sizes such as 1, 2, 4 and 8.",
+      "d": "Medium",
+      "topic": "Digital Logic and Logic Gates",
+      "slo": "Explain or apply concepts in digital logic and logic gates."
+    },
+    {
+      "id": "CS11CH01-252",
+      "q": "In a Grade 11 Computer Systems assessment, what is the output of a half adder sum bit?",
+      "o": [
+        "NOT A",
+        "A AND B",
+        "A OR B",
+        "A XOR B"
+      ],
+      "a": 3,
+      "e": "A half adder's sum output is the XOR of its two inputs.",
+      "d": "Medium",
+      "topic": "Digital Logic and Logic Gates",
+      "slo": "Explain or apply concepts in digital logic and logic gates."
+    },
+    {
+      "id": "CS11CH01-253",
+      "q": "In a Grade 11 Computer Systems assessment, what is the output of a half adder carry bit?",
+      "o": [
+        "A AND B",
+        "A XOR B",
+        "NOT B",
+        "A OR B"
+      ],
+      "a": 0,
+      "e": "A half adder generates carry when both inputs are 1.",
+      "d": "Medium",
+      "topic": "Digital Logic and Logic Gates",
+      "slo": "Explain or apply concepts in digital logic and logic gates."
+    },
+    {
+      "id": "CS11CH01-254",
+      "q": "In a Grade 11 Computer Systems assessment, what is the main difference between a full adder and a half adder?",
+      "o": [
+        "A full adder only subtracts",
+        "A full adder has no outputs",
+        "A half adder accepts three inputs",
+        "A full adder accepts a carry-in"
+      ],
+      "a": 3,
+      "e": "A full adder adds two bits plus an incoming carry.",
+      "d": "Medium",
+      "topic": "Digital Logic and Logic Gates",
+      "slo": "Explain or apply concepts in digital logic and logic gates."
+    },
+    {
+      "id": "CS11CH01-255",
+      "q": "In a Grade 11 Computer Systems assessment, which circuit stores one bit of state?",
+      "o": [
+        "AND gate alone",
+        "Adder",
+        "Decoder only",
+        "Flip-flop"
+      ],
+      "a": 3,
+      "e": "A flip-flop is a bistable sequential storage element.",
+      "d": "Medium",
+      "topic": "Digital Logic and Logic Gates",
+      "slo": "Explain or apply concepts in digital logic and logic gates."
+    },
+    {
+      "id": "CS11CH01-256",
+      "q": "In a Grade 11 Computer Systems assessment, what distinguishes sequential logic from combinational logic?",
+      "o": [
+        "Sequential logic has no memory",
+        "Sequential logic cannot use gates",
+        "Sequential logic depends on stored state",
+        "Combinational logic always needs a clock"
+      ],
+      "a": 2,
+      "e": "Sequential circuits have memory of earlier states.",
+      "d": "Medium",
+      "topic": "Digital Logic and Logic Gates",
+      "slo": "Explain or apply concepts in digital logic and logic gates."
+    },
+    {
+      "id": "CS11CH01-257",
+      "q": "In a Grade 11 Computer Systems assessment, what does SDLC stand for?",
+      "o": [
+        "Secure Digital Logic Circuit",
+        "Software Development Life Cycle",
+        "Software Design Language Compiler",
+        "System Data Link Code"
+      ],
+      "a": 1,
+      "e": "SDLC names the process of developing software through stages.",
+      "d": "Medium",
+      "topic": "Software Development Life Cycle",
+      "slo": "Explain or apply concepts in software development life cycle."
+    },
+    {
+      "id": "CS11CH01-258",
+      "q": "In a Grade 11 Computer Systems assessment, which SDLC phase identifies what users need?",
+      "o": [
+        "Requirements analysis",
+        "Maintenance",
+        "Deployment",
+        "Retirement"
+      ],
+      "a": 0,
+      "e": "Requirements analysis defines the system's expected behaviour and constraints.",
+      "d": "Medium",
+      "topic": "Software Development Life Cycle",
+      "slo": "Explain or apply concepts in software development life cycle."
+    },
+    {
+      "id": "CS11CH01-259",
+      "q": "In a Grade 11 Computer Systems assessment, which SDLC phase creates the solution architecture?",
+      "o": [
+        "User training only",
+        "Design",
+        "Deployment",
+        "Maintenance"
+      ],
+      "a": 1,
+      "e": "Design turns requirements into a technical plan.",
+      "d": "Medium",
+      "topic": "Software Development Life Cycle",
+      "slo": "Explain or apply concepts in software development life cycle."
+    },
+    {
+      "id": "CS11CH01-260",
+      "q": "In a Grade 11 Computer Systems assessment, which SDLC phase involves writing program code?",
+      "o": [
+        "Requirements elicitation",
+        "Retirement",
+        "Feasibility analysis",
+        "Implementation"
+      ],
+      "a": 3,
+      "e": "Implementation develops the software according to its design.",
+      "d": "Medium",
+      "topic": "Software Development Life Cycle",
+      "slo": "Explain or apply concepts in software development life cycle."
+    },
+    {
+      "id": "CS11CH01-261",
+      "q": "In a Grade 11 Computer Systems assessment, which SDLC phase checks software against expected behaviour?",
+      "o": [
+        "Retirement",
+        "Procurement",
+        "Marketing",
+        "Testing"
+      ],
+      "a": 3,
+      "e": "Testing detects defects and checks requirements.",
+      "d": "Medium",
+      "topic": "Software Development Life Cycle",
+      "slo": "Explain or apply concepts in software development life cycle."
+    },
+    {
+      "id": "CS11CH01-262",
+      "q": "In a Grade 11 Computer Systems assessment, which SDLC phase releases the system for real use?",
+      "o": [
+        "Deployment",
+        "Unit testing only",
+        "Initial planning",
+        "Requirements gathering"
+      ],
+      "a": 0,
+      "e": "Deployment places the software in its target environment.",
+      "d": "Medium",
+      "topic": "Software Development Life Cycle",
+      "slo": "Explain or apply concepts in software development life cycle."
+    },
+    {
+      "id": "CS11CH01-263",
+      "q": "In a Grade 11 Computer Systems assessment, which SDLC phase fixes defects after release?",
+      "o": [
+        "Feasibility only",
+        "Maintenance",
+        "Initial design only",
+        "Requirements drafting only"
+      ],
+      "a": 1,
+      "e": "Maintenance updates and repairs software after deployment.",
+      "d": "Medium",
+      "topic": "Software Development Life Cycle",
+      "slo": "Explain or apply concepts in software development life cycle."
+    },
+    {
+      "id": "CS11CH01-264",
+      "q": "In a Grade 11 Computer Systems assessment, which SDLC model follows largely sequential stages?",
+      "o": [
+        "Spiral",
+        "Kanban",
+        "Scrum",
+        "Waterfall"
+      ],
+      "a": 3,
+      "e": "Waterfall generally proceeds through planned stages in sequence.",
+      "d": "Medium",
+      "topic": "Software Development Life Cycle",
+      "slo": "Explain or apply concepts in software development life cycle."
+    },
+    {
+      "id": "CS11CH01-265",
+      "q": "In a Grade 11 Computer Systems assessment, which SDLC approach uses short iterative increments?",
+      "o": [
+        "Strict waterfall only",
+        "One-pass design",
+        "Agile",
+        "Big bang only"
+      ],
+      "a": 2,
+      "e": "Agile methods deliver and refine software iteratively.",
+      "d": "Medium",
+      "topic": "Software Development Life Cycle",
+      "slo": "Explain or apply concepts in software development life cycle."
+    },
+    {
+      "id": "CS11CH01-266",
+      "q": "In a Grade 11 Computer Systems assessment, what is a sprint in Scrum?",
+      "o": [
+        "A network cable",
+        "A binary digit",
+        "A time-boxed iteration",
+        "A hardware fault"
+      ],
+      "a": 2,
+      "e": "Scrum teams work in short fixed-length iterations called sprints.",
+      "d": "Medium",
+      "topic": "Software Development Life Cycle",
+      "slo": "Explain or apply concepts in software development life cycle."
+    },
+    {
+      "id": "CS11CH01-267",
+      "q": "In a Grade 11 Computer Systems assessment, who prioritizes the product backlog in Scrum?",
+      "o": [
+        "Database engine",
+        "End user only",
+        "Network administrator",
+        "Product owner"
+      ],
+      "a": 3,
+      "e": "The product owner is accountable for ordering the product backlog.",
+      "d": "Medium",
+      "topic": "Software Development Life Cycle",
+      "slo": "Explain or apply concepts in software development life cycle."
+    },
+    {
+      "id": "CS11CH01-268",
+      "q": "In a Grade 11 Computer Systems assessment, what is a product backlog?",
+      "o": [
+        "Prioritized list of desired product work",
+        "A list of broken routers",
+        "A compiled program",
+        "An image file"
+      ],
+      "a": 0,
+      "e": "A backlog records features, fixes and other desired work.",
+      "d": "Medium",
+      "topic": "Software Development Life Cycle",
+      "slo": "Explain or apply concepts in software development life cycle."
+    },
+    {
+      "id": "CS11CH01-269",
+      "q": "In a Grade 11 Computer Systems assessment, what is a prototype?",
+      "o": [
+        "A final production server only",
+        "An encrypted password",
+        "Early model used to explore requirements or design",
+        "A logic gate"
+      ],
+      "a": 2,
+      "e": "Prototypes help stakeholders evaluate ideas before full development.",
+      "d": "Medium",
+      "topic": "Software Development Life Cycle",
+      "slo": "Explain or apply concepts in software development life cycle."
+    },
+    {
+      "id": "CS11CH01-270",
+      "q": "In a Grade 11 Computer Systems assessment, what is feasibility analysis used for?",
+      "o": [
+        "Assessing whether a project is practical",
+        "Counting network packets",
+        "Measuring screen resolution",
+        "Selecting logic output"
+      ],
+      "a": 0,
+      "e": "Feasibility examines practical, economic and technical viability.",
+      "d": "Medium",
+      "topic": "Software Development Life Cycle",
+      "slo": "Explain or apply concepts in software development life cycle."
+    },
+    {
+      "id": "CS11CH01-271",
+      "q": "In a Grade 11 Computer Systems assessment, which feasibility dimension examines costs and benefits?",
+      "o": [
+        "Economic feasibility",
+        "Technical feasibility only",
+        "Pixel feasibility",
+        "Legal syntax"
+      ],
+      "a": 0,
+      "e": "Economic feasibility evaluates whether benefits justify costs.",
+      "d": "Medium",
+      "topic": "Software Development Life Cycle",
+      "slo": "Explain or apply concepts in software development life cycle."
+    },
+    {
+      "id": "CS11CH01-272",
+      "q": "In a Grade 11 Computer Systems assessment, which feasibility dimension checks technology and expertise?",
+      "o": [
+        "Network topology",
+        "Economic feasibility only",
+        "Colour feasibility",
+        "Technical feasibility"
+      ],
+      "a": 3,
+      "e": "Technical feasibility assesses tools, infrastructure and skills.",
+      "d": "Medium",
+      "topic": "Software Development Life Cycle",
+      "slo": "Explain or apply concepts in software development life cycle."
+    },
+    {
+      "id": "CS11CH01-273",
+      "q": "In a Grade 11 Computer Systems assessment, what does a functional requirement describe?",
+      "o": [
+        "The office wall colour",
+        "Only the developer salary",
+        "What a system must do",
+        "A cable connector"
+      ],
+      "a": 2,
+      "e": "Functional requirements specify system features and behaviour.",
+      "d": "Medium",
+      "topic": "Software Development Life Cycle",
+      "slo": "Explain or apply concepts in software development life cycle."
+    },
+    {
+      "id": "CS11CH01-274",
+      "q": "In a Grade 11 Computer Systems assessment, what does a nonfunctional requirement describe?",
+      "o": [
+        "A Boolean variable",
+        "A quality or constraint such as performance",
+        "A single user action only",
+        "A network IP address"
+      ],
+      "a": 1,
+      "e": "Nonfunctional requirements specify attributes such as security or speed.",
+      "d": "Medium",
+      "topic": "Software Development Life Cycle",
+      "slo": "Explain or apply concepts in software development life cycle."
+    },
+    {
+      "id": "CS11CH01-275",
+      "q": "In a Grade 11 Computer Systems assessment, what is unit testing?",
+      "o": [
+        "Testing production deployment only",
+        "Testing individual components",
+        "Testing an entire city network",
+        "Testing only customer opinions"
+      ],
+      "a": 1,
+      "e": "Unit tests check small isolated functions or modules.",
+      "d": "Medium",
+      "topic": "Software Development Life Cycle",
+      "slo": "Explain or apply concepts in software development life cycle."
+    },
+    {
+      "id": "CS11CH01-276",
+      "q": "In a Grade 11 Computer Systems assessment, what is integration testing?",
+      "o": [
+        "Testing only physical switches",
+        "Testing screen colour",
+        "Testing interactions between combined modules",
+        "Testing only one line of code"
+      ],
+      "a": 2,
+      "e": "Integration testing checks that components work together.",
+      "d": "Medium",
+      "topic": "Software Development Life Cycle",
+      "slo": "Explain or apply concepts in software development life cycle."
+    },
+    {
+      "id": "CS11CH01-277",
+      "q": "In a Grade 11 Computer Systems assessment, what is system testing?",
+      "o": [
+        "Testing only a prototype sketch",
+        "Testing the complete integrated application",
+        "Testing only one variable",
+        "Testing only a router port"
+      ],
+      "a": 1,
+      "e": "System testing evaluates the software as a whole.",
+      "d": "Medium",
+      "topic": "Software Development Life Cycle",
+      "slo": "Explain or apply concepts in software development life cycle."
+    },
+    {
+      "id": "CS11CH01-278",
+      "q": "In a Grade 11 Computer Systems assessment, what is acceptance testing?",
+      "o": [
+        "Testing a single gate",
+        "Testing signal amplitude",
+        "Testing only compiler syntax",
+        "Checking whether software meets user acceptance criteria"
+      ],
+      "a": 3,
+      "e": "Acceptance testing validates the product against stakeholder needs.",
+      "d": "Medium",
+      "topic": "Software Development Life Cycle",
+      "slo": "Explain or apply concepts in software development life cycle."
+    },
+    {
+      "id": "CS11CH01-279",
+      "q": "In a Grade 11 Computer Systems assessment, what is regression testing?",
+      "o": [
+        "Deleting old test cases",
+        "Testing only newly purchased hardware",
+        "Rewriting requirements",
+        "Checking that changes did not break existing functions"
+      ],
+      "a": 3,
+      "e": "Regression tests protect previously working behaviour.",
+      "d": "Medium",
+      "topic": "Software Development Life Cycle",
+      "slo": "Explain or apply concepts in software development life cycle."
+    },
+    {
+      "id": "CS11CH01-280",
+      "q": "In a Grade 11 Computer Systems assessment, what is version control used for?",
+      "o": [
+        "Measuring network voltage",
+        "Tracking changes to source files",
+        "Increasing monitor brightness",
+        "Reducing binary digits"
+      ],
+      "a": 1,
+      "e": "Version control records and manages revisions to code.",
+      "d": "Medium",
+      "topic": "Software Development Life Cycle",
+      "slo": "Explain or apply concepts in software development life cycle."
+    },
+    {
+      "id": "CS11CH01-281",
+      "q": "In a Grade 11 Computer Systems assessment, what is the main purpose of software documentation?",
+      "o": [
+        "Replacing all testing",
+        "Increasing CPU frequency",
+        "Converting analog signals",
+        "Communicating system design and usage"
+      ],
+      "a": 3,
+      "e": "Documentation helps developers, users and maintainers understand software.",
+      "d": "Medium",
+      "topic": "Software Development Life Cycle",
+      "slo": "Explain or apply concepts in software development life cycle."
+    },
+    {
+      "id": "CS11CH01-282",
+      "q": "In a Grade 11 Computer Systems assessment, what is a network topology?",
+      "o": [
+        "Arrangement of devices and links in a network",
+        "A file compression algorithm",
+        "A colour model",
+        "A programming language"
+      ],
+      "a": 0,
+      "e": "Topology describes how network nodes are connected.",
+      "d": "Medium",
+      "topic": "Network Topology",
+      "slo": "Explain or apply concepts in network topology."
+    },
+    {
+      "id": "CS11CH01-283",
+      "q": "In a Grade 11 Computer Systems assessment, which topology connects devices to a central switch or hub?",
+      "o": [
+        "Bus",
+        "Ring",
+        "Star",
+        "Mesh"
+      ],
+      "a": 2,
+      "e": "In a star topology each endpoint connects to a central device.",
+      "d": "Medium",
+      "topic": "Network Topology",
+      "slo": "Explain or apply concepts in network topology."
+    },
+    {
+      "id": "CS11CH01-284",
+      "q": "In a Grade 11 Computer Systems assessment, which topology uses a single shared backbone cable?",
+      "o": [
+        "Mesh",
+        "Star",
+        "Bus",
+        "Tree"
+      ],
+      "a": 2,
+      "e": "A bus topology shares a common transmission backbone.",
+      "d": "Medium",
+      "topic": "Network Topology",
+      "slo": "Explain or apply concepts in network topology."
+    },
+    {
+      "id": "CS11CH01-285",
+      "q": "In a Grade 11 Computer Systems assessment, which topology connects nodes in a closed loop?",
+      "o": [
+        "Ring",
+        "Point-to-point only",
+        "Bus",
+        "Star"
+      ],
+      "a": 0,
+      "e": "Ring nodes form a circular path.",
+      "d": "Medium",
+      "topic": "Network Topology",
+      "slo": "Explain or apply concepts in network topology."
+    },
+    {
+      "id": "CS11CH01-286",
+      "q": "In a Grade 11 Computer Systems assessment, which topology has many interconnections and alternative paths?",
+      "o": [
+        "Single-star only",
+        "Line only",
+        "Bus",
+        "Mesh"
+      ],
+      "a": 3,
+      "e": "Mesh networks provide multiple routes between nodes.",
+      "d": "Medium",
+      "topic": "Network Topology",
+      "slo": "Explain or apply concepts in network topology."
+    },
+    {
+      "id": "CS11CH01-287",
+      "q": "In a Grade 11 Computer Systems assessment, which topology combines hierarchical star-like branches?",
+      "o": [
+        "Bus",
+        "Ring",
+        "Point-to-point",
+        "Tree"
+      ],
+      "a": 3,
+      "e": "Tree topology organizes devices into hierarchical branches.",
+      "d": "Medium",
+      "topic": "Network Topology",
+      "slo": "Explain or apply concepts in network topology."
+    },
+    {
+      "id": "CS11CH01-288",
+      "q": "In a Grade 11 Computer Systems assessment, which topology combines two or more topology types?",
+      "o": [
+        "Hybrid",
+        "Pure bus",
+        "Pure ring",
+        "Single link"
+      ],
+      "a": 0,
+      "e": "Hybrid networks integrate different topology structures.",
+      "d": "Medium",
+      "topic": "Network Topology",
+      "slo": "Explain or apply concepts in network topology."
+    },
+    {
+      "id": "CS11CH01-289",
+      "q": "In a Grade 11 Computer Systems assessment, what is a key weakness of a star topology?",
+      "o": [
+        "It requires a closed loop",
+        "No new device can be added",
+        "Every cable is shared by all nodes",
+        "Failure of central device can disrupt the network"
+      ],
+      "a": 3,
+      "e": "A star depends on its central connecting device.",
+      "d": "Medium",
+      "topic": "Network Topology",
+      "slo": "Explain or apply concepts in network topology."
+    },
+    {
+      "id": "CS11CH01-290",
+      "q": "In a Grade 11 Computer Systems assessment, what is a common drawback of a full mesh topology?",
+      "o": [
+        "Only one device can connect",
+        "Many cables and ports are required",
+        "No redundancy exists",
+        "All data must use one backbone"
+      ],
+      "a": 1,
+      "e": "Full mesh links grow rapidly as node count increases.",
+      "d": "Medium",
+      "topic": "Network Topology",
+      "slo": "Explain or apply concepts in network topology."
+    },
+    {
+      "id": "CS11CH01-291",
+      "q": "In a Grade 11 Computer Systems assessment, how many links connect 4 nodes in a full mesh?",
+      "o": [
+        "8",
+        "4",
+        "6",
+        "12"
+      ],
+      "a": 2,
+      "e": "A full mesh has n(n-1)/2 links; for four nodes this is six.",
+      "d": "Medium",
+      "topic": "Network Topology",
+      "slo": "Explain or apply concepts in network topology."
+    },
+    {
+      "id": "CS11CH01-292",
+      "q": "In a Grade 11 Computer Systems assessment, how many links connect 5 nodes in a full mesh?",
+      "o": [
+        "10",
+        "20",
+        "15",
+        "5"
+      ],
+      "a": 0,
+      "e": "Five nodes require 5×4/2 = 10 direct links.",
+      "d": "Medium",
+      "topic": "Network Topology",
+      "slo": "Explain or apply concepts in network topology."
+    },
+    {
+      "id": "CS11CH01-293",
+      "q": "In a Grade 11 Computer Systems assessment, which device forwards frames using MAC addresses?",
+      "o": [
+        "Modem only",
+        "Monitor",
+        "Switch",
+        "Repeater"
+      ],
+      "a": 2,
+      "e": "Ethernet switches learn MAC addresses to forward frames.",
+      "d": "Medium",
+      "topic": "Network Topology",
+      "slo": "Explain or apply concepts in network topology."
+    },
+    {
+      "id": "CS11CH01-294",
+      "q": "In a Grade 11 Computer Systems assessment, which device connects different IP networks?",
+      "o": [
+        "Keyboard",
+        "Router",
+        "Printer",
+        "Hub only"
+      ],
+      "a": 1,
+      "e": "Routers forward packets between IP networks.",
+      "d": "Medium",
+      "topic": "Network Topology",
+      "slo": "Explain or apply concepts in network topology."
+    },
+    {
+      "id": "CS11CH01-295",
+      "q": "In a Grade 11 Computer Systems assessment, which device typically broadcasts incoming data to all its ports?",
+      "o": [
+        "Managed switch",
+        "Router",
+        "Hub",
+        "Firewall"
+      ],
+      "a": 2,
+      "e": "A basic hub repeats incoming signals to all other ports.",
+      "d": "Medium",
+      "topic": "Network Topology",
+      "slo": "Explain or apply concepts in network topology."
+    },
+    {
+      "id": "CS11CH01-296",
+      "q": "In a Grade 11 Computer Systems assessment, what is a MAC address?",
+      "o": [
+        "A file type",
+        "Hardware-layer network interface identifier",
+        "A website password",
+        "A logic formula"
+      ],
+      "a": 1,
+      "e": "MAC addresses identify interfaces on local data-link networks.",
+      "d": "Medium",
+      "topic": "Network Topology",
+      "slo": "Explain or apply concepts in network topology."
+    },
+    {
+      "id": "CS11CH01-297",
+      "q": "In a Grade 11 Computer Systems assessment, what is an IP address used for?",
+      "o": [
+        "Simplifying Boolean expressions",
+        "Encoding image colours",
+        "Identifying an interface for network-layer communication",
+        "Storing audio samples"
+      ],
+      "a": 2,
+      "e": "IP addresses support routing and delivery of network packets.",
+      "d": "Medium",
+      "topic": "Network Topology",
+      "slo": "Explain or apply concepts in network topology."
+    },
+    {
+      "id": "CS11CH01-298",
+      "q": "In a Grade 11 Computer Systems assessment, what does LAN stand for?",
+      "o": [
+        "Linked Application Network",
+        "Large Analog Node",
+        "Local Area Network",
+        "Logical Access Number"
+      ],
+      "a": 2,
+      "e": "A LAN covers a limited local area.",
+      "d": "Medium",
+      "topic": "Network Topology",
+      "slo": "Explain or apply concepts in network topology."
+    },
+    {
+      "id": "CS11CH01-299",
+      "q": "In a Grade 11 Computer Systems assessment, what does WAN stand for?",
+      "o": [
+        "Web Application Node",
+        "Wireless Analog Number",
+        "Wired Access Name",
+        "Wide Area Network"
+      ],
+      "a": 3,
+      "e": "A WAN spans larger geographical areas.",
+      "d": "Medium",
+      "topic": "Network Topology",
+      "slo": "Explain or apply concepts in network topology."
+    },
+    {
+      "id": "CS11CH01-300",
+      "q": "In a Grade 11 Computer Systems assessment, what is network bandwidth commonly measured in?",
+      "o": [
+        "Characters per page",
+        "Bits per second",
+        "Pixels per inch",
+        "Degrees Celsius"
+      ],
+      "a": 1,
+      "e": "Network data rates are often expressed in bps.",
+      "d": "Medium",
+      "topic": "Network Topology",
+      "slo": "Explain or apply concepts in network topology."
+    }
+  ]
+}
